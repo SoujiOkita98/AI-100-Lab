@@ -1,0 +1,86 @@
+[
+  {
+    "slug": "decagon",
+    "funding_rounds": [
+      {
+        "stage": "Seed",
+        "date": "2024-06",
+        "amount_m": 5,
+        "lead_investors": [
+          "Andreessen Horowitz"
+        ],
+        "source": "https://www.globenewswire.com/news-release/2024/06/18/2900447/0/en/"
+      },
+      {
+        "stage": "Series A",
+        "date": "2024-06",
+        "amount_m": 30,
+        "lead_investors": [
+          "Accel"
+        ],
+        "source": "https://decagon.ai/resources/series-a"
+      },
+      {
+        "stage": "Series B",
+        "date": "2024-10",
+        "amount_m": 65,
+        "lead_investors": [
+          "Bain Capital Ventures"
+        ],
+        "source": "https://decagon.ai/resources/series-b"
+      },
+      {
+        "stage": "Series C",
+        "date": "2025-06",
+        "amount_m": 131,
+        "valuation_m": 1500,
+        "lead_investors": [
+          "Accel",
+          "Andreessen Horowitz"
+        ],
+        "source": "https://www.businesswire.com/news/home/20250623894798/en/"
+      },
+      {
+        "stage": "Series D",
+        "date": "2026-01",
+        "amount_m": 250,
+        "valuation_m": 4500,
+        "lead_investors": [
+          "Coatue Management",
+          "Index Ventures"
+        ],
+        "source": "https://finance.yahoo.com/news/decagon-raises-250-million-valuation-161223745.html"
+      }
+    ]
+  },
+  {
+    "slug": "sunrise-ai",
+    "funding_rounds": [
+      {
+        "stage": "Strategic Round",
+        "date": "2024-07",
+        "amount_m": 139,
+        "lead_investors": [
+          "Huaxu Capital (Sany Group)",
+          "4Paradigm",
+          "Yoozoo Interactive"
+        ],
+        "source": "https://www.dealstreetasia.com/stories/sunrise-new-round-449979",
+        "notes": "SenseTime AI chip spinoff. ~1B CNY first tranche."
+      },
+      {
+        "stage": "Series A",
+        "date": "2025-07",
+        "amount_m": 139,
+        "lead_investors": [
+          "Huaxu Capital",
+          "4Paradigm",
+          "IDG Capital",
+          "Gaorong Ventures",
+          "CICC Capital"
+        ],
+        "source": "https://www.caproasia.com/2025/07/20/hong-kong-listed-china-ai-company-7-8-billion-sensetime-2024-spinoff-gpu-chip-developer-sunrise-raised-139-million-series-a/"
+      }
+    ]
+  }
+]

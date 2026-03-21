@@ -1,0 +1,592 @@
+[
+  {
+    "slug": "unitree-robotics",
+    "funding_rounds": [
+      {
+        "stage": "Series B",
+        "date": "2024-02",
+        "amount_m": 139,
+        "lead_investors": [
+          "Source Code Capital",
+          "Goldstone Investment",
+          "Meituan"
+        ],
+        "source": "https://www.dealstreetasia.com/stories/unitree-robotics-funding-384816"
+      },
+      {
+        "stage": "Series C",
+        "date": "2025-06",
+        "amount_m": 96,
+        "valuation_m": 1650,
+        "lead_investors": [
+          "China Mobile Capital",
+          "Tencent",
+          "Alibaba",
+          "Ant Group"
+        ],
+        "source": "https://eu.36kr.com/en/p/3344368397190018"
+      }
+    ]
+  },
+  {
+    "slug": "moonvalley",
+    "funding_rounds": [
+      {
+        "stage": "Seed",
+        "date": "2024-11",
+        "amount_m": 70,
+        "lead_investors": [
+          "General Catalyst",
+          "Khosla Ventures"
+        ],
+        "source": "https://www.prnewswire.com/news-releases/ai-company-moonvalley-raises-70-million/"
+      },
+      {
+        "stage": "Series A",
+        "date": "2025-07",
+        "amount_m": 84,
+        "lead_investors": [
+          "General Catalyst"
+        ],
+        "source": "https://www.businesswire.com/news/home/20250714518340/en/"
+      }
+    ]
+  },
+  {
+    "slug": "charm-therapeutics",
+    "funding_rounds": [
+      {
+        "stage": "Series A",
+        "date": "2022-06",
+        "amount_m": 50,
+        "lead_investors": [
+          "F-Prime Capital",
+          "OrbiMed"
+        ],
+        "source": "https://www.crunchbase.com/funding_round/charm-therapeutics-series-a--4ba7d923"
+      },
+      {
+        "stage": "Series B",
+        "date": "2025-09",
+        "amount_m": 80,
+        "lead_investors": [
+          "NEA",
+          "SR One"
+        ],
+        "source": "https://www.globenewswire.com/news-release/2025/09/02/3142325/0/en/"
+      }
+    ]
+  },
+  {
+    "slug": "verge-genomics",
+    "funding_rounds": [
+      {
+        "stage": "Series A",
+        "date": "2018",
+        "amount_m": 32,
+        "lead_investors": [
+          "DFJ"
+        ],
+        "source": "https://www.vergegenomics.com/news-blog/verge-genomics-announces-32-million-series-a"
+      },
+      {
+        "stage": "Series B",
+        "date": "2021-12",
+        "amount_m": 98,
+        "lead_investors": [
+          "BlackRock"
+        ],
+        "source": "https://www.vergegenomics.com/news-blog/verge-genomics-secures-98-million"
+      },
+      {
+        "stage": "Corporate",
+        "date": "2023-09",
+        "amount_m": 42,
+        "lead_investors": [
+          "AstraZeneca / Alexion"
+        ],
+        "source": "https://www.globenewswire.com/news-release/2023/09/08/2739994/0/en/"
+      }
+    ]
+  },
+  {
+    "slug": "norm-ai",
+    "funding_rounds": [
+      {
+        "stage": "Seed",
+        "date": "2024-01",
+        "amount_m": 11.1,
+        "lead_investors": [
+          "Coatue",
+          "Haystack"
+        ],
+        "source": "https://www.norm.ai/post/norm-emerges-from-stealth"
+      },
+      {
+        "stage": "Series A",
+        "date": "2024-06",
+        "amount_m": 27,
+        "lead_investors": [
+          "Coatue"
+        ],
+        "source": "https://www.norm.ai/post/norm-ai-raises-27-million-series-a"
+      },
+      {
+        "stage": "Series B",
+        "date": "2025-03",
+        "amount_m": 48,
+        "lead_investors": [
+          "Coatue",
+          "Craft Ventures"
+        ],
+        "source": "https://www.prnewswire.com/news-releases/norm-ai-secures-48-million/"
+      },
+      {
+        "stage": "Series C",
+        "date": "2025-11",
+        "amount_m": 53,
+        "lead_investors": [
+          "Blackstone"
+        ],
+        "source": "https://www.prnewswire.com/news-releases/norm-ai-announces-50-million-blackstone-investment/"
+      }
+    ]
+  },
+  {
+    "slug": "basis",
+    "funding_rounds": [
+      {
+        "stage": "Seed",
+        "date": "2023-10",
+        "amount_m": 3.6,
+        "lead_investors": [
+          "Better Tomorrow Ventures"
+        ],
+        "source": "https://www.getbasis.ai/blogs/basis-raises-a-34m-series-a-led-by-khosla-ventures"
+      },
+      {
+        "stage": "Series A",
+        "date": "2024-12",
+        "amount_m": 34,
+        "lead_investors": [
+          "Khosla Ventures"
+        ],
+        "source": "https://www.getbasis.ai/blogs/basis-raises-a-34m-series-a-led-by-khosla-ventures"
+      },
+      {
+        "stage": "Series B",
+        "date": "2026-02",
+        "amount_m": 100,
+        "valuation_m": 1150,
+        "lead_investors": [
+          "Accel",
+          "GV"
+        ],
+        "source": "https://www.bloomberg.com/news/articles/2026-02-24/"
+      }
+    ]
+  },
+  {
+    "slug": "bolt-new",
+    "funding_rounds": [
+      {
+        "stage": "Seed",
+        "date": "2022-04",
+        "amount_m": 7.9,
+        "lead_investors": [
+          "Greylock",
+          "GV"
+        ],
+        "source": "https://blog.stackblitz.com/posts/seed-funding/"
+      },
+      {
+        "stage": "Series A",
+        "date": "2024-11",
+        "amount_m": 22,
+        "lead_investors": [
+          "Emergence Capital",
+          "GV"
+        ],
+        "source": "https://www.linkedin.com/posts/boltdotnew_"
+      },
+      {
+        "stage": "Series B",
+        "date": "2025-01",
+        "amount_m": 105.5,
+        "valuation_m": 700,
+        "lead_investors": [
+          "Emergence Capital",
+          "GV"
+        ],
+        "source": "https://www.bloomberg.com/news/articles/2025-01-21/"
+      }
+    ]
+  },
+  {
+    "slug": "pika",
+    "funding_rounds": [
+      {
+        "stage": "Series A",
+        "date": "2023-11",
+        "amount_m": 55,
+        "lead_investors": [
+          "Lightspeed Venture Partners"
+        ],
+        "source": "https://techcrunch.com/2023/11/28/pika-labs-which-is-building-ai-tools-to-generate-and-edit-videos-raises-55m/"
+      },
+      {
+        "stage": "Series B",
+        "date": "2024-06",
+        "amount_m": 80,
+        "valuation_m": 470,
+        "lead_investors": [
+          "Spark Capital"
+        ],
+        "source": "https://www.maginative.com/article/pika-labs-secures-80m/"
+      }
+    ]
+  },
+  {
+    "slug": "arize-ai",
+    "funding_rounds": [
+      {
+        "stage": "Seed",
+        "date": "2020-02",
+        "amount_m": 4,
+        "lead_investors": [
+          "Foundation Capital",
+          "Trinity Ventures"
+        ],
+        "source": "https://www.crunchbase.com/organization/arize-ai"
+      },
+      {
+        "stage": "Series A",
+        "date": "2021-09",
+        "amount_m": 19,
+        "lead_investors": [
+          "Battery Ventures"
+        ],
+        "source": "https://www.prnewswire.com/news-releases/arize-ai-raises-19-million/"
+      },
+      {
+        "stage": "Series B",
+        "date": "2022-09",
+        "amount_m": 38,
+        "lead_investors": [
+          "TCV"
+        ],
+        "source": "https://www.prnewswire.com/news-releases/arize-ai-raises-38-million/"
+      },
+      {
+        "stage": "Series C",
+        "date": "2025-02",
+        "amount_m": 70,
+        "lead_investors": [
+          "Adams Street Partners"
+        ],
+        "source": "https://arize.com/blog/arize-ai-raises-70m-series-c/"
+      }
+    ]
+  },
+  {
+    "slug": "jasper",
+    "funding_rounds": [
+      {
+        "stage": "Series A",
+        "date": "2022-10",
+        "amount_m": 125,
+        "valuation_m": 1500,
+        "lead_investors": [
+          "Insight Partners"
+        ],
+        "source": "https://www.jasper.ai/blog/jasper-announces-125m-series-a-funding"
+      }
+    ]
+  },
+  {
+    "slug": "cuspai",
+    "funding_rounds": [
+      {
+        "stage": "Seed",
+        "date": "2024-06",
+        "amount_m": 30,
+        "lead_investors": [
+          "Hoxton Ventures"
+        ],
+        "source": "https://www.crunchbase.com/funding_round/cuspai-seed--228e6690"
+      },
+      {
+        "stage": "Series A",
+        "date": "2025-09",
+        "amount_m": 100,
+        "valuation_m": 520,
+        "lead_investors": [
+          "NEA",
+          "Temasek"
+        ],
+        "source": "https://fortune.com/2025/09/10/cuspai-raises-100-million/"
+      }
+    ]
+  },
+  {
+    "slug": "granola",
+    "funding_rounds": [
+      {
+        "stage": "Seed",
+        "date": "2023-05",
+        "amount_m": 4.25,
+        "lead_investors": [
+          "Lightspeed Venture Partners",
+          "betaworks"
+        ],
+        "source": "https://www.granola.ai/blog/series-a"
+      },
+      {
+        "stage": "Series A",
+        "date": "2024-10",
+        "amount_m": 20,
+        "lead_investors": [
+          "Spark Capital"
+        ],
+        "source": "https://www.granola.ai/blog/series-a"
+      },
+      {
+        "stage": "Series B",
+        "date": "2025-05",
+        "amount_m": 43,
+        "valuation_m": 250,
+        "lead_investors": [
+          "NFDG (Nat Friedman / Daniel Gross)"
+        ],
+        "source": "https://techcrunch.com/2025/05/14/ai-note-taking-app-granola-raises-43m/"
+      }
+    ]
+  },
+  {
+    "slug": "tessl",
+    "funding_rounds": [
+      {
+        "stage": "Seed",
+        "date": "2024-04",
+        "amount_m": 25,
+        "lead_investors": [
+          "boldstart ventures",
+          "GV"
+        ],
+        "source": "https://tessl.io/blog/announcing-our-series-a"
+      },
+      {
+        "stage": "Series A",
+        "date": "2024-11",
+        "amount_m": 100,
+        "valuation_m": 750,
+        "lead_investors": [
+          "Index Ventures"
+        ],
+        "source": "https://techcrunch.com/2024/11/14/tessl-raises-125m/"
+      }
+    ]
+  },
+  {
+    "slug": "exa",
+    "funding_rounds": [
+      {
+        "stage": "Seed",
+        "date": "2022",
+        "amount_m": 5,
+        "lead_investors": [
+          "Y Combinator"
+        ],
+        "source": "https://techcrunch.com/2024/07/16/exa-raises-17m/"
+      },
+      {
+        "stage": "Series A",
+        "date": "2024-07",
+        "amount_m": 17,
+        "lead_investors": [
+          "Lightspeed Venture Partners"
+        ],
+        "source": "https://exa.ai/blog/series-a"
+      },
+      {
+        "stage": "Series B",
+        "date": "2025-09",
+        "amount_m": 85,
+        "valuation_m": 700,
+        "lead_investors": [
+          "Benchmark"
+        ],
+        "source": "https://exa.ai/blog/announcing-series-b"
+      }
+    ]
+  },
+  {
+    "slug": "modal",
+    "funding_rounds": [
+      {
+        "stage": "Seed",
+        "date": "2022",
+        "amount_m": 7,
+        "lead_investors": [
+          "Amplify Partners"
+        ],
+        "source": "https://modal.com/blog/general-availability-and-series-a-press-release"
+      },
+      {
+        "stage": "Series A",
+        "date": "2023-10",
+        "amount_m": 16,
+        "lead_investors": [
+          "Redpoint Ventures"
+        ],
+        "source": "https://techcrunch.com/2023/10/10/modal-labs-lands-16m/"
+      },
+      {
+        "stage": "Series B",
+        "date": "2025-07",
+        "amount_m": 87,
+        "valuation_m": 1100,
+        "lead_investors": [
+          "Lux Capital"
+        ],
+        "source": "https://modal.com/blog/announcing-our-series-b"
+      }
+    ]
+  },
+  {
+    "slug": "jump",
+    "funding_rounds": [
+      {
+        "stage": "Seed",
+        "date": "2024-01",
+        "amount_m": 4.6,
+        "lead_investors": [
+          "Sorenson Capital"
+        ],
+        "source": "https://jump.ai/press/"
+      },
+      {
+        "stage": "Series A",
+        "date": "2025-02",
+        "amount_m": 20,
+        "lead_investors": [
+          "Battery Ventures"
+        ],
+        "source": "https://jump.ai/press/"
+      },
+      {
+        "stage": "Series B",
+        "date": "2025",
+        "amount_m": 80,
+        "lead_investors": [
+          "Insight Partners"
+        ],
+        "source": "https://www.superbcrew.com/jump-raises-80-million/"
+      }
+    ]
+  },
+  {
+    "slug": "contextual-ai",
+    "funding_rounds": [
+      {
+        "stage": "Seed",
+        "date": "2023-06",
+        "amount_m": 20,
+        "lead_investors": [
+          "Bain Capital Ventures"
+        ],
+        "source": "https://contextual.ai/blog/announcing-our-20m-seed-round"
+      },
+      {
+        "stage": "Series A",
+        "date": "2024-08",
+        "amount_m": 80,
+        "lead_investors": [
+          "Greycroft",
+          "Bain Capital Ventures"
+        ],
+        "source": "https://contextual.ai/blog/announcing-series-a"
+      }
+    ]
+  },
+  {
+    "slug": "descript",
+    "funding_rounds": [
+      {
+        "stage": "Seed",
+        "date": "2017-12",
+        "amount_m": 5,
+        "lead_investors": [
+          "Andreessen Horowitz"
+        ],
+        "source": "https://www.crunchbase.com/organization/descript"
+      },
+      {
+        "stage": "Series A",
+        "date": "2019-09",
+        "amount_m": 15,
+        "lead_investors": [
+          "Andreessen Horowitz",
+          "Redpoint Ventures"
+        ],
+        "source": "https://www.crunchbase.com/organization/descript"
+      },
+      {
+        "stage": "Series B",
+        "date": "2021-02",
+        "amount_m": 30,
+        "valuation_m": 260,
+        "lead_investors": [
+          "Spark Capital"
+        ],
+        "source": "https://vcnewsdaily.com/descript/venture-capital-funding/jqrtqtzdvp"
+      },
+      {
+        "stage": "Series C",
+        "date": "2022-11",
+        "amount_m": 50,
+        "valuation_m": 550,
+        "lead_investors": [
+          "OpenAI Startup Fund"
+        ],
+        "source": "https://techcrunch.com/2022/11/15/ai-powered-media-editing-app-descript/"
+      }
+    ]
+  },
+  {
+    "slug": "emergent",
+    "funding_rounds": [
+      {
+        "stage": "Seed",
+        "date": "2025-07",
+        "amount_m": 7,
+        "lead_investors": [
+          "Y Combinator",
+          "Together Fund"
+        ],
+        "source": "https://techcrunch.com/2025/09/24/emergent-raises-23m/"
+      },
+      {
+        "stage": "Series A",
+        "date": "2025-09",
+        "amount_m": 23,
+        "valuation_m": 100,
+        "lead_investors": [
+          "Lightspeed Venture Partners"
+        ],
+        "source": "https://techcrunch.com/2025/09/24/emergent-raises-23m/"
+      },
+      {
+        "stage": "Series B",
+        "date": "2026-01",
+        "amount_m": 70,
+        "valuation_m": 300,
+        "lead_investors": [
+          "Khosla Ventures",
+          "SoftBank Vision Fund 2"
+        ],
+        "source": "https://www.businesswire.com/news/home/20260120852493/en/"
+      }
+    ]
+  }
+]

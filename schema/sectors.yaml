@@ -1,0 +1,23 @@
+# AI-100-Lab — Sector Taxonomy
+# Every company gets one or more of these tags.
+# Add new sectors here first, then use in company files.
+
+sectors:
+  - foundation-models       # LLMs, multimodal models, base model providers
+  - infra                   # Training infra, serving, MLOps, compute
+  - dev-tools               # AI coding, developer productivity
+  - agents                  # Autonomous agents, agent frameworks
+  - enterprise-ai           # Horizontal enterprise (sales, support, ops)
+  - healthcare-ai           # Drug discovery, clinical, diagnostics
+  - fintech-ai              # Trading, risk, compliance, insurance
+  - legal-ai                # Contract analysis, legal research
+  - security-ai             # Cybersecurity, threat detection
+  - robotics                # Physical AI, embodied agents
+  - autonomous-vehicles     # Self-driving, ADAS
+  - creative-ai             # Image/video/audio/music generation
+  - search-knowledge        # AI search, RAG, knowledge management
+  - data-analytics          # BI, data platforms with AI
+  - edtech-ai               # Education, tutoring
+  - biotech-ai              # Protein folding, genomics, synbio
+  - defense-govtech         # Defense, government applications
+  - other                   # Doesn't fit above

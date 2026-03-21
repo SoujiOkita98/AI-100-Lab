@@ -1,0 +1,70 @@
+[
+  {
+    "slug": "synthesia",
+    "funding_rounds": [
+      {"stage": "Seed", "date": "2019-01", "amount_m": 3.1, "lead_investors": ["Seedcamp"], "source": "https://www.crunchbase.com/organization/synthesia"},
+      {"stage": "Series A", "date": "2021-04", "amount_m": 12.5, "lead_investors": ["FirstMark Capital"], "source": "https://www.crunchbase.com/funding_round/synthesia-series-a--7c3a288c"},
+      {"stage": "Series B", "date": "2021-12", "amount_m": 50, "lead_investors": ["Kleiner Perkins", "GV"], "source": "https://en.wikipedia.org/wiki/Synthesia_(company)"},
+      {"stage": "Series C", "date": "2023-06", "amount_m": 90, "valuation_m": 1000, "lead_investors": ["Accel", "NVentures"], "source": "https://www.crunchbase.com/funding_round/synthesia-series-c--d751c076"},
+      {"stage": "Series D", "date": "2025-01", "amount_m": 180, "valuation_m": 2100, "lead_investors": ["NEA"], "source": "https://sacra.com/c/synthesia/"},
+      {"stage": "Series E", "date": "2026-01", "amount_m": 200, "valuation_m": 4000, "lead_investors": ["GV"], "source": "https://techcrunch.com/2026/01/26/synthesia-hits-4b-valuation-lets-employees-cash-in/"}
+    ]
+  },
+  {
+    "slug": "together-ai",
+    "funding_rounds": [
+      {"stage": "Seed", "date": "2023-05", "amount_m": 20, "lead_investors": ["Lux Capital"], "source": "https://www.together.ai/blog/series-a"},
+      {"stage": "Series A", "date": "2023-11", "amount_m": 102.5, "lead_investors": ["Kleiner Perkins", "NVIDIA"], "source": "https://techcrunch.com/2023/11/29/together-lands-102-5m-investment-to-grow-its-cloud-for-training-generative-ai/"},
+      {"stage": "Series A Extension", "date": "2024-03", "amount_m": 106, "valuation_m": 1250, "lead_investors": ["Salesforce Ventures"], "source": "https://news.crunchbase.com/cloud/together-ai-valuation-jump-general-catalyst-nvda/"},
+      {"stage": "Series B", "date": "2025-02", "amount_m": 305, "valuation_m": 3300, "lead_investors": ["General Catalyst", "Prosperity7 Ventures"], "source": "https://www.together.ai/blog/together-ai-announcing-305m-series-b"}
+    ]
+  },
+  {
+    "slug": "mercor",
+    "funding_rounds": [
+      {"stage": "Seed", "date": "2023-01", "amount_m": 3.6, "lead_investors": ["General Catalyst"], "source": "https://techcrunch.com/2025/02/20/mercor-an-ai-recruiting-startup-founded-by-21-year-olds-raises-100m-at-2b-valuation/"},
+      {"stage": "Series A", "date": "2024-01", "amount_m": 32, "valuation_m": 250, "lead_investors": ["Benchmark"], "source": "https://techcrunch.com/2025/02/20/mercor-an-ai-recruiting-startup-founded-by-21-year-olds-raises-100m-at-2b-valuation/"},
+      {"stage": "Series B", "date": "2025-02", "amount_m": 100, "valuation_m": 2000, "lead_investors": ["Felicis Ventures"], "source": "https://techcrunch.com/2025/02/20/mercor-an-ai-recruiting-startup-founded-by-21-year-olds-raises-100m-at-2b-valuation/"},
+      {"stage": "Series C", "date": "2025-10", "amount_m": 350, "valuation_m": 10000, "lead_investors": ["Felicis Ventures"], "source": "https://techcrunch.com/2025/10/27/mercor-quintuples-valuation-to-10b-with-350m-series-c/"}
+    ]
+  },
+  {
+    "slug": "decagon-ai",
+    "funding_rounds": [
+      {"stage": "Seed", "date": "2024-06", "amount_m": 5, "lead_investors": ["Andreessen Horowitz"], "source": "https://www.globenewswire.com/news-release/2024/06/18/2900447/0/en/"},
+      {"stage": "Series A", "date": "2024-06", "amount_m": 30, "lead_investors": ["Accel"], "source": "https://decagon.ai/resources/series-a"},
+      {"stage": "Series B", "date": "2024-10", "amount_m": 65, "lead_investors": ["Bain Capital Ventures"], "source": "https://decagon.ai/resources/series-b"},
+      {"stage": "Series C", "date": "2025-06", "amount_m": 131, "valuation_m": 1500, "lead_investors": ["Accel", "Andreessen Horowitz"], "source": "https://www.businesswire.com/news/home/20250623894798/en/"},
+      {"stage": "Series D", "date": "2026-01", "amount_m": 250, "valuation_m": 4500, "lead_investors": ["Coatue Management", "Index Ventures"], "source": "https://finance.yahoo.com/news/decagon-raises-250-million-valuation-161223745.html"}
+    ]
+  },
+  {
+    "slug": "magic",
+    "funding_rounds": [
+      {"stage": "Seed", "date": "2022-03", "amount_m": 5.1, "lead_investors": ["ROI Ventures"], "source": "https://www.crunchbase.com/organization/magic-83fe"},
+      {"stage": "Series A", "date": "2023-02", "amount_m": 23, "lead_investors": ["CapitalG"], "source": "https://news.crunchbase.com/ai/coding-venture-funding-magic-codeium/"},
+      {"stage": "Series B", "date": "2024-02", "amount_m": 117, "lead_investors": ["NFDG Ventures"], "source": "https://news.crunchbase.com/ai/coding-venture-funding-magic-codeium/"},
+      {"stage": "Series C", "date": "2024-08", "amount_m": 320, "lead_investors": ["Eric Schmidt", "Sequoia"], "source": "https://techcrunch.com/2024/08/29/generative-ai-coding-startup-magic-lands-320m-investment-from-eric-schmidt-atlassian-and-others/"}
+    ]
+  },
+  {
+    "slug": "rhoda-ai",
+    "funding_rounds": [
+      {"stage": "Series A", "date": "2026-03", "amount_m": 450, "valuation_m": 1700, "lead_investors": ["Capricorn Investment Group", "Khosla Ventures", "Premji Invest", "Temasek", "Mayfield"], "source": "https://www.bloomberg.com/news/articles/2026-03-10/ai-robotics-startup-rhoda-valued-at-1-7-billion-in-new-funding"}
+    ]
+  },
+  {
+    "slug": "sunrise",
+    "funding_rounds": [
+      {"stage": "Strategic Round", "date": "2024-07", "amount_m": 139, "lead_investors": ["Huaxu Capital (Sany Group)", "4Paradigm", "Yoozoo Interactive"], "source": "https://www.dealstreetasia.com/stories/sunrise-new-round-449979", "notes": "SenseTime AI chip spinoff. ~1B CNY first tranche."},
+      {"stage": "Series A", "date": "2025-07", "amount_m": 139, "lead_investors": ["Huaxu Capital", "4Paradigm", "IDG Capital", "Gaorong Ventures", "CICC Capital"], "source": "https://www.caproasia.com/2025/07/20/hong-kong-listed-china-ai-company-7-8-billion-sensetime-2024-spinoff-gpu-chip-developer-sunrise-raised-139-million-series-a/"}
+    ]
+  },
+  {
+    "slug": "adept-ai",
+    "funding_rounds": [
+      {"stage": "Series A", "date": "2022-04", "amount_m": 65, "lead_investors": ["Addition", "Greylock"], "source": "https://www.crunchbase.com/funding_round/adept-48e7-series-a--03865118"},
+      {"stage": "Series B", "date": "2023-03", "amount_m": 350, "valuation_m": 1000, "lead_investors": ["General Catalyst", "Spark Capital"], "source": "https://techcrunch.com/2023/03/15/adept-a-startup-training-ai-to-use-existing-software-and-apis-raises-350m/", "notes": "Acquired by Amazon June 2024."}
+    ]
+  }
+]

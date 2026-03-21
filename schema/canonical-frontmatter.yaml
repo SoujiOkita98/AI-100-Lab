@@ -1,0 +1,60 @@
+# AI-100-Lab — Canonical YAML Frontmatter Schema
+# EVERY company file MUST use exactly these field names.
+# This is the contract for parsing, indexing, and CSV export.
+#
+# Rules:
+#   - Use snake_case for all field names
+#   - Monetary values are always in millions USD (suffix _m)
+#   - Dates are YYYY-MM-DD or YYYY-MM
+#   - Lists use YAML arrays []
+#   - Null/unknown = null (not ~, not "", not "unknown")
+#   - Strings use double quotes
+
+# === REQUIRED FIELDS (every file must have these) ===
+
+name: string                     # Display name, e.g. "OpenAI"
+slug: string                     # File name without .md, e.g. "openai"
+status: string                   # active | acquired | dead | public | shell
+founded_year: integer            # e.g. 2021
+hq: string                      # "City, State" or "City, Country"
+website: string                  # Full URL
+sector: list[string]             # From sectors.yaml, max 3
+one_liner: string                # One sentence description
+
+# === FUNDING ===
+
+total_raised_m: float            # Total equity raised in millions USD
+latest_valuation_m: float        # Most recent valuation in millions USD, null if unknown
+latest_round: string             # e.g. "Series C"
+latest_round_date: string        # YYYY-MM
+
+funding_rounds:                  # Chronological list
+  - stage: string                # e.g. "Series A", "Seed", "Corporate round"
+    date: string                 # YYYY-MM
+    amount_m: float
+    valuation_m: float           # null if undisclosed
+    lead_investors: list[string]
+    source: string               # URL
+
+# === TEAM ===
+
+founders:
+  - name: string
+    role: string                 # e.g. "CEO", "CTO"
+    background: string           # One-line summary
+    origin: string               # e.g. "mainland Chinese", "Indian-American", "French"
+    status: string               # active | departed
+
+team_china_profile: string       # Summary for filtering: "mainland", "abc", "mixed", "none", "unknown"
+
+# === BUSINESS ===
+
+business_model: string           # Free text, one line
+revenue_signals: string          # Free text with confidence note
+key_customers: list[string]      # Max 10 notable names
+
+# === META ===
+
+sources: list[string]            # All URLs used
+last_updated: string             # YYYY-MM-DD
+confidence: string               # high | medium | low

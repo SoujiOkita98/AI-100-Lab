@@ -1,0 +1,91 @@
+[
+  {
+    "slug": "perplexity",
+    "funding_rounds": [
+      {
+        "stage": "Seed",
+        "date": "2022-09",
+        "amount_m": 3.1,
+        "lead_investors": [
+          "Elad Gil"
+        ],
+        "source": "https://en.wikipedia.org/wiki/Perplexity_AI"
+      },
+      {
+        "stage": "Series A",
+        "date": "2023-03",
+        "amount_m": 25.6,
+        "lead_investors": [
+          "New Enterprise Associates"
+        ],
+        "source": "https://www.perplexity.ai/hub/blog/announcing-our-series-a-funding-round-and-mobile-app-launch"
+      },
+      {
+        "stage": "Series B",
+        "date": "2024-01",
+        "amount_m": 73.6,
+        "valuation_m": 520,
+        "lead_investors": [
+          "IVP"
+        ],
+        "source": "https://www.perplexity.ai/hub/blog/perplexity-raises-series-b-funding-round"
+      },
+      {
+        "stage": "Series C",
+        "date": "2024-04",
+        "amount_m": 62.7,
+        "valuation_m": 1000,
+        "lead_investors": [
+          "Daniel Gross"
+        ],
+        "source": "https://www.lw.com/en/news/2024/04/latham-watkins-advises-perplexity-ai-in-us62-7-million-series-b-funding-round"
+      },
+      {
+        "stage": "Series C Extension",
+        "date": "2024-06",
+        "amount_m": 250,
+        "valuation_m": 3000,
+        "lead_investors": [
+          "SoftBank Vision Fund 2"
+        ],
+        "source": "https://finance.yahoo.com/news/softbank-back-ai-startup-perplexity-040725933.html"
+      },
+      {
+        "stage": "Series D",
+        "date": "2024-12",
+        "amount_m": 500,
+        "valuation_m": 9000,
+        "lead_investors": [
+          "IVP"
+        ],
+        "source": "https://www.bloomberg.com/news/articles/2024-12-18/ai-startup-perplexity-closes-funding-round-at-9-billion-value"
+      },
+      {
+        "stage": "Series E",
+        "date": "2025-06",
+        "amount_m": 500,
+        "valuation_m": 14000,
+        "lead_investors": [
+          "Accel"
+        ],
+        "source": "https://www.cnbc.com/2025/05/12/perplexity-funding-round-comet.html"
+      },
+      {
+        "stage": "Series E Extension",
+        "date": "2025-07",
+        "amount_m": 100,
+        "valuation_m": 18000,
+        "lead_investors": [],
+        "source": "https://www.pymnts.com/artificial-intelligence-2/2025/perplexity-ai-hits-18-billion-valuation-in-latest-funding-round/"
+      },
+      {
+        "stage": "Late-Stage Round",
+        "date": "2025-09",
+        "amount_m": 200,
+        "valuation_m": 20000,
+        "lead_investors": [],
+        "source": "https://techcrunch.com/2025/09/10/perplexity-reportedly-raised-200m-at-20b-valuation/"
+      }
+    ]
+  }
+]

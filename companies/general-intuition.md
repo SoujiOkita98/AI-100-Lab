@@ -1,0 +1,24 @@
+---
+name: "General Intuition"
+founded: 2025
+sector: "AI Agents / Spatial Reasoning"
+one_liner: "AI research lab training agents with spatial-temporal reasoning using large-scale video game data."
+status: active
+founders:
+  - name: "Pim de Witte"
+    role: "CEO"
+    background: "CEO of Medal (largest gameplay-sharing platform)"
+funding_rounds:
+  - stage: "Seed"
+    date: "2025-10"
+    amount_m: 134
+    lead_investors: ["Khosla Ventures", "General Catalyst"]
+    source: "https://techcrunch.com/2025/10/16/general-intuition-lands-134m-seed/"
+total_funding: 134
+last_updated: 2026-03-21
+confidence: medium
+---
+
+# General Intuition
+
+AI research lab training agents with spatial-temporal reasoning using large-scale video game data.

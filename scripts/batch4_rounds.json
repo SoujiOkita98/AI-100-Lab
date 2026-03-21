@@ -1,0 +1,64 @@
+[
+  {
+    "slug": "freenome",
+    "funding_rounds": [
+      {"stage": "Seed", "date": "2016-05", "amount_m": 5.5, "lead_investors": ["Andreessen Horowitz", "DCVC", "Founders Fund"], "source": "https://techcrunch.com/2017/03/01/in-liquid-biopsy-race-freenome-lands-65-million-led-by-andreessen-horowitz/"},
+      {"stage": "Series A", "date": "2017-03", "amount_m": 65, "lead_investors": ["Andreessen Horowitz"], "source": "https://www.businesswire.com/news/home/20170301005927/en/Freenome-Announces-65-Million-in-Series-A-Funding-Led-by-Andreessen-Horowitz"},
+      {"stage": "Series B", "date": "2019-06", "amount_m": 160, "lead_investors": ["RA Capital Management", "Polaris Partners"], "source": "https://www.freenome.com/newsroom/freenome-closes-160-million-series-b-financing-to-advance-its-multiomics-blood-testing-platform-for-early-cancer-detection/"},
+      {"stage": "Series C", "date": "2020-08", "amount_m": 270, "lead_investors": ["Sands Capital"], "source": "https://news.crunchbase.com/venture/freenome-secures-270m-series-c-to-research-cancer-detecting-blood-tests/"},
+      {"stage": "Series D", "date": "2021-11", "amount_m": 300, "lead_investors": ["Perceptive Advisors"], "source": "https://www.crunchbase.com/funding_round/freenome-series-d--57c96f4d"},
+      {"stage": "Series E", "date": "2024-02", "amount_m": 254, "valuation_m": 2170, "lead_investors": ["Roche", "T. Rowe Price", "Fidelity Investments"], "source": "https://tracxn.com/d/companies/freenome/__QnCE7TdOftOC9FKD2-6WRJMdfjXf1zQYXZJDOE3VCBg/funding-and-investors"}
+    ]
+  },
+  {
+    "slug": "snyk",
+    "funding_rounds": [
+      {"stage": "Seed", "date": "2016-01", "amount_m": 3, "lead_investors": ["Heavybit"], "source": "https://www.crunchbase.com/funding_round/snyk-seed--0425875b"},
+      {"stage": "Series A", "date": "2018-03", "amount_m": 7, "lead_investors": ["Canaan Partners"], "source": "https://tracxn.com/d/companies/snyk/"},
+      {"stage": "Series B", "date": "2018-09", "amount_m": 22, "lead_investors": ["Accel", "GV"], "source": "https://tracxn.com/d/companies/snyk/"},
+      {"stage": "Series C", "date": "2019-12", "amount_m": 70, "lead_investors": ["Tiger Global", "Coatue"], "source": "https://tracxn.com/d/companies/snyk/"},
+      {"stage": "Series C Extension", "date": "2020-01", "amount_m": 150, "lead_investors": ["Stripes Group"], "source": "https://tracxn.com/d/companies/snyk/"},
+      {"stage": "Series D", "date": "2020-09", "amount_m": 200, "lead_investors": ["Tiger Global"], "source": "https://tracxn.com/d/companies/snyk/"},
+      {"stage": "Series E", "date": "2021-03", "amount_m": 175, "lead_investors": ["Atlassian Ventures", "Temasek", "BlackRock"], "source": "https://www.crunchbase.com/funding_round/snyk-series-e--4b2cb531"},
+      {"stage": "Series F", "date": "2021-09", "amount_m": 530, "valuation_m": 8500, "lead_investors": ["Sands Capital", "Tiger Global"], "source": "https://snyk.io/news/snyk-closes-530-million-series-f-investment-at-8-5-billion-valuation/"},
+      {"stage": "Series G", "date": "2022-12", "amount_m": 196.5, "valuation_m": 7400, "lead_investors": ["Qatar Investment Authority"], "source": "https://snyk.io/news/snyk-closes-196-5-million-series-g-funding-at-7-4-billion-valuation/"},
+      {"stage": "Series G Extension", "date": "2024-04", "amount_m": 25, "lead_investors": [], "source": "https://www.crunchbase.com/organization/snyk"}
+    ]
+  },
+  {
+    "slug": "harvey-ai",
+    "funding_rounds": [
+      {"stage": "Seed", "date": "2022-11", "amount_m": 5, "lead_investors": ["OpenAI Startup Fund"], "source": "https://www.thesaasnews.com/news/harvey-raises-5-million-in-funding"},
+      {"stage": "Series A", "date": "2023-04", "amount_m": 21, "lead_investors": ["Sequoia Capital"], "source": "https://legaltechnology.com/2023/04/27/investment-harvey-raises-21m-series-a-and-dori-comes-out-of-stealth-mode-with-2m-seed-raise/"},
+      {"stage": "Series B", "date": "2023-12", "amount_m": 80, "valuation_m": 715, "lead_investors": ["Elad Gil", "Kleiner Perkins"], "source": "https://www.harvey.ai/blog/series-b"},
+      {"stage": "Series C", "date": "2024-07", "amount_m": 100, "valuation_m": 1500, "lead_investors": ["GV"], "source": "https://techcrunch.com/2024/07/23/openai-backed-legaltech-startup-harvey-raises-100m/"},
+      {"stage": "Series D", "date": "2025-02", "amount_m": 300, "valuation_m": 3000, "lead_investors": ["Sequoia Capital"], "source": "https://fortune.com/2025/02/12/legal-ai-startup-harvey-300-million-series-d-funding-3-billion-valuation-sequoia/"},
+      {"stage": "Series E", "date": "2025-06", "amount_m": 300, "valuation_m": 5000, "lead_investors": ["Kleiner Perkins", "Coatue"], "source": "https://www.harvey.ai/blog/harvey-raises-series-e"},
+      {"stage": "Series F", "date": "2025-12", "amount_m": 160, "valuation_m": 8000, "lead_investors": ["Andreessen Horowitz"], "source": "https://www.harvey.ai/blog/andreessen-horowitz-leads-dollar160m-investment-in-harvey"}
+    ]
+  },
+  {
+    "slug": "deepseek",
+    "funding_rounds": [
+      {"stage": "Internal / Proprietary Funding", "date": "2023-07", "amount_m": 1100, "lead_investors": ["High-Flyer Quantitative Investment (Liang Wenfeng)"], "source": "https://techcrunch.com/2025/03/10/deepseek-isnt-taking-vc-money-yet-here-are-3-reasons-why/", "notes": "No external VC. Wholly funded by founder's hedge fund High-Flyer (~$8B AUM). The $1.1B is estimated internal capital deployed."}
+    ]
+  },
+  {
+    "slug": "luma-ai",
+    "funding_rounds": [
+      {"stage": "Seed", "date": "2021-10", "amount_m": 4.3, "lead_investors": ["Amplify Partners", "South Park Commons", "Matrix Partners"], "source": "https://tracxn.com/d/companies/luma-ai/"},
+      {"stage": "Series A", "date": "2023-03", "amount_m": 20, "lead_investors": ["General Catalyst", "Z47", "NVentures (NVIDIA)"], "source": "https://tracxn.com/d/companies/luma-ai/"},
+      {"stage": "Series B", "date": "2024-01", "amount_m": 43, "lead_investors": ["Andreessen Horowitz"], "source": "https://techcrunch.com/2024/01/09/luma-raises-43m-to-build-ai-that-crafts-3d-models/"},
+      {"stage": "Series C (tranche 1)", "date": "2024-12", "amount_m": 90, "lead_investors": ["Amazon", "AMD", "Hanwha"], "source": "https://sacra.com/c/luma-ai/"},
+      {"stage": "Series C (tranche 2)", "date": "2025-11", "amount_m": 900, "valuation_m": 4000, "lead_investors": ["HUMAIN (PIF subsidiary)"], "source": "https://lumalabs.ai/press/luma-ai-raises-900-million-series-c-led-by-humain-and-partners-on-2-gigawatt-ai-supercluster-in-saudi-arabia"}
+    ]
+  },
+  {
+    "slug": "baichuan-intelligence",
+    "funding_rounds": [
+      {"stage": "Angel", "date": "2023-04", "amount_m": 50, "lead_investors": ["Undisclosed"], "source": "https://tracxn.com/d/companies/baichuan/"},
+      {"stage": "Series A1", "date": "2023-10", "amount_m": 300, "lead_investors": ["Alibaba", "Tencent", "Xiaomi"], "source": "https://siliconangle.com/2023/10/17/chinese-ai-startup-baichuan-raises-300m-alibaba-tencent-xiaomi/"},
+      {"stage": "Series A", "date": "2024-07", "amount_m": 691, "valuation_m": 2750, "lead_investors": ["Beijing AI Industry Investment Fund"], "source": "https://asiatechdaily.com/alibaba-backed-baichuan-secures-691-million-valued-at-2-7-billion/"}
+    ]
+  }
+]

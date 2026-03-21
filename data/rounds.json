@@ -1,0 +1,2818 @@
+[
+  {
+    "company_slug": "1x-technologies",
+    "stage": "Series A2",
+    "date": "2023-03",
+    "amount_m": 23.5,
+    "valuation_m": 210.0,
+    "lead_investors": [
+      "OpenAI Startup Fund"
+    ],
+    "source": "https://www.1x.tech/discover/1x-rasies-23-5m-in-series-a2-funding-led-by-open-ai",
+    "notes": "First major round after the 2022 rebrand from Halodi Robotics to 1X Technologies. OpenAI's backing was a strong signal and drew significant attention.\n"
+  },
+  {
+    "company_slug": "1x-technologies",
+    "stage": "Series B",
+    "date": "2024-01-11",
+    "amount_m": 100.0,
+    "valuation_m": 800.0,
+    "lead_investors": [
+      "EQT Ventures"
+    ],
+    "source": "https://www.1x.tech/discover/1x-secures-100m-in-series-b-funding",
+    "notes": "Brought total funding to ~$126M. Capital earmarked for enterprise customers and bringing NEO bipedal android to market.\n"
+  },
+  {
+    "company_slug": "1x-technologies",
+    "stage": "Seed / Early",
+    "date": "~2021-05",
+    "amount_m": 86.0,
+    "valuation_m": null,
+    "lead_investors": [
+      "Valinor"
+    ],
+    "source": "https://valinor.no/en/investments/halodi-robotics/",
+    "notes": "Raised as Halodi Robotics. Exact seed timing uncertain; May 2021 is the earliest publicly documented round of this size.\n"
+  },
+  {
+    "company_slug": "1x-technologies",
+    "stage": "Series C (UNCONFIRMED)",
+    "date": "~2025-09 (reported target)",
+    "amount_m": null,
+    "valuation_m": 10000.0,
+    "lead_investors": [
+      "Unknown"
+    ],
+    "source": "https://techstartups.com/2025/09/24/norways-1x-raising-1b-at-10b-valuation-to-bring-humanoid-robot-neo-into-homes/",
+    "notes": "UNCERTAINTY: The Information and other outlets reported in Sep 2025 that 1X was in talks to raise up to $1B. As of March 2026, I could not independently confirm this round closed or identify the final investors. Do not treat this as confirmed.\n"
+  },
+  {
+    "company_slug": "abnormal-security",
+    "stage": "Seed",
+    "date": "2018",
+    "amount_m": null,
+    "valuation_m": null,
+    "lead_investors": [
+      "Greylock Partners"
+    ],
+    "source": "https://news.greylock.com/our-investment-in-abnormal-security-5b58650c690c",
+    "notes": "Company incubated at Greylock's San Francisco offices. Exact seed amount not publicly disclosed."
+  },
+  {
+    "company_slug": "abnormal-security",
+    "stage": "Series A",
+    "date": "2019-11",
+    "amount_m": 24.0,
+    "valuation_m": null,
+    "lead_investors": [
+      "Greylock Partners"
+    ],
+    "source": "https://abnormal.ai/about/news/launching-24m-series-a-funding-from-greylock",
+    "notes": "Public launch of the company coincided with Series A announcement."
+  },
+  {
+    "company_slug": "abnormal-security",
+    "stage": "Series B",
+    "date": "2020-11",
+    "amount_m": 50.0,
+    "valuation_m": null,
+    "lead_investors": [
+      "Menlo Ventures"
+    ],
+    "source": "https://abnormal.ai/about/news/50m-series-b-funding",
+    "notes": "Greylock participated. Total funding reached ~$75M."
+  },
+  {
+    "company_slug": "abnormal-security",
+    "stage": "Series C",
+    "date": "2022-05",
+    "amount_m": 210.0,
+    "valuation_m": 4000.0,
+    "lead_investors": [
+      "Insight Partners"
+    ],
+    "source": "https://abnormal.ai/about/news/series-c-funding-4b-valuation",
+    "notes": "Greylock and Menlo Ventures also participated. Tripled ARR in preceding year."
+  },
+  {
+    "company_slug": "abnormal-security",
+    "stage": "Series D",
+    "date": "2024-08",
+    "amount_m": 250.0,
+    "valuation_m": 5100.0,
+    "lead_investors": [
+      "Wellington Management"
+    ],
+    "source": "https://abnormal.ai/about/news/series-d-5b-valuation",
+    "notes": "Greylock, Menlo Ventures, Insight Partners, and CrowdStrike Falcon Fund participated. Announced alongside crossing $200M ARR."
+  },
+  {
+    "company_slug": "agility-robotics",
+    "stage": "Seed / Early Grants",
+    "date": "2015–2017",
+    "amount_m": null,
+    "valuation_m": null,
+    "lead_investors": [
+      "ONAMI (Oregon Nanoscience and Microtechnologies Institute)"
+    ],
+    "source": "https://onami.us/onami-success-stories/agility-robotics",
+    "notes": ""
+  },
+  {
+    "company_slug": "agility-robotics",
+    "stage": "Series A",
+    "date": "2018",
+    "amount_m": 8.0,
+    "valuation_m": null,
+    "lead_investors": [
+      "Playground Global"
+    ],
+    "source": "https://onami.us/onami-success-stories/agility-robotics-secures-8m-series-a-funding",
+    "notes": ""
+  },
+  {
+    "company_slug": "agility-robotics",
+    "stage": "Series B",
+    "date": "2022-04",
+    "amount_m": 150.0,
+    "valuation_m": null,
+    "lead_investors": [
+      "DCVC",
+      "Playground Global"
+    ],
+    "source": "https://www.agilityrobotics.com/content/agility-robotics-raises-150m-series-b-led-by-dcvc-and-playground-global",
+    "notes": "Amazon's investment through its Industrial Innovation Fund signaled strategic alignment for warehouse deployment of Digit.\n"
+  },
+  {
+    "company_slug": "agility-robotics",
+    "stage": "Series C",
+    "date": "2025-03",
+    "amount_m": 400.0,
+    "valuation_m": 2100.0,
+    "lead_investors": [
+      "WP Global Partners"
+    ],
+    "source": "https://www.geekwire.com/2025/agility-robotics-reportedly-raising-400m-for-humanoid-warehouse-robots/",
+    "notes": "Funding intended to scale operations through the 10,000-unit production milestone at RoboFab.\n"
+  },
+  {
+    "company_slug": "agility-robotics",
+    "stage": "Undisclosed Round",
+    "date": "2025-09",
+    "amount_m": null,
+    "valuation_m": null,
+    "lead_investors": [
+      "[not disclosed]"
+    ],
+    "source": "https://tracxn.com/d/companies/agilityrobotics/__zWyvO8soXb6xhR16FWzvRmbHXslWot5BI_JRbmtdaF0/funding-and-investors",
+    "notes": ""
+  },
+  {
+    "company_slug": "anduril",
+    "stage": "Seed",
+    "date": "2017-08",
+    "amount_m": 17.5,
+    "valuation_m": null,
+    "lead_investors": [
+      "Founders Fund"
+    ],
+    "source": "https://tracxn.com/d/companies/anduril/__qqOI0HKR47lFXorj9FAQlDfmJOqfOpDNWiW3JcO--ss/funding-and-investors",
+    "notes": ""
+  },
+  {
+    "company_slug": "anduril",
+    "stage": "Series A",
+    "date": "2018-06",
+    "amount_m": 41.0,
+    "valuation_m": 250.0,
+    "lead_investors": [
+      "Founders Fund"
+    ],
+    "source": "https://www.crunchbase.com/funding_round/anduril-industries-series-a--32661f15",
+    "notes": ""
+  },
+  {
+    "company_slug": "anduril",
+    "stage": "Series B",
+    "date": "2019-09",
+    "amount_m": 120.0,
+    "valuation_m": 1000.0,
+    "lead_investors": [
+      "Andreessen Horowitz"
+    ],
+    "source": "https://www.cnbc.com/2019/09/11/anduril-valued-at-1-billion-in-round-including-andreessen-horowitz.html",
+    "notes": ""
+  },
+  {
+    "company_slug": "anduril",
+    "stage": "Series C",
+    "date": "2020-07",
+    "amount_m": 200.0,
+    "valuation_m": 1900.0,
+    "lead_investors": [
+      "Andreessen Horowitz"
+    ],
+    "source": "https://www.crunchbase.com/funding_round/anduril-industries-series-c--bc53d7d0",
+    "notes": ""
+  },
+  {
+    "company_slug": "anduril",
+    "stage": "Series D",
+    "date": "2021-06",
+    "amount_m": 450.0,
+    "valuation_m": 4600.0,
+    "lead_investors": [
+      "Elad Gil"
+    ],
+    "source": "https://research.contrary.com/company/anduril",
+    "notes": ""
+  },
+  {
+    "company_slug": "anduril",
+    "stage": "Series E",
+    "date": "2022-12",
+    "amount_m": 1480.0,
+    "valuation_m": 8480.0,
+    "lead_investors": [
+      "Valor Equity Partners"
+    ],
+    "source": "https://www.anduril.com/news/anduril-raises-usd1-48-billion-in-series-e-funding",
+    "notes": ""
+  },
+  {
+    "company_slug": "anduril",
+    "stage": "Series F",
+    "date": "2024-08",
+    "amount_m": 1500.0,
+    "valuation_m": 14000.0,
+    "lead_investors": [
+      "Sands Capital",
+      "Founders Fund"
+    ],
+    "source": "https://techcrunch.com/2024/08/07/anduril-raises-1-5b-to-hyper-scale-defense-production/",
+    "notes": ""
+  },
+  {
+    "company_slug": "anduril",
+    "stage": "Series G",
+    "date": "2025-06",
+    "amount_m": 2500.0,
+    "valuation_m": 30500.0,
+    "lead_investors": [
+      "Founders Fund"
+    ],
+    "source": "https://techcrunch.com/2025/06/05/anduril-raises-2-5b-at-30-5b-valuation-led-by-founders-fund/",
+    "notes": ""
+  },
+  {
+    "company_slug": "anduril",
+    "stage": "Series H",
+    "date": "2026-03",
+    "amount_m": 4000.0,
+    "valuation_m": 60000.0,
+    "lead_investors": [
+      "Andreessen Horowitz",
+      "Thrive Capital"
+    ],
+    "source": "https://techcrunch.com/2026/03/03/anduril-aims-at-60-billion-valuation-in-new-funding-round/",
+    "notes": ""
+  },
+  {
+    "company_slug": "anomalo",
+    "stage": "",
+    "date": "2021",
+    "amount_m": null,
+    "valuation_m": null,
+    "lead_investors": [
+      "Foundation Capital"
+    ],
+    "source": "https://www.anomalo.com/blog/anomalo-raises-a-33-million-series-a-led-by-norwest-venture-partners/",
+    "notes": ""
+  },
+  {
+    "company_slug": "anomalo",
+    "stage": "",
+    "date": "2022",
+    "amount_m": null,
+    "valuation_m": null,
+    "lead_investors": [
+      "Norwest Venture Partners"
+    ],
+    "source": "https://www.anomalo.com/blog/anomalo-raises-a-33-million-series-a-led-by-norwest-venture-partners/",
+    "notes": ""
+  },
+  {
+    "company_slug": "anomalo",
+    "stage": "",
+    "date": "2024-01",
+    "amount_m": null,
+    "valuation_m": null,
+    "lead_investors": [
+      "SignalFire"
+    ],
+    "source": "https://www.globenewswire.com/news-release/2024/01/24/2815554/0/en/Anomalo-Reports-Record-Demand-for-Its-Data-Quality-Platform-as-It-Raises-a-33-Million-Growth-Round-With-Participation-From-Strategic-Investor-Databricks-Ventures.html",
+    "notes": ""
+  },
+  {
+    "company_slug": "anthropic",
+    "stage": "Series A",
+    "date": "2021-05",
+    "amount_m": 124.0,
+    "valuation_m": 550.0,
+    "lead_investors": [
+      "Jaan Tallinn",
+      "Dustin Moskovitz"
+    ],
+    "source": "https://news.crunchbase.com/ai/anthropic-raises-30b-second-largest-deal-all-time/",
+    "notes": ""
+  },
+  {
+    "company_slug": "anthropic",
+    "stage": "Series B",
+    "date": "2022-04",
+    "amount_m": 580.0,
+    "valuation_m": 4000.0,
+    "lead_investors": [
+      "FTX (Sam Bankman-Fried)"
+    ],
+    "source": "https://www.clay.com/dossier/anthropic-funding",
+    "notes": ""
+  },
+  {
+    "company_slug": "anthropic",
+    "stage": "Google strategic investment",
+    "date": "2023-02",
+    "amount_m": 550.0,
+    "valuation_m": null,
+    "lead_investors": [
+      "Google"
+    ],
+    "source": "https://en.wikipedia.org/wiki/Anthropic",
+    "notes": "Part of a broader commitment; Google eventually invested ~$2B total across 2023."
+  },
+  {
+    "company_slug": "anthropic",
+    "stage": "Series C",
+    "date": "2023-05",
+    "amount_m": 450.0,
+    "valuation_m": null,
+    "lead_investors": [
+      "Spark Capital"
+    ],
+    "source": "https://www.clay.com/dossier/anthropic-funding",
+    "notes": "Menlo Ventures, Salesforce Ventures, and Google also participated."
+  },
+  {
+    "company_slug": "anthropic",
+    "stage": "Amazon strategic investment (tranche 1)",
+    "date": "2023-09",
+    "amount_m": 1250.0,
+    "valuation_m": null,
+    "lead_investors": [
+      "Amazon"
+    ],
+    "source": "https://techcrunch.com/2023/09/25/amazon-to-invest-up-to-4-billion-in-ai-startup-anthropic/",
+    "notes": "Initial tranche of a $4B commitment. Anthropic named AWS primary cloud provider."
+  },
+  {
+    "company_slug": "anthropic",
+    "stage": "Series D",
+    "date": "2024-02",
+    "amount_m": 750.0,
+    "valuation_m": 18400.0,
+    "lead_investors": [
+      "Menlo Ventures"
+    ],
+    "source": "https://www.theinformation.com/articles/anthropic-to-raise-750-million-in-menlo-ventures-led-deal",
+    "notes": "Structured as an SPV (special purpose vehicle)."
+  },
+  {
+    "company_slug": "anthropic",
+    "stage": "Amazon strategic investment (tranche 2)",
+    "date": "2024-03",
+    "amount_m": 2750.0,
+    "valuation_m": null,
+    "lead_investors": [
+      "Amazon"
+    ],
+    "source": "https://www.aboutamazon.com/news/aws/amazon-invests-additional-4-billion-anthropic-ai",
+    "notes": "Completed the initial $4B Amazon commitment."
+  },
+  {
+    "company_slug": "anthropic",
+    "stage": "Amazon strategic investment (round 2)",
+    "date": "2024-11",
+    "amount_m": 4000.0,
+    "valuation_m": 41000.0,
+    "lead_investors": [
+      "Amazon"
+    ],
+    "source": "https://www.cnbc.com/2024/11/22/amazon-to-invest-another-4-billion-in-anthropic-openais-biggest-rival.html",
+    "notes": "Brought Amazon's total investment to $8B."
+  },
+  {
+    "company_slug": "anthropic",
+    "stage": "Series E",
+    "date": "2025-03",
+    "amount_m": 3500.0,
+    "valuation_m": 61500.0,
+    "lead_investors": [
+      "Lightspeed Venture Partners"
+    ],
+    "source": "https://www.anthropic.com/news/anthropic-raises-series-e-at-usd61-5b-post-money-valuation",
+    "notes": "Lightspeed contributed $1B. Bessemer, Cisco Investments, Fidelity, General Catalyst, Jane Street, Menlo Ventures, Salesforce Ventures also participated."
+  },
+  {
+    "company_slug": "anthropic",
+    "stage": "Series F",
+    "date": "2025-09",
+    "amount_m": 13000.0,
+    "valuation_m": 183000.0,
+    "lead_investors": [
+      "GIC",
+      "Coatue Management"
+    ],
+    "source": "https://sacra.com/c/anthropic/",
+    "notes": "Sequoia Capital, ICONIQ, and Lightspeed also participated."
+  },
+  {
+    "company_slug": "anthropic",
+    "stage": "Series G",
+    "date": "2026-02",
+    "amount_m": 30000.0,
+    "valuation_m": 380000.0,
+    "lead_investors": [
+      "GIC",
+      "Coatue",
+      "D.E. Shaw",
+      "Dragoneer",
+      "Founders Fund",
+      "ICONIQ",
+      "MGX"
+    ],
+    "source": "https://www.cnbc.com/2026/02/12/anthropic-closes-30-billion-funding-round-at-380-billion-valuation.html",
+    "notes": "Second-largest venture funding deal of all time. Microsoft and Nvidia also participated."
+  },
+  {
+    "company_slug": "applied-intuition",
+    "stage": "Seed",
+    "date": "2017-01",
+    "amount_m": null,
+    "valuation_m": null,
+    "lead_investors": [
+      "Floodgate"
+    ],
+    "source": "https://research.contrary.com/company/applied-intuition",
+    "notes": ""
+  },
+  {
+    "company_slug": "applied-intuition",
+    "stage": "Series A",
+    "date": "2018-09",
+    "amount_m": 11.5,
+    "valuation_m": null,
+    "lead_investors": [
+      "Andreessen Horowitz"
+    ],
+    "source": "https://www.crunchbase.com/funding_round/applied-intuition-series-a--06b58f4c",
+    "notes": ""
+  },
+  {
+    "company_slug": "applied-intuition",
+    "stage": "Series B",
+    "date": "2019-09-12",
+    "amount_m": 40.0,
+    "valuation_m": null,
+    "lead_investors": [
+      "General Catalyst"
+    ],
+    "source": "https://www.globenewswire.com/news-release/2019/09/12/1914818/0/en/Applied-Intuition-Secures-40-Million-in-Series-B-Funding-Led-by-General-Catalyst.html",
+    "notes": ""
+  },
+  {
+    "company_slug": "applied-intuition",
+    "stage": "Series C",
+    "date": "2021-03",
+    "amount_m": 125.0,
+    "valuation_m": 1250.0,
+    "lead_investors": [
+      "Lux Capital",
+      "Andreessen Horowitz",
+      "General Catalyst"
+    ],
+    "source": "https://www.appliedintuition.com/news/series-c",
+    "notes": ""
+  },
+  {
+    "company_slug": "applied-intuition",
+    "stage": "Series D",
+    "date": "2021-11-11",
+    "amount_m": 175.0,
+    "valuation_m": 3600.0,
+    "lead_investors": [
+      "Elad Gil",
+      "Addition",
+      "Coatue Management"
+    ],
+    "source": "https://www.prnewswire.com/news-releases/applied-intuition-raises-175m-series-d-co-led-by-elad-gil-addition-and-coatue-management-at-3-6b-valuation-301422396.html",
+    "notes": ""
+  },
+  {
+    "company_slug": "applied-intuition",
+    "stage": "Series E",
+    "date": "2024-03-12",
+    "amount_m": 250.0,
+    "valuation_m": 6000.0,
+    "lead_investors": [
+      "Lux Capital",
+      "Elad Gil"
+    ],
+    "source": "https://techcrunch.com/2024/03/12/applied-intuition-series-e-raise-funding-andreessen-lux/",
+    "notes": ""
+  },
+  {
+    "company_slug": "applied-intuition",
+    "stage": "Series F",
+    "date": "2025-06-17",
+    "amount_m": 600.0,
+    "valuation_m": 15000.0,
+    "lead_investors": [
+      "BlackRock",
+      "Kleiner Perkins"
+    ],
+    "source": "https://techcrunch.com/2025/06/17/applied-intuition-raises-600-million-as-it-pushes-further-into-defense/",
+    "notes": ""
+  },
+  {
+    "company_slug": "atlan",
+    "stage": "",
+    "date": "2019-07",
+    "amount_m": null,
+    "valuation_m": null,
+    "lead_investors": [
+      "WaterBridge Ventures"
+    ],
+    "source": "https://techcrunch.com/2019/07/01/atlan-socialcops/",
+    "notes": ""
+  },
+  {
+    "company_slug": "atlan",
+    "stage": "",
+    "date": "2021-05",
+    "amount_m": null,
+    "valuation_m": null,
+    "lead_investors": [
+      "Insight Partners"
+    ],
+    "source": "https://tracxn.com/d/companies/atlan/__wmS8cTNiTpcWtSAsRTmxu2alNUcymWvjDPnevifoSnQ/funding-and-investors",
+    "notes": ""
+  },
+  {
+    "company_slug": "atlan",
+    "stage": "",
+    "date": "2023-03",
+    "amount_m": null,
+    "valuation_m": null,
+    "lead_investors": [
+      "Insight Partners"
+    ],
+    "source": "https://tracxn.com/d/companies/atlan/__wmS8cTNiTpcWtSAsRTmxu2alNUcymWvjDPnevifoSnQ/funding-and-investors",
+    "notes": ""
+  },
+  {
+    "company_slug": "atlan",
+    "stage": "",
+    "date": "2024-05",
+    "amount_m": null,
+    "valuation_m": null,
+    "lead_investors": [
+      "GIC (Singapore sovereign wealth fund)",
+      "Meritech Capital"
+    ],
+    "source": "https://siliconangle.com/2024/05/08/atlan-raises-105m-750m-valuation-data-ai-governance-platform/",
+    "notes": ""
+  },
+  {
+    "company_slug": "chaos-industries",
+    "stage": "Series B",
+    "date": "2024-06",
+    "amount_m": 145.0,
+    "valuation_m": null,
+    "lead_investors": [],
+    "source": "https://news.crunchbase.com/venture/defense-tech-funding-growth-chaos-industries/",
+    "notes": ""
+  },
+  {
+    "company_slug": "chaos-industries",
+    "stage": "Series C",
+    "date": "2025-05",
+    "amount_m": 275.0,
+    "valuation_m": 2000.0,
+    "lead_investors": [
+      "Accel",
+      "NEA"
+    ],
+    "source": "https://www.ensemble.vc/research/chaos-industries-reaches-2b-valuation-in-series-c-led-by-accel-nea",
+    "notes": ""
+  },
+  {
+    "company_slug": "chaos-industries",
+    "stage": "Series D",
+    "date": "2025-11",
+    "amount_m": 510.0,
+    "valuation_m": 4500.0,
+    "lead_investors": [
+      "Valor Equity Partners"
+    ],
+    "source": "https://news.crunchbase.com/defense-tech/funding-hits-record-high-2025-snapshot/",
+    "notes": ""
+  },
+  {
+    "company_slug": "cohere",
+    "stage": "",
+    "date": "2021-09-07",
+    "amount_m": null,
+    "valuation_m": null,
+    "lead_investors": [
+      "Index Ventures"
+    ],
+    "source": "https://en.wikipedia.org/wiki/Cohere",
+    "notes": ""
+  },
+  {
+    "company_slug": "cohere",
+    "stage": "",
+    "date": "2022-02-16",
+    "amount_m": null,
+    "valuation_m": null,
+    "lead_investors": [
+      "Tiger Global Management"
+    ],
+    "source": "https://betakit.com/cohere-closes-125-million-usd-series-b-round-led-by-tiger-global/",
+    "notes": ""
+  },
+  {
+    "company_slug": "cohere",
+    "stage": "",
+    "date": "2023-06-01",
+    "amount_m": null,
+    "valuation_m": null,
+    "lead_investors": [
+      "Inovia Capital"
+    ],
+    "source": "https://en.wikipedia.org/wiki/Cohere",
+    "notes": ""
+  },
+  {
+    "company_slug": "cohere",
+    "stage": "",
+    "date": "2024-07-22",
+    "amount_m": null,
+    "valuation_m": null,
+    "lead_investors": [
+      "PSP Investments"
+    ],
+    "source": "https://betakit.com/cohere-series-d-tops-out-at-500-million-raised-at-5-5-billion-valuation/",
+    "notes": ""
+  },
+  {
+    "company_slug": "cohere",
+    "stage": "",
+    "date": "2025-08-14",
+    "amount_m": null,
+    "valuation_m": null,
+    "lead_investors": [
+      "Radical Ventures",
+      "Inovia Capital"
+    ],
+    "source": "https://cohere.com/blog/august-2025-funding-round",
+    "notes": ""
+  },
+  {
+    "company_slug": "cohere",
+    "stage": "",
+    "date": "2025-09-24",
+    "amount_m": null,
+    "valuation_m": null,
+    "lead_investors": [],
+    "source": "https://betakit.com/coheres-valuation-hits-7-billion-usd-following-100-million-round-extension/",
+    "notes": ""
+  },
+  {
+    "company_slug": "corvus-robotics",
+    "stage": "Series A",
+    "date": "2024-09-16",
+    "amount_m": 18.0,
+    "valuation_m": null,
+    "lead_investors": [
+      "Spero Ventures",
+      "S2G Investments"
+    ],
+    "source": "https://blog.corvus-robotics.com/corvus-one-launch-and-series-a-funding",
+    "notes": "Coincided with the launch of Corvus One, the company's flagship fully autonomous warehouse drone. Total funding reached ~$28M.\n"
+  },
+  {
+    "company_slug": "corvus-robotics",
+    "stage": "Seed",
+    "date": "~2018",
+    "amount_m": null,
+    "valuation_m": null,
+    "lead_investors": [],
+    "source": "https://www.ycombinator.com/companies/corvus-robotics",
+    "notes": "Graduated from Y Combinator S18 batch.\n"
+  },
+  {
+    "company_slug": "covariant",
+    "stage": "Seed",
+    "date": "2017-11",
+    "amount_m": 7.0,
+    "valuation_m": null,
+    "lead_investors": [
+      "Amplify Partners"
+    ],
+    "source": "https://en.wikipedia.org/wiki/Covariant_(company)",
+    "notes": "Founded as Embodied Intelligence. Renamed to Covariant in 2019."
+  },
+  {
+    "company_slug": "covariant",
+    "stage": "Series A",
+    "date": "2019-05",
+    "amount_m": 20.0,
+    "valuation_m": null,
+    "lead_investors": [
+      "Index Ventures"
+    ],
+    "source": "https://en.wikipedia.org/wiki/Covariant_(company)",
+    "notes": ""
+  },
+  {
+    "company_slug": "covariant",
+    "stage": "Series B",
+    "date": "2020-05",
+    "amount_m": 40.0,
+    "valuation_m": null,
+    "lead_investors": [
+      "Index Ventures"
+    ],
+    "source": "https://covariant.ai/covariant-raises-usd40-million-in-series-b-funding-to-bring-ai-robotics-to-new-industries/",
+    "notes": ""
+  },
+  {
+    "company_slug": "covariant",
+    "stage": "Series C",
+    "date": "2021-07",
+    "amount_m": 80.0,
+    "valuation_m": null,
+    "lead_investors": [
+      "Index Ventures"
+    ],
+    "source": "https://techcrunch.com/2021/07/27/robotic-ai-firm-covariant-raises-another-80-million/",
+    "notes": "Amplify Partners and Radical Ventures also participated."
+  },
+  {
+    "company_slug": "covariant",
+    "stage": "Series C extension",
+    "date": "2023-04",
+    "amount_m": 75.0,
+    "valuation_m": 625.0,
+    "lead_investors": [
+      "Radical Ventures",
+      "Index Ventures"
+    ],
+    "source": "https://techcrunch.com/2023/04/04/covariants-robotic-picking-at-nabs-another-75m/",
+    "notes": "CPPIB, Amplify Partners, Gates Frontier Holdings, AIX Ventures, Northgate Capital also participated. Brought total funding to $222M. Valuation of $625M reported in whistleblower filings."
+  },
+  {
+    "company_slug": "covariant",
+    "stage": "Amazon reverse acquihire",
+    "date": "2024-08",
+    "amount_m": 400.0,
+    "valuation_m": null,
+    "lead_investors": [
+      "Amazon"
+    ],
+    "source": "https://www.washingtonpost.com/technology/2025/01/18/amazon-antitrust-ai-whistleblower/",
+    "notes": "$380M upfront + $20M final licensing payment due one year after close. Not a traditional acquisition -- Amazon licensed Covariant's technology (non-exclusive) and hired 3 co-founders + ~25% of staff. Structured to avoid premerger antitrust reporting, per whistleblower complaint."
+  },
+  {
+    "company_slug": "cradle",
+    "stage": "Seed",
+    "date": "2022-11",
+    "amount_m": 5.5,
+    "valuation_m": null,
+    "lead_investors": [
+      "Index Ventures"
+    ],
+    "source": "https://www.cradle.bio/blog/cradle-raises-5m",
+    "notes": "Angel investors included Feike Sijbesma (Honorary Chairman, former CEO of Royal DSM) and Emily Leproust (founder of Twist Bioscience)."
+  },
+  {
+    "company_slug": "cradle",
+    "stage": "Series A",
+    "date": "2023-11",
+    "amount_m": 24.0,
+    "valuation_m": null,
+    "lead_investors": [
+      "Index Ventures"
+    ],
+    "source": "https://www.indexventures.com/perspectives/biotech-startup-cradle-raises-24m-and-signs-partnerships-with-industry-leaders/",
+    "notes": "Kindred Capital participated. Angel investors included Chris Gibson (co-founder/CEO of Recursion) and Tom Glocer (former CEO of Thomson Reuters, Lead Director at Merck)."
+  },
+  {
+    "company_slug": "cradle",
+    "stage": "Series B",
+    "date": "2024-11",
+    "amount_m": 73.0,
+    "valuation_m": null,
+    "lead_investors": [
+      "IVP (Institutional Venture Partners)"
+    ],
+    "source": "https://www.cradle.bio/blog/series-b",
+    "notes": "Index Ventures and Kindred Capital participated. Brought total raised to over $100M."
+  },
+  {
+    "company_slug": "databricks",
+    "stage": "",
+    "date": "2013-09",
+    "amount_m": null,
+    "valuation_m": null,
+    "lead_investors": [
+      "Andreessen Horowitz"
+    ],
+    "source": "https://www.databricks.com/company/newsroom/press-releases",
+    "notes": ""
+  },
+  {
+    "company_slug": "databricks",
+    "stage": "",
+    "date": "2014-07",
+    "amount_m": null,
+    "valuation_m": null,
+    "lead_investors": [
+      "New Enterprise Associates (NEA)"
+    ],
+    "source": "https://tracxn.com/d/companies/databricks/__h71WlGEvmuefCzSdZogxaGihmuCYu0rBKj3hkmJQF7M/funding-and-investors",
+    "notes": ""
+  },
+  {
+    "company_slug": "databricks",
+    "stage": "",
+    "date": "2016-12",
+    "amount_m": null,
+    "valuation_m": null,
+    "lead_investors": [
+      "New Enterprise Associates (NEA)"
+    ],
+    "source": "https://www.crunchbase.com/funding_round/databricks-series-c--e9a8fa71",
+    "notes": ""
+  },
+  {
+    "company_slug": "databricks",
+    "stage": "",
+    "date": "2017-08",
+    "amount_m": null,
+    "valuation_m": null,
+    "lead_investors": [
+      "Andreessen Horowitz"
+    ],
+    "source": "https://tracxn.com/d/companies/databricks/__h71WlGEvmuefCzSdZogxaGihmuCYu0rBKj3hkmJQF7M/funding-and-investors",
+    "notes": ""
+  },
+  {
+    "company_slug": "databricks",
+    "stage": "",
+    "date": "2019-02",
+    "amount_m": null,
+    "valuation_m": null,
+    "lead_investors": [
+      "Andreessen Horowitz"
+    ],
+    "source": "https://www.databricks.com/company/newsroom/press-releases/databricks-250-million-funding-supports-explosive-growth-and-global-demand-for-unified-analytics-brings-valuation-to-2-75-billion",
+    "notes": ""
+  },
+  {
+    "company_slug": "databricks",
+    "stage": "",
+    "date": "2019-10",
+    "amount_m": null,
+    "valuation_m": null,
+    "lead_investors": [
+      "Andreessen Horowitz (Late Stage Venture Fund)"
+    ],
+    "source": "https://www.databricks.com/company/newsroom/press-releases/databricks-growth-draws-400-million-series-f-investment-and-6-2-billion-valuation",
+    "notes": ""
+  },
+  {
+    "company_slug": "databricks",
+    "stage": "",
+    "date": "2021-02",
+    "amount_m": null,
+    "valuation_m": null,
+    "lead_investors": [
+      "Franklin Templeton"
+    ],
+    "source": "https://www.databricks.com/company/newsroom/press-releases/databricks-raises-1-billion-series-g-investment-at-28-billion-valuation",
+    "notes": ""
+  },
+  {
+    "company_slug": "databricks",
+    "stage": "",
+    "date": "2021-08",
+    "amount_m": null,
+    "valuation_m": null,
+    "lead_investors": [
+      "Counterpoint Global (Morgan Stanley)"
+    ],
+    "source": "https://www.databricks.com/company/newsroom/press-releases/databricks-raises-1-6-billion-series-h-investment-at-38-billion-valuation",
+    "notes": ""
+  },
+  {
+    "company_slug": "databricks",
+    "stage": "",
+    "date": "2023-09",
+    "amount_m": null,
+    "valuation_m": null,
+    "lead_investors": [
+      "T. Rowe Price"
+    ],
+    "source": "https://www.databricks.com/company/newsroom/press-releases/databricks-raises-series-i-investment-43b-valuation",
+    "notes": ""
+  },
+  {
+    "company_slug": "databricks",
+    "stage": "",
+    "date": "2024-12",
+    "amount_m": null,
+    "valuation_m": null,
+    "lead_investors": [
+      "Thrive Capital"
+    ],
+    "source": "https://www.databricks.com/company/newsroom/press-releases/databricks-raising-10b-series-j-investment-62b-valuation",
+    "notes": ""
+  },
+  {
+    "company_slug": "databricks",
+    "stage": "",
+    "date": "2025-08",
+    "amount_m": null,
+    "valuation_m": null,
+    "lead_investors": [
+      "Andreessen Horowitz",
+      "Insight Partners",
+      "MGX",
+      "Thrive Capital",
+      "WCM Investment Management"
+    ],
+    "source": "https://www.databricks.com/company/newsroom/press-releases/databricks-raising-series-k-investment-100-billion-valuation",
+    "notes": ""
+  },
+  {
+    "company_slug": "databricks",
+    "stage": "",
+    "date": "2026-01",
+    "amount_m": null,
+    "valuation_m": null,
+    "lead_investors": [
+      "Insight Partners",
+      "Fidelity Management & Research",
+      "J.P. Morgan Asset Management"
+    ],
+    "source": "https://www.cnbc.com/2026/02/09/databricks-completes-5-billion-funding-round-with-2-billion-in-debt.html",
+    "notes": ""
+  },
+  {
+    "company_slug": "deepl",
+    "stage": "Series B (sometimes reported as Series A)",
+    "date": "2023-01",
+    "amount_m": null,
+    "valuation_m": null,
+    "lead_investors": [
+      "IVP"
+    ],
+    "source": "https://techcrunch.com/2023/01/11/deepl-the-ai-based-language-translator-raises-over-100m-at-a-1b-valuation/",
+    "notes": ""
+  },
+  {
+    "company_slug": "deepl",
+    "stage": "Series C (sometimes reported as Series B)",
+    "date": "2024-05-22",
+    "amount_m": null,
+    "valuation_m": null,
+    "lead_investors": [
+      "Index Ventures"
+    ],
+    "source": "https://techcrunch.com/2024/05/22/deepl-the-ai-language-translation-startup-nabs-300m-on-a-2b-valuation-to-focus-on-b2b-growth/",
+    "notes": "Doubled valuation in ~16 months. Earmarked for B2B expansion and product development."
+  },
+  {
+    "company_slug": "deepl",
+    "stage": "Seed / Early (details sparse)",
+    "date": "~2017-2018",
+    "amount_m": null,
+    "valuation_m": null,
+    "lead_investors": [],
+    "source": "https://tracxn.com/d/companies/deepl/__mTFDDSjOlFbUE5DY_w1NWY3gI5ttRRBOXtV7p6GCqJE/funding-and-investors",
+    "notes": "Initial backing from Benchmark and btov Partners."
+  },
+  {
+    "company_slug": "elevenlabs",
+    "stage": "Pre-Seed",
+    "date": "2023-01",
+    "amount_m": 2.0,
+    "valuation_m": null,
+    "lead_investors": [
+      "Credo Ventures"
+    ],
+    "source": "https://tracxn.com/d/companies/elevenlabs/__Tvkv2vcQvT5RiO80KqXicawZyFtA-r7-J533YWuiDrM/funding-and-investors",
+    "notes": ""
+  },
+  {
+    "company_slug": "elevenlabs",
+    "stage": "Series A",
+    "date": "2023-06",
+    "amount_m": 19.0,
+    "valuation_m": 100.0,
+    "lead_investors": [
+      "Andreessen Horowitz",
+      "Nat Friedman",
+      "Daniel Gross"
+    ],
+    "source": "https://elevenlabs.io/blog/elevenlabs-launches-new-generative-voice-ai-products-and-announces-19m-series-a-round-led-by-nat-friedman-daniel-gross-and-andreessen-horowitz",
+    "notes": ""
+  },
+  {
+    "company_slug": "elevenlabs",
+    "stage": "Series B",
+    "date": "2024-01",
+    "amount_m": 80.0,
+    "valuation_m": 1100.0,
+    "lead_investors": [
+      "Andreessen Horowitz",
+      "Nat Friedman",
+      "Daniel Gross",
+      "Sequoia Capital"
+    ],
+    "source": "https://techcrunch.com/2024/01/22/voice-cloning-startup-elevenlabs-lands-80m-achieves-unicorn-status/",
+    "notes": ""
+  },
+  {
+    "company_slug": "elevenlabs",
+    "stage": "Series C",
+    "date": "2025-01",
+    "amount_m": 180.0,
+    "valuation_m": 3300.0,
+    "lead_investors": [
+      "Andreessen Horowitz",
+      "ICONIQ Growth"
+    ],
+    "source": "https://elevenlabs.io/blog/series-c",
+    "notes": ""
+  },
+  {
+    "company_slug": "elevenlabs",
+    "stage": "Series D",
+    "date": "2026-02",
+    "amount_m": 500.0,
+    "valuation_m": 11000.0,
+    "lead_investors": [
+      "Sequoia Capital"
+    ],
+    "source": "https://techcrunch.com/2026/02/04/elevenlabs-raises-500m-from-sequioia-at-a-11-billion-valuation/",
+    "notes": ""
+  },
+  {
+    "company_slug": "epirus",
+    "stage": "Seed",
+    "date": "2019-01",
+    "amount_m": null,
+    "valuation_m": null,
+    "lead_investors": [],
+    "source": "https://research.contrary.com/company/epirus",
+    "notes": ""
+  },
+  {
+    "company_slug": "epirus",
+    "stage": "Series A",
+    "date": "2020-06",
+    "amount_m": 6.5,
+    "valuation_m": null,
+    "lead_investors": [],
+    "source": "https://research.contrary.com/company/epirus",
+    "notes": ""
+  },
+  {
+    "company_slug": "epirus",
+    "stage": "Series B",
+    "date": "2021-06",
+    "amount_m": 70.0,
+    "valuation_m": null,
+    "lead_investors": [
+      "8VC"
+    ],
+    "source": "https://www.epirusinc.com/press-releases/epirus-inc-raises-70m-in-series-b-funding-advancing-directed-energy-for-defense-and-commercial-applications",
+    "notes": ""
+  },
+  {
+    "company_slug": "epirus",
+    "stage": "Series C",
+    "date": "2022-02",
+    "amount_m": 200.0,
+    "valuation_m": 1350.0,
+    "lead_investors": [
+      "8VC"
+    ],
+    "source": "https://techstartups.com/2022/02/15/directed-energy-weapon-tech-startup-epirus-gets-200m-cash-infusion-develop-drone-zapping-weapons-u-s-military-now-valued-1-35-billion/",
+    "notes": ""
+  },
+  {
+    "company_slug": "epirus",
+    "stage": "Series D",
+    "date": "2025-03",
+    "amount_m": 250.0,
+    "valuation_m": null,
+    "lead_investors": [
+      "8VC",
+      "Washington Harbour Partners"
+    ],
+    "source": "https://techcrunch.com/2025/03/04/defense-tech-startup-epirus-raises-250m-series-d-to-counter-drone-swarms/",
+    "notes": ""
+  },
+  {
+    "company_slug": "field-ai",
+    "stage": "Growth Round",
+    "date": "2025-08-20",
+    "amount_m": 314.0,
+    "valuation_m": 2000.0,
+    "lead_investors": [
+      "Bezos Expeditions",
+      "Prysm Capital",
+      "Temasek"
+    ],
+    "source": "https://www.cnbc.com/2025/08/20/gates-nvidia-fieldai-robotics.html",
+    "notes": "Brought total raised to over $405M. Backed by Bezos, Gates, and NVIDIA. Valuation close to $2 billion.\n"
+  },
+  {
+    "company_slug": "field-ai",
+    "stage": "Earlier Rounds",
+    "date": "~2024 (late)",
+    "amount_m": 91.0,
+    "valuation_m": null,
+    "lead_investors": [],
+    "source": "https://www.prnewswire.com/news-releases/fieldai-announces-over-400m-in-funds-raised-to-advance-embodied-ai-at-scale-302534675.html",
+    "notes": "Initial round raised in late 2024 before the larger 2025 raise.\n"
+  },
+  {
+    "company_slug": "figure-ai",
+    "stage": "Seed",
+    "date": "2022",
+    "amount_m": 100.0,
+    "valuation_m": null,
+    "lead_investors": [
+      "Brett Adcock (personal capital)"
+    ],
+    "source": "https://en.wikipedia.org/wiki/Figure_AI",
+    "notes": ""
+  },
+  {
+    "company_slug": "figure-ai",
+    "stage": "Series A",
+    "date": "2023-05",
+    "amount_m": 70.0,
+    "valuation_m": 500.0,
+    "lead_investors": [
+      "Parkway Venture Capital"
+    ],
+    "source": "https://sacra.com/c/figure-ai/",
+    "notes": ""
+  },
+  {
+    "company_slug": "figure-ai",
+    "stage": "Series B",
+    "date": "2024-02",
+    "amount_m": 675.0,
+    "valuation_m": 2600.0,
+    "lead_investors": [
+      "Microsoft",
+      "Jeff Bezos (Bezos Expeditions)",
+      "OpenAI Startup Fund",
+      "NVIDIA"
+    ],
+    "source": "https://www.prnewswire.com/news-releases/figure-raises-675m-at-2-6b-valuation-and-signs-collaboration-agreement-with-openai-302074897.html",
+    "notes": "Coincided with OpenAI collaboration agreement for next-gen AI models for humanoid robots. Figure also secured Microsoft Azure for AI infrastructure.\n"
+  },
+  {
+    "company_slug": "figure-ai",
+    "stage": "Series C",
+    "date": "2025-09",
+    "amount_m": null,
+    "valuation_m": 39000.0,
+    "lead_investors": [
+      "Parkway Venture Capital"
+    ],
+    "source": "https://www.figure.ai/news/series-c",
+    "notes": "15x valuation jump in ~18 months (from $2.6B to $39B). Largest humanoid-robotics round at the time.\n"
+  },
+  {
+    "company_slug": "forsight-robotics",
+    "stage": "Series B",
+    "date": "2025-06-24",
+    "amount_m": 125.0,
+    "valuation_m": null,
+    "lead_investors": [
+      "Eclipse"
+    ],
+    "source": "https://www.businesswire.com/news/home/20250624465565/en/ForSight-Robotics-Secures-$125M-in-Series-B-Funding-Addressing-Global-Surgeon-Shortage-and-Exploding-Demand-for-Ophthalmic-Surgery",
+    "notes": "Brought total funding to $195M. Dr. Fred Moll, founder of Intuitive Surgical (maker of the da Vinci system), is a notable individual investor -- a strong endorsement from the godfather of surgical robotics.\n"
+  },
+  {
+    "company_slug": "forsight-robotics",
+    "stage": "Series A",
+    "date": "~2022",
+    "amount_m": 70.0,
+    "valuation_m": null,
+    "lead_investors": [],
+    "source": "https://www.crunchbase.com/organization/forsight-robotics",
+    "notes": "Early rounds to develop the ORYOM ophthalmic surgical robotics platform.\n"
+  },
+  {
+    "company_slug": "fourier-intelligence",
+    "stage": "Series E",
+    "date": "2025-01-07",
+    "amount_m": null,
+    "valuation_m": null,
+    "lead_investors": [
+      "Guoxin Investment",
+      "Pudong Venture Capital"
+    ],
+    "source": "https://humanoidroboticstechnology.com/articles/humanoid-funding-rounds-in-2025/",
+    "notes": "Ninth funding round overall. Prosperity7 (Saudi Aramco's VC arm) participation reflects growing Middle Eastern interest in humanoid robotics.\n"
+  },
+  {
+    "company_slug": "fourier-intelligence",
+    "stage": "Series D",
+    "date": "~2023",
+    "amount_m": null,
+    "valuation_m": null,
+    "lead_investors": [
+      "SoftBank Vision Fund II"
+    ],
+    "source": "https://kr-asia.com/fourier-intelligences-founder-breaks-down-whats-next-for-humanoid-robots",
+    "notes": "SoftBank's investment signaled global ambitions for Fourier's humanoid program.\n"
+  },
+  {
+    "company_slug": "gather-ai",
+    "stage": "Series A-1",
+    "date": "2024-03",
+    "amount_m": 17.0,
+    "valuation_m": 72.0,
+    "lead_investors": [
+      "Bain Capital Ventures"
+    ],
+    "source": "https://www.gather.ai/news/gather-ai-raises-17m-to-accelerate-growth-and-bring-warehouses-into-the-modern-era-with-ai-powered-inventory-monitoring",
+    "notes": "Used to expand commercial deployments and build out AI-powered inventory analytics platform.\n"
+  },
+  {
+    "company_slug": "gather-ai",
+    "stage": "Series B",
+    "date": "2026-02-09",
+    "amount_m": 40.0,
+    "valuation_m": null,
+    "lead_investors": [
+      "Smith Point Capital (Keith Block, former Salesforce co-CEO)"
+    ],
+    "source": "https://techcrunch.com/2026/02/09/gather-ai-maker-of-curious-warehouse-drones-lands-40m-led-by-keith-blocks-firm/",
+    "notes": "Brought total funding to $74M. Led by Keith Block's VC firm, signaling enterprise SaaS credibility for the platform.\n"
+  },
+  {
+    "company_slug": "gather-ai",
+    "stage": "Seed",
+    "date": "~2019",
+    "amount_m": null,
+    "valuation_m": null,
+    "lead_investors": [],
+    "source": "https://www.gather.ai",
+    "notes": "Early stage funding after spinning out of CMU Robotics Institute.\n"
+  },
+  {
+    "company_slug": "groq",
+    "stage": "Series A",
+    "date": "2016-12",
+    "amount_m": 10.0,
+    "valuation_m": 30.0,
+    "lead_investors": [
+      "Social Capital (Chamath Palihapitiya)"
+    ],
+    "source": "https://techcrunch.com/2018/09/05/secretive-semiconductor-startup-groq-raises-52m-from-social-capital/",
+    "notes": "Very early bet by Chamath. The company was highly secretive at this stage."
+  },
+  {
+    "company_slug": "groq",
+    "stage": "Series B",
+    "date": "2018-09",
+    "amount_m": 52.0,
+    "valuation_m": null,
+    "lead_investors": [
+      "Social Capital (Chamath Palihapitiya)"
+    ],
+    "source": "https://techcrunch.com/2018/09/05/secretive-semiconductor-startup-groq-raises-52m-from-social-capital/",
+    "notes": "Raised $52.3M of a planned $60M round. Social Capital continued as lead."
+  },
+  {
+    "company_slug": "groq",
+    "stage": "Series C",
+    "date": "2021-04",
+    "amount_m": 300.0,
+    "valuation_m": 1000.0,
+    "lead_investors": [
+      "Tiger Global Management",
+      "D1 Capital Partners"
+    ],
+    "source": "https://www.bloomberg.com/news/articles/2021-04-14/tiger-global-d1-lead-300-million-round-in-ai-chip-startup-groq",
+    "notes": "Achieved unicorn status. Addition LP (Lee Fixel) and Spruce House Partnership also participated. BlackRock entered here."
+  },
+  {
+    "company_slug": "groq",
+    "stage": "Series D",
+    "date": "2024-08",
+    "amount_m": 640.0,
+    "valuation_m": 2800.0,
+    "lead_investors": [
+      "BlackRock Private Equity Partners"
+    ],
+    "source": "https://groq.com/newsroom/groq-raises-640m-to-meet-soaring-demand-for-fast-ai-inference",
+    "notes": "Neuberger Berman, Cisco Investments, Samsung Catalyst Fund, KDDI Open Innovation Fund III also participated. Funds earmarked for scaling GroqCloud and deploying 100K+ additional LPUs."
+  },
+  {
+    "company_slug": "groq",
+    "stage": "Saudi Arabia / HUMAIN commitment",
+    "date": "2025-02",
+    "amount_m": 1500.0,
+    "valuation_m": null,
+    "lead_investors": [
+      "Kingdom of Saudi Arabia (PIF / HUMAIN)"
+    ],
+    "source": "https://groq.com/blog/saudi-arabia-announces-1-5-billion-expansion-to-fuel-ai-powered-economy-with-groq",
+    "notes": "Infrastructure deployment commitment, not equity round. For LPU-based inference infrastructure in Dammam data center. Groq became key tech provider for HUMAIN, Saudi's state-owned AI entity."
+  },
+  {
+    "company_slug": "groq",
+    "stage": "Series E",
+    "date": "2025-09",
+    "amount_m": 750.0,
+    "valuation_m": 6900.0,
+    "lead_investors": [
+      "Disruptive"
+    ],
+    "source": "https://groq.com/newsroom/groq-raises-750-million-as-inference-demand-surges",
+    "notes": "BlackRock, Neuberger Berman, DTCP, Samsung, Cisco, D1, Altimeter, 1789 Capital, and Infinitum also participated. More than doubled the Series D valuation."
+  },
+  {
+    "company_slug": "groq",
+    "stage": "Nvidia licensing / acqui-hire",
+    "date": "2025-12",
+    "amount_m": 20000.0,
+    "valuation_m": null,
+    "lead_investors": [
+      "Nvidia"
+    ],
+    "source": "https://www.cnbc.com/2025/12/24/nvidia-buying-ai-chip-startup-groq-for-about-20-billion-biggest-deal.html",
+    "notes": "Structured as non-exclusive licensing agreement + acqui-hire, not a traditional acquisition. $17B in cash across three installments by end of 2026. Jonathan Ross and senior leaders joined Nvidia. Groq continues as nominally independent company under CFO Simon Edwards as CEO. Nvidia's largest deal ever (previous: Mellanox at ~$7B in 2019)."
+  },
+  {
+    "company_slug": "helsing",
+    "stage": "Seed",
+    "date": "2021-12",
+    "amount_m": 110.0,
+    "valuation_m": null,
+    "lead_investors": [
+      "Prima Materia",
+      "Spotify's Daniel Ek"
+    ],
+    "source": "https://helsing.ai/newsroom/helsing-raises-eur600m-to-invest-in-european-technological-sovereignty",
+    "notes": ""
+  },
+  {
+    "company_slug": "helsing",
+    "stage": "Series A",
+    "date": "2023-03",
+    "amount_m": 223.0,
+    "valuation_m": null,
+    "lead_investors": [
+      "General Catalyst",
+      "Accel"
+    ],
+    "source": "https://en.wikipedia.org/wiki/Helsing_(company)",
+    "notes": ""
+  },
+  {
+    "company_slug": "helsing",
+    "stage": "Series C",
+    "date": "2024-07",
+    "amount_m": 489.0,
+    "valuation_m": 5400.0,
+    "lead_investors": [
+      "General Catalyst"
+    ],
+    "source": "https://sacra.com/c/helsing/",
+    "notes": ""
+  },
+  {
+    "company_slug": "helsing",
+    "stage": "Series D",
+    "date": "2025-06",
+    "amount_m": 694.0,
+    "valuation_m": 13200.0,
+    "lead_investors": [
+      "Prima Materia"
+    ],
+    "source": "https://tech.eu/2025/06/17/helsing-raises-600-million-elevating-valuation-to-eur12bn/",
+    "notes": ""
+  },
+  {
+    "company_slug": "mind-robotics",
+    "stage": "Seed",
+    "date": "2025-11",
+    "amount_m": 115.0,
+    "valuation_m": null,
+    "lead_investors": [
+      "Eclipse"
+    ],
+    "source": "https://techcrunch.com/2025/11/04/rivian-creates-another-spinoff-company-called-mind-robotics/",
+    "notes": "Raised alongside the November 2025 spinout from Rivian. Hanabi Capital Management also participated. Some sources report the seed as $110M rather than $115M -- exact figure uncertain."
+  },
+  {
+    "company_slug": "mind-robotics",
+    "stage": "Series A",
+    "date": "2026-03",
+    "amount_m": 500.0,
+    "valuation_m": 2000.0,
+    "lead_investors": [
+      "Accel",
+      "Andreessen Horowitz"
+    ],
+    "source": "https://www.businesswire.com/news/home/20260311414783/en/Mind-Robotics-Announces-$500M-Financing-to-Support-Deployment-of-AI-Powered-Robots-at-Industrial-Scale",
+    "notes": "Co-led by Accel and a16z. Sameer Gandhi (Accel) joined the board. Rivian Automotive remains a major shareholder. Announced March 11, 2026. Valuation reported at approximately $2B."
+  },
+  {
+    "company_slug": "mistral-ai",
+    "stage": "Seed",
+    "date": "2023-06-13",
+    "amount_m": null,
+    "valuation_m": null,
+    "lead_investors": [
+      "Lightspeed Venture Partners"
+    ],
+    "source": "https://techcrunch.com/2023/06/13/frances-mistral-ai-blows-in-with-a-113m-seed-round-at-a-260m-valuation-to-take-on-openai/",
+    "notes": "Largest seed round in European history at the time. Company was ~1 month old."
+  },
+  {
+    "company_slug": "mistral-ai",
+    "stage": "Series A",
+    "date": "2023-12-10",
+    "amount_m": null,
+    "valuation_m": null,
+    "lead_investors": [
+      "Andreessen Horowitz (a16z)"
+    ],
+    "source": "https://techcrunch.com/2023/12/11/mistral-ai-a-paris-based-openai-rival-closed-its-415-million-funding-round/",
+    "notes": "a16z reportedly invested ~200M EUR. First major US VC bet on open-source LLM creator."
+  },
+  {
+    "company_slug": "mistral-ai",
+    "stage": "Series B",
+    "date": "2024-06",
+    "amount_m": null,
+    "valuation_m": null,
+    "lead_investors": [
+      "General Catalyst",
+      "DST Global"
+    ],
+    "source": "https://www.maginative.com/article/mistral-ai-secures-640m-in-series-b-funding-boosting-valuation-to-6b/",
+    "notes": "3x valuation jump in ~6 months."
+  },
+  {
+    "company_slug": "mistral-ai",
+    "stage": "Series C",
+    "date": "2025-09-08",
+    "amount_m": null,
+    "valuation_m": null,
+    "lead_investors": [
+      "ASML (invested ~1.3B EUR; acquired ~11% stake)"
+    ],
+    "source": "https://www.cnbc.com/2025/09/09/ai-firm-mistral-valued-at-14-billion-as-asml-takes-major-stake.html",
+    "notes": "ASML CFO Roger Dassen gained seat on Mistral's Strategic Committee. Strategic partnership beyond financial investment. More than doubled prior valuation.\n"
+  },
+  {
+    "company_slug": "monarch-tractor",
+    "stage": "Series B",
+    "date": "2022-01",
+    "amount_m": 61.0,
+    "valuation_m": null,
+    "lead_investors": [],
+    "source": "https://aibusiness.com/verticals/autonomous-smart-tractor-firm-monarch-secures-61m-in-funding",
+    "notes": "Strategic investment from CNH Industrial (Case IH, New Holland) validated the platform and provided agricultural distribution channels.\n"
+  },
+  {
+    "company_slug": "monarch-tractor",
+    "stage": "Series C",
+    "date": "2024",
+    "amount_m": 133.0,
+    "valuation_m": null,
+    "lead_investors": [
+      "Astanor Ventures",
+      "Foxconn Co-GP Fund"
+    ],
+    "source": "https://globalaginvesting.com/ai-powered-autonomous-tractor-maker-monarch-tractor-secures-133m-in-latest-round/",
+    "notes": "Largest agricultural robotics funding round at the time. Brought total raised to over $200M. Foxconn involvement signals potential manufacturing scale-up partnership.\n"
+  },
+  {
+    "company_slug": "monarch-tractor",
+    "stage": "Series A",
+    "date": "~2020",
+    "amount_m": 20.0,
+    "valuation_m": null,
+    "lead_investors": [],
+    "source": "https://www.crunchbase.com/organization/monarch-tractors",
+    "notes": "Early round to develop prototype autonomous electric tractor.\n"
+  },
+  {
+    "company_slug": "monte-carlo-data",
+    "stage": "",
+    "date": "2020-09",
+    "amount_m": null,
+    "valuation_m": null,
+    "lead_investors": [
+      "Accel"
+    ],
+    "source": "https://www.montecarlodata.com/blog-monte-carlo-raises-series-c-brings-funding-to-101m-to-help-companies-trust-their-data/",
+    "notes": ""
+  },
+  {
+    "company_slug": "monte-carlo-data",
+    "stage": "",
+    "date": "2021-02",
+    "amount_m": null,
+    "valuation_m": null,
+    "lead_investors": [
+      "Redpoint Ventures"
+    ],
+    "source": "https://techcrunch.com/2021/02/09/monte-carlo-raises-25m-for-its-data-observability-service/",
+    "notes": ""
+  },
+  {
+    "company_slug": "monte-carlo-data",
+    "stage": "",
+    "date": "2021-08",
+    "amount_m": null,
+    "valuation_m": null,
+    "lead_investors": [
+      "ICONIQ Growth"
+    ],
+    "source": "https://www.montecarlodata.com/blog-monte-carlo-raises-series-c-brings-funding-to-101m-to-help-companies-trust-their-data/",
+    "notes": ""
+  },
+  {
+    "company_slug": "monte-carlo-data",
+    "stage": "",
+    "date": "2022-05",
+    "amount_m": null,
+    "valuation_m": null,
+    "lead_investors": [
+      "IVP"
+    ],
+    "source": "https://techcrunch.com/2022/05/24/monte-carlo-raises-135m-series-d-at-1-6b-price-showing-that-unicorn-rounds-are-still-a-thing/",
+    "notes": ""
+  },
+  {
+    "company_slug": "neura-robotics",
+    "stage": "Series B",
+    "date": "2025-01-15",
+    "amount_m": null,
+    "valuation_m": null,
+    "lead_investors": [
+      "Lingotto Investment Management"
+    ],
+    "source": "https://neura-robotics.com/neura-robotics-secures-euro-120-million-series-b/",
+    "notes": "Largest European cognitive robotics round. Capital used to scale manufacturing and expand global go-to-market.\n"
+  },
+  {
+    "company_slug": "neura-robotics",
+    "stage": "Series A",
+    "date": "~2023",
+    "amount_m": null,
+    "valuation_m": null,
+    "lead_investors": [],
+    "source": "https://www.crunchbase.com/organization/neura-robotics",
+    "notes": "Early institutional round to develop cognitive robotics platform.\n"
+  },
+  {
+    "company_slug": "nous-research",
+    "stage": "Seed",
+    "date": "2023 (exact date uncertain)",
+    "amount_m": null,
+    "valuation_m": null,
+    "lead_investors": [
+      "Distributed Global"
+    ],
+    "source": "https://www.crunchbase.com/organization/nous-research",
+    "notes": "Early seed funding; exact amount varies by source. Some reports bundle multiple early rounds."
+  },
+  {
+    "company_slug": "nous-research",
+    "stage": "Pre-Series A / Bridge",
+    "date": "2024 (approximate)",
+    "amount_m": null,
+    "valuation_m": null,
+    "lead_investors": [
+      "Together AI"
+    ],
+    "source": "https://fortune.com/crypto/2025/04/25/paradigm-nous-research-crypto-ai-venture-capital-deepseek-openai-blockchain/",
+    "notes": "Sometimes grouped with the Series A as a single $65M raise. Exact staging is unclear from public sources."
+  },
+  {
+    "company_slug": "nous-research",
+    "stage": "Series A",
+    "date": "2025-04-25",
+    "amount_m": null,
+    "valuation_m": null,
+    "lead_investors": [
+      "Paradigm"
+    ],
+    "source": "https://fortune.com/crypto/2025/04/25/paradigm-nous-research-crypto-ai-venture-capital-deepseek-openai-blockchain/",
+    "notes": "Paradigm-led round at a $1B token valuation. Notably, this is a crypto-native funding structure tied to the NOUS token on Solana, not a traditional equity valuation. The round was almost entirely funded by Paradigm alone.\n"
+  },
+  {
+    "company_slug": "openai",
+    "stage": "Seed / Founding pledge",
+    "date": "2015-12",
+    "amount_m": 100.0,
+    "valuation_m": null,
+    "lead_investors": [
+      "Elon Musk",
+      "Sam Altman",
+      "Reid Hoffman",
+      "Peter Thiel",
+      "Jessica Livingston"
+    ],
+    "source": "https://openai.com/index/introducing-openai/",
+    "notes": "Announced as a $1B pledge from a group of backers; ~$100M was deployed early on. Musk contributed ~$38M (~60% of initial funds)."
+  },
+  {
+    "company_slug": "openai",
+    "stage": "Corporate round (Microsoft partnership)",
+    "date": "2019-07",
+    "amount_m": 1000.0,
+    "valuation_m": null,
+    "lead_investors": [
+      "Microsoft"
+    ],
+    "source": "https://openai.com/index/microsoft-invests-in-and-partners-with-openai/",
+    "notes": "Roughly half in Azure credits. Coincided with creation of the capped-profit entity OpenAI LP."
+  },
+  {
+    "company_slug": "openai",
+    "stage": "Corporate round (Microsoft Phase 2)",
+    "date": "2021",
+    "amount_m": 2000.0,
+    "valuation_m": null,
+    "lead_investors": [
+      "Microsoft"
+    ],
+    "source": "https://www.cnbc.com/2023/04/08/microsofts-complex-bet-on-openai-brings-potential-and-uncertainty.html",
+    "notes": "Estimated ~$2B additional from Microsoft between 2019 and early 2023. Exact breakdown uncertain."
+  },
+  {
+    "company_slug": "openai",
+    "stage": "Corporate round (Microsoft Phase 3)",
+    "date": "2023-01",
+    "amount_m": 10000.0,
+    "valuation_m": 29000.0,
+    "lead_investors": [
+      "Microsoft"
+    ],
+    "source": "https://blogs.microsoft.com/blog/2023/01/23/microsoftandopenaiextendpartnership/",
+    "notes": "Reported as 'multiyear, multibillion dollar' -- widely cited as up to $10B. Valuation ~$29B reported at time."
+  },
+  {
+    "company_slug": "openai",
+    "stage": "Series A (Thrive-led)",
+    "date": "2024-10-02",
+    "amount_m": 6600.0,
+    "valuation_m": 157000.0,
+    "lead_investors": [
+      "Thrive Capital"
+    ],
+    "source": "https://techcrunch.com/2024/10/02/openai-raises-6-6b-and-is-now-valued-at-157b/",
+    "notes": "Other investors: Microsoft (~$1B), SoftBank ($500M), Nvidia ($100M), Khosla Ventures, Altimeter Capital, Fidelity, MGX. Close was contingent on OpenAI restructuring to for-profit within 2 years."
+  },
+  {
+    "company_slug": "openai",
+    "stage": "Series B (SoftBank-led)",
+    "date": "2025-03-31",
+    "amount_m": 40000.0,
+    "valuation_m": 300000.0,
+    "lead_investors": [
+      "SoftBank"
+    ],
+    "source": "https://www.cnbc.com/2025/03/31/openai-closes-40-billion-in-funding-the-largest-private-fundraise-in-history-softbank-chatgpt.html",
+    "notes": "Largest private funding round on record at the time."
+  },
+  {
+    "company_slug": "openai",
+    "stage": "Secondary sale",
+    "date": "2025-10-02",
+    "amount_m": 6600.0,
+    "valuation_m": 500000.0,
+    "lead_investors": [
+      "Thrive Capital",
+      "SoftBank",
+      "Dragoneer",
+      "MGX",
+      "T. Rowe Price"
+    ],
+    "source": "https://www.cnbc.com/2025/10/02/openai-share-sale-500-billion-valuation.html",
+    "notes": "Employee/early-investor share sale. No new capital to the company. Made OpenAI the most valuable private company, surpassing SpaceX."
+  },
+  {
+    "company_slug": "openai",
+    "stage": "Series C (Amazon / Nvidia / SoftBank)",
+    "date": "2026-02-27",
+    "amount_m": 110000.0,
+    "valuation_m": 840000.0,
+    "lead_investors": [
+      "Amazon",
+      "Nvidia",
+      "SoftBank"
+    ],
+    "source": "https://techcrunch.com/2026/02/27/openai-raises-110b-in-one-of-the-largest-private-funding-rounds-in-history/",
+    "notes": "Amazon $50B, Nvidia $30B, SoftBank $30B. Pre-money $730B. Largest private financing in history. Round remains open to additional investors. Includes expanded $100B AWS partnership over 8 years."
+  },
+  {
+    "company_slug": "patronus-ai",
+    "stage": "",
+    "date": "May 2024",
+    "amount_m": 17.0,
+    "valuation_m": null,
+    "lead_investors": [
+      "Notable Capital"
+    ],
+    "source": "",
+    "notes": ""
+  },
+  {
+    "company_slug": "patronus-ai",
+    "stage": "",
+    "date": "September 2023",
+    "amount_m": 3.0,
+    "valuation_m": null,
+    "lead_investors": [
+      "Lightspeed Venture Partners"
+    ],
+    "source": "",
+    "notes": ""
+  },
+  {
+    "company_slug": "patronus-ai",
+    "stage": "",
+    "date": "~2024",
+    "amount_m": 20.5,
+    "valuation_m": null,
+    "lead_investors": [],
+    "source": "",
+    "notes": "SEC exempt offering filing; may represent Series A extension or follow-on round"
+  },
+  {
+    "company_slug": "physical-intelligence",
+    "stage": "Seed",
+    "date": "2024-03",
+    "amount_m": 70.0,
+    "valuation_m": 400.0,
+    "lead_investors": [
+      "Thrive Capital"
+    ],
+    "source": "https://www.crunchbase.com/funding_round/physical-intelligence-834b-seed--0936ae55",
+    "notes": "7 investors participated. Initial capital to develop foundational models and learning algorithms for robots."
+  },
+  {
+    "company_slug": "physical-intelligence",
+    "stage": "Series A",
+    "date": "2024-11",
+    "amount_m": 400.0,
+    "valuation_m": 2000.0,
+    "lead_investors": [
+      "Jeff Bezos",
+      "Lux Capital",
+      "Thrive Capital"
+    ],
+    "source": "https://www.cnbc.com/2024/11/04/jeff-bezos-and-openai-invest-in-robot-startup-physical-intelligence.html",
+    "notes": "Other investors include OpenAI's startup fund, Redpoint Ventures, and Bond. Some sources report valuation at $2.4B rather than $2B -- exact figure uncertain."
+  },
+  {
+    "company_slug": "physical-intelligence",
+    "stage": "Series B",
+    "date": "2025-11",
+    "amount_m": 600.0,
+    "valuation_m": 5600.0,
+    "lead_investors": [
+      "CapitalG"
+    ],
+    "source": "https://www.therobotreport.com/physical-intelligence-raises-600m-advance-robot-foundation-models/",
+    "notes": "CapitalG (Alphabet's independent growth fund) led. Participation from Lux Capital, Thrive Capital, Jeff Bezos, Index Ventures, T. Rowe Price, Redpoint Ventures, Sequoia Capital, Bond, and NVIDIA (NVentures). Funding earmarked for data collection, strategic partnerships, and team growth."
+  },
+  {
+    "company_slug": "pinecone",
+    "stage": "Seed",
+    "date": "2021-01",
+    "amount_m": 10.0,
+    "valuation_m": null,
+    "lead_investors": [
+      "Wing Venture Capital"
+    ],
+    "source": "https://news.crunchbase.com/ai-robotics/startup-venture-funding-database-pinecone/",
+    "notes": "Early investment as Pinecone began commercializing vector search."
+  },
+  {
+    "company_slug": "pinecone",
+    "stage": "Series A",
+    "date": "2021-12",
+    "amount_m": 28.0,
+    "valuation_m": 170.0,
+    "lead_investors": [
+      "Menlo Ventures"
+    ],
+    "source": "https://www.calcalistech.com/ctechnews/article/bkx1111tg79",
+    "notes": "Some sources cite $17M; Calcalist/Ctech reported $28M. Wing Venture Capital also participated."
+  },
+  {
+    "company_slug": "pinecone",
+    "stage": "Series B",
+    "date": "2023-04",
+    "amount_m": 100.0,
+    "valuation_m": 750.0,
+    "lead_investors": [
+      "Andreessen Horowitz"
+    ],
+    "source": "https://techcrunch.com/2023/04/27/pinecone-drops-100m-investment-on-750m-valuation-as-vector-database-demand-grows/",
+    "notes": "Iconiq Growth, Menlo Ventures, and Wing Venture Capital also participated. Raised amid the 2023 generative AI boom."
+  },
+  {
+    "company_slug": "reka-ai",
+    "stage": "Series A",
+    "date": "2023-06",
+    "amount_m": 58.0,
+    "valuation_m": 300.0,
+    "lead_investors": [
+      "DST Global"
+    ],
+    "source": "https://techcrunch.com/2023/06/27/reka-emerges-from-stealth-to-build-custom-ai-models-for-the-enterprise/",
+    "notes": "Emerged from stealth. Nat Friedman (former GitHub CEO) participated as an angel investor."
+  },
+  {
+    "company_slug": "reka-ai",
+    "stage": "Series B",
+    "date": "2025-07",
+    "amount_m": 110.0,
+    "valuation_m": 1000.0,
+    "lead_investors": [
+      "Nvidia",
+      "Snowflake"
+    ],
+    "source": "https://siliconangle.com/2025/07/22/multimodal-ai-startup-reka-ai-raises-110m-1b-valuation/",
+    "notes": "Reached unicorn status. Snowflake had previously explored acquiring Reka for $1B+ in May 2024, but talks broke down. The two companies instead pursued a strategic investment relationship."
+  },
+  {
+    "company_slug": "replit",
+    "stage": "Pre-Seed",
+    "date": "2016-10",
+    "amount_m": null,
+    "valuation_m": null,
+    "lead_investors": [],
+    "source": "https://research.contrary.com/company/replit",
+    "notes": ""
+  },
+  {
+    "company_slug": "replit",
+    "stage": "Y Combinator (W18)",
+    "date": "2018-01",
+    "amount_m": null,
+    "valuation_m": null,
+    "lead_investors": [],
+    "source": "https://blog.replit.com/yc",
+    "notes": ""
+  },
+  {
+    "company_slug": "replit",
+    "stage": "Seed",
+    "date": "2018-10",
+    "amount_m": null,
+    "valuation_m": null,
+    "lead_investors": [],
+    "source": "https://blog.replit.com/a16z",
+    "notes": ""
+  },
+  {
+    "company_slug": "replit",
+    "stage": "Series A",
+    "date": "2021-02-18",
+    "amount_m": null,
+    "valuation_m": null,
+    "lead_investors": [],
+    "source": "https://tracxn.com/d/companies/replit/__PUWtoWCDA1Qjxd1rE0XG7GgDNdav8DNlaP_1EkZUh3A/funding-and-investors",
+    "notes": ""
+  },
+  {
+    "company_slug": "replit",
+    "stage": "Series B",
+    "date": "2021-12-10",
+    "amount_m": null,
+    "valuation_m": null,
+    "lead_investors": [],
+    "source": "https://tracxn.com/d/companies/replit/__PUWtoWCDA1Qjxd1rE0XG7GgDNdav8DNlaP_1EkZUh3A/funding-and-investors",
+    "notes": ""
+  },
+  {
+    "company_slug": "replit",
+    "stage": "Series B Extension",
+    "date": "2023-04-25",
+    "amount_m": null,
+    "valuation_m": null,
+    "lead_investors": [],
+    "source": "https://blog.replit.com/b-extension",
+    "notes": ""
+  },
+  {
+    "company_slug": "replit",
+    "stage": "Series C",
+    "date": "2025-09",
+    "amount_m": null,
+    "valuation_m": null,
+    "lead_investors": [],
+    "source": "https://replit.com/news/funding-announcement",
+    "notes": ""
+  },
+  {
+    "company_slug": "replit",
+    "stage": "Series D",
+    "date": "2026-03",
+    "amount_m": null,
+    "valuation_m": null,
+    "lead_investors": [],
+    "source": "https://theaiinsider.tech/2026/03/16/replit-raises-400m-to-expand-ai-coding-platform-at-9b-valuation/",
+    "notes": ""
+  },
+  {
+    "company_slug": "sanctuary-ai",
+    "stage": "",
+    "date": "",
+    "amount_m": null,
+    "valuation_m": null,
+    "lead_investors": [],
+    "source": "",
+    "notes": ""
+  },
+  {
+    "company_slug": "sanctuary-ai",
+    "stage": "",
+    "date": "2022-03",
+    "amount_m": null,
+    "valuation_m": null,
+    "lead_investors": [
+      "Magna International"
+    ],
+    "source": "",
+    "notes": ""
+  },
+  {
+    "company_slug": "sanctuary-ai",
+    "stage": "",
+    "date": "2024-07",
+    "amount_m": null,
+    "valuation_m": null,
+    "lead_investors": [],
+    "source": "",
+    "notes": ""
+  },
+  {
+    "company_slug": "sanctuary-ai",
+    "stage": "",
+    "date": "2025 (target close May 2025)",
+    "amount_m": null,
+    "valuation_m": null,
+    "lead_investors": [],
+    "source": "",
+    "notes": "Also selling ~$125M stake in Apptronik to total ~$175M in new capital"
+  },
+  {
+    "company_slug": "sanctuary-ai",
+    "stage": "",
+    "date": "2025-01",
+    "amount_m": null,
+    "valuation_m": null,
+    "lead_investors": [],
+    "source": "",
+    "notes": ""
+  },
+  {
+    "company_slug": "saronic-technologies",
+    "stage": "Seed",
+    "date": "2022-06",
+    "amount_m": null,
+    "valuation_m": null,
+    "lead_investors": [],
+    "source": "https://sacra.com/c/saronic/",
+    "notes": ""
+  },
+  {
+    "company_slug": "saronic-technologies",
+    "stage": "Series A",
+    "date": "2023-10",
+    "amount_m": 55.0,
+    "valuation_m": null,
+    "lead_investors": [],
+    "source": "https://sacra.com/c/saronic/",
+    "notes": ""
+  },
+  {
+    "company_slug": "saronic-technologies",
+    "stage": "Series B",
+    "date": "2024-07",
+    "amount_m": 175.0,
+    "valuation_m": 1000.0,
+    "lead_investors": [
+      "Andreessen Horowitz"
+    ],
+    "source": "https://breakingdefense.com/2024/07/defense-tech-startup-saronic-announces-175m-in-series-b-funding/",
+    "notes": ""
+  },
+  {
+    "company_slug": "saronic-technologies",
+    "stage": "Series C",
+    "date": "2025-02",
+    "amount_m": 600.0,
+    "valuation_m": 4000.0,
+    "lead_investors": [
+      "Elad Gil"
+    ],
+    "source": "https://www.prnewswire.com/news-releases/saronic-raises-600m-series-c-to-take-on-autonomous-shipbuilding-302379441.html",
+    "notes": ""
+  },
+  {
+    "company_slug": "scale-ai",
+    "stage": "",
+    "date": "2016",
+    "amount_m": null,
+    "valuation_m": null,
+    "lead_investors": [
+      "Y Combinator"
+    ],
+    "source": "https://tracxn.com/d/companies/scaleai/__iQC-P6zm6-YIchaMdt_UtWRoQNAzQYgkyxD99e8U-cI/funding-and-investors",
+    "notes": "Went through Y Combinator batch"
+  },
+  {
+    "company_slug": "scale-ai",
+    "stage": "",
+    "date": "2017-05",
+    "amount_m": 4.5,
+    "valuation_m": null,
+    "lead_investors": [
+      "Accel"
+    ],
+    "source": "https://wellfound.com/company/scale-ai/funding",
+    "notes": ""
+  },
+  {
+    "company_slug": "scale-ai",
+    "stage": "",
+    "date": "2018",
+    "amount_m": 18.0,
+    "valuation_m": null,
+    "lead_investors": [
+      "Index Ventures"
+    ],
+    "source": "https://www.indexventures.com/perspectives/scale-announces-18-million-in-series-b-funding-led-by-index-ventures/",
+    "notes": "Accel and Y Combinator participated"
+  },
+  {
+    "company_slug": "scale-ai",
+    "stage": "",
+    "date": "2019-08-05",
+    "amount_m": 100.0,
+    "valuation_m": 1000.0,
+    "lead_investors": [
+      "Founders Fund"
+    ],
+    "source": "https://techcrunch.com/2019/08/05/scale-ai-and-its-22-year-old-ceo-lock-down-100-million-to-help-label-silicon-valleys-data/",
+    "notes": "Coatue, Thrive Capital, Spark Capital, Index Ventures, Accel also participated. Angel investors included Kevin Systrom, Mike Krieger (Instagram founders) and Adam D'Angelo (Quora CEO).\n"
+  },
+  {
+    "company_slug": "scale-ai",
+    "stage": "",
+    "date": "2020-12",
+    "amount_m": 155.0,
+    "valuation_m": 3500.0,
+    "lead_investors": [
+      "Tiger Global Management"
+    ],
+    "source": "https://www.builtinsf.com/articles/scale-raises-155m-series-d-artificial-intelligence-hiring",
+    "notes": ""
+  },
+  {
+    "company_slug": "scale-ai",
+    "stage": "",
+    "date": "2021-04-13",
+    "amount_m": 325.0,
+    "valuation_m": 7300.0,
+    "lead_investors": [
+      "Dragoneer Investment Group",
+      "Greenoaks Capital",
+      "Tiger Global"
+    ],
+    "source": "https://www.finsmes.com/2021/04/scale-ai-raises-325m-in-series-e-funding.html",
+    "notes": "Wellington Management and Durable Capital joined as new investors"
+  },
+  {
+    "company_slug": "scale-ai",
+    "stage": "",
+    "date": "2024-05",
+    "amount_m": 1000.0,
+    "valuation_m": 13800.0,
+    "lead_investors": [
+      "Accel"
+    ],
+    "source": "https://techcrunch.com/2024/05/21/data-labeling-startup-scale-ai-raises-1b-as-valuation-doubles-to-13-8b/",
+    "notes": "Nvidia, Meta, Amazon invested alongside Y Combinator, Index Ventures, Founders Fund, Coatue, Thrive Capital, Spark Capital, Tiger Global, Greenoaks Capital, and Wellington Management.\n"
+  },
+  {
+    "company_slug": "scale-ai",
+    "stage": "",
+    "date": "2025-06",
+    "amount_m": 14300.0,
+    "valuation_m": 29000.0,
+    "lead_investors": [
+      "Meta"
+    ],
+    "source": "https://techcrunch.com/2025/06/13/new-details-emerge-on-metas-14-3b-deal-for-scale/",
+    "notes": "Meta acquired 49% non-voting stake. Alexandr Wang departed to Meta as Chief AI Officer. One of the largest private AI transactions in history."
+  },
+  {
+    "company_slug": "shield-ai",
+    "stage": "Seed",
+    "date": "2016-05",
+    "amount_m": 2.05,
+    "valuation_m": null,
+    "lead_investors": [
+      "Homebrew"
+    ],
+    "source": "https://tracxn.com/d/companies/shield-ai/__xWAZxcGRQErj0eca7RojeCvAoVKfcEIPX0V-RwwoAJk/funding-and-investors",
+    "notes": ""
+  },
+  {
+    "company_slug": "shield-ai",
+    "stage": "Series A",
+    "date": "2017-03",
+    "amount_m": 10.5,
+    "valuation_m": null,
+    "lead_investors": [
+      "Andreessen Horowitz"
+    ],
+    "source": "https://www.crunchbase.com/funding_round/shield-ai-series-a--67e5fba3",
+    "notes": ""
+  },
+  {
+    "company_slug": "shield-ai",
+    "stage": "Series B",
+    "date": "2019-08",
+    "amount_m": 25.0,
+    "valuation_m": null,
+    "lead_investors": [
+      "Breyer Capital"
+    ],
+    "source": "https://tracxn.com/d/companies/shield-ai/__xWAZxcGRQErj0eca7RojeCvAoVKfcEIPX0V-RwwoAJk/funding-and-investors",
+    "notes": ""
+  },
+  {
+    "company_slug": "shield-ai",
+    "stage": "Series C",
+    "date": "2021-02",
+    "amount_m": 90.0,
+    "valuation_m": null,
+    "lead_investors": [
+      "Point72 Ventures"
+    ],
+    "source": "https://tracxn.com/d/companies/shield-ai/__xWAZxcGRQErj0eca7RojeCvAoVKfcEIPX0V-RwwoAJk/funding-and-investors",
+    "notes": ""
+  },
+  {
+    "company_slug": "shield-ai",
+    "stage": "Series D",
+    "date": "2021-08",
+    "amount_m": 210.0,
+    "valuation_m": null,
+    "lead_investors": [],
+    "source": "https://tracxn.com/d/companies/shield-ai/__xWAZxcGRQErj0eca7RojeCvAoVKfcEIPX0V-RwwoAJk/funding-and-investors",
+    "notes": ""
+  },
+  {
+    "company_slug": "shield-ai",
+    "stage": "Series E",
+    "date": "2022-06",
+    "amount_m": 165.0,
+    "valuation_m": 2300.0,
+    "lead_investors": [],
+    "source": "https://www.crunchbase.com/funding_round/shield-ai-series-e--228e9a72",
+    "notes": ""
+  },
+  {
+    "company_slug": "shield-ai",
+    "stage": "Series F",
+    "date": "2023-10",
+    "amount_m": 200.0,
+    "valuation_m": 2700.0,
+    "lead_investors": [
+      "U.S. Innovative Technology Fund (USIT)",
+      "Riot Ventures"
+    ],
+    "source": "https://news.crunchbase.com/ai/defense-tech-startup-venture-aircraft-shield/",
+    "notes": ""
+  },
+  {
+    "company_slug": "shield-ai",
+    "stage": "Series F-1",
+    "date": "2025-03",
+    "amount_m": 240.0,
+    "valuation_m": 5300.0,
+    "lead_investors": [
+      "L3Harris",
+      "Hanwha Asset Management"
+    ],
+    "source": "https://techcrunch.com/2025/03/06/shield-ai-raises-240-million-at-a-5-3-billion-valuation-to-commercialize-its-ai-drone-tech/",
+    "notes": ""
+  },
+  {
+    "company_slug": "shield-ai",
+    "stage": "Series G (in talks)",
+    "date": "2026-02",
+    "amount_m": 1000.0,
+    "valuation_m": 12000.0,
+    "lead_investors": [],
+    "source": "https://www.bloomberg.com/news/articles/2026-02-13/shield-ai-in-talks-to-raise-1-billion-at-12-billion-valuation",
+    "notes": ""
+  },
+  {
+    "company_slug": "sigma-computing",
+    "stage": "",
+    "date": "2019-11",
+    "amount_m": null,
+    "valuation_m": null,
+    "lead_investors": [
+      "Sutter Hill Ventures"
+    ],
+    "source": "https://tracxn.com/d/companies/sigma/__6Ey-Cn1NtwqHCDL5voJWgm75xwVxjte6Xhh6SKxOcgA/funding-and-investors",
+    "notes": ""
+  },
+  {
+    "company_slug": "sigma-computing",
+    "stage": "",
+    "date": "2019-11",
+    "amount_m": null,
+    "valuation_m": null,
+    "lead_investors": [
+      "Sutter Hill Ventures"
+    ],
+    "source": "https://tracxn.com/d/companies/sigma/__6Ey-Cn1NtwqHCDL5voJWgm75xwVxjte6Xhh6SKxOcgA/funding-and-investors",
+    "notes": ""
+  },
+  {
+    "company_slug": "sigma-computing",
+    "stage": "",
+    "date": "2021-11",
+    "amount_m": null,
+    "valuation_m": null,
+    "lead_investors": [
+      "D1 Capital Partners"
+    ],
+    "source": "https://tracxn.com/d/companies/sigma/__6Ey-Cn1NtwqHCDL5voJWgm75xwVxjte6Xhh6SKxOcgA/funding-and-investors",
+    "notes": ""
+  },
+  {
+    "company_slug": "sigma-computing",
+    "stage": "",
+    "date": "2024-05",
+    "amount_m": null,
+    "valuation_m": null,
+    "lead_investors": [
+      "Spark Capital",
+      "Avenir Growth Capital"
+    ],
+    "source": "https://siliconangle.com/2024/05/16/business-intelligence-startup-sigma-closes-200m-round-1-5b-valuation/",
+    "notes": ""
+  },
+  {
+    "company_slug": "simile",
+    "stage": "Series A",
+    "date": "2026-02-12",
+    "amount_m": 100.0,
+    "valuation_m": null,
+    "lead_investors": [
+      "Index Ventures (Shardul Shah)"
+    ],
+    "source": "https://siliconangle.com/2026/02/12/ai-digital-twin-startup-simile-raises-100m-funding/",
+    "notes": "No publicly known seed round prior to the Series A. The company emerged from stealth after ~7 months of development. Valuation not disclosed. Legal counsel by Latham & Watkins."
+  },
+  {
+    "company_slug": "skild-ai",
+    "stage": "Seed",
+    "date": "2023",
+    "amount_m": 14.5,
+    "valuation_m": null,
+    "lead_investors": [
+      "Lightspeed Venture Partners",
+      "Sequoia Capital"
+    ],
+    "source": "https://sacra.com/c/skild-ai/",
+    "notes": "Co-led by Lightspeed and Sequoia. Initial capital to begin developing a robotics foundation model."
+  },
+  {
+    "company_slug": "skild-ai",
+    "stage": "Series A",
+    "date": "2024-07",
+    "amount_m": 300.0,
+    "valuation_m": 1500.0,
+    "lead_investors": [
+      "Lightspeed Venture Partners",
+      "Coatue",
+      "SoftBank Group",
+      "Bezos Expeditions"
+    ],
+    "source": "https://www.businesswire.com/news/home/20240709306400/en/Skild-AI-Raises-$300M-Series-A-To-Build-A-Scalable-AI-Foundation-Model-For-Robotics",
+    "notes": "Additional participants included Felicis Ventures, Sequoia, Menlo Ventures, General Catalyst, CRV, SV Angel, Carnegie Mellon University, and the Amazon Industrial Innovation Fund & Alexa Fund. Valued at $1.5B -- reaching unicorn status barely a year after founding."
+  },
+  {
+    "company_slug": "skild-ai",
+    "stage": "Series B",
+    "date": "2025-05",
+    "amount_m": 500.0,
+    "valuation_m": 4700.0,
+    "lead_investors": [
+      "SoftBank Group"
+    ],
+    "source": "https://techcrunch.com/2025/12/08/softbank-and-nvidia-reportedly-in-talks-to-fund-skildai-at-14b-nearly-tripling-its-value/",
+    "notes": "Participation from LG Technology Ventures, Samsung, NVIDIA, and others. Some sources report this as April 2025 rather than May; exact date uncertain. Valuation reported as $4.5B-$4.7B across sources."
+  },
+  {
+    "company_slug": "skild-ai",
+    "stage": "Series C",
+    "date": "2026-01-14",
+    "amount_m": 1400.0,
+    "valuation_m": 14000.0,
+    "lead_investors": [
+      "SoftBank Group"
+    ],
+    "source": "https://www.businesswire.com/news/home/20260114335623/en/Skild-AI-Raises-$1.4B-Now-Valued-Over-$14B",
+    "notes": "Participation from NVentures (NVIDIA), Macquarie Capital, Bezos Expeditions, Disruptive, 1789 Capital. Existing investors Lightspeed, Felicis, Coatue, and Sequoia doubled down. Strategic investors Samsung, LG, Schneider, CommonSpirit, and Salesforce Ventures also joined. Valuation tripled in ~7 months."
+  },
+  {
+    "company_slug": "skydio",
+    "stage": "Seed",
+    "date": "2014-12",
+    "amount_m": 3.0,
+    "valuation_m": null,
+    "lead_investors": [
+      "Accel"
+    ],
+    "source": "https://sacra.com/c/skydio/",
+    "notes": ""
+  },
+  {
+    "company_slug": "skydio",
+    "stage": "Series A",
+    "date": "2017-02",
+    "amount_m": 25.0,
+    "valuation_m": null,
+    "lead_investors": [
+      "Andreessen Horowitz"
+    ],
+    "source": "https://sacra.com/c/skydio/",
+    "notes": ""
+  },
+  {
+    "company_slug": "skydio",
+    "stage": "Series B",
+    "date": "2019-10",
+    "amount_m": 30.0,
+    "valuation_m": null,
+    "lead_investors": [
+      "IVP"
+    ],
+    "source": "https://sacra.com/c/skydio/",
+    "notes": ""
+  },
+  {
+    "company_slug": "skydio",
+    "stage": "Series C",
+    "date": "2020-07",
+    "amount_m": 100.0,
+    "valuation_m": 1000.0,
+    "lead_investors": [
+      "Andreessen Horowitz"
+    ],
+    "source": "https://sacra.com/c/skydio/",
+    "notes": ""
+  },
+  {
+    "company_slug": "skydio",
+    "stage": "Series D",
+    "date": "2021-03",
+    "amount_m": 170.0,
+    "valuation_m": null,
+    "lead_investors": [
+      "Andreessen Horowitz"
+    ],
+    "source": "https://sacra.com/c/skydio/",
+    "notes": ""
+  },
+  {
+    "company_slug": "skydio",
+    "stage": "Series E",
+    "date": "2023-02",
+    "amount_m": 230.0,
+    "valuation_m": 2200.0,
+    "lead_investors": [
+      "Linse Capital"
+    ],
+    "source": "https://www.skydio.com/blog/skydio-raises-230-million-series-e-funding-round",
+    "notes": ""
+  },
+  {
+    "company_slug": "skydio",
+    "stage": "Series E Extension",
+    "date": "2024-11",
+    "amount_m": 170.0,
+    "valuation_m": 2200.0,
+    "lead_investors": [
+      "KDDI",
+      "Axon"
+    ],
+    "source": "https://techcrunch.com/2024/11/15/drone-manufacturer-skydio-raises-170-million-extension-round/",
+    "notes": ""
+  },
+  {
+    "company_slug": "sunday-robotics",
+    "stage": "",
+    "date": "March 12, 2026",
+    "amount_m": 165.0,
+    "valuation_m": 1150.0,
+    "lead_investors": [],
+    "source": "",
+    "notes": ""
+  },
+  {
+    "company_slug": "sunday-robotics",
+    "stage": "",
+    "date": "November 2025",
+    "amount_m": 35.0,
+    "valuation_m": null,
+    "lead_investors": [
+      "Benchmark",
+      "Conviction"
+    ],
+    "source": "",
+    "notes": ""
+  },
+  {
+    "company_slug": "thoughtspot",
+    "stage": "",
+    "date": "2012",
+    "amount_m": null,
+    "valuation_m": null,
+    "lead_investors": [
+      "Lightspeed Venture Partners"
+    ],
+    "source": "https://tracxn.com/d/companies/thoughtspot/__j0eT_Leq8_wjW3vvd9FqpizTJQ8ZdOcLZdd38ouF0fs/funding-and-investors",
+    "notes": ""
+  },
+  {
+    "company_slug": "thoughtspot",
+    "stage": "",
+    "date": "2014",
+    "amount_m": null,
+    "valuation_m": null,
+    "lead_investors": [
+      "Khosla Ventures"
+    ],
+    "source": "https://tracxn.com/d/companies/thoughtspot/__j0eT_Leq8_wjW3vvd9FqpizTJQ8ZdOcLZdd38ouF0fs/funding-and-investors",
+    "notes": ""
+  },
+  {
+    "company_slug": "thoughtspot",
+    "stage": "",
+    "date": "2016-05",
+    "amount_m": null,
+    "valuation_m": null,
+    "lead_investors": [
+      "General Catalyst"
+    ],
+    "source": "https://tracxn.com/d/companies/thoughtspot/__j0eT_Leq8_wjW3vvd9FqpizTJQ8ZdOcLZdd38ouF0fs/funding-and-investors",
+    "notes": ""
+  },
+  {
+    "company_slug": "thoughtspot",
+    "stage": "",
+    "date": "2018-05",
+    "amount_m": null,
+    "valuation_m": null,
+    "lead_investors": [
+      "Sapphire Ventures"
+    ],
+    "source": "https://tracxn.com/d/companies/thoughtspot/__j0eT_Leq8_wjW3vvd9FqpizTJQ8ZdOcLZdd38ouF0fs/funding-and-investors",
+    "notes": ""
+  },
+  {
+    "company_slug": "thoughtspot",
+    "stage": "",
+    "date": "2019-08",
+    "amount_m": null,
+    "valuation_m": null,
+    "lead_investors": [
+      "Lightspeed Venture Partners"
+    ],
+    "source": "https://www.thoughtspot.com/press-releases/thoughtspot-raises-248m-195b-valuation-transform-enterprises-search-ai-driven-analytics",
+    "notes": ""
+  },
+  {
+    "company_slug": "thoughtspot",
+    "stage": "",
+    "date": "2021-11",
+    "amount_m": null,
+    "valuation_m": null,
+    "lead_investors": [
+      "March Capital"
+    ],
+    "source": "https://www.thoughtspot.com/press-releases/thoughtspot-raises-new-funding-at-usd4-2b-valuation",
+    "notes": ""
+  },
+  {
+    "company_slug": "tonic-ai",
+    "stage": "",
+    "date": "2020-12",
+    "amount_m": null,
+    "valuation_m": null,
+    "lead_investors": [
+      "Bloomberg Beta"
+    ],
+    "source": "https://tracxn.com/d/companies/tonic.ai/__aH4sk1uBlJJqPKKpDrBUg4A62BmZKPwLerMcy3ZPhMs/funding-and-investors",
+    "notes": ""
+  },
+  {
+    "company_slug": "tonic-ai",
+    "stage": "",
+    "date": "2021-09",
+    "amount_m": null,
+    "valuation_m": null,
+    "lead_investors": [
+      "Insight Partners"
+    ],
+    "source": "https://www.tonic.ai/press-releases/series-b",
+    "notes": ""
+  },
+  {
+    "company_slug": "vannevar-labs",
+    "stage": "Seed",
+    "date": "2019-01",
+    "amount_m": null,
+    "valuation_m": null,
+    "lead_investors": [
+      "Costanoa Ventures"
+    ],
+    "source": "https://research.contrary.com/company/vannevar-labs",
+    "notes": ""
+  },
+  {
+    "company_slug": "vannevar-labs",
+    "stage": "Series A",
+    "date": "2021-01",
+    "amount_m": 12.0,
+    "valuation_m": null,
+    "lead_investors": [
+      "Costanoa Ventures"
+    ],
+    "source": "https://www.crunchbase.com/organization/vannevar-labs",
+    "notes": ""
+  },
+  {
+    "company_slug": "vannevar-labs",
+    "stage": "Series B",
+    "date": "2023-01",
+    "amount_m": 75.0,
+    "valuation_m": null,
+    "lead_investors": [
+      "Felicis Ventures"
+    ],
+    "source": "https://siliconangle.com/2023/01/19/defense-technology-startup-vannevar-labs-raises-75m-funding/",
+    "notes": ""
+  },
+  {
+    "company_slug": "vectara",
+    "stage": "Seed",
+    "date": "2022-10",
+    "amount_m": 20.0,
+    "valuation_m": null,
+    "lead_investors": [],
+    "source": "https://tracxn.com/d/companies/vectara/__B2HorZ0b9oeKtrr4S1EDjqD-0h8QipBkMx5sL3VtgNk/funding-and-investors",
+    "notes": "Initial seed round as Vectara launched out of stealth."
+  },
+  {
+    "company_slug": "vectara",
+    "stage": "Seed (extension)",
+    "date": "2023-05",
+    "amount_m": 28.5,
+    "valuation_m": null,
+    "lead_investors": [
+      "Race Capital"
+    ],
+    "source": "https://tracxn.com/d/companies/vectara/__B2HorZ0b9oeKtrr4S1EDjqD-0h8QipBkMx5sL3VtgNk/funding-and-investors",
+    "notes": "Largest funding round to date. Investors include Alumni Ventures, WVV Capital, Samsung Next, Fusion Fund, Green Sands Equity, Mack Ventures."
+  },
+  {
+    "company_slug": "vectara",
+    "stage": "Series A",
+    "date": "2024-07",
+    "amount_m": 25.0,
+    "valuation_m": null,
+    "lead_investors": [
+      "FPV Ventures",
+      "Race Capital"
+    ],
+    "source": "https://www.businesswire.com/news/home/20240716489550/en/Vectara-Secures-25-Million-Series-A-Funding-to-Advance-the-Trustworthiness-of-Retrieval-Augmented-Generation-with-New-Mockingbird-LLM",
+    "notes": "Coincided with launch of Mockingbird LLM, a model purpose-built for RAG applications."
+  },
+  {
+    "company_slug": "weaviate",
+    "stage": "Seed",
+    "date": "2020-08",
+    "amount_m": 1.6,
+    "valuation_m": null,
+    "lead_investors": [
+      "Zetta Venture Partners"
+    ],
+    "source": "https://www.prnewswire.com/news-releases/semi-technologies-16m-series-a-round-highlights-a-new-wave-of-ai-first-database-tech-301486766.html",
+    "notes": "ING Ventures also participated. Raised under the original company name SeMI Technologies."
+  },
+  {
+    "company_slug": "weaviate",
+    "stage": "Series A",
+    "date": "2022-02",
+    "amount_m": 16.0,
+    "valuation_m": null,
+    "lead_investors": [
+      "New Enterprise Associates (NEA)",
+      "Cortical Ventures"
+    ],
+    "source": "https://www.prnewswire.com/news-releases/semi-technologies-16m-series-a-round-highlights-a-new-wave-of-ai-first-database-tech-301486766.html",
+    "notes": "Co-led by NEA and Cortical Ventures. Zetta Venture Partners and ING Ventures also participated. Still operating as SeMI Technologies."
+  },
+  {
+    "company_slug": "weaviate",
+    "stage": "Series B",
+    "date": "2023-04",
+    "amount_m": 50.0,
+    "valuation_m": null,
+    "lead_investors": [
+      "Index Ventures"
+    ],
+    "source": "https://www.prnewswire.com/news-releases/weaviate-raises-50-million-series-b-funding-to-meet-soaring-demand-for-ai-native-vector-database-technology-301803296.html",
+    "notes": "Battery Ventures participated. Existing investors NEA, Cortical Ventures, Zetta Venture Partners, and ING Ventures also joined. Company had rebranded from SeMI Technologies to Weaviate by this point."
+  },
+  {
+    "company_slug": "weaviate",
+    "stage": "Series C",
+    "date": "2025-10",
+    "amount_m": 50.0,
+    "valuation_m": 200.0,
+    "lead_investors": [
+      "Battery Ventures",
+      "Zetta Venture Partners"
+    ],
+    "source": "https://salestools.io/en/report/weaviate-raises-50m-series-c",
+    "notes": "$200M valuation reported by SalesTools AI. Note: some sources report total raised as $67.6M rather than $117.6M -- there may be discrepancies in how earlier rounds are counted. The $117.6M figure sums all four rounds above."
+  },
+  {
+    "company_slug": "world-labs",
+    "stage": "Seed / Series A",
+    "date": "2024-09",
+    "amount_m": 230.0,
+    "valuation_m": 1000.0,
+    "lead_investors": [
+      "Andreessen Horowitz",
+      "NEA",
+      "Radical Ventures"
+    ],
+    "source": "https://techcrunch.com/2024/09/13/fei-fei-lis-world-labs-comes-out-of-stealth-with-230m-in-funding/",
+    "notes": "Emerged from stealth. $100M seed + $130M Series A extension. Other investors included NVentures (Nvidia), AMD Ventures, Adobe Ventures, Databricks Ventures, Salesforce Ventures. Angel investors included Marc Benioff, Jeff Dean, Geoffrey Hinton, Reid Hoffman, Eric Schmidt, and Ashton Kutcher."
+  },
+  {
+    "company_slug": "world-labs",
+    "stage": "Series B",
+    "date": "2026-02",
+    "amount_m": 1000.0,
+    "valuation_m": 5000.0,
+    "lead_investors": [
+      "Andreessen Horowitz",
+      "Autodesk"
+    ],
+    "source": "https://techcrunch.com/2026/02/18/world-labs-lands-200m-from-autodesk-to-bring-world-models-into-3d-workflows/",
+    "notes": "Autodesk invested $200M as a strategic partner. Nvidia, AMD, Fidelity Management & Research, Emerson Collective, and Sea Group also participated. Valuation ~$5B per Bloomberg -- a 5x increase from the $1B valuation 16 months prior. Valuation was not officially disclosed."
+  },
+  {
+    "company_slug": "xai",
+    "stage": "",
+    "date": "2023-11",
+    "amount_m": 134.7,
+    "valuation_m": null,
+    "lead_investors": [
+      "Undisclosed"
+    ],
+    "source": "https://en.wikipedia.org/wiki/XAI_(company)",
+    "notes": "Disclosed via SEC filing in December 2023. Investors not formally announced. Reports suggest early backers included Valor Equity Partners and other Musk-aligned investors. Musk stated at the time xAI was \"not seeking funding right now.\"\n"
+  },
+  {
+    "company_slug": "xai",
+    "stage": "",
+    "date": "2024-05-26",
+    "amount_m": 6000.0,
+    "valuation_m": 24000.0,
+    "lead_investors": [
+      "Valor Equity Partners",
+      "Andreessen Horowitz",
+      "Sequoia Capital"
+    ],
+    "source": "https://techcrunch.com/2024/05/26/elon-musks-xai-raises-6b-from-valor-a16z-and-sequoia/",
+    "notes": "Pre-money valuation of $18B. Other investors included Vy Capital, Fidelity Management & Research Company, Prince Alwaleed Bin Talal, and Kingdom Holding Company. Funds used to bring Grok to market and build GPU infrastructure.\n"
+  },
+  {
+    "company_slug": "xai",
+    "stage": "",
+    "date": "2024-12-23",
+    "amount_m": 6000.0,
+    "valuation_m": 45000.0,
+    "lead_investors": [
+      "Andreessen Horowitz",
+      "Sequoia Capital",
+      "BlackRock"
+    ],
+    "source": "https://x.ai/news/series-c",
+    "notes": "Investors included a16z, BlackRock, Fidelity, Kingdom Holdings (~$400M), Lightspeed, MGX, Morgan Stanley, OIA, QIA, Sequoia, Valor Equity Partners, Vy Capital, NVIDIA, and AMD. Only investors from prior rounds were permitted to participate. Brought total raised to ~$12B.\n"
+  },
+  {
+    "company_slug": "xai",
+    "stage": "",
+    "date": "2025-07-01",
+    "amount_m": 10000.0,
+    "valuation_m": 75000.0,
+    "lead_investors": [
+      "Morgan Stanley (debt)",
+      "Kingdom Holdings / PIF (equity)"
+    ],
+    "source": "https://www.cnbc.com/2025/07/01/elon-musk-xai-raises-10-billion-in-debt-and-equity.html",
+    "notes": "The debt offering was oversubscribed. Saudi Arabia's PIF acquired ~$800M stake via Kingdom Holdings. SpaceX contributed $2B in equity. Funds directed toward Colossus supercomputer expansion in Memphis.\n"
+  },
+  {
+    "company_slug": "xai",
+    "stage": "",
+    "date": "2025-09",
+    "amount_m": 10000.0,
+    "valuation_m": 200000.0,
+    "lead_investors": [
+      "Undisclosed institutional investors"
+    ],
+    "source": "https://www.cnbc.com/2025/09/19/musks-xai-10-billion-at-200-billion-valuation.html",
+    "notes": "Valuation quadrupled in under 3 months from the July round. Some sources count this as a separate round; others view it as an extension. The speed of valuation increase from ~$75-150B to $200B raised eyebrows. Exact designation uncertain.\n"
+  },
+  {
+    "company_slug": "xai",
+    "stage": "",
+    "date": "2026-01-06",
+    "amount_m": 20000.0,
+    "valuation_m": 230000.0,
+    "lead_investors": [
+      "Valor Equity Partners",
+      "NVIDIA",
+      "Fidelity"
+    ],
+    "source": "https://www.cnbc.com/2026/01/06/elon-musk-xai-raises-20-billion-from-nvidia-cisco-investors.html",
+    "notes": "Investors included NVIDIA (~$2B), Cisco Investments, Valor Equity Partners, StepStone Group, Fidelity, Qatar Investment Authority, MGX (Abu Dhabi), Baron Capital Group, and Tesla (~$2B). Initially targeted $15B but upsized due to demand. Largest single private funding round at time of close.\n"
+  },
+  {
+    "company_slug": "xai",
+    "stage": "",
+    "date": "2026-02-02",
+    "amount_m": null,
+    "valuation_m": 250000.0,
+    "lead_investors": [
+      "SpaceX"
+    ],
+    "source": "https://fortune.com/2026/02/02/elon-musk-spacex-xai-ipo-trillion/",
+    "notes": "Structured as all-stock acquisition: 1 xAI share = 0.1433 SpaceX shares (xAI at $75.46/share, SpaceX at $526.59/share). Largest merger of all time by combined valuation. Announced ahead of anticipated SpaceX IPO. Musk cited plans to build \"orbital data centers\" as rationale."
+  }
+]

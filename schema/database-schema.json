@@ -1,0 +1,76 @@
+{
+  "$schema": "AI-100-Lab Database Schema v1.0",
+  "description": "Three relational tables designed for analytical queries on AI/robotics startups",
+
+  "companies": {
+    "description": "One record per company. Primary key: slug.",
+    "fields": {
+      "slug":                { "type": "string",  "required": true,  "description": "Unique ID, lowercase hyphenated, e.g. 'openai'" },
+      "name":                { "type": "string",  "required": true,  "description": "Display name" },
+      "status":              { "type": "enum",    "required": true,  "values": ["active", "acquired", "public", "dead", "shell", "stealth"] },
+      "founded_year":        { "type": "integer", "required": true },
+      "hq":                  { "type": "string",  "required": true,  "description": "City, State/Country" },
+      "website":             { "type": "string",  "required": true },
+      "sectors":             { "type": "array",   "required": true,  "description": "Max 3 from taxonomy", "items": "string" },
+      "one_liner":           { "type": "string",  "required": true },
+      "logo_file":           { "type": "string",  "required": false, "description": "Filename in logos/" },
+
+      "total_raised_m":      { "type": "number",  "required": false, "description": "Total equity raised in millions USD" },
+      "latest_valuation_m":  { "type": "number",  "required": false, "description": "Most recent valuation in millions USD" },
+      "latest_round":        { "type": "string",  "required": false, "description": "e.g. Series C" },
+      "latest_round_date":   { "type": "string",  "required": false, "description": "YYYY-MM" },
+
+      "business_model":      { "type": "string",  "required": false },
+      "revenue_signals":     { "type": "string",  "required": false, "description": "Free text with confidence" },
+      "key_customers":       { "type": "array",   "required": false, "items": "string" },
+      "employee_count":      { "type": "integer",  "required": false },
+
+      "team_china_profile":  { "type": "string",  "required": false, "description": "Quick filter: mainland | abc | mixed | none | unknown" },
+
+      "engagement": {
+        "type": "object",
+        "required": false,
+        "description": "Deal tracking / internal engagement status",
+        "fields": {
+          "status":             { "type": "enum", "values": ["tracking", "contacted", "met", "passed", "missed", "invested", "none"] },
+          "first_contact_date": { "type": "string", "description": "YYYY-MM-DD" },
+          "source":             { "type": "string", "description": "How we found them" },
+          "owner":              { "type": "string" },
+          "notes":              { "type": "string" }
+        }
+      },
+
+      "sources":             { "type": "array",   "required": true, "items": "string", "description": "Source URLs" },
+      "confidence":          { "type": "enum",    "required": true, "values": ["high", "medium", "low"] },
+      "last_updated":        { "type": "string",  "required": true, "description": "YYYY-MM-DD" }
+    }
+  },
+
+  "founders": {
+    "description": "One record per founder. Foreign key: company_slug.",
+    "fields": {
+      "company_slug":  { "type": "string",  "required": true },
+      "name":          { "type": "string",  "required": true },
+      "role":          { "type": "string",  "required": true, "description": "e.g. CEO, CTO, Co-founder" },
+      "background":    { "type": "string",  "required": false, "description": "Education, prior companies" },
+      "origin":        { "type": "string",  "required": false, "description": "e.g. 'mainland Chinese', 'Indian-American', 'French'" },
+      "origin_detail":  { "type": "string",  "required": false, "description": "Longer narrative if needed" },
+      "status":        { "type": "enum",    "required": false, "values": ["active", "departed", "unknown"] },
+      "departed_to":   { "type": "string",  "required": false, "description": "Where they went if departed" }
+    }
+  },
+
+  "rounds": {
+    "description": "One record per funding round. Foreign key: company_slug.",
+    "fields": {
+      "company_slug":    { "type": "string",  "required": true },
+      "stage":           { "type": "string",  "required": true, "description": "e.g. Seed, Series A, Series B" },
+      "date":            { "type": "string",  "required": true, "description": "YYYY-MM" },
+      "amount_m":        { "type": "number",  "required": false, "description": "Millions USD" },
+      "valuation_m":     { "type": "number",  "required": false, "description": "Post-money valuation in millions USD" },
+      "lead_investors":  { "type": "array",   "required": false, "items": "string" },
+      "source":          { "type": "string",  "required": false, "description": "URL for this specific round" },
+      "notes":           { "type": "string",  "required": false }
+    }
+  }
+}
