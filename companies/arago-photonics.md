@@ -1,0 +1,21 @@
+---
+name: "Arago Photonics"
+founded: 2025
+headquarters: "Paris, France"
+sector: "AI Chips / Photonic Processors"
+one_liner: "Photonic AI processor chips delivering 10x lower energy than GPUs at equivalent performance."
+status: active
+funding_rounds:
+  - stage: "Seed"
+    date: "2025-07"
+    amount_m: 26
+    lead_investors: ["Earlybird", "Protagonist"]
+    source: "https://tech.eu/2025/07/08/arago-raises-26m/"
+total_funding: 26
+last_updated: 2026-03-21
+confidence: medium
+---
+
+# Arago Photonics
+
+Photonic AI processor chips delivering 10x lower energy than GPUs at equivalent performance.

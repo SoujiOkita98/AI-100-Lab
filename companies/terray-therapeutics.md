@@ -1,0 +1,20 @@
+---
+name: "Terray Therapeutics"
+founded: 2021
+sector: "AI Drug Discovery"
+one_liner: "High-throughput chemistry + AI for small molecule drug discovery."
+status: active
+funding_rounds:
+  - stage: "Series B"
+    date: "2025-10"
+    amount_m: 120
+    lead_investors: ["Bedford Ridge", "NVentures"]
+    source: "https://techcrunch.com/"
+total_funding: 120
+last_updated: 2026-03-21
+confidence: medium
+---
+
+# Terray Therapeutics
+
+High-throughput chemistry + AI for small molecule drug discovery.

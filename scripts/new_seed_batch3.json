@@ -1,0 +1,493 @@
+[
+  {
+    "name": "Perfect",
+    "slug": "perfect-ai",
+    "sector": "HR / AI Recruiting",
+    "one_liner": "Agentic AI recruiting co-pilot automating sourcing, triage, screening. 200 customers.",
+    "funding_rounds": [
+      {
+        "stage": "Seed",
+        "date": "2025-02",
+        "amount_m": 23,
+        "lead_investors": [
+          "Hanaco Ventures"
+        ]
+      }
+    ],
+    "total_raised_m": 23
+  },
+  {
+    "name": "Octonomy",
+    "slug": "octonomy",
+    "sector": "Industrial AI / Manufacturing",
+    "one_liner": "Agentic AI for heavy equipment \u2014 processes manuals, schematics, SOPs with 95%+ accuracy.",
+    "funding_rounds": [
+      {
+        "stage": "Seed",
+        "date": "2025-11",
+        "amount_m": 20,
+        "lead_investors": [
+          "Macquarie Capital VC"
+        ]
+      }
+    ],
+    "total_raised_m": 20
+  },
+  {
+    "name": "Cavela",
+    "slug": "cavela",
+    "sector": "AI Supply Chain / Procurement",
+    "one_liner": "AI agents automating supplier sourcing across 40+ countries for e-commerce brands.",
+    "funding_rounds": [
+      {
+        "stage": "Seed",
+        "date": "2025-11",
+        "amount_m": 6.6,
+        "lead_investors": [
+          "XYZ VC",
+          "Susa Ventures"
+        ]
+      }
+    ],
+    "total_raised_m": 6.6
+  },
+  {
+    "name": "Solidroad",
+    "slug": "solidroad",
+    "sector": "AI Customer Success / CX Training",
+    "one_liner": "AI QA and training platform auto-reviewing 100% of CX conversations.",
+    "funding_rounds": [
+      {
+        "stage": "Seed",
+        "date": "2025-06",
+        "amount_m": 6.5,
+        "lead_investors": [
+          "First Round Capital"
+        ]
+      }
+    ],
+    "total_raised_m": 6.5
+  },
+  {
+    "name": "Liminal Experiences",
+    "slug": "liminal-experiences",
+    "sector": "AI Gaming / UGC",
+    "one_liner": "AI-powered UGC gaming studio \u2014 players build RPG adventures with generative AI.",
+    "funding_rounds": [
+      {
+        "stage": "Seed",
+        "date": "2025-03",
+        "amount_m": 5.8,
+        "lead_investors": [
+          "BITKRAFT Ventures",
+          "Riot Games"
+        ]
+      }
+    ],
+    "total_raised_m": 5.8
+  },
+  {
+    "name": "5Mins AI",
+    "slug": "5mins-ai",
+    "sector": "AI EdTech / Corporate Learning",
+    "one_liner": "AI microlearning platform with 15k+ bite-sized workplace training lessons.",
+    "funding_rounds": [
+      {
+        "stage": "Seed",
+        "date": "2025",
+        "amount_m": 5.7,
+        "lead_investors": [
+          "AlbionVC"
+        ]
+      }
+    ],
+    "total_raised_m": 5.7
+  },
+  {
+    "name": "Octave",
+    "slug": "octave-ai",
+    "sector": "AI Sales / GTM",
+    "one_liner": "Generative GTM platform \u2014 AI messaging brain for go-to-market motions.",
+    "funding_rounds": [
+      {
+        "stage": "Seed",
+        "date": "2025",
+        "amount_m": 5.5,
+        "lead_investors": [
+          "Bonfire Ventures"
+        ]
+      }
+    ],
+    "total_raised_m": 5.5
+  },
+  {
+    "name": "GameRamp",
+    "slug": "gameramp",
+    "sector": "AI Gaming / Mobile Publishing",
+    "one_liner": "AI-native publishing OS for mobile games \u2014 RL-powered monetization.",
+    "funding_rounds": [
+      {
+        "stage": "Seed",
+        "date": "2025-08",
+        "amount_m": 5.4,
+        "lead_investors": [
+          "BITKRAFT Ventures"
+        ]
+      }
+    ],
+    "total_raised_m": 5.4
+  },
+  {
+    "name": "Studio Atelico",
+    "slug": "studio-atelico",
+    "sector": "AI Gaming / Game Engine",
+    "one_liner": "AI-first game studio with on-device engine for lifelike NPCs and emergent behaviors.",
+    "funding_rounds": [
+      {
+        "stage": "Seed",
+        "date": "2025-08",
+        "amount_m": 5,
+        "lead_investors": [
+          "Air Street Capital"
+        ]
+      }
+    ],
+    "total_raised_m": 5
+  },
+  {
+    "name": "MaxIQ",
+    "slug": "maxiq",
+    "sector": "AI Sales / Customer Journey",
+    "one_liner": "AI customer journey management platform mapping full B2B lifecycle.",
+    "funding_rounds": [
+      {
+        "stage": "Seed",
+        "date": "2025-03",
+        "amount_m": 7.8,
+        "lead_investors": [
+          "Dell Technologies Capital"
+        ]
+      }
+    ],
+    "total_raised_m": 7.8
+  },
+  {
+    "name": "Aydi",
+    "slug": "aydi",
+    "sector": "AI AgTech / Precision Agriculture",
+    "one_liner": "AI field operating system with satellite monitoring and conversational agronomics.",
+    "funding_rounds": [
+      {
+        "stage": "Seed",
+        "date": "2025-09",
+        "amount_m": 7.5,
+        "lead_investors": [
+          "COTU Ventures"
+        ]
+      }
+    ],
+    "total_raised_m": 7.5
+  },
+  {
+    "name": "Tibo Energy",
+    "slug": "tibo-energy",
+    "sector": "AI Cleantech / Energy Management",
+    "one_liner": "AI-native EMS optimizing and monetizing energy-demand flexibility.",
+    "funding_rounds": [
+      {
+        "stage": "Seed",
+        "date": "2025-06",
+        "amount_m": 6.5,
+        "lead_investors": [
+          "KOMPAS VC"
+        ]
+      }
+    ],
+    "total_raised_m": 6.5
+  },
+  {
+    "name": "Govstream.ai",
+    "slug": "govstream-ai",
+    "sector": "AI GovTech / Permitting",
+    "one_liner": "AI permitting platform for local governments with conversational copilot.",
+    "funding_rounds": [
+      {
+        "stage": "Seed",
+        "date": "2025-12",
+        "amount_m": 3.6,
+        "lead_investors": [
+          "47th Street Partners"
+        ]
+      }
+    ],
+    "total_raised_m": 3.6
+  },
+  {
+    "name": "Imper.ai",
+    "slug": "imper-ai",
+    "sector": "AI Security / Deepfake Detection",
+    "one_liner": "Real-time deepfake and AI impersonation detection at point of contact.",
+    "funding_rounds": [
+      {
+        "stage": "Seed",
+        "date": "2025-12",
+        "amount_m": 28,
+        "lead_investors": [
+          "Redpoint Ventures",
+          "Battery Ventures"
+        ]
+      }
+    ],
+    "total_raised_m": 28
+  },
+  {
+    "name": "Armadin",
+    "slug": "armadin",
+    "sector": "AI Cybersecurity / Red Team",
+    "one_liner": "Autonomous AI cybersecurity agents for red-team ops. Founded by Kevin Mandia (Mandiant founder).",
+    "funding_rounds": [
+      {
+        "stage": "Seed",
+        "date": "2026-03",
+        "amount_m": 190,
+        "lead_investors": [
+          "Accel",
+          "GV",
+          "Kleiner Perkins",
+          "In-Q-Tel"
+        ]
+      }
+    ],
+    "total_raised_m": 190
+  },
+  {
+    "name": "ClaimSorted",
+    "slug": "claimsorted",
+    "sector": "AI InsurTech / Claims",
+    "one_liner": "AI-powered insurance claims processing automation.",
+    "funding_rounds": [
+      {
+        "stage": "Seed",
+        "date": "2025-10",
+        "amount_m": 13.3,
+        "lead_investors": [
+          "Atomico"
+        ]
+      }
+    ],
+    "total_raised_m": 13.3
+  },
+  {
+    "name": "FieldAI",
+    "slug": "fieldai",
+    "sector": "AI Robotics / Universal Robot Brains",
+    "one_liner": "Universal robot brains \u2014 embodied AI software working across all robot types.",
+    "funding_rounds": [
+      {
+        "stage": "Seed",
+        "date": "2025-08",
+        "amount_m": 405,
+        "lead_investors": [
+          "Bezos Expeditions",
+          "Prysm",
+          "Temasek",
+          "Khosla",
+          "NVentures"
+        ]
+      }
+    ],
+    "total_raised_m": 405
+  },
+  {
+    "name": "Entire",
+    "slug": "entire",
+    "sector": "AI Developer Tools / Code Management",
+    "one_liner": "AI code management platform for fleets of AI coding agents. Founded by ex-GitHub CEO.",
+    "funding_rounds": [
+      {
+        "stage": "Seed",
+        "date": "2026-02",
+        "amount_m": 60,
+        "lead_investors": [
+          "Felicis"
+        ]
+      }
+    ],
+    "total_raised_m": 60
+  },
+  {
+    "name": "Spacial",
+    "slug": "spacial-ai",
+    "sector": "AI Construction / Structural Engineering",
+    "one_liner": "AI automating residential structural engineering review and permitting.",
+    "funding_rounds": [
+      {
+        "stage": "Seed",
+        "date": "2025-10",
+        "amount_m": 10,
+        "lead_investors": [
+          "Undisclosed"
+        ]
+      }
+    ],
+    "total_raised_m": 10
+  },
+  {
+    "name": "Leo AI",
+    "slug": "leo-ai",
+    "sector": "AI Engineering / Mechanical",
+    "one_liner": "Mechanical engineering copilot for engineers.",
+    "funding_rounds": [
+      {
+        "stage": "Seed",
+        "date": "2025-09",
+        "amount_m": 9.7,
+        "lead_investors": [
+          "Flint Capital"
+        ]
+      }
+    ],
+    "total_raised_m": 9.7
+  },
+  {
+    "name": "Keplar",
+    "slug": "keplar",
+    "sector": "AI Voice / Market Research",
+    "one_liner": "Voice AI conducting customer research interviews at scale. Clients: Clorox, Intercom.",
+    "funding_rounds": [
+      {
+        "stage": "Seed",
+        "date": "2025-09",
+        "amount_m": 3.4,
+        "lead_investors": [
+          "Kleiner Perkins"
+        ]
+      }
+    ],
+    "total_raised_m": 3.4
+  },
+  {
+    "name": "Kaaj",
+    "slug": "kaaj",
+    "sector": "AI Fintech / Credit Intelligence",
+    "one_liner": "Agentic AI credit intelligence for small business lending.",
+    "funding_rounds": [
+      {
+        "stage": "Seed",
+        "date": "2025-11",
+        "amount_m": 3.8,
+        "lead_investors": [
+          "Kindred Ventures"
+        ]
+      }
+    ],
+    "total_raised_m": 3.8
+  },
+  {
+    "name": "Matters.AI",
+    "slug": "matters-ai",
+    "sector": "AI Data Security",
+    "one_liner": "AI-native data security platform.",
+    "funding_rounds": [
+      {
+        "stage": "Seed",
+        "date": "2025-10",
+        "amount_m": 6.25,
+        "lead_investors": [
+          "Endiya Partners",
+          "Kalaari Capital"
+        ]
+      }
+    ],
+    "total_raised_m": 6.25
+  },
+  {
+    "name": "Pheronym",
+    "slug": "pheronym",
+    "sector": "AI AgTech / Biotech",
+    "one_liner": "AI-engineered pheromones for pest control.",
+    "funding_rounds": [
+      {
+        "stage": "Seed",
+        "date": "2025-11",
+        "amount_m": 6,
+        "lead_investors": [
+          "Khosla Ventures",
+          "Paul Graham",
+          "Y Combinator"
+        ]
+      }
+    ],
+    "total_raised_m": 6
+  },
+  {
+    "name": "Oboe",
+    "slug": "oboe",
+    "sector": "AI EdTech / Course Generation",
+    "one_liner": "AI-powered adaptive learning and course generation platform.",
+    "funding_rounds": [
+      {
+        "stage": "Seed",
+        "date": "2025-12",
+        "amount_m": 16,
+        "lead_investors": [
+          "Andreessen Horowitz"
+        ]
+      }
+    ],
+    "total_raised_m": 16
+  },
+  {
+    "name": "Legion",
+    "slug": "legion-ai",
+    "sector": "AI Enterprise Infrastructure",
+    "one_liner": "Enterprise AI stack \u2014 data transformation, model orchestration, secure deployment.",
+    "funding_rounds": [
+      {
+        "stage": "Seed",
+        "date": "2025",
+        "amount_m": 38,
+        "lead_investors": [
+          "PayPal Ventures",
+          "M13"
+        ]
+      }
+    ],
+    "total_raised_m": 38
+  },
+  {
+    "name": "Distyl AI",
+    "slug": "distyl-ai",
+    "sector": "AI Enterprise Consulting",
+    "one_liner": "Helps global enterprises become AI-native through custom deployment.",
+    "funding_rounds": [
+      {
+        "stage": "Seed",
+        "date": "2025-09",
+        "amount_m": 175,
+        "lead_investors": [
+          "Khosla Ventures",
+          "Lightspeed"
+        ]
+      }
+    ],
+    "total_raised_m": 175
+  },
+  {
+    "name": "iEduGPT",
+    "slug": "iedugpt",
+    "sector": "AI EdTech / Exam Prep",
+    "one_liner": "AI exam prep platform.",
+    "funding_rounds": [
+      {
+        "stage": "Seed",
+        "date": "2025-09",
+        "amount_m": 10,
+        "lead_investors": [
+          "New Wheel Capital"
+        ]
+      }
+    ],
+    "total_raised_m": 10
+  }
+]

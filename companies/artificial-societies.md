@@ -1,0 +1,20 @@
+---
+name: "Artificial Societies"
+founded: 2024
+sector: "AI Simulation / Synthetic Personas"
+one_liner: "AI simulation platform using synthetic personas to predict audience reactions to products and campaigns. YC W25."
+status: active
+funding_rounds:
+  - stage: "Seed"
+    date: "2025-08"
+    amount_m: 5.35
+    lead_investors: ["Point72 Ventures"]
+    source: "https://www.thesaasnews.com/news/artificial-societies-raises-5-35m"
+total_funding: 5.35
+last_updated: 2026-03-21
+confidence: medium
+---
+
+# Artificial Societies
+
+AI simulation platform using synthetic personas to predict audience reactions to products and campaigns. YC W25.

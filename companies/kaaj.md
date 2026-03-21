@@ -1,0 +1,18 @@
+---
+name: "Kaaj"
+sector: "AI Fintech / Credit Intelligence"
+one_liner: "Agentic AI credit intelligence for small business lending."
+status: active
+funding_rounds:
+  - stage: "Seed"
+    date: "2025-11"
+    amount_m: 3.8
+    lead_investors: ["Kindred Ventures"]
+total_funding: 3.8
+last_updated: 2026-03-21
+confidence: medium
+---
+
+# Kaaj
+
+Agentic AI credit intelligence for small business lending.

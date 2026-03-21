@@ -1,0 +1,591 @@
+[
+  {
+    "name": "Inception Labs",
+    "slug": "inception-labs",
+    "founded": 2024,
+    "sector": "AI Models / Diffusion LLMs",
+    "one_liner": "Diffusion LLMs generating outputs in parallel, up to 10x faster than autoregressive models. Released Mercury coding model.",
+    "funding_rounds": [
+      {
+        "stage": "Seed",
+        "date": "2025-11",
+        "amount_m": 50,
+        "lead_investors": [
+          "Menlo Ventures",
+          "Mayfield",
+          "Innovation Endeavors",
+          "Microsoft M12",
+          "NVentures",
+          "Andrej Karpathy",
+          "Andrew Ng"
+        ],
+        "source": "https://techcrunch.com/2025/11/06/inception-raises-50-million-to-build-diffusion-models-for-code-and-text/"
+      }
+    ],
+    "total_raised_m": 50
+  },
+  {
+    "name": "Emerald AI",
+    "slug": "emerald-ai",
+    "founded": 2024,
+    "sector": "AI for Energy Grid",
+    "one_liner": "AI software helping the electric power grid adapt to AI surging energy demand.",
+    "funding_rounds": [
+      {
+        "stage": "Seed",
+        "date": "2025",
+        "amount_m": 24.5,
+        "lead_investors": [
+          "Radical Ventures"
+        ],
+        "source": "https://news.crunchbase.com/venture/biggest-funding-rounds-ai-defense-tech-anysphere/"
+      }
+    ],
+    "total_raised_m": 24.5
+  },
+  {
+    "name": "Scout AI",
+    "slug": "scout-ai",
+    "founded": 2024,
+    "sector": "Defense Robotics / Autonomous Vehicles",
+    "one_liner": "Defense robotics with vision-language-action foundation model for autonomous ground and aerial vehicles. DoD contracts.",
+    "funding_rounds": [
+      {
+        "stage": "Seed",
+        "date": "2025-04",
+        "amount_m": 15,
+        "lead_investors": [
+          "Align Ventures",
+          "Booz Allen Ventures"
+        ],
+        "source": "https://www.washingtontechnology.com/companies/2025/04/scout-ai-emerges-stealth-15m-seed-capital/404610/"
+      }
+    ],
+    "total_raised_m": 15
+  },
+  {
+    "name": "Mate Security",
+    "slug": "mate-security",
+    "founded": 2025,
+    "hq": "Israel",
+    "sector": "AI Cybersecurity / SOC",
+    "one_liner": "AI-native SOC platform using reasoning models to investigate and resolve security incidents. Founded by Wiz and Microsoft Defender alumni.",
+    "funding_rounds": [
+      {
+        "stage": "Seed",
+        "date": "2025-11",
+        "amount_m": 15.5,
+        "lead_investors": [
+          "Team8",
+          "Insight Partners"
+        ],
+        "source": "https://www.securityweek.com/mate-emerges-from-stealth-mode-with-15-5-million-in-seed-funding/"
+      }
+    ],
+    "total_raised_m": 15.5
+  },
+  {
+    "name": "SpAItial",
+    "slug": "spaitial",
+    "founded": 2025,
+    "hq": "London, UK",
+    "sector": "AI 3D / Spatial Foundation Models",
+    "one_liner": "Spatial foundation models generating physics-consistent interactive 3D environments from text. Synthesia co-founder.",
+    "funding_rounds": [
+      {
+        "stage": "Seed",
+        "date": "2025-05",
+        "amount_m": 13,
+        "lead_investors": [
+          "Earlybird Venture Capital",
+          "Speedinvest"
+        ],
+        "source": "https://techcrunch.com/2025/05/26/one-of-europes-top-ai-researchers-raised-a-13m-seed/"
+      }
+    ],
+    "total_raised_m": 13
+  },
+  {
+    "name": "Sett",
+    "slug": "sett-ai",
+    "founded": 2024,
+    "sector": "AI for Gaming / Ad Creative",
+    "one_liner": "Agentic AI for mobile game studios \u2014 generates data-driven video ads and in-game content at scale.",
+    "funding_rounds": [
+      {
+        "stage": "Seed",
+        "date": "2025-05",
+        "amount_m": 12,
+        "lead_investors": [
+          "F2 Venture Capital",
+          "Bessemer Venture Partners"
+        ],
+        "source": "https://techcrunch.com/2025/05/07/game-sett-funding/"
+      }
+    ],
+    "total_raised_m": 27
+  },
+  {
+    "name": "Milestone AI",
+    "slug": "milestone-ai",
+    "founded": 2025,
+    "sector": "AI Engineering ROI",
+    "one_liner": "Platform measuring ROI of generative AI coding tools for engineering teams.",
+    "funding_rounds": [
+      {
+        "stage": "Seed",
+        "date": "2025-11",
+        "amount_m": 10,
+        "lead_investors": [
+          "Heavybit",
+          "Hanaco Ventures"
+        ],
+        "source": "https://techcrunch.com/2025/11/13/milestone-raises-10m/"
+      }
+    ],
+    "total_raised_m": 10
+  },
+  {
+    "name": "Polygraf AI",
+    "slug": "polygraf-ai",
+    "founded": 2024,
+    "sector": "AI Security / Deepfake Detection",
+    "one_liner": "On-prem AI security using Small Language Models for deepfake fraud and insider threat detection.",
+    "funding_rounds": [
+      {
+        "stage": "Seed",
+        "date": "2025-10",
+        "amount_m": 9.5,
+        "lead_investors": [
+          "Allegis Capital"
+        ],
+        "source": "https://venturebeat.com/business/polygraf-ai-closes-95m-funding/"
+      }
+    ],
+    "total_raised_m": 9.5
+  },
+  {
+    "name": "Poly",
+    "slug": "poly-ai-files",
+    "founded": 2025,
+    "sector": "AI File Management",
+    "one_liner": "AI-powered file browser with intelligent search, tagging, and cloud sync for the AI era.",
+    "funding_rounds": [
+      {
+        "stage": "Seed",
+        "date": "2025-11",
+        "amount_m": 8,
+        "lead_investors": [
+          "Felicis",
+          "Bloomberg Beta",
+          "Figma Ventures"
+        ],
+        "source": "https://www.globenewswire.com/news-release/2025/11/19/3191276/0/en/"
+      }
+    ],
+    "total_raised_m": 8
+  },
+  {
+    "name": "Honey Health",
+    "slug": "honey-health",
+    "founded": 2024,
+    "sector": "AI Healthcare / EHR Automation",
+    "one_liner": "Autonomous AI agents completing full healthcare back-office workflows inside EHRs.",
+    "funding_rounds": [
+      {
+        "stage": "Seed",
+        "date": "2025-10",
+        "amount_m": 7.8,
+        "lead_investors": [
+          "Pelion Ventures"
+        ],
+        "source": "https://www.prnewswire.com/news-releases/honey-health-raises-7-8m/"
+      }
+    ],
+    "total_raised_m": 7.8
+  },
+  {
+    "name": "Arcads.ai",
+    "slug": "arcads-ai",
+    "founded": 2023,
+    "sector": "AI Video / Ad Creative",
+    "one_liner": "AI video platform generating UGC-style social videos with AI actors in 35+ languages.",
+    "funding_rounds": [
+      {
+        "stage": "Seed",
+        "date": "2025-12",
+        "amount_m": 16,
+        "lead_investors": [
+          "Eurazeo"
+        ],
+        "source": "https://www.prnewswire.com/news-releases/arcadsai-raises-16-million-usd/"
+      }
+    ],
+    "total_raised_m": 16
+  },
+  {
+    "name": "Artificial Societies",
+    "slug": "artificial-societies",
+    "founded": 2024,
+    "sector": "AI Simulation / Synthetic Personas",
+    "one_liner": "AI simulation platform using synthetic personas to predict audience reactions to products and campaigns. YC W25.",
+    "funding_rounds": [
+      {
+        "stage": "Seed",
+        "date": "2025-08",
+        "amount_m": 5.35,
+        "lead_investors": [
+          "Point72 Ventures"
+        ],
+        "source": "https://www.thesaasnews.com/news/artificial-societies-raises-5-35m"
+      }
+    ],
+    "total_raised_m": 5.35
+  },
+  {
+    "name": "Bricklayer AI",
+    "slug": "bricklayer-ai",
+    "founded": 2025,
+    "sector": "AI Cybersecurity / SOC Agents",
+    "one_liner": "AI agents for SOCs handling alert triage, vulnerability management, and incident reporting.",
+    "funding_rounds": [
+      {
+        "stage": "Seed",
+        "date": "2025-10",
+        "amount_m": 5,
+        "lead_investors": [
+          "Tech Square Ventures"
+        ],
+        "source": "https://www.prnewswire.com/news-releases/bricklayer-ai-raises-5-million-seed-round/"
+      }
+    ],
+    "total_raised_m": 5
+  },
+  {
+    "name": "LizzyAI",
+    "slug": "lizzyai",
+    "founded": 2025,
+    "sector": "AI Recruiting / Interviewing",
+    "one_liner": "AI-native conversational interviewing platform conducting adaptive role-specific interviews at scale.",
+    "funding_rounds": [
+      {
+        "stage": "Seed",
+        "date": "2025-12",
+        "amount_m": 5,
+        "lead_investors": [
+          "NEA",
+          "Speedinvest"
+        ],
+        "source": "https://www.businesswire.com/news/home/20251202243223/en/"
+      }
+    ],
+    "total_raised_m": 5
+  },
+  {
+    "name": "StrongestLayer",
+    "slug": "strongestlayer",
+    "founded": 2024,
+    "sector": "AI Email Security",
+    "one_liner": "LLM-native email security using intent analysis to stop AI-generated phishing attacks.",
+    "funding_rounds": [
+      {
+        "stage": "Seed",
+        "date": "2025-07",
+        "amount_m": 5.2,
+        "lead_investors": [
+          "Sorenson Capital"
+        ],
+        "source": "https://www.prnewswire.com/news-releases/strongestlayer-emerges-from-stealth/"
+      }
+    ],
+    "total_raised_m": 5.2
+  },
+  {
+    "name": "Trase",
+    "slug": "trase",
+    "founded": 2025,
+    "sector": "AI Agents / Critical Sectors",
+    "one_liner": "Agentic AI for healthcare, defense, and energy. Charges based on measurable efficiency gains.",
+    "funding_rounds": [
+      {
+        "stage": "Pre-seed",
+        "date": "2025-11",
+        "amount_m": 10.5,
+        "lead_investors": [
+          "Red Cell Partners"
+        ],
+        "source": "https://technical.ly/entrepreneurship/agentic-ai-startup-trase-raises-10m/"
+      }
+    ],
+    "total_raised_m": 10.5
+  },
+  {
+    "name": "DiligenceSquared",
+    "slug": "diligencesquared",
+    "founded": 2025,
+    "sector": "AI for M&A Due Diligence",
+    "one_liner": "AI voice agents automating commercial due diligence and M&A research for PE firms. YC-backed.",
+    "funding_rounds": [
+      {
+        "stage": "Seed",
+        "date": "2025-12",
+        "amount_m": 5,
+        "lead_investors": [
+          "Relentless",
+          "Y Combinator"
+        ],
+        "source": "https://techcrunch.com/2026/03/05/diligencesquared-uses-ai-voice-agents/"
+      }
+    ],
+    "total_raised_m": 5
+  },
+  {
+    "name": "Tenzai",
+    "slug": "tenzai",
+    "founded": 2025,
+    "hq": "Tel Aviv, Israel",
+    "sector": "AI Cybersecurity / Pen Testing",
+    "one_liner": "Autonomous AI hacker platform for penetration testing. Largest Israeli seed round ever. Guardicore co-founders.",
+    "funding_rounds": [
+      {
+        "stage": "Seed",
+        "date": "2025",
+        "amount_m": 75,
+        "lead_investors": [
+          "Battery Ventures",
+          "Greylock",
+          "Lux Capital"
+        ],
+        "source": "https://www.calcalistech.com/ctechnews/article/b16iahzeze"
+      }
+    ],
+    "total_raised_m": 75
+  },
+  {
+    "name": "Arago Photonics",
+    "slug": "arago-photonics",
+    "founded": 2025,
+    "hq": "Paris, France",
+    "sector": "AI Chips / Photonic Processors",
+    "one_liner": "Photonic AI processor chips delivering 10x lower energy than GPUs at equivalent performance.",
+    "funding_rounds": [
+      {
+        "stage": "Seed",
+        "date": "2025-07",
+        "amount_m": 26,
+        "lead_investors": [
+          "Earlybird",
+          "Protagonist"
+        ],
+        "source": "https://tech.eu/2025/07/08/arago-raises-26m/"
+      }
+    ],
+    "total_raised_m": 26
+  },
+  {
+    "name": "Endra",
+    "slug": "endra",
+    "founded": 2024,
+    "hq": "Stockholm, Sweden",
+    "sector": "AI for Building Engineering / MEP",
+    "one_liner": "AI automating MEP engineering design \u2014 reduces 2-month design to under 1 day.",
+    "funding_rounds": [
+      {
+        "stage": "Seed",
+        "date": "2025-12",
+        "amount_m": 20,
+        "lead_investors": [
+          "Notion Capital",
+          "Norrsken VC"
+        ],
+        "source": "https://fortune.com/2025/12/18/endra-ai-startup-automating-mep-design-sweden/"
+      }
+    ],
+    "total_raised_m": 20
+  },
+  {
+    "name": "Vesence",
+    "slug": "vesence",
+    "founded": 2025,
+    "hq": "Sweden",
+    "sector": "AI for Legal / Law Firms",
+    "one_liner": "Agentic AI deploying hundreds of AI agents inside Microsoft Word to review legal documents.",
+    "funding_rounds": [
+      {
+        "stage": "Seed",
+        "date": "2025-10",
+        "amount_m": 9,
+        "lead_investors": [
+          "Emergence Capital",
+          "Creandum",
+          "Y Combinator"
+        ],
+        "source": "https://sifted.eu/articles/yc-backed-legal-tech-vesence-raises-9m-seed-round"
+      }
+    ],
+    "total_raised_m": 9
+  },
+  {
+    "name": "Wonder Studios",
+    "slug": "wonder-studios",
+    "founded": 2025,
+    "hq": "London, UK",
+    "sector": "AI Entertainment / Film Production",
+    "one_liner": "AI-native entertainment studio producing AI-generated film and video content.",
+    "funding_rounds": [
+      {
+        "stage": "Seed",
+        "date": "2025-10",
+        "amount_m": 12,
+        "lead_investors": [
+          "Atomico",
+          "LocalGlobe",
+          "Adobe Ventures"
+        ],
+        "source": "https://sifted.eu/articles/wonder-ai-movie-studio-atomico-localglobe"
+      }
+    ],
+    "total_raised_m": 12
+  },
+  {
+    "name": "Onfire AI",
+    "slug": "onfire-ai",
+    "founded": 2025,
+    "hq": "Tel Aviv, Israel",
+    "sector": "AI Sales Intelligence",
+    "one_liner": "Military-grade contextual intelligence for SaaS sales \u2014 tracks developer buying signals in real time. Unit 8200 founders.",
+    "funding_rounds": [
+      {
+        "stage": "Seed",
+        "date": "2025-10",
+        "amount_m": 20,
+        "lead_investors": [
+          "TLV Partners",
+          "Grove Ventures"
+        ],
+        "source": "https://techcrunch.com/2025/10/27/israeli-intelligence-vets-raise-20m/"
+      }
+    ],
+    "total_raised_m": 20
+  },
+  {
+    "name": "Act Security",
+    "slug": "act-security",
+    "founded": 2025,
+    "hq": "Israel",
+    "sector": "AI Cybersecurity",
+    "one_liner": "Next-gen cybersecurity platform. Founded by Medigate team (sold to Claroty for ~M).",
+    "funding_rounds": [
+      {
+        "stage": "Seed",
+        "date": "2025",
+        "amount_m": 20,
+        "lead_investors": [
+          "Team8",
+          "Bessemer Venture Partners"
+        ],
+        "source": "https://www.calcalistech.com/ctechnews/article/b16iahzeze"
+      }
+    ],
+    "total_raised_m": 20
+  },
+  {
+    "name": "Bone AI",
+    "slug": "bone-ai",
+    "founded": 2024,
+    "hq": "Seoul, South Korea",
+    "sector": "AI Defense / Autonomous Maritime",
+    "one_liner": "AI platform for autonomous surface vessels and underwater drones for defense and maritime surveillance.",
+    "funding_rounds": [
+      {
+        "stage": "Seed",
+        "date": "2025-11",
+        "amount_m": 12,
+        "lead_investors": [
+          "Third Prime",
+          "Kolon Group"
+        ],
+        "source": "https://techcrunch.com/2025/11/17/bone-ai-raises-funding/"
+      }
+    ],
+    "total_raised_m": 12
+  },
+  {
+    "name": "Probabl",
+    "slug": "probabl",
+    "founded": 2024,
+    "hq": "Paris, France",
+    "sector": "Open Source AI / ML Platform",
+    "one_liner": "Enterprise open-source AI/ML platform built around scikit-learn with probabilistic forecasting.",
+    "funding_rounds": [
+      {
+        "stage": "Seed",
+        "date": "2025",
+        "amount_m": 14,
+        "lead_investors": [
+          "Serena",
+          "Capital Fund Management",
+          "Mozilla Ventures"
+        ],
+        "source": "https://www.inria.fr/en/probabl-logiciel-open-source-intelligence-artificielle"
+      }
+    ],
+    "total_raised_m": 14
+  },
+  {
+    "name": "Rerun",
+    "slug": "rerun",
+    "founded": 2023,
+    "hq": "Europe",
+    "sector": "AI Data Infrastructure / Physical AI",
+    "one_liner": "Open-source data infrastructure platform for physical AI applications \u2014 robotics and autonomous systems.",
+    "funding_rounds": [
+      {
+        "stage": "Seed",
+        "date": "2025-03",
+        "amount_m": 17,
+        "lead_investors": [],
+        "source": "https://tech.eu/"
+      }
+    ],
+    "total_raised_m": 17
+  },
+  {
+    "name": "yasp",
+    "slug": "yasp",
+    "founded": 2024,
+    "hq": "Munich, Germany",
+    "sector": "AI Model Optimization",
+    "one_liner": "Agentic AI Compiler \u2014 automatically optimizes AI models for specific hardware.",
+    "funding_rounds": [
+      {
+        "stage": "Seed",
+        "date": "2025-09",
+        "amount_m": 5,
+        "lead_investors": [
+          "Capnamic"
+        ],
+        "source": "https://www.eu-startups.com/2025/09/german-deeptech-startup-yasp/"
+      }
+    ],
+    "total_raised_m": 5
+  },
+  {
+    "name": "Vertical Compute",
+    "slug": "vertical-compute",
+    "founded": 2024,
+    "hq": "Europe",
+    "sector": "AI Semiconductors",
+    "one_liner": "Deep-tech semiconductor startup for data-intensive AI workloads.",
+    "funding_rounds": [
+      {
+        "stage": "Seed",
+        "date": "2025-Q1",
+        "amount_m": 21.5,
+        "lead_investors": [],
+        "source": "https://tech.eu/2026/01/23/from-idea-to-impact-europes-15-largest-tech-seed-rounds-in-2025/"
+      }
+    ],
+    "total_raised_m": 21.5
+  }
+]

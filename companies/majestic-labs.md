@@ -1,0 +1,20 @@
+---
+name: "Majestic Labs"
+founded: 2024
+sector: "AI Hardware / Servers"
+one_liner: "Memory-dense AI servers with 1000x GPU memory capacity to break the memory wall."
+status: active
+funding_rounds:
+  - stage: "Seed + Series A"
+    date: "2025-11"
+    amount_m: 100
+    lead_investors: ["Lux Capital", "Bow Wave Capital"]
+    source: "https://www.cnbc.com/2025/11/10/majestic-labs-meta-google-ai-funding.html"
+total_funding: 100
+last_updated: 2026-03-21
+confidence: medium
+---
+
+# Majestic Labs
+
+Memory-dense AI servers with 1000x GPU memory capacity to break the memory wall.
