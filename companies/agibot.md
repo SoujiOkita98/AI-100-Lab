@@ -1,27 +1,27 @@
 ---
 name: AgiBot (Zhiyuan Robotics)
-legal_entity: "Shanghai Zhiyuan Robotics Co., Ltd. (上海智元新创技术有限公司)"
+legal_entity: Shanghai Zhiyuan Robotics Co., Ltd. (上海智元新创技术有限公司)
 founded: 2023
-headquarters: "Shanghai, China"
+headquarters: Shanghai, China
 co_founders:
-  - "Deng Taihua (CEO, Chairman)"
-  - "Peng Zhihui (CTO)"
+- Deng Taihua (CEO, Chairman)
+- Peng Zhihui (CTO)
 sector: Humanoid Robotics / Embodied AI
-stage: "Pre-IPO (Hong Kong IPO expected Q3 2026)"
-reported_valuation_usd: "~$5-6.4B (targeted IPO valuation)"
-total_funding_usd: "~$84M+ disclosed (8+ rounds in 2 years)"
-revenue_2025_target_usd: "~$142M (1B RMB target)"
-robots_shipped_2025: "~5,168 (global leader in humanoid shipments)"
-headcount: "~1,000+ (estimated)"
+stage: Pre-IPO (Hong Kong IPO expected Q3 2026)
+reported_valuation_usd: ~$5-6.4B (targeted IPO valuation)
+total_funding_usd: ~$84M+ disclosed (8+ rounds in 2 years)
+revenue_2025_target_usd: ~$142M (1B RMB target)
+robots_shipped_2025: ~5,168 (global leader in humanoid shipments)
+headcount: ~1,000+ (estimated)
 key_products:
-  - "AgiBot A2 (humanoid robot for industrial use)"
-  - "AgiBot A2-Max (advanced humanoid)"
-  - "AgiBot World (open-source embodied AI dataset)"
+- AgiBot A2 (humanoid robot for industrial use)
+- AgiBot A2-Max (advanced humanoid)
+- AgiBot World (open-source embodied AI dataset)
 website: https://www.agibot.com
 last_updated: 2026-03-20
-confidence_note: >
-  Funding total likely understated as many Chinese rounds are not fully disclosed.
-  IPO valuation is a target from press reporting. Shipment figures from Omdia analyst report.
+confidence_note: Funding total likely understated as many Chinese rounds are not fully disclosed. IPO valuation is a target
+  from press reporting. Shipment figures from Omdia analyst report.
+one_liner: 'Full-stack humanoid robots for industrial use. Produced 5168 robots in 2025 — #1 globally. Planning HK IPO.'
 ---
 
 # AgiBot (Zhiyuan Robotics)

@@ -1,0 +1,20 @@
+---
+name: "X Square Robot"
+founded: 2023
+headquarters: "Shenzhen, China"
+sector: "Humanoid Robotics / Service Robots"
+one_liner: "Humanoid service robots for hotels, schools, retirement homes. Open-source embodied AI model. ~$280M raised."
+status: active
+funding_rounds:
+  - stage: "Series A+"
+    date: "2025"
+    amount_m: 140
+    lead_investors: ["Alibaba Cloud", "HongShan", "Meituan"]
+total_funding: 280
+last_updated: 2026-03-21
+confidence: medium
+---
+
+# X Square Robot
+
+Humanoid service robots for hotels, schools, retirement homes. Open-source embodied AI model. ~$280M raised.

@@ -833,7 +833,7 @@
     "hq": "Shanghai, China",
     "website": "https://www.agibot.com",
     "sector": "Humanoid Robotics / Embodied AI",
-    "one_liner": null,
+    "one_liner": "Full-stack humanoid robots for industrial use. Produced 5168 robots in 2025 \u2014 #1 globally. Planning HK IPO.",
     "total_raised_m": null,
     "latest_valuation_m": null,
     "employees": "1000+ (estimated)",
@@ -945,6 +945,49 @@
         "lead_investors": "[not disclosed]",
         "other_investors": "",
         "source": "https://tracxn.com/d/companies/agilityrobotics/__zWyvO8soXb6xhR16FWzvRmbHXslWot5BI_JRbmtdaF0/funding-and-investors",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
+    "slug": "ai2-robotics",
+    "name": "AI2 Robotics",
+    "status": "active",
+    "founded_year": "2023",
+    "hq": "Beijing, China",
+    "website": null,
+    "sector": "Humanoid Robotics",
+    "one_liner": "AlphaBot humanoid robots. Valuation >10B yuan ($1.4B). Scaling from 1K to 10K units/year. IPO prep underway.",
+    "total_raised_m": 140.0,
+    "latest_valuation_m": 1400.0,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [
+      {
+        "company_slug": "ai2-robotics",
+        "name": "Guo Yandong",
+        "role": "CEO",
+        "background": "Purdue PhD, former chief scientist at XPeng",
+        "origin": "",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "ai2-robotics",
+        "stage": "Series B",
+        "date": "2025",
+        "amount_m": 140.0,
+        "valuation_m": 1400.0,
+        "lead_investors": "Baidu; CRRC",
+        "other_investors": "",
+        "source": "",
         "notes": ""
       }
     ],
@@ -1563,6 +1606,40 @@
         "lead_investors": "Andreessen Horowitz; Thrive Capital",
         "other_investors": "",
         "source": "https://techcrunch.com/2026/03/03/anduril-aims-at-60-billion-valuation-in-new-funding-round/",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
+    "slug": "ankar",
+    "name": "Ankar",
+    "status": "active",
+    "founded_year": "2024",
+    "hq": "London, UK",
+    "website": null,
+    "sector": "AI IP / Patent Management",
+    "one_liner": "AI OS for intellectual property \u2014 full patent lifecycle from idea to portfolio strategy. Ex-Palantir founders.",
+    "total_raised_m": 23.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [],
+    "funding_rounds": [
+      {
+        "company_slug": "ankar",
+        "stage": "Series A",
+        "date": "2025-12",
+        "amount_m": 20.0,
+        "valuation_m": null,
+        "lead_investors": "Atomico; Index Ventures",
+        "other_investors": "",
+        "source": "",
         "notes": ""
       }
     ],
@@ -2479,8 +2556,8 @@
     "hq": "San Francisco, CA",
     "website": "https://artisan.co",
     "sector": "AI / Sales Automation / Digital Workers",
-    "one_liner": null,
-    "total_raised_m": null,
+    "one_liner": "AI digital workers starting with Ava, an AI BDR automating B2B sales outbound. 250 customers, $5M ARR.",
+    "total_raised_m": 46.0,
     "latest_valuation_m": null,
     "employees": "35 (estimated 2025)",
     "revenue_signals": null,
@@ -2732,8 +2809,8 @@
     "hq": "London, UK",
     "website": "https://attio.com",
     "sector": "AI / CRM / GTM Automation",
-    "one_liner": null,
-    "total_raised_m": null,
+    "one_liner": "AI-native CRM for go-to-market teams combining flexible data models with AI automation.",
+    "total_raised_m": 116.0,
     "latest_valuation_m": null,
     "employees": "100 (estimated)",
     "revenue_signals": null,
@@ -2834,6 +2911,40 @@
         "amount_m": 5.0,
         "valuation_m": null,
         "lead_investors": "Accel",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
+    "slug": "aureka-biotech",
+    "name": "Aureka Biotech",
+    "status": "active",
+    "founded_year": "2023",
+    "hq": "Shanghai, China",
+    "website": null,
+    "sector": "AI Drug Discovery / Antibody Design",
+    "one_liner": "AI-native antibody drug discovery with self-evolving AI agent for autonomous antibody design.",
+    "total_raised_m": 20.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [],
+    "funding_rounds": [
+      {
+        "company_slug": "aureka-biotech",
+        "stage": "Series A",
+        "date": "2025-11",
+        "amount_m": 20.0,
+        "valuation_m": null,
+        "lead_investors": "5Y Capital; Qiming Venture Partners",
         "other_investors": "",
         "source": "",
         "notes": ""
@@ -4683,6 +4794,40 @@
     "top_investors": []
   },
   {
+    "slug": "cognida-ai",
+    "name": "Cognida.ai",
+    "status": "active",
+    "founded_year": "2023",
+    "hq": "Chicago, IL",
+    "website": null,
+    "sector": "AI Enterprise / Deployment Platform",
+    "one_liner": "Enterprise AI deployment platform \u2014 implements AI solutions in 10-12 weeks. 30+ enterprise clients.",
+    "total_raised_m": 15.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [],
+    "funding_rounds": [
+      {
+        "company_slug": "cognida-ai",
+        "stage": "Series A",
+        "date": "2025-02",
+        "amount_m": 15.0,
+        "valuation_m": null,
+        "lead_investors": "Nexus Venture Partners",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
     "slug": "cognition-ai",
     "name": "Cognition AI (Cognition Labs)",
     "status": "Active, Private",
@@ -5909,7 +6054,7 @@
     "hq": "Santa Clara, California, USA",
     "website": "https://www.d-matrix.ai",
     "sector": "AI Hardware / Semiconductors (In-Memory Compute)",
-    "one_liner": null,
+    "one_liner": "In-memory AI inference accelerator chips \u2014 Corsair series targeting 10x faster inference than GPUs. $2B valuation.",
     "total_raised_m": null,
     "latest_valuation_m": null,
     "employees": "200 (estimate)",
@@ -6311,8 +6456,8 @@
     "hq": "Sacramento, CA",
     "website": "https://day.ai",
     "sector": "AI / CRM / Sales Automation",
-    "one_liner": null,
-    "total_raised_m": null,
+    "one_liner": "AI-native CRM auto-capturing relationship data from emails, calendars, meetings. No manual entry.",
+    "total_raised_m": 28.0,
     "latest_valuation_m": null,
     "employees": "Undisclosed (small team)",
     "revenue_signals": null,
@@ -6415,6 +6560,40 @@
         "lead_investors": "Coatue Management; Index Ventures",
         "other_investors": "",
         "source": "https://finance.yahoo.com/news/decagon-raises-250-million-valuation-161223745.html",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
+    "slug": "deep-robotics",
+    "name": "DEEP Robotics",
+    "status": "active",
+    "founded_year": "2017",
+    "hq": "Hangzhou, China",
+    "website": null,
+    "sector": "Robotics / Quadruped-Humanoid",
+    "one_liner": "Quadruped and humanoid robots from Zhejiang University. Lynx M20 and DR02 humanoid.",
+    "total_raised_m": 70.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [],
+    "funding_rounds": [
+      {
+        "company_slug": "deep-robotics",
+        "stage": "Series C",
+        "date": "2025-12",
+        "amount_m": 70.0,
+        "valuation_m": null,
+        "lead_investors": "CMB International; China Asset Management",
+        "other_investors": "",
+        "source": "",
         "notes": ""
       }
     ],
@@ -7550,6 +7729,40 @@
     "top_investors": []
   },
   {
+    "slug": "engine-ai",
+    "name": "EngineAI",
+    "status": "active",
+    "founded_year": "2024",
+    "hq": "Shenzhen, China",
+    "website": null,
+    "sector": "Humanoid Robotics / Embodied AI",
+    "one_liner": "Embodied AI humanoid robotics backed by Xpeng, JD.com, and CATL ecosystem.",
+    "total_raised_m": 139.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [],
+    "funding_rounds": [
+      {
+        "company_slug": "engine-ai",
+        "stage": "Pre-A + A1",
+        "date": "2025",
+        "amount_m": 139.0,
+        "valuation_m": null,
+        "lead_investors": "Xpeng (Rockets Capital); JD.com",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
     "slug": "entalpic",
     "name": "Entalpic",
     "status": "Active, Private",
@@ -7599,6 +7812,49 @@
       "Cathay Innovation",
       "Felicis Ventures"
     ]
+  },
+  {
+    "slug": "enter-legal-brazil",
+    "name": "Enter (Legal AI Brazil)",
+    "status": "active",
+    "founded_year": "2023",
+    "hq": "Sao Paulo, Brazil",
+    "website": null,
+    "sector": "AI Legal / Brazil",
+    "one_liner": "AI for legal case management in Brazil \u2014 clients include Itau, Nubank, Airbnb. Largest AI startup round in Brazilian history.",
+    "total_raised_m": 35.0,
+    "latest_valuation_m": 350.0,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [
+      {
+        "company_slug": "enter-legal-brazil",
+        "name": "Mateus Costa-Ribeiro",
+        "role": "CEO",
+        "background": "Brazil youngest lawyer at 18, Harvard Law, left Stanford MBA",
+        "origin": "",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "enter-legal-brazil",
+        "stage": "Series A",
+        "date": "2025-09",
+        "amount_m": 35.0,
+        "valuation_m": 350.0,
+        "lead_investors": "Founders Fund; Sequoia Capital",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
   },
   {
     "slug": "entire",
@@ -8525,6 +8781,40 @@
         "other_investors": "Brookfield Asset Management; NVIDIA; Macquarie Capital; Intel Capital; Align Ventures; Tamarack Global; LG Technology Ventures; Salesforce; T-Mobile Ventures; Qualcomm Ventures; Arcapita",
         "source": "https://www.figure.ai/news/series-c",
         "notes": "15x valuation jump in ~18 months (from $2.6B to $39B). Largest humanoid-robotics round at the time.\n"
+      }
+    ],
+    "top_investors": []
+  },
+  {
+    "slug": "filed",
+    "name": "Filed",
+    "status": "active",
+    "founded_year": "2024",
+    "hq": "Stockholm, Sweden",
+    "website": null,
+    "sector": "AI Finance / Tax Automation",
+    "one_liner": "AI automating tax return prep for US accounting firms \u2014 3x more returns without hiring.",
+    "total_raised_m": 17.2,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [],
+    "funding_rounds": [
+      {
+        "company_slug": "filed",
+        "stage": "Seed",
+        "date": "2025-05",
+        "amount_m": 17.2,
+        "valuation_m": null,
+        "lead_investors": "Northzone; Day One Ventures",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
       }
     ],
     "top_investors": []
@@ -10578,6 +10868,40 @@
     "top_investors": []
   },
   {
+    "slug": "heidi-health",
+    "name": "Heidi Health",
+    "status": "active",
+    "founded_year": "2021",
+    "hq": "Melbourne, Australia",
+    "website": "https://heidi.health",
+    "sector": "AI Healthcare / Medical Scribe",
+    "one_liner": "AI medical scribe and care partner. 70M+ patient visits in 116 countries, 18M+ hours returned to clinicians.",
+    "total_raised_m": 100.0,
+    "latest_valuation_m": 465.0,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [],
+    "funding_rounds": [
+      {
+        "company_slug": "heidi-health",
+        "stage": "Series B",
+        "date": "2025-10",
+        "amount_m": 65.0,
+        "valuation_m": 465.0,
+        "lead_investors": "Point72 Private Investments",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
     "slug": "hello-patient",
     "name": "Hello Patient",
     "status": "active",
@@ -10929,9 +11253,9 @@
     "hq": "New York, NY, USA",
     "website": "https://huggingface.co",
     "sector": "Artificial Intelligence / Open-Source ML Platform",
-    "one_liner": null,
-    "total_raised_m": null,
-    "latest_valuation_m": null,
+    "one_liner": "The open-source AI platform \u2014 500K+ models, 100K+ datasets. Where the ML community collaborates.",
+    "total_raised_m": 400.0,
+    "latest_valuation_m": 4500.0,
     "employees": "200-300 (uncertain; not independently verified for 2026)",
     "revenue_signals": null,
     "business_model": null,
@@ -11615,8 +11939,8 @@
     "hq": "Hong Kong (global operations in US, China, UAE, and other locations)",
     "website": "https://insilico.com",
     "sector": "AI-Driven Drug Discovery / Generative AI Biotech",
-    "one_liner": null,
-    "total_raised_m": null,
+    "one_liner": "Generative AI for drug discovery with molecules in clinical trials. IPO on HKEX Dec 2025 raising $293M.",
+    "total_raised_m": 1000.0,
     "latest_valuation_m": null,
     "employees": "500+ (estimated early 2026; exact figure uncertain)",
     "revenue_signals": null,
@@ -12391,8 +12715,8 @@
     "hq": "San Francisco, CA",
     "website": "https://landbase.com",
     "sector": "AI / GTM Automation / Revenue Operations",
-    "one_liner": null,
-    "total_raised_m": null,
+    "one_liner": "Agentic AI platform automating outbound prospecting and pipeline generation for GTM teams.",
+    "total_raised_m": 42.5,
     "latest_valuation_m": null,
     "employees": "50 (estimated)",
     "revenue_signals": null,
@@ -12713,6 +13037,40 @@
     "top_investors": []
   },
   {
+    "slug": "liblib-ai",
+    "name": "LiblibAI",
+    "status": "active",
+    "founded_year": "2023",
+    "hq": "Beijing, China",
+    "website": null,
+    "sector": "AI Creative / Image-Video Generation",
+    "one_liner": "China largest AI image/video creation community \u2014 20M+ creators. Evolved from Stable Diffusion community.",
+    "total_raised_m": 130.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [],
+    "funding_rounds": [
+      {
+        "company_slug": "liblib-ai",
+        "stage": "Series B",
+        "date": "2025",
+        "amount_m": 130.0,
+        "valuation_m": null,
+        "lead_investors": "HongShan (Sequoia China); CMC Capital",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
     "slug": "lightmatter",
     "name": "Lightmatter",
     "status": "Series D (Late-stage private)",
@@ -12868,6 +13226,40 @@
         "amount_m": 5.8,
         "valuation_m": null,
         "lead_investors": "BITKRAFT Ventures; Riot Games",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
+    "slug": "limx-dynamics",
+    "name": "LimX Dynamics",
+    "status": "active",
+    "founded_year": "2022",
+    "hq": "Shenzhen, China",
+    "website": null,
+    "sector": "Robotics / Legged Robots",
+    "one_liner": "Multi-form legged robotics \u2014 bipedal, quadrupedal, humanoid. CL-1 humanoid and TRON 1 biped.",
+    "total_raised_m": 69.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [],
+    "funding_rounds": [
+      {
+        "company_slug": "limx-dynamics",
+        "stage": "Series",
+        "date": "2025",
+        "amount_m": 69.0,
+        "valuation_m": null,
+        "lead_investors": "Alibaba; JD.com",
         "other_investors": "",
         "source": "",
         "notes": ""
@@ -13107,6 +13499,40 @@
         "lead_investors": "Felicis Ventures; UC Investments",
         "other_investors": "",
         "source": "https://techcrunch.com/2026/01/06/lmarena-lands-1-7b-valuation/",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
+    "slug": "lorikeet",
+    "name": "Lorikeet",
+    "status": "active",
+    "founded_year": "2023",
+    "hq": "Australia",
+    "website": null,
+    "sector": "AI Customer Service / Agentic",
+    "one_liner": "Agentic AI universal concierge for customer service \u2014 resolves complex issues, not just chatbot. Airwallex, Linktree as clients.",
+    "total_raised_m": 75.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [],
+    "funding_rounds": [
+      {
+        "company_slug": "lorikeet",
+        "stage": "Series A",
+        "date": "2025-08",
+        "amount_m": 35.0,
+        "valuation_m": null,
+        "lead_investors": "QED Investors",
+        "other_investors": "",
+        "source": "",
         "notes": ""
       }
     ],
@@ -14172,6 +14598,57 @@
         "lead_investors": "OpenAI; Bain Capital; Interface Fund",
         "other_investors": "",
         "source": "https://www.bloomberg.com/news/articles/2026-01-15/altman-s-merge-raises-252-million-to-link-brains-and-computers",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
+    "slug": "metax-gpu",
+    "name": "MetaX (GPU)",
+    "status": "active",
+    "founded_year": "2020",
+    "hq": "Shanghai, China",
+    "website": null,
+    "sector": "AI Chips / GPU Design",
+    "one_liner": "Chinese AI GPU maker. Revenue 743M yuan in 2024. IPO on STAR Market \u2014 shares surged 700% on debut. AMD veterans.",
+    "total_raised_m": 596.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [
+      {
+        "company_slug": "metax-gpu",
+        "name": "Chen Weiliang",
+        "role": "Chairman",
+        "background": "",
+        "origin": "",
+        "prior": ""
+      },
+      {
+        "company_slug": "metax-gpu",
+        "name": "Peng Li",
+        "role": "Co-CTO",
+        "background": "AMD veteran",
+        "origin": "",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "metax-gpu",
+        "stage": "IPO",
+        "date": "2025-Q4",
+        "amount_m": 596.0,
+        "valuation_m": null,
+        "lead_investors": "Public Market (STAR Market)",
+        "other_investors": "",
+        "source": "",
         "notes": ""
       }
     ],
@@ -18269,6 +18746,49 @@
     "top_investors": []
   },
   {
+    "slug": "qeen-ai",
+    "name": "Qeen.ai",
+    "status": "active",
+    "founded_year": "2023",
+    "hq": "Dubai, UAE",
+    "website": null,
+    "sector": "AI E-commerce / MENA",
+    "one_liner": "Autonomous AI agents for MENA e-commerce \u2014 content, marketing, conversational sales. 15M+ users. Ex-DeepMind team.",
+    "total_raised_m": 12.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [
+      {
+        "company_slug": "qeen-ai",
+        "name": "Morteza Ibrahimi",
+        "role": "CEO",
+        "background": "Ex-DeepMind team lead",
+        "origin": "",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "qeen-ai",
+        "stage": "Seed",
+        "date": "2025-02",
+        "amount_m": 10.0,
+        "valuation_m": null,
+        "lead_investors": "Prosus Ventures",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
     "slug": "qodo",
     "name": "Qodo",
     "status": "Private (Series A)",
@@ -20825,6 +21345,40 @@
     "top_investors": []
   },
   {
+    "slug": "sintra",
+    "name": "Sintra",
+    "status": "active",
+    "founded_year": "2022",
+    "hq": "Vilnius, Lithuania",
+    "website": null,
+    "sector": "AI Enterprise / SMB Agents",
+    "one_liner": "AI employee helpers for small businesses \u2014 social media, support, admin. $12M ARR, 40K+ paying customers.",
+    "total_raised_m": 17.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [],
+    "funding_rounds": [
+      {
+        "company_slug": "sintra",
+        "stage": "Seed",
+        "date": "2025-06",
+        "amount_m": 17.0,
+        "valuation_m": null,
+        "lead_investors": "Earlybird VC",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
     "slug": "skild-ai",
     "name": "Skild AI",
     "status": "active",
@@ -21765,6 +22319,85 @@
       }
     ],
     "funding_rounds": [],
+    "top_investors": []
+  },
+  {
+    "slug": "spirit-ai-robotics",
+    "name": "Spirit AI",
+    "status": "active",
+    "founded_year": "2024",
+    "hq": "Beijing, China",
+    "website": null,
+    "sector": "Humanoid Robotics / Embodied AI",
+    "one_liner": "Humanoid robot startup. Moz1 humanoid with proprietary VLA model. Unicorn at >10B yuan. Backed by JD.com.",
+    "total_raised_m": 153.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [],
+    "funding_rounds": [
+      {
+        "company_slug": "spirit-ai-robotics",
+        "stage": "Pre-A",
+        "date": "2025-03",
+        "amount_m": 73.0,
+        "valuation_m": null,
+        "lead_investors": "",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
+      },
+      {
+        "company_slug": "spirit-ai-robotics",
+        "stage": "Pre-A+",
+        "date": "2025-07",
+        "amount_m": 83.0,
+        "valuation_m": null,
+        "lead_investors": "JD.com",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
+    "slug": "splose",
+    "name": "Splose",
+    "status": "active",
+    "founded_year": "2016",
+    "hq": "Adelaide, Australia",
+    "website": null,
+    "sector": "AI Healthcare / Practice Management",
+    "one_liner": "AI practice management for allied health professionals.",
+    "total_raised_m": 46.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [],
+    "funding_rounds": [
+      {
+        "company_slug": "splose",
+        "stage": "Series A",
+        "date": "2025",
+        "amount_m": 46.0,
+        "valuation_m": null,
+        "lead_investors": "Spectrum Equity",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
+      }
+    ],
     "top_investors": []
   },
   {
@@ -23711,6 +24344,40 @@
       }
     ],
     "funding_rounds": [],
+    "top_investors": []
+  },
+  {
+    "slug": "truefoundry",
+    "name": "TrueFoundry",
+    "status": "active",
+    "founded_year": "2021",
+    "hq": "India",
+    "website": null,
+    "sector": "AI Infrastructure / Deployment",
+    "one_liner": "AI deployment and infrastructure platform \u2014 helps enterprises scale AI models with autonomous agents.",
+    "total_raised_m": 21.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [],
+    "funding_rounds": [
+      {
+        "company_slug": "truefoundry",
+        "stage": "Series A",
+        "date": "2025-02",
+        "amount_m": 19.0,
+        "valuation_m": null,
+        "lead_investors": "Intel Capital",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
+      }
+    ],
     "top_investors": []
   },
   {
@@ -25768,6 +26435,40 @@
         "lead_investors": "ICONIQ Growth; Premji Invest; Radical Ventures",
         "other_investors": "",
         "source": "https://writer.com/blog/series-c-funding-writer-press-release/",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
+    "slug": "x-square-robot",
+    "name": "X Square Robot",
+    "status": "active",
+    "founded_year": "2023",
+    "hq": "Shenzhen, China",
+    "website": null,
+    "sector": "Humanoid Robotics / Service Robots",
+    "one_liner": "Humanoid service robots for hotels, schools, retirement homes. Open-source embodied AI model. ~$280M raised.",
+    "total_raised_m": 280.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [],
+    "funding_rounds": [
+      {
+        "company_slug": "x-square-robot",
+        "stage": "Series A+",
+        "date": "2025",
+        "amount_m": 140.0,
+        "valuation_m": null,
+        "lead_investors": "Alibaba Cloud; HongShan; Meituan",
+        "other_investors": "",
+        "source": "",
         "notes": ""
       }
     ],

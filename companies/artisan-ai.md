@@ -13,6 +13,9 @@ employees: ~35 (estimated, 2025)
 status: Private
 last_updated: 2026-03-20
 confidence: medium
+one_liner: AI digital workers starting with Ava, an AI BDR automating B2B sales outbound. 250 customers, $5M ARR.
+website: https://artisan.co
+total_funding: 46
 ---
 
 # Artisan AI

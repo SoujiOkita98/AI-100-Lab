@@ -5,17 +5,20 @@ domain: huggingface.co
 founded: 2016
 headquarters: New York, NY, USA
 sector: Artificial Intelligence / Open-Source ML Platform
-last_valuation_usd: 4_500_000_000
+last_valuation_usd: 4500000000
 last_valuation_date: 2023-08-22
-total_funding_usd_approximate: 395_200_000
-employee_count_estimate: "~200-300 (uncertain; not independently verified for 2026)"
+total_funding_usd_approximate: 395200000
+employee_count_estimate: ~200-300 (uncertain; not independently verified for 2026)
 status: Private
 profile_last_updated: 2026-03-20
-confidence_notes: >
-  Funding data through Series D (Aug 2023) is well-sourced from TechCrunch, Crunchbase, and official company blogs.
-  Some aggregator sites report much higher 2025-2026 valuations (up to $7B) and additional funding rounds,
-  but these could not be independently verified through primary sources. We flag those claims but do not treat
-  them as confirmed. Revenue figures come from Sacra/Latka estimates, not official disclosures.
+confidence_notes: Funding data through Series D (Aug 2023) is well-sourced from TechCrunch, Crunchbase, and official company
+  blogs. Some aggregator sites report much higher 2025-2026 valuations (up to $7B) and additional funding rounds, but these
+  could not be independently verified through primary sources. We flag those claims but do not treat them as confirmed. Revenue
+  figures come from Sacra/Latka estimates, not official disclosures.
+one_liner: The open-source AI platform — 500K+ models, 100K+ datasets. Where the ML community collaborates.
+website: https://huggingface.co
+total_funding: 400
+latest_valuation: 4500
 ---
 
 # Hugging Face

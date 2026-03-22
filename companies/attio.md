@@ -13,6 +13,9 @@ employees: ~100 (estimated)
 status: Private
 last_updated: 2026-03-20
 confidence: medium
+one_liner: AI-native CRM for go-to-market teams combining flexible data models with AI automation.
+website: https://attio.com
+total_funding: 116
 ---
 
 # Attio

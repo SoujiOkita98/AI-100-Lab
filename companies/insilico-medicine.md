@@ -10,6 +10,8 @@ ceo: Alex Zhavoronkov, Ph.D. (Founder) and Feng Ren, Ph.D. (Co-CEO)
 website: https://insilico.com
 last_updated: 2026-03-20
 confidence: high (publicly traded on HKEX; extensive press coverage and clinical data available)
+one_liner: Generative AI for drug discovery with molecules in clinical trials. IPO on HKEX Dec 2025 raising $293M.
+total_funding: 1000
 ---
 
 # Insilico Medicine

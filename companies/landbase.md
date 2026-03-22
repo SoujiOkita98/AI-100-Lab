@@ -13,6 +13,9 @@ employees: ~50 (estimated)
 status: Private
 last_updated: 2026-03-20
 confidence: medium
+one_liner: Agentic AI platform automating outbound prospecting and pipeline generation for GTM teams.
+website: https://landbase.com
+total_funding: 42.5
 ---
 
 # Landbase

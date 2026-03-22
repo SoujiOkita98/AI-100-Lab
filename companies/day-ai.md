@@ -13,6 +13,9 @@ employees: Undisclosed (small team)
 status: Private
 last_updated: 2026-03-20
 confidence: medium
+one_liner: AI-native CRM auto-capturing relationship data from emails, calendars, meetings. No manual entry.
+website: https://day.ai
+total_funding: 28
 ---
 
 # Day AI
