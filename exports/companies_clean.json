@@ -3055,6 +3055,40 @@
     "top_investors": []
   },
   {
+    "slug": "axelera-ai",
+    "name": "Axelera AI",
+    "status": "active",
+    "founded_year": "2021",
+    "hq": "Eindhoven, Netherlands",
+    "website": "https://axelera.ai",
+    "sector": "AI Chips / Edge Inference",
+    "one_liner": "Energy-efficient AI inference chips for edge computing \u2014 designed to undercut Nvidia on power.",
+    "total_raised_m": 350.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [],
+    "funding_rounds": [
+      {
+        "company_slug": "axelera-ai",
+        "stage": "Series C",
+        "date": "2026-02",
+        "amount_m": 250.0,
+        "valuation_m": null,
+        "lead_investors": "",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
     "slug": "axiamatic",
     "name": "Axiamatic",
     "status": "active",
@@ -3502,6 +3536,40 @@
         "lead_investors": "Accel; GV",
         "other_investors": "",
         "source": "https://www.bloomberg.com/news/articles/2026-02-24/",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
+    "slug": "bioptimus",
+    "name": "Bioptimus",
+    "status": "active",
+    "founded_year": "2023",
+    "hq": "Paris, France",
+    "website": "https://bioptimus.com",
+    "sector": "AI Biotech / Foundation Models",
+    "one_liner": "Universal biology foundation model trained on DNA, proteins, and cell images.",
+    "total_raised_m": 67.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [],
+    "funding_rounds": [
+      {
+        "company_slug": "bioptimus",
+        "stage": "Seed",
+        "date": "2024",
+        "amount_m": 67.0,
+        "valuation_m": null,
+        "lead_investors": "",
+        "other_investors": "",
+        "source": "",
         "notes": ""
       }
     ],
@@ -6284,6 +6352,40 @@
         "lead_investors": "Powerhouse Ventures; Fusion Fund; Hitachi Ventures",
         "other_investors": "",
         "source": "https://techcrunch.com/2026/01/26/ai-startup-cvector-raises-5m/",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
+    "slug": "cycraft",
+    "name": "CyCraft",
+    "status": "active",
+    "founded_year": "2017",
+    "hq": "Taipei, Taiwan",
+    "website": "https://cycraft.com",
+    "sector": "AI Cybersecurity / Autonomous Detection",
+    "one_liner": "AI-native cybersecurity \u2014 autonomous threat detection and response for enterprises and governments. IPO on TWSE.",
+    "total_raised_m": null,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [],
+    "funding_rounds": [
+      {
+        "company_slug": "cycraft",
+        "stage": "Strategic",
+        "date": "2025-06",
+        "amount_m": null,
+        "valuation_m": null,
+        "lead_investors": "Real Tech Fund Japan",
+        "other_investors": "",
+        "source": "",
         "notes": ""
       }
     ],
@@ -17008,6 +17110,40 @@
     "top_investors": []
   },
   {
+    "slug": "neural-concept",
+    "name": "Neural Concept",
+    "status": "active",
+    "founded_year": "2018",
+    "hq": "Lausanne, Switzerland",
+    "website": "https://neuralconcept.com",
+    "sector": "AI Engineering / Simulation",
+    "one_liner": "AI simulation for engineering design \u2014 aerodynamics, thermal, structural. Backed by NVIDIA, Siemens, Microsoft.",
+    "total_raised_m": 95.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [],
+    "funding_rounds": [
+      {
+        "company_slug": "neural-concept",
+        "stage": "Series C",
+        "date": "2025-12",
+        "amount_m": 95.0,
+        "valuation_m": null,
+        "lead_investors": "NVIDIA; Siemens; Microsoft",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
     "slug": "nevis",
     "name": "Nevis",
     "status": "Private",
@@ -18521,6 +18657,40 @@
       "Craft Ventures",
       "Mayo Clinic"
     ]
+  },
+  {
+    "slug": "orasio",
+    "name": "Orasio",
+    "status": "active",
+    "founded_year": "2024",
+    "hq": "Paris, France",
+    "website": "https://orasio.ai",
+    "sector": "AI Public Safety / Video Intelligence",
+    "one_liner": "Real-time video intelligence for public safety \u2014 weapon and fire detection. GDPR-compliant.",
+    "total_raised_m": 15.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [],
+    "funding_rounds": [
+      {
+        "company_slug": "orasio",
+        "stage": "Seed",
+        "date": "2025",
+        "amount_m": 15.0,
+        "valuation_m": null,
+        "lead_investors": "",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
   },
   {
     "slug": "orchid-security",
@@ -21600,6 +21770,40 @@
     "top_investors": []
   },
   {
+    "slug": "sana-labs",
+    "name": "Sana Labs",
+    "status": "active",
+    "founded_year": "2016",
+    "hq": "Stockholm, Sweden",
+    "website": "https://sanalabs.com",
+    "sector": "AI EdTech / Enterprise Learning",
+    "one_liner": "AI-powered workplace training and enterprise knowledge assistant. M valuation.",
+    "total_raised_m": 130.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [],
+    "funding_rounds": [
+      {
+        "company_slug": "sana-labs",
+        "stage": "Series B",
+        "date": "2025",
+        "amount_m": 55.0,
+        "valuation_m": null,
+        "lead_investors": "NEA",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
     "slug": "sanctuary-ai",
     "name": "Sanctuary AI",
     "status": "Private, Pre-IPO",
@@ -24209,6 +24413,40 @@
     "top_investors": []
   },
   {
+    "slug": "stackone",
+    "name": "StackOne",
+    "status": "active",
+    "founded_year": "2022",
+    "hq": "London, UK",
+    "website": "https://stackone.com",
+    "sector": "AI Infrastructure / Integration APIs",
+    "one_liner": "Tool-calling LLM and integration platform connecting SaaS via unified APIs for AI agents.",
+    "total_raised_m": 20.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [],
+    "funding_rounds": [
+      {
+        "company_slug": "stackone",
+        "stage": "Series A",
+        "date": "2025-05",
+        "amount_m": 20.0,
+        "valuation_m": null,
+        "lead_investors": "GV",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
     "slug": "standard-kernel",
     "name": "Standard Kernel",
     "status": "active",
@@ -24682,6 +24920,40 @@
     "top_investors": []
   },
   {
+    "slug": "superscale-ai",
+    "name": "Superscale AI",
+    "status": "active",
+    "founded_year": "2024",
+    "hq": "Berlin, Germany",
+    "website": "https://superscale.com",
+    "sector": "AI Marketing / Autonomous Campaigns",
+    "one_liner": "Autonomous AI marketing agent for campaign creation and optimization.",
+    "total_raised_m": 5.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [],
+    "funding_rounds": [
+      {
+        "company_slug": "superscale-ai",
+        "stage": "Pre-Seed",
+        "date": "2025-06",
+        "amount_m": 5.0,
+        "valuation_m": null,
+        "lead_investors": "",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
     "slug": "synthesia",
     "name": "Synthesia",
     "status": "Private",
@@ -24937,6 +25209,40 @@
         "lead_investors": "Sofreh Capital",
         "other_investors": "",
         "source": "https://fortune.com/2025/11/04/tala-health-raises-100-million-seed-round/",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
+    "slug": "tandem-health",
+    "name": "Tandem Health",
+    "status": "active",
+    "founded_year": "2022",
+    "hq": "Stockholm, Sweden",
+    "website": null,
+    "sector": "AI Healthcare / Medical Copilot",
+    "one_liner": "AI medical copilot for clinicians.",
+    "total_raised_m": 50.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [],
+    "funding_rounds": [
+      {
+        "company_slug": "tandem-health",
+        "stage": "Series A",
+        "date": "2025",
+        "amount_m": 50.0,
+        "valuation_m": null,
+        "lead_investors": "",
+        "other_investors": "",
+        "source": "",
         "notes": ""
       }
     ],
@@ -26084,6 +26390,40 @@
     "top_investors": []
   },
   {
+    "slug": "turing-japan",
+    "name": "Turing Inc (Japan)",
+    "status": "active",
+    "founded_year": "2021",
+    "hq": "Tokyo, Japan",
+    "website": "https://turing-motors.com",
+    "sector": "AI Autonomous Vehicles",
+    "one_liner": "Full self-driving technology for passenger vehicles. Targeting fully autonomous cars by 2029. Denso-backed.",
+    "total_raised_m": 100.0,
+    "latest_valuation_m": 388.0,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [],
+    "funding_rounds": [
+      {
+        "company_slug": "turing-japan",
+        "stage": "Series A",
+        "date": "2025-11",
+        "amount_m": 100.0,
+        "valuation_m": 388.0,
+        "lead_investors": "Denso",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
     "slug": "turing",
     "name": "Turing",
     "status": "unknown",
@@ -26558,6 +26898,40 @@
     "top_investors": []
   },
   {
+    "slug": "upstage",
+    "name": "Upstage",
+    "status": "active",
+    "founded_year": "2020",
+    "hq": "Seoul, South Korea",
+    "website": "https://upstage.ai",
+    "sector": "AI Foundation Models / Enterprise LLM",
+    "one_liner": "Enterprise LLMs (Solar model), document AI, and agentic workflows. Amazon and AMD backed. Preparing Korea first GenAI IPO.",
+    "total_raised_m": 157.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [],
+    "funding_rounds": [
+      {
+        "company_slug": "upstage",
+        "stage": "Series B Bridge",
+        "date": "2025-08",
+        "amount_m": 45.0,
+        "valuation_m": null,
+        "lead_investors": "Amazon; AMD",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
     "slug": "valerie-health",
     "name": "Valerie Health",
     "status": "active",
@@ -26922,6 +27296,40 @@
         "other_investors": "",
         "source": "https://www.businesswire.com/news/home/20240716489550/en/Vectara-Secures-25-Million-Series-A-Funding-to-Advance-the-Trustworthiness-of-Retrieval-Augmented-Generation-with-New-Mockingbird-LLM",
         "notes": "Coincided with launch of Mockingbird LLM, a model purpose-built for RAG applications."
+      }
+    ],
+    "top_investors": []
+  },
+  {
+    "slug": "veesion",
+    "name": "Veesion",
+    "status": "active",
+    "founded_year": "2018",
+    "hq": "Paris, France",
+    "website": "https://veesion.com",
+    "sector": "AI Retail / Gesture Recognition",
+    "one_liner": "Gesture-recognition AI for retail theft prevention in physical stores. GDPR-compliant.",
+    "total_raised_m": 59.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [],
+    "funding_rounds": [
+      {
+        "company_slug": "veesion",
+        "stage": "Series B",
+        "date": "2025-05",
+        "amount_m": 59.0,
+        "valuation_m": null,
+        "lead_investors": "",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
       }
     ],
     "top_investors": []
