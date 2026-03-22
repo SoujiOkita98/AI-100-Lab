@@ -2,7 +2,7 @@
 
 **A research-grade database of 500+ AI and robotics startups worldwide — funding rounds, founder profiles, investor networks, and origin analysis.**
 
-Built with the rigor of a Stanford GSB research project: every claim is sourced, uncertainty is marked explicitly, and quality takes precedence over completeness.
+Built with research-grade rigor: every claim is sourced, uncertainty is marked explicitly, and quality takes precedence over completeness.
 
 ---
 
