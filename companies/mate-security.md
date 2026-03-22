@@ -25,6 +25,7 @@ founders:
 data_notes: 'Needs verification: website, source_urls. Profile may be incomplete.'
 website: https://mate.security
 website_verified: true
+linkedin: https://www.linkedin.com/company/mate-security
 ---
 
 # Mate Security

@@ -27,6 +27,7 @@ confidence: medium
 data_notes: 'Needs verification: website, source_urls. Profile may be incomplete.'
 website: https://smacktechnologies.com
 website_verified: true
+linkedin: https://www.linkedin.com/company/smack-technologies-inc
 ---
 
 # Smack Technologies

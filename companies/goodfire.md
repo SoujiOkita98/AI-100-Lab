@@ -15,6 +15,7 @@ last_updated: 2026-03-21
 confidence: medium
 data_notes: 'Needs verification: founders, source_urls. Profile may be incomplete.'
 website_verified: true
+linkedin: https://www.linkedin.com/company/goodfire-ai
 ---
 
 # Goodfire

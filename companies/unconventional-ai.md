@@ -64,6 +64,7 @@ founders:
     Former Head of AI at Databricks.
   origin: Indian-American
 website_verified: true
+linkedin: https://www.linkedin.com/company/unconvai
 ---
 
 # Unconventional AI

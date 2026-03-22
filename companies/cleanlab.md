@@ -17,6 +17,7 @@ one_liner: Cleanlab is a data-centric AI company that pioneered automated data q
 data_notes: 'Needs verification: website, founders. Profile may be incomplete.'
 website: https://cleanlab.ai
 website_verified: true
+linkedin: https://www.linkedin.com/company/cleanlab
 ---
 
 # Cleanlab

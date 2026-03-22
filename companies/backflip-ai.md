@@ -18,6 +18,7 @@ website: https://backflip.ai
 headquarters: San Francisco, CA
 data_notes: 'Needs verification: founders, source_urls. Profile may be incomplete.'
 website_verified: true
+linkedin: https://www.linkedin.com/company/backflip-ai
 ---
 
 # Backflip AI

@@ -52,6 +52,7 @@ funding_rounds:
 one_liner: WEKA builds a high-performance, software-defined data platform purpose-built for AI, machine learning, and GPU-accelerated
   workloads
 website_verified: true
+linkedin: https://www.linkedin.com/company/weka-io
 ---
 
 # WEKA

@@ -62,6 +62,7 @@ funding_rounds:
 one_liner: VAST Data is an AI-native data infrastructure company that has built a unified storage and data platform designed
   from the ground up for AI workloads
 website_verified: true
+linkedin: https://www.linkedin.com/company/vast-data
 ---
 
 # VAST Data

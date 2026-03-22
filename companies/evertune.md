@@ -21,6 +21,7 @@ total_funding: 15
 last_updated: 2026-03-21
 confidence: medium
 website_verified: true
+linkedin: https://www.linkedin.com/company/evertune-ai
 ---
 
 # Evertune

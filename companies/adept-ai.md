@@ -32,6 +32,7 @@ funding_rounds:
 one_liner: Adept AI was founded in 2022 to build AI agents that could interact with any software on behalf of users — an "agentic
   AI" company before the term became mainstream
 website_verified: true
+linkedin: https://www.linkedin.com/company/adeptai
 ---
 
 # Adept AI

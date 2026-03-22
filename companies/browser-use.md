@@ -38,6 +38,7 @@ last_updated: 2026-03-20
 one_liner: Browser Use is the leading open-source framework for enabling AI agents to control web browsers
 website: https://browser-use.com
 website_verified: true
+linkedin: https://www.linkedin.com/company/browser-use
 ---
 
 # Browser Use

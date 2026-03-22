@@ -33,6 +33,7 @@ founders:
 data_notes: 'Needs verification: website, source_urls. Profile may be incomplete.'
 website: https://tenzai.com
 website_verified: true
+linkedin: https://www.linkedin.com/company/tenzai-inc
 ---
 
 # Tenzai

@@ -45,6 +45,7 @@ funding_rounds:
 one_liner: '> Autonomous AI-powered cybersecurity agents that automate security investigations, founded by the co-founders
   of Cybereason'
 website_verified: true
+linkedin: https://www.linkedin.com/company/seven-ai
 ---
 
 # 7AI

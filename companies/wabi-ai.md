@@ -23,6 +23,7 @@ confidence: medium
 website: https://wabi.ai
 headquarters: San Francisco, CA
 website_verified: true
+linkedin: https://www.linkedin.com/company/wabi-ai
 ---
 
 # Wabi AI

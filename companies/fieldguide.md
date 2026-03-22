@@ -16,6 +16,7 @@ confidence: medium
 data_notes: 'Needs verification: website, founders, source_urls, headquarters. Profile may be incomplete.'
 website: https://www.fieldguide.io
 website_verified: true
+linkedin: https://www.linkedin.com/company/fieldguide-inc
 ---
 
 # Fieldguide

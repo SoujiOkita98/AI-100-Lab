@@ -17,6 +17,7 @@ one_liner: AI-native CRM for go-to-market teams combining flexible data models w
 website: https://attio.com
 total_funding: 116
 website_verified: true
+linkedin: https://www.linkedin.com/company/attio
 ---
 
 # Attio

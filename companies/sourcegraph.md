@@ -50,6 +50,7 @@ funding_rounds:
 one_liner: Sourcegraph is the company behind the industry-leading **code search** platform used by large engineering organizations
   to navigate massive, multi-repository codebases
 website_verified: true
+linkedin: https://www.linkedin.com/company/sourcegraph
 ---
 
 # Sourcegraph

@@ -48,6 +48,7 @@ funding_rounds:
   source: https://salestools.io/en/report/essential-ai-175m-series-b
 website: https://www.essential.ai
 website_verified: true
+linkedin: https://www.linkedin.com/company/essentialai
 ---
 
 # Essential AI

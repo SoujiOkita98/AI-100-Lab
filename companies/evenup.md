@@ -48,6 +48,7 @@ funding_rounds:
   - Bessemer Venture Partners
   source: https://www.evenuplaw.com/blog/evenup-2b-valuation/
 website_verified: true
+linkedin: https://www.linkedin.com/company/evenup
 ---
 
 # EvenUp -- Company Profile

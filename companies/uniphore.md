@@ -54,6 +54,7 @@ funding_rounds:
   - Snowflake
   - Databricks
   source: https://www.superbcrew.com/uniphore-closes-260-million-series-f-funding-round/
+linkedin: https://www.linkedin.com/company/uniphore
 ---
 
 # Uniphore -- Enterprise Conversational AI & Business Automation

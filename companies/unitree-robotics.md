@@ -42,6 +42,7 @@ funding_rounds:
 one_liner: Unitree Robotics is China's leading manufacturer of legged robots, producing both quadruped robot dogs and humanoid
   robots
 website_verified: true
+linkedin: https://www.linkedin.com/company/unitreerobotics
 ---
 
 # Unitree Robotics

@@ -38,6 +38,7 @@ founders:
 website: https://gradium.org
 website_verified: false
 data_notes: 'Website URL may be invalid (Connection failed). '
+linkedin: https://www.linkedin.com/company/gradium-ai
 ---
 
 # Gradium

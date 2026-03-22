@@ -22,6 +22,7 @@ founders:
   origin: Chinese-American
 headquarters: Cupertino, CA
 data_notes: 'Needs verification: website, source_urls. Profile may be incomplete.'
+linkedin: https://www.linkedin.com/company/obots-ai
 ---
 
 # Obot AI

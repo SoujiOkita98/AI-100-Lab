@@ -33,6 +33,7 @@ confidence: medium
 website: https://braintrust.dev
 headquarters: San Francisco, CA
 website_verified: true
+linkedin: https://www.linkedin.com/company/braintrust-data
 ---
 
 # Braintrust (AI Eval)

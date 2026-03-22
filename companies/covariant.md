@@ -107,6 +107,7 @@ customers:
 revenue_signals: No public revenue figures. Pre-deal, Covariant had deployed hundreds of AI-powered robotic solutions across
   multiple industries.
 website_verified: true
+linkedin: https://www.linkedin.com/company/covariant-ai
 ---
 
 ## Overview

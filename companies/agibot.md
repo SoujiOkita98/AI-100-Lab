@@ -23,6 +23,7 @@ confidence_note: Funding total likely understated as many Chinese rounds are not
   from press reporting. Shipment figures from Omdia analyst report.
 one_liner: 'Full-stack humanoid robots for industrial use. Produced 5168 robots in 2025 — #1 globally. Planning HK IPO.'
 website_verified: true
+linkedin: https://www.linkedin.com/company/agibot
 ---
 
 # AgiBot (Zhiyuan Robotics)

@@ -22,6 +22,7 @@ confidence: medium
 data_notes: 'Needs verification: website, founders, source_urls, headquarters. Profile may be incomplete.'
 website: https://slingshotai.com
 website_verified: true
+linkedin: https://www.linkedin.com/company/slingshotai
 ---
 
 # Slingshot AI

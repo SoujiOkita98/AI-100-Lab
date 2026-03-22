@@ -32,6 +32,7 @@ one_liner: Formation Bio is an "AI-native pharmaceutical company" that uses arti
   clinical data to accelerate drug development
 website_verified: false
 data_notes: 'Website URL may be invalid (Connection failed). '
+linkedin: https://www.linkedin.com/company/formationbio
 ---
 
 # Formation Bio

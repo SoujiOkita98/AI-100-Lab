@@ -55,6 +55,7 @@ funding_rounds:
 one_liner: '> UK-based Legal-Grade AI platform used by 1,000+ organizations across 70 countries, including all Big Four and
   a quarter of the Global Top 100 law firms'
 website_verified: true
+linkedin: https://www.linkedin.com/company/luminancetech
 ---
 
 # Luminance

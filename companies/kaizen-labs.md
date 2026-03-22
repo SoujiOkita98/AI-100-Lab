@@ -18,6 +18,7 @@ website: https://kaizenlabs.co
 headquarters: New York, NY
 data_notes: 'Needs verification: founders, source_urls. Profile may be incomplete.'
 website_verified: true
+linkedin: https://www.linkedin.com/company/the-kaizen-labs
 ---
 
 # Kaizen Labs

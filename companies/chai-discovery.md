@@ -37,6 +37,7 @@ funding_rounds:
 one_liner: Chai Discovery is building foundation models for molecular discovery -- essentially a "computer-aided design suite"
   for biological molecules
 website_verified: true
+linkedin: https://www.linkedin.com/company/chaidiscovery
 ---
 
 # Chai Discovery

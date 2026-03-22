@@ -24,6 +24,7 @@ founders:
 data_notes: 'Needs verification: website, source_urls, headquarters. Profile may be incomplete.'
 website: https://www.fieldai.com
 website_verified: true
+linkedin: https://www.linkedin.com/company/fieldai
 ---
 
 # FieldAI

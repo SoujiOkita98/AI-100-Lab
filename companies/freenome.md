@@ -57,6 +57,7 @@ funding_rounds:
 one_liner: Freenome is a biotechnology company developing blood-based early cancer detection tests using a multiomics platform
   powered by machine learning
 website_verified: true
+linkedin: https://www.linkedin.com/company/freenome
 ---
 
 # Freenome

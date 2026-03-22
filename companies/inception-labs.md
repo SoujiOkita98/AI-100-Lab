@@ -37,6 +37,7 @@ founders:
 website: https://inceptionlabs.ai
 headquarters: Palo Alto, CA
 website_verified: true
+linkedin: https://www.linkedin.com/company/inception-labs-ai
 ---
 
 # Inception Labs

@@ -67,6 +67,7 @@ funding_rounds:
 one_liner: Wayve is a London-based autonomous driving company building end-to-end AI systems that learn to drive from data
   and experience, without relying on hand-coded rules or high-definition maps
 website_verified: true
+linkedin: https://www.linkedin.com/company/wayve-technologies
 ---
 
 # Wayve

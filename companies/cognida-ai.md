@@ -17,6 +17,7 @@ confidence: medium
 data_notes: 'Needs verification: website, founders, source_urls. Profile may be incomplete.'
 website: https://www.cognida.ai
 website_verified: true
+linkedin: https://www.linkedin.com/company/cognida-ai
 ---
 
 # Cognida.ai

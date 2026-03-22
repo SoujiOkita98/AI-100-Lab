@@ -58,6 +58,7 @@ funding_rounds:
 one_liner: '> AI "search engine for new materials" -- backed by Nvidia, advised by Hinton and LeCun, with $130M raised to
   transform materials discovery for climate and industry'
 website_verified: true
+linkedin: https://www.linkedin.com/company/cusp-ai
 ---
 
 # CuspAI

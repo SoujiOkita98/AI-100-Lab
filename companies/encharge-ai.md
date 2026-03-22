@@ -17,6 +17,7 @@ confidence: medium
 data_notes: 'Needs verification: website, founders, source_urls. Profile may be incomplete.'
 website: https://www.enchargeai.com
 website_verified: true
+linkedin: https://www.linkedin.com/company/encharge-ai
 ---
 
 # EnCharge AI
