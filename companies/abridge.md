@@ -82,6 +82,7 @@ one_liner: AI-powered ambient clinical documentation platform that listens to do
 website: https://abridge.com
 website_verified: true
 twitter: '@AbridgeHQ'
+linkedin: https://www.linkedin.com/company/abridgehq
 ---
 
 # Abridge

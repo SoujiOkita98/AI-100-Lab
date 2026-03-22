@@ -55,6 +55,7 @@ one_liner: Pika is an AI video generation startup that enables users to create a
   or existing video clips
 website_verified: true
 twitter: '@pika_labs'
+linkedin: https://www.linkedin.com/company/pika-labs
 ---
 
 # Pika

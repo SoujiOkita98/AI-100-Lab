@@ -62,6 +62,7 @@ one_liner: Sakana AI is a Tokyo-based AI research lab that develops nature-inspi
 website: https://sakana.ai
 website_verified: true
 twitter: '@SakanaAILabs'
+linkedin: https://www.linkedin.com/company/sakana-ai
 ---
 
 # Sakana AI

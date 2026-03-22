@@ -54,6 +54,7 @@ funding_rounds:
 one_liner: Sierra is an enterprise AI company building autonomous AI agents for customer experience
 website_verified: true
 twitter: '@SierraPlatform'
+linkedin: https://www.linkedin.com/company/sierra
 ---
 
 # Sierra AI

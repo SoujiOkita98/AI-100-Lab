@@ -39,6 +39,7 @@ one_liner: Augment Code is an enterprise-focused AI coding assistant company tha
   $252M in total funding and a near-unicorn valuation
 website_verified: true
 twitter: '@augmentcode'
+linkedin: https://www.linkedin.com/company/augmentinc
 ---
 
 # Augment Code

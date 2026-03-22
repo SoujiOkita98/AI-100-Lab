@@ -56,6 +56,7 @@ data_notes: 'Needs verification: website, founders. Profile may be incomplete.'
 website: https://snorkel.ai
 website_verified: true
 twitter: '@SnorkelAI'
+linkedin: https://www.linkedin.com/company/snorkel-ai
 ---
 
 # Snorkel AI

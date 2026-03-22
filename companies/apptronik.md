@@ -67,6 +67,7 @@ one_liner: Apptronik is an Austin, Texas-based humanoid robotics company buildin
   designed for industrial logistics and manufacturing
 website_verified: true
 twitter: '@Apptronik'
+linkedin: https://www.linkedin.com/company/apptronik-inc.
 ---
 
 # Apptronik

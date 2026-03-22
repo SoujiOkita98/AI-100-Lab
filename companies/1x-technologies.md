@@ -93,6 +93,7 @@ one_liner: 1X Technologies (formerly Halodi Robotics) is a Norwegian-American hu
   androids for home and enterprise use
 website_verified: true
 twitter: '@1x_tech'
+linkedin: https://www.linkedin.com/company/1x-technologies
 ---
 
 # 1X Technologies

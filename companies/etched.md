@@ -14,6 +14,7 @@ one_liner: Etched is building Sohu, the first ASIC (application-specific integra
   transformer model inference
 website_verified: true
 twitter: '@Etched'
+linkedin: https://www.linkedin.com/company/etched-ai
 ---
 
 # Etched

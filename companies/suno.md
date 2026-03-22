@@ -33,6 +33,7 @@ one_liner: Suno is the leading AI music generation platform, enabling anyone to 
   lyrics — from text prompts
 website_verified: true
 twitter: '@suno_ai_'
+linkedin: https://www.linkedin.com/company/suno-ai
 ---
 
 # Suno — AI Music Generation

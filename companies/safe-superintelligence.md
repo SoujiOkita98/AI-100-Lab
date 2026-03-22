@@ -48,6 +48,7 @@ last_updated: 2026-03-21
 confidence: medium
 website_verified: true
 twitter: '@ssi'
+linkedin: https://www.linkedin.com/company/ssi-ai
 ---
 
 # Safe Superintelligence

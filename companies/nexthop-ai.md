@@ -32,6 +32,7 @@ funding_rounds:
 one_liner: Nexthop AI builds custom networking hardware and software optimized for AI data centers
 website_verified: true
 twitter: '@nexthopai'
+linkedin: https://www.linkedin.com/company/nexthopai
 ---
 
 # Nexthop AI

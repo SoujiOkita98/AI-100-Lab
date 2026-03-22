@@ -58,6 +58,7 @@ one_liner: '> Former DeepMind researchers building autonomous coding agents and 
   America''s open-source alternative to DeepSeek'
 website_verified: true
 twitter: '@reflection_ai'
+linkedin: https://www.linkedin.com/company/reflectionai
 ---
 
 # Reflection AI

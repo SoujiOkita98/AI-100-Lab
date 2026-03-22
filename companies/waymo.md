@@ -90,6 +90,7 @@ one_liner: '> Alphabet''s autonomous driving subsidiary, now valued at $126 bill
   valuable autonomous vehicle company in the world'
 website_verified: true
 twitter: '@Waymo'
+linkedin: https://www.linkedin.com/company/waymo
 ---
 
 # Waymo

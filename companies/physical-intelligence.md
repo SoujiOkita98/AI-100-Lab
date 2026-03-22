@@ -145,6 +145,7 @@ confidence_notes: Funding amounts and lead investors are well-sourced from multi
   is from a single source and unconfirmed. Model technical details are sourced from the company's own blog and model cards.
 website_verified: true
 twitter: '@physical_int'
+linkedin: https://www.linkedin.com/company/physical-intelligence
 ---
 
 # Physical Intelligence

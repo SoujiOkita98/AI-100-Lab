@@ -65,6 +65,7 @@ one_liner: '> Makers of **Devin**, the world''s first autonomous AI software eng
   AI-powered IDE'
 website_verified: true
 twitter: '@cognition_labs'
+linkedin: https://www.linkedin.com/company/cognition-ai-labs
 ---
 
 # Cognition AI

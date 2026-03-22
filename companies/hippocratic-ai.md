@@ -56,6 +56,7 @@ funding_rounds:
 one_liner: Hippocratic AI builds safety-focused generative AI agents for healthcare
 website_verified: true
 twitter: '@hippocraticai'
+linkedin: https://www.linkedin.com/company/hippocratic-ai-health
 ---
 
 # Hippocratic AI

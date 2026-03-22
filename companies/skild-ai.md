@@ -145,6 +145,7 @@ confidence_notes: Funding amounts and lead investors are well-sourced from offic
   and may be approximate. Founder backgrounds are cross-referenced across CMU faculty pages, Google Scholar, and press coverage.
 website_verified: true
 twitter: '@SkildAI'
+linkedin: https://www.linkedin.com/company/skildai
 ---
 
 # Skild AI

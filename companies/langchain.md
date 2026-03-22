@@ -36,6 +36,7 @@ one_liner: LangChain is the leading open-source framework and commercial platfor
   language models (LLMs)
 website_verified: true
 twitter: '@LangChainAI'
+linkedin: https://www.linkedin.com/company/langchain
 ---
 
 # LangChain

@@ -87,6 +87,7 @@ funding_rounds:
 updated: 2026-03-20
 website_verified: true
 twitter: '@Replit'
+linkedin: https://www.linkedin.com/company/repl-it
 ---
 
 # Replit

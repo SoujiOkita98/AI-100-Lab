@@ -61,6 +61,7 @@ funding_rounds:
 one_liner: Luma AI is a Palo Alto-based AI company building multimodal generative models for video, 3D, and creative content
 data_notes: 'Needs verification: website, founders. Profile may be incomplete.'
 twitter: '@LumaLabsAI'
+linkedin: https://www.linkedin.com/company/lumalabsai
 ---
 
 # Luma AI

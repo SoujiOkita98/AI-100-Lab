@@ -60,6 +60,7 @@ funding_rounds:
 one_liner: Crusoe is an AI infrastructure company that designs, builds, and operates data centers purpose-built for AI workloads
 website_verified: true
 twitter: '@CrusoeAI'
+linkedin: https://www.linkedin.com/company/crusoe
 ---
 
 # Crusoe

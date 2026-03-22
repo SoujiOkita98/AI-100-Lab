@@ -80,6 +80,7 @@ funding_rounds:
 one_liner: Synthesia is a London-based AI video generation platform that converts text scripts into professional videos featuring
   photorealistic AI avatars
 twitter: '@synthesiaIO'
+linkedin: https://www.linkedin.com/company/synthesia-technologies
 ---
 
 # Synthesia

@@ -58,6 +58,7 @@ one_liner: '> Public benefit corporation building customizable frontier AI model
   and five former OpenAI researchers'
 website_verified: true
 twitter: '@thinkymachines'
+linkedin: https://www.linkedin.com/company/thinkingmachinesai
 ---
 
 # Thinking Machines Lab

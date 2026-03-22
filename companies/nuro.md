@@ -84,6 +84,7 @@ funding_rounds:
   source: https://news.crunchbase.com/ai/av-startup-nuro-gains-nvda-investor/
 website_verified: true
 twitter: '@nuro'
+linkedin: https://www.linkedin.com/company/nuro-inc.
 ---
 
 # Nuro

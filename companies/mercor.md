@@ -72,6 +72,7 @@ one_liner: Mercor is an AI infrastructure company that connects frontier AI labs
 website: https://mercor.com
 website_verified: true
 twitter: '@mercor_ai'
+linkedin: https://www.linkedin.com/company/mercor-ai
 ---
 
 # Mercor
