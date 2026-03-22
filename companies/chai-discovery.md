@@ -34,6 +34,8 @@ funding_rounds:
   - General Catalyst
   - Oak HC/FT
   source: https://techcrunch.com/2025/12/15/openai-backed-biotech-firm-chai-discovery-raises-130m-series-b/
+one_liner: Chai Discovery is building foundation models for molecular discovery -- essentially a "computer-aided design suite"
+  for biological molecules
 ---
 
 # Chai Discovery

@@ -53,6 +53,7 @@ funding_rounds:
   lead_investors:
   - Avenir Growth
   source: https://hippocraticai.com/hippocratic-ai-announces-series-c-funding-126-million/
+one_liner: Hippocratic AI builds safety-focused generative AI agents for healthcare
 ---
 
 # Hippocratic AI

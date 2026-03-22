@@ -48,6 +48,8 @@ funding_rounds:
   - General Catalyst
   - Prosperity7 Ventures
   source: https://www.together.ai/blog/together-ai-announcing-305m-series-b
+one_liner: Together AI is an AI-native cloud platform that provides infrastructure for running, training, and fine-tuning
+  open-source AI models
 ---
 
 # Together AI

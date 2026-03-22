@@ -12,23 +12,25 @@ total_funding: ~$28M+
 status: Acquired (Rubrik, June 2025)
 last_updated: 2026-03-20
 founders:
-  - name: Devvret Rishi
-    role: Co-Founder & CEO
-    origin: Indian-American (Harvard CS; former Google PM for Vertex AI and Kaggle)
-  - name: Piero Molino
-    role: Co-Founder & Chief Science Officer
-    origin: Italy (creator of Ludwig; former Uber AI Labs)
-  - name: Travis Addair
-    role: Co-Founder & CTO
-    origin: United States (former Uber ML Platform lead)
+- name: Devvret Rishi
+  role: Co-Founder & CEO
+  origin: Indian-American (Harvard CS; former Google PM for Vertex AI and Kaggle)
+- name: Piero Molino
+  role: Co-Founder & Chief Science Officer
+  origin: Italy (creator of Ludwig; former Uber AI Labs)
+- name: Travis Addair
+  role: Co-Founder & CTO
+  origin: United States (former Uber ML Platform lead)
 tags:
-  - ml-infrastructure
-  - fine-tuning
-  - open-source-llm
-  - enterprise-ai
-  - indian-american-founder
-  - ex-google
-  - acquired
+- ml-infrastructure
+- fine-tuning
+- open-source-llm
+- enterprise-ai
+- indian-american-founder
+- ex-google
+- acquired
+one_liner: Predibase was an AI infrastructure company that enabled software engineers to fine-tune and serve open-source AI
+  models across cloud environments
 ---
 
 # Predibase -- Fine-Tuning & Serving Open-Source AI Models (Acquired by Rubrik)

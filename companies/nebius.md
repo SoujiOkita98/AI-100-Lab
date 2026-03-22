@@ -44,6 +44,8 @@ funding_rounds:
   lead_investors:
   - NVIDIA
   source: https://thenextweb.com/news/nvidia-invests-2-billion-in-nebius
+one_liner: Nebius is a full-stack AI cloud infrastructure provider offering GPU-as-a-Service (GPUaaS) to AI developers and
+  enterprises
 ---
 
 # Nebius Group (NBIS)

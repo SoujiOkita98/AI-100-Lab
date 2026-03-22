@@ -20,6 +20,8 @@ funding_rounds:
   - Foresite Capital
   source: https://www.crunchbase.com/funding_round/xaira-therapeutics-series-a--29a6f309
   notes: Launched out of stealth with single $1B mega-round.
+one_liner: Xaira Therapeutics is an AI-powered drug discovery company that launched in April 2024 with $1 billion in committed
+  funding -- one of the largest launch rounds in biotech history
 ---
 
 # Xaira Therapeutics

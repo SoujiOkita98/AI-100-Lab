@@ -55,6 +55,8 @@ funding_rounds:
   lead_investors:
   - OpenAI Startup Fund
   source: https://techcrunch.com/2022/11/15/ai-powered-media-editing-app-descript/
+one_liner: 'Descript is an AI-powered collaborative video and audio editing platform whose core innovation is **text-based
+  editing**: users edit media by editing a transcript'
 ---
 
 # Descript

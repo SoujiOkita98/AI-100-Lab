@@ -35,6 +35,7 @@ key_investors:
 - NFDG (Nat Friedman & Daniel Gross)
 status: Active, stealth R&D mode
 last_updated: '2026-03-20'
+one_liner: 'SSI exists to solve one problem: build a **safe superintelligence**'
 ---
 
 # Safe Superintelligence Inc. (SSI)

@@ -11,14 +11,15 @@ valuation: Undisclosed
 total_funding: ~$67-102M (sources vary)
 employee_count: ~72-84 (2025 estimates)
 key_investors:
-  - Qualcomm Ventures
-  - Telekom Innovation Pool
-  - Samsung NEXT
-  - OurCrowd
-  - Khosla Ventures
+- Qualcomm Ventures
+- Telekom Innovation Pool
+- Samsung NEXT
+- OurCrowd
+- Khosla Ventures
 notable_backers: []
 last_updated: 2026-03-20
 confidence: medium
+one_liner: Tabnine is one of the original AI coding assistants, predating the current wave of AI coding tools
 ---
 
 # Tabnine

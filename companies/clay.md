@@ -13,6 +13,8 @@ employees: ~1,167 (Feb 2026, per Tracxn)
 status: Private
 last_updated: 2026-03-20
 confidence: high
+one_liner: AI-powered data enrichment and workflow automation platform that lets go-to-market teams build personalized outbound
+  pipelines by combining 130+ data providers in a spreadsheet-like interface
 ---
 
 # Clay

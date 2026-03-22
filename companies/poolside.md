@@ -34,6 +34,7 @@ employee_count_approx: 162-256 (2025 estimates vary by source)
 status: Private, Pre-IPO
 last_updated: 2026-03-20
 confidence: high on funding figures; moderate on revenue projections and employee count
+one_liner: Poolside is building purpose-built foundation models for software engineering
 ---
 
 # Poolside

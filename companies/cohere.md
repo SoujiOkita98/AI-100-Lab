@@ -6,158 +6,146 @@ founded: 2019
 incorporated: Canada
 hq: Toronto, Ontario, Canada
 other_offices:
-  - San Francisco, CA
-  - New York, NY
-  - London, UK
-  - Paris, France
-  - Seoul, South Korea
-  - Montreal, QC
+- San Francisco, CA
+- New York, NY
+- London, UK
+- Paris, France
+- Seoul, South Korea
+- Montreal, QC
 sector: Enterprise AI / Large Language Models
 status: Private
-latest_valuation_usd: 7_000_000_000
+latest_valuation_usd: 7000000000
 latest_valuation_date: 2025-09-24
-total_funding_usd: 1_540_000_000
+total_funding_usd: 1540000000
 employee_count_approx: 500+
-arr_usd: 240_000_000
+arr_usd: 240000000
 arr_date: 2025-12-31
-
 founders:
-  - name: Aidan Gomez
-    role: Co-founder & CEO
-    background: >
-      Canadian (grew up in Brighton, Ontario). Co-author of the seminal 2017
-      "Attention Is All You Need" transformer paper while a 20-year-old intern
-      at Google Brain. BSc in Computer Science and Mathematics from the
-      University of Toronto. PhD in Computer Science from the University of
-      Oxford (granted 2024; paused studies to launch Cohere). Named to TIME
-      100/AI list (2023). Elected to Rivian board (April 2025).
-    origin: Canadian
+- name: Aidan Gomez
+  role: Co-founder & CEO
+  background: 'Canadian (grew up in Brighton, Ontario). Co-author of the seminal 2017 "Attention Is All You Need" transformer
+    paper while a 20-year-old intern at Google Brain. BSc in Computer Science and Mathematics from the University of Toronto.
+    PhD in Computer Science from the University of Oxford (granted 2024; paused studies to launch Cohere). Named to TIME 100/AI
+    list (2023). Elected to Rivian board (April 2025).
 
-  - name: Ivan Zhang
-    role: Co-founder
-    background: >
-      Canadian, son of immigrants (likely Chinese-Canadian based on Asian Hustle
-      Network feature, though not explicitly confirmed). Attended Richmond Hill
-      High School in Ontario. BSc in Computer Science from the University of
-      Toronto (2014-2016, did not complete full degree). Previously founded
-      FOR.ai (now Cohere Labs), worked in biotech and MLOps.
-    origin: Canadian (Chinese heritage, unconfirmed)
+    '
+  origin: Canadian
+- name: Ivan Zhang
+  role: Co-founder
+  background: 'Canadian, son of immigrants (likely Chinese-Canadian based on Asian Hustle Network feature, though not explicitly
+    confirmed). Attended Richmond Hill High School in Ontario. BSc in Computer Science from the University of Toronto (2014-2016,
+    did not complete full degree). Previously founded FOR.ai (now Cohere Labs), worked in biotech and MLOps.
 
-  - name: Nick Frosst
-    role: Co-founder
-    background: >
-      Canadian. BSc in Computer Science from the University of Toronto. Former
-      machine learning researcher at Google Brain under Geoffrey Hinton. Also
-      the frontman of indie rock band Good Kid, which has achieved significant
-      commercial success. Named to Maclean's 2023 AI Power List alongside
-      co-founders.
-    origin: Canadian
+    '
+  origin: Canadian (Chinese heritage, unconfirmed)
+- name: Nick Frosst
+  role: Co-founder
+  background: 'Canadian. BSc in Computer Science from the University of Toronto. Former machine learning researcher at Google
+    Brain under Geoffrey Hinton. Also the frontman of indie rock band Good Kid, which has achieved significant commercial
+    success. Named to Maclean''s 2023 AI Power List alongside co-founders.
 
+    '
+  origin: Canadian
 key_people:
-  - name: Joelle Pineau
-    role: Chief AI Officer (joined Aug 2025)
-    previous: VP of AI Research at Meta (FAIR)
-  - name: Francois Chadwick
-    role: Chief Financial Officer (joined Aug 2025)
-    previous: Acting CFO at Uber during its IPO
-
+- name: Joelle Pineau
+  role: Chief AI Officer (joined Aug 2025)
+  previous: VP of AI Research at Meta (FAIR)
+- name: Francois Chadwick
+  role: Chief Financial Officer (joined Aug 2025)
+  previous: Acting CFO at Uber during its IPO
 funding_rounds:
-  - round: Series A
-    date: 2021-09-07
-    amount_usd: 40_000_000
-    valuation_usd: null  # Not publicly disclosed
-    lead_investors:
-      - Index Ventures
-    other_investors:
-      - Radical Ventures
-      - Section 32 (S32)
-    angel_investors:
-      - Geoffrey Hinton
-      - Fei-Fei Li
-      - Pieter Abbeel
-      - Raquel Urtasun
-    source: https://en.wikipedia.org/wiki/Cohere
-
-  - round: Series B
-    date: 2022-02-16
-    amount_usd: 125_000_000
-    valuation_usd: null  # Not publicly disclosed at time of round
-    lead_investors:
-      - Tiger Global Management
-    other_investors:
-      - Radical Ventures
-      - Index Ventures
-      - Section 32
-    source: https://betakit.com/cohere-closes-125-million-usd-series-b-round-led-by-tiger-global/
-
-  - round: Series C
-    date: 2023-06-01
-    amount_usd: 270_000_000
-    valuation_usd: 2_200_000_000
-    lead_investors:
-      - Inovia Capital
-    other_investors:
-      - NVIDIA
-      - Oracle
-      - Salesforce Ventures
-      - DTCP
-      - SentinelOne
-      - Mirae Asset
-      - Schroders Capital
-      - Thomvest Ventures
-      - Index Ventures
-    source: https://en.wikipedia.org/wiki/Cohere
-
-  - round: Series D
-    date: 2024-07-22
-    amount_usd: 500_000_000
-    valuation_usd: 5_500_000_000
-    lead_investors:
-      - PSP Investments
-    other_investors:
-      - NVIDIA
-      - Salesforce Ventures
-      - Cisco
-      - Fujitsu
-      - AMD Ventures
-      - Export Development Canada (EDC)
-    source: https://betakit.com/cohere-series-d-tops-out-at-500-million-raised-at-5-5-billion-valuation/
-
-  - round: Series E
-    date: 2025-08-14
-    amount_usd: 500_000_000
-    valuation_usd: 6_800_000_000
-    lead_investors:
-      - Radical Ventures
-      - Inovia Capital
-    other_investors:
-      - AMD Ventures
-      - NVIDIA
-      - PSP Investments
-      - Salesforce Ventures
-      - HOOPP (Healthcare of Ontario Pension Plan)
-    source: https://cohere.com/blog/august-2025-funding-round
-
-  - round: Series E Extension
-    date: 2025-09-24
-    amount_usd: 100_000_000
-    valuation_usd: 7_000_000_000
-    lead_investors: []  # Not disclosed
-    other_investors:
-      - BDC (Business Development Bank of Canada)
-      - Nexxus Capital Management
-      - AMD  # Partnership announced alongside
-    source: https://betakit.com/coheres-valuation-hits-7-billion-usd-following-100-million-round-extension/
-
+- round: Series A
+  date: 2021-09-07
+  amount_usd: 40000000
+  valuation_usd: null
+  lead_investors:
+  - Index Ventures
+  other_investors:
+  - Radical Ventures
+  - Section 32 (S32)
+  angel_investors:
+  - Geoffrey Hinton
+  - Fei-Fei Li
+  - Pieter Abbeel
+  - Raquel Urtasun
+  source: https://en.wikipedia.org/wiki/Cohere
+- round: Series B
+  date: 2022-02-16
+  amount_usd: 125000000
+  valuation_usd: null
+  lead_investors:
+  - Tiger Global Management
+  other_investors:
+  - Radical Ventures
+  - Index Ventures
+  - Section 32
+  source: https://betakit.com/cohere-closes-125-million-usd-series-b-round-led-by-tiger-global/
+- round: Series C
+  date: 2023-06-01
+  amount_usd: 270000000
+  valuation_usd: 2200000000
+  lead_investors:
+  - Inovia Capital
+  other_investors:
+  - NVIDIA
+  - Oracle
+  - Salesforce Ventures
+  - DTCP
+  - SentinelOne
+  - Mirae Asset
+  - Schroders Capital
+  - Thomvest Ventures
+  - Index Ventures
+  source: https://en.wikipedia.org/wiki/Cohere
+- round: Series D
+  date: 2024-07-22
+  amount_usd: 500000000
+  valuation_usd: 5500000000
+  lead_investors:
+  - PSP Investments
+  other_investors:
+  - NVIDIA
+  - Salesforce Ventures
+  - Cisco
+  - Fujitsu
+  - AMD Ventures
+  - Export Development Canada (EDC)
+  source: https://betakit.com/cohere-series-d-tops-out-at-500-million-raised-at-5-5-billion-valuation/
+- round: Series E
+  date: 2025-08-14
+  amount_usd: 500000000
+  valuation_usd: 6800000000
+  lead_investors:
+  - Radical Ventures
+  - Inovia Capital
+  other_investors:
+  - AMD Ventures
+  - NVIDIA
+  - PSP Investments
+  - Salesforce Ventures
+  - HOOPP (Healthcare of Ontario Pension Plan)
+  source: https://cohere.com/blog/august-2025-funding-round
+- round: Series E Extension
+  date: 2025-09-24
+  amount_usd: 100000000
+  valuation_usd: 7000000000
+  lead_investors: []
+  other_investors:
+  - BDC (Business Development Bank of Canada)
+  - Nexxus Capital Management
+  - AMD
+  source: https://betakit.com/coheres-valuation-hits-7-billion-usd-following-100-million-round-extension/
 tags:
-  - enterprise-ai
-  - llm
-  - nlp
-  - transformer
-  - canadian-ai
-  - agentic-ai
-  - data-sovereignty
-  - rag
+- enterprise-ai
+- llm
+- nlp
+- transformer
+- canadian-ai
+- agentic-ai
+- data-sovereignty
+- rag
+one_liner: Cohere is a Toronto-headquartered enterprise AI company that builds large language models (LLMs) and AI platforms
+  for business use
 ---
 
 # Cohere

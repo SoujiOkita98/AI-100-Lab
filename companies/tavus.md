@@ -29,6 +29,8 @@ latest_round_amount: $40M
 valuation: undisclosed
 status: Private
 last_updated: 2026-03-20
+one_liner: AI research lab building "human computing" -- real-time, emotionally intelligent AI humans that see, hear, speak,
+  and react in face-to-face video interactions, delivered as a developer platform
 ---
 
 # Tavus

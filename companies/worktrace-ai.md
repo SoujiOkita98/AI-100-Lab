@@ -10,22 +10,24 @@ total_funding: ~$9-20M (seed round; reports vary)
 latest_valuation: Undisclosed
 employee_count: ~30
 founders:
-  - name: Angela Jiang
-    role: Co-Founder & CEO
-    origin: Mainland Chinese (graduated from Wharton, University of Pennsylvania)
-  - name: Deepak Vasisht
-    role: Co-Founder
-    origin: Indian-American
+- name: Angela Jiang
+  role: Co-Founder & CEO
+  origin: Mainland Chinese (graduated from Wharton, University of Pennsylvania)
+- name: Deepak Vasisht
+  role: Co-Founder
+  origin: Indian-American
 key_investors:
-  - Conviction
-  - 8VC
-  - OpenAI Fund
-  - Zero Shot (OpenAI alumni fund)
+- Conviction
+- 8VC
+- OpenAI Fund
+- Zero Shot (OpenAI alumni fund)
 notable_angels:
-  - Mira Murati (ex-OpenAI CTO)
-  - Jason Kwon (OpenAI CSO)
-  - Logan Kilpatrick (ex-OpenAI)
+- Mira Murati (ex-OpenAI CTO)
+- Jason Kwon (OpenAI CSO)
+- Logan Kilpatrick (ex-OpenAI)
 last_updated: 2026-03-20
+one_liner: Worktrace AI is an AI workflow automation startup founded by former OpenAI product manager Angela Jiang and researcher
+  Deepak Vasisht
 ---
 
 # Worktrace AI

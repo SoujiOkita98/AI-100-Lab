@@ -29,6 +29,7 @@ funding_rounds:
   lead_investors:
   - Andreessen Horowitz
   source: https://news.crunchbase.com/ai/ai-hebbia-venture-a16z-gv-thiel/
+one_liner: Hebbia is an AI platform for knowledge work, purpose-built for finance, legal, and government sectors
 ---
 
 # Hebbia -- Company Profile

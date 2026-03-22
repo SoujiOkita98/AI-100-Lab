@@ -17,6 +17,8 @@ total_funding_raised: ~$30M
 employee_count_estimate: ~50 (uncertain)
 status: Private
 last_updated: 2026-03-20
+one_liner: FurtherAI builds AI agents that automate insurance workflows across underwriting, claims processing, policy comparison,
+  and compliance
 ---
 
 # FurtherAI -- Company Profile

@@ -11,11 +11,13 @@ latest_round: Series F extension — $100M convertible from Fortress Investment 
 annual_recurring_revenue: ~$200M-$222M (as of late 2024)
 employees: ~800
 founders:
-  - Ted Bailey (CEO & Chairman)
-  - Jeff Kinsey (CTO)
-  - Sam Hendel (co-founder; no longer in operating role)
+- Ted Bailey (CEO & Chairman)
+- Jeff Kinsey (CTO)
+- Sam Hendel (co-founder; no longer in operating role)
 status: Active, pre-IPO
 last_updated: 2026-03-20
+one_liner: Dataminr is a New York-based AI company that provides real-time detection of emerging events, threats, and critical
+  information by analyzing publicly available data at massive scale
 ---
 
 # Dataminr

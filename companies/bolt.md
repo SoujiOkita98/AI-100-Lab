@@ -50,6 +50,8 @@ funding_rounds:
   - Emergence Capital
   - GV
   source: https://www.bloomberg.com/news/articles/2025-01-21/
+one_liner: AI-powered full-stack application builder that runs entirely in the browser, turning natural-language prompts into
+  deployable web apps in minutes
 ---
 
 # Bolt.new / StackBlitz

@@ -54,6 +54,8 @@ funding_rounds:
   - Andreessen Horowitz
   source: https://techcrunch.com/2025/07/15/mira-muratis-thinking-machines-lab-is-worth-12b-in-seed-round/
   notes: Largest seed round on record. Also included Nvidia, AMD, Accel, ServiceNow, Cisco, Jane Street.
+one_liner: '> Public benefit corporation building customizable frontier AI models, founded by former OpenAI CTO **Mira Murati**
+  and five former OpenAI researchers'
 ---
 
 # Thinking Machines Lab

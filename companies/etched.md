@@ -10,6 +10,8 @@ total_funding: ~$625 million
 employees: ~50-100 (estimate)
 website: https://etched.com
 last_updated: 2026-03-20
+one_liner: Etched is building Sohu, the first ASIC (application-specific integrated circuit) purpose-built exclusively for
+  transformer model inference
 ---
 
 # Etched

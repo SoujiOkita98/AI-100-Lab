@@ -9,9 +9,16 @@ headcount_estimate: ~73 (as of 2025-2026)
 total_funding: ~$107M across 5 rounds
 latest_valuation: ~$300M (Series B, mid-2024; unconfirmed for later rounds)
 status: Private, growth-stage
-tags: [multimodal-ai, video-understanding, foundation-models, API-platform, computer-vision, NLP]
+tags:
+- multimodal-ai
+- video-understanding
+- foundation-models
+- API-platform
+- computer-vision
+- NLP
 last_updated: 2026-03-20
 confidence: medium-high
+one_liner: Twelve Labs builds foundation models purpose-built for video understanding
 ---
 
 # Twelve Labs

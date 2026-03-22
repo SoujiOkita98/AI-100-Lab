@@ -63,6 +63,8 @@ funding_rounds:
   - Google
   - Qatar Investment Authority
   source: https://techcrunch.com/2026/02/11/humanoid-robot-startup-apptronik-has-now-raised-935m-at-a-5b-valuation/
+one_liner: Apptronik is an Austin, Texas-based humanoid robotics company building Apollo, a general-purpose humanoid robot
+  designed for industrial logistics and manufacturing
 ---
 
 # Apptronik

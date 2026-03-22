@@ -34,6 +34,8 @@ founders:
 arr_est: <$10M (as of late 2025)
 status: active
 last_updated: 2026-03-20
+one_liner: Aaru is an AI-powered synthetic research company that replaces traditional market research methods (surveys, focus
+  groups, polling) with thousands of AI agents that simulate human behavior
 ---
 
 # Aaru

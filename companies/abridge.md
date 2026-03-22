@@ -77,6 +77,8 @@ funding_rounds:
   - Andreessen Horowitz
   - Khosla Ventures
   source: https://techcrunch.com/2025/06/24/in-just-4-months-ai-medical-scribe-abridge-doubles-valuation-to-5-3b/
+one_liner: AI-powered ambient clinical documentation platform that listens to doctor-patient conversations and automatically
+  generates structured medical notes, now expanding into revenue cycle intelligence
 ---
 
 # Abridge

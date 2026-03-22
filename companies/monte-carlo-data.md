@@ -69,6 +69,7 @@ funding_rounds:
   - Salesforce Ventures
   - GIC
   source: https://techcrunch.com/2022/05/24/monte-carlo-raises-135m-series-d-at-1-6b-price-showing-that-unicorn-rounds-are-still-a-thing/
+one_liner: Monte Carlo is the pioneer and market leader in data observability -- a category the company essentially created
 ---
 
 # Monte Carlo

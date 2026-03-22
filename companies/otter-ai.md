@@ -12,11 +12,11 @@ users: 25M+ (2025)
 employees: <200
 status: Private
 last_updated: 2026-03-20
-confidence_notes: >
-  Total funding of $70M and round details well-sourced via Crunchbase and BusinessWire.
-  $100M ARR milestone confirmed by company press release (Dec 2025).
-  25M users confirmed by company. Employee count described as "fewer than 200."
+confidence_notes: Total funding of $70M and round details well-sourced via Crunchbase and BusinessWire. $100M ARR milestone
+  confirmed by company press release (Dec 2025). 25M users confirmed by company. Employee count described as "fewer than 200."
   Post-Series B valuation not publicly disclosed.
+one_liner: Otter.ai is an AI-powered meeting assistant that provides real-time transcription, automated summaries, and action
+  items for meetings
 ---
 
 # Otter.ai -- AI Meeting Transcription & Productivity

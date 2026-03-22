@@ -35,6 +35,7 @@ tags:
 - yc-w25
 yc_batch: W25
 last_updated: 2026-03-20
+one_liner: Browser Use is the leading open-source framework for enabling AI agents to control web browsers
 ---
 
 # Browser Use

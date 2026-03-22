@@ -6,32 +6,37 @@ sector: On-Device AI / Small Language Models
 founded: 2022
 headquarters: Haidian District, Beijing, China
 founders:
-  - name: Li Dahai (李大海)
-    role: Co-founder & CEO
-    nationality: Chinese (mainland)
-    education:
-      - Tsinghua University (affiliated)
-    notable: Led the company's commercial strategy and partnerships with automotive/device OEMs
-  - name: Liu Zhiyuan (刘知远)
-    role: Co-founder & Chief Scientist
-    nationality: Chinese (mainland)
-    education:
-      - Tsinghua University, tenured Associate Professor, Department of Computer Science
-    notable: One of China's most prominent NLP researchers. Led the OpenBMB (Open Lab for Big Model Base) open-source initiative at Tsinghua. The academic backbone behind the CPM (Chinese Pre-trained Models) series that predates the ChatGPT era.
+- name: Li Dahai (李大海)
+  role: Co-founder & CEO
+  nationality: Chinese (mainland)
+  education:
+  - Tsinghua University (affiliated)
+  notable: Led the company's commercial strategy and partnerships with automotive/device OEMs
+  origin: Chinese
+- name: Liu Zhiyuan (刘知远)
+  role: Co-founder & Chief Scientist
+  nationality: Chinese (mainland)
+  education:
+  - Tsinghua University, tenured Associate Professor, Department of Computer Science
+  notable: One of China's most prominent NLP researchers. Led the OpenBMB (Open Lab for Big Model Base) open-source initiative
+    at Tsinghua. The academic backbone behind the CPM (Chinese Pre-trained Models) series that predates the ChatGPT era.
+  origin: Chinese
 team_size_estimate: ~100-200 (estimate)
 stage: Series B+ (multiple rounds totaling hundreds of millions of RMB)
 total_funding: Hundreds of millions of RMB across 3+ rounds (~$50-100M estimated)
 estimated_valuation: Not publicly disclosed; likely $300-500M range given investor caliber
 estimated_arr_2026: Not disclosed
 tags:
-  - on-device-ai
-  - small-language-models
-  - edge-ai
-  - open-source-models
-  - tsinghua-spinout
-  - chinese-founders
-  - automotive-ai
+- on-device-ai
+- small-language-models
+- edge-ai
+- open-source-models
+- tsinghua-spinout
+- chinese-founders
+- automotive-ai
 last_updated: 2026-03-20
+one_liner: 'ModelBest is a Tsinghua University spinout that has carved out a distinctive niche in China''s AI landscape: building
+  high-performance small language models optimized for on-device deployment'
 ---
 
 # ModelBest (面壁智能)

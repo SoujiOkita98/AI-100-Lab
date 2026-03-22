@@ -59,6 +59,8 @@ funding_rounds:
   - Oak HC/FT
   - Andreessen Horowitz
   source: https://www.ambiencehealthcare.com/blog/ambience-healthcare-announces-243-million-series-c
+one_liner: '> Ambient AI platform for health systems, automating clinical documentation, coding, and workflows -- backed by
+  a16z and OpenAI, valued at $1.25 billion'
 ---
 
 # Ambience Healthcare

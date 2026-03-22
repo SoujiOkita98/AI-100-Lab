@@ -46,6 +46,8 @@ funding_rounds:
   lead_investors:
   - Menlo Ventures
   source: https://news.crunchbase.com/cybersecurity/application-startup-semgrep-fundraise-menlo/
+one_liner: Semgrep (formerly r2c / Return to Corporation) is an AI-powered code security platform that combines deterministic
+  static analysis with large language models to find vulnerabilities in code
 ---
 
 # Semgrep

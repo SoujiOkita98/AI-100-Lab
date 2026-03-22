@@ -11,15 +11,17 @@ valuation: Undisclosed
 total_funding: ~$50M
 employee_count: ~100 (2025)
 key_investors:
-  - Susa Ventures
-  - Square Peg
-  - TLV Partners
-  - Vine Ventures
-  - Firestreak Ventures
-  - ICON Continuity Fund
+- Susa Ventures
+- Square Peg
+- TLV Partners
+- Vine Ventures
+- Firestreak Ventures
+- ICON Continuity Fund
 notable_backers: []
 last_updated: 2026-03-20
 confidence: high
+one_liner: Qodo, formerly known as CodiumAI, is an AI-powered code testing and quality platform that takes a "quality-first"
+  approach to AI-assisted development
 ---
 
 # Qodo

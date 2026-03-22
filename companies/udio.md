@@ -47,6 +47,8 @@ competitors:
 last_updated: 2026-03-20
 confidence: high (funding figures and founder names widely corroborated; some details like exact valuation and Series A timing
   are uncertain)
+one_liner: Udio is a generative AI platform that produces full songs -- vocals, instrumentation, and lyrics -- from simple
+  text prompts
 ---
 
 # Udio -- AI Music Generation

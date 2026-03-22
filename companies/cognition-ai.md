@@ -61,6 +61,8 @@ funding_rounds:
   lead_investors:
   - Founders Fund
   source: https://www.builtinsf.com/articles/cognition-raises-500m-9b-valuation-20250818
+one_liner: '> Makers of **Devin**, the world''s first autonomous AI software engineer, and acquirers of **Windsurf**, the
+  AI-powered IDE'
 ---
 
 # Cognition AI

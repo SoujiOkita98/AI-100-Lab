@@ -14,6 +14,7 @@ founders:
   notable: Former CEO of Sogou (China's second-largest search engine), which was acquired by Tencent in 2021 for ~$3.5B. Built
     Sogou from a Sohu subsidiary into a publicly traded company (NYSE). One of China's most prominent tech entrepreneurs,
     often called a "first-generation internet veteran."
+  origin: Chinese
 team_size_estimate: ~400 (as of early 2025, before layoffs/restructuring)
 stage: Series A (mega-round)
 total_funding: ~$1.04B

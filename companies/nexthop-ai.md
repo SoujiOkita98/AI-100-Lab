@@ -29,6 +29,7 @@ funding_rounds:
   - Lightspeed Venture Partners
   - Andreessen Horowitz
   source: https://nexthop.ai/news-and-event/nexthop-ai-accelerates-into-hypergrowth-with-oversubscribed-500m-series-b-funding-catapulting-the-companys-valuation-to-4-2-billion/
+one_liner: Nexthop AI builds custom networking hardware and software optimized for AI data centers
 ---
 
 # Nexthop AI

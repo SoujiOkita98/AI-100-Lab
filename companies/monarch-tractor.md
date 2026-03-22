@@ -76,6 +76,8 @@ funding_rounds:
 
     '
 total_known_funding: ~$200M+
+one_liner: Monarch Tractor designs and manufactures fully electric, autonomous ("driver-optional") smart tractors for the
+  agricultural sector
 ---
 
 # Monarch Tractor

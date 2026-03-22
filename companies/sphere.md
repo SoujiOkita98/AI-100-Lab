@@ -18,6 +18,8 @@ arr_estimate: Undisclosed
 employee_count_estimate: ~20-40 (estimated)
 status: Private
 last_updated: 2026-03-20
+one_liner: Sphere is an AI-native global tax compliance platform that automates sales tax, VAT, and GST obligations for companies
+  expanding internationally
 ---
 
 # Sphere -- Company Profile

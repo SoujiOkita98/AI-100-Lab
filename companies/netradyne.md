@@ -52,6 +52,8 @@ funding_rounds:
   lead_investors:
   - Point72 Private Investments
   source: https://www.netradyne.com/news/netradyne-r-raises-90-million/
+one_liner: Netradyne is a private technology company specializing in artificial intelligence and edge computing for fleet
+  safety and management
 ---
 
 # Netradyne -- AI-Powered Fleet Safety & Driver Intelligence

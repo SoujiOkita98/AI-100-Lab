@@ -27,6 +27,8 @@ tags:
 - full-stack
 - european-ai
 last_updated: 2026-03-20
+one_liner: Lovable is a Swedish AI-powered "vibe coding" platform that turns natural-language prompts into fully functional,
+  full-stack web applications
 ---
 
 # Lovable

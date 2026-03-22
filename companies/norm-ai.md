@@ -41,6 +41,7 @@ funding_rounds:
   lead_investors:
   - Blackstone
   source: https://www.prnewswire.com/news-releases/norm-ai-announces-50-million-blackstone-investment/
+one_liner: Norm AI transforms regulations, laws, corporate policies, and legal obligations into AI-powered compliance systems
 ---
 
 # Norm AI -- Company Profile

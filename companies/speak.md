@@ -40,6 +40,8 @@ funding_rounds:
   lead_investors:
   - Accel
   source: https://www.speak.com/blog/series-c
+one_liner: Speak is an AI-powered language learning platform that uses speech recognition and conversational AI to help users
+  practice speaking foreign languages
 ---
 
 # Speak -- AI Language Learning

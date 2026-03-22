@@ -27,6 +27,8 @@ funding_rounds:
   - Greycroft
   - Bain Capital Ventures
   source: https://contextual.ai/blog/announcing-series-a
+one_liner: RAG-native enterprise AI platform that end-to-end optimizes retrieval and generation, founded by the researchers
+  who invented RAG at Meta FAIR
 ---
 
 # Contextual AI

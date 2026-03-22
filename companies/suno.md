@@ -29,6 +29,8 @@ funding_rounds:
   lead_investors:
   - Menlo Ventures
   source: https://techcrunch.com/2025/11/19/legally-embattled-ai-music-startup-suno-raises-at-2-45b-valuation/
+one_liner: Suno is the leading AI music generation platform, enabling anyone to create full songs — vocals, instruments, and
+  lyrics — from text prompts
 ---
 
 # Suno — AI Music Generation

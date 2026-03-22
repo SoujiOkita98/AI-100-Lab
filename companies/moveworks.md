@@ -41,6 +41,8 @@ funding_rounds:
   - Tiger Global
   - Alkeon Capital
   source: https://www.moveworks.com/us/en/company/news/press-releases/moveworks-raises-200-million-series-c-funding
+one_liner: Moveworks built an AI-powered employee support platform -- an "enterprise copilot" -- that automates IT, HR, finance,
+  and facilities requests through natural language conversation
 ---
 
 # Moveworks -- Agentic AI Copilot for Enterprise Employee Support

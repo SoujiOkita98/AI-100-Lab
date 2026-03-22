@@ -68,6 +68,8 @@ funding_rounds:
   lead_investors:
   - SoftBank Vision Fund
   source: https://www.crunchbase.com/organization/labelbox
+one_liner: Labelbox is an AI data infrastructure company that provides an integrated platform for data labeling, model evaluation,
+  and expert-sourced training data
 ---
 
 # Labelbox

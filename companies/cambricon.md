@@ -1,27 +1,27 @@
 ---
 name: Cambricon Technologies
-legal_entity: "Cambricon Technologies Corporation Limited (寒武纪科技股份有限公司)"
-ticker: "SSE: 688256"
+legal_entity: Cambricon Technologies Corporation Limited (寒武纪科技股份有限公司)
+ticker: 'SSE: 688256'
 founded: 2016
-headquarters: "Beijing, China"
+headquarters: Beijing, China
 co_founders:
-  - "Chen Tianshi (CEO)"
-  - "Chen Yunji"
+- Chen Tianshi (CEO)
+- Chen Yunji
 sector: AI Chips / Semiconductors
-stage: "Public (IPO July 2020, Shanghai STAR Market)"
-market_cap_usd: "~$81B (peak, Sep 2025)"
-revenue_9m_2025_rmb: "4.6B RMB"
-headcount: "~2,000+ (estimated)"
+stage: Public (IPO July 2020, Shanghai STAR Market)
+market_cap_usd: ~$81B (peak, Sep 2025)
+revenue_9m_2025_rmb: 4.6B RMB
+headcount: ~2,000+ (estimated)
 key_products:
-  - "Siyuan 590 (AI training/inference chip)"
-  - "Siyuan 690 (next-gen AI chip)"
-  - "Cambricon MLU series (machine learning units)"
+- Siyuan 590 (AI training/inference chip)
+- Siyuan 690 (next-gen AI chip)
+- Cambricon MLU series (machine learning units)
 website: https://www.cambricon.com
 last_updated: 2026-03-20
-confidence_note: >
-  Financial data from public filings on SSE. Market cap fluctuates significantly.
-  Production targets (500K chips in 2026) are company guidance and face manufacturing
-  constraints at SMIC.
+confidence_note: Financial data from public filings on SSE. Market cap fluctuates significantly. Production targets (500K
+  chips in 2026) are company guidance and face manufacturing constraints at SMIC.
+one_liner: Cambricon Technologies is China's most valuable AI chip company and one of the most important semiconductor firms
+  in the country's drive to reduce dependence on Nvidia
 ---
 
 # Cambricon Technologies

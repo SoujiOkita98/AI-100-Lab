@@ -13,6 +13,7 @@ founders:
   - Harvard University, BA Mathematics & MS Computer Science
   - Stanford University, PhD (Computer Science) — dropped out April 2023
   notable: Silver medalist, 2015 International Olympiad in Informatics; advised by Ron Fedkiw and Chris Manning at Stanford
+  origin: Chinese-American
 - name: Chenlin Meng (孟辰琳)
   role: Co-founder & CTO
   nationality: Chinese
@@ -21,6 +22,7 @@ founders:
   - Stanford University, PhD Computer Science — dropped out April 2023
   notable: Co-author of DDIM paper (foundational to Stable Diffusion, DALL-E 2, Imagen); mentored by Stefano Ermon; 30+ papers
     in 3 years; experience at Google Brain and Stability AI
+  origin: Chinese
 team_size_estimate: ~48 (as of 2024)
 stage: Series B
 total_funding: ~$135M
@@ -49,6 +51,8 @@ funding_rounds:
   lead_investors:
   - Spark Capital
   source: https://www.maginative.com/article/pika-labs-secures-80m/
+one_liner: Pika is an AI video generation startup that enables users to create and edit videos from text prompts, images,
+  or existing video clips
 ---
 
 # Pika

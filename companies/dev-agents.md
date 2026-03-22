@@ -1,18 +1,21 @@
 ---
-name: "/dev/agents"
+name: /dev/agents
 founded: 2024
-sector: "AI Agents / Infrastructure"
-one_liner: "Operating system for AI agents. Founded by David Singleton (ex-CTO Stripe, ex-VP Android at Google)."
+sector: AI Agents / Infrastructure
+one_liner: Operating system for AI agents. Founded by David Singleton (ex-CTO Stripe, ex-VP Android at Google).
 status: active
 founders:
-  - name: "David Singleton"
-    role: "CEO"
-    background: "Ex-CTO Stripe, ex-VP Engineering Android at Google"
+- name: David Singleton
+  role: CEO
+  background: Ex-CTO Stripe, ex-VP Engineering Android at Google
+  origin: British
 funding_rounds:
-  - stage: "Seed"
-    date: "2024-11"
-    amount_m: 56
-    lead_investors: ["Index Ventures", "CapitalG"]
+- stage: Seed
+  date: 2024-11
+  amount_m: 56
+  lead_investors:
+  - Index Ventures
+  - CapitalG
 total_funding: 56
 last_updated: 2026-03-21
 confidence: medium

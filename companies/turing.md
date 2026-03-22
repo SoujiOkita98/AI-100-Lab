@@ -5,18 +5,18 @@ url: https://www.turing.com
 founded: 2018
 headquarters: Palo Alto, California, USA
 founders:
-  - name: Jonathan Siddharth
-    role: CEO & Co-Founder
-    origin: Chennai, Tamil Nadu, India
-    education:
-      - B.E. Computer Science & Engineering, SVCE, Anna University, Chennai (2005)
-      - M.S. Computer Science, Stanford University (2007)
-  - name: Vijay Krishnan
-    role: CTO & Co-Founder
-    origin: India
-    education:
-      - B.Tech, IIT Bombay
-      - M.S. Computer Science, Stanford University
+- name: Jonathan Siddharth
+  role: CEO & Co-Founder
+  origin: Chennai, Tamil Nadu, India
+  education:
+  - B.E. Computer Science & Engineering, SVCE, Anna University, Chennai (2005)
+  - M.S. Computer Science, Stanford University (2007)
+- name: Vijay Krishnan
+  role: CTO & Co-Founder
+  origin: India
+  education:
+  - B.Tech, IIT Bombay
+  - M.S. Computer Science, Stanford University
 valuation: $2.2 billion (as of March 2025)
 total_funding: ~$247 million
 latest_round: Series E ($111M, March 2025)
@@ -25,14 +25,15 @@ profitable: true (since ~2024)
 employees: ~5,000-6,300 (estimates vary; rapid growth through 2025-2026)
 sector: AI / Developer Platform / LLM Training Infrastructure
 tags:
-  - ai-services
-  - llm-training
-  - developer-marketplace
-  - enterprise-ai
-  - indian-founders
-  - stanford-mafia
+- ai-services
+- llm-training
+- developer-marketplace
+- enterprise-ai
+- indian-founders
+- stanford-mafia
 last_updated: 2026-03-20
 confidence: high
+one_liner: Turing began as an AI-powered platform for vetting and matching remote software developers with companies
 ---
 
 # Turing

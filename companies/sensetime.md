@@ -81,6 +81,8 @@ funding_rounds:
   - Institutional investors
   source: https://www.crunchbase.com/funding_round/sensetime-post-ipo-equity--a972149b
   notes: IPO on HKEX Dec 2021.
+one_liner: SenseTime is one of China's original "Four AI Dragons" (alongside Megvii, CloudWalk, and Yitu) that defined the
+  first wave of Chinese AI companies in the mid-2010s
 ---
 
 # SenseTime

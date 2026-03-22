@@ -78,6 +78,8 @@ funding_rounds:
   source: https://techcrunch.com/2024/05/22/deepl-the-ai-language-translation-startup-nabs-300m-on-a-2b-valuation-to-focus-on-b2b-growth/
 total_funding_usd: ~$415M (across all rounds, per Tracxn)
 last_updated: 2026-03-20
+one_liner: DeepL is a German AI company specializing in machine translation and language AI tools, headquartered in Cologne,
+  Germany
 ---
 
 # DeepL

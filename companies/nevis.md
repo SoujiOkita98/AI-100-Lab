@@ -21,6 +21,8 @@ arr_estimate: Undisclosed
 employee_count_estimate: ~20-40 (estimated, early-stage)
 status: Private
 last_updated: 2026-03-20
+one_liner: Nevis is an AI platform purpose-built for Registered Investment Advisors (RIAs) that automates the administrative
+  workflows consuming up to 80% of a financial advisor's time
 ---
 
 # Nevis -- Company Profile

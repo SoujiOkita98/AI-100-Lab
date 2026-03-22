@@ -11,20 +11,22 @@ valuation: Undisclosed
 total_funding: $23.8M
 employee_count: Undisclosed (estimated 15-30)
 key_investors:
-  - Madrona
-  - Menlo Ventures
-  - Obvious Ventures
-  - Fujitsu Ventures
-  - Alumni Ventures
-  - Pillar VC
-  - Betaworks
+- Madrona
+- Menlo Ventures
+- Obvious Ventures
+- Fujitsu Ventures
+- Alumni Ventures
+- Pillar VC
+- Betaworks
 notable_backers:
-  - Graham Neubig (CMU Professor, co-founder)
-  - Thom Wolf (Hugging Face Co-Founder, angel investor)
-  - Jeff Hammerbacher (Cloudera Co-Founder, angel investor)
-  - Soumith Chintala (PyTorch creator, angel investor)
+- Graham Neubig (CMU Professor, co-founder)
+- Thom Wolf (Hugging Face Co-Founder, angel investor)
+- Jeff Hammerbacher (Cloudera Co-Founder, angel investor)
+- Soumith Chintala (PyTorch creator, angel investor)
 last_updated: 2026-03-20
 confidence: high
+one_liner: All Hands AI is the company behind OpenHands (formerly OpenDevin), one of the most popular open-source AI coding
+  agents
 ---
 
 # All Hands AI (OpenHands)

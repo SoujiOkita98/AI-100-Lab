@@ -43,6 +43,8 @@ founders:
   role: Chairman
   background: Founder/CEO Flagship Pioneering. Co-founded Moderna.
   origin: Armenian-Lebanese-American
+one_liner: Lila Sciences is building what it calls "AI Science Factories" -- autonomous laboratories where AI systems design,
+  execute, and interpret scientific experiments with minimal human intervention
 ---
 
 # Lila Sciences

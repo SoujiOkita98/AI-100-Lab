@@ -37,6 +37,8 @@ tags:
 - mlops
 last_updated: 2026-03-20
 confidence: high
+one_liner: Galileo is an AI evaluation and observability platform that helps enterprises build, test, monitor, and secure
+  LLM-powered applications and AI agents
 ---
 
 # Galileo

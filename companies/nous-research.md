@@ -108,6 +108,8 @@ valuation_notes: 'The $1B valuation is a fully diluted token valuation (NOUS tok
 
   '
 last_updated: 2026-03-20
+one_liner: Nous Research is an open-source AI research lab founded in 2022 by a small group of researchers who met on Discord
+  and Twitter
 ---
 
 # Nous Research

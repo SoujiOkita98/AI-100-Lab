@@ -25,6 +25,8 @@ funding_rounds:
   lead_investors:
   - Insight Partners
   source: https://www.jasper.ai/blog/jasper-announces-125m-series-a-funding
+one_liner: Jasper is an AI content and marketing platform that rose to prominence as one of the fastest-growing SaaS startups
+  ever, reaching unicorn status in roughly 18 months
 ---
 
 # Jasper -- AI Marketing Platform

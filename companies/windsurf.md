@@ -54,6 +54,8 @@ funding_rounds:
   lead_investors:
   - General Catalyst
   source: https://www.crunchbase.com/funding_round/windsurf-codeium-series-c--4876a9bd
+one_liner: Windsurf was an AI-powered code editor and developer tools company that grew from zero to over 1 million developers
+  in four months after launching its IDE in November 2024
 ---
 
 # Windsurf (formerly Codeium / Exafunction)

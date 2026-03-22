@@ -21,6 +21,8 @@ arr_estimate: Undisclosed
 employee_count_estimate: ~50-80 (estimated)
 status: Private
 last_updated: 2026-03-20
+one_liner: Numeric is an AI-powered accounting platform that unifies close management, financial reporting, and cash management
+  for enterprise finance teams
 ---
 
 # Numeric -- Company Profile

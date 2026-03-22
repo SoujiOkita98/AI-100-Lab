@@ -8,6 +8,7 @@ founders:
   role: CEO & Chairman
   background: Former VP & Deputy Head of Research at SenseTime; PhD from Chinese Academy of Sciences; postdoc at Tsinghua
     University
+  origin: Chinese
 - name: Zhou Yucong
   role: Executive Director, Visual Model Research & Engineering Lead
   background: Former SenseTime (2018-2019); former Huawei (2019-2022), focused on algorithms
@@ -35,6 +36,8 @@ tags:
 - AI companions
 - multimodal AI
 last_updated: 2026-03-20
+one_liner: MiniMax is one of China's "Six AI Tigers" — the cohort of leading Chinese AI startups that emerged in the post-ChatGPT
+  era (alongside Zhipu AI, Moonshot AI / Kimi, Baichuan, 01.AI, and StepFun)
 ---
 
 # MiniMax

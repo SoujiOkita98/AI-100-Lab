@@ -34,6 +34,7 @@ funding_rounds:
   lead_investors:
   - Index Ventures
   source: https://techcrunch.com/2024/11/14/tessl-raises-125m/
+one_liner: Tessl is building an AI-native, spec-centric platform for autonomous software development
 ---
 
 # Tessl

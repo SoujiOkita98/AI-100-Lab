@@ -52,6 +52,8 @@ funding_rounds:
   lead_investors:
   - Point72 Private Investments
   source: https://www.luminance.com/press/luminance-raises-75-million/
+one_liner: '> UK-based Legal-Grade AI platform used by 1,000+ organizations across 70 countries, including all Big Four and
+  a quarter of the Global Top 100 law firms'
 ---
 
 # Luminance

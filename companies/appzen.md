@@ -59,6 +59,8 @@ funding_rounds:
   lead_investors:
   - Riverwood Capital
   source: https://www.prnewswire.com/news-releases/appzen-raises-180-million-growth-round/
+one_liner: '> AI-native autonomous finance platform with proprietary models, serving 65+ Fortune 500 companies and automating
+  end-to-end finance workflows across T&E, accounts payable, and corporate cards'
 ---
 
 # AppZen

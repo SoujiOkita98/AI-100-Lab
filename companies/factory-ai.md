@@ -11,15 +11,17 @@ valuation: ~$300M (post-money, September 2025)
 total_funding: $70M
 employee_count: Undisclosed (estimated 30-60)
 key_investors:
-  - NEA
-  - Sequoia Capital
-  - Lux Capital
-  - J.P. Morgan
-  - NVIDIA
-  - Mantis VC
+- NEA
+- Sequoia Capital
+- Lux Capital
+- J.P. Morgan
+- NVIDIA
+- Mantis VC
 notable_backers: []
 last_updated: 2026-03-20
 confidence: high
+one_liner: Factory is building an "agent-native" software development platform centered on autonomous AI agents called "Droids"
+  that handle full tasks across the software development lifecycle
 ---
 
 # Factory

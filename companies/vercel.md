@@ -6,9 +6,9 @@ founded: 2015
 headquarters: San Francisco, CA
 ceo: Guillermo Rauch
 cofounders:
-  - Guillermo Rauch
-  - Tony Kovanen
-  - Naoyuki Kanezawa
+- Guillermo Rauch
+- Tony Kovanen
+- Naoyuki Kanezawa
 sector: Developer Tools / Frontend Cloud / AI Code Generation
 stage: Late-stage (Series F)
 latest_valuation: $9.3B (September 2025)
@@ -18,12 +18,14 @@ annual_recurring_revenue: $200M (May 2025)
 employees: ~875 (early 2026)
 website: https://vercel.com
 key_products:
-  - Vercel Platform (frontend cloud / deployment)
-  - Next.js (open-source React framework)
-  - v0 (AI code generation, v0.app)
-  - Vercel AI SDK (open-source TypeScript toolkit)
-  - Vercel AI Gateway
+- Vercel Platform (frontend cloud / deployment)
+- Next.js (open-source React framework)
+- v0 (AI code generation, v0.app)
+- Vercel AI SDK (open-source TypeScript toolkit)
+- Vercel AI Gateway
 profile_updated: 2026-03-20
+one_liner: Vercel is a frontend cloud platform that enables developers to build, deploy, and scale web applications with minimal
+  configuration
 ---
 
 # Vercel

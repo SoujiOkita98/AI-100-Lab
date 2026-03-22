@@ -59,6 +59,8 @@ funding_rounds:
   - CapitalG (Alphabet)
   source: https://www.hpcwire.com/2026/03/12/vast-tops-off-with-series-f-at-a-30-billion-valuation/
   notes: ~$500M primary + ~$500M secondary tender.
+one_liner: VAST Data is an AI-native data infrastructure company that has built a unified storage and data platform designed
+  from the ground up for AI workloads
 ---
 
 # VAST Data

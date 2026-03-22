@@ -28,6 +28,8 @@ funding_rounds:
   - Andreessen Horowitz
   - Sanofi
   source: https://www.prnewswire.com/news-releases/formation-bio-secures-372mm-series-d-funding-to-grow-drug-pipeline-and-continue-expanding-ai-driven-drug-development-platform-302182347.html
+one_liner: Formation Bio is an "AI-native pharmaceutical company" that uses artificial intelligence, deep learning, and real-world
+  clinical data to accelerate drug development
 ---
 
 # Formation Bio

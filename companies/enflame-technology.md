@@ -65,6 +65,8 @@ funding_rounds:
   - SummitView Capital
   - YTI Capital
   source: https://siliconangle.com/2023/09/28/chinese-ai-chipmaker-enflame-raises-237m-series-d-funding-round/
+one_liner: Enflame Technology (also known as Suiyuan Technology) is a Shanghai-based AI chip designer that develops cloud-based
+  deep learning accelerators for AI training and inference
 ---
 
 # Enflame Technology

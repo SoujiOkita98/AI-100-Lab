@@ -11,11 +11,11 @@ users: 20M+ across 15 countries
 employees: ~80-100 (estimate)
 status: Private
 last_updated: 2026-03-20
-confidence_notes: >
-  Series B (EUR27M) and valuation well-sourced via EU-Startups, Tech.eu, and XAnge.
-  Total funding of EUR45M confirmed across multiple sources.
-  User count of 20M+ from company press materials.
-  Employee count and revenue not publicly disclosed; estimates based on company stage.
+confidence_notes: Series B (EUR27M) and valuation well-sourced via EU-Startups, Tech.eu, and XAnge. Total funding of EUR45M
+  confirmed across multiple sources. User count of 20M+ from company press materials. Employee count and revenue not publicly
+  disclosed; estimates based on company stage.
+one_liner: Knowunity is a Berlin-based AI-powered learning platform that combines community-generated study materials with
+  an AI tutor to help students learn more effectively
 ---
 
 # Knowunity -- AI Learning Platform for Students

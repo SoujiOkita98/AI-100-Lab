@@ -26,6 +26,8 @@ funding_rounds:
   - NEA
   - SR One
   source: https://www.globenewswire.com/news-release/2025/09/02/3142325/0/en/
+one_liner: Charm Therapeutics (stylized as CHARM) is a London-based biotech company using deep learning to discover and develop
+  drugs against hard-to-drug targets
 ---
 
 # Charm Therapeutics

@@ -28,6 +28,8 @@ key_investors:
 - Breega
 - Cathay Innovation
 - Felicis Ventures
+one_liner: '> French AI startup using generative models to discover optimized catalytic materials for decarbonizing industrial
+  chemistry, founded by Mila and Owkin alumni'
 ---
 
 # Entalpic

@@ -54,6 +54,8 @@ funding_rounds:
   - T. Rowe Price
   - Fidelity Investments
   source: https://tracxn.com/d/companies/freenome/__QnCE7TdOftOC9FKD2-6WRJMdfjXf1zQYXZJDOE3VCBg/funding-and-investors
+one_liner: Freenome is a biotechnology company developing blood-based early cancer detection tests using a multiomics platform
+  powered by machine learning
 ---
 
 # Freenome

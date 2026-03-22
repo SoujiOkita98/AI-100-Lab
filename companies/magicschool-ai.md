@@ -11,11 +11,10 @@ users: 7M+ educators (2026)
 employees: ~100-200 (scaling to 200 by end of 2025)
 status: Private
 last_updated: 2026-03-20
-confidence_notes: >
-  Funding figures sourced from company blog and EdWeek Market Brief.
-  User count of 7M+ educators from company statements and Congressional testimony.
-  Revenue not publicly disclosed but company described as "cash-flow positive."
-  Valuation not publicly disclosed for any round. Employee scaling plans from CEO interviews.
+confidence_notes: Funding figures sourced from company blog and EdWeek Market Brief. User count of 7M+ educators from company
+  statements and Congressional testimony. Revenue not publicly disclosed but company described as "cash-flow positive." Valuation
+  not publicly disclosed for any round. Employee scaling plans from CEO interviews.
+one_liner: MagicSchool AI is the fastest-growing AI platform built specifically for teachers and educators
 ---
 
 # MagicSchool AI -- AI Tools for Educators

@@ -11,12 +11,14 @@ valuation: ~$550M (post-money, September 2025)
 total_funding: $88M
 employee_count: ~24 (2025)
 key_investors:
-  - Scale Venture Partners
-  - CRV
-  - NVentures (NVIDIA)
+- Scale Venture Partners
+- CRV
+- NVentures (NVIDIA)
 notable_backers: []
 last_updated: 2026-03-20
 confidence: high
+one_liner: CodeRabbit is an AI-powered code review platform that integrates directly into existing developer workflows through
+  GitHub, GitLab, Azure DevOps, and Bitbucket
 ---
 
 # CodeRabbit

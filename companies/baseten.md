@@ -61,6 +61,8 @@ funding_rounds:
   - IVP
   - CapitalG
   source: https://www.crunchbase.com/organization/baseten/company_financials
+one_liner: Baseten is an AI model inference infrastructure company that enables teams to deploy, serve, and scale machine
+  learning models in production
 ---
 
 # Baseten

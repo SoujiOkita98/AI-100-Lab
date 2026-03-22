@@ -6,37 +6,45 @@ sector: AI Agents / General-Purpose AI Assistant
 founded: 2022 (as Butterfly Effect); Manus product launched March 2025
 headquarters: Singapore (relocated from Beijing in May 2025)
 founders:
-  - name: Xiao Hong (萧弘)
-    role: Co-founder & CEO
-    nationality: Chinese (mainland)
-    education:
-      - Details not widely reported; first startup launched in 2016, one year after graduation
-    notable: Founded first startup in 2016 building creator tools for WeChat. Founded Butterfly Effect in 2022, which launched Monica (a browser extension AI assistant) before pivoting to Manus.
-  - name: Ji Yichao (季逸超), known as "Peak"
-    role: Co-founder & Chief Scientist
-    nationality: Chinese (mainland)
-    education:
-      - Beijing Information Science and Technology University (dropped out)
-    notable: Built "Mammoth Browser" (猛犸浏览器) at age 17, which became the most downloaded third-party iPhone browser in China. Later built Magi, a knowledge search engine. Named to MIT Technology Review's Innovators Under 35 (2025). Age ~32.
-  - name: Zhang Tao (张涛)
-    role: Co-founder & CPO (Product)
-    nationality: Chinese (mainland)
-    education:
-      - Chongqing University of Posts and Telecommunications
-    notable: Former Head of Global Product at ByteDance (2022-2023). Previously product manager at Tencent. Directed the Manus launch video.
+- name: Xiao Hong (萧弘)
+  role: Co-founder & CEO
+  nationality: Chinese (mainland)
+  education:
+  - Details not widely reported; first startup launched in 2016, one year after graduation
+  notable: Founded first startup in 2016 building creator tools for WeChat. Founded Butterfly Effect in 2022, which launched
+    Monica (a browser extension AI assistant) before pivoting to Manus.
+  origin: Chinese
+- name: Ji Yichao (季逸超), known as "Peak"
+  role: Co-founder & Chief Scientist
+  nationality: Chinese (mainland)
+  education:
+  - Beijing Information Science and Technology University (dropped out)
+  notable: Built "Mammoth Browser" (猛犸浏览器) at age 17, which became the most downloaded third-party iPhone browser in China.
+    Later built Magi, a knowledge search engine. Named to MIT Technology Review's Innovators Under 35 (2025). Age ~32.
+  origin: Chinese
+- name: Zhang Tao (张涛)
+  role: Co-founder & CPO (Product)
+  nationality: Chinese (mainland)
+  education:
+  - Chongqing University of Posts and Telecommunications
+  notable: Former Head of Global Product at ByteDance (2022-2023). Previously product manager at Tencent. Directed the Manus
+    launch video.
+  origin: Chinese
 team_size_estimate: ~50-100 (pre-acquisition)
 stage: Acquired by Meta
 total_funding: ~$75M (pre-acquisition)
 estimated_valuation: ~$500M (April 2025); acquired by Meta for ~$2.5B-$3B (December 2025)
 estimated_arr_2026: $100M ARR reached in ~8 months post-launch (by late 2025)
 tags:
-  - ai-agents
-  - generative-ai
-  - consumer-ai
-  - chinese-founders
-  - singapore-hq
-  - acquired-by-meta
+- ai-agents
+- generative-ai
+- consumer-ai
+- chinese-founders
+- singapore-hq
+- acquired-by-meta
 last_updated: 2026-03-20
+one_liner: Manus AI is an AI agent platform that burst onto the scene in March 2025, quickly becoming one of the most talked-about
+  AI products globally
 ---
 
 # Manus AI

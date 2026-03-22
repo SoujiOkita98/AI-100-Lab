@@ -29,6 +29,8 @@ key_investors:
 - WaVe-X
 - WiL
 - Avra
+one_liner: '> AI agents automating logistics operations for enterprises like DHL, Ryder, and Schneider -- built by Spanish-born
+  founders out of YC S23'
 ---
 
 # HappyRobot

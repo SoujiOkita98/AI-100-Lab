@@ -48,6 +48,7 @@ funding_rounds:
   - 8090 Industries
   source: https://techfundingnews.com/nscale-raises-2b-series-c-europe-largest-ai-infra/
   notes: Claimed largest funding round by a European startup.
+one_liner: Nscale is a London-based AI infrastructure company that designs, builds, and operates GPU data centers for AI workloads
 ---
 
 # Nscale

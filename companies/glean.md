@@ -60,6 +60,8 @@ funding_rounds:
   lead_investors:
   - Wellington Management
   source: https://www.glean.com/blog/glean-series-f-announcement
+one_liner: Glean is an enterprise AI platform that unifies search, assistants, and AI agents across an organization's internal
+  knowledge and SaaS tools
 ---
 
 # Glean -- AI-Powered Enterprise Search & Work AI Platform

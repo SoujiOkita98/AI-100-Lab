@@ -64,6 +64,8 @@ funding_rounds:
   - SoftBank Vision Fund 2
   source: https://techcrunch.com/2026/02/24/self-driving-tech-startup-wayve-raises-1-2b-from-nvidia-uber-and-three-automakers/
   notes: Also included Microsoft, Nvidia, Uber, Mercedes-Benz, Nissan, Stellantis, Ontario Teachers', Baillie Gifford.
+one_liner: Wayve is a London-based autonomous driving company building end-to-end AI systems that learn to drive from data
+  and experience, without relying on hand-coded rules or high-definition maps
 ---
 
 # Wayve

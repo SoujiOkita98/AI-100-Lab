@@ -34,6 +34,7 @@ funding_rounds:
   source: https://techcrunch.com/2025/03/10/deepseek-isnt-taking-vc-money-yet-here-are-3-reasons-why/
   notes: No external VC. Wholly funded by founder's hedge fund High-Flyer (~$8B AUM). The $1.1B is estimated internal capital
     deployed.
+one_liner: DeepSeek is a Chinese AI research lab that builds open-weight large language models
 ---
 
 # DeepSeek

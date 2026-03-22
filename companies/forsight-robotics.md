@@ -54,6 +54,8 @@ funding_rounds:
 
     '
 total_known_funding: ~$195M
+one_liner: ForSight Robotics is an Israeli surgical robotics company developing the world's first robotic surgery platform
+  specifically designed for cataract and ophthalmic (eye) surgery
 ---
 
 # ForSight Robotics

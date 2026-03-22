@@ -52,6 +52,8 @@ funding_rounds:
 
     '
 total_known_funding: ~$405M
+one_liner: FieldAI builds embodiment-agnostic autonomy software -- what the company calls "Field Foundation Models" (FFMs)
+  -- that serve as a universal AI brain for mobile robots
 ---
 
 # FieldAI

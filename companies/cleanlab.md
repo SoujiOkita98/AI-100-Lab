@@ -5,14 +5,15 @@ founded: 2021
 headquarters: San Francisco, CA
 ceo: Curtis Northcutt (now Director, AI Research at Handshake)
 co_founders:
-  - Curtis Northcutt (CEO) — MIT PhD, Machine Learning
-  - Jonas Mueller (Chief Scientist) — MIT PhD, Machine Learning
-  - Anish Athalye (CTO) — MIT PhD, Systems
+- Curtis Northcutt (CEO) — MIT PhD, Machine Learning
+- Jonas Mueller (Chief Scientist) — MIT PhD, Machine Learning
+- Anish Athalye (CTO) — MIT PhD, Systems
 sector: Data-Centric AI / Data Quality / AI Reliability
 total_funding: ~$30M
 latest_valuation: Not disclosed
 status: Acquired by Handshake (January 2026)
 profile_updated: 2026-03-20
+one_liner: Cleanlab is a data-centric AI company that pioneered automated data quality tools for machine learning
 ---
 
 # Cleanlab

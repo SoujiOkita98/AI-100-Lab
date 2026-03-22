@@ -66,6 +66,8 @@ funding_rounds:
   - Bosch
   - Temasek
   source: https://techcrunch.com/2021/11/05/momenta-500-million/
+one_liner: Momenta is a Beijing-based autonomous driving company that develops AI software for self-driving vehicles, spanning
+  both L2+ driver-assistance systems (ADAS) and full L4 autonomous driving
 ---
 
 # Momenta

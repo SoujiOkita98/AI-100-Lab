@@ -26,6 +26,8 @@ key_investors:
 - Basis Set Ventures
 - Flying Fish Partners
 - South Park Commons
+one_liner: '> Former DeepMind scientists building autonomous AI agents that control your Mac and Windows PC — navigating interfaces,
+  completing workflows, and operating software like a human knowledge worker'
 ---
 
 # Simular

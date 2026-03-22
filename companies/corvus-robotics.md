@@ -54,6 +54,7 @@ funding_rounds:
 
     '
 total_known_funding: ~$28M
+one_liner: Corvus Robotics builds fully autonomous drone systems for warehouse inventory management
 ---
 
 # Corvus Robotics

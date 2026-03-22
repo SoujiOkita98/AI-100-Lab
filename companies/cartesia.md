@@ -5,19 +5,29 @@ website: https://cartesia.ai
 founded: 2023
 headquarters: San Francisco, CA, USA
 sector: AI Infrastructure / Voice AI / Edge AI
-tags: [state-space-models, voice-AI, text-to-speech, edge-AI, real-time-inference, SSM]
+tags:
+- state-space-models
+- voice-AI
+- text-to-speech
+- edge-AI
+- real-time-inference
+- SSM
 founders:
-  - Karan Goel (CEO)
-  - Albert Gu (Chief Scientist)
-  - Arjun Desai
-  - Brandon Yang
-  - Chris Ré (Stanford Professor, co-founder)
+- Karan Goel (CEO)
+- Albert Gu (Chief Scientist)
+- Arjun Desai
+- Brandon Yang
+- Chris Ré (Stanford Professor, co-founder)
 headcount: ~91 (as of Feb 2026)
 total_funding: ~$91M
 latest_round: Series A ($64M, March 2025)
-lead_investors: [Kleiner Perkins, Index Ventures]
+lead_investors:
+- Kleiner Perkins
+- Index Ventures
 status: Private, Series A
 last_updated: 2026-03-20
+one_liner: Cartesia builds real-time AI models based on State Space Model (SSM) architectures, enabling ultra-low-latency
+  voice AI and on-device inference that challenges transformer-based approaches
 ---
 
 # Cartesia

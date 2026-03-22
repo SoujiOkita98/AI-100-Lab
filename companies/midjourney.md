@@ -12,10 +12,9 @@ estimated_revenue: ~$500M ARR (2025); projected $500-600M ARR (2026)
 employees: ~107-163 (2025 estimates vary by source; projected 250-300 by late 2026)
 website: https://www.midjourney.com
 last_updated: 2026-03-20
-confidence_note: >
-  Midjourney is a private, bootstrapped company that discloses very little officially.
-  Revenue, valuation, and headcount figures are third-party estimates and should be treated
-  as approximate. Sources are cited below.
+confidence_note: Midjourney is a private, bootstrapped company that discloses very little officially. Revenue, valuation,
+  and headcount figures are third-party estimates and should be treated as approximate. Sources are cited below.
+one_liner: Midjourney is an independent AI research lab and company that builds generative AI tools for image and video creation
 ---
 
 # Midjourney

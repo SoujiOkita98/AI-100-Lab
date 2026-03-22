@@ -3,8 +3,8 @@ name: Isomorphic Labs
 slug: isomorphic-labs
 domain: AI Drug Discovery / Computational Biology
 founded: 2021
-incorporated: "2021-02-24"
-announced: "2021-11-04"
+incorporated: '2021-02-24'
+announced: '2021-11-04'
 headquarters: London, United Kingdom
 parent: Alphabet Inc.
 origin: Spin-off from Google DeepMind
@@ -12,39 +12,40 @@ website: https://www.isomorphiclabs.com
 ceo: Sir Demis Hassabis
 president: Max Jaderberg (effective 2026-01-01; succeeded Colin Murdoch)
 employees: ~348 (as of Feb 2026)
-funding_total_usd: 600_000_000
+funding_total_usd: 600000000
 last_round: Series D, March 2025
 lead_investor: Thrive Capital
 other_investors:
-  - GV (Google Ventures)
-  - Alphabet (follow-on)
-valuation_estimate: "$3.5B-$5B (unconfirmed; range reported at time of 2025 round)"
+- GV (Google Ventures)
+- Alphabet (follow-on)
+valuation_estimate: $3.5B-$5B (unconfirmed; range reported at time of 2025 round)
 pharma_partnerships:
-  - partner: Eli Lilly
-    announced: 2024-01-07
-    upfront_usd: 45_000_000
-    milestone_potential_usd: 1_700_000_000
-    focus: small-molecule drug discovery, undisclosed targets
-  - partner: Novartis
-    announced: 2024-01-07
-    upfront_usd: 37_500_000
-    milestone_potential_usd: 1_200_000_000
-    focus: small-molecule drug discovery
-  - partner: Johnson & Johnson (Janssen Biotech)
-    announced: 2026-01-20
-    upfront_usd: undisclosed
-    milestone_potential_usd: undisclosed
-    focus: multi-modality (small molecules, biologics, peptides, molecular glues)
+- partner: Eli Lilly
+  announced: 2024-01-07
+  upfront_usd: 45000000
+  milestone_potential_usd: 1700000000
+  focus: small-molecule drug discovery, undisclosed targets
+- partner: Novartis
+  announced: 2024-01-07
+  upfront_usd: 37500000
+  milestone_potential_usd: 1200000000
+  focus: small-molecule drug discovery
+- partner: Johnson & Johnson (Janssen Biotech)
+  announced: 2026-01-20
+  upfront_usd: undisclosed
+  milestone_potential_usd: undisclosed
+  focus: multi-modality (small molecules, biologics, peptides, molecular glues)
 core_technology: IsoDDE (Isomorphic Drug Design Engine), built on and beyond AlphaFold
 status: Pre-clinical; IND-enabling studies underway; first clinical trials targeted late 2026
 tags:
-  - ai-drug-discovery
-  - alphabet
-  - deepmind
-  - alphafold
-  - computational-biology
-  - biotech
+- ai-drug-discovery
+- alphabet
+- deepmind
+- alphafold
+- computational-biology
+- biotech
 last_updated: 2026-03-20
+one_liner: Isomorphic Labs is an Alphabet subsidiary spun out of Google DeepMind to apply frontier AI to drug discovery
 ---
 
 # Isomorphic Labs

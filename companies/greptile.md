@@ -11,13 +11,15 @@ valuation: ~$180M (post-money, September 2025)
 total_funding: ~$29M
 employee_count: ~10-15 (estimated, 2025)
 key_investors:
-  - Benchmark Capital
-  - Initialized Capital
-  - Y Combinator
+- Benchmark Capital
+- Initialized Capital
+- Y Combinator
 notable_backers:
-  - Cory Levy
+- Cory Levy
 last_updated: 2026-03-20
 confidence: high
+one_liner: Greptile is an AI-powered code review and code validation platform that indexes entire codebases to perform deep,
+  context-aware code review
 ---
 
 # Greptile

@@ -9,11 +9,13 @@ status: Private
 latest_valuation_approx: unknown (seed stage)
 total_funding_approx: ~$10.25M (seed)
 founders:
-  - Danyal Akarca (Co-Founder)
-  - Jascha Achterberg (Co-Founder)
+- Danyal Akarca (Co-Founder)
+- Jascha Achterberg (Co-Founder)
 employees_approx: unknown (likely small, <30)
 research_date: 2026-03-20
 confidence: medium
+one_liner: Callosum is a London-based startup building software that orchestrates AI workloads across heterogeneous chip architectures
+  -- NVIDIA, AMD, AWS Trainium/Inferentia, Cerebras, SambaNova, and others
 ---
 
 # Callosum

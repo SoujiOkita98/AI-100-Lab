@@ -34,6 +34,8 @@ funding_rounds:
   lead_investors:
   - Benchmark
   source: https://exa.ai/blog/announcing-series-b
+one_liner: Exa (formerly Metaphor) is an AI-native search engine built specifically for machine consumption rather than human
+  browsing
 ---
 
 # Exa

@@ -40,6 +40,7 @@ funding_rounds:
   amount_m: 100
   lead_investors: []
   source: https://salestools.io/report/typeface-100m-series-c-2024
+one_liner: Enterprise AI platform for brand-consistent, multi-channel marketing content generation and orchestration
 ---
 
 # Typeface

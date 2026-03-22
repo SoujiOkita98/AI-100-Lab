@@ -47,6 +47,8 @@ funding_rounds:
   - Qatar Investment Authority
   - World Innovation Lab
   source: https://cresta.com/blog/cresta-raises-125m/
+one_liner: Cresta is a contact center AI platform that provides real-time intelligence to customer service and sales agents,
+  managers, and executives
 ---
 
 # Cresta -- Company Profile

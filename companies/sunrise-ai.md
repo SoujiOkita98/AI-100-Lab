@@ -12,6 +12,7 @@ founders:
   education:
   - Details not widely reported
   notable: Co-founded SenseTime in 2014 alongside Tang Xiao'ou. Served as SenseTime's executive director and co-founder.
+  origin: Chinese
 - name: Wang Zhan (王湛)
   role: Co-CEO
   nationality: Chinese (mainland)
@@ -19,6 +20,7 @@ founders:
   - Details not widely reported
   notable: Former Vice President at Baidu; architect of Baidu's Phoenix Nest (凤巢) advertising system, one of the most profitable
     ad platforms in China.
+  origin: Chinese
 - name: Wang Yong (王勇)
   role: Co-CEO
   nationality: Chinese (mainland)
@@ -26,6 +28,7 @@ founders:
   - Details not widely reported
   notable: Veteran of AMD and Baidu's Kunlun chip unit. Joined SenseTime in 2020 to head its semiconductor/chip division.
     Deep hardware engineering background spanning US and Chinese chip development.
+  origin: Chinese
 team_size_estimate: Not disclosed
 stage: Series A+ (raised $431M+ in under 12 months)
 total_funding: ~$431M+ (3 billion RMB)
@@ -60,6 +63,8 @@ funding_rounds:
   - Gaorong Ventures
   - CICC Capital
   source: https://www.caproasia.com/2025/07/20/hong-kong-listed-china-ai-company-7-8-billion-sensetime-2024-spinoff-gpu-chip-developer-sunrise-raised-139-million-series-a/
+one_liner: Sunrise is a high-performance GPU and AI chip developer spun off from SenseTime's core semiconductor division in
+  late 2024
 ---
 
 # Sunrise (SenseTime AI Chip Spinoff)

@@ -43,6 +43,8 @@ funding_rounds:
   - Lightspeed Venture Partners
   - Index Ventures
   source: https://fireworks.ai/blog/series-c
+one_liner: Fireworks AI is a high-performance AI inference platform founded by the team that built and maintained PyTorch
+  at Meta
 ---
 
 # Fireworks AI

@@ -8,20 +8,27 @@ ceo: Jiang Daxin (姜大昕)
 chairman: Yin Qi (印奇) — appointed January 2026
 employees: ~400 (as of early 2026)
 sector: Foundation Models / Multimodal AI
-tags: [generative-ai, foundation-models, multimodal, on-device-ai, china-ai-tigers]
+tags:
+- generative-ai
+- foundation-models
+- multimodal
+- on-device-ai
+- china-ai-tigers
 status: Private (Hong Kong IPO reportedly planned for 2026)
-valuation_estimate: ">20 billion RMB (~$2.8B); exact post-B+ figure unconfirmed"
-total_funding_estimate: "~$1B+ across all rounds (exact cumulative total uncertain)"
+valuation_estimate: '>20 billion RMB (~$2.8B); exact post-B+ figure unconfirmed'
+total_funding_estimate: ~$1B+ across all rounds (exact cumulative total uncertain)
 key_investors:
-  - Tencent
-  - Shanghai State-owned Capital Investment (Shanghai Guotou)
-  - 5Y Capital (五源资本)
-  - Qiming Venture Partners (启明创投)
-  - Fortera Capital (Shanghai state PE arm)
-  - Pudong Venture Capital
-  - China Life Private Equity
+- Tencent
+- Shanghai State-owned Capital Investment (Shanghai Guotou)
+- 5Y Capital (五源资本)
+- Qiming Venture Partners (启明创投)
+- Fortera Capital (Shanghai state PE arm)
+- Pudong Venture Capital
+- China Life Private Equity
 website: https://www.stepfun.com
 last_updated: 2026-03-20
+one_liner: StepFun is a Shanghai-based AI foundation model company founded in April 2023 by Jiang Daxin, a 16-year veteran
+  of Microsoft
 ---
 
 # StepFun (阶跃星辰)

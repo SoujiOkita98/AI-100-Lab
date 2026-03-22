@@ -10,13 +10,15 @@ total_funding: ~$11M (angel round)
 acquisition_price: Several hundred million dollars (undisclosed exact)
 employee_count: ~20 (at time of acquisition)
 founders:
-  - name: Yangqing Jia (Jia Yangqing)
-    role: Co-Founder & CEO
-    origin: Mainland Chinese (Tsinghua University undergrad, UC Berkeley PhD)
-  - name: Bai Junjie
-    role: Co-Founder
-    origin: Mainland Chinese
+- name: Yangqing Jia (Jia Yangqing)
+  role: Co-Founder & CEO
+  origin: Mainland Chinese (Tsinghua University undergrad, UC Berkeley PhD)
+- name: Bai Junjie
+  role: Co-Founder
+  origin: Mainland Chinese
 last_updated: 2026-03-20
+one_liner: Lepton AI was a GPU cloud infrastructure startup founded by Yangqing Jia, one of the most influential Chinese-born
+  AI researchers in the world
 ---
 
 # Lepton AI

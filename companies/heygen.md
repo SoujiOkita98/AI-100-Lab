@@ -2,19 +2,19 @@
 company: HeyGen
 legal_name: HeyGen, Inc.
 former_names:
-  - Surreal (2020-2022, Shenzhen era)
-  - Movio (2022-2023, early LA era)
+- Surreal (2020-2022, Shenzhen era)
+- Movio (2022-2023, early LA era)
 domain: AI Video Generation / Digital Avatars
 founded: December 2020
 headquarters: Los Angeles, California, USA
 previous_headquarters: Shenzhen, China (2020-2022)
 founders:
-  - name: Joshua Xu (Xu Zhengjia)
-    role: CEO
-    origin: China
-  - name: Wayne Liang
-    role: Chief Innovation Officer / Co-Founder
-    origin: China
+- name: Joshua Xu (Xu Zhengjia)
+  role: CEO
+  origin: China
+- name: Wayne Liang
+  role: Chief Innovation Officer / Co-Founder
+  origin: China
 website: https://www.heygen.com
 status: Private
 headcount_estimate: 157-192
@@ -22,24 +22,26 @@ total_funding: ~$65.6M-$74.6M
 last_valuation: $500M (June 2024)
 arr_estimate: ~$100M (late 2025)
 key_investors:
-  - Benchmark (led Series A)
-  - Thrive Capital
-  - Conviction (Sarah Guo)
-  - Bond Capital
+- Benchmark (led Series A)
+- Thrive Capital
+- Conviction (Sarah Guo)
+- Bond Capital
 tags:
-  - generative-ai
-  - video-generation
-  - digital-avatars
-  - translation
-  - enterprise-saas
-  - chinese-founders
+- generative-ai
+- video-generation
+- digital-avatars
+- translation
+- enterprise-saas
+- chinese-founders
 competitors:
-  - Synthesia
-  - D-ID
-  - Colossyan
-  - Argil
+- Synthesia
+- D-ID
+- Colossyan
+- Argil
 last_updated: 2026-03-20
 confidence: high
+one_liner: HeyGen is an AI-powered video generation platform that enables users to create professional videos using realistic
+  AI avatars, voice cloning, and text-to-speech in over 175 languages
 ---
 
 # HeyGen

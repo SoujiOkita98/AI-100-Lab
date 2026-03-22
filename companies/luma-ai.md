@@ -58,6 +58,7 @@ funding_rounds:
   lead_investors:
   - HUMAIN (PIF subsidiary)
   source: https://lumalabs.ai/press/luma-ai-raises-900-million-series-c-led-by-humain-and-partners-on-2-gigawatt-ai-supercluster-in-saudi-arabia
+one_liner: Luma AI is a Palo Alto-based AI company building multimodal generative models for video, 3D, and creative content
 ---
 
 # Luma AI

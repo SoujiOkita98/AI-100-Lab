@@ -10,6 +10,8 @@ total_funding: ~$1.48 billion (across 6 rounds)
 employees: ~400-415 (as of early 2026)
 website: https://sambanova.ai
 last_updated: 2026-03-20
+one_liner: SambaNova Systems is a full-stack AI infrastructure company that designs custom AI processors (Reconfigurable Dataflow
+  Units, or RDUs), accompanying software, and enterprise services
 ---
 
 # SambaNova Systems

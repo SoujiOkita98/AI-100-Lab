@@ -29,6 +29,8 @@ tags:
 - yc-s24
 yc_batch: S24
 last_updated: 2026-03-20
+one_liner: Taxo is a healthcare AI company building what it describes as the world's fastest and most accurate AI reasoning
+  engine for healthcare administration
 ---
 
 # Taxo

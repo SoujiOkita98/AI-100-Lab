@@ -11,98 +11,91 @@ employees_approx: ~479 (as of January 2026)
 total_funding_approx: ~$1.9B
 latest_valuation: $39B (post-money, September 2025)
 latest_round: Series C
-
 founders:
-  - name: Brett Adcock
-    role: Founder & CEO
-    background: >
-      American, raised on a family farm near Moweaqua, Illinois. BS from
-      University of Florida (2008). Serial entrepreneur: founded Vettery
-      (hiring marketplace, acquired by Adecco Group ~2018), co-founded
-      Archer Aviation (eVTOL, NYSE: ACHR, IPO 2021). Named to TIME100 AI
-      list (2024). Also founded Cover (AI school-security startup, 2023) and
-      Hark (independent AI lab, self-funded $100M, late 2025). Remains CEO
-      of both Figure and Hark.
-    origin: American (white, rural Illinois)
+- name: Brett Adcock
+  role: Founder & CEO
+  background: 'American, raised on a family farm near Moweaqua, Illinois. BS from University of Florida (2008). Serial entrepreneur:
+    founded Vettery (hiring marketplace, acquired by Adecco Group ~2018), co-founded Archer Aviation (eVTOL, NYSE: ACHR, IPO
+    2021). Named to TIME100 AI list (2024). Also founded Cover (AI school-security startup, 2023) and Hark (independent AI
+    lab, self-funded $100M, late 2025). Remains CEO of both Figure and Hark.
 
+    '
+  origin: American (white, rural Illinois)
 key_people:
-  - name: Jerry Pratt (former)
-    role: Former CTO (2022-mid 2024)
-    background: >
-      20+ years in bipedal robotics at IHMC (Pensacola, FL). Led team to 2nd
-      place at DARPA Robotics Challenge. MIT Leg Laboratory alumnus. Left
-      Figure mid-2024 for personal reasons; co-founded Persona AI (humanoid
-      robots for shipyards) in late 2024.
-    source: https://spectrum.ieee.org/persona-ai-radford-pratt
+- name: Jerry Pratt (former)
+  role: Former CTO (2022-mid 2024)
+  background: '20+ years in bipedal robotics at IHMC (Pensacola, FL). Led team to 2nd place at DARPA Robotics Challenge. MIT
+    Leg Laboratory alumnus. Left Figure mid-2024 for personal reasons; co-founded Persona AI (humanoid robots for shipyards)
+    in late 2024.
 
+    '
+  source: https://spectrum.ieee.org/persona-ai-radford-pratt
 funding_rounds:
-  - stage: Seed
-    date: "2022"
-    amount: ~$100M (founder self-funded)
-    valuation: "[not disclosed]"
-    lead_investors:
-      - Brett Adcock (personal capital)
-    source: https://en.wikipedia.org/wiki/Figure_AI
+- stage: Seed
+  date: '2022'
+  amount: ~$100M (founder self-funded)
+  valuation: '[not disclosed]'
+  lead_investors:
+  - Brett Adcock (personal capital)
+  source: https://en.wikipedia.org/wiki/Figure_AI
+- stage: Series A
+  date: 2023-05
+  amount: $70M
+  valuation: ~$500M (pre-money est.)
+  lead_investors:
+  - Parkway Venture Capital
+  source: https://sacra.com/c/figure-ai/
+- stage: Series B
+  date: 2024-02
+  amount: $675M
+  valuation: $2.6B (post-money)
+  lead_investors:
+  - Microsoft
+  - Jeff Bezos (Bezos Expeditions)
+  - OpenAI Startup Fund
+  - NVIDIA
+  other_investors:
+  - Parkway Venture Capital
+  - Intel Capital
+  - Align Ventures
+  - ARK Invest
+  - Amazon (Industrial Innovation Fund)
+  notes: 'Coincided with OpenAI collaboration agreement for next-gen AI models for humanoid robots. Figure also secured Microsoft
+    Azure for AI infrastructure.
 
-  - stage: Series A
-    date: "2023-05"
-    amount: $70M
-    valuation: ~$500M (pre-money est.)
-    lead_investors:
-      - Parkway Venture Capital
-    source: https://sacra.com/c/figure-ai/
+    '
+  source: https://www.prnewswire.com/news-releases/figure-raises-675m-at-2-6b-valuation-and-signs-collaboration-agreement-with-openai-302074897.html
+- stage: Series C
+  date: 2025-09
+  amount: '>$1B'
+  valuation: $39B (post-money)
+  lead_investors:
+  - Parkway Venture Capital
+  other_investors:
+  - Brookfield Asset Management
+  - NVIDIA
+  - Macquarie Capital
+  - Intel Capital
+  - Align Ventures
+  - Tamarack Global
+  - LG Technology Ventures
+  - Salesforce
+  - T-Mobile Ventures
+  - Qualcomm Ventures
+  - Arcapita
+  notes: '15x valuation jump in ~18 months (from $2.6B to $39B). Largest humanoid-robotics round at the time.
 
-  - stage: Series B
-    date: "2024-02"
-    amount: $675M
-    valuation: $2.6B (post-money)
-    lead_investors:
-      - Microsoft
-      - Jeff Bezos (Bezos Expeditions)
-      - OpenAI Startup Fund
-      - NVIDIA
-    other_investors:
-      - Parkway Venture Capital
-      - Intel Capital
-      - Align Ventures
-      - ARK Invest
-      - Amazon (Industrial Innovation Fund)
-    notes: >
-      Coincided with OpenAI collaboration agreement for next-gen AI models
-      for humanoid robots. Figure also secured Microsoft Azure for AI
-      infrastructure.
-    source: https://www.prnewswire.com/news-releases/figure-raises-675m-at-2-6b-valuation-and-signs-collaboration-agreement-with-openai-302074897.html
-
-  - stage: Series C
-    date: "2025-09"
-    amount: ">$1B"
-    valuation: $39B (post-money)
-    lead_investors:
-      - Parkway Venture Capital
-    other_investors:
-      - Brookfield Asset Management
-      - NVIDIA
-      - Macquarie Capital
-      - Intel Capital
-      - Align Ventures
-      - Tamarack Global
-      - LG Technology Ventures
-      - Salesforce
-      - T-Mobile Ventures
-      - Qualcomm Ventures
-      - Arcapita
-    notes: >
-      15x valuation jump in ~18 months (from $2.6B to $39B). Largest
-      humanoid-robotics round at the time.
-    source: https://www.figure.ai/news/series-c
-
+    '
+  source: https://www.figure.ai/news/series-c
 tags:
-  - humanoid-robotics
-  - embodied-ai
-  - manufacturing-automation
-  - general-purpose-robot
-  - hardware
-  - deep-tech
+- humanoid-robotics
+- embodied-ai
+- manufacturing-automation
+- general-purpose-robot
+- hardware
+- deep-tech
+one_liner: Figure AI is building general-purpose humanoid robots for commercial labor markets, starting with manufacturing
+  and logistics, with an eventual path to consumer/home deployment
 ---
 
 # Figure AI

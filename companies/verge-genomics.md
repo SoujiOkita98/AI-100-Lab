@@ -41,6 +41,8 @@ funding_rounds:
   lead_investors:
   - AstraZeneca / Alexion
   source: https://www.globenewswire.com/news-release/2023/09/08/2739994/0/en/
+one_liner: Verge Genomics is a clinical-stage AI drug discovery company focused on neurodegenerative diseases including ALS,
+  Parkinson's, and Alzheimer's
 ---
 
 # Verge Genomics

@@ -1,23 +1,25 @@
 ---
 name: Tome
-legal_name: Tome, Inc.  # now operating as Lightfield; "Tome" brand acquired by AngelList in April 2025
-domain: tome.app  # original domain; Lightfield at lightfield.com
+legal_name: Tome, Inc.
+domain: tome.app
 sector: AI Presentations / Sales Intelligence (pivoted)
 founded: 2020
 headquarters: San Francisco, CA
 ceo: Keith Peiris
-employees_approx: 30  # estimated post-pivot core team; was ~59 pre-layoffs in 2024
-total_funding_usd: 81_000_000
-latest_valuation_usd: 300_000_000  # Series B valuation (Feb 2023); reported $600M discussed but unconfirmed
+employees_approx: 30
+total_funding_usd: 81000000
+latest_valuation_usd: 300000000
 latest_valuation_date: 2023-02-22
 status: Pivoted to Lightfield (private); Tome brand acquired by AngelList
 tags:
-  - generative-ai
-  - presentations
-  - sales-intelligence
-  - crm
-  - pivot
+- generative-ai
+- presentations
+- sales-intelligence
+- crm
+- pivot
 research_date: 2026-03-20
+one_liner: Tome was an AI-native storytelling and presentation platform founded in 2020 by former Meta executives Keith Peiris
+  and Henri Liriani
 ---
 
 # Tome

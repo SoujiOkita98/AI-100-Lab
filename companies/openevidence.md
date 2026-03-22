@@ -58,6 +58,7 @@ funding_rounds:
   - Thrive Capital
   - DST Global
   source: https://news.crunchbase.com/venture/openevidence-ai-doctors-doubles-valuation-seriesd/
+one_liner: '> The "ChatGPT for doctors" -- an AI-powered medical search engine used by over 40% of U.S'
 ---
 
 # OpenEvidence

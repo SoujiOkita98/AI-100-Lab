@@ -54,6 +54,8 @@ funding_rounds:
   - Nvidia
   source: https://siliconangle.com/2025/10/09/reflection-ai-lands-2b-8b-valuation-expand-frontier-ai-infrastructure-safety-research/
   notes: Also included DST Global, Lightspeed, Sequoia, Eric Schmidt, Citi.
+one_liner: '> Former DeepMind researchers building autonomous coding agents and open-weight frontier models, positioning as
+  America''s open-source alternative to DeepSeek'
 ---
 
 # Reflection AI

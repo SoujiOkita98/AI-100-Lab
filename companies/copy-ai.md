@@ -29,6 +29,8 @@ user_base: 17M+ registered users (as of late 2025)
 revenue_estimate: ~$23.7M ARR (2024, per GetLatka; 480% YoY growth reported)
 employee_count: ~50-180 (conflicting sources; likely ~50-60 at time of acquisition)
 profile_updated: 2026-03-20
+one_liner: Copy.ai is a generative AI platform that evolved from an AI copywriting tool into a full-stack "GTM AI" (Go-To-Market
+  AI) platform for sales, marketing, and revenue operations teams
 ---
 
 # Copy.ai

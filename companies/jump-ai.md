@@ -40,6 +40,8 @@ funding_rounds:
   lead_investors:
   - Insight Partners
   source: https://www.superbcrew.com/jump-raises-80-million/
+one_liner: Jump is an AI-powered operating system for financial advisors that automates administrative workflows, enabling
+  advisors to spend more time with clients
 ---
 
 # Jump -- Company Profile

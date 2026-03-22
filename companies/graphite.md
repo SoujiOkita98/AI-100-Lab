@@ -11,16 +11,18 @@ valuation: Undisclosed (acquisition); ~$550M+ implied (post-Series B trajectory)
 total_funding: ~$81M
 employee_count: Undisclosed (estimated 40-80)
 key_investors:
-  - Accel
-  - Anthropic (via Anthology Fund with Menlo Ventures)
-  - Shopify Ventures
-  - Figma Ventures
-  - Andreessen Horowitz
-  - The General Partnership
+- Accel
+- Anthropic (via Anthology Fund with Menlo Ventures)
+- Shopify Ventures
+- Figma Ventures
+- Andreessen Horowitz
+- The General Partnership
 notable_backers:
-  - Anthropic
+- Anthropic
 last_updated: 2026-03-20
 confidence: high
+one_liner: Graphite is an AI-powered code review and developer workflow platform that leverages models from Anthropic and
+  OpenAI to flag errors, suggest improvements, and accelerate the review process
 ---
 
 # Graphite

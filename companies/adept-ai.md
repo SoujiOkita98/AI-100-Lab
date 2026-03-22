@@ -29,6 +29,8 @@ funding_rounds:
   - Spark Capital
   source: https://techcrunch.com/2023/03/15/adept-a-startup-training-ai-to-use-existing-software-and-apis-raises-350m/
   notes: Acquired by Amazon June 2024.
+one_liner: Adept AI was founded in 2022 to build AI agents that could interact with any software on behalf of users — an "agentic
+  AI" company before the term became mainstream
 ---
 
 # Adept AI

@@ -38,6 +38,7 @@ funding_rounds:
   - Insight Partners
   - Venrock
   source: https://www.crunchbase.com/funding_round/rebellion-defense-series-b--c87bbd3f
+one_liner: Rebellion Defense is a defense technology startup that builds AI-powered software for the U.S
 ---
 
 # Rebellion Defense
