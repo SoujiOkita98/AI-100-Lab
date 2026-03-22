@@ -23,6 +23,8 @@ founders:
   background: Unit 8200 alumnus.
   origin: Israeli
 data_notes: 'Needs verification: website, source_urls. Profile may be incomplete.'
+website: https://www.onfire.ai
+website_verified: true
 ---
 
 # Onfire AI

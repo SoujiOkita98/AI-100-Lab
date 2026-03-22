@@ -27,6 +27,8 @@ founders:
   background: Unit 8200 vulnerability researcher.
   origin: Israeli
 data_notes: 'Needs verification: website, source_urls, headquarters. Profile may be incomplete.'
+website: https://imper.ai
+website_verified: true
 ---
 
 # Imper.ai

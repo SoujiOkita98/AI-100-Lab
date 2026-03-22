@@ -25,6 +25,8 @@ total_funding: 46
 last_updated: 2026-03-21
 confidence: medium
 data_notes: 'Needs verification: website, source_urls, headquarters. Profile may be incomplete.'
+website: https://www.getvinci.ai
+website_verified: true
 ---
 
 # Vinci (Semiconductor)

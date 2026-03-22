@@ -26,6 +26,8 @@ founders:
   background: Ecole Polytechnique + ETH Zurich. Google Science Fair winner.
   origin: French
 data_notes: 'Needs verification: website, source_urls. Profile may be incomplete.'
+website: https://www.arago.inc
+website_verified: true
 ---
 
 # Arago Photonics

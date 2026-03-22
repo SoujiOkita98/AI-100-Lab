@@ -20,6 +20,8 @@ total_funding: 230
 last_updated: 2026-03-21
 confidence: medium
 data_notes: 'Needs verification: website, source_urls, headquarters. Profile may be incomplete.'
+website: https://www.mal.ai
+website_verified: true
 ---
 
 # Mal

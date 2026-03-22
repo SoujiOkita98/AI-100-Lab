@@ -25,6 +25,8 @@ founders:
   background: Ex-VP AI at Akamai. CEO Cyberfend (acq Akamai). 15+ years Intel.
   origin: Indian-American
 data_notes: 'Needs verification: website, source_urls, headquarters. Profile may be incomplete.'
+website: https://www.straiker.ai
+website_verified: true
 ---
 
 # Straiker

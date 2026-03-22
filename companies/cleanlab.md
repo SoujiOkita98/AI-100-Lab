@@ -15,6 +15,8 @@ status: Acquired by Handshake (January 2026)
 profile_updated: 2026-03-20
 one_liner: Cleanlab is a data-centric AI company that pioneered automated data quality tools for machine learning
 data_notes: 'Needs verification: website, founders. Profile may be incomplete.'
+website: https://cleanlab.ai
+website_verified: true
 ---
 
 # Cleanlab

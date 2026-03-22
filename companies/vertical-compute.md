@@ -14,6 +14,8 @@ total_funding: 21.5
 last_updated: 2026-03-21
 confidence: medium
 data_notes: 'Needs verification: website, founders, source_urls. Profile may be incomplete.'
+website: https://verticalcompute.com
+website_verified: true
 ---
 
 # Vertical Compute

@@ -25,6 +25,8 @@ total_funding: 34
 last_updated: 2026-03-21
 confidence: medium
 data_notes: 'Needs verification: website, source_urls, headquarters. Profile may be incomplete.'
+website: https://jetstream.security
+website_verified: true
 ---
 
 # JetStream Security

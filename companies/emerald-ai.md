@@ -21,6 +21,8 @@ founders:
     Kerry.
   origin: Indian-American
 data_notes: 'Needs verification: website, source_urls, headquarters. Profile may be incomplete.'
+website: https://www.emeraldai.co
+website_verified: true
 ---
 
 # Emerald AI

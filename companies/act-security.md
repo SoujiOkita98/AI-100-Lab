@@ -26,6 +26,8 @@ founders:
   background: Co-founded Medigate.
   origin: Israeli
 data_notes: 'Needs verification: website, source_urls. Profile may be incomplete.'
+website: https://act.security
+website_verified: true
 ---
 
 # Act Security

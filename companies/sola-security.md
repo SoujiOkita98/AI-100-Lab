@@ -25,6 +25,8 @@ founders:
   background: Former Global CISO LivePerson.
   origin: Israeli
 data_notes: 'Needs verification: website, source_urls, headquarters. Profile may be incomplete.'
+website: https://sola.security
+website_verified: true
 ---
 
 # Sola Security

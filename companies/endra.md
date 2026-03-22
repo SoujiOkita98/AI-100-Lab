@@ -26,6 +26,8 @@ founders:
   background: Built Goldman Sachs EMEA equity trading infrastructure.
   origin: Swedish
 data_notes: 'Needs verification: website, source_urls. Profile may be incomplete.'
+website: https://www.endra.ai
+website_verified: true
 ---
 
 # Endra
