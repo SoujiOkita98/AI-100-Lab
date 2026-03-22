@@ -19,6 +19,7 @@ founders:
   origin: Indian
 website: https://isotopes.ai
 headquarters: Palo Alto, CA
+website_verified: true
 ---
 
 # Isotopes AI

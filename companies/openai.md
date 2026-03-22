@@ -1,170 +1,187 @@
 ---
-name: "OpenAI"
+name: OpenAI
 status: active
 founded: 2015-12-11
-hq: "San Francisco, CA"
-website: "https://openai.com"
-sector: ["foundation models", "generative AI", "LLMs", "AI infrastructure", "enterprise AI", "consumer AI"]
-one_liner: "Creator of GPT and ChatGPT; the company that ignited the generative AI era."
-logo: ""
-
+hq: San Francisco, CA
+website: https://openai.com
+sector:
+- foundation models
+- generative AI
+- LLMs
+- AI infrastructure
+- enterprise AI
+- consumer AI
+one_liner: Creator of GPT and ChatGPT; the company that ignited the generative AI era.
+logo: ''
 total_raised_m: 168000
 latest_valuation_m: 840000
 funding_rounds:
-  - stage: "Seed / Founding pledge"
-    date: 2015-12
-    amount_m: 100
-    valuation_m: ~
-    lead_investors: ["Elon Musk", "Sam Altman", "Reid Hoffman", "Peter Thiel", "Jessica Livingston"]
-    source: "https://openai.com/index/introducing-openai/"
-    notes: "Announced as a $1B pledge from a group of backers; ~$100M was deployed early on. Musk contributed ~$38M (~60% of initial funds)."
-
-  - stage: "Corporate round (Microsoft partnership)"
-    date: 2019-07
-    amount_m: 1000
-    valuation_m: ~
-    lead_investors: ["Microsoft"]
-    source: "https://openai.com/index/microsoft-invests-in-and-partners-with-openai/"
-    notes: "Roughly half in Azure credits. Coincided with creation of the capped-profit entity OpenAI LP."
-
-  - stage: "Corporate round (Microsoft Phase 2)"
-    date: 2021
-    amount_m: 2000
-    valuation_m: ~
-    lead_investors: ["Microsoft"]
-    source: "https://www.cnbc.com/2023/04/08/microsofts-complex-bet-on-openai-brings-potential-and-uncertainty.html"
-    notes: "Estimated ~$2B additional from Microsoft between 2019 and early 2023. Exact breakdown uncertain."
-
-  - stage: "Corporate round (Microsoft Phase 3)"
-    date: 2023-01
-    amount_m: 10000
-    valuation_m: 29000
-    lead_investors: ["Microsoft"]
-    source: "https://blogs.microsoft.com/blog/2023/01/23/microsoftandopenaiextendpartnership/"
-    notes: "Reported as 'multiyear, multibillion dollar' -- widely cited as up to $10B. Valuation ~$29B reported at time."
-
-  - stage: "Series A (Thrive-led)"
-    date: 2024-10-02
-    amount_m: 6600
-    valuation_m: 157000
-    lead_investors: ["Thrive Capital"]
-    source: "https://techcrunch.com/2024/10/02/openai-raises-6-6b-and-is-now-valued-at-157b/"
-    notes: "Other investors: Microsoft (~$1B), SoftBank ($500M), Nvidia ($100M), Khosla Ventures, Altimeter Capital, Fidelity, MGX. Close was contingent on OpenAI restructuring to for-profit within 2 years."
-
-  - stage: "Series B (SoftBank-led)"
-    date: 2025-03-31
-    amount_m: 40000
-    valuation_m: 300000
-    lead_investors: ["SoftBank"]
-    source: "https://www.cnbc.com/2025/03/31/openai-closes-40-billion-in-funding-the-largest-private-fundraise-in-history-softbank-chatgpt.html"
-    notes: "Largest private funding round on record at the time."
-
-  - stage: "Secondary sale"
-    date: 2025-10-02
-    amount_m: 6600
-    valuation_m: 500000
-    lead_investors: ["Thrive Capital", "SoftBank", "Dragoneer", "MGX", "T. Rowe Price"]
-    source: "https://www.cnbc.com/2025/10/02/openai-share-sale-500-billion-valuation.html"
-    notes: "Employee/early-investor share sale. No new capital to the company. Made OpenAI the most valuable private company, surpassing SpaceX."
-
-  - stage: "Series C (Amazon / Nvidia / SoftBank)"
-    date: 2026-02-27
-    amount_m: 110000
-    valuation_m: 840000
-    lead_investors: ["Amazon", "Nvidia", "SoftBank"]
-    source: "https://techcrunch.com/2026/02/27/openai-raises-110b-in-one-of-the-largest-private-funding-rounds-in-history/"
-    notes: "Amazon $50B, Nvidia $30B, SoftBank $30B. Pre-money $730B. Largest private financing in history. Round remains open to additional investors. Includes expanded $100B AWS partnership over 8 years."
-
+- stage: Seed / Founding pledge
+  date: 2015-12
+  amount_m: 100
+  valuation_m: null
+  lead_investors:
+  - Elon Musk
+  - Sam Altman
+  - Reid Hoffman
+  - Peter Thiel
+  - Jessica Livingston
+  source: https://openai.com/index/introducing-openai/
+  notes: Announced as a $1B pledge from a group of backers; ~$100M was deployed early on. Musk contributed ~$38M (~60% of
+    initial funds).
+- stage: Corporate round (Microsoft partnership)
+  date: 2019-07
+  amount_m: 1000
+  valuation_m: null
+  lead_investors:
+  - Microsoft
+  source: https://openai.com/index/microsoft-invests-in-and-partners-with-openai/
+  notes: Roughly half in Azure credits. Coincided with creation of the capped-profit entity OpenAI LP.
+- stage: Corporate round (Microsoft Phase 2)
+  date: 2021
+  amount_m: 2000
+  valuation_m: null
+  lead_investors:
+  - Microsoft
+  source: https://www.cnbc.com/2023/04/08/microsofts-complex-bet-on-openai-brings-potential-and-uncertainty.html
+  notes: Estimated ~$2B additional from Microsoft between 2019 and early 2023. Exact breakdown uncertain.
+- stage: Corporate round (Microsoft Phase 3)
+  date: 2023-01
+  amount_m: 10000
+  valuation_m: 29000
+  lead_investors:
+  - Microsoft
+  source: https://blogs.microsoft.com/blog/2023/01/23/microsoftandopenaiextendpartnership/
+  notes: Reported as 'multiyear, multibillion dollar' -- widely cited as up to $10B. Valuation ~$29B reported at time.
+- stage: Series A (Thrive-led)
+  date: 2024-10-02
+  amount_m: 6600
+  valuation_m: 157000
+  lead_investors:
+  - Thrive Capital
+  source: https://techcrunch.com/2024/10/02/openai-raises-6-6b-and-is-now-valued-at-157b/
+  notes: 'Other investors: Microsoft (~$1B), SoftBank ($500M), Nvidia ($100M), Khosla Ventures, Altimeter Capital, Fidelity,
+    MGX. Close was contingent on OpenAI restructuring to for-profit within 2 years.'
+- stage: Series B (SoftBank-led)
+  date: 2025-03-31
+  amount_m: 40000
+  valuation_m: 300000
+  lead_investors:
+  - SoftBank
+  source: https://www.cnbc.com/2025/03/31/openai-closes-40-billion-in-funding-the-largest-private-fundraise-in-history-softbank-chatgpt.html
+  notes: Largest private funding round on record at the time.
+- stage: Secondary sale
+  date: 2025-10-02
+  amount_m: 6600
+  valuation_m: 500000
+  lead_investors:
+  - Thrive Capital
+  - SoftBank
+  - Dragoneer
+  - MGX
+  - T. Rowe Price
+  source: https://www.cnbc.com/2025/10/02/openai-share-sale-500-billion-valuation.html
+  notes: Employee/early-investor share sale. No new capital to the company. Made OpenAI the most valuable private company,
+    surpassing SpaceX.
+- stage: Series C (Amazon / Nvidia / SoftBank)
+  date: 2026-02-27
+  amount_m: 110000
+  valuation_m: 840000
+  lead_investors:
+  - Amazon
+  - Nvidia
+  - SoftBank
+  source: https://techcrunch.com/2026/02/27/openai-raises-110b-in-one-of-the-largest-private-funding-rounds-in-history/
+  notes: Amazon $50B, Nvidia $30B, SoftBank $30B. Pre-money $730B. Largest private financing in history. Round remains open
+    to additional investors. Includes expanded $100B AWS partnership over 8 years.
 founders:
-  - name: "Sam Altman"
-    role: "CEO (since 2019; co-chair 2015-2019)"
-    background: "Dropped out of Stanford. Co-founded Loopt (acquired for $43.4M). President of Y Combinator 2014-2019."
-    origin: "Jewish American (born Chicago, raised St. Louis, MO)"
-
-  - name: "Greg Brockman"
-    role: "President (formerly CTO)"
-    background: "Dropped out of MIT. Joined Stripe as its 3rd hire, became CTO. Helped scale Stripe globally."
-    origin: "American (born Thompson, North Dakota)"
-
-  - name: "Ilya Sutskever"
-    role: "Co-founder & former Chief Scientist (departed mid-2024)"
-    background: "Born in Russia, grew up in Israel, moved to Canada at 16. PhD under Geoffrey Hinton at U of Toronto. Co-authored the AlexNet paper. Led research at Google Brain before OpenAI."
-    origin: "Russian-born Israeli-Canadian (Jewish)"
-
-  - name: "Elon Musk"
-    role: "Co-chair (2015-2018, departed)"
-    background: "CEO of Tesla and SpaceX. Contributed ~$38M in early funding. Left board in 2018 citing conflict of interest with Tesla's AI work. Later sued OpenAI over mission drift; launched rival xAI."
-    origin: "South African-American"
-
-  - name: "Wojciech Zaremba"
-    role: "Co-founder"
-    background: "PhD from NYU under Yann LeCun. Researcher at Google Brain and Facebook AI Research."
-    origin: "Polish"
-
-  - name: "John Schulman"
-    role: "Co-founder (departed 2024, joined Anthropic)"
-    background: "PhD from UC Berkeley. Key contributor to reinforcement learning and RLHF methods. Left for Anthropic in Aug 2024."
-    origin: "American"
-
-  - name: "Andrej Karpathy"
-    role: "Co-founder (departed 2024)"
-    background: "PhD from Stanford under Fei-Fei Li. Led Tesla Autopilot vision team. Returned to OpenAI briefly, then departed to pursue AI education."
-    origin: "Slovak-Canadian"
-
-  - name: "Others"
-    role: "Co-founders"
-    background: "Trevor Blackwell (roboticist, YC partner), Vicki Cheung (engineer), Durk Kingma (researcher, invented Adam optimizer & VAE work), Pamela Vagata (engineer, ex-Stripe)"
-    origin: "Various"
-
-team_china_profile: "No Chinese-origin founders. OpenAI has historically had Chinese-origin researchers on staff but the company has restricted API access in China since mid-2024. No prominent mainland Chinese executives in current leadership."
-
+- name: Sam Altman
+  role: CEO (since 2019; co-chair 2015-2019)
+  background: Dropped out of Stanford. Co-founded Loopt (acquired for $43.4M). President of Y Combinator 2014-2019.
+  origin: Jewish American (born Chicago, raised St. Louis, MO)
+- name: Greg Brockman
+  role: President (formerly CTO)
+  background: Dropped out of MIT. Joined Stripe as its 3rd hire, became CTO. Helped scale Stripe globally.
+  origin: American (born Thompson, North Dakota)
+- name: Ilya Sutskever
+  role: Co-founder & former Chief Scientist (departed mid-2024)
+  background: Born in Russia, grew up in Israel, moved to Canada at 16. PhD under Geoffrey Hinton at U of Toronto. Co-authored
+    the AlexNet paper. Led research at Google Brain before OpenAI.
+  origin: Russian-born Israeli-Canadian (Jewish)
+- name: Elon Musk
+  role: Co-chair (2015-2018, departed)
+  background: CEO of Tesla and SpaceX. Contributed ~$38M in early funding. Left board in 2018 citing conflict of interest
+    with Tesla's AI work. Later sued OpenAI over mission drift; launched rival xAI.
+  origin: South African-American
+- name: Wojciech Zaremba
+  role: Co-founder
+  background: PhD from NYU under Yann LeCun. Researcher at Google Brain and Facebook AI Research.
+  origin: Polish
+- name: John Schulman
+  role: Co-founder (departed 2024, joined Anthropic)
+  background: PhD from UC Berkeley. Key contributor to reinforcement learning and RLHF methods. Left for Anthropic in Aug
+    2024.
+  origin: American
+- name: Andrej Karpathy
+  role: Co-founder (departed 2024)
+  background: PhD from Stanford under Fei-Fei Li. Led Tesla Autopilot vision team. Returned to OpenAI briefly, then departed
+    to pursue AI education.
+  origin: Slovak-Canadian
+- name: Others
+  role: Co-founders
+  background: Trevor Blackwell (roboticist, YC partner), Vicki Cheung (engineer), Durk Kingma (researcher, invented Adam optimizer
+    & VAE work), Pamela Vagata (engineer, ex-Stripe)
+  origin: Various
+team_china_profile: No Chinese-origin founders. OpenAI has historically had Chinese-origin researchers on staff but the company
+  has restricted API access in China since mid-2024. No prominent mainland Chinese executives in current leadership.
 notable_hires:
-  - "Fidji Simo -- CEO of Applications (ex-CEO Instacart, ex-Meta product VP)"
-  - "Denise Dresser -- Chief Revenue Officer (ex-CEO Slack)"
-  - "Srinivas Narayanan -- CTO of B2B Applications (internal promotion)"
-  - "Vijaye Raji -- CTO of Applications (ex-CEO Statsig, acquired by OpenAI)"
-  - "Mark Chen -- Chief Research Officer"
-  - "Jakub Pachocki -- Chief Scientist (succeeded Ilya Sutskever)"
-  - "Brad Lightcap -- COO"
-  - "Kevin Weil -- VP of AI for Science (formerly CPO)"
-
-business_model: "Multi-stream: (1) Consumer subscriptions -- ChatGPT Free/Plus ($20/mo)/Pro ($200/mo); (2) Enterprise -- ChatGPT Team (~$25-30/user/mo), ChatGPT Enterprise (custom pricing ~$60/seat); (3) API platform -- usage-based pricing for developers building on GPT models; (4) Strategic licensing deals (Apple Intelligence integration, Disney/Sora). Exploring advertising as additional revenue stream."
-
+- Fidji Simo -- CEO of Applications (ex-CEO Instacart, ex-Meta product VP)
+- Denise Dresser -- Chief Revenue Officer (ex-CEO Slack)
+- Srinivas Narayanan -- CTO of B2B Applications (internal promotion)
+- Vijaye Raji -- CTO of Applications (ex-CEO Statsig, acquired by OpenAI)
+- Mark Chen -- Chief Research Officer
+- Jakub Pachocki -- Chief Scientist (succeeded Ilya Sutskever)
+- Brad Lightcap -- COO
+- Kevin Weil -- VP of AI for Science (formerly CPO)
+business_model: 'Multi-stream: (1) Consumer subscriptions -- ChatGPT Free/Plus ($20/mo)/Pro ($200/mo); (2) Enterprise -- ChatGPT
+  Team (~$25-30/user/mo), ChatGPT Enterprise (custom pricing ~$60/seat); (3) API platform -- usage-based pricing for developers
+  building on GPT models; (4) Strategic licensing deals (Apple Intelligence integration, Disney/Sora). Exploring advertising
+  as additional revenue stream.'
 customers:
-  - "Apple (ChatGPT integration in Apple Intelligence)"
-  - "Microsoft (Azure OpenAI Service, Copilot products)"
-  - "Amazon/AWS (exclusive third-party cloud distribution for enterprise)"
-  - "Disney ($1B investment + Sora licensing deal)"
-  - "Samsung & SK (Stargate initiative partnership)"
-  - "U.S. Department of Defense / Pentagon ($200M contract)"
-  - "U.S. Government (classified + unclassified AI services via AWS)"
-  - "Mattel (AI-powered product development)"
-  - "Consulting firms: Accenture, BCG, Capgemini, McKinsey (Frontier Alliances program)"
-  - "1M+ organizations using OpenAI technology (as of Dec 2025)"
-
-revenue_signals: "ARR tripled from ~$6B (end 2024) to ~$20B (end 2025). Hit first $1B revenue month in July 2025. Sacra estimates ~$25B annualized run rate as of Feb 2026. 910M weekly active users. 9M+ paying business users. Projects $280B revenue by 2030. Despite revenue growth, company projects ~$14B in losses for 2026 due to massive compute spend."
-
+- Apple (ChatGPT integration in Apple Intelligence)
+- Microsoft (Azure OpenAI Service, Copilot products)
+- Amazon/AWS (exclusive third-party cloud distribution for enterprise)
+- Disney ($1B investment + Sora licensing deal)
+- Samsung & SK (Stargate initiative partnership)
+- U.S. Department of Defense / Pentagon ($200M contract)
+- U.S. Government (classified + unclassified AI services via AWS)
+- Mattel (AI-powered product development)
+- 'Consulting firms: Accenture, BCG, Capgemini, McKinsey (Frontier Alliances program)'
+- 1M+ organizations using OpenAI technology (as of Dec 2025)
+revenue_signals: ARR tripled from ~$6B (end 2024) to ~$20B (end 2025). Hit first $1B revenue month in July 2025. Sacra estimates
+  ~$25B annualized run rate as of Feb 2026. 910M weekly active users. 9M+ paying business users. Projects $280B revenue by
+  2030. Despite revenue growth, company projects ~$14B in losses for 2026 due to massive compute spend.
 sources:
-  - "https://techcrunch.com/2026/02/27/openai-raises-110b-in-one-of-the-largest-private-funding-rounds-in-history/"
-  - "https://www.cnbc.com/2026/02/27/open-ai-funding-round-amazon.html"
-  - "https://www.cnbc.com/2025/03/31/openai-closes-40-billion-in-funding-the-largest-private-fundraise-in-history-softbank-chatgpt.html"
-  - "https://techcrunch.com/2024/10/02/openai-raises-6-6b-and-is-now-valued-at-157b/"
-  - "https://www.cnbc.com/2025/10/02/openai-share-sale-500-billion-valuation.html"
-  - "https://blogs.microsoft.com/blog/2023/01/23/microsoftandopenaiextendpartnership/"
-  - "https://openai.com/index/microsoft-invests-in-and-partners-with-openai/"
-  - "https://en.wikipedia.org/wiki/OpenAI"
-  - "https://en.wikipedia.org/wiki/Sam_Altman"
-  - "https://en.wikipedia.org/wiki/Ilya_Sutskever"
-  - "https://www.pymnts.com/artificial-intelligence-2/2026/openais-annual-recurring-revenue-tripled-to-20-billion-in-2025/"
-  - "https://fortune.com/2026/02/20/openai-revenue-forecast-280-billion-2030-capex-sam-altman/"
-  - "https://techcrunch.com/2025/10/28/openai-completes-its-for-profit-recapitalization/"
-  - "https://breakingdefense.com/2025/06/openai-for-government-launches-with-200m-win-from-pentagon-cdao/"
-  - "https://digitaldefynd.com/IQ/meet-the-c-suite-executive-team-of-openai/"
-  - "https://www.rdworldonline.com/facing-14b-losses-in-2026-openai-is-now-seeking-100b-in-funding-but-can-it-ever-turn-a-profit/"
-  - "https://news.crunchbase.com/venture/openai-raise-largest-ai-venture-deal-ever/"
-
+- https://techcrunch.com/2026/02/27/openai-raises-110b-in-one-of-the-largest-private-funding-rounds-in-history/
+- https://www.cnbc.com/2026/02/27/open-ai-funding-round-amazon.html
+- https://www.cnbc.com/2025/03/31/openai-closes-40-billion-in-funding-the-largest-private-fundraise-in-history-softbank-chatgpt.html
+- https://techcrunch.com/2024/10/02/openai-raises-6-6b-and-is-now-valued-at-157b/
+- https://www.cnbc.com/2025/10/02/openai-share-sale-500-billion-valuation.html
+- https://blogs.microsoft.com/blog/2023/01/23/microsoftandopenaiextendpartnership/
+- https://openai.com/index/microsoft-invests-in-and-partners-with-openai/
+- https://en.wikipedia.org/wiki/OpenAI
+- https://en.wikipedia.org/wiki/Sam_Altman
+- https://en.wikipedia.org/wiki/Ilya_Sutskever
+- https://www.pymnts.com/artificial-intelligence-2/2026/openais-annual-recurring-revenue-tripled-to-20-billion-in-2025/
+- https://fortune.com/2026/02/20/openai-revenue-forecast-280-billion-2030-capex-sam-altman/
+- https://techcrunch.com/2025/10/28/openai-completes-its-for-profit-recapitalization/
+- https://breakingdefense.com/2025/06/openai-for-government-launches-with-200m-win-from-pentagon-cdao/
+- https://digitaldefynd.com/IQ/meet-the-c-suite-executive-team-of-openai/
+- https://www.rdworldonline.com/facing-14b-losses-in-2026-openai-is-now-seeking-100b-in-funding-but-can-it-ever-turn-a-profit/
+- https://news.crunchbase.com/venture/openai-raise-largest-ai-venture-deal-ever/
 last_updated: 2026-03-20
 confidence: high
+website_verified: true
 ---
 
 # OpenAI

@@ -36,6 +36,8 @@ founders:
   background: Ex-Meta AI. Co-invented EnCodec, MusicGen.
   origin: French
 website: https://gradium.org
+website_verified: false
+data_notes: 'Website URL may be invalid (Connection failed). '
 ---
 
 # Gradium

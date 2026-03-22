@@ -16,6 +16,7 @@ confidence: medium
 one_liner: AI digital workers starting with Ava, an AI BDR automating B2B sales outbound. 250 customers, $5M ARR.
 website: https://artisan.co
 total_funding: 46
+website_verified: true
 ---
 
 # Artisan AI

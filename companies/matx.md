@@ -12,6 +12,7 @@ website: https://matx.com
 last_updated: 2026-03-20
 one_liner: MatX is designing a custom AI chip -- the MatX One -- built from the ground up specifically for training large
   language models
+website_verified: true
 ---
 
 # MatX

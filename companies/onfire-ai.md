@@ -22,6 +22,7 @@ founders:
   role: CEO
   background: Unit 8200 alumnus.
   origin: Israeli
+data_notes: 'Needs verification: website, source_urls. Profile may be incomplete.'
 ---
 
 # Onfire AI

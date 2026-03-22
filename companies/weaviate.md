@@ -1,107 +1,125 @@
 ---
-name: "Weaviate"
+name: Weaviate
 status: active
 founded: 2019
-hq: "Amsterdam, Netherlands"
-website: "https://weaviate.io"
-sector: ["vector databases", "AI infrastructure", "search", "open-source software"]
-one_liner: "Open-source, AI-native vector database built in Go, founded by Dutch entrepreneur Bob van Luijt who started coding at 15 and studied jazz composition before pivoting to infrastructure."
-logo: "https://weaviate.io/favicon.ico"
-
+hq: Amsterdam, Netherlands
+website: https://weaviate.io
+sector:
+- vector databases
+- AI infrastructure
+- search
+- open-source software
+one_liner: Open-source, AI-native vector database built in Go, founded by Dutch entrepreneur Bob van Luijt who started coding
+  at 15 and studied jazz composition before pivoting to infrastructure.
+logo: https://weaviate.io/favicon.ico
 total_raised_m: 117.6
 latest_valuation_m: 200
 funding_rounds:
-  - stage: "Seed"
-    date: 2020-08
-    amount_m: 1.6
-    valuation_m: ~
-    lead_investors: ["Zetta Venture Partners"]
-    source: "https://www.prnewswire.com/news-releases/semi-technologies-16m-series-a-round-highlights-a-new-wave-of-ai-first-database-tech-301486766.html"
-    notes: "ING Ventures also participated. Raised under the original company name SeMI Technologies."
-
-  - stage: "Series A"
-    date: 2022-02
-    amount_m: 16
-    valuation_m: ~
-    lead_investors: ["New Enterprise Associates (NEA)", "Cortical Ventures"]
-    source: "https://www.prnewswire.com/news-releases/semi-technologies-16m-series-a-round-highlights-a-new-wave-of-ai-first-database-tech-301486766.html"
-    notes: "Co-led by NEA and Cortical Ventures. Zetta Venture Partners and ING Ventures also participated. Still operating as SeMI Technologies."
-
-  - stage: "Series B"
-    date: 2023-04
-    amount_m: 50
-    valuation_m: ~
-    lead_investors: ["Index Ventures"]
-    source: "https://www.prnewswire.com/news-releases/weaviate-raises-50-million-series-b-funding-to-meet-soaring-demand-for-ai-native-vector-database-technology-301803296.html"
-    notes: "Battery Ventures participated. Existing investors NEA, Cortical Ventures, Zetta Venture Partners, and ING Ventures also joined. Company had rebranded from SeMI Technologies to Weaviate by this point."
-
-  - stage: "Series C"
-    date: 2025-10
-    amount_m: 50
-    valuation_m: 200
-    lead_investors: ["Battery Ventures", "Zetta Venture Partners"]
-    source: "https://salestools.io/en/report/weaviate-raises-50m-series-c"
-    notes: "$200M valuation reported by SalesTools AI. Note: some sources report total raised as $67.6M rather than $117.6M -- there may be discrepancies in how earlier rounds are counted. The $117.6M figure sums all four rounds above."
-
+- stage: Seed
+  date: 2020-08
+  amount_m: 1.6
+  valuation_m: null
+  lead_investors:
+  - Zetta Venture Partners
+  source: https://www.prnewswire.com/news-releases/semi-technologies-16m-series-a-round-highlights-a-new-wave-of-ai-first-database-tech-301486766.html
+  notes: ING Ventures also participated. Raised under the original company name SeMI Technologies.
+- stage: Series A
+  date: 2022-02
+  amount_m: 16
+  valuation_m: null
+  lead_investors:
+  - New Enterprise Associates (NEA)
+  - Cortical Ventures
+  source: https://www.prnewswire.com/news-releases/semi-technologies-16m-series-a-round-highlights-a-new-wave-of-ai-first-database-tech-301486766.html
+  notes: Co-led by NEA and Cortical Ventures. Zetta Venture Partners and ING Ventures also participated. Still operating as
+    SeMI Technologies.
+- stage: Series B
+  date: 2023-04
+  amount_m: 50
+  valuation_m: null
+  lead_investors:
+  - Index Ventures
+  source: https://www.prnewswire.com/news-releases/weaviate-raises-50-million-series-b-funding-to-meet-soaring-demand-for-ai-native-vector-database-technology-301803296.html
+  notes: Battery Ventures participated. Existing investors NEA, Cortical Ventures, Zetta Venture Partners, and ING Ventures
+    also joined. Company had rebranded from SeMI Technologies to Weaviate by this point.
+- stage: Series C
+  date: 2025-10
+  amount_m: 50
+  valuation_m: 200
+  lead_investors:
+  - Battery Ventures
+  - Zetta Venture Partners
+  source: https://salestools.io/en/report/weaviate-raises-50m-series-c
+  notes: '$200M valuation reported by SalesTools AI. Note: some sources report total raised as $67.6M rather than $117.6M
+    -- there may be discrepancies in how earlier rounds are counted. The $117.6M figure sums all four rounds above.'
 founders:
-  - name: "Bob van Luijt"
-    role: "Co-Founder & CEO"
-    background: "Born November 15, 1985 in Bergen op Zoom, Netherlands. Started his own software company at age 15. Studied jazz and electronic composition at Artez Institute of the Arts (bachelor's degree). Attended Berklee College of Music in the US on a VSBfonds scholarship and Berklee World Scholarship. Completed Harvard Business School Program of Management Excellence. Ran a strategic design and software consultancy called Kubrickology (named after Stanley Kubrick). Started the Weaviate open-source project in March 2016. Shut down Kubrickology to co-found SeMI Technologies (later renamed Weaviate). Also an angel investor."
-    origin: "Dutch. Born in Bergen op Zoom, Netherlands. Studied in the Netherlands and US. An unusual founder profile -- trained as a musician who self-taught programming from adolescence. His work sits at the intersection of language, music, and digital infrastructure."
-
-  - name: "Etienne Dilocker"
-    role: "Co-Founder & CTO"
-    background: "Deep-tech background focused on distributed systems and cloud technology. Expertise in Golang, database development, cloud-native technology, and performance programming. Former freelance software engineer. Managing Director at Dilocker Software Engineering & Consulting GmbH. Current research interests include auto-scaling databases and new vector-index types for resource-efficient vector search at scale."
-    origin: "German. Based in Mannheim, Germany."
-
-  - name: "Micha Verhagen"
-    role: "Co-Founder"
-    background: "Limited public information available. Co-founded SeMI Technologies in 2019 alongside Van Luijt and Dilocker."
-    origin: "Dutch (uncertain -- based on name and Amsterdam founding)."
-
-team_china_profile: "No known Chinese-origin founders. The founding team is Dutch and German. No significant public China connections."
-
+- name: Bob van Luijt
+  role: Co-Founder & CEO
+  background: Born November 15, 1985 in Bergen op Zoom, Netherlands. Started his own software company at age 15. Studied jazz
+    and electronic composition at Artez Institute of the Arts (bachelor's degree). Attended Berklee College of Music in the
+    US on a VSBfonds scholarship and Berklee World Scholarship. Completed Harvard Business School Program of Management Excellence.
+    Ran a strategic design and software consultancy called Kubrickology (named after Stanley Kubrick). Started the Weaviate
+    open-source project in March 2016. Shut down Kubrickology to co-found SeMI Technologies (later renamed Weaviate). Also
+    an angel investor.
+  origin: Dutch. Born in Bergen op Zoom, Netherlands. Studied in the Netherlands and US. An unusual founder profile -- trained
+    as a musician who self-taught programming from adolescence. His work sits at the intersection of language, music, and
+    digital infrastructure.
+- name: Etienne Dilocker
+  role: Co-Founder & CTO
+  background: Deep-tech background focused on distributed systems and cloud technology. Expertise in Golang, database development,
+    cloud-native technology, and performance programming. Former freelance software engineer. Managing Director at Dilocker
+    Software Engineering & Consulting GmbH. Current research interests include auto-scaling databases and new vector-index
+    types for resource-efficient vector search at scale.
+  origin: German. Based in Mannheim, Germany.
+- name: Micha Verhagen
+  role: Co-Founder
+  background: Limited public information available. Co-founded SeMI Technologies in 2019 alongside Van Luijt and Dilocker.
+  origin: Dutch (uncertain -- based on name and Amsterdam founding).
+team_china_profile: No known Chinese-origin founders. The founding team is Dutch and German. No significant public China connections.
 notable_hires: []
-
-business_model: "Open-core SaaS. The core Weaviate vector database is open-source (BSD-3 license) and free to self-host. Revenue comes from Weaviate Cloud Services, offered in three tiers: (1) Shared Cloud (formerly Serverless Cloud) -- multi-tenant, pay-as-you-go; (2) Dedicated Cloud (formerly Enterprise Cloud) -- fully managed dedicated resources with enterprise-grade support, RBAC, SOC 2, HIPAA compliance; (3) Bring Your Own Cloud (BYOC) -- Weaviate manages the database on the customer's cloud infrastructure. Enterprise pricing is based on annual contracts using AI Units (AIUs), with AWS and Azure Marketplace starting contracts at $10,000 for 12 months. Pricing updated October 27, 2025 with new dimensions including storage and backups, regional pricing variations, and HA cluster options."
-
+business_model: 'Open-core SaaS. The core Weaviate vector database is open-source (BSD-3 license) and free to self-host. Revenue
+  comes from Weaviate Cloud Services, offered in three tiers: (1) Shared Cloud (formerly Serverless Cloud) -- multi-tenant,
+  pay-as-you-go; (2) Dedicated Cloud (formerly Enterprise Cloud) -- fully managed dedicated resources with enterprise-grade
+  support, RBAC, SOC 2, HIPAA compliance; (3) Bring Your Own Cloud (BYOC) -- Weaviate manages the database on the customer''s
+  cloud infrastructure. Enterprise pricing is based on annual contracts using AI Units (AIUs), with AWS and Azure Marketplace
+  starting contracts at $10,000 for 12 months. Pricing updated October 27, 2025 with new dimensions including storage and
+  backups, regional pricing variations, and HA cluster options.'
 customers:
-  - "Instabase (50K+ tenants, 450+ data types indexed for a single customer solution)"
-  - "Red Hat"
-  - "NetApp"
-  - "Morningstar"
-  - "Cisco"
-  - "Bunq"
-  - "Stack AI"
-  - "2,000+ companies in production (as of Series B announcement, 2023)"
-  - "50,000+ AI builders in the community (as of 2025)"
-
-revenue_signals: "$12.3M annual revenue in 2024, per Latka. 104 employees at that time, implying ~$118K revenue per employee. Employee count grew 68% in 2024. Employee count has since contracted to ~81 as of February 2026, which may indicate cost discipline or restructuring. No public 2025 revenue figures found."
-
+- Instabase (50K+ tenants, 450+ data types indexed for a single customer solution)
+- Red Hat
+- NetApp
+- Morningstar
+- Cisco
+- Bunq
+- Stack AI
+- 2,000+ companies in production (as of Series B announcement, 2023)
+- 50,000+ AI builders in the community (as of 2025)
+revenue_signals: $12.3M annual revenue in 2024, per Latka. 104 employees at that time, implying ~$118K revenue per employee.
+  Employee count grew 68% in 2024. Employee count has since contracted to ~81 as of February 2026, which may indicate cost
+  discipline or restructuring. No public 2025 revenue figures found.
 employee_count: 81
-
 sources:
-  - "https://en.wikipedia.org/wiki/Bob_van_Luijt"
-  - "https://weaviate.io/blog/history-of-weaviate"
-  - "https://www.prnewswire.com/news-releases/semi-technologies-becomes-weaviate-301724752.html"
-  - "https://www.prnewswire.com/news-releases/semi-technologies-16m-series-a-round-highlights-a-new-wave-of-ai-first-database-tech-301486766.html"
-  - "https://www.prnewswire.com/news-releases/weaviate-raises-50-million-series-b-funding-to-meet-soaring-demand-for-ai-native-vector-database-technology-301803296.html"
-  - "https://salestools.io/en/report/weaviate-raises-50m-series-c"
-  - "https://siliconangle.com/2023/04/21/weaviate-reels-50m-ai-optimized-vector-database/"
-  - "https://getlatka.com/companies/weaviate"
-  - "https://tracxn.com/d/companies/weaviate/__6vJGlhlx8N1NQ5WqqS3DhNPZ8g9-UVgpCmtvJfycvOk"
-  - "https://weaviate.io/blog/enterprise-use-cases-weaviate"
-  - "https://weaviate.io/blog/weaviate-cloud-pricing-update"
-  - "https://weaviate.io/case-studies/instabase"
-  - "https://careers.weaviate.io/people/1332062-etienne-dilocker"
-  - "https://www.frontlines.io/podcasts/bob-van-luijt/"
-  - "https://github.com/weaviate/weaviate"
-  - "https://siliconcanals.com/semi-technologies-raises-14-1m/"
-  - "https://www.clay.com/dossier/weaviate-funding"
-  - "https://cloud.google.com/customers/weaviate"
-
+- https://en.wikipedia.org/wiki/Bob_van_Luijt
+- https://weaviate.io/blog/history-of-weaviate
+- https://www.prnewswire.com/news-releases/semi-technologies-becomes-weaviate-301724752.html
+- https://www.prnewswire.com/news-releases/semi-technologies-16m-series-a-round-highlights-a-new-wave-of-ai-first-database-tech-301486766.html
+- https://www.prnewswire.com/news-releases/weaviate-raises-50-million-series-b-funding-to-meet-soaring-demand-for-ai-native-vector-database-technology-301803296.html
+- https://salestools.io/en/report/weaviate-raises-50m-series-c
+- https://siliconangle.com/2023/04/21/weaviate-reels-50m-ai-optimized-vector-database/
+- https://getlatka.com/companies/weaviate
+- https://tracxn.com/d/companies/weaviate/__6vJGlhlx8N1NQ5WqqS3DhNPZ8g9-UVgpCmtvJfycvOk
+- https://weaviate.io/blog/enterprise-use-cases-weaviate
+- https://weaviate.io/blog/weaviate-cloud-pricing-update
+- https://weaviate.io/case-studies/instabase
+- https://careers.weaviate.io/people/1332062-etienne-dilocker
+- https://www.frontlines.io/podcasts/bob-van-luijt/
+- https://github.com/weaviate/weaviate
+- https://siliconcanals.com/semi-technologies-raises-14-1m/
+- https://www.clay.com/dossier/weaviate-funding
+- https://cloud.google.com/customers/weaviate
 last_updated: 2026-03-20
 confidence: medium
+website_verified: true
 ---
 
 # Weaviate

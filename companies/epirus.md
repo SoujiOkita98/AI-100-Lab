@@ -1,88 +1,101 @@
 ---
-name: "Epirus"
+name: Epirus
 status: active
 founded: 2018
-hq: "Torrance, California"
-website: "https://www.epirusinc.com"
-sector: [defense-govtech, directed-energy, counter-drone]
-one_liner: "Directed-energy weapons company building high-power microwave systems to counter drones and electronic threats."
-
+hq: Torrance, California
+website: https://www.epirusinc.com
+sector:
+- defense-govtech
+- directed-energy
+- counter-drone
+one_liner: Directed-energy weapons company building high-power microwave systems to counter drones and electronic threats.
 total_raised_m: 550
-latest_valuation_m: 1350   # Confirmed >$1B; last public valuation was $1.35B from Series C
+latest_valuation_m: 1350
 funding_rounds:
-  - stage: "Seed"
-    date: 2019-01
-    amount_m:             # Undisclosed
-    valuation_m:
-    lead_investors: []
-    source: "https://research.contrary.com/company/epirus"
-  - stage: "Series A"
-    date: 2020-06
-    amount_m: 6.5
-    valuation_m:
-    lead_investors: []
-    source: "https://research.contrary.com/company/epirus"
-  - stage: "Series B"
-    date: 2021-06
-    amount_m: 70
-    valuation_m:
-    lead_investors: ["8VC"]
-    source: "https://www.epirusinc.com/press-releases/epirus-inc-raises-70m-in-series-b-funding-advancing-directed-energy-for-defense-and-commercial-applications"
-  - stage: "Series C"
-    date: 2022-02
-    amount_m: 200
-    valuation_m: 1350
-    lead_investors: ["8VC"]
-    source: "https://techstartups.com/2022/02/15/directed-energy-weapon-tech-startup-epirus-gets-200m-cash-infusion-develop-drone-zapping-weapons-u-s-military-now-valued-1-35-billion/"
-  - stage: "Series D"
-    date: 2025-03
-    amount_m: 250
-    valuation_m:          # Confirmed >$1B but specific post-money not disclosed
-    lead_investors: ["8VC", "Washington Harbour Partners"]
-    source: "https://techcrunch.com/2025/03/04/defense-tech-startup-epirus-raises-250m-series-d-to-counter-drone-swarms/"
-
+- stage: Seed
+  date: 2019-01
+  amount_m: null
+  valuation_m: null
+  lead_investors: []
+  source: https://research.contrary.com/company/epirus
+- stage: Series A
+  date: 2020-06
+  amount_m: 6.5
+  valuation_m: null
+  lead_investors: []
+  source: https://research.contrary.com/company/epirus
+- stage: Series B
+  date: 2021-06
+  amount_m: 70
+  valuation_m: null
+  lead_investors:
+  - 8VC
+  source: https://www.epirusinc.com/press-releases/epirus-inc-raises-70m-in-series-b-funding-advancing-directed-energy-for-defense-and-commercial-applications
+- stage: Series C
+  date: 2022-02
+  amount_m: 200
+  valuation_m: 1350
+  lead_investors:
+  - 8VC
+  source: https://techstartups.com/2022/02/15/directed-energy-weapon-tech-startup-epirus-gets-200m-cash-infusion-develop-drone-zapping-weapons-u-s-military-now-valued-1-35-billion/
+- stage: Series D
+  date: 2025-03
+  amount_m: 250
+  valuation_m: null
+  lead_investors:
+  - 8VC
+  - Washington Harbour Partners
+  source: https://techcrunch.com/2025/03/04/defense-tech-startup-epirus-raises-250m-series-d-to-counter-drone-swarms/
 founders:
-  - name: "Bo Marr"
-    role: "Co-Founder"
-    background: "Defense technology entrepreneur. Also co-founded Chaos Industries. Background in electromagnetic systems and directed-energy technology."
-    origin: "American"
-  - name: "Joe Lonsdale"
-    role: "Co-Founder"
-    background: "Co-founder of Palantir Technologies and managing partner of 8VC. Stanford University graduate. One of the most prolific defense tech investors and company builders in Silicon Valley."
-    origin: "American"
-  - name: "John Tenet"
-    role: "Co-Founder"
-    background: "Defense tech entrepreneur who later co-founded Chaos Industries. Background in defense technology and electronic warfare."
-    origin: "American"
-  - name: "Max Mednik"
-    role: "Co-Founder"
-    background: "Technology entrepreneur and investor. Background in building technology companies."
-    origin: "American"
-  - name: "Nathan Mintz"
-    role: "Co-Founder"
-    background: "Defense technology entrepreneur with expertise in directed-energy systems and counter-electronics applications."
-    origin: "American"
-
-team_china_profile: "No China connection. Founders are American with deep ties to US defense and intelligence communities. Joe Lonsdale co-founded Palantir, one of the most US-government-aligned technology companies. Epirus works exclusively for the US military and allied forces."
-
-business_model: "Defense hardware company building directed-energy weapon systems. The flagship product, Leonidas, is a solid-state high-power microwave (HPM) system that defeats drones and drone swarms by frying their electronics. Revenue comes from US DoD contracts, production orders for Leonidas systems, and R&D contracts. The company is scaling manufacturing to meet growing demand for counter-drone solutions."
+- name: Bo Marr
+  role: Co-Founder
+  background: Defense technology entrepreneur. Also co-founded Chaos Industries. Background in electromagnetic systems and
+    directed-energy technology.
+  origin: American
+- name: Joe Lonsdale
+  role: Co-Founder
+  background: Co-founder of Palantir Technologies and managing partner of 8VC. Stanford University graduate. One of the most
+    prolific defense tech investors and company builders in Silicon Valley.
+  origin: American
+- name: John Tenet
+  role: Co-Founder
+  background: Defense tech entrepreneur who later co-founded Chaos Industries. Background in defense technology and electronic
+    warfare.
+  origin: American
+- name: Max Mednik
+  role: Co-Founder
+  background: Technology entrepreneur and investor. Background in building technology companies.
+  origin: American
+- name: Nathan Mintz
+  role: Co-Founder
+  background: Defense technology entrepreneur with expertise in directed-energy systems and counter-electronics applications.
+  origin: American
+team_china_profile: No China connection. Founders are American with deep ties to US defense and intelligence communities.
+  Joe Lonsdale co-founded Palantir, one of the most US-government-aligned technology companies. Epirus works exclusively for
+  the US military and allied forces.
+business_model: Defense hardware company building directed-energy weapon systems. The flagship product, Leonidas, is a solid-state
+  high-power microwave (HPM) system that defeats drones and drone swarms by frying their electronics. Revenue comes from US
+  DoD contracts, production orders for Leonidas systems, and R&D contracts. The company is scaling manufacturing to meet growing
+  demand for counter-drone solutions.
 customers:
-  - "U.S. Department of Defense"
-  - "U.S. Army"
-  - "U.S. Marine Corps"
-  - "U.S. Special Operations Command"
-  - "International allied military forces"
-revenue_signals: "Total funding >$550M. Series D funds earmarked for scaling Leonidas production. Multiple DoD testing and evaluation contracts completed. The company is transitioning from R&D to production scaling. [Confidence: low -- no public revenue figures.]"
-
+- U.S. Department of Defense
+- U.S. Army
+- U.S. Marine Corps
+- U.S. Special Operations Command
+- International allied military forces
+revenue_signals: 'Total funding >$550M. Series D funds earmarked for scaling Leonidas production. Multiple DoD testing and
+  evaluation contracts completed. The company is transitioning from R&D to production scaling. [Confidence: low -- no public
+  revenue figures.]'
 sources:
-  - "https://techcrunch.com/2025/03/04/defense-tech-startup-epirus-raises-250m-series-d-to-counter-drone-swarms/"
-  - "https://www.epirusinc.com/press-releases/epirus-closes-250m-series-d-to-hyperscale-leonidas-production-capability-for-critical-asset-protection"
-  - "https://research.contrary.com/company/epirus"
-  - "https://news.crunchbase.com/defense-tech/startup-epirus-secures-funding-anti-drone-tech-8vc/"
-  - "https://www.axios.com/2025/03/05/epirus-directed-energy-drone-funding"
-  - "https://techstartups.com/2022/02/15/directed-energy-weapon-tech-startup-epirus-gets-200m-cash-infusion-develop-drone-zapping-weapons-u-s-military-now-valued-1-35-billion/"
+- https://techcrunch.com/2025/03/04/defense-tech-startup-epirus-raises-250m-series-d-to-counter-drone-swarms/
+- https://www.epirusinc.com/press-releases/epirus-closes-250m-series-d-to-hyperscale-leonidas-production-capability-for-critical-asset-protection
+- https://research.contrary.com/company/epirus
+- https://news.crunchbase.com/defense-tech/startup-epirus-secures-funding-anti-drone-tech-8vc/
+- https://www.axios.com/2025/03/05/epirus-directed-energy-drone-funding
+- https://techstartups.com/2022/02/15/directed-energy-weapon-tech-startup-epirus-gets-200m-cash-infusion-develop-drone-zapping-weapons-u-s-military-now-valued-1-35-billion/
 last_updated: 2026-03-20
 confidence: medium
+website_verified: true
 ---
 
 # Epirus

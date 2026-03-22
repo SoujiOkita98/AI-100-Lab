@@ -40,6 +40,7 @@ total_funding: 250
 latest_valuation: 1700
 last_updated: 2026-03-21
 confidence: medium
+website_verified: true
 ---
 
 # LMArena

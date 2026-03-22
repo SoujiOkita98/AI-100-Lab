@@ -20,6 +20,7 @@ founders:
   background: Rhodes Scholar, physicist. Ex-McKinsey. Former CTO ReNew (India largest renewable). Biden admin adviser to John
     Kerry.
   origin: Indian-American
+data_notes: 'Needs verification: website, source_urls, headquarters. Profile may be incomplete.'
 ---
 
 # Emerald AI

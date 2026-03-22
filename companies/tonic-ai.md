@@ -57,6 +57,7 @@ key_acquisitions:
   rationale: Mock data generation tool to enhance synthetic data capabilities
 one_liner: Tonic.ai is a synthetic data platform that generates realistic, de-identified versions of production databases
   for software development, testing, and AI/ML training
+website_verified: true
 ---
 
 # Tonic.ai

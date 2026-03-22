@@ -16,6 +16,8 @@ research_date: 2026-03-20
 confidence: medium
 one_liner: Callosum is a London-based startup building software that orchestrates AI workloads across heterogeneous chip architectures
   -- NVIDIA, AMD, AWS Trainium/Inferentia, Cerebras, SambaNova, and others
+website_verified: false
+data_notes: 'Website URL may be invalid (Connection failed). '
 ---
 
 # Callosum

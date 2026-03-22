@@ -11,140 +11,127 @@ employees_approx: ~332 (as of February 2026)
 total_funding_approx: ~$641M–$683M
 latest_valuation: ~$2.1B (post-money, March 2025)
 latest_round: Series C
+note: 'In March 2026, Agility Robotics rebranded to simply "Agility" to signal expansion beyond hardware into software/services.
+  This profile uses the original name for clarity.
 
-note: >
-  In March 2026, Agility Robotics rebranded to simply "Agility" to signal
-  expansion beyond hardware into software/services. This profile uses the
-  original name for clarity.
-
+  '
 founders:
-  - name: Jonathan Hurst
-    role: Co-Founder & Chief Robot Officer
-    background: >
-      B.S. in Mechanical Engineering, M.S. and Ph.D. in Robotics, all from
-      Carnegie Mellon University. Professor at Oregon State University, where
-      he co-founded the OSU Robotics Institute and ran the Dynamic Robotics
-      Laboratory. His academic research on physics-based legged locomotion
-      formed the scientific foundation for Cassie and Digit. Transitioned
-      from CTO to Chief Robot Officer in April 2023 to focus on R&D roadmap,
-      industrial design, and innovation pipeline. Remains on OSU faculty.
-    origin: American
-    source: https://engineering.oregonstate.edu/people/jonathan-hurst
+- name: Jonathan Hurst
+  role: Co-Founder & Chief Robot Officer
+  background: 'B.S. in Mechanical Engineering, M.S. and Ph.D. in Robotics, all from Carnegie Mellon University. Professor
+    at Oregon State University, where he co-founded the OSU Robotics Institute and ran the Dynamic Robotics Laboratory. His
+    academic research on physics-based legged locomotion formed the scientific foundation for Cassie and Digit. Transitioned
+    from CTO to Chief Robot Officer in April 2023 to focus on R&D roadmap, industrial design, and innovation pipeline. Remains
+    on OSU faculty.
 
-  - name: Damion Shelton
-    role: Co-Founder & Chairman of the Board (formerly CEO, then President, then Chief Engagement Officer)
-    background: >
-      Ph.D. in Robotics from Carnegie Mellon University, where he met Hurst.
-      Served as CEO from founding through March 2024, then transitioned to
-      President, and later to Chief Engagement Officer (December 2024),
-      focusing on commercial and investor engagement. Now serves as Chairman.
-    origin: American
-    source: https://www.agilityrobotics.com/about/leadership
+    '
+  origin: American
+  source: https://engineering.oregonstate.edu/people/jonathan-hurst
+- name: Damion Shelton
+  role: Co-Founder & Chairman of the Board (formerly CEO, then President, then Chief Engagement Officer)
+  background: 'Ph.D. in Robotics from Carnegie Mellon University, where he met Hurst. Served as CEO from founding through
+    March 2024, then transitioned to President, and later to Chief Engagement Officer (December 2024), focusing on commercial
+    and investor engagement. Now serves as Chairman.
 
-  - name: Mikhail Jones
-    role: Co-Founder & VP of Software
-    background: >
-      Was Jonathan Hurst's graduate student at Oregon State University.
-      Leads software development for Digit.
-    origin: "[not publicly detailed]"
+    '
+  origin: American
+  source: https://www.agilityrobotics.com/about/leadership
+- name: Mikhail Jones
+  role: Co-Founder & VP of Software
+  background: 'Was Jonathan Hurst''s graduate student at Oregon State University. Leads software development for Digit.
 
+    '
+  origin: '[not publicly detailed]'
 key_people:
-  - name: Peggy Johnson
-    role: CEO (appointed March 2024)
-    background: >
-      Former CEO of Magic Leap, where she led the pivot from consumer to
-      enterprise and recapitalized the company. Before Magic Leap, spent six
-      years as EVP of Business Development at Microsoft reporting to Satya
-      Nadella, driving strategic partnerships and transactions. Prior to
-      Microsoft, 24 years at Qualcomm. Electrical engineering degree from
-      San Diego State University.
-    source: https://www.agilityrobotics.com/content/agility-robotics-appoints-peggy-johnson-as-chief-executive-officer
+- name: Peggy Johnson
+  role: CEO (appointed March 2024)
+  background: 'Former CEO of Magic Leap, where she led the pivot from consumer to enterprise and recapitalized the company.
+    Before Magic Leap, spent six years as EVP of Business Development at Microsoft reporting to Satya Nadella, driving strategic
+    partnerships and transactions. Prior to Microsoft, 24 years at Qualcomm. Electrical engineering degree from San Diego
+    State University.
 
-  - name: Melonee Wise (former)
-    role: Former CTO (2023), then Chief Product Officer (2024); departed early 2025
-    background: >
-      Founded Fetch Robotics (autonomous mobile robots for warehouses),
-      which was acquired by Zebra Technologies in 2021 for ~$290M. A
-      well-known figure in warehouse robotics. Joined Agility as CTO in
-      May 2023 but left in early 2025.
-    source: https://techcrunch.com/2023/05/22/fetch-founder-melonee-wise-joins-agility-robotics-at-cto/
+    '
+  source: https://www.agilityrobotics.com/content/agility-robotics-appoints-peggy-johnson-as-chief-executive-officer
+- name: Melonee Wise (former)
+  role: Former CTO (2023), then Chief Product Officer (2024); departed early 2025
+  background: 'Founded Fetch Robotics (autonomous mobile robots for warehouses), which was acquired by Zebra Technologies
+    in 2021 for ~$290M. A well-known figure in warehouse robotics. Joined Agility as CTO in May 2023 but left in early 2025.
 
+    '
+  source: https://techcrunch.com/2023/05/22/fetch-founder-melonee-wise-joins-agility-robotics-at-cto/
 funding_rounds:
-  - stage: Seed / Early Grants
-    date: "2015–2017"
-    amount: "[undisclosed; includes ONAMI and OSU-related support]"
-    valuation: "[not disclosed]"
-    lead_investors:
-      - ONAMI (Oregon Nanoscience and Microtechnologies Institute)
-    source: https://onami.us/onami-success-stories/agility-robotics
+- stage: Seed / Early Grants
+  date: 2015–2017
+  amount: '[undisclosed; includes ONAMI and OSU-related support]'
+  valuation: '[not disclosed]'
+  lead_investors:
+  - ONAMI (Oregon Nanoscience and Microtechnologies Institute)
+  source: https://onami.us/onami-success-stories/agility-robotics
+- stage: Series A
+  date: '2018'
+  amount: $8M
+  valuation: '[not disclosed]'
+  lead_investors:
+  - Playground Global
+  other_investors:
+  - Sony Innovation Fund
+  - Robotics Hub
+  source: https://onami.us/onami-success-stories/agility-robotics-secures-8m-series-a-funding
+- stage: Series B
+  date: 2022-04
+  amount: $150M
+  valuation: '[not disclosed]'
+  lead_investors:
+  - DCVC
+  - Playground Global
+  other_investors:
+  - Amazon Industrial Innovation Fund
+  - MFV Partners
+  - ITIC
+  - Robotics Hub
+  - Safar Partners
+  - Sony Innovation Fund
+  - TDK Ventures
+  notes: 'Amazon''s investment through its Industrial Innovation Fund signaled strategic alignment for warehouse deployment
+    of Digit.
 
-  - stage: Series A
-    date: "2018"
-    amount: $8M
-    valuation: "[not disclosed]"
-    lead_investors:
-      - Playground Global
-    other_investors:
-      - Sony Innovation Fund
-      - Robotics Hub
-    source: https://onami.us/onami-success-stories/agility-robotics-secures-8m-series-a-funding
+    '
+  source: https://www.agilityrobotics.com/content/agility-robotics-raises-150m-series-b-led-by-dcvc-and-playground-global
+- stage: Series C
+  date: 2025-03
+  amount: $400M
+  valuation: ~$2.1B (post-money); ~$1.75B (pre-money per some reports)
+  lead_investors:
+  - WP Global Partners
+  other_investors:
+  - SoftBank Group Corp.
+  - DCVC
+  - Playground Global
+  - Amazon Industrial Innovation Fund
+  - NVentures (NVIDIA)
+  - Humanoid Global Holdings
+  - Sony Innovation Fund
+  - Safar Partners
+  notes: 'Funding intended to scale operations through the 10,000-unit production milestone at RoboFab.
 
-  - stage: Series B
-    date: "2022-04"
-    amount: $150M
-    valuation: "[not disclosed]"
-    lead_investors:
-      - DCVC
-      - Playground Global
-    other_investors:
-      - Amazon Industrial Innovation Fund
-      - MFV Partners
-      - ITIC
-      - Robotics Hub
-      - Safar Partners
-      - Sony Innovation Fund
-      - TDK Ventures
-    notes: >
-      Amazon's investment through its Industrial Innovation Fund signaled
-      strategic alignment for warehouse deployment of Digit.
-    source: https://www.agilityrobotics.com/content/agility-robotics-raises-150m-series-b-led-by-dcvc-and-playground-global
-
-  - stage: Series C
-    date: "2025-03"
-    amount: $400M
-    valuation: ~$2.1B (post-money); ~$1.75B (pre-money per some reports)
-    lead_investors:
-      - WP Global Partners
-    other_investors:
-      - SoftBank Group Corp.
-      - DCVC
-      - Playground Global
-      - Amazon Industrial Innovation Fund
-      - NVentures (NVIDIA)
-      - Humanoid Global Holdings
-      - Sony Innovation Fund
-      - Safar Partners
-    notes: >
-      Funding intended to scale operations through the 10,000-unit production
-      milestone at RoboFab.
-    source: https://www.geekwire.com/2025/agility-robotics-reportedly-raising-400m-for-humanoid-warehouse-robots/
-
-  - stage: Undisclosed Round
-    date: "2025-09"
-    amount: "[undisclosed]"
-    valuation: "[not disclosed]"
-    lead_investors:
-      - "[not disclosed]"
-    source: https://tracxn.com/d/companies/agilityrobotics/__zWyvO8soXb6xhR16FWzvRmbHXslWot5BI_JRbmtdaF0/funding-and-investors
-
+    '
+  source: https://www.geekwire.com/2025/agility-robotics-reportedly-raising-400m-for-humanoid-warehouse-robots/
+- stage: Undisclosed Round
+  date: 2025-09
+  amount: '[undisclosed]'
+  valuation: '[not disclosed]'
+  lead_investors:
+  - '[not disclosed]'
+  source: https://tracxn.com/d/companies/agilityrobotics/__zWyvO8soXb6xhR16FWzvRmbHXslWot5BI_JRbmtdaF0/funding-and-investors
 tags:
-  - humanoid-robotics
-  - warehouse-automation
-  - logistics
-  - robotics-as-a-service
-  - hardware
-  - deep-tech
-  - bipedal-locomotion
+- humanoid-robotics
+- warehouse-automation
+- logistics
+- robotics-as-a-service
+- hardware
+- deep-tech
+- bipedal-locomotion
+website_verified: true
 ---
 
 # Agility Robotics

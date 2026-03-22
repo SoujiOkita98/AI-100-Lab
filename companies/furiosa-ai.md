@@ -1,18 +1,20 @@
 ---
-name: "FuriosaAI"
+name: FuriosaAI
 founded: 2017
-headquarters: "Seoul, South Korea"
-sector: "AI Chips / Inference"
-one_liner: "Korean AI inference chip startup. Competing with Nvidia on inference cost/performance."
+headquarters: Seoul, South Korea
+sector: AI Chips / Inference
+one_liner: Korean AI inference chip startup. Competing with Nvidia on inference cost/performance.
 status: active
 funding_rounds:
-  - stage: "Series C"
-    date: "2025"
-    amount_m: 125
-    lead_investors: ["Korea Development Bank"]
+- stage: Series C
+  date: '2025'
+  amount_m: 125
+  lead_investors:
+  - Korea Development Bank
 total_funding: 125
 last_updated: 2026-03-21
 confidence: medium
+data_notes: 'Needs verification: website, founders, source_urls. Profile may be incomplete.'
 ---
 
 # FuriosaAI

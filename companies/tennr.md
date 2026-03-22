@@ -53,6 +53,7 @@ funding_rounds:
   source: https://fortune.com/2025/06/18/tennr-health-tech-ai-patient-referral/
 one_liner: '> AI-powered healthcare document automation that processes 10 million medical documents per month, fixing the
   broken patient referral system'
+website_verified: true
 ---
 
 # Tennr

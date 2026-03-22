@@ -20,6 +20,7 @@ total_funding: 40
 last_updated: 2026-03-21
 confidence: medium
 headquarters: San Francisco, CA
+data_notes: 'Needs verification: website, source_urls. Profile may be incomplete.'
 ---
 
 # WaveForms AI

@@ -52,6 +52,7 @@ funding_rounds:
   source: https://www.businesswire.com/news/home/20250529083998/en/
 one_liner: Snorkel AI is a data-centric AI platform company that helps enterprises build and deploy AI by focusing on the
   quality and curation of training data rather than model architecture
+data_notes: 'Needs verification: website, founders. Profile may be incomplete.'
 ---
 
 # Snorkel AI

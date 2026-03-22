@@ -1,75 +1,90 @@
 ---
-name: "Helsing"
+name: Helsing
 status: active
 founded: 2021
-hq: "Munich, Germany"
-website: "https://helsing.ai"
-sector: [defense-govtech, artificial-intelligence, autonomous-systems]
-one_liner: "European AI-powered defense software for autonomous systems across air, land, sea, space, and cyber domains."
-
-total_raised_m: 1500   # ~EUR 1.37B total (~$1.5B USD)
-latest_valuation_m: 13200   # EUR 12B (~$13.2B USD at June 2025 rates)
+hq: Munich, Germany
+website: https://helsing.ai
+sector:
+- defense-govtech
+- artificial-intelligence
+- autonomous-systems
+one_liner: European AI-powered defense software for autonomous systems across air, land, sea, space, and cyber domains.
+total_raised_m: 1500
+latest_valuation_m: 13200
 funding_rounds:
-  - stage: "Seed"
-    date: 2021-12
-    amount_m: 110       # EUR 102.5M (~$110M USD)
-    valuation_m:
-    lead_investors: ["Prima Materia", "Spotify's Daniel Ek"]
-    source: "https://helsing.ai/newsroom/helsing-raises-eur600m-to-invest-in-european-technological-sovereignty"
-  - stage: "Series A"
-    date: 2023-03
-    amount_m: 223       # EUR 209M
-    valuation_m:
-    lead_investors: ["General Catalyst", "Accel"]
-    source: "https://en.wikipedia.org/wiki/Helsing_(company)"
-  - stage: "Series C"
-    date: 2024-07
-    amount_m: 489
-    valuation_m: 5400   # EUR 4.94B
-    lead_investors: ["General Catalyst"]
-    source: "https://sacra.com/c/helsing/"
-  - stage: "Series D"
-    date: 2025-06
-    amount_m: 694       # EUR 600M
-    valuation_m: 13200  # EUR 12B
-    lead_investors: ["Prima Materia"]
-    source: "https://tech.eu/2025/06/17/helsing-raises-600-million-elevating-valuation-to-eur12bn/"
-
+- stage: Seed
+  date: 2021-12
+  amount_m: 110
+  valuation_m: null
+  lead_investors:
+  - Prima Materia
+  - Spotify's Daniel Ek
+  source: https://helsing.ai/newsroom/helsing-raises-eur600m-to-invest-in-european-technological-sovereignty
+- stage: Series A
+  date: 2023-03
+  amount_m: 223
+  valuation_m: null
+  lead_investors:
+  - General Catalyst
+  - Accel
+  source: https://en.wikipedia.org/wiki/Helsing_(company)
+- stage: Series C
+  date: 2024-07
+  amount_m: 489
+  valuation_m: 5400
+  lead_investors:
+  - General Catalyst
+  source: https://sacra.com/c/helsing/
+- stage: Series D
+  date: 2025-06
+  amount_m: 694
+  valuation_m: 13200
+  lead_investors:
+  - Prima Materia
+  source: https://tech.eu/2025/06/17/helsing-raises-600-million-elevating-valuation-to-eur12bn/
 founders:
-  - name: "Torsten Reil"
-    role: "Co-Founder & CEO"
-    background: "Former CEO of NaturalMotion (sold to Zynga for $527M in 2014). DPhil in Zoology from Oxford, focused on computational biology and AI. Led NaturalMotion's AI-driven animation and simulation technology."
-    origin: "German"
-  - name: "Niklas Koehler"
-    role: "Co-Founder"
-    background: "Former McKinsey & Company partner. Background in strategy consulting with focus on defense and technology sectors."
-    origin: "German"
-  - name: "Gundbert Scherf"
-    role: "Co-Founder"
-    background: "Former senior official at the German Federal Ministry of Defence, where he served as a cybersecurity and defense innovation leader. Led digital and innovation policy for Germany's defense apparatus."
-    origin: "German"
-
-team_china_profile: "No China connection. All three co-founders are German nationals with deep ties to European defense institutions. The company operates exclusively in support of European and NATO-allied defense. Daniel Ek (Spotify founder) serves as Chairman through his investment vehicle Prima Materia."
-
-business_model: "Defense AI software company. Helsing builds AI software that can be embedded into existing military platforms (fighter jets, ground vehicles, naval systems) to add autonomous capabilities, sensor fusion, and real-time decision support. Revenue comes from government defense contracts with European NATO nations (Germany, France, UK). The company does not build hardware; it focuses on the software layer that makes existing platforms smarter."
+- name: Torsten Reil
+  role: Co-Founder & CEO
+  background: Former CEO of NaturalMotion (sold to Zynga for $527M in 2014). DPhil in Zoology from Oxford, focused on computational
+    biology and AI. Led NaturalMotion's AI-driven animation and simulation technology.
+  origin: German
+- name: Niklas Koehler
+  role: Co-Founder
+  background: Former McKinsey & Company partner. Background in strategy consulting with focus on defense and technology sectors.
+  origin: German
+- name: Gundbert Scherf
+  role: Co-Founder
+  background: Former senior official at the German Federal Ministry of Defence, where he served as a cybersecurity and defense
+    innovation leader. Led digital and innovation policy for Germany's defense apparatus.
+  origin: German
+team_china_profile: No China connection. All three co-founders are German nationals with deep ties to European defense institutions.
+  The company operates exclusively in support of European and NATO-allied defense. Daniel Ek (Spotify founder) serves as Chairman
+  through his investment vehicle Prima Materia.
+business_model: Defense AI software company. Helsing builds AI software that can be embedded into existing military platforms
+  (fighter jets, ground vehicles, naval systems) to add autonomous capabilities, sensor fusion, and real-time decision support.
+  Revenue comes from government defense contracts with European NATO nations (Germany, France, UK). The company does not build
+  hardware; it focuses on the software layer that makes existing platforms smarter.
 customers:
-  - "German Federal Armed Forces (Bundeswehr)"
-  - "French Ministry of the Armed Forces"
-  - "UK Ministry of Defence"
-  - "NATO-allied European nations"
-  - "Airbus Defence (partnership for Eurofighter integration)"
-  - "SAAB (strategic investor and partner)"
-revenue_signals: "Exact revenue not publicly disclosed. EUR 12B valuation suggests significant contracted revenue or pipeline. Key contracts include integration with Eurofighter Typhoon program and partnerships with SAAB and Airbus Defence. [Confidence: low -- limited public revenue data.]"
-
+- German Federal Armed Forces (Bundeswehr)
+- French Ministry of the Armed Forces
+- UK Ministry of Defence
+- NATO-allied European nations
+- Airbus Defence (partnership for Eurofighter integration)
+- SAAB (strategic investor and partner)
+revenue_signals: 'Exact revenue not publicly disclosed. EUR 12B valuation suggests significant contracted revenue or pipeline.
+  Key contracts include integration with Eurofighter Typhoon program and partnerships with SAAB and Airbus Defence. [Confidence:
+  low -- limited public revenue data.]'
 sources:
-  - "https://helsing.ai/newsroom/helsing-raises-eur600m-to-invest-in-european-technological-sovereignty"
-  - "https://en.wikipedia.org/wiki/Helsing_(company)"
-  - "https://tech.eu/2025/06/17/helsing-raises-600-million-elevating-valuation-to-eur12bn/"
-  - "https://sacra.com/c/helsing/"
-  - "https://seekingalpha.com/news/4458980-ai-defense-start-up-helsing-is-said-to-raise-693m-reach-12b-valuation"
-  - "https://research.contrary.com/company/helsing"
+- https://helsing.ai/newsroom/helsing-raises-eur600m-to-invest-in-european-technological-sovereignty
+- https://en.wikipedia.org/wiki/Helsing_(company)
+- https://tech.eu/2025/06/17/helsing-raises-600-million-elevating-valuation-to-eur12bn/
+- https://sacra.com/c/helsing/
+- https://seekingalpha.com/news/4458980-ai-defense-start-up-helsing-is-said-to-raise-693m-reach-12b-valuation
+- https://research.contrary.com/company/helsing
 last_updated: 2026-03-20
 confidence: medium
+website_verified: false
+data_notes: 'Website URL may be invalid (HTTP 429). '
 ---
 
 # Helsing

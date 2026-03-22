@@ -24,6 +24,8 @@ latest_valuation: 4000
 last_updated: 2026-03-21
 confidence: medium
 website: https://ineffable.limited
+website_verified: false
+data_notes: 'Website URL may be invalid (Connection failed). '
 ---
 
 # Ineffable Intelligence

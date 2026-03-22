@@ -49,6 +49,7 @@ last_updated: 2026-03-20
 confidence: high on funding/founders; moderate on revenue and employee count
 one_liner: AI-powered support operations platform that unifies workforce management, AI agent automation, and BPO oversight
   for enterprise customer service teams
+website_verified: true
 ---
 
 # Assembled

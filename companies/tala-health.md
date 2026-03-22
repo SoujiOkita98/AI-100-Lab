@@ -24,6 +24,7 @@ founders:
   origin: Indian-American
 website: https://talahealth.com
 headquarters: San Francisco, CA
+website_verified: true
 ---
 
 # Tala Health

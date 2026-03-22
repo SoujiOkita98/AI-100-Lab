@@ -25,6 +25,7 @@ founders:
   origin: Israeli
 website: https://paid.ai
 headquarters: London, UK
+website_verified: true
 ---
 
 # Paid

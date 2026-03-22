@@ -1,16 +1,18 @@
 ---
-name: "MaxIQ"
-sector: "AI Sales / Customer Journey"
-one_liner: "AI customer journey management platform mapping full B2B lifecycle."
+name: MaxIQ
+sector: AI Sales / Customer Journey
+one_liner: AI customer journey management platform mapping full B2B lifecycle.
 status: active
 funding_rounds:
-  - stage: "Seed"
-    date: "2025-03"
-    amount_m: 7.8
-    lead_investors: ["Dell Technologies Capital"]
+- stage: Seed
+  date: 2025-03
+  amount_m: 7.8
+  lead_investors:
+  - Dell Technologies Capital
 total_funding: 7.8
 last_updated: 2026-03-21
 confidence: medium
+data_notes: 'Needs verification: website, founders, source_urls, headquarters. Profile may be incomplete.'
 ---
 
 # MaxIQ

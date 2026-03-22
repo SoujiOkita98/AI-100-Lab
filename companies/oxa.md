@@ -1,53 +1,57 @@
 ---
-name: "Oxa"
+name: Oxa
 status: active
 founded: 2014
-hq: "Oxford, United Kingdom"
-website: "https://oxa.tech"
-sector: ["autonomous vehicles", "robotics", "industrial AI"]
-one_liner: "UK autonomous driving software company focused on industrial vehicle autonomy for ports, airports, and manufacturing, spun out of Oxford University."
-logo: ~
-
+hq: Oxford, United Kingdom
+website: https://oxa.tech
+sector:
+- autonomous vehicles
+- robotics
+- industrial AI
+one_liner: UK autonomous driving software company focused on industrial vehicle autonomy for ports, airports, and manufacturing,
+  spun out of Oxford University.
+logo: null
 total_raised_m: 277
-latest_valuation_m: ~
+latest_valuation_m: null
 funding_rounds:
-  - stage: "Series D (first close)"
-    date: 2026-03
-    amount_m: 103
-    valuation_m: ~
-    lead_investors: ["UK National Wealth Fund"]
-    source: "https://tech.eu/2026/03/04/uk-self-driving-startup-oxa-raises-103m-to-scale-industrial-deployments/"
-    notes: "National Wealth Fund committed $50M. NVentures (Nvidia), IP Group, Hostplus, and bp Ventures also participated. Second close expected H1 2026."
-
+- stage: Series D (first close)
+  date: 2026-03
+  amount_m: 103
+  valuation_m: null
+  lead_investors:
+  - UK National Wealth Fund
+  source: https://tech.eu/2026/03/04/uk-self-driving-startup-oxa-raises-103m-to-scale-industrial-deployments/
+  notes: National Wealth Fund committed $50M. NVentures (Nvidia), IP Group, Hostplus, and bp Ventures also participated. Second
+    close expected H1 2026.
 founders:
-  - name: "Paul Newman"
-    role: "Co-Founder & CTO"
-    background: "Professor of Information Engineering at Oxford University. Leading robotics and autonomous systems researcher. Decades of research in mobile robotics and self-driving technology."
-    origin: "British."
-
-  - name: "Ingmar Posner"
-    role: "Co-Founder & Chief Scientific Officer"
-    background: "Associate Professor at Oxford University. Researcher in machine learning applied to robotics and autonomous systems."
-    origin: "British (of German origin based on name)."
-
-team_china_profile: "No known Chinese-origin founders. The founding team is British with deep Oxford University academic ties."
-
-business_model: "Enterprise B2B software licensing. Oxa sells autonomous driving software (Oxa Driver) and a development toolchain (Oxa Foundry) to industrial fleet operators. Target verticals include ports, airports, manufacturing sites, and logistics hubs. Customers deploy Oxa's autonomy stack on industrial vehicles (not consumer cars). Key customers include DHL, Vantec, and bp. Geographic focus is UK, Europe, and Middle East. Revenue model is likely per-vehicle software licensing or subscription."
-
+- name: Paul Newman
+  role: Co-Founder & CTO
+  background: Professor of Information Engineering at Oxford University. Leading robotics and autonomous systems researcher.
+    Decades of research in mobile robotics and self-driving technology.
+  origin: British.
+- name: Ingmar Posner
+  role: Co-Founder & Chief Scientific Officer
+  background: Associate Professor at Oxford University. Researcher in machine learning applied to robotics and autonomous
+    systems.
+  origin: British (of German origin based on name).
+team_china_profile: No known Chinese-origin founders. The founding team is British with deep Oxford University academic ties.
+business_model: Enterprise B2B software licensing. Oxa sells autonomous driving software (Oxa Driver) and a development toolchain
+  (Oxa Foundry) to industrial fleet operators. Target verticals include ports, airports, manufacturing sites, and logistics
+  hubs. Customers deploy Oxa's autonomy stack on industrial vehicles (not consumer cars). Key customers include DHL, Vantec,
+  and bp. Geographic focus is UK, Europe, and Middle East. Revenue model is likely per-vehicle software licensing or subscription.
 customers:
-  - "DHL"
-  - "Vantec"
-  - "bp"
-
+- DHL
+- Vantec
+- bp
 sources:
-  - "https://tech.eu/2026/03/04/uk-self-driving-startup-oxa-raises-103m-to-scale-industrial-deployments/"
-  - "https://theaiinsider.tech/2026/03/06/uk-autonomous-driving-startup-oxa-raises-103m-in-series-d-funding/"
-  - "https://www.ipgroupplc.com/news-and-events/portfolio-news/2026/2026-03-04"
-  - "https://oxa.tech/"
-  - "https://zagdaily.com/connected/oxa-raises-103m-to-scale-industrial-autonomy/"
-
+- https://tech.eu/2026/03/04/uk-self-driving-startup-oxa-raises-103m-to-scale-industrial-deployments/
+- https://theaiinsider.tech/2026/03/06/uk-autonomous-driving-startup-oxa-raises-103m-in-series-d-funding/
+- https://www.ipgroupplc.com/news-and-events/portfolio-news/2026/2026-03-04
+- https://oxa.tech/
+- https://zagdaily.com/connected/oxa-raises-103m-to-scale-industrial-autonomy/
 last_updated: 2026-03-20
 confidence: high
+website_verified: true
 ---
 
 # Oxa

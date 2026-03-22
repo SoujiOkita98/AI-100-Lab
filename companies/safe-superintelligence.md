@@ -46,6 +46,7 @@ total_funding: 3000
 latest_valuation: 32000
 last_updated: 2026-03-21
 confidence: medium
+website_verified: true
 ---
 
 # Safe Superintelligence

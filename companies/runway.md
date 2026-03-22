@@ -63,6 +63,7 @@ funding_rounds:
   lead_investors:
   - General Atlantic
   source: https://news.crunchbase.com/venture/gen-ai-video-startup-unicorn-runway-seriese-raise/
+data_notes: 'Needs verification: website, founders. Profile may be incomplete.'
 ---
 
 # Runway

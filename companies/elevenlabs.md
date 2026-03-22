@@ -91,6 +91,7 @@ funding_rounds:
   - NVIDIA (strategic backer)
   source: https://techcrunch.com/2026/02/04/elevenlabs-raises-500m-from-sequioia-at-a-11-billion-valuation/
 one_liner: ElevenLabs is an AI voice and audio company founded in April 2022 by two childhood friends from Warsaw, Poland
+website_verified: true
 ---
 
 # ElevenLabs

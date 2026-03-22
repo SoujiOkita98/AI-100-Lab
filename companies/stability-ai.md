@@ -18,6 +18,7 @@ founders:
 research_profile_date: 2026-03-20
 one_liner: Stability AI is the company behind Stable Diffusion, one of the most widely adopted open-source text-to-image generative
   AI models
+website_verified: true
 ---
 
 # Stability AI -- Company Profile

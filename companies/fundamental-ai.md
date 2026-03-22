@@ -1,54 +1,60 @@
 ---
-name: "Fundamental"
+name: Fundamental
 status: active
 founded: 2024
-hq: "San Francisco, CA"
-website: "https://fundamental.ai"
-sector: ["enterprise AI", "data analytics", "tabular AI"]
-one_liner: "AI lab building Nexus, a large tabular model (LTM) for enterprise structured data analysis, founded by former DeepMind researchers."
-logo: ~
-
+hq: San Francisco, CA
+website: https://fundamental.ai
+sector:
+- enterprise AI
+- data analytics
+- tabular AI
+one_liner: AI lab building Nexus, a large tabular model (LTM) for enterprise structured data analysis, founded by former DeepMind
+  researchers.
+logo: null
 total_raised_m: 255
 latest_valuation_m: 1400
 funding_rounds:
-  - stage: "Series A"
-    date: 2026-02
-    amount_m: 255
-    valuation_m: 1400
-    lead_investors: ["Oak HC/FT", "Valor Equity Partners", "Battery Ventures", "Salesforce Ventures"]
-    source: "https://techcrunch.com/2026/02/05/fundamental-raises-255-million-series-a-with-a-new-take-on-big-data-analysis/"
-    notes: "Emerged from stealth as a unicorn. Hetz Ventures also participated. Angel investors include Perplexity CEO Aravind Srinivas, Brex co-founder Henrique Dubugras, and Datadog CEO Olivier Pomel. Total includes $30M in earlier seed funding."
-
+- stage: Series A
+  date: 2026-02
+  amount_m: 255
+  valuation_m: 1400
+  lead_investors:
+  - Oak HC/FT
+  - Valor Equity Partners
+  - Battery Ventures
+  - Salesforce Ventures
+  source: https://techcrunch.com/2026/02/05/fundamental-raises-255-million-series-a-with-a-new-take-on-big-data-analysis/
+  notes: Emerged from stealth as a unicorn. Hetz Ventures also participated. Angel investors include Perplexity CEO Aravind
+    Srinivas, Brex co-founder Henrique Dubugras, and Datadog CEO Olivier Pomel. Total includes $30M in earlier seed funding.
 founders:
-  - name: "Jeremy Fraenkel"
-    role: "CEO & Co-Founder"
-    background: "Former DeepMind researcher. Details on specific DeepMind projects limited in public sources."
-    origin: "American (limited public information)."
-
-  - name: "Gabriel Suissa"
-    role: "Co-Founder"
-    background: "Former DeepMind researcher. Technical co-founder."
-    origin: "Israeli."
-
-  - name: "Annie Lamont"
-    role: "Co-Founder"
-    background: "Co-founder. Additional background details limited in public sources."
-    origin: "Limited public information."
-
-team_china_profile: "No known Chinese-origin founders. The founding team includes former DeepMind researchers with American and Israeli backgrounds."
-
-business_model: "Enterprise SaaS. Nexus is a 'large tabular model' (LTM) -- a new category distinct from LLMs. It is deterministic (same question always yields same answer), does not use transformer architecture, and is purpose-built for structured/tabular enterprise data (spreadsheets, databases, financial tables). Target customers are enterprises with large structured datasets. Pricing model not yet public but likely enterprise subscription/usage-based."
-
+- name: Jeremy Fraenkel
+  role: CEO & Co-Founder
+  background: Former DeepMind researcher. Details on specific DeepMind projects limited in public sources.
+  origin: American (limited public information).
+- name: Gabriel Suissa
+  role: Co-Founder
+  background: Former DeepMind researcher. Technical co-founder.
+  origin: Israeli.
+- name: Annie Lamont
+  role: Co-Founder
+  background: Co-founder. Additional background details limited in public sources.
+  origin: Limited public information.
+team_china_profile: No known Chinese-origin founders. The founding team includes former DeepMind researchers with American
+  and Israeli backgrounds.
+business_model: Enterprise SaaS. Nexus is a 'large tabular model' (LTM) -- a new category distinct from LLMs. It is deterministic
+  (same question always yields same answer), does not use transformer architecture, and is purpose-built for structured/tabular
+  enterprise data (spreadsheets, databases, financial tables). Target customers are enterprises with large structured datasets.
+  Pricing model not yet public but likely enterprise subscription/usage-based.
 sources:
-  - "https://techcrunch.com/2026/02/05/fundamental-raises-255-million-series-a-with-a-new-take-on-big-data-analysis/"
-  - "https://www.calcalistech.com/ctechnews/article/hktlfm7vbx"
-  - "https://siliconangle.com/2026/02/05/fundamental-launches-255m-ai-model-optimized-tabular-data/"
-  - "https://www.caproasia.com/2026/02/06/united-states-ai-lab-startup-fundamental-ai-raised-255-million-series-a-funding-at-1-2-billion-valuation-fundamental-ai-co-founded-in-2024-by-jeremy-fraenkel/"
-  - "https://techfundingnews.com/fundamental-255m-nexus-tabular-ai-oak-hcft-aws/"
-  - "https://theaiinsider.tech/2026/02/06/fundamental-emerges-from-stealth-with-255m-to-launch-enterprise-structured-data-ai-model/"
-
+- https://techcrunch.com/2026/02/05/fundamental-raises-255-million-series-a-with-a-new-take-on-big-data-analysis/
+- https://www.calcalistech.com/ctechnews/article/hktlfm7vbx
+- https://siliconangle.com/2026/02/05/fundamental-launches-255m-ai-model-optimized-tabular-data/
+- https://www.caproasia.com/2026/02/06/united-states-ai-lab-startup-fundamental-ai-raised-255-million-series-a-funding-at-1-2-billion-valuation-fundamental-ai-co-founded-in-2024-by-jeremy-fraenkel/
+- https://techfundingnews.com/fundamental-255m-nexus-tabular-ai-oak-hcft-aws/
+- https://theaiinsider.tech/2026/02/06/fundamental-emerges-from-stealth-with-255m-to-launch-enterprise-structured-data-ai-model/
 last_updated: 2026-03-20
 confidence: medium
+website_verified: true
 ---
 
 # Fundamental

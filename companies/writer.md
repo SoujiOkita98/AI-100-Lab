@@ -52,6 +52,7 @@ funding_rounds:
   source: https://writer.com/blog/series-c-funding-writer-press-release/
 one_liner: Writer is a full-stack enterprise generative AI platform built on its proprietary family of **Palmyra** large language
   models
+website_verified: true
 ---
 
 # Writer — Enterprise AI Platform

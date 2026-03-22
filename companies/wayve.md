@@ -66,6 +66,7 @@ funding_rounds:
   notes: Also included Microsoft, Nvidia, Uber, Mercedes-Benz, Nissan, Stellantis, Ontario Teachers', Baillie Gifford.
 one_liner: Wayve is a London-based autonomous driving company building end-to-end AI systems that learn to drive from data
   and experience, without relying on hand-coded rules or high-definition maps
+website_verified: true
 ---
 
 # Wayve

@@ -65,6 +65,8 @@ funding_rounds:
   source: https://www.caproasia.com/2025/07/20/hong-kong-listed-china-ai-company-7-8-billion-sensetime-2024-spinoff-gpu-chip-developer-sunrise-raised-139-million-series-a/
 one_liner: Sunrise is a high-performance GPU and AI chip developer spun off from SenseTime's core semiconductor division in
   late 2024
+website_verified: false
+data_notes: 'Website URL may be invalid (Invalid URL format). '
 ---
 
 # Sunrise (SenseTime AI Chip Spinoff)

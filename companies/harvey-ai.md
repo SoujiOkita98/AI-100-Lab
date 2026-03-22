@@ -69,6 +69,7 @@ funding_rounds:
   - Andreessen Horowitz
   source: https://www.harvey.ai/blog/andreessen-horowitz-leads-dollar160m-investment-in-harvey
 one_liner: Harvey is a domain-specific AI platform built for legal and professional services
+website_verified: true
 ---
 
 # Harvey AI -- Company Profile

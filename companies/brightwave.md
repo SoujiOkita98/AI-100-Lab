@@ -18,6 +18,7 @@ arr_estimate: Undisclosed (reported 4x revenue growth in four months post-seed; 
 employee_count_estimate: ~22 (as of Jan 2026, per Tracxn)
 status: Private
 last_updated: 2026-03-20
+website_verified: true
 ---
 
 # Brightwave -- Company Profile

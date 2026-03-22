@@ -18,6 +18,7 @@ last_updated: 2026-03-20
 confidence: medium
 one_liner: Kodezi is an AI-powered code debugging and autonomous code maintenance platform that positions itself as an "AI
   CTO" for engineering teams
+website_verified: true
 ---
 
 # Kodezi

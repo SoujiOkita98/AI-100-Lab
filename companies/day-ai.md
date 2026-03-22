@@ -16,6 +16,7 @@ confidence: medium
 one_liner: AI-native CRM auto-capturing relationship data from emails, calendars, meetings. No manual entry.
 website: https://day.ai
 total_funding: 28
+website_verified: true
 ---
 
 # Day AI

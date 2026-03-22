@@ -25,6 +25,7 @@ last_updated: 2026-03-21
 confidence: medium
 website: https://axiamatic.com
 headquarters: Saratoga, CA
+website_verified: true
 ---
 
 # Axiamatic

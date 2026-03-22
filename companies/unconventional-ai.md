@@ -63,6 +63,7 @@ founders:
   background: PhD Computational Neuroscience, Brown. Founded Nervana (sold Intel $350M), MosaicML (sold Databricks $1.3B).
     Former Head of AI at Databricks.
   origin: Indian-American
+website_verified: true
 ---
 
 # Unconventional AI

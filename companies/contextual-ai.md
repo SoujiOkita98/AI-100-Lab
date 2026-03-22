@@ -29,6 +29,7 @@ funding_rounds:
   source: https://contextual.ai/blog/announcing-series-a
 one_liner: RAG-native enterprise AI platform that end-to-end optimizes retrieval and generation, founded by the researchers
   who invented RAG at Meta FAIR
+website_verified: true
 ---
 
 # Contextual AI

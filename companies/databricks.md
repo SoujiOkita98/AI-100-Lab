@@ -6,10 +6,10 @@ headquarters: San Francisco, California, USA
 website: https://www.databricks.com
 sector: Data & AI Infrastructure
 stage: Late-stage / Pre-IPO
-latest_valuation_usd: 134_000_000_000
+latest_valuation_usd: 134000000000
 latest_valuation_date: 2026-01-24
 total_funding_usd: ~20_200_000_000
-revenue_run_rate_usd: 5_400_000_000
+revenue_run_rate_usd: 5400000000
 revenue_run_rate_date: 2026-02
 yoy_growth_pct: 65
 employee_count_approx: 14000
@@ -17,202 +17,205 @@ employee_count_date: 2026-02
 customer_count: 20000+
 ipo_status: Potential 2026 IPO under consideration
 founders:
-  - name: Ali Ghodsi
-    role: Co-Founder & CEO
-    origin: Iranian-Swedish (born in Iran, raised in Sweden)
-    education: PhD Distributed Computing, KTH Royal Institute of Technology (2006); MBA, Mid-Sweden University; MSc Computer Engineering, Mid-Sweden University
-    prior: Adjunct Professor, UC Berkeley
-  - name: Ion Stoica
-    role: Co-Founder & Executive Chairman
-    origin: Romanian-American (born in Romania)
-    education: MS Electrical Engineering & CS, Polytechnic University of Bucharest; PhD, Carnegie Mellon University (inferred from CS career path, started at Old Dominion University)
-    prior: Professor of Computer Science, UC Berkeley; Co-director of AMPLab
-  - name: Matei Zaharia
-    role: Co-Founder & CTO
-    origin: Romanian-Canadian
-    education: Undergraduate, University of Waterloo; PhD, UC Berkeley
-    prior: Creator of Apache Spark; Assistant Professor at Stanford University (previously MIT)
-  - name: Patrick Wendell
-    role: Co-Founder
-    origin: American (unconfirmed - limited public info)
-    education: PhD student, UC Berkeley (AMPLab)
-    prior: Early Spark contributor
-  - name: Reynold Xin
-    role: Co-Founder
-    origin: Chinese-American (unconfirmed - inferred from name, limited public info)
-    education: PhD Computer Science, UC Berkeley
-    prior: Research scientist at AMPLab; co-created core Spark APIs
-  - name: Andy Konwinski
-    role: Co-Founder
-    origin: American (unconfirmed - limited public info)
-    education: PhD student, UC Berkeley (AMPLab)
-    prior: Contributor to Apache Mesos and Spark projects
-  - name: Arsalan Tavakoli-Shiraji
-    role: Co-Founder
-    origin: Iranian-American (inferred from name - unconfirmed)
-    education: UC Berkeley
-    prior: McKinsey & Company
+- name: Ali Ghodsi
+  role: Co-Founder & CEO
+  origin: Iranian-Swedish (born in Iran, raised in Sweden)
+  education: PhD Distributed Computing, KTH Royal Institute of Technology (2006); MBA, Mid-Sweden University; MSc Computer
+    Engineering, Mid-Sweden University
+  prior: Adjunct Professor, UC Berkeley
+- name: Ion Stoica
+  role: Co-Founder & Executive Chairman
+  origin: Romanian-American (born in Romania)
+  education: MS Electrical Engineering & CS, Polytechnic University of Bucharest; PhD, Carnegie Mellon University (inferred
+    from CS career path, started at Old Dominion University)
+  prior: Professor of Computer Science, UC Berkeley; Co-director of AMPLab
+- name: Matei Zaharia
+  role: Co-Founder & CTO
+  origin: Romanian-Canadian
+  education: Undergraduate, University of Waterloo; PhD, UC Berkeley
+  prior: Creator of Apache Spark; Assistant Professor at Stanford University (previously MIT)
+- name: Patrick Wendell
+  role: Co-Founder
+  origin: American (unconfirmed - limited public info)
+  education: PhD student, UC Berkeley (AMPLab)
+  prior: Early Spark contributor
+- name: Reynold Xin
+  role: Co-Founder
+  origin: Chinese-American (unconfirmed - inferred from name, limited public info)
+  education: PhD Computer Science, UC Berkeley
+  prior: Research scientist at AMPLab; co-created core Spark APIs
+- name: Andy Konwinski
+  role: Co-Founder
+  origin: American (unconfirmed - limited public info)
+  education: PhD student, UC Berkeley (AMPLab)
+  prior: Contributor to Apache Mesos and Spark projects
+- name: Arsalan Tavakoli-Shiraji
+  role: Co-Founder
+  origin: Iranian-American (inferred from name - unconfirmed)
+  education: UC Berkeley
+  prior: McKinsey & Company
 funding_rounds:
-  - round: Series A
-    date: 2013-09
-    amount_usd: 13_900_000
-    valuation_usd: null
-    lead_investors:
-      - Andreessen Horowitz
-    source: https://www.databricks.com/company/newsroom/press-releases
-  - round: Series B
-    date: 2014-07
-    amount_usd: 33_000_000
-    valuation_usd: null
-    lead_investors:
-      - New Enterprise Associates (NEA)
-    source: https://tracxn.com/d/companies/databricks/__h71WlGEvmuefCzSdZogxaGihmuCYu0rBKj3hkmJQF7M/funding-and-investors
-  - round: Series C
-    date: 2016-12
-    amount_usd: 60_000_000
-    valuation_usd: null
-    lead_investors:
-      - New Enterprise Associates (NEA)
-    source: https://www.crunchbase.com/funding_round/databricks-series-c--e9a8fa71
-  - round: Series D
-    date: 2017-08
-    amount_usd: 140_000_000
-    valuation_usd: null
-    lead_investors:
-      - Andreessen Horowitz
-    source: https://tracxn.com/d/companies/databricks/__h71WlGEvmuefCzSdZogxaGihmuCYu0rBKj3hkmJQF7M/funding-and-investors
-  - round: Series E
-    date: 2019-02
-    amount_usd: 250_000_000
-    valuation_usd: 2_750_000_000
-    lead_investors:
-      - Andreessen Horowitz
-    other_investors:
-      - Coatue Management
-      - Microsoft
-      - NEA
-    source: https://www.databricks.com/company/newsroom/press-releases/databricks-250-million-funding-supports-explosive-growth-and-global-demand-for-unified-analytics-brings-valuation-to-2-75-billion
-  - round: Series F
-    date: 2019-10
-    amount_usd: 400_000_000
-    valuation_usd: 6_200_000_000
-    lead_investors:
-      - Andreessen Horowitz (Late Stage Venture Fund)
-    other_investors:
-      - BlackRock
-      - Coatue Management
-      - Dragoneer
-      - Microsoft
-      - NEA
-      - T. Rowe Price
-      - Tiger Global
-    source: https://www.databricks.com/company/newsroom/press-releases/databricks-growth-draws-400-million-series-f-investment-and-6-2-billion-valuation
-  - round: Series G
-    date: 2021-02
-    amount_usd: 1_000_000_000
-    valuation_usd: 28_000_000_000
-    lead_investors:
-      - Franklin Templeton
-    other_investors:
-      - Amazon Web Services (AWS)
-      - CapitalG
-      - Canada Pension Plan Investment Board
-      - Fidelity
-      - Salesforce Ventures
-      - Whale Rock
-    source: https://www.databricks.com/company/newsroom/press-releases/databricks-raises-1-billion-series-g-investment-at-28-billion-valuation
-  - round: Series H
-    date: 2021-08
-    amount_usd: 1_600_000_000
-    valuation_usd: 38_000_000_000
-    lead_investors:
-      - Counterpoint Global (Morgan Stanley)
-    other_investors:
-      - Baillie Gifford
-      - ClearBridge Investments
-      - Insight Partners
-      - UC Investments
-    source: https://www.databricks.com/company/newsroom/press-releases/databricks-raises-1-6-billion-series-h-investment-at-38-billion-valuation
-  - round: Series I
-    date: 2023-09
-    amount_usd: 500_000_000
-    valuation_usd: 43_000_000_000
-    lead_investors:
-      - T. Rowe Price
-    other_investors:
-      - Andreessen Horowitz
-      - Capital One Ventures
-      - Fidelity
-      - GIC
-      - NVIDIA
-      - Ontario Teachers' Pension Plan
-      - Tiger Global
-      - AWS
-      - CapitalG
-      - Microsoft
-      - Qatar Investment Authority
-    source: https://www.databricks.com/company/newsroom/press-releases/databricks-raises-series-i-investment-43b-valuation
-  - round: Series J
-    date: 2024-12
-    amount_usd: 10_000_000_000
-    valuation_usd: 62_000_000_000
-    lead_investors:
-      - Thrive Capital
-    other_investors:
-      - Andreessen Horowitz
-      - DST Global
-      - GIC
-      - Insight Partners
-      - WCM Investment Management
-    source: https://www.databricks.com/company/newsroom/press-releases/databricks-raising-10b-series-j-investment-62b-valuation
-  - round: Series K
-    date: 2025-08
-    amount_usd: 1_000_000_000
-    valuation_usd: 100_000_000_000+
-    lead_investors:
-      - Andreessen Horowitz
-      - Insight Partners
-      - MGX
-      - Thrive Capital
-      - WCM Investment Management
-    source: https://www.databricks.com/company/newsroom/press-releases/databricks-raising-series-k-investment-100-billion-valuation
-  - round: Series L
-    date: 2026-01
-    amount_usd: 5_000_000_000
-    amount_note: ~$5B equity + ~$2B debt capacity
-    valuation_usd: 134_000_000_000
-    lead_investors:
-      - Insight Partners
-      - Fidelity Management & Research
-      - J.P. Morgan Asset Management
-    other_investors:
-      - Andreessen Horowitz
-      - BlackRock
-      - Blackstone
-      - Coatue
-      - GIC
-      - MGX
-      - NEA
-      - Ontario Teachers' Pension Plan
-      - Robinhood Ventures
-      - T. Rowe Price
-      - Temasek
-      - Thrive Capital
-      - Winslow Capital
-    source: https://www.cnbc.com/2026/02/09/databricks-completes-5-billion-funding-round-with-2-billion-in-debt.html
+- round: Series A
+  date: 2013-09
+  amount_usd: 13900000
+  valuation_usd: null
+  lead_investors:
+  - Andreessen Horowitz
+  source: https://www.databricks.com/company/newsroom/press-releases
+- round: Series B
+  date: 2014-07
+  amount_usd: 33000000
+  valuation_usd: null
+  lead_investors:
+  - New Enterprise Associates (NEA)
+  source: https://tracxn.com/d/companies/databricks/__h71WlGEvmuefCzSdZogxaGihmuCYu0rBKj3hkmJQF7M/funding-and-investors
+- round: Series C
+  date: 2016-12
+  amount_usd: 60000000
+  valuation_usd: null
+  lead_investors:
+  - New Enterprise Associates (NEA)
+  source: https://www.crunchbase.com/funding_round/databricks-series-c--e9a8fa71
+- round: Series D
+  date: 2017-08
+  amount_usd: 140000000
+  valuation_usd: null
+  lead_investors:
+  - Andreessen Horowitz
+  source: https://tracxn.com/d/companies/databricks/__h71WlGEvmuefCzSdZogxaGihmuCYu0rBKj3hkmJQF7M/funding-and-investors
+- round: Series E
+  date: 2019-02
+  amount_usd: 250000000
+  valuation_usd: 2750000000
+  lead_investors:
+  - Andreessen Horowitz
+  other_investors:
+  - Coatue Management
+  - Microsoft
+  - NEA
+  source: https://www.databricks.com/company/newsroom/press-releases/databricks-250-million-funding-supports-explosive-growth-and-global-demand-for-unified-analytics-brings-valuation-to-2-75-billion
+- round: Series F
+  date: 2019-10
+  amount_usd: 400000000
+  valuation_usd: 6200000000
+  lead_investors:
+  - Andreessen Horowitz (Late Stage Venture Fund)
+  other_investors:
+  - BlackRock
+  - Coatue Management
+  - Dragoneer
+  - Microsoft
+  - NEA
+  - T. Rowe Price
+  - Tiger Global
+  source: https://www.databricks.com/company/newsroom/press-releases/databricks-growth-draws-400-million-series-f-investment-and-6-2-billion-valuation
+- round: Series G
+  date: 2021-02
+  amount_usd: 1000000000
+  valuation_usd: 28000000000
+  lead_investors:
+  - Franklin Templeton
+  other_investors:
+  - Amazon Web Services (AWS)
+  - CapitalG
+  - Canada Pension Plan Investment Board
+  - Fidelity
+  - Salesforce Ventures
+  - Whale Rock
+  source: https://www.databricks.com/company/newsroom/press-releases/databricks-raises-1-billion-series-g-investment-at-28-billion-valuation
+- round: Series H
+  date: 2021-08
+  amount_usd: 1600000000
+  valuation_usd: 38000000000
+  lead_investors:
+  - Counterpoint Global (Morgan Stanley)
+  other_investors:
+  - Baillie Gifford
+  - ClearBridge Investments
+  - Insight Partners
+  - UC Investments
+  source: https://www.databricks.com/company/newsroom/press-releases/databricks-raises-1-6-billion-series-h-investment-at-38-billion-valuation
+- round: Series I
+  date: 2023-09
+  amount_usd: 500000000
+  valuation_usd: 43000000000
+  lead_investors:
+  - T. Rowe Price
+  other_investors:
+  - Andreessen Horowitz
+  - Capital One Ventures
+  - Fidelity
+  - GIC
+  - NVIDIA
+  - Ontario Teachers' Pension Plan
+  - Tiger Global
+  - AWS
+  - CapitalG
+  - Microsoft
+  - Qatar Investment Authority
+  source: https://www.databricks.com/company/newsroom/press-releases/databricks-raises-series-i-investment-43b-valuation
+- round: Series J
+  date: 2024-12
+  amount_usd: 10000000000
+  valuation_usd: 62000000000
+  lead_investors:
+  - Thrive Capital
+  other_investors:
+  - Andreessen Horowitz
+  - DST Global
+  - GIC
+  - Insight Partners
+  - WCM Investment Management
+  source: https://www.databricks.com/company/newsroom/press-releases/databricks-raising-10b-series-j-investment-62b-valuation
+- round: Series K
+  date: 2025-08
+  amount_usd: 1000000000
+  valuation_usd: 100_000_000_000+
+  lead_investors:
+  - Andreessen Horowitz
+  - Insight Partners
+  - MGX
+  - Thrive Capital
+  - WCM Investment Management
+  source: https://www.databricks.com/company/newsroom/press-releases/databricks-raising-series-k-investment-100-billion-valuation
+- round: Series L
+  date: 2026-01
+  amount_usd: 5000000000
+  amount_note: ~$5B equity + ~$2B debt capacity
+  valuation_usd: 134000000000
+  lead_investors:
+  - Insight Partners
+  - Fidelity Management & Research
+  - J.P. Morgan Asset Management
+  other_investors:
+  - Andreessen Horowitz
+  - BlackRock
+  - Blackstone
+  - Coatue
+  - GIC
+  - MGX
+  - NEA
+  - Ontario Teachers' Pension Plan
+  - Robinhood Ventures
+  - T. Rowe Price
+  - Temasek
+  - Thrive Capital
+  - Winslow Capital
+  source: https://www.cnbc.com/2026/02/09/databricks-completes-5-billion-funding-round-with-2-billion-in-debt.html
 key_acquisitions:
-  - target: MosaicML
-    date: 2023-07
-    amount_usd: ~1_300_000_000
-    rationale: Generative AI / LLM training platform
-  - target: Arcion
-    date: 2023-10
-    amount_usd: ~100_000_000
-    rationale: Data replication
-  - target: Tabular
-    date: 2024
-    amount_usd: ~1_000_000_000
-    rationale: Apache Iceberg table format; creators of Iceberg
+- target: MosaicML
+  date: 2023-07
+  amount_usd: ~1_300_000_000
+  rationale: Generative AI / LLM training platform
+- target: Arcion
+  date: 2023-10
+  amount_usd: ~100_000_000
+  rationale: Data replication
+- target: Tabular
+  date: 2024
+  amount_usd: ~1_000_000_000
+  rationale: Apache Iceberg table format; creators of Iceberg
+website_verified: true
 ---
 
 # Databricks

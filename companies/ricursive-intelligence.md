@@ -27,6 +27,7 @@ founders:
   origin: Iranian-American
 website: https://ricursive.com
 headquarters: Palo Alto, CA
+website_verified: true
 ---
 
 # Ricursive Intelligence

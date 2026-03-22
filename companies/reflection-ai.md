@@ -56,6 +56,7 @@ funding_rounds:
   notes: Also included DST Global, Lightspeed, Sequoia, Eric Schmidt, Citi.
 one_liner: '> Former DeepMind researchers building autonomous coding agents and open-weight frontier models, positioning as
   America''s open-source alternative to DeepSeek'
+website_verified: true
 ---
 
 # Reflection AI

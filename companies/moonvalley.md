@@ -29,6 +29,7 @@ funding_rounds:
   - General Catalyst
   source: https://www.businesswire.com/news/home/20250714518340/en/
 one_liner: Moonvalley's flagship model, **Marey**, was announced in March 2025 and reached general availability in July 2025
+website_verified: true
 ---
 
 # Moonvalley

@@ -16,6 +16,7 @@ confidence: medium
 one_liner: Agentic AI platform automating outbound prospecting and pipeline generation for GTM teams.
 website: https://landbase.com
 total_funding: 42.5
+website_verified: true
 ---
 
 # Landbase

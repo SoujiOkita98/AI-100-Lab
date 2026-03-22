@@ -19,6 +19,7 @@ tags:
 last_updated: 2026-03-20
 confidence: medium-high
 one_liner: Twelve Labs builds foundation models purpose-built for video understanding
+data_notes: 'Needs verification: website, founders. Profile may be incomplete.'
 ---
 
 # Twelve Labs

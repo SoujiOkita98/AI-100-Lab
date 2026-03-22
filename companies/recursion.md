@@ -10,6 +10,7 @@ ceo: Chris Gibson, Ph.D. (Co-Founder; transitioned to Board Chair ~2025)
 website: https://www.recursion.com
 last_updated: 2026-03-20
 confidence: high (publicly traded; extensive disclosures available)
+website_verified: true
 ---
 
 # Recursion Pharmaceuticals

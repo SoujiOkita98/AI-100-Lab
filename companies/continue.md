@@ -11,11 +11,12 @@ valuation: Undisclosed
 total_funding: ~$5.6M
 employee_count: ~10 (estimated, 2025)
 key_investors:
-  - Heavybit
-  - Y Combinator
+- Heavybit
+- Y Combinator
 notable_backers: []
 last_updated: 2026-03-20
 confidence: medium
+website_verified: true
 ---
 
 # Continue

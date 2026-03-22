@@ -24,6 +24,7 @@ founders:
   role: Co-founder
   background: Former Global CISO LivePerson.
   origin: Israeli
+data_notes: 'Needs verification: website, source_urls, headquarters. Profile may be incomplete.'
 ---
 
 # Sola Security

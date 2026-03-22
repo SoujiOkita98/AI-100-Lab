@@ -4,8 +4,8 @@ legal_name: Coactive Systems, Inc.
 founded: 2021
 headquarters: San Jose, California
 additional_offices:
-  - San Francisco, CA (sales/BD)
-  - Montreal, Canada (R&D)
+- San Francisco, CA (sales/BD)
+- Montreal, Canada (R&D)
 employees: ~66 (as of late 2025)
 sector: Enterprise AI / Multimodal AI / Visual Content Intelligence
 stage: Series B
@@ -15,6 +15,7 @@ website: https://www.coactive.ai
 status: Active, Private
 last_updated: 2026-03-20
 confidence: high
+website_verified: true
 ---
 
 # Coactive AI

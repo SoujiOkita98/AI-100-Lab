@@ -30,6 +30,7 @@ founders:
   role: Chairman
   background: Former head of Baidu Intelligent Driving Group.
   origin: Chinese
+data_notes: 'Needs verification: website, source_urls. Profile may be incomplete.'
 ---
 
 # TARS (Tashi Zhihang)

@@ -30,6 +30,7 @@ founders:
   role: CPO
   background: Founding CPO at Snyk.
   origin: Israeli
+data_notes: 'Needs verification: website, source_urls. Profile may be incomplete.'
 ---
 
 # Tenzai

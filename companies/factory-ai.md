@@ -22,6 +22,7 @@ last_updated: 2026-03-20
 confidence: high
 one_liner: Factory is building an "agent-native" software development platform centered on autonomous AI agents called "Droids"
   that handle full tasks across the software development lifecycle
+website_verified: true
 ---
 
 # Factory

@@ -1,93 +1,112 @@
 ---
-name: "Skydio"
+name: Skydio
 status: active
 founded: 2014
-hq: "San Mateo, California"
-website: "https://www.skydio.com"
-sector: [defense-govtech, robotics, autonomous-vehicles, drones]
-one_liner: "Largest US drone manufacturer building AI-powered autonomous drones for defense, public safety, and enterprise."
-
+hq: San Mateo, California
+website: https://www.skydio.com
+sector:
+- defense-govtech
+- robotics
+- autonomous-vehicles
+- drones
+one_liner: Largest US drone manufacturer building AI-powered autonomous drones for defense, public safety, and enterprise.
 total_raised_m: 732
-latest_valuation_m: 2200   # Official Series E valuation; secondary market implies ~$3B
+latest_valuation_m: 2200
 funding_rounds:
-  - stage: "Seed"
-    date: 2014-12
-    amount_m: 3
-    valuation_m:
-    lead_investors: ["Accel"]
-    source: "https://sacra.com/c/skydio/"
-  - stage: "Series A"
-    date: 2017-02
-    amount_m: 25
-    valuation_m:
-    lead_investors: ["Andreessen Horowitz"]
-    source: "https://sacra.com/c/skydio/"
-  - stage: "Series B"
-    date: 2019-10
-    amount_m: 30
-    valuation_m:
-    lead_investors: ["IVP"]
-    source: "https://sacra.com/c/skydio/"
-  - stage: "Series C"
-    date: 2020-07
-    amount_m: 100
-    valuation_m: 1000
-    lead_investors: ["Andreessen Horowitz"]
-    source: "https://sacra.com/c/skydio/"
-  - stage: "Series D"
-    date: 2021-03
-    amount_m: 170
-    valuation_m:
-    lead_investors: ["Andreessen Horowitz"]
-    source: "https://sacra.com/c/skydio/"
-  - stage: "Series E"
-    date: 2023-02
-    amount_m: 230
-    valuation_m: 2200
-    lead_investors: ["Linse Capital"]
-    source: "https://www.skydio.com/blog/skydio-raises-230-million-series-e-funding-round"
-  - stage: "Series E Extension"
-    date: 2024-11
-    amount_m: 170
-    valuation_m: 2200    # Extension at same valuation
-    lead_investors: ["KDDI", "Axon"]
-    source: "https://techcrunch.com/2024/11/15/drone-manufacturer-skydio-raises-170-million-extension-round/"
-
+- stage: Seed
+  date: 2014-12
+  amount_m: 3
+  valuation_m: null
+  lead_investors:
+  - Accel
+  source: https://sacra.com/c/skydio/
+- stage: Series A
+  date: 2017-02
+  amount_m: 25
+  valuation_m: null
+  lead_investors:
+  - Andreessen Horowitz
+  source: https://sacra.com/c/skydio/
+- stage: Series B
+  date: 2019-10
+  amount_m: 30
+  valuation_m: null
+  lead_investors:
+  - IVP
+  source: https://sacra.com/c/skydio/
+- stage: Series C
+  date: 2020-07
+  amount_m: 100
+  valuation_m: 1000
+  lead_investors:
+  - Andreessen Horowitz
+  source: https://sacra.com/c/skydio/
+- stage: Series D
+  date: 2021-03
+  amount_m: 170
+  valuation_m: null
+  lead_investors:
+  - Andreessen Horowitz
+  source: https://sacra.com/c/skydio/
+- stage: Series E
+  date: 2023-02
+  amount_m: 230
+  valuation_m: 2200
+  lead_investors:
+  - Linse Capital
+  source: https://www.skydio.com/blog/skydio-raises-230-million-series-e-funding-round
+- stage: Series E Extension
+  date: 2024-11
+  amount_m: 170
+  valuation_m: 2200
+  lead_investors:
+  - KDDI
+  - Axon
+  source: https://techcrunch.com/2024/11/15/drone-manufacturer-skydio-raises-170-million-extension-round/
 founders:
-  - name: "Adam Bry"
-    role: "Co-Founder & CEO"
-    background: "MS in Aeronautics and Astronautics from MIT. Led award-winning autonomous flight research at MIT. Pioneered software enabling drones to fly themselves. Previously worked on autonomous systems research that won multiple DARPA challenges."
-    origin: "American"
-  - name: "Abraham Bachrach"
-    role: "Co-Founder"
-    background: "PhD from MIT in autonomous navigation and SLAM (simultaneous localization and mapping). Core researcher in MIT's autonomous flight program. Expert in computer vision and robot perception."
-    origin: "American"
-  - name: "Matt Donahoe"
-    role: "Co-Founder"
-    background: "MS from MIT. Co-developed autonomous drone systems at MIT alongside Bry and Bachrach. Background in software engineering and computer vision."
-    origin: "American"
-
-team_china_profile: "No China connection. All founders are American MIT graduates. Skydio is the largest US-made drone manufacturer and is positioned as the primary American alternative to Chinese drone maker DJI. The company has actively advocated for banning Chinese drones from US government use."
-
-business_model: "Vertically integrated drone manufacturer. Skydio designs, builds, and sells AI-powered autonomous drones with accompanying software platforms. Revenue comes from three segments: (1) Defense/government contracts (~50%+ of bookings), (2) Enterprise customers (energy, telecom, construction), and (3) Public safety (police, fire, DOTs). The core competitive advantage is Skydio Autonomy, an AI software stack that enables fully autonomous flight, obstacle avoidance, and mission execution without requiring skilled pilots."
+- name: Adam Bry
+  role: Co-Founder & CEO
+  background: MS in Aeronautics and Astronautics from MIT. Led award-winning autonomous flight research at MIT. Pioneered
+    software enabling drones to fly themselves. Previously worked on autonomous systems research that won multiple DARPA challenges.
+  origin: American
+- name: Abraham Bachrach
+  role: Co-Founder
+  background: PhD from MIT in autonomous navigation and SLAM (simultaneous localization and mapping). Core researcher in MIT's
+    autonomous flight program. Expert in computer vision and robot perception.
+  origin: American
+- name: Matt Donahoe
+  role: Co-Founder
+  background: MS from MIT. Co-developed autonomous drone systems at MIT alongside Bry and Bachrach. Background in software
+    engineering and computer vision.
+  origin: American
+team_china_profile: No China connection. All founders are American MIT graduates. Skydio is the largest US-made drone manufacturer
+  and is positioned as the primary American alternative to Chinese drone maker DJI. The company has actively advocated for
+  banning Chinese drones from US government use.
+business_model: 'Vertically integrated drone manufacturer. Skydio designs, builds, and sells AI-powered autonomous drones
+  with accompanying software platforms. Revenue comes from three segments: (1) Defense/government contracts (~50%+ of bookings),
+  (2) Enterprise customers (energy, telecom, construction), and (3) Public safety (police, fire, DOTs). The core competitive
+  advantage is Skydio Autonomy, an AI software stack that enables fully autonomous flight, obstacle avoidance, and mission
+  execution without requiring skilled pilots.'
 customers:
-  - "U.S. Department of Defense (all branches)"
-  - "U.S. State Departments of Transportation (over half of all states)"
-  - "200+ public safety agencies across 47 states"
-  - "60+ energy utilities"
-  - "Enterprise customers (construction, telecom, infrastructure)"
-  - "International allied military and government customers"
-revenue_signals: "~$180M revenue in 2024, up 80% YoY from ~$100M in 2023 (Sacra estimate). $1.2B in bookings pipeline with >50% from defense contracts. CNBC Disruptor 50 company. Blue UAS-approved for US government use. [Confidence: medium -- revenue estimates from Sacra, bookings figure from company.]"
-
+- U.S. Department of Defense (all branches)
+- U.S. State Departments of Transportation (over half of all states)
+- 200+ public safety agencies across 47 states
+- 60+ energy utilities
+- Enterprise customers (construction, telecom, infrastructure)
+- International allied military and government customers
+revenue_signals: '~$180M revenue in 2024, up 80% YoY from ~$100M in 2023 (Sacra estimate). $1.2B in bookings pipeline with
+  >50% from defense contracts. CNBC Disruptor 50 company. Blue UAS-approved for US government use. [Confidence: medium --
+  revenue estimates from Sacra, bookings figure from company.]'
 sources:
-  - "https://www.skydio.com/blog/skydio-raises-230-million-series-e-funding-round"
-  - "https://techcrunch.com/2024/11/15/drone-manufacturer-skydio-raises-170-million-extension-round/"
-  - "https://sacra.com/c/skydio/"
-  - "https://sacra.com/research/skydio-at-180m-yr-growing-80-yoy/"
-  - "https://news.crunchbase.com/ai-robotics/drone-venture-funding-startup-skydio/"
-  - "https://news.mit.edu/2018/startup-skydio-autonomous-selfie-drone-0313"
+- https://www.skydio.com/blog/skydio-raises-230-million-series-e-funding-round
+- https://techcrunch.com/2024/11/15/drone-manufacturer-skydio-raises-170-million-extension-round/
+- https://sacra.com/c/skydio/
+- https://sacra.com/research/skydio-at-180m-yr-growing-80-yoy/
+- https://news.crunchbase.com/ai-robotics/drone-venture-funding-startup-skydio/
+- https://news.mit.edu/2018/startup-skydio-autonomous-selfie-drone-0313
 last_updated: 2026-03-20
 confidence: high
+website_verified: true
 ---
 
 # Skydio

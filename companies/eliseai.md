@@ -58,6 +58,7 @@ funding_rounds:
   source: https://eliseai.com/blog/eliseai-raises-250m-series-e
 one_liner: EliseAI is a vertical AI company that automates communications and operational workflows for the housing and healthcare
   industries
+website_verified: true
 ---
 
 # EliseAI -- Company Profile

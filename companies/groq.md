@@ -1,122 +1,136 @@
 ---
-name: "Groq"
-status: "acquired (Nvidia licensing/acqui-hire, Dec 2025)"
+name: Groq
+status: acquired (Nvidia licensing/acqui-hire, Dec 2025)
 founded: 2016
-hq: "Mountain View, CA"
-website: "https://groq.com"
-sector: ["AI inference hardware", "AI chips", "cloud inference"]
-one_liner: "Creator of the LPU (Language Processing Unit), a purpose-built AI inference chip delivering ultra-low latency, acquired by Nvidia for ~$20B in December 2025."
-logo: "https://groq.com/wp-content/uploads/2024/01/groq-logo.png"
-
+hq: Mountain View, CA
+website: https://groq.com
+sector:
+- AI inference hardware
+- AI chips
+- cloud inference
+one_liner: Creator of the LPU (Language Processing Unit), a purpose-built AI inference chip delivering ultra-low latency,
+  acquired by Nvidia for ~$20B in December 2025.
+logo: https://groq.com/wp-content/uploads/2024/01/groq-logo.png
 total_raised_m: 1750
 latest_valuation_m: 6900
 nvidia_deal_value_m: 20000
 funding_rounds:
-  - stage: "Series A"
-    date: 2016-12
-    amount_m: 10
-    valuation_m: 30
-    lead_investors: ["Social Capital (Chamath Palihapitiya)"]
-    source: "https://techcrunch.com/2018/09/05/secretive-semiconductor-startup-groq-raises-52m-from-social-capital/"
-    notes: "Very early bet by Chamath. The company was highly secretive at this stage."
-
-  - stage: "Series B"
-    date: 2018-09
-    amount_m: 52
-    valuation_m: ~
-    lead_investors: ["Social Capital (Chamath Palihapitiya)"]
-    source: "https://techcrunch.com/2018/09/05/secretive-semiconductor-startup-groq-raises-52m-from-social-capital/"
-    notes: "Raised $52.3M of a planned $60M round. Social Capital continued as lead."
-
-  - stage: "Series C"
-    date: 2021-04
-    amount_m: 300
-    valuation_m: 1000
-    lead_investors: ["Tiger Global Management", "D1 Capital Partners"]
-    source: "https://www.bloomberg.com/news/articles/2021-04-14/tiger-global-d1-lead-300-million-round-in-ai-chip-startup-groq"
-    notes: "Achieved unicorn status. Addition LP (Lee Fixel) and Spruce House Partnership also participated. BlackRock entered here."
-
-  - stage: "Series D"
-    date: 2024-08
-    amount_m: 640
-    valuation_m: 2800
-    lead_investors: ["BlackRock Private Equity Partners"]
-    source: "https://groq.com/newsroom/groq-raises-640m-to-meet-soaring-demand-for-fast-ai-inference"
-    notes: "Neuberger Berman, Cisco Investments, Samsung Catalyst Fund, KDDI Open Innovation Fund III also participated. Funds earmarked for scaling GroqCloud and deploying 100K+ additional LPUs."
-
-  - stage: "Series E"
-    date: 2025-09
-    amount_m: 750
-    valuation_m: 6900
-    lead_investors: ["Disruptive"]
-    source: "https://groq.com/newsroom/groq-raises-750-million-as-inference-demand-surges"
-    notes: "BlackRock, Neuberger Berman, DTCP, Samsung, Cisco, D1, Altimeter, 1789 Capital, and Infinitum also participated. More than doubled the Series D valuation."
-
-  - stage: "Saudi Arabia / HUMAIN commitment"
-    date: 2025-02
-    amount_m: 1500
-    valuation_m: ~
-    lead_investors: ["Kingdom of Saudi Arabia (PIF / HUMAIN)"]
-    source: "https://groq.com/blog/saudi-arabia-announces-1-5-billion-expansion-to-fuel-ai-powered-economy-with-groq"
-    notes: "Infrastructure deployment commitment, not equity round. For LPU-based inference infrastructure in Dammam data center. Groq became key tech provider for HUMAIN, Saudi's state-owned AI entity."
-
-  - stage: "Nvidia licensing / acqui-hire"
-    date: 2025-12
-    amount_m: 20000
-    valuation_m: ~
-    lead_investors: ["Nvidia"]
-    source: "https://www.cnbc.com/2025/12/24/nvidia-buying-ai-chip-startup-groq-for-about-20-billion-biggest-deal.html"
-    notes: "Structured as non-exclusive licensing agreement + acqui-hire, not a traditional acquisition. $17B in cash across three installments by end of 2026. Jonathan Ross and senior leaders joined Nvidia. Groq continues as nominally independent company under CFO Simon Edwards as CEO. Nvidia's largest deal ever (previous: Mellanox at ~$7B in 2019)."
-
+- stage: Series A
+  date: 2016-12
+  amount_m: 10
+  valuation_m: 30
+  lead_investors:
+  - Social Capital (Chamath Palihapitiya)
+  source: https://techcrunch.com/2018/09/05/secretive-semiconductor-startup-groq-raises-52m-from-social-capital/
+  notes: Very early bet by Chamath. The company was highly secretive at this stage.
+- stage: Series B
+  date: 2018-09
+  amount_m: 52
+  valuation_m: null
+  lead_investors:
+  - Social Capital (Chamath Palihapitiya)
+  source: https://techcrunch.com/2018/09/05/secretive-semiconductor-startup-groq-raises-52m-from-social-capital/
+  notes: Raised $52.3M of a planned $60M round. Social Capital continued as lead.
+- stage: Series C
+  date: 2021-04
+  amount_m: 300
+  valuation_m: 1000
+  lead_investors:
+  - Tiger Global Management
+  - D1 Capital Partners
+  source: https://www.bloomberg.com/news/articles/2021-04-14/tiger-global-d1-lead-300-million-round-in-ai-chip-startup-groq
+  notes: Achieved unicorn status. Addition LP (Lee Fixel) and Spruce House Partnership also participated. BlackRock entered
+    here.
+- stage: Series D
+  date: 2024-08
+  amount_m: 640
+  valuation_m: 2800
+  lead_investors:
+  - BlackRock Private Equity Partners
+  source: https://groq.com/newsroom/groq-raises-640m-to-meet-soaring-demand-for-fast-ai-inference
+  notes: Neuberger Berman, Cisco Investments, Samsung Catalyst Fund, KDDI Open Innovation Fund III also participated. Funds
+    earmarked for scaling GroqCloud and deploying 100K+ additional LPUs.
+- stage: Series E
+  date: 2025-09
+  amount_m: 750
+  valuation_m: 6900
+  lead_investors:
+  - Disruptive
+  source: https://groq.com/newsroom/groq-raises-750-million-as-inference-demand-surges
+  notes: BlackRock, Neuberger Berman, DTCP, Samsung, Cisco, D1, Altimeter, 1789 Capital, and Infinitum also participated.
+    More than doubled the Series D valuation.
+- stage: Saudi Arabia / HUMAIN commitment
+  date: 2025-02
+  amount_m: 1500
+  valuation_m: null
+  lead_investors:
+  - Kingdom of Saudi Arabia (PIF / HUMAIN)
+  source: https://groq.com/blog/saudi-arabia-announces-1-5-billion-expansion-to-fuel-ai-powered-economy-with-groq
+  notes: Infrastructure deployment commitment, not equity round. For LPU-based inference infrastructure in Dammam data center.
+    Groq became key tech provider for HUMAIN, Saudi's state-owned AI entity.
+- stage: Nvidia licensing / acqui-hire
+  date: 2025-12
+  amount_m: 20000
+  valuation_m: null
+  lead_investors:
+  - Nvidia
+  source: https://www.cnbc.com/2025/12/24/nvidia-buying-ai-chip-startup-groq-for-about-20-billion-biggest-deal.html
+  notes: 'Structured as non-exclusive licensing agreement + acqui-hire, not a traditional acquisition. $17B in cash across
+    three installments by end of 2026. Jonathan Ross and senior leaders joined Nvidia. Groq continues as nominally independent
+    company under CFO Simon Edwards as CEO. Nvidia''s largest deal ever (previous: Mellanox at ~$7B in 2019).'
 founders:
-  - name: "Jonathan Ross"
-    role: "Founder & CEO (now Chief Software Architect at Nvidia)"
-    background: "Studied mathematics and computer science at NYU's Courant Institute under Yann LeCun. First undergraduate to complete PhD-restricted CS courses. Created Google's TPU (Tensor Processing Unit) as a 20% project. Joined Google X's Rapid Eval Team to incubate new Alphabet bets. Recruited 8 of the 10 original TPU engineers to join Groq."
-    origin: "American. Reportedly did not finish high school via traditional path (described in some sources as a 'high school dropout')."
-
-  - name: "Douglas Wightman"
-    role: "Co-Founder"
-    background: "Entrepreneur and former engineer at Google X. Co-founded Groq with Ross in 2016. Limited additional public information available."
-    origin: "American (limited public info)."
-
-team_china_profile: "No known Chinese-origin founders. Founding team originates from Google's TPU project. No significant public China connections."
-
+- name: Jonathan Ross
+  role: Founder & CEO (now Chief Software Architect at Nvidia)
+  background: Studied mathematics and computer science at NYU's Courant Institute under Yann LeCun. First undergraduate to
+    complete PhD-restricted CS courses. Created Google's TPU (Tensor Processing Unit) as a 20% project. Joined Google X's
+    Rapid Eval Team to incubate new Alphabet bets. Recruited 8 of the 10 original TPU engineers to join Groq.
+  origin: American. Reportedly did not finish high school via traditional path (described in some sources as a 'high school
+    dropout').
+- name: Douglas Wightman
+  role: Co-Founder
+  background: Entrepreneur and former engineer at Google X. Co-founded Groq with Ross in 2016. Limited additional public information
+    available.
+  origin: American (limited public info).
+team_china_profile: No known Chinese-origin founders. Founding team originates from Google's TPU project. No significant public
+  China connections.
 notable_hires:
-  - "Sunny Madra - President (joined Nvidia with Ross in Dec 2025)"
-  - "Simon Edwards - CFO, became CEO after Nvidia deal"
-  - "Andrew Ling - Canada Country Manager & Head of ML Compilers (ex-Intel, ex-Qualcomm, PhD University of Toronto)"
-
-business_model: "Dual model -- hardware (LPU chips) and cloud inference (GroqCloud). GroqCloud is consumption-based pay-per-token API, similar to OpenAI/Anthropic pricing but differentiated on speed. 'Ramp to hardware' strategy: developers start on API, enterprises can scale to dedicated LPU deployments. Also does large-scale infrastructure deals (Saudi Arabia/HUMAIN). Revenue was projected at ~$500M for 2025 (revised down from $2B target). Chips fabricated by Samsung Foundry."
-
+- Sunny Madra - President (joined Nvidia with Ross in Dec 2025)
+- Simon Edwards - CFO, became CEO after Nvidia deal
+- Andrew Ling - Canada Country Manager & Head of ML Compilers (ex-Intel, ex-Qualcomm, PhD University of Toronto)
+business_model: 'Dual model -- hardware (LPU chips) and cloud inference (GroqCloud). GroqCloud is consumption-based pay-per-token
+  API, similar to OpenAI/Anthropic pricing but differentiated on speed. ''Ramp to hardware'' strategy: developers start on
+  API, enterprises can scale to dedicated LPU deployments. Also does large-scale infrastructure deals (Saudi Arabia/HUMAIN).
+  Revenue was projected at ~$500M for 2025 (revised down from $2B target). Chips fabricated by Samsung Foundry.'
 customers:
-  - "2M+ developers on GroqCloud"
-  - "HUMAIN (Saudi Arabia sovereign AI entity)"
-  - "IBM (Watsonx Orchestrate integration)"
-  - "McLaren F1 (live race data analysis)"
-  - "Bell Canada (sovereign AI deployment across six sites)"
-  - "Hugging Face (official inference provider, June 2025)"
-  - "OpenAI (models deployed on Groq infrastructure in Saudi Arabia via HUMAIN)"
-
-revenue_signals: "Projected $500M revenue for 2025 (revised down from original $2B target). One source cites $172.5M as of mid-2025. The $20B Nvidia deal dwarfs operating revenue. Approximately 624 employees as of 2025."
-
+- 2M+ developers on GroqCloud
+- HUMAIN (Saudi Arabia sovereign AI entity)
+- IBM (Watsonx Orchestrate integration)
+- McLaren F1 (live race data analysis)
+- Bell Canada (sovereign AI deployment across six sites)
+- Hugging Face (official inference provider, June 2025)
+- OpenAI (models deployed on Groq infrastructure in Saudi Arabia via HUMAIN)
+revenue_signals: Projected $500M revenue for 2025 (revised down from original $2B target). One source cites $172.5M as of
+  mid-2025. The $20B Nvidia deal dwarfs operating revenue. Approximately 624 employees as of 2025.
 sources:
-  - "https://www.cnbc.com/2025/12/24/nvidia-buying-ai-chip-startup-groq-for-about-20-billion-biggest-deal.html"
-  - "https://groq.com/newsroom/groq-raises-750-million-as-inference-demand-surges"
-  - "https://groq.com/newsroom/groq-raises-640m-to-meet-soaring-demand-for-fast-ai-inference"
-  - "https://techcrunch.com/2025/09/17/nvidia-ai-chip-challenger-groq-raises-even-more-than-expected-hits-6-9b-valuation/"
-  - "https://techcrunch.com/2018/09/05/secretive-semiconductor-startup-groq-raises-52m-from-social-capital/"
-  - "https://www.bloomberg.com/news/articles/2021-04-14/tiger-global-d1-lead-300-million-round-in-ai-chip-startup-groq"
-  - "https://groq.com/blog/saudi-arabia-announces-1-5-billion-expansion-to-fuel-ai-powered-economy-with-groq"
-  - "https://intuitionlabs.ai/articles/nvidia-groq-ai-inference-deal"
-  - "https://en.wikipedia.org/wiki/Groq"
-  - "https://sacra.com/c/groq/"
-  - "https://newsroom.ibm.com/2025-10-20-ibm-and-groq-partner-to-accelerate-enterprise-ai-deployment-with-speed-and-scale"
-  - "https://www.nextplatform.com/ai/2026/03/17/nvidia-finally-admits-why-it-shelled-out-20-billion-for-groq/5209495"
-  - "https://getlatka.com/companies/groq.com"
-
+- https://www.cnbc.com/2025/12/24/nvidia-buying-ai-chip-startup-groq-for-about-20-billion-biggest-deal.html
+- https://groq.com/newsroom/groq-raises-750-million-as-inference-demand-surges
+- https://groq.com/newsroom/groq-raises-640m-to-meet-soaring-demand-for-fast-ai-inference
+- https://techcrunch.com/2025/09/17/nvidia-ai-chip-challenger-groq-raises-even-more-than-expected-hits-6-9b-valuation/
+- https://techcrunch.com/2018/09/05/secretive-semiconductor-startup-groq-raises-52m-from-social-capital/
+- https://www.bloomberg.com/news/articles/2021-04-14/tiger-global-d1-lead-300-million-round-in-ai-chip-startup-groq
+- https://groq.com/blog/saudi-arabia-announces-1-5-billion-expansion-to-fuel-ai-powered-economy-with-groq
+- https://intuitionlabs.ai/articles/nvidia-groq-ai-inference-deal
+- https://en.wikipedia.org/wiki/Groq
+- https://sacra.com/c/groq/
+- https://newsroom.ibm.com/2025-10-20-ibm-and-groq-partner-to-accelerate-enterprise-ai-deployment-with-speed-and-scale
+- https://www.nextplatform.com/ai/2026/03/17/nvidia-finally-admits-why-it-shelled-out-20-billion-for-groq/5209495
+- https://getlatka.com/companies/groq.com
 last_updated: 2026-03-20
-confidence: "medium-high"
-confidence_notes: "Funding rounds Series A-B have some variance across sources on exact amounts and dates. Series C onward are well-documented. The Nvidia deal structure is complex and reporting varies on details. Revenue figures are uncertain -- the $500M 2025 projection and $172.5M mid-2025 figure come from different sources and may not be fully reconcilable."
+confidence: medium-high
+confidence_notes: Funding rounds Series A-B have some variance across sources on exact amounts and dates. Series C onward
+  are well-documented. The Nvidia deal structure is complex and reporting varies on details. Revenue figures are uncertain
+  -- the $500M 2025 projection and $172.5M mid-2025 figure come from different sources and may not be fully reconcilable.
+website_verified: true
 ---
 
 # Groq

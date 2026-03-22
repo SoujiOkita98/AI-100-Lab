@@ -22,6 +22,7 @@ founders:
   role: COO
   background: Ex-Palantir.
   origin: Chinese-American
+data_notes: 'Needs verification: website, source_urls, headquarters. Profile may be incomplete.'
 ---
 
 # Distyl AI

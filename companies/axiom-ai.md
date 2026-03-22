@@ -1,51 +1,59 @@
 ---
-name: "Axiom"
+name: Axiom
 status: active
 founded: 2024
-hq: "San Francisco, CA"
-website: "https://axiommath.ai"
-sector: ["AI safety", "formal verification", "code verification", "mathematical AI"]
-one_liner: "Verified AI startup using formal mathematics to prove AI-generated code and outputs are correct, founded by a 25-year-old Stanford PhD student."
-logo: ~
-
+hq: San Francisco, CA
+website: https://axiommath.ai
+sector:
+- AI safety
+- formal verification
+- code verification
+- mathematical AI
+one_liner: Verified AI startup using formal mathematics to prove AI-generated code and outputs are correct, founded by a 25-year-old
+  Stanford PhD student.
+logo: null
 total_raised_m: 264
 latest_valuation_m: 1600
 funding_rounds:
-  - stage: "Seed"
-    date: 2025-10
-    amount_m: 64
-    valuation_m: 300
-    lead_investors: ["B Capital"]
-    source: "https://siliconangle.com/2025/10/02/ai-startup-axiom-gets-64m-develop-new-knowledge-advanced-mathematics/"
-    notes: "Greycroft, Madrona Venture Group, and Menlo Ventures also participated."
-
-  - stage: "Series A"
-    date: 2026-03
-    amount_m: 200
-    valuation_m: 1600
-    lead_investors: ["Menlo Ventures"]
-    source: "https://siliconangle.com/2026/03/12/verifiable-ai-startup-axiom-raises-200m-prove-ai-generated-code-safe-use/"
-    notes: "Existing investors Madrona, Greycroft, B Capital, Toyota Ventures, and Triatomic Capital also participated. Valuation jumped 5x from seed in under 6 months."
-
+- stage: Seed
+  date: 2025-10
+  amount_m: 64
+  valuation_m: 300
+  lead_investors:
+  - B Capital
+  source: https://siliconangle.com/2025/10/02/ai-startup-axiom-gets-64m-develop-new-knowledge-advanced-mathematics/
+  notes: Greycroft, Madrona Venture Group, and Menlo Ventures also participated.
+- stage: Series A
+  date: 2026-03
+  amount_m: 200
+  valuation_m: 1600
+  lead_investors:
+  - Menlo Ventures
+  source: https://siliconangle.com/2026/03/12/verifiable-ai-startup-axiom-raises-200m-prove-ai-generated-code-safe-use/
+  notes: Existing investors Madrona, Greycroft, B Capital, Toyota Ventures, and Triatomic Capital also participated. Valuation
+    jumped 5x from seed in under 6 months.
 founders:
-  - name: "Carina Hong"
-    role: "CEO & Founder"
-    background: "25-year-old Stanford University PhD student in mathematics. MIT graduate. Described as a 'math wizard.' Research focus on formal verification and mathematical proof systems."
-    origin: "American (of Asian descent, based on name and limited public info)."
-
-team_china_profile: "Founder Carina Hong appears to be of Asian descent but limited public information on specific ethnic background. Stanford and MIT educated."
-
-business_model: "Enterprise SaaS / developer tools. Axiom's 'Verified AI' approach combines formal mathematics and AI to prove whether code and other machine-generated outputs are correct. Core use case is verifying AI-generated code -- a critical problem as AI coding assistants (Cursor, Copilot, Claude Code) proliferate. Target customers include enterprises deploying AI-generated code in safety-critical or high-stakes environments (financial services, healthcare, infrastructure). Revenue model likely usage-based or subscription for verification services."
-
+- name: Carina Hong
+  role: CEO & Founder
+  background: 25-year-old Stanford University PhD student in mathematics. MIT graduate. Described as a 'math wizard.' Research
+    focus on formal verification and mathematical proof systems.
+  origin: American (of Asian descent, based on name and limited public info).
+team_china_profile: Founder Carina Hong appears to be of Asian descent but limited public information on specific ethnic background.
+  Stanford and MIT educated.
+business_model: Enterprise SaaS / developer tools. Axiom's 'Verified AI' approach combines formal mathematics and AI to prove
+  whether code and other machine-generated outputs are correct. Core use case is verifying AI-generated code -- a critical
+  problem as AI coding assistants (Cursor, Copilot, Claude Code) proliferate. Target customers include enterprises deploying
+  AI-generated code in safety-critical or high-stakes environments (financial services, healthcare, infrastructure). Revenue
+  model likely usage-based or subscription for verification services.
 sources:
-  - "https://siliconangle.com/2026/03/12/verifiable-ai-startup-axiom-raises-200m-prove-ai-generated-code-safe-use/"
-  - "https://pulse2.com/axiom-200-million-series-a-at-1-6-billion-valuation-raised-for-verified-ai-technology/amp/"
-  - "https://siliconangle.com/2025/10/02/ai-startup-axiom-gets-64m-develop-new-knowledge-advanced-mathematics/"
-  - "https://b.capital/why-we-invested/toward-mathematical-superintelligence-why-we-invested-in-axiom/"
-  - "https://axiommath.ai/"
-
+- https://siliconangle.com/2026/03/12/verifiable-ai-startup-axiom-raises-200m-prove-ai-generated-code-safe-use/
+- https://pulse2.com/axiom-200-million-series-a-at-1-6-billion-valuation-raised-for-verified-ai-technology/amp/
+- https://siliconangle.com/2025/10/02/ai-startup-axiom-gets-64m-develop-new-knowledge-advanced-mathematics/
+- https://b.capital/why-we-invested/toward-mathematical-superintelligence-why-we-invested-in-axiom/
+- https://axiommath.ai/
 last_updated: 2026-03-20
 confidence: medium
+website_verified: true
 ---
 
 # Axiom

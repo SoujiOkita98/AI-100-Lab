@@ -11,6 +11,7 @@ employees: ~400+ (estimate)
 website: https://tenstorrent.com
 last_updated: 2026-03-20
 one_liner: Tenstorrent is a Canadian AI chip and RISC-V processor company led by legendary chip architect Jim Keller
+website_verified: true
 ---
 
 # Tenstorrent

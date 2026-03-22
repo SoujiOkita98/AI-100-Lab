@@ -62,6 +62,7 @@ funding_rounds:
   source: https://techcrunch.com/2023/06/29/inflection-ai-lands-1-3b-investment-to-build-more-personal-ai/
   notes: In March 2024, Microsoft hired most staff including co-founder Mustafa Suleyman. Company pivoted under new CEO Sean
     White.
+website_verified: true
 ---
 
 # Inflection AI

@@ -1,63 +1,68 @@
 ---
-name: "Humans&"
+name: Humans&
 status: active
 founded: 2025
-hq: "San Francisco, CA"
-website: "https://humansand.ai"
-sector: ["foundation models", "AI research", "human-centric AI"]
-one_liner: "Human-centric AI research lab founded by ex-Anthropic, xAI, and Google alumni, building frontier AI that empowers rather than replaces people."
-logo: ~
-
+hq: San Francisco, CA
+website: https://humansand.ai
+sector:
+- foundation models
+- AI research
+- human-centric AI
+one_liner: Human-centric AI research lab founded by ex-Anthropic, xAI, and Google alumni, building frontier AI that empowers
+  rather than replaces people.
+logo: null
 total_raised_m: 480
 latest_valuation_m: 4480
 funding_rounds:
-  - stage: "Seed"
-    date: 2026-01
-    amount_m: 480
-    valuation_m: 4480
-    lead_investors: ["SV Angel", "Georges Harik (co-founder)"]
-    source: "https://techcrunch.com/2026/01/20/humans-a-human-centric-ai-startup-founded-by-anthropic-xai-google-alums-raised-480m-seed-round/"
-    notes: "Second-largest seed round in VC history (behind Thinking Machines Lab's $2B). Investors include Nvidia, Jeff Bezos, GV, Emerson Collective (Laurene Powell Jobs)."
-
+- stage: Seed
+  date: 2026-01
+  amount_m: 480
+  valuation_m: 4480
+  lead_investors:
+  - SV Angel
+  - Georges Harik (co-founder)
+  source: https://techcrunch.com/2026/01/20/humans-a-human-centric-ai-startup-founded-by-anthropic-xai-google-alums-raised-480m-seed-round/
+  notes: Second-largest seed round in VC history (behind Thinking Machines Lab's $2B). Investors include Nvidia, Jeff Bezos,
+    GV, Emerson Collective (Laurene Powell Jobs).
 founders:
-  - name: "Andi Peng"
-    role: "Co-Founder"
-    background: "Former Anthropic researcher. Worked on reinforcement learning and post-training of Claude 3.5 through Claude 4.5."
-    origin: "American."
-
-  - name: "Georges Harik"
-    role: "Co-Founder"
-    background: "Google's seventh employee. Helped build Google's first advertising systems. Veteran Silicon Valley operator and investor."
-    origin: "Lebanese-American."
-
-  - name: "Eric Zelikman"
-    role: "Co-Founder"
-    background: "Former xAI researcher. Helped develop the Grok chatbot."
-    origin: "American."
-
-  - name: "Yuchen He"
-    role: "Co-Founder"
-    background: "Former xAI researcher. Helped develop the Grok chatbot."
-    origin: "Chinese-American (based on name; limited public info)."
-
-  - name: "Noah Goodman"
-    role: "Co-Founder"
-    background: "Stanford professor of psychology and computer science. Expert in computational cognitive science and probabilistic programming."
-    origin: "American."
-
-team_china_profile: "One co-founder (Yuchen He) appears to be of Chinese origin based on name, though limited public information is available. He was previously at xAI."
-
-business_model: "Pre-revenue research lab. Philosophy centers on AI that works with humans rather than replacing them. Models trained through reinforcement learning to understand and adapt to individual user preferences. Specific products and revenue model not yet publicly disclosed. The 'human-centric' positioning suggests focus on augmentation tools, collaboration interfaces, or AI systems designed with human oversight built in."
-
+- name: Andi Peng
+  role: Co-Founder
+  background: Former Anthropic researcher. Worked on reinforcement learning and post-training of Claude 3.5 through Claude
+    4.5.
+  origin: American.
+- name: Georges Harik
+  role: Co-Founder
+  background: Google's seventh employee. Helped build Google's first advertising systems. Veteran Silicon Valley operator
+    and investor.
+  origin: Lebanese-American.
+- name: Eric Zelikman
+  role: Co-Founder
+  background: Former xAI researcher. Helped develop the Grok chatbot.
+  origin: American.
+- name: Yuchen He
+  role: Co-Founder
+  background: Former xAI researcher. Helped develop the Grok chatbot.
+  origin: Chinese-American (based on name; limited public info).
+- name: Noah Goodman
+  role: Co-Founder
+  background: Stanford professor of psychology and computer science. Expert in computational cognitive science and probabilistic
+    programming.
+  origin: American.
+team_china_profile: One co-founder (Yuchen He) appears to be of Chinese origin based on name, though limited public information
+  is available. He was previously at xAI.
+business_model: Pre-revenue research lab. Philosophy centers on AI that works with humans rather than replacing them. Models
+  trained through reinforcement learning to understand and adapt to individual user preferences. Specific products and revenue
+  model not yet publicly disclosed. The 'human-centric' positioning suggests focus on augmentation tools, collaboration interfaces,
+  or AI systems designed with human oversight built in.
 sources:
-  - "https://techcrunch.com/2026/01/20/humans-a-human-centric-ai-startup-founded-by-anthropic-xai-google-alums-raised-480m-seed-round/"
-  - "https://news.crunchbase.com/ai/humans-raises-huge-seed-round-unicorn-valuation/"
-  - "https://finance.yahoo.com/news/humans-human-centric-ai-startup-160057256.html"
-  - "https://www.thesaasnews.com/news/humans-raises-480m-seed-at-4-48b-valuation"
-  - "https://techstartups.com/2026/01/20/ai-startup-humans-raises-480m-seed-at-4-48b-valuation-as-former-openai-and-google-researchers-launch-frontier-ai-lab/"
-
+- https://techcrunch.com/2026/01/20/humans-a-human-centric-ai-startup-founded-by-anthropic-xai-google-alums-raised-480m-seed-round/
+- https://news.crunchbase.com/ai/humans-raises-huge-seed-round-unicorn-valuation/
+- https://finance.yahoo.com/news/humans-human-centric-ai-startup-160057256.html
+- https://www.thesaasnews.com/news/humans-raises-480m-seed-at-4-48b-valuation
+- https://techstartups.com/2026/01/20/ai-startup-humans-raises-480m-seed-at-4-48b-valuation-as-former-openai-and-google-researchers-launch-frontier-ai-lab/
 last_updated: 2026-03-20
 confidence: medium
+website_verified: true
 ---
 
 # Humans&

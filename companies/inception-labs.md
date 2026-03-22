@@ -36,6 +36,7 @@ founders:
   origin: Indian-American
 website: https://inceptionlabs.ai
 headquarters: Palo Alto, CA
+website_verified: true
 ---
 
 # Inception Labs

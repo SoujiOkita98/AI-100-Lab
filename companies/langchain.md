@@ -34,6 +34,7 @@ funding_rounds:
   source: https://techcrunch.com/2025/10/21/open-source-agentic-startup-langchain-hits-1-25b-valuation/
 one_liner: LangChain is the leading open-source framework and commercial platform for building applications powered by large
   language models (LLMs)
+website_verified: true
 ---
 
 # LangChain

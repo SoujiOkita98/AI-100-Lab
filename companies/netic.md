@@ -26,6 +26,7 @@ last_updated: 2026-03-21
 confidence: medium
 website: https://netic.ai
 headquarters: San Francisco, CA
+website_verified: true
 ---
 
 # Netic

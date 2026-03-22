@@ -1,19 +1,22 @@
 ---
-name: "Bone AI"
+name: Bone AI
 founded: 2024
-headquarters: "Seoul, South Korea"
-sector: "AI Defense / Autonomous Maritime"
-one_liner: "AI platform for autonomous surface vessels and underwater drones for defense and maritime surveillance."
+headquarters: Seoul, South Korea
+sector: AI Defense / Autonomous Maritime
+one_liner: AI platform for autonomous surface vessels and underwater drones for defense and maritime surveillance.
 status: active
 funding_rounds:
-  - stage: "Seed"
-    date: "2025-11"
-    amount_m: 12
-    lead_investors: ["Third Prime", "Kolon Group"]
-    source: "https://techcrunch.com/2025/11/17/bone-ai-raises-funding/"
+- stage: Seed
+  date: 2025-11
+  amount_m: 12
+  lead_investors:
+  - Third Prime
+  - Kolon Group
+  source: https://techcrunch.com/2025/11/17/bone-ai-raises-funding/
 total_funding: 12
 last_updated: 2026-03-21
 confidence: medium
+data_notes: 'Needs verification: website, founders, source_urls. Profile may be incomplete.'
 ---
 
 # Bone AI

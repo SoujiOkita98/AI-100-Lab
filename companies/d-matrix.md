@@ -11,6 +11,7 @@ employees: ~200 (estimate)
 website: https://www.d-matrix.ai
 last_updated: 2026-03-20
 one_liner: In-memory AI inference accelerator chips — Corsair series targeting 10x faster inference than GPUs. $2B valuation.
+website_verified: true
 ---
 
 # d-Matrix

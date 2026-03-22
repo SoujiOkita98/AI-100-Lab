@@ -25,6 +25,7 @@ founders:
   role: Technical Co-founder
   background: Built Goldman Sachs EMEA equity trading infrastructure.
   origin: Swedish
+data_notes: 'Needs verification: website, source_urls. Profile may be incomplete.'
 ---
 
 # Endra

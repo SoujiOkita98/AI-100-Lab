@@ -31,6 +31,7 @@ funding_rounds:
   - LuminArx Capital
   source: https://news.crunchbase.com/cloud/ai-cloud-startup-unicorn-vultr-amd-luminarx/
 one_liner: Vultr is a cloud infrastructure provider that has pivoted aggressively toward AI workloads
+website_verified: true
 ---
 
 # Vultr

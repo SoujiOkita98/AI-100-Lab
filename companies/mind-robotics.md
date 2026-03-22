@@ -1,77 +1,98 @@
 ---
-name: "Mind Robotics"
+name: Mind Robotics
 status: active
 founded: 2025
-hq: "Palo Alto, CA"
-website: "https://www.mindrobotics.com"
-sector: ["industrial robotics", "AI", "manufacturing automation", "dexterous manipulation", "physical AI"]
-one_liner: "Building AI-powered industrial robots that bring human-like dexterity and physical reasoning to factory work, spun out of Rivian."
-logo: ""
-
+hq: Palo Alto, CA
+website: https://www.mindrobotics.com
+sector:
+- industrial robotics
+- AI
+- manufacturing automation
+- dexterous manipulation
+- physical AI
+one_liner: Building AI-powered industrial robots that bring human-like dexterity and physical reasoning to factory work, spun
+  out of Rivian.
+logo: ''
 total_raised_m: 615
 latest_valuation_m: 2000
 funding_rounds:
-  - stage: "Seed"
-    date: 2025-11
-    amount_m: 115
-    valuation_m: null
-    lead_investors: ["Eclipse"]
-    source: "https://techcrunch.com/2025/11/04/rivian-creates-another-spinoff-company-called-mind-robotics/"
-    notes: "Raised alongside the November 2025 spinout from Rivian. Hanabi Capital Management also participated. Some sources report the seed as $110M rather than $115M -- exact figure uncertain."
-
-  - stage: "Series A"
-    date: 2026-03
-    amount_m: 500
-    valuation_m: 2000
-    lead_investors: ["Accel", "Andreessen Horowitz"]
-    source: "https://www.businesswire.com/news/home/20260311414783/en/Mind-Robotics-Announces-$500M-Financing-to-Support-Deployment-of-AI-Powered-Robots-at-Industrial-Scale"
-    notes: "Co-led by Accel and a16z. Sameer Gandhi (Accel) joined the board. Rivian Automotive remains a major shareholder. Announced March 11, 2026. Valuation reported at approximately $2B."
-
+- stage: Seed
+  date: 2025-11
+  amount_m: 115
+  valuation_m: null
+  lead_investors:
+  - Eclipse
+  source: https://techcrunch.com/2025/11/04/rivian-creates-another-spinoff-company-called-mind-robotics/
+  notes: Raised alongside the November 2025 spinout from Rivian. Hanabi Capital Management also participated. Some sources
+    report the seed as $110M rather than $115M -- exact figure uncertain.
+- stage: Series A
+  date: 2026-03
+  amount_m: 500
+  valuation_m: 2000
+  lead_investors:
+  - Accel
+  - Andreessen Horowitz
+  source: https://www.businesswire.com/news/home/20260311414783/en/Mind-Robotics-Announces-$500M-Financing-to-Support-Deployment-of-AI-Powered-Robots-at-Industrial-Scale
+  notes: Co-led by Accel and a16z. Sameer Gandhi (Accel) joined the board. Rivian Automotive remains a major shareholder.
+    Announced March 11, 2026. Valuation reported at approximately $2B.
 founders:
-  - name: "RJ Scaringe"
-    role: "Founder & Chairman (also CEO of Rivian)"
-    background: "Founded Rivian in 2009. PhD in Engineering from MIT Sloan Automotive Lab. Built Rivian into a publicly traded EV company (IPO 2021, one of the largest in US history). Deep experience in vertically integrated hardware manufacturing, supply chains, and factory operations. Serves as chairman of Mind Robotics while remaining CEO of Rivian."
-    origin: "American"
-
-team_composition: "The founding team draws from Physical Intelligence, Waymo, Zoox, and Google -- reflecting deep expertise in autonomy, perception, real-world system deployment, and AI-driven manipulation. As of early 2026, the company has approximately 13 employees and is growing rapidly. Beyond Scaringe as chairman, specific executive names and titles have not been publicly disclosed. The team composition suggests a deliberate blend of robotics AI research talent with practical manufacturing and autonomous systems experience."
-
-business_model: "Mind Robotics is building an integrated AI robotics platform -- models, custom hardware (including robotic hands/end-effectors), and deployment infrastructure -- for industrial manufacturing environments. The key strategic differentiator is 'captured distribution': Rivian serves as both a major shareholder and an anchor customer, providing immediate access to high-volume production lines and a massive proprietary data flywheel for training AI models. This bypasses the classic robotics startup 'chicken and egg' problem of needing deployment data to improve models but needing good models to secure deployments. The company designs robots around specific industrial tasks (parts handling, wiring assembly, component assembly) rather than pursuing humanoid form factors. The initial go-to-market is deploying robots at scale within Rivian's own factories, with the likely path to external customers once the platform is proven. Revenue model details have not been publicly disclosed."
-
+- name: RJ Scaringe
+  role: Founder & Chairman (also CEO of Rivian)
+  background: Founded Rivian in 2009. PhD in Engineering from MIT Sloan Automotive Lab. Built Rivian into a publicly traded
+    EV company (IPO 2021, one of the largest in US history). Deep experience in vertically integrated hardware manufacturing,
+    supply chains, and factory operations. Serves as chairman of Mind Robotics while remaining CEO of Rivian.
+  origin: American
+team_composition: The founding team draws from Physical Intelligence, Waymo, Zoox, and Google -- reflecting deep expertise
+  in autonomy, perception, real-world system deployment, and AI-driven manipulation. As of early 2026, the company has approximately
+  13 employees and is growing rapidly. Beyond Scaringe as chairman, specific executive names and titles have not been publicly
+  disclosed. The team composition suggests a deliberate blend of robotics AI research talent with practical manufacturing
+  and autonomous systems experience.
+business_model: 'Mind Robotics is building an integrated AI robotics platform -- models, custom hardware (including robotic
+  hands/end-effectors), and deployment infrastructure -- for industrial manufacturing environments. The key strategic differentiator
+  is ''captured distribution'': Rivian serves as both a major shareholder and an anchor customer, providing immediate access
+  to high-volume production lines and a massive proprietary data flywheel for training AI models. This bypasses the classic
+  robotics startup ''chicken and egg'' problem of needing deployment data to improve models but needing good models to secure
+  deployments. The company designs robots around specific industrial tasks (parts handling, wiring assembly, component assembly)
+  rather than pursuing humanoid form factors. The initial go-to-market is deploying robots at scale within Rivian''s own factories,
+  with the likely path to external customers once the platform is proven. Revenue model details have not been publicly disclosed.'
 products_and_models:
-  - "AI-powered industrial robotics platform for dexterous, variable, and reasoning-intensive factory tasks"
-  - "Custom robotic hands and end-effectors designed for manipulation tasks beyond classical fixed automation"
-  - "AI foundation models trained on Rivian production line data for physical reasoning, adaptation, and dexterity"
-
+- AI-powered industrial robotics platform for dexterous, variable, and reasoning-intensive factory tasks
+- Custom robotic hands and end-effectors designed for manipulation tasks beyond classical fixed automation
+- AI foundation models trained on Rivian production line data for physical reasoning, adaptation, and dexterity
 customers_and_partnerships:
-  - "Rivian Automotive: Anchor partner and deployment environment. Mind Robotics robots are being developed for and deployed within Rivian's EV manufacturing facilities."
-  - "Scaringe stated (WSJ, March 2026) that Mind Robotics will have 'a large number of robots deployed' by end of 2026."
-
+- 'Rivian Automotive: Anchor partner and deployment environment. Mind Robotics robots are being developed for and deployed
+  within Rivian''s EV manufacturing facilities.'
+- Scaringe stated (WSJ, March 2026) that Mind Robotics will have 'a large number of robots deployed' by end of 2026.
 competitors:
-  - "Physical Intelligence (foundation models for any robot, $5.6B valuation)"
-  - "Skild AI (Carnegie Mellon spinout, 'omni-bodied' robot brain, reportedly $30M revenue)"
-  - "Covariant (warehouse robotics AI, acquired by Amazon 2024)"
-  - "Agility Robotics (Digit humanoid for warehouse/logistics)"
-  - "FANUC / ABB / KUKA (incumbent industrial robot manufacturers)"
-  - "Tesla Optimus (vertically integrated humanoid, factory deployment ambitions)"
-  - "Bright Machines (AI-powered factory automation)"
-
+- Physical Intelligence (foundation models for any robot, $5.6B valuation)
+- Skild AI (Carnegie Mellon spinout, 'omni-bodied' robot brain, reportedly $30M revenue)
+- Covariant (warehouse robotics AI, acquired by Amazon 2024)
+- Agility Robotics (Digit humanoid for warehouse/logistics)
+- FANUC / ABB / KUKA (incumbent industrial robot manufacturers)
+- Tesla Optimus (vertically integrated humanoid, factory deployment ambitions)
+- Bright Machines (AI-powered factory automation)
 sources:
-  - "https://techcrunch.com/2026/03/11/rivian-mind-robotics-series-a-500m-fund-raise-industrial-ai-powered-robots/"
-  - "https://techcrunch.com/2025/11/04/rivian-creates-another-spinoff-company-called-mind-robotics/"
-  - "https://www.businesswire.com/news/home/20260311414783/en/Mind-Robotics-Announces-$500M-Financing-to-Support-Deployment-of-AI-Powered-Robots-at-Industrial-Scale"
-  - "https://techcrunch.com/2026/03/15/rivians-rj-scaringe-thinks-were-doing-robots-all-wrong/"
-  - "https://www.humanoidsdaily.com/news/rj-scaringe-unveils-mind-robotics-a-500m-bet-on-captured-distribution-for-industrial-ai"
-  - "https://riviantrackr.com/news/mind-robotics-raises-500-million-as-rj-scaringe-bets-on-factory-robots-over-humanoids/"
-  - "https://eletric-vehicles.com/rivian/mind-robotics/rivian-ceo-gives-first-detailed-look-at-2-billion-spin-off-mind-robotics/"
-  - "https://www.assemblymag.com/articles/99921-mind-robotics-develops-ai-driven-platform-to-automate-complex-factory-tasks-at-rivian"
-  - "https://www.robotics247.com/article/rivian_creates_mind_robotics_as_a_spinoff_company_to_focus_on_advancing_industrial_ai"
-  - "https://www.globalbankingandfinance.com/rivian-spinout-mind-robotics-valued-2-billion-series-funding/"
-  - "https://techfundingnews.com/mind-robotics-500m-series-a-ai-industrial-robotics/"
-  - "https://www.wglt.org/local-news/2026-03-11/rivian-owned-robotics-company-secures-more-startup-funding"
-
+- https://techcrunch.com/2026/03/11/rivian-mind-robotics-series-a-500m-fund-raise-industrial-ai-powered-robots/
+- https://techcrunch.com/2025/11/04/rivian-creates-another-spinoff-company-called-mind-robotics/
+- https://www.businesswire.com/news/home/20260311414783/en/Mind-Robotics-Announces-$500M-Financing-to-Support-Deployment-of-AI-Powered-Robots-at-Industrial-Scale
+- https://techcrunch.com/2026/03/15/rivians-rj-scaringe-thinks-were-doing-robots-all-wrong/
+- https://www.humanoidsdaily.com/news/rj-scaringe-unveils-mind-robotics-a-500m-bet-on-captured-distribution-for-industrial-ai
+- https://riviantrackr.com/news/mind-robotics-raises-500-million-as-rj-scaringe-bets-on-factory-robots-over-humanoids/
+- https://eletric-vehicles.com/rivian/mind-robotics/rivian-ceo-gives-first-detailed-look-at-2-billion-spin-off-mind-robotics/
+- https://www.assemblymag.com/articles/99921-mind-robotics-develops-ai-driven-platform-to-automate-complex-factory-tasks-at-rivian
+- https://www.robotics247.com/article/rivian_creates_mind_robotics_as_a_spinoff_company_to_focus_on_advancing_industrial_ai
+- https://www.globalbankingandfinance.com/rivian-spinout-mind-robotics-valued-2-billion-series-funding/
+- https://techfundingnews.com/mind-robotics-500m-series-a-ai-industrial-robotics/
+- https://www.wglt.org/local-news/2026-03-11/rivian-owned-robotics-company-secures-more-startup-funding
 last_updated: 2026-03-20
 confidence: medium
-confidence_notes: "Funding amounts ($115M seed, $500M Series A) and lead investors are well-sourced across multiple outlets (TechCrunch, BusinessWire, Yahoo Finance). Some sources report the seed as $110M rather than $115M. The ~$2B valuation is consistently reported. Founder/chairman role for Scaringe is confirmed. However, the broader leadership team, specific executive titles, and detailed business model/pricing are not publicly available. Team origins (Physical Intelligence, Waymo, Zoox, Google) are mentioned in press coverage but individual names beyond Scaringe and board member Sameer Gandhi have not been disclosed. Employee count (~13) is from LinkedIn and may be outdated given rapid hiring."
+confidence_notes: Funding amounts ($115M seed, $500M Series A) and lead investors are well-sourced across multiple outlets
+  (TechCrunch, BusinessWire, Yahoo Finance). Some sources report the seed as $110M rather than $115M. The ~$2B valuation is
+  consistently reported. Founder/chairman role for Scaringe is confirmed. However, the broader leadership team, specific executive
+  titles, and detailed business model/pricing are not publicly available. Team origins (Physical Intelligence, Waymo, Zoox,
+  Google) are mentioned in press coverage but individual names beyond Scaringe and board member Sameer Gandhi have not been
+  disclosed. Employee count (~13) is from LinkedIn and may be outdated given rapid hiring.
+website_verified: true
 ---
 
 # Mind Robotics

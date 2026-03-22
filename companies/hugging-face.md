@@ -19,6 +19,7 @@ one_liner: The open-source AI platform — 500K+ models, 100K+ datasets. Where t
 website: https://huggingface.co
 total_funding: 400
 latest_valuation: 4500
+website_verified: true
 ---
 
 # Hugging Face

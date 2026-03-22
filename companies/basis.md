@@ -39,6 +39,7 @@ funding_rounds:
   - Accel
   - GV
   source: https://www.bloomberg.com/news/articles/2026-02-24/
+website_verified: true
 ---
 
 # Basis -- Company Profile

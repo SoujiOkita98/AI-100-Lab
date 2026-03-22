@@ -42,6 +42,7 @@ last_updated: 2026-03-20
 confidence: high
 one_liner: HeyGen is an AI-powered video generation platform that enables users to create professional videos using realistic
   AI avatars, voice cloning, and text-to-speech in over 175 languages
+website_verified: true
 ---
 
 # HeyGen

@@ -76,6 +76,7 @@ funding_rounds:
   source: https://techcrunch.com/2025/09/10/perplexity-reportedly-raised-200m-at-20b-valuation/
 one_liner: Perplexity AI is an AI-powered "answer engine" that combines large language models with real-time web search to
   deliver cited, conversational answers to user queries
+website_verified: true
 ---
 
 # Perplexity AI

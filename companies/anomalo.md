@@ -54,6 +54,7 @@ funding_rounds:
 strategic_investors:
 - Databricks Ventures
 - Snowflake Ventures
+website_verified: true
 ---
 
 # Anomalo

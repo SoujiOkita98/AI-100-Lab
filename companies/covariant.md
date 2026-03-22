@@ -106,6 +106,7 @@ customers:
 - 'Industries: apparel, health & beauty, grocery, pharmaceuticals'
 revenue_signals: No public revenue figures. Pre-deal, Covariant had deployed hundreds of AI-powered robotic solutions across
   multiple industries.
+website_verified: true
 ---
 
 ## Overview

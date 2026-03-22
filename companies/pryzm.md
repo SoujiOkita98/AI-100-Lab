@@ -1,22 +1,25 @@
 ---
-name: "Pryzm"
+name: Pryzm
 founded: 2024
 website: https://pryzm.io
-sector: "AI GovTech / Defense Procurement"
-one_liner: "AI platform for federal procurement — helps defense tech discover RFPs and agencies move faster. IL5+FedRAMP High."
+sector: AI GovTech / Defense Procurement
+one_liner: AI platform for federal procurement — helps defense tech discover RFPs and agencies move faster. IL5+FedRAMP High.
 status: active
 founders:
-  - name: "Nick LaRovere"
-    role: "CEO"
-    background: "Ex-Palantir, Lockheed Martin"
+- name: Nick LaRovere
+  role: CEO
+  background: Ex-Palantir, Lockheed Martin
 funding_rounds:
-  - stage: "Seed"
-    date: "2025-12"
-    amount_m: 12.2
-    lead_investors: ["a16z American Dynamism"]
+- stage: Seed
+  date: 2025-12
+  amount_m: 12.2
+  lead_investors:
+  - a16z American Dynamism
 total_funding: 12.2
 last_updated: 2026-03-21
 confidence: medium
+data_notes: 'Needs verification: source_urls, headquarters. Profile may be incomplete.'
+website_verified: true
 ---
 
 # Pryzm

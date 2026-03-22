@@ -48,6 +48,7 @@ funding_rounds:
   source: https://news.crunchbase.com/venture/sapphire-led-raise-manufacturing-ai-startup-tractian/
 one_liner: Tractian is an industrial AI company that provides integrated hardware and software solutions to eliminate unplanned
   downtime in manufacturing and heavy industry
+website_verified: true
 ---
 
 # Tractian -- Company Profile

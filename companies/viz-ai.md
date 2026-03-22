@@ -11,6 +11,7 @@ stage: Series D
 status: Private (unicorn)
 website: https://www.viz.ai
 last_updated: 2026-03-20
+website_verified: true
 ---
 
 # Viz.ai

@@ -36,6 +36,7 @@ tags:
 - tsinghua-affiliated
 last_updated: 2026-03-20
 one_liner: Tripo AI is an AI-powered platform for generating high-quality 3D models from text prompts or images in seconds
+website_verified: true
 ---
 
 # Tripo AI

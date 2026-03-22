@@ -17,6 +17,7 @@ confidence_notes: Total funding of $70M and round details well-sourced via Crunc
   Post-Series B valuation not publicly disclosed.
 one_liner: Otter.ai is an AI-powered meeting assistant that provides real-time transcription, automated summaries, and action
   items for meetings
+website_verified: true
 ---
 
 # Otter.ai -- AI Meeting Transcription & Productivity

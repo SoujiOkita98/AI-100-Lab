@@ -1,81 +1,111 @@
 ---
-name: "World Labs"
+name: World Labs
 status: active
 founded: 2024
-hq: "San Francisco, CA"
-website: "https://www.worldlabs.ai"
-sector: ["spatial intelligence", "3D generation", "world models", "computer vision"]
-one_liner: "Spatial intelligence startup building Large World Models that generate and reason about 3D environments, founded by AI pioneer Fei-Fei Li."
-logo: ~
-
+hq: San Francisco, CA
+website: https://www.worldlabs.ai
+sector:
+- spatial intelligence
+- 3D generation
+- world models
+- computer vision
+one_liner: Spatial intelligence startup building Large World Models that generate and reason about 3D environments, founded
+  by AI pioneer Fei-Fei Li.
+logo: null
 total_raised_m: 1230
 latest_valuation_m: 5000
 funding_rounds:
-  - stage: "Seed / Series A"
-    date: 2024-09
-    amount_m: 230
-    valuation_m: 1000
-    lead_investors: ["Andreessen Horowitz", "NEA", "Radical Ventures"]
-    source: "https://techcrunch.com/2024/09/13/fei-fei-lis-world-labs-comes-out-of-stealth-with-230m-in-funding/"
-    notes: "Emerged from stealth. $100M seed + $130M Series A extension. Other investors included NVentures (Nvidia), AMD Ventures, Adobe Ventures, Databricks Ventures, Salesforce Ventures. Angel investors included Marc Benioff, Jeff Dean, Geoffrey Hinton, Reid Hoffman, Eric Schmidt, and Ashton Kutcher."
-
-  - stage: "Series B"
-    date: 2026-02
-    amount_m: 1000
-    valuation_m: ~5000
-    lead_investors: ["Andreessen Horowitz", "Autodesk"]
-    source: "https://techcrunch.com/2026/02/18/world-labs-lands-200m-from-autodesk-to-bring-world-models-into-3d-workflows/"
-    notes: "Autodesk invested $200M as a strategic partner. Nvidia, AMD, Fidelity Management & Research, Emerson Collective, and Sea Group also participated. Valuation ~$5B per Bloomberg -- a 5x increase from the $1B valuation 16 months prior. Valuation was not officially disclosed."
-
+- stage: Seed / Series A
+  date: 2024-09
+  amount_m: 230
+  valuation_m: 1000
+  lead_investors:
+  - Andreessen Horowitz
+  - NEA
+  - Radical Ventures
+  source: https://techcrunch.com/2024/09/13/fei-fei-lis-world-labs-comes-out-of-stealth-with-230m-in-funding/
+  notes: Emerged from stealth. $100M seed + $130M Series A extension. Other investors included NVentures (Nvidia), AMD Ventures,
+    Adobe Ventures, Databricks Ventures, Salesforce Ventures. Angel investors included Marc Benioff, Jeff Dean, Geoffrey Hinton,
+    Reid Hoffman, Eric Schmidt, and Ashton Kutcher.
+- stage: Series B
+  date: 2026-02
+  amount_m: 1000
+  valuation_m: ~5000
+  lead_investors:
+  - Andreessen Horowitz
+  - Autodesk
+  source: https://techcrunch.com/2026/02/18/world-labs-lands-200m-from-autodesk-to-bring-world-models-into-3d-workflows/
+  notes: Autodesk invested $200M as a strategic partner. Nvidia, AMD, Fidelity Management & Research, Emerson Collective,
+    and Sea Group also participated. Valuation ~$5B per Bloomberg -- a 5x increase from the $1B valuation 16 months prior.
+    Valuation was not officially disclosed.
 founders:
-  - name: "Fei-Fei Li"
-    role: "CEO & Co-Founder"
-    background: "Known as the 'Godmother of AI.' Created ImageNet, the large-scale visual recognition dataset that catalyzed the deep learning revolution starting with AlexNet in 2012. PhD in Electrical Engineering from Caltech (2005). BA in Physics from Princeton (1999, with High Honors). Inaugural Sequoia Professor in Computer Science at Stanford. Founding Co-Director of Stanford's Human-Centered AI Institute (HAI). Directed Stanford AI Lab (SAIL) from 2013-2018. Served briefly as VP/Chief Scientist of AI/ML at Google Cloud (2017-2018, on sabbatical from Stanford). Author of the memoir 'The Worlds I See' (2023). Remains on the Stanford faculty."
-    origin: "Born in Beijing, China (1976). Grew up in Chengdu, Sichuan. Father (Kuang Ying) was a secondary school teacher; mother (Li Sun) worked in a computer department at a chemical factory. Emigrated to the United States at age 16, joining her father in Parsippany, New Jersey. Arrived with her family with reportedly less than $20. Worked at her family's dry-cleaning shop and in restaurants while attending Parsippany High School. Received a full scholarship to Princeton -- a Paul & Daisy Soros Fellow (fellowship for New Americans). Naturalized U.S. citizen."
-
-  - name: "Justin Johnson"
-    role: "Co-Founder"
-    background: "PhD from Stanford (2012-2018), advised by Fei-Fei Li in the Stanford Vision Lab. Assistant Professor of Computer Science at University of Michigan (2019-2024). Research Scientist at Facebook/Meta (2018-2023). Known for pioneering work on neural style transfer (the original 'artistic style transfer' papers), visual question answering, and other core computer vision advances. Taught one of the most popular deep learning courses (EECS 498/598) at Michigan."
-    origin: "American (limited public information on ethnic background)."
-
-  - name: "Ben Mildenhall"
-    role: "Co-Founder"
-    background: "Co-creator of NeRF (Neural Radiance Fields), published at ECCV 2020 (Oral, Best Paper Honorable Mention) -- one of the most cited computer vision papers of recent years, which spawned an entire subfield in 3D reconstruction and novel view synthesis. PhD from UC Berkeley (2020, advised by Ren Ng, Hertz Fellow). BS in Computer Science (Honors) and Mathematics from Stanford (2015). Research Scientist at Google Research (2021-2023) in David Salesin's group."
-    origin: "American (limited public information on ethnic background)."
-
-  - name: "Christoph Lassner"
-    role: "Co-Founder"
-    background: "Created Pulsar, an efficient sphere-based differentiable renderer that became the rendering backend for PyTorch3D and laid theoretical groundwork for Gaussian Splatting -- another transformative 3D rendering technique. Previously led research teams at Meta Reality Labs Research (working on 3D reconstruction and neural rendering) and at Epic Games. Earlier at Bodylabs, a body-scanning startup acquired by Amazon."
-    origin: "German (based on academic trajectory through German institutions; limited public detail)."
-
-team_china_profile: "CEO and lead founder Fei-Fei Li was born in Beijing, raised in Chengdu, and immigrated to the U.S. at 16. She is arguably the most prominent mainland Chinese-born figure in the global AI research community. Her immigration story -- from working at a family dry-cleaning shop to becoming a Stanford professor and creating ImageNet -- is a canonical narrative in American tech. The other three co-founders (Johnson, Mildenhall, Lassner) do not appear to have Chinese origins."
-
-notable_hires: ~
-
-business_model: "SaaS + API + enterprise partnerships. Primary product is Marble, a generative world model platform launched publicly in November 2025. Consumer/prosumer tiers: Free (4 generations), Standard ($20/mo, 12 generations), Pro ($35/mo, 25 generations, commercial rights), Max ($95/mo, 75 generations). World API launched January 2026 with credit-based pricing ($1.00 per 1,250 credits, $5 minimum). Strategic enterprise partnerships (e.g., Autodesk collaboration for entertainment/3D workflows). Target customers: creators, game studios, film/VFX, architects, and enterprises needing high-fidelity 3D content at scale."
-
-customers: ~
-
-revenue_signals: "No public revenue figures. Product launched only in November 2025 (beta earlier), so commercial traction is very early-stage. The Autodesk strategic investment ($200M) and partnership signals serious enterprise interest. Pricing tiers suggest initial focus on prosumer and indie creator adoption with enterprise upsell."
-
+- name: Fei-Fei Li
+  role: CEO & Co-Founder
+  background: Known as the 'Godmother of AI.' Created ImageNet, the large-scale visual recognition dataset that catalyzed
+    the deep learning revolution starting with AlexNet in 2012. PhD in Electrical Engineering from Caltech (2005). BA in Physics
+    from Princeton (1999, with High Honors). Inaugural Sequoia Professor in Computer Science at Stanford. Founding Co-Director
+    of Stanford's Human-Centered AI Institute (HAI). Directed Stanford AI Lab (SAIL) from 2013-2018. Served briefly as VP/Chief
+    Scientist of AI/ML at Google Cloud (2017-2018, on sabbatical from Stanford). Author of the memoir 'The Worlds I See' (2023).
+    Remains on the Stanford faculty.
+  origin: Born in Beijing, China (1976). Grew up in Chengdu, Sichuan. Father (Kuang Ying) was a secondary school teacher;
+    mother (Li Sun) worked in a computer department at a chemical factory. Emigrated to the United States at age 16, joining
+    her father in Parsippany, New Jersey. Arrived with her family with reportedly less than $20. Worked at her family's dry-cleaning
+    shop and in restaurants while attending Parsippany High School. Received a full scholarship to Princeton -- a Paul & Daisy
+    Soros Fellow (fellowship for New Americans). Naturalized U.S. citizen.
+- name: Justin Johnson
+  role: Co-Founder
+  background: PhD from Stanford (2012-2018), advised by Fei-Fei Li in the Stanford Vision Lab. Assistant Professor of Computer
+    Science at University of Michigan (2019-2024). Research Scientist at Facebook/Meta (2018-2023). Known for pioneering work
+    on neural style transfer (the original 'artistic style transfer' papers), visual question answering, and other core computer
+    vision advances. Taught one of the most popular deep learning courses (EECS 498/598) at Michigan.
+  origin: American (limited public information on ethnic background).
+- name: Ben Mildenhall
+  role: Co-Founder
+  background: Co-creator of NeRF (Neural Radiance Fields), published at ECCV 2020 (Oral, Best Paper Honorable Mention) --
+    one of the most cited computer vision papers of recent years, which spawned an entire subfield in 3D reconstruction and
+    novel view synthesis. PhD from UC Berkeley (2020, advised by Ren Ng, Hertz Fellow). BS in Computer Science (Honors) and
+    Mathematics from Stanford (2015). Research Scientist at Google Research (2021-2023) in David Salesin's group.
+  origin: American (limited public information on ethnic background).
+- name: Christoph Lassner
+  role: Co-Founder
+  background: Created Pulsar, an efficient sphere-based differentiable renderer that became the rendering backend for PyTorch3D
+    and laid theoretical groundwork for Gaussian Splatting -- another transformative 3D rendering technique. Previously led
+    research teams at Meta Reality Labs Research (working on 3D reconstruction and neural rendering) and at Epic Games. Earlier
+    at Bodylabs, a body-scanning startup acquired by Amazon.
+  origin: German (based on academic trajectory through German institutions; limited public detail).
+team_china_profile: CEO and lead founder Fei-Fei Li was born in Beijing, raised in Chengdu, and immigrated to the U.S. at
+  16. She is arguably the most prominent mainland Chinese-born figure in the global AI research community. Her immigration
+  story -- from working at a family dry-cleaning shop to becoming a Stanford professor and creating ImageNet -- is a canonical
+  narrative in American tech. The other three co-founders (Johnson, Mildenhall, Lassner) do not appear to have Chinese origins.
+notable_hires: null
+business_model: 'SaaS + API + enterprise partnerships. Primary product is Marble, a generative world model platform launched
+  publicly in November 2025. Consumer/prosumer tiers: Free (4 generations), Standard ($20/mo, 12 generations), Pro ($35/mo,
+  25 generations, commercial rights), Max ($95/mo, 75 generations). World API launched January 2026 with credit-based pricing
+  ($1.00 per 1,250 credits, $5 minimum). Strategic enterprise partnerships (e.g., Autodesk collaboration for entertainment/3D
+  workflows). Target customers: creators, game studios, film/VFX, architects, and enterprises needing high-fidelity 3D content
+  at scale.'
+customers: null
+revenue_signals: No public revenue figures. Product launched only in November 2025 (beta earlier), so commercial traction
+  is very early-stage. The Autodesk strategic investment ($200M) and partnership signals serious enterprise interest. Pricing
+  tiers suggest initial focus on prosumer and indie creator adoption with enterprise upsell.
 sources:
-  - "https://techcrunch.com/2024/09/13/fei-fei-lis-world-labs-comes-out-of-stealth-with-230m-in-funding/"
-  - "https://techcrunch.com/2026/02/18/world-labs-lands-200m-from-autodesk-to-bring-world-models-into-3d-workflows/"
-  - "https://techcrunch.com/2025/11/12/fei-fei-lis-world-labs-speeds-up-the-world-model-race-with-marble-its-first-commercial-product/"
-  - "https://www.bloomberg.com/news/articles/2026-02-18/ai-pioneer-fei-fei-li-s-startup-world-labs-raises-1-billion"
-  - "https://www.bloomberg.com/news/articles/2026-01-23/fei-fei-li-s-ai-startup-world-labs-in-funding-talks-at-5-billion-valuation"
-  - "https://research.contrary.com/company/world-labs"
-  - "https://a16z.com/announcement/investing-in-world-labs/"
-  - "https://radical.vc/introducing-world-labs/"
-  - "https://en.wikipedia.org/wiki/Fei-Fei_Li"
-  - "https://hai.stanford.edu/news/fei-fei-li-candid-look-young-immigrants-rise-ai-trailblazer"
-  - "https://pdsoros.org/fei-fei-li-1999-founding-mother-of-artificial-intelligence-revolution/"
-  - "https://investor.cisco.com/news/news-details/2025/Cisco-Invests-in-Spatial-Intelligence-Pioneer-World-Labs/default.aspx"
-  - "https://docs.worldlabs.ai/api/pricing"
-  - "https://marble.worldlabs.ai/pricing"
-
+- https://techcrunch.com/2024/09/13/fei-fei-lis-world-labs-comes-out-of-stealth-with-230m-in-funding/
+- https://techcrunch.com/2026/02/18/world-labs-lands-200m-from-autodesk-to-bring-world-models-into-3d-workflows/
+- https://techcrunch.com/2025/11/12/fei-fei-lis-world-labs-speeds-up-the-world-model-race-with-marble-its-first-commercial-product/
+- https://www.bloomberg.com/news/articles/2026-02-18/ai-pioneer-fei-fei-li-s-startup-world-labs-raises-1-billion
+- https://www.bloomberg.com/news/articles/2026-01-23/fei-fei-li-s-ai-startup-world-labs-in-funding-talks-at-5-billion-valuation
+- https://research.contrary.com/company/world-labs
+- https://a16z.com/announcement/investing-in-world-labs/
+- https://radical.vc/introducing-world-labs/
+- https://en.wikipedia.org/wiki/Fei-Fei_Li
+- https://hai.stanford.edu/news/fei-fei-li-candid-look-young-immigrants-rise-ai-trailblazer
+- https://pdsoros.org/fei-fei-li-1999-founding-mother-of-artificial-intelligence-revolution/
+- https://investor.cisco.com/news/news-details/2025/Cisco-Invests-in-Spatial-Intelligence-Pioneer-World-Labs/default.aspx
+- https://docs.worldlabs.ai/api/pricing
+- https://marble.worldlabs.ai/pricing
 last_updated: 2026-03-20
 confidence: medium-high
+website_verified: true
 ---
 
 # World Labs

@@ -67,6 +67,7 @@ funding_rounds:
   - SoftBank Vision Fund 2
   source: https://techcrunch.com/2022/04/12/observe-ai-raises-125m/
 one_liner: Observe.AI is an AI-powered platform for contact centers that embeds intelligence into 100% of customer conversations
+website_verified: true
 ---
 
 # Observe.AI

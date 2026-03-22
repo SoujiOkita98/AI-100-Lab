@@ -47,6 +47,7 @@ funding_rounds:
   source: https://www.crunchbase.com/funding_round/generally-intelligent-series-b--9dbecc7f
 one_liner: Imbue is an independent AI research lab that trains its own large foundation models (>100B parameters) optimized
   for reasoning, with the initial application being AI agents that can code
+website_verified: true
 ---
 
 # Imbue

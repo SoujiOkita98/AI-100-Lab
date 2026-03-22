@@ -1,128 +1,146 @@
 ---
-name: "Shield AI"
+name: Shield AI
 status: active
 founded: 2015
-hq: "San Diego, California"
-website: "https://shield.ai"
-sector: [defense-govtech, autonomous-vehicles, AI-software]
-one_liner: "Building the world's best AI pilot -- autonomous flight software (Hivemind) for drones and fighter jets operating in GPS/comms-denied environments."
-
-total_raised_m: 1400                # ~$1.4B in equity + ~$200M venture debt
-latest_valuation_m: 5600            # $5.6B after Series F-1 extension (2025); in talks for $12B round as of Feb 2026
+hq: San Diego, California
+website: https://shield.ai
+sector:
+- defense-govtech
+- autonomous-vehicles
+- AI-software
+one_liner: Building the world's best AI pilot -- autonomous flight software (Hivemind) for drones and fighter jets operating
+  in GPS/comms-denied environments.
+total_raised_m: 1400
+latest_valuation_m: 5600
 funding_rounds:
-  - stage: "Seed"
-    date: 2016-05
-    amount_m: 2.05
-    valuation_m:                     # not publicly reported
-    lead_investors: ["Homebrew"]     # early backers include Bloomberg Beta, Snowpoint Ventures
-    source: "https://tracxn.com/d/companies/shield-ai/__xWAZxcGRQErj0eca7RojeCvAoVKfcEIPX0V-RwwoAJk/funding-and-investors"
-  - stage: "Series A"
-    date: 2017-03
-    amount_m: 10.5
-    valuation_m:                     # not publicly reported
-    lead_investors: ["Andreessen Horowitz"]
-    source: "https://www.crunchbase.com/funding_round/shield-ai-series-a--67e5fba3"
-  - stage: "Series B"
-    date: 2019-08
-    amount_m: 25
-    valuation_m:                     # not publicly reported
-    lead_investors: ["Breyer Capital"]  # [Confidence: low -- lead not confirmed; Breyer was a key investor]
-    source: "https://tracxn.com/d/companies/shield-ai/__xWAZxcGRQErj0eca7RojeCvAoVKfcEIPX0V-RwwoAJk/funding-and-investors"
-  - stage: "Series C"
-    date: 2021-02
-    amount_m: 90
-    valuation_m:                     # not publicly reported
-    lead_investors: ["Point72 Ventures"]  # [Confidence: low -- lead not confirmed]
-    source: "https://tracxn.com/d/companies/shield-ai/__xWAZxcGRQErj0eca7RojeCvAoVKfcEIPX0V-RwwoAJk/funding-and-investors"
-  - stage: "Series D"
-    date: 2021-08
-    amount_m: 210
-    valuation_m:                     # not publicly reported
-    lead_investors: []               # not confirmed
-    source: "https://tracxn.com/d/companies/shield-ai/__xWAZxcGRQErj0eca7RojeCvAoVKfcEIPX0V-RwwoAJk/funding-and-investors"
-  - stage: "Series E"
-    date: 2022-06
-    amount_m: 165                    # some sources report $281M total including extensions
-    valuation_m: 2300
-    lead_investors: []               # not confirmed
-    source: "https://www.crunchbase.com/funding_round/shield-ai-series-e--228e9a72"
-  - stage: "Series F"
-    date: 2023-10
-    amount_m: 200                    # extended to ~$500M+ with additional tranches and debt
-    valuation_m: 2700
-    lead_investors: ["U.S. Innovative Technology Fund (USIT)", "Riot Ventures"]
-    source: "https://news.crunchbase.com/ai/defense-tech-startup-venture-aircraft-shield/"
-  - stage: "Series F-1"
-    date: 2025-03
-    amount_m: 240                    # extended by an additional ~$300M later in 2025
-    valuation_m: 5300                # rose to ~$5.6B after extension
-    lead_investors: ["L3Harris", "Hanwha Asset Management"]
-    source: "https://techcrunch.com/2025/03/06/shield-ai-raises-240-million-at-a-5-3-billion-valuation-to-commercialize-its-ai-drone-tech/"
-  - stage: "Series G (in talks)"
-    date: 2026-02                    # reported Feb 2026; not yet closed as of March 2026
-    amount_m: 1000                   # target; terms may change
-    valuation_m: 12000               # target; terms may change
-    lead_investors: []               # not disclosed
-    source: "https://www.bloomberg.com/news/articles/2026-02-13/shield-ai-in-talks-to-raise-1-billion-at-12-billion-valuation"
-
+- stage: Seed
+  date: 2016-05
+  amount_m: 2.05
+  valuation_m: null
+  lead_investors:
+  - Homebrew
+  source: https://tracxn.com/d/companies/shield-ai/__xWAZxcGRQErj0eca7RojeCvAoVKfcEIPX0V-RwwoAJk/funding-and-investors
+- stage: Series A
+  date: 2017-03
+  amount_m: 10.5
+  valuation_m: null
+  lead_investors:
+  - Andreessen Horowitz
+  source: https://www.crunchbase.com/funding_round/shield-ai-series-a--67e5fba3
+- stage: Series B
+  date: 2019-08
+  amount_m: 25
+  valuation_m: null
+  lead_investors:
+  - Breyer Capital
+  source: https://tracxn.com/d/companies/shield-ai/__xWAZxcGRQErj0eca7RojeCvAoVKfcEIPX0V-RwwoAJk/funding-and-investors
+- stage: Series C
+  date: 2021-02
+  amount_m: 90
+  valuation_m: null
+  lead_investors:
+  - Point72 Ventures
+  source: https://tracxn.com/d/companies/shield-ai/__xWAZxcGRQErj0eca7RojeCvAoVKfcEIPX0V-RwwoAJk/funding-and-investors
+- stage: Series D
+  date: 2021-08
+  amount_m: 210
+  valuation_m: null
+  lead_investors: []
+  source: https://tracxn.com/d/companies/shield-ai/__xWAZxcGRQErj0eca7RojeCvAoVKfcEIPX0V-RwwoAJk/funding-and-investors
+- stage: Series E
+  date: 2022-06
+  amount_m: 165
+  valuation_m: 2300
+  lead_investors: []
+  source: https://www.crunchbase.com/funding_round/shield-ai-series-e--228e9a72
+- stage: Series F
+  date: 2023-10
+  amount_m: 200
+  valuation_m: 2700
+  lead_investors:
+  - U.S. Innovative Technology Fund (USIT)
+  - Riot Ventures
+  source: https://news.crunchbase.com/ai/defense-tech-startup-venture-aircraft-shield/
+- stage: Series F-1
+  date: 2025-03
+  amount_m: 240
+  valuation_m: 5300
+  lead_investors:
+  - L3Harris
+  - Hanwha Asset Management
+  source: https://techcrunch.com/2025/03/06/shield-ai-raises-240-million-at-a-5-3-billion-valuation-to-commercialize-its-ai-drone-tech/
+- stage: Series G (in talks)
+  date: 2026-02
+  amount_m: 1000
+  valuation_m: 12000
+  lead_investors: []
+  source: https://www.bloomberg.com/news/articles/2026-02-13/shield-ai-in-talks-to-raise-1-billion-at-12-billion-valuation
 founders:
-  - name: "Brandon Tseng"
-    role: "Co-Founder & President"
-    background: "Former U.S. Navy SEAL Officer. Two combat tours in Afghanistan plus deployments in Asia-Pacific. Graduated from the U.S. Naval Academy; MBA from Harvard Business School. Named to TIME100 AI list (2025). His frontline military experience shaped the company's mission: building AI that protects warfighters."
-    origin: "Asian American (Taiwanese descent)"  # based on public interviews; exact heritage uncertain
-  - name: "Ryan Tseng"
-    role: "Co-Founder & President (formerly CEO until May 2025)"
-    background: "Serial entrepreneur and engineer. BSEE in Electrical Engineering from University of Florida. MBA from MIT Sloan. Previously founded WiPower Inc. (wireless charging company acquired by Qualcomm in 2010), then served as Technical Lead for Wireless Power at Qualcomm. Led Shield AI as CEO for its first decade before transitioning to President in 2025."
-    origin: "Asian American (Taiwanese descent)"  # same family as Brandon; exact heritage uncertain
-  - name: "Andrew Reiter"
-    role: "Co-Founder & CTO"
-    background: "Computer vision and robotics engineer. Previously worked on computer vision applications at Draper Laboratory (formerly MIT's Instrumentation Lab), a nonprofit advanced engineering R&D organization. Technical architect of Hivemind."
-    origin: "American"
-
+- name: Brandon Tseng
+  role: Co-Founder & President
+  background: 'Former U.S. Navy SEAL Officer. Two combat tours in Afghanistan plus deployments in Asia-Pacific. Graduated
+    from the U.S. Naval Academy; MBA from Harvard Business School. Named to TIME100 AI list (2025). His frontline military
+    experience shaped the company''s mission: building AI that protects warfighters.'
+  origin: Asian American (Taiwanese descent)
+- name: Ryan Tseng
+  role: Co-Founder & President (formerly CEO until May 2025)
+  background: Serial entrepreneur and engineer. BSEE in Electrical Engineering from University of Florida. MBA from MIT Sloan.
+    Previously founded WiPower Inc. (wireless charging company acquired by Qualcomm in 2010), then served as Technical Lead
+    for Wireless Power at Qualcomm. Led Shield AI as CEO for its first decade before transitioning to President in 2025.
+  origin: Asian American (Taiwanese descent)
+- name: Andrew Reiter
+  role: Co-Founder & CTO
+  background: Computer vision and robotics engineer. Previously worked on computer vision applications at Draper Laboratory
+    (formerly MIT's Instrumentation Lab), a nonprofit advanced engineering R&D organization. Technical architect of Hivemind.
+  origin: American
 current_ceo:
-  name: "Gary Steele"
+  name: Gary Steele
   start_date: 2025-05-13
-  background: "30+ years scaling technology enterprises. Previously President, Go-to-Market at Cisco. Before that, CEO of Splunk -- grew revenue 58%, led the company to profitability, and orchestrated its $28B acquisition by Cisco (2024). Earlier, founded Proofpoint (email security) and took it from $0 to IPO, reaching $12B enterprise value."
-
-team_china_profile: "No China connection. The founding team is American. Brandon Tseng is a former Navy SEAL with high-level security clearances. The company works exclusively on U.S. and allied defense applications. Key investors include strategic defense partners L3Harris and Hanwha (South Korea)."
-
-business_model: "Dual revenue stream: (1) Hardware -- sells V-BAT autonomous VTOL drones (Group 3 UAS) and will eventually sell X-BAT autonomous fighter jets. (2) Software licensing -- Hivemind autonomy platform licensed to allies and integrated onto third-party platforms (e.g., Anduril's Fury CCA). Revenue was ~$300M for fiscal year ending March 2025. CEO targets 70-100% annual growth to reach $1B by FY2028. Also acquires complementary hardware companies (Martin UAV in 2021 for V-BAT, Heron Systems in 2021 for AI dogfighting)."
-
+  background: 30+ years scaling technology enterprises. Previously President, Go-to-Market at Cisco. Before that, CEO of Splunk
+    -- grew revenue 58%, led the company to profitability, and orchestrated its $28B acquisition by Cisco (2024). Earlier,
+    founded Proofpoint (email security) and took it from $0 to IPO, reaching $12B enterprise value.
+team_china_profile: No China connection. The founding team is American. Brandon Tseng is a former Navy SEAL with high-level
+  security clearances. The company works exclusively on U.S. and allied defense applications. Key investors include strategic
+  defense partners L3Harris and Hanwha (South Korea).
+business_model: 'Dual revenue stream: (1) Hardware -- sells V-BAT autonomous VTOL drones (Group 3 UAS) and will eventually
+  sell X-BAT autonomous fighter jets. (2) Software licensing -- Hivemind autonomy platform licensed to allies and integrated
+  onto third-party platforms (e.g., Anduril''s Fury CCA). Revenue was ~$300M for fiscal year ending March 2025. CEO targets
+  70-100% annual growth to reach $1B by FY2028. Also acquires complementary hardware companies (Martin UAV in 2021 for V-BAT,
+  Heron Systems in 2021 for AI dogfighting).'
 customers:
-  - "U.S. Air Force (CCA / Collaborative Combat Aircraft program -- Hivemind selected as mission autonomy provider, Feb 2026)"
-  - "U.S. Coast Guard ($198M contract for V-BAT maritime UAS services, July 2024)"
-  - "U.S. Marine Corps"
-  - "U.S. SOCOM / Special Operations Forces (Nova indoor reconnaissance drone)"
-  - "Indian Army (V-BAT drones + Hivemind, announced Jan 2026)"
-  - "Singapore (Hivemind software license)"
-  - "South Korea (Hivemind software license)"
-  - "Romania, Indonesia, Japan (V-BAT surveillance drones)"
-  - "Ukraine (V-BATs operationally deployed, withstanding EW attacks)"
-
-revenue_signals: "~$300M revenue for FY ending March 2025. Targeting 70-100% YoY growth to $1B by FY2028. CCA program is structured as a multi-decade, multi-billion-dollar production opportunity. [Confidence: medium -- revenue figures from CEO statements and third-party estimates, not audited financials.]"
-
-employees: 1300  # approximate as of late 2025; some sources say 900+ as of the leadership transition
-
+- U.S. Air Force (CCA / Collaborative Combat Aircraft program -- Hivemind selected as mission autonomy provider, Feb 2026)
+- U.S. Coast Guard ($198M contract for V-BAT maritime UAS services, July 2024)
+- U.S. Marine Corps
+- U.S. SOCOM / Special Operations Forces (Nova indoor reconnaissance drone)
+- Indian Army (V-BAT drones + Hivemind, announced Jan 2026)
+- Singapore (Hivemind software license)
+- South Korea (Hivemind software license)
+- Romania, Indonesia, Japan (V-BAT surveillance drones)
+- Ukraine (V-BATs operationally deployed, withstanding EW attacks)
+revenue_signals: '~$300M revenue for FY ending March 2025. Targeting 70-100% YoY growth to $1B by FY2028. CCA program is structured
+  as a multi-decade, multi-billion-dollar production opportunity. [Confidence: medium -- revenue figures from CEO statements
+  and third-party estimates, not audited financials.]'
+employees: 1300
 sources:
-  - "https://en.wikipedia.org/wiki/Shield_AI"
-  - "https://shield.ai/about/"
-  - "https://shield.ai/shield-ai-raises-240m-at-5-3b-valuation-to-scale-hivemind-enterprise-an-ai-powered-autonomy-developer-platform/"
-  - "https://techcrunch.com/2025/03/06/shield-ai-raises-240-million-at-a-5-3-billion-valuation-to-commercialize-its-ai-drone-tech/"
-  - "https://www.bloomberg.com/news/articles/2026-02-13/shield-ai-in-talks-to-raise-1-billion-at-12-billion-valuation"
-  - "https://fortune.com/2025/12/21/shield-ai-ukraine-defense-tech-gary-steele/"
-  - "https://research.contrary.com/company/shield-ai"
-  - "https://sacra.com/c/shield-ai/"
-  - "https://tracxn.com/d/companies/shield-ai/__xWAZxcGRQErj0eca7RojeCvAoVKfcEIPX0V-RwwoAJk/funding-and-investors"
-  - "https://shield.ai/shield-ai-selected-as-mission-autonomy-provider-for-the-u-s-air-force-collaborative-combat-aircraft-program/"
-  - "https://shield.ai/shield-ai-appoints-gary-steele-as-ceo-ryan-tseng-named-president/"
-  - "https://news.crunchbase.com/defense-tech/startup-shield-ai-venture-funding/"
-  - "https://time.com/collections/time100-ai-2025/7305863/brandon-tseng/"
-  - "https://shield.ai/shield-ai-unveils-x-bat-an-ai-piloted-vtol-fighter-jet-for-contested-environments/"
-  - "https://defensescoop.com/2025/10/22/shield-ai-vtol-autonomous-fighter-jet-x-bat/"
-  - "https://theaviationist.com/2026/03/03/yfq-44a-tests-shivemind-lattice-ais/"
-
+- https://en.wikipedia.org/wiki/Shield_AI
+- https://shield.ai/about/
+- https://shield.ai/shield-ai-raises-240m-at-5-3b-valuation-to-scale-hivemind-enterprise-an-ai-powered-autonomy-developer-platform/
+- https://techcrunch.com/2025/03/06/shield-ai-raises-240-million-at-a-5-3-billion-valuation-to-commercialize-its-ai-drone-tech/
+- https://www.bloomberg.com/news/articles/2026-02-13/shield-ai-in-talks-to-raise-1-billion-at-12-billion-valuation
+- https://fortune.com/2025/12/21/shield-ai-ukraine-defense-tech-gary-steele/
+- https://research.contrary.com/company/shield-ai
+- https://sacra.com/c/shield-ai/
+- https://tracxn.com/d/companies/shield-ai/__xWAZxcGRQErj0eca7RojeCvAoVKfcEIPX0V-RwwoAJk/funding-and-investors
+- https://shield.ai/shield-ai-selected-as-mission-autonomy-provider-for-the-u-s-air-force-collaborative-combat-aircraft-program/
+- https://shield.ai/shield-ai-appoints-gary-steele-as-ceo-ryan-tseng-named-president/
+- https://news.crunchbase.com/defense-tech/startup-shield-ai-venture-funding/
+- https://time.com/collections/time100-ai-2025/7305863/brandon-tseng/
+- https://shield.ai/shield-ai-unveils-x-bat-an-ai-piloted-vtol-fighter-jet-for-contested-environments/
+- https://defensescoop.com/2025/10/22/shield-ai-vtol-autonomous-fighter-jet-x-bat/
+- https://theaviationist.com/2026/03/03/yfq-44a-tests-shivemind-lattice-ais/
 last_updated: 2026-03-20
 confidence: high
+website_verified: true
 ---
 
 # Shield AI

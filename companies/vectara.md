@@ -1,90 +1,103 @@
 ---
-name: "Vectara"
+name: Vectara
 status: active
 founded: 2022
-hq: "Palo Alto, CA"
-website: "https://www.vectara.com"
-sector: ["RAG-as-a-service", "enterprise AI search", "AI infrastructure", "NLP", "agentic AI"]
-one_liner: "End-to-end RAG-as-a-service platform for enterprise AI search and retrieval, founded by ex-Google/Cloudera co-founder Amr Awadallah."
-logo: "https://www.vectara.com/favicon.ico"
-
+hq: Palo Alto, CA
+website: https://www.vectara.com
+sector:
+- RAG-as-a-service
+- enterprise AI search
+- AI infrastructure
+- NLP
+- agentic AI
+one_liner: End-to-end RAG-as-a-service platform for enterprise AI search and retrieval, founded by ex-Google/Cloudera co-founder
+  Amr Awadallah.
+logo: https://www.vectara.com/favicon.ico
 total_raised_m: 73.5
-latest_valuation_m: ~
+latest_valuation_m: null
 funding_rounds:
-  - stage: "Seed"
-    date: 2022-10
-    amount_m: 20
-    valuation_m: ~
-    lead_investors: []
-    source: "https://tracxn.com/d/companies/vectara/__B2HorZ0b9oeKtrr4S1EDjqD-0h8QipBkMx5sL3VtgNk/funding-and-investors"
-    notes: "Initial seed round as Vectara launched out of stealth."
-
-  - stage: "Seed (extension)"
-    date: 2023-05
-    amount_m: 28.5
-    valuation_m: ~
-    lead_investors: ["Race Capital"]
-    source: "https://tracxn.com/d/companies/vectara/__B2HorZ0b9oeKtrr4S1EDjqD-0h8QipBkMx5sL3VtgNk/funding-and-investors"
-    notes: "Largest funding round to date. Investors include Alumni Ventures, WVV Capital, Samsung Next, Fusion Fund, Green Sands Equity, Mack Ventures."
-
-  - stage: "Series A"
-    date: 2024-07
-    amount_m: 25
-    valuation_m: ~
-    lead_investors: ["FPV Ventures", "Race Capital"]
-    source: "https://www.businesswire.com/news/home/20240716489550/en/Vectara-Secures-25-Million-Series-A-Funding-to-Advance-the-Trustworthiness-of-Retrieval-Augmented-Generation-with-New-Mockingbird-LLM"
-    notes: "Coincided with launch of Mockingbird LLM, a model purpose-built for RAG applications."
-
+- stage: Seed
+  date: 2022-10
+  amount_m: 20
+  valuation_m: null
+  lead_investors: []
+  source: https://tracxn.com/d/companies/vectara/__B2HorZ0b9oeKtrr4S1EDjqD-0h8QipBkMx5sL3VtgNk/funding-and-investors
+  notes: Initial seed round as Vectara launched out of stealth.
+- stage: Seed (extension)
+  date: 2023-05
+  amount_m: 28.5
+  valuation_m: null
+  lead_investors:
+  - Race Capital
+  source: https://tracxn.com/d/companies/vectara/__B2HorZ0b9oeKtrr4S1EDjqD-0h8QipBkMx5sL3VtgNk/funding-and-investors
+  notes: Largest funding round to date. Investors include Alumni Ventures, WVV Capital, Samsung Next, Fusion Fund, Green Sands
+    Equity, Mack Ventures.
+- stage: Series A
+  date: 2024-07
+  amount_m: 25
+  valuation_m: null
+  lead_investors:
+  - FPV Ventures
+  - Race Capital
+  source: https://www.businesswire.com/news/home/20240716489550/en/Vectara-Secures-25-Million-Series-A-Funding-to-Advance-the-Trustworthiness-of-Retrieval-Augmented-Generation-with-New-Mockingbird-LLM
+  notes: Coincided with launch of Mockingbird LLM, a model purpose-built for RAG applications.
 founders:
-  - name: "Dr. Amr Awadallah"
-    role: "Co-Founder & CEO"
-    background: "B.Sc. and M.Sc. in Electrical/Computer Engineering from Cairo University. Ph.D. in Electrical Engineering from Stanford University (1995-2007). Co-founded Cloudera in 2008 and served as Global CTO for 11 years through its 2017 NYSE IPO and 2021 acquisition for $5.3B. VP of Developer Relations at Google Cloud (2019-2022). Earlier: VP of Product Intelligence Engineering at Yahoo (2000-2008) after Yahoo acquired his first startup Aptivia (a product search engine). Also held roles at Nortel."
-    origin: "Egyptian-American. Born and educated in Cairo, Egypt before moving to the US for his Stanford PhD. Holds Egyptian, American, and Saudi Arabian citizenship. One of 10 scientists/technologists granted honorary Saudi citizenship in 2021."
-
-  - name: "Amin Ahmad"
-    role: "Co-Founder & CTO"
-    background: "Drives the technical architecture and product vision of Vectara's neural search platform. Oversees core model R&D, scaling enterprise infrastructure, and architected the GenAI services and integration frameworks central to Vectara's offering."
-    origin: "Exact background uncertain; previous employers not confirmed in public sources."
-
-  - name: "Dr. Tallat Shafaat"
-    role: "Co-Founder & Chief Architect"
-    background: "Led the engineering behind the Boomerang Retrieval Model and the open-source HHEM (Hughes Hallucination Evaluation Model) for hallucination detection. Significant tenure at Google focused on search infrastructure and knowledge graphs. Research experience at the Swedish Institute of Computer Science (SICS)."
-    origin: "Exact national origin uncertain; career history suggests time in Sweden and at Google."
-
-team_china_profile: "No known Chinese-origin founders. The founding team has roots in Egypt (Awadallah), with Google and Cloudera pedigree. No significant public China connections."
-
+- name: Dr. Amr Awadallah
+  role: Co-Founder & CEO
+  background: 'B.Sc. and M.Sc. in Electrical/Computer Engineering from Cairo University. Ph.D. in Electrical Engineering from
+    Stanford University (1995-2007). Co-founded Cloudera in 2008 and served as Global CTO for 11 years through its 2017 NYSE
+    IPO and 2021 acquisition for $5.3B. VP of Developer Relations at Google Cloud (2019-2022). Earlier: VP of Product Intelligence
+    Engineering at Yahoo (2000-2008) after Yahoo acquired his first startup Aptivia (a product search engine). Also held roles
+    at Nortel.'
+  origin: Egyptian-American. Born and educated in Cairo, Egypt before moving to the US for his Stanford PhD. Holds Egyptian,
+    American, and Saudi Arabian citizenship. One of 10 scientists/technologists granted honorary Saudi citizenship in 2021.
+- name: Amin Ahmad
+  role: Co-Founder & CTO
+  background: Drives the technical architecture and product vision of Vectara's neural search platform. Oversees core model
+    R&D, scaling enterprise infrastructure, and architected the GenAI services and integration frameworks central to Vectara's
+    offering.
+  origin: Exact background uncertain; previous employers not confirmed in public sources.
+- name: Dr. Tallat Shafaat
+  role: Co-Founder & Chief Architect
+  background: Led the engineering behind the Boomerang Retrieval Model and the open-source HHEM (Hughes Hallucination Evaluation
+    Model) for hallucination detection. Significant tenure at Google focused on search infrastructure and knowledge graphs.
+    Research experience at the Swedish Institute of Computer Science (SICS).
+  origin: Exact national origin uncertain; career history suggests time in Sweden and at Google.
+team_china_profile: No known Chinese-origin founders. The founding team has roots in Egypt (Awadallah), with Google and Cloudera
+  pedigree. No significant public China connections.
 notable_hires:
-  - "Eva Nahari - CPO. Leads product strategy and go-to-market for AI models and APIs. Achieved Gartner recognition and built strategic advisory boards for enterprise customer engagement."
-  - "Justin Hayes - Head of Field Engineering. Leads customer engineering teams, enterprise deployments, SLAs, and support channels."
-
-business_model: "SaaS / usage-based. Credit-based pricing where credits represent usage across API calls, data storage, and compute for processing different data types (tables, images, etc.) in the RAG pipeline. Enterprise plans: Small ($100K/year), Medium ($250K/year), Large ($500K/year). VPC and on-premise deployment options available. Also offers forward-deployed engineers and platinum support as add-ons. Free tier available for developers. Hybrid GTM combining product-led growth (self-serve signup) and enterprise sales."
-
+- Eva Nahari - CPO. Leads product strategy and go-to-market for AI models and APIs. Achieved Gartner recognition and built
+  strategic advisory boards for enterprise customer engagement.
+- Justin Hayes - Head of Field Engineering. Leads customer engineering teams, enterprise deployments, SLAs, and support channels.
+business_model: 'SaaS / usage-based. Credit-based pricing where credits represent usage across API calls, data storage, and
+  compute for processing different data types (tables, images, etc.) in the RAG pipeline. Enterprise plans: Small ($100K/year),
+  Medium ($250K/year), Large ($500K/year). VPC and on-premise deployment options available. Also offers forward-deployed engineers
+  and platinum support as add-ons. Free tier available for developers. Hybrid GTM combining product-led growth (self-serve
+  signup) and enterprise sales.'
 customers:
-  - "Broadcom (selected Vectara for agentic conversational AI customer service, announced 2025)"
-  - "IEEE"
-  - "Anywhere"
-  - "Serves financial services, insurance, healthcare, manufacturing, legal, and e-commerce verticals"
-
-revenue_signals: "No public revenue figures available. Enterprise pricing starting at $100K/year suggests meaningful ACV. Broadcom partnership is the most prominent named customer win. ~72 employees as of late 2025 across 4 continents."
-
+- Broadcom (selected Vectara for agentic conversational AI customer service, announced 2025)
+- IEEE
+- Anywhere
+- Serves financial services, insurance, healthcare, manufacturing, legal, and e-commerce verticals
+revenue_signals: No public revenue figures available. Enterprise pricing starting at $100K/year suggests meaningful ACV. Broadcom
+  partnership is the most prominent named customer win. ~72 employees as of late 2025 across 4 continents.
 employee_count: 72
-
 sources:
-  - "https://www.businesswire.com/news/home/20240716489550/en/Vectara-Secures-25-Million-Series-A-Funding-to-Advance-the-Trustworthiness-of-Retrieval-Augmented-Generation-with-New-Mockingbird-LLM"
-  - "https://tracxn.com/d/companies/vectara/__B2HorZ0b9oeKtrr4S1EDjqD-0h8QipBkMx5sL3VtgNk/funding-and-investors"
-  - "https://www.crunchbase.com/organization/vectara"
-  - "https://www.vectara.com/company/about-us"
-  - "https://www.frontlines.io/podcasts/amr-awadallah/"
-  - "https://www.aitimejournal.com/amr-awadallah-founder-ceo-at-vectara-career-journey-ai-hallucinations-future-of-ai-ethics-privacy-ai-driven-search-metas-ai-glasses-ai-privacy-concerns-ent/52143/"
-  - "https://www.prnewswire.com/news-releases/vectara-selected-by-broadcom-to-provide-agentic-conversational-ai-customer-service-solution-to-support-enterprise-clients-302534046.html"
-  - "https://venturebeat.com/ai/vectara-raises-25m-as-it-launches-mockingbird-llm-for-enterprise-rag-applications"
-  - "https://www.vectara.com/pricing"
-  - "https://huggingface.co/vectara/hallucination_evaluation_model"
-  - "https://www.awadallah.com/"
-  - "https://dohaforum.org/speakers/amr--awdallah"
-
+- https://www.businesswire.com/news/home/20240716489550/en/Vectara-Secures-25-Million-Series-A-Funding-to-Advance-the-Trustworthiness-of-Retrieval-Augmented-Generation-with-New-Mockingbird-LLM
+- https://tracxn.com/d/companies/vectara/__B2HorZ0b9oeKtrr4S1EDjqD-0h8QipBkMx5sL3VtgNk/funding-and-investors
+- https://www.crunchbase.com/organization/vectara
+- https://www.vectara.com/company/about-us
+- https://www.frontlines.io/podcasts/amr-awadallah/
+- https://www.aitimejournal.com/amr-awadallah-founder-ceo-at-vectara-career-journey-ai-hallucinations-future-of-ai-ethics-privacy-ai-driven-search-metas-ai-glasses-ai-privacy-concerns-ent/52143/
+- https://www.prnewswire.com/news-releases/vectara-selected-by-broadcom-to-provide-agentic-conversational-ai-customer-service-solution-to-support-enterprise-clients-302534046.html
+- https://venturebeat.com/ai/vectara-raises-25m-as-it-launches-mockingbird-llm-for-enterprise-rag-applications
+- https://www.vectara.com/pricing
+- https://huggingface.co/vectara/hallucination_evaluation_model
+- https://www.awadallah.com/
+- https://dohaforum.org/speakers/amr--awdallah
 last_updated: 2026-03-20
 confidence: medium
+website_verified: true
 ---
 
 # Vectara

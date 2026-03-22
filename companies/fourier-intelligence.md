@@ -50,6 +50,7 @@ funding_rounds:
 total_known_funding: ~$200M+ (estimated across nine rounds)
 one_liner: Fourier Intelligence is a Shanghai-based robotics company that has transitioned from rehabilitation robotics to
   building general-purpose humanoid robots
+website_verified: true
 ---
 
 # Fourier Intelligence

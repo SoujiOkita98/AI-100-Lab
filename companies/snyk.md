@@ -88,6 +88,7 @@ funding_rounds:
   amount_m: 25
   lead_investors: []
   source: https://www.crunchbase.com/organization/snyk
+website_verified: true
 ---
 
 # Snyk

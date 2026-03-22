@@ -10,6 +10,7 @@ status: Private
 website: https://cursor.com
 last_updated: 2026-03-20
 one_liner: Anysphere is the company behind **Cursor**, an AI-native code editor built as a fork of VS Code
+website_verified: true
 ---
 
 # Anysphere (Cursor)

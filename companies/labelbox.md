@@ -70,6 +70,7 @@ funding_rounds:
   source: https://www.crunchbase.com/organization/labelbox
 one_liner: Labelbox is an AI data infrastructure company that provides an integrated platform for data labeling, model evaluation,
   and expert-sourced training data
+website_verified: true
 ---
 
 # Labelbox

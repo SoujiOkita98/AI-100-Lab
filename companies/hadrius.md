@@ -21,6 +21,7 @@ arr_estimate: Undisclosed
 employee_count_estimate: ~50 (as of Jan 2026, per Tracxn)
 status: Private
 last_updated: 2026-03-20
+website_verified: true
 ---
 
 # Hadrius -- Company Profile

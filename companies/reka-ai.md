@@ -1,110 +1,125 @@
 ---
-name: "Reka AI"
+name: Reka AI
 status: active
 founded: 2022
-hq: "Sunnyvale, CA"
-website: "https://reka.ai"
-sector: ["multimodal AI", "foundation models", "enterprise AI", "agentic AI"]
-one_liner: "Lean multimodal AI model builder founded by ex-DeepMind/Google/Meta researchers, building GPT-4-class models with a fraction of Big Tech's headcount."
-logo: "https://reka.ai/favicon.ico"
-
+hq: Sunnyvale, CA
+website: https://reka.ai
+sector:
+- multimodal AI
+- foundation models
+- enterprise AI
+- agentic AI
+one_liner: Lean multimodal AI model builder founded by ex-DeepMind/Google/Meta researchers, building GPT-4-class models with
+  a fraction of Big Tech's headcount.
+logo: https://reka.ai/favicon.ico
 total_raised_m: 168
 latest_valuation_m: 1000
 funding_rounds:
-  - stage: "Series A"
-    date: 2023-06
-    amount_m: 58
-    valuation_m: 300
-    lead_investors: ["DST Global"]
-    source: "https://techcrunch.com/2023/06/27/reka-emerges-from-stealth-to-build-custom-ai-models-for-the-enterprise/"
-    notes: "Emerged from stealth. Nat Friedman (former GitHub CEO) participated as an angel investor."
-
-  - stage: "Series B"
-    date: 2025-07
-    amount_m: 110
-    valuation_m: 1000
-    lead_investors: ["Nvidia", "Snowflake"]
-    source: "https://siliconangle.com/2025/07/22/multimodal-ai-startup-reka-ai-raises-110m-1b-valuation/"
-    notes: "Reached unicorn status. Snowflake had previously explored acquiring Reka for $1B+ in May 2024, but talks broke down. The two companies instead pursued a strategic investment relationship."
-
+- stage: Series A
+  date: 2023-06
+  amount_m: 58
+  valuation_m: 300
+  lead_investors:
+  - DST Global
+  source: https://techcrunch.com/2023/06/27/reka-emerges-from-stealth-to-build-custom-ai-models-for-the-enterprise/
+  notes: Emerged from stealth. Nat Friedman (former GitHub CEO) participated as an angel investor.
+- stage: Series B
+  date: 2025-07
+  amount_m: 110
+  valuation_m: 1000
+  lead_investors:
+  - Nvidia
+  - Snowflake
+  source: https://siliconangle.com/2025/07/22/multimodal-ai-startup-reka-ai-raises-110m-1b-valuation/
+  notes: Reached unicorn status. Snowflake had previously explored acquiring Reka for $1B+ in May 2024, but talks broke down.
+    The two companies instead pursued a strategic investment relationship.
 founders:
-  - name: "Dani Yogatama"
-    role: "CEO & Co-Founder"
-    background: "PhD in Computer Science from Carnegie Mellon University. Monbukagakusho fellow at the University of Tokyo (2008-2010). Previously a research scientist at DeepMind in London for several years, where he worked on projects including AlphaCode and Bard."
-    origin: "Indonesian. Grew up in Indonesia, attended Institut Teknologi Bandung before moving to Japan and then the US for graduate studies."
-
-  - name: "Yi Tay"
-    role: "Co-Founder & former Chief Scientist (departed Nov 2024)"
-    background: "NTU Singapore alumnus. Senior research scientist at Google Brain. Co-led PaLM-2 (the model behind Bard/Gemini). Invented UL2 (universal pretraining) and Differentiable Search Indexes. His work was integrated into Google Assistant, YouTube, and Search. At Reka, led the effort to build a GPT-4-class multimodal model from scratch in under a year with ~20 engineers."
-    origin: "Singaporean. Lives in Singapore with his family."
-    notes: "Departed Reka in November 2024 after ~1.5 years and returned to Google DeepMind. Now co-leading Google DeepMind Singapore with Quoc Le, focusing on reasoning and RL. Was modeling co-lead for Gemini Deep Think (IMO gold medal). His departure is notable but the company continued to grow and raised its Series B after he left."
-
-  - name: "Cyprien de Masson d'Autume"
-    role: "Co-Founder & CTO"
-    background: "Previously a researcher at DeepMind. Technical lead of the company's model development."
-    origin: "French (based on name; limited public biographical detail)."
-
-  - name: "Mikel Artetxe"
-    role: "Co-Founder"
-    background: "Previously a Research Scientist at Meta FAIR (Facebook AI Research). Attended the University of the Basque Country (Universidad del Pais Vasco)."
-    origin: "Basque/Spanish."
-
-  - name: "Qi Liu"
-    role: "Co-Founder"
-    background: "Previously at DeepMind. Limited public biographical detail available."
-    origin: "Uncertain; name suggests Chinese origin but not confirmed publicly."
-
-team_size: "~60 employees (as of mid-2025)"
-
-team_profile: "Exceptionally lean team with deep research pedigree from DeepMind, Google Brain, Meta FAIR, and Baidu. The founding team notably spans five nationalities (Indonesian, Singaporean, French, Basque/Spanish, and likely Chinese), making it one of the most internationally diverse AI startup founding teams. Built world-class multimodal models with approximately 20 core developers."
-
+- name: Dani Yogatama
+  role: CEO & Co-Founder
+  background: PhD in Computer Science from Carnegie Mellon University. Monbukagakusho fellow at the University of Tokyo (2008-2010).
+    Previously a research scientist at DeepMind in London for several years, where he worked on projects including AlphaCode
+    and Bard.
+  origin: Indonesian. Grew up in Indonesia, attended Institut Teknologi Bandung before moving to Japan and then the US for
+    graduate studies.
+- name: Yi Tay
+  role: Co-Founder & former Chief Scientist (departed Nov 2024)
+  background: NTU Singapore alumnus. Senior research scientist at Google Brain. Co-led PaLM-2 (the model behind Bard/Gemini).
+    Invented UL2 (universal pretraining) and Differentiable Search Indexes. His work was integrated into Google Assistant,
+    YouTube, and Search. At Reka, led the effort to build a GPT-4-class multimodal model from scratch in under a year with
+    ~20 engineers.
+  origin: Singaporean. Lives in Singapore with his family.
+  notes: Departed Reka in November 2024 after ~1.5 years and returned to Google DeepMind. Now co-leading Google DeepMind Singapore
+    with Quoc Le, focusing on reasoning and RL. Was modeling co-lead for Gemini Deep Think (IMO gold medal). His departure
+    is notable but the company continued to grow and raised its Series B after he left.
+- name: Cyprien de Masson d'Autume
+  role: Co-Founder & CTO
+  background: Previously a researcher at DeepMind. Technical lead of the company's model development.
+  origin: French (based on name; limited public biographical detail).
+- name: Mikel Artetxe
+  role: Co-Founder
+  background: Previously a Research Scientist at Meta FAIR (Facebook AI Research). Attended the University of the Basque Country
+    (Universidad del Pais Vasco).
+  origin: Basque/Spanish.
+- name: Qi Liu
+  role: Co-Founder
+  background: Previously at DeepMind. Limited public biographical detail available.
+  origin: Uncertain; name suggests Chinese origin but not confirmed publicly.
+team_size: ~60 employees (as of mid-2025)
+team_profile: Exceptionally lean team with deep research pedigree from DeepMind, Google Brain, Meta FAIR, and Baidu. The founding
+  team notably spans five nationalities (Indonesian, Singaporean, French, Basque/Spanish, and likely Chinese), making it one
+  of the most internationally diverse AI startup founding teams. Built world-class multimodal models with approximately 20
+  core developers.
 notable_events:
-  - "May 2024: Snowflake explored acquisition of Reka for $1B+; talks broke down."
-  - "November 2024: Co-founder Yi Tay departed to return to Google DeepMind."
-  - "March 2025: Launched Reka Nexus, an AI workforce platform for enterprise automation."
-  - "July 2025: Raised $110M Series B at $1B valuation; achieved unicorn status."
-
-business_model: "Enterprise-focused multimodal AI platform. Revenue streams include API access to Reka models (Core, Flash, Edge) and enterprise platform products (Reka Vision, Reka Research, Reka Nexus). Offers deployable AI solutions across cloud, on-premises, and edge environments. Targets healthcare, finance, creative industries, and government sectors. Also partners with Carahsoft for US government distribution."
-
+- 'May 2024: Snowflake explored acquisition of Reka for $1B+; talks broke down.'
+- 'November 2024: Co-founder Yi Tay departed to return to Google DeepMind.'
+- 'March 2025: Launched Reka Nexus, an AI workforce platform for enterprise automation.'
+- 'July 2025: Raised $110M Series B at $1B valuation; achieved unicorn status.'
+business_model: Enterprise-focused multimodal AI platform. Revenue streams include API access to Reka models (Core, Flash,
+  Edge) and enterprise platform products (Reka Vision, Reka Research, Reka Nexus). Offers deployable AI solutions across cloud,
+  on-premises, and edge environments. Targets healthcare, finance, creative industries, and government sectors. Also partners
+  with Carahsoft for US government distribution.
 customers:
-  - "Shutterstock (partnership)"
-  - "Turing Video (partnership)"
-  - "US government agencies (via Carahsoft)"
-  - "Enterprise customers across healthcare, finance, and creative industries"
-
-revenue_signals: "$10.9M revenue reported as of September 2025 (per Latka). Modest but growing, reflecting early-stage enterprise go-to-market with a ~60 person team."
-
+- Shutterstock (partnership)
+- Turing Video (partnership)
+- US government agencies (via Carahsoft)
+- Enterprise customers across healthcare, finance, and creative industries
+revenue_signals: $10.9M revenue reported as of September 2025 (per Latka). Modest but growing, reflecting early-stage enterprise
+  go-to-market with a ~60 person team.
 products:
-  - name: "Reka Core"
-    description: "Largest and most capable multimodal model. Handles complex tasks requiring deep understanding of text, images, audio, and video simultaneously."
-  - name: "Reka Flash"
-    description: "21B-parameter multimodal model balancing speed and capability. Flagship model for enterprise deployments."
-  - name: "Reka Edge"
-    description: "Lightweight model designed for resource-constrained and edge computing environments."
-  - name: "Reka Nexus"
-    description: "AI workforce platform launched March 2025. Enables creation and management of AI workers for enterprise workflow automation."
-  - name: "Reka Vision / Reka Research"
-    description: "Agentic AI platforms for complex question answering and visual search."
-
+- name: Reka Core
+  description: Largest and most capable multimodal model. Handles complex tasks requiring deep understanding of text, images,
+    audio, and video simultaneously.
+- name: Reka Flash
+  description: 21B-parameter multimodal model balancing speed and capability. Flagship model for enterprise deployments.
+- name: Reka Edge
+  description: Lightweight model designed for resource-constrained and edge computing environments.
+- name: Reka Nexus
+  description: AI workforce platform launched March 2025. Enables creation and management of AI workers for enterprise workflow
+    automation.
+- name: Reka Vision / Reka Research
+  description: Agentic AI platforms for complex question answering and visual search.
 sources:
-  - "https://techcrunch.com/2023/06/27/reka-emerges-from-stealth-to-build-custom-ai-models-for-the-enterprise/"
-  - "https://siliconangle.com/2025/07/22/multimodal-ai-startup-reka-ai-raises-110m-1b-valuation/"
-  - "https://techfundingnews.com/reka-110-million-funding-multimodal-ai-enterprise/"
-  - "https://reka.ai/news/reka-secures-110-million-to-accelerate-adoption-of-its-multimodal-ai-platforms"
-  - "https://www.pymnts.com/news/investment-tracker/2025/ai-research-firm-reka-valued-at-1-billion/"
-  - "https://x.com/YiTayML/status/1861098468628144299"
-  - "https://www.ntu.edu.sg/alumni/alumni-stories-news/detail/the-ai-alchemist"
-  - "https://www.yitay.net/about"
-  - "https://cerebralvalley.ai/blog/reka-ai-multimodal-agentic-reasoner-you-can-deploy-anywhere-3QG97tUyi1MT34nYOD3vZ2"
-  - "https://www.nextbigfuture.com/2024/04/reka-core-makes-world-class-ai-with-20-developers.html"
-  - "https://getlatka.com/companies/reka.ai"
-  - "https://siliconangle.com/2024/05/17/report-snowflake-talks-acquire-llm-developer-reka-ai-1b/"
-  - "https://www.prnewswire.com/news-releases/reka-launches-nexus-an-ai-workforce-powered-by-its-state-of-the-art-multimodal-reasoning-model-302396904.html"
-  - "https://www.mikelartetxe.com/"
-
+- https://techcrunch.com/2023/06/27/reka-emerges-from-stealth-to-build-custom-ai-models-for-the-enterprise/
+- https://siliconangle.com/2025/07/22/multimodal-ai-startup-reka-ai-raises-110m-1b-valuation/
+- https://techfundingnews.com/reka-110-million-funding-multimodal-ai-enterprise/
+- https://reka.ai/news/reka-secures-110-million-to-accelerate-adoption-of-its-multimodal-ai-platforms
+- https://www.pymnts.com/news/investment-tracker/2025/ai-research-firm-reka-valued-at-1-billion/
+- https://x.com/YiTayML/status/1861098468628144299
+- https://www.ntu.edu.sg/alumni/alumni-stories-news/detail/the-ai-alchemist
+- https://www.yitay.net/about
+- https://cerebralvalley.ai/blog/reka-ai-multimodal-agentic-reasoner-you-can-deploy-anywhere-3QG97tUyi1MT34nYOD3vZ2
+- https://www.nextbigfuture.com/2024/04/reka-core-makes-world-class-ai-with-20-developers.html
+- https://getlatka.com/companies/reka.ai
+- https://siliconangle.com/2024/05/17/report-snowflake-talks-acquire-llm-developer-reka-ai-1b/
+- https://www.prnewswire.com/news-releases/reka-launches-nexus-an-ai-workforce-powered-by-its-state-of-the-art-multimodal-reasoning-model-302396904.html
+- https://www.mikelartetxe.com/
 last_updated: 2026-03-20
 confidence: medium
-confidence_notes: "Core funding data and founder backgrounds are well-sourced. Revenue figure ($10.9M) comes from a single source (Latka) and may not be precise. Biographical details for Cyprien de Masson d'Autume and Qi Liu are sparse in public sources. Yi Tay's departure and current role at Google DeepMind are well-documented. Some product details (Reka Vision, Reka Research) have limited independent coverage."
+confidence_notes: Core funding data and founder backgrounds are well-sourced. Revenue figure ($10.9M) comes from a single
+  source (Latka) and may not be precise. Biographical details for Cyprien de Masson d'Autume and Qi Liu are sparse in public
+  sources. Yi Tay's departure and current role at Google DeepMind are well-documented. Some product details (Reka Vision,
+  Reka Research) have limited independent coverage.
+website_verified: true
 ---
 
 # Reka AI

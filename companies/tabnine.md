@@ -20,6 +20,7 @@ notable_backers: []
 last_updated: 2026-03-20
 confidence: medium
 one_liner: Tabnine is one of the original AI coding assistants, predating the current wave of AI coding tools
+website_verified: true
 ---
 
 # Tabnine

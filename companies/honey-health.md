@@ -23,6 +23,7 @@ founders:
   role: CTO
   background: Ex-LinkedIn AI engineering leader.
   origin: Chinese-American
+data_notes: 'Needs verification: website, source_urls, headquarters. Profile may be incomplete.'
 ---
 
 # Honey Health

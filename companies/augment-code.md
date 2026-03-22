@@ -37,6 +37,7 @@ funding_rounds:
   source: https://www.augmentcode.com/blog/augment-inc-raises-227-million
 one_liner: Augment Code is an enterprise-focused AI coding assistant company that emerged from stealth in April 2024 with
   $252M in total funding and a near-unicorn valuation
+website_verified: true
 ---
 
 # Augment Code

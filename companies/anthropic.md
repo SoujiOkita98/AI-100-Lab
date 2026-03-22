@@ -1,180 +1,191 @@
 ---
-name: "Anthropic"
+name: Anthropic
 status: active
 founded: 2021
-hq: "San Francisco, CA"
-website: "https://www.anthropic.com"
-sector: ["AI safety", "foundation models", "enterprise AI"]
-one_liner: "AI safety company building Claude, the leading enterprise LLM, founded by ex-OpenAI researchers."
-logo: "https://www.anthropic.com/images/icons/apple-touch-icon.png"
-
+hq: San Francisco, CA
+website: https://www.anthropic.com
+sector:
+- AI safety
+- foundation models
+- enterprise AI
+one_liner: AI safety company building Claude, the leading enterprise LLM, founded by ex-OpenAI researchers.
+logo: https://www.anthropic.com/images/icons/apple-touch-icon.png
 total_raised_m: 67300
 latest_valuation_m: 380000
 funding_rounds:
-  - stage: "Series A"
-    date: 2021-05
-    amount_m: 124
-    valuation_m: 550
-    lead_investors: ["Jaan Tallinn", "Dustin Moskovitz"]
-    source: "https://news.crunchbase.com/ai/anthropic-raises-30b-second-largest-deal-all-time/"
-
-  - stage: "Series B"
-    date: 2022-04
-    amount_m: 580
-    valuation_m: 4000
-    lead_investors: ["FTX (Sam Bankman-Fried)"]
-    source: "https://www.clay.com/dossier/anthropic-funding"
-
-  - stage: "Google strategic investment"
-    date: 2023-02
-    amount_m: 550
-    valuation_m: ~
-    lead_investors: ["Google"]
-    source: "https://en.wikipedia.org/wiki/Anthropic"
-    notes: "Part of a broader commitment; Google eventually invested ~$2B total across 2023."
-
-  - stage: "Series C"
-    date: 2023-05
-    amount_m: 450
-    valuation_m: ~
-    lead_investors: ["Spark Capital"]
-    source: "https://www.clay.com/dossier/anthropic-funding"
-    notes: "Menlo Ventures, Salesforce Ventures, and Google also participated."
-
-  - stage: "Amazon strategic investment (tranche 1)"
-    date: 2023-09
-    amount_m: 1250
-    valuation_m: ~
-    lead_investors: ["Amazon"]
-    source: "https://techcrunch.com/2023/09/25/amazon-to-invest-up-to-4-billion-in-ai-startup-anthropic/"
-    notes: "Initial tranche of a $4B commitment. Anthropic named AWS primary cloud provider."
-
-  - stage: "Amazon strategic investment (tranche 2)"
-    date: 2024-03
-    amount_m: 2750
-    valuation_m: ~
-    lead_investors: ["Amazon"]
-    source: "https://www.aboutamazon.com/news/aws/amazon-invests-additional-4-billion-anthropic-ai"
-    notes: "Completed the initial $4B Amazon commitment."
-
-  - stage: "Series D"
-    date: 2024-02
-    amount_m: 750
-    valuation_m: 18400
-    lead_investors: ["Menlo Ventures"]
-    source: "https://www.theinformation.com/articles/anthropic-to-raise-750-million-in-menlo-ventures-led-deal"
-    notes: "Structured as an SPV (special purpose vehicle)."
-
-  - stage: "Amazon strategic investment (round 2)"
-    date: 2024-11
-    amount_m: 4000
-    valuation_m: 41000
-    lead_investors: ["Amazon"]
-    source: "https://www.cnbc.com/2024/11/22/amazon-to-invest-another-4-billion-in-anthropic-openais-biggest-rival.html"
-    notes: "Brought Amazon's total investment to $8B."
-
-  - stage: "Series E"
-    date: 2025-03
-    amount_m: 3500
-    valuation_m: 61500
-    lead_investors: ["Lightspeed Venture Partners"]
-    source: "https://www.anthropic.com/news/anthropic-raises-series-e-at-usd61-5b-post-money-valuation"
-    notes: "Lightspeed contributed $1B. Bessemer, Cisco Investments, Fidelity, General Catalyst, Jane Street, Menlo Ventures, Salesforce Ventures also participated."
-
-  - stage: "Series F"
-    date: 2025-09
-    amount_m: 13000
-    valuation_m: 183000
-    lead_investors: ["GIC", "Coatue Management"]
-    source: "https://sacra.com/c/anthropic/"
-    notes: "Sequoia Capital, ICONIQ, and Lightspeed also participated."
-
-  - stage: "Series G"
-    date: 2026-02
-    amount_m: 30000
-    valuation_m: 380000
-    lead_investors: ["GIC", "Coatue", "D.E. Shaw", "Dragoneer", "Founders Fund", "ICONIQ", "MGX"]
-    source: "https://www.cnbc.com/2026/02/12/anthropic-closes-30-billion-funding-round-at-380-billion-valuation.html"
-    notes: "Second-largest venture funding deal of all time. Microsoft and Nvidia also participated."
-
+- stage: Series A
+  date: 2021-05
+  amount_m: 124
+  valuation_m: 550
+  lead_investors:
+  - Jaan Tallinn
+  - Dustin Moskovitz
+  source: https://news.crunchbase.com/ai/anthropic-raises-30b-second-largest-deal-all-time/
+- stage: Series B
+  date: 2022-04
+  amount_m: 580
+  valuation_m: 4000
+  lead_investors:
+  - FTX (Sam Bankman-Fried)
+  source: https://www.clay.com/dossier/anthropic-funding
+- stage: Google strategic investment
+  date: 2023-02
+  amount_m: 550
+  valuation_m: null
+  lead_investors:
+  - Google
+  source: https://en.wikipedia.org/wiki/Anthropic
+  notes: Part of a broader commitment; Google eventually invested ~$2B total across 2023.
+- stage: Series C
+  date: 2023-05
+  amount_m: 450
+  valuation_m: null
+  lead_investors:
+  - Spark Capital
+  source: https://www.clay.com/dossier/anthropic-funding
+  notes: Menlo Ventures, Salesforce Ventures, and Google also participated.
+- stage: Amazon strategic investment (tranche 1)
+  date: 2023-09
+  amount_m: 1250
+  valuation_m: null
+  lead_investors:
+  - Amazon
+  source: https://techcrunch.com/2023/09/25/amazon-to-invest-up-to-4-billion-in-ai-startup-anthropic/
+  notes: Initial tranche of a $4B commitment. Anthropic named AWS primary cloud provider.
+- stage: Amazon strategic investment (tranche 2)
+  date: 2024-03
+  amount_m: 2750
+  valuation_m: null
+  lead_investors:
+  - Amazon
+  source: https://www.aboutamazon.com/news/aws/amazon-invests-additional-4-billion-anthropic-ai
+  notes: Completed the initial $4B Amazon commitment.
+- stage: Series D
+  date: 2024-02
+  amount_m: 750
+  valuation_m: 18400
+  lead_investors:
+  - Menlo Ventures
+  source: https://www.theinformation.com/articles/anthropic-to-raise-750-million-in-menlo-ventures-led-deal
+  notes: Structured as an SPV (special purpose vehicle).
+- stage: Amazon strategic investment (round 2)
+  date: 2024-11
+  amount_m: 4000
+  valuation_m: 41000
+  lead_investors:
+  - Amazon
+  source: https://www.cnbc.com/2024/11/22/amazon-to-invest-another-4-billion-in-anthropic-openais-biggest-rival.html
+  notes: Brought Amazon's total investment to $8B.
+- stage: Series E
+  date: 2025-03
+  amount_m: 3500
+  valuation_m: 61500
+  lead_investors:
+  - Lightspeed Venture Partners
+  source: https://www.anthropic.com/news/anthropic-raises-series-e-at-usd61-5b-post-money-valuation
+  notes: Lightspeed contributed $1B. Bessemer, Cisco Investments, Fidelity, General Catalyst, Jane Street, Menlo Ventures,
+    Salesforce Ventures also participated.
+- stage: Series F
+  date: 2025-09
+  amount_m: 13000
+  valuation_m: 183000
+  lead_investors:
+  - GIC
+  - Coatue Management
+  source: https://sacra.com/c/anthropic/
+  notes: Sequoia Capital, ICONIQ, and Lightspeed also participated.
+- stage: Series G
+  date: 2026-02
+  amount_m: 30000
+  valuation_m: 380000
+  lead_investors:
+  - GIC
+  - Coatue
+  - D.E. Shaw
+  - Dragoneer
+  - Founders Fund
+  - ICONIQ
+  - MGX
+  source: https://www.cnbc.com/2026/02/12/anthropic-closes-30-billion-funding-round-at-380-billion-valuation.html
+  notes: Second-largest venture funding deal of all time. Microsoft and Nvidia also participated.
 founders:
-  - name: "Dario Amodei"
-    role: "CEO"
-    background: "PhD in biophysics from Princeton. VP of Research at OpenAI, where he led development of GPT-2 and GPT-3 and co-invented RLHF. Previously at Baidu and Google."
-    origin: "Italian-American and Jewish-American. Father (Riccardo Amodei) from Massa Marittima, Tuscany; mother (Elena Engel) Jewish-American from Chicago. Grew up in San Francisco."
-
-  - name: "Daniela Amodei"
-    role: "President"
-    background: "BA in English Literature from UC Santa Cruz. Early employee at Stripe (2013). VP of Safety & Policy at OpenAI. Background in global health and politics before tech."
-    origin: "Italian-American and Jewish-American (same family as Dario)."
-
-  - name: "Tom Brown"
-    role: "Co-Founder"
-    background: "M.Eng. in Computer Science and Brain & Cognitive Sciences from MIT. Led GPT-3 engineering at OpenAI. Previously at Google Brain. Co-founded YC-backed startup Grouper."
-    origin: "American (limited public info on ethnic background)."
-
-  - name: "Jack Clark"
-    role: "Co-Founder, Head of Policy"
-    background: "Attended University of East Anglia. Former tech journalist at Bloomberg BusinessWeek and The Register. Policy Director at OpenAI."
-    origin: "American. Educated partly in the UK."
-
-  - name: "Jared Kaplan"
-    role: "Co-Founder, Chief Science Officer"
-    background: "PhD in physics from Harvard (advised by Nima Arkani-Hamed). Associate professor of physics at Johns Hopkins. Co-authored the landmark 'Scaling Laws for Neural Language Models' paper at OpenAI."
-    origin: "American."
-
-  - name: "Sam McCandlish"
-    role: "Co-Founder, Chief Architect"
-    background: "PhD in Theoretical Physics from Stanford. Math and Physics from Brandeis. Postdoctoral fellow at Boston University. Research team lead at OpenAI, instrumental in GPT-3 development."
-    origin: "American."
-
-  - name: "Christopher Olah"
-    role: "Co-Founder, Research Director"
-    background: "Canadian. Left university at 18 without a degree. Thiel Fellow. Pioneered neural network interpretability research at Google Brain and OpenAI. Created influential blog (colah.github.io) on understanding neural networks."
-    origin: "Canadian."
-
-team_china_profile: "No known Chinese-origin founders. The team is predominantly American/Canadian with strong academic physics and ML research backgrounds. No significant public China connections."
-
+- name: Dario Amodei
+  role: CEO
+  background: PhD in biophysics from Princeton. VP of Research at OpenAI, where he led development of GPT-2 and GPT-3 and
+    co-invented RLHF. Previously at Baidu and Google.
+  origin: Italian-American and Jewish-American. Father (Riccardo Amodei) from Massa Marittima, Tuscany; mother (Elena Engel)
+    Jewish-American from Chicago. Grew up in San Francisco.
+- name: Daniela Amodei
+  role: President
+  background: BA in English Literature from UC Santa Cruz. Early employee at Stripe (2013). VP of Safety & Policy at OpenAI.
+    Background in global health and politics before tech.
+  origin: Italian-American and Jewish-American (same family as Dario).
+- name: Tom Brown
+  role: Co-Founder
+  background: M.Eng. in Computer Science and Brain & Cognitive Sciences from MIT. Led GPT-3 engineering at OpenAI. Previously
+    at Google Brain. Co-founded YC-backed startup Grouper.
+  origin: American (limited public info on ethnic background).
+- name: Jack Clark
+  role: Co-Founder, Head of Policy
+  background: Attended University of East Anglia. Former tech journalist at Bloomberg BusinessWeek and The Register. Policy
+    Director at OpenAI.
+  origin: American. Educated partly in the UK.
+- name: Jared Kaplan
+  role: Co-Founder, Chief Science Officer
+  background: PhD in physics from Harvard (advised by Nima Arkani-Hamed). Associate professor of physics at Johns Hopkins.
+    Co-authored the landmark 'Scaling Laws for Neural Language Models' paper at OpenAI.
+  origin: American.
+- name: Sam McCandlish
+  role: Co-Founder, Chief Architect
+  background: PhD in Theoretical Physics from Stanford. Math and Physics from Brandeis. Postdoctoral fellow at Boston University.
+    Research team lead at OpenAI, instrumental in GPT-3 development.
+  origin: American.
+- name: Christopher Olah
+  role: Co-Founder, Research Director
+  background: Canadian. Left university at 18 without a degree. Thiel Fellow. Pioneered neural network interpretability research
+    at Google Brain and OpenAI. Created influential blog (colah.github.io) on understanding neural networks.
+  origin: Canadian.
+team_china_profile: No known Chinese-origin founders. The team is predominantly American/Canadian with strong academic physics
+  and ML research backgrounds. No significant public China connections.
 notable_hires:
-  - "Krishna Rao - first CFO (May 2024)"
-  - "Mike Krieger - Head of Product (May 2024, Instagram co-founder; transitioned late 2025)"
-  - "Ami Vora - Head of Product (December 2025, replaced Krieger)"
-  - "Jan Leike - Head of Alignment/Safety team (May 2024, left OpenAI superalignment team)"
-  - "Paul Smith - first Chief Commercial Officer (2025)"
-  - "Chris Ciauri - MD of International (2025, ex-Google Cloud/Salesforce)"
-
-business_model: "API-first, pay-per-token pricing (enterprise and developer). ~85% of revenue from business customers via API. Also offers Claude.ai consumer/pro subscriptions and Claude Code (developer tool). AWS Bedrock is a key distribution channel. Charges premium pricing relative to competitors."
-
+- Krishna Rao - first CFO (May 2024)
+- Mike Krieger - Head of Product (May 2024, Instagram co-founder; transitioned late 2025)
+- Ami Vora - Head of Product (December 2025, replaced Krieger)
+- Jan Leike - Head of Alignment/Safety team (May 2024, left OpenAI superalignment team)
+- Paul Smith - first Chief Commercial Officer (2025)
+- Chris Ciauri - MD of International (2025, ex-Google Cloud/Salesforce)
+business_model: API-first, pay-per-token pricing (enterprise and developer). ~85% of revenue from business customers via API.
+  Also offers Claude.ai consumer/pro subscriptions and Claude Code (developer tool). AWS Bedrock is a key distribution channel.
+  Charges premium pricing relative to competitors.
 customers:
-  - "8 of the Fortune 10"
-  - "Deloitte (470,000+ employees deployed)"
-  - "European Parliament"
-  - "Novo Nordisk"
-  - "SK Telecom"
-  - "Commonwealth Bank of Australia"
-  - "300,000+ business customers total (as of Oct 2025)"
-
-revenue_signals: "$19B annualized revenue as of March 2026. $9B ARR at end of 2025. Claude Code alone at $2.5B annualized revenue (Feb 2026). 500+ customers spending >$1M/year. Targeting $20-26B ARR for 2026 and $70B by 2028."
-
+- 8 of the Fortune 10
+- Deloitte (470,000+ employees deployed)
+- European Parliament
+- Novo Nordisk
+- SK Telecom
+- Commonwealth Bank of Australia
+- 300,000+ business customers total (as of Oct 2025)
+revenue_signals: $19B annualized revenue as of March 2026. $9B ARR at end of 2025. Claude Code alone at $2.5B annualized revenue
+  (Feb 2026). 500+ customers spending >$1M/year. Targeting $20-26B ARR for 2026 and $70B by 2028.
 sources:
-  - "https://www.cnbc.com/2026/02/12/anthropic-closes-30-billion-funding-round-at-380-billion-valuation.html"
-  - "https://news.crunchbase.com/ai/anthropic-raises-30b-second-largest-deal-all-time/"
-  - "https://www.anthropic.com/news/anthropic-raises-series-e-at-usd61-5b-post-money-valuation"
-  - "https://sacra.com/c/anthropic/"
-  - "https://en.wikipedia.org/wiki/Anthropic"
-  - "https://en.wikipedia.org/wiki/Dario_Amodei"
-  - "https://en.wikipedia.org/wiki/Daniela_Amodei"
-  - "https://en.wikipedia.org/wiki/Jared_Kaplan"
-  - "https://en.wikipedia.org/wiki/Chris_Olah"
-  - "https://research.contrary.com/company/anthropic"
-  - "https://electroiq.com/stats/anthropic-statistics/"
-  - "https://tracxn.com/d/companies/anthropic/__SzoxXDMin-NK5tKB7ks8yHr6S9Mz68pjVCzFEcGFZ08/funding-and-investors"
-  - "https://www.clay.com/dossier/anthropic-funding"
-  - "https://lsvp.com/stories/lightspeed-announces-lead-investment-in-anthropics-3-5b-series-e-financing/"
-  - "https://www.techbuzz.ai/articles/anthropic-scores-massive-470k-employee-deloitte-ai-deployment"
-
+- https://www.cnbc.com/2026/02/12/anthropic-closes-30-billion-funding-round-at-380-billion-valuation.html
+- https://news.crunchbase.com/ai/anthropic-raises-30b-second-largest-deal-all-time/
+- https://www.anthropic.com/news/anthropic-raises-series-e-at-usd61-5b-post-money-valuation
+- https://sacra.com/c/anthropic/
+- https://en.wikipedia.org/wiki/Anthropic
+- https://en.wikipedia.org/wiki/Dario_Amodei
+- https://en.wikipedia.org/wiki/Daniela_Amodei
+- https://en.wikipedia.org/wiki/Jared_Kaplan
+- https://en.wikipedia.org/wiki/Chris_Olah
+- https://research.contrary.com/company/anthropic
+- https://electroiq.com/stats/anthropic-statistics/
+- https://tracxn.com/d/companies/anthropic/__SzoxXDMin-NK5tKB7ks8yHr6S9Mz68pjVCzFEcGFZ08/funding-and-investors
+- https://www.clay.com/dossier/anthropic-funding
+- https://lsvp.com/stories/lightspeed-announces-lead-investment-in-anthropics-3-5b-series-e-financing/
+- https://www.techbuzz.ai/articles/anthropic-scores-massive-470k-employee-deloitte-ai-deployment
 last_updated: 2026-03-20
 confidence: high
+website_verified: true
 ---
 
 # Anthropic

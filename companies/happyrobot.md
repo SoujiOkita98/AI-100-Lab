@@ -31,6 +31,7 @@ key_investors:
 - Avra
 one_liner: '> AI agents automating logistics operations for enterprises like DHL, Ryder, and Schneider -- built by Spanish-born
   founders out of YC S23'
+website_verified: true
 ---
 
 # HappyRobot

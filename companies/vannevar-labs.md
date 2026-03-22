@@ -1,69 +1,83 @@
 ---
-name: "Vannevar Labs"
+name: Vannevar Labs
 status: active
 founded: 2019
-hq: "San Francisco, California"
-website: "https://www.vannevarlabs.com"
-sector: [defense-govtech, artificial-intelligence, intelligence-analysis]
-one_liner: "AI-powered intelligence analysis platform for US military and intelligence community, specializing in Indo-Pacific operations."
-
+hq: San Francisco, California
+website: https://www.vannevarlabs.com
+sector:
+- defense-govtech
+- artificial-intelligence
+- intelligence-analysis
+one_liner: AI-powered intelligence analysis platform for US military and intelligence community, specializing in Indo-Pacific
+  operations.
 total_raised_m: 91.5
-latest_valuation_m:       # Not publicly disclosed
+latest_valuation_m: null
 funding_rounds:
-  - stage: "Seed"
-    date: 2019-01
-    amount_m:             # Undisclosed
-    valuation_m:
-    lead_investors: ["Costanoa Ventures"]
-    source: "https://research.contrary.com/company/vannevar-labs"
-  - stage: "Series A"
-    date: 2021-01
-    amount_m: 12
-    valuation_m:
-    lead_investors: ["Costanoa Ventures"]
-    source: "https://www.crunchbase.com/organization/vannevar-labs"
-  - stage: "Series B"
-    date: 2023-01
-    amount_m: 75
-    valuation_m:
-    lead_investors: ["Felicis Ventures"]
-    source: "https://siliconangle.com/2023/01/19/defense-technology-startup-vannevar-labs-raises-75m-funding/"
-
+- stage: Seed
+  date: 2019-01
+  amount_m: null
+  valuation_m: null
+  lead_investors:
+  - Costanoa Ventures
+  source: https://research.contrary.com/company/vannevar-labs
+- stage: Series A
+  date: 2021-01
+  amount_m: 12
+  valuation_m: null
+  lead_investors:
+  - Costanoa Ventures
+  source: https://www.crunchbase.com/organization/vannevar-labs
+- stage: Series B
+  date: 2023-01
+  amount_m: 75
+  valuation_m: null
+  lead_investors:
+  - Felicis Ventures
+  source: https://siliconangle.com/2023/01/19/defense-technology-startup-vannevar-labs-raises-75m-funding/
 founders:
-  - name: "Brett Granberg"
-    role: "Co-Founder & CEO"
-    background: "Former In-Q-Tel (CIA venture arm) investment professional. McKinsey consultant. Deep expertise in intelligence community technology needs and procurement. Understands both the technology landscape and the IC's operational requirements."
-    origin: "American"
-  - name: "Danny Goodman"
-    role: "Co-Founder"
-    background: "Technical co-founder with expertise in AI/ML and data analytics platforms. Built the core technology for Vannevar's intelligence analysis platform."
-    origin: "American"
-  - name: "Nini Hamrick"
-    role: "Co-Founder"
-    background: "Co-founder with background in defense technology and intelligence community operations."
-    origin: "American"
-
-team_china_profile: "No China connection. CEO Brett Granberg comes from In-Q-Tel (CIA's venture arm). The company's primary mission is supporting US military operations against peer adversaries, with particular focus on the Indo-Pacific theater (i.e., deterring China). Vannevar works exclusively with US defense and intelligence customers."
-
-business_model: "Enterprise AI software for intelligence analysis. Vannevar Labs builds AI-powered platforms that ingest, fuse, and analyze multi-source intelligence data to provide real-time actionable insights for military commanders and intelligence analysts. Revenue comes from government contracts, including a major DIU (Defense Innovation Unit) production contract. The company follows a land-and-expand model within the defense/IC customer base, starting with specific combatant commands and expanding across the DoD."
+- name: Brett Granberg
+  role: Co-Founder & CEO
+  background: Former In-Q-Tel (CIA venture arm) investment professional. McKinsey consultant. Deep expertise in intelligence
+    community technology needs and procurement. Understands both the technology landscape and the IC's operational requirements.
+  origin: American
+- name: Danny Goodman
+  role: Co-Founder
+  background: Technical co-founder with expertise in AI/ML and data analytics platforms. Built the core technology for Vannevar's
+    intelligence analysis platform.
+  origin: American
+- name: Nini Hamrick
+  role: Co-Founder
+  background: Co-founder with background in defense technology and intelligence community operations.
+  origin: American
+team_china_profile: No China connection. CEO Brett Granberg comes from In-Q-Tel (CIA's venture arm). The company's primary
+  mission is supporting US military operations against peer adversaries, with particular focus on the Indo-Pacific theater
+  (i.e., deterring China). Vannevar works exclusively with US defense and intelligence customers.
+business_model: Enterprise AI software for intelligence analysis. Vannevar Labs builds AI-powered platforms that ingest, fuse,
+  and analyze multi-source intelligence data to provide real-time actionable insights for military commanders and intelligence
+  analysts. Revenue comes from government contracts, including a major DIU (Defense Innovation Unit) production contract.
+  The company follows a land-and-expand model within the defense/IC customer base, starting with specific combatant commands
+  and expanding across the DoD.
 customers:
-  - "U.S. Indo-Pacific Command (INDOPACOM)"
-  - "Air Force Special Operations Command (AFSOC)"
-  - "U.S. Special Operations Command (SOCOM)"
-  - "National Air and Space Intelligence Center (NASIC)"
-  - "Defense Innovation Unit (DIU)"
-  - "U.S. Intelligence Community"
-revenue_signals: "Revenue grew from $3.5M in 2021 to $80M in 2024 -- a 23x increase in three years. Company achieved profitability within three years of founding. DIU production contract (awarded Nov 2024) has a ceiling value of $99M with $16M obligated at award. Over 200 employees as of December 2025. [Confidence: high -- revenue figures from Contrary Research and company disclosures.]"
-
+- U.S. Indo-Pacific Command (INDOPACOM)
+- Air Force Special Operations Command (AFSOC)
+- U.S. Special Operations Command (SOCOM)
+- National Air and Space Intelligence Center (NASIC)
+- Defense Innovation Unit (DIU)
+- U.S. Intelligence Community
+revenue_signals: 'Revenue grew from $3.5M in 2021 to $80M in 2024 -- a 23x increase in three years. Company achieved profitability
+  within three years of founding. DIU production contract (awarded Nov 2024) has a ceiling value of $99M with $16M obligated
+  at award. Over 200 employees as of December 2025. [Confidence: high -- revenue figures from Contrary Research and company
+  disclosures.]'
 sources:
-  - "https://research.contrary.com/company/vannevar-labs"
-  - "https://siliconangle.com/2023/01/19/defense-technology-startup-vannevar-labs-raises-75m-funding/"
-  - "https://www.crunchbase.com/organization/vannevar-labs"
-  - "https://www.vannevarlabs.com/"
-  - "https://defensetechsignals.beehiiv.com/p/vannevar"
-  - "https://mikekalil.com/blog/2025-us-defense-tech-startups/"
+- https://research.contrary.com/company/vannevar-labs
+- https://siliconangle.com/2023/01/19/defense-technology-startup-vannevar-labs-raises-75m-funding/
+- https://www.crunchbase.com/organization/vannevar-labs
+- https://www.vannevarlabs.com/
+- https://defensetechsignals.beehiiv.com/p/vannevar
+- https://mikekalil.com/blog/2025-us-defense-tech-startups/
 last_updated: 2026-03-20
 confidence: high
+website_verified: true
 ---
 
 # Vannevar Labs

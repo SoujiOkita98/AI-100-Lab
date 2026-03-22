@@ -56,6 +56,7 @@ funding_rounds:
   notes: Largest seed round on record. Also included Nvidia, AMD, Accel, ServiceNow, Cisco, Jane Street.
 one_liner: '> Public benefit corporation building customizable frontier AI models, founded by former OpenAI CTO **Mira Murati**
   and five former OpenAI researchers'
+website_verified: true
 ---
 
 # Thinking Machines Lab

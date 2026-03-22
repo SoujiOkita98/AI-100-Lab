@@ -21,6 +21,7 @@ founders:
   background: PhD Yale. Ex-Sun Microsystems Java VM. Co-founded Cloud.com (acq Citrix), Rancher Labs (acq SUSE $800M).
   origin: Chinese-American
 headquarters: Cupertino, CA
+data_notes: 'Needs verification: website, source_urls. Profile may be incomplete.'
 ---
 
 # Obot AI

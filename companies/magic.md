@@ -53,6 +53,7 @@ funding_rounds:
   source: https://techcrunch.com/2024/08/29/generative-ai-coding-startup-magic-lands-320m-investment-from-eric-schmidt-atlassian-and-others/
 one_liner: Magic is building an AI software engineer designed to function as a collaborative "co-worker" rather than a simple
   autocomplete copilot
+website_verified: true
 ---
 
 # Magic -- AI Software Engineer with Ultra-Long Context

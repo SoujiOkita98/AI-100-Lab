@@ -45,6 +45,7 @@ funding_rounds:
   source: https://fireworks.ai/blog/series-c
 one_liner: Fireworks AI is a high-performance AI inference platform founded by the team that built and maintained PyTorch
   at Meta
+website_verified: true
 ---
 
 # Fireworks AI

@@ -15,6 +15,7 @@ confidence_notes: Funding figures sourced from company blog and EdWeek Market Br
   statements and Congressional testimony. Revenue not publicly disclosed but company described as "cash-flow positive." Valuation
   not publicly disclosed for any round. Employee scaling plans from CEO interviews.
 one_liner: MagicSchool AI is the fastest-growing AI platform built specifically for teachers and educators
+website_verified: true
 ---
 
 # MagicSchool AI -- AI Tools for Educators

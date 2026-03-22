@@ -21,6 +21,7 @@ funding_rounds:
 total_funding: 12.5
 last_updated: 2026-03-21
 confidence: medium
+data_notes: 'Needs verification: website, source_urls. Profile may be incomplete.'
 ---
 
 # Datawizz

@@ -22,6 +22,7 @@ confidence_note: Financial data from public filings on SSE. Market cap fluctuate
   chips in 2026) are company guidance and face manufacturing constraints at SMIC.
 one_liner: Cambricon Technologies is China's most valuable AI chip company and one of the most important semiconductor firms
   in the country's drive to reduce dependence on Nvidia
+website_verified: true
 ---
 
 # Cambricon Technologies

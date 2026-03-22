@@ -18,6 +18,7 @@ status: Active, pre-IPO
 last_updated: 2026-03-20
 one_liner: Dataminr is a New York-based AI company that provides real-time detection of emerging events, threats, and critical
   information by analyzing publicly available data at massive scale
+website_verified: true
 ---
 
 # Dataminr

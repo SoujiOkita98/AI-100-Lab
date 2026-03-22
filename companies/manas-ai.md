@@ -23,6 +23,7 @@ founders:
   role: Co-founder
   background: Co-founder of LinkedIn. Partner Greylock.
   origin: American
+data_notes: 'Needs verification: website, source_urls, headquarters. Profile may be incomplete.'
 ---
 
 # Manas AI

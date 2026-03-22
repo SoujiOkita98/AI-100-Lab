@@ -1,123 +1,149 @@
 ---
-name: "Physical Intelligence"
+name: Physical Intelligence
 status: active
 founded: 2024
-hq: "San Francisco, CA"
-website: "https://www.physicalintelligence.company"
-sector: ["foundation models", "robotics", "physical AI", "embodied intelligence", "reinforcement learning"]
-one_liner: "Building general-purpose foundation models that give any robot the ability to perform any task in the physical world."
-logo: ""
-
+hq: San Francisco, CA
+website: https://www.physicalintelligence.company
+sector:
+- foundation models
+- robotics
+- physical AI
+- embodied intelligence
+- reinforcement learning
+one_liner: Building general-purpose foundation models that give any robot the ability to perform any task in the physical
+  world.
+logo: ''
 total_raised_m: 1070
 latest_valuation_m: 5600
 funding_rounds:
-  - stage: "Seed"
-    date: 2024-03
-    amount_m: 70
-    valuation_m: 400
-    lead_investors: ["Thrive Capital"]
-    source: "https://www.crunchbase.com/funding_round/physical-intelligence-834b-seed--0936ae55"
-    notes: "7 investors participated. Initial capital to develop foundational models and learning algorithms for robots."
-
-  - stage: "Series A"
-    date: 2024-11
-    amount_m: 400
-    valuation_m: 2000
-    lead_investors: ["Jeff Bezos", "Lux Capital", "Thrive Capital"]
-    source: "https://www.cnbc.com/2024/11/04/jeff-bezos-and-openai-invest-in-robot-startup-physical-intelligence.html"
-    notes: "Other investors include OpenAI's startup fund, Redpoint Ventures, and Bond. Some sources report valuation at $2.4B rather than $2B -- exact figure uncertain."
-
-  - stage: "Series B"
-    date: 2025-11
-    amount_m: 600
-    valuation_m: 5600
-    lead_investors: ["CapitalG"]
-    source: "https://www.therobotreport.com/physical-intelligence-raises-600m-advance-robot-foundation-models/"
-    notes: "CapitalG (Alphabet's independent growth fund) led. Participation from Lux Capital, Thrive Capital, Jeff Bezos, Index Ventures, T. Rowe Price, Redpoint Ventures, Sequoia Capital, Bond, and NVIDIA (NVentures). Funding earmarked for data collection, strategic partnerships, and team growth."
-
+- stage: Seed
+  date: 2024-03
+  amount_m: 70
+  valuation_m: 400
+  lead_investors:
+  - Thrive Capital
+  source: https://www.crunchbase.com/funding_round/physical-intelligence-834b-seed--0936ae55
+  notes: 7 investors participated. Initial capital to develop foundational models and learning algorithms for robots.
+- stage: Series A
+  date: 2024-11
+  amount_m: 400
+  valuation_m: 2000
+  lead_investors:
+  - Jeff Bezos
+  - Lux Capital
+  - Thrive Capital
+  source: https://www.cnbc.com/2024/11/04/jeff-bezos-and-openai-invest-in-robot-startup-physical-intelligence.html
+  notes: Other investors include OpenAI's startup fund, Redpoint Ventures, and Bond. Some sources report valuation at $2.4B
+    rather than $2B -- exact figure uncertain.
+- stage: Series B
+  date: 2025-11
+  amount_m: 600
+  valuation_m: 5600
+  lead_investors:
+  - CapitalG
+  source: https://www.therobotreport.com/physical-intelligence-raises-600m-advance-robot-foundation-models/
+  notes: CapitalG (Alphabet's independent growth fund) led. Participation from Lux Capital, Thrive Capital, Jeff Bezos, Index
+    Ventures, T. Rowe Price, Redpoint Ventures, Sequoia Capital, Bond, and NVIDIA (NVentures). Funding earmarked for data
+    collection, strategic partnerships, and team growth.
 founders:
-  - name: "Karol Hausman"
-    role: "Co-Founder & CEO"
-    background: "Staff Research Scientist at Google DeepMind. Adjunct Professor at Stanford University where he co-taught CS 224R (Deep Reinforcement Learning). PhD from University of Southern California. Research focus on robot learning and reinforcement learning."
-    origin: "Polish (uncertain -- inferred from name)"
-
-  - name: "Lachy Groom"
-    role: "Co-Founder"
-    background: "Joined Stripe as ~30th employee. Led Stripe Issuing and guided core payments product, global expansion, and enterprise partnerships. After Stripe, spent ~5 years as a prolific angel investor (early bets on Figma, Notion, Ramp, Lattice). Brings commercial/product intuition to the team."
-    origin: "Australian"
-
-  - name: "Sergey Levine"
-    role: "Co-Founder"
-    background: "Professor at UC Berkeley. One of the most cited researchers in robotics and reinforcement learning. Previously at Google Brain/DeepMind. PhD advisor to Chelsea Finn. Pioneered key methods in offline RL and robot learning from demonstration."
-    origin: "Russian-American (uncertain)"
-
-  - name: "Chelsea Finn"
-    role: "Co-Founder"
-    background: "Assistant Professor of Computer Science and Electrical Engineering at Stanford University. PhD from UC Berkeley under Pieter Abbeel and Sergey Levine (2018). Known for meta-learning (MAML algorithm). Runs the IRIS lab at Stanford. Previously at Google."
-    origin: "American"
-
-  - name: "Brian Ichter"
-    role: "Co-Founder"
-    background: "Former Research Scientist at Google DeepMind and Google Brain. PhD in Aeronautics and Astronautics from Stanford University. Research focus on enabling mobile robotic systems for complex tasks."
-    origin: "American (uncertain)"
-
-  - name: "Adnan Esmail"
-    role: "Co-Founder"
-    background: "Former SVP of Engineering at Anduril Industries. Previously worked on hardware technologies at Tesla. Studied Mechanical Engineering, Physics, Electrical Engineering, and Computer Science at MIT."
-    origin: "Uncertain"
-
-  - name: "Quan Vuong"
-    role: "Co-Founder"
-    background: "Deep experience in reinforcement learning and robotics engineering. Previously at Google DeepMind."
-    origin: "Vietnamese (inferred from name -- uncertain)"
-
-team_composition: "The founding team is unusual in combining three world-class academic researchers (Hausman/Stanford, Levine/Berkeley, Finn/Stanford) with deep industry experience from Google DeepMind, a defense-tech/hardware operator (Esmail from Anduril/Tesla), and a Silicon Valley business/product leader (Groom from Stripe). This blend of academic rigor, engineering depth, and commercial instinct is rare in robotics startups."
-
-business_model: "Software-centric 'intelligence layer' for robotics. Physical Intelligence develops foundation models (vision-language-action models) that serve as plug-and-play brains for third-party robot hardware. The emerging model is an API/SaaS approach -- providing robotic intelligence as a service rather than building vertically integrated robots. One source mentions a $300/month/robot subscription pricing, though this is unconfirmed and may be speculative. Early commercial traction is through partnerships with hardware companies (Weave Robotics for home/laundry, Ultra for warehouse automation). The company has also open-sourced parts of its stack (openpi on GitHub) to build ecosystem adoption."
-
+- name: Karol Hausman
+  role: Co-Founder & CEO
+  background: Staff Research Scientist at Google DeepMind. Adjunct Professor at Stanford University where he co-taught CS
+    224R (Deep Reinforcement Learning). PhD from University of Southern California. Research focus on robot learning and reinforcement
+    learning.
+  origin: Polish (uncertain -- inferred from name)
+- name: Lachy Groom
+  role: Co-Founder
+  background: Joined Stripe as ~30th employee. Led Stripe Issuing and guided core payments product, global expansion, and
+    enterprise partnerships. After Stripe, spent ~5 years as a prolific angel investor (early bets on Figma, Notion, Ramp,
+    Lattice). Brings commercial/product intuition to the team.
+  origin: Australian
+- name: Sergey Levine
+  role: Co-Founder
+  background: Professor at UC Berkeley. One of the most cited researchers in robotics and reinforcement learning. Previously
+    at Google Brain/DeepMind. PhD advisor to Chelsea Finn. Pioneered key methods in offline RL and robot learning from demonstration.
+  origin: Russian-American (uncertain)
+- name: Chelsea Finn
+  role: Co-Founder
+  background: Assistant Professor of Computer Science and Electrical Engineering at Stanford University. PhD from UC Berkeley
+    under Pieter Abbeel and Sergey Levine (2018). Known for meta-learning (MAML algorithm). Runs the IRIS lab at Stanford.
+    Previously at Google.
+  origin: American
+- name: Brian Ichter
+  role: Co-Founder
+  background: Former Research Scientist at Google DeepMind and Google Brain. PhD in Aeronautics and Astronautics from Stanford
+    University. Research focus on enabling mobile robotic systems for complex tasks.
+  origin: American (uncertain)
+- name: Adnan Esmail
+  role: Co-Founder
+  background: Former SVP of Engineering at Anduril Industries. Previously worked on hardware technologies at Tesla. Studied
+    Mechanical Engineering, Physics, Electrical Engineering, and Computer Science at MIT.
+  origin: Uncertain
+- name: Quan Vuong
+  role: Co-Founder
+  background: Deep experience in reinforcement learning and robotics engineering. Previously at Google DeepMind.
+  origin: Vietnamese (inferred from name -- uncertain)
+team_composition: The founding team is unusual in combining three world-class academic researchers (Hausman/Stanford, Levine/Berkeley,
+  Finn/Stanford) with deep industry experience from Google DeepMind, a defense-tech/hardware operator (Esmail from Anduril/Tesla),
+  and a Silicon Valley business/product leader (Groom from Stripe). This blend of academic rigor, engineering depth, and commercial
+  instinct is rare in robotics startups.
+business_model: Software-centric 'intelligence layer' for robotics. Physical Intelligence develops foundation models (vision-language-action
+  models) that serve as plug-and-play brains for third-party robot hardware. The emerging model is an API/SaaS approach --
+  providing robotic intelligence as a service rather than building vertically integrated robots. One source mentions a $300/month/robot
+  subscription pricing, though this is unconfirmed and may be speculative. Early commercial traction is through partnerships
+  with hardware companies (Weave Robotics for home/laundry, Ultra for warehouse automation). The company has also open-sourced
+  parts of its stack (openpi on GitHub) to build ecosystem adoption.
 products_and_models:
-  - "pi0 (October 2024): First generalist robot policy. 3B-parameter vision-language-action flow model built on PaliGemma. Trained on diverse embodied data to follow text instructions and generate robot actions."
-  - "pi0.5 (September 2025): Upgraded model with improved open-world generalization."
-  - "pi0.6 (November 2025): Hierarchical model (high-level subtask prediction + low-level action generation). Vision-language backbone from Gemma3 4B. 63ms inference per action chunk on a single H100 GPU. Significant improvements in speed and success rates over pi0.5."
-  - "pi0.6-star (in development as of early 2026): Next iteration under active development."
-  - "openpi: Open-source release of pi0 weights and code on GitHub."
-
+- 'pi0 (October 2024): First generalist robot policy. 3B-parameter vision-language-action flow model built on PaliGemma. Trained
+  on diverse embodied data to follow text instructions and generate robot actions.'
+- 'pi0.5 (September 2025): Upgraded model with improved open-world generalization.'
+- 'pi0.6 (November 2025): Hierarchical model (high-level subtask prediction + low-level action generation). Vision-language
+  backbone from Gemma3 4B. 63ms inference per action chunk on a single H100 GPU. Significant improvements in speed and success
+  rates over pi0.5.'
+- 'pi0.6-star (in development as of early 2026): Next iteration under active development.'
+- 'openpi: Open-source release of pi0 weights and code on GitHub.'
 customers_and_partnerships:
-  - "Weave Robotics: Home/laundry robots. Pi0.6 reduced human interventions in laundry folding by 50% in live San Francisco laundromat deployments."
-  - "Ultra: Industrial warehouse automation. Pi0.6 achieved 96.4% autonomy during full-shift e-commerce order packaging at Ultra's customer site."
-  - "AgiBot: Hardware collaboration for deploying embodied intelligence into third-party robot frames."
-  - "NVIDIA: Investor and technology partner (NVentures participation in Series B)."
-
-revenue_signals: "Pre-revenue or very early revenue as of late 2025. The $5.6B valuation is based on technology potential rather than current revenue. Competitor Skild AI reportedly generated $30M in revenue from its deployed 'Skild Brain' product, suggesting the market is beginning to monetize but Physical Intelligence has prioritized research over commercialization so far. The Weave and Ultra partnerships (announced February 2026) represent the first public evidence of live commercial deployments using Pi's models."
-
+- 'Weave Robotics: Home/laundry robots. Pi0.6 reduced human interventions in laundry folding by 50% in live San Francisco
+  laundromat deployments.'
+- 'Ultra: Industrial warehouse automation. Pi0.6 achieved 96.4% autonomy during full-shift e-commerce order packaging at Ultra''s
+  customer site.'
+- 'AgiBot: Hardware collaboration for deploying embodied intelligence into third-party robot frames.'
+- 'NVIDIA: Investor and technology partner (NVentures participation in Series B).'
+revenue_signals: Pre-revenue or very early revenue as of late 2025. The $5.6B valuation is based on technology potential rather
+  than current revenue. Competitor Skild AI reportedly generated $30M in revenue from its deployed 'Skild Brain' product,
+  suggesting the market is beginning to monetize but Physical Intelligence has prioritized research over commercialization
+  so far. The Weave and Ultra partnerships (announced February 2026) represent the first public evidence of live commercial
+  deployments using Pi's models.
 competitors:
-  - "Skild AI (Carnegie Mellon spinout, 'omni-bodied' Skild Brain, reportedly $30M revenue)"
-  - "Figure AI (humanoid robots with integrated AI)"
-  - "1X Technologies (humanoid robots, OpenAI-backed)"
-  - "Covariant (warehouse robotics AI, acquired by Amazon in 2024)"
-  - "Google DeepMind Robotics (RT-2, internal research)"
-  - "Tesla Optimus (vertically integrated humanoid)"
-
+- Skild AI (Carnegie Mellon spinout, 'omni-bodied' Skild Brain, reportedly $30M revenue)
+- Figure AI (humanoid robots with integrated AI)
+- 1X Technologies (humanoid robots, OpenAI-backed)
+- Covariant (warehouse robotics AI, acquired by Amazon in 2024)
+- Google DeepMind Robotics (RT-2, internal research)
+- Tesla Optimus (vertically integrated humanoid)
 sources:
-  - "https://www.cnbc.com/2024/11/04/jeff-bezos-and-openai-invest-in-robot-startup-physical-intelligence.html"
-  - "https://www.therobotreport.com/physical-intelligence-raises-600m-advance-robot-foundation-models/"
-  - "https://www.bloomberg.com/news/articles/2025-11-20/robotics-startup-physical-intelligence-valued-at-5-6-billion-in-new-funding"
-  - "https://techcrunch.com/2026/01/30/physical-intelligence-stripe-veteran-lachy-grooms-latest-bet-is-building-silicon-valleys-buzziest-robot-brains/"
-  - "https://www.capitalg.com/insights/physical-intelligence-bringing-general-purpose-ai-into-the-physical-world"
-  - "https://news.crunchbase.com/ai/robot-brain-startup-unicorn-physical-intelligence-bezos/"
-  - "https://www.humanoidsdaily.com/news/the-api-fication-of-robotics-physical-intelligence-unveils-real-world-performance-data-with-weave-and-ultra"
-  - "https://www.pi.website/blog/pi0"
-  - "https://www.physicalintelligence.company/blog/pi05"
-  - "https://website.pi-asset.com/pi06star/PI06_model_card.pdf"
-  - "https://www.pi.website/blog/partner"
-  - "https://eutechfuture.com/artificial-intelligence/physical-intelligence-building-foundation-models-for-robots-to-interact-with-the-real-world/"
-  - "https://sacra.com/c/physical-intelligence/"
-  - "https://en.wikipedia.org/wiki/Chelsea_Finn"
-  - "https://github.com/Physical-Intelligence/openpi"
-
+- https://www.cnbc.com/2024/11/04/jeff-bezos-and-openai-invest-in-robot-startup-physical-intelligence.html
+- https://www.therobotreport.com/physical-intelligence-raises-600m-advance-robot-foundation-models/
+- https://www.bloomberg.com/news/articles/2025-11-20/robotics-startup-physical-intelligence-valued-at-5-6-billion-in-new-funding
+- https://techcrunch.com/2026/01/30/physical-intelligence-stripe-veteran-lachy-grooms-latest-bet-is-building-silicon-valleys-buzziest-robot-brains/
+- https://www.capitalg.com/insights/physical-intelligence-bringing-general-purpose-ai-into-the-physical-world
+- https://news.crunchbase.com/ai/robot-brain-startup-unicorn-physical-intelligence-bezos/
+- https://www.humanoidsdaily.com/news/the-api-fication-of-robotics-physical-intelligence-unveils-real-world-performance-data-with-weave-and-ultra
+- https://www.pi.website/blog/pi0
+- https://www.physicalintelligence.company/blog/pi05
+- https://website.pi-asset.com/pi06star/PI06_model_card.pdf
+- https://www.pi.website/blog/partner
+- https://eutechfuture.com/artificial-intelligence/physical-intelligence-building-foundation-models-for-robots-to-interact-with-the-real-world/
+- https://sacra.com/c/physical-intelligence/
+- https://en.wikipedia.org/wiki/Chelsea_Finn
+- https://github.com/Physical-Intelligence/openpi
 last_updated: 2026-03-20
 confidence: medium-high
-confidence_notes: "Funding amounts and lead investors are well-sourced from multiple outlets (CNBC, Bloomberg, Crunchbase, TechCrunch). Series A valuation varies across sources ($2B vs $2.4B). Founder backgrounds are cross-referenced but some origins are inferred. Revenue/business model details are sparse and partially speculative -- the $300/robot/month pricing is from a single source and unconfirmed. Model technical details are sourced from the company's own blog and model cards."
+confidence_notes: Funding amounts and lead investors are well-sourced from multiple outlets (CNBC, Bloomberg, Crunchbase,
+  TechCrunch). Series A valuation varies across sources ($2B vs $2.4B). Founder backgrounds are cross-referenced but some
+  origins are inferred. Revenue/business model details are sparse and partially speculative -- the $300/robot/month pricing
+  is from a single source and unconfirmed. Model technical details are sourced from the company's own blog and model cards.
+website_verified: true
 ---
 
 # Physical Intelligence

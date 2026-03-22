@@ -21,6 +21,7 @@ founders:
   role: CEO
   background: PhD Robotics Texas A&M. 7 years at NASA JPL. Led DARPA Subterranean Challenge team.
   origin: Iranian-American
+data_notes: 'Needs verification: website, source_urls, headquarters. Profile may be incomplete.'
 ---
 
 # FieldAI

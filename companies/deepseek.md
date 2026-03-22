@@ -35,6 +35,7 @@ funding_rounds:
   notes: No external VC. Wholly funded by founder's hedge fund High-Flyer (~$8B AUM). The $1.1B is estimated internal capital
     deployed.
 one_liner: DeepSeek is a Chinese AI research lab that builds open-weight large language models
+website_verified: true
 ---
 
 # DeepSeek

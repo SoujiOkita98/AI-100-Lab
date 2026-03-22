@@ -11,11 +11,10 @@ arr: ~$94M (end of 2024)
 employees: ~80
 status: Private
 last_updated: 2026-03-20
-confidence_notes: >
-  Series B ($43M at $500M) well-sourced via TechCrunch.
-  ARR of $94M at end of 2024 reported by Sacra and Fueler.
-  Total funding of $75.3M from Tracxn. Employee count approximate.
-  Profitability claims sourced from Sifted interview with CEO.
+confidence_notes: Series B ($43M at $500M) well-sourced via TechCrunch. ARR of $94M at end of 2024 reported by Sacra and Fueler.
+  Total funding of $75.3M from Tracxn. Employee count approximate. Profitability claims sourced from Sifted interview with
+  CEO.
+website_verified: true
 ---
 
 # Photoroom -- AI Photo Editing

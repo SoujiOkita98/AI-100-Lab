@@ -1,17 +1,19 @@
 ---
-name: "Dream Security"
+name: Dream Security
 founded: 2023
-sector: "AI Cybersecurity / Critical Infrastructure"
-one_liner: "AI-driven critical infrastructure cybersecurity. .1B valuation."
+sector: AI Cybersecurity / Critical Infrastructure
+one_liner: AI-driven critical infrastructure cybersecurity. .1B valuation.
 status: active
 funding_rounds:
-  - stage: "Series B"
-    date: "2025"
-    amount_m: 100
-    lead_investors: ["Bain Capital Venture"]
+- stage: Series B
+  date: '2025'
+  amount_m: 100
+  lead_investors:
+  - Bain Capital Venture
 total_funding: 100
 last_updated: 2026-03-21
 confidence: medium
+data_notes: 'Needs verification: website, founders, source_urls, headquarters. Profile may be incomplete.'
 ---
 
 # Dream Security

@@ -17,6 +17,7 @@ founders:
   role: CEO
   background: Founded AnyVision (raised $350M, rebranded Oosto). Technion. Israeli military.
   origin: Israeli
+data_notes: 'Needs verification: website, source_urls, headquarters. Profile may be incomplete.'
 ---
 
 # Perfect

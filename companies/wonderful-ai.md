@@ -1,62 +1,64 @@
 ---
-name: "Wonderful"
+name: Wonderful
 status: active
 founded: 2025
-hq: "Tel Aviv, Israel"
-website: "https://wonderful.ai"
-sector: ["enterprise AI", "AI agents", "customer service"]
-one_liner: "Israeli AI agent platform for enterprise customer service, combining AI agents with locally embedded deployment teams."
-logo: ~
-
+hq: Tel Aviv, Israel
+website: https://wonderful.ai
+sector:
+- enterprise AI
+- AI agents
+- customer service
+one_liner: Israeli AI agent platform for enterprise customer service, combining AI agents with locally embedded deployment
+  teams.
+logo: null
 total_raised_m: 286
 latest_valuation_m: 2000
 funding_rounds:
-  - stage: "Series A"
-    date: 2025-11
-    amount_m: 100
-    valuation_m: ~
-    lead_investors: ["Index Ventures"]
-    source: "https://techcrunch.com/2025/11/11/wonderful-raised-100m-series-a-to-put-ai-agents-on-the-front-lines-of-customer-service/"
-    notes: "Bessemer Venture Partners, IVP, and Vine Ventures also participated."
-
-  - stage: "Series B"
-    date: 2026-03
-    amount_m: 150
-    valuation_m: 2000
-    lead_investors: ["Insight Partners"]
-    source: "https://techcrunch.com/2026/03/12/wonderful-raises-150m-series-b-at-2b-valuation/"
-    notes: "Just four months after Series A. Index Ventures, IVP, Bessemer Venture Partners, and Vine Ventures also participated."
-
+- stage: Series A
+  date: 2025-11
+  amount_m: 100
+  valuation_m: null
+  lead_investors:
+  - Index Ventures
+  source: https://techcrunch.com/2025/11/11/wonderful-raised-100m-series-a-to-put-ai-agents-on-the-front-lines-of-customer-service/
+  notes: Bessemer Venture Partners, IVP, and Vine Ventures also participated.
+- stage: Series B
+  date: 2026-03
+  amount_m: 150
+  valuation_m: 2000
+  lead_investors:
+  - Insight Partners
+  source: https://techcrunch.com/2026/03/12/wonderful-raises-150m-series-b-at-2b-valuation/
+  notes: Just four months after Series A. Index Ventures, IVP, Bessemer Venture Partners, and Vine Ventures also participated.
 founders:
-  - name: "Bar Winkler"
-    role: "CEO & Co-Founder"
-    background: "Previously founded Approve.com, a platform for automated payment management for businesses, which was acquired by Tipalti in 2021. Serial Israeli entrepreneur."
-    origin: "Israeli."
-
-  - name: "Roey Lalazar"
-    role: "CTO & Co-Founder"
-    background: "Previously founded Kaps, an AI-based localization platform. Technical co-founder with deep AI/ML expertise."
-    origin: "Israeli."
-
-team_china_profile: "No known Chinese-origin founders. Both founders are Israeli."
-
-business_model: "Enterprise SaaS. AI agent platform for customer service, deployed across telecom, finance, healthcare, and manufacturing verticals. Key differentiator is the 'hyper-local' deployment model: Wonderful embeds deployment teams directly inside enterprise environments alongside the AI agents. This hybrid human+AI deployment approach helps overcome enterprise adoption barriers. Revenue likely subscription-based per deployed agent or per interaction volume."
-
+- name: Bar Winkler
+  role: CEO & Co-Founder
+  background: Previously founded Approve.com, a platform for automated payment management for businesses, which was acquired
+    by Tipalti in 2021. Serial Israeli entrepreneur.
+  origin: Israeli.
+- name: Roey Lalazar
+  role: CTO & Co-Founder
+  background: Previously founded Kaps, an AI-based localization platform. Technical co-founder with deep AI/ML expertise.
+  origin: Israeli.
+team_china_profile: No known Chinese-origin founders. Both founders are Israeli.
+business_model: 'Enterprise SaaS. AI agent platform for customer service, deployed across telecom, finance, healthcare, and
+  manufacturing verticals. Key differentiator is the ''hyper-local'' deployment model: Wonderful embeds deployment teams directly
+  inside enterprise environments alongside the AI agents. This hybrid human+AI deployment approach helps overcome enterprise
+  adoption barriers. Revenue likely subscription-based per deployed agent or per interaction volume.'
 customers:
-  - "Telecom companies"
-  - "Financial services firms"
-  - "Healthcare organizations"
-  - "Manufacturing companies"
-
+- Telecom companies
+- Financial services firms
+- Healthcare organizations
+- Manufacturing companies
 sources:
-  - "https://techcrunch.com/2026/03/12/wonderful-raises-150m-series-b-at-2b-valuation/"
-  - "https://www.calcalistech.com/ctechnews/article/mzl1gy8tx"
-  - "https://en.globes.co.il/en/article-israeli-ai-agents-co-wonderful-raises-150m-at-2b-valuation-1001537395"
-  - "https://techcrunch.com/2025/11/11/wonderful-raised-100m-series-a-to-put-ai-agents-on-the-front-lines-of-customer-service/"
-  - "https://www.indexventures.com/perspectives/index-ventures-triples-down-as-wonderful-raises-150m-series-b-to-scale-its-hyper-local-enterprise-ai-platform/"
-
+- https://techcrunch.com/2026/03/12/wonderful-raises-150m-series-b-at-2b-valuation/
+- https://www.calcalistech.com/ctechnews/article/mzl1gy8tx
+- https://en.globes.co.il/en/article-israeli-ai-agents-co-wonderful-raises-150m-at-2b-valuation-1001537395
+- https://techcrunch.com/2025/11/11/wonderful-raised-100m-series-a-to-put-ai-agents-on-the-front-lines-of-customer-service/
+- https://www.indexventures.com/perspectives/index-ventures-triples-down-as-wonderful-raises-150m-series-b-to-scale-its-hyper-local-enterprise-ai-platform/
 last_updated: 2026-03-20
 confidence: high
+website_verified: true
 ---
 
 # Wonderful

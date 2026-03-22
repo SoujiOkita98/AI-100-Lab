@@ -80,6 +80,7 @@ funding_rounds:
 one_liner: AI-powered ambient clinical documentation platform that listens to doctor-patient conversations and automatically
   generates structured medical notes, now expanding into revenue cycle intelligence
 website: https://abridge.com
+website_verified: true
 ---
 
 # Abridge

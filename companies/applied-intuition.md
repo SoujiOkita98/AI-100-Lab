@@ -1,130 +1,158 @@
 ---
-name: "Applied Intuition"
+name: Applied Intuition
 status: active
 founded: 2017
-hq: "Mountain View, California"
-website: "https://www.appliedintuition.com"
-sector: [autonomous-vehicles, simulation, defense-govtech, enterprise-software]
-one_liner: "AI-powered simulation, validation, and deployment platform for autonomous vehicles and defense autonomy systems."
-
+hq: Mountain View, California
+website: https://www.appliedintuition.com
+sector:
+- autonomous-vehicles
+- simulation
+- defense-govtech
+- enterprise-software
+one_liner: AI-powered simulation, validation, and deployment platform for autonomous vehicles and defense autonomy systems.
 total_raised_m: 1200
-latest_valuation_m: 15000   # $15B post-money, Series F (June 2025)
+latest_valuation_m: 15000
 funding_rounds:
-  - stage: "Seed"
-    date: 2017-01
-    amount_m:                    # not publicly reported
-    valuation_m:                 # not publicly reported
-    lead_investors: ["Floodgate"]  # Floodgate was an early backer; exact seed lead unconfirmed
-    source: "https://research.contrary.com/company/applied-intuition"
-  - stage: "Series A"
-    date: 2018-09
-    amount_m: 11.5
-    valuation_m:                 # not publicly reported
-    lead_investors: ["Andreessen Horowitz"]  # Led by Marc Andreessen personally
-    source: "https://www.crunchbase.com/funding_round/applied-intuition-series-a--06b58f4c"
-  - stage: "Series B"
-    date: 2019-09-12
-    amount_m: 40
-    valuation_m:                 # not publicly reported
-    lead_investors: ["General Catalyst"]  # Kleiner Perkins, M12 (Microsoft), Sozo Ventures, La Famiglia also participated
-    source: "https://www.globenewswire.com/news-release/2019/09/12/1914818/0/en/Applied-Intuition-Secures-40-Million-in-Series-B-Funding-Led-by-General-Catalyst.html"
-  - stage: "Series C"
-    date: 2021-03               # approximate; closed ~early 2021
-    amount_m: 125
-    valuation_m: 1250            # post-money ~$1.25B; unicorn milestone
-    lead_investors: ["Lux Capital", "Andreessen Horowitz", "General Catalyst"]  # equal participation from all three
-    source: "https://www.appliedintuition.com/news/series-c"
-  - stage: "Series D"
-    date: 2021-11-11
-    amount_m: 175
-    valuation_m: 3600            # post-money $3.6B
-    lead_investors: ["Elad Gil", "Addition", "Coatue Management"]
-    source: "https://www.prnewswire.com/news-releases/applied-intuition-raises-175m-series-d-co-led-by-elad-gil-addition-and-coatue-management-at-3-6b-valuation-301422396.html"
-  - stage: "Series E"
-    date: 2024-03-12
-    amount_m: 250
-    valuation_m: 6000            # post-money $6B
-    lead_investors: ["Lux Capital", "Elad Gil"]  # Strategic investor Porsche Investments Management S.A. also co-led
-    source: "https://techcrunch.com/2024/03/12/applied-intuition-series-e-raise-funding-andreessen-lux/"
-  - stage: "Series F"
-    date: 2025-06-17
-    amount_m: 600                # includes tender offer component
-    valuation_m: 15000           # post-money $15B; 2.5x valuation jump in ~15 months
-    lead_investors: ["BlackRock", "Kleiner Perkins"]
-    source: "https://techcrunch.com/2025/06/17/applied-intuition-raises-600-million-as-it-pushes-further-into-defense/"
-
+- stage: Seed
+  date: 2017-01
+  amount_m: null
+  valuation_m: null
+  lead_investors:
+  - Floodgate
+  source: https://research.contrary.com/company/applied-intuition
+- stage: Series A
+  date: 2018-09
+  amount_m: 11.5
+  valuation_m: null
+  lead_investors:
+  - Andreessen Horowitz
+  source: https://www.crunchbase.com/funding_round/applied-intuition-series-a--06b58f4c
+- stage: Series B
+  date: 2019-09-12
+  amount_m: 40
+  valuation_m: null
+  lead_investors:
+  - General Catalyst
+  source: https://www.globenewswire.com/news-release/2019/09/12/1914818/0/en/Applied-Intuition-Secures-40-Million-in-Series-B-Funding-Led-by-General-Catalyst.html
+- stage: Series C
+  date: 2021-03
+  amount_m: 125
+  valuation_m: 1250
+  lead_investors:
+  - Lux Capital
+  - Andreessen Horowitz
+  - General Catalyst
+  source: https://www.appliedintuition.com/news/series-c
+- stage: Series D
+  date: 2021-11-11
+  amount_m: 175
+  valuation_m: 3600
+  lead_investors:
+  - Elad Gil
+  - Addition
+  - Coatue Management
+  source: https://www.prnewswire.com/news-releases/applied-intuition-raises-175m-series-d-co-led-by-elad-gil-addition-and-coatue-management-at-3-6b-valuation-301422396.html
+- stage: Series E
+  date: 2024-03-12
+  amount_m: 250
+  valuation_m: 6000
+  lead_investors:
+  - Lux Capital
+  - Elad Gil
+  source: https://techcrunch.com/2024/03/12/applied-intuition-series-e-raise-funding-andreessen-lux/
+- stage: Series F
+  date: 2025-06-17
+  amount_m: 600
+  valuation_m: 15000
+  lead_investors:
+  - BlackRock
+  - Kleiner Perkins
+  source: https://techcrunch.com/2025/06/17/applied-intuition-raises-600-million-as-it-pushes-further-into-defense/
 founders:
-  - name: "Qasar Younis"
-    role: "Co-Founder & CEO"
-    background: "Pakistani American. Born on a farm in Pakistan; emigrated to the US in 1988, grew up in the Detroit area. Studied engineering at General Motors Institute of Technology (now Kettering University) in Flint, MI, where he managed a V6 engine line at a GM plant. MBA from Harvard Business School. Started career as engineer at General Motors, then Bosch in Japan. Co-founded Talkbin (acquired by Google, 2011). Served as COO of Y Combinator under Sam Altman."
-    origin: "Pakistani American, raised in Detroit metro area"
-  - name: "Peter Ludwig"
-    role: "Co-Founder & CTO"
-    background: "Computer Science degrees from University of Michigan. Spent five years as an engineer at Google, leading efforts on Google Maps and Android Automotive. Met Qasar Younis while at Google. Built sensors for a Google Street View car. Fellow Michigander -- shared Detroit/auto-industry upbringing shaped the company's thesis."
-    origin: "American, raised in Michigan"
-
-team_china_profile: "No known China connection. Both co-founders have American automotive industry roots (Detroit/Michigan). Younis is Pakistani American; Ludwig is American. Company works with US DoD and allied defense. No Chinese investors identified in any funding round."
-
-business_model: "B2B SaaS. Applied Intuition sells simulation, validation, and deployment software to automotive OEMs and defense organizations developing autonomous systems. Revenue comes from annual software licenses priced by number of engineering seats, scale of simulation workloads, and specific modules deployed. Gross margins are reported at approximately 85%. The company has expanded from pure simulation into full-stack autonomy software (SDS for Automotive) and defense autonomy (Axion/Acuity), broadening its addressable market from tooling into platform/stack sales."
+- name: Qasar Younis
+  role: Co-Founder & CEO
+  background: Pakistani American. Born on a farm in Pakistan; emigrated to the US in 1988, grew up in the Detroit area. Studied
+    engineering at General Motors Institute of Technology (now Kettering University) in Flint, MI, where he managed a V6 engine
+    line at a GM plant. MBA from Harvard Business School. Started career as engineer at General Motors, then Bosch in Japan.
+    Co-founded Talkbin (acquired by Google, 2011). Served as COO of Y Combinator under Sam Altman.
+  origin: Pakistani American, raised in Detroit metro area
+- name: Peter Ludwig
+  role: Co-Founder & CTO
+  background: Computer Science degrees from University of Michigan. Spent five years as an engineer at Google, leading efforts
+    on Google Maps and Android Automotive. Met Qasar Younis while at Google. Built sensors for a Google Street View car. Fellow
+    Michigander -- shared Detroit/auto-industry upbringing shaped the company's thesis.
+  origin: American, raised in Michigan
+team_china_profile: No known China connection. Both co-founders have American automotive industry roots (Detroit/Michigan).
+  Younis is Pakistani American; Ludwig is American. Company works with US DoD and allied defense. No Chinese investors identified
+  in any funding round.
+business_model: B2B SaaS. Applied Intuition sells simulation, validation, and deployment software to automotive OEMs and defense
+  organizations developing autonomous systems. Revenue comes from annual software licenses priced by number of engineering
+  seats, scale of simulation workloads, and specific modules deployed. Gross margins are reported at approximately 85%. The
+  company has expanded from pure simulation into full-stack autonomy software (SDS for Automotive) and defense autonomy (Axion/Acuity),
+  broadening its addressable market from tooling into platform/stack sales.
 customers:
-  - "18 of the top 20 global automakers"
-  - "U.S. Department of Defense (multiple programs across land, air, sea, space)"
-  - "Major trucking, construction, mining, and agriculture companies"
-  - "Porsche (strategic investor via Series E)"
-  - "Sierra Nevada Corporation (SNC) -- defense autonomy partnership (Dec 2025)"
-revenue_signals: "~$415M ARR in 2024 (100% YoY growth from ~$207M in 2023). Reported ~$800M in revenue in 2025, roughly doubling again. Company reportedly forecasted ARR approaching $1B by end of 2025. [Confidence: medium -- revenue figures are from Sacra estimates and press reports, not official SEC filings.]"
-
+- 18 of the top 20 global automakers
+- U.S. Department of Defense (multiple programs across land, air, sea, space)
+- Major trucking, construction, mining, and agriculture companies
+- Porsche (strategic investor via Series E)
+- Sierra Nevada Corporation (SNC) -- defense autonomy partnership (Dec 2025)
+revenue_signals: '~$415M ARR in 2024 (100% YoY growth from ~$207M in 2023). Reported ~$800M in revenue in 2025, roughly doubling
+  again. Company reportedly forecasted ARR approaching $1B by end of 2025. [Confidence: medium -- revenue figures are from
+  Sacra estimates and press reports, not official SEC filings.]'
 key_products:
-  - name: "Simulation & Validation Platform"
-    description: "Core product. High-fidelity simulation environment for developing and validating ADAS and autonomous driving systems. Sensor simulation, scenario generation, regression testing at scale."
-  - name: "SDS for Automotive"
-    description: "End-to-end ADAS and autonomy stack for passenger vehicles. Combines a unified neural architecture with white-box transparency and a data engine. Launched 2025."
-  - name: "Axion"
-    description: "All-domain data engine and simulation toolkit for defense. Develops and validates autonomous systems across land, air, sea, and space. Platform-agnostic. Launched May 2025."
-  - name: "Acuity"
-    description: "All-domain onboard autonomy software for defense, built on acquired EpiSci technology. Out-of-the-box autonomy that can be integrated into unmanned systems from tanks to fighter jets. Launched May 2025."
-
+- name: Simulation & Validation Platform
+  description: Core product. High-fidelity simulation environment for developing and validating ADAS and autonomous driving
+    systems. Sensor simulation, scenario generation, regression testing at scale.
+- name: SDS for Automotive
+  description: End-to-end ADAS and autonomy stack for passenger vehicles. Combines a unified neural architecture with white-box
+    transparency and a data engine. Launched 2025.
+- name: Axion
+  description: All-domain data engine and simulation toolkit for defense. Develops and validates autonomous systems across
+    land, air, sea, and space. Platform-agnostic. Launched May 2025.
+- name: Acuity
+  description: All-domain onboard autonomy software for defense, built on acquired EpiSci technology. Out-of-the-box autonomy
+    that can be integrated into unmanned systems from tanks to fighter jets. Launched May 2025.
 notable_acquisitions:
-  - name: "EpiSci (EpiSys Science, Inc.)"
-    date: 2025-02
-    description: "AI and autonomy software firm for national security. Co-founder Bo Ryu and full team joined Applied Intuition. Positioned the company as a premier all-domain defense autonomy provider."
-    source: "https://www.defensenews.com/air/2025/02/06/applied-intuition-acquires-ai-software-firm-episci/"
-
-employees: ~1400   # estimates range 1,200-1,400 as of early 2026; across offices on 5 continents
+- name: EpiSci (EpiSys Science, Inc.)
+  date: 2025-02
+  description: AI and autonomy software firm for national security. Co-founder Bo Ryu and full team joined Applied Intuition.
+    Positioned the company as a premier all-domain defense autonomy provider.
+  source: https://www.defensenews.com/air/2025/02/06/applied-intuition-acquires-ai-software-firm-episci/
+employees: ~1400
 offices:
-  - "Mountain View, CA (HQ)"
-  - "Washington, D.C."
-  - "San Diego, CA"
-  - "Ann Arbor, MI"
-  - "Ft. Walton Beach, FL"
-  - "London"
-  - "Stuttgart"
-  - "Munich"
-  - "Stockholm"
-  - "Bangalore"
-  - "Seoul"
-  - "Tokyo"
-
+- Mountain View, CA (HQ)
+- Washington, D.C.
+- San Diego, CA
+- Ann Arbor, MI
+- Ft. Walton Beach, FL
+- London
+- Stuttgart
+- Munich
+- Stockholm
+- Bangalore
+- Seoul
+- Tokyo
 sources:
-  - "https://techcrunch.com/2025/06/17/applied-intuition-raises-600-million-as-it-pushes-further-into-defense/"
-  - "https://techcrunch.com/2024/03/12/applied-intuition-series-e-raise-funding-andreessen-lux/"
-  - "https://www.appliedintuition.com/blog/series-f"
-  - "https://www.appliedintuition.com/blog/2025-year-in-review"
-  - "https://www.appliedintuition.com/news/series-c"
-  - "https://www.appliedintuition.com/news/series-d"
-  - "https://www.prnewswire.com/news-releases/applied-intuition-raises-175m-series-d-co-led-by-elad-gil-addition-and-coatue-management-at-3-6b-valuation-301422396.html"
-  - "https://www.globenewswire.com/news-release/2019/09/12/1914818/0/en/Applied-Intuition-Secures-40-Million-in-Series-B-Funding-Led-by-General-Catalyst.html"
-  - "https://en.wikipedia.org/wiki/Qasar_Younis"
-  - "https://research.contrary.com/company/applied-intuition"
-  - "https://sacra.com/c/applied-intuition/"
-  - "https://sacra.com/research/applied-intuition-at-415m-year/"
-  - "https://review.firstround.com/applied-intuitions-path-to-product-market-fit/"
-  - "https://greatness.floodgate.com/episodes/qasar-younis-and-peter-ludwig-of-applied-intuition-a-startup-with-design-in-mind"
-  - "https://www.appliedintuition.com/blog/applied-intuition-acquires-episci"
-  - "https://www.defensenews.com/air/2025/02/06/applied-intuition-acquires-ai-software-firm-episci/"
-  - "https://www.prnewswire.com/news-releases/applied-intuition-launches-axion-and-acuity-to-deliver-all-domain-autonomy-to-the-warfighter-302459349.html"
+- https://techcrunch.com/2025/06/17/applied-intuition-raises-600-million-as-it-pushes-further-into-defense/
+- https://techcrunch.com/2024/03/12/applied-intuition-series-e-raise-funding-andreessen-lux/
+- https://www.appliedintuition.com/blog/series-f
+- https://www.appliedintuition.com/blog/2025-year-in-review
+- https://www.appliedintuition.com/news/series-c
+- https://www.appliedintuition.com/news/series-d
+- https://www.prnewswire.com/news-releases/applied-intuition-raises-175m-series-d-co-led-by-elad-gil-addition-and-coatue-management-at-3-6b-valuation-301422396.html
+- https://www.globenewswire.com/news-release/2019/09/12/1914818/0/en/Applied-Intuition-Secures-40-Million-in-Series-B-Funding-Led-by-General-Catalyst.html
+- https://en.wikipedia.org/wiki/Qasar_Younis
+- https://research.contrary.com/company/applied-intuition
+- https://sacra.com/c/applied-intuition/
+- https://sacra.com/research/applied-intuition-at-415m-year/
+- https://review.firstround.com/applied-intuitions-path-to-product-market-fit/
+- https://greatness.floodgate.com/episodes/qasar-younis-and-peter-ludwig-of-applied-intuition-a-startup-with-design-in-mind
+- https://www.appliedintuition.com/blog/applied-intuition-acquires-episci
+- https://www.defensenews.com/air/2025/02/06/applied-intuition-acquires-ai-software-firm-episci/
+- https://www.prnewswire.com/news-releases/applied-intuition-launches-axion-and-acuity-to-deliver-all-domain-autonomy-to-the-warfighter-302459349.html
 last_updated: 2026-03-20
 confidence: high
+website_verified: true
 ---
 
 # Applied Intuition

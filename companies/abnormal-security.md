@@ -1,101 +1,112 @@
 ---
-name: "Abnormal AI"
+name: Abnormal AI
 status: active
 founded: 2018
-hq: "San Francisco, CA"
-website: "https://abnormal.ai"
-sector: ["cybersecurity", "email security", "behavioral AI", "enterprise SaaS"]
-one_liner: "AI-native email and cloud security platform that uses behavioral AI to stop social engineering attacks, founded by former Twitter/TellApart ML leaders."
-logo: "https://abnormal.ai/favicon.ico"
-
+hq: San Francisco, CA
+website: https://abnormal.ai
+sector:
+- cybersecurity
+- email security
+- behavioral AI
+- enterprise SaaS
+one_liner: AI-native email and cloud security platform that uses behavioral AI to stop social engineering attacks, founded
+  by former Twitter/TellApart ML leaders.
+logo: https://abnormal.ai/favicon.ico
 total_raised_m: 546
 latest_valuation_m: 5100
 funding_rounds:
-  - stage: "Seed"
-    date: 2018
-    amount_m: ~
-    valuation_m: ~
-    lead_investors: ["Greylock Partners"]
-    source: "https://news.greylock.com/our-investment-in-abnormal-security-5b58650c690c"
-    notes: "Company incubated at Greylock's San Francisco offices. Exact seed amount not publicly disclosed."
-
-  - stage: "Series A"
-    date: 2019-11
-    amount_m: 24
-    valuation_m: ~
-    lead_investors: ["Greylock Partners"]
-    source: "https://abnormal.ai/about/news/launching-24m-series-a-funding-from-greylock"
-    notes: "Public launch of the company coincided with Series A announcement."
-
-  - stage: "Series B"
-    date: 2020-11
-    amount_m: 50
-    valuation_m: ~
-    lead_investors: ["Menlo Ventures"]
-    source: "https://abnormal.ai/about/news/50m-series-b-funding"
-    notes: "Greylock participated. Total funding reached ~$75M."
-
-  - stage: "Series C"
-    date: 2022-05
-    amount_m: 210
-    valuation_m: 4000
-    lead_investors: ["Insight Partners"]
-    source: "https://abnormal.ai/about/news/series-c-funding-4b-valuation"
-    notes: "Greylock and Menlo Ventures also participated. Tripled ARR in preceding year."
-
-  - stage: "Series D"
-    date: 2024-08
-    amount_m: 250
-    valuation_m: 5100
-    lead_investors: ["Wellington Management"]
-    source: "https://abnormal.ai/about/news/series-d-5b-valuation"
-    notes: "Greylock, Menlo Ventures, Insight Partners, and CrowdStrike Falcon Fund participated. Announced alongside crossing $200M ARR."
-
+- stage: Seed
+  date: 2018
+  amount_m: null
+  valuation_m: null
+  lead_investors:
+  - Greylock Partners
+  source: https://news.greylock.com/our-investment-in-abnormal-security-5b58650c690c
+  notes: Company incubated at Greylock's San Francisco offices. Exact seed amount not publicly disclosed.
+- stage: Series A
+  date: 2019-11
+  amount_m: 24
+  valuation_m: null
+  lead_investors:
+  - Greylock Partners
+  source: https://abnormal.ai/about/news/launching-24m-series-a-funding-from-greylock
+  notes: Public launch of the company coincided with Series A announcement.
+- stage: Series B
+  date: 2020-11
+  amount_m: 50
+  valuation_m: null
+  lead_investors:
+  - Menlo Ventures
+  source: https://abnormal.ai/about/news/50m-series-b-funding
+  notes: Greylock participated. Total funding reached ~$75M.
+- stage: Series C
+  date: 2022-05
+  amount_m: 210
+  valuation_m: 4000
+  lead_investors:
+  - Insight Partners
+  source: https://abnormal.ai/about/news/series-c-funding-4b-valuation
+  notes: Greylock and Menlo Ventures also participated. Tripled ARR in preceding year.
+- stage: Series D
+  date: 2024-08
+  amount_m: 250
+  valuation_m: 5100
+  lead_investors:
+  - Wellington Management
+  source: https://abnormal.ai/about/news/series-d-5b-valuation
+  notes: Greylock, Menlo Ventures, Insight Partners, and CrowdStrike Falcon Fund participated. Announced alongside crossing
+    $200M ARR.
 founders:
-  - name: "Evan Reiser"
-    role: "CEO & Co-Founder"
-    background: "BS in Computer Systems Engineering from Rensselaer Polytechnic Institute. Started career at Eastman Kodak (2003) doing ML R&D for intelligence applications, then S&P Capital IQ as a software engineer (2006). Serial founder: founded Bloomspot (online-to-offline advertising, sold to JP Morgan ~2010), then AdStack (ML-powered ad tech, acquired by TellApart 2013). TellApart was acquired by Twitter in 2015. At Twitter (2015-2018), led product management and ML teams for the advertising business."
-    origin: "American."
-
-  - name: "Sanjay Jeyakumar"
-    role: "CTO & Co-Founder"
-    background: "BS in EECS from UC Berkeley. MS in Computer Science from Stanford University. Worked at Oracle (2003-2005), PARC intern (2002), then Google (2005-2009) on next-gen Search and Android launch. Founding engineer and architect at TellApart (2009-2015), building personalization systems for large retailers. At Twitter (2015-2018), served as systems architect for distributed data processing and ML systems powering the ads business."
-    origin: "Indian-American."
-
-team_china_profile: "No known Chinese-origin founders. The founding team is American/Indian-American with strong ML and ad-tech backgrounds from Twitter/TellApart. No significant public China connections."
-
+- name: Evan Reiser
+  role: CEO & Co-Founder
+  background: 'BS in Computer Systems Engineering from Rensselaer Polytechnic Institute. Started career at Eastman Kodak (2003)
+    doing ML R&D for intelligence applications, then S&P Capital IQ as a software engineer (2006). Serial founder: founded
+    Bloomspot (online-to-offline advertising, sold to JP Morgan ~2010), then AdStack (ML-powered ad tech, acquired by TellApart
+    2013). TellApart was acquired by Twitter in 2015. At Twitter (2015-2018), led product management and ML teams for the
+    advertising business.'
+  origin: American.
+- name: Sanjay Jeyakumar
+  role: CTO & Co-Founder
+  background: BS in EECS from UC Berkeley. MS in Computer Science from Stanford University. Worked at Oracle (2003-2005),
+    PARC intern (2002), then Google (2005-2009) on next-gen Search and Android launch. Founding engineer and architect at
+    TellApart (2009-2015), building personalization systems for large retailers. At Twitter (2015-2018), served as systems
+    architect for distributed data processing and ML systems powering the ads business.
+  origin: Indian-American.
+team_china_profile: No known Chinese-origin founders. The founding team is American/Indian-American with strong ML and ad-tech
+  backgrounds from Twitter/TellApart. No significant public China connections.
 notable_hires:
-  - "Lisa Banks - CFO (January 2025, former SVP Finance at ServiceNow; hired ahead of potential IPO)"
-
-business_model: "Subscription-based SaaS, sold via enterprise sales motion. Pricing is per-user, per-year (reported starting at ~$35/user/year as of 2021; likely higher for current plans). API-based integration with Microsoft 365 and Google Workspace -- deploys in minutes without MX record changes. Land-and-expand strategy: starts with inbound email security, upsells to account takeover protection, security posture management, and multi-app coverage (Slack, Zoom, Workday, ServiceNow)."
-
+- Lisa Banks - CFO (January 2025, former SVP Finance at ServiceNow; hired ahead of potential IPO)
+business_model: 'Subscription-based SaaS, sold via enterprise sales motion. Pricing is per-user, per-year (reported starting
+  at ~$35/user/year as of 2021; likely higher for current plans). API-based integration with Microsoft 365 and Google Workspace
+  -- deploys in minutes without MX record changes. Land-and-expand strategy: starts with inbound email security, upsells to
+  account takeover protection, security posture management, and multi-app coverage (Slack, Zoom, Workday, ServiceNow).'
 customers:
-  - "15% of the Fortune 500"
-  - "5%+ of the Fortune 1000"
-  - "2,000+ enterprise customers (as of mid-2024)"
-  - "Named customers include Maersk, Xerox, Mattel"
-  - "Universities including Brown University and Adelphi University"
-
-revenue_signals: "$200M+ ARR as of August 2024, representing 100% year-over-year growth. Doubled from ~$100M ARR in mid-2023. Company has stated ambition to reach $1B ARR. Exact 2025-2026 ARR figures not publicly disclosed, but trajectory suggests $300-400M+ ARR range (uncertain)."
-
+- 15% of the Fortune 500
+- 5%+ of the Fortune 1000
+- 2,000+ enterprise customers (as of mid-2024)
+- Named customers include Maersk, Xerox, Mattel
+- Universities including Brown University and Adelphi University
+revenue_signals: $200M+ ARR as of August 2024, representing 100% year-over-year growth. Doubled from ~$100M ARR in mid-2023.
+  Company has stated ambition to reach $1B ARR. Exact 2025-2026 ARR figures not publicly disclosed, but trajectory suggests
+  $300-400M+ ARR range (uncertain).
 sources:
-  - "https://abnormal.ai/about/news/series-d-5b-valuation"
-  - "https://abnormal.ai/about/news/series-c-funding-4b-valuation"
-  - "https://abnormal.ai/about/news/launching-24m-series-a-funding-from-greylock"
-  - "https://abnormal.ai/about/news/50m-series-b-funding"
-  - "https://abnormal.ai/about/news/announcing-abnormal-ai"
-  - "https://news.crunchbase.com/cybersecurity/startup-ai-abnormal-security-funding-wellington/"
-  - "https://research.contrary.com/company/abnormal-security"
-  - "https://www.insightpartners.com/ideas/how-evan-reiser-is-better-understanding-and-securing-human-behavior-with-abnormal-security/"
-  - "https://news.greylock.com/our-investment-in-abnormal-security-5b58650c690c"
-  - "https://greylock.com/greymatter/a-radically-different-ai-native-approach-to-cybersecurity/"
-  - "https://www.cnbc.com/2024/05/14/abnormal-security-cnbc-disruptor-50.html"
-  - "https://getlatka.com/companies/abnormal-security"
-  - "https://securitybrief.co.uk/story/abnormal-security-appoints-new-cfo-ahead-of-public-listing"
-  - "https://www.businesswire.com/news/home/20250416062633/en/Abnormal-Security-Rebrands-to-Abnormal-AI"
-
+- https://abnormal.ai/about/news/series-d-5b-valuation
+- https://abnormal.ai/about/news/series-c-funding-4b-valuation
+- https://abnormal.ai/about/news/launching-24m-series-a-funding-from-greylock
+- https://abnormal.ai/about/news/50m-series-b-funding
+- https://abnormal.ai/about/news/announcing-abnormal-ai
+- https://news.crunchbase.com/cybersecurity/startup-ai-abnormal-security-funding-wellington/
+- https://research.contrary.com/company/abnormal-security
+- https://www.insightpartners.com/ideas/how-evan-reiser-is-better-understanding-and-securing-human-behavior-with-abnormal-security/
+- https://news.greylock.com/our-investment-in-abnormal-security-5b58650c690c
+- https://greylock.com/greymatter/a-radically-different-ai-native-approach-to-cybersecurity/
+- https://www.cnbc.com/2024/05/14/abnormal-security-cnbc-disruptor-50.html
+- https://getlatka.com/companies/abnormal-security
+- https://securitybrief.co.uk/story/abnormal-security-appoints-new-cfo-ahead-of-public-listing
+- https://www.businesswire.com/news/home/20250416062633/en/Abnormal-Security-Rebrands-to-Abnormal-AI
 last_updated: 2026-03-20
 confidence: medium-high
+website_verified: true
 ---
 
 # Abnormal AI (formerly Abnormal Security)

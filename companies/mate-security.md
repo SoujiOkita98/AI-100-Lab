@@ -22,6 +22,7 @@ founders:
   role: CEO
   background: Former product leader at Wiz and Microsoft. First Wiz alumnus to found startup.
   origin: Israeli
+data_notes: 'Needs verification: website, source_urls. Profile may be incomplete.'
 ---
 
 # Mate Security

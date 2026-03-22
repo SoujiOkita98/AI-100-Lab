@@ -49,6 +49,7 @@ funding_rounds:
   source: https://techcrunch.com/2021/07/13/sourcegraph-raises-125m-series-d/
 one_liner: Sourcegraph is the company behind the industry-leading **code search** platform used by large engineering organizations
   to navigate massive, multi-repository codebases
+website_verified: true
 ---
 
 # Sourcegraph

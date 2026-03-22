@@ -19,6 +19,8 @@ founders:
 last_updated: 2026-03-20
 one_liner: Lepton AI was a GPU cloud infrastructure startup founded by Yangqing Jia, one of the most influential Chinese-born
   AI researchers in the world
+website_verified: false
+data_notes: 'Website URL may be invalid (HTTP 503). '
 ---
 
 # Lepton AI

@@ -13,6 +13,7 @@ employees: ~75-100
 status: Private
 last_updated: 2026-03-20
 confidence: medium
+data_notes: 'Needs verification: website, founders. Profile may be incomplete.'
 ---
 
 # Regie.ai

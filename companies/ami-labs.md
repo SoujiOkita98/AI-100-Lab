@@ -1,49 +1,59 @@
 ---
-name: "AMI Labs (Advanced Machine Intelligence)"
+name: AMI Labs (Advanced Machine Intelligence)
 status: active
 founded: 2025
-hq: "Paris, France"
-website: "https://amilabs.ai"
-sector: ["foundation models", "world models", "AI research"]
-one_liner: "AI research lab founded by Turing Award winner Yann LeCun to build world models using JEPA architecture, challenging the dominance of transformer-based LLMs."
-logo: ~
-
+hq: Paris, France
+website: https://amilabs.ai
+sector:
+- foundation models
+- world models
+- AI research
+one_liner: AI research lab founded by Turing Award winner Yann LeCun to build world models using JEPA architecture, challenging
+  the dominance of transformer-based LLMs.
+logo: null
 total_raised_m: 1030
 latest_valuation_m: 3500
 funding_rounds:
-  - stage: "Seed"
-    date: 2026-03
-    amount_m: 1030
-    valuation_m: 3500
-    lead_investors: ["Cathay Innovation", "Greycroft", "Hiro Capital", "HV Capital", "Bezos Expeditions"]
-    source: "https://techcrunch.com/2026/03/09/yann-lecuns-ami-labs-raises-1-03-billion-to-build-world-models/"
-    notes: "Largest seed round for a European company ever. Nvidia, Temasek, Samsung also participated. Angel backers include Tim Berners-Lee, Jim Breyer, Mark Cuban, Xavier Niel, and Eric Schmidt."
-
+- stage: Seed
+  date: 2026-03
+  amount_m: 1030
+  valuation_m: 3500
+  lead_investors:
+  - Cathay Innovation
+  - Greycroft
+  - Hiro Capital
+  - HV Capital
+  - Bezos Expeditions
+  source: https://techcrunch.com/2026/03/09/yann-lecuns-ami-labs-raises-1-03-billion-to-build-world-models/
+  notes: Largest seed round for a European company ever. Nvidia, Temasek, Samsung also participated. Angel backers include
+    Tim Berners-Lee, Jim Breyer, Mark Cuban, Xavier Niel, and Eric Schmidt.
 founders:
-  - name: "Yann LeCun"
-    role: "Chairman"
-    background: "Turing Award winner (2018) for pioneering work on convolutional neural networks. Former VP and Chief AI Scientist at Meta (2013-2025). PhD from Sorbonne. Professor at NYU. Invented LeNet, foundational to modern deep learning."
-    origin: "French. Born in Paris. Educated at ESIEE and Sorbonne. Moved to the US in the 1980s, held positions at Bell Labs and NYU."
-
-  - name: "Alex LeBrun"
-    role: "CEO"
-    background: "Former Meta engineer. Founded Nabla, a digital health AI company (now chairman of Nabla). Serial entrepreneur with deep experience in NLP and conversational AI."
-    origin: "French."
-
-team_china_profile: "No known Chinese-origin founders. The founding team is French with strong academic and industry ties in the US and Europe."
-
-business_model: "Research lab stage. Building world models based on JEPA (Joint Embedding Predictive Architecture), an alternative to transformer-based LLMs. First commercial partner is Nabla (digital health). Revenue model not yet public, but likely API/licensing for world model capabilities. Focus on learning from reality (video, physical interaction), not just language."
-
+- name: Yann LeCun
+  role: Chairman
+  background: Turing Award winner (2018) for pioneering work on convolutional neural networks. Former VP and Chief AI Scientist
+    at Meta (2013-2025). PhD from Sorbonne. Professor at NYU. Invented LeNet, foundational to modern deep learning.
+  origin: French. Born in Paris. Educated at ESIEE and Sorbonne. Moved to the US in the 1980s, held positions at Bell Labs
+    and NYU.
+- name: Alex LeBrun
+  role: CEO
+  background: Former Meta engineer. Founded Nabla, a digital health AI company (now chairman of Nabla). Serial entrepreneur
+    with deep experience in NLP and conversational AI.
+  origin: French.
+team_china_profile: No known Chinese-origin founders. The founding team is French with strong academic and industry ties in
+  the US and Europe.
+business_model: Research lab stage. Building world models based on JEPA (Joint Embedding Predictive Architecture), an alternative
+  to transformer-based LLMs. First commercial partner is Nabla (digital health). Revenue model not yet public, but likely
+  API/licensing for world model capabilities. Focus on learning from reality (video, physical interaction), not just language.
 sources:
-  - "https://techcrunch.com/2026/03/09/yann-lecuns-ami-labs-raises-1-03-billion-to-build-world-models/"
-  - "https://news.crunchbase.com/venture/world-model-ai-lab-ami-raises-europes-largest-seed-round/"
-  - "https://sifted.eu/articles/yann-lecun-ami-labs-meta-funding-round-nvidia"
-  - "https://www.bloomberg.com/news/articles/2026-03-10/yann-lecun-s-new-ai-startup-raises-1-billion-in-seed-funding"
-  - "https://www.latent.space/p/ainews-yann-lecuns-ami-labs-launches"
-  - "https://www.wamda.com/2026/03/shorooq-invests-ami-labs-ai-startup-hits-3-5-billion-valuation"
-
+- https://techcrunch.com/2026/03/09/yann-lecuns-ami-labs-raises-1-03-billion-to-build-world-models/
+- https://news.crunchbase.com/venture/world-model-ai-lab-ami-raises-europes-largest-seed-round/
+- https://sifted.eu/articles/yann-lecun-ami-labs-meta-funding-round-nvidia
+- https://www.bloomberg.com/news/articles/2026-03-10/yann-lecun-s-new-ai-startup-raises-1-billion-in-seed-funding
+- https://www.latent.space/p/ainews-yann-lecuns-ami-labs-launches
+- https://www.wamda.com/2026/03/shorooq-invests-ami-labs-ai-startup-hits-3-5-billion-valuation
 last_updated: 2026-03-20
 confidence: high
+website_verified: true
 ---
 
 # AMI Labs (Advanced Machine Intelligence)

@@ -25,6 +25,7 @@ founders:
   origin: Israeli
 website: https://lumia.security
 headquarters: New York, NY
+website_verified: true
 ---
 
 # Lumia Security

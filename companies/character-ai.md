@@ -36,6 +36,7 @@ funding_rounds:
   source: https://news.crunchbase.com/ai-robotics/character-ai-unicorn-venture-funding/
 one_liner: Character.AI is a generative AI chatbot platform that allows users to create and converse with customizable AI
   characters
+website_verified: true
 ---
 
 # Character.AI

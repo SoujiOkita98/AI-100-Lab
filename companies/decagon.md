@@ -66,6 +66,7 @@ funding_rounds:
   - Index Ventures
   source: https://finance.yahoo.com/news/decagon-raises-250-million-valuation-161223745.html
 one_liner: Decagon is an enterprise AI company building autonomous AI agents for customer support and experience
+website_verified: true
 ---
 
 # Decagon

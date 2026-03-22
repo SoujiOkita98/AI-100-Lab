@@ -1,107 +1,118 @@
 ---
-name: "Cradle"
+name: Cradle
 status: active
 founded: 2021
-hq: "Amsterdam, Netherlands"
-other_offices: ["Zurich, Switzerland", "United States (expanding)"]
-website: "https://www.cradle.bio"
-sector: ["AI for biology", "protein engineering", "generative AI", "biotech SaaS"]
-one_liner: "AI-powered protein engineering platform using generative protein language models to help scientists design better proteins in a fraction of the time."
-logo: "https://www.cradle.bio/presskit"
-
+hq: Amsterdam, Netherlands
+other_offices:
+- Zurich, Switzerland
+- United States (expanding)
+website: https://www.cradle.bio
+sector:
+- AI for biology
+- protein engineering
+- generative AI
+- biotech SaaS
+one_liner: AI-powered protein engineering platform using generative protein language models to help scientists design better
+  proteins in a fraction of the time.
+logo: https://www.cradle.bio/presskit
 total_raised_m: 103
-latest_valuation_m: ~  # Not publicly disclosed
+latest_valuation_m: null
 funding_rounds:
-  - stage: "Seed"
-    date: 2022-11
-    amount_m: 5.5
-    valuation_m: ~
-    lead_investors: ["Index Ventures"]
-    source: "https://www.cradle.bio/blog/cradle-raises-5m"
-    notes: "Angel investors included Feike Sijbesma (Honorary Chairman, former CEO of Royal DSM) and Emily Leproust (founder of Twist Bioscience)."
-
-  - stage: "Series A"
-    date: 2023-11
-    amount_m: 24
-    valuation_m: ~
-    lead_investors: ["Index Ventures"]
-    source: "https://www.indexventures.com/perspectives/biotech-startup-cradle-raises-24m-and-signs-partnerships-with-industry-leaders/"
-    notes: "Kindred Capital participated. Angel investors included Chris Gibson (co-founder/CEO of Recursion) and Tom Glocer (former CEO of Thomson Reuters, Lead Director at Merck)."
-
-  - stage: "Series B"
-    date: 2024-11
-    amount_m: 73
-    valuation_m: ~
-    lead_investors: ["IVP (Institutional Venture Partners)"]
-    source: "https://www.cradle.bio/blog/series-b"
-    notes: "Index Ventures and Kindred Capital participated. Brought total raised to over $100M."
-
+- stage: Seed
+  date: 2022-11
+  amount_m: 5.5
+  valuation_m: null
+  lead_investors:
+  - Index Ventures
+  source: https://www.cradle.bio/blog/cradle-raises-5m
+  notes: Angel investors included Feike Sijbesma (Honorary Chairman, former CEO of Royal DSM) and Emily Leproust (founder
+    of Twist Bioscience).
+- stage: Series A
+  date: 2023-11
+  amount_m: 24
+  valuation_m: null
+  lead_investors:
+  - Index Ventures
+  source: https://www.indexventures.com/perspectives/biotech-startup-cradle-raises-24m-and-signs-partnerships-with-industry-leaders/
+  notes: Kindred Capital participated. Angel investors included Chris Gibson (co-founder/CEO of Recursion) and Tom Glocer
+    (former CEO of Thomson Reuters, Lead Director at Merck).
+- stage: Series B
+  date: 2024-11
+  amount_m: 73
+  valuation_m: null
+  lead_investors:
+  - IVP (Institutional Venture Partners)
+  source: https://www.cradle.bio/blog/series-b
+  notes: Index Ventures and Kindred Capital participated. Brought total raised to over $100M.
 founders:
-  - name: "Stef van Grieken"
-    role: "Co-Founder & CEO"
-    background: "Master's in Industrial Engineering from University of Groningen. Senior Product Manager and leadership team at Google Research & Machine Intelligence. Co-lead of a Google X project; worked on Google Maps and Android. Previously co-founded Open State Foundation (government transparency nonprofit), which won Time Magazine Top Website 2012 and European Public Sector Award."
-    origin: "Dutch."
-
-  - name: "Jelle Prins"
-    role: "Co-Founder & CPO"
-    background: "Joined Uber in 2009 as one of the first employees in Europe. Later launched a mobile agency (clients included Booking.com). Returned to Uber for a seven-year stint helping scale the company globally. Brings product and design expertise."
-    origin: "Dutch."
-
-  - name: "Eli Bixby"
-    role: "Co-Founder & CTO"
-    background: "Former Google Brain engineer. Brought deep machine learning expertise to the founding team."
-    origin: "American (unconfirmed — limited public info)."
-
-  - name: "Elise de Reus"
-    role: "Co-Founder"
-    background: "PhD. Previously at Zymergen and DSM, specializing in high-throughput experimentation and bioprocess development."
-    origin: "Dutch."
-
-  - name: "Harmen van Rossum"
-    role: "Co-Founder"
-    background: "Previously at Zymergen and DSM. Runs Cradle's wet lab in Amsterdam. Expertise in high-throughput experimentation."
-    origin: "Dutch."
-
-team_profile: "The founding team is distinctive for combining elite tech product/ML backgrounds (Google, Google Brain, Uber) with deep biotech wet-lab expertise (Zymergen, DSM). Four of five founders are Dutch. As of early 2026 the company has ~107 employees, roughly double its headcount from a year prior. Team members have backgrounds at Google, DeepMind, Novartis, Uber, Zymergen, Twist, Booking, Meta, Stripe, and Perfect Day."
-
+- name: Stef van Grieken
+  role: Co-Founder & CEO
+  background: Master's in Industrial Engineering from University of Groningen. Senior Product Manager and leadership team
+    at Google Research & Machine Intelligence. Co-lead of a Google X project; worked on Google Maps and Android. Previously
+    co-founded Open State Foundation (government transparency nonprofit), which won Time Magazine Top Website 2012 and European
+    Public Sector Award.
+  origin: Dutch.
+- name: Jelle Prins
+  role: Co-Founder & CPO
+  background: Joined Uber in 2009 as one of the first employees in Europe. Later launched a mobile agency (clients included
+    Booking.com). Returned to Uber for a seven-year stint helping scale the company globally. Brings product and design expertise.
+  origin: Dutch.
+- name: Eli Bixby
+  role: Co-Founder & CTO
+  background: Former Google Brain engineer. Brought deep machine learning expertise to the founding team.
+  origin: American (unconfirmed — limited public info).
+- name: Elise de Reus
+  role: Co-Founder
+  background: PhD. Previously at Zymergen and DSM, specializing in high-throughput experimentation and bioprocess development.
+  origin: Dutch.
+- name: Harmen van Rossum
+  role: Co-Founder
+  background: Previously at Zymergen and DSM. Runs Cradle's wet lab in Amsterdam. Expertise in high-throughput experimentation.
+  origin: Dutch.
+team_profile: The founding team is distinctive for combining elite tech product/ML backgrounds (Google, Google Brain, Uber)
+  with deep biotech wet-lab expertise (Zymergen, DSM). Four of five founders are Dutch. As of early 2026 the company has ~107
+  employees, roughly double its headcount from a year prior. Team members have backgrounds at Google, DeepMind, Novartis,
+  Uber, Zymergen, Twist, Booking, Meta, Stripe, and Perfect Day.
 notable_hires:
-  - "Sam Partovi - Chief Commercial Officer (life sciences industry veteran; was the company's 40th hire)"
-  - "Daniel Danciu - CTO (ex-Google)"
-
-business_model: "Pure SaaS — enterprise software subscription. Cradle explicitly avoids royalties, revenue sharing, or IP entanglements that are common in biotech partnerships. Customers retain full IP on proteins designed using the platform. This clean model is a key selling point for large pharma and industrial biotech companies. The platform is also offered through a partnership with Ginkgo Bioworks, which allows users without their own lab facilities to access Cradle's AI plus Ginkgo's lab infrastructure."
-
+- Sam Partovi - Chief Commercial Officer (life sciences industry veteran; was the company's 40th hire)
+- Daniel Danciu - CTO (ex-Google)
+business_model: Pure SaaS — enterprise software subscription. Cradle explicitly avoids royalties, revenue sharing, or IP entanglements
+  that are common in biotech partnerships. Customers retain full IP on proteins designed using the platform. This clean model
+  is a key selling point for large pharma and industrial biotech companies. The platform is also offered through a partnership
+  with Ginkgo Bioworks, which allows users without their own lab facilities to access Cradle's AI plus Ginkgo's lab infrastructure.
 customers:
-  - "6 of the top 25 global pharma companies (as of 2025)"
-  - "4 of the top 10 global pharma companies"
-  - "Johnson & Johnson Innovative Medicine"
-  - "Novo Nordisk"
-  - "AbbVie"
-  - "Novonesis (formerly Novozymes)"
-  - "Grifols"
-  - "Twist Bioscience"
-  - "Ginkgo Bioworks (partnership)"
-  - "21+ total customers"
-  - "31 molecules in development on the platform"
-  - "50+ R&D programs"
-
-revenue_signals: "No public revenue figures. Private pre-Series-C stage company. Strong enterprise traction signals: 21 customers, 50+ active R&D programs, doubling headcount, and signing 6 of top 25 pharma companies suggest meaningful ARR growth."
-
+- 6 of the top 25 global pharma companies (as of 2025)
+- 4 of the top 10 global pharma companies
+- Johnson & Johnson Innovative Medicine
+- Novo Nordisk
+- AbbVie
+- Novonesis (formerly Novozymes)
+- Grifols
+- Twist Bioscience
+- Ginkgo Bioworks (partnership)
+- 21+ total customers
+- 31 molecules in development on the platform
+- 50+ R&D programs
+revenue_signals: 'No public revenue figures. Private pre-Series-C stage company. Strong enterprise traction signals: 21 customers,
+  50+ active R&D programs, doubling headcount, and signing 6 of top 25 pharma companies suggest meaningful ARR growth.'
 sources:
-  - "https://www.cradle.bio/blog/series-b"
-  - "https://techcrunch.com/2024/11/26/cradle-builds-out-its-protein-design-ai-platform-and-wet-lab-with-73m-in-new-funding/"
-  - "https://www.synbiobeta.com/read/ai-powered-protein-engineering-heightened-by-cradle-bios-73m-series-b"
-  - "https://www.indexventures.com/perspectives/biotech-startup-cradle-raises-24m-and-signs-partnerships-with-industry-leaders/"
-  - "https://www.prnewswire.com/news-releases/cradle-ai-powered-protein-engineering-platform-serving-six-of-top-25-pharma-leaders-302643154.html"
-  - "https://en.wikipedia.org/wiki/Cradle_(company)"
-  - "https://techcrunch.com/2022/11/16/protein-programmers-get-a-helping-hand-from-cradles-generative-ai/"
-  - "https://www.eweek.com/news/cradle-bio-ai-protein-engineering-strategy/"
-  - "https://innovationorigins.com/en/jelle-prins-cradle-bio-founder-i-sometimes-thought-my-peak-had-passed-after-leaving-uber/"
-  - "https://ff.co/stef-van-grieken-cradle/"
-  - "https://cloud.google.com/customers/cradlebio"
-
+- https://www.cradle.bio/blog/series-b
+- https://techcrunch.com/2024/11/26/cradle-builds-out-its-protein-design-ai-platform-and-wet-lab-with-73m-in-new-funding/
+- https://www.synbiobeta.com/read/ai-powered-protein-engineering-heightened-by-cradle-bios-73m-series-b
+- https://www.indexventures.com/perspectives/biotech-startup-cradle-raises-24m-and-signs-partnerships-with-industry-leaders/
+- https://www.prnewswire.com/news-releases/cradle-ai-powered-protein-engineering-platform-serving-six-of-top-25-pharma-leaders-302643154.html
+- https://en.wikipedia.org/wiki/Cradle_(company)
+- https://techcrunch.com/2022/11/16/protein-programmers-get-a-helping-hand-from-cradles-generative-ai/
+- https://www.eweek.com/news/cradle-bio-ai-protein-engineering-strategy/
+- https://innovationorigins.com/en/jelle-prins-cradle-bio-founder-i-sometimes-thought-my-peak-had-passed-after-leaving-uber/
+- https://ff.co/stef-van-grieken-cradle/
+- https://cloud.google.com/customers/cradlebio
 last_updated: 2026-03-20
 confidence: medium-high
-confidence_notes: "Funding rounds are well-documented. Founder backgrounds are confirmed across multiple sources. Valuation not publicly disclosed. Revenue figures not available. Customer names confirmed via press releases and TechCrunch. Employee count (~107) from Tracxn Jan 2026 data."
+confidence_notes: Funding rounds are well-documented. Founder backgrounds are confirmed across multiple sources. Valuation
+  not publicly disclosed. Revenue figures not available. Customer names confirmed via press releases and TechCrunch. Employee
+  count (~107) from Tracxn Jan 2026 data.
+website_verified: true
 ---
 
 # Cradle

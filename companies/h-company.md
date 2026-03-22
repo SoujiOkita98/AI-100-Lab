@@ -53,6 +53,7 @@ funding_rounds:
   source: https://techcrunch.com/2024/11/20/h-the-ai-startup-that-raised-220m/
 one_liner: '> Paris-based AI startup building autonomous "action-oriented" agents for enterprise and consumer markets, backed
   by a record-breaking European seed round'
+website_verified: true
 ---
 
 # H Company

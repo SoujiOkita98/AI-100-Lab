@@ -44,6 +44,7 @@ funding_rounds:
   source: https://blog.7ai.com/citing-the-agentic-security-inflection-point-7ai-raises-largest-cybersecurity-a-round-in-history
 one_liner: '> Autonomous AI-powered cybersecurity agents that automate security investigations, founded by the co-founders
   of Cybereason'
+website_verified: true
 ---
 
 # 7AI

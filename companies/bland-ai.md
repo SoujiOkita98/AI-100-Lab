@@ -28,6 +28,7 @@ last_updated: 2026-03-20
 confidence: high on funding and founders; moderate on headcount and revenue
 one_liner: Enterprise platform for automating phone calls with AI voice agents that sound human, handling both inbound and
   outbound calls at scale
+website_verified: true
 ---
 
 # Bland AI

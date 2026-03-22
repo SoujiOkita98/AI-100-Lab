@@ -80,6 +80,8 @@ funding_rounds:
   source: https://www.theblock.co/post/394498/kalshi-raises-over-1-billion-at-22-billion-valuation-in-ongoing-coatue-led-round-reports
 one_liner: '> The first CFTC-regulated prediction market in the U.S., now valued at $22 billion, processing $2 billion in
   transactions per week'
+website_verified: false
+data_notes: 'Website URL may be invalid (HTTP 429). '
 ---
 
 # Kalshi

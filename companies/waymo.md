@@ -88,6 +88,7 @@ funding_rounds:
   source: https://waymo.com/blog/2026/02/waymo-raises-usd16-billion-investment-round/
 one_liner: '> Alphabet''s autonomous driving subsidiary, now valued at $126 billion after a $16 billion raise -- the most
   valuable autonomous vehicle company in the world'
+website_verified: true
 ---
 
 # Waymo

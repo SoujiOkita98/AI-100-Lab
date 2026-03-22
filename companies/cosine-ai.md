@@ -11,14 +11,15 @@ valuation: Undisclosed
 total_funding: ~$2.5M
 employee_count: ~32 (January 2026)
 key_investors:
-  - Uphonest Capital
-  - SOMA Capital
-  - Lakestar
-  - Y Combinator
+- Uphonest Capital
+- SOMA Capital
+- Lakestar
+- Y Combinator
 notable_backers:
-  - Y Combinator (W23 batch)
+- Y Combinator (W23 batch)
 last_updated: 2026-03-20
 confidence: medium
+website_verified: true
 ---
 
 # Cosine

@@ -28,6 +28,7 @@ key_investors:
 - South Park Commons
 one_liner: '> Former DeepMind scientists building autonomous AI agents that control your Mac and Windows PC — navigating interfaces,
   completing workflows, and operating software like a human knowledge worker'
+website_verified: true
 ---
 
 # Simular

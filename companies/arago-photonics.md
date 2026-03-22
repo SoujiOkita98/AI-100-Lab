@@ -25,6 +25,7 @@ founders:
   role: CTO
   background: Ecole Polytechnique + ETH Zurich. Google Science Fair winner.
   origin: French
+data_notes: 'Needs verification: website, source_urls. Profile may be incomplete.'
 ---
 
 # Arago Photonics

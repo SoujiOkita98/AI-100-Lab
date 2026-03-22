@@ -62,6 +62,7 @@ funding_rounds:
   source: https://www.glean.com/blog/glean-series-f-announcement
 one_liner: Glean is an enterprise AI platform that unifies search, assistants, and AI agents across an organization's internal
   knowledge and SaaS tools
+data_notes: 'Needs verification: website, founders. Profile may be incomplete.'
 ---
 
 # Glean -- AI-Powered Enterprise Search & Work AI Platform

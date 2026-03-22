@@ -57,6 +57,7 @@ funding_rounds:
   source: https://fortune.com/2025/09/10/cuspai-raises-100-million/
 one_liner: '> AI "search engine for new materials" -- backed by Nvidia, advised by Hinton and LeCun, with $130M raised to
   transform materials discovery for climate and industry'
+website_verified: true
 ---
 
 # CuspAI

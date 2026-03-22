@@ -25,6 +25,7 @@ founders:
   role: CTO
   background: Co-founded Medigate.
   origin: Israeli
+data_notes: 'Needs verification: website, source_urls. Profile may be incomplete.'
 ---
 
 # Act Security

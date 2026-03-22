@@ -32,6 +32,7 @@ last_updated: 2026-03-21
 confidence: medium
 website: https://braintrust.dev
 headquarters: San Francisco, CA
+website_verified: true
 ---
 
 # Braintrust (AI Eval)

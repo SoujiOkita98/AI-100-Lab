@@ -187,6 +187,7 @@ funding_rounds:
     "orbital data centers" as rationale.'
 one_liner: xAI is an artificial intelligence company founded by Elon Musk on March 9, 2023, and publicly announced on July
   12, 2023
+website_verified: true
 ---
 
 # xAI

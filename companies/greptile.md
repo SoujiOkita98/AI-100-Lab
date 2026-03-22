@@ -20,6 +20,7 @@ last_updated: 2026-03-20
 confidence: high
 one_liner: Greptile is an AI-powered code review and code validation platform that indexes entire codebases to perform deep,
   context-aware code review
+website_verified: true
 ---
 
 # Greptile

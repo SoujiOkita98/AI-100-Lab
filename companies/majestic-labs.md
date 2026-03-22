@@ -30,6 +30,7 @@ founders:
   origin: Japanese-American
 website: https://majestic-labs.ai
 headquarters: San Francisco, CA
+website_verified: true
 ---
 
 # Majestic Labs

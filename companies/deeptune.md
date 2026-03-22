@@ -15,6 +15,8 @@ last_updated: 2026-03-21
 confidence: medium
 website: https://deeptune.com
 headquarters: New York, NY
+data_notes: 'Needs verification: founders, source_urls. Profile may be incomplete.'
+website_verified: true
 ---
 
 # Deeptune

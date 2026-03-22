@@ -1,17 +1,18 @@
 ---
-name: "PromptPath.AI"
+name: PromptPath.AI
 founded: 2024
-headquarters: "Austin, TX"
-sector: "AI Automotive / Sales"
-one_liner: "Generative AI for automotive retail — automates lead handling and customer comms for OEMs and dealers. Zero press."
+headquarters: Austin, TX
+sector: AI Automotive / Sales
+one_liner: Generative AI for automotive retail — automates lead handling and customer comms for OEMs and dealers. Zero press.
 status: active
 funding_rounds:
-  - stage: "Seed (SEC Form D)"
-    date: "2025"
-    amount_m: 11.3
+- stage: Seed (SEC Form D)
+  date: '2025'
+  amount_m: 11.3
 total_funding: 11.3
 last_updated: 2026-03-21
 confidence: medium
+data_notes: 'Needs verification: website, founders, source_urls. Profile may be incomplete.'
 ---
 
 # PromptPath.AI

@@ -23,6 +23,7 @@ founders:
   role: CTO
   background: Ex-Meta AI (FAIR). Knowledge-intensive NLP.
   origin: Italian
+data_notes: 'Needs verification: website, source_urls, headquarters. Profile may be incomplete.'
 ---
 
 # Samaya AI

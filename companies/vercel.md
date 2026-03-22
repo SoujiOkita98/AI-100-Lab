@@ -26,6 +26,7 @@ key_products:
 profile_updated: 2026-03-20
 one_liner: Vercel is a frontend cloud platform that enables developers to build, deploy, and scale web applications with minimal
   configuration
+website_verified: true
 ---
 
 # Vercel

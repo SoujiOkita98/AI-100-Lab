@@ -1,17 +1,19 @@
 ---
-name: "Loti AI"
+name: Loti AI
 founded: 2022
-sector: "AI Digital Identity / Deepfake Protection"
-one_liner: "AI digital identity protection — detects deepfakes and unauthorized use of likeness for celebrities and consumers."
+sector: AI Digital Identity / Deepfake Protection
+one_liner: AI digital identity protection — detects deepfakes and unauthorized use of likeness for celebrities and consumers.
 status: active
 funding_rounds:
-  - stage: "Series A"
-    date: "2025-04"
-    amount_m: 16.2
-    lead_investors: ["Khosla Ventures"]
+- stage: Series A
+  date: 2025-04
+  amount_m: 16.2
+  lead_investors:
+  - Khosla Ventures
 total_funding: 16.2
 last_updated: 2026-03-21
 confidence: medium
+data_notes: 'Needs verification: website, founders, source_urls, headquarters. Profile may be incomplete.'
 ---
 
 # Loti AI
