@@ -25,6 +25,7 @@ founders:
   role: Executive Chairman
   background: CEO Auradine. Ex-Cavium (acq Marvell), co-founded Innovium.
   origin: Indian-American
+website: https://upscaleai.com
 ---
 
 # Upscale AI

@@ -35,6 +35,7 @@ founders:
   role: CSO
   background: Ex-Meta AI. Co-invented EnCodec, MusicGen.
   origin: French
+website: https://gradium.org
 ---
 
 # Gradium

@@ -23,6 +23,8 @@ funding_rounds:
 total_funding: 45
 last_updated: 2026-03-21
 confidence: medium
+website: https://cylake.com
+headquarters: Sunnyvale, CA
 ---
 
 # Cylake

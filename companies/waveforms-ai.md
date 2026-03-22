@@ -19,6 +19,7 @@ funding_rounds:
 total_funding: 40
 last_updated: 2026-03-21
 confidence: medium
+headquarters: San Francisco, CA
 ---
 
 # WaveForms AI

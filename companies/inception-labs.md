@@ -34,6 +34,8 @@ founders:
   role: Chief Development Officer
   background: Apple SoC architect. Co-founded NUVIA (acq Qualcomm ~$1.5B).
   origin: Indian-American
+website: https://inceptionlabs.ai
+headquarters: Palo Alto, CA
 ---
 
 # Inception Labs

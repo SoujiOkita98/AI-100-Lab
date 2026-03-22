@@ -23,6 +23,8 @@ funding_rounds:
 total_funding: 54
 last_updated: 2026-03-21
 confidence: medium
+website: https://axiamatic.com
+headquarters: Saratoga, CA
 ---
 
 # Axiamatic

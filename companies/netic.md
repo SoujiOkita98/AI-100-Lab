@@ -24,6 +24,8 @@ funding_rounds:
 total_funding: 43
 last_updated: 2026-03-21
 confidence: medium
+website: https://netic.ai
+headquarters: San Francisco, CA
 ---
 
 # Netic

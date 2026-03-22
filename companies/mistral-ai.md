@@ -139,6 +139,7 @@ funding_rounds:
 total_funding_eur: ~2.785B
 total_funding_usd: ~3.17B
 last_updated: 2026-03-20
+headquarters: Paris, France
 ---
 
 # Mistral AI

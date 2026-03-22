@@ -20,6 +20,8 @@ funding_rounds:
 total_funding: 20
 last_updated: 2026-03-21
 confidence: medium
+website: https://wabi.ai
+headquarters: San Francisco, CA
 ---
 
 # Wabi AI

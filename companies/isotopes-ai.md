@@ -17,6 +17,8 @@ founders:
   role: CEO
   background: Co-creator Apache Hadoop. Co-founder/CPO Hortonworks (IPO). CTO Scale AI.
   origin: Indian
+website: https://isotopes.ai
+headquarters: Palo Alto, CA
 ---
 
 # Isotopes AI

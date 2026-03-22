@@ -22,6 +22,8 @@ founders:
   background: Born Kolkata India. Youngest UC Berkeley University Medalist at 18. Gates Cambridge Scholar. Founded Titan Holdings
     (2014), Dascena (2017).
   origin: Indian-American
+website: https://talahealth.com
+headquarters: San Francisco, CA
 ---
 
 # Tala Health

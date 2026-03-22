@@ -23,6 +23,8 @@ founders:
   role: Co-founder
   background: Early employee at Pleo.
   origin: Israeli
+website: https://paid.ai
+headquarters: London, UK
 ---
 
 # Paid

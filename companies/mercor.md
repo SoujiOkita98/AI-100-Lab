@@ -69,6 +69,7 @@ funding_rounds:
   - Felicis Ventures
   source: https://techcrunch.com/2025/10/27/mercor-quintuples-valuation-to-10b-with-350m-series-c/
 one_liner: Mercor is an AI infrastructure company that connects frontier AI labs with domain experts for model post-training
+website: https://mercor.com
 ---
 
 # Mercor

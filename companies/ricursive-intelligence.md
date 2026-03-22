@@ -25,6 +25,8 @@ founders:
   role: CTO
   background: PhD Rice. Stanford professor. Co-led AlphaChip. Co-authored foundational MoE paper powering GPT-4/Gemini.
   origin: Iranian-American
+website: https://ricursive.com
+headquarters: Palo Alto, CA
 ---
 
 # Ricursive Intelligence

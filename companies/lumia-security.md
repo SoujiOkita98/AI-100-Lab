@@ -23,6 +23,8 @@ founders:
   role: CTO
   background: Former Colonel IDF Unit 8200. CISO Israeli Intelligence.
   origin: Israeli
+website: https://lumia.security
+headquarters: New York, NY
 ---
 
 # Lumia Security

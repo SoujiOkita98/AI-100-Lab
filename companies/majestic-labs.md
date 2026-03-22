@@ -28,6 +28,8 @@ founders:
   role: COO
   background: Ex-Google, Meta FAST teams.
   origin: Japanese-American
+website: https://majestic-labs.ai
+headquarters: San Francisco, CA
 ---
 
 # Majestic Labs
