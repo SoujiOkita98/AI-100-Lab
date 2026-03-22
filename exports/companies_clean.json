@@ -1205,6 +1205,40 @@
     "top_investors": []
   },
   {
+    "slug": "albatross-ai",
+    "name": "Albatross",
+    "status": "active",
+    "founded_year": "2024",
+    "hq": "Zurich, Switzerland",
+    "website": "https://albatross.ai",
+    "sector": "AI E-commerce / Product Discovery",
+    "one_liner": "Real-time AI product discovery for retailers using transformer architecture on live in-session events. Ex-Amazon AI founders.",
+    "total_raised_m": 12.5,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [],
+    "funding_rounds": [
+      {
+        "company_slug": "albatross-ai",
+        "stage": "Seed",
+        "date": "2025-11",
+        "amount_m": 12.5,
+        "valuation_m": null,
+        "lead_investors": "MMC Ventures",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
     "slug": "aleph-fpa",
     "name": "Aleph (FP&A)",
     "status": "active",
@@ -3055,6 +3089,40 @@
     "top_investors": []
   },
   {
+    "slug": "autonomize-ai",
+    "name": "Autonomize AI",
+    "status": "active",
+    "founded_year": "2023",
+    "hq": "Nashville, TN",
+    "website": null,
+    "sector": "AI Healthcare / Agentic Clinical",
+    "one_liner": "Agentic AI for healthcare \u2014 automates clinical document automation, prior auth, and care coordination.",
+    "total_raised_m": 28.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [],
+    "funding_rounds": [
+      {
+        "company_slug": "autonomize-ai",
+        "stage": "Series A",
+        "date": "2025-06",
+        "amount_m": 28.0,
+        "valuation_m": null,
+        "lead_investors": "Valtruis; Cigna Group Ventures",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
     "slug": "avride",
     "name": "Avride",
     "status": "active",
@@ -4309,6 +4377,40 @@
       }
     ],
     "funding_rounds": [],
+    "top_investors": []
+  },
+  {
+    "slug": "buildcheck",
+    "name": "Buildcheck",
+    "status": "active",
+    "founded_year": "2024",
+    "hq": "San Francisco, CA",
+    "website": "https://buildcheck.ai",
+    "sector": "AI Construction / Design Review",
+    "one_liner": "AI reading construction drawings across all disciplines to flag errors before they reach the field.",
+    "total_raised_m": 5.9,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [],
+    "funding_rounds": [
+      {
+        "company_slug": "buildcheck",
+        "stage": "Seed",
+        "date": "2025-12",
+        "amount_m": 5.9,
+        "valuation_m": null,
+        "lead_investors": "Uncork Capital",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
+      }
+    ],
     "top_investors": []
   },
   {
@@ -5634,6 +5736,40 @@
     ]
   },
   {
+    "slug": "coram-ai",
+    "name": "Coram AI",
+    "status": "active",
+    "founded_year": "2021",
+    "hq": "San Francisco, CA",
+    "website": "https://coram.ai",
+    "sector": "AI Video Analytics / Workplace Safety",
+    "one_liner": "Turns existing security cameras into intelligent AI detecting safety incidents and monitoring compliance.",
+    "total_raised_m": 13.8,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [],
+    "funding_rounds": [
+      {
+        "company_slug": "coram-ai",
+        "stage": "Series A",
+        "date": "2025-01",
+        "amount_m": 13.8,
+        "valuation_m": null,
+        "lead_investors": "Battery Ventures",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
     "slug": "coreweave",
     "name": "CoreWeave",
     "status": "Public (IPO March 28, 2025)",
@@ -5678,6 +5814,40 @@
       }
     ],
     "funding_rounds": [],
+    "top_investors": []
+  },
+  {
+    "slug": "corvic-ai",
+    "name": "Corvic AI",
+    "status": "active",
+    "founded_year": "2023",
+    "hq": "Mountain View, CA",
+    "website": "https://corvic.ai",
+    "sector": "AI Data Infrastructure / Cognitive",
+    "one_liner": "Data-centric AI cognitive infrastructure using Mixture of Spaces and Adaptive Chain of Actions for complex multimodal data.",
+    "total_raised_m": 12.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [],
+    "funding_rounds": [
+      {
+        "company_slug": "corvic-ai",
+        "stage": "Seed",
+        "date": "2025-04",
+        "amount_m": 12.0,
+        "valuation_m": null,
+        "lead_investors": "M Ventures; Bosch Ventures",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
+      }
+    ],
     "top_investors": []
   },
   {
@@ -7625,6 +7795,40 @@
     "top_investors": []
   },
   {
+    "slug": "earth-ai",
+    "name": "Earth AI",
+    "status": "active",
+    "founded_year": "2019",
+    "hq": "Sydney, Australia",
+    "website": "https://earth-ai.com",
+    "sector": "AI Mining / Critical Minerals",
+    "one_liner": "AI + proprietary drilling tech for critical mineral discovery \u2014 75% success rate vs 0.5% industry average, 80% cost reduction.",
+    "total_raised_m": 20.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [],
+    "funding_rounds": [
+      {
+        "company_slug": "earth-ai",
+        "stage": "Series B",
+        "date": "2025-01",
+        "amount_m": 20.0,
+        "valuation_m": null,
+        "lead_investors": "Tamarack Global; Cantos Ventures",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
     "slug": "edra",
     "name": "Edra",
     "status": "active",
@@ -7651,6 +7855,40 @@
         "amount_m": 30.0,
         "valuation_m": null,
         "lead_investors": "Sequoia; 8VC; A*",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
+    "slug": "eikona",
+    "name": "Eikona",
+    "status": "active",
+    "founded_year": "2024",
+    "hq": "Tel Aviv, Israel",
+    "website": null,
+    "sector": "AI Marketing / Generative Content",
+    "one_liner": "Custom generative AI models automating lifecycle marketing content personalized to individual user behavior.",
+    "total_raised_m": 5.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [],
+    "funding_rounds": [
+      {
+        "company_slug": "eikona",
+        "stage": "Seed",
+        "date": "2025-12",
+        "amount_m": 5.0,
+        "valuation_m": null,
+        "lead_investors": "StageOne Ventures; Wix Ventures",
         "other_investors": "",
         "source": "",
         "notes": ""
@@ -13412,6 +13650,40 @@
     "top_investors": []
   },
   {
+    "slug": "kingpin",
+    "name": "Kingpin",
+    "status": "active",
+    "founded_year": "2024",
+    "hq": "Dubai, UAE",
+    "website": null,
+    "sector": "AI Retail / B2B Distribution",
+    "one_liner": "AI-powered B2B retail platform digitizing sales rep workflows and distribution for consumer goods in emerging markets.",
+    "total_raised_m": 3.5,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [],
+    "funding_rounds": [
+      {
+        "company_slug": "kingpin",
+        "stage": "Seed",
+        "date": "2025-12",
+        "amount_m": 3.5,
+        "valuation_m": null,
+        "lead_investors": "Infinity Ventures",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
     "slug": "klira-ai",
     "name": "Klira AI",
     "status": "active",
@@ -16767,6 +17039,40 @@
     "top_investors": []
   },
   {
+    "slug": "multifactor",
+    "name": "Multifactor",
+    "status": "active",
+    "founded_year": "2024",
+    "hq": "San Francisco, CA",
+    "website": null,
+    "sector": "AI Security / Post-Quantum Auth",
+    "one_liner": "Credential-less authentication for humans and AI agents using post-quantum cryptography. Eliminates passwords.",
+    "total_raised_m": 15.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [],
+    "funding_rounds": [
+      {
+        "company_slug": "multifactor",
+        "stage": "Seed",
+        "date": "2025-12",
+        "amount_m": 15.0,
+        "valuation_m": null,
+        "lead_investors": "Nexus Venture Partners; Y Combinator",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
     "slug": "music-ai-moises",
     "name": "Music AI (Moises)",
     "status": "active",
@@ -19922,6 +20228,40 @@
         "other_investors": "",
         "source": "https://www.therobotreport.com/physical-intelligence-raises-600m-advance-robot-foundation-models/",
         "notes": "CapitalG (Alphabet's independent growth fund) led. Participation from Lux Capital, Thrive Capital, Jeff Bezos, Index Ventures, T. Rowe Price, Redpoint Ventures, Sequoia Capital, Bond, and NVIDIA (NVentures). Funding earmarked for data collection, strategic partnerships, and team growth."
+      }
+    ],
+    "top_investors": []
+  },
+  {
+    "slug": "pibit-ai",
+    "name": "Pibit.AI",
+    "status": "active",
+    "founded_year": "2022",
+    "hq": "San Francisco, CA",
+    "website": "https://pibit.ai",
+    "sector": "AI InsurTech / Underwriting",
+    "one_liner": "CURE platform automating commercial insurance underwriting \u2014 85% faster cycles. YC-backed.",
+    "total_raised_m": 7.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [],
+    "funding_rounds": [
+      {
+        "company_slug": "pibit-ai",
+        "stage": "Series A",
+        "date": "2025-11",
+        "amount_m": 7.0,
+        "valuation_m": null,
+        "lead_investors": "Stellaris Venture Partners",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
       }
     ],
     "top_investors": []
@@ -26315,6 +26655,40 @@
         "amount_m": 4.2,
         "valuation_m": null,
         "lead_investors": "Khosla Ventures",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
+    "slug": "track-titan",
+    "name": "Track Titan",
+    "status": "active",
+    "founded_year": "2022",
+    "hq": "United Kingdom",
+    "website": "https://tracktitan.io",
+    "sector": "AI Sports / Motorsport Analytics",
+    "one_liner": "AI motorsport analytics providing real-time coaching feedback from telemetry data for racing drivers.",
+    "total_raised_m": 5.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [],
+    "funding_rounds": [
+      {
+        "company_slug": "track-titan",
+        "stage": "Seed",
+        "date": "2025-12",
+        "amount_m": 5.0,
+        "valuation_m": null,
+        "lead_investors": "Partech",
         "other_investors": "",
         "source": "",
         "notes": ""

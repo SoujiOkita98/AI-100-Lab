@@ -1,0 +1,20 @@
+---
+name: "Eikona"
+founded: 2024
+headquarters: "Tel Aviv, Israel"
+sector: "AI Marketing / Generative Content"
+one_liner: "Custom generative AI models automating lifecycle marketing content personalized to individual user behavior."
+status: active
+funding_rounds:
+  - stage: "Seed"
+    date: "2025-12"
+    amount_m: 5
+    lead_investors: ["StageOne Ventures", "Wix Ventures"]
+total_funding: 5
+last_updated: 2026-03-21
+confidence: medium
+---
+
+# Eikona
+
+Custom generative AI models automating lifecycle marketing content personalized to individual user behavior.

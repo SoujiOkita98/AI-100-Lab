@@ -1,0 +1,223 @@
+[
+  {
+    "name": "Buildcheck",
+    "slug": "buildcheck",
+    "founded": 2024,
+    "hq": "San Francisco, CA",
+    "sector": "AI Construction / Design Review",
+    "one_liner": "AI reading construction drawings across all disciplines to flag errors before they reach the field.",
+    "website": "https://buildcheck.ai",
+    "funding_rounds": [
+      {
+        "stage": "Seed",
+        "date": "2025-12",
+        "amount_m": 5.9,
+        "lead_investors": [
+          "Uncork Capital"
+        ]
+      }
+    ],
+    "total_raised_m": 5.9
+  },
+  {
+    "name": "Pibit.AI",
+    "slug": "pibit-ai",
+    "founded": 2022,
+    "hq": "San Francisco, CA",
+    "sector": "AI InsurTech / Underwriting",
+    "one_liner": "CURE platform automating commercial insurance underwriting \u2014 85% faster cycles. YC-backed.",
+    "website": "https://pibit.ai",
+    "funding_rounds": [
+      {
+        "stage": "Series A",
+        "date": "2025-11",
+        "amount_m": 7,
+        "lead_investors": [
+          "Stellaris Venture Partners"
+        ]
+      }
+    ],
+    "total_raised_m": 7
+  },
+  {
+    "name": "Coram AI",
+    "slug": "coram-ai",
+    "founded": 2021,
+    "hq": "San Francisco, CA",
+    "sector": "AI Video Analytics / Workplace Safety",
+    "one_liner": "Turns existing security cameras into intelligent AI detecting safety incidents and monitoring compliance.",
+    "website": "https://coram.ai",
+    "funding_rounds": [
+      {
+        "stage": "Series A",
+        "date": "2025-01",
+        "amount_m": 13.8,
+        "lead_investors": [
+          "Battery Ventures"
+        ]
+      }
+    ],
+    "total_raised_m": 13.8
+  },
+  {
+    "name": "Corvic AI",
+    "slug": "corvic-ai",
+    "founded": 2023,
+    "hq": "Mountain View, CA",
+    "sector": "AI Data Infrastructure / Cognitive",
+    "one_liner": "Data-centric AI cognitive infrastructure using Mixture of Spaces and Adaptive Chain of Actions for complex multimodal data.",
+    "website": "https://corvic.ai",
+    "funding_rounds": [
+      {
+        "stage": "Seed",
+        "date": "2025-04",
+        "amount_m": 12,
+        "lead_investors": [
+          "M Ventures",
+          "Bosch Ventures"
+        ]
+      }
+    ],
+    "total_raised_m": 12
+  },
+  {
+    "name": "Earth AI",
+    "slug": "earth-ai",
+    "founded": 2019,
+    "hq": "Sydney, Australia",
+    "sector": "AI Mining / Critical Minerals",
+    "one_liner": "AI + proprietary drilling tech for critical mineral discovery \u2014 75% success rate vs 0.5% industry average, 80% cost reduction.",
+    "website": "https://earth-ai.com",
+    "funding_rounds": [
+      {
+        "stage": "Series B",
+        "date": "2025-01",
+        "amount_m": 20,
+        "lead_investors": [
+          "Tamarack Global",
+          "Cantos Ventures"
+        ]
+      }
+    ],
+    "total_raised_m": 20
+  },
+  {
+    "name": "Albatross",
+    "slug": "albatross-ai",
+    "founded": 2024,
+    "hq": "Zurich, Switzerland",
+    "sector": "AI E-commerce / Product Discovery",
+    "one_liner": "Real-time AI product discovery for retailers using transformer architecture on live in-session events. Ex-Amazon AI founders.",
+    "website": "https://albatross.ai",
+    "funding_rounds": [
+      {
+        "stage": "Seed",
+        "date": "2025-11",
+        "amount_m": 12.5,
+        "lead_investors": [
+          "MMC Ventures"
+        ]
+      }
+    ],
+    "total_raised_m": 12.5
+  },
+  {
+    "name": "Multifactor",
+    "slug": "multifactor",
+    "founded": 2024,
+    "hq": "San Francisco, CA",
+    "sector": "AI Security / Post-Quantum Auth",
+    "one_liner": "Credential-less authentication for humans and AI agents using post-quantum cryptography. Eliminates passwords.",
+    "funding_rounds": [
+      {
+        "stage": "Seed",
+        "date": "2025-12",
+        "amount_m": 15,
+        "lead_investors": [
+          "Nexus Venture Partners",
+          "Y Combinator"
+        ]
+      }
+    ],
+    "total_raised_m": 15
+  },
+  {
+    "name": "Eikona",
+    "slug": "eikona",
+    "founded": 2024,
+    "hq": "Tel Aviv, Israel",
+    "sector": "AI Marketing / Generative Content",
+    "one_liner": "Custom generative AI models automating lifecycle marketing content personalized to individual user behavior.",
+    "funding_rounds": [
+      {
+        "stage": "Seed",
+        "date": "2025-12",
+        "amount_m": 5,
+        "lead_investors": [
+          "StageOne Ventures",
+          "Wix Ventures"
+        ]
+      }
+    ],
+    "total_raised_m": 5
+  },
+  {
+    "name": "Kingpin",
+    "slug": "kingpin",
+    "founded": 2024,
+    "hq": "Dubai, UAE",
+    "sector": "AI Retail / B2B Distribution",
+    "one_liner": "AI-powered B2B retail platform digitizing sales rep workflows and distribution for consumer goods in emerging markets.",
+    "funding_rounds": [
+      {
+        "stage": "Seed",
+        "date": "2025-12",
+        "amount_m": 3.5,
+        "lead_investors": [
+          "Infinity Ventures"
+        ]
+      }
+    ],
+    "total_raised_m": 3.5
+  },
+  {
+    "name": "Track Titan",
+    "slug": "track-titan",
+    "founded": 2022,
+    "hq": "United Kingdom",
+    "sector": "AI Sports / Motorsport Analytics",
+    "one_liner": "AI motorsport analytics providing real-time coaching feedback from telemetry data for racing drivers.",
+    "website": "https://tracktitan.io",
+    "funding_rounds": [
+      {
+        "stage": "Seed",
+        "date": "2025-12",
+        "amount_m": 5,
+        "lead_investors": [
+          "Partech"
+        ]
+      }
+    ],
+    "total_raised_m": 5
+  },
+  {
+    "name": "Autonomize AI",
+    "slug": "autonomize-ai",
+    "founded": 2023,
+    "hq": "Nashville, TN",
+    "sector": "AI Healthcare / Agentic Clinical",
+    "one_liner": "Agentic AI for healthcare \u2014 automates clinical document automation, prior auth, and care coordination.",
+    "funding_rounds": [
+      {
+        "stage": "Series A",
+        "date": "2025-06",
+        "amount_m": 28,
+        "lead_investors": [
+          "Valtruis",
+          "Cigna Group Ventures"
+        ]
+      }
+    ],
+    "total_raised_m": 28
+  }
+]
