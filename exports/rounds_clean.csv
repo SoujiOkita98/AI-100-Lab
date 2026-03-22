@@ -166,8 +166,11 @@ cohere,Series C,2023-06-01,270.0,2200.0,Inovia Capital,NVIDIA; Oracle; Salesforc
 cohere,Series D,2024-07-22,500.0,5500.0,PSP Investments,NVIDIA; Salesforce Ventures; Cisco; Fujitsu; AMD Ventures; Export Development Canada (EDC),https://betakit.com/cohere-series-d-tops-out-at-500-million-raised-at-5-5-billion-valuation/,
 cohere,Series E,2025-08-14,500.0,6800.0,Radical Ventures; Inovia Capital,AMD Ventures; NVIDIA; PSP Investments; Salesforce Ventures; HOOPP (Healthcare of Ontario Pension Plan),https://cohere.com/blog/august-2025-funding-round,
 cohere,Series E Extension,2025-09-24,100.0,7000.0,,BDC (Business Development Bank of Canada); Nexxus Capital Management; AMD,https://betakit.com/coheres-valuation-hits-7-billion-usd-following-100-million-round-extension/,
+console-ai,Seed,2025-06,6.2,,Thrive Capital; SV Angel,,,
+console-ai,Series A,2025-12,23.0,,DST Global; Thrive Capital,,,
 contextual-ai,Seed,2023-06,20.0,,Bain Capital Ventures,,https://contextual.ai/blog/announcing-our-20m-seed-round,
 contextual-ai,Series A,2024-08,80.0,,Greycroft; Bain Capital Ventures,,https://contextual.ai/blog/announcing-series-a,
+converge-bio,Series A,2026-01,25.0,,Bessemer Venture Partners,,,
 corvus-robotics,Seed,~2018,,,,Y Combinator,https://www.ycombinator.com/companies/corvus-robotics,"Graduated from Y Combinator S18 batch.
 "
 corvus-robotics,Series A,2024-09-16,18.0,,Spero Ventures; S2G Investments,,https://blog.corvus-robotics.com/corvus-one-launch-and-series-a-funding,"Coincided with the launch of Corvus One, the company's flagship fully autonomous warehouse drone. Total funding reached ~$28M.
@@ -271,6 +274,7 @@ evenup,Series B,2023-06,50.5,,Bessemer Venture Partners,,https://www.evenuplaw.c
 evenup,Series C,2023-12,35.0,,Lightspeed Venture Partners,,https://medium.com/@Connected_Dots/,
 evenup,Series D,2024-10,135.0,1000.0,Bain Capital Ventures,,https://news.crunchbase.com/venture/ai-legal-tech-evenup-unicorn-bain/,
 evenup,Series E,2025-10,150.0,2000.0,Bessemer Venture Partners,,https://www.evenuplaw.com/blog/evenup-2b-valuation/,
+evertune,Series A,2025-08,15.0,,Felicis,,,
 exa,Seed,2022,5.0,,Y Combinator,,https://techcrunch.com/2024/07/16/exa-raises-17m/,
 exa,Series A,2024-07,17.0,,Lightspeed Venture Partners,,https://exa.ai/blog/series-a,
 exa,Series B,2025-09,85.0,700.0,Benchmark,,https://exa.ai/blog/announcing-series-b,
@@ -281,6 +285,7 @@ field-ai,Earlier Rounds,~2024 (late),91.0,,,Gates Frontier; Samsung; Intel Capit
 field-ai,Growth Round,2025-08-20,314.0,,Bezos Expeditions; Prysm Capital; Temasek,NVentures (NVIDIA); BHP Ventures; Canaan Partners; Emerson Collective; Intel Capital; Khosla Ventures,https://www.cnbc.com/2025/08/20/gates-nvidia-fieldai-robotics.html,"Brought total raised to over $405M. Backed by Bezos, Gates, and NVIDIA. Valuation close to $2 billion.
 "
 fieldai,Seed,2025-08,405.0,,Bezos Expeditions; Prysm; Temasek; Khosla; NVentures,,,
+fieldguide,Series B,2024-03,30.0,,Bessemer Venture Partners,,,
 figure-ai,Seed,2022,100.0,,Brett Adcock (personal capital),,https://en.wikipedia.org/wiki/Figure_AI,
 figure-ai,Series A,2023-05,70.0,500.0,Parkway Venture Capital,,https://sacra.com/c/figure-ai/,
 figure-ai,Series B,2024-02,675.0,2600.0,Microsoft; Jeff Bezos (Bezos Expeditions); OpenAI Startup Fund; NVIDIA,Parkway Venture Capital; Intel Capital; Align Ventures; ARK Invest; Amazon (Industrial Innovation Fund),https://www.prnewswire.com/news-releases/figure-raises-675m-at-2-6b-valuation-and-signs-collaboration-agreement-with-openai-302074897.html,"Coincided with OpenAI collaboration agreement for next-gen AI models for humanoid robots. Figure also secured Microsoft Azure for AI infrastructure.
@@ -427,6 +432,7 @@ latent-labs,Series A,2025-02,40.0,,Radical Ventures; Sofinnova Partners,,https:/
 legion-ai,Seed,2025,38.0,,PayPal Ventures; M13,,,
 leo-ai,Seed,2025-09,9.7,,Flint Capital,,,
 leta-logistics,Seed,2025-03,5.0,,Speedinvest; Google Africa Investment Fund,,,
+letta,Seed,2024-09,10.0,,Felicis,,,
 lila-sciences,Seed,2025-03,200.0,,Flagship Pioneering; General Catalyst; Modi Ventures,,https://www.crunchbase.com/funding_round/lila-sciences-seed--a9351039,
 lila-sciences,Series A (First Close),2025-09,235.0,,Braidwell; Collective Global,,https://www.lila.ai/news/announcing-the-close-of-our-series-a,
 lila-sciences,Series A (Second Close),2025-10,115.0,,NVentures (Nvidia); In-Q-Tel,,https://www.lila.ai/news/announcing-the-close-of-our-series-a,
@@ -528,6 +534,7 @@ newo,Series A,2026-02,25.0,,Ratmir Timashev,,,
 nexos-ai,Seed,2025-Q1,8.0,,Index Ventures; Creandum,,,
 nexthop-ai,Series A,2025-03,110.0,,Lightspeed Venture Partners; Kleiner Perkins,,https://news.crunchbase.com/ai/infrastructure-nexthop-venture-funding-lightspeed/,
 nexthop-ai,Series B,2026-03,500.0,4200.0,Lightspeed Venture Partners; Andreessen Horowitz,,https://nexthop.ai/news-and-event/nexthop-ai-accelerates-into-hypergrowth-with-oversubscribed-500m-series-b-funding-catapulting-the-companys-valuation-to-4-2-billion/,
+noda-ai,Series A,2026-02,25.0,125.0,Bessemer Venture Partners,,,
 nomic,Series A,2025,17.0,100.0,Coatue; Contrary,,https://www.nomic.ai/blog/posts/series-a,
 norm-ai,Seed,2024-01,11.1,,Coatue; Haystack,,https://www.norm.ai/post/norm-emerges-from-stealth,
 norm-ai,Series A,2024-06,27.0,,Coatue,,https://www.norm.ai/post/norm-ai-raises-27-million-series-a,
@@ -543,6 +550,7 @@ nscale,Series A,2024-12,155.0,,Sandton Capital Partners,,https://www.nscale.com/
 nscale,Series B,2025-09,1100.0,,Aker ASA,,https://www.nscale.com/press-releases/nscale-series-b,Largest Series B in European history at announcement.
 nscale,Pre-Series C SAFE,2025-10,433.0,,Existing shareholders,,https://www.nscale.com/press-releases/nscale-pre-series-c-safe,
 nscale,Series C,2026-03,2000.0,14600.0,Aker ASA; 8090 Industries,,https://techfundingnews.com/nscale-raises-2b-series-c-europe-largest-ai-infra/,Claimed largest funding round by a European startup.
+nudge-bci,Series A,2025-07,100.0,,Thrive Capital; Greenoaks,,,
 nuro,Series A,2018-01,92.0,,Greylock Partners; Gaorong Capital,,https://en.wikipedia.org/wiki/Nuro,
 nuro,Series B,2019-02,940.0,,SoftBank Vision Fund 1,,https://www.crunchbase.com/funding_round/nuro-2-series-b--f7ca85b0,
 nuro,Series C,2020-11,500.0,5000.0,T. Rowe Price,,https://techcrunch.com/2020/11/09/autonomous-delivery-startup-nuro-hits-5-billion-valuation-on-fresh-funding-of-500-million/,
@@ -608,6 +616,8 @@ polygraf-ai,Seed,2025-10,9.5,,Allegis Capital,,https://venturebeat.com/business/
 predoc,Series A,2025-09,30.0,,Base10 Partners,,https://hitconsultant.net/2025/09/02/predoc-raises-30m/,
 probabl,Seed,2025,14.0,,Serena; Capital Fund Management; Mozilla Ventures,,https://www.inria.fr/en/probabl-logiciel-open-source-intelligence-artificielle,
 pryzm,Seed,2025-12,12.2,,a16z American Dynamism,,,
+quilter,Series A,2024,10.0,,Benchmark; Coatue,,,
+quilter,Series B,2025-10,25.0,,Index Ventures,,,
 quiverai,Seed,2026-01,8.3,,Andreessen Horowitz,,,
 rad-ai,Series B,2024-05,50.0,,Khosla Ventures,,,
 radical-health,Pre-seed,2025,5.0,,Khosla Ventures,,,
@@ -714,6 +724,7 @@ skydio,Series E,2023-02,230.0,2200.0,Linse Capital,,https://www.skydio.com/blog/
 skydio,Series E Extension,2024-11,170.0,2200.0,KDDI; Axon,,https://techcrunch.com/2024/11/15/drone-manufacturer-skydio-raises-170-million-extension-round/,
 slingshot-ai,Series A,2024-08,30.0,,Andreessen Horowitz,,,
 slingshot-ai,Series A Extension,2025-07,63.0,,Radical Ventures; Forerunner,,,
+smack-technologies,Series A,2026-03,32.0,,Geodesic Capital; Costanoa Ventures; Felicis,,,
 snorkel-ai,Seed,2019-01,3.0,,Greylock Partners,,https://www.crunchbase.com/organization/snorkel-ai,
 snorkel-ai,Series A,2020-07,12.0,135.0,Greylock Partners,,https://www.crunchbase.com/funding_round/snorkel-ai-series-a--241303d6,
 snorkel-ai,Series B,2021-04,35.0,,Lightspeed Venture Partners,,https://techcrunch.com/2021/04/07/snorkel-ai-scores-35m/,
@@ -854,6 +865,8 @@ windborne,Series A,2024-06,15.0,,Khosla Ventures,,,
 windsurf,Series A,2022-04,25.0,,Greenoaks Capital,,https://www.crunchbase.com/funding_round/codeium-series-a--435f976f,
 windsurf,Series B,2024-01,65.0,500.0,Kleiner Perkins,,https://www.crunchbase.com/funding_round/windsurf-codeium-series-b--fcfa64ac,
 windsurf,Series C,2024-09,150.0,1250.0,General Catalyst,,https://www.crunchbase.com/funding_round/windsurf-codeium-series-c--4876a9bd,
+wispr-ai,Series A,2025-06,30.0,,Menlo Ventures; NEA,,,
+wispr-ai,Series A Extension,2025-11,25.0,700.0,Notable Capital,,,
 wonder-studios,Seed,2025-10,12.0,,Atomico; LocalGlobe; Adobe Ventures,,https://sifted.eu/articles/wonder-ai-movie-studio-atomico-localglobe,
 wonderful-ai,Series A,2025-11,100.0,,Index Ventures,,https://techcrunch.com/2025/11/11/wonderful-raised-100m-series-a-to-put-ai-agents-on-the-front-lines-of-customer-service/,"Bessemer Venture Partners, IVP, and Vine Ventures also participated."
 wonderful-ai,Series B,2026-03,150.0,2000.0,Insight Partners,,https://techcrunch.com/2026/03/12/wonderful-raises-150m-series-b-at-2b-valuation/,"Just four months after Series A. Index Ventures, IVP, Bessemer Venture Partners, and Vine Ventures also participated."

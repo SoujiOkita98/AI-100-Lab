@@ -1,0 +1,341 @@
+[
+  {
+    "name": "Letta",
+    "slug": "letta",
+    "founded": 2024,
+    "hq": "San Francisco, CA",
+    "sector": "AI Agents / Memory Infrastructure",
+    "one_liner": "AI agent infrastructure with persistent self-editing memory. UC Berkeley MemGPT spinout. Angels: Jeff Dean, Clem Delangue.",
+    "website": "https://letta.com",
+    "founders": [
+      {
+        "name": "Sarah Wooders",
+        "role": "CEO",
+        "background": "Berkeley PhD, Sky Computing Lab",
+        "origin": "American"
+      },
+      {
+        "name": "Charles Packer",
+        "role": "CTO",
+        "background": "Berkeley PhD, Sky Computing Lab",
+        "origin": "American"
+      }
+    ],
+    "funding_rounds": [
+      {
+        "stage": "Seed",
+        "date": "2024-09",
+        "amount_m": 10,
+        "lead_investors": [
+          "Felicis"
+        ]
+      }
+    ],
+    "total_raised_m": 10
+  },
+  {
+    "name": "Evertune",
+    "slug": "evertune",
+    "founded": 2024,
+    "hq": "New York, NY",
+    "sector": "AI Marketing / Generative Engine Optimization",
+    "one_liner": "GEO platform tracking brand visibility across ChatGPT, Claude, Gemini, Perplexity. 1M+ AI responses analyzed monthly per customer.",
+    "website": "https://evertune.com",
+    "founders": [
+      {
+        "name": "Brian Stempeck",
+        "role": "CEO",
+        "background": "Former Trade Desk (grew from 8 people to IPO), Nielsen board",
+        "origin": "American"
+      }
+    ],
+    "funding_rounds": [
+      {
+        "stage": "Series A",
+        "date": "2025-08",
+        "amount_m": 15,
+        "lead_investors": [
+          "Felicis"
+        ]
+      }
+    ],
+    "total_raised_m": 15
+  },
+  {
+    "name": "Smack Technologies",
+    "slug": "smack-technologies",
+    "founded": 2024,
+    "hq": "El Segundo, CA",
+    "sector": "AI Defense / Frontier Lab",
+    "one_liner": "Defense AI frontier lab \u2014 domain-specific models for DoD using deep RL, not repurposed LLMs. Founded by MARSOC veterans.",
+    "founders": [
+      {
+        "name": "Andrew Markoff",
+        "role": "Co-founder",
+        "background": "MARSOC veteran, 20+ years combat experience",
+        "origin": "American"
+      },
+      {
+        "name": "Clint Alanis",
+        "role": "Co-founder",
+        "background": "MARSOC veteran",
+        "origin": "American"
+      }
+    ],
+    "funding_rounds": [
+      {
+        "stage": "Series A",
+        "date": "2026-03",
+        "amount_m": 32,
+        "lead_investors": [
+          "Geodesic Capital",
+          "Costanoa Ventures",
+          "Felicis"
+        ]
+      }
+    ],
+    "total_raised_m": 32
+  },
+  {
+    "name": "NODA AI",
+    "slug": "noda-ai",
+    "founded": 2024,
+    "hq": "Austin, TX",
+    "sector": "AI Defense / Autonomous Systems Orchestration",
+    "one_liner": "Multi-domain AI orchestration for autonomous defense systems. Vendor-agnostic reasoning across 30+ platforms. US DoD + UK MoD.",
+    "founders": [
+      {
+        "name": "Philong Duong",
+        "role": "CEO",
+        "background": "Former Marine Corps joint fires instructor, ex-C3.ai Defense lead",
+        "origin": "Vietnamese-American"
+      },
+      {
+        "name": "Dave Corbett",
+        "role": "Co-founder",
+        "background": "Former Marine Corps, ex-C3.ai",
+        "origin": "American"
+      }
+    ],
+    "funding_rounds": [
+      {
+        "stage": "Series A",
+        "date": "2026-02",
+        "amount_m": 25,
+        "valuation_m": 125,
+        "lead_investors": [
+          "Bessemer Venture Partners"
+        ]
+      }
+    ],
+    "total_raised_m": 25,
+    "latest_valuation_m": 125
+  },
+  {
+    "name": "Converge Bio",
+    "slug": "converge-bio",
+    "founded": 2024,
+    "hq": "Boston, MA",
+    "sector": "AI Drug Discovery / Generative Biology",
+    "one_liner": "Generative AI for drug discovery \u2014 target discovery, antibody design, protein manufacturing. 12+ pharma customers.",
+    "founders": [
+      {
+        "name": "Dov Gertz",
+        "role": "CEO",
+        "background": "Developed ML for novel CRISPR systems, co-published with Nobel laureate Jennifer Doudna",
+        "origin": "Israeli"
+      },
+      {
+        "name": "Iddo Weiner",
+        "role": "CSO",
+        "background": "Led 2 drug programs to Phase 2",
+        "origin": "Israeli"
+      },
+      {
+        "name": "Oded Kalev",
+        "role": "CTO",
+        "background": "Former cybersecurity AI lead, advised US govt on GenAI",
+        "origin": "Israeli"
+      }
+    ],
+    "funding_rounds": [
+      {
+        "stage": "Series A",
+        "date": "2026-01",
+        "amount_m": 25,
+        "lead_investors": [
+          "Bessemer Venture Partners"
+        ]
+      }
+    ],
+    "total_raised_m": 30
+  },
+  {
+    "name": "Wispr AI",
+    "slug": "wispr-ai",
+    "founded": 2023,
+    "hq": "San Francisco, CA",
+    "sector": "AI Voice / Dictation",
+    "one_liner": "AI voice dictation across any app \u2014 104 languages, auto-removes filler words. 270+ Fortune 500 customers. M valuation.",
+    "website": "https://wispr.ai",
+    "founders": [
+      {
+        "name": "Tanay Kothari",
+        "role": "CEO",
+        "origin": "Indian-American"
+      },
+      {
+        "name": "Sahaj Garg",
+        "role": "CTO",
+        "origin": "Indian-American"
+      }
+    ],
+    "funding_rounds": [
+      {
+        "stage": "Series A",
+        "date": "2025-06",
+        "amount_m": 30,
+        "lead_investors": [
+          "Menlo Ventures",
+          "NEA"
+        ]
+      },
+      {
+        "stage": "Series A Extension",
+        "date": "2025-11",
+        "amount_m": 25,
+        "valuation_m": 700,
+        "lead_investors": [
+          "Notable Capital"
+        ]
+      }
+    ],
+    "total_raised_m": 81,
+    "latest_valuation_m": 700
+  },
+  {
+    "name": "Console",
+    "slug": "console-ai",
+    "founded": 2024,
+    "hq": "San Francisco, CA",
+    "sector": "AI IT Support / Agents",
+    "one_liner": "AI IT support agent via Slack \u2014 resolves 50%+ tickets autonomously. Customers: Ramp, Scale AI, Webflow.",
+    "founders": [
+      {
+        "name": "Andrei Serban",
+        "role": "CEO",
+        "background": "Former Rippling product lead, founded Fuzzbuzz (acq by Rippling)",
+        "origin": "Romanian-American"
+      }
+    ],
+    "funding_rounds": [
+      {
+        "stage": "Seed",
+        "date": "2025-06",
+        "amount_m": 6.2,
+        "lead_investors": [
+          "Thrive Capital",
+          "SV Angel"
+        ]
+      },
+      {
+        "stage": "Series A",
+        "date": "2025-12",
+        "amount_m": 23,
+        "lead_investors": [
+          "DST Global",
+          "Thrive Capital"
+        ]
+      }
+    ],
+    "total_raised_m": 29.2
+  },
+  {
+    "name": "Nudge (BCI)",
+    "slug": "nudge-bci",
+    "founded": 2024,
+    "hq": "San Francisco, CA",
+    "sector": "AI Neurotech / Brain Interface",
+    "one_liner": "Non-invasive whole-brain interface using focused ultrasound wearable. Targets mood, memory, focus, pain. Co-founded by Coinbase co-founder.",
+    "founders": [
+      {
+        "name": "Fred Ehrsam",
+        "role": "Co-founder",
+        "background": "Co-founder of Coinbase",
+        "origin": "American"
+      },
+      {
+        "name": "Quintin Frerichs",
+        "role": "Co-founder",
+        "origin": "American"
+      }
+    ],
+    "funding_rounds": [
+      {
+        "stage": "Series A",
+        "date": "2025-07",
+        "amount_m": 100,
+        "lead_investors": [
+          "Thrive Capital",
+          "Greenoaks"
+        ]
+      }
+    ],
+    "total_raised_m": 100
+  },
+  {
+    "name": "Quilter",
+    "slug": "quilter",
+    "founded": 2022,
+    "hq": "San Francisco, CA",
+    "sector": "AI Hardware Design / PCB",
+    "one_liner": "Physics-driven AI for automated PCB design. AI designed worlds first computer (843 parts) that booted on first try.",
+    "website": "https://quilter.ai",
+    "founders": [
+      {
+        "name": "Sergiy Nesterenko",
+        "role": "CEO",
+        "background": "Former SpaceX Senior Radiation Effects Engineer (Falcon 9/Heavy)",
+        "origin": "Ukrainian-American"
+      }
+    ],
+    "funding_rounds": [
+      {
+        "stage": "Series A",
+        "date": "2024",
+        "amount_m": 10,
+        "lead_investors": [
+          "Benchmark",
+          "Coatue"
+        ]
+      },
+      {
+        "stage": "Series B",
+        "date": "2025-10",
+        "amount_m": 25,
+        "lead_investors": [
+          "Index Ventures"
+        ]
+      }
+    ],
+    "total_raised_m": 40
+  },
+  {
+    "name": "Fieldguide",
+    "slug": "fieldguide",
+    "founded": 2020,
+    "sector": "AI Finance / Audit Automation",
+    "one_liner": "AI-powered engagement platform for audit and advisory firms \u2014 automates CPA documentation and evidence collection.",
+    "funding_rounds": [
+      {
+        "stage": "Series B",
+        "date": "2024-03",
+        "amount_m": 30,
+        "lead_investors": [
+          "Bessemer Venture Partners"
+        ]
+      }
+    ],
+    "total_raised_m": 30
+  }
+]
