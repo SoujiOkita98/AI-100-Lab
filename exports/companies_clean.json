@@ -1920,6 +1920,40 @@
     "top_investors": []
   },
   {
+    "slug": "antithesis",
+    "name": "Antithesis",
+    "status": "active",
+    "founded_year": "2022",
+    "hq": null,
+    "website": null,
+    "sector": "AI Software Testing / Simulation",
+    "one_liner": "Autonomous software testing via deterministic simulation. Founded by FoundationDB creators.",
+    "total_raised_m": 105.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [],
+    "funding_rounds": [
+      {
+        "company_slug": "antithesis",
+        "stage": "Series A",
+        "date": "2025",
+        "amount_m": 105.0,
+        "valuation_m": null,
+        "lead_investors": "Jane Street Capital",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
     "slug": "anysphere-cursor",
     "name": "Anysphere",
     "status": "Private",
@@ -2945,6 +2979,40 @@
         "amount_m": 20.0,
         "valuation_m": null,
         "lead_investors": "5Y Capital; Qiming Venture Partners",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
+    "slug": "avride",
+    "name": "Avride",
+    "status": "active",
+    "founded_year": "2024",
+    "hq": null,
+    "website": null,
+    "sector": "Autonomous Vehicles / Delivery Robots",
+    "one_liner": "Self-driving vehicles and delivery robots. Uber partnership.",
+    "total_raised_m": 375.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [],
+    "funding_rounds": [
+      {
+        "company_slug": "avride",
+        "stage": "Strategic",
+        "date": "2025",
+        "amount_m": 375.0,
+        "valuation_m": null,
+        "lead_investors": "Uber; Nebius Group",
         "other_investors": "",
         "source": "",
         "notes": ""
@@ -4623,6 +4691,40 @@
     "top_investors": []
   },
   {
+    "slug": "chipmind",
+    "name": "Chipmind",
+    "status": "active",
+    "founded_year": "2024",
+    "hq": "Zurich, Switzerland",
+    "website": null,
+    "sector": "AI for Chip Design",
+    "one_liner": "AI agents for chip design and verification \u2014 cuts dev time 40%. Zurich-based.",
+    "total_raised_m": 2.5,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [],
+    "funding_rounds": [
+      {
+        "company_slug": "chipmind",
+        "stage": "Pre-Seed",
+        "date": "2025-10",
+        "amount_m": 2.5,
+        "valuation_m": null,
+        "lead_investors": "Founderful",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
     "slug": "claimsorted",
     "name": "ClaimSorted",
     "status": "active",
@@ -4720,6 +4822,40 @@
     "last_updated": "2026-03-20",
     "founders": [],
     "funding_rounds": [],
+    "top_investors": []
+  },
+  {
+    "slug": "code-metal",
+    "name": "Code Metal",
+    "status": "active",
+    "founded_year": "2022",
+    "hq": null,
+    "website": null,
+    "sector": "AI Developer Tools / Code Translation",
+    "one_liner": "Verifiable AI code translation tools.",
+    "total_raised_m": 125.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [],
+    "funding_rounds": [
+      {
+        "company_slug": "code-metal",
+        "stage": "Series B",
+        "date": "2025",
+        "amount_m": 125.0,
+        "valuation_m": null,
+        "lead_investors": "Salesforce Ventures",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
+      }
+    ],
     "top_investors": []
   },
   {
@@ -5760,6 +5896,40 @@
         "lead_investors": "Qatar Investment Authority; World Innovation Lab",
         "other_investors": "",
         "source": "https://cresta.com/blog/cresta-raises-125m/",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
+    "slug": "crewai",
+    "name": "CrewAI",
+    "status": "active",
+    "founded_year": "2024",
+    "hq": null,
+    "website": null,
+    "sector": "AI Agents / Framework",
+    "one_liner": "Open-source agentic AI framework for building multi-agent systems.",
+    "total_raised_m": 18.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [],
+    "funding_rounds": [
+      {
+        "company_slug": "crewai",
+        "stage": "Seed",
+        "date": "2025",
+        "amount_m": 18.0,
+        "valuation_m": null,
+        "lead_investors": "",
+        "other_investors": "",
+        "source": "",
         "notes": ""
       }
     ],
@@ -7127,6 +7297,40 @@
     "top_investors": []
   },
   {
+    "slug": "dream-security",
+    "name": "Dream Security",
+    "status": "active",
+    "founded_year": "2023",
+    "hq": null,
+    "website": null,
+    "sector": "AI Cybersecurity / Critical Infrastructure",
+    "one_liner": "AI-driven critical infrastructure cybersecurity. .1B valuation.",
+    "total_raised_m": 100.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [],
+    "funding_rounds": [
+      {
+        "company_slug": "dream-security",
+        "stage": "Series B",
+        "date": "2025",
+        "amount_m": 100.0,
+        "valuation_m": null,
+        "lead_investors": "Bain Capital Venture",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
     "slug": "dualentry",
     "name": "DualEntry",
     "status": "active",
@@ -8252,6 +8456,40 @@
     "top_investors": []
   },
   {
+    "slug": "eve-legal",
+    "name": "Eve (Legal AI)",
+    "status": "active",
+    "founded_year": "2023",
+    "hq": null,
+    "website": null,
+    "sector": "AI Legal / Evidence Review",
+    "one_liner": "Legal AI automating evidence review for plaintiff firms.",
+    "total_raised_m": 103.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [],
+    "funding_rounds": [
+      {
+        "company_slug": "eve-legal",
+        "stage": "Series B",
+        "date": "2025",
+        "amount_m": 103.0,
+        "valuation_m": null,
+        "lead_investors": "Coatue; Andreessen Horowitz",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
     "slug": "evenup",
     "name": "EvenUp",
     "status": "Private",
@@ -8379,6 +8617,57 @@
         "amount_m": 15.0,
         "valuation_m": null,
         "lead_investors": "Felicis",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
+    "slug": "evolved-robotics",
+    "name": "Evolved Robotics",
+    "status": "active",
+    "founded_year": "2024",
+    "hq": "Washington",
+    "website": null,
+    "sector": "AI Robotics / Elder Care",
+    "one_liner": "AI robots for assisted living and elder care. Co-founded by Gur Kimchi (Amazon Prime Air co-founder). Zero press coverage.",
+    "total_raised_m": 0.3,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [
+      {
+        "company_slug": "evolved-robotics",
+        "name": "Gur Kimchi",
+        "role": "Co-founder",
+        "background": "Co-founder Amazon Prime Air, former VP Amazon",
+        "origin": "",
+        "prior": ""
+      },
+      {
+        "company_slug": "evolved-robotics",
+        "name": "Matthew Skeels",
+        "role": "CEO",
+        "background": "Former Amazon Prime Air, former BRINC",
+        "origin": "",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "evolved-robotics",
+        "stage": "Seed (SEC Form D)",
+        "date": "2026-03",
+        "amount_m": 0.3,
+        "valuation_m": null,
+        "lead_investors": "",
         "other_investors": "",
         "source": "",
         "notes": ""
@@ -9368,6 +9657,40 @@
     "top_investors": []
   },
   {
+    "slug": "furiosa-ai",
+    "name": "FuriosaAI",
+    "status": "active",
+    "founded_year": "2017",
+    "hq": "Seoul, South Korea",
+    "website": null,
+    "sector": "AI Chips / Inference",
+    "one_liner": "Korean AI inference chip startup. Competing with Nvidia on inference cost/performance.",
+    "total_raised_m": 125.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [],
+    "funding_rounds": [
+      {
+        "company_slug": "furiosa-ai",
+        "stage": "Series C",
+        "date": "2025",
+        "amount_m": 125.0,
+        "valuation_m": null,
+        "lead_investors": "Korea Development Bank",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
     "slug": "furtherai",
     "name": "FurtherAI",
     "status": "Private",
@@ -9935,6 +10258,51 @@
         "amount_m": 3.6,
         "valuation_m": null,
         "lead_investors": "47th Street Partners",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
+    "slug": "gradial",
+    "name": "Gradial",
+    "status": "active",
+    "founded_year": "2022",
+    "hq": "Seattle, WA",
+    "website": "https://gradial.com",
+    "sector": "AI Marketing / Agentic Enterprise",
+    "one_liner": "Agentic AI for enterprise marketing ops \u2014 automates content supply chain, brand redesigns. AWS, T-Mobile, Prudential as clients.",
+    "total_raised_m": 53.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [],
+    "funding_rounds": [
+      {
+        "company_slug": "gradial",
+        "stage": "Series A",
+        "date": "2025-04",
+        "amount_m": 13.0,
+        "valuation_m": null,
+        "lead_investors": "",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
+      },
+      {
+        "company_slug": "gradial",
+        "stage": "Series B",
+        "date": "2025-12",
+        "amount_m": 35.0,
+        "valuation_m": null,
+        "lead_investors": "VMG Partners",
         "other_investors": "",
         "source": "",
         "notes": ""
@@ -15740,6 +16108,74 @@
     "top_investors": []
   },
   {
+    "slug": "mytra",
+    "name": "Mytra",
+    "status": "active",
+    "founded_year": "2021",
+    "hq": null,
+    "website": null,
+    "sector": "AI Robotics / Industrial",
+    "one_liner": "Industrial robotics automation.",
+    "total_raised_m": 120.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [],
+    "funding_rounds": [
+      {
+        "company_slug": "mytra",
+        "stage": "Series C",
+        "date": "2025",
+        "amount_m": 120.0,
+        "valuation_m": null,
+        "lead_investors": "Avenir Growth Capital",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
+    "slug": "n8n",
+    "name": "n8n",
+    "status": "active",
+    "founded_year": "2019",
+    "hq": "Berlin, Germany",
+    "website": "https://n8n.io",
+    "sector": "AI Workflow Automation",
+    "one_liner": "Open-source workflow automation with AI orchestration. 60K+ deployments.",
+    "total_raised_m": 230.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [],
+    "funding_rounds": [
+      {
+        "company_slug": "n8n",
+        "stage": "Series C",
+        "date": "2025",
+        "amount_m": 180.0,
+        "valuation_m": null,
+        "lead_investors": "Accel; Meritech; Redpoint; Sequoia",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
     "slug": "nace-ai",
     "name": "Nace.AI",
     "status": "active",
@@ -16854,6 +17290,40 @@
     ]
   },
   {
+    "slug": "oasis-security",
+    "name": "Oasis Security",
+    "status": "active",
+    "founded_year": "2023",
+    "hq": null,
+    "website": null,
+    "sector": "AI Cybersecurity / Non-Human Identity",
+    "one_liner": "Identity security for AI agents and non-human identities.",
+    "total_raised_m": 120.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [],
+    "funding_rounds": [
+      {
+        "company_slug": "oasis-security",
+        "stage": "Growth",
+        "date": "2025",
+        "amount_m": 120.0,
+        "valuation_m": null,
+        "lead_investors": "Craft Ventures; Sequoia; Accel",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
     "slug": "oboe",
     "name": "Oboe",
     "status": "active",
@@ -17136,6 +17606,40 @@
         "amount_m": 20.0,
         "valuation_m": null,
         "lead_investors": "Macquarie Capital VC",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
+    "slug": "omni-design-tech",
+    "name": "Omni Design Technologies",
+    "status": "active",
+    "founded_year": "2018",
+    "hq": "Milpitas, CA",
+    "website": null,
+    "sector": "AI Chips / Signal Processing",
+    "one_liner": "Wideband signal processing IP for AI datacenter networking, autonomous vehicles, and satellite comms.",
+    "total_raised_m": 35.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [],
+    "funding_rounds": [
+      {
+        "company_slug": "omni-design-tech",
+        "stage": "Series A",
+        "date": "2025-09",
+        "amount_m": 35.0,
+        "valuation_m": null,
+        "lead_investors": "CDIB-TEN Capital",
         "other_investors": "",
         "source": "",
         "notes": ""
@@ -18703,6 +19207,40 @@
     "top_investors": []
   },
   {
+    "slug": "promptpath-ai",
+    "name": "PromptPath.AI",
+    "status": "active",
+    "founded_year": "2024",
+    "hq": "Austin, TX",
+    "website": null,
+    "sector": "AI Automotive / Sales",
+    "one_liner": "Generative AI for automotive retail \u2014 automates lead handling and customer comms for OEMs and dealers. Zero press.",
+    "total_raised_m": 11.3,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [],
+    "funding_rounds": [
+      {
+        "company_slug": "promptpath-ai",
+        "stage": "Seed (SEC Form D)",
+        "date": "2025",
+        "amount_m": 11.3,
+        "valuation_m": null,
+        "lead_investors": "",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
     "slug": "pryzm",
     "name": "Pryzm",
     "status": "active",
@@ -19136,6 +19674,40 @@
         "lead_investors": "Insight Partners; Venrock",
         "other_investors": "",
         "source": "https://www.crunchbase.com/funding_round/rebellion-defense-series-b--c87bbd3f",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
+    "slug": "rebellions",
+    "name": "Rebellions",
+    "status": "active",
+    "founded_year": "2020",
+    "hq": "Seoul, South Korea",
+    "website": null,
+    "sector": "AI Chips / Inference Accelerators",
+    "one_liner": "Korean AI inference processor with HBM3E. Samsung and Arm-backed.",
+    "total_raised_m": 250.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [],
+    "funding_rounds": [
+      {
+        "company_slug": "rebellions",
+        "stage": "Series C",
+        "date": "2025",
+        "amount_m": 250.0,
+        "valuation_m": null,
+        "lead_investors": "Arm; Samsung Ventures",
+        "other_investors": "",
+        "source": "",
         "notes": ""
       }
     ],
@@ -20861,6 +21433,40 @@
     "top_investors": []
   },
   {
+    "slug": "sesame-ai",
+    "name": "Sesame",
+    "status": "active",
+    "founded_year": "2024",
+    "hq": null,
+    "website": null,
+    "sector": "AI Voice / Smart Glasses",
+    "one_liner": "Voice-first AI smart glasses.",
+    "total_raised_m": 250.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [],
+    "funding_rounds": [
+      {
+        "company_slug": "sesame-ai",
+        "stage": "Series B",
+        "date": "2025",
+        "amount_m": 250.0,
+        "valuation_m": null,
+        "lead_investors": "Sequoia; Spark Capital",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
     "slug": "sett-ai",
     "name": "Sett",
     "status": "active",
@@ -22283,6 +22889,40 @@
     "top_investors": []
   },
   {
+    "slug": "spellbook",
+    "name": "Spellbook",
+    "status": "active",
+    "founded_year": "2021",
+    "hq": "Toronto, Canada",
+    "website": "https://spellbook.legal",
+    "sector": "AI Legal / Contract Review",
+    "one_liner": "AI copilot for contract review and legal work.",
+    "total_raised_m": 50.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [],
+    "funding_rounds": [
+      {
+        "company_slug": "spellbook",
+        "stage": "Series B",
+        "date": "2025",
+        "amount_m": 50.0,
+        "valuation_m": null,
+        "lead_investors": "Khosla Ventures",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
     "slug": "sphere",
     "name": "Sphere",
     "status": "Private",
@@ -23195,6 +23835,40 @@
       "OurCrowd",
       "Khosla Ventures"
     ]
+  },
+  {
+    "slug": "tachyum",
+    "name": "Tachyum",
+    "status": "active",
+    "founded_year": "2016",
+    "hq": "Santa Clara, CA",
+    "website": null,
+    "sector": "AI Chips / Universal Processor",
+    "one_liner": "Universal processor combining CPU + GPU + AI accelerator in one chip.",
+    "total_raised_m": 220.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [],
+    "funding_rounds": [
+      {
+        "company_slug": "tachyum",
+        "stage": "Series C",
+        "date": "2025",
+        "amount_m": 220.0,
+        "valuation_m": null,
+        "lead_investors": "",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
   },
   {
     "slug": "tala-health",
