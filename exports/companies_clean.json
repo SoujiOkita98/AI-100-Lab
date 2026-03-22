@@ -12877,6 +12877,91 @@
     "top_investors": []
   },
   {
+    "slug": "kilo-code",
+    "name": "Kilo Code",
+    "status": "active",
+    "founded_year": "2025",
+    "hq": "San Francisco, CA",
+    "website": "https://kilocode.ai",
+    "sector": "AI Developer Tools / Open-Source Coding Agent",
+    "one_liner": "Open-source AI coding agent for VS Code and JetBrains. 750K+ downloads, 6 trillion tokens/month. Founded by GitLab co-founder.",
+    "total_raised_m": 8.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [
+      {
+        "company_slug": "kilo-code",
+        "name": "Sid Sijbrandij",
+        "role": "Co-founder",
+        "background": "Co-founder of GitLab",
+        "origin": "",
+        "prior": ""
+      },
+      {
+        "company_slug": "kilo-code",
+        "name": "Scott Breitenother",
+        "role": "Co-founder",
+        "background": "",
+        "origin": "",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "kilo-code",
+        "stage": "Seed",
+        "date": "2025-12",
+        "amount_m": 8.0,
+        "valuation_m": null,
+        "lead_investors": "Cota Capital; General Catalyst",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
+    "slug": "klira-ai",
+    "name": "Klira AI",
+    "status": "active",
+    "founded_year": "2025",
+    "hq": "San Francisco, CA",
+    "website": "https://getklira.com",
+    "sector": "AI Compliance / Regulated AI",
+    "one_liner": "Compliance layer for AI agents in regulated industries \u2014 HIPAA, FDA, AI safety guardrails via SDK. Techstars Fall 2025.",
+    "total_raised_m": 0.4,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [],
+    "funding_rounds": [
+      {
+        "company_slug": "klira-ai",
+        "stage": "Pre-seed",
+        "date": "2025",
+        "amount_m": 0.4,
+        "valuation_m": null,
+        "lead_investors": "Techstars",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
     "slug": "knowunity",
     "name": "Knowunity",
     "status": "Private",
@@ -20290,6 +20375,57 @@
         "lead_investors": "Sequoia Capital",
         "other_investors": "",
         "source": "https://sequoiacap.com/article/partnering-with-ricursive-intelligence/",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
+    "slug": "riverline-ai",
+    "name": "Riverline AI",
+    "status": "active",
+    "founded_year": "2024",
+    "hq": "India",
+    "website": "https://riverline.ai",
+    "sector": "AI Fintech / Debt Collection",
+    "one_liner": "AI debt-counselling agents for Indian lenders \u2014 segments borrowers, deploys personalized voice/WhatsApp agents. INR 100cr+ monthly.",
+    "total_raised_m": 0.8,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [
+      {
+        "company_slug": "riverline-ai",
+        "name": "Ankit Sanghvi",
+        "role": "CEO",
+        "background": "",
+        "origin": "",
+        "prior": ""
+      },
+      {
+        "company_slug": "riverline-ai",
+        "name": "Jayanth Krishnaprakash",
+        "role": "Co-founder",
+        "background": "",
+        "origin": "",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "riverline-ai",
+        "stage": "Pre-seed",
+        "date": "2025-11",
+        "amount_m": 0.8,
+        "valuation_m": null,
+        "lead_investors": "South Park Commons",
+        "other_investors": "",
+        "source": "",
         "notes": ""
       }
     ],
