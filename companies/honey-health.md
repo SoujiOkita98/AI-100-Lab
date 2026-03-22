@@ -18,6 +18,7 @@ founders:
 - name: Matt Faustman
   role: CEO
   background: Ex-LinkedIn AI leader. Sold previous company to LinkedIn. Type 1 diabetic.
+  origin: American
 - name: Xiao Zhang
   role: CTO
   background: Ex-LinkedIn AI engineering leader.

@@ -11,19 +11,23 @@ latest_valuation: Not publicly disclosed
 total_funding: ~$9.3M (EUR 8.5M)
 status: Active, Private
 founders:
-  - name: Mathieu Galtier
-    role: CEO
-    background: Former Chief Data & Platform Officer at Owkin (AI drug discovery unicorn); built Owkin's data partnership network with industrial leaders
-  - name: Victor Schmidt
-    role: CTO
-    background: Researcher at Mila (Quebec AI Institute); authored papers on predictive and generative models for materials
-  - name: Alexandre Duval
-    role: CSO (Chief Scientific Officer)
-    background: Researcher at Mila (Quebec AI Institute); co-authored foundational papers on AI for materials discovery
+- name: Mathieu Galtier
+  role: CEO
+  background: Former Chief Data & Platform Officer at Owkin (AI drug discovery unicorn); built Owkin's data partnership network
+    with industrial leaders
+  origin: French
+- name: Victor Schmidt
+  role: CTO
+  background: Researcher at Mila (Quebec AI Institute); authored papers on predictive and generative models for materials
+  origin: French-Canadian
+- name: Alexandre Duval
+  role: CSO (Chief Scientific Officer)
+  background: Researcher at Mila (Quebec AI Institute); co-authored foundational papers on AI for materials discovery
+  origin: French
 key_investors:
-  - Breega
-  - Cathay Innovation
-  - Felicis Ventures
+- Breega
+- Cathay Innovation
+- Felicis Ventures
 ---
 
 # Entalpic

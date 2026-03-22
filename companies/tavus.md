@@ -4,21 +4,23 @@ website: https://www.tavus.io
 founded: 2021
 headquarters: San Francisco, CA
 other_offices:
-  - London
-  - Munich
+- London
+- Munich
 founders:
-  - name: Hassaan Raza
-    role: Co-Founder & CEO
-  - name: Quinn Favret
-    role: Co-Founder & COO
+- name: Hassaan Raza
+  role: Co-Founder & CEO
+  origin: Pakistani-American
+- name: Quinn Favret
+  role: Co-Founder & COO
+  origin: American
 employees: ~40
 sector: AI Video / Human Computing
 tags:
-  - generative-ai
-  - digital-avatars
-  - conversational-ai
-  - developer-platform
-  - real-time-video
+- generative-ai
+- digital-avatars
+- conversational-ai
+- developer-platform
+- real-time-video
 yc_batch: S21
 total_funding: $64.2M
 latest_round: Series B

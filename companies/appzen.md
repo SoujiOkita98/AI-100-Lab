@@ -15,9 +15,11 @@ founders:
 - name: Anant Kale
   role: Co-founder & CEO
   ethnicity: Indian
+  origin: Indian
 - name: Kunal Verma
   role: Co-founder & CTO
   ethnicity: Indian
+  origin: Indian
 key_investors:
 - Riverwood Capital — Series D lead
 - Lightspeed Venture Partners

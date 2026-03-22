@@ -11,12 +11,15 @@ founders:
 - name: Brendan Foody
   role: CEO
   education: Georgetown University (dropped out, sophomore year)
+  origin: American
 - name: Adarsh Hiremath
   role: CTO
   education: Harvard University (dropped out, sophomore year)
+  origin: Indian-American
 - name: Surya Midha
   role: Board Chairman (formerly COO)
   education: Georgetown University (dropped out, sophomore year)
+  origin: Indian-American
 notable_investors:
 - Felicis Ventures (led Series B and C)
 - Benchmark (Series A lead)

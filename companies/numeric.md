@@ -6,12 +6,15 @@ sector: AI for Accounting / Financial Close
 founded: 2020
 headquarters: San Francisco, CA
 founders:
-  - name: Parker Gilbert
-    role: Co-Founder & CEO
-  - name: Andrew Bihl
-    role: Co-Founder & CTO
-  - name: Anthony Alvernaz
-    role: Co-Founder & CPO
+- name: Parker Gilbert
+  role: Co-Founder & CEO
+  origin: American
+- name: Andrew Bihl
+  role: Co-Founder & CTO
+  origin: American
+- name: Anthony Alvernaz
+  role: Co-Founder & CPO
+  origin: American
 latest_valuation: Undisclosed
 total_funding_raised: $89M
 arr_estimate: Undisclosed

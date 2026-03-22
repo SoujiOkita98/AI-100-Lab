@@ -15,9 +15,11 @@ founders:
 - name: Sebastian Thrun
   role: Original project lead (Google Self-Driving Car Project)
   background: Stanford professor; founded Google X; now at Cresta AI
+  origin: German-American
 - name: Chris Urmson
   role: Early CTO (departed 2016)
   background: Carnegie Mellon; later founded Aurora Innovation
+  origin: Canadian
 current_leadership:
 - name: Tekedra Mawakana
   role: Co-CEO

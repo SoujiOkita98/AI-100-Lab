@@ -8,8 +8,10 @@ headquarters: New York, NY
 founders:
 - name: Minna Song
   role: CEO & Co-Founder
+  origin: Korean-American
 - name: Stoyan (Tony) Stoyanov
   role: CTO & Co-Founder
+  origin: Bulgarian
 latest_valuation: $2.2B (Aug 2025)
 total_funding_raised: ~$392M
 arr_estimate: ~$100M+ (2025)

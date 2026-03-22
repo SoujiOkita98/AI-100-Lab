@@ -8,8 +8,10 @@ headquarters: San Francisco, CA
 founders:
 - name: Winston Weinberg
   role: CEO & Co-Founder
+  origin: American
 - name: Gabriel Pereyra
   role: President & Co-Founder
+  origin: Latin American
 latest_valuation: $11B (reported, Feb 2026)
 total_funding_raised: ~$1.2B
 arr_estimate: ~$195M (end of 2025)

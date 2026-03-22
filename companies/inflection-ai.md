@@ -10,12 +10,15 @@ founders:
 - name: Mustafa Suleyman
   role: Co-Founder & original CEO (departed March 2024 to Microsoft)
   background: Co-founder of DeepMind; formerly VP of AI at Google
+  origin: British (Syrian-Egyptian heritage)
 - name: Karén Simonyan
   role: Co-Founder & original Chief Scientist (departed March 2024 to Microsoft)
   background: AI researcher; led development of AlphaZero at DeepMind
+  origin: Armenian-British
 - name: Reid Hoffman
   role: Co-Founder & investor
   background: Co-founder of LinkedIn; General Partner at Greylock Partners
+  origin: American
 sector: Artificial Intelligence / Enterprise AI
 tags:
 - generative-ai

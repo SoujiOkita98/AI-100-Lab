@@ -8,22 +8,29 @@ stage: Series A
 latest_valuation: ~$150M (October 2025)
 total_funding: ~$18M
 founders:
-  - name: Serena Ge
-    role: Co-Founder
-    education: University of Waterloo (CS)
-    background: Former ML engineer intern at Cohere
-  - name: Charley Lee
-    role: Co-Founder
-    education: University of Waterloo (CS)
-    background: Former intern at Google; AI research on multi-modal RL and browser-use agents
+- name: Serena Ge
+  role: Co-Founder
+  education: University of Waterloo (CS)
+  background: Former ML engineer intern at Cohere
+  origin: Chinese-American
+- name: Charley Lee
+  role: Co-Founder
+  education: University of Waterloo (CS)
+  background: Former intern at Google; AI research on multi-modal RL and browser-use agents
+  origin: Chinese-American or Korean-American
 notable_investors:
-  - Chemistry VC (Series A lead)
-  - Y Combinator
-  - Afore Capital
-  - Homebrew
-  - Balaji Srinivasan (Seed investor, former Coinbase CTO)
+- Chemistry VC (Series A lead)
+- Y Combinator
+- Afore Capital
+- Homebrew
+- Balaji Srinivasan (Seed investor, former Coinbase CTO)
 key_customers: []
-tags: [ai-training-data, coding-data, llm-training, data-labeling, yc-w24]
+tags:
+- ai-training-data
+- coding-data
+- llm-training
+- data-labeling
+- yc-w24
 yc_batch: W24
 last_updated: 2026-03-20
 ---

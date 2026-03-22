@@ -14,12 +14,15 @@ founders:
 - name: Adam Guthrie
   role: Founder / Chief Technical Architect
   background: Cambridge-based AI researcher
+  origin: British
 - name: Dr. Graham Sills
   role: Founder / Director of AI
   background: Cambridge-based AI researcher
+  origin: British
 - name: Dr. Mike Lynch (deceased)
   role: Original seed investor and early backer
   background: Founder of Autonomy (acquired by HP for $11B); died in yacht accident in August 2024
+  origin: British
 key_investors:
 - Point72 Private Investments (Steve Cohen) -- lead, Series C
 - Forestay Capital

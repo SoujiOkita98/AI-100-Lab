@@ -5,88 +5,91 @@ founded: 2022-04
 headquarters: New York, NY (with offices in London and Warsaw)
 website: https://elevenlabs.io
 founders:
-  - name: Mati Staniszewski
-    role: CEO
-    background: "Ex-Palantir deployment strategist; studied mathematics at Imperial College London; grew up in Warsaw, Poland"
-  - name: Piotr Dabkowski
-    role: CTO
-    background: "Ex-Google machine learning engineer; degrees from Oxford and Cambridge (AI/ML focus); NeurIPS-published researcher (image detection); grew up in Warsaw, Poland"
+- name: Mati Staniszewski
+  role: CEO
+  background: Ex-Palantir deployment strategist; studied mathematics at Imperial College London; grew up in Warsaw, Poland
+  origin: Polish
+- name: Piotr Dabkowski
+  role: CTO
+  background: Ex-Google machine learning engineer; degrees from Oxford and Cambridge (AI/ML focus); NeurIPS-published researcher
+    (image detection); grew up in Warsaw, Poland
+  origin: Polish
 employee_count: ~736 (as of Feb 2026)
 latest_valuation: $11B (Feb 2026)
 total_funding: ~$791M
-ipo_status: "Aiming to be IPO-ready within 2-3 years (per Bloomberg, March 2026)"
+ipo_status: Aiming to be IPO-ready within 2-3 years (per Bloomberg, March 2026)
 funding_rounds:
-  - stage: Pre-Seed
-    date: 2023-01
-    amount: $2M
-    valuation: Undisclosed
-    lead_investors:
-      - Credo Ventures
-    other_investors:
-      - Concept Ventures
-    source: https://tracxn.com/d/companies/elevenlabs/__Tvkv2vcQvT5RiO80KqXicawZyFtA-r7-J533YWuiDrM/funding-and-investors
-  - stage: Series A
-    date: 2023-06
-    amount: $19M
-    valuation: ~$100M
-    lead_investors:
-      - Andreessen Horowitz
-      - Nat Friedman
-      - Daniel Gross
-    other_investors:
-      - Credo Ventures
-      - Concept Ventures
-      - Mike Krieger (Instagram co-founder)
-      - Brendan Iribe (Oculus co-founder)
-      - Mustafa Suleyman (DeepMind/Inflection co-founder)
-      - Tim O'Reilly
-    source: https://elevenlabs.io/blog/elevenlabs-launches-new-generative-voice-ai-products-and-announces-19m-series-a-round-led-by-nat-friedman-daniel-gross-and-andreessen-horowitz
-  - stage: Series B
-    date: 2024-01
-    amount: $80M
-    valuation: $1.1B
-    lead_investors:
-      - Andreessen Horowitz
-      - Nat Friedman
-      - Daniel Gross
-      - Sequoia Capital
-    other_investors:
-      - Smash Capital
-      - SV Angel
-      - BroadLight Capital
-      - Credo Ventures
-    source: https://techcrunch.com/2024/01/22/voice-cloning-startup-elevenlabs-lands-80m-achieves-unicorn-status/
-  - stage: Series C
-    date: 2025-01
-    amount: $180M
-    valuation: $3.3B
-    lead_investors:
-      - Andreessen Horowitz
-      - ICONIQ Growth
-    other_investors:
-      - NEA
-      - World Innovation Lab (WiL)
-      - Valor
-      - Deutsche Telekom
-      - LG Technology Ventures
-      - HubSpot Ventures
-      - NTT DOCOMO Ventures
-      - RingCentral Ventures
-    source: https://elevenlabs.io/blog/series-c
-  - stage: Series D
-    date: 2026-02
-    amount: $500M
-    valuation: $11B
-    lead_investors:
-      - Sequoia Capital
-    other_investors:
-      - Andreessen Horowitz
-      - ICONIQ Growth
-      - Lightspeed Venture Partners
-      - Evantic Capital
-      - Bond
-      - NVIDIA (strategic backer)
-    source: https://techcrunch.com/2026/02/04/elevenlabs-raises-500m-from-sequioia-at-a-11-billion-valuation/
+- stage: Pre-Seed
+  date: 2023-01
+  amount: $2M
+  valuation: Undisclosed
+  lead_investors:
+  - Credo Ventures
+  other_investors:
+  - Concept Ventures
+  source: https://tracxn.com/d/companies/elevenlabs/__Tvkv2vcQvT5RiO80KqXicawZyFtA-r7-J533YWuiDrM/funding-and-investors
+- stage: Series A
+  date: 2023-06
+  amount: $19M
+  valuation: ~$100M
+  lead_investors:
+  - Andreessen Horowitz
+  - Nat Friedman
+  - Daniel Gross
+  other_investors:
+  - Credo Ventures
+  - Concept Ventures
+  - Mike Krieger (Instagram co-founder)
+  - Brendan Iribe (Oculus co-founder)
+  - Mustafa Suleyman (DeepMind/Inflection co-founder)
+  - Tim O'Reilly
+  source: https://elevenlabs.io/blog/elevenlabs-launches-new-generative-voice-ai-products-and-announces-19m-series-a-round-led-by-nat-friedman-daniel-gross-and-andreessen-horowitz
+- stage: Series B
+  date: 2024-01
+  amount: $80M
+  valuation: $1.1B
+  lead_investors:
+  - Andreessen Horowitz
+  - Nat Friedman
+  - Daniel Gross
+  - Sequoia Capital
+  other_investors:
+  - Smash Capital
+  - SV Angel
+  - BroadLight Capital
+  - Credo Ventures
+  source: https://techcrunch.com/2024/01/22/voice-cloning-startup-elevenlabs-lands-80m-achieves-unicorn-status/
+- stage: Series C
+  date: 2025-01
+  amount: $180M
+  valuation: $3.3B
+  lead_investors:
+  - Andreessen Horowitz
+  - ICONIQ Growth
+  other_investors:
+  - NEA
+  - World Innovation Lab (WiL)
+  - Valor
+  - Deutsche Telekom
+  - LG Technology Ventures
+  - HubSpot Ventures
+  - NTT DOCOMO Ventures
+  - RingCentral Ventures
+  source: https://elevenlabs.io/blog/series-c
+- stage: Series D
+  date: 2026-02
+  amount: $500M
+  valuation: $11B
+  lead_investors:
+  - Sequoia Capital
+  other_investors:
+  - Andreessen Horowitz
+  - ICONIQ Growth
+  - Lightspeed Venture Partners
+  - Evantic Capital
+  - Bond
+  - NVIDIA (strategic backer)
+  source: https://techcrunch.com/2026/02/04/elevenlabs-raises-500m-from-sequioia-at-a-11-billion-valuation/
 ---
 
 # ElevenLabs

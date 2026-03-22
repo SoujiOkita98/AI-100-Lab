@@ -8,23 +8,31 @@ stage: Seed
 latest_valuation: Undisclosed
 total_funding: ~$17M
 founders:
-  - name: Magnus Muller
-    role: Co-Founder
-    education: ETH Zurich
-  - name: Gregor Zunic
-    role: Co-Founder
-    education: ETH Zurich
+- name: Magnus Muller
+  role: Co-Founder
+  education: ETH Zurich
+  origin: German or Swiss
+- name: Gregor Zunic
+  role: Co-Founder
+  education: ETH Zurich
+  origin: Slovenian or Croatian
 notable_investors:
-  - Felicis Ventures (Seed lead)
-  - Paul Graham
-  - A Capital
-  - Nexus Venture Partners
-  - Y Combinator
-  - Liquid2 Ventures
-  - SV Angel
-  - Pioneer Fund
+- Felicis Ventures (Seed lead)
+- Paul Graham
+- A Capital
+- Nexus Venture Partners
+- Y Combinator
+- Liquid2 Ventures
+- SV Angel
+- Pioneer Fund
 key_customers: []
-tags: [ai-agents, open-source, web-automation, browser-automation, agentic-ai, yc-w25]
+tags:
+- ai-agents
+- open-source
+- web-automation
+- browser-automation
+- agentic-ai
+- yc-w25
 yc_batch: W25
 last_updated: 2026-03-20
 ---

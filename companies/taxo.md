@@ -8,19 +8,25 @@ stage: Seed
 latest_valuation: Undisclosed
 total_funding: ~$5M
 founders:
-  - name: Dr. Ahmed Kerwan
-    role: CEO
-    education: Harvard (affiliated); medical background
+- name: Dr. Ahmed Kerwan
+  role: CEO
+  education: Harvard (affiliated); medical background
+  origin: Arab/Egyptian
 notable_investors:
-  - Y Combinator
-  - General Catalyst
-  - Character
-  - Kulveer Taggar (founder of Zeus Living)
-  - Yahya Mokhtarzada (founder of Rocket Money)
+- Y Combinator
+- General Catalyst
+- Character
+- Kulveer Taggar (founder of Zeus Living)
+- Yahya Mokhtarzada (founder of Rocket Money)
 key_customers:
-  - Harvard teaching hospitals (pilot)
-  - Stanford teaching hospitals (pilot)
-tags: [healthcare-ai, claims-processing, medical-billing, reasoning-engine, yc-s24]
+- Harvard teaching hospitals (pilot)
+- Stanford teaching hospitals (pilot)
+tags:
+- healthcare-ai
+- claims-processing
+- medical-billing
+- reasoning-engine
+- yc-s24
 yc_batch: S24
 last_updated: 2026-03-20
 ---

@@ -8,6 +8,7 @@ headquarters: New York, NY
 founders:
 - name: George Sivulka
   role: Founder & CEO
+  origin: American
 latest_valuation: ~$700M (Series B, July 2024)
 total_funding_raised: ~$161M
 arr_estimate: ~$25M (Sep 2025 estimate; see notes below)

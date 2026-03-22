@@ -4,57 +4,55 @@ founded: 2018
 incorporated_country: Israel
 hq: Yokneam Illit, Israel (relocating to Caesarea)
 sector: Surgical Robotics / Medical AI
-employee_count_approx: ~110  # as of mid-2025
+employee_count_approx: ~110
 status: Private
 website: https://www.forsightrobotics.com
 last_updated: 2026-03-20
-
 founders:
-  - name: Prof. Moshe Shoham
-    role: Co-founder
-    background: >
-      Professor at the Technion - Israel Institute of Technology. Pioneer
-      in medical robotics, previously co-founded Mazor Robotics (acquired
-      by Medtronic for $1.64B in 2018). One of the most accomplished
-      surgical robotics entrepreneurs globally.
-  - name: Dr. Daniel Glozman
-    role: Co-founder & CEO
-    background: >
-      Medical robotics expert with deep experience in surgical systems
-      development. Leads ForSight's commercialization and clinical trial
-      strategy.
-  - name: Dr. Joseph Nathan
-    role: Co-founder
+- name: Prof. Moshe Shoham
+  role: Co-founder
+  background: 'Professor at the Technion - Israel Institute of Technology. Pioneer in medical robotics, previously co-founded
+    Mazor Robotics (acquired by Medtronic for $1.64B in 2018). One of the most accomplished surgical robotics entrepreneurs
+    globally.
 
+    '
+  origin: Israeli
+- name: Dr. Daniel Glozman
+  role: Co-founder & CEO
+  background: 'Medical robotics expert with deep experience in surgical systems development. Leads ForSight''s commercialization
+    and clinical trial strategy.
+
+    '
+  origin: Israeli
+- name: Dr. Joseph Nathan
+  role: Co-founder
+  origin: Israeli
 funding_rounds:
-  - stage: Series A
-    date: ~2022
-    amount: $70M (estimated total pre-Series B)
-    valuation: Unknown
-    lead_investors: []
-    other_investors: []
-    source: https://www.crunchbase.com/organization/forsight-robotics
-    notes: >
-      Early rounds to develop the ORYOM ophthalmic surgical robotics
-      platform.
+- stage: Series A
+  date: ~2022
+  amount: $70M (estimated total pre-Series B)
+  valuation: Unknown
+  lead_investors: []
+  other_investors: []
+  source: https://www.crunchbase.com/organization/forsight-robotics
+  notes: 'Early rounds to develop the ORYOM ophthalmic surgical robotics platform.
 
-  - stage: Series B
-    date: 2025-06-24
-    amount: $125M
-    valuation: Unknown
-    lead_investors:
-      - Eclipse
-    other_investors:
-      - Dr. Fred Moll (surgical robotics pioneer)
-      - Adani Group
-      - Reiya Ventures
-    source: https://www.businesswire.com/news/home/20250624465565/en/ForSight-Robotics-Secures-$125M-in-Series-B-Funding-Addressing-Global-Surgeon-Shortage-and-Exploding-Demand-for-Ophthalmic-Surgery
-    notes: >
-      Brought total funding to $195M. Dr. Fred Moll, founder of Intuitive
-      Surgical (maker of the da Vinci system), is a notable individual
-      investor -- a strong endorsement from the godfather of surgical
-      robotics.
+    '
+- stage: Series B
+  date: 2025-06-24
+  amount: $125M
+  valuation: Unknown
+  lead_investors:
+  - Eclipse
+  other_investors:
+  - Dr. Fred Moll (surgical robotics pioneer)
+  - Adani Group
+  - Reiya Ventures
+  source: https://www.businesswire.com/news/home/20250624465565/en/ForSight-Robotics-Secures-$125M-in-Series-B-Funding-Addressing-Global-Surgeon-Shortage-and-Exploding-Demand-for-Ophthalmic-Surgery
+  notes: 'Brought total funding to $195M. Dr. Fred Moll, founder of Intuitive Surgical (maker of the da Vinci system), is
+    a notable individual investor -- a strong endorsement from the godfather of surgical robotics.
 
+    '
 total_known_funding: ~$195M
 ---
 

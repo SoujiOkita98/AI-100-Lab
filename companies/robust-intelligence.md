@@ -9,28 +9,30 @@ sector: AI Security & Validation
 total_funding: ~$44M
 latest_round: Series B ($30M, December 2021)
 key_investors:
-  - Tiger Global Management (Series B lead)
-  - Sequoia Capital (Seed & Series A lead)
-  - Harpoon Ventures
-  - Engineering Capital
-  - In-Q-Tel (U.S. intelligence community VC)
-  - Cisco Investments
-  - Sherpalo Ventures
+- Tiger Global Management (Series B lead)
+- Sequoia Capital (Seed & Series A lead)
+- Harpoon Ventures
+- Engineering Capital
+- In-Q-Tel (U.S. intelligence community VC)
+- Cisco Investments
+- Sherpalo Ventures
 founders:
-  - name: Yaron Singer
-    role: CEO & Co-Founder
-    background: >
-      Tenured Professor of Computer Science & Applied Mathematics at Harvard
-      (Gordon McKay Professor). Israeli-born. PhD from UC Berkeley. Previously
-      researcher at Google AI and consulting researcher at Microsoft. Now VP of
-      AI & Engineering at Cisco Security / Foundation AI.
-  - name: Kojin Oshiba
-    role: Co-Founder
-    background: >
-      BA in Computer Science & Statistics from Harvard. Grew up in Japan.
-      Previously ML engineer at QuantCo; co-founded its Japan branch. Published
-      at ICML and NeurIPS. Forbes 30 Under 30 in Enterprise Technology (2024).
-      Now leads AI organization at Cisco post-acquisition.
+- name: Yaron Singer
+  role: CEO & Co-Founder
+  background: 'Tenured Professor of Computer Science & Applied Mathematics at Harvard (Gordon McKay Professor). Israeli-born.
+    PhD from UC Berkeley. Previously researcher at Google AI and consulting researcher at Microsoft. Now VP of AI & Engineering
+    at Cisco Security / Foundation AI.
+
+    '
+  origin: Israeli-American
+- name: Kojin Oshiba
+  role: Co-Founder
+  background: 'BA in Computer Science & Statistics from Harvard. Grew up in Japan. Previously ML engineer at QuantCo; co-founded
+    its Japan branch. Published at ICML and NeurIPS. Forbes 30 Under 30 in Enterprise Technology (2024). Now leads AI organization
+    at Cisco post-acquisition.
+
+    '
+  origin: Japanese-American
 employees_at_acquisition: ~70
 revenue_at_acquisition: ~$10M (reported)
 profile_updated: 2026-03-20

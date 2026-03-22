@@ -14,6 +14,7 @@ founders:
 - name: Daniel Nadler
   role: CEO / Founder
   background: Serial entrepreneur; previously founded Kensho (acquired by S&P Global for $550M)
+  origin: American
 key_investors:
 - Sequoia Capital
 - Thrive Capital

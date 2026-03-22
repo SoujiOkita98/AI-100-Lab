@@ -15,18 +15,23 @@ founders:
 - name: Charles Kantor
   role: Co-founder
   ethnicity: French
+  origin: American
 - name: Laurent Sifre
   role: Co-founder
   ethnicity: French
+  origin: French
 - name: Daan Wierstra
   role: Co-founder (departed Aug 2024)
   ethnicity: Dutch
+  origin: Dutch
 - name: Karl Tuyls
   role: Co-founder (departed Aug 2024)
   ethnicity: Belgian/Dutch
+  origin: Belgian
 - name: Julien Perolat
   role: Co-founder (departed Aug 2024)
   ethnicity: French
+  origin: French
 key_investors:
 - Accel
 - Eric Schmidt

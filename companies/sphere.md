@@ -6,10 +6,12 @@ sector: AI for Tax Compliance
 founded: 2023
 headquarters: San Francisco, CA
 founders:
-  - name: Nicholas Rudder
-    role: Co-Founder & CEO
-  - name: Adrian Sarstedt
-    role: Co-Founder
+- name: Nicholas Rudder
+  role: Co-Founder & CEO
+  origin: American
+- name: Adrian Sarstedt
+  role: Co-Founder
+  origin: German
 latest_valuation: Undisclosed
 total_funding_raised: ~$24M (estimated seed + Series A)
 arr_estimate: Undisclosed

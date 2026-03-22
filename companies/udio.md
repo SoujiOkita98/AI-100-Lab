@@ -9,38 +9,44 @@ stage: Seed (transitioning to licensed platform model in 2026)
 total_funding_disclosed: ~$10M seed (some sources cite an earlier $8.5M tranche within the same round)
 lead_investor: Andreessen Horowitz (a16z)
 key_investors:
-  - Andreessen Horowitz (a16z)
-  - UnitedMasters
-  - Mike Krieger (Instagram co-founder)
-  - Oriol Vinyals (Google DeepMind)
-  - will.i.am
-  - Common
-  - Tay Keith
-  - Kevin Wall
+- Andreessen Horowitz (a16z)
+- UnitedMasters
+- Mike Krieger (Instagram co-founder)
+- Oriol Vinyals (Google DeepMind)
+- will.i.am
+- Common
+- Tay Keith
+- Kevin Wall
 founders:
-  - name: David Ding
-    role: CEO & Co-Founder
-    background: Former Google DeepMind (led ~30-person research team)
-  - name: Conor Durkan
-    role: Co-Founder
-    background: Former Google DeepMind researcher
-  - name: Charlie Nash
-    role: Co-Founder
-    background: Former Google DeepMind researcher
-  - name: Yaroslav Ganin
-    role: Co-Founder
-    background: Former Google DeepMind researcher
-  - name: Andrew Sanchez
-    role: Co-Founder
-    background: Uncharted Labs co-founder (exact prior role unconfirmed)
+- name: David Ding
+  role: CEO & Co-Founder
+  background: Former Google DeepMind (led ~30-person research team)
+  origin: Chinese-British
+- name: Conor Durkan
+  role: Co-Founder
+  background: Former Google DeepMind researcher
+  origin: British
+- name: Charlie Nash
+  role: Co-Founder
+  background: Former Google DeepMind researcher
+  origin: British
+- name: Yaroslav Ganin
+  role: Co-Founder
+  background: Former Google DeepMind researcher
+  origin: Russian-Canadian
+- name: Andrew Sanchez
+  role: Co-Founder
+  background: Uncharted Labs co-founder (exact prior role unconfirmed)
+  origin: American
 status: Active; pivoting to fully-licensed platform launching Q2 2026
 competitors:
-  - Suno
-  - Google Lyria / MusicFX
-  - Stability Audio
-  - Beatoven.ai
+- Suno
+- Google Lyria / MusicFX
+- Stability Audio
+- Beatoven.ai
 last_updated: 2026-03-20
-confidence: high (funding figures and founder names widely corroborated; some details like exact valuation and Series A timing are uncertain)
+confidence: high (funding figures and founder names widely corroborated; some details like exact valuation and Series A timing
+  are uncertain)
 ---
 
 # Udio -- AI Music Generation

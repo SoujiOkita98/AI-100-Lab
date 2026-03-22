@@ -23,9 +23,11 @@ founders:
 - name: Sha Rabii
   role: President
   background: Led Google silicon team, then Meta FAST.
+  origin: Iranian-American
 - name: Masumi Reynders
   role: COO
   background: Ex-Google, Meta FAST teams.
+  origin: Japanese-American
 ---
 
 # Majestic Labs

@@ -8,8 +8,10 @@ headquarters: San Francisco, CA
 founders:
 - name: Eric Simons
   role: CEO & Co-Founder
+  origin: American
 - name: Albert Pai
   role: CTO & Co-Founder
+  origin: Chinese-American
 stage: Series B
 total_funding_raised: ~$135M
 latest_valuation: ~$700M (January 2025)

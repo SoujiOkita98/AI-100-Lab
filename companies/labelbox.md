@@ -10,12 +10,15 @@ founders:
   role: CEO & Co-founder
   background: Aerospace engineer (Embry-Riddle, Stanford); former engineer at Planet Labs and DroneDeploy; born in Roorkee,
     India
+  origin: Indian-American
 - name: Brian Rieger
   role: President & Co-founder
   background: Former Boeing 787 aerodynamicist; Forbes 30 Under 30; built aerospace hardware for the ISS
+  origin: American
 - name: Dan Rasmuson
   role: Co-founder
   background: Software developer; early work in medical diagnostic imaging tools
+  origin: American
 total_funding: ~$189M
 latest_round: Series D ($110M, Jan 2022)
 latest_valuation: ~$1B (estimated at Series D)

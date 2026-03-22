@@ -11,10 +11,12 @@ founders:
   role: Co-founder & CEO
   background: MIT (MEng CS, BS EECS, minor in Math); former Tech Lead Manager at Nuro (autonomous vehicles, 2018-2021)
   current: Google DeepMind (as of July 2025)
+  origin: Indian-American
 - name: Douglas Chen
   role: Co-founder
   background: MIT graduate; former engineer at Meta (Oculus Quest VR tooling)
   current: Google DeepMind (as of July 2025)
+  origin: Chinese-American
 sector: AI Developer Tools / AI Code Editor
 total_funding: ~$243M
 last_valuation: $1.25B (Series C, August 2024)

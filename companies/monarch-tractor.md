@@ -4,76 +4,77 @@ founded: 2017
 incorporated_country: USA
 hq: Livermore, California, USA
 sector: Agricultural Robotics / Autonomous Vehicles
-employee_count_approx: ~200  # estimated as of early 2026
+employee_count_approx: ~200
 status: Private
 website: https://www.monarchtractor.com
 last_updated: 2026-03-20
-
 founders:
-  - name: Praveen Penmetsa
-    role: Co-founder & CEO
-    background: >
-      Autonomy and mobility engineer. Has led Monarch from founding
-      through to commercial production and global deployment of
-      autonomous electric tractors.
-  - name: Mark Schwager
-    role: Co-founder & President
-    background: >
-      Former Tesla Gigafactory chief. Brings manufacturing scale-up
-      expertise from Tesla's battery and vehicle production operations.
-  - name: Zachary Omohundro
-    role: Co-founder & CTO
-    background: >
-      Robotics PhD from Carnegie Mellon University. Leads Monarch's
-      autonomous driving and AI technology development.
-  - name: Carlo Mondavi
-    role: Co-founder & Chief Farming Officer
-    background: >
-      Member of the Napa Valley Mondavi winery family. Sustainability-
-      focused vintner who provides real-world agricultural expertise and
-      was an early testing partner for autonomous tractors in vineyards.
+- name: Praveen Penmetsa
+  role: Co-founder & CEO
+  background: 'Autonomy and mobility engineer. Has led Monarch from founding through to commercial production and global deployment
+    of autonomous electric tractors.
 
+    '
+  origin: Indian-American
+- name: Mark Schwager
+  role: Co-founder & President
+  background: 'Former Tesla Gigafactory chief. Brings manufacturing scale-up expertise from Tesla''s battery and vehicle production
+    operations.
+
+    '
+  origin: American
+- name: Zachary Omohundro
+  role: Co-founder & CTO
+  background: 'Robotics PhD from Carnegie Mellon University. Leads Monarch''s autonomous driving and AI technology development.
+
+    '
+  origin: American
+- name: Carlo Mondavi
+  role: Co-founder & Chief Farming Officer
+  background: 'Member of the Napa Valley Mondavi winery family. Sustainability- focused vintner who provides real-world agricultural
+    expertise and was an early testing partner for autonomous tractors in vineyards.
+
+    '
+  origin: Italian-American
 funding_rounds:
-  - stage: Series A
-    date: ~2020
-    amount: $20M
-    valuation: Unknown
-    lead_investors: []
-    other_investors: []
-    source: https://www.crunchbase.com/organization/monarch-tractors
-    notes: >
-      Early round to develop prototype autonomous electric tractor.
+- stage: Series A
+  date: ~2020
+  amount: $20M
+  valuation: Unknown
+  lead_investors: []
+  other_investors: []
+  source: https://www.crunchbase.com/organization/monarch-tractors
+  notes: 'Early round to develop prototype autonomous electric tractor.
 
-  - stage: Series B
-    date: 2022-01
-    amount: $61M
-    valuation: Unknown
-    lead_investors: []
-    other_investors:
-      - CNH Industrial
-    source: https://aibusiness.com/verticals/autonomous-smart-tractor-firm-monarch-secures-61m-in-funding
-    notes: >
-      Strategic investment from CNH Industrial (Case IH, New Holland)
-      validated the platform and provided agricultural distribution
-      channels.
+    '
+- stage: Series B
+  date: 2022-01
+  amount: $61M
+  valuation: Unknown
+  lead_investors: []
+  other_investors:
+  - CNH Industrial
+  source: https://aibusiness.com/verticals/autonomous-smart-tractor-firm-monarch-secures-61m-in-funding
+  notes: 'Strategic investment from CNH Industrial (Case IH, New Holland) validated the platform and provided agricultural
+    distribution channels.
 
-  - stage: Series C
-    date: 2024
-    amount: $133M
-    valuation: Unknown
-    lead_investors:
-      - Astanor Ventures
-      - Foxconn Co-GP Fund
-    other_investors:
-      - At One Ventures
-      - PMV
-      - The Welvaartsfonds
-    source: https://globalaginvesting.com/ai-powered-autonomous-tractor-maker-monarch-tractor-secures-133m-in-latest-round/
-    notes: >
-      Largest agricultural robotics funding round at the time. Brought
-      total raised to over $200M. Foxconn involvement signals potential
-      manufacturing scale-up partnership.
+    '
+- stage: Series C
+  date: 2024
+  amount: $133M
+  valuation: Unknown
+  lead_investors:
+  - Astanor Ventures
+  - Foxconn Co-GP Fund
+  other_investors:
+  - At One Ventures
+  - PMV
+  - The Welvaartsfonds
+  source: https://globalaginvesting.com/ai-powered-autonomous-tractor-maker-monarch-tractor-secures-133m-in-latest-round/
+  notes: 'Largest agricultural robotics funding round at the time. Brought total raised to over $200M. Foxconn involvement
+    signals potential manufacturing scale-up partnership.
 
+    '
 total_known_funding: ~$200M+
 ---
 

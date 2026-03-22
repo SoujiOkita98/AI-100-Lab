@@ -8,24 +8,31 @@ stage: Series B
 latest_valuation: ~$500M (October 2025)
 total_funding: ~$80M
 founders:
-  - name: Tomer Cohen
-    role: CEO
-    background: Former Scale AI employee
-  - name: Ben Wiley
-    role: CTO
-    background: Former Scale AI employee
+- name: Tomer Cohen
+  role: CEO
+  background: Former Scale AI employee
+  origin: Israeli
+- name: Ben Wiley
+  role: CTO
+  background: Former Scale AI employee
+  origin: American
 notable_investors:
-  - First Round Capital (Seed lead)
-  - Alt Capital (Series A co-lead)
-  - Amplify Partners (Series A co-lead)
-  - Meritech Capital (Series B lead)
-  - NVIDIA
-  - Y Combinator
-  - BoxGroup
-  - SV Angel
-  - Liquid2 Ventures
+- First Round Capital (Seed lead)
+- Alt Capital (Series A co-lead)
+- Amplify Partners (Series A co-lead)
+- Meritech Capital (Series B lead)
+- NVIDIA
+- Y Combinator
+- BoxGroup
+- SV Angel
+- Liquid2 Ventures
 key_customers: []
-tags: [audio-data, speech-ai, data-infrastructure, conversational-ai, yc-s24]
+tags:
+- audio-data
+- speech-ai
+- data-infrastructure
+- conversational-ai
+- yc-s24
 yc_batch: S24
 last_updated: 2026-03-20
 ---

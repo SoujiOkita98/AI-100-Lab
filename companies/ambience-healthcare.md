@@ -13,8 +13,10 @@ status: Active, Private
 founders:
 - name: Mike Ng
   role: Co-Founder / CEO
+  origin: Chinese-American
 - name: Nikhil Buduma
   role: Co-Founder / CTO
+  origin: Indian-American
 key_investors:
 - Oak HC/FT (co-lead, Series C)
 - Andreessen Horowitz (a16z) (co-lead, Series C)

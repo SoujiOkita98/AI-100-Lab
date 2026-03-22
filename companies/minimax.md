@@ -1,21 +1,25 @@
 ---
 name: MiniMax (MiniMax Group Inc.)
-ticker: "SEHK: 100"
+ticker: 'SEHK: 100'
 founded: 2021-12
 headquarters: Shanghai, China
 founders:
-  - name: Yan Junjie (闫俊杰)
-    role: CEO & Chairman
-    background: "Former VP & Deputy Head of Research at SenseTime; PhD from Chinese Academy of Sciences; postdoc at Tsinghua University"
-  - name: Zhou Yucong
-    role: Executive Director, Visual Model Research & Engineering Lead
-    background: "Former SenseTime (2018-2019); former Huawei (2019-2022), focused on algorithms"
-  - name: Yang Bin
-    role: Co-founder (listed as former co-founder in some sources)
-    background: "Veteran of China's AI scene"
-  - name: Yun Yeyi
-    role: COO
-    background: "Former SenseTime employee"
+- name: Yan Junjie (闫俊杰)
+  role: CEO & Chairman
+  background: Former VP & Deputy Head of Research at SenseTime; PhD from Chinese Academy of Sciences; postdoc at Tsinghua
+    University
+- name: Zhou Yucong
+  role: Executive Director, Visual Model Research & Engineering Lead
+  background: Former SenseTime (2018-2019); former Huawei (2019-2022), focused on algorithms
+  origin: Chinese
+- name: Yang Bin
+  role: Co-founder (listed as former co-founder in some sources)
+  background: Veteran of China's AI scene
+  origin: Chinese
+- name: Yun Yeyi
+  role: COO
+  background: Former SenseTime employee
+  origin: Chinese
 sector: Artificial Intelligence — Foundation Models, Generative AI (Video, Text, Speech)
 status: Public (Hong Kong IPO, January 9, 2026)
 ipo_raised: ~$619M USD
@@ -23,13 +27,13 @@ market_cap_at_debut: ~$13.7B USD (after 109% first-day surge)
 latest_valuation: ~$13.7B+ USD (as of early 2026; stock has risen ~5x since IPO)
 total_funding_raised: ~$1.15B USD (pre-IPO) + $619M IPO
 tags:
-  - China Six AI Tigers
-  - generative AI
-  - video generation
-  - foundation models
-  - consumer AI
-  - AI companions
-  - multimodal AI
+- China Six AI Tigers
+- generative AI
+- video generation
+- foundation models
+- consumer AI
+- AI companions
+- multimodal AI
 last_updated: 2026-03-20
 ---
 

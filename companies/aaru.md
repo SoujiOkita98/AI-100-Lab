@@ -7,28 +7,31 @@ hq: New York, NY
 sector: AI / Synthetic Research / Market Research
 stage: Series A
 latest_valuation_headline: $1B
-latest_valuation_blended: "<$1B (multi-tier structure; most investors paid at ~$450M)"
-total_raised_est: ">$50M (Series A); undisclosed seed/pre-seed"
+latest_valuation_blended: <$1B (multi-tier structure; most investors paid at ~$450M)
+total_raised_est: '>$50M (Series A); undisclosed seed/pre-seed'
 lead_investors:
-  - Redpoint Ventures (Series A lead)
+- Redpoint Ventures (Series A lead)
 other_investors:
-  - A*
-  - Abstract Ventures
-  - Felicis
-  - General Catalyst
-  - Accenture Ventures
-  - Z Fellows
+- A*
+- Abstract Ventures
+- Felicis
+- General Catalyst
+- Accenture Ventures
+- Z Fellows
 founders:
-  - name: Cameron Fink
-    role: Co-founder & CEO
-    age_approx: 20 (as of early 2026)
-  - name: Ned Koh
-    role: Co-founder & President
-    age_approx: 20 (as of early 2026)
-  - name: John Kessler
-    role: Co-founder & CTO
-    age_approx: 16 (as of early 2026)
-arr_est: "<$10M (as of late 2025)"
+- name: Cameron Fink
+  role: Co-founder & CEO
+  age_approx: 20 (as of early 2026)
+  origin: American
+- name: Ned Koh
+  role: Co-founder & President
+  age_approx: 20 (as of early 2026)
+  origin: American
+- name: John Kessler
+  role: Co-founder & CTO
+  age_approx: 16 (as of early 2026)
+  origin: American
+arr_est: <$10M (as of late 2025)
 status: active
 last_updated: 2026-03-20
 ---

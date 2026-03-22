@@ -3,7 +3,7 @@ company: Sanctuary AI
 legal_name: Sanctuary Cognitive Systems Corporation
 founded: 2018
 headquarters: Vancouver, British Columbia, Canada
-address: "201 - 1825 Quebec Street, Vancouver, BC"
+address: 201 - 1825 Quebec Street, Vancouver, BC
 website: https://www.sanctuary.ai
 sector: AI / Robotics
 sub_sector: Humanoid General-Purpose Robots
@@ -12,45 +12,81 @@ ai_platform: Carbon (cognitive architecture)
 employees_approx: 138
 status: Private, Pre-IPO
 founders:
-  - name: Geordie Rose
-    role: Co-Founder & former CEO (departed Nov 2024)
-    background: "PhD Theoretical Physics (UBC); founded D-Wave Systems (world's first quantum computing company); CEO of Kindred Systems (first RL-based production robotics company)"
-  - name: Suzanne Gildert
-    role: Co-Founder & former CTO (departed Apr 2024)
-    background: "Pioneered Sanctuary's AI-robotics approach; left to pursue stealth AI project"
-  - name: Ajay Agrawal
-    role: Co-Founder
-    background: "Professor at University of Toronto Rotman School of Management; AI economics researcher"
-  - name: Olivia Norton
-    role: Co-Founder & CPTO
-    background: "Chief Product & Technology Officer"
+- name: Geordie Rose
+  role: Co-Founder & former CEO (departed Nov 2024)
+  background: PhD Theoretical Physics (UBC); founded D-Wave Systems (world's first quantum computing company); CEO of Kindred
+    Systems (first RL-based production robotics company)
+  origin: Canadian
+- name: Suzanne Gildert
+  role: Co-Founder & former CTO (departed Apr 2024)
+  background: Pioneered Sanctuary's AI-robotics approach; left to pursue stealth AI project
+  origin: British-Canadian
+- name: Ajay Agrawal
+  role: Co-Founder
+  background: Professor at University of Toronto Rotman School of Management; AI economics researcher
+  origin: Indian-Canadian
+- name: Olivia Norton
+  role: Co-Founder & CPTO
+  background: Chief Product & Technology Officer
+  origin: American
 current_ceo: James Wells (Interim CEO since Nov 2024; formerly Chief Commercial Officer)
-funding_total_approx_usd: "~$140M raised through mid-2024; actively raising US$175M more as of early 2025"
+funding_total_approx_usd: ~$140M raised through mid-2024; actively raising US$175M more as of early 2025
 funding_rounds:
-  - round: Seed / Early Rounds
-    details: "Undisclosed early-stage funding post-2018 founding"
-  - round: Series A
-    date: 2022-03
-    amount_usd: "$58.5M (C$75.5M)"
-    lead_investors: ["Magna International"]
-    other_investors: ["Bell (BCE)", "Evok Innovations", "Export Development Canada", "SE Health", "Verizon Ventures", "Workday Ventures"]
-  - round: Series A Extension / Follow-on
-    date: 2024-07
-    details: "Additional funding from BDC Capital Thrive Venture Fund and InBC Investment Corp; brought cumulative total to ~$140M"
-  - round: Convertible Note
-    date: 2025-01
-    amount_usd: "$2.5M–$10M (convertible note offering to finance FY2025)"
-  - round: Series B-2 (in progress, unconfirmed closed)
-    date: 2025 (target close May 2025)
-    target_amount_usd: "$50M (minimum $30M)"
-    co_leads: ["New Enterprise Associates (NEA)", "Kleiner Perkins"]
-    notes: "Also selling ~$125M stake in Apptronik to total ~$175M in new capital"
-key_investors: ["Magna International", "Accenture Ventures", "BDC Capital", "InBC Investment", "BCE / Bell", "Verizon Ventures", "Workday Ventures", "Export Development Canada"]
-key_partners: ["Magna International", "Microsoft", "NVIDIA"]
-competitors: ["Figure AI", "Tesla Optimus", "Agility Robotics (Digit)", "1X Technologies", "Apptronik (Apollo)", "Boston Dynamics"]
-tags: [humanoid-robots, general-purpose-AI, embodied-AI, labor-automation, Canadian-AI]
+- round: Seed / Early Rounds
+  details: Undisclosed early-stage funding post-2018 founding
+- round: Series A
+  date: 2022-03
+  amount_usd: $58.5M (C$75.5M)
+  lead_investors:
+  - Magna International
+  other_investors:
+  - Bell (BCE)
+  - Evok Innovations
+  - Export Development Canada
+  - SE Health
+  - Verizon Ventures
+  - Workday Ventures
+- round: Series A Extension / Follow-on
+  date: 2024-07
+  details: Additional funding from BDC Capital Thrive Venture Fund and InBC Investment Corp; brought cumulative total to ~$140M
+- round: Convertible Note
+  date: 2025-01
+  amount_usd: $2.5M–$10M (convertible note offering to finance FY2025)
+- round: Series B-2 (in progress, unconfirmed closed)
+  date: 2025 (target close May 2025)
+  target_amount_usd: $50M (minimum $30M)
+  co_leads:
+  - New Enterprise Associates (NEA)
+  - Kleiner Perkins
+  notes: Also selling ~$125M stake in Apptronik to total ~$175M in new capital
+key_investors:
+- Magna International
+- Accenture Ventures
+- BDC Capital
+- InBC Investment
+- BCE / Bell
+- Verizon Ventures
+- Workday Ventures
+- Export Development Canada
+key_partners:
+- Magna International
+- Microsoft
+- NVIDIA
+competitors:
+- Figure AI
+- Tesla Optimus
+- Agility Robotics (Digit)
+- 1X Technologies
+- Apptronik (Apollo)
+- Boston Dynamics
+tags:
+- humanoid-robots
+- general-purpose-AI
+- embodied-AI
+- labor-automation
+- Canadian-AI
 last_updated: 2026-03-20
-confidence: "Moderate — leadership transition and fundraise status post-mid-2025 are uncertain"
+confidence: Moderate — leadership transition and fundraise status post-mid-2025 are uncertain
 ---
 
 # Sanctuary AI

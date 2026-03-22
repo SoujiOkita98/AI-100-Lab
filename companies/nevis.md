@@ -6,12 +6,15 @@ sector: AI for Wealth Management
 founded: 2024
 headquarters: New York, NY
 founders:
-  - name: Mark Swan
-    role: Co-Founder & CEO
-  - name: Philipp Burda
-    role: Co-Founder & CPO
-  - name: Ivan Chalov
-    role: Co-Founder & COO
+- name: Mark Swan
+  role: Co-Founder & CEO
+  origin: American
+- name: Philipp Burda
+  role: Co-Founder & CPO
+  origin: German
+- name: Ivan Chalov
+  role: Co-Founder & COO
+  origin: Russian
 latest_valuation: $200M
 total_funding_raised: $40M
 arr_estimate: Undisclosed

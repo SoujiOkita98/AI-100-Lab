@@ -11,22 +11,24 @@ latest_valuation: ~$500M (estimated, 2025)
 total_funding: ~$62M
 status: Active, Private
 founders:
-  - name: Pablo Palafox
-    role: Co-Founder / CEO
-    background: Spanish-born founder; Y Combinator S23
-  - name: Diego Palafox
-    role: Co-Founder
-    background: Spanish-born co-founder
+- name: Pablo Palafox
+  role: Co-Founder / CEO
+  background: Spanish-born founder; Y Combinator S23
+  origin: Spanish
+- name: Diego Palafox
+  role: Co-Founder
+  background: Spanish-born co-founder
+  origin: Spanish
 key_investors:
-  - Base10 Partners (lead, Series B)
-  - Andreessen Horowitz (a16z)
-  - Array Ventures
-  - Y Combinator
-  - Samsara Ventures
-  - Tokio Marine
-  - WaVe-X
-  - WiL
-  - Avra
+- Base10 Partners (lead, Series B)
+- Andreessen Horowitz (a16z)
+- Array Ventures
+- Y Combinator
+- Samsara Ventures
+- Tokio Marine
+- WaVe-X
+- WiL
+- Avra
 ---
 
 # HappyRobot

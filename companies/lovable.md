@@ -7,18 +7,25 @@ headquarters: Stockholm, Sweden
 website: https://lovable.dev
 sector: AI / Developer Tools / Vibe Coding
 founders:
-  - name: Anton Osika
-    role: Co-Founder & CEO
-    nationality: Swedish
-  - name: Fabian Hedin
-    role: Co-Founder & CTO
-    nationality: Swedish
+- name: Anton Osika
+  role: Co-Founder & CEO
+  nationality: Swedish
+  origin: Swedish
+- name: Fabian Hedin
+  role: Co-Founder & CTO
+  nationality: Swedish
+  origin: Swedish
 employees: ~146 (as of March 2026)
 latest_valuation: $6.6B (Series B, December 2025)
 total_funding: ~$567M across four rounds
 arr: $400M (as of February/March 2026)
 status: Private
-tags: [vibe-coding, ai-app-builder, no-code, full-stack, european-ai]
+tags:
+- vibe-coding
+- ai-app-builder
+- no-code
+- full-stack
+- european-ai
 last_updated: 2026-03-20
 ---
 

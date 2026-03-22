@@ -5,42 +5,47 @@ domain: AI Evaluation, Safety Testing & LLM Reliability
 founded: 2023
 headquarters: San Francisco, CA (registered address in Dublin, CA)
 founders:
-  - name: Anand Kannappan
-    role: Co-Founder & CEO
-    background: Former Head of Engineering & ML at Vertis; ML explainability lead at Meta Reality Labs; Data Scientist at Facebook; Co-Founder of Kyber Technologies; BS in Economics, Computer Science & Statistics from University of Chicago
-  - name: Rebecca Qian
-    role: Co-Founder & CTO
-    background: Former Facebook AI researcher; trained FairBERTa (fairness-focused LLM); built semantic parsing for robotic assistants at Meta; created Continuous Contrast Set Mining (adopted across Facebook infra, presented at ICSE); University of Chicago CS graduate
+- name: Anand Kannappan
+  role: Co-Founder & CEO
+  background: Former Head of Engineering & ML at Vertis; ML explainability lead at Meta Reality Labs; Data Scientist at Facebook;
+    Co-Founder of Kyber Technologies; BS in Economics, Computer Science & Statistics from University of Chicago
+  origin: Indian-American
+- name: Rebecca Qian
+  role: Co-Founder & CTO
+  background: Former Facebook AI researcher; trained FairBERTa (fairness-focused LLM); built semantic parsing for robotic
+    assistants at Meta; created Continuous Contrast Set Mining (adopted across Facebook infra, presented at ICSE); University
+    of Chicago CS graduate
+  origin: Chinese-American
 team_size: ~34 employees (estimated as of late 2025)
 total_funding: ~$40M
 funding_rounds:
-  - round: Seed
-    date: September 2023
-    amount: $3M
-    lead: Lightspeed Venture Partners
-    participants:
-      - Factorial Capital
-      - Amjad Masad (Replit CEO)
-      - Gokul Rajaram
-  - round: Series A
-    date: May 2024
-    amount: $17M
-    lead: Notable Capital
-    participants:
-      - Lightspeed Venture Partners
-      - Datadog
-      - Factorial Capital
-      - Gokul Rajaram
-  - round: Additional equity (SEC filing)
-    date: ~2024
-    amount: ~$20.5M
-    notes: SEC exempt offering filing; may represent Series A extension or follow-on round
+- round: Seed
+  date: September 2023
+  amount: $3M
+  lead: Lightspeed Venture Partners
+  participants:
+  - Factorial Capital
+  - Amjad Masad (Replit CEO)
+  - Gokul Rajaram
+- round: Series A
+  date: May 2024
+  amount: $17M
+  lead: Notable Capital
+  participants:
+  - Lightspeed Venture Partners
+  - Datadog
+  - Factorial Capital
+  - Gokul Rajaram
+- round: Additional equity (SEC filing)
+  date: ~2024
+  amount: ~$20.5M
+  notes: SEC exempt offering filing; may represent Series A extension or follow-on round
 latest_round: Series A (May 2024)
 key_investors:
-  - Lightspeed Venture Partners
-  - Notable Capital
-  - Datadog (strategic)
-  - Factorial Capital
+- Lightspeed Venture Partners
+- Notable Capital
+- Datadog (strategic)
+- Factorial Capital
 status: Private
 last_updated: 2026-03-20
 confidence: medium-high

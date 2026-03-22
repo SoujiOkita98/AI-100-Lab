@@ -4,53 +4,55 @@ founded: 2017
 incorporated_country: USA
 hq: Mountain View, California, USA
 sector: Warehouse Automation / Autonomous Drones
-employee_count_approx: ~50  # estimated as of early 2026
+employee_count_approx: ~50
 status: Private
 website: https://www.corvus-robotics.com
 last_updated: 2026-03-20
-
 founders:
-  - name: Jackie Wu
-    role: Co-founder & CEO
-    background: >
-      MIT alumnus. Leads Corvus from concept through Y Combinator
-      (S18 batch) to commercial deployment of autonomous warehouse
-      inventory drones.
-  - name: Mohammed Kabir
-    role: Co-founder
-    background: >
-      MIT alumnus. Brings deep technical expertise in autonomous
-      systems and computer vision.
-  - name: Jonathan Sandau
-    role: Co-founder
-  - name: Bryan Monti
-    role: Co-founder
+- name: Jackie Wu
+  role: Co-founder & CEO
+  background: 'MIT alumnus. Leads Corvus from concept through Y Combinator (S18 batch) to commercial deployment of autonomous
+    warehouse inventory drones.
 
+    '
+  origin: Chinese-American
+- name: Mohammed Kabir
+  role: Co-founder
+  background: 'MIT alumnus. Brings deep technical expertise in autonomous systems and computer vision.
+
+    '
+  origin: South Asian
+- name: Jonathan Sandau
+  role: Co-founder
+  origin: American
+- name: Bryan Monti
+  role: Co-founder
+  origin: American
 funding_rounds:
-  - stage: Seed
-    date: ~2018
-    amount: Undisclosed
-    valuation: Unknown
-    lead_investors: []
-    other_investors:
-      - Y Combinator
-    source: https://www.ycombinator.com/companies/corvus-robotics
-    notes: >
-      Graduated from Y Combinator S18 batch.
+- stage: Seed
+  date: ~2018
+  amount: Undisclosed
+  valuation: Unknown
+  lead_investors: []
+  other_investors:
+  - Y Combinator
+  source: https://www.ycombinator.com/companies/corvus-robotics
+  notes: 'Graduated from Y Combinator S18 batch.
 
-  - stage: Series A
-    date: 2024-09-16
-    amount: $18M
-    valuation: Unknown
-    lead_investors:
-      - Spero Ventures
-      - S2G Investments
-    other_investors: []
-    source: https://blog.corvus-robotics.com/corvus-one-launch-and-series-a-funding
-    notes: >
-      Coincided with the launch of Corvus One, the company's flagship
-      fully autonomous warehouse drone. Total funding reached ~$28M.
+    '
+- stage: Series A
+  date: 2024-09-16
+  amount: $18M
+  valuation: Unknown
+  lead_investors:
+  - Spero Ventures
+  - S2G Investments
+  other_investors: []
+  source: https://blog.corvus-robotics.com/corvus-one-launch-and-series-a-funding
+  notes: 'Coincided with the launch of Corvus One, the company''s flagship fully autonomous warehouse drone. Total funding
+    reached ~$28M.
 
+    '
 total_known_funding: ~$28M
 ---
 

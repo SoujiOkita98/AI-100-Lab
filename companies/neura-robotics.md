@@ -4,59 +4,60 @@ founded: 2019
 incorporated_country: Germany
 hq: Metzingen, Germany
 sector: Cognitive Robotics / Humanoid Robotics
-employee_count_approx: ~300  # estimated as of early 2026
+employee_count_approx: ~300
 status: Private
 website: https://neura-robotics.com
 last_updated: 2026-03-20
-
 founders:
-  - name: David Reger
-    role: Co-founder & CEO
-    background: >
-      German entrepreneur and robotics engineer. Previously founded other
-      technology ventures. Leads NEURA's vision for cognitive robots that
-      can perceive, learn, and interact naturally with humans.
-  - name: Mavarick H
-    role: Co-founder
-  - name: Sugeeth Gopinathan
-    role: Co-founder
-  - name: Milad Malekzadeh
-    role: Co-founder
+- name: David Reger
+  role: Co-founder & CEO
+  background: 'German entrepreneur and robotics engineer. Previously founded other technology ventures. Leads NEURA''s vision
+    for cognitive robots that can perceive, learn, and interact naturally with humans.
 
+    '
+  origin: German
+- name: Mavarick H
+  role: Co-founder
+  origin: Unknown
+- name: Sugeeth Gopinathan
+  role: Co-founder
+  origin: Indian
+- name: Milad Malekzadeh
+  role: Co-founder
+  origin: Iranian
 funding_rounds:
-  - stage: Series A
-    date: ~2023
-    amount: Undisclosed
-    valuation: Unknown
-    lead_investors: []
-    other_investors:
-      - HV Capital
-      - Vsquared Ventures
-    source: https://www.crunchbase.com/organization/neura-robotics
-    notes: >
-      Early institutional round to develop cognitive robotics platform.
+- stage: Series A
+  date: ~2023
+  amount: Undisclosed
+  valuation: Unknown
+  lead_investors: []
+  other_investors:
+  - HV Capital
+  - Vsquared Ventures
+  source: https://www.crunchbase.com/organization/neura-robotics
+  notes: 'Early institutional round to develop cognitive robotics platform.
 
-  - stage: Series B
-    date: 2025-01-15
-    amount: EUR 120M (~$130M USD)
-    valuation: Unknown
-    lead_investors:
-      - Lingotto Investment Management
-    other_investors:
-      - BlueCrest Capital Management
-      - Volvo Cars Tech Fund
-      - InterAlpen Partners
-      - Vsquared Ventures
-      - HV Capital
-      - Delta Electronics
-      - C4 Ventures
-      - L-Bank
-      - David Reger (founder)
-    source: https://neura-robotics.com/neura-robotics-secures-euro-120-million-series-b/
-    notes: >
-      Largest European cognitive robotics round. Capital used to scale
-      manufacturing and expand global go-to-market.
+    '
+- stage: Series B
+  date: 2025-01-15
+  amount: EUR 120M (~$130M USD)
+  valuation: Unknown
+  lead_investors:
+  - Lingotto Investment Management
+  other_investors:
+  - BlueCrest Capital Management
+  - Volvo Cars Tech Fund
+  - InterAlpen Partners
+  - Vsquared Ventures
+  - HV Capital
+  - Delta Electronics
+  - C4 Ventures
+  - L-Bank
+  - David Reger (founder)
+  source: https://neura-robotics.com/neura-robotics-secures-euro-120-million-series-b/
+  notes: 'Largest European cognitive robotics round. Capital used to scale manufacturing and expand global go-to-market.
 
+    '
 total_known_funding: ~$281M (per Tracxn as of early 2026)
 ---
 

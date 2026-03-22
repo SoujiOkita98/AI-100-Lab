@@ -7,42 +7,46 @@ product: Memo (autonomous household robot)
 founded: ~2024 (emerged from stealth November 2025)
 headquarters: California, USA (exact city unconfirmed; likely San Francisco Bay Area)
 founders:
-  - name: Tony Zhao
-    role: Co-founder & CEO
-    background: "Stanford CS PhD candidate (advisor: Chelsea Finn); BS in EECS from UC Berkeley (2021, worked with Sergey Levine and Dan Klein); Stanford Robotics Fellow 2022-23; creator of ALOHA and ACT (Action Chunking with Transformers)"
-  - name: Cheng Chi
-    role: Co-founder & CTO
-    background: "Columbia University PhD student (advisor: Shuran Song, later moved to Stanford); creator of Diffusion Policy and UMI (Universal Manipulation Interface); RSS 2024 Best Systems Paper Finalist for UMI"
+- name: Tony Zhao
+  role: Co-founder & CEO
+  background: 'Stanford CS PhD candidate (advisor: Chelsea Finn); BS in EECS from UC Berkeley (2021, worked with Sergey Levine
+    and Dan Klein); Stanford Robotics Fellow 2022-23; creator of ALOHA and ACT (Action Chunking with Transformers)'
+  origin: Chinese-American
+- name: Cheng Chi
+  role: Co-founder & CTO
+  background: 'Columbia University PhD student (advisor: Shuran Song, later moved to Stanford); creator of Diffusion Policy
+    and UMI (Universal Manipulation Interface); RSS 2024 Best Systems Paper Finalist for UMI'
+  origin: Chinese
 team_size: 70+ engineers and researchers
 team_origins:
-  - Stanford University
-  - Tesla
-  - DeepMind
-  - Waymo
-  - Meta
-  - OpenAI
-  - Apple
+- Stanford University
+- Tesla
+- DeepMind
+- Waymo
+- Meta
+- OpenAI
+- Apple
 valuation: $1.15B (as of Series B, March 2026)
 total_funding: $200M
 funding_rounds:
-  - round: Seed / Series A (emerged from stealth)
-    date: November 2025
-    amount: $35M
-    lead_investors:
-      - Benchmark
-      - Conviction
-  - round: Series B
-    date: March 12, 2026
-    amount: $165M (oversubscribed)
-    valuation: $1.15B
-    lead_investor: Coatue (Thomas Laffont joined board)
-    other_investors:
-      - Bain Capital Ventures
-      - Fidelity Management & Research Company
-      - Tiger Global
-      - Benchmark (follow-on)
-      - Conviction (follow-on)
-      - Xtal Ventures
+- round: Seed / Series A (emerged from stealth)
+  date: November 2025
+  amount: $35M
+  lead_investors:
+  - Benchmark
+  - Conviction
+- round: Series B
+  date: March 12, 2026
+  amount: $165M (oversubscribed)
+  valuation: $1.15B
+  lead_investor: Coatue (Thomas Laffont joined board)
+  other_investors:
+  - Bain Capital Ventures
+  - Fidelity Management & Research Company
+  - Tiger Global
+  - Benchmark (follow-on)
+  - Conviction (follow-on)
+  - Xtal Ventures
 status: Pre-revenue; beta deployment planned for late 2026
 last_updated: 2026-03-20
 ---

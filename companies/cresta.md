@@ -8,10 +8,13 @@ headquarters: San Francisco, CA
 founders:
 - name: Zayd Enam
   role: Co-Founder (former CEO)
+  origin: Pakistani-American
 - name: Sebastian Thrun
   role: Co-Founder & Board Member
+  origin: German-American
 - name: Tim Shi
   role: Co-Founder
+  origin: Chinese-American
 latest_valuation: ~$1.6B (Mar 2022, likely higher post-Series D)
 total_funding_raised: ~$282M
 employee_count_estimate: ~300 (uncertain)

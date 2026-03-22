@@ -12,12 +12,14 @@ founders:
     of the Board of OpenAI.
 
     '
+  origin: American
 - name: Clay Bavor
   role: Co-Founder & President
   background: '18 years at Google. Led Gmail and Google Drive product/design teams. Led Google Workspace. Started and led
     Google AR/VR, Project Starline, and Google Lens. Most recently led Google Labs.
 
     '
+  origin: American
 sector: Enterprise AI / Conversational AI / AI Agents
 total_funding: ~$635M
 latest_valuation: $10B (September 2025)

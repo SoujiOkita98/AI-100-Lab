@@ -8,17 +8,21 @@ founders:
   role: CEO & Co-Founder
   background: Computer science & business informatics (Copenhagen, Stanford). Danish. Previously co-founded Coincall; product
     marketing at Founders.
+  origin: Danish (Italian heritage)
 - name: Steffen Tjerrild
   role: COO & Co-Founder
   background: MSc Applied Economics & Finance, Copenhagen Business School. Danish. Previously worked in private equity in
     Africa (sand mines, chicken farms).
+  origin: Danish
 - name: Matthias Niessner
   role: Co-Founder (Technical/Research)
   background: Professor at Technical University of Munich, Visual Computing Lab. 150+ publications including 25 SIGGRAPH papers.
     Expert in 3D reconstruction and AI video synthesis.
+  origin: German
 - name: Lourdes Agapito
   role: Co-Founder (Technical/Research)
   background: Professor of 3D Vision at UCL Computer Science. Leading researcher in computer vision and 3D reconstruction.
+  origin: Spanish-British
 employees: ~661 (Jan 2026)
 latest_valuation: $4.0B (Series E, Jan 2026)
 total_funding: ~$536M

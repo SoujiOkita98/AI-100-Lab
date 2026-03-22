@@ -6,10 +6,13 @@ headquarters: Pittsburgh, PA (with San Francisco presence)
 founders:
 - name: Shiv Rao (Shivdev Rao, MD)
   role: CEO & Co-Founder
+  origin: Indian-American
 - name: Sandeep Konam
   role: Co-Founder & CTO
+  origin: Indian-American
 - name: Florian Metze
   role: Co-Founder (departed 2019)
+  origin: German
 valuation: ~$5.3B (as of June 2025 Series E)
 total_funding: ~$750M+
 last_round: Series E — $300M (June 2025)

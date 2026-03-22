@@ -5,72 +5,72 @@ incorporated_country: USA
 hq: Pittsburgh, Pennsylvania, USA
 other_offices: []
 sector: Warehouse Automation / Autonomous Drones
-employee_count_approx: ~60  # as of early 2026
+employee_count_approx: ~60
 status: Private
 website: https://www.gather.ai
 last_updated: 2026-03-20
-
 founders:
-  - name: Sankalp Arora
-    role: Co-founder & CEO
-    background: >
-      PhD from Carnegie Mellon University's Robotics Institute. Co-built
-      one of the first autonomous helicopters, tested at FBI training
-      grounds in Quantico. Led Gather AI from CMU spinout to commercial
-      warehouse drone platform.
-  - name: Daniel Maturana
-    role: Co-founder & CTO
-    background: >
-      PhD from Carnegie Mellon University's Robotics Institute. Expert in
-      computer vision and 3D perception for autonomous systems.
-  - name: Geetesh Dubey
-    role: Co-founder
-    background: >
-      PhD student at Carnegie Mellon University. Co-developed the
-      autonomous helicopter technology that preceded Gather AI.
+- name: Sankalp Arora
+  role: Co-founder & CEO
+  background: 'PhD from Carnegie Mellon University''s Robotics Institute. Co-built one of the first autonomous helicopters,
+    tested at FBI training grounds in Quantico. Led Gather AI from CMU spinout to commercial warehouse drone platform.
 
+    '
+  origin: Indian-American
+- name: Daniel Maturana
+  role: Co-founder & CTO
+  background: 'PhD from Carnegie Mellon University''s Robotics Institute. Expert in computer vision and 3D perception for
+    autonomous systems.
+
+    '
+  origin: Chilean-American
+- name: Geetesh Dubey
+  role: Co-founder
+  background: 'PhD student at Carnegie Mellon University. Co-developed the autonomous helicopter technology that preceded
+    Gather AI.
+
+    '
+  origin: Indian
 funding_rounds:
-  - stage: Seed
-    date: ~2019
-    amount: Undisclosed
-    valuation: Unknown
-    lead_investors: []
-    other_investors: []
-    source: https://www.gather.ai
-    notes: >
-      Early stage funding after spinning out of CMU Robotics Institute.
+- stage: Seed
+  date: ~2019
+  amount: Undisclosed
+  valuation: Unknown
+  lead_investors: []
+  other_investors: []
+  source: https://www.gather.ai
+  notes: 'Early stage funding after spinning out of CMU Robotics Institute.
 
-  - stage: Series A-1
-    date: 2024-03
-    amount: $17M
-    valuation: ~$72M (reported)
-    lead_investors:
-      - Bain Capital Ventures
-    other_investors:
-      - Tribeca Venture Partners
-      - Dundee Venture Capital
-      - Expa
-      - Bling Capital
-    source: https://www.gather.ai/news/gather-ai-raises-17m-to-accelerate-growth-and-bring-warehouses-into-the-modern-era-with-ai-powered-inventory-monitoring
-    notes: >
-      Used to expand commercial deployments and build out AI-powered
-      inventory analytics platform.
+    '
+- stage: Series A-1
+  date: 2024-03
+  amount: $17M
+  valuation: ~$72M (reported)
+  lead_investors:
+  - Bain Capital Ventures
+  other_investors:
+  - Tribeca Venture Partners
+  - Dundee Venture Capital
+  - Expa
+  - Bling Capital
+  source: https://www.gather.ai/news/gather-ai-raises-17m-to-accelerate-growth-and-bring-warehouses-into-the-modern-era-with-ai-powered-inventory-monitoring
+  notes: 'Used to expand commercial deployments and build out AI-powered inventory analytics platform.
 
-  - stage: Series B
-    date: 2026-02-09
-    amount: $40M
-    valuation: Unknown
-    lead_investors:
-      - Smith Point Capital (Keith Block, former Salesforce co-CEO)
-    other_investors:
-      - Bain Capital Ventures
-      - XRC Ventures
-      - Hillman Investments
-    source: https://techcrunch.com/2026/02/09/gather-ai-maker-of-curious-warehouse-drones-lands-40m-led-by-keith-blocks-firm/
-    notes: >
-      Brought total funding to $74M. Led by Keith Block's VC firm,
-      signaling enterprise SaaS credibility for the platform.
+    '
+- stage: Series B
+  date: 2026-02-09
+  amount: $40M
+  valuation: Unknown
+  lead_investors:
+  - Smith Point Capital (Keith Block, former Salesforce co-CEO)
+  other_investors:
+  - Bain Capital Ventures
+  - XRC Ventures
+  - Hillman Investments
+  source: https://techcrunch.com/2026/02/09/gather-ai-maker-of-curious-warehouse-drones-lands-40m-led-by-keith-blocks-firm/
+  notes: 'Brought total funding to $74M. Led by Keith Block''s VC firm, signaling enterprise SaaS credibility for the platform.
 
+    '
 total_known_funding: ~$74M
 ---
 

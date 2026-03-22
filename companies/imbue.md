@@ -11,8 +11,10 @@ valuation: $1B (as of September 2023)
 founders:
 - name: Kanjun Qiu
   role: CEO
+  origin: Chinese-American
 - name: Josh Albrecht
   role: CTO
+  origin: American
 team_size: ~20-30 (estimated; sources vary from 15-50)
 status: Active
 tags:

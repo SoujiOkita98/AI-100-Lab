@@ -6,31 +6,35 @@ category: AI Evaluation & Observability
 subcategory: LLM Testing, Monitoring, Guardrails, Agent Reliability
 founded: 2021
 headquarters: San Francisco, CA
-employees_approx: 153  # as of Feb 2026, per CBInsights/Tracxn
+employees_approx: 153
 founders:
-  - name: Vikram Chatterji
-    role: Co-Founder & CEO
-    background: Google AI (Product Management, BERT/Transformers), Google Pay India, Android
-    education: MS Computer Science, Carnegie Mellon University
-  - name: Atindriyo Sanyal
-    role: Co-Founder & CTO
-    background: Uber AI (Engineering Lead, Michelangelo feature store), Apple (early Siri engineer)
-    education: MS Computer Science, UCLA; BE Computer Science, Pune Institute of Computer Technology
-  - name: Yash Sheth
-    role: Co-Founder & COO
-    background: Google (Tech Lead & Manager, Speech Recognizer platform, 9 years; scaled speech recognition 800x across 20+ products)
-    education: MS Computer Science, UC Irvine
+- name: Vikram Chatterji
+  role: Co-Founder & CEO
+  background: Google AI (Product Management, BERT/Transformers), Google Pay India, Android
+  education: MS Computer Science, Carnegie Mellon University
+  origin: Indian-American
+- name: Atindriyo Sanyal
+  role: Co-Founder & CTO
+  background: Uber AI (Engineering Lead, Michelangelo feature store), Apple (early Siri engineer)
+  education: MS Computer Science, UCLA; BE Computer Science, Pune Institute of Computer Technology
+  origin: Indian-American
+- name: Yash Sheth
+  role: Co-Founder & COO
+  background: Google (Tech Lead & Manager, Speech Recognizer platform, 9 years; scaled speech recognition 800x across 20+
+    products)
+  education: MS Computer Science, UC Irvine
+  origin: Indian-American
 total_funding: $68M
 latest_round: Series B
 latest_round_date: 2024-10-15
 status: Private
 tags:
-  - llm-evaluation
-  - ai-observability
-  - guardrails
-  - agent-reliability
-  - enterprise-ai
-  - mlops
+- llm-evaluation
+- ai-observability
+- guardrails
+- agent-reliability
+- enterprise-ai
+- mlops
 last_updated: 2026-03-20
 confidence: high
 ---

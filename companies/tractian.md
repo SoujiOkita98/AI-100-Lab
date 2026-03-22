@@ -8,10 +8,13 @@ headquarters: Atlanta, GA (originally Sao Paulo, Brazil)
 founders:
 - name: Igor Marinelli
   role: CEO & Co-Founder
+  origin: Brazilian
 - name: Gabriel Lameirinhas
   role: Co-CEO & Co-Founder
+  origin: Brazilian
 - name: Leonardo Vieira
   role: Co-Founder
+  origin: Brazilian
 latest_valuation: ~$720M (Dec 2024)
 total_funding_raised: ~$180M+
 employee_count_estimate: ~500 (uncertain)

@@ -10,10 +10,12 @@ founders:
   role: CEO
   background: 'Ex-Spotify (~employee #30), built music recommendations (Discover Weekly, Related Artists, Radio); created
     open-source tools Luigi and Annoy; M.Sc. Physics, KTH Stockholm; ran tech team at Better.com (1 to ~300 engineers)'
+  origin: Swedish
 - name: Akshat Bubna
   role: CTO
   background: Early employee at Scale AI; MIT B.S. Math & CS (2014-2017); IOI Gold Medalist 2014 (first Indian student to
     achieve this); competitive crossword solver
+  origin: Indian-American
 employees: ~118 (as of Feb 2026)
 total_funding: ~$111M (through Series B)
 latest_valuation: $1.1B (Series B, Sep 2025); in talks for ~$2.5B (Series C, Feb 2026)

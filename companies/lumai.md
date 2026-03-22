@@ -19,6 +19,7 @@ founders:
 - name: Tim Weil
   role: CEO
   background: Oxford spinout co-founder.
+  origin: British
 - name: Xianxin Guo
   role: Head of Research
   background: Oxford optical computing researcher.

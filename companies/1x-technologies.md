@@ -5,89 +5,89 @@ founded: 2014-05
 incorporated_country: Norway
 hq: Palo Alto, California, USA
 other_offices:
-  - Moss, Norway (manufacturing + original HQ)
-  - Hayward, California (primary manufacturing)
+- Moss, Norway (manufacturing + original HQ)
+- Hayward, California (primary manufacturing)
 sector: Humanoid Robotics / Embodied AI
-employee_count_approx: 965  # as of Feb 2026, per Tracxn
+employee_count_approx: 965
 status: Private
 website: https://www.1x.tech
 last_updated: 2026-03-20
-
 founders:
-  - name: Bernt Oivind Bornich
-    role: Founder & CEO
-    background: >
-      Norwegian roboticist. Studied at University of Oslo. Described as a
-      "science nerd, roboticist, and jack-of-all-trades." Has led the company
-      from its 2014 founding through rebranding and pivot to consumer humanoids.
-  - name: Phuong Nguyen
-    role: Co-founder, former CTO
-  - name: Jorgen Sundell
-    role: Co-founder (Machinist)
-  - name: Pal Loken
-    role: Co-founder (Board Member)
+- name: Bernt Oivind Bornich
+  role: Founder & CEO
+  background: 'Norwegian roboticist. Studied at University of Oslo. Described as a "science nerd, roboticist, and jack-of-all-trades."
+    Has led the company from its 2014 founding through rebranding and pivot to consumer humanoids.
 
+    '
+  origin: Norwegian
+- name: Phuong Nguyen
+  role: Co-founder, former CTO
+  origin: Vietnamese
+- name: Jorgen Sundell
+  role: Co-founder (Machinist)
+  origin: Norwegian
+- name: Pal Loken
+  role: Co-founder (Board Member)
+  origin: Norwegian
 funding_rounds:
-  - stage: Seed / Early
-    date: ~2021-05
-    amount: 86M NOK (~$10M USD)
-    valuation: Unknown
-    lead_investors:
-      - Valinor
-    other_investors:
-      - Jacob Hatteland (AutoStore founder)
-      - ADT Commercial
-    source: https://valinor.no/en/investments/halodi-robotics/
-    notes: >
-      Raised as Halodi Robotics. Exact seed timing uncertain; May 2021 is the
-      earliest publicly documented round of this size.
+- stage: Seed / Early
+  date: ~2021-05
+  amount: 86M NOK (~$10M USD)
+  valuation: Unknown
+  lead_investors:
+  - Valinor
+  other_investors:
+  - Jacob Hatteland (AutoStore founder)
+  - ADT Commercial
+  source: https://valinor.no/en/investments/halodi-robotics/
+  notes: 'Raised as Halodi Robotics. Exact seed timing uncertain; May 2021 is the earliest publicly documented round of this
+    size.
 
-  - stage: Series A2
-    date: 2023-03
-    amount: $23.5M
-    valuation: ~$210M post-money (reported)
-    lead_investors:
-      - OpenAI Startup Fund
-    other_investors:
-      - Tiger Global
-      - Sandwater
-      - Alliance Ventures
-      - Skagerak Capital
-    source: https://www.1x.tech/discover/1x-rasies-23-5m-in-series-a2-funding-led-by-open-ai
-    notes: >
-      First major round after the 2022 rebrand from Halodi Robotics to 1X
-      Technologies. OpenAI's backing was a strong signal and drew significant
-      attention.
+    '
+- stage: Series A2
+  date: 2023-03
+  amount: $23.5M
+  valuation: ~$210M post-money (reported)
+  lead_investors:
+  - OpenAI Startup Fund
+  other_investors:
+  - Tiger Global
+  - Sandwater
+  - Alliance Ventures
+  - Skagerak Capital
+  source: https://www.1x.tech/discover/1x-rasies-23-5m-in-series-a2-funding-led-by-open-ai
+  notes: 'First major round after the 2022 rebrand from Halodi Robotics to 1X Technologies. OpenAI''s backing was a strong
+    signal and drew significant attention.
 
-  - stage: Series B
-    date: 2024-01-11
-    amount: $100M
-    valuation: ~$800M post-money (estimated; some sources cite $500M+, others ~$820M)
-    lead_investors:
-      - EQT Ventures
-    other_investors:
-      - Samsung NEXT
-      - Nistad Group
-      - OpenAI Startup Fund (follow-on)
-      - Tiger Global (follow-on)
-    source: https://www.1x.tech/discover/1x-secures-100m-in-series-b-funding
-    notes: >
-      Brought total funding to ~$126M. Capital earmarked for enterprise
-      customers and bringing NEO bipedal android to market.
+    '
+- stage: Series B
+  date: 2024-01-11
+  amount: $100M
+  valuation: ~$800M post-money (estimated; some sources cite $500M+, others ~$820M)
+  lead_investors:
+  - EQT Ventures
+  other_investors:
+  - Samsung NEXT
+  - Nistad Group
+  - OpenAI Startup Fund (follow-on)
+  - Tiger Global (follow-on)
+  source: https://www.1x.tech/discover/1x-secures-100m-in-series-b-funding
+  notes: 'Brought total funding to ~$126M. Capital earmarked for enterprise customers and bringing NEO bipedal android to
+    market.
 
-  - stage: Series C (UNCONFIRMED)
-    date: ~2025-09 (reported target)
-    amount: Up to $1B (target)
-    valuation: $10B+ (target, >12x Series B valuation)
-    lead_investors: Unknown
-    other_investors: Unknown
-    source: https://techstartups.com/2025/09/24/norways-1x-raising-1b-at-10b-valuation-to-bring-humanoid-robot-neo-into-homes/
-    notes: >
-      UNCERTAINTY: The Information and other outlets reported in Sep 2025 that
-      1X was in talks to raise up to $1B. As of March 2026, I could not
-      independently confirm this round closed or identify the final investors.
-      Do not treat this as confirmed.
+    '
+- stage: Series C (UNCONFIRMED)
+  date: ~2025-09 (reported target)
+  amount: Up to $1B (target)
+  valuation: $10B+ (target, >12x Series B valuation)
+  lead_investors: Unknown
+  other_investors: Unknown
+  source: https://techstartups.com/2025/09/24/norways-1x-raising-1b-at-10b-valuation-to-bring-humanoid-robot-neo-into-homes/
+  notes: 'UNCERTAINTY: The Information and other outlets reported in Sep 2025 that 1X was in talks to raise up to $1B. As
+    of March 2026, I could not independently confirm this round closed or identify the final investors. Do not treat this
+    as confirmed.
 
+    '
 total_known_funding: ~$126M (confirmed); potentially >$1B if Series C closed
 ---
 

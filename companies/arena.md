@@ -1,9 +1,9 @@
 ---
 name: Arena
 former_names:
-  - Chatbot Arena
-  - LMArena
-  - LMSYS Chatbot Arena
+- Chatbot Arena
+- LMArena
+- LMSYS Chatbot Arena
 domain: AI Model Evaluation
 founded: 2023 (as research project); 2025 (as company)
 incorporated: 2025
@@ -11,50 +11,53 @@ headquarters: San Francisco Bay Area, CA (originated from UC Berkeley)
 website: https://arena.ai
 headcount: 11-50 (estimated, early 2026)
 founders:
-  - name: Anastasios Nikolas Angelopoulos
-    role: CEO
-  - name: Wei-Lin Chiang
-    role: CTO
-  - name: Ion Stoica
-    role: Co-founder & Advisor
+- name: Anastasios Nikolas Angelopoulos
+  role: CEO
+  origin: Greek-American
+- name: Wei-Lin Chiang
+  role: CTO
+  origin: Taiwanese-American
+- name: Ion Stoica
+  role: Co-founder & Advisor
+  origin: Romanian-American
 funding:
   total_raised: $250M
   latest_round: Series A
   latest_round_date: 2026-01-06
   latest_valuation: $1.7B (post-money)
   rounds:
-    - stage: Seed
-      date: 2025-05
-      amount: $100M
-      valuation: $600M (post-money)
-      lead_investors:
-        - Andreessen Horowitz (a16z)
-        - UC Investments
-      other_investors:
-        - Lightspeed Venture Partners
-        - Felicis Ventures
-        - Kleiner Perkins
-    - stage: Series A
-      date: 2026-01
-      amount: $150M
-      valuation: $1.7B (post-money)
-      lead_investors:
-        - Felicis
-        - UC Investments
-      other_investors:
-        - Andreessen Horowitz
-        - The House Fund
-        - LDVP
-        - Kleiner Perkins
-        - Lightspeed Venture Partners
-        - Laude Ventures
+  - stage: Seed
+    date: 2025-05
+    amount: $100M
+    valuation: $600M (post-money)
+    lead_investors:
+    - Andreessen Horowitz (a16z)
+    - UC Investments
+    other_investors:
+    - Lightspeed Venture Partners
+    - Felicis Ventures
+    - Kleiner Perkins
+  - stage: Series A
+    date: 2026-01
+    amount: $150M
+    valuation: $1.7B (post-money)
+    lead_investors:
+    - Felicis
+    - UC Investments
+    other_investors:
+    - Andreessen Horowitz
+    - The House Fund
+    - LDVP
+    - Kleiner Perkins
+    - Lightspeed Venture Partners
+    - Laude Ventures
 status: Unicorn
 tags:
-  - AI evaluation
-  - LLM benchmarking
-  - crowdsourced evaluation
-  - model leaderboards
-  - enterprise AI
+- AI evaluation
+- LLM benchmarking
+- crowdsourced evaluation
+- model leaderboards
+- enterprise AI
 last_updated: 2026-03-20
 ---
 

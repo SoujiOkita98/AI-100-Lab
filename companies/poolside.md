@@ -6,27 +6,31 @@ founded: 2023
 headquarters: Paris, France (legal HQ in US; ~80% of team in Europe)
 website: https://poolside.ai
 founders:
-  - name: Jason Warner
-    role: CEO
-    background: Former CTO of GitHub (incubated Copilot); previously VP Engineering at Heroku; ex-Canonical; Managing Director at Redpoint Ventures (2021-2023)
-  - name: Eiso Kant
-    role: CTO
-    background: "Founded source{d} (first AI-on-code company); co-founded Athenian (engineering analytics); serial developer-tools entrepreneur"
-funding_total_estimated: "$1.6B+"
-latest_valuation: "$12B (Oct 2025)"
+- name: Jason Warner
+  role: CEO
+  background: Former CTO of GitHub (incubated Copilot); previously VP Engineering at Heroku; ex-Canonical; Managing Director
+    at Redpoint Ventures (2021-2023)
+  origin: American
+- name: Eiso Kant
+  role: CTO
+  background: Founded source{d} (first AI-on-code company); co-founded Athenian (engineering analytics); serial developer-tools
+    entrepreneur
+  origin: Estonian-Dutch
+funding_total_estimated: $1.6B+
+latest_valuation: $12B (Oct 2025)
 key_investors:
-  - Bain Capital Ventures (led Series B)
-  - Nvidia (up to $1B investment, Oct 2025)
-  - Felicis Ventures
-  - Redpoint Ventures
-  - DST Global
-  - eBay Ventures
-  - Xavier Niel
-  - Citi Ventures
-  - StepStone Group
-  - SentinelOne S Ventures
-  - Air Street Capital
-employee_count_approx: "162-256 (2025 estimates vary by source)"
+- Bain Capital Ventures (led Series B)
+- Nvidia (up to $1B investment, Oct 2025)
+- Felicis Ventures
+- Redpoint Ventures
+- DST Global
+- eBay Ventures
+- Xavier Niel
+- Citi Ventures
+- StepStone Group
+- SentinelOne S Ventures
+- Air Street Capital
+employee_count_approx: 162-256 (2025 estimates vary by source)
 status: Private, Pre-IPO
 last_updated: 2026-03-20
 confidence: high on funding figures; moderate on revenue projections and employee count

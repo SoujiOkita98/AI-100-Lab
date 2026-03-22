@@ -4,56 +4,53 @@ founded: 2016
 incorporated_country: USA
 hq: Irvine, California, USA
 sector: Embodied AI / Autonomous Robotics Software
-employee_count_approx: ~200  # estimated as of early 2026
+employee_count_approx: ~200
 status: Private
 website: https://www.fieldai.com
 last_updated: 2026-03-20
-
 founders:
-  - name: Ali Agha
-    role: Founder & CEO
-    background: >
-      Spent nearly a decade at NASA's Jet Propulsion Laboratory (JPL)
-      specializing in robotics autonomy and physical AI. Led teams that
-      competed in the DARPA Subterranean Challenge. Built FieldAI's core
-      technology around enabling robots to operate autonomously without
-      GPS, maps, or pre-programmed routes.
+- name: Ali Agha
+  role: Founder & CEO
+  background: 'Spent nearly a decade at NASA''s Jet Propulsion Laboratory (JPL) specializing in robotics autonomy and physical
+    AI. Led teams that competed in the DARPA Subterranean Challenge. Built FieldAI''s core technology around enabling robots
+    to operate autonomously without GPS, maps, or pre-programmed routes.
 
+    '
+  origin: Iranian-American
 funding_rounds:
-  - stage: Earlier Rounds
-    date: ~2024 (late)
-    amount: $91M
-    valuation: Unknown
-    lead_investors: []
-    other_investors:
-      - Gates Frontier
-      - Samsung
-      - Intel Capital
-      - Khosla Ventures
-    source: https://www.prnewswire.com/news-releases/fieldai-announces-over-400m-in-funds-raised-to-advance-embodied-ai-at-scale-302534675.html
-    notes: >
-      Initial round raised in late 2024 before the larger 2025 raise.
+- stage: Earlier Rounds
+  date: ~2024 (late)
+  amount: $91M
+  valuation: Unknown
+  lead_investors: []
+  other_investors:
+  - Gates Frontier
+  - Samsung
+  - Intel Capital
+  - Khosla Ventures
+  source: https://www.prnewswire.com/news-releases/fieldai-announces-over-400m-in-funds-raised-to-advance-embodied-ai-at-scale-302534675.html
+  notes: 'Initial round raised in late 2024 before the larger 2025 raise.
 
-  - stage: Growth Round
-    date: 2025-08-20
-    amount: $314M
-    valuation: ~$2B post-money
-    lead_investors:
-      - Bezos Expeditions
-      - Prysm Capital
-      - Temasek
-    other_investors:
-      - NVentures (NVIDIA)
-      - BHP Ventures
-      - Canaan Partners
-      - Emerson Collective
-      - Intel Capital
-      - Khosla Ventures
-    source: https://www.cnbc.com/2025/08/20/gates-nvidia-fieldai-robotics.html
-    notes: >
-      Brought total raised to over $405M. Backed by Bezos, Gates, and NVIDIA.
-      Valuation close to $2 billion.
+    '
+- stage: Growth Round
+  date: 2025-08-20
+  amount: $314M
+  valuation: ~$2B post-money
+  lead_investors:
+  - Bezos Expeditions
+  - Prysm Capital
+  - Temasek
+  other_investors:
+  - NVentures (NVIDIA)
+  - BHP Ventures
+  - Canaan Partners
+  - Emerson Collective
+  - Intel Capital
+  - Khosla Ventures
+  source: https://www.cnbc.com/2025/08/20/gates-nvidia-fieldai-robotics.html
+  notes: 'Brought total raised to over $405M. Backed by Bezos, Gates, and NVIDIA. Valuation close to $2 billion.
 
+    '
 total_known_funding: ~$405M
 ---
 

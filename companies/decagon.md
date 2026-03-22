@@ -13,6 +13,7 @@ founders:
     30 Under 30 (AI list). Grew up in Boulder, Colorado.
 
     '
+  origin: Chinese-American
 - name: Ashwin Sreenivas
   role: Co-Founder & CTO
   background: 'B.S. and M.S. in Computer Science from Stanford University. Worked as Deployment Strategist at Palantir Technologies.
@@ -20,6 +21,7 @@ founders:
     and enterprise deployments.
 
     '
+  origin: Indian-American
 sector: Enterprise AI / Conversational AI / AI Customer Support Agents
 total_funding: ~$481M
 latest_valuation: $4.5B (January 2026)

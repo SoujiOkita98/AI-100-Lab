@@ -15,21 +15,27 @@ founders:
 - name: Mira Murati
   role: CEO
   ethnicity: Albanian American
+  origin: Albanian-American
 - name: John Schulman
   role: Co-founder
   ethnicity: White American
+  origin: American
 - name: Barrett Zoph
   role: Co-founder
   ethnicity: White American
+  origin: American
 - name: Lilian Weng
   role: Co-founder
   ethnicity: Chinese American
+  origin: Chinese-American
 - name: Andrew Tulloch
   role: Co-founder
   ethnicity: White (Australian)
+  origin: Australian
 - name: Luke Metz
   role: Co-founder
   ethnicity: White American
+  origin: American
 key_investors:
 - Andreessen Horowitz (a16z) — lead
 - Nvidia

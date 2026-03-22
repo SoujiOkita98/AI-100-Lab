@@ -1,36 +1,40 @@
 ---
-company_name: "Safe Superintelligence Inc."
-ticker: "SSI (private)"
-website: "https://ssi.inc"
-founded: "June 2024"
-headquarters: "Palo Alto, California"
-additional_offices: ["Tel Aviv, Israel"]
-ceo: "Ilya Sutskever (since July 2025)"
-president: "Daniel Levy"
+company_name: Safe Superintelligence Inc.
+ticker: SSI (private)
+website: https://ssi.inc
+founded: June 2024
+headquarters: Palo Alto, California
+additional_offices:
+- Tel Aviv, Israel
+ceo: Ilya Sutskever (since July 2025)
+president: Daniel Levy
 founders:
-  - name: "Ilya Sutskever"
-    role: "Co-founder; CEO (since July 2025)"
-  - name: "Daniel Gross"
-    role: "Co-founder; former CEO (departed July 2025)"
-  - name: "Daniel Levy"
-    role: "Co-founder; President"
-employees: ~18  # as of February 2026; sources vary between 16-20
-stage: "Pre-product / Deep R&D"
-sector: "Artificial Intelligence / AGI Safety"
-latest_valuation: "$32 billion (April 2025)"
-total_funding_raised: "~$3 billion"
+- name: Ilya Sutskever
+  role: Co-founder; CEO (since July 2025)
+  origin: Russian-Israeli-Canadian
+- name: Daniel Gross
+  role: Co-founder; former CEO (departed July 2025)
+  origin: Israeli-American
+- name: Daniel Levy
+  role: Co-founder; President
+  origin: American
+employees: ~18
+stage: Pre-product / Deep R&D
+sector: Artificial Intelligence / AGI Safety
+latest_valuation: $32 billion (April 2025)
+total_funding_raised: ~$3 billion
 key_investors:
-  - "Greenoaks Capital (led Series B)"
-  - "Andreessen Horowitz (a16z)"
-  - "Sequoia Capital"
-  - "DST Global"
-  - "Lightspeed Venture Partners"
-  - "Alphabet / Google"
-  - "NVIDIA"
-  - "SV Angel"
-  - "NFDG (Nat Friedman & Daniel Gross)"
-status: "Active, stealth R&D mode"
-last_updated: "2026-03-20"
+- Greenoaks Capital (led Series B)
+- Andreessen Horowitz (a16z)
+- Sequoia Capital
+- DST Global
+- Lightspeed Venture Partners
+- Alphabet / Google
+- NVIDIA
+- SV Angel
+- NFDG (Nat Friedman & Daniel Gross)
+status: Active, stealth R&D mode
+last_updated: '2026-03-20'
 ---
 
 # Safe Superintelligence Inc. (SSI)

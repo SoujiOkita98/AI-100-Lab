@@ -15,9 +15,11 @@ founders:
 - name: Lior Div
   role: CEO
   ethnicity: Israeli
+  origin: Israeli
 - name: Yonatan Striem-Amit
   role: CTO
   ethnicity: Israeli
+  origin: Israeli
 key_investors:
 - Index Ventures — Series A lead
 - Greylock Partners — Seed lead

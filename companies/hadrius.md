@@ -6,12 +6,15 @@ sector: AI for Financial Compliance
 founded: 2023
 headquarters: San Francisco, CA
 founders:
-  - name: Thomas Stewart
-    role: Co-Founder
-  - name: Som Mohapatra
-    role: Co-Founder
-  - name: Allen Calderwood
-    role: Co-Founder
+- name: Thomas Stewart
+  role: Co-Founder
+  origin: American
+- name: Som Mohapatra
+  role: Co-Founder
+  origin: Indian-American
+- name: Allen Calderwood
+  role: Co-Founder
+  origin: American
 latest_valuation: Undisclosed
 total_funding_raised: $28.8M
 arr_estimate: Undisclosed

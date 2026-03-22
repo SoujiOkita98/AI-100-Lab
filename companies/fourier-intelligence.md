@@ -4,52 +4,49 @@ founded: 2015
 incorporated_country: China
 hq: Shanghai, China
 sector: Humanoid Robotics / Rehabilitation Robotics
-employee_count_approx: ~500  # estimated as of early 2026
+employee_count_approx: ~500
 status: Private
 website: https://www.fftai.com
 last_updated: 2026-03-20
-
 founders:
-  - name: Alex Gu (Gu Jie)
-    role: Founder & CEO
-    background: >
-      Graduated from Shanghai Jiao Tong University. Previously a sales
-      executive at National Instruments. Founded Fourier in 2015 with a
-      focus on rehabilitation robotics before pivoting to general-purpose
-      humanoid robots. Has led the company through nine funding rounds.
+- name: Alex Gu (Gu Jie)
+  role: Founder & CEO
+  background: 'Graduated from Shanghai Jiao Tong University. Previously a sales executive at National Instruments. Founded
+    Fourier in 2015 with a focus on rehabilitation robotics before pivoting to general-purpose humanoid robots. Has led the
+    company through nine funding rounds.
 
+    '
+  origin: Chinese
 funding_rounds:
-  - stage: Series D
-    date: ~2023
-    amount: CNY 400M (~$55M USD)
-    valuation: Unknown
-    lead_investors:
-      - SoftBank Vision Fund II
-    other_investors:
-      - Yuanjing Capital (co-founded by Alibaba's Wu Yongming)
-    source: https://kr-asia.com/fourier-intelligences-founder-breaks-down-whats-next-for-humanoid-robots
-    notes: >
-      SoftBank's investment signaled global ambitions for Fourier's
-      humanoid program.
+- stage: Series D
+  date: ~2023
+  amount: CNY 400M (~$55M USD)
+  valuation: Unknown
+  lead_investors:
+  - SoftBank Vision Fund II
+  other_investors:
+  - Yuanjing Capital (co-founded by Alibaba's Wu Yongming)
+  source: https://kr-asia.com/fourier-intelligences-founder-breaks-down-whats-next-for-humanoid-robots
+  notes: 'SoftBank''s investment signaled global ambitions for Fourier''s humanoid program.
 
-  - stage: Series E
-    date: 2025-01-07
-    amount: CNY 800M (~$109M USD)
-    valuation: Unknown
-    lead_investors:
-      - Guoxin Investment
-      - Pudong Venture Capital
-    other_investors:
-      - Zhangjiang Hi-Tech Investment
-      - Zhangke Yaokun Fund
-      - Prosperity7 Ventures (Saudi Aramco)
-      - Junshan Capital
-    source: https://humanoidroboticstechnology.com/articles/humanoid-funding-rounds-in-2025/
-    notes: >
-      Ninth funding round overall. Prosperity7 (Saudi Aramco's VC arm)
-      participation reflects growing Middle Eastern interest in humanoid
-      robotics.
+    '
+- stage: Series E
+  date: 2025-01-07
+  amount: CNY 800M (~$109M USD)
+  valuation: Unknown
+  lead_investors:
+  - Guoxin Investment
+  - Pudong Venture Capital
+  other_investors:
+  - Zhangjiang Hi-Tech Investment
+  - Zhangke Yaokun Fund
+  - Prosperity7 Ventures (Saudi Aramco)
+  - Junshan Capital
+  source: https://humanoidroboticstechnology.com/articles/humanoid-funding-rounds-in-2025/
+  notes: 'Ninth funding round overall. Prosperity7 (Saudi Aramco''s VC arm) participation reflects growing Middle Eastern
+    interest in humanoid robotics.
 
+    '
 total_known_funding: ~$200M+ (estimated across nine rounds)
 ---
 

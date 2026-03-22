@@ -6,31 +6,34 @@ sector: AI 3D Generation / Generative AI
 founded: March 2023
 headquarters: Beijing, China (with global user base, 90% outside China)
 founders:
-  - name: Simon Song
-    role: Co-founder
-    nationality: Chinese (mainland)
-    education:
-      - Details not widely reported
-    notable: Previously co-founded MiniMax, one of China's AI Tigers, which IPO'd on the Hong Kong Stock Exchange in January 2026. Serial AI entrepreneur.
-  - name: Guoli Su
-    role: Co-founder
-    nationality: Chinese (mainland)
-    education:
-      - Tsinghua University (affiliated with Tsinghua research team)
-    notable: Research background in 3D reconstruction and generative AI
+- name: Simon Song
+  role: Co-founder
+  nationality: Chinese (mainland)
+  education:
+  - Details not widely reported
+  notable: Previously co-founded MiniMax, one of China's AI Tigers, which IPO'd on the Hong Kong Stock Exchange in January
+    2026. Serial AI entrepreneur.
+  origin: Chinese
+- name: Guoli Su
+  role: Co-founder
+  nationality: Chinese (mainland)
+  education:
+  - Tsinghua University (affiliated with Tsinghua research team)
+  notable: Research background in 3D reconstruction and generative AI
+  origin: Chinese
 team_size_estimate: ~50-100 (estimate)
 stage: Series A
 total_funding: ~$50M+
 estimated_valuation: Not publicly confirmed (likely $200-400M range)
 estimated_arr_2026: ~$12M ARR (as of late 2025)
 tags:
-  - 3d-generation
-  - generative-ai
-  - text-to-3d
-  - image-to-3d
-  - gaming-ai
-  - chinese-founders
-  - tsinghua-affiliated
+- 3d-generation
+- generative-ai
+- text-to-3d
+- image-to-3d
+- gaming-ai
+- chinese-founders
+- tsinghua-affiliated
 last_updated: 2026-03-20
 ---
 

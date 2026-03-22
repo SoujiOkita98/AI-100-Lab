@@ -8,6 +8,7 @@ headquarters: New York, NY
 founders:
 - name: John Nay
   role: CEO & Founder
+  origin: American
 latest_valuation: Undisclosed (estimated several hundred million)
 total_funding_raised: ~$140M+
 employee_count_estimate: ~100 (uncertain)

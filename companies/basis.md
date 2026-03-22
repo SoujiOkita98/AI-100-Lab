@@ -8,8 +8,10 @@ headquarters: New York, NY
 founders:
 - name: Matthew Harpe
   role: Co-Founder & CEO
+  origin: American
 - name: Mitchell Troyanovsky
   role: Co-Founder
+  origin: American (Slavic heritage)
 latest_valuation: $1.15B
 total_funding_raised: $138M
 arr_estimate: Undisclosed

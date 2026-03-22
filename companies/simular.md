@@ -12,18 +12,20 @@ latest_valuation: Undisclosed
 total_funding: $27M
 status: Active, Private
 founders:
-  - name: Ang Li
-    role: CEO
-    ethnicity: Chinese
-  - name: Jiachen Yang
-    role: Co-founder
-    ethnicity: Chinese
+- name: Ang Li
+  role: CEO
+  ethnicity: Chinese
+  origin: Chinese-American
+- name: Jiachen Yang
+  role: Co-founder
+  ethnicity: Chinese
+  origin: Chinese
 key_investors:
-  - Felicis Ventures — Series A lead
-  - NVentures (Nvidia's venture arm)
-  - Basis Set Ventures
-  - Flying Fish Partners
-  - South Park Commons
+- Felicis Ventures — Series A lead
+- NVentures (Nvidia's venture arm)
+- Basis Set Ventures
+- Flying Fish Partners
+- South Park Commons
 ---
 
 # Simular

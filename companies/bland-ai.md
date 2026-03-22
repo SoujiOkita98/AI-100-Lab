@@ -5,21 +5,23 @@ domain: AI Phone Calling Agents / Conversational Voice AI
 founded: 2023
 headquarters: San Francisco, CA
 founders:
-  - name: Isaiah N. Granet
-    role: Co-Founder & CEO
-  - name: Sobhan Nejad
-    role: Co-Founder & COO
-headcount_estimate: "65-107 (sources vary; Y Combinator reports 65, PitchBook reports 107)"
-total_funding: "$65M (across 3 rounds)"
-latest_round: "Series B - $40M (January 2025)"
+- name: Isaiah N. Granet
+  role: Co-Founder & CEO
+  origin: American
+- name: Sobhan Nejad
+  role: Co-Founder & COO
+  origin: Iranian-American
+headcount_estimate: 65-107 (sources vary; Y Combinator reports 65, PitchBook reports 107)
+total_funding: $65M (across 3 rounds)
+latest_round: Series B - $40M (January 2025)
 lead_investors:
-  - Emergence Capital (Series B)
-  - Scale Venture Partners (Series A)
-  - Y Combinator (Seed / W24 batch)
+- Emergence Capital (Series B)
+- Scale Venture Partners (Series A)
+- Y Combinator (Seed / W24 batch)
 notable_angels:
-  - Max Levchin (PayPal co-founder)
-  - Jeff Lawson (Twilio founder)
-  - Piotr Dabkowski
+- Max Levchin (PayPal co-founder)
+- Jeff Lawson (Twilio founder)
+- Piotr Dabkowski
 yc_batch: W24
 valuation: undisclosed
 last_updated: 2026-03-20

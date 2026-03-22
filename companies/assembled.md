@@ -6,40 +6,45 @@ headquarters: San Francisco, CA
 website: https://www.assembled.com
 sector: AI-Powered Support Operations / Workforce Management
 stage: Series B
-total_funding_raised: "$70.7M"
+total_funding_raised: $70.7M
 latest_round: Series B ($51M, May 2022)
-valuation_estimate: "Not publicly disclosed; Series B represented >5x valuation increase over Series A"
+valuation_estimate: Not publicly disclosed; Series B represented >5x valuation increase over Series A
 founders:
-  - name: Ryan Wang
-    role: Co-Founder & CEO
-    background: "ML Engineer at Stripe (~employee #80); M.S. Statistics & B.A. Economics, University of Chicago"
-  - name: John Wang
-    role: Co-Founder & CTO
-    background: "Software Engineer at Stripe (~employee #100); B.S. Computer Science, MIT; prev. Palantir, 37signals, co-founded Zinc"
-  - name: Brian Sze
-    role: Co-Founder
-    background: "Head of Business Operations at Stripe (2012-2016, employee ~30-500 scale); B.A. Economics, Stanford; prev. Obama for America analytics team"
+- name: Ryan Wang
+  role: Co-Founder & CEO
+  background: 'ML Engineer at Stripe (~employee #80); M.S. Statistics & B.A. Economics, University of Chicago'
+  origin: Chinese-American
+- name: John Wang
+  role: Co-Founder & CTO
+  background: 'Software Engineer at Stripe (~employee #100); B.S. Computer Science, MIT; prev. Palantir, 37signals, co-founded
+    Zinc'
+  origin: Chinese-American
+- name: Brian Sze
+  role: Co-Founder
+  background: Head of Business Operations at Stripe (2012-2016, employee ~30-500 scale); B.A. Economics, Stanford; prev. Obama
+    for America analytics team
+  origin: Chinese-American
 key_investors:
-  - New Enterprise Associates (NEA) — led Series B
-  - Emergence Capital — led Series A
-  - Stripe — led Seed
-  - Basis Set Ventures
-  - Felicis Ventures
-employee_count_estimate: "~75-150 (uncertain; 75 reported on some trackers, likely grown since 2022)"
+- New Enterprise Associates (NEA) — led Series B
+- Emergence Capital — led Series A
+- Stripe — led Seed
+- Basis Set Ventures
+- Felicis Ventures
+employee_count_estimate: ~75-150 (uncertain; 75 reported on some trackers, likely grown since 2022)
 customers_notable:
-  - Stripe
-  - Etsy
-  - Robinhood
-  - Salesforce
-  - Zoom
-  - Intuit
-  - TaskRabbit
-  - Asana
-  - Thrasio
-  - Honeylove
-  - Ashley Furniture
-  - Restaurant Brands International
-customer_count: "300+ (as of late 2025)"
+- Stripe
+- Etsy
+- Robinhood
+- Salesforce
+- Zoom
+- Intuit
+- TaskRabbit
+- Asana
+- Thrasio
+- Honeylove
+- Ashley Furniture
+- Restaurant Brands International
+customer_count: 300+ (as of late 2025)
 last_updated: 2026-03-20
 confidence: high on funding/founders; moderate on revenue and employee count
 ---

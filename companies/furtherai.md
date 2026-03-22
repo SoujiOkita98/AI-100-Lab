@@ -6,10 +6,12 @@ sector: Insurance AI
 founded: 2023
 headquarters: New York, NY
 founders:
-  - name: Aman Gour
-    role: CEO & Co-Founder
-  - name: Sashank Gondala
-    role: CTO & Co-Founder
+- name: Aman Gour
+  role: CEO & Co-Founder
+  origin: Indian
+- name: Sashank Gondala
+  role: CTO & Co-Founder
+  origin: Indian
 latest_valuation: Undisclosed (Series A stage)
 total_funding_raised: ~$30M
 employee_count_estimate: ~50 (uncertain)

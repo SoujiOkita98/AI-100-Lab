@@ -1,0 +1,2078 @@
+[
+  {
+    "company": "01-ai",
+    "name": "Kai-Fu Lee",
+    "role": "CEO",
+    "background": ""
+  },
+  {
+    "company": "01-ai",
+    "name": "Anita Huang",
+    "role": "Co-Founder",
+    "background": ""
+  },
+  {
+    "company": "01-ai",
+    "name": "Ken Qi",
+    "role": "Co-Founder",
+    "background": ""
+  },
+  {
+    "company": "1x-technologies",
+    "name": "Bernt Oivind Bornich",
+    "role": "Founder & CEO",
+    "background": "Norwegian roboticist. Studied at University of Oslo. Described as a \"science nerd, roboticist, and jack-of-all-trades.\" Has led the company from its 2014 founding through rebranding and pivot to consu"
+  },
+  {
+    "company": "1x-technologies",
+    "name": "Phuong Nguyen",
+    "role": "Co-founder, former CTO",
+    "background": ""
+  },
+  {
+    "company": "1x-technologies",
+    "name": "Jorgen Sundell",
+    "role": "Co-founder (Machinist)",
+    "background": ""
+  },
+  {
+    "company": "1x-technologies",
+    "name": "Pal Loken",
+    "role": "Co-founder (Board Member)",
+    "background": ""
+  },
+  {
+    "company": "7ai",
+    "name": "Lior Div",
+    "role": "CEO",
+    "background": ""
+  },
+  {
+    "company": "7ai",
+    "name": "Yonatan Striem-Amit",
+    "role": "CTO",
+    "background": ""
+  },
+  {
+    "company": "aaru",
+    "name": "Cameron Fink",
+    "role": "Co-founder & CEO",
+    "background": ""
+  },
+  {
+    "company": "aaru",
+    "name": "Ned Koh",
+    "role": "Co-founder & President",
+    "background": ""
+  },
+  {
+    "company": "aaru",
+    "name": "John Kessler",
+    "role": "Co-founder & CTO",
+    "background": ""
+  },
+  {
+    "company": "abridge",
+    "name": "Shiv Rao (Shivdev Rao, MD)",
+    "role": "CEO & Co-Founder",
+    "background": ""
+  },
+  {
+    "company": "abridge",
+    "name": "Sandeep Konam",
+    "role": "Co-Founder & CTO",
+    "background": ""
+  },
+  {
+    "company": "abridge",
+    "name": "Florian Metze",
+    "role": "Co-Founder (departed 2019)",
+    "background": ""
+  },
+  {
+    "company": "aeon-health",
+    "name": "Tim Seithe",
+    "role": "CEO",
+    "background": "Previously founded Tillhub (sold to Unzer/KKR)"
+  },
+  {
+    "company": "aeon-health",
+    "name": "Samuel Frey",
+    "role": "CPO",
+    "background": "Decade in product, led turnaround at Platomics"
+  },
+  {
+    "company": "ai21-labs",
+    "name": "Yoav Shoham",
+    "role": "Co-Founder, Co-CEO",
+    "background": "Professor Emeritus of Computer Science, Stanford University; former Google Principal Scientist; PhD CS Yale"
+  },
+  {
+    "company": "ai21-labs",
+    "name": "Ori Goshen",
+    "role": "Co-Founder, Co-CEO",
+    "background": "Serial entrepreneur (Fring, Crowdx); IDF Unit 8200 veteran; 15+ years technology leadership"
+  },
+  {
+    "company": "ai21-labs",
+    "name": "Amnon Shashua",
+    "role": "Co-Founder",
+    "background": "CS Professor, Hebrew University of Jerusalem; Co-founder of Mobileye (Intel acquisition, $15.3B), OrCam, OneZero; 160+ papers, 94+ patents"
+  },
+  {
+    "company": "ambience-healthcare",
+    "name": "Mike Ng",
+    "role": "Co-Founder / CEO",
+    "background": ""
+  },
+  {
+    "company": "ambience-healthcare",
+    "name": "Nikhil Buduma",
+    "role": "Co-Founder / CTO",
+    "background": ""
+  },
+  {
+    "company": "anomalo",
+    "name": "Elliot Shmukler",
+    "role": "Co-Founder & CEO",
+    "background": ""
+  },
+  {
+    "company": "anomalo",
+    "name": "Jeremy Stanley",
+    "role": "Co-Founder & CTO",
+    "background": "PhD (inferred from technical background)"
+  },
+  {
+    "company": "appzen",
+    "name": "Anant Kale",
+    "role": "Co-founder & CEO",
+    "background": ""
+  },
+  {
+    "company": "appzen",
+    "name": "Kunal Verma",
+    "role": "Co-founder & CTO",
+    "background": ""
+  },
+  {
+    "company": "arena",
+    "name": "Anastasios Nikolas Angelopoulos",
+    "role": "CEO",
+    "background": ""
+  },
+  {
+    "company": "arena",
+    "name": "Wei-Lin Chiang",
+    "role": "CTO",
+    "background": ""
+  },
+  {
+    "company": "arena",
+    "name": "Ion Stoica",
+    "role": "Co-founder & Advisor",
+    "background": ""
+  },
+  {
+    "company": "assembled",
+    "name": "Ryan Wang",
+    "role": "Co-Founder & CEO",
+    "background": "ML Engineer at Stripe (~employee #80); M.S. Statistics & B.A. Economics, University of Chicago"
+  },
+  {
+    "company": "assembled",
+    "name": "John Wang",
+    "role": "Co-Founder & CTO",
+    "background": "Software Engineer at Stripe (~employee #100); B.S. Computer Science, MIT; prev. Palantir, 37signals, co-founded Zinc"
+  },
+  {
+    "company": "assembled",
+    "name": "Brian Sze",
+    "role": "Co-Founder",
+    "background": "Head of Business Operations at Stripe (2012-2016, employee ~30-500 scale); B.A. Economics, Stanford; prev. Obama for America analytics team"
+  },
+  {
+    "company": "axiom-math",
+    "name": "Carina Hong",
+    "role": "CEO",
+    "background": "25-year-old Rhodes Scholar, MIT grad, Morgan Prize winner"
+  },
+  {
+    "company": "axiom-math",
+    "name": "Shubho Sengupta",
+    "role": "CTO",
+    "background": "Led Meta AI supercluster, CrypTen secure ML"
+  },
+  {
+    "company": "baichuan-intelligence",
+    "name": "Wang Xiaochuan (\u738b\u5c0f\u5ddd)",
+    "role": "Founder & CEO",
+    "background": "['Tsinghua University, Computer Science (entered via national informatics olympiad)']"
+  },
+  {
+    "company": "basis",
+    "name": "Matthew Harpe",
+    "role": "Co-Founder & CEO",
+    "background": ""
+  },
+  {
+    "company": "basis",
+    "name": "Mitchell Troyanovsky",
+    "role": "Co-Founder",
+    "background": ""
+  },
+  {
+    "company": "bland-ai",
+    "name": "Isaiah N. Granet",
+    "role": "Co-Founder & CEO",
+    "background": ""
+  },
+  {
+    "company": "bland-ai",
+    "name": "Sobhan Nejad",
+    "role": "Co-Founder & COO",
+    "background": ""
+  },
+  {
+    "company": "blocks-diy",
+    "name": "Michal Lupu",
+    "role": "CEO",
+    "background": "Former VP Product at monday.com"
+  },
+  {
+    "company": "blocks-diy",
+    "name": "Tal Haramati",
+    "role": "CTO",
+    "background": "Former VP Tech, founding team at monday.com"
+  },
+  {
+    "company": "bolt",
+    "name": "Eric Simons",
+    "role": "CEO & Co-Founder",
+    "background": ""
+  },
+  {
+    "company": "bolt",
+    "name": "Albert Pai",
+    "role": "CTO & Co-Founder",
+    "background": ""
+  },
+  {
+    "company": "brightwave",
+    "name": "Mike Conover",
+    "role": "Co-Founder & CEO",
+    "background": ""
+  },
+  {
+    "company": "brightwave",
+    "name": "Brandon Kotara",
+    "role": "Co-Founder & CTO",
+    "background": ""
+  },
+  {
+    "company": "browser-use",
+    "name": "Magnus Muller",
+    "role": "Co-Founder",
+    "background": "ETH Zurich"
+  },
+  {
+    "company": "browser-use",
+    "name": "Gregor Zunic",
+    "role": "Co-Founder",
+    "background": "ETH Zurich"
+  },
+  {
+    "company": "callosum",
+    "name": "Danyal Akarca",
+    "role": "Co-Founder",
+    "background": ""
+  },
+  {
+    "company": "callosum",
+    "name": "Jascha Achterberg",
+    "role": "Co-Founder",
+    "background": ""
+  },
+  {
+    "company": "cartesia",
+    "name": "Karan Goel",
+    "role": "CEO",
+    "background": ""
+  },
+  {
+    "company": "cartesia",
+    "name": "Albert Gu",
+    "role": "Chief Scientist",
+    "background": ""
+  },
+  {
+    "company": "cartesia",
+    "name": "Arjun Desai",
+    "role": "",
+    "background": ""
+  },
+  {
+    "company": "cartesia",
+    "name": "Brandon Yang",
+    "role": "",
+    "background": ""
+  },
+  {
+    "company": "cartesia",
+    "name": "Chris R\u00e9",
+    "role": "Stanford Professor, co-founder",
+    "background": ""
+  },
+  {
+    "company": "character-ai",
+    "name": "Noam Shazeer",
+    "role": "departed to Google, August 2024",
+    "background": ""
+  },
+  {
+    "company": "character-ai",
+    "name": "Daniel De Freitas",
+    "role": "departed to Google, August 2024",
+    "background": ""
+  },
+  {
+    "company": "cognition-ai",
+    "name": "Scott Wu",
+    "role": "CEO",
+    "background": ""
+  },
+  {
+    "company": "cognition-ai",
+    "name": "Steven Hao",
+    "role": "CTO",
+    "background": ""
+  },
+  {
+    "company": "cognition-ai",
+    "name": "Walden Yan",
+    "role": "CPO",
+    "background": ""
+  },
+  {
+    "company": "copy-ai",
+    "name": "Paul Yacoubian",
+    "role": "Co-Founder & CEO",
+    "background": ""
+  },
+  {
+    "company": "copy-ai",
+    "name": "Chris Lu",
+    "role": "Co-Founder & CTO",
+    "background": ""
+  },
+  {
+    "company": "coreweave",
+    "name": "Michael Intrator",
+    "role": "CEO",
+    "background": ""
+  },
+  {
+    "company": "coreweave",
+    "name": "Brian Venturo",
+    "role": "CTO",
+    "background": ""
+  },
+  {
+    "company": "coreweave",
+    "name": "Brannin McBee",
+    "role": "Chief Strategy Officer",
+    "background": ""
+  },
+  {
+    "company": "corvus-robotics",
+    "name": "Jackie Wu",
+    "role": "Co-founder & CEO",
+    "background": "MIT alumnus. Leads Corvus from concept through Y Combinator (S18 batch) to commercial deployment of autonomous warehouse inventory drones.\n"
+  },
+  {
+    "company": "corvus-robotics",
+    "name": "Mohammed Kabir",
+    "role": "Co-founder",
+    "background": "MIT alumnus. Brings deep technical expertise in autonomous systems and computer vision.\n"
+  },
+  {
+    "company": "corvus-robotics",
+    "name": "Jonathan Sandau",
+    "role": "Co-founder",
+    "background": ""
+  },
+  {
+    "company": "corvus-robotics",
+    "name": "Bryan Monti",
+    "role": "Co-founder",
+    "background": ""
+  },
+  {
+    "company": "covariant",
+    "name": "Pieter Abbeel",
+    "role": "Co-Founder, President & Chief Scientist (now at Amazon)",
+    "background": "PhD in CS from Stanford under Andrew Ng. Professor at UC Berkeley; Director of the Berkeley Robot Learning Lab. Former researcher at OpenAI. One of the most cited robotics/RL researchers globally. Bel"
+  },
+  {
+    "company": "covariant",
+    "name": "Peter Chen",
+    "role": "Co-Founder & CEO (now at Amazon)",
+    "background": "PhD student of Pieter Abbeel at UC Berkeley. Former researcher at OpenAI. Led Covariant as CEO from founding."
+  },
+  {
+    "company": "covariant",
+    "name": "Rocky Duan",
+    "role": "Co-Founder & CTO (now at Amazon)",
+    "background": "PhD student of Pieter Abbeel at UC Berkeley. Former researcher at OpenAI."
+  },
+  {
+    "company": "covariant",
+    "name": "Tianhao Zhang",
+    "role": "Co-Founder (remained at Covariant)",
+    "background": "Former student of Pieter Abbeel at UC Berkeley. Former researcher at Microsoft. One of the two leaders of the post-Amazon Covariant entity."
+  },
+  {
+    "company": "cresta",
+    "name": "Zayd Enam",
+    "role": "Co-Founder (former CEO)",
+    "background": ""
+  },
+  {
+    "company": "cresta",
+    "name": "Sebastian Thrun",
+    "role": "Co-Founder & Board Member",
+    "background": ""
+  },
+  {
+    "company": "cresta",
+    "name": "Tim Shi",
+    "role": "Co-Founder",
+    "background": ""
+  },
+  {
+    "company": "crusoe",
+    "name": "Chase Lochmiller",
+    "role": "CEO",
+    "background": ""
+  },
+  {
+    "company": "crusoe",
+    "name": "Cully Cavness",
+    "role": "President & COO",
+    "background": ""
+  },
+  {
+    "company": "cuspai",
+    "name": "Dr. Chad Edwards",
+    "role": "Co-Founder / CEO",
+    "background": "Chemist turned DeepTech entrepreneur; previously scaled Quantinuum (quantum computing unicorn)"
+  },
+  {
+    "company": "cuspai",
+    "name": "Prof. Max Welling",
+    "role": "Co-Founder / Chief Scientist",
+    "background": "AI pioneer; former Distinguished Scientist at Microsoft Research; VP of Technology at Qualcomm; professor at University of Amsterdam"
+  },
+  {
+    "company": "cvector",
+    "name": "Richard Zhang",
+    "role": "CEO",
+    "background": "Ex-Shell, CERN"
+  },
+  {
+    "company": "cvector",
+    "name": "Tyler Ruggles",
+    "role": "Co-founder",
+    "background": "Ex-Shell, CERN"
+  },
+  {
+    "company": "datacurve",
+    "name": "Serena Ge",
+    "role": "Co-Founder",
+    "background": "Former ML engineer intern at Cohere"
+  },
+  {
+    "company": "datacurve",
+    "name": "Charley Lee",
+    "role": "Co-Founder",
+    "background": "Former intern at Google; AI research on multi-modal RL and browser-use agents"
+  },
+  {
+    "company": "dataminr",
+    "name": "Ted Bailey",
+    "role": "CEO & Chairman",
+    "background": ""
+  },
+  {
+    "company": "dataminr",
+    "name": "Jeff Kinsey",
+    "role": "CTO",
+    "background": ""
+  },
+  {
+    "company": "dataminr",
+    "name": "Sam Hendel",
+    "role": "co-founder; no longer in operating role",
+    "background": ""
+  },
+  {
+    "company": "datawizz",
+    "name": "Iddo Gino",
+    "role": "CEO",
+    "background": "Previously built RapidAPI into world largest API marketplace"
+  },
+  {
+    "company": "david-ai",
+    "name": "Tomer Cohen",
+    "role": "CEO",
+    "background": "Former Scale AI employee"
+  },
+  {
+    "company": "david-ai",
+    "name": "Ben Wiley",
+    "role": "CTO",
+    "background": "Former Scale AI employee"
+  },
+  {
+    "company": "decagon",
+    "name": "Jesse Zhang",
+    "role": "Co-Founder & CEO",
+    "background": "B.S. Computer Science from Harvard University. Interned at Citadel, Google, Hudson River Trading, Intel, and Kensho. Founded Lowkey, a social gaming startup backed by Y Combinator and a16z, which was "
+  },
+  {
+    "company": "decagon",
+    "name": "Ashwin Sreenivas",
+    "role": "Co-Founder & CTO",
+    "background": "B.S. and M.S. in Computer Science from Stanford University. Worked as Deployment Strategist at Palantir Technologies. Co-founded Helia (AI startup acquired by Scale AI in December 2020), where he serv"
+  },
+  {
+    "company": "deepl",
+    "name": "Jaroslaw (Jarek) Kutylowski",
+    "role": "CEO (since 2019; previously CTO)",
+    "background": "['PhD in Computer Science (emphasis on mathematics) -- institution not publicly confirmed']"
+  },
+  {
+    "company": "deepl",
+    "name": "Gereon Frahling",
+    "role": "Former Head of Research (departed ~2019)",
+    "background": "['PhD (field unconfirmed)']"
+  },
+  {
+    "company": "deepl",
+    "name": "Leonard Fink",
+    "role": "Co-founder (current role unclear)",
+    "background": ""
+  },
+  {
+    "company": "descript",
+    "name": "Andrew Mason",
+    "role": "Executive Chairman (formerly CEO)",
+    "background": "Co-founder & former CEO of Groupon; Northwestern University (Music, 2003); founded Detour (audio tours app, acquired by Bose 2018)"
+  },
+  {
+    "company": "elevenlabs",
+    "name": "Mati Staniszewski",
+    "role": "CEO",
+    "background": "Ex-Palantir deployment strategist; studied mathematics at Imperial College London; grew up in Warsaw, Poland"
+  },
+  {
+    "company": "elevenlabs",
+    "name": "Piotr Dabkowski",
+    "role": "CTO",
+    "background": "Ex-Google machine learning engineer; degrees from Oxford and Cambridge (AI/ML focus); NeurIPS-published researcher (image detection); grew up in Warsaw, Poland"
+  },
+  {
+    "company": "eliseai",
+    "name": "Minna Song",
+    "role": "CEO & Co-Founder",
+    "background": ""
+  },
+  {
+    "company": "eliseai",
+    "name": "Stoyan (Tony) Stoyanov",
+    "role": "CTO & Co-Founder",
+    "background": ""
+  },
+  {
+    "company": "emanate",
+    "name": "Kiara Nirghin",
+    "role": "CEO",
+    "background": "Stanford AI researcher, Google Science Fair Grand Prize winner, Thiel Fellow, youngest Google Impact Fund board member"
+  },
+  {
+    "company": "emergent",
+    "name": "Mukund Jha",
+    "role": "CEO",
+    "background": "Former Co-Founder/CTO at Dunzo; worked at Google"
+  },
+  {
+    "company": "emergent",
+    "name": "Madhav Jha",
+    "role": "CTO",
+    "background": "Von Neumann postdoctoral fellow at Sandia National Labs; founding member of Amazon SageMaker research team"
+  },
+  {
+    "company": "entalpic",
+    "name": "Mathieu Galtier",
+    "role": "CEO",
+    "background": "Former Chief Data & Platform Officer at Owkin (AI drug discovery unicorn); built Owkin's data partnership network with industrial leaders"
+  },
+  {
+    "company": "entalpic",
+    "name": "Victor Schmidt",
+    "role": "CTO",
+    "background": "Researcher at Mila (Quebec AI Institute); authored papers on predictive and generative models for materials"
+  },
+  {
+    "company": "entalpic",
+    "name": "Alexandre Duval",
+    "role": "CSO (Chief Scientific Officer)",
+    "background": "Researcher at Mila (Quebec AI Institute); co-authored foundational papers on AI for materials discovery"
+  },
+  {
+    "company": "evenup",
+    "name": "Rami Karabibar",
+    "role": "CEO & Co-Founder",
+    "background": ""
+  },
+  {
+    "company": "evenup",
+    "name": "Saam Mashhad",
+    "role": "CPO & Co-Founder",
+    "background": ""
+  },
+  {
+    "company": "evenup",
+    "name": "Raymond Mieszaniec",
+    "role": "COO & Co-Founder",
+    "background": ""
+  },
+  {
+    "company": "exa",
+    "name": "Will Bryk",
+    "role": "CEO",
+    "background": ""
+  },
+  {
+    "company": "exa",
+    "name": "Jeff Wang",
+    "role": "Co-Founder",
+    "background": ""
+  },
+  {
+    "company": "field-ai",
+    "name": "Ali Agha",
+    "role": "Founder & CEO",
+    "background": "Spent nearly a decade at NASA's Jet Propulsion Laboratory (JPL) specializing in robotics autonomy and physical AI. Led teams that competed in the DARPA Subterranean Challenge. Built FieldAI's core tec"
+  },
+  {
+    "company": "finster-ai",
+    "name": "Sid Jayakumar",
+    "role": "Founder",
+    "background": "7 years AI research at Google DeepMind"
+  },
+  {
+    "company": "flapping-airplanes",
+    "name": "Ben Spector",
+    "role": "Co-founder",
+    "background": ""
+  },
+  {
+    "company": "flapping-airplanes",
+    "name": "Asher Spector",
+    "role": "Co-founder",
+    "background": ""
+  },
+  {
+    "company": "flapping-airplanes",
+    "name": "Aidan Smith",
+    "role": "Co-founder",
+    "background": ""
+  },
+  {
+    "company": "flex-ai",
+    "name": "Brijesh Tripathi",
+    "role": "Co-founder & CEO",
+    "background": ""
+  },
+  {
+    "company": "flex-ai",
+    "name": "Dali Kilani",
+    "role": "Co-founder & CTO",
+    "background": ""
+  },
+  {
+    "company": "forsight-robotics",
+    "name": "Prof. Moshe Shoham",
+    "role": "Co-founder",
+    "background": "Professor at the Technion - Israel Institute of Technology. Pioneer in medical robotics, previously co-founded Mazor Robotics (acquired by Medtronic for $1.64B in 2018). One of the most accomplished s"
+  },
+  {
+    "company": "forsight-robotics",
+    "name": "Dr. Daniel Glozman",
+    "role": "Co-founder & CEO",
+    "background": "Medical robotics expert with deep experience in surgical systems development. Leads ForSight's commercialization and clinical trial strategy.\n"
+  },
+  {
+    "company": "forsight-robotics",
+    "name": "Dr. Joseph Nathan",
+    "role": "Co-founder",
+    "background": ""
+  },
+  {
+    "company": "fourier-intelligence",
+    "name": "Alex Gu (Gu Jie)",
+    "role": "Founder & CEO",
+    "background": "Graduated from Shanghai Jiao Tong University. Previously a sales executive at National Instruments. Founded Fourier in 2015 with a focus on rehabilitation robotics before pivoting to general-purpose h"
+  },
+  {
+    "company": "furtherai",
+    "name": "Aman Gour",
+    "role": "CEO & Co-Founder",
+    "background": ""
+  },
+  {
+    "company": "furtherai",
+    "name": "Sashank Gondala",
+    "role": "CTO & Co-Founder",
+    "background": ""
+  },
+  {
+    "company": "galileo-ai",
+    "name": "Vikram Chatterji",
+    "role": "Co-Founder & CEO",
+    "background": "Google AI (Product Management, BERT/Transformers), Google Pay India, Android"
+  },
+  {
+    "company": "galileo-ai",
+    "name": "Atindriyo Sanyal",
+    "role": "Co-Founder & CTO",
+    "background": "Uber AI (Engineering Lead, Michelangelo feature store), Apple (early Siri engineer)"
+  },
+  {
+    "company": "galileo-ai",
+    "name": "Yash Sheth",
+    "role": "Co-Founder & COO",
+    "background": "Google (Tech Lead & Manager, Speech Recognizer platform, 9 years; scaled speech recognition 800x across 20+ products)"
+  },
+  {
+    "company": "gather-ai",
+    "name": "Sankalp Arora",
+    "role": "Co-founder & CEO",
+    "background": "PhD from Carnegie Mellon University's Robotics Institute. Co-built one of the first autonomous helicopters, tested at FBI training grounds in Quantico. Led Gather AI from CMU spinout to commercial war"
+  },
+  {
+    "company": "gather-ai",
+    "name": "Daniel Maturana",
+    "role": "Co-founder & CTO",
+    "background": "PhD from Carnegie Mellon University's Robotics Institute. Expert in computer vision and 3D perception for autonomous systems.\n"
+  },
+  {
+    "company": "gather-ai",
+    "name": "Geetesh Dubey",
+    "role": "Co-founder",
+    "background": "PhD student at Carnegie Mellon University. Co-developed the autonomous helicopter technology that preceded Gather AI.\n"
+  },
+  {
+    "company": "general-intuition",
+    "name": "Pim de Witte",
+    "role": "CEO",
+    "background": "CEO of Medal (largest gameplay-sharing platform)"
+  },
+  {
+    "company": "genesis-ai-robotics",
+    "name": "Zhou Xian",
+    "role": "CEO",
+    "background": "PhD robotics CMU, creator of Genesis physics simulation engine"
+  },
+  {
+    "company": "genesis-ai-robotics",
+    "name": "Theophile Gervet",
+    "role": "Co-founder",
+    "background": "Former research scientist at Mistral AI"
+  },
+  {
+    "company": "h-company",
+    "name": "Charles Kantor",
+    "role": "Co-founder",
+    "background": ""
+  },
+  {
+    "company": "h-company",
+    "name": "Laurent Sifre",
+    "role": "Co-founder",
+    "background": ""
+  },
+  {
+    "company": "h-company",
+    "name": "Daan Wierstra",
+    "role": "Co-founder (departed Aug 2024)",
+    "background": ""
+  },
+  {
+    "company": "h-company",
+    "name": "Karl Tuyls",
+    "role": "Co-founder (departed Aug 2024)",
+    "background": ""
+  },
+  {
+    "company": "h-company",
+    "name": "Julien Perolat",
+    "role": "Co-founder (departed Aug 2024)",
+    "background": ""
+  },
+  {
+    "company": "hadrius",
+    "name": "Thomas Stewart",
+    "role": "Co-Founder",
+    "background": ""
+  },
+  {
+    "company": "hadrius",
+    "name": "Som Mohapatra",
+    "role": "Co-Founder",
+    "background": ""
+  },
+  {
+    "company": "hadrius",
+    "name": "Allen Calderwood",
+    "role": "Co-Founder",
+    "background": ""
+  },
+  {
+    "company": "happyrobot",
+    "name": "Pablo Palafox",
+    "role": "Co-Founder / CEO",
+    "background": "Spanish-born founder; Y Combinator S23"
+  },
+  {
+    "company": "happyrobot",
+    "name": "Diego Palafox",
+    "role": "Co-Founder",
+    "background": "Spanish-born co-founder"
+  },
+  {
+    "company": "harper",
+    "name": "Dakotah Rice",
+    "role": "CEO",
+    "background": "Former Investment Banking (TMT) at Goldman Sachs; co-founded Poolit (scaled to $100M AUM)"
+  },
+  {
+    "company": "harper",
+    "name": "Tushar Nair",
+    "role": "CTO",
+    "background": "Former ML/AI engineering lead at Goldman Sachs (~9 years); co-founded Poolit"
+  },
+  {
+    "company": "harvey-ai",
+    "name": "Winston Weinberg",
+    "role": "CEO & Co-Founder",
+    "background": ""
+  },
+  {
+    "company": "harvey-ai",
+    "name": "Gabriel Pereyra",
+    "role": "President & Co-Founder",
+    "background": ""
+  },
+  {
+    "company": "hebbia",
+    "name": "George Sivulka",
+    "role": "Founder & CEO",
+    "background": ""
+  },
+  {
+    "company": "honey-health",
+    "name": "Matt Faustman",
+    "role": "CEO",
+    "background": "Ex-LinkedIn AI leader. Sold previous company to LinkedIn. Type 1 diabetic."
+  },
+  {
+    "company": "iconic-gaming",
+    "name": "John Lusty",
+    "role": "Co-founder",
+    "background": ""
+  },
+  {
+    "company": "iconic-gaming",
+    "name": "Junaid Hussain",
+    "role": "Co-founder",
+    "background": ""
+  },
+  {
+    "company": "iconic-gaming",
+    "name": "Andrew Bowell",
+    "role": "CEO",
+    "background": "Former Product Head at Unity"
+  },
+  {
+    "company": "imbue",
+    "name": "Kanjun Qiu",
+    "role": "CEO",
+    "background": ""
+  },
+  {
+    "company": "imbue",
+    "name": "Josh Albrecht",
+    "role": "CTO",
+    "background": ""
+  },
+  {
+    "company": "ineffable-intelligence",
+    "name": "David Silver",
+    "role": "CEO",
+    "background": "Legendary DeepMind researcher who created AlphaGo. Professor at UCL."
+  },
+  {
+    "company": "inferact",
+    "name": "Simon Mo",
+    "role": "Co-founder",
+    "background": "Core vLLM maintainer"
+  },
+  {
+    "company": "inferact",
+    "name": "Woosuk Kwon",
+    "role": "Co-founder",
+    "background": "Core vLLM maintainer"
+  },
+  {
+    "company": "inferact",
+    "name": "Kaichao You",
+    "role": "Co-founder",
+    "background": ""
+  },
+  {
+    "company": "inferact",
+    "name": "Roger Wang",
+    "role": "Co-founder",
+    "background": ""
+  },
+  {
+    "company": "inflection-ai",
+    "name": "Mustafa Suleyman",
+    "role": "Co-Founder & original CEO (departed March 2024 to Microsoft)",
+    "background": "Co-founder of DeepMind; formerly VP of AI at Google"
+  },
+  {
+    "company": "inflection-ai",
+    "name": "Kar\u00e9n Simonyan",
+    "role": "Co-Founder & original Chief Scientist (departed March 2024 to Microsoft)",
+    "background": "AI researcher; led development of AlphaZero at DeepMind"
+  },
+  {
+    "company": "inflection-ai",
+    "name": "Reid Hoffman",
+    "role": "Co-Founder & investor",
+    "background": "Co-founder of LinkedIn; General Partner at Greylock Partners"
+  },
+  {
+    "company": "jetstream-security",
+    "name": "Raj Rajamani",
+    "role": "CEO",
+    "background": "Ex-CrowdStrike"
+  },
+  {
+    "company": "jetstream-security",
+    "name": "Jared Phipps",
+    "role": "COO",
+    "background": "Ex-SentinelOne"
+  },
+  {
+    "company": "jump-ai",
+    "name": "Parker Ence",
+    "role": "Co-Founder & CEO",
+    "background": ""
+  },
+  {
+    "company": "jump-ai",
+    "name": "Tim Chaves",
+    "role": "Co-Founder",
+    "background": ""
+  },
+  {
+    "company": "jump-ai",
+    "name": "Adam Kirk",
+    "role": "Co-Founder",
+    "background": ""
+  },
+  {
+    "company": "kalshi",
+    "name": "Tarek Mansour",
+    "role": "Co-Founder / CEO",
+    "background": "Algerian-born; MIT graduate; quantitative finance background"
+  },
+  {
+    "company": "kalshi",
+    "name": "Luana Lopes Lara",
+    "role": "Co-Founder",
+    "background": "Brazilian-born; MIT classmate of Mansour; financial analyst background"
+  },
+  {
+    "company": "kana-ai",
+    "name": "Tom Chavez",
+    "role": "CEO",
+    "background": "Serial martech founder \u2014 Rapt (acq Microsoft), Krux (acq Salesforce)"
+  },
+  {
+    "company": "kana-ai",
+    "name": "Vivek Vaidya",
+    "role": "CTO",
+    "background": "Co-founded Rapt and Krux"
+  },
+  {
+    "company": "labelbox",
+    "name": "Manu Sharma",
+    "role": "CEO & Co-founder",
+    "background": "Aerospace engineer (Embry-Riddle, Stanford); former engineer at Planet Labs and DroneDeploy; born in Roorkee, India"
+  },
+  {
+    "company": "labelbox",
+    "name": "Brian Rieger",
+    "role": "President & Co-founder",
+    "background": "Former Boeing 787 aerodynamicist; Forbes 30 Under 30; built aerospace hardware for the ISS"
+  },
+  {
+    "company": "labelbox",
+    "name": "Dan Rasmuson",
+    "role": "Co-founder",
+    "background": "Software developer; early work in medical diagnostic imaging tools"
+  },
+  {
+    "company": "lambda",
+    "name": "Stephen Balaban",
+    "role": "CEO",
+    "background": ""
+  },
+  {
+    "company": "lambda",
+    "name": "Michael Balaban",
+    "role": "CTO",
+    "background": ""
+  },
+  {
+    "company": "leta-logistics",
+    "name": "Nick Joshi",
+    "role": "CEO",
+    "background": ""
+  },
+  {
+    "company": "leta-logistics",
+    "name": "Kip Maritim",
+    "role": "CTO",
+    "background": ""
+  },
+  {
+    "company": "leta-logistics",
+    "name": "Anthony Ketter",
+    "role": "COO",
+    "background": ""
+  },
+  {
+    "company": "lila-sciences",
+    "name": "Geoffrey von Maltzahn",
+    "role": "CEO",
+    "background": "GP at Flagship Pioneering. Co-founded 10 companies with $10B combined market cap."
+  },
+  {
+    "company": "lmarena",
+    "name": "Anastasios N. Angelopoulos",
+    "role": "CEO",
+    "background": "PhD EECS UC Berkeley"
+  },
+  {
+    "company": "lmarena",
+    "name": "Wei-Lin Chiang",
+    "role": "CTO",
+    "background": "PhD EECS UC Berkeley"
+  },
+  {
+    "company": "lmarena",
+    "name": "Ion Stoica",
+    "role": "Co-founder/Advisor",
+    "background": "Berkeley professor, co-founded Databricks and Anyscale"
+  },
+  {
+    "company": "lovable",
+    "name": "Anton Osika",
+    "role": "Co-Founder & CEO",
+    "background": ""
+  },
+  {
+    "company": "lovable",
+    "name": "Fabian Hedin",
+    "role": "Co-Founder & CTO",
+    "background": ""
+  },
+  {
+    "company": "lumai",
+    "name": "Tim Weil",
+    "role": "CEO",
+    "background": "Oxford spinout co-founder."
+  },
+  {
+    "company": "luminance",
+    "name": "Adam Guthrie",
+    "role": "Founder / Chief Technical Architect",
+    "background": "Cambridge-based AI researcher"
+  },
+  {
+    "company": "luminance",
+    "name": "Dr. Graham Sills",
+    "role": "Founder / Director of AI",
+    "background": "Cambridge-based AI researcher"
+  },
+  {
+    "company": "luminance",
+    "name": "Dr. Mike Lynch (deceased)",
+    "role": "Original seed investor and early backer",
+    "background": "Founder of Autonomy (acquired by HP for $11B); died in yacht accident in August 2024"
+  },
+  {
+    "company": "magic",
+    "name": "Eric Steinberger",
+    "role": "Co-founder & CEO",
+    "background": "Born in Vienna, Austria. Obsessed with AI from age 14. Studied Computer Science at University of Cambridge (2018-2020). Researcher in Deep Reinforcement Learning at Facebook AI Research (FAIR) from 20"
+  },
+  {
+    "company": "magic",
+    "name": "Sebastian De Ro",
+    "role": "Co-founder & CTO",
+    "background": "Holds a Master's degree in Computer Science. Previously at Google Research, specializing in large-scale machine learning systems. Co-founded two AI startups in Europe focused on NLP. Expertise in neur"
+  },
+  {
+    "company": "maieutic-semi",
+    "name": "Gireesh Rajendran",
+    "role": "CEO",
+    "background": ""
+  },
+  {
+    "company": "maieutic-semi",
+    "name": "Ashish Lachhwani",
+    "role": "Co-founder",
+    "background": ""
+  },
+  {
+    "company": "maieutic-semi",
+    "name": "Rakesh Kumar",
+    "role": "Co-founder",
+    "background": ""
+  },
+  {
+    "company": "majestic-labs",
+    "name": "Sha Rabii",
+    "role": "President",
+    "background": "Led Google silicon team, then Meta FAST."
+  },
+  {
+    "company": "majestic-labs",
+    "name": "Masumi Reynders",
+    "role": "COO",
+    "background": "Ex-Google, Meta FAST teams."
+  },
+  {
+    "company": "mal-bank",
+    "name": "Abdallah Abu-Sheikh",
+    "role": "CEO",
+    "background": "Serial fintech entrepreneur"
+  },
+  {
+    "company": "manus-ai",
+    "name": "Xiao Hong (\u8427\u5f18)",
+    "role": "Co-founder & CEO",
+    "background": "['Details not widely reported; first startup launched in 2016, one year after graduation']"
+  },
+  {
+    "company": "manus-ai",
+    "name": "Ji Yichao (\u5b63\u9038\u8d85), known as \"Peak\"",
+    "role": "Co-founder & Chief Scientist",
+    "background": "['Beijing Information Science and Technology University (dropped out)']"
+  },
+  {
+    "company": "manus-ai",
+    "name": "Zhang Tao (\u5f20\u6d9b)",
+    "role": "Co-founder & CPO (Product)",
+    "background": "['Chongqing University of Posts and Telecommunications']"
+  },
+  {
+    "company": "mercor",
+    "name": "Brendan Foody",
+    "role": "CEO",
+    "background": "Georgetown University (dropped out, sophomore year)"
+  },
+  {
+    "company": "mercor",
+    "name": "Adarsh Hiremath",
+    "role": "CTO",
+    "background": "Harvard University (dropped out, sophomore year)"
+  },
+  {
+    "company": "mercor",
+    "name": "Surya Midha",
+    "role": "Board Chairman (formerly COO)",
+    "background": "Georgetown University (dropped out, sophomore year)"
+  },
+  {
+    "company": "merge-labs",
+    "name": "Sam Altman",
+    "role": "Co-founder",
+    "background": "CEO of OpenAI"
+  },
+  {
+    "company": "merge-labs",
+    "name": "Alex Blania",
+    "role": "Co-founder",
+    "background": "Tools for Humanity"
+  },
+  {
+    "company": "merge-labs",
+    "name": "Mikhail Shapiro",
+    "role": "Co-founder",
+    "background": "Caltech researcher"
+  },
+  {
+    "company": "mindoo",
+    "name": "Gauthier Willemse",
+    "role": "CEO",
+    "background": "MD from KU Leuven, surgeon, MPH Harvard"
+  },
+  {
+    "company": "mindoo",
+    "name": "Bart Lens",
+    "role": "CTO",
+    "background": "Ex-senior engineer at DataCamp, founding engineer at Conveo"
+  },
+  {
+    "company": "minimax",
+    "name": "Yan Junjie (\u95eb\u4fca\u6770)",
+    "role": "CEO & Chairman",
+    "background": "Former VP & Deputy Head of Research at SenseTime; PhD from Chinese Academy of Sciences; postdoc at Tsinghua University"
+  },
+  {
+    "company": "minimax",
+    "name": "Zhou Yucong",
+    "role": "Executive Director, Visual Model Research & Engineering Lead",
+    "background": "Former SenseTime (2018-2019); former Huawei (2019-2022), focused on algorithms"
+  },
+  {
+    "company": "minimax",
+    "name": "Yang Bin",
+    "role": "Co-founder (listed as former co-founder in some sources)",
+    "background": "Veteran of China's AI scene"
+  },
+  {
+    "company": "minimax",
+    "name": "Yun Yeyi",
+    "role": "COO",
+    "background": "Former SenseTime employee"
+  },
+  {
+    "company": "mistral-ai",
+    "name": "Arthur Mensch",
+    "role": "CEO",
+    "background": "['Ecole Polytechnique (2011)', 'Telecom Paris', 'MSc Mathematics, Vision, Learning - Universite Paris-Saclay', 'PhD Machine Learning - Universite Paris-Saclay']"
+  },
+  {
+    "company": "mistral-ai",
+    "name": "Guillaume Lample",
+    "role": "Chief Scientist",
+    "background": "['Ecole Polytechnique', 'Carnegie Mellon University']"
+  },
+  {
+    "company": "mistral-ai",
+    "name": "Timothee Lacroix",
+    "role": "CTO",
+    "background": "['Ecole Normale Superieure']"
+  },
+  {
+    "company": "modal",
+    "name": "Erik Bernhardsson",
+    "role": "CEO",
+    "background": "Ex-Spotify (~employee #30), built music recommendations (Discover Weekly, Related Artists, Radio); created open-source tools Luigi and Annoy; M.Sc. Physics, KTH Stockholm; ran tech team at Better.com "
+  },
+  {
+    "company": "modal",
+    "name": "Akshat Bubna",
+    "role": "CTO",
+    "background": "Early employee at Scale AI; MIT B.S. Math & CS (2014-2017); IOI Gold Medalist 2014 (first Indian student to achieve this); competitive crossword solver"
+  },
+  {
+    "company": "modelbest",
+    "name": "Li Dahai (\u674e\u5927\u6d77)",
+    "role": "Co-founder & CEO",
+    "background": "['Tsinghua University (affiliated)']"
+  },
+  {
+    "company": "modelbest",
+    "name": "Liu Zhiyuan (\u5218\u77e5\u8fdc)",
+    "role": "Co-founder & Chief Scientist",
+    "background": "['Tsinghua University, tenured Associate Professor, Department of Computer Science']"
+  },
+  {
+    "company": "monarch-tractor",
+    "name": "Praveen Penmetsa",
+    "role": "Co-founder & CEO",
+    "background": "Autonomy and mobility engineer. Has led Monarch from founding through to commercial production and global deployment of autonomous electric tractors.\n"
+  },
+  {
+    "company": "monarch-tractor",
+    "name": "Mark Schwager",
+    "role": "Co-founder & President",
+    "background": "Former Tesla Gigafactory chief. Brings manufacturing scale-up expertise from Tesla's battery and vehicle production operations.\n"
+  },
+  {
+    "company": "monarch-tractor",
+    "name": "Zachary Omohundro",
+    "role": "Co-founder & CTO",
+    "background": "Robotics PhD from Carnegie Mellon University. Leads Monarch's autonomous driving and AI technology development.\n"
+  },
+  {
+    "company": "monarch-tractor",
+    "name": "Carlo Mondavi",
+    "role": "Co-founder & Chief Farming Officer",
+    "background": "Member of the Napa Valley Mondavi winery family. Sustainability- focused vintner who provides real-world agricultural expertise and was an early testing partner for autonomous tractors in vineyards.\n"
+  },
+  {
+    "company": "monte-carlo-data",
+    "name": "Jordan Van Horn",
+    "role": "Co-Founder",
+    "background": ""
+  },
+  {
+    "company": "nace-ai",
+    "name": "Dos Baha",
+    "role": "CEO",
+    "background": ""
+  },
+  {
+    "company": "nace-ai",
+    "name": "Zhanibek Datbayev",
+    "role": "CTO",
+    "background": "Ex-Google, Meta, U of Toronto"
+  },
+  {
+    "company": "nebius",
+    "name": "Arkady Volozh",
+    "role": "CEO & Co-Founder, originally of Yandex",
+    "background": ""
+  },
+  {
+    "company": "neura-robotics",
+    "name": "David Reger",
+    "role": "Co-founder & CEO",
+    "background": "German entrepreneur and robotics engineer. Previously founded other technology ventures. Leads NEURA's vision for cognitive robots that can perceive, learn, and interact naturally with humans.\n"
+  },
+  {
+    "company": "neura-robotics",
+    "name": "Mavarick H",
+    "role": "Co-founder",
+    "background": ""
+  },
+  {
+    "company": "neura-robotics",
+    "name": "Sugeeth Gopinathan",
+    "role": "Co-founder",
+    "background": ""
+  },
+  {
+    "company": "neura-robotics",
+    "name": "Milad Malekzadeh",
+    "role": "Co-founder",
+    "background": ""
+  },
+  {
+    "company": "nevis",
+    "name": "Mark Swan",
+    "role": "Co-Founder & CEO",
+    "background": ""
+  },
+  {
+    "company": "nevis",
+    "name": "Philipp Burda",
+    "role": "Co-Founder & CPO",
+    "background": ""
+  },
+  {
+    "company": "nevis",
+    "name": "Ivan Chalov",
+    "role": "Co-Founder & COO",
+    "background": ""
+  },
+  {
+    "company": "nexthop-ai",
+    "name": "Anshul Sadana",
+    "role": "CEO & Founder",
+    "background": ""
+  },
+  {
+    "company": "norm-ai",
+    "name": "John Nay",
+    "role": "CEO & Founder",
+    "background": ""
+  },
+  {
+    "company": "nous-research",
+    "name": "Jeffrey Quesnelle",
+    "role": "CEO & Co-Founder",
+    "background": "['BS Computer Science, Oakland University', 'MS Computer Science, University of Michigan']"
+  },
+  {
+    "company": "nous-research",
+    "name": "Karan Malhotra",
+    "role": "Head of Behavior & Co-Founder",
+    "background": "['BA Philosophy and Religion, Emory University']"
+  },
+  {
+    "company": "nous-research",
+    "name": "Teknium",
+    "role": "Head of Post-Training & Co-Founder",
+    "background": "['Not publicly disclosed']"
+  },
+  {
+    "company": "nous-research",
+    "name": "Shivani Mitra",
+    "role": "Co-Founder",
+    "background": "['Not publicly disclosed']"
+  },
+  {
+    "company": "nscale",
+    "name": "Josh Payne",
+    "role": "CEO & Founder",
+    "background": ""
+  },
+  {
+    "company": "numeric",
+    "name": "Parker Gilbert",
+    "role": "Co-Founder & CEO",
+    "background": ""
+  },
+  {
+    "company": "numeric",
+    "name": "Andrew Bihl",
+    "role": "Co-Founder & CTO",
+    "background": ""
+  },
+  {
+    "company": "numeric",
+    "name": "Anthony Alvernaz",
+    "role": "Co-Founder & CPO",
+    "background": ""
+  },
+  {
+    "company": "openevidence",
+    "name": "Daniel Nadler",
+    "role": "CEO / Founder",
+    "background": "Serial entrepreneur; previously founded Kensho (acquired by S&P Global for $550M)"
+  },
+  {
+    "company": "oxmiq-labs",
+    "name": "Raja Koduri",
+    "role": "Founder",
+    "background": "Renowned GPU architect, formerly Apple, AMD, Intel"
+  },
+  {
+    "company": "parallel-web",
+    "name": "Parag Agrawal",
+    "role": "CEO",
+    "background": "Former Twitter/X CEO and CTO"
+  },
+  {
+    "company": "patronus-ai",
+    "name": "Anand Kannappan",
+    "role": "Co-Founder & CEO",
+    "background": "Former Head of Engineering & ML at Vertis; ML explainability lead at Meta Reality Labs; Data Scientist at Facebook; Co-Founder of Kyber Technologies; BS in Economics, Computer Science & Statistics fro"
+  },
+  {
+    "company": "patronus-ai",
+    "name": "Rebecca Qian",
+    "role": "Co-Founder & CTO",
+    "background": "Former Facebook AI researcher; trained FairBERTa (fairness-focused LLM); built semantic parsing for robotic assistants at Meta; created Continuous Contrast Set Mining (adopted across Facebook infra, p"
+  },
+  {
+    "company": "periodic-labs",
+    "name": "Liam Fedus",
+    "role": "CEO",
+    "background": "Former VP Research at OpenAI, co-creator of ChatGPT"
+  },
+  {
+    "company": "periodic-labs",
+    "name": "Ekin Dogus Cubuk",
+    "role": "Co-founder",
+    "background": "Former Google Brain/DeepMind, creator of GNoME"
+  },
+  {
+    "company": "pika",
+    "name": "Demi Guo (Guo Wenjing / \u90ed\u6587\u666f)",
+    "role": "Co-founder & CEO",
+    "background": "['Harvard University, BA Mathematics & MS Computer Science', 'Stanford University, PhD (Computer Science) \u2014 dropped out April 2023']"
+  },
+  {
+    "company": "pika",
+    "name": "Chenlin Meng (\u5b5f\u8fb0\u7433)",
+    "role": "Co-founder & CTO",
+    "background": "['Stanford University, BA Mathematics (undergraduate)', 'Stanford University, PhD Computer Science \u2014 dropped out April 2023']"
+  },
+  {
+    "company": "poolside",
+    "name": "Jason Warner",
+    "role": "CEO",
+    "background": "Former CTO of GitHub (incubated Copilot); previously VP Engineering at Heroku; ex-Canonical; Managing Director at Redpoint Ventures (2021-2023)"
+  },
+  {
+    "company": "poolside",
+    "name": "Eiso Kant",
+    "role": "CTO",
+    "background": "Founded source{d} (first AI-on-code company); co-founded Athenian (engineering analytics); serial developer-tools entrepreneur"
+  },
+  {
+    "company": "rebellion-defense",
+    "name": "Chris Lynch",
+    "role": "",
+    "background": ""
+  },
+  {
+    "company": "rebellion-defense",
+    "name": "Nicole Camarillo",
+    "role": "",
+    "background": ""
+  },
+  {
+    "company": "rebellion-defense",
+    "name": "Oliver Lewis",
+    "role": "",
+    "background": ""
+  },
+  {
+    "company": "rebellion-defense",
+    "name": "Chase Kimball",
+    "role": "",
+    "background": ""
+  },
+  {
+    "company": "reflection-ai",
+    "name": "Misha Laskin",
+    "role": "CEO",
+    "background": ""
+  },
+  {
+    "company": "reflection-ai",
+    "name": "Ioannis Antonoglou",
+    "role": "Co-founder",
+    "background": ""
+  },
+  {
+    "company": "replicate",
+    "name": "Ben Firshman",
+    "role": "Co-founder & CEO",
+    "background": "Creator of Docker Compose; former Director of Product Management at Docker; 4x founder"
+  },
+  {
+    "company": "replicate",
+    "name": "Andreas Jansson",
+    "role": "Co-founder & CTO",
+    "background": "Former Staff ML Engineer at Spotify (2014-2019); PhD in ML for music"
+  },
+  {
+    "company": "replit",
+    "name": "Amjad Masad",
+    "role": "CEO & Co-Founder",
+    "background": ""
+  },
+  {
+    "company": "replit",
+    "name": "Faris Masad",
+    "role": "Co-Founder",
+    "background": ""
+  },
+  {
+    "company": "replit",
+    "name": "Haya Odeh",
+    "role": "Co-Founder (Design)",
+    "background": ""
+  },
+  {
+    "company": "resolve-ai",
+    "name": "Spiros Xanthos",
+    "role": "Co-founder",
+    "background": "Ex-SVP/GM Observability at Splunk, co-founded Omnition (acq Splunk)"
+  },
+  {
+    "company": "robust-intelligence",
+    "name": "Yaron Singer",
+    "role": "CEO & Co-Founder",
+    "background": "Tenured Professor of Computer Science & Applied Mathematics at Harvard (Gordon McKay Professor). Israeli-born. PhD from UC Berkeley. Previously researcher at Google AI and consulting researcher at Mic"
+  },
+  {
+    "company": "robust-intelligence",
+    "name": "Kojin Oshiba",
+    "role": "Co-Founder",
+    "background": "BA in Computer Science & Statistics from Harvard. Grew up in Japan. Previously ML engineer at QuantCo; co-founded its Japan branch. Published at ICML and NeurIPS. Forbes 30 Under 30 in Enterprise Tech"
+  },
+  {
+    "company": "safe-superintelligence",
+    "name": "Ilya Sutskever",
+    "role": "CEO",
+    "background": "Former OpenAI co-founder and chief scientist"
+  },
+  {
+    "company": "safe-superintelligence",
+    "name": "Daniel Gross",
+    "role": "Co-founder",
+    "background": "Former head of Apple AI"
+  },
+  {
+    "company": "safe-superintelligence",
+    "name": "Daniel Levy",
+    "role": "Co-founder",
+    "background": "AI researcher"
+  },
+  {
+    "company": "sakana-ai",
+    "name": "David Ha",
+    "role": "CEO",
+    "background": "PhD Computer Science (UBC); former Research Scientist at Google Brain (Japan); former Head of Research at Stability AI (2022-2023); earlier career in finance as Co-Head of Fixed Income Trading at Gold"
+  },
+  {
+    "company": "sakana-ai",
+    "name": "Llion Jones",
+    "role": "CTO",
+    "background": "MSc Advanced Computer Science, University of Birmingham; co-author of 'Attention Is All You Need' (2017), the foundational Transformer paper; ~12 years at Google before departing to co-found Sakana AI"
+  },
+  {
+    "company": "sakana-ai",
+    "name": "Ren Ito",
+    "role": "COO",
+    "background": "Former Japanese diplomat (15 years); speechwriter for PM Shinzo Abe; Japan representative at World Bank board; early employee at Mercari (Japan's first unicorn), CEO of Mercari Europe through $3.7B IP"
+  },
+  {
+    "company": "sanctuary-ai",
+    "name": "Geordie Rose",
+    "role": "Co-Founder & former CEO (departed Nov 2024)",
+    "background": "PhD Theoretical Physics (UBC); founded D-Wave Systems (world's first quantum computing company); CEO of Kindred Systems (first RL-based production robotics company)"
+  },
+  {
+    "company": "sanctuary-ai",
+    "name": "Suzanne Gildert",
+    "role": "Co-Founder & former CTO (departed Apr 2024)",
+    "background": "Pioneered Sanctuary's AI-robotics approach; left to pursue stealth AI project"
+  },
+  {
+    "company": "sanctuary-ai",
+    "name": "Ajay Agrawal",
+    "role": "Co-Founder",
+    "background": "Professor at University of Toronto Rotman School of Management; AI economics researcher"
+  },
+  {
+    "company": "sanctuary-ai",
+    "name": "Olivia Norton",
+    "role": "Co-Founder & CPTO",
+    "background": "Chief Product & Technology Officer"
+  },
+  {
+    "company": "sierra-ai",
+    "name": "Bret Taylor",
+    "role": "Co-Founder & CEO",
+    "background": "Co-created Google Maps at Google (2003-2007). Founded FriendFeed (acquired by Facebook 2009). CTO of Facebook (created the Like button). Founded Quip (acquired by Salesforce for ~$750M). Co-CEO of Sal"
+  },
+  {
+    "company": "sierra-ai",
+    "name": "Clay Bavor",
+    "role": "Co-Founder & President",
+    "background": "18 years at Google. Led Gmail and Google Drive product/design teams. Led Google Workspace. Started and led Google AR/VR, Project Starline, and Google Lens. Most recently led Google Labs.\n"
+  },
+  {
+    "company": "sigma-computing",
+    "name": "Jason Frantz",
+    "role": "Co-Founder",
+    "background": "Stanford University (CS)"
+  },
+  {
+    "company": "sigma-computing",
+    "name": "Rob Woollen",
+    "role": "Co-Founder & CTO",
+    "background": ""
+  },
+  {
+    "company": "simular",
+    "name": "Ang Li",
+    "role": "CEO",
+    "background": ""
+  },
+  {
+    "company": "simular",
+    "name": "Jiachen Yang",
+    "role": "Co-founder",
+    "background": ""
+  },
+  {
+    "company": "solda-ai",
+    "name": "Sergey Shalaev",
+    "role": "CEO",
+    "background": "12+ yrs AI/ML, recommendation systems, ad tech"
+  },
+  {
+    "company": "sphere",
+    "name": "Nicholas Rudder",
+    "role": "Co-Founder & CEO",
+    "background": ""
+  },
+  {
+    "company": "sphere",
+    "name": "Adrian Sarstedt",
+    "role": "Co-Founder",
+    "background": ""
+  },
+  {
+    "company": "ssi",
+    "name": "Ilya Sutskever",
+    "role": "Co-founder; CEO (since July 2025)",
+    "background": ""
+  },
+  {
+    "company": "ssi",
+    "name": "Daniel Gross",
+    "role": "Co-founder; former CEO (departed July 2025)",
+    "background": ""
+  },
+  {
+    "company": "ssi",
+    "name": "Daniel Levy",
+    "role": "Co-founder; President",
+    "background": ""
+  },
+  {
+    "company": "stability-ai",
+    "name": "Emad Mostaque",
+    "role": "resigned March 2024",
+    "background": ""
+  },
+  {
+    "company": "stability-ai",
+    "name": "Cyrus Hodes",
+    "role": "",
+    "background": ""
+  },
+  {
+    "company": "sunday-robotics",
+    "name": "Tony Zhao",
+    "role": "Co-founder & CEO",
+    "background": "Stanford CS PhD candidate (advisor: Chelsea Finn); BS in EECS from UC Berkeley (2021, worked with Sergey Levine and Dan Klein); Stanford Robotics Fellow 2022-23; creator of ALOHA and ACT (Action Chunk"
+  },
+  {
+    "company": "sunday-robotics",
+    "name": "Cheng Chi",
+    "role": "Co-founder & CTO",
+    "background": "Columbia University PhD student (advisor: Shuran Song, later moved to Stanford); creator of Diffusion Policy and UMI (Universal Manipulation Interface); RSS 2024 Best Systems Paper Finalist for UMI"
+  },
+  {
+    "company": "sunrise-ai",
+    "name": "Xu Bing (\u5f90\u51b0)",
+    "role": "Chairman",
+    "background": "['Details not widely reported']"
+  },
+  {
+    "company": "sunrise-ai",
+    "name": "Wang Zhan (\u738b\u6e5b)",
+    "role": "Co-CEO",
+    "background": "['Details not widely reported']"
+  },
+  {
+    "company": "sunrise-ai",
+    "name": "Wang Yong (\u738b\u52c7)",
+    "role": "Co-CEO",
+    "background": "['Details not widely reported']"
+  },
+  {
+    "company": "sunrise-robotics",
+    "name": "Tomaz Stolfa",
+    "role": "CEO",
+    "background": "Previously co-founded vox.io, Layer"
+  },
+  {
+    "company": "sunrise-robotics",
+    "name": "Marko Thaler",
+    "role": "CTO",
+    "background": "Founded Airnamics, AI for drones"
+  },
+  {
+    "company": "synthesia",
+    "name": "Victor Riparbelli",
+    "role": "CEO & Co-Founder",
+    "background": "Computer science & business informatics (Copenhagen, Stanford). Danish. Previously co-founded Coincall; product marketing at Founders."
+  },
+  {
+    "company": "synthesia",
+    "name": "Steffen Tjerrild",
+    "role": "COO & Co-Founder",
+    "background": "MSc Applied Economics & Finance, Copenhagen Business School. Danish. Previously worked in private equity in Africa (sand mines, chicken farms)."
+  },
+  {
+    "company": "synthesia",
+    "name": "Matthias Niessner",
+    "role": "Co-Founder (Technical/Research)",
+    "background": "Professor at Technical University of Munich, Visual Computing Lab. 150+ publications including 25 SIGGRAPH papers. Expert in 3D reconstruction and AI video synthesis."
+  },
+  {
+    "company": "synthesia",
+    "name": "Lourdes Agapito",
+    "role": "Co-Founder (Technical/Research)",
+    "background": "Professor of 3D Vision at UCL Computer Science. Leading researcher in computer vision and 3D reconstruction."
+  },
+  {
+    "company": "tavus",
+    "name": "Hassaan Raza",
+    "role": "Co-Founder & CEO",
+    "background": ""
+  },
+  {
+    "company": "tavus",
+    "name": "Quinn Favret",
+    "role": "Co-Founder & COO",
+    "background": ""
+  },
+  {
+    "company": "taxo",
+    "name": "Dr. Ahmed Kerwan",
+    "role": "CEO",
+    "background": "Harvard (affiliated); medical background"
+  },
+  {
+    "company": "tennr",
+    "name": "Tyler Hoffman",
+    "role": "CEO / Co-Founder",
+    "background": ""
+  },
+  {
+    "company": "tennr",
+    "name": "Diego Espinosa",
+    "role": "Co-Founder",
+    "background": ""
+  },
+  {
+    "company": "thinking-machines-lab",
+    "name": "Mira Murati",
+    "role": "CEO",
+    "background": ""
+  },
+  {
+    "company": "thinking-machines-lab",
+    "name": "John Schulman",
+    "role": "Co-founder",
+    "background": ""
+  },
+  {
+    "company": "thinking-machines-lab",
+    "name": "Barrett Zoph",
+    "role": "Co-founder",
+    "background": ""
+  },
+  {
+    "company": "thinking-machines-lab",
+    "name": "Lilian Weng",
+    "role": "Co-founder",
+    "background": ""
+  },
+  {
+    "company": "thinking-machines-lab",
+    "name": "Andrew Tulloch",
+    "role": "Co-founder",
+    "background": ""
+  },
+  {
+    "company": "thinking-machines-lab",
+    "name": "Luke Metz",
+    "role": "Co-founder",
+    "background": ""
+  },
+  {
+    "company": "tonic-ai",
+    "name": "Ian Coe",
+    "role": "Co-Founder & CEO",
+    "background": ""
+  },
+  {
+    "company": "tonic-ai",
+    "name": "Karl Hanson",
+    "role": "Co-Founder & CPO",
+    "background": ""
+  },
+  {
+    "company": "tonic-ai",
+    "name": "Andrew Colombi",
+    "role": "Co-Founder & CTO",
+    "background": ""
+  },
+  {
+    "company": "tonic-ai",
+    "name": "Adam Kamor",
+    "role": "Co-Founder & Head of Engineering",
+    "background": "PhD Physics, Georgia Institute of Technology"
+  },
+  {
+    "company": "tractian",
+    "name": "Igor Marinelli",
+    "role": "CEO & Co-Founder",
+    "background": ""
+  },
+  {
+    "company": "tractian",
+    "name": "Gabriel Lameirinhas",
+    "role": "Co-CEO & Co-Founder",
+    "background": ""
+  },
+  {
+    "company": "tractian",
+    "name": "Leonardo Vieira",
+    "role": "Co-Founder",
+    "background": ""
+  },
+  {
+    "company": "tripo-ai",
+    "name": "Simon Song",
+    "role": "Co-founder",
+    "background": "['Details not widely reported']"
+  },
+  {
+    "company": "tripo-ai",
+    "name": "Guoli Su",
+    "role": "Co-founder",
+    "background": "['Tsinghua University (affiliated with Tsinghua research team)']"
+  },
+  {
+    "company": "udio",
+    "name": "David Ding",
+    "role": "CEO & Co-Founder",
+    "background": "Former Google DeepMind (led ~30-person research team)"
+  },
+  {
+    "company": "udio",
+    "name": "Conor Durkan",
+    "role": "Co-Founder",
+    "background": "Former Google DeepMind researcher"
+  },
+  {
+    "company": "udio",
+    "name": "Charlie Nash",
+    "role": "Co-Founder",
+    "background": "Former Google DeepMind researcher"
+  },
+  {
+    "company": "udio",
+    "name": "Yaroslav Ganin",
+    "role": "Co-Founder",
+    "background": "Former Google DeepMind researcher"
+  },
+  {
+    "company": "udio",
+    "name": "Andrew Sanchez",
+    "role": "Co-Founder",
+    "background": "Uncharted Labs co-founder (exact prior role unconfirmed)"
+  },
+  {
+    "company": "valthos",
+    "name": "Kathleen McMahon",
+    "role": "CEO",
+    "background": "Former Head of Life Sciences at Palantir"
+  },
+  {
+    "company": "valthos",
+    "name": "Tess van Stekelenburg",
+    "role": "Co-founder",
+    "background": "Computational neuroscience, Oxford"
+  },
+  {
+    "company": "vast-data",
+    "name": "Renen Hallak",
+    "role": "CEO",
+    "background": ""
+  },
+  {
+    "company": "vast-data",
+    "name": "Shachar Fienblit",
+    "role": "Chief R&D Officer",
+    "background": ""
+  },
+  {
+    "company": "vast-data",
+    "name": "Jeff Denworth",
+    "role": "Co-founder, VP Products",
+    "background": ""
+  },
+  {
+    "company": "vast-data",
+    "name": "Alon Horev",
+    "role": "CTO",
+    "background": ""
+  },
+  {
+    "company": "vinci-semi",
+    "name": "Hardik Kabaria",
+    "role": "CEO",
+    "background": "PhD computational geometry, Stanford"
+  },
+  {
+    "company": "vinci-semi",
+    "name": "Sarah Osentoski",
+    "role": "Co-founder",
+    "background": "Pioneer in large-scale ML and autonomous systems"
+  },
+  {
+    "company": "vultr",
+    "name": "David Aninowsky",
+    "role": "Founder",
+    "background": ""
+  },
+  {
+    "company": "waymo",
+    "name": "Sebastian Thrun",
+    "role": "Original project lead (Google Self-Driving Car Project)",
+    "background": "Stanford professor; founded Google X; now at Cresta AI"
+  },
+  {
+    "company": "waymo",
+    "name": "Chris Urmson",
+    "role": "Early CTO (departed 2016)",
+    "background": "Carnegie Mellon; later founded Aurora Innovation"
+  },
+  {
+    "company": "wayve",
+    "name": "Amar Shah",
+    "role": "Co-Founder (departed 2020)",
+    "background": "PhD in Machine Learning, University of Cambridge (supervised by Zoubin Ghahramani & Yoshua Bengio)"
+  },
+  {
+    "company": "windsurf",
+    "name": "Varun Mohan",
+    "role": "Co-founder & CEO",
+    "background": "MIT (MEng CS, BS EECS, minor in Math); former Tech Lead Manager at Nuro (autonomous vehicles, 2018-2021)"
+  },
+  {
+    "company": "windsurf",
+    "name": "Douglas Chen",
+    "role": "Co-founder",
+    "background": "MIT graduate; former engineer at Meta (Oculus Quest VR tooling)"
+  },
+  {
+    "company": "writer",
+    "name": "May Habib",
+    "role": "CEO & Co-founder",
+    "background": ""
+  },
+  {
+    "company": "writer",
+    "name": "Waseem AlShikh",
+    "role": "CTO & Co-founder",
+    "background": ""
+  },
+  {
+    "company": "zyg",
+    "name": "Tomer Bar-Zeev",
+    "role": "Chairman",
+    "background": "Co-founder of ironSource"
+  },
+  {
+    "company": "zyg",
+    "name": "Omer Kaplan",
+    "role": "CEO",
+    "background": "Co-founder of ironSource"
+  }
+]

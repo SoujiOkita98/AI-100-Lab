@@ -15,12 +15,15 @@ founders:
 - name: Scott Wu
   role: CEO
   ethnicity: Chinese American
+  origin: Chinese-American
 - name: Steven Hao
   role: CTO
   ethnicity: Chinese American (unconfirmed — likely based on name/background)
+  origin: Chinese-American
 - name: Walden Yan
   role: CPO
   ethnicity: Chinese American
+  origin: Chinese-American
 key_investors:
 - Founders Fund (Peter Thiel)
 - 8VC (Joe Lonsdale)

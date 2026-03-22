@@ -11,11 +11,13 @@ founders:
     Researcher in Deep Reinforcement Learning at Facebook AI Research (FAIR) from 2019-2022, where he collaborated with Noam
     Brown on poker AI (PokerRL). Founded ClimateScience, a climate education nonprofit. Left Cambridge and FAIR in 2022 to
     start Magic.
+  origin: Austrian
 - name: Sebastian De Ro
   role: Co-founder & CTO
   background: Holds a Master's degree in Computer Science. Previously at Google Research, specializing in large-scale machine
     learning systems. Co-founded two AI startups in Europe focused on NLP. Expertise in neural architecture design, distributed
     systems, and AI safety.
+  origin: German
 sector: AI / Developer Tools / Code Generation
 stage: Series C
 total_funding_usd: ~466M

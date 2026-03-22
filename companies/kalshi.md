@@ -14,9 +14,11 @@ founders:
 - name: Tarek Mansour
   role: Co-Founder / CEO
   background: Algerian-born; MIT graduate; quantitative finance background
+  origin: Algerian-American
 - name: Luana Lopes Lara
   role: Co-Founder
   background: Brazilian-born; MIT classmate of Mansour; financial analyst background
+  origin: Brazilian
 key_investors:
 - Coatue Management (lead, latest round)
 - Sequoia Capital

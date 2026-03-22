@@ -14,10 +14,12 @@ founders:
 - name: Dr. Chad Edwards
   role: Co-Founder / CEO
   background: Chemist turned DeepTech entrepreneur; previously scaled Quantinuum (quantum computing unicorn)
+  origin: British
 - name: Prof. Max Welling
   role: Co-Founder / Chief Scientist
   background: AI pioneer; former Distinguished Scientist at Microsoft Research; VP of Technology at Qualcomm; professor at
     University of Amsterdam
+  origin: Dutch
 key_investors:
 - New Enterprise Associates (NEA) -- co-lead, Series A
 - Temasek -- co-lead, Series A

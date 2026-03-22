@@ -38,6 +38,7 @@ founders:
 - name: Geoffrey von Maltzahn
   role: CEO
   background: GP at Flagship Pioneering. Co-founded 10 companies with $10B combined market cap.
+  origin: American
 - name: Noubar Afeyan
   role: Chairman
   background: Founder/CEO Flagship Pioneering. Co-founded Moderna.

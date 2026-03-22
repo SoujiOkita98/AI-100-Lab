@@ -4,25 +4,27 @@ website: https://www.copy.ai
 founded: 2020
 headquarters: Remote-first (Memphis, TN origin)
 founders:
-  - name: Paul Yacoubian
-    role: Co-Founder & CEO
-  - name: Chris Lu
-    role: Co-Founder & CTO
+- name: Paul Yacoubian
+  role: Co-Founder & CEO
+  origin: Armenian-American
+- name: Chris Lu
+  role: Co-Founder & CTO
+  origin: Chinese-American
 category: AI-native GTM / Sales & Marketing Automation
 status: Acquired by Fullcast (October 15, 2025)
 total_funding: ~$19.8M
 last_round: $3M Convertible Note (November 2023, led by K5 Global Technology)
 key_investors:
-  - Wing Venture Capital (Series A lead)
-  - Sequoia Capital
-  - Craft Ventures (Seed lead)
-  - Tiger Global Management
-  - K5 Global Technology
-  - Elad Gil
+- Wing Venture Capital (Series A lead)
+- Sequoia Capital
+- Craft Ventures (Seed lead)
+- Tiger Global Management
+- K5 Global Technology
+- Elad Gil
 notable_customers:
-  - ServiceNow
-  - Siemens
-  - Juniper Networks
+- ServiceNow
+- Siemens
+- Juniper Networks
 user_base: 17M+ registered users (as of late 2025)
 revenue_estimate: ~$23.7M ARR (2024, per GetLatka; 480% YoY growth reported)
 employee_count: ~50-180 (conflicting sources; likely ~50-60 at time of acquisition)

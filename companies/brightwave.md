@@ -6,10 +6,12 @@ sector: AI for Finance / Investment Research
 founded: 2023
 headquarters: Boulder, CO
 founders:
-  - name: Mike Conover
-    role: Co-Founder & CEO
-  - name: Brandon Kotara
-    role: Co-Founder & CTO
+- name: Mike Conover
+  role: Co-Founder & CEO
+  origin: American
+- name: Brandon Kotara
+  role: Co-Founder & CTO
+  origin: American
 latest_valuation: Undisclosed
 total_funding_raised: $21M
 arr_estimate: Undisclosed (reported 4x revenue growth in four months post-seed; no public ARR figure)

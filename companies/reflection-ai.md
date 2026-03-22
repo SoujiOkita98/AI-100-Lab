@@ -15,9 +15,11 @@ founders:
 - name: Misha Laskin
   role: CEO
   ethnicity: Eastern European (likely Russian/Ukrainian heritage)
+  origin: Russian-Canadian
 - name: Ioannis Antonoglou
   role: Co-founder
   ethnicity: Greek
+  origin: Greek
 key_investors:
 - Sequoia Capital
 - CRV

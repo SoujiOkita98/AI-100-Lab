@@ -12,10 +12,12 @@ founders:
   role: CEO
   education: Columbia University (Engineering)
   background: Former Co-Founder/CTO at Dunzo; worked at Google
+  origin: Indian
 - name: Madhav Jha
   role: CTO
   education: PhD in Theoretical Computer Science, Penn State University
   background: Von Neumann postdoctoral fellow at Sandia National Labs; founding member of Amazon SageMaker research team
+  origin: Indian
 notable_investors:
 - Lightspeed Venture Partners (Series A lead)
 - Khosla Ventures (Series B co-lead)

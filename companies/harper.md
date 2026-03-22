@@ -8,19 +8,27 @@ stage: Series A
 latest_valuation: Undisclosed
 total_funding: ~$47M
 founders:
-  - name: Dakotah Rice
-    role: CEO
-    background: Former Investment Banking (TMT) at Goldman Sachs; co-founded Poolit (scaled to $100M AUM)
-  - name: Tushar Nair
-    role: CTO
-    background: Former ML/AI engineering lead at Goldman Sachs (~9 years); co-founded Poolit
+- name: Dakotah Rice
+  role: CEO
+  background: Former Investment Banking (TMT) at Goldman Sachs; co-founded Poolit (scaled to $100M AUM)
+  origin: American
+- name: Tushar Nair
+  role: CTO
+  background: Former ML/AI engineering lead at Goldman Sachs (~9 years); co-founded Poolit
+  origin: Indian-American
 notable_investors:
-  - Emergence Capital (Series A lead)
-  - Y Combinator
-  - Peak XV Partners (formerly Sequoia India)
-  - Lobster Capital
+- Emergence Capital (Series A lead)
+- Y Combinator
+- Peak XV Partners (formerly Sequoia India)
+- Lobster Capital
 key_customers: []
-tags: [insurance, insurtech, ai-brokerage, commercial-insurance, smb, yc-w25]
+tags:
+- insurance
+- insurtech
+- ai-brokerage
+- commercial-insurance
+- smb
+- yc-w25
 yc_batch: W25
 last_updated: 2026-03-20
 ---

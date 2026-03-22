@@ -13,44 +13,48 @@ employee_count_approx: 108
 employee_count_date: 2025
 ipo_status: Private
 founders:
-  - name: Ian Coe
-    role: Co-Founder & CEO
-    prior: Palantir Technologies (early commercial division member); Tableau
-  - name: Karl Hanson
-    role: Co-Founder & CPO
-    prior: Palantir Technologies
-  - name: Andrew Colombi
-    role: Co-Founder & CTO
-    prior: Palantir Technologies
-  - name: Adam Kamor
-    role: Co-Founder & Head of Engineering
-    education: PhD Physics, Georgia Institute of Technology
-    prior: Microsoft; Kabbage; Tableau
+- name: Ian Coe
+  role: Co-Founder & CEO
+  prior: Palantir Technologies (early commercial division member); Tableau
+  origin: American
+- name: Karl Hanson
+  role: Co-Founder & CPO
+  prior: Palantir Technologies
+  origin: American
+- name: Andrew Colombi
+  role: Co-Founder & CTO
+  prior: Palantir Technologies
+  origin: American
+- name: Adam Kamor
+  role: Co-Founder & Head of Engineering
+  education: PhD Physics, Georgia Institute of Technology
+  prior: Microsoft; Kabbage; Tableau
+  origin: American
 funding_rounds:
-  - round: Series A
-    date: 2020-12
-    amount_usd: 8_000_000
-    lead_investors:
-      - Bloomberg Beta
-    other_investors:
-      - Heavybit
-    source: https://tracxn.com/d/companies/tonic.ai/__aH4sk1uBlJJqPKKpDrBUg4A62BmZKPwLerMcy3ZPhMs/funding-and-investors
-  - round: Series B
-    date: 2021-09
-    amount_usd: 35_000_000
-    lead_investors:
-      - Insight Partners
-    other_investors:
-      - GGV Capital
-      - Bloomberg Beta
-      - Heavybit
-      - Silicon Valley CISO Investments
-    source: https://www.tonic.ai/press-releases/series-b
+- round: Series A
+  date: 2020-12
+  amount_usd: 8000000
+  lead_investors:
+  - Bloomberg Beta
+  other_investors:
+  - Heavybit
+  source: https://tracxn.com/d/companies/tonic.ai/__aH4sk1uBlJJqPKKpDrBUg4A62BmZKPwLerMcy3ZPhMs/funding-and-investors
+- round: Series B
+  date: 2021-09
+  amount_usd: 35000000
+  lead_investors:
+  - Insight Partners
+  other_investors:
+  - GGV Capital
+  - Bloomberg Beta
+  - Heavybit
+  - Silicon Valley CISO Investments
+  source: https://www.tonic.ai/press-releases/series-b
 key_acquisitions:
-  - target: Mockaroo
-    date: 2025-04
-    amount_usd: null
-    rationale: Mock data generation tool to enhance synthetic data capabilities
+- target: Mockaroo
+  date: 2025-04
+  amount_usd: null
+  rationale: Mock data generation tool to enhance synthetic data capabilities
 ---
 
 # Tonic.ai

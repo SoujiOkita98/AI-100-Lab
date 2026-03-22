@@ -10,108 +10,103 @@ founded: 2022
 incorporated_country: United States
 sector: Artificial Intelligence
 sub_sector: Foundation Models / Open-Source LLMs / Decentralized AI Training
-business_model: Open-source AI research lab with decentralized training infrastructure (Psyche Network on Solana); revenue model unclear -- likely a mix of token economics, enterprise services, and API access
+business_model: Open-source AI research lab with decentralized training infrastructure (Psyche Network on Solana); revenue
+  model unclear -- likely a mix of token economics, enterprise services, and API access
 status: Private
 headcount_estimate: ~20-30 (as of early 2026)
 revenue_estimate: Not publicly disclosed
-
 founders:
-  - name: Jeffrey Quesnelle
-    role: CEO & Co-Founder
-    nationality: American
-    education:
-      - BS Computer Science, Oakland University
-      - MS Computer Science, University of Michigan
-    prior_experience:
-      - Director of Software Development, Intrepid Control Systems (2017-2022) -- in-vehicle networking, autonomous driving protocols
-      - Principal Engineer / MEV Engineer, Eden Network (blockchain/crypto)
-    source: https://usethebitcoin.com/crypto-personalities/all-you-need-to-know-about-jeffrey-quesnelle-the-co-founder-of-nous-research/
+- name: Jeffrey Quesnelle
+  role: CEO & Co-Founder
+  nationality: American
+  education:
+  - BS Computer Science, Oakland University
+  - MS Computer Science, University of Michigan
+  prior_experience:
+  - Director of Software Development, Intrepid Control Systems (2017-2022) -- in-vehicle networking, autonomous driving protocols
+  - Principal Engineer / MEV Engineer, Eden Network (blockchain/crypto)
+  source: https://usethebitcoin.com/crypto-personalities/all-you-need-to-know-about-jeffrey-quesnelle-the-co-founder-of-nous-research/
+  origin: American
+- name: Karan Malhotra
+  role: Head of Behavior & Co-Founder
+  nationality: American (unconfirmed)
+  education:
+  - BA Philosophy and Religion, Emory University
+  prior_experience:
+  - Details not widely documented; described as "crypto native"
+  source: https://chainofthought.xyz/p/nous-research-all-you-need-to-know
+  origin: Indian-American
+- name: Teknium
+  role: Head of Post-Training & Co-Founder
+  nationality: Unknown (pseudonymous)
+  education:
+  - Not publicly disclosed
+  prior_experience:
+  - Prolific open-source LLM contributor (extensive GitHub history in fine-tuning and dataset curation)
+  - Maintains anonymity; sometimes referred to as "Ryan Teknium"
+  notes: 'Teknium is a pseudonymous figure who emerged from the open-source AI community. Known for pioneering dataset curation
+    and fine-tuning techniques that became foundational to the Hermes model line. Exact identity is not publicly confirmed.
 
-  - name: Karan Malhotra
-    role: Head of Behavior & Co-Founder
-    nationality: American (unconfirmed)
-    education:
-      - BA Philosophy and Religion, Emory University
-    prior_experience:
-      - Details not widely documented; described as "crypto native"
-    source: https://chainofthought.xyz/p/nous-research-all-you-need-to-know
-
-  - name: Teknium
-    role: Head of Post-Training & Co-Founder
-    nationality: Unknown (pseudonymous)
-    education:
-      - Not publicly disclosed
-    prior_experience:
-      - Prolific open-source LLM contributor (extensive GitHub history in fine-tuning and dataset curation)
-      - Maintains anonymity; sometimes referred to as "Ryan Teknium"
-    notes: >
-      Teknium is a pseudonymous figure who emerged from the open-source AI community.
-      Known for pioneering dataset curation and fine-tuning techniques that became
-      foundational to the Hermes model line. Exact identity is not publicly confirmed.
-    source: https://chainofthought.xyz/p/nous-research-all-you-need-to-know
-
-  - name: Shivani Mitra
-    role: Co-Founder
-    nationality: Unknown
-    education:
-      - Not publicly disclosed
-    prior_experience:
-      - Not widely documented
-    notes: Listed as co-founder in corporate filings and press coverage but has a lower public profile than other co-founders.
-    source: https://theaiinsider.tech/2025/04/30/nous-research-lands-65m-to-champion-open-source-approach-to-ai-development/
-
+    '
+  source: https://chainofthought.xyz/p/nous-research-all-you-need-to-know
+  origin: Unknown (pseudonym)
+- name: Shivani Mitra
+  role: Co-Founder
+  nationality: Unknown
+  education:
+  - Not publicly disclosed
+  prior_experience:
+  - Not widely documented
+  notes: Listed as co-founder in corporate filings and press coverage but has a lower public profile than other co-founders.
+  source: https://theaiinsider.tech/2025/04/30/nous-research-lands-65m-to-champion-open-source-approach-to-ai-development/
+  origin: Indian-American
 key_team_members:
-  - name: Roger Jin
-    role: Lead Trainer (Nomos project)
-  - name: Dakota Mahan
-    role: Infrastructure Lead
-  - name: Chen Guang
-    role: Advisor
-
+- name: Roger Jin
+  role: Lead Trainer (Nomos project)
+- name: Dakota Mahan
+  role: Infrastructure Lead
+- name: Chen Guang
+  role: Advisor
 funding_rounds:
-  - stage: Seed
-    date: 2023 (exact date uncertain)
-    amount_usd: ~5M (estimated)
-    lead_investors:
-      - Distributed Global
-    other_investors:
-      - North Island Ventures
-      - Delphi Digital (Delphi Ventures)
-    notes: Early seed funding; exact amount varies by source. Some reports bundle multiple early rounds.
-    source: https://www.crunchbase.com/organization/nous-research
+- stage: Seed
+  date: 2023 (exact date uncertain)
+  amount_usd: ~5M (estimated)
+  lead_investors:
+  - Distributed Global
+  other_investors:
+  - North Island Ventures
+  - Delphi Digital (Delphi Ventures)
+  notes: Early seed funding; exact amount varies by source. Some reports bundle multiple early rounds.
+  source: https://www.crunchbase.com/organization/nous-research
+- stage: Pre-Series A / Bridge
+  date: 2024 (approximate)
+  amount_usd: ~15M
+  lead_investors:
+  - Together AI
+  other_investors:
+  - Distributed Global
+  - North Island Ventures
+  - Delphi Digital
+  - Raj Gokal (Solana co-founder, personal investment)
+  notes: Sometimes grouped with the Series A as a single $65M raise. Exact staging is unclear from public sources.
+  source: https://fortune.com/crypto/2025/04/25/paradigm-nous-research-crypto-ai-venture-capital-deepseek-openai-blockchain/
+- stage: Series A
+  date: 2025-04-25
+  amount_usd: 50M
+  valuation_usd: ~1B (token-based valuation)
+  lead_investors:
+  - Paradigm
+  other_investors: []
+  notes: 'Paradigm-led round at a $1B token valuation. Notably, this is a crypto-native funding structure tied to the NOUS
+    token on Solana, not a traditional equity valuation. The round was almost entirely funded by Paradigm alone.
 
-  - stage: Pre-Series A / Bridge
-    date: 2024 (approximate)
-    amount_usd: ~15M
-    lead_investors:
-      - Together AI
-    other_investors:
-      - Distributed Global
-      - North Island Ventures
-      - Delphi Digital
-      - Raj Gokal (Solana co-founder, personal investment)
-    notes: Sometimes grouped with the Series A as a single $65M raise. Exact staging is unclear from public sources.
-    source: https://fortune.com/crypto/2025/04/25/paradigm-nous-research-crypto-ai-venture-capital-deepseek-openai-blockchain/
-
-  - stage: Series A
-    date: 2025-04-25
-    amount_usd: 50M
-    valuation_usd: ~1B (token-based valuation)
-    lead_investors:
-      - Paradigm
-    other_investors: []
-    notes: >
-      Paradigm-led round at a $1B token valuation. Notably, this is a crypto-native
-      funding structure tied to the NOUS token on Solana, not a traditional equity
-      valuation. The round was almost entirely funded by Paradigm alone.
-    source: https://fortune.com/crypto/2025/04/25/paradigm-nous-research-crypto-ai-venture-capital-deepseek-openai-blockchain/
-
+    '
+  source: https://fortune.com/crypto/2025/04/25/paradigm-nous-research-crypto-ai-venture-capital-deepseek-openai-blockchain/
 total_funding_usd: ~65-70M
-valuation_notes: >
-  The $1B valuation is a fully diluted token valuation (NOUS token on Solana),
-  not a traditional equity valuation. This is an important distinction -- direct
-  comparisons to equity-valued AI startups should be made with caution.
+valuation_notes: 'The $1B valuation is a fully diluted token valuation (NOUS token on Solana), not a traditional equity valuation.
+  This is an important distinction -- direct comparisons to equity-valued AI startups should be made with caution.
 
+  '
 last_updated: 2026-03-20
 ---
 

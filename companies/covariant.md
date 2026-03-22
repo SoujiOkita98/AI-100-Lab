@@ -1,103 +1,111 @@
 ---
-name: "Covariant"
-status: "semi-active (post-acquihire)"
+name: Covariant
+status: semi-active (post-acquihire)
 founded: 2017
-hq: "Emeryville, CA"
-website: "https://covariant.ai"
-sector: ["AI robotics", "warehouse automation", "foundation models for robotics"]
-one_liner: "AI robotics company building foundation models for warehouse automation; effectively acquihired by Amazon in 2024 in a controversial reverse-acquihire deal."
-logo: "https://covariant.ai/favicon.ico"
-
+hq: Emeryville, CA
+website: https://covariant.ai
+sector:
+- AI robotics
+- warehouse automation
+- foundation models for robotics
+one_liner: AI robotics company building foundation models for warehouse automation; effectively acquihired by Amazon in 2024
+  in a controversial reverse-acquihire deal.
+logo: https://covariant.ai/favicon.ico
 total_raised_m: 222
 latest_valuation_m: 625
 funding_rounds:
-  - stage: "Seed"
-    date: 2017-11
-    amount_m: 7
-    valuation_m: ~
-    lead_investors: ["Amplify Partners"]
-    source: "https://en.wikipedia.org/wiki/Covariant_(company)"
-    notes: "Founded as Embodied Intelligence. Renamed to Covariant in 2019."
-
-  - stage: "Series A"
-    date: 2019-05
-    amount_m: 20
-    valuation_m: ~
-    lead_investors: ["Index Ventures"]
-    source: "https://en.wikipedia.org/wiki/Covariant_(company)"
-
-  - stage: "Series B"
-    date: 2020-05
-    amount_m: 40
-    valuation_m: ~
-    lead_investors: ["Index Ventures"]
-    source: "https://covariant.ai/covariant-raises-usd40-million-in-series-b-funding-to-bring-ai-robotics-to-new-industries/"
-
-  - stage: "Series C"
-    date: 2021-07
-    amount_m: 80
-    valuation_m: ~
-    lead_investors: ["Index Ventures"]
-    source: "https://techcrunch.com/2021/07/27/robotic-ai-firm-covariant-raises-another-80-million/"
-    notes: "Amplify Partners and Radical Ventures also participated."
-
-  - stage: "Series C extension"
-    date: 2023-04
-    amount_m: 75
-    valuation_m: 625
-    lead_investors: ["Radical Ventures", "Index Ventures"]
-    source: "https://techcrunch.com/2023/04/04/covariants-robotic-picking-at-nabs-another-75m/"
-    notes: "CPPIB, Amplify Partners, Gates Frontier Holdings, AIX Ventures, Northgate Capital also participated. Brought total funding to $222M. Valuation of $625M reported in whistleblower filings."
-
-  - stage: "Amazon reverse acquihire"
-    date: 2024-08
-    amount_m: 400
-    valuation_m: ~
-    lead_investors: ["Amazon"]
-    source: "https://www.washingtonpost.com/technology/2025/01/18/amazon-antitrust-ai-whistleblower/"
-    notes: "$380M upfront + $20M final licensing payment due one year after close. Not a traditional acquisition -- Amazon licensed Covariant's technology (non-exclusive) and hired 3 co-founders + ~25% of staff. Structured to avoid premerger antitrust reporting, per whistleblower complaint."
-
+- stage: Seed
+  date: 2017-11
+  amount_m: 7
+  valuation_m: null
+  lead_investors:
+  - Amplify Partners
+  source: https://en.wikipedia.org/wiki/Covariant_(company)
+  notes: Founded as Embodied Intelligence. Renamed to Covariant in 2019.
+- stage: Series A
+  date: 2019-05
+  amount_m: 20
+  valuation_m: null
+  lead_investors:
+  - Index Ventures
+  source: https://en.wikipedia.org/wiki/Covariant_(company)
+- stage: Series B
+  date: 2020-05
+  amount_m: 40
+  valuation_m: null
+  lead_investors:
+  - Index Ventures
+  source: https://covariant.ai/covariant-raises-usd40-million-in-series-b-funding-to-bring-ai-robotics-to-new-industries/
+- stage: Series C
+  date: 2021-07
+  amount_m: 80
+  valuation_m: null
+  lead_investors:
+  - Index Ventures
+  source: https://techcrunch.com/2021/07/27/robotic-ai-firm-covariant-raises-another-80-million/
+  notes: Amplify Partners and Radical Ventures also participated.
+- stage: Series C extension
+  date: 2023-04
+  amount_m: 75
+  valuation_m: 625
+  lead_investors:
+  - Radical Ventures
+  - Index Ventures
+  source: https://techcrunch.com/2023/04/04/covariants-robotic-picking-at-nabs-another-75m/
+  notes: CPPIB, Amplify Partners, Gates Frontier Holdings, AIX Ventures, Northgate Capital also participated. Brought total
+    funding to $222M. Valuation of $625M reported in whistleblower filings.
+- stage: Amazon reverse acquihire
+  date: 2024-08
+  amount_m: 400
+  valuation_m: null
+  lead_investors:
+  - Amazon
+  source: https://www.washingtonpost.com/technology/2025/01/18/amazon-antitrust-ai-whistleblower/
+  notes: $380M upfront + $20M final licensing payment due one year after close. Not a traditional acquisition -- Amazon licensed
+    Covariant's technology (non-exclusive) and hired 3 co-founders + ~25% of staff. Structured to avoid premerger antitrust
+    reporting, per whistleblower complaint.
 founders:
-  - name: "Pieter Abbeel"
-    role: "Co-Founder, President & Chief Scientist (now at Amazon)"
-    background: "PhD in CS from Stanford under Andrew Ng. Professor at UC Berkeley; Director of the Berkeley Robot Learning Lab. Former researcher at OpenAI. One of the most cited robotics/RL researchers globally. Belgian-American."
-
-  - name: "Peter Chen"
-    role: "Co-Founder & CEO (now at Amazon)"
-    background: "PhD student of Pieter Abbeel at UC Berkeley. Former researcher at OpenAI. Led Covariant as CEO from founding."
-
-  - name: "Rocky Duan"
-    role: "Co-Founder & CTO (now at Amazon)"
-    background: "PhD student of Pieter Abbeel at UC Berkeley. Former researcher at OpenAI."
-
-  - name: "Tianhao Zhang"
-    role: "Co-Founder (remained at Covariant)"
-    background: "Former student of Pieter Abbeel at UC Berkeley. Former researcher at Microsoft. One of the two leaders of the post-Amazon Covariant entity."
-
+- name: Pieter Abbeel
+  role: Co-Founder, President & Chief Scientist (now at Amazon)
+  background: PhD in CS from Stanford under Andrew Ng. Professor at UC Berkeley; Director of the Berkeley Robot Learning Lab.
+    Former researcher at OpenAI. One of the most cited robotics/RL researchers globally. Belgian-American.
+  origin: Belgian
+- name: Peter Chen
+  role: Co-Founder & CEO (now at Amazon)
+  background: PhD student of Pieter Abbeel at UC Berkeley. Former researcher at OpenAI. Led Covariant as CEO from founding.
+  origin: Chinese-American
+- name: Rocky Duan
+  role: Co-Founder & CTO (now at Amazon)
+  background: PhD student of Pieter Abbeel at UC Berkeley. Former researcher at OpenAI.
+  origin: Chinese-American
+- name: Tianhao Zhang
+  role: Co-Founder (remained at Covariant)
+  background: Former student of Pieter Abbeel at UC Berkeley. Former researcher at Microsoft. One of the two leaders of the
+    post-Amazon Covariant entity.
+  origin: Chinese
 current_leadership:
-  - name: "Ted Stinson"
-    role: "CEO (appointed August 2024)"
-    background: "Former COO of Covariant. Assumed CEO role after Amazon deal."
-  - name: "Tianhao Zhang"
-    role: "Co-Founder, technical leadership"
-
-team_size: "~56 employees (post-Amazon deal, down from ~250 at peak)"
-
+- name: Ted Stinson
+  role: CEO (appointed August 2024)
+  background: Former COO of Covariant. Assumed CEO role after Amazon deal.
+- name: Tianhao Zhang
+  role: Co-Founder, technical leadership
+team_size: ~56 employees (post-Amazon deal, down from ~250 at peak)
 key_technology:
-  - name: "Covariant Brain"
-    description: "AI-powered robotic picking system trained on one of the largest real-world robotics datasets from warehouses globally. Enables robots to pick virtually any SKU on Day 1."
-  - name: "RFM-1 (Robotics Foundation Model)"
-    description: "8 billion parameter multimodal transformer trained on text, images, video, robot actions, and sensor data. Released March 2024. Provides robots with language understanding, physics reasoning, and adaptive learning through in-context learning. Represents one of the first commercial robotic foundation models."
-
-business_model: "B2B robotics AI -- licenses the Covariant Brain software to warehouse and fulfillment center operators to automate pick-and-place operations. Deployed with integration partners like KNAPP."
-
+- name: Covariant Brain
+  description: AI-powered robotic picking system trained on one of the largest real-world robotics datasets from warehouses
+    globally. Enables robots to pick virtually any SKU on Day 1.
+- name: RFM-1 (Robotics Foundation Model)
+  description: 8 billion parameter multimodal transformer trained on text, images, video, robot actions, and sensor data.
+    Released March 2024. Provides robots with language understanding, physics reasoning, and adaptive learning through in-context
+    learning. Represents one of the first commercial robotic foundation models.
+business_model: B2B robotics AI -- licenses the Covariant Brain software to warehouse and fulfillment center operators to
+  automate pick-and-place operations. Deployed with integration partners like KNAPP.
 customers:
-  - "50+ customers and partners (as of 2024)"
-  - "KNAPP (5+ year partnership)"
-  - "Industries: apparel, health & beauty, grocery, pharmaceuticals"
-
-revenue_signals: "No public revenue figures. Pre-deal, Covariant had deployed hundreds of AI-powered robotic solutions across multiple industries."
-
+- 50+ customers and partners (as of 2024)
+- KNAPP (5+ year partnership)
+- 'Industries: apparel, health & beauty, grocery, pharmaceuticals'
+revenue_signals: No public revenue figures. Pre-deal, Covariant had deployed hundreds of AI-powered robotic solutions across
+  multiple industries.
 ---
 
 ## Overview

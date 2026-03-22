@@ -8,10 +8,13 @@ headquarters: San Francisco, CA
 founders:
 - name: Rami Karabibar
   role: CEO & Co-Founder
+  origin: Middle Eastern
 - name: Saam Mashhad
   role: CPO & Co-Founder
+  origin: Iranian-American
 - name: Raymond Mieszaniec
   role: COO & Co-Founder
+  origin: American
 latest_valuation: $2B+ (Oct 2025)
 total_funding_raised: ~$385M
 employee_count_estimate: ~300 (uncertain)

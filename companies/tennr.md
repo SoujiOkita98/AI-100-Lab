@@ -13,8 +13,10 @@ status: Active, Private
 founders:
 - name: Tyler Hoffman
   role: CEO / Co-Founder
+  origin: American
 - name: Diego Espinosa
   role: Co-Founder
+  origin: Latin American
 key_investors:
 - IVP (lead, Series C)
 - Andreessen Horowitz (a16z)

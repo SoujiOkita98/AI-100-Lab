@@ -5,17 +5,19 @@ website: https://www.flex.ai
 founded: 2023
 headquarters: Paris, France
 other_offices:
-  - San Francisco, CA, USA
-  - Bangalore, India
+- San Francisco, CA, USA
+- Bangalore, India
 sector: AI Infrastructure / GPU Cloud Compute
 stage: Seed
 total_funding_usd: ~30,500,000
 employee_count_approx: 45
 founders:
-  - name: Brijesh Tripathi
-    role: Co-founder & CEO
-  - name: Dali Kilani
-    role: Co-founder & CTO
+- name: Brijesh Tripathi
+  role: Co-founder & CEO
+  origin: Indian
+- name: Dali Kilani
+  role: Co-founder & CTO
+  origin: Tunisian-French
 last_updated: 2026-03-20
 confidence: high
 ---

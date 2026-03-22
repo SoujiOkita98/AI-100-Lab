@@ -6,7 +6,7 @@ headquarters: San Francisco, California, USA
 website: https://www.sigmacomputing.com
 sector: AI-Native Business Intelligence & Analytics
 stage: Late-stage / Growth
-latest_valuation_usd: 1_500_000_000
+latest_valuation_usd: 1500000000
 latest_valuation_date: 2024-05
 total_funding_usd: ~662_000_000
 revenue_run_rate_usd: ~100_000_000
@@ -15,59 +15,61 @@ employee_count_approx: 1437
 employee_count_date: 2026-02
 ipo_status: Private
 founders:
-  - name: Jason Frantz
-    role: Co-Founder
-    education: Stanford University (CS)
-    prior: Google, Bing (Microsoft)
-  - name: Rob Woollen
-    role: Co-Founder & CTO
-    prior: Salesforce (Senior VP of Engineering)
+- name: Jason Frantz
+  role: Co-Founder
+  education: Stanford University (CS)
+  prior: Google, Bing (Microsoft)
+  origin: American
+- name: Rob Woollen
+  role: Co-Founder & CTO
+  prior: Salesforce (Senior VP of Engineering)
+  origin: American
 key_executives:
-  - name: Mike Palmer
-    role: CEO
+- name: Mike Palmer
+  role: CEO
 funding_rounds:
-  - round: Series A
-    date: 2019-11
-    amount_usd: null
-    lead_investors:
-      - Sutter Hill Ventures
-    other_investors:
-      - Altimeter Capital
-    source: https://tracxn.com/d/companies/sigma/__6Ey-Cn1NtwqHCDL5voJWgm75xwVxjte6Xhh6SKxOcgA/funding-and-investors
-  - round: Series B
-    date: 2019-11
-    amount_usd: null
-    lead_investors:
-      - Sutter Hill Ventures
-    other_investors:
-      - Altimeter Capital
-    source: https://tracxn.com/d/companies/sigma/__6Ey-Cn1NtwqHCDL5voJWgm75xwVxjte6Xhh6SKxOcgA/funding-and-investors
-  - round: Series C
-    date: 2021-11
-    amount_usd: 340_000_000
-    lead_investors:
-      - D1 Capital Partners
-    other_investors:
-      - Snowflake Ventures
-      - XN Ventures
-      - Sutter Hill Ventures
-      - Altimeter Capital
-    source: https://tracxn.com/d/companies/sigma/__6Ey-Cn1NtwqHCDL5voJWgm75xwVxjte6Xhh6SKxOcgA/funding-and-investors
-  - round: Series D
-    date: 2024-05
-    amount_usd: 200_000_000
-    valuation_usd: 1_500_000_000
-    lead_investors:
-      - Spark Capital
-      - Avenir Growth Capital
-    other_investors:
-      - Snowflake Ventures
-      - Sutter Hill Ventures
-      - D1 Capital Partners
-      - XN Ventures
-      - Altimeter Capital
-      - NewView Capital
-    source: https://siliconangle.com/2024/05/16/business-intelligence-startup-sigma-closes-200m-round-1-5b-valuation/
+- round: Series A
+  date: 2019-11
+  amount_usd: null
+  lead_investors:
+  - Sutter Hill Ventures
+  other_investors:
+  - Altimeter Capital
+  source: https://tracxn.com/d/companies/sigma/__6Ey-Cn1NtwqHCDL5voJWgm75xwVxjte6Xhh6SKxOcgA/funding-and-investors
+- round: Series B
+  date: 2019-11
+  amount_usd: null
+  lead_investors:
+  - Sutter Hill Ventures
+  other_investors:
+  - Altimeter Capital
+  source: https://tracxn.com/d/companies/sigma/__6Ey-Cn1NtwqHCDL5voJWgm75xwVxjte6Xhh6SKxOcgA/funding-and-investors
+- round: Series C
+  date: 2021-11
+  amount_usd: 340000000
+  lead_investors:
+  - D1 Capital Partners
+  other_investors:
+  - Snowflake Ventures
+  - XN Ventures
+  - Sutter Hill Ventures
+  - Altimeter Capital
+  source: https://tracxn.com/d/companies/sigma/__6Ey-Cn1NtwqHCDL5voJWgm75xwVxjte6Xhh6SKxOcgA/funding-and-investors
+- round: Series D
+  date: 2024-05
+  amount_usd: 200000000
+  valuation_usd: 1500000000
+  lead_investors:
+  - Spark Capital
+  - Avenir Growth Capital
+  other_investors:
+  - Snowflake Ventures
+  - Sutter Hill Ventures
+  - D1 Capital Partners
+  - XN Ventures
+  - Altimeter Capital
+  - NewView Capital
+  source: https://siliconangle.com/2024/05/16/business-intelligence-startup-sigma-closes-200m-round-1-5b-valuation/
 ---
 
 # Sigma Computing

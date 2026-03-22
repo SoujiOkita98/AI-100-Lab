@@ -18,6 +18,7 @@ founders:
   role: Co-Founder (departed 2020)
   education: PhD in Machine Learning, University of Cambridge (supervised by Zoubin Ghahramani & Yoshua Bengio)
   prior: Quantitative Strategist, Goldman Sachs
+  origin: Indian-British
 website: https://wayve.ai
 headcount_estimate: ~833 (Jan 2026)
 valuation: $8.6B (post-money, Feb 2026)

@@ -12,38 +12,42 @@ total_funding_confirmed: ~$336M (through Series C)
 employee_count: ~230 (as of early 2026)
 status: Independent (potential Nvidia acquisition under discussion as of late 2025)
 founders:
-  - name: Yoav Shoham
-    role: Co-Founder, Co-CEO
-    background: "Professor Emeritus of Computer Science, Stanford University; former Google Principal Scientist; PhD CS Yale"
-  - name: Ori Goshen
-    role: Co-Founder, Co-CEO
-    background: "Serial entrepreneur (Fring, Crowdx); IDF Unit 8200 veteran; 15+ years technology leadership"
-  - name: Amnon Shashua
-    role: Co-Founder
-    background: "CS Professor, Hebrew University of Jerusalem; Co-founder of Mobileye (Intel acquisition, $15.3B), OrCam, OneZero; 160+ papers, 94+ patents"
+- name: Yoav Shoham
+  role: Co-Founder, Co-CEO
+  background: Professor Emeritus of Computer Science, Stanford University; former Google Principal Scientist; PhD CS Yale
+  origin: Israeli
+- name: Ori Goshen
+  role: Co-Founder, Co-CEO
+  background: Serial entrepreneur (Fring, Crowdx); IDF Unit 8200 veteran; 15+ years technology leadership
+  origin: Israeli
+- name: Amnon Shashua
+  role: Co-Founder
+  background: CS Professor, Hebrew University of Jerusalem; Co-founder of Mobileye (Intel acquisition, $15.3B), OrCam, OneZero;
+    160+ papers, 94+ patents
+  origin: Israeli
 key_products:
-  - Jamba (hybrid SSM-Transformer foundation models)
-  - Maestro (enterprise AI planning & orchestration platform)
-  - "Wordtune (consumer writing assistant — discontinued April 2025)"
+- Jamba (hybrid SSM-Transformer foundation models)
+- Maestro (enterprise AI planning & orchestration platform)
+- Wordtune (consumer writing assistant — discontinued April 2025)
 key_investors:
-  - Walden Catalyst
-  - Pitango
-  - Google
-  - Nvidia
-  - Intel Capital
-  - Samsung Next
-  - Comcast Ventures
-  - SCB10X
-  - b2venture
-  - Ahren
+- Walden Catalyst
+- Pitango
+- Google
+- Nvidia
+- Intel Capital
+- Samsung Next
+- Comcast Ventures
+- SCB10X
+- b2venture
+- Ahren
 tags:
-  - foundation-models
-  - enterprise-ai
-  - israeli-ai
-  - hybrid-architecture
-  - SSM-transformer
-  - RAG
-  - agentic-ai
+- foundation-models
+- enterprise-ai
+- israeli-ai
+- hybrid-architecture
+- SSM-transformer
+- RAG
+- agentic-ai
 last_updated: 2026-03-20
 confidence: medium-high
 ---

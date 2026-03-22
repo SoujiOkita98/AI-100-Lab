@@ -8,14 +8,17 @@ founders:
   role: CEO
   background: PhD Computer Science (UBC); former Research Scientist at Google Brain (Japan); former Head of Research at Stability
     AI (2022-2023); earlier career in finance as Co-Head of Fixed Income Trading at Goldman Sachs Japan
+  origin: Japanese-Canadian
 - name: Llion Jones
   role: CTO
   background: MSc Advanced Computer Science, University of Birmingham; co-author of 'Attention Is All You Need' (2017), the
     foundational Transformer paper; ~12 years at Google before departing to co-found Sakana AI
+  origin: Welsh-British
 - name: Ren Ito
   role: COO
   background: Former Japanese diplomat (15 years); speechwriter for PM Shinzo Abe; Japan representative at World Bank board;
     early employee at Mercari (Japan's first unicorn), CEO of Mercari Europe through $3.7B IPO
+  origin: Japanese
 stage: Series B
 latest_valuation_usd: 2.65B
 total_funding_usd: ~379M

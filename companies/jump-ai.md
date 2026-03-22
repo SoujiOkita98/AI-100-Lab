@@ -8,10 +8,13 @@ headquarters: Salt Lake City, UT
 founders:
 - name: Parker Ence
   role: Co-Founder & CEO
+  origin: American
 - name: Tim Chaves
   role: Co-Founder
+  origin: American
 - name: Adam Kirk
   role: Co-Founder
+  origin: American
 latest_valuation: Undisclosed
 total_funding_raised: $105M
 arr_estimate: Undisclosed

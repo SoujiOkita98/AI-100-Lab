@@ -8,6 +8,7 @@ founders:
   role: Executive Chairman (formerly CEO)
   background: Co-founder & former CEO of Groupon; Northwestern University (Music, 2003); founded Detour (audio tours app,
     acquired by Bose 2018)
+  origin: American
 ceo: Laura Burkhauser
 ceo_since: August 2025
 employees: ~188 (as of February 2026)

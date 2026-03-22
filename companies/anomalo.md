@@ -13,45 +13,47 @@ employee_count_approx: 100
 employee_count_date: 2025
 ipo_status: Private
 founders:
-  - name: Elliot Shmukler
-    role: Co-Founder & CEO
-    prior: Instacart (VP of Product & Growth); LinkedIn (Head of Growth); Wealthfront
-  - name: Jeremy Stanley
-    role: Co-Founder & CTO
-    education: PhD (inferred from technical background)
-    prior: Instacart (VP of Data Science)
+- name: Elliot Shmukler
+  role: Co-Founder & CEO
+  prior: Instacart (VP of Product & Growth); LinkedIn (Head of Growth); Wealthfront
+  origin: American (Russian-Jewish heritage)
+- name: Jeremy Stanley
+  role: Co-Founder & CTO
+  education: PhD (inferred from technical background)
+  prior: Instacart (VP of Data Science)
+  origin: American
 funding_rounds:
-  - round: Seed
-    date: 2021
-    amount_usd: null
-    lead_investors:
-      - Foundation Capital
-    other_investors:
-      - Two Sigma Ventures
-    source: https://www.anomalo.com/blog/anomalo-raises-a-33-million-series-a-led-by-norwest-venture-partners/
-  - round: Series A
-    date: 2022
-    amount_usd: 33_000_000
-    lead_investors:
-      - Norwest Venture Partners
-    other_investors:
-      - Foundation Capital
-      - Two Sigma Ventures
-    source: https://www.anomalo.com/blog/anomalo-raises-a-33-million-series-a-led-by-norwest-venture-partners/
-  - round: Series B
-    date: 2024-01
-    amount_usd: 33_000_000
-    lead_investors:
-      - SignalFire
-    other_investors:
-      - Databricks Ventures
-      - Norwest Venture Partners
-      - Two Sigma Ventures
-      - Foundation Capital
-    source: https://www.globenewswire.com/news-release/2024/01/24/2815554/0/en/Anomalo-Reports-Record-Demand-for-Its-Data-Quality-Platform-as-It-Raises-a-33-Million-Growth-Round-With-Participation-From-Strategic-Investor-Databricks-Ventures.html
-strategic_investors:
+- round: Seed
+  date: 2021
+  amount_usd: null
+  lead_investors:
+  - Foundation Capital
+  other_investors:
+  - Two Sigma Ventures
+  source: https://www.anomalo.com/blog/anomalo-raises-a-33-million-series-a-led-by-norwest-venture-partners/
+- round: Series A
+  date: 2022
+  amount_usd: 33000000
+  lead_investors:
+  - Norwest Venture Partners
+  other_investors:
+  - Foundation Capital
+  - Two Sigma Ventures
+  source: https://www.anomalo.com/blog/anomalo-raises-a-33-million-series-a-led-by-norwest-venture-partners/
+- round: Series B
+  date: 2024-01
+  amount_usd: 33000000
+  lead_investors:
+  - SignalFire
+  other_investors:
   - Databricks Ventures
-  - Snowflake Ventures
+  - Norwest Venture Partners
+  - Two Sigma Ventures
+  - Foundation Capital
+  source: https://www.globenewswire.com/news-release/2024/01/24/2815554/0/en/Anomalo-Reports-Record-Demand-for-Its-Data-Quality-Platform-as-It-Raises-a-33-Million-Growth-Round-With-Participation-From-Strategic-Investor-Databricks-Ventures.html
+strategic_investors:
+- Databricks Ventures
+- Snowflake Ventures
 ---
 
 # Anomalo

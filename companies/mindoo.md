@@ -1,22 +1,26 @@
 ---
-name: "Mindoo"
+name: Mindoo
 founded: 2024
-headquarters: "Antwerp, Belgium"
-sector: "AI Healthcare / Hospital Workforce"
-one_liner: "Voice-first AI agents for hospitals handling patient intake, documentation, and front-desk workflows."
+headquarters: Antwerp, Belgium
+sector: AI Healthcare / Hospital Workforce
+one_liner: Voice-first AI agents for hospitals handling patient intake, documentation, and front-desk workflows.
 status: active
 founders:
-  - name: "Gauthier Willemse"
-    role: "CEO"
-    background: "MD from KU Leuven, surgeon, MPH Harvard"
-  - name: "Bart Lens"
-    role: "CTO"
-    background: "Ex-senior engineer at DataCamp, founding engineer at Conveo"
+- name: Gauthier Willemse
+  role: CEO
+  background: MD from KU Leuven, surgeon, MPH Harvard
+  origin: Belgian
+- name: Bart Lens
+  role: CTO
+  background: Ex-senior engineer at DataCamp, founding engineer at Conveo
+  origin: Belgian
 funding_rounds:
-  - stage: "Seed"
-    date: "2025-12"
-    amount_m: 5.5
-    lead_investors: ["6DC", "Syndicate One"]
+- stage: Seed
+  date: 2025-12
+  amount_m: 5.5
+  lead_investors:
+  - 6DC
+  - Syndicate One
 total_funding: 5.5
 last_updated: 2026-03-21
 confidence: medium

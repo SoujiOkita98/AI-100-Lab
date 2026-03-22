@@ -14,8 +14,10 @@ status: Private, Unicorn
 founders:
 - name: May Habib
   role: CEO & Co-founder
+  origin: Lebanese-American
 - name: Waseem AlShikh
   role: CTO & Co-founder
+  origin: Arab-American
 employee_count_estimate: 200-400 (uncertain; not independently confirmed for 2026)
 last_updated: 2026-03-20
 confidence: high
