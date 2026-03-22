@@ -1,0 +1,737 @@
+Companies		
+Team		
+News & Insights		
+Companies		
+100ms		
+Live-video infrastructure for developers		
+FOUNDERS		
+Kshitij Gupta		
+Aniket Behera		
+Sarvesh Dwivedi		
+INITIAL INVESTMENT		
+Seed in 2021		
+1Balance		
+Subscription-based herbal supplements		
+FOUNDERS		
+Srini Sharma		
+Karthikeyan Iyer		
+Dikshant Dave		
+INITIAL INVESTMENT		
+Seed in 2019		
+1Password		
+Identity security and access management solutions		
+FOUNDERS		
+Jeff Shiner (CEO)		
+Roustem Karimov		
+Dave Teare		
+INITIAL INVESTMENT		
+Series A in 2019		
+99designs		
+Global creative platform for collaboration between designers and clients		
+FOUNDERS		
+Patrick Llewellyn		
+Matt Mickiewicz		
+Mark Harbottle		
+INITIAL INVESTMENT		
+Series A in 2011		
+EXIT TYPE		
+Acquired		
+Aavenir		
+SaaS-based source-to-pay solutions		
+FOUNDERS		
+Jesal Mehta		
+INITIAL INVESTMENT		
+Seed in 2020		
+Acalvio		
+Enterprise-scale cyber deception technology		
+FOUNDERS		
+Nat Natraj		
+Sreenivas Gukal		
+Ram Varadarajan		
+Raj Gopalakrishna		
+INITIAL INVESTMENT		
+Series A in 2015		
+Acko		
+Digital insurance platform		
+FOUNDERS		
+Varun Dua		
+INITIAL INVESTMENT		
+Seed in 2013		
+Ada Support		
+AI-powered customer service automation		
+FOUNDERS		
+Mike Murchison		
+David Hariri		
+2020		
+AdRoll		
+Marking platform for e-commerce businesses		
+FOUNDERS		
+Toby Gabriner (CEO)		
+Aaron Bell		
+Adam Berke		
+Valentino Volonghi		
+Peter Krivkovich		
+INITIAL INVESTMENT		
+Series A in 2008		
+AegisAI		
+Agentic AI for email security		
+FOUNDERS		
+Cy Khormaee		
+Ryan Luo		
+INITIAL INVESTMENT		
+Seed in 2025		
+Agave		
+API to access data across all construction systems		
+FOUNDERS		
+Tom Reno		
+John Zucchi		
+Pooria Azimi		
+Samantha Zhang		
+INITIAL INVESTMENT		
+Seed in 2022		
+Agrostar		
+eCommerce platform for agricultural products		
+FOUNDERS		
+Sitanshu Sheth		
+Shardul Sheth		
+INITIAL INVESTMENT		
+2017		
+Airbyte		
+Open-source data integration engine		
+FOUNDERS		
+Michel Tricot		
+John Lafleur		
+INITIAL INVESTMENT		
+Seed in 2021		
+AirKit		
+Customer-led automation platform		
+FOUNDERS		
+Stephen Ehikian		
+Adam Evans		
+Seed in 2017		
+EXIT TYPE		
+Acquired		
+Airmeet		
+Online, interactive event-hosting platform		
+FOUNDERS		
+Lalit Mangal		
+Vinay Jaasti		
+Manoj Singh		
+INITIAL INVESTMENT		
+Seed in 2019		
+AirWatch		
+Mobile device, application, and content management for enterprises		
+FOUNDERS		
+John Marshall		
+INITIAL INVESTMENT		
+Series A in 2013		
+EXIT TYPE		
+Acquired		
+Akridata		
+AI information solutions for Autonomous Vehicles		
+FOUNDERS		
+Kumar Ganapathy		
+Vijay Karamcheti		
+INITIAL INVESTMENT		
+Seed in 2018		
+Akto		
+Plug and play API security		
+FOUNDERS		
+Ankita Gupta		
+Ankush Jain		
+INITIAL INVESTMENT		
+Seed in 2022		
+Algolia		
+End-to-end AI search		
+FOUNDERS		
+Bernadette Nixon (CEO)		
+Nicolas Dessaigne		
+Julien Lemoine		
+INITIAL INVESTMENT		
+Series A in 2015		
+Ally		
+Goal-planning and execution management software for teams		
+FOUNDERS		
+Vetri Vellore		
+Series A in 2019		
+EXIT TYPE		
+Acquired		
+Altinity		
+Software and service provider for ClickHouse – an open-source data warehouse		
+FOUNDERS		
+Robert Hodges (CEO)		
+Mindaugas Zukas		
+Alexander Zaitsev		
+INITIAL INVESTMENT		
+Seed in 2020		
+Amagi		
+Targeted advertising and cloud-based broadcast solution		
+FOUNDERS		
+Baskar Subramanian		
+KA Srinivasan (Srini)		
+Srividhya Srinivasan		
+INITIAL INVESTMENT		
+2021		
+Ampool		
+Analytics tool for data engineers and business analytics		
+Acquired by HPE		
+FOUNDERS		
+Milind Bhandarkar		
+INITIAL INVESTMENT		
+Seed in 2019		
+Anar		
+B2B business network for SMBs		
+FOUNDERS		
+Nishank Jain		
+Sanjay Bhat		
+INITIAL INVESTMENT		
+Seed in 2021		
+EXIT TYPE		
+Acquired by		
+Anchor FM		
+Podcast recording, producing, and hosting app for amateurs and pros		
+FOUNDERS		
+Michael Mignano		
+Nir Zicherman		
+INITIAL INVESTMENT		
+Seed in 2016		
+EXIT TYPE		
+Acquired		
+Ando		
+Business messaging platform for collaboration between people and AI agents		
+‍		
+FOUNDERS		
+Sara Du		
+Seed in 2025		
+ANSR		
+Global Capability Center (GCC) establishment and management		
+FOUNDERS		
+Lalit Ahuja		
+Subashi Runie Trivedi		
+Thomas W. Sisson II		
+V. Bunty Bohra		
+Vikram Ahuja		
+AI safety and research company		
+FOUNDERS		
+Dario Amodei		
+Daniela Amodei		
+Jack Clark		
+Tom Brown		
+Sam McCandlish		
+Jared Kaplan		
+Christopher Olah		
+INITIAL INVESTMENT		
+2025		
+Anyfin		
+Financial services for refinancing debt		
+FOUNDERS		
+Mikael Hussain		
+Sven Perkmann		
+Filip Polhem		
+INITIAL INVESTMENT		
+Series A in 2018		
+Aorato		
+Enterprise security solutions for Active Directory protection		
+FOUNDERS		
+Michael Dolinsky		
+Idan Plotnik		
+Ohad Plotnik		
+INITIAL INVESTMENT		
+2014		
+EXIT TYPE		
+Acquired		
+ApnaMart		
+Asset light retail chain		
+FOUNDERS		
+Abhishek Singh		
+Chetan Kumar Garg		
+INITIAL INVESTMENT		
+Series A in 2023		
+Appbrew		
+Online mobile app building platform		
+FOUNDERS		
+Abhijeet Singh		
+Sharat Chandra		
+Mayank Agarwal		
+INITIAL INVESTMENT		
+Seed in 2022		
+Appsmith		
+Open-source low code tool		
+FOUNDERS		
+Nikhil Nandagopal		
+Arpit Mohan		
+INITIAL INVESTMENT		
+Series A in 2021		
+Aptly		
+CRM and Workflow Management for Property Teams		
+FOUNDERS		
+Sina Shekou (CEO)		
+INITIAL INVESTMENT		
+Seed in 2017		
+Aramya		
+House of fashion brands powered by a tech-enabled supply chain — starting with women’s ethnic wear		
+FOUNDERS		
+Ankush Goyal		
+INITIAL INVESTMENT		
+Seed in 2022		
+Arista		
+Software-driven, cognitive cloud networking for large-scale data centers and campus environments		
+FOUNDERS		
+Andy Bechtolsheim		
+Ken Duda		
+Jayshree Ullal (CEO)		
+2012		
+EXIT TYPE		
+IPO		
+Arivihan		
+AI-powered learning platform		
+FOUNDERS		
+Ritesh Singh Chandel		
+Sonu Kumar		
+Rushabh Kothari		
+INITIAL INVESTMENT		
+Series A in 2024		
+Armadin		
+Agentic continuous penetration testing		
+FOUNDERS		
+Kevin Mandia		
+Travis Lanham		
+INITIAL INVESTMENT		
+Series A in 2025		
+Ascend.io		
+Intelligent data pipeline automation		
+FOUNDERS		
+Sean Knapp		
+INITIAL INVESTMENT		
+Series A in 2017		
+Assembly AI		
+API platform that transcribes audio data		
+FOUNDERS		
+Dylan Fox		
+INITIAL INVESTMENT		
+Series A in 2022		
+Astral		
+Next-gen Python tooling		
+FOUNDERS		
+Charlie Marsh		
+Acquired		
+Astro		
+Online grocery delivery in Indonesia		
+FOUNDERS		
+Marcella Moniaga		
+Sherlyn G		
+Vincent Tjendra		
+Wandi Budianto		
+Jessica Jap		
+INITIAL INVESTMENT		
+Series A in 2022		
+Atlassian		
+Collaboration, development, and issue tracking software for teams		
+FOUNDERS		
+Scott Farquhar		
+Mike Cannon-Brookes		
+INITIAL INVESTMENT		
+Series A in 2010		
+Atrato		
+Buy now, pay later solution for merchants in Mexico		
+FOUNDERS		
+Juan Pedro Casian Porter		
+Alejandro Chávez		
+INITIAL INVESTMENT		
+Seed in 2021		
+atSpoke		
+Workplace service desk ticketing system		
+FOUNDERS		
+Jay Srinivasan		
+Pratyus Patnaik		
+INITIAL INVESTMENT		
+Series A in null		
+EXIT TYPE		
+Acquired		
+August AI		
+AI health companion to support patients between doctor visits		
+FOUNDERS		
+Anuruddh Mishra		
+INITIAL INVESTMENT		
+Seed in 2025		
+Aura		
+Personal privacy and security solutions for consumers and small businesses		
+FOUNDERS		
+Hari Ravichandran (CEO)		
+INITIAL INVESTMENT		
+Series A in 2018		
+Avenue		
+Observability and incident response for ops teams		
+FOUNDERS		
+Justin Bleuel		
+Jeff Barg		
+INITIAL INVESTMENT		
+Seed in 2021		
+Avito		
+Online platform for free classified advertisements in Russia		
+FOUNDERS		
+Jonas Nordlander		
+Filip Engelbert		
+INITIAL INVESTMENT		
+2012		
+EXIT TYPE		
+Acquired		
+Away		
+Travel and lifestyle brand offering high-quality luggage		
+FOUNDERS		
+Jennifer Rubio		
+Steph Korey		
+INITIAL INVESTMENT		
+Seed in 2015		
+Axio		
+Medtech R&D and manufacturing company		
+FOUNDERS		
+Leo Mavely		
+FOUNDERS		
+Karl Bach		
+Archy de Berker		
+Axonius		
+Cybersecurity asset and SaaS management		
+FOUNDERS		
+Dean Sysman		
+Ofri Shur		
+Avidor Bartov		
+INITIAL INVESTMENT		
+2022		
+Basis		
+AI platform for end-to-end accounting automation		
+FOUNDERS		
+Matt Harpe		
+Mitchell Troyanovsky		
+INITIAL INVESTMENT		
+2026		
+BaubleBar		
+Retailer for on-trend women's jewelry		
+FOUNDERS		
+Amy Jain		
+Daniella Yacobovsky		
+INITIAL INVESTMENT		
+Seed in 2010		
+Beam		
+Financial management platform for construction industry		
+FOUNDERS		
+Adam Eagle		
+INITIAL INVESTMENT		
+Seed in 2022		
+Beek		
+Audio platform in Latin America		
+FOUNDERS		
+Pamela Valdes Esteva		
+INITIAL INVESTMENT		
+Seed in 2020		
+BeReal		
+Media sharing app		
+FOUNDERS		
+Alexis Barreyat		
+Kévin Perreau		
+INITIAL INVESTMENT		
+Series A in 2021		
+EXIT TYPE		
+Acquired		
+BestDoc		
+Intelligent patient relationship management (PRM) system		
+FOUNDERS		
+Afsal Salu		
+Fayaz Bin Abdu		
+INITIAL INVESTMENT		
+Seed in 2020		
+BetterCloud		
+SaaS operations management platform		
+FOUNDERS		
+David Politis		
+EXIT TYPE		
+Acquired		
+Bevy		
+Virtual conference and community events software		
+‍		
+FOUNDERS		
+Derek Andersen		
+Alex Bendig		
+Joel Fernandes		
+INITIAL INVESTMENT		
+2020		
+Binocs		
+Tax compliance services		
+FOUNDERS		
+Tonmoy Singhal		
+Pankaj Garg		
+INITIAL INVESTMENT		
+Seed in 2022		
+Biostate AI		
+AI-powered RNA sequencing		
+FOUNDERS		
+Ashwin Gopinath		
+David ZhangShe		
+INITIAL INVESTMENT		
+Series A in 2025		
+Bird		
+Zero friction, omnichannel communication		
+FOUNDERS		
+Robert Vis		
+Adriaan Mol		
+INITIAL INVESTMENT		
+Series A in 2017		
+Bird Scooters		
+Vehicle sharing for affordable, sustainable rides		
+FOUNDERS		
+Travis Vanderzanden		
+2018		
+EXIT TYPE		
+SPAC		
+Bizongo		
+Online business-to-business marketplace for packaging products		
+FOUNDERS		
+Aniket Deb		
+Ankit Tomar		
+Sachin Agrawal		
+INITIAL INVESTMENT		
+Seed in 2015		
+BlaBlaCar		
+Community-based travel app		
+FOUNDERS		
+Nicolas Brusson		
+Frédéric Mazzella		
+Francis Nappez		
+INITIAL INVESTMENT		
+2011		
+BlackBuck		
+India-based digital trucking platform		
+FOUNDERS		
+Rajesh Yabaji		
+Ramasubramanian B		
+Chanakya Hridaya		
+INITIAL INVESTMENT		
+Seed in 2015		
+Blackpoint		
+Cybersecurity threat hunting, detection, and response technology		
+FOUNDERS		
+Jon Murchison		
+INITIAL INVESTMENT		
+2023		
+Blameless		
+End-to-end site reliability engineering		
+FOUNDERS		
+Ashar Rizqi		
+Lyon Wong		
+INITIAL INVESTMENT		
+Seed in 2018		
+Blue Jeans Network		
+Cloud-based video communication platform		
+FOUNDERS		
+Quentin Gallivan (CEO)		
+Alagu Periyannan		
+Krish Ramakrishnan		
+INITIAL INVESTMENT		
+Series A in 2009		
+EXIT TYPE		
+Acquired		
+Bluestone		
+Retailer of fine jewelry and accessories		
+FOUNDERS		
+Gaurav Singh Kushwaha		
+INITIAL INVESTMENT		
+Series A in 2011		
+Bonobos		
+Digitally-native men's fashion brand		
+FOUNDERS		
+Andy Dunn		
+Brian Spaly		
+2010		
+EXIT TYPE		
+Acquired		
+Book My Show		
+Indian online ticketing service		
+FOUNDERS		
+Ashish Hemrajani		
+Rajesh Balpande		
+Parikshit Dar		
+INITIAL INVESTMENT		
+Series A in 2012		
+Born		
+Consumer AI for social connection		
+FOUNDERS		
+Jannis Ringwald		
+Fabian Kamberi		
+Stefan Quernhorst		
+INITIAL INVESTMENT		
+Seed in 2022		
+Borqs		
+End-to-end Android software company for building differentiated mobile devices		
+FOUNDERS		
+Pat Chan		
+Bob Li		
+2017		
+EXIT TYPE		
+IPO		
+Bounce		
+Electric 2-wheeler manufacturer		
+FOUNDERS		
+Varun Agni		
+Vivekananda Hallekere		
+Anil G		
+INITIAL INVESTMENT		
+Series A in 2018		
+Braintree		
+Global payment solutions		
+FOUNDERS		
+Bill Ready (CEO)		
+Bryan Johnson		
+INITIAL INVESTMENT		
+Series A in 2011		
+EXIT TYPE		
+Acquired		
+Breathe Well-being		
+Diabetes reversal and chronic care management company		
+FOUNDERS		
+Aditya Kaicker		
+Rohan Verma		
+INITIAL INVESTMENT		
+Series A in 2021		
+Brick&Bolt		
+Marketplace providing construction services		
+FOUNDERS		
+Jayesh Rajpurohit		
+Arpit Rajpurohit		
+INITIAL INVESTMENT		
+Series A in 2022		
+Bridgetown Research		
+Research firm delivering custom insights for data-driven decisions and growth		
+FOUNDERS		
+Harsh Sahai		
+INITIAL INVESTMENT		
+Seed in 2024		
+Brik		
+Green building materials platform enabling direct-to-contractor sales		
+FOUNDERS		
+Francis Sebastian Anugrah		
+INITIAL INVESTMENT		
+Seed in 2023		
+BRND.ME		
+Acquires and grows D2C brands		
+FOUNDERS		
+Ananth Narayanan		
+INITIAL INVESTMENT		
+Seed in 2021		
+BrowserStack		
+Web and mobile app testing		
+FOUNDERS		
+Ritesh Arora		
+Nakul Aggarwal		
+INITIAL INVESTMENT		
+Series A in 2018		
+Brumbrum		
+Online Italian car reseller		
+FOUNDERS		
+Francesco Banfi		
+Series A in 2018		
+EXIT TYPE		
+Acquired		
+Bryter		
+No-code building platform automating expert knowledge		
+FOUNDERS		
+Michael Grupp		
+Micha-Manuel Bues		
+Michael Hübl		
+INITIAL INVESTMENT		
+Seed in 2019		
+Bumble		
+App for dating, friend-finding, and career building		
+FOUNDERS		
+Whitney Wolfe Herd		
+INITIAL INVESTMENT		
+Series A in 2020		
+Calastone		
+Global transaction network for mutual funds		
+FOUNDERS		
+Julien Hammerson (CEO)		
+Ian Taylor		
+Philip Goffin		
+INITIAL INVESTMENT		
+2013		
+EXIT TYPE		
+Acquired		
+CallSign		
+Mobile multi-factor authentication engine		
+FOUNDERS		
+Zia Hayat		
+INITIAL INVESTMENT		
+Series A in 2017		
+Cambridge Aerospace		
+"Iron dome" defense system for Europe		
+FOUNDERS		
+Steven Barrett		
+Junaid Hussain		
+INITIAL INVESTMENT		
+Seed in 2025		
+Campaign Monitor		
+Email marketing platform		
+FOUNDERS		
+Wellford Dillard (CEO)		
+Ben Richardson		
+Dave Greiner		
+INITIAL INVESTMENT		
+Series A in 2014		
+Campfire		
+AI-enabled ERP		
+FOUNDERS		
+John Glasgow		
+INITIAL INVESTMENT		
+Series A in 2025		
+Can Capital		
+Capital for small and medium-sized businesses		
+FOUNDERS		
+Edward Siciliano (CEO)		
+Gary Johnson		
+INITIAL INVESTMENT		
+2011		
+CapriCoast		
+Modular furniture marketplace		
+FOUNDERS		
+Jawad Ayaz		
+INITIAL INVESTMENT		
+Seed in 2015		
+EXIT TYPE		
+Acquired		
+Captain Fresh		
+B2B supplier of fish and seafood		
+FOUNDERS		
+Utham Gowda		
+INITIAL INVESTMENT		
+Series A in 2021		
+CaptivateIQ		
+Commission software automation		
+FOUNDERS		
+Conway Teng		
+Hubert Wong		
+Mark Schopmeyer		
+INITIAL INVESTMENT		
+2021		
+CardSpring		
+API for developers to write applications for payments		
+FOUNDERS		
+Amit Kumar		
+Jeff Winner		
+Eckart Walther		
+Geraud Boyer		
+INITIAL INVESTMENT		
+Seed in 2011		
+EXIT TYPE		
+Acquired		
+CareStack		
+Cloud-based dental practice management software		
+FOUNDERS		
+Abilash Krishna		
+Mark Huzyak		
+INITIAL INVESTMENT		
+Series A in 2017		
+Carto		
+Spatial data analysis platform		
+FOUNDERS		
+Luis Sanz (CEO)		
+Javier de la Torre		
+Sergio Álvarez Leiva		

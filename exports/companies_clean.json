@@ -656,6 +656,57 @@
     "top_investors": []
   },
   {
+    "slug": "aegisai",
+    "name": "AegisAI",
+    "status": "active",
+    "founded_year": "2024",
+    "hq": null,
+    "website": null,
+    "sector": "AI Cybersecurity / Email Security",
+    "one_liner": "Agentic AI for email security. Accel-backed.",
+    "total_raised_m": 5.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [
+      {
+        "company_slug": "aegisai",
+        "name": "Cy Khormaee",
+        "role": "CEO",
+        "background": "",
+        "origin": "",
+        "prior": ""
+      },
+      {
+        "company_slug": "aegisai",
+        "name": "Ryan Luo",
+        "role": "Co-founder",
+        "background": "",
+        "origin": "",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "aegisai",
+        "stage": "Seed",
+        "date": "2025",
+        "amount_m": 5.0,
+        "valuation_m": null,
+        "lead_investors": "Accel",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
     "slug": "aeon-health",
     "name": "Aeon Health",
     "status": "active",
@@ -2325,6 +2376,49 @@
     "top_investors": []
   },
   {
+    "slug": "atomic-ai",
+    "name": "Atomic AI",
+    "status": "active",
+    "founded_year": "2020",
+    "hq": null,
+    "website": "https://atomic.ai",
+    "sector": "AI Biotech / RNA Drug Discovery",
+    "one_liner": "AI platform for RNA drug discovery using 3D structural biology and deep learning.",
+    "total_raised_m": 42.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [
+      {
+        "company_slug": "atomic-ai",
+        "name": "Raphael Townshend",
+        "role": "CEO",
+        "background": "Stanford PhD in ML for structural biology",
+        "origin": "",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "atomic-ai",
+        "stage": "Series A",
+        "date": "2022-10",
+        "amount_m": 35.0,
+        "valuation_m": null,
+        "lead_investors": "Playground Global; Greylock",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
     "slug": "attio",
     "name": "Attio",
     "status": "Private",
@@ -2397,6 +2491,49 @@
       "Meritech Capital",
       "Evolution Equity Partners"
     ]
+  },
+  {
+    "slug": "august-ai",
+    "name": "August AI",
+    "status": "active",
+    "founded_year": "2024",
+    "hq": null,
+    "website": null,
+    "sector": "AI Healthcare / Patient Companion",
+    "one_liner": "AI health companion supporting patients between doctor visits. Accel-backed.",
+    "total_raised_m": 5.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [
+      {
+        "company_slug": "august-ai",
+        "name": "Anuruddh Mishra",
+        "role": "CEO",
+        "background": "",
+        "origin": "",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "august-ai",
+        "stage": "Seed",
+        "date": "2025",
+        "amount_m": 5.0,
+        "valuation_m": null,
+        "lead_investors": "Accel",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
   },
   {
     "slug": "axiom-ai",
@@ -2761,6 +2898,57 @@
         "lead_investors": "Accel; GV",
         "other_investors": "",
         "source": "https://www.bloomberg.com/news/articles/2026-02-24/",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
+    "slug": "biostate-ai",
+    "name": "Biostate AI",
+    "status": "active",
+    "founded_year": "2023",
+    "hq": null,
+    "website": null,
+    "sector": "AI Biotech / RNA Sequencing",
+    "one_liner": "AI-powered RNA sequencing platform. Accel-backed.",
+    "total_raised_m": null,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [
+      {
+        "company_slug": "biostate-ai",
+        "name": "Ashwin Gopinath",
+        "role": "CEO",
+        "background": "",
+        "origin": "",
+        "prior": ""
+      },
+      {
+        "company_slug": "biostate-ai",
+        "name": "David ZhangShe",
+        "role": "Co-founder",
+        "background": "",
+        "origin": "",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "biostate-ai",
+        "stage": "Series A",
+        "date": "2025",
+        "amount_m": null,
+        "valuation_m": null,
+        "lead_investors": "Accel",
+        "other_investors": "",
+        "source": "",
         "notes": ""
       }
     ],
@@ -5753,6 +5941,40 @@
     "top_investors": []
   },
   {
+    "slug": "ditto-ai-dating",
+    "name": "Ditto AI (Dating)",
+    "status": "active",
+    "founded_year": "2024",
+    "hq": null,
+    "website": null,
+    "sector": "AI Consumer / Dating",
+    "one_liner": "AI iMessage matchmaker for college students. Replaces swiping with real dates.",
+    "total_raised_m": 9.2,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [],
+    "funding_rounds": [
+      {
+        "company_slug": "ditto-ai-dating",
+        "stage": "Seed",
+        "date": "2026-02",
+        "amount_m": 9.2,
+        "valuation_m": null,
+        "lead_investors": "Peak XV Partners; Gradient",
+        "other_investors": "",
+        "source": "https://www.globenewswire.com/news-release/2026/02/03/3231154/0/en/Ditto-raises-9-2M-to-replace-swiping-with-real-dates-for-college-students.html",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
     "slug": "elevenlabs",
     "name": "ElevenLabs",
     "status": "unknown",
@@ -8353,6 +8575,40 @@
       "Initialized Capital",
       "Y Combinator"
     ]
+  },
+  {
+    "slug": "gretel-ai",
+    "name": "Gretel AI",
+    "status": "active",
+    "founded_year": "2020",
+    "hq": null,
+    "website": "https://gretel.ai",
+    "sector": "AI Data / Synthetic Data",
+    "one_liner": "Synthetic data platform \u2014 generates privacy-safe, AI-ready data for training models.",
+    "total_raised_m": 67.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [],
+    "funding_rounds": [
+      {
+        "company_slug": "gretel-ai",
+        "stage": "Series B",
+        "date": "2023-11",
+        "amount_m": 50.0,
+        "valuation_m": null,
+        "lead_investors": "Greylock",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
   },
   {
     "slug": "groq",
@@ -11338,6 +11594,60 @@
     "top_investors": []
   },
   {
+    "slug": "llamaindex",
+    "name": "LlamaIndex",
+    "status": "active",
+    "founded_year": "2022",
+    "hq": null,
+    "website": "https://llamaindex.ai",
+    "sector": "AI Infrastructure / LLM Framework",
+    "one_liner": "Open-source data framework for LLM applications. Connects custom data to large language models.",
+    "total_raised_m": 27.5,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [
+      {
+        "company_slug": "llamaindex",
+        "name": "Jerry Liu",
+        "role": "CEO",
+        "background": "",
+        "origin": "",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "llamaindex",
+        "stage": "Seed",
+        "date": "2023-03",
+        "amount_m": 8.5,
+        "valuation_m": null,
+        "lead_investors": "Greylock",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
+      },
+      {
+        "company_slug": "llamaindex",
+        "stage": "Series A",
+        "date": "2024-02",
+        "amount_m": 19.0,
+        "valuation_m": null,
+        "lead_investors": "Greylock",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
     "slug": "lmarena",
     "name": "LMArena",
     "status": "active",
@@ -12910,6 +13220,57 @@
       }
     ],
     "funding_rounds": [],
+    "top_investors": []
+  },
+  {
+    "slug": "modular-ai",
+    "name": "Modular AI",
+    "status": "active",
+    "founded_year": "2022",
+    "hq": null,
+    "website": null,
+    "sector": "AI Infrastructure / Developer Platform",
+    "one_liner": "Unified AI developer platform. Created Mojo programming language. Founded by Chris Lattner (creator of LLVM, Swift).",
+    "total_raised_m": 130.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [
+      {
+        "company_slug": "modular-ai",
+        "name": "Chris Lattner",
+        "role": "CEO",
+        "background": "Created LLVM, Swift at Apple. Former VP Engineering at Google Brain, SiFive.",
+        "origin": "",
+        "prior": ""
+      },
+      {
+        "company_slug": "modular-ai",
+        "name": "Tim Davis",
+        "role": "President",
+        "background": "",
+        "origin": "",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "modular-ai",
+        "stage": "Series A",
+        "date": "2023-08",
+        "amount_m": 100.0,
+        "valuation_m": null,
+        "lead_investors": "General Catalyst; GV",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
+      }
+    ],
     "top_investors": []
   },
   {

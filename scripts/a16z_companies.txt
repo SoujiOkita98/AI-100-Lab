@@ -1,0 +1,822 @@
+Deeptune
+Mind Robotics
+Nexthop
+Fleek
+Lio
+Ease Health
+Chariot Defense
+Quiver AI
+Heron Power
+Kavak
+Temporal
+Shizuku AI
+Galadyne
+Kairos
+Phylo
+Inferact
+Third Arc Bio
+Aktis Oncology
+Protege
+Babylon
+Backbone Systems
+Mirelo AI
+Aztec
+Harvey
+Accolade
+Actifio
+ActionIQ
+Affirm
+Airbnb
+Akita Software
+Allset
+Amiato
+Apptio
+Arimo
+Asana
+Asserts
+Authy
+Automatic
+Barefoot Networks
+BBA Inc
+Bebop
+BeReal
+BioAge Labs
+Blockspring
+Boku
+Border0
+Box
+Bracket Computing
+Bromium
+Bump Technologies
+BuzzFeed
+CAMP4 Therapeutics
+Capital.xyz
+Cardiogram
+Caviar
+Cazena
+Census
+Character.AI
+Ciitizen
+CipherCloud
+ClearStory Data
+Coinbase
+Cumulus Networks
+DeepMap
+Delphix
+DigitalOcean
+Dishpatch
+Dollar Shave Club
+Earn.com
+EQRx
+Erasca
+Facebook
+Factual
+FiftyThree
+Figma
+Firstbase
+Flutter
+Fusion I/O
+Gainspeed
+Genius
+GitHub
+Gobble
+Golden
+Graft Concepts
+Granular
+Graphite
+greply
+Groupon, Inc.
+Hatch
+Hopin
+HumanAPI
+iCracked
+IDRx
+Imgur
+Instacart
+Instagram
+Intrinsic
+Isovalent
+Jopwell
+Julep
+Jungla
+Keybase
+Kno
+Knowable
+Knowmia
+Loom
+Lowkey.gg
+Luma
+Lyft
+Lyrebird
+Lytro
+Massive Health, Inc.
+Memora Health
+Morta Security
+Nautilus Biotechnology
+Nicira Networks
+Oculus VR
+Okta
+Omada Health
+Onshape
+Opendoor
+OpenGov
+OpenInvest
+Optimizely
+Optimyze
+Orbital Therapeutics
+PagerDuty
+Parsec Gaming
+Patch Biosciences
+PatientPing
+PiCloud
+Pinterest
+Pixate
+Platfora
+Prepared
+Product Hunt
+Quantopian
+Ready Player Me
+Red Hot Labs
+reddit
+Reflektive
+Regrello
+Resourcely
+Ribbon Health
+Rigetti
+Rival
+Robinhood
+Roblox
+Rockmelt
+RTFKT
+Samsara
+SeedFi
+Shapeways
+ShoeDazzle
+SignalFx
+SigOpt
+Silver Tail Systems
+Skout
+Skype
+Slack
+SocialCam
+Soylent
+Stack Overflow
+Standard Treasury
+Swell
+Swiftype
+Tabular
+Tackle.io
+Talaria
+Tasty Labs
+Teleport
+Tenfold
+Tidemark
+Tilt
+TinyCo
+Tmunity Therapeutics
+Tomfoolery
+Transferwise
+TripActions
+TXN Solutions
+Udacity
+Urban Engines
+Usermind
+Viki
+Walker & Company Brands
+Wit.Al
+Within
+Wiz
+xAI
+Zynga
+11x
+[untitled]
+Abridge
+Adaptive
+Adaptive Security
+Addi
+Aerodome
+Aetherflux
+Air Space Intelligence
+AirGarage
+AKASA
+Alchemy
+Alchemy Health
+Aleo
+All Day
+Alleviate Health
+Alloy Automation
+Alluxio
+Alpha-9 Oncology
+Alpine Bio
+Alta
+AltSchool
+Amber
+Ambience Healthcare
+Ambient.ai
+Amca
+AminoChain
+Anchorage
+Anduril
+Angle
+AnyRoad
+Anyscale
+Apeel Sciences
+Apex Space
+Apollo
+Applied Intuition
+Aptos
+Aradigm
+Arc
+Arcjet
+Arda Therapeutics
+Arena
+Arpeggi Labs
+Arweave
+Asimov
+Astranis
+Astro Mechanica
+Atlys
+Autograph.io
+Avalanche
+Axoni
+Azra Games
+Backflip AI
+Base Power
+Bastion
+Bayesian Health
+Beacons
+Beeps
+Believer
+Belong
+Benchling
+BigHat Biosciences
+BigScreen
+Biodock
+Bitski
+Black Forest Labs
+Black Ore Technologies
+Blackbird.xyz
+Bold
+Boltz
+Bonfire Studios
+Bounce
+Braid.ai
+Braintrust
+Branch International
+Braveheart
+Brightside
+Cadre
+California Forever
+Camber
+Camu
+Canal
+Cape
+Capitolis
+Capriza
+Carbonated
+Carry1st
+Carta
+Cartography Biosciences
+Castelion
+Catena Labs
+CCP Games
+Cedar
+Celo
+Charthop
+Chestnut
+Chia
+CHIP Professionals
+Cider
+Civitai
+Clerk
+ClickUp
+Clipboard
+Clover Network
+Clubhouse
+Cluely
+Clutch
+Co:Create
+Coactive
+CodeCombat
+Codi
+Coinswitch
+Comma
+Command Zero
+Compound
+Concourse
+Convex
+Core Loop
+Counsel Health
+Createra
+Cresta
+Cross River Bank
+Crossbeam
+Crux
+Cryptoys
+Cuenca
+Cult of the North
+Culture Wireless
+Current
+Cursor
+CX2
+CYGNVS
+Cyngn
+Dapper Labs
+Databricks
+Datanomik
+Daylight
+Daze
+dbt Labs
+Decagon
+Deel
+Deepcell
+Deepr
+DELV
+Descript
+DeSO
+Destruction Labz
+Devoted Health
+Dfinity
+DialPad
+Diode
+Dispatch
+Distributional
+District
+Divvy Homes
+DoNotPay
+Doppel
+Doxel
+Dwolla
+dYdX
+Dynamic Labs, Inc.
+Dyno Therapeutics
+E-3 Tech
+Earli
+Earnin
+Eclypsium, Inc.
+Eco
+EigenLayer
+Elegen
+ElevenLabs
+EliseAI
+Elodie
+End Game
+EngFlow
+Entropy
+Envoy
+EPAL, INC.
+Equal IQ
+Equals
+Espresso (Translucence Research Inc)
+Eve
+Everlaw
+EveryRealm
+Exowatt
+fal
+Fanatics
+Faraway
+Fashivly
+favorited
+Feedplan
+Fei Protocol
+Fidocure
+Filmhub
+FingerprintsDAO
+Firefly Health
+Fivetran
+Flash Hoops
+Flexport
+Flock Homes
+Flock Safety
+Flow
+Flowcarbon
+Fly.io
+FlyHomes
+Foodology
+Formation
+Formation Bio
+Forta Network
+Forte Labs, Inc.
+Fortuna Health
+Forward Networks
+Foundation
+Foursquare
+Freatic
+Freenome
+Fudo
+Function Health
+FurtherAI
+FWB
+GamerXSociety
+Gamma.app
+Gate Bio
+GC Therapeutics
+Genesis Molecular AI
+Gensyn
+Glorify
+Glossbird
+Glow
+GoodData
+Greenlight
+Greether
+Grepr
+Gym Class VR
+Hadrian
+Halliday
+HappyRobot
+Harbor
+Headway
+Hebbia
+Hedra
+Here Not There, Inc.
+Hex
+Hipcamp
+Hippocratic AI
+Honor
+hyperexponential
+Ideogram
+IFTTT
+Illumio
+Imply
+Improbable
+Incention
+Inceptive
+Incredible Health
+Inductive Bio
+Infinite Athlete
+Infinite Machine
+Infinitus
+Inngest
+insitro
+Instabase
+Instart
+Intro
+Inventa
+Iron Fish
+Irreverent Labs
+IYK
+Jeeves
+Jito
+Journera
+k-ID
+K12 Crypto
+Kadabra
+Kaedim
+Kaizen Labs
+Kalshi
+Keep
+Keep Network
+Keycard
+KIKI
+Kindred
+Kiosk
+Knownwell
+KoBold Metals
+Kodex
+Komodo Health
+Kong
+Kosen Labs
+Krea
+kweliTV
+Labelbox
+Labster
+Larridin
+LayerZero
+Legend Labs
+Leona Health
+Levels Health
+Lido Finance
+Lighter
+Lightspark
+Lightup
+Lime
+Limitless
+Local Motion
+Locale
+Loft
+Lookout
+Loop
+LootRush
+LTSE
+Luma AI
+Lumi Interactive
+Lumos
+Macro
+Magic Leap
+Mainframe Industries
+Mana Bio
+Manifold
+Mariana Minerals
+Marker Learning
+Material Security
+Matik
+Matter Labs
+Maven
+Mayvenn
+Maze Therapeutics
+Mediachain
+Medium
+Medley
+MEGA
+Meitre
+Mem
+Mem Protocol
+Mercury
+Meridian
+Merit Systems
+Merkle Manufactory, Inc.
+Mesosphere
+Meta4 Capital
+Metatheory
+Method
+Metronome
+Midstream Health
+Milu Health
+Mintlify
+Mirage
+Mistral AI
+Mixpanel
+ModernFi
+Moment
+Moov
+Morpho
+Mosaic
+Mother Computer Inc.
+Motherduck
+Mountaintop Studios
+Muse App Inc
+Mux
+Mvmnt
+Mysten Labs
+Mythical Games
+Nansen
+Nash
+NationBuilder
+NEAR
+Neighbor
+Netlify
+Netography
+Neural Magic
+NG.CASH
+Niftmint
+NOD Games
+North Pole Security
+Northwood Space
+Nova Labs
+NX
+Nym
+Oasis Labs
+Oboe
+Octant Bio
+Odyssey
+Odyssey Interactive
+OfferUp
+One More Game
+OpenAI
+OpenBazaar
+OpenRouter
+OpenSea
+Optimism
+Orbit
+Orchestra Bio
+Orchid Labs
+Orderful
+Original Games
+Otter
+Outing
+Overtime
+Overwolf
+Pahdo Labs
+Palmstreet
+Paloma
+PartyDAO
+Patch
+Pave
+Payall
+Payrails
+Pearl Health
+People.ai
+Periodic Labs
+Phantom
+Phota Labs
+Pietra
+Pimlico
+Pindrop
+Pinecone
+Plaid
+PlanetScale
+PleasrDAO
+Podium Automation
+Point
+Polychain
+Pomelo Care
+Poseidon
+Practice
+Preset
+Prisms
+Promise
+PromptFoo
+Proof Holdings
+Proof of Play
+Propel
+Protocol Labs
+Proven.com
+Pryzm
+Pug.AI
+Pylon
+Pyn
+Q Bio
+Quora
+Rabbit
+RadEmploy
+Radiant
+Raid Base
+RapidAPI
+Rappi
+Rasa
+Raspberry AI
+Reducto
+Reface
+Reforge
+Relace
+Relay
+Replay
+Replicate
+Replit
+Resend
+Revolut
+Rewatch
+Rezo Therapeutics
+Rigup
+Rillet
+Rive
+RLY Network
+Roboto Games
+Roebling
+Rollup AI
+ROME Therapeutics
+Royal
+Run the World
+Rune Technologies
+Runloop
+Runway
+Rutter
+Rye
+Safe Superintelligence
+Salient
+Salt AI
+Sandbox VR
+Santa Ana Bio
+Sardine
+Saronic
+Scene Infrastructure Co
+Scribe Therapeutics
+Scribenote
+Season Health
+Seismic Systems
+Senra Systems
+SentiLink
+Sequence
+Series Entertainment
+Sesame
+Setpoint.io
+Sharp Performance
+Shef
+Shibuya
+Shield AI
+Shop Rodeo
+Singularity 6
+Sky
+Sky Mavis
+Skydio
+Skylight Health
+SkySafe
+Sleeper
+Slingshot AI
+Sloyd
+Smartcar
+Snackpass
+SnapLogic
+Snapser
+Socket
+Sola
+Solana
+Sound.xyz
+Sourcegraph
+Sovrun
+SpaceX
+Spade
+Sphere
+SpotOn
+Sprig
+Sprinter Health
+Spruce Systems
+Stacker
+Stainless
+Standard Nuclear
+Starburst
+Stelo Labs, Inc.
+Stoik
+Stonks
+Story Protocol
+Stripe
+Stuut
+Substack
+Super Evil MegaCorp
+Superhuman
+Supermove
+Supersonik
+Svix
+Swan
+SwayBrand, Inc.
+Synapse
+Syndicate
+Tako
+Talkiatry
+Tally Labs, Inc.
+Talos
+Tanium
+Tapi
+Tecton
+Teespring
+Tellus
+Tenex AI
+Tennr
+ternwheel
+Testcode
+Thatch Health
+The Coterie
+Theorycraft Games
+Thinking Machines Lab
+Thyme Care
+Tigris Data
+Timbucktoo
+Titan
+Tlon
+Toka Cyber Builders
+Toma
+Tomorrow Health
+TopKey
+Topography Health
+TradeBlock
+TruckSmarter
+TrueFi
+Truemed
+Truffle Security
+Trunk
+Turquoise Health
+Udio
+Ultima Genomics
+Unconventional AI
+UnifyID
+Unisound
+Uniswap
+UnitedMasters
+Universal
+Unlimited Industries
+UpSmith
+Upstash
+Vaas
+Valar Labs
+Valon
+Valora
+Vantage
+VeeFriends
+Ventrilo
+Ventus Therapeutics
+Vesta
+VGS
+Viggle
+Virch Merch
+Virtually Human Studio
+Vitally
+Voldex
+Wabi AI
+Warbler Labs, Incorporated
+WaveForms AI
+Waymark
+Waymo
+Wealthmore
+Whatnot
+Wingspan
+Wonderschool
+WorkBoard
+World Labs
+Worldcoin
+Wrapbook
+XBuild
+XMTP Labs
+Yellow
+Yield Guild Games
+Yubico
+Yuga Labs (BAYC)
+Yuno
+Yupp
+Zefchain
+Zencoder
+Zenefits
+ZeroMark
+Zipline
+Zulily
+Zuma
+Zus Health
