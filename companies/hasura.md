@@ -54,6 +54,7 @@ funding_rounds:
   - Greenoaks Capital
   source: https://techcrunch.com/2022/02/22/graphql-developer-platform-hasura-raises-100m-series-c/
 one_liner: Hasura is a developer tooling company that provides instant data access and API generation for enterprises
+linkedin: https://www.linkedin.com/company/hasura
 ---
 
 # Hasura -- AI Data Infrastructure & API Platform

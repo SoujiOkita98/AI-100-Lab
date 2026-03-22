@@ -28,6 +28,7 @@ funding_rounds:
 one_liner: Jasper is an AI content and marketing platform that rose to prominence as one of the fastest-growing SaaS startups
   ever, reaching unicorn status in roughly 18 months
 website_verified: true
+linkedin: https://www.linkedin.com/company/heyjasperai
 ---
 
 # Jasper -- AI Marketing Platform

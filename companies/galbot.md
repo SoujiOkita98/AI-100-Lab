@@ -49,6 +49,7 @@ funding_rounds:
 one_liner: Galbot (Galaxy General Robotics) is a Beijing-based humanoid robotics company founded in May 2023 by Peking University
   Professor He Wang
 website_verified: true
+linkedin: https://www.linkedin.com/company/galbot-robotics
 ---
 
 # Galbot (Galaxy General Robotics)

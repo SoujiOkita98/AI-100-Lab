@@ -58,6 +58,7 @@ funding_rounds:
 one_liner: 'Descript is an AI-powered collaborative video and audio editing platform whose core innovation is **text-based
   editing**: users edit media by editing a transcript'
 website_verified: true
+linkedin: https://www.linkedin.com/company/descript
 ---
 
 # Descript

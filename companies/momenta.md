@@ -69,6 +69,7 @@ funding_rounds:
 one_liner: Momenta is a Beijing-based autonomous driving company that develops AI software for self-driving vehicles, spanning
   both L2+ driver-assistance systems (ADAS) and full L4 autonomous driving
 website_verified: true
+linkedin: https://www.linkedin.com/company/momenta.ai
 ---
 
 # Momenta

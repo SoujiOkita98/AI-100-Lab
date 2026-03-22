@@ -53,6 +53,7 @@ confidence: medium-high
 one_liner: AI21 Labs is an Israeli AI company founded in November 2017 that develops proprietary large language models and
   enterprise AI systems
 website_verified: true
+linkedin: https://www.linkedin.com/company/ai21
 ---
 
 # AI21 Labs

@@ -38,6 +38,7 @@ funding_rounds:
 one_liner: Granola is an AI-powered notepad that combines a user's typed notes with automatic meeting transcription to produce
   enhanced, structured meeting notes
 website_verified: true
+linkedin: https://www.linkedin.com/company/meetgranola
 ---
 
 # Granola -- AI Meeting Notes

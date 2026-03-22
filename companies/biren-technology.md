@@ -49,6 +49,7 @@ funding_rounds:
   source: https://www.scmp.com/tech/tech-war/article/3302409/nvidia-challenger-biren-secures-fresh-funding-from-state-backed-investor
 one_liner: Biren Technology is a Shanghai-based AI chip company that designs general-purpose GPUs for AI training and inference
 website_verified: true
+linkedin: https://www.linkedin.com/company/birentech
 ---
 
 # Biren Technology

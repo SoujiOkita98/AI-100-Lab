@@ -44,6 +44,7 @@ funding_rounds:
 one_liner: Moveworks built an AI-powered employee support platform -- an "enterprise copilot" -- that automates IT, HR, finance,
   and facilities requests through natural language conversation
 data_notes: 'Needs verification: website, founders. Profile may be incomplete.'
+linkedin: https://www.linkedin.com/company/moveworksai
 ---
 
 # Moveworks -- Agentic AI Copilot for Enterprise Employee Support

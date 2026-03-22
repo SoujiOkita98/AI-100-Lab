@@ -29,6 +29,7 @@ funding_rounds:
 one_liner: Charm Therapeutics (stylized as CHARM) is a London-based biotech company using deep learning to discover and develop
   drugs against hard-to-drug targets
 website_verified: true
+linkedin: https://www.linkedin.com/company/charm-therapeutics
 ---
 
 # Charm Therapeutics

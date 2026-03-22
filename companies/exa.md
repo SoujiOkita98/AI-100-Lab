@@ -37,6 +37,7 @@ funding_rounds:
 one_liner: Exa (formerly Metaphor) is an AI-native search engine built specifically for machine consumption rather than human
   browsing
 website_verified: true
+linkedin: https://www.linkedin.com/company/exa-ai
 ---
 
 # Exa

@@ -29,6 +29,7 @@ last_updated: 2026-03-20
 one_liner: Cartesia builds real-time AI models based on State Space Model (SSM) architectures, enabling ultra-low-latency
   voice AI and on-device inference that challenges transformer-based approaches
 website_verified: true
+linkedin: https://www.linkedin.com/company/cartesia-ai
 ---
 
 # Cartesia

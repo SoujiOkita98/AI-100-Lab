@@ -40,6 +40,7 @@ funding_rounds:
   - GV
   source: https://www.bloomberg.com/news/articles/2026-02-24/
 website_verified: true
+linkedin: https://www.linkedin.com/company/get-basis-ai
 ---
 
 # Basis -- Company Profile

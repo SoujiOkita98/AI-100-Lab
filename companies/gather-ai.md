@@ -75,6 +75,7 @@ total_known_funding: ~$74M
 one_liner: Gather AI is a Pittsburgh-based physical AI company that uses autonomous drones and AI-powered cameras to monitor
   warehouse inventory in real time
 website_verified: true
+linkedin: https://www.linkedin.com/company/gather-ai
 ---
 
 # Gather AI

@@ -75,6 +75,7 @@ funding_rounds:
   - B Capital Group
   - Kaiser Permanente
   source: https://techcrunch.com/2025/01/09/innovaccer-aims-to-become-healthcares-ai-powerhouse-with-275m-series-f/
+linkedin: https://www.linkedin.com/company/innovaccer
 ---
 
 # Innovaccer -- Healthcare AI & Data Platform

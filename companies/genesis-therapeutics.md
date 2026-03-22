@@ -35,6 +35,7 @@ funding_rounds:
 one_liner: Genesis Therapeutics is a computational drug discovery company that uses proprietary molecular AI technology to
   discover and develop novel small-molecule drugs for severe and debilitating diseases
 website_verified: true
+linkedin: https://www.linkedin.com/company/genesistherapeutics
 ---
 
 # Genesis Therapeutics

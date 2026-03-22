@@ -31,6 +31,7 @@ funding_rounds:
   source: https://news.crunchbase.com/ai/ai-hebbia-venture-a16z-gv-thiel/
 one_liner: Hebbia is an AI platform for knowledge work, purpose-built for finance, legal, and government sectors
 website_verified: true
+linkedin: https://www.linkedin.com/company/hebbia
 ---
 
 # Hebbia -- Company Profile

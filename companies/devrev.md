@@ -43,6 +43,7 @@ funding_rounds:
   - Mayfield Fund
   source: https://devrev.ai/blog/devrev-raises-series-a
 one_liner: DevRev is an AI-native platform that unifies customer support and product development workflows
+linkedin: https://www.linkedin.com/company/devrev
 ---
 
 # DevRev -- AI-Native CRM & Developer Platform

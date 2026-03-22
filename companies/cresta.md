@@ -50,6 +50,7 @@ funding_rounds:
 one_liner: Cresta is a contact center AI platform that provides real-time intelligence to customer service and sales agents,
   managers, and executives
 website_verified: true
+linkedin: https://www.linkedin.com/company/cresta-inc
 ---
 
 # Cresta -- Company Profile

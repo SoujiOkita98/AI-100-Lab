@@ -19,6 +19,7 @@ employee_count_estimate: ~22 (as of Jan 2026, per Tracxn)
 status: Private
 last_updated: 2026-03-20
 website_verified: true
+linkedin: https://www.linkedin.com/company/brightwave-io
 ---
 
 # Brightwave -- Company Profile

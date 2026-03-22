@@ -113,6 +113,7 @@ confidence_notes: Funding rounds are well-documented. Founder backgrounds are co
   not publicly disclosed. Revenue figures not available. Customer names confirmed via press releases and TechCrunch. Employee
   count (~107) from Tracxn Jan 2026 data.
 website_verified: true
+linkedin: https://www.linkedin.com/company/cradlebio
 ---
 
 # Cradle

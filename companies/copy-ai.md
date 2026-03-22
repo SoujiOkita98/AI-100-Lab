@@ -32,6 +32,7 @@ profile_updated: 2026-03-20
 one_liner: Copy.ai is a generative AI platform that evolved from an AI copywriting tool into a full-stack "GTM AI" (Go-To-Market
   AI) platform for sales, marketing, and revenue operations teams
 website_verified: true
+linkedin: https://www.linkedin.com/company/copyai
 ---
 
 # Copy.ai
