@@ -1,0 +1,319 @@
+[
+  {
+    "name": "Black Forest Labs",
+    "slug": "black-forest-labs",
+    "founded": 2024,
+    "hq": "Freiburg, Germany",
+    "sector": "AI Visual / Image Generation",
+    "one_liner": "Frontier visual AI lab \u2014 creators of the FLUX open-source image generation model family. European AI lab.",
+    "website": "https://blackforestlabs.ai",
+    "funding_rounds": [
+      {
+        "stage": "Series A",
+        "date": "2024-08",
+        "amount_m": 31,
+        "lead_investors": [
+          "Andreessen Horowitz"
+        ]
+      },
+      {
+        "stage": "Series B",
+        "date": "2025-12",
+        "amount_m": 300,
+        "valuation_m": 3250,
+        "lead_investors": [
+          "General Catalyst"
+        ]
+      }
+    ],
+    "total_raised_m": 331,
+    "latest_valuation_m": 3250
+  },
+  {
+    "name": "Genspark",
+    "slug": "genspark",
+    "founded": 2024,
+    "sector": "AI Workspace / Autonomous Research",
+    "one_liner": "AI-native autonomous workspace with Sparkpages for research and business tasks. Hit $50M ARR in 5 months.",
+    "funding_rounds": [
+      {
+        "stage": "Seed",
+        "date": "2024",
+        "amount_m": 60,
+        "lead_investors": [
+          "Lanchi Ventures"
+        ]
+      },
+      {
+        "stage": "Series B",
+        "date": "2025-11",
+        "amount_m": 275,
+        "valuation_m": 1250,
+        "lead_investors": [
+          "Emergence Capital"
+        ]
+      }
+    ],
+    "total_raised_m": 335,
+    "latest_valuation_m": 1250
+  },
+  {
+    "name": "PermitFlow",
+    "slug": "permitflow",
+    "founded": 2022,
+    "sector": "AI Construction / Permitting",
+    "one_liner": "AI workforce for construction permitting \u2014 automates building permit applications. Cuts months to days.",
+    "website": "https://permitflow.com",
+    "funding_rounds": [
+      {
+        "stage": "Series B",
+        "date": "2025-12",
+        "amount_m": 54,
+        "lead_investors": [
+          "Accel",
+          "Initialized Capital"
+        ]
+      }
+    ],
+    "total_raised_m": 54
+  },
+  {
+    "name": "Lumana",
+    "slug": "lumana",
+    "founded": 2023,
+    "sector": "AI Video Security / Vision",
+    "one_liner": "AI video security using vision-language models \u2014 turns any camera into intelligent monitoring. McDonalds, Meta, NYU as clients.",
+    "website": "https://lumana.ai",
+    "funding_rounds": [
+      {
+        "stage": "Series A",
+        "date": "2025-07",
+        "amount_m": 40,
+        "lead_investors": [
+          "Wing VC"
+        ]
+      }
+    ],
+    "total_raised_m": 64
+  },
+  {
+    "name": "SF Compute",
+    "slug": "sf-compute",
+    "founded": 2023,
+    "hq": "San Francisco, CA",
+    "sector": "AI Infrastructure / GPU Marketplace",
+    "one_liner": "AI compute marketplace connecting GPU buyers with data centers selling excess capacity on flexible contracts.",
+    "website": "https://sfcompute.com",
+    "funding_rounds": [
+      {
+        "stage": "Series A",
+        "date": "2025-11",
+        "amount_m": 40,
+        "valuation_m": 300,
+        "lead_investors": [
+          "DCVC",
+          "Wing VC"
+        ]
+      }
+    ],
+    "total_raised_m": 40,
+    "latest_valuation_m": 300
+  },
+  {
+    "name": "Spara",
+    "slug": "spara",
+    "founded": 2024,
+    "sector": "AI Sales / Voice Agents",
+    "one_liner": "AI voice/chat/email agents for inbound sales \u2014 qualifies leads and books meetings in real-time.",
+    "funding_rounds": [
+      {
+        "stage": "Seed",
+        "date": "2025-09",
+        "amount_m": 15,
+        "lead_investors": [
+          "Radical Ventures",
+          "Inspired Capital"
+        ]
+      }
+    ],
+    "total_raised_m": 15
+  },
+  {
+    "name": "Attuned Intelligence",
+    "slug": "attuned-intelligence",
+    "founded": 2024,
+    "sector": "AI Healthcare / Hospital Call Centers",
+    "one_liner": "Supervised AI voice agents for hospital call centers \u2014 resolves ~70% of patient calls autonomously.",
+    "funding_rounds": [
+      {
+        "stage": "Seed",
+        "date": "2025-10",
+        "amount_m": 13,
+        "lead_investors": [
+          "Radical Ventures",
+          "Threshold Ventures"
+        ]
+      }
+    ],
+    "total_raised_m": 13
+  },
+  {
+    "name": "OffDeal",
+    "slug": "offdeal",
+    "founded": 2024,
+    "sector": "AI Finance / Investment Banking",
+    "one_liner": "AI-native investment bank for SMB M&A (sell-side, $10-100M revenue companies). YC-backed.",
+    "funding_rounds": [
+      {
+        "stage": "Series A",
+        "date": "2025-08",
+        "amount_m": 12,
+        "lead_investors": [
+          "Radical Ventures"
+        ]
+      }
+    ],
+    "total_raised_m": 17
+  },
+  {
+    "name": "Outset",
+    "slug": "outset-ai",
+    "founded": 2022,
+    "sector": "AI Market Research / Qualitative",
+    "one_liner": "AI-moderated qualitative research \u2014 conversational interviews at survey scale. YC-backed.",
+    "funding_rounds": [
+      {
+        "stage": "Series B",
+        "date": "2025-12",
+        "amount_m": 30,
+        "lead_investors": [
+          "Radical Ventures"
+        ]
+      }
+    ],
+    "total_raised_m": 30
+  },
+  {
+    "name": "Noetik",
+    "slug": "noetik",
+    "founded": 2023,
+    "sector": "AI Drug Discovery / Cancer Biology",
+    "one_liner": "AI foundation models for cancer biology using spatial single-cell imaging. $50M+ GSK licensing deal.",
+    "funding_rounds": [
+      {
+        "stage": "Seed",
+        "date": "2023",
+        "amount_m": 14,
+        "lead_investors": [
+          "DCVC"
+        ]
+      },
+      {
+        "stage": "Series A",
+        "date": "2024",
+        "amount_m": 40,
+        "lead_investors": [
+          "DCVC"
+        ]
+      }
+    ],
+    "total_raised_m": 54
+  },
+  {
+    "name": "Weave Bio",
+    "slug": "weave-bio",
+    "founded": 2023,
+    "sector": "AI Pharma / Regulatory Automation",
+    "one_liner": "AI-native regulatory automation for drug development \u2014 automates FDA document drafting and submission.",
+    "funding_rounds": [
+      {
+        "stage": "Seed",
+        "date": "2024-05",
+        "amount_m": 10,
+        "lead_investors": [
+          "Innovation Endeavors"
+        ]
+      },
+      {
+        "stage": "Series A",
+        "date": "2025-10",
+        "amount_m": 20,
+        "lead_investors": [
+          "USVP"
+        ]
+      }
+    ],
+    "total_raised_m": 30
+  },
+  {
+    "name": "Parspec",
+    "slug": "parspec",
+    "founded": 2022,
+    "sector": "AI Construction / Procurement",
+    "one_liner": "AI for construction product procurement \u2014 search across millions of SKUs to specify and procure right products.",
+    "funding_rounds": [
+      {
+        "stage": "Seed",
+        "date": "2024-02",
+        "amount_m": 11.5,
+        "lead_investors": [
+          "Innovation Endeavors"
+        ]
+      },
+      {
+        "stage": "Series A",
+        "date": "2025",
+        "amount_m": 20,
+        "lead_investors": [
+          "Threshold Ventures"
+        ]
+      }
+    ],
+    "total_raised_m": 31.5
+  },
+  {
+    "name": "Profluent Bio",
+    "slug": "profluent-bio",
+    "founded": 2022,
+    "sector": "AI Biotech / Protein Design",
+    "one_liner": "Generative AI for programmable biology \u2014 designs novel proteins and gene editors. Open-sourced CRISPR variant.",
+    "funding_rounds": [
+      {
+        "stage": "Series A",
+        "date": "2024-03",
+        "amount_m": 35,
+        "lead_investors": [
+          "Spark Capital"
+        ]
+      },
+      {
+        "stage": "Series B",
+        "date": "2025-11",
+        "amount_m": 106,
+        "lead_investors": [
+          "Jeff Bezos"
+        ]
+      }
+    ],
+    "total_raised_m": 141
+  },
+  {
+    "name": "Latent Health",
+    "slug": "latent-health",
+    "founded": 2024,
+    "sector": "AI Healthcare / Clinical Reasoning",
+    "one_liner": "Clinical reasoning engine for healthcare \u2014 analyzes patient data, automates prior authorization. 25+ health systems.",
+    "funding_rounds": [
+      {
+        "stage": "Series A",
+        "date": "2026-03",
+        "amount_m": 80,
+        "lead_investors": [
+          "Spark Capital",
+          "Transformation Capital"
+        ]
+      }
+    ],
+    "total_raised_m": 80
+  }
+]
