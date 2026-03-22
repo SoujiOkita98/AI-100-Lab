@@ -34,6 +34,14 @@ funding_rounds:
   - NVentures (Nvidia)
   - In-Q-Tel
   source: https://www.lila.ai/news/announcing-the-close-of-our-series-a
+founders:
+- name: Geoffrey von Maltzahn
+  role: CEO
+  background: GP at Flagship Pioneering. Co-founded 10 companies with $10B combined market cap.
+- name: Noubar Afeyan
+  role: Chairman
+  background: Founder/CEO Flagship Pioneering. Co-founded Moderna.
+  origin: Armenian-Lebanese-American
 ---
 
 # Lila Sciences

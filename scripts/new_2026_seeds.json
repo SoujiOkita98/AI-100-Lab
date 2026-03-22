@@ -1,0 +1,436 @@
+[
+  {
+    "name": "Ineffable Intelligence",
+    "slug": "ineffable-intelligence",
+    "founded": 2025,
+    "hq": "London, UK",
+    "sector": "AI Research / Reinforcement Learning",
+    "one_liner": "AI lab pursuing superintelligence via RL from first principles, rejecting the LLM approach. Founded by AlphaGo creator David Silver.",
+    "founders": [
+      {
+        "name": "David Silver",
+        "role": "CEO",
+        "background": "Legendary DeepMind researcher who created AlphaGo. Professor at UCL."
+      }
+    ],
+    "funding_rounds": [
+      {
+        "stage": "Seed",
+        "date": "2026-02",
+        "amount_m": 1000,
+        "valuation_m": 4000,
+        "lead_investors": [
+          "Sequoia Capital"
+        ],
+        "source": "https://siliconangle.com/2026/02/18/new-ai-startup-ineffable-intelligence-reportedly-raising-1b-funding-round/"
+      }
+    ],
+    "total_raised_m": 1000,
+    "latest_valuation_m": 4000
+  },
+  {
+    "name": "Mal",
+    "slug": "mal-bank",
+    "founded": 2025,
+    "sector": "AI Fintech / Islamic Digital Banking",
+    "one_liner": "World first AI-native Islamic digital bank. Record MEA seed round.",
+    "founders": [
+      {
+        "name": "Abdallah Abu-Sheikh",
+        "role": "CEO",
+        "background": "Serial fintech entrepreneur"
+      }
+    ],
+    "funding_rounds": [
+      {
+        "stage": "Seed",
+        "date": "2026-01",
+        "amount_m": 230,
+        "lead_investors": [
+          "BlueFive Capital"
+        ],
+        "source": "https://www.zawya.com/en/press-release/companies-news/mal-closes-record-230m-seed-round-l4vpuic6"
+      }
+    ],
+    "total_raised_m": 230
+  },
+  {
+    "name": "Merge Labs",
+    "slug": "merge-labs",
+    "founded": 2025,
+    "sector": "AI Neurotech / Brain-Computer Interface",
+    "one_liner": "Less-invasive BCI using ultrasound modules. Co-founded by Sam Altman. Backed by OpenAI.",
+    "founders": [
+      {
+        "name": "Sam Altman",
+        "role": "Co-founder",
+        "background": "CEO of OpenAI"
+      },
+      {
+        "name": "Alex Blania",
+        "role": "Co-founder",
+        "background": "Tools for Humanity"
+      },
+      {
+        "name": "Mikhail Shapiro",
+        "role": "Co-founder",
+        "background": "Caltech researcher"
+      }
+    ],
+    "funding_rounds": [
+      {
+        "stage": "Seed",
+        "date": "2026-01",
+        "amount_m": 252,
+        "valuation_m": 850,
+        "lead_investors": [
+          "OpenAI",
+          "Bain Capital",
+          "Interface Fund"
+        ],
+        "source": "https://www.bloomberg.com/news/articles/2026-01-15/altman-s-merge-raises-252-million-to-link-brains-and-computers"
+      }
+    ],
+    "total_raised_m": 252,
+    "latest_valuation_m": 850
+  },
+  {
+    "name": "Flapping Airplanes",
+    "slug": "flapping-airplanes",
+    "founded": 2025,
+    "hq": "San Francisco, CA",
+    "sector": "AI Research / Data-Efficient Training",
+    "one_liner": "Research-first AI lab exploring radically data-efficient training methods. Estimates humans are 100K-1M x more data-efficient than current models.",
+    "founders": [
+      {
+        "name": "Ben Spector",
+        "role": "Co-founder"
+      },
+      {
+        "name": "Asher Spector",
+        "role": "Co-founder"
+      },
+      {
+        "name": "Aidan Smith",
+        "role": "Co-founder"
+      }
+    ],
+    "funding_rounds": [
+      {
+        "stage": "Seed",
+        "date": "2026-01",
+        "amount_m": 180,
+        "valuation_m": 1500,
+        "lead_investors": [
+          "Google Ventures",
+          "Sequoia Capital",
+          "Index Ventures"
+        ],
+        "source": "https://theaiinsider.tech/2026/02/03/flapping-airplanes-launches-research-first-ai-lab-with-180m-seed-round/"
+      }
+    ],
+    "total_raised_m": 180,
+    "latest_valuation_m": 1500
+  },
+  {
+    "name": "Inferact",
+    "slug": "inferact",
+    "founded": 2025,
+    "hq": "San Francisco, CA",
+    "sector": "AI Inference Infrastructure",
+    "one_liner": "Commercializes vLLM \u2014 the leading open-source AI inference engine used by Meta, Google, Character AI.",
+    "founders": [
+      {
+        "name": "Simon Mo",
+        "role": "Co-founder",
+        "background": "Core vLLM maintainer"
+      },
+      {
+        "name": "Woosuk Kwon",
+        "role": "Co-founder",
+        "background": "Core vLLM maintainer"
+      },
+      {
+        "name": "Kaichao You",
+        "role": "Co-founder"
+      },
+      {
+        "name": "Roger Wang",
+        "role": "Co-founder"
+      }
+    ],
+    "funding_rounds": [
+      {
+        "stage": "Seed",
+        "date": "2026-01",
+        "amount_m": 150,
+        "valuation_m": 800,
+        "lead_investors": [
+          "Andreessen Horowitz",
+          "Lightspeed Venture Partners",
+          "Sequoia",
+          "ZhenFund"
+        ],
+        "source": "https://techcrunch.com/2026/01/22/inference-startup-inferact-lands-150m-to-commercialize-vllm/"
+      }
+    ],
+    "total_raised_m": 150,
+    "latest_valuation_m": 800
+  },
+  {
+    "name": "ZyG",
+    "slug": "zyg",
+    "founded": 2025,
+    "hq": "Tel Aviv, Israel",
+    "sector": "AI E-commerce / DTC",
+    "one_liner": "Agentic OS for DTC e-commerce \u2014 handles brand creation, advertising, logistics, customer acquisition end-to-end.",
+    "founders": [
+      {
+        "name": "Tomer Bar-Zeev",
+        "role": "Chairman",
+        "background": "Co-founder of ironSource"
+      },
+      {
+        "name": "Omer Kaplan",
+        "role": "CEO",
+        "background": "Co-founder of ironSource"
+      }
+    ],
+    "funding_rounds": [
+      {
+        "stage": "Seed",
+        "date": "2026-03",
+        "amount_m": 58,
+        "lead_investors": [
+          "Bessemer Venture Partners",
+          "Viola Ventures",
+          "Lightspeed"
+        ],
+        "source": "https://siliconangle.com/2026/03/02/agentic-e-commerce-startup-zyg-gets-58m/"
+      }
+    ],
+    "total_raised_m": 58
+  },
+  {
+    "name": "JetStream Security",
+    "slug": "jetstream-security",
+    "founded": 2025,
+    "sector": "AI Governance / Enterprise Security",
+    "one_liner": "Enterprise AI governance \u2014 real-time inspection, control, and policy enforcement over AI agents.",
+    "founders": [
+      {
+        "name": "Raj Rajamani",
+        "role": "CEO",
+        "background": "Ex-CrowdStrike"
+      },
+      {
+        "name": "Jared Phipps",
+        "role": "COO",
+        "background": "Ex-SentinelOne"
+      }
+    ],
+    "funding_rounds": [
+      {
+        "stage": "Seed",
+        "date": "2026-03",
+        "amount_m": 34,
+        "lead_investors": [
+          "Redpoint Ventures",
+          "CrowdStrike Falcon Fund"
+        ],
+        "source": "https://fortune.com/2026/03/03/ai-governance-crowdstrike-sentinelone-veterans-raise-34m/"
+      }
+    ],
+    "total_raised_m": 34
+  },
+  {
+    "name": "Valthos",
+    "slug": "valthos",
+    "founded": 2025,
+    "sector": "AI Biodefense",
+    "one_liner": "AI biodefense platform analyzing biological sequences and designing countermeasures against bio threats in real-time.",
+    "founders": [
+      {
+        "name": "Kathleen McMahon",
+        "role": "CEO",
+        "background": "Former Head of Life Sciences at Palantir"
+      },
+      {
+        "name": "Tess van Stekelenburg",
+        "role": "Co-founder",
+        "background": "Computational neuroscience, Oxford"
+      }
+    ],
+    "funding_rounds": [
+      {
+        "stage": "Seed",
+        "date": "2025-10",
+        "amount_m": 30,
+        "lead_investors": [
+          "OpenAI Startup Fund",
+          "Lux Capital",
+          "Founders Fund"
+        ],
+        "source": "https://www.bloomberg.com/news/articles/2025-10-24/openai-backs-a-new-venture-trying-to-thwart-ai-bio-attacks"
+      }
+    ],
+    "total_raised_m": 30
+  },
+  {
+    "name": "Standard Kernel",
+    "slug": "standard-kernel",
+    "founded": 2025,
+    "sector": "AI Infrastructure / GPU Optimization",
+    "one_liner": "AI that auto-generates ultra-optimized GPU kernels \u2014 improves AI workload performance without changing models.",
+    "funding_rounds": [
+      {
+        "stage": "Seed",
+        "date": "2026-03",
+        "amount_m": 20,
+        "lead_investors": [
+          "Jump Capital",
+          "General Catalyst",
+          "Felicis"
+        ],
+        "source": "https://www.prnewswire.com/news-releases/standard-kernel-raises-20m-seed-round/"
+      }
+    ],
+    "total_raised_m": 20
+  },
+  {
+    "name": "Kana",
+    "slug": "kana-ai",
+    "founded": 2025,
+    "sector": "AI Marketing / Agentic",
+    "one_liner": "Agentic AI platform for marketing teams \u2014 campaign automation, RFP generation, growth analytics.",
+    "founders": [
+      {
+        "name": "Tom Chavez",
+        "role": "CEO",
+        "background": "Serial martech founder \u2014 Rapt (acq Microsoft), Krux (acq Salesforce)"
+      },
+      {
+        "name": "Vivek Vaidya",
+        "role": "CTO",
+        "background": "Co-founded Rapt and Krux"
+      }
+    ],
+    "funding_rounds": [
+      {
+        "stage": "Seed",
+        "date": "2026-02",
+        "amount_m": 15,
+        "lead_investors": [
+          "Mayfield Fund"
+        ],
+        "source": "https://techcrunch.com/2026/02/18/kana-emerges-from-stealth-with-15m/"
+      }
+    ],
+    "total_raised_m": 15
+  },
+  {
+    "name": "Eragon",
+    "slug": "eragon-ai",
+    "founded": 2025,
+    "sector": "AI Enterprise / Agentic OS",
+    "one_liner": "Agentic AI OS replacing traditional SaaS interfaces with LLM-driven prompt interface.",
+    "funding_rounds": [
+      {
+        "stage": "Seed",
+        "date": "2026-03",
+        "amount_m": 12,
+        "valuation_m": 100,
+        "lead_investors": [
+          "Long Journey Ventures",
+          "Soma Capital"
+        ],
+        "source": "https://techcrunch.com/2026/03/18/this-startup-wants-to-make-enterprise-software-look-more-like-a-prompt/"
+      }
+    ],
+    "total_raised_m": 12,
+    "latest_valuation_m": 100
+  },
+  {
+    "name": "Limy",
+    "slug": "limy",
+    "founded": 2025,
+    "sector": "AI Marketing / Agentic Web",
+    "one_liner": "Infrastructure helping brands optimize visibility in the agentic web \u2014 decodes AI bot interactions on brand sites.",
+    "funding_rounds": [
+      {
+        "stage": "Seed",
+        "date": "2026-01",
+        "amount_m": 10,
+        "lead_investors": [
+          "Flybridge",
+          "a16z speedrun"
+        ],
+        "source": "https://alleywatch.com/2026/01/limy-agentic-web-infrastructure/"
+      }
+    ],
+    "total_raised_m": 10
+  },
+  {
+    "name": "CVector",
+    "slug": "cvector",
+    "founded": 2024,
+    "hq": "New York, NY",
+    "sector": "AI Industrial / Operations",
+    "one_liner": "AI brain and nervous system for large-scale industrial operations \u2014 optimizes production for utilities and manufacturing.",
+    "founders": [
+      {
+        "name": "Richard Zhang",
+        "role": "CEO",
+        "background": "Ex-Shell, CERN"
+      },
+      {
+        "name": "Tyler Ruggles",
+        "role": "Co-founder",
+        "background": "Ex-Shell, CERN"
+      }
+    ],
+    "funding_rounds": [
+      {
+        "stage": "Seed",
+        "date": "2026-01",
+        "amount_m": 5,
+        "lead_investors": [
+          "Powerhouse Ventures",
+          "Fusion Fund",
+          "Hitachi Ventures"
+        ],
+        "source": "https://techcrunch.com/2026/01/26/ai-startup-cvector-raises-5m/"
+      }
+    ],
+    "total_raised_m": 5
+  },
+  {
+    "name": "Emanate",
+    "slug": "emanate",
+    "founded": 2025,
+    "hq": "San Francisco, CA",
+    "sector": "AI Industrial / Revenue Optimization",
+    "one_liner": "First AI revenue engine for industrial materials companies. Backed by a16z American Dynamism, Peter Thiel, Alexis Ohanian.",
+    "founders": [
+      {
+        "name": "Kiara Nirghin",
+        "role": "CEO",
+        "background": "Stanford AI researcher, Google Science Fair Grand Prize winner, Thiel Fellow, youngest Google Impact Fund board member"
+      }
+    ],
+    "funding_rounds": [
+      {
+        "stage": "Seed",
+        "date": "2026-02",
+        "amount_m": 10,
+        "lead_investors": [
+          "Andreessen Horowitz (American Dynamism)",
+          "Peter Thiel",
+          "Alexis Ohanian"
+        ],
+        "source": "https://fortune.com/2026/02/09/exclusive-peter-thiel-alexis-ohanian-new-ai-industrial-startup-emanate-kiara-nirghin/"
+      }
+    ],
+    "total_raised_m": 10
+  }
+]

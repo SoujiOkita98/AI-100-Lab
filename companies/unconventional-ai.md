@@ -57,6 +57,12 @@ funding_rounds:
   - Andreessen Horowitz
   - Lightspeed Venture Partners
   source: https://techcrunch.com/2025/12/09/unconventional-ai-confirms-its-massive-475m-seed-round/
+founders:
+- name: Naveen Rao
+  role: CEO
+  background: PhD Computational Neuroscience, Brown. Founded Nervana (sold Intel $350M), MosaicML (sold Databricks $1.3B).
+    Former Head of AI at Databricks.
+  origin: Indian-American
 ---
 
 # Unconventional AI

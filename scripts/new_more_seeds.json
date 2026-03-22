@@ -1,0 +1,404 @@
+[
+  {
+    "name": "Datawizz",
+    "slug": "datawizz",
+    "founded": 2024,
+    "hq": "Israel",
+    "sector": "AI Infrastructure / Specialized Models",
+    "one_liner": "Replaces generic LLMs with enterprise-owned Specialized Language Models. 85% cost reduction, 5-15x speed.",
+    "founders": [
+      {
+        "name": "Iddo Gino",
+        "role": "CEO",
+        "background": "Previously built RapidAPI into world largest API marketplace"
+      }
+    ],
+    "funding_rounds": [
+      {
+        "stage": "Seed",
+        "date": "2025-09",
+        "amount_m": 12.5,
+        "lead_investors": [
+          "Human Capital",
+          "BGV",
+          "91VC"
+        ]
+      }
+    ],
+    "total_raised_m": 12.5
+  },
+  {
+    "name": "Blocks.diy",
+    "slug": "blocks-diy",
+    "founded": 2024,
+    "hq": "Tel Aviv, Israel",
+    "sector": "AI Enterprise / No-Code Agents",
+    "one_liner": "AI-native platform for non-technical teams to build custom AI tools in minutes. First monday.com external investment.",
+    "founders": [
+      {
+        "name": "Michal Lupu",
+        "role": "CEO",
+        "background": "Former VP Product at monday.com"
+      },
+      {
+        "name": "Tal Haramati",
+        "role": "CTO",
+        "background": "Former VP Tech, founding team at monday.com"
+      }
+    ],
+    "funding_rounds": [
+      {
+        "stage": "Seed",
+        "date": "2025-09",
+        "amount_m": 10,
+        "lead_investors": [
+          "monday.com",
+          "Qumra Capital",
+          "Entree Capital"
+        ]
+      }
+    ],
+    "total_raised_m": 10
+  },
+  {
+    "name": "Sunrise Robotics",
+    "slug": "sunrise-robotics",
+    "founded": 2024,
+    "hq": "Slovenia",
+    "sector": "AI Robotics / Industrial",
+    "one_liner": "Modular two-armed industrial robots deployable in under 10 weeks vs 8 months for traditional robots.",
+    "founders": [
+      {
+        "name": "Tomaz Stolfa",
+        "role": "CEO",
+        "background": "Previously co-founded vox.io, Layer"
+      },
+      {
+        "name": "Marko Thaler",
+        "role": "CTO",
+        "background": "Founded Airnamics, AI for drones"
+      }
+    ],
+    "funding_rounds": [
+      {
+        "stage": "Seed",
+        "date": "2025-06",
+        "amount_m": 8.5,
+        "lead_investors": [
+          "Plural",
+          "Seedcamp"
+        ]
+      }
+    ],
+    "total_raised_m": 8.5
+  },
+  {
+    "name": "Oxmiq Labs",
+    "slug": "oxmiq-labs",
+    "founded": 2024,
+    "sector": "AI Chips / GPU Architecture",
+    "one_liner": "Software-defined GPU architecture from atoms to agents. Founded by Raja Koduri (ex-Apple, AMD, Intel GPU architect).",
+    "founders": [
+      {
+        "name": "Raja Koduri",
+        "role": "Founder",
+        "background": "Renowned GPU architect, formerly Apple, AMD, Intel"
+      }
+    ],
+    "funding_rounds": [
+      {
+        "stage": "Seed",
+        "date": "2025-08",
+        "amount_m": 20,
+        "lead_investors": [
+          "MediaTek Ventures"
+        ]
+      }
+    ],
+    "total_raised_m": 20
+  },
+  {
+    "name": "Nace.AI",
+    "slug": "nace-ai",
+    "founded": 2024,
+    "hq": "Canada",
+    "sector": "AI Enterprise / Dynamic Models",
+    "one_liner": "MetaModel system generating task-specific AI models on demand for audit, risk, and compliance.",
+    "founders": [
+      {
+        "name": "Dos Baha",
+        "role": "CEO"
+      },
+      {
+        "name": "Zhanibek Datbayev",
+        "role": "CTO",
+        "background": "Ex-Google, Meta, U of Toronto"
+      }
+    ],
+    "funding_rounds": [
+      {
+        "stage": "Seed",
+        "date": "2025-03",
+        "amount_m": 5,
+        "lead_investors": [
+          "General Catalyst"
+        ]
+      }
+    ],
+    "total_raised_m": 5
+  },
+  {
+    "name": "Maieutic Semiconductors",
+    "slug": "maieutic-semi",
+    "founded": 2022,
+    "hq": "Bengaluru, India",
+    "sector": "AI for Chip Design",
+    "one_liner": "Generative AI copilot for analog chip design. Founding team sold Steradian to Renesas.",
+    "founders": [
+      {
+        "name": "Gireesh Rajendran",
+        "role": "CEO"
+      },
+      {
+        "name": "Ashish Lachhwani",
+        "role": "Co-founder"
+      },
+      {
+        "name": "Rakesh Kumar",
+        "role": "Co-founder"
+      }
+    ],
+    "funding_rounds": [
+      {
+        "stage": "Seed",
+        "date": "2025-10",
+        "amount_m": 6,
+        "lead_investors": [
+          "Endiya Partners",
+          "Exfinity Venture Partners"
+        ]
+      }
+    ],
+    "total_raised_m": 6
+  },
+  {
+    "name": "Vinci (Semiconductor)",
+    "slug": "vinci-semi",
+    "founded": 2024,
+    "sector": "AI for Semiconductor Simulation",
+    "one_liner": "Physics-based AI foundation model for chip design simulation \u2014 1000x faster than FEA solvers. Deployed at 3 chipmakers.",
+    "founders": [
+      {
+        "name": "Hardik Kabaria",
+        "role": "CEO",
+        "background": "PhD computational geometry, Stanford"
+      },
+      {
+        "name": "Sarah Osentoski",
+        "role": "Co-founder",
+        "background": "Pioneer in large-scale ML and autonomous systems"
+      }
+    ],
+    "funding_rounds": [
+      {
+        "stage": "Seed + Series A",
+        "date": "2025-12",
+        "amount_m": 46,
+        "lead_investors": [
+          "Eclipse",
+          "Xora Innovation",
+          "Khosla Ventures"
+        ]
+      }
+    ],
+    "total_raised_m": 46
+  },
+  {
+    "name": "Solda.AI",
+    "slug": "solda-ai",
+    "founded": 2023,
+    "hq": "Amsterdam, Netherlands",
+    "sector": "AI Voice / Sales Automation",
+    "one_liner": "AI voice agents that autonomously handle and close full phone sales conversations in 100 simultaneous lines.",
+    "founders": [
+      {
+        "name": "Sergey Shalaev",
+        "role": "CEO",
+        "background": "12+ yrs AI/ML, recommendation systems, ad tech"
+      }
+    ],
+    "funding_rounds": [
+      {
+        "stage": "Seed",
+        "date": "2025-04",
+        "amount_m": 4,
+        "lead_investors": [
+          "Accel",
+          "AltaIR Capital"
+        ]
+      }
+    ],
+    "total_raised_m": 4
+  },
+  {
+    "name": "Mindoo",
+    "slug": "mindoo",
+    "founded": 2024,
+    "hq": "Antwerp, Belgium",
+    "sector": "AI Healthcare / Hospital Workforce",
+    "one_liner": "Voice-first AI agents for hospitals handling patient intake, documentation, and front-desk workflows.",
+    "founders": [
+      {
+        "name": "Gauthier Willemse",
+        "role": "CEO",
+        "background": "MD from KU Leuven, surgeon, MPH Harvard"
+      },
+      {
+        "name": "Bart Lens",
+        "role": "CTO",
+        "background": "Ex-senior engineer at DataCamp, founding engineer at Conveo"
+      }
+    ],
+    "funding_rounds": [
+      {
+        "stage": "Seed",
+        "date": "2025-12",
+        "amount_m": 5.5,
+        "lead_investors": [
+          "6DC",
+          "Syndicate One"
+        ]
+      }
+    ],
+    "total_raised_m": 5.5
+  },
+  {
+    "name": "Aeon Health",
+    "slug": "aeon-health",
+    "founded": 2024,
+    "hq": "Zurich, Switzerland",
+    "sector": "AI Healthcare / Preventive Diagnostics",
+    "one_liner": "AI preventive health combining whole-body MRI, blood biomarkers, and genetic testing in 60-minute check-up detecting 500+ diseases.",
+    "founders": [
+      {
+        "name": "Tim Seithe",
+        "role": "CEO",
+        "background": "Previously founded Tillhub (sold to Unzer/KKR)"
+      },
+      {
+        "name": "Samuel Frey",
+        "role": "CPO",
+        "background": "Decade in product, led turnaround at Platomics"
+      }
+    ],
+    "funding_rounds": [
+      {
+        "stage": "Seed",
+        "date": "2025-06",
+        "amount_m": 9,
+        "lead_investors": [
+          "Concentric"
+        ]
+      }
+    ],
+    "total_raised_m": 9
+  },
+  {
+    "name": "Iconic (Gaming AI)",
+    "slug": "iconic-gaming",
+    "founded": 2023,
+    "hq": "London, UK",
+    "sector": "AI Gaming / On-Device",
+    "one_liner": "On-device AI for voice-controlled AI-native game worlds. Backed by Google AI Futures Fund.",
+    "founders": [
+      {
+        "name": "John Lusty",
+        "role": "Co-founder"
+      },
+      {
+        "name": "Junaid Hussain",
+        "role": "Co-founder"
+      },
+      {
+        "name": "Andrew Bowell",
+        "role": "CEO",
+        "background": "Former Product Head at Unity"
+      }
+    ],
+    "funding_rounds": [
+      {
+        "stage": "Seed",
+        "date": "2025-12",
+        "amount_m": 13,
+        "lead_investors": [
+          "Kindred",
+          "Northzone",
+          "Google AI Futures Fund"
+        ]
+      }
+    ],
+    "total_raised_m": 13
+  },
+  {
+    "name": "Leta (Logistics)",
+    "slug": "leta-logistics",
+    "founded": 2022,
+    "hq": "Nairobi, Kenya",
+    "sector": "AI Logistics / Africa",
+    "one_liner": "AI logistics SaaS for Africa \u2014 optimizes routes, tracks shipments, streamlines payments. Scaled to 4.5M deliveries.",
+    "founders": [
+      {
+        "name": "Nick Joshi",
+        "role": "CEO"
+      },
+      {
+        "name": "Kip Maritim",
+        "role": "CTO"
+      },
+      {
+        "name": "Anthony Ketter",
+        "role": "COO"
+      }
+    ],
+    "funding_rounds": [
+      {
+        "stage": "Seed",
+        "date": "2025-03",
+        "amount_m": 5,
+        "lead_investors": [
+          "Speedinvest",
+          "Google Africa Investment Fund"
+        ]
+      }
+    ],
+    "total_raised_m": 5
+  },
+  {
+    "name": "Finster AI",
+    "slug": "finster-ai",
+    "founded": 2024,
+    "hq": "London, UK",
+    "sector": "AI Fintech / Investment Research",
+    "one_liner": "AI research platform for investment banks and asset managers. Founded by ex-Google DeepMind researcher.",
+    "founders": [
+      {
+        "name": "Sid Jayakumar",
+        "role": "Founder",
+        "background": "7 years AI research at Google DeepMind"
+      }
+    ],
+    "funding_rounds": [
+      {
+        "stage": "Seed + Series A",
+        "date": "2025-10",
+        "amount_m": 15,
+        "lead_investors": [
+          "Peak XV",
+          "FinTech Collective",
+          "Hoxton Ventures"
+        ]
+      }
+    ],
+    "total_raised_m": 15
+  }
+]

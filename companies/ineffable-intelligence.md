@@ -1,0 +1,27 @@
+---
+name: "Ineffable Intelligence"
+founded: 2025
+headquarters: "London, UK"
+sector: "AI Research / Reinforcement Learning"
+one_liner: "AI lab pursuing superintelligence via RL from first principles, rejecting the LLM approach. Founded by AlphaGo creator David Silver."
+status: active
+founders:
+  - name: "David Silver"
+    role: "CEO"
+    background: "Legendary DeepMind researcher who created AlphaGo. Professor at UCL."
+funding_rounds:
+  - stage: "Seed"
+    date: "2026-02"
+    amount_m: 1000
+    valuation_m: 4000
+    lead_investors: ["Sequoia Capital"]
+    source: "https://siliconangle.com/2026/02/18/new-ai-startup-ineffable-intelligence-reportedly-raising-1b-funding-round/"
+total_funding: 1000
+latest_valuation: 4000
+last_updated: 2026-03-21
+confidence: medium
+---
+
+# Ineffable Intelligence
+
+AI lab pursuing superintelligence via RL from first principles, rejecting the LLM approach. Founded by AlphaGo creator David Silver.

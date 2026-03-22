@@ -577,7 +577,24 @@
     "team_china_profile": null,
     "confidence": "medium",
     "last_updated": "2026-03-21",
-    "founders": [],
+    "founders": [
+      {
+        "company_slug": "act-security",
+        "name": "Jonathan Langer",
+        "role": "CEO",
+        "background": "Co-founded Medigate (acq by Claroty).",
+        "origin": "Israeli",
+        "prior": ""
+      },
+      {
+        "company_slug": "act-security",
+        "name": "Itay Kirshenbaum",
+        "role": "CTO",
+        "background": "Co-founded Medigate.",
+        "origin": "Israeli",
+        "prior": ""
+      }
+    ],
     "funding_rounds": [
       {
         "company_slug": "act-security",
@@ -634,6 +651,57 @@
         "other_investors": "",
         "source": "https://techcrunch.com/2023/03/15/adept-a-startup-training-ai-to-use-existing-software-and-apis-raises-350m/",
         "notes": "Acquired by Amazon June 2024."
+      }
+    ],
+    "top_investors": []
+  },
+  {
+    "slug": "aeon-health",
+    "name": "Aeon Health",
+    "status": "active",
+    "founded_year": "2024",
+    "hq": "Zurich, Switzerland",
+    "website": null,
+    "sector": "AI Healthcare / Preventive Diagnostics",
+    "one_liner": "AI preventive health combining whole-body MRI, blood biomarkers, and genetic testing in 60-minute check-up detecting 500+ diseases.",
+    "total_raised_m": 9.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [
+      {
+        "company_slug": "aeon-health",
+        "name": "Tim Seithe",
+        "role": "CEO",
+        "background": "Previously founded Tillhub (sold to Unzer/KKR)",
+        "origin": "",
+        "prior": ""
+      },
+      {
+        "company_slug": "aeon-health",
+        "name": "Samuel Frey",
+        "role": "CPO",
+        "background": "Decade in product, led turnaround at Platomics",
+        "origin": "",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "aeon-health",
+        "stage": "Seed",
+        "date": "2025-06",
+        "amount_m": 9.0,
+        "valuation_m": null,
+        "lead_investors": "Concentric",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
       }
     ],
     "top_investors": []
@@ -1797,7 +1865,24 @@
     "team_china_profile": null,
     "confidence": "medium",
     "last_updated": "2026-03-21",
-    "founders": [],
+    "founders": [
+      {
+        "company_slug": "arago-photonics",
+        "name": "Nicolas Muller",
+        "role": "CEO",
+        "background": "ML from MIT. DeepTech startup experience.",
+        "origin": "French",
+        "prior": ""
+      },
+      {
+        "company_slug": "arago-photonics",
+        "name": "Eliott Sarrey",
+        "role": "CTO",
+        "background": "Ecole Polytechnique + ETH Zurich. Google Science Fair winner.",
+        "origin": "French",
+        "prior": ""
+      }
+    ],
     "funding_rounds": [
       {
         "company_slug": "arago-photonics",
@@ -2785,6 +2870,57 @@
       }
     ],
     "funding_rounds": [],
+    "top_investors": []
+  },
+  {
+    "slug": "blocks-diy",
+    "name": "Blocks.diy",
+    "status": "active",
+    "founded_year": "2024",
+    "hq": "Tel Aviv, Israel",
+    "website": null,
+    "sector": "AI Enterprise / No-Code Agents",
+    "one_liner": "AI-native platform for non-technical teams to build custom AI tools in minutes. First monday.com external investment.",
+    "total_raised_m": 10.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [
+      {
+        "company_slug": "blocks-diy",
+        "name": "Michal Lupu",
+        "role": "CEO",
+        "background": "Former VP Product at monday.com",
+        "origin": "",
+        "prior": ""
+      },
+      {
+        "company_slug": "blocks-diy",
+        "name": "Tal Haramati",
+        "role": "CTO",
+        "background": "Former VP Tech, founding team at monday.com",
+        "origin": "",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "blocks-diy",
+        "stage": "Seed",
+        "date": "2025-09",
+        "amount_m": 10.0,
+        "valuation_m": null,
+        "lead_investors": "monday.com; Qumra Capital; Entree Capital",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
+      }
+    ],
     "top_investors": []
   },
   {
@@ -4665,6 +4801,57 @@
     ]
   },
   {
+    "slug": "cvector",
+    "name": "CVector",
+    "status": "active",
+    "founded_year": "2024",
+    "hq": "New York, NY",
+    "website": null,
+    "sector": "AI Industrial / Operations",
+    "one_liner": "AI brain and nervous system for large-scale industrial operations \u2014 optimizes production for utilities and manufacturing.",
+    "total_raised_m": 5.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [
+      {
+        "company_slug": "cvector",
+        "name": "Richard Zhang",
+        "role": "CEO",
+        "background": "Ex-Shell, CERN",
+        "origin": "",
+        "prior": ""
+      },
+      {
+        "company_slug": "cvector",
+        "name": "Tyler Ruggles",
+        "role": "Co-founder",
+        "background": "Ex-Shell, CERN",
+        "origin": "",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "cvector",
+        "stage": "Seed",
+        "date": "2026-01",
+        "amount_m": 5.0,
+        "valuation_m": null,
+        "lead_investors": "Powerhouse Ventures; Fusion Fund; Hitachi Ventures",
+        "other_investors": "",
+        "source": "https://techcrunch.com/2026/01/26/ai-startup-cvector-raises-5m/",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
     "slug": "d-matrix",
     "name": "d-Matrix",
     "status": "Growth (Series C)",
@@ -4982,6 +5169,49 @@
       }
     ],
     "funding_rounds": [],
+    "top_investors": []
+  },
+  {
+    "slug": "datawizz",
+    "name": "Datawizz",
+    "status": "active",
+    "founded_year": "2024",
+    "hq": "Israel",
+    "website": null,
+    "sector": "AI Infrastructure / Specialized Models",
+    "one_liner": "Replaces generic LLMs with enterprise-owned Specialized Language Models. 85% cost reduction, 5-15x speed.",
+    "total_raised_m": 12.5,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [
+      {
+        "company_slug": "datawizz",
+        "name": "Iddo Gino",
+        "role": "CEO",
+        "background": "Previously built RapidAPI into world largest API marketplace",
+        "origin": "",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "datawizz",
+        "stage": "Seed",
+        "date": "2025-09",
+        "amount_m": 12.5,
+        "valuation_m": null,
+        "lead_investors": "Human Capital; BGV; 91VC",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
+      }
+    ],
     "top_investors": []
   },
   {
@@ -5489,7 +5719,24 @@
     "team_china_profile": null,
     "confidence": "medium",
     "last_updated": "2026-03-21",
-    "founders": [],
+    "founders": [
+      {
+        "company_slug": "distyl-ai",
+        "name": "Arjun Prakash",
+        "role": "CEO",
+        "background": "Cornell BS EE/CS. Ex-BlackRock, Palantir, Snorkel AI.",
+        "origin": "Indian-American",
+        "prior": ""
+      },
+      {
+        "company_slug": "distyl-ai",
+        "name": "Derek Ho",
+        "role": "COO",
+        "background": "Ex-Palantir.",
+        "origin": "Chinese-American",
+        "prior": ""
+      }
+    ],
     "funding_rounds": [
       {
         "company_slug": "distyl-ai",
@@ -5707,6 +5954,49 @@
     "top_investors": []
   },
   {
+    "slug": "emanate",
+    "name": "Emanate",
+    "status": "active",
+    "founded_year": "2025",
+    "hq": "San Francisco, CA",
+    "website": null,
+    "sector": "AI Industrial / Revenue Optimization",
+    "one_liner": "First AI revenue engine for industrial materials companies. Backed by a16z American Dynamism, Peter Thiel, Alexis Ohanian.",
+    "total_raised_m": 10.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [
+      {
+        "company_slug": "emanate",
+        "name": "Kiara Nirghin",
+        "role": "CEO",
+        "background": "Stanford AI researcher, Google Science Fair Grand Prize winner, Thiel Fellow, youngest Google Impact Fund board member",
+        "origin": "",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "emanate",
+        "stage": "Seed",
+        "date": "2026-02",
+        "amount_m": 10.0,
+        "valuation_m": null,
+        "lead_investors": "Andreessen Horowitz (American Dynamism); Peter Thiel; Alexis Ohanian",
+        "other_investors": "",
+        "source": "https://fortune.com/2026/02/09/exclusive-peter-thiel-alexis-ohanian-new-ai-industrial-startup-emanate-kiara-nirghin/",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
     "slug": "emerald-ai",
     "name": "Emerald AI",
     "status": "active",
@@ -5724,7 +6014,16 @@
     "team_china_profile": null,
     "confidence": "medium",
     "last_updated": "2026-03-21",
-    "founders": [],
+    "founders": [
+      {
+        "company_slug": "emerald-ai",
+        "name": "Varun Sivaram",
+        "role": "CEO",
+        "background": "Rhodes Scholar, physicist. Ex-McKinsey. Former CTO ReNew (India largest renewable). Biden admin adviser to John Kerry.",
+        "origin": "Indian-American",
+        "prior": ""
+      }
+    ],
     "funding_rounds": [
       {
         "company_slug": "emerald-ai",
@@ -5865,7 +6164,24 @@
     "team_china_profile": null,
     "confidence": "medium",
     "last_updated": "2026-03-21",
-    "founders": [],
+    "founders": [
+      {
+        "company_slug": "endra",
+        "name": "Niklas Lindgren",
+        "role": "CEO",
+        "background": "Serial entrepreneur. Founded Sectragon (sold to PE). Saw MEP design inefficiency.",
+        "origin": "Swedish",
+        "prior": ""
+      },
+      {
+        "company_slug": "endra",
+        "name": "Gustav Hammarlund",
+        "role": "Technical Co-founder",
+        "background": "Built Goldman Sachs EMEA equity trading infrastructure.",
+        "origin": "Swedish",
+        "prior": ""
+      }
+    ],
     "funding_rounds": [
       {
         "company_slug": "endra",
@@ -6169,6 +6485,40 @@
         "lead_investors": "8VC; Washington Harbour Partners",
         "other_investors": "",
         "source": "https://techcrunch.com/2025/03/04/defense-tech-startup-epirus-raises-250m-series-d-to-counter-drone-swarms/",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
+    "slug": "eragon-ai",
+    "name": "Eragon",
+    "status": "active",
+    "founded_year": "2025",
+    "hq": null,
+    "website": null,
+    "sector": "AI Enterprise / Agentic OS",
+    "one_liner": "Agentic AI OS replacing traditional SaaS interfaces with LLM-driven prompt interface.",
+    "total_raised_m": 12.0,
+    "latest_valuation_m": 100.0,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [],
+    "funding_rounds": [
+      {
+        "company_slug": "eragon-ai",
+        "stage": "Seed",
+        "date": "2026-03",
+        "amount_m": 12.0,
+        "valuation_m": 100.0,
+        "lead_investors": "Long Journey Ventures; Soma Capital",
+        "other_investors": "",
+        "source": "https://techcrunch.com/2026/03/18/this-startup-wants-to-make-enterprise-software-look-more-like-a-prompt/",
         "notes": ""
       }
     ],
@@ -6648,7 +6998,16 @@
     "team_china_profile": null,
     "confidence": "medium",
     "last_updated": "2026-03-21",
-    "founders": [],
+    "founders": [
+      {
+        "company_slug": "fieldai",
+        "name": "Ali Agha",
+        "role": "CEO",
+        "background": "PhD Robotics Texas A&M. 7 years at NASA JPL. Led DARPA Subterranean Challenge team.",
+        "origin": "Iranian-American",
+        "prior": ""
+      }
+    ],
     "funding_rounds": [
       {
         "company_slug": "fieldai",
@@ -6741,6 +7100,49 @@
     "top_investors": []
   },
   {
+    "slug": "finster-ai",
+    "name": "Finster AI",
+    "status": "active",
+    "founded_year": "2024",
+    "hq": "London, UK",
+    "website": null,
+    "sector": "AI Fintech / Investment Research",
+    "one_liner": "AI research platform for investment banks and asset managers. Founded by ex-Google DeepMind researcher.",
+    "total_raised_m": 15.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [
+      {
+        "company_slug": "finster-ai",
+        "name": "Sid Jayakumar",
+        "role": "Founder",
+        "background": "7 years AI research at Google DeepMind",
+        "origin": "",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "finster-ai",
+        "stage": "Seed + Series A",
+        "date": "2025-10",
+        "amount_m": 15.0,
+        "valuation_m": null,
+        "lead_investors": "Peak XV; FinTech Collective; Hoxton Ventures",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
     "slug": "fireworks-ai",
     "name": "Fireworks AI",
     "status": "Private",
@@ -6791,6 +7193,65 @@
         "lead_investors": "Lightspeed Venture Partners; Index Ventures",
         "other_investors": "",
         "source": "https://fireworks.ai/blog/series-c",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
+    "slug": "flapping-airplanes",
+    "name": "Flapping Airplanes",
+    "status": "active",
+    "founded_year": "2025",
+    "hq": "San Francisco, CA",
+    "website": null,
+    "sector": "AI Research / Data-Efficient Training",
+    "one_liner": "Research-first AI lab exploring radically data-efficient training methods. Estimates humans are 100K-1M x more data-efficient than current models.",
+    "total_raised_m": 180.0,
+    "latest_valuation_m": 1500.0,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [
+      {
+        "company_slug": "flapping-airplanes",
+        "name": "Ben Spector",
+        "role": "Co-founder",
+        "background": "",
+        "origin": "",
+        "prior": ""
+      },
+      {
+        "company_slug": "flapping-airplanes",
+        "name": "Asher Spector",
+        "role": "Co-founder",
+        "background": "",
+        "origin": "",
+        "prior": ""
+      },
+      {
+        "company_slug": "flapping-airplanes",
+        "name": "Aidan Smith",
+        "role": "Co-founder",
+        "background": "",
+        "origin": "",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "flapping-airplanes",
+        "stage": "Seed",
+        "date": "2026-01",
+        "amount_m": 180.0,
+        "valuation_m": 1500.0,
+        "lead_investors": "Google Ventures; Sequoia Capital; Index Ventures",
+        "other_investors": "",
+        "source": "https://theaiinsider.tech/2026/02/03/flapping-airplanes-launches-research-first-ai-lab-with-180m-seed-round/",
         "notes": ""
       }
     ],
@@ -7711,7 +8172,40 @@
     "team_china_profile": null,
     "confidence": "medium",
     "last_updated": "2026-03-21",
-    "founders": [],
+    "founders": [
+      {
+        "company_slug": "gradium",
+        "name": "Neil Zeghidour",
+        "role": "CEO",
+        "background": "10 years at Meta AI, Google DeepMind. Co-created neural audio codecs. Co-founded Kyutai.",
+        "origin": "French (Algerian-French)",
+        "prior": ""
+      },
+      {
+        "company_slug": "gradium",
+        "name": "Olivier Teboul",
+        "role": "CTO",
+        "background": "Ex-Google Brain.",
+        "origin": "French",
+        "prior": ""
+      },
+      {
+        "company_slug": "gradium",
+        "name": "Laurent Mazare",
+        "role": "Chief Coding Officer",
+        "background": "Ex-DeepMind, Jane Street.",
+        "origin": "French",
+        "prior": ""
+      },
+      {
+        "company_slug": "gradium",
+        "name": "Alexandre Defossez",
+        "role": "CSO",
+        "background": "Ex-Meta AI. Co-invented EnCodec, MusicGen.",
+        "origin": "French",
+        "prior": ""
+      }
+    ],
     "funding_rounds": [
       {
         "company_slug": "gradium",
@@ -8862,7 +9356,24 @@
     "team_china_profile": null,
     "confidence": "medium",
     "last_updated": "2026-03-21",
-    "founders": [],
+    "founders": [
+      {
+        "company_slug": "honey-health",
+        "name": "Matt Faustman",
+        "role": "CEO",
+        "background": "Ex-LinkedIn AI leader. Sold previous company to LinkedIn. Type 1 diabetic.",
+        "origin": "",
+        "prior": ""
+      },
+      {
+        "company_slug": "honey-health",
+        "name": "Xiao Zhang",
+        "role": "CTO",
+        "background": "Ex-LinkedIn AI engineering leader.",
+        "origin": "Chinese-American",
+        "prior": ""
+      }
+    ],
     "funding_rounds": [
       {
         "company_slug": "honey-health",
@@ -8971,6 +9482,65 @@
         "other_investors": "",
         "source": "https://techcrunch.com/2026/01/20/humans-a-human-centric-ai-startup-founded-by-anthropic-xai-google-alums-raised-480m-seed-round/",
         "notes": "Second-largest seed round in VC history (behind Thinking Machines Lab's $2B). Investors include Nvidia, Jeff Bezos, GV, Emerson Collective (Laurene Powell Jobs)."
+      }
+    ],
+    "top_investors": []
+  },
+  {
+    "slug": "iconic-gaming",
+    "name": "Iconic (Gaming AI)",
+    "status": "active",
+    "founded_year": "2023",
+    "hq": "London, UK",
+    "website": null,
+    "sector": "AI Gaming / On-Device",
+    "one_liner": "On-device AI for voice-controlled AI-native game worlds. Backed by Google AI Futures Fund.",
+    "total_raised_m": 13.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [
+      {
+        "company_slug": "iconic-gaming",
+        "name": "John Lusty",
+        "role": "Co-founder",
+        "background": "",
+        "origin": "",
+        "prior": ""
+      },
+      {
+        "company_slug": "iconic-gaming",
+        "name": "Junaid Hussain",
+        "role": "Co-founder",
+        "background": "",
+        "origin": "",
+        "prior": ""
+      },
+      {
+        "company_slug": "iconic-gaming",
+        "name": "Andrew Bowell",
+        "role": "CEO",
+        "background": "Former Product Head at Unity",
+        "origin": "",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "iconic-gaming",
+        "stage": "Seed",
+        "date": "2025-12",
+        "amount_m": 13.0,
+        "valuation_m": null,
+        "lead_investors": "Kindred; Northzone; Google AI Futures Fund",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
       }
     ],
     "top_investors": []
@@ -9100,7 +9670,32 @@
     "team_china_profile": null,
     "confidence": "medium",
     "last_updated": "2026-03-21",
-    "founders": [],
+    "founders": [
+      {
+        "company_slug": "imper-ai",
+        "name": "Noam Awadish",
+        "role": "CEO",
+        "background": "Ex-Mobileye Chief of Staff to EVP. Founded during Gaza war reserve service.",
+        "origin": "Israeli",
+        "prior": ""
+      },
+      {
+        "company_slug": "imper-ai",
+        "name": "Anatoly Blighovsky",
+        "role": "CPO",
+        "background": "Former CISO and cyber div head Unit 8200.",
+        "origin": "Israeli",
+        "prior": ""
+      },
+      {
+        "company_slug": "imper-ai",
+        "name": "Rom Dudkiewicz",
+        "role": "CTO",
+        "background": "Unit 8200 vulnerability researcher.",
+        "origin": "Israeli",
+        "prior": ""
+      }
+    ],
     "funding_rounds": [
       {
         "company_slug": "imper-ai",
@@ -9134,7 +9729,32 @@
     "team_china_profile": null,
     "confidence": "medium",
     "last_updated": "2026-03-21",
-    "founders": [],
+    "founders": [
+      {
+        "company_slug": "inception-labs",
+        "name": "Stefano Ermon",
+        "role": "CEO",
+        "background": "Stanford professor. Co-inventor of diffusion models. PhD Cornell.",
+        "origin": "Italian",
+        "prior": ""
+      },
+      {
+        "company_slug": "inception-labs",
+        "name": "Aditya Grover",
+        "role": "CTO",
+        "background": "UCLA professor. Generative models researcher.",
+        "origin": "Indian-American",
+        "prior": ""
+      },
+      {
+        "company_slug": "inception-labs",
+        "name": "Manu Gulati",
+        "role": "Chief Development Officer",
+        "background": "Apple SoC architect. Co-founded NUVIA (acq Qualcomm ~$1.5B).",
+        "origin": "Indian-American",
+        "prior": ""
+      }
+    ],
     "funding_rounds": [
       {
         "company_slug": "inception-labs",
@@ -9145,6 +9765,116 @@
         "lead_investors": "Menlo Ventures; Mayfield; Innovation Endeavors; Microsoft M12; NVentures; Andrej Karpathy; Andrew Ng",
         "other_investors": "",
         "source": "https://techcrunch.com/2025/11/06/inception-raises-50-million-to-build-diffusion-models-for-code-and-text/",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
+    "slug": "ineffable-intelligence",
+    "name": "Ineffable Intelligence",
+    "status": "active",
+    "founded_year": "2025",
+    "hq": "London, UK",
+    "website": null,
+    "sector": "AI Research / Reinforcement Learning",
+    "one_liner": "AI lab pursuing superintelligence via RL from first principles, rejecting the LLM approach. Founded by AlphaGo creator David Silver.",
+    "total_raised_m": 1000.0,
+    "latest_valuation_m": 4000.0,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [
+      {
+        "company_slug": "ineffable-intelligence",
+        "name": "David Silver",
+        "role": "CEO",
+        "background": "Legendary DeepMind researcher who created AlphaGo. Professor at UCL.",
+        "origin": "",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "ineffable-intelligence",
+        "stage": "Seed",
+        "date": "2026-02",
+        "amount_m": 1000.0,
+        "valuation_m": 4000.0,
+        "lead_investors": "Sequoia Capital",
+        "other_investors": "",
+        "source": "https://siliconangle.com/2026/02/18/new-ai-startup-ineffable-intelligence-reportedly-raising-1b-funding-round/",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
+    "slug": "inferact",
+    "name": "Inferact",
+    "status": "active",
+    "founded_year": "2025",
+    "hq": "San Francisco, CA",
+    "website": null,
+    "sector": "AI Inference Infrastructure",
+    "one_liner": "Commercializes vLLM \u2014 the leading open-source AI inference engine used by Meta, Google, Character AI.",
+    "total_raised_m": 150.0,
+    "latest_valuation_m": 800.0,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [
+      {
+        "company_slug": "inferact",
+        "name": "Simon Mo",
+        "role": "Co-founder",
+        "background": "Core vLLM maintainer",
+        "origin": "",
+        "prior": ""
+      },
+      {
+        "company_slug": "inferact",
+        "name": "Woosuk Kwon",
+        "role": "Co-founder",
+        "background": "Core vLLM maintainer",
+        "origin": "",
+        "prior": ""
+      },
+      {
+        "company_slug": "inferact",
+        "name": "Kaichao You",
+        "role": "Co-founder",
+        "background": "",
+        "origin": "",
+        "prior": ""
+      },
+      {
+        "company_slug": "inferact",
+        "name": "Roger Wang",
+        "role": "Co-founder",
+        "background": "",
+        "origin": "",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "inferact",
+        "stage": "Seed",
+        "date": "2026-01",
+        "amount_m": 150.0,
+        "valuation_m": 800.0,
+        "lead_investors": "Andreessen Horowitz; Lightspeed Venture Partners; Sequoia; ZhenFund",
+        "other_investors": "",
+        "source": "https://techcrunch.com/2026/01/22/inference-startup-inferact-lands-150m-to-commercialize-vllm/",
         "notes": ""
       }
     ],
@@ -9407,7 +10137,16 @@
     "team_china_profile": null,
     "confidence": "medium",
     "last_updated": "2026-03-21",
-    "founders": [],
+    "founders": [
+      {
+        "company_slug": "isotopes-ai",
+        "name": "Arun Murthy",
+        "role": "CEO",
+        "background": "Co-creator Apache Hadoop. Co-founder/CPO Hortonworks (IPO). CTO Scale AI.",
+        "origin": "Indian",
+        "prior": ""
+      }
+    ],
     "funding_rounds": [
       {
         "company_slug": "isotopes-ai",
@@ -9458,6 +10197,57 @@
     "top_investors": []
   },
   {
+    "slug": "jetstream-security",
+    "name": "JetStream Security",
+    "status": "active",
+    "founded_year": "2025",
+    "hq": null,
+    "website": null,
+    "sector": "AI Governance / Enterprise Security",
+    "one_liner": "Enterprise AI governance \u2014 real-time inspection, control, and policy enforcement over AI agents.",
+    "total_raised_m": 34.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [
+      {
+        "company_slug": "jetstream-security",
+        "name": "Raj Rajamani",
+        "role": "CEO",
+        "background": "Ex-CrowdStrike",
+        "origin": "",
+        "prior": ""
+      },
+      {
+        "company_slug": "jetstream-security",
+        "name": "Jared Phipps",
+        "role": "COO",
+        "background": "Ex-SentinelOne",
+        "origin": "",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "jetstream-security",
+        "stage": "Seed",
+        "date": "2026-03",
+        "amount_m": 34.0,
+        "valuation_m": null,
+        "lead_investors": "Redpoint Ventures; CrowdStrike Falcon Fund",
+        "other_investors": "",
+        "source": "https://fortune.com/2026/03/03/ai-governance-crowdstrike-sentinelone-veterans-raise-34m/",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
     "slug": "julius-ai",
     "name": "Julius AI",
     "status": "active",
@@ -9475,7 +10265,16 @@
     "team_china_profile": null,
     "confidence": "medium",
     "last_updated": "2026-03-21",
-    "founders": [],
+    "founders": [
+      {
+        "company_slug": "julius-ai",
+        "name": "Rahul Sonwalkar",
+        "role": "CEO",
+        "background": "BS CS UT Dallas. Ex-Uber, Facebook. YC W22. Forbes 30 Under 30.",
+        "origin": "Indian-American",
+        "prior": ""
+      }
+    ],
     "funding_rounds": [
       {
         "company_slug": "julius-ai",
@@ -9733,6 +10532,57 @@
       "CapitalG (Alphabet)",
       "Y Combinator"
     ]
+  },
+  {
+    "slug": "kana-ai",
+    "name": "Kana",
+    "status": "active",
+    "founded_year": "2025",
+    "hq": null,
+    "website": null,
+    "sector": "AI Marketing / Agentic",
+    "one_liner": "Agentic AI platform for marketing teams \u2014 campaign automation, RFP generation, growth analytics.",
+    "total_raised_m": 15.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [
+      {
+        "company_slug": "kana-ai",
+        "name": "Tom Chavez",
+        "role": "CEO",
+        "background": "Serial martech founder \u2014 Rapt (acq Microsoft), Krux (acq Salesforce)",
+        "origin": "",
+        "prior": ""
+      },
+      {
+        "company_slug": "kana-ai",
+        "name": "Vivek Vaidya",
+        "role": "CTO",
+        "background": "Co-founded Rapt and Krux",
+        "origin": "",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "kana-ai",
+        "stage": "Seed",
+        "date": "2026-02",
+        "amount_m": 15.0,
+        "valuation_m": null,
+        "lead_investors": "Mayfield Fund",
+        "other_investors": "",
+        "source": "https://techcrunch.com/2026/02/18/kana-emerges-from-stealth-with-15m/",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
   },
   {
     "slug": "keplar",
@@ -10187,6 +11037,65 @@
     "top_investors": []
   },
   {
+    "slug": "leta-logistics",
+    "name": "Leta (Logistics)",
+    "status": "active",
+    "founded_year": "2022",
+    "hq": "Nairobi, Kenya",
+    "website": null,
+    "sector": "AI Logistics / Africa",
+    "one_liner": "AI logistics SaaS for Africa \u2014 optimizes routes, tracks shipments, streamlines payments. Scaled to 4.5M deliveries.",
+    "total_raised_m": 5.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [
+      {
+        "company_slug": "leta-logistics",
+        "name": "Nick Joshi",
+        "role": "CEO",
+        "background": "",
+        "origin": "",
+        "prior": ""
+      },
+      {
+        "company_slug": "leta-logistics",
+        "name": "Kip Maritim",
+        "role": "CTO",
+        "background": "",
+        "origin": "",
+        "prior": ""
+      },
+      {
+        "company_slug": "leta-logistics",
+        "name": "Anthony Ketter",
+        "role": "COO",
+        "background": "",
+        "origin": "",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "leta-logistics",
+        "stage": "Seed",
+        "date": "2025-03",
+        "amount_m": 5.0,
+        "valuation_m": null,
+        "lead_investors": "Speedinvest; Google Africa Investment Fund",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
     "slug": "lightmatter",
     "name": "Lightmatter",
     "status": "Series D (Late-stage private)",
@@ -10226,7 +11135,24 @@
     "team_china_profile": null,
     "confidence": "unknown",
     "last_updated": "2026-03-20",
-    "founders": [],
+    "founders": [
+      {
+        "company_slug": "lila-sciences",
+        "name": "Geoffrey von Maltzahn",
+        "role": "CEO",
+        "background": "GP at Flagship Pioneering. Co-founded 10 companies with $10B combined market cap.",
+        "origin": "",
+        "prior": ""
+      },
+      {
+        "company_slug": "lila-sciences",
+        "name": "Noubar Afeyan",
+        "role": "Chairman",
+        "background": "Founder/CEO Flagship Pioneering. Co-founded Moderna.",
+        "origin": "Armenian-Lebanese-American",
+        "prior": ""
+      }
+    ],
     "funding_rounds": [
       {
         "company_slug": "lila-sciences",
@@ -10293,6 +11219,40 @@
         "lead_investors": "BITKRAFT Ventures; Riot Games",
         "other_investors": "",
         "source": "",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
+    "slug": "limy",
+    "name": "Limy",
+    "status": "active",
+    "founded_year": "2025",
+    "hq": null,
+    "website": null,
+    "sector": "AI Marketing / Agentic Web",
+    "one_liner": "Infrastructure helping brands optimize visibility in the agentic web \u2014 decodes AI bot interactions on brand sites.",
+    "total_raised_m": 10.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [],
+    "funding_rounds": [
+      {
+        "company_slug": "limy",
+        "stage": "Seed",
+        "date": "2026-01",
+        "amount_m": 10.0,
+        "valuation_m": null,
+        "lead_investors": "Flybridge; a16z speedrun",
+        "other_investors": "",
+        "source": "https://alleywatch.com/2026/01/limy-agentic-web-infrastructure/",
         "notes": ""
       }
     ],
@@ -10582,7 +11542,24 @@
     "team_china_profile": null,
     "confidence": "medium",
     "last_updated": "2026-03-21",
-    "founders": [],
+    "founders": [
+      {
+        "company_slug": "lumai",
+        "name": "Tim Weil",
+        "role": "CEO",
+        "background": "Oxford spinout co-founder.",
+        "origin": "",
+        "prior": ""
+      },
+      {
+        "company_slug": "lumai",
+        "name": "Xianxin Guo",
+        "role": "Head of Research",
+        "background": "Oxford optical computing researcher.",
+        "origin": "Chinese",
+        "prior": ""
+      }
+    ],
     "funding_rounds": [
       {
         "company_slug": "lumai",
@@ -10616,7 +11593,24 @@
     "team_china_profile": null,
     "confidence": "medium",
     "last_updated": "2026-03-21",
-    "founders": [],
+    "founders": [
+      {
+        "company_slug": "lumia-security",
+        "name": "Omri Iluz",
+        "role": "CEO",
+        "background": "Founded PerimeterX (acq 2022). 25 years cybersecurity.",
+        "origin": "Israeli",
+        "prior": ""
+      },
+      {
+        "company_slug": "lumia-security",
+        "name": "Bobi Gilburd",
+        "role": "CTO",
+        "background": "Former Colonel IDF Unit 8200. CISO Israeli Intelligence.",
+        "origin": "Israeli",
+        "prior": ""
+      }
+    ],
     "funding_rounds": [
       {
         "company_slug": "lumia-security",
@@ -10828,6 +11822,65 @@
     "top_investors": []
   },
   {
+    "slug": "maieutic-semi",
+    "name": "Maieutic Semiconductors",
+    "status": "active",
+    "founded_year": "2022",
+    "hq": "Bengaluru, India",
+    "website": null,
+    "sector": "AI for Chip Design",
+    "one_liner": "Generative AI copilot for analog chip design. Founding team sold Steradian to Renesas.",
+    "total_raised_m": 6.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [
+      {
+        "company_slug": "maieutic-semi",
+        "name": "Gireesh Rajendran",
+        "role": "CEO",
+        "background": "",
+        "origin": "",
+        "prior": ""
+      },
+      {
+        "company_slug": "maieutic-semi",
+        "name": "Ashish Lachhwani",
+        "role": "Co-founder",
+        "background": "",
+        "origin": "",
+        "prior": ""
+      },
+      {
+        "company_slug": "maieutic-semi",
+        "name": "Rakesh Kumar",
+        "role": "Co-founder",
+        "background": "",
+        "origin": "",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "maieutic-semi",
+        "stage": "Seed",
+        "date": "2025-10",
+        "amount_m": 6.0,
+        "valuation_m": null,
+        "lead_investors": "Endiya Partners; Exfinity Venture Partners",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
     "slug": "majestic-labs",
     "name": "Majestic Labs",
     "status": "active",
@@ -10845,7 +11898,32 @@
     "team_china_profile": null,
     "confidence": "medium",
     "last_updated": "2026-03-21",
-    "founders": [],
+    "founders": [
+      {
+        "company_slug": "majestic-labs",
+        "name": "Ofer Shacham",
+        "role": "CEO",
+        "background": "Sold Chip Genesis to Google. Head of Silicon at Google GChips. VP/Head of FAST at Meta Reality Labs. 120+ patents.",
+        "origin": "Israeli",
+        "prior": ""
+      },
+      {
+        "company_slug": "majestic-labs",
+        "name": "Sha Rabii",
+        "role": "President",
+        "background": "Led Google silicon team, then Meta FAST.",
+        "origin": "",
+        "prior": ""
+      },
+      {
+        "company_slug": "majestic-labs",
+        "name": "Masumi Reynders",
+        "role": "COO",
+        "background": "Ex-Google, Meta FAST teams.",
+        "origin": "",
+        "prior": ""
+      }
+    ],
     "funding_rounds": [
       {
         "company_slug": "majestic-labs",
@@ -10856,6 +11934,49 @@
         "lead_investors": "Lux Capital; Bow Wave Capital",
         "other_investors": "",
         "source": "https://www.cnbc.com/2025/11/10/majestic-labs-meta-google-ai-funding.html",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
+    "slug": "mal-bank",
+    "name": "Mal",
+    "status": "active",
+    "founded_year": "2025",
+    "hq": null,
+    "website": null,
+    "sector": "AI Fintech / Islamic Digital Banking",
+    "one_liner": "World first AI-native Islamic digital bank. Record MEA seed round.",
+    "total_raised_m": 230.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [
+      {
+        "company_slug": "mal-bank",
+        "name": "Abdallah Abu-Sheikh",
+        "role": "CEO",
+        "background": "Serial fintech entrepreneur",
+        "origin": "",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "mal-bank",
+        "stage": "Seed",
+        "date": "2026-01",
+        "amount_m": 230.0,
+        "valuation_m": null,
+        "lead_investors": "BlueFive Capital",
+        "other_investors": "",
+        "source": "https://www.zawya.com/en/press-release/companies-news/mal-closes-record-230m-seed-round-l4vpuic6",
         "notes": ""
       }
     ],
@@ -10879,7 +12000,24 @@
     "team_china_profile": null,
     "confidence": "medium",
     "last_updated": "2026-03-21",
-    "founders": [],
+    "founders": [
+      {
+        "company_slug": "manas-ai",
+        "name": "Siddhartha Mukherjee",
+        "role": "CEO",
+        "background": "Pulitzer Prize oncologist. Columbia professor. Author Emperor of All Maladies.",
+        "origin": "Indian-American (Bengali)",
+        "prior": ""
+      },
+      {
+        "company_slug": "manas-ai",
+        "name": "Reid Hoffman",
+        "role": "Co-founder",
+        "background": "Co-founder of LinkedIn. Partner Greylock.",
+        "origin": "American",
+        "prior": ""
+      }
+    ],
     "funding_rounds": [
       {
         "company_slug": "manas-ai",
@@ -11034,7 +12172,16 @@
     "team_china_profile": null,
     "confidence": "medium",
     "last_updated": "2026-03-21",
-    "founders": [],
+    "founders": [
+      {
+        "company_slug": "mate-security",
+        "name": "Asaf Wiener",
+        "role": "CEO",
+        "background": "Former product leader at Wiz and Microsoft. First Wiz alumnus to found startup.",
+        "origin": "Israeli",
+        "prior": ""
+      }
+    ],
     "funding_rounds": [
       {
         "company_slug": "mate-security",
@@ -11233,6 +12380,65 @@
     "top_investors": []
   },
   {
+    "slug": "merge-labs",
+    "name": "Merge Labs",
+    "status": "active",
+    "founded_year": "2025",
+    "hq": null,
+    "website": null,
+    "sector": "AI Neurotech / Brain-Computer Interface",
+    "one_liner": "Less-invasive BCI using ultrasound modules. Co-founded by Sam Altman. Backed by OpenAI.",
+    "total_raised_m": 252.0,
+    "latest_valuation_m": 850.0,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [
+      {
+        "company_slug": "merge-labs",
+        "name": "Sam Altman",
+        "role": "Co-founder",
+        "background": "CEO of OpenAI",
+        "origin": "",
+        "prior": ""
+      },
+      {
+        "company_slug": "merge-labs",
+        "name": "Alex Blania",
+        "role": "Co-founder",
+        "background": "Tools for Humanity",
+        "origin": "",
+        "prior": ""
+      },
+      {
+        "company_slug": "merge-labs",
+        "name": "Mikhail Shapiro",
+        "role": "Co-founder",
+        "background": "Caltech researcher",
+        "origin": "",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "merge-labs",
+        "stage": "Seed",
+        "date": "2026-01",
+        "amount_m": 252.0,
+        "valuation_m": 850.0,
+        "lead_investors": "OpenAI; Bain Capital; Interface Fund",
+        "other_investors": "",
+        "source": "https://www.bloomberg.com/news/articles/2026-01-15/altman-s-merge-raises-252-million-to-link-brains-and-computers",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
     "slug": "midjourney",
     "name": "Midjourney",
     "status": "unknown",
@@ -11338,6 +12544,57 @@
         "other_investors": "",
         "source": "https://www.businesswire.com/news/home/20260311414783/en/Mind-Robotics-Announces-$500M-Financing-to-Support-Deployment-of-AI-Powered-Robots-at-Industrial-Scale",
         "notes": "Co-led by Accel and a16z. Sameer Gandhi (Accel) joined the board. Rivian Automotive remains a major shareholder. Announced March 11, 2026. Valuation reported at approximately $2B."
+      }
+    ],
+    "top_investors": []
+  },
+  {
+    "slug": "mindoo",
+    "name": "Mindoo",
+    "status": "active",
+    "founded_year": "2024",
+    "hq": "Antwerp, Belgium",
+    "website": null,
+    "sector": "AI Healthcare / Hospital Workforce",
+    "one_liner": "Voice-first AI agents for hospitals handling patient intake, documentation, and front-desk workflows.",
+    "total_raised_m": 5.5,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [
+      {
+        "company_slug": "mindoo",
+        "name": "Gauthier Willemse",
+        "role": "CEO",
+        "background": "MD from KU Leuven, surgeon, MPH Harvard",
+        "origin": "",
+        "prior": ""
+      },
+      {
+        "company_slug": "mindoo",
+        "name": "Bart Lens",
+        "role": "CTO",
+        "background": "Ex-senior engineer at DataCamp, founding engineer at Conveo",
+        "origin": "",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "mindoo",
+        "stage": "Seed",
+        "date": "2025-12",
+        "amount_m": 5.5,
+        "valuation_m": null,
+        "lead_investors": "6DC; Syndicate One",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
       }
     ],
     "top_investors": []
@@ -12108,6 +13365,57 @@
         "lead_investors": "Tiger Global; Alkeon Capital",
         "other_investors": "",
         "source": "https://www.moveworks.com/us/en/company/news/press-releases/moveworks-raises-200-million-series-c-funding",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
+    "slug": "nace-ai",
+    "name": "Nace.AI",
+    "status": "active",
+    "founded_year": "2024",
+    "hq": "Canada",
+    "website": null,
+    "sector": "AI Enterprise / Dynamic Models",
+    "one_liner": "MetaModel system generating task-specific AI models on demand for audit, risk, and compliance.",
+    "total_raised_m": 5.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [
+      {
+        "company_slug": "nace-ai",
+        "name": "Dos Baha",
+        "role": "CEO",
+        "background": "",
+        "origin": "",
+        "prior": ""
+      },
+      {
+        "company_slug": "nace-ai",
+        "name": "Zhanibek Datbayev",
+        "role": "CTO",
+        "background": "Ex-Google, Meta, U of Toronto",
+        "origin": "",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "nace-ai",
+        "stage": "Seed",
+        "date": "2025-03",
+        "amount_m": 5.0,
+        "valuation_m": null,
+        "lead_investors": "General Catalyst",
+        "other_investors": "",
+        "source": "",
         "notes": ""
       }
     ],
@@ -13038,7 +14346,16 @@
     "team_china_profile": null,
     "confidence": "medium",
     "last_updated": "2026-03-21",
-    "founders": [],
+    "founders": [
+      {
+        "company_slug": "obot-ai",
+        "name": "Sheng Liang",
+        "role": "CEO",
+        "background": "PhD Yale. Ex-Sun Microsystems Java VM. Co-founded Cloud.com (acq Citrix), Rancher Labs (acq SUSE $800M).",
+        "origin": "Chinese-American",
+        "prior": ""
+      }
+    ],
     "funding_rounds": [
       {
         "company_slug": "obot-ai",
@@ -13251,7 +14568,16 @@
     "team_china_profile": null,
     "confidence": "medium",
     "last_updated": "2026-03-21",
-    "founders": [],
+    "founders": [
+      {
+        "company_slug": "onfire-ai",
+        "name": "Tal Peretz",
+        "role": "CEO",
+        "background": "Unit 8200 alumnus.",
+        "origin": "Israeli",
+        "prior": ""
+      }
+    ],
     "funding_rounds": [
       {
         "company_slug": "onfire-ai",
@@ -13639,6 +14965,49 @@
     "top_investors": []
   },
   {
+    "slug": "oxmiq-labs",
+    "name": "Oxmiq Labs",
+    "status": "active",
+    "founded_year": "2024",
+    "hq": null,
+    "website": null,
+    "sector": "AI Chips / GPU Architecture",
+    "one_liner": "Software-defined GPU architecture from atoms to agents. Founded by Raja Koduri (ex-Apple, AMD, Intel GPU architect).",
+    "total_raised_m": 20.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [
+      {
+        "company_slug": "oxmiq-labs",
+        "name": "Raja Koduri",
+        "role": "Founder",
+        "background": "Renowned GPU architect, formerly Apple, AMD, Intel",
+        "origin": "",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "oxmiq-labs",
+        "stage": "Seed",
+        "date": "2025-08",
+        "amount_m": 20.0,
+        "valuation_m": null,
+        "lead_investors": "MediaTek Ventures",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
     "slug": "paid-ai",
     "name": "Paid",
     "status": "active",
@@ -13656,7 +15025,24 @@
     "team_china_profile": null,
     "confidence": "medium",
     "last_updated": "2026-03-21",
-    "founders": [],
+    "founders": [
+      {
+        "company_slug": "paid-ai",
+        "name": "Manny Medina",
+        "role": "CEO",
+        "background": "HBS. Founded Outreach (grew to $250M ARR). Ex-Microsoft.",
+        "origin": "Ecuadorian-American",
+        "prior": ""
+      },
+      {
+        "company_slug": "paid-ai",
+        "name": "Arnon Shimoni",
+        "role": "Co-founder",
+        "background": "Early employee at Pleo.",
+        "origin": "Israeli",
+        "prior": ""
+      }
+    ],
     "funding_rounds": [
       {
         "company_slug": "paid-ai",
@@ -13811,7 +15197,16 @@
     "team_china_profile": null,
     "confidence": "medium",
     "last_updated": "2026-03-21",
-    "founders": [],
+    "founders": [
+      {
+        "company_slug": "perfect-ai",
+        "name": "Eylon Etshtein",
+        "role": "CEO",
+        "background": "Founded AnyVision (raised $350M, rebranded Oosto). Technion. Israeli military.",
+        "origin": "Israeli",
+        "prior": ""
+      }
+    ],
     "funding_rounds": [
       {
         "company_slug": "perfect-ai",
@@ -15236,7 +16631,24 @@
     "team_china_profile": null,
     "confidence": "medium",
     "last_updated": "2026-03-21",
-    "founders": [],
+    "founders": [
+      {
+        "company_slug": "ricursive-intelligence",
+        "name": "Anna Goldie",
+        "role": "CEO",
+        "background": "MIT BS CS + MEng. Stanford NLP PhD. Co-led Google AlphaChip (Nature). Early Anthropic employee.",
+        "origin": "American",
+        "prior": ""
+      },
+      {
+        "company_slug": "ricursive-intelligence",
+        "name": "Azalia Mirhoseini",
+        "role": "CTO",
+        "background": "PhD Rice. Stanford professor. Co-led AlphaChip. Co-authored foundational MoE paper powering GPT-4/Gemini.",
+        "origin": "Iranian-American",
+        "prior": ""
+      }
+    ],
     "funding_rounds": [
       {
         "company_slug": "ricursive-intelligence",
@@ -15602,7 +17014,24 @@
     "team_china_profile": null,
     "confidence": "medium",
     "last_updated": "2026-03-21",
-    "founders": [],
+    "founders": [
+      {
+        "company_slug": "samaya-ai",
+        "name": "Maithra Raghu",
+        "role": "CEO",
+        "background": "Ex-Google Brain. PhD CS Cornell. Medical AI research.",
+        "origin": "Indian-American",
+        "prior": ""
+      },
+      {
+        "company_slug": "samaya-ai",
+        "name": "Fabio Petroni",
+        "role": "CTO",
+        "background": "Ex-Meta AI (FAIR). Knowledge-intensive NLP.",
+        "origin": "Italian",
+        "prior": ""
+      }
+    ],
     "funding_rounds": [
       {
         "company_slug": "samaya-ai",
@@ -17160,7 +18589,24 @@
     "team_china_profile": null,
     "confidence": "medium",
     "last_updated": "2026-03-21",
-    "founders": [],
+    "founders": [
+      {
+        "company_slug": "sola-security",
+        "name": "Guy Flechter",
+        "role": "CEO",
+        "background": "Founded Cider Security (acq Palo Alto Networks). 20+ years cybersecurity.",
+        "origin": "Israeli",
+        "prior": ""
+      },
+      {
+        "company_slug": "sola-security",
+        "name": "Ron Peled",
+        "role": "Co-founder",
+        "background": "Former Global CISO LivePerson.",
+        "origin": "Israeli",
+        "prior": ""
+      }
+    ],
     "funding_rounds": [
       {
         "company_slug": "sola-security",
@@ -17171,6 +18617,49 @@
         "lead_investors": "S Capital; Mike Moritz",
         "other_investors": "",
         "source": "https://techcrunch.com/2025/03/11/sola-emerges-from-stealth-with-30m/",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
+    "slug": "solda-ai",
+    "name": "Solda.AI",
+    "status": "active",
+    "founded_year": "2023",
+    "hq": "Amsterdam, Netherlands",
+    "website": null,
+    "sector": "AI Voice / Sales Automation",
+    "one_liner": "AI voice agents that autonomously handle and close full phone sales conversations in 100 simultaneous lines.",
+    "total_raised_m": 4.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [
+      {
+        "company_slug": "solda-ai",
+        "name": "Sergey Shalaev",
+        "role": "CEO",
+        "background": "12+ yrs AI/ML, recommendation systems, ad tech",
+        "origin": "",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "solda-ai",
+        "stage": "Seed",
+        "date": "2025-04",
+        "amount_m": 4.0,
+        "valuation_m": null,
+        "lead_investors": "Accel; AltaIR Capital",
+        "other_investors": "",
+        "source": "",
         "notes": ""
       }
     ],
@@ -17589,6 +19078,40 @@
     "top_investors": []
   },
   {
+    "slug": "standard-kernel",
+    "name": "Standard Kernel",
+    "status": "active",
+    "founded_year": "2025",
+    "hq": null,
+    "website": null,
+    "sector": "AI Infrastructure / GPU Optimization",
+    "one_liner": "AI that auto-generates ultra-optimized GPU kernels \u2014 improves AI workload performance without changing models.",
+    "total_raised_m": 20.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [],
+    "funding_rounds": [
+      {
+        "company_slug": "standard-kernel",
+        "stage": "Seed",
+        "date": "2026-03",
+        "amount_m": 20.0,
+        "valuation_m": null,
+        "lead_investors": "Jump Capital; General Catalyst; Felicis",
+        "other_investors": "",
+        "source": "https://www.prnewswire.com/news-releases/standard-kernel-raises-20m-seed-round/",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
     "slug": "stepfun",
     "name": "StepFun",
     "status": "Private (Hong Kong IPO reportedly planned for 2026)",
@@ -17636,7 +19159,24 @@
     "team_china_profile": null,
     "confidence": "medium",
     "last_updated": "2026-03-21",
-    "founders": [],
+    "founders": [
+      {
+        "company_slug": "straiker",
+        "name": "Ankur Shah",
+        "role": "CEO",
+        "background": "Former SVP/GM Prisma Cloud at Palo Alto Networks. Grew cloud security 50x revenue.",
+        "origin": "Indian-American",
+        "prior": ""
+      },
+      {
+        "company_slug": "straiker",
+        "name": "Sreenath Kurupati",
+        "role": "CTO",
+        "background": "Ex-VP AI at Akamai. CEO Cyberfend (acq Akamai). 15+ years Intel.",
+        "origin": "Indian-American",
+        "prior": ""
+      }
+    ],
     "funding_rounds": [
       {
         "company_slug": "straiker",
@@ -17960,6 +19500,57 @@
     "top_investors": []
   },
   {
+    "slug": "sunrise-robotics",
+    "name": "Sunrise Robotics",
+    "status": "active",
+    "founded_year": "2024",
+    "hq": "Slovenia",
+    "website": null,
+    "sector": "AI Robotics / Industrial",
+    "one_liner": "Modular two-armed industrial robots deployable in under 10 weeks vs 8 months for traditional robots.",
+    "total_raised_m": 8.5,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [
+      {
+        "company_slug": "sunrise-robotics",
+        "name": "Tomaz Stolfa",
+        "role": "CEO",
+        "background": "Previously co-founded vox.io, Layer",
+        "origin": "",
+        "prior": ""
+      },
+      {
+        "company_slug": "sunrise-robotics",
+        "name": "Marko Thaler",
+        "role": "CTO",
+        "background": "Founded Airnamics, AI for drones",
+        "origin": "",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "sunrise-robotics",
+        "stage": "Seed",
+        "date": "2025-06",
+        "amount_m": 8.5,
+        "valuation_m": null,
+        "lead_investors": "Plural; Seedcamp",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
     "slug": "synthesia",
     "name": "Synthesia",
     "status": "Private",
@@ -18127,7 +19718,16 @@
     "team_china_profile": null,
     "confidence": "medium",
     "last_updated": "2026-03-21",
-    "founders": [],
+    "founders": [
+      {
+        "company_slug": "tala-health",
+        "name": "Ritankar Das",
+        "role": "CEO",
+        "background": "Born Kolkata India. Youngest UC Berkeley University Medalist at 18. Gates Cambridge Scholar. Founded Titan Holdings (2014), Dascena (2017).",
+        "origin": "Indian-American",
+        "prior": ""
+      }
+    ],
     "funding_rounds": [
       {
         "company_slug": "tala-health",
@@ -18161,7 +19761,32 @@
     "team_china_profile": null,
     "confidence": "medium",
     "last_updated": "2026-03-21",
-    "founders": [],
+    "founders": [
+      {
+        "company_slug": "tars-ai",
+        "name": "Chen Yilun",
+        "role": "CEO",
+        "background": "Former CTO/Chief Scientist Huawei autonomous driving. Ex-DJI machine vision lead.",
+        "origin": "Chinese",
+        "prior": ""
+      },
+      {
+        "company_slug": "tars-ai",
+        "name": "Ding Wenchao",
+        "role": "Chief Scientist",
+        "background": "Huawei Genius Youth recruit.",
+        "origin": "Chinese",
+        "prior": ""
+      },
+      {
+        "company_slug": "tars-ai",
+        "name": "Li Zhenyu",
+        "role": "Chairman",
+        "background": "Former head of Baidu Intelligent Driving Group.",
+        "origin": "Chinese",
+        "prior": ""
+      }
+    ],
     "funding_rounds": [
       {
         "company_slug": "tars-ai",
@@ -18379,7 +20004,32 @@
     "team_china_profile": null,
     "confidence": "medium",
     "last_updated": "2026-03-21",
-    "founders": [],
+    "founders": [
+      {
+        "company_slug": "tenzai",
+        "name": "Pavel Gurvich",
+        "role": "CEO",
+        "background": "Co-founded Guardicore (acq Akamai $600M).",
+        "origin": "Israeli",
+        "prior": ""
+      },
+      {
+        "company_slug": "tenzai",
+        "name": "Ariel Zeitlin",
+        "role": "CTO",
+        "background": "Co-founded Guardicore.",
+        "origin": "Israeli",
+        "prior": ""
+      },
+      {
+        "company_slug": "tenzai",
+        "name": "Aner Mazur",
+        "role": "CPO",
+        "background": "Founding CPO at Snyk.",
+        "origin": "Israeli",
+        "prior": ""
+      }
+    ],
     "funding_rounds": [
       {
         "company_slug": "tenzai",
@@ -19294,7 +20944,16 @@
     "team_china_profile": null,
     "confidence": "unknown",
     "last_updated": "2026-03-20",
-    "founders": [],
+    "founders": [
+      {
+        "company_slug": "unconventional-ai",
+        "name": "Naveen Rao",
+        "role": "CEO",
+        "background": "PhD Computational Neuroscience, Brown. Founded Nervana (sold Intel $350M), MosaicML (sold Databricks $1.3B). Former Head of AI at Databricks.",
+        "origin": "Indian-American",
+        "prior": ""
+      }
+    ],
     "funding_rounds": [
       {
         "company_slug": "unconventional-ai",
@@ -19479,7 +21138,24 @@
     "team_china_profile": null,
     "confidence": "medium",
     "last_updated": "2026-03-21",
-    "founders": [],
+    "founders": [
+      {
+        "company_slug": "upscale-ai",
+        "name": "Barun Kar",
+        "role": "CEO",
+        "background": "Ex-VP Engineering Palo Alto Networks. Co-founded Auradine.",
+        "origin": "Indian-American",
+        "prior": ""
+      },
+      {
+        "company_slug": "upscale-ai",
+        "name": "Rajiv Khemani",
+        "role": "Executive Chairman",
+        "background": "CEO Auradine. Ex-Cavium (acq Marvell), co-founded Innovium.",
+        "origin": "Indian-American",
+        "prior": ""
+      }
+    ],
     "funding_rounds": [
       {
         "company_slug": "upscale-ai",
@@ -19524,6 +21200,57 @@
         "lead_investors": "Redpoint Ventures",
         "other_investors": "",
         "source": "https://www.globenewswire.com/news-release/2025/12/16/",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
+    "slug": "valthos",
+    "name": "Valthos",
+    "status": "active",
+    "founded_year": "2025",
+    "hq": null,
+    "website": null,
+    "sector": "AI Biodefense",
+    "one_liner": "AI biodefense platform analyzing biological sequences and designing countermeasures against bio threats in real-time.",
+    "total_raised_m": 30.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [
+      {
+        "company_slug": "valthos",
+        "name": "Kathleen McMahon",
+        "role": "CEO",
+        "background": "Former Head of Life Sciences at Palantir",
+        "origin": "",
+        "prior": ""
+      },
+      {
+        "company_slug": "valthos",
+        "name": "Tess van Stekelenburg",
+        "role": "Co-founder",
+        "background": "Computational neuroscience, Oxford",
+        "origin": "",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "valthos",
+        "stage": "Seed",
+        "date": "2025-10",
+        "amount_m": 30.0,
+        "valuation_m": null,
+        "lead_investors": "OpenAI Startup Fund; Lux Capital; Founders Fund",
+        "other_investors": "",
+        "source": "https://www.bloomberg.com/news/articles/2025-10-24/openai-backs-a-new-venture-trying-to-thwart-ai-bio-attacks",
         "notes": ""
       }
     ],
@@ -19971,6 +21698,57 @@
         "lead_investors": "Emergence Capital; Creandum; Y Combinator",
         "other_investors": "",
         "source": "https://sifted.eu/articles/yc-backed-legal-tech-vesence-raises-9m-seed-round",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
+    "slug": "vinci-semi",
+    "name": "Vinci (Semiconductor)",
+    "status": "active",
+    "founded_year": "2024",
+    "hq": null,
+    "website": null,
+    "sector": "AI for Semiconductor Simulation",
+    "one_liner": "Physics-based AI foundation model for chip design simulation \u2014 1000x faster than FEA solvers. Deployed at 3 chipmakers.",
+    "total_raised_m": 46.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [
+      {
+        "company_slug": "vinci-semi",
+        "name": "Hardik Kabaria",
+        "role": "CEO",
+        "background": "PhD computational geometry, Stanford",
+        "origin": "",
+        "prior": ""
+      },
+      {
+        "company_slug": "vinci-semi",
+        "name": "Sarah Osentoski",
+        "role": "Co-founder",
+        "background": "Pioneer in large-scale ML and autonomous systems",
+        "origin": "",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "vinci-semi",
+        "stage": "Seed + Series A",
+        "date": "2025-12",
+        "amount_m": 46.0,
+        "valuation_m": null,
+        "lead_investors": "Eclipse; Xora Innovation; Khosla Ventures",
+        "other_investors": "",
+        "source": "",
         "notes": ""
       }
     ],
@@ -21157,6 +22935,57 @@
         "lead_investors": "Shanghai State Funds",
         "other_investors": "",
         "source": "https://www.caixinglobal.com/2025-07-03/chinas-zhipu-ai-secures-140-million-investment-from-shanghai-state-funds-amid-ipo-push-102337464.html",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
+    "slug": "zyg",
+    "name": "ZyG",
+    "status": "active",
+    "founded_year": "2025",
+    "hq": "Tel Aviv, Israel",
+    "website": null,
+    "sector": "AI E-commerce / DTC",
+    "one_liner": "Agentic OS for DTC e-commerce \u2014 handles brand creation, advertising, logistics, customer acquisition end-to-end.",
+    "total_raised_m": 58.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [
+      {
+        "company_slug": "zyg",
+        "name": "Tomer Bar-Zeev",
+        "role": "Chairman",
+        "background": "Co-founder of ironSource",
+        "origin": "",
+        "prior": ""
+      },
+      {
+        "company_slug": "zyg",
+        "name": "Omer Kaplan",
+        "role": "CEO",
+        "background": "Co-founder of ironSource",
+        "origin": "",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "zyg",
+        "stage": "Seed",
+        "date": "2026-03",
+        "amount_m": 58.0,
+        "valuation_m": null,
+        "lead_investors": "Bessemer Venture Partners; Viola Ventures; Lightspeed",
+        "other_investors": "",
+        "source": "https://siliconangle.com/2026/03/02/agentic-e-commerce-startup-zyg-gets-58m/",
         "notes": ""
       }
     ],
