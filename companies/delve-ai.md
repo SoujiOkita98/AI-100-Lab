@@ -20,6 +20,7 @@ data_notes: 'Needs verification: website, founders, source_urls, headquarters. P
 website: https://delve.co
 website_verified: true
 headquarters: San Francisco, CA
+linkedin: https://www.linkedin.com/company/delve-ai
 ---
 
 # Delve
