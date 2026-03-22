@@ -30,6 +30,7 @@ latest_valuation: 5550
 last_updated: 2026-03-21
 confidence: medium
 linkedin: https://www.linkedin.com/company/wearelegora
+website_verified: true
 ---
 
 # Legora

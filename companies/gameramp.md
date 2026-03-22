@@ -17,6 +17,7 @@ website: https://www.gameramp.com
 website_verified: true
 headquarters: San Francisco, CA
 linkedin: https://www.linkedin.com/company/gameramp
+founded: 2025
 ---
 
 # GameRamp

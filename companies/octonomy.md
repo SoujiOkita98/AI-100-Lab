@@ -13,6 +13,10 @@ total_funding: 20
 last_updated: 2026-03-21
 confidence: medium
 data_notes: 'Needs verification: website, founders, source_urls, headquarters. Profile may be incomplete.'
+headquarters: Cologne, Germany
+website: https://www.octonomy.ai
+founded: 2024
+website_verified: true
 ---
 
 # Octonomy

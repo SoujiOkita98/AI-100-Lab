@@ -22,6 +22,7 @@ confidence: medium
 data_notes: 'Needs verification: website, source_urls, headquarters. Profile may be incomplete.'
 website: https://www.mal.ai
 website_verified: true
+headquarters: Abu Dhabi, UAE
 ---
 
 # Mal

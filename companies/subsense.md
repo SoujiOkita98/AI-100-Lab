@@ -15,6 +15,8 @@ confidence: medium
 data_notes: 'Needs verification: website, founders, source_urls, headquarters. Profile may be incomplete.'
 website: https://subsense-bci.com
 website_verified: true
+headquarters: Palo Alto, CA
+founded: 2022
 ---
 
 # Subsense

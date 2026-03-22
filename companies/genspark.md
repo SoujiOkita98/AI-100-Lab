@@ -22,6 +22,8 @@ last_updated: 2026-03-21
 confidence: medium
 linkedin: https://www.linkedin.com/company/gensparkai
 headquarters: Palo Alto, CA
+website: https://www.genspark.ai
+website_verified: true
 ---
 
 # Genspark

@@ -28,6 +28,7 @@ data_notes: 'Needs verification: website, source_urls, headquarters. Profile may
 website: https://sola.security
 website_verified: true
 linkedin: https://www.linkedin.com/company/sola-security
+headquarters: Tel Aviv, Israel
 ---
 
 # Sola Security

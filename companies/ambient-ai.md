@@ -17,6 +17,7 @@ data_notes: 'Needs verification: website, founders, source_urls, headquarters. P
 website: https://www.ambient.ai
 website_verified: true
 linkedin: https://www.linkedin.com/company/ambient-ai
+headquarters: Redwood City, CA
 ---
 
 # Ambient.ai

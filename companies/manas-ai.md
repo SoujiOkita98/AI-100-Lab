@@ -27,6 +27,7 @@ data_notes: 'Needs verification: website, source_urls, headquarters. Profile may
 website: https://manasai.co
 website_verified: true
 linkedin: https://www.linkedin.com/company/manas-ai
+headquarters: New York, NY
 ---
 
 # Manas AI

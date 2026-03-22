@@ -15,6 +15,8 @@ confidence: medium
 data_notes: 'Needs verification: website, founders, source_urls, headquarters. Profile may be incomplete.'
 website: https://entire.io
 website_verified: true
+headquarters: Bellevue, WA
+founded: 2025
 ---
 
 # Entire

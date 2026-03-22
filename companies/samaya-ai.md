@@ -24,6 +24,8 @@ founders:
   background: Ex-Meta AI (FAIR). Knowledge-intensive NLP.
   origin: Italian
 data_notes: 'Needs verification: website, source_urls, headquarters. Profile may be incomplete.'
+website: https://samaya.ai
+website_verified: true
 ---
 
 # Samaya AI

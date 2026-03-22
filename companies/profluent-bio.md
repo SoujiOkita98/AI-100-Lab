@@ -20,6 +20,8 @@ last_updated: 2026-03-21
 confidence: medium
 linkedin: https://www.linkedin.com/company/profluent-bio
 headquarters: Emeryville, CA
+website: https://www.profluent.bio
+website_verified: true
 ---
 
 # Profluent Bio

@@ -25,6 +25,8 @@ data_notes: 'Needs verification: website, source_urls, headquarters. Profile may
 website: https://www.fieldai.com
 website_verified: true
 linkedin: https://www.linkedin.com/company/fieldai
+headquarters: Irvine, CA
+founded: 2023
 ---
 
 # FieldAI

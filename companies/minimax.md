@@ -38,6 +38,8 @@ tags:
 last_updated: 2026-03-20
 one_liner: MiniMax is one of China's "Six AI Tigers" — the cohort of leading Chinese AI startups that emerged in the post-ChatGPT
   era (alongside Zhipu AI, Moonshot AI / Kimi, Baichuan, 01.AI, and StepFun)
+website: https://www.minimax.io
+website_verified: true
 ---
 
 # MiniMax

@@ -16,6 +16,8 @@ confidence: medium
 data_notes: 'Needs verification: website, founders, source_urls, headquarters. Profile may be incomplete.'
 website: https://www.modelml.com
 website_verified: true
+headquarters: San Francisco, CA
+founded: 2023
 ---
 
 # Model ML

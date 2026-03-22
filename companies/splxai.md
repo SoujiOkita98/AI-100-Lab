@@ -15,6 +15,8 @@ confidence: medium
 data_notes: 'Needs verification: website, founders, source_urls, headquarters. Profile may be incomplete.'
 website: https://splx.ai
 website_verified: true
+headquarters: New York, NY
+founded: 2023
 ---
 
 # SplxAI

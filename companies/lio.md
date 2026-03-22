@@ -16,6 +16,7 @@ total_funding: 33
 last_updated: 2026-03-21
 confidence: medium
 linkedin: https://www.linkedin.com/company/lio-ai
+website_verified: true
 ---
 
 # Lio

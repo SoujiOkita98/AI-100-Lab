@@ -13,6 +13,9 @@ total_funding: 5
 last_updated: 2026-03-21
 confidence: medium
 data_notes: 'Needs verification: website, founders, source_urls, headquarters. Profile may be incomplete.'
+website: https://atelico.studio
+founded: 2024
+website_verified: true
 ---
 
 # Studio Atelico

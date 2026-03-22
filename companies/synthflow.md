@@ -16,6 +16,7 @@ total_funding: 30
 last_updated: 2026-03-21
 confidence: medium
 linkedin: https://www.linkedin.com/company/synthflowai
+website_verified: true
 ---
 
 # Synthflow

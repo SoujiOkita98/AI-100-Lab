@@ -15,6 +15,8 @@ confidence: medium
 data_notes: 'Needs verification: website, founders, source_urls, headquarters. Profile may be incomplete.'
 website: https://www.marvelx.ai
 website_verified: true
+headquarters: Amsterdam, Netherlands
+founded: 2023
 ---
 
 # MarvelX

@@ -18,6 +18,7 @@ data_notes: 'Needs verification: website, founders, source_urls, headquarters. P
 website: https://www.predoc.ai
 website_verified: true
 linkedin: https://www.linkedin.com/company/predocai
+headquarters: New York, NY
 ---
 
 # Predoc

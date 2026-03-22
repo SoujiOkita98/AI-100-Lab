@@ -15,6 +15,8 @@ last_updated: 2026-03-21
 confidence: medium
 linkedin: https://www.linkedin.com/company/outset-ai
 headquarters: San Francisco, CA
+website: https://outset.ai
+website_verified: true
 ---
 
 # Outset

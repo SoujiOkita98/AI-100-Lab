@@ -20,6 +20,8 @@ last_updated: 2026-03-21
 confidence: medium
 linkedin: https://www.linkedin.com/company/noetik-inc
 headquarters: San Francisco, CA
+website: https://www.noetik.ai
+website_verified: true
 ---
 
 # Noetik

@@ -23,6 +23,7 @@ confidence: medium
 data_notes: 'Needs verification: website, source_urls, headquarters. Profile may be incomplete.'
 website: https://www.generalintuition.com
 website_verified: true
+headquarters: New York, NY
 ---
 
 # General Intuition

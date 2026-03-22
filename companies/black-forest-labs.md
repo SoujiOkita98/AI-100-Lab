@@ -23,6 +23,7 @@ latest_valuation: 3250
 last_updated: 2026-03-21
 confidence: medium
 linkedin: https://www.linkedin.com/company/bflai
+website_verified: true
 ---
 
 # Black Forest Labs

@@ -21,6 +21,8 @@ data_notes: 'Needs verification: website, source_urls, headquarters. Profile may
 website: https://www.goperfect.com
 website_verified: true
 linkedin: https://www.linkedin.com/company/hireperfectly
+headquarters: Tel Aviv, Israel
+founded: 2024
 ---
 
 # Perfect

@@ -18,6 +18,7 @@ data_notes: 'Needs verification: website, founders, source_urls, headquarters. P
 website: https://valeriehealth.com
 website_verified: true
 linkedin: https://www.linkedin.com/company/valerie-health
+headquarters: Lafayette, CA
 ---
 
 # Valerie Health

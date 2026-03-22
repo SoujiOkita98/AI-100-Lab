@@ -15,6 +15,8 @@ confidence: medium
 data_notes: 'Needs verification: website, founders, source_urls, headquarters. Profile may be incomplete.'
 website: https://tibo.energy
 website_verified: true
+headquarters: Eindhoven, Netherlands
+founded: 2022
 ---
 
 # Tibo Energy

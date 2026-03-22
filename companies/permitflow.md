@@ -17,6 +17,7 @@ last_updated: 2026-03-21
 confidence: medium
 linkedin: https://www.linkedin.com/company/permitflow
 headquarters: New York, NY
+website_verified: true
 ---
 
 # PermitFlow

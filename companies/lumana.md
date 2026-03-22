@@ -17,6 +17,7 @@ last_updated: 2026-03-21
 confidence: medium
 linkedin: https://www.linkedin.com/company/lumana-ai
 headquarters: Los Gatos, CA
+website_verified: true
 ---
 
 # Lumana

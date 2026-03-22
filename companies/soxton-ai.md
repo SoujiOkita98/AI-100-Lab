@@ -20,6 +20,7 @@ confidence: medium
 data_notes: 'Needs verification: website, source_urls, headquarters. Profile may be incomplete.'
 website: https://www.soxton.ai
 website_verified: true
+headquarters: New York, NY
 ---
 
 # Soxton AI

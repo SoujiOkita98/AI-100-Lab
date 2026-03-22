@@ -25,6 +25,8 @@ founders:
 data_notes: 'Needs verification: website, source_urls, headquarters. Profile may be incomplete.'
 website: https://distyl.ai
 website_verified: true
+headquarters: San Francisco, CA
+founded: 2022
 ---
 
 # Distyl AI

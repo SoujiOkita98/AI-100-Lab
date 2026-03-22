@@ -14,6 +14,8 @@ total_funding: 17
 last_updated: 2026-03-21
 confidence: medium
 headquarters: New York, NY
+website: https://offdeal.io
+website_verified: true
 ---
 
 # OffDeal

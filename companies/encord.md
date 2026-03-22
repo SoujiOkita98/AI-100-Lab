@@ -18,6 +18,7 @@ data_notes: 'Needs verification: website, founders, source_urls, headquarters. P
 website: https://encord.com
 website_verified: true
 linkedin: https://www.linkedin.com/company/encord-team
+headquarters: London, UK
 ---
 
 # Encord

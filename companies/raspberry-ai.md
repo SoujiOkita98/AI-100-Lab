@@ -16,6 +16,8 @@ last_updated: 2026-03-21
 confidence: medium
 data_notes: 'Needs verification: website, founders, source_urls. Profile may be incomplete.'
 linkedin: https://www.linkedin.com/company/raspberry-ai
+website: https://www.raspberry.ai
+website_verified: true
 ---
 
 # Raspberry AI

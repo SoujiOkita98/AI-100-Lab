@@ -19,6 +19,8 @@ total_funding: 31.5
 last_updated: 2026-03-21
 confidence: medium
 headquarters: San Mateo, CA
+website: https://www.parspec.io
+website_verified: true
 ---
 
 # Parspec

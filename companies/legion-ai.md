@@ -16,6 +16,8 @@ confidence: medium
 data_notes: 'Needs verification: website, founders, source_urls, headquarters. Profile may be incomplete.'
 website: https://www.legionintel.com
 website_verified: true
+headquarters: Santa Clara, CA
+founded: 2024
 ---
 
 # Legion

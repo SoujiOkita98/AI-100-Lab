@@ -17,6 +17,7 @@ last_updated: 2026-03-21
 confidence: medium
 data_notes: 'Needs verification: founders, source_urls, headquarters. Profile may be incomplete.'
 website_verified: true
+headquarters: San Francisco, CA
 ---
 
 # alphaXiv

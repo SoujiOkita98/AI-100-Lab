@@ -16,6 +16,8 @@ confidence: medium
 data_notes: 'Needs verification: website, founders, source_urls, headquarters. Profile may be incomplete.'
 website: https://nexos.ai
 website_verified: true
+headquarters: Vilnius, Lithuania
+founded: 2024
 ---
 
 # nexos.ai

@@ -26,6 +26,7 @@ latest_valuation: 3000
 last_updated: 2026-03-21
 confidence: medium
 linkedin: https://www.linkedin.com/company/parloa
+website_verified: true
 ---
 
 # Parloa

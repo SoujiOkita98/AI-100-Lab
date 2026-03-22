@@ -29,6 +29,8 @@ founders:
 data_notes: 'Needs verification: website, source_urls, headquarters. Profile may be incomplete.'
 website: https://imper.ai
 website_verified: true
+headquarters: Brooklyn, NY
+founded: 2024
 ---
 
 # Imper.ai

@@ -15,6 +15,8 @@ confidence: medium
 data_notes: 'Needs verification: website, founders, source_urls, headquarters. Profile may be incomplete.'
 website: https://www.solidroad.com
 website_verified: true
+headquarters: Dublin, Ireland
+founded: 2023
 ---
 
 # Solidroad

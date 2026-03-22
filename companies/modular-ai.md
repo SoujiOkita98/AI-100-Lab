@@ -26,6 +26,7 @@ data_notes: 'Needs verification: website, source_urls, headquarters. Profile may
 website: https://www.modular.com
 website_verified: true
 linkedin: https://www.linkedin.com/company/modular-ai
+headquarters: Los Altos Hills, CA
 ---
 
 # Modular AI

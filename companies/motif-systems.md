@@ -16,6 +16,9 @@ total_funding: 46
 last_updated: 2026-03-21
 confidence: medium
 data_notes: 'Needs verification: website, founders, source_urls, headquarters. Profile may be incomplete.'
+headquarters: San Francisco, CA
+website: https://www.motif.io
+website_verified: true
 ---
 
 # Motif Systems

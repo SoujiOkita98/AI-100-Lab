@@ -15,6 +15,8 @@ confidence: medium
 data_notes: 'Needs verification: website, founders, source_urls, headquarters. Profile may be incomplete.'
 website: https://www.5mins.ai
 website_verified: true
+headquarters: London, UK
+founded: 2021
 ---
 
 # 5Mins AI

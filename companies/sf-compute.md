@@ -19,6 +19,7 @@ latest_valuation: 300
 last_updated: 2026-03-21
 confidence: medium
 linkedin: https://www.linkedin.com/company/sfcompute
+website_verified: true
 ---
 
 # SF Compute

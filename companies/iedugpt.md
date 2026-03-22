@@ -15,6 +15,8 @@ confidence: medium
 data_notes: 'Needs verification: website, founders, source_urls, headquarters. Profile may be incomplete.'
 website: https://iedugpt.org
 website_verified: true
+headquarters: Singapore
+founded: 2022
 ---
 
 # iEduGPT

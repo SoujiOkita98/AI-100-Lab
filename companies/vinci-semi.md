@@ -27,6 +27,7 @@ confidence: medium
 data_notes: 'Needs verification: website, source_urls, headquarters. Profile may be incomplete.'
 website: https://www.getvinci.ai
 website_verified: true
+headquarters: Palo Alto, CA
 ---
 
 # Vinci (Semiconductor)

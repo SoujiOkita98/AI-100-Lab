@@ -16,6 +16,7 @@ data_notes: 'Needs verification: website, founders, source_urls, headquarters. P
 website: https://kaaj.ai
 website_verified: true
 headquarters: San Francisco, CA
+founded: 2024
 ---
 
 # Kaaj

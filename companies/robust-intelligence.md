@@ -37,6 +37,9 @@ employees_at_acquisition: ~70
 revenue_at_acquisition: ~$10M (reported)
 profile_updated: 2026-03-20
 one_liner: Robust Intelligence was an AI security and validation platform founded in 2019 as a spinout of Harvard University
+website: https://www.robustintelligence.com
+website_verified: false
+data_notes: 'Website URL may be invalid (Connection failed). '
 ---
 
 # Robust Intelligence

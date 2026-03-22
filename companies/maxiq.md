@@ -16,6 +16,7 @@ data_notes: 'Needs verification: website, founders, source_urls, headquarters. P
 website: https://www.getmaxiq.com
 website_verified: true
 headquarters: San Francisco, CA
+founded: 2022
 ---
 
 # MaxIQ

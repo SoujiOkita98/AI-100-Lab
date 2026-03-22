@@ -27,6 +27,7 @@ confidence: medium
 data_notes: 'Needs verification: source_urls, headquarters. Profile may be incomplete.'
 website_verified: true
 linkedin: https://www.linkedin.com/company/overland-ai
+headquarters: Seattle, WA
 ---
 
 # Overland AI
