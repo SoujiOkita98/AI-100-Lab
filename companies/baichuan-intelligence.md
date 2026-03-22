@@ -3,7 +3,7 @@ name: Baichuan Intelligence
 legal_name: Baichuan Intelligence Technology Co., Ltd. (百川智能)
 website: https://www.baichuan-ai.com
 sector: Foundation Models / Medical AI
-founded: April 2023
+founded: Apri
 headquarters: Haidian District, Beijing, China
 founders:
 - name: Wang Xiaochuan (王小川)

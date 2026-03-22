@@ -1,7 +1,7 @@
 ---
 company: Together AI
 legal_name: Together Computer Inc.
-founded: June 2022
+founded: June
 headquarters: San Francisco, CA
 sector: AI Infrastructure / Cloud
 subsector: Open-Source AI Inference, Training & Fine-Tuning

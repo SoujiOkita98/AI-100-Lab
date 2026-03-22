@@ -2,7 +2,7 @@
 name: SenseTime
 legal_entity: SenseTime Group Inc. (商汤集团股份有限公司)
 ticker: 'HKEX: 0020'
-founded: 2014-10
+founded: '2014'
 headquarters: Hong Kong, China
 additional_offices:
 - Shanghai

@@ -2,7 +2,7 @@
 company: Typeface
 domain: typeface.ai
 sector: Enterprise AI / Generative AI for Marketing & Content
-founded: May 2022
+founded: 'May '
 headquarters: Palo Alto, California
 founder: Abhay Parasnis
 ceo: Abhay Parasnis

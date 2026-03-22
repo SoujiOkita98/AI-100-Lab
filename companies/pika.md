@@ -3,7 +3,7 @@ name: Pika
 legal_name: Pika Labs, Inc.
 website: https://pika.art
 sector: AI Video Generation / Generative AI
-founded: April 2023
+founded: Apri
 headquarters: Palo Alto, CA (office at 2700 W El Camino Real, Mountain View, CA 94040)
 founders:
 - name: Demi Guo (Guo Wenjing / 郭文景)

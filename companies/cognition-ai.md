@@ -1,7 +1,7 @@
 ---
 name: Cognition AI (Cognition Labs)
 legal_name: Cognition AI, Inc.
-founded: 2023-08
+founded: '2023'
 headquarters: San Francisco, CA
 headcount: ~286 (as of Feb 2026)
 website: https://cognition.ai

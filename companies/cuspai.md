@@ -1,7 +1,7 @@
 ---
 name: CuspAI
 legal_name: CuspAI Ltd.
-founded: 2024-03
+founded: '2024'
 headquarters: Cambridge, UK
 website: https://www.cusp.ai
 product: AI-powered materials discovery platform ("search engine for new materials")

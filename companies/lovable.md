@@ -1,7 +1,7 @@
 ---
 name: Lovable
 formerly: GPT Engineer
-founded: 2023-11
+founded: '2023'
 incorporated: Delaware, USA
 headquarters: Stockholm, Sweden
 website: https://lovable.dev

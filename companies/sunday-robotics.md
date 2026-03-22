@@ -4,7 +4,7 @@ legal_name: Sunday Robotics (assumed; exact legal entity unconfirmed)
 website: https://www.sunday.ai
 sector: Consumer Robotics / Household Automation
 product: Memo (autonomous household robot)
-founded: ~2024 (emerged from stealth November 2025)
+founded: ~202
 headquarters: California, USA (exact city unconfirmed; likely San Francisco Bay Area)
 founders:
 - name: Tony Zhao

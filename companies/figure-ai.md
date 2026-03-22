@@ -3,7 +3,7 @@ name: Figure AI
 legal_name: Figure AI, Inc.
 slug: figure-ai
 domain: Humanoid Robotics / Embodied AI
-founded: 2022-05
+founded: '2022'
 headquarters: Sunnyvale, California, USA
 website: https://www.figure.ai
 status: Private

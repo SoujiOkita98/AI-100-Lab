@@ -5,7 +5,7 @@ former_names:
 - Surreal (2020-2022, Shenzhen era)
 - Movio (2022-2023, early LA era)
 domain: AI Video Generation / Digital Avatars
-founded: December 2020
+founded: Dece
 headquarters: Los Angeles, California, USA
 previous_headquarters: Shenzhen, China (2020-2022)
 founders:

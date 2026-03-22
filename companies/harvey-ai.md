@@ -3,7 +3,7 @@ company_name: Harvey AI
 legal_name: Harvey Inc.
 website: https://www.harvey.ai
 sector: Legal AI / Professional Services AI
-founded: 2022 (Summer)
+founded: '2022'
 headquarters: San Francisco, CA
 founders:
 - name: Winston Weinberg

@@ -3,7 +3,7 @@ name: Manus AI
 legal_name: Manus AI (formerly Butterfly Effect / Monica.im)
 website: https://manus.im
 sector: AI Agents / General-Purpose AI Assistant
-founded: 2022 (as Butterfly Effect); Manus product launched March 2025
+founded: '2022'
 headquarters: Singapore (relocated from Beijing in May 2025)
 founders:
 - name: Xiao Hong (萧弘)

@@ -9,7 +9,7 @@ additional_offices:
 - Palo Alto, CA, USA
 - London, UK
 - Singapore
-founded: 2023-05
+founded: '2023'
 incorporated_country: France
 sector: Artificial Intelligence
 sub_sector: Foundation Models / Large Language Models

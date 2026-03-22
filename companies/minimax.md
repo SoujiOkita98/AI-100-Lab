@@ -1,7 +1,7 @@
 ---
 name: MiniMax (MiniMax Group Inc.)
 ticker: 'SEHK: 100'
-founded: 2021-12
+founded: '2021'
 headquarters: Shanghai, China
 founders:
 - name: Yan Junjie (闫俊杰)

@@ -3,7 +3,7 @@ company_name: Hebbia
 legal_name: Hebbia Inc.
 website: https://www.hebbia.com
 sector: Enterprise AI / Knowledge Work (Finance, Legal, Government)
-founded: 2020 (August)
+founded: '2020'
 headquarters: New York, NY
 founders:
 - name: George Sivulka

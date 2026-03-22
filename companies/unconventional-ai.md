@@ -2,7 +2,7 @@
 name: Unconventional AI
 legal_name: Unconventional, Inc.
 website: https://unconv.ai
-founded: 2025-09 (approximate)
+founded: '2025'
 headquarters: San Francisco, CA (some sources report San Diego, CA)
 ceo: Naveen Rao
 cofounders:

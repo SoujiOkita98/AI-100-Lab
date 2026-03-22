@@ -1,7 +1,7 @@
 ---
 name: ElevenLabs
 sector: AI Voice & Audio
-founded: 2022-04
+founded: '2022'
 headquarters: New York, NY (with offices in London and Warsaw)
 website: https://elevenlabs.io
 founders:

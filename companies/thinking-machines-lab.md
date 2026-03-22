@@ -1,7 +1,7 @@
 ---
 name: Thinking Machines Lab
 legal_name: Thinking Machines Lab, PBC
-founded: 2025-02
+founded: '2025'
 headquarters: San Francisco, CA
 headcount: ~30+ (as of mid-2025)
 website: https://thinkingmachines.ai

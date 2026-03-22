@@ -2,7 +2,7 @@
 company: Sierra Technologies, Inc.
 brand_name: Sierra AI
 website: https://sierra.ai
-founded: May 2023
+founded: 'May '
 headquarters: San Francisco, CA
 founders:
 - name: Bret Taylor

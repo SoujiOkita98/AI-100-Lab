@@ -1,7 +1,7 @@
 ---
 name: Waymo
 legal_name: Waymo LLC
-founded: 2009 (as Google Self-Driving Car Project); 2016 (spun out as Waymo)
+founded: '2009'
 headquarters: Mountain View, CA
 parent_company: Alphabet Inc.
 website: https://waymo.com

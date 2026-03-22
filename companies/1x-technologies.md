@@ -1,7 +1,7 @@
 ---
 name: 1X Technologies
 former_name: Halodi Robotics
-founded: 2014-05
+founded: '2014'
 incorporated_country: Norway
 hq: Palo Alto, California, USA
 other_offices:

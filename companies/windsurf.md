@@ -3,7 +3,7 @@ name: Windsurf
 former_names:
 - Exafunction
 - Codeium
-founded: 2021-06
+founded: '2021'
 headquarters: Mountain View, CA
 status: Acquired by Cognition (July 2025); key founders acqui-hired by Google DeepMind
 founders:

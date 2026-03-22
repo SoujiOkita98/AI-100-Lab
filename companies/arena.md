@@ -5,7 +5,7 @@ former_names:
 - LMArena
 - LMSYS Chatbot Arena
 domain: AI Model Evaluation
-founded: 2023 (as research project); 2025 (as company)
+founded: '2023'
 incorporated: 2025
 headquarters: San Francisco Bay Area, CA (originated from UC Berkeley)
 website: https://arena.ai

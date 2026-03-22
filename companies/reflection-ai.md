@@ -1,7 +1,7 @@
 ---
 name: Reflection AI
 legal_name: Reflection AI, Inc.
-founded: 2024-03
+founded: '2024'
 headquarters: San Francisco, CA (unconfirmed — likely Bay Area)
 headcount: Unknown
 website: https://reflection.ai

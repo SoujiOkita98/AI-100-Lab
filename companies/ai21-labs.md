@@ -1,7 +1,7 @@
 ---
 name: AI21 Labs
 slug: ai21-labs
-founded: 2017-11
+founded: '2017'
 headquarters: Tel Aviv, Israel
 us_operations: New York, NY
 website: https://www.ai21.com

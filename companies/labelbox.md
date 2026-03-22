@@ -1,7 +1,7 @@
 ---
 company: Labelbox
 legal_name: Labelbox, Inc.
-founded: 2018-03
+founded: '2018'
 headquarters: San Francisco, CA (510 Treat Ave, San Francisco, CA 94110)
 sector: AI Infrastructure / Data Labeling & Training
 website: https://labelbox.com

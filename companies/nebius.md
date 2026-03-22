@@ -4,7 +4,7 @@ ticker: NBIS
 exchange: NASDAQ
 slug: nebius
 sector: AI / GPU Cloud Infrastructure
-founded: 2022 (restructured from Yandex N.V.; rebranded August 2024)
+founded: '2022'
 headquarters: Amsterdam, Netherlands
 website: https://nebius.com
 status: Public (NASDAQ, resumed trading October 2024)

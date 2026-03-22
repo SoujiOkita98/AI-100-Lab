@@ -8,7 +8,7 @@ hq_country: Germany
 additional_offices:
 - London, UK
 - New York, NY, USA (unconfirmed -- likely US presence given IPO plans)
-founded: 2017-08
+founded: '2017'
 incorporated_country: Germany
 sector: Artificial Intelligence
 sub_sector: Machine Translation / Language AI

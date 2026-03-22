@@ -1,7 +1,7 @@
 ---
 company: Rhoda AI
 website: https://www.rhoda.ai
-founded: ~2024 (operated in stealth for ~18 months before March 2026 launch)
+founded: ~202
 headquarters: Menlo Park, CA (unconfirmed; inferred from Stanford ties and investor base)
 sector: AI / Robotics / Physical AI
 stage: Series A

@@ -1,7 +1,7 @@
 ---
 name: Galbot (Galaxy General Robotics)
 legal_entity: Galaxy General Robotics (Beijing) Co., Ltd. (银河通用机器人(北京)有限公司)
-founded: 2023-05
+founded: '2023'
 headquarters: Beijing, China
 founder_ceo: He Wang (Peking University Professor)
 sector: Humanoid Robotics / Embodied AI

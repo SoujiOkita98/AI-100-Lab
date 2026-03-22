@@ -1,7 +1,7 @@
 ---
 name: Perplexity AI
 legal_name: Perplexity AI, Inc.
-founded: 2022-08
+founded: '2022'
 incorporated: Delaware, USA
 headquarters: 115 Sansome Street, Suite 900, San Francisco, CA
 website: https://www.perplexity.ai

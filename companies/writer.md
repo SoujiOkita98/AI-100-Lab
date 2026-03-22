@@ -2,7 +2,7 @@
 company: Writer
 legal_name: Writer, Inc.
 formerly: Qordoba
-founded: 2020 (rebranded from Qordoba; Qordoba founded ~2015)
+founded: '2020'
 headquarters: San Francisco, CA
 website: https://writer.com
 sector: Enterprise AI / Generative AI

@@ -3,7 +3,7 @@ company: Udio
 legal_entity: Uncharted Labs, Inc.
 domain: udio.com
 sector: AI Music Generation
-founded: December 2023
+founded: Dece
 headquarters: New York, NY, USA
 stage: Seed (transitioning to licensed platform model in 2026)
 total_funding_disclosed: ~$10M seed (some sources cite an earlier $8.5M tranche within the same round)

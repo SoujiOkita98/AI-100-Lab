@@ -1,7 +1,7 @@
 ---
 name: Character.AI
 legal_name: Character Technologies, Inc.
-founded: November 2021
+founded: Nove
 headquarters: Menlo Park, California
 website: https://character.ai
 sector: Consumer AI / Conversational AI

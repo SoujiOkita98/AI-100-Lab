@@ -1,7 +1,7 @@
 ---
 company: LangChain
 legal_name: LangChain, Inc.
-founded: January 2023 (open-source project launched October 2022)
+founded: Janu
 headquarters: San Francisco, CA
 website: https://www.langchain.com
 sector: AI Infrastructure / Developer Tools

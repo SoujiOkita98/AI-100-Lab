@@ -3,7 +3,7 @@ name: Sunrise
 legal_name: Sunrise (昇腾 / SenseTime semiconductor spinoff)
 website: Not publicly confirmed
 sector: AI Chips / GPU Development
-founded: Late 2024 (spun off from SenseTime)
+founded: Late
 headquarters: China (likely Shanghai/Shenzhen, aligned with SenseTime)
 founders:
 - name: Xu Bing (徐冰)

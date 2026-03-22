@@ -1,7 +1,7 @@
 ---
 company: MatX
 legal_name: MatX Inc.
-founded: 2022 (incorporated; publicly launched 2024)
+founded: '2022'
 headquarters: San Francisco Bay Area, California, USA
 sector: AI Hardware / Semiconductors (LLM Training)
 stage: Growth (Series B)

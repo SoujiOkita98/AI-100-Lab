@@ -2,7 +2,7 @@
 company_name: Safe Superintelligence Inc.
 ticker: SSI (private)
 website: https://ssi.inc
-founded: June 2024
+founded: June
 headquarters: Palo Alto, California
 additional_offices:
 - Tel Aviv, Israel

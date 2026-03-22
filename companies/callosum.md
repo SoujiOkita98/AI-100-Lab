@@ -2,7 +2,7 @@
 name: Callosum
 slug: callosum
 sector: AI / Compute Orchestration / Multi-chip Infrastructure
-founded: 2024 (approximate; came out of stealth February 2026)
+founded: '2024'
 headquarters: London, United Kingdom
 website: https://callosum.ai
 status: Private

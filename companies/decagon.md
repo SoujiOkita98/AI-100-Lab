@@ -2,7 +2,7 @@
 company: Decagon AI, Inc.
 brand_name: Decagon
 website: https://decagon.ai
-founded: August 2023
+founded: Augu
 headquarters: San Francisco, CA
 founders:
 - name: Jesse Zhang

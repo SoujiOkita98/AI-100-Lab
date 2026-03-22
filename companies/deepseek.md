@@ -1,7 +1,7 @@
 ---
 name: DeepSeek
 legal_entity: DeepSeek (Hangzhou DeepSeek Artificial Intelligence Co., Ltd.)
-founded: 2023-07
+founded: '2023'
 headquarters: Hangzhou, Zhejiang, China
 additional_offices:
 - Beijing (100+ engineers)

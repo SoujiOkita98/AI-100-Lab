@@ -2,7 +2,7 @@
 name: Aaru
 legal_name: Aaru (exact legal entity name unconfirmed)
 domain: aaru.com
-founded: March 2024
+founded: Marc
 hq: New York, NY
 sector: AI / Synthetic Research / Market Research
 stage: Series A

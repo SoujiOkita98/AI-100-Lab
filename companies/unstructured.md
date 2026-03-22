@@ -1,7 +1,7 @@
 ---
 company: Unstructured (Unstructured Technologies, Inc.)
 website: https://unstructured.io
-founded: July 2022
+founded: July
 headquarters: Rocklin, California (Sacramento metro area)
 sector: AI Infrastructure / Data ETL & Preprocessing
 stage: Series B

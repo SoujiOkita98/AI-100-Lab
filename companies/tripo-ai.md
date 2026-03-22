@@ -3,7 +3,7 @@ name: Tripo AI
 legal_name: VAST (Beijing) Technology Co., Ltd.
 website: https://www.tripo3d.ai
 sector: AI 3D Generation / Generative AI
-founded: March 2023
+founded: Marc
 headquarters: Beijing, China (with global user base, 90% outside China)
 founders:
 - name: Simon Song
