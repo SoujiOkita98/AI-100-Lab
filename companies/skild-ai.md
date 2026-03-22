@@ -144,6 +144,7 @@ confidence_notes: Funding amounts and lead investors are well-sourced from offic
   Seed round details are less well-documented than later rounds. Team size estimates (~50-60) come from third-party databases
   and may be approximate. Founder backgrounds are cross-referenced across CMU faculty pages, Google Scholar, and press coverage.
 website_verified: true
+twitter: '@SkildAI'
 ---
 
 # Skild AI

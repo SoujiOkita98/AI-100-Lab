@@ -15,6 +15,7 @@ research_date: 2026-03-20
 confidence: medium-high
 one_liner: Lambda is a GPU cloud infrastructure company providing scalable compute for large-scale AI training and inference
 website_verified: true
+twitter: '@LambdaAPI'
 ---
 
 # Lambda

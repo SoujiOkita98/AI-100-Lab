@@ -58,6 +58,7 @@ one_liner: Windsurf was an AI-powered code editor and developer tools company th
   in four months after launching its IDE in November 2024
 website: https://windsurf.com
 website_verified: true
+twitter: '@codeiumdev'
 ---
 
 # Windsurf (formerly Codeium / Exafunction)

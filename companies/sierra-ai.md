@@ -53,6 +53,7 @@ funding_rounds:
   source: https://techcrunch.com/2025/09/04/bret-taylors-sierra-raises-350m-at-a-10b-valuation/
 one_liner: Sierra is an enterprise AI company building autonomous AI agents for customer experience
 website_verified: true
+twitter: '@SierraPlatform'
 ---
 
 # Sierra AI

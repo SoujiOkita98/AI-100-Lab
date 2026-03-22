@@ -64,6 +64,7 @@ funding_rounds:
 one_liner: '> Makers of **Devin**, the world''s first autonomous AI software engineer, and acquirers of **Windsurf**, the
   AI-powered IDE'
 website_verified: true
+twitter: '@cognition_labs'
 ---
 
 # Cognition AI

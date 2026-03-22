@@ -54,6 +54,7 @@ funding_rounds:
 one_liner: Pika is an AI video generation startup that enables users to create and edit videos from text prompts, images,
   or existing video clips
 website_verified: true
+twitter: '@pika_labs'
 ---
 
 # Pika

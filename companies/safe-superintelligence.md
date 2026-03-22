@@ -47,6 +47,7 @@ latest_valuation: 32000
 last_updated: 2026-03-21
 confidence: medium
 website_verified: true
+twitter: '@ssi'
 ---
 
 # Safe Superintelligence

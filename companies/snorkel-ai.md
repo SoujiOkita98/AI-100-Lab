@@ -55,6 +55,7 @@ one_liner: Snorkel AI is a data-centric AI platform company that helps enterpris
 data_notes: 'Needs verification: website, founders. Profile may be incomplete.'
 website: https://snorkel.ai
 website_verified: true
+twitter: '@SnorkelAI'
 ---
 
 # Snorkel AI

@@ -82,6 +82,7 @@ one_liner: '> The first CFTC-regulated prediction market in the U.S., now valued
   transactions per week'
 website_verified: false
 data_notes: 'Website URL may be invalid (HTTP 429). '
+twitter: '@Kalshi'
 ---
 
 # Kalshi

@@ -59,6 +59,7 @@ funding_rounds:
   source: https://www.crusoe.ai/resources/newsroom/crusoe-announces-series-e-funding
 one_liner: Crusoe is an AI infrastructure company that designs, builds, and operates data centers purpose-built for AI workloads
 website_verified: true
+twitter: '@CrusoeAI'
 ---
 
 # Crusoe

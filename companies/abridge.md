@@ -81,6 +81,7 @@ one_liner: AI-powered ambient clinical documentation platform that listens to do
   generates structured medical notes, now expanding into revenue cycle intelligence
 website: https://abridge.com
 website_verified: true
+twitter: '@AbridgeHQ'
 ---
 
 # Abridge

@@ -86,6 +86,7 @@ funding_rounds:
   source: https://theaiinsider.tech/2026/03/16/replit-raises-400m-to-expand-ai-coding-platform-at-9b-valuation/
 updated: 2026-03-20
 website_verified: true
+twitter: '@Replit'
 ---
 
 # Replit

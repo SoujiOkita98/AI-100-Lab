@@ -71,6 +71,7 @@ funding_rounds:
 one_liner: Mercor is an AI infrastructure company that connects frontier AI labs with domain experts for model post-training
 website: https://mercor.com
 website_verified: true
+twitter: '@mercor_ai'
 ---
 
 # Mercor

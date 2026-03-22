@@ -66,6 +66,7 @@ funding_rounds:
 one_liner: Apptronik is an Austin, Texas-based humanoid robotics company building Apollo, a general-purpose humanoid robot
   designed for industrial logistics and manufacturing
 website_verified: true
+twitter: '@Apptronik'
 ---
 
 # Apptronik

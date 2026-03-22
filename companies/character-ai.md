@@ -37,6 +37,7 @@ funding_rounds:
 one_liner: Character.AI is a generative AI chatbot platform that allows users to create and converse with customizable AI
   characters
 website_verified: true
+twitter: '@character_ai'
 ---
 
 # Character.AI

@@ -57,6 +57,7 @@ funding_rounds:
 one_liner: '> Public benefit corporation building customizable frontier AI models, founded by former OpenAI CTO **Mira Murati**
   and five former OpenAI researchers'
 website_verified: true
+twitter: '@thinkymachines'
 ---
 
 # Thinking Machines Lab

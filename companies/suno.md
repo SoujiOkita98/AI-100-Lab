@@ -32,6 +32,7 @@ funding_rounds:
 one_liner: Suno is the leading AI music generation platform, enabling anyone to create full songs — vocals, instruments, and
   lyrics — from text prompts
 website_verified: true
+twitter: '@suno_ai_'
 ---
 
 # Suno — AI Music Generation

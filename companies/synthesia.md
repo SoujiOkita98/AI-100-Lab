@@ -79,6 +79,7 @@ funding_rounds:
   source: https://techcrunch.com/2026/01/26/synthesia-hits-4b-valuation-lets-employees-cash-in/
 one_liner: Synthesia is a London-based AI video generation platform that converts text scripts into professional videos featuring
   photorealistic AI avatars
+twitter: '@synthesiaIO'
 ---
 
 # Synthesia

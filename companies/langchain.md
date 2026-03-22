@@ -35,6 +35,7 @@ funding_rounds:
 one_liner: LangChain is the leading open-source framework and commercial platform for building applications powered by large
   language models (LLMs)
 website_verified: true
+twitter: '@LangChainAI'
 ---
 
 # LangChain

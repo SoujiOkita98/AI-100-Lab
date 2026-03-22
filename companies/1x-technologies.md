@@ -92,6 +92,7 @@ total_known_funding: ~$126M (confirmed); potentially >$1B if Series C closed
 one_liner: 1X Technologies (formerly Halodi Robotics) is a Norwegian-American humanoid robotics company building general-purpose
   androids for home and enterprise use
 website_verified: true
+twitter: '@1x_tech'
 ---
 
 # 1X Technologies

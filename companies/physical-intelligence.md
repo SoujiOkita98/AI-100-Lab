@@ -144,6 +144,7 @@ confidence_notes: Funding amounts and lead investors are well-sourced from multi
   origins are inferred. Revenue/business model details are sparse and partially speculative -- the $300/robot/month pricing
   is from a single source and unconfirmed. Model technical details are sourced from the company's own blog and model cards.
 website_verified: true
+twitter: '@physical_int'
 ---
 
 # Physical Intelligence

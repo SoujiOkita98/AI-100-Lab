@@ -57,6 +57,7 @@ funding_rounds:
 one_liner: '> Former DeepMind researchers building autonomous coding agents and open-weight frontier models, positioning as
   America''s open-source alternative to DeepSeek'
 website_verified: true
+twitter: '@reflection_ai'
 ---
 
 # Reflection AI

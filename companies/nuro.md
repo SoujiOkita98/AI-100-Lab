@@ -83,6 +83,7 @@ funding_rounds:
   - Baillie Gifford
   source: https://news.crunchbase.com/ai/av-startup-nuro-gains-nvda-investor/
 website_verified: true
+twitter: '@nuro'
 ---
 
 # Nuro
