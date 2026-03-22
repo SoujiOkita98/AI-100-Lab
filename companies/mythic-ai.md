@@ -15,6 +15,7 @@ data_notes: 'Needs verification: website, founders, source_urls, headquarters. P
 website: https://mythic.ai
 website_verified: true
 headquarters: Austin, TX
+linkedin: https://www.linkedin.com/company/mythic-ai
 ---
 
 # Mythic

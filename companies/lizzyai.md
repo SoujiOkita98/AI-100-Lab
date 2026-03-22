@@ -19,6 +19,7 @@ data_notes: 'Needs verification: website, founders, source_urls, headquarters. P
 website: https://lizzyai.com
 website_verified: true
 headquarters: New York, NY
+linkedin: https://www.linkedin.com/company/lizzy-ai
 ---
 
 # LizzyAI

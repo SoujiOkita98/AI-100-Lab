@@ -28,6 +28,7 @@ data_notes: 'Needs verification: website, source_urls, headquarters. Profile may
 website: https://jetstream.security
 website_verified: true
 headquarters: Santa Clara, CA
+linkedin: https://www.linkedin.com/company/jetstreaminc
 ---
 
 # JetStream Security

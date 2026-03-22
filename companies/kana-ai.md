@@ -27,6 +27,7 @@ data_notes: 'Needs verification: website, source_urls, headquarters. Profile may
 website: https://www.kana.ai
 website_verified: true
 headquarters: San Francisco, CA
+linkedin: https://www.linkedin.com/company/kana-intelligence
 ---
 
 # Kana

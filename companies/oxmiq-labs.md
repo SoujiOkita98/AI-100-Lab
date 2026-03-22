@@ -22,6 +22,7 @@ data_notes: 'Needs verification: website, source_urls, headquarters. Profile may
 website: https://oxmiq.ai
 website_verified: true
 headquarters: Campbell, CA
+linkedin: https://www.linkedin.com/company/oxmiq-labs
 ---
 
 # Oxmiq Labs

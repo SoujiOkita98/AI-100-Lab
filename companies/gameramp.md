@@ -16,6 +16,7 @@ data_notes: 'Needs verification: website, founders, source_urls, headquarters. P
 website: https://www.gameramp.com
 website_verified: true
 headquarters: San Francisco, CA
+linkedin: https://www.linkedin.com/company/gameramp
 ---
 
 # GameRamp

@@ -81,6 +81,7 @@ last_updated: 2026-03-20
 one_liner: DeepL is a German AI company specializing in machine translation and language AI tools, headquartered in Cologne,
   Germany
 data_notes: 'Needs verification: website, headquarters. Profile may be incomplete.'
+linkedin: https://www.linkedin.com/company/deepl
 ---
 
 # DeepL
