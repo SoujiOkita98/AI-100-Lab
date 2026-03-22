@@ -4010,6 +4010,51 @@
     "top_investors": []
   },
   {
+    "slug": "bretton-ai",
+    "name": "Bretton AI",
+    "status": "active",
+    "founded_year": "2022",
+    "hq": "San Francisco, CA",
+    "website": "https://bretton.com",
+    "sector": "AI FinCrime / Compliance",
+    "one_liner": "AI agents for financial crime compliance \u2014 AML, KYC, sanctions investigation. Robinhood, Mercury, Gusto as clients. YC-backed.",
+    "total_raised_m": 90.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [],
+    "funding_rounds": [
+      {
+        "company_slug": "bretton-ai",
+        "stage": "Series A",
+        "date": "2025-05",
+        "amount_m": 15.0,
+        "valuation_m": null,
+        "lead_investors": "",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
+      },
+      {
+        "company_slug": "bretton-ai",
+        "stage": "Series B",
+        "date": "2026-02",
+        "amount_m": 75.0,
+        "valuation_m": null,
+        "lead_investors": "Sapphire Ventures",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
     "slug": "bricklayer-ai",
     "name": "Bricklayer AI",
     "status": "active",
@@ -7444,6 +7489,40 @@
     "top_investors": []
   },
   {
+    "slug": "edra",
+    "name": "Edra",
+    "status": "active",
+    "founded_year": "2024",
+    "hq": "New York, NY",
+    "website": "https://edra.ai",
+    "sector": "AI Enterprise / Ops Agents",
+    "one_liner": "AI agents for enterprise IT and customer support built on existing operational data. Ex-Palantir founders.",
+    "total_raised_m": 36.5,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [],
+    "funding_rounds": [
+      {
+        "company_slug": "edra",
+        "stage": "Series A",
+        "date": "2026-03",
+        "amount_m": 30.0,
+        "valuation_m": null,
+        "lead_investors": "Sequoia; 8VC; A*",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
     "slug": "elevenlabs",
     "name": "ElevenLabs",
     "status": "unknown",
@@ -7639,6 +7718,49 @@
         "lead_investors": "Andreessen Horowitz",
         "other_investors": "",
         "source": "https://eliseai.com/blog/eliseai-raises-250m-series-e",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
+    "slug": "ema",
+    "name": "Ema",
+    "status": "active",
+    "founded_year": "2023",
+    "hq": "San Francisco, CA",
+    "website": "https://ema.co",
+    "sector": "AI Enterprise / Universal AI Employee",
+    "one_liner": "Universal AI Employee platform \u2014 always-available agents for customer service, HR, IT, back-office. Founded by ex-Coinbase CPO.",
+    "total_raised_m": 110.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [
+      {
+        "company_slug": "ema",
+        "name": "Surojit Chatterjee",
+        "role": "CEO",
+        "background": "Ex-Coinbase CPO, ex-Google VP",
+        "origin": "",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "ema",
+        "stage": "Series A",
+        "date": "2024",
+        "amount_m": 36.0,
+        "valuation_m": null,
+        "lead_investors": "Accel; Section 32",
+        "other_investors": "",
+        "source": "",
         "notes": ""
       }
     ],
@@ -13465,6 +13587,62 @@
     "top_investors": []
   },
   {
+    "slug": "legora",
+    "name": "Legora",
+    "status": "active",
+    "founded_year": "2021",
+    "hq": "Stockholm, Sweden",
+    "website": "https://legora.com",
+    "sector": "AI Legal / Law Platform",
+    "one_liner": "AI platform for lawyers \u2014 document drafting, review, research across 40+ markets. $5.55B valuation.",
+    "total_raised_m": 780.0,
+    "latest_valuation_m": 5550.0,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [],
+    "funding_rounds": [
+      {
+        "company_slug": "legora",
+        "stage": "Series B",
+        "date": "2025-05",
+        "amount_m": 80.0,
+        "valuation_m": null,
+        "lead_investors": "ICONIQ; General Catalyst",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
+      },
+      {
+        "company_slug": "legora",
+        "stage": "Series C",
+        "date": "2025-10",
+        "amount_m": 150.0,
+        "valuation_m": 1800.0,
+        "lead_investors": "Bessemer",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
+      },
+      {
+        "company_slug": "legora",
+        "stage": "Series D",
+        "date": "2026-03",
+        "amount_m": 550.0,
+        "valuation_m": 5550.0,
+        "lead_investors": "Accel",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
     "slug": "leo-ai",
     "name": "Leo AI",
     "status": "active",
@@ -13907,6 +14085,40 @@
         "lead_investors": "Flybridge; a16z speedrun",
         "other_investors": "",
         "source": "https://alleywatch.com/2026/01/limy-agentic-web-infrastructure/",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
+    "slug": "lio",
+    "name": "Lio",
+    "status": "active",
+    "founded_year": "2024",
+    "hq": "Munich, Germany",
+    "website": "https://lio.ai",
+    "sector": "AI Procurement / Multi-Agent",
+    "one_liner": "Multi-agent AI for enterprise procurement \u2014 reads contracts, validates suppliers, negotiates, files records.",
+    "total_raised_m": 33.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [],
+    "funding_rounds": [
+      {
+        "company_slug": "lio",
+        "stage": "Series A",
+        "date": "2026-03",
+        "amount_m": 30.0,
+        "valuation_m": null,
+        "lead_investors": "Andreessen Horowitz",
+        "other_investors": "",
+        "source": "",
         "notes": ""
       }
     ],
@@ -18634,6 +18846,49 @@
     "top_investors": []
   },
   {
+    "slug": "paradigm-ai",
+    "name": "Paradigm (AI Spreadsheet)",
+    "status": "active",
+    "founded_year": "2024",
+    "hq": "San Francisco, CA",
+    "website": null,
+    "sector": "AI Productivity / Spreadsheets",
+    "one_liner": "AI spreadsheet with an agent in every cell \u2014 5000+ agents pull from web/APIs for research and enrichment. Founded by 23-year-old.",
+    "total_raised_m": 7.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [
+      {
+        "company_slug": "paradigm-ai",
+        "name": "Anna Monaco",
+        "role": "CEO",
+        "background": "23-year-old founder",
+        "origin": "",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "paradigm-ai",
+        "stage": "Seed",
+        "date": "2025-08",
+        "amount_m": 5.0,
+        "valuation_m": null,
+        "lead_investors": "General Catalyst",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
     "slug": "parallel-web",
     "name": "Parallel Web Systems",
     "status": "active",
@@ -18671,6 +18926,51 @@
         "lead_investors": "Kleiner Perkins; Index Ventures",
         "other_investors": "",
         "source": "https://technologymagazine.com/news/inside-ex-twitter-ceos-us-100m-funding-for-ai-startup",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
+    "slug": "parloa",
+    "name": "Parloa",
+    "status": "active",
+    "founded_year": "2018",
+    "hq": "Berlin, Germany",
+    "website": "https://parloa.com",
+    "sector": "AI Contact Center / Voice",
+    "one_liner": "AI Agent Management Platform for enterprise contact centers \u2014 agentic voice and chat. $3B valuation.",
+    "total_raised_m": 536.0,
+    "latest_valuation_m": 3000.0,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [],
+    "funding_rounds": [
+      {
+        "company_slug": "parloa",
+        "stage": "Series C",
+        "date": "2025-05",
+        "amount_m": 120.0,
+        "valuation_m": 1000.0,
+        "lead_investors": "Durable Capital; Altimeter; General Catalyst",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
+      },
+      {
+        "company_slug": "parloa",
+        "stage": "Series D",
+        "date": "2026",
+        "amount_m": 350.0,
+        "valuation_m": 3000.0,
+        "lead_investors": "Lightspeed",
+        "other_investors": "",
+        "source": "",
         "notes": ""
       }
     ],
@@ -21418,6 +21718,68 @@
       "Workday Ventures",
       "Export Development Canada"
     ]
+  },
+  {
+    "slug": "sandbar",
+    "name": "Sandbar",
+    "status": "active",
+    "founded_year": "2023",
+    "hq": "San Francisco, CA",
+    "website": "https://sandbar.com",
+    "sector": "AI Wearables / Smart Ring",
+    "one_liner": "Smart ring for cognitive assistance \u2014 voice notes, AI assistant integration, media control. Ex-Meta founders.",
+    "total_raised_m": 36.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [
+      {
+        "company_slug": "sandbar",
+        "name": "Mina Fahmi",
+        "role": "CEO",
+        "background": "Ex-Meta engineer",
+        "origin": "",
+        "prior": ""
+      },
+      {
+        "company_slug": "sandbar",
+        "name": "Kirak Hong",
+        "role": "Co-founder",
+        "background": "Ex-Meta engineer",
+        "origin": "",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "sandbar",
+        "stage": "Seed",
+        "date": "2024",
+        "amount_m": 13.0,
+        "valuation_m": null,
+        "lead_investors": "True Ventures",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
+      },
+      {
+        "company_slug": "sandbar",
+        "stage": "Series A",
+        "date": "2025",
+        "amount_m": 23.0,
+        "valuation_m": null,
+        "lead_investors": "Adjacent; Kindred Ventures",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
   },
   {
     "slug": "sandboxaq",
@@ -24436,6 +24798,40 @@
         "lead_investors": "GV",
         "other_investors": "",
         "source": "https://techcrunch.com/2026/01/26/synthesia-hits-4b-valuation-lets-employees-cash-in/",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
+    "slug": "synthflow",
+    "name": "Synthflow",
+    "status": "active",
+    "founded_year": "2023",
+    "hq": "Berlin, Germany",
+    "website": "https://synthflow.ai",
+    "sector": "AI Voice / No-Code Agents",
+    "one_liner": "No-code platform for deploying voice AI agents \u2014 45M calls handled, 1000+ customers. G2 Grid Leader.",
+    "total_raised_m": 30.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [],
+    "funding_rounds": [
+      {
+        "company_slug": "synthflow",
+        "stage": "Series A",
+        "date": "2025-06",
+        "amount_m": 20.0,
+        "valuation_m": null,
+        "lead_investors": "Accel",
+        "other_investors": "",
+        "source": "",
         "notes": ""
       }
     ],
