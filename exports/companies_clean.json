@@ -611,6 +611,40 @@
     "top_investors": []
   },
   {
+    "slug": "actively-ai",
+    "name": "Actively AI",
+    "status": "active",
+    "founded_year": "2024",
+    "hq": "San Francisco, CA",
+    "website": "https://actively.ai",
+    "sector": "AI Sales Intelligence",
+    "one_liner": "AI sales superintelligence for B2B \u2014 next-gen beyond first-generation AI SDR tools.",
+    "total_raised_m": 22.5,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [],
+    "funding_rounds": [
+      {
+        "company_slug": "actively-ai",
+        "stage": "Seed",
+        "date": "2025-04",
+        "amount_m": 22.5,
+        "valuation_m": null,
+        "lead_investors": "Bain Capital Ventures",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
     "slug": "adaptive-ml",
     "name": "Adaptive ML",
     "status": "active",
@@ -11192,6 +11226,40 @@
     ]
   },
   {
+    "slug": "harmattan-ai",
+    "name": "Harmattan AI",
+    "status": "active",
+    "founded_year": "2024",
+    "hq": "Paris, France",
+    "website": "https://harmattan.ai",
+    "sector": "AI Defense / Autonomous Systems",
+    "one_liner": "Vertically integrated autonomous defense systems. Became unicorn at .4B. Backed by Dassault Aviation (Rafale maker).",
+    "total_raised_m": 200.0,
+    "latest_valuation_m": 1400.0,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [],
+    "funding_rounds": [
+      {
+        "company_slug": "harmattan-ai",
+        "stage": "Series B",
+        "date": "2026-01",
+        "amount_m": 200.0,
+        "valuation_m": 1400.0,
+        "lead_investors": "Dassault Aviation; FirstMark",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
     "slug": "harness",
     "name": "Harness",
     "status": "Private (Series E)",
@@ -12735,6 +12803,40 @@
     "top_investors": []
   },
   {
+    "slug": "ivo",
+    "name": "Ivo",
+    "status": "active",
+    "founded_year": "2020",
+    "hq": "San Francisco, CA",
+    "website": "https://ivo.ai",
+    "sector": "AI Legal / Contract Intelligence",
+    "one_liner": "AI contract intelligence \u2014 automates review and converts agreements into structured searchable data.",
+    "total_raised_m": 77.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [],
+    "funding_rounds": [
+      {
+        "company_slug": "ivo",
+        "stage": "Series B",
+        "date": "2025",
+        "amount_m": 55.0,
+        "valuation_m": null,
+        "lead_investors": "Blackbird",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
     "slug": "jasper",
     "name": "Jasper",
     "status": "Active, pivoted to enterprise AI-agent marketing platform",
@@ -12814,6 +12916,40 @@
         "lead_investors": "Redpoint Ventures; CrowdStrike Falcon Fund",
         "other_investors": "",
         "source": "https://fortune.com/2026/03/03/ai-governance-crowdstrike-sentinelone-veterans-raise-34m/",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
+    "slug": "jozu",
+    "name": "Jozu",
+    "status": "active",
+    "founded_year": "2024",
+    "hq": "New York, NY",
+    "website": "https://jozu.com",
+    "sector": "AI Infrastructure / Model Orchestration",
+    "one_liner": "Enterprise AI model and agent orchestration tools \u2014 simplifies deploying and managing AI pipelines at scale.",
+    "total_raised_m": 4.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [],
+    "funding_rounds": [
+      {
+        "company_slug": "jozu",
+        "stage": "Seed",
+        "date": "2025-05",
+        "amount_m": 4.0,
+        "valuation_m": null,
+        "lead_investors": "HalfCourt Capital; Mozilla Ventures",
+        "other_investors": "",
+        "source": "",
         "notes": ""
       }
     ],
@@ -19614,6 +19750,40 @@
         "amount_m": 6.0,
         "valuation_m": null,
         "lead_investors": "Khosla Ventures; Paul Graham; Y Combinator",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
+    "slug": "phonic",
+    "name": "Phonic",
+    "status": "active",
+    "founded_year": "2024",
+    "hq": null,
+    "website": "https://phonic.ai",
+    "sector": "AI Voice / Healthcare",
+    "one_liner": "Voice AI agent platform for healthcare and insurance \u2014 speech-to-speech at ~300ms latency. MIT founders.",
+    "total_raised_m": 4.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [],
+    "funding_rounds": [
+      {
+        "company_slug": "phonic",
+        "stage": "Seed",
+        "date": "2025",
+        "amount_m": 4.0,
+        "valuation_m": null,
+        "lead_investors": "",
         "other_investors": "",
         "source": "",
         "notes": ""
@@ -28233,6 +28403,40 @@
     ]
   },
   {
+    "slug": "wisdomai",
+    "name": "WisdomAI",
+    "status": "active",
+    "founded_year": "2024",
+    "hq": "San Mateo, CA",
+    "website": "https://www.wisdom.ai",
+    "sector": "AI Data Analytics",
+    "one_liner": "AI-native business analytics answering questions from structured and unstructured data. Founded by Rubrik co-founder.",
+    "total_raised_m": 73.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [],
+    "funding_rounds": [
+      {
+        "company_slug": "wisdomai",
+        "stage": "Series A",
+        "date": "2025-11",
+        "amount_m": 50.0,
+        "valuation_m": null,
+        "lead_investors": "Kleiner Perkins; Nvidia NVentures",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
     "slug": "wispr-ai",
     "name": "Wispr AI",
     "status": "active",
@@ -28922,6 +29126,49 @@
         "amount_m": 100.0,
         "valuation_m": null,
         "lead_investors": "",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
+    "slug": "yutori",
+    "name": "Yutori",
+    "status": "active",
+    "founded_year": "2024",
+    "hq": "San Francisco, CA",
+    "website": "https://yutori.com",
+    "sector": "AI Consumer / Personal Assistant",
+    "one_liner": "Consumer AI chief-of-staff \u2014 monitors web and executes tasks on behalf of users. Founded by Meta veterans.",
+    "total_raised_m": 15.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [
+      {
+        "company_slug": "yutori",
+        "name": "Yutori team",
+        "role": "Founders",
+        "background": "Former Meta",
+        "origin": "",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "yutori",
+        "stage": "Seed",
+        "date": "2025-03",
+        "amount_m": 15.0,
+        "valuation_m": null,
+        "lead_investors": "Radical Ventures; Felicis; Elad Gil; Fei-Fei Li; Jeff Dean",
         "other_investors": "",
         "source": "",
         "notes": ""

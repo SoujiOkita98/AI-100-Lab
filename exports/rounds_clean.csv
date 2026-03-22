@@ -23,6 +23,7 @@ abridge,Series C,2024-02,150.0,,Lightspeed Venture Partners; Redpoint Ventures,,
 abridge,Series D,2025-02,250.0,2750.0,Elad Gil; IVP,,https://fortune.com/2025/02/17/exclusive-abridge-raises-250-million-series-d-led-by-elad-gil-and-ivp/,
 abridge,Series E,2025-06,300.0,5300.0,Andreessen Horowitz; Khosla Ventures,,https://techcrunch.com/2025/06/24/in-just-4-months-ai-medical-scribe-abridge-doubles-valuation-to-5-3b/,
 act-security,Seed,2025,20.0,,Team8; Bessemer Venture Partners,,https://www.calcalistech.com/ctechnews/article/b16iahzeze,
+actively-ai,Seed,2025-04,22.5,,Bain Capital Ventures,,,
 adaptive-ml,Seed,2024-03,20.0,,Index Ventures; ICONIQ Capital,,,
 adept-ai,Series A,2022-04,65.0,,Addition; Greylock,,https://www.crunchbase.com/funding_round/adept-48e7-series-a--03865118,
 adept-ai,Series B,2023-03,350.0,1000.0,General Catalyst; Spark Capital,,https://techcrunch.com/2023/03/15/adept-a-startup-training-ai-to-use-existing-software-and-apis-raises-350m/,Acquired by Amazon June 2024.
@@ -388,6 +389,7 @@ groq,Series E,2025-09,750.0,6900.0,Disruptive,,https://groq.com/newsroom/groq-ra
 groq,Saudi Arabia / HUMAIN commitment,2025-02,1500.0,,Kingdom of Saudi Arabia (PIF / HUMAIN),,https://groq.com/blog/saudi-arabia-announces-1-5-billion-expansion-to-fuel-ai-powered-economy-with-groq,"Infrastructure deployment commitment, not equity round. For LPU-based inference infrastructure in Dammam data center. Groq became key tech provider for HUMAIN, Saudi's state-owned AI entity."
 groq,Nvidia licensing / acqui-hire,2025-12,20000.0,,Nvidia,,https://www.cnbc.com/2025/12/24/nvidia-buying-ai-chip-startup-groq-for-about-20-billion-biggest-deal.html,"Structured as non-exclusive licensing agreement + acqui-hire, not a traditional acquisition. $17B in cash across three installments by end of 2026. Jonathan Ross and senior leaders joined Nvidia. Groq continues as nominally independent company under CFO Simon Edwards as CEO. Nvidia's largest deal ever (previous: Mellanox at ~$7B in 2019)."
 h-company,Seed,2024-05,220.0,,Eric Schmidt; Amazon,,https://techcrunch.com/2024/11/20/h-the-ai-startup-that-raised-220m/,
+harmattan-ai,Series B,2026-01,200.0,1400.0,Dassault Aviation; FirstMark,,,
 harness,Series A,2017-10,20.0,,BIG Labs; Menlo Ventures,,https://tracxn.com/d/companies/harness/,
 harness,Series B,2019-04,60.0,,Google Ventures; IVP,,https://tracxn.com/d/companies/harness/,
 harness,Series C,2021-01,85.0,1600.0,Alkeon Capital,,https://www.crunchbase.com/funding_round/harness-512d-series-c--10e8b860,
@@ -441,8 +443,10 @@ innovaccer,Series D,2021-02,105.0,1000.0,Tiger Global,,https://www.fiercehealthc
 innovaccer,Series E,2021-12,150.0,3200.0,Mubadala Capital; Schonfeld Strategic Advisors,,https://www.mobihealthnews.com/news/innovaccer-scores-150m-healthcarecom-closes-180m-round-and-more-digital-health-fundings,
 innovaccer,Series F,2025-01,275.0,3450.0,B Capital Group; Kaiser Permanente,,https://techcrunch.com/2025/01/09/innovaccer-aims-to-become-healthcares-ai-powerhouse-with-275m-series-f/,
 isotopes-ai,Seed,2025-09,20.0,,,,https://theaiinsider.tech/2025/09/09/isotopes-ai-launches-from-stealth/,
+ivo,Series B,2025,55.0,,Blackbird,,,
 jasper,Series A,2022-10,125.0,1500.0,Insight Partners,,https://www.jasper.ai/blog/jasper-announces-125m-series-a-funding,
 jetstream-security,Seed,2026-03,34.0,,Redpoint Ventures; CrowdStrike Falcon Fund,,https://fortune.com/2026/03/03/ai-governance-crowdstrike-sentinelone-veterans-raise-34m/,
+jozu,Seed,2025-05,4.0,,HalfCourt Capital; Mozilla Ventures,,,
 julius-ai,Seed,2025-07,10.0,,Bessemer Venture Partners,,https://techcrunch.com/2025/07/28/ai-data-analyst-startup-julius-nabs-10m-seed-round/,
 jump-ai,Seed,2024-01,4.6,,Sorenson Capital,,https://jump.ai/press/,
 jump-ai,Series A,2025-02,20.0,,Battery Ventures,,https://jump.ai/press/,
@@ -671,6 +675,7 @@ perplexity,Series E,2025-06,500.0,14000.0,Accel,,https://www.cnbc.com/2025/05/12
 perplexity,Series E Extension,2025-07,100.0,18000.0,,,https://www.pymnts.com/artificial-intelligence-2/2025/perplexity-ai-hits-18-billion-valuation-in-latest-funding-round/,
 perplexity,Late-Stage Round,2025-09,200.0,20000.0,,,https://techcrunch.com/2025/09/10/perplexity-reportedly-raised-200m-at-20b-valuation/,
 pheronym,Seed,2025-11,6.0,,Khosla Ventures; Paul Graham; Y Combinator,,,
+phonic,Seed,2025,4.0,,,,,
 physical-intelligence,Seed,2024-03,70.0,400.0,Thrive Capital,,https://www.crunchbase.com/funding_round/physical-intelligence-834b-seed--0936ae55,7 investors participated. Initial capital to develop foundational models and learning algorithms for robots.
 physical-intelligence,Series A,2024-11,400.0,2000.0,Jeff Bezos; Lux Capital; Thrive Capital,,https://www.cnbc.com/2024/11/04/jeff-bezos-and-openai-invest-in-robot-startup-physical-intelligence.html,"Other investors include OpenAI's startup fund, Redpoint Ventures, and Bond. Some sources report valuation at $2.4B rather than $2B -- exact figure uncertain."
 physical-intelligence,Series B,2025-11,600.0,5600.0,CapitalG,,https://www.therobotreport.com/physical-intelligence-raises-600m-advance-robot-foundation-models/,"CapitalG (Alphabet's independent growth fund) led. Participation from Lux Capital, Thrive Capital, Jeff Bezos, Index Ventures, T. Rowe Price, Redpoint Ventures, Sequoia Capital, Bond, and NVIDIA (NVentures). Funding earmarked for data collection, strategic partnerships, and team growth."
@@ -964,6 +969,7 @@ windborne,Series A,2024-06,15.0,,Khosla Ventures,,,
 windsurf,Series A,2022-04,25.0,,Greenoaks Capital,,https://www.crunchbase.com/funding_round/codeium-series-a--435f976f,
 windsurf,Series B,2024-01,65.0,500.0,Kleiner Perkins,,https://www.crunchbase.com/funding_round/windsurf-codeium-series-b--fcfa64ac,
 windsurf,Series C,2024-09,150.0,1250.0,General Catalyst,,https://www.crunchbase.com/funding_round/windsurf-codeium-series-c--4876a9bd,
+wisdomai,Series A,2025-11,50.0,,Kleiner Perkins; Nvidia NVentures,,,
 wispr-ai,Series A,2025-06,30.0,,Menlo Ventures; NEA,,,
 wispr-ai,Series A Extension,2025-11,25.0,700.0,Notable Capital,,,
 wonder-studios,Seed,2025-10,12.0,,Atomico; LocalGlobe; Adobe Ventures,,https://sifted.eu/articles/wonder-ai-movie-studio-atomico-localglobe,
@@ -992,6 +998,7 @@ xai,SpaceX Acquisition (all-stock merger),2026-02-02,,,SpaceX,,https://fortune.c
 xaira-therapeutics,Series A,2024-04,1000.0,,ARCH Venture Partners; Foresite Capital,,https://www.crunchbase.com/funding_round/xaira-therapeutics-series-a--29a6f309,Launched out of stealth with single $1B mega-round.
 yasp,Seed,2025-09,5.0,,Capnamic,,https://www.eu-startups.com/2025/09/german-deeptech-startup-yasp/,
 you-com,Series C,2025-12,100.0,,,,,
+yutori,Seed,2025-03,15.0,,Radical Ventures; Felicis; Elad Gil; Fei-Fei Li; Jeff Dean,,,
 zhipu-ai,Angel,2021,15.0,,,,https://pro.pandaily.com/p/zhipu-ais-rise-from-tsinghua-lab,
 zhipu-ai,Series B,2022-09,,,Qiming Venture Partners; Tsinghua Holdings,,https://tracxn.com/d/companies/zhipu/,
 zhipu-ai,Series B Extension,2023-07,350.0,2800.0,Alibaba; Tencent; Meituan; Ant Group; Xiaomi; HongShan,,https://www.caproasia.com/2025/04/15/china-artificial-intelligence-startup-zhipu-ai-pre-files-for-ipo-raised-1-4-billion-in-funding-since-founding-2023-valuation-at-2-8-billion-investors-include-alibaba-ant-group-tencent-meituan/,

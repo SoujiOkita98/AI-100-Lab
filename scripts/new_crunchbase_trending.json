@@ -1,0 +1,154 @@
+[
+  {
+    "name": "WisdomAI",
+    "slug": "wisdomai",
+    "founded": 2024,
+    "hq": "San Mateo, CA",
+    "sector": "AI Data Analytics",
+    "one_liner": "AI-native business analytics answering questions from structured and unstructured data. Founded by Rubrik co-founder.",
+    "website": "https://www.wisdom.ai",
+    "funding_rounds": [
+      {
+        "stage": "Series A",
+        "date": "2025-11",
+        "amount_m": 50,
+        "lead_investors": [
+          "Kleiner Perkins",
+          "Nvidia NVentures"
+        ]
+      }
+    ],
+    "total_raised_m": 73
+  },
+  {
+    "name": "Harmattan AI",
+    "slug": "harmattan-ai",
+    "founded": 2024,
+    "hq": "Paris, France",
+    "sector": "AI Defense / Autonomous Systems",
+    "one_liner": "Vertically integrated autonomous defense systems. Became unicorn at .4B. Backed by Dassault Aviation (Rafale maker).",
+    "website": "https://harmattan.ai",
+    "funding_rounds": [
+      {
+        "stage": "Series B",
+        "date": "2026-01",
+        "amount_m": 200,
+        "valuation_m": 1400,
+        "lead_investors": [
+          "Dassault Aviation",
+          "FirstMark"
+        ]
+      }
+    ],
+    "total_raised_m": 200,
+    "latest_valuation_m": 1400
+  },
+  {
+    "name": "Yutori",
+    "slug": "yutori",
+    "founded": 2024,
+    "hq": "San Francisco, CA",
+    "sector": "AI Consumer / Personal Assistant",
+    "one_liner": "Consumer AI chief-of-staff \u2014 monitors web and executes tasks on behalf of users. Founded by Meta veterans.",
+    "website": "https://yutori.com",
+    "founders": [
+      {
+        "name": "Yutori team",
+        "role": "Founders",
+        "background": "Former Meta"
+      }
+    ],
+    "funding_rounds": [
+      {
+        "stage": "Seed",
+        "date": "2025-03",
+        "amount_m": 15,
+        "lead_investors": [
+          "Radical Ventures",
+          "Felicis",
+          "Elad Gil",
+          "Fei-Fei Li",
+          "Jeff Dean"
+        ]
+      }
+    ],
+    "total_raised_m": 15
+  },
+  {
+    "name": "Actively AI",
+    "slug": "actively-ai",
+    "founded": 2024,
+    "hq": "San Francisco, CA",
+    "sector": "AI Sales Intelligence",
+    "one_liner": "AI sales superintelligence for B2B \u2014 next-gen beyond first-generation AI SDR tools.",
+    "website": "https://actively.ai",
+    "funding_rounds": [
+      {
+        "stage": "Seed",
+        "date": "2025-04",
+        "amount_m": 22.5,
+        "lead_investors": [
+          "Bain Capital Ventures"
+        ]
+      }
+    ],
+    "total_raised_m": 22.5
+  },
+  {
+    "name": "Ivo",
+    "slug": "ivo",
+    "founded": 2020,
+    "hq": "San Francisco, CA",
+    "sector": "AI Legal / Contract Intelligence",
+    "one_liner": "AI contract intelligence \u2014 automates review and converts agreements into structured searchable data.",
+    "website": "https://ivo.ai",
+    "funding_rounds": [
+      {
+        "stage": "Series B",
+        "date": "2025",
+        "amount_m": 55,
+        "lead_investors": [
+          "Blackbird"
+        ]
+      }
+    ],
+    "total_raised_m": 77
+  },
+  {
+    "name": "Jozu",
+    "slug": "jozu",
+    "founded": 2024,
+    "hq": "New York, NY",
+    "sector": "AI Infrastructure / Model Orchestration",
+    "one_liner": "Enterprise AI model and agent orchestration tools \u2014 simplifies deploying and managing AI pipelines at scale.",
+    "website": "https://jozu.com",
+    "funding_rounds": [
+      {
+        "stage": "Seed",
+        "date": "2025-05",
+        "amount_m": 4,
+        "lead_investors": [
+          "HalfCourt Capital",
+          "Mozilla Ventures"
+        ]
+      }
+    ],
+    "total_raised_m": 4
+  },
+  {
+    "name": "Phonic",
+    "slug": "phonic",
+    "founded": 2024,
+    "sector": "AI Voice / Healthcare",
+    "one_liner": "Voice AI agent platform for healthcare and insurance \u2014 speech-to-speech at ~300ms latency. MIT founders.",
+    "website": "https://phonic.ai",
+    "funding_rounds": [
+      {
+        "stage": "Seed",
+        "date": "2025",
+        "amount_m": 4
+      }
+    ],
+    "total_raised_m": 4
+  }
+]
