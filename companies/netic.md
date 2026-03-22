@@ -27,6 +27,7 @@ confidence: medium
 website: https://netic.ai
 headquarters: San Francisco, CA
 website_verified: true
+linkedin: https://www.linkedin.com/company/netic-ai
 ---
 
 # Netic

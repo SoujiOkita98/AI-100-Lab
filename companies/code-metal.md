@@ -16,6 +16,7 @@ confidence: medium
 data_notes: 'Needs verification: website, founders, source_urls, headquarters. Profile may be incomplete.'
 website: https://www.codemetal.ai
 website_verified: true
+headquarters: Boston, MA
 ---
 
 # Code Metal

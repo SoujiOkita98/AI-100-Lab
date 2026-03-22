@@ -22,6 +22,7 @@ confidence: medium
 data_notes: 'Needs verification: website, source_urls, headquarters. Profile may be incomplete.'
 website: https://sdsa.ai
 website_verified: true
+headquarters: San Francisco, CA
 ---
 
 # /dev/agents

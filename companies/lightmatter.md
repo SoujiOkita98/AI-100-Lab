@@ -13,6 +13,7 @@ last_updated: 2026-03-20
 one_liner: Lightmatter is a photonic computing and interconnect company building silicon-photonic chips that use light instead
   of electrical signals to move data between processors in AI data centers
 website_verified: true
+linkedin: https://www.linkedin.com/company/lightmatter
 ---
 
 # Lightmatter

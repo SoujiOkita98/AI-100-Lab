@@ -20,6 +20,7 @@ data_notes: 'Needs verification: website, founders, source_urls, headquarters. P
 website: https://higgsfield.ai
 website_verified: true
 linkedin: https://www.linkedin.com/company/higgsfield
+headquarters: San Francisco, CA
 ---
 
 # Higgsfield

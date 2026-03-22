@@ -18,6 +18,8 @@ confidence: medium
 data_notes: 'Needs verification: website, founders, source_urls, headquarters. Profile may be incomplete.'
 website: https://www.latentlabs.com
 website_verified: true
+linkedin: https://www.linkedin.com/company/latent-labs
+headquarters: London, UK
 ---
 
 # Latent Labs

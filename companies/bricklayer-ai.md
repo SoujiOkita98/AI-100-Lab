@@ -17,6 +17,7 @@ confidence: medium
 data_notes: 'Needs verification: website, founders, source_urls, headquarters. Profile may be incomplete.'
 website: https://www.bricklayer.ai
 website_verified: true
+headquarters: Arlington, VA
 ---
 
 # Bricklayer AI

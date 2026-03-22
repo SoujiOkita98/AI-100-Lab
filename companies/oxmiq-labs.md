@@ -21,6 +21,7 @@ confidence: medium
 data_notes: 'Needs verification: website, source_urls, headquarters. Profile may be incomplete.'
 website: https://oxmiq.ai
 website_verified: true
+headquarters: Campbell, CA
 ---
 
 # Oxmiq Labs

@@ -60,6 +60,7 @@ funding_rounds:
   source: https://news.crunchbase.com/venture/openevidence-ai-doctors-doubles-valuation-seriesd/
 one_liner: '> The "ChatGPT for doctors" -- an AI-powered medical search engine used by over 40% of U.S'
 website_verified: true
+linkedin: https://www.linkedin.com/company/openevidence
 ---
 
 # OpenEvidence

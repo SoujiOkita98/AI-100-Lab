@@ -28,6 +28,7 @@ founders:
 website: https://ricursive.com
 headquarters: Palo Alto, CA
 website_verified: true
+linkedin: https://www.linkedin.com/company/ricursive-intelligence
 ---
 
 # Ricursive Intelligence

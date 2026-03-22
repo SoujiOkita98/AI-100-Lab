@@ -63,6 +63,7 @@ funding_rounds:
   notes: In March 2024, Microsoft hired most staff including co-founder Mustafa Suleyman. Company pivoted under new CEO Sean
     White.
 website_verified: true
+linkedin: https://www.linkedin.com/company/inflectionai
 ---
 
 # Inflection AI

@@ -48,6 +48,7 @@ funding_rounds:
 one_liner: Imbue is an independent AI research lab that trains its own large foundation models (>100B parameters) optimized
   for reasoning, with the initial application being AI agents that can code
 website_verified: true
+linkedin: https://www.linkedin.com/company/imbue-ai
 ---
 
 # Imbue

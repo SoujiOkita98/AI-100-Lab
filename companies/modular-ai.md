@@ -25,6 +25,7 @@ confidence: medium
 data_notes: 'Needs verification: website, source_urls, headquarters. Profile may be incomplete.'
 website: https://www.modular.com
 website_verified: true
+linkedin: https://www.linkedin.com/company/modular-ai
 ---
 
 # Modular AI

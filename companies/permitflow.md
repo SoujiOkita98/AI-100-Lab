@@ -16,6 +16,7 @@ total_funding: 54
 last_updated: 2026-03-21
 confidence: medium
 linkedin: https://www.linkedin.com/company/permitflow
+headquarters: New York, NY
 ---
 
 # PermitFlow

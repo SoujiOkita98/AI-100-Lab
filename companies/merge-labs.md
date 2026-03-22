@@ -34,6 +34,7 @@ confidence: medium
 data_notes: 'Needs verification: website, source_urls, headquarters. Profile may be incomplete.'
 website: https://merge.io
 website_verified: true
+headquarters: San Antonio, TX
 ---
 
 # Merge Labs

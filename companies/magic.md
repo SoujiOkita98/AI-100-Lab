@@ -54,6 +54,7 @@ funding_rounds:
 one_liner: Magic is building an AI software engineer designed to function as a collaborative "co-worker" rather than a simple
   autocomplete copilot
 website_verified: true
+linkedin: https://www.linkedin.com/company/magicailabs
 ---
 
 # Magic -- AI Software Engineer with Ultra-Long Context

@@ -55,6 +55,7 @@ funding_rounds:
   source: https://modal.com/blog/announcing-our-series-b
 one_liner: Modal is a serverless compute platform purpose-built for AI and ML workloads
 website_verified: true
+linkedin: https://www.linkedin.com/company/modal-labs
 ---
 
 # Modal — Serverless Cloud for AI/ML

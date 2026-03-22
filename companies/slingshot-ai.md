@@ -23,6 +23,7 @@ data_notes: 'Needs verification: website, founders, source_urls, headquarters. P
 website: https://slingshotai.com
 website_verified: true
 linkedin: https://www.linkedin.com/company/slingshotai
+headquarters: New York, NY
 ---
 
 # Slingshot AI

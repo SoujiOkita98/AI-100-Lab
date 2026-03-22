@@ -26,6 +26,7 @@ founders:
 data_notes: 'Needs verification: website, source_urls, headquarters. Profile may be incomplete.'
 website: https://www.honeyhealth.ai
 website_verified: true
+headquarters: Mountain View, CA
 ---
 
 # Honey Health

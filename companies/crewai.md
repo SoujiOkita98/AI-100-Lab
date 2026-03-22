@@ -15,6 +15,7 @@ data_notes: 'Needs verification: website, founders, source_urls, headquarters. P
 website: https://crewai.com
 website_verified: true
 linkedin: https://www.linkedin.com/company/crewai-inc
+headquarters: San Francisco, CA
 ---
 
 # CrewAI

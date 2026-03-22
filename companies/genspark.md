@@ -21,6 +21,7 @@ latest_valuation: 1250
 last_updated: 2026-03-21
 confidence: medium
 linkedin: https://www.linkedin.com/company/gensparkai
+headquarters: Palo Alto, CA
 ---
 
 # Genspark

@@ -23,6 +23,7 @@ data_notes: 'Needs verification: website, source_urls, headquarters. Profile may
 website: https://julius.ai
 website_verified: true
 linkedin: https://www.linkedin.com/company/julius-ai
+headquarters: San Francisco, CA
 ---
 
 # Julius AI

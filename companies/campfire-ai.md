@@ -18,6 +18,7 @@ data_notes: 'Needs verification: website, founders, source_urls, headquarters. P
 website: https://campfire.ai
 website_verified: true
 linkedin: https://www.linkedin.com/company/meetcampfire
+headquarters: San Francisco, CA
 ---
 
 # Campfire

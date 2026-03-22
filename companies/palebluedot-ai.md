@@ -14,6 +14,7 @@ confidence: medium
 data_notes: 'Needs verification: website, founders, source_urls, headquarters. Profile may be incomplete.'
 website: https://palebluedot.ai
 website_verified: true
+headquarters: Palo Alto, CA
 ---
 
 # PaleBlueDot AI
