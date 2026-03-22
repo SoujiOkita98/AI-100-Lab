@@ -16,6 +16,8 @@ total_funding: 70
 last_updated: 2026-03-21
 confidence: medium
 data_notes: 'Needs verification: website, founders, source_urls. Profile may be incomplete.'
+website: https://www.deeprobotics.cn/en
+website_verified: true
 ---
 
 # DEEP Robotics

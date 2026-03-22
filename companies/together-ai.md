@@ -51,6 +51,8 @@ funding_rounds:
 one_liner: Together AI is an AI-native cloud platform that provides infrastructure for running, training, and fine-tuning
   open-source AI models
 website_verified: true
+linkedin: https://www.linkedin.com/company/togethercomputer
+twitter: '@togethercompute'
 ---
 
 # Together AI

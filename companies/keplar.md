@@ -13,6 +13,8 @@ total_funding: 3.4
 last_updated: 2026-03-21
 confidence: medium
 data_notes: 'Needs verification: website, founders, source_urls, headquarters. Profile may be incomplete.'
+website: https://www.keplar.io
+website_verified: true
 ---
 
 # Keplar

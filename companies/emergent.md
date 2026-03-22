@@ -58,6 +58,8 @@ funding_rounds:
   - Khosla Ventures
   - SoftBank Vision Fund 2
   source: https://www.businesswire.com/news/home/20260120852493/en/
+website: https://emergent.sh
+website_verified: true
 ---
 
 # Emergent

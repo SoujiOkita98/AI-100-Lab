@@ -25,6 +25,8 @@ founders:
   background: Oxford optical computing researcher.
   origin: Chinese
 data_notes: 'Needs verification: website, source_urls, headquarters. Profile may be incomplete.'
+website: https://lumai.ai
+website_verified: true
 ---
 
 # Lumai

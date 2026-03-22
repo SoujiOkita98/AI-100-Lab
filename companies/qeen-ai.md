@@ -19,6 +19,8 @@ total_funding: 12
 last_updated: 2026-03-21
 confidence: medium
 data_notes: 'Needs verification: website, source_urls. Profile may be incomplete.'
+website: https://qeen.ai
+website_verified: true
 ---
 
 # Qeen.ai

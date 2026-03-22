@@ -216,6 +216,8 @@ key_acquisitions:
   amount_usd: ~1_000_000_000
   rationale: Apache Iceberg table format; creators of Iceberg
 website_verified: true
+linkedin: https://www.linkedin.com/company/databricks
+twitter: '@databricks'
 ---
 
 # Databricks

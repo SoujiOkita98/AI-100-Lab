@@ -23,6 +23,8 @@ founders:
   background: Ex-Palantir.
   origin: Chinese-American
 data_notes: 'Needs verification: website, source_urls, headquarters. Profile may be incomplete.'
+website: https://distyl.ai
+website_verified: true
 ---
 
 # Distyl AI

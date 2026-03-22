@@ -37,6 +37,8 @@ yc_batch: S24
 last_updated: 2026-03-20
 one_liner: David AI is the world's first dedicated audio data research lab, building the data layer for next-generation audio
   and speech AI
+website: https://www.withdavid.ai
+website_verified: true
 ---
 
 # David AI

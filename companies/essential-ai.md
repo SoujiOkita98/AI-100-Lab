@@ -46,6 +46,8 @@ funding_rounds:
   lead_investors:
   - Lightspeed Venture Partners
   source: https://salestools.io/en/report/essential-ai-175m-series-b
+website: https://www.essential.ai
+website_verified: true
 ---
 
 # Essential AI

@@ -59,6 +59,8 @@ funding_rounds:
   - Khosla Ventures
   source: https://techcrunch.com/2025/11/17/sakana-ai-raises-135m-series-b/
 one_liner: Sakana AI is a Tokyo-based AI research lab that develops nature-inspired artificial intelligence
+website: https://sakana.ai
+website_verified: true
 ---
 
 # Sakana AI

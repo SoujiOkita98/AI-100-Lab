@@ -188,6 +188,8 @@ funding_rounds:
 one_liner: xAI is an artificial intelligence company founded by Elon Musk on March 9, 2023, and publicly announced on July
   12, 2023
 website_verified: true
+linkedin: https://www.linkedin.com/company/xai
+twitter: '@xai'
 ---
 
 # xAI

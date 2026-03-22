@@ -15,6 +15,8 @@ total_funding: 17
 last_updated: 2026-03-21
 confidence: medium
 data_notes: 'Needs verification: website, founders, source_urls. Profile may be incomplete.'
+website: https://sintra.ai
+website_verified: true
 ---
 
 # Sintra

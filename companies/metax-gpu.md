@@ -21,6 +21,8 @@ total_funding: 596
 last_updated: 2026-03-21
 confidence: medium
 data_notes: 'Needs verification: website, source_urls. Profile may be incomplete.'
+website: https://www.metax-tech.com/en
+website_verified: true
 ---
 
 # MetaX (GPU)

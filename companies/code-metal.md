@@ -14,6 +14,8 @@ total_funding: 125
 last_updated: 2026-03-21
 confidence: medium
 data_notes: 'Needs verification: website, founders, source_urls, headquarters. Profile may be incomplete.'
+website: https://www.codemetal.ai
+website_verified: true
 ---
 
 # Code Metal

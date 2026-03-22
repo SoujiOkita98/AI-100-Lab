@@ -146,6 +146,8 @@ tags:
 - rag
 one_liner: Cohere is a Toronto-headquartered enterprise AI company that builds large language models (LLMs) and AI platforms
   for business use
+linkedin: https://www.linkedin.com/company/cohere-ai
+twitter: '@cohere'
 ---
 
 # Cohere

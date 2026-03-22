@@ -22,6 +22,8 @@ latest_valuation: 1400
 last_updated: 2026-03-21
 confidence: medium
 data_notes: 'Needs verification: website, source_urls. Profile may be incomplete.'
+website: https://ai2robotics.com/en
+website_verified: true
 ---
 
 # AI2 Robotics

@@ -14,6 +14,8 @@ last_updated: 2026-03-20
 one_liner: Cerebras Systems is an AI semiconductor company that designs and manufactures the world's largest computer chips
   -- Wafer-Scale Engines (WSE) -- purpose-built for AI training and inference
 website_verified: true
+linkedin: https://www.linkedin.com/company/cerebras-systems
+twitter: '@CerebrasSystems'
 ---
 
 # Cerebras Systems

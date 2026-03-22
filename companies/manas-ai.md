@@ -24,6 +24,8 @@ founders:
   background: Co-founder of LinkedIn. Partner Greylock.
   origin: American
 data_notes: 'Needs verification: website, source_urls, headquarters. Profile may be incomplete.'
+website: https://manasai.co
+website_verified: true
 ---
 
 # Manas AI

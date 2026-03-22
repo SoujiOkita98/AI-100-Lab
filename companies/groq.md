@@ -131,6 +131,8 @@ confidence_notes: Funding rounds Series A-B have some variance across sources on
   are well-documented. The Nvidia deal structure is complex and reporting varies on details. Revenue figures are uncertain
   -- the $500M 2025 projection and $172.5M mid-2025 figure come from different sources and may not be fully reconcilable.
 website_verified: true
+linkedin: https://www.linkedin.com/company/groq
+twitter: '@GroqInc'
 ---
 
 # Groq

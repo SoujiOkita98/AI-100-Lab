@@ -23,6 +23,8 @@ founders:
   background: Former product leader at Wiz and Microsoft. First Wiz alumnus to found startup.
   origin: Israeli
 data_notes: 'Needs verification: website, source_urls. Profile may be incomplete.'
+website: https://mate.security
+website_verified: true
 ---
 
 # Mate Security

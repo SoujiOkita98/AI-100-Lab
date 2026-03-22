@@ -102,6 +102,8 @@ funding_rounds:
 one_liner: Scale AI is a San Francisco-based AI infrastructure company that provides data labeling, model evaluation, and
   AI-powered solutions to enterprises and government agencies
 website_verified: true
+linkedin: https://www.linkedin.com/company/scaleai
+twitter: '@scale_AI'
 ---
 
 # Scale AI

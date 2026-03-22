@@ -14,6 +14,8 @@ total_funding: 100
 last_updated: 2026-03-21
 confidence: medium
 data_notes: 'Needs verification: website, founders, source_urls, headquarters. Profile may be incomplete.'
+website: https://dreamgroup.com
+website_verified: true
 ---
 
 # Dream Security

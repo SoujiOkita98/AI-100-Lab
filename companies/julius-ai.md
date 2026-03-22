@@ -20,6 +20,8 @@ founders:
   background: BS CS UT Dallas. Ex-Uber, Facebook. YC W22. Forbes 30 Under 30.
   origin: Indian-American
 data_notes: 'Needs verification: website, source_urls, headquarters. Profile may be incomplete.'
+website: https://julius.ai
+website_verified: true
 ---
 
 # Julius AI

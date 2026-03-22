@@ -13,6 +13,8 @@ total_funding: 8
 last_updated: 2026-03-21
 confidence: medium
 data_notes: 'Needs verification: website, founders, source_urls, headquarters. Profile may be incomplete.'
+website: https://www.boardy.ai
+website_verified: true
 ---
 
 # Boardy AI

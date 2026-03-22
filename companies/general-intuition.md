@@ -21,6 +21,8 @@ total_funding: 134
 last_updated: 2026-03-21
 confidence: medium
 data_notes: 'Needs verification: website, source_urls, headquarters. Profile may be incomplete.'
+website: https://www.generalintuition.com
+website_verified: true
 ---
 
 # General Intuition

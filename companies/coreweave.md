@@ -20,6 +20,8 @@ confidence: high
 one_liner: CoreWeave is a specialized GPU cloud infrastructure provider purpose-built for AI workloads, high-performance computing
   (HPC), and visual effects (VFX)
 website_verified: true
+linkedin: https://www.linkedin.com/company/coreweave
+twitter: '@CoreWeave'
 ---
 
 # CoreWeave (CRWV)

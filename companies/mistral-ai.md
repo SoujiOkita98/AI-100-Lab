@@ -140,6 +140,8 @@ total_funding_eur: ~2.785B
 total_funding_usd: ~3.17B
 last_updated: 2026-03-20
 headquarters: Paris, France
+linkedin: https://www.linkedin.com/company/mistralai
+twitter: '@MistralAI'
 ---
 
 # Mistral AI

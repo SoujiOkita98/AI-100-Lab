@@ -77,6 +77,8 @@ funding_rounds:
 one_liner: Perplexity AI is an AI-powered "answer engine" that combines large language models with real-time web search to
   deliver cited, conversational answers to user queries
 website_verified: true
+linkedin: https://www.linkedin.com/company/perplexity-ai
+twitter: '@perplexity_ai'
 ---
 
 # Perplexity AI

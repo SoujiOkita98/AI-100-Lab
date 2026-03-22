@@ -97,6 +97,8 @@ tags:
 one_liner: Figure AI is building general-purpose humanoid robots for commercial labor markets, starting with manufacturing
   and logistics, with an eventual path to consumer/home deployment
 website_verified: true
+linkedin: https://www.linkedin.com/company/figure-ai
+twitter: '@Figure_robot'
 ---
 
 # Figure AI

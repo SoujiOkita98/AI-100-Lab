@@ -24,6 +24,8 @@ founders:
   background: Ex-LinkedIn AI engineering leader.
   origin: Chinese-American
 data_notes: 'Needs verification: website, source_urls, headquarters. Profile may be incomplete.'
+website: https://www.honeyhealth.ai
+website_verified: true
 ---
 
 # Honey Health

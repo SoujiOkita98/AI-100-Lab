@@ -141,6 +141,8 @@ sources:
 last_updated: 2026-03-20
 confidence: high
 website_verified: true
+linkedin: https://www.linkedin.com/company/andurilindustries
+twitter: '@anduriltech'
 ---
 
 # Anduril Industries

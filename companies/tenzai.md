@@ -31,6 +31,8 @@ founders:
   background: Founding CPO at Snyk.
   origin: Israeli
 data_notes: 'Needs verification: website, source_urls. Profile may be incomplete.'
+website: https://tenzai.com
+website_verified: true
 ---
 
 # Tenzai
