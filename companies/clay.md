@@ -16,6 +16,7 @@ confidence: high
 one_liner: AI-powered data enrichment and workflow automation platform that lets go-to-market teams build personalized outbound
   pipelines by combining 130+ data providers in a spreadsheet-like interface
 data_notes: 'Needs verification: website, founders. Profile may be incomplete.'
+total_funding: 204
 ---
 
 # Clay

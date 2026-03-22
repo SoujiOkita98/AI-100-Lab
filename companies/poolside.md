@@ -36,6 +36,7 @@ last_updated: 2026-03-20
 confidence: high on funding figures; moderate on revenue projections and employee count
 one_liner: Poolside is building purpose-built foundation models for software engineering
 website_verified: true
+total_funding: 626
 ---
 
 # Poolside

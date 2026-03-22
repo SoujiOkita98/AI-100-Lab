@@ -30,6 +30,7 @@ last_updated: 2026-03-20
 one_liner: StepFun is a Shanghai-based AI foundation model company founded in April 2023 by Jiang Daxin, a 16-year veteran
   of Microsoft
 website_verified: true
+total_funding: 1200
 ---
 
 # StepFun (阶跃星辰)
