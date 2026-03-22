@@ -1,0 +1,176 @@
+[
+  {
+    "name": "Celestial AI",
+    "slug": "celestial-ai",
+    "founded": 2020,
+    "hq": "Santa Clara, CA",
+    "sector": "AI Chips / Photonic Interconnects",
+    "one_liner": "Photonic fabric technology connecting compute and memory in AI data centers. Eliminates data movement bottleneck.",
+    "website": "https://celestial.ai",
+    "funding_rounds": [
+      {
+        "stage": "Series C",
+        "date": "2025-03",
+        "amount_m": 250,
+        "lead_investors": [
+          "AMD Ventures",
+          "Samsung Catalyst Fund"
+        ]
+      }
+    ],
+    "total_raised_m": 400
+  },
+  {
+    "name": "Fal",
+    "slug": "fal-ai",
+    "founded": 2023,
+    "hq": "San Francisco, CA",
+    "sector": "AI Infrastructure / Generative Media",
+    "one_liner": "AI infrastructure hosting image, video, audio models via single serverless API. 2M+ developers. Tripled revenue YoY.",
+    "website": "https://fal.ai",
+    "funding_rounds": [
+      {
+        "stage": "Series C",
+        "date": "2025-07",
+        "amount_m": 125,
+        "lead_investors": [
+          "Andreessen Horowitz"
+        ]
+      },
+      {
+        "stage": "Series D",
+        "date": "2025-12",
+        "amount_m": 140,
+        "valuation_m": 4500,
+        "lead_investors": [
+          "Sequoia"
+        ]
+      }
+    ],
+    "total_raised_m": 300
+  },
+  {
+    "name": "EnCharge AI",
+    "slug": "encharge-ai",
+    "founded": 2022,
+    "hq": "Santa Clara, CA",
+    "sector": "AI Chips / In-Memory Computing",
+    "one_liner": "In-memory computing AI accelerator chips for edge and data center inference. Computes directly in memory.",
+    "funding_rounds": [
+      {
+        "stage": "Series B",
+        "date": "2025-02",
+        "amount_m": 100,
+        "lead_investors": [
+          "NEA"
+        ]
+      }
+    ],
+    "total_raised_m": 122
+  },
+  {
+    "name": "TensorWave",
+    "slug": "tensorwave",
+    "founded": 2023,
+    "hq": "Las Vegas, NV",
+    "sector": "AI Cloud / GPU Infrastructure",
+    "one_liner": "AMD-focused AI cloud \u2014 largest AMD Instinct MI300X cluster. Alternative to Nvidia-centric clouds.",
+    "funding_rounds": [
+      {
+        "stage": "Series A",
+        "date": "2025-05",
+        "amount_m": 100,
+        "lead_investors": [
+          "Valor Equity Partners"
+        ]
+      }
+    ],
+    "total_raised_m": 100
+  },
+  {
+    "name": "Deepgram",
+    "slug": "deepgram",
+    "founded": 2015,
+    "hq": "San Francisco, CA",
+    "sector": "AI Voice / Speech-to-Text",
+    "one_liner": "AI speech-to-text and text-to-speech API. Powers voice AI for enterprises with industry-leading accuracy and speed.",
+    "website": "https://deepgram.com",
+    "funding_rounds": [
+      {
+        "stage": "Series C",
+        "date": "2026-01",
+        "amount_m": 130,
+        "lead_investors": []
+      }
+    ],
+    "total_raised_m": 200
+  },
+  {
+    "name": "PaleBlueDot AI",
+    "slug": "palebluedot-ai",
+    "founded": 2024,
+    "sector": "AI Climate / Earth Observation",
+    "one_liner": "AI for climate and earth observation data analysis.",
+    "funding_rounds": [
+      {
+        "stage": "Series B",
+        "date": "2026-01",
+        "amount_m": 150,
+        "lead_investors": []
+      }
+    ],
+    "total_raised_m": 150
+  },
+  {
+    "name": "Goodfire",
+    "slug": "goodfire",
+    "founded": 2024,
+    "hq": "San Francisco, CA",
+    "sector": "AI Safety / Interpretability",
+    "one_liner": "AI interpretability platform \u2014 tools for understanding and steering AI model behavior at the neuron level.",
+    "website": "https://goodfire.ai",
+    "funding_rounds": [
+      {
+        "stage": "Series B",
+        "date": "2026-02",
+        "amount_m": 150,
+        "lead_investors": []
+      }
+    ],
+    "total_raised_m": 170
+  },
+  {
+    "name": "Mythic",
+    "slug": "mythic-ai",
+    "founded": 2024,
+    "sector": "AI Infrastructure",
+    "one_liner": "AI infrastructure company. Raised $125M venture round in Dec 2025.",
+    "funding_rounds": [
+      {
+        "stage": "Venture Round",
+        "date": "2025-12",
+        "amount_m": 125,
+        "lead_investors": []
+      }
+    ],
+    "total_raised_m": 125
+  },
+  {
+    "name": "You.com",
+    "slug": "you-com",
+    "founded": 2020,
+    "hq": "San Francisco, CA",
+    "sector": "AI Search / Productivity",
+    "one_liner": "AI-powered search and productivity engine with multi-model approach. Enterprise and consumer AI assistant.",
+    "website": "https://you.com",
+    "funding_rounds": [
+      {
+        "stage": "Series C",
+        "date": "2025-12",
+        "amount_m": 100,
+        "lead_investors": []
+      }
+    ],
+    "total_raised_m": 145
+  }
+]

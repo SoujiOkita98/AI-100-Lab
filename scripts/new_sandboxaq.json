@@ -1,0 +1,37 @@
+[
+  {
+    "name": "SandboxAQ",
+    "slug": "sandboxaq",
+    "founded": 2022,
+    "hq": "Palo Alto, CA",
+    "sector": "AI + Quantum / Enterprise Software",
+    "one_liner": "Enterprise AI+quantum software company spun out of Alphabet. Combines AI with quantum-inspired algorithms for pharma, finance, cybersecurity.",
+    "website": "https://sandboxaq.com",
+    "founders": [
+      {
+        "name": "Jack Hidary",
+        "role": "CEO",
+        "background": "Former Google X, author of Quantum Computing textbook",
+        "origin": "American"
+      }
+    ],
+    "funding_rounds": [
+      {
+        "stage": "Series B",
+        "date": "2023-02",
+        "amount_m": 500,
+        "lead_investors": [
+          "T. Rowe Price",
+          "Breyer Capital"
+        ]
+      },
+      {
+        "stage": "Series E",
+        "date": "2025-04",
+        "amount_m": 450,
+        "lead_investors": []
+      }
+    ],
+    "total_raised_m": 1100
+  }
+]

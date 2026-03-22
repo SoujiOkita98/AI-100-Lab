@@ -1,0 +1,18 @@
+---
+name: "PaleBlueDot AI"
+founded: 2024
+sector: "AI Climate / Earth Observation"
+one_liner: "AI for climate and earth observation data analysis."
+status: active
+funding_rounds:
+  - stage: "Series B"
+    date: "2026-01"
+    amount_m: 150
+total_funding: 150
+last_updated: 2026-03-21
+confidence: medium
+---
+
+# PaleBlueDot AI
+
+AI for climate and earth observation data analysis.

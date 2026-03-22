@@ -4176,6 +4176,40 @@
     "top_investors": []
   },
   {
+    "slug": "celestial-ai",
+    "name": "Celestial AI",
+    "status": "active",
+    "founded_year": "2020",
+    "hq": "Santa Clara, CA",
+    "website": "https://celestial.ai",
+    "sector": "AI Chips / Photonic Interconnects",
+    "one_liner": "Photonic fabric technology connecting compute and memory in AI data centers. Eliminates data movement bottleneck.",
+    "total_raised_m": 400.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [],
+    "funding_rounds": [
+      {
+        "company_slug": "celestial-ai",
+        "stage": "Series C",
+        "date": "2025-03",
+        "amount_m": 250.0,
+        "valuation_m": null,
+        "lead_investors": "AMD Ventures; Samsung Catalyst Fund",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
     "slug": "ceramic-ai",
     "name": "Ceramic.ai",
     "status": "active",
@@ -6387,6 +6421,40 @@
     "top_investors": []
   },
   {
+    "slug": "deepgram",
+    "name": "Deepgram",
+    "status": "active",
+    "founded_year": "2015",
+    "hq": "San Francisco, CA",
+    "website": "https://deepgram.com",
+    "sector": "AI Voice / Speech-to-Text",
+    "one_liner": "AI speech-to-text and text-to-speech API. Powers voice AI for enterprises with industry-leading accuracy and speed.",
+    "total_raised_m": 200.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [],
+    "funding_rounds": [
+      {
+        "company_slug": "deepgram",
+        "stage": "Series C",
+        "date": "2026-01",
+        "amount_m": 130.0,
+        "valuation_m": null,
+        "lead_investors": "",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
     "slug": "deepl",
     "name": "DeepL",
     "status": "Private (exploring US IPO at ~$5B valuation, potentially 2026)",
@@ -7268,6 +7336,40 @@
         "lead_investors": "Khosla Ventures; SoftBank Vision Fund 2",
         "other_investors": "",
         "source": "https://www.businesswire.com/news/home/20260120852493/en/",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
+    "slug": "encharge-ai",
+    "name": "EnCharge AI",
+    "status": "active",
+    "founded_year": "2022",
+    "hq": "Santa Clara, CA",
+    "website": null,
+    "sector": "AI Chips / In-Memory Computing",
+    "one_liner": "In-memory computing AI accelerator chips for edge and data center inference. Computes directly in memory.",
+    "total_raised_m": 122.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [],
+    "funding_rounds": [
+      {
+        "company_slug": "encharge-ai",
+        "stage": "Series B",
+        "date": "2025-02",
+        "amount_m": 100.0,
+        "valuation_m": null,
+        "lead_investors": "NEA",
+        "other_investors": "",
+        "source": "",
         "notes": ""
       }
     ],
@@ -8174,6 +8276,51 @@
       "NVIDIA",
       "Mantis VC"
     ]
+  },
+  {
+    "slug": "fal-ai",
+    "name": "Fal",
+    "status": "active",
+    "founded_year": "2023",
+    "hq": "San Francisco, CA",
+    "website": "https://fal.ai",
+    "sector": "AI Infrastructure / Generative Media",
+    "one_liner": "AI infrastructure hosting image, video, audio models via single serverless API. 2M+ developers. Tripled revenue YoY.",
+    "total_raised_m": 300.0,
+    "latest_valuation_m": 4500.0,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [],
+    "funding_rounds": [
+      {
+        "company_slug": "fal-ai",
+        "stage": "Series C",
+        "date": "2025-07",
+        "amount_m": 125.0,
+        "valuation_m": null,
+        "lead_investors": "Andreessen Horowitz",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
+      },
+      {
+        "company_slug": "fal-ai",
+        "stage": "Series D",
+        "date": "2025-12",
+        "amount_m": 140.0,
+        "valuation_m": 4500.0,
+        "lead_investors": "Sequoia",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
   },
   {
     "slug": "field-ai",
@@ -9432,6 +9579,40 @@
         "lead_investors": "Wellington Management",
         "other_investors": "",
         "source": "https://www.glean.com/blog/glean-series-f-announcement",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
+    "slug": "goodfire",
+    "name": "Goodfire",
+    "status": "active",
+    "founded_year": "2024",
+    "hq": "San Francisco, CA",
+    "website": "https://goodfire.ai",
+    "sector": "AI Safety / Interpretability",
+    "one_liner": "AI interpretability platform \u2014 tools for understanding and steering AI model behavior at the neuron level.",
+    "total_raised_m": 170.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [],
+    "funding_rounds": [
+      {
+        "company_slug": "goodfire",
+        "stage": "Series B",
+        "date": "2026-02",
+        "amount_m": 150.0,
+        "valuation_m": null,
+        "lead_investors": "",
+        "other_investors": "",
+        "source": "",
         "notes": ""
       }
     ],
@@ -15048,6 +15229,40 @@
     "top_investors": []
   },
   {
+    "slug": "mythic-ai",
+    "name": "Mythic",
+    "status": "active",
+    "founded_year": "2024",
+    "hq": null,
+    "website": null,
+    "sector": "AI Infrastructure",
+    "one_liner": "AI infrastructure company. Raised $125M venture round in Dec 2025.",
+    "total_raised_m": 125.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [],
+    "funding_rounds": [
+      {
+        "company_slug": "mythic-ai",
+        "stage": "Venture Round",
+        "date": "2025-12",
+        "amount_m": 125.0,
+        "valuation_m": null,
+        "lead_investors": "",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
     "slug": "nace-ai",
     "name": "Nace.AI",
     "status": "active",
@@ -17008,6 +17223,40 @@
         "lead_investors": "Lightspeed Venture Partners",
         "other_investors": "",
         "source": "https://techcrunch.com/2025/09/28/paid-the-ai-agent-results-based-billing-startup/",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
+    "slug": "palebluedot-ai",
+    "name": "PaleBlueDot AI",
+    "status": "active",
+    "founded_year": "2024",
+    "hq": null,
+    "website": null,
+    "sector": "AI Climate / Earth Observation",
+    "one_liner": "AI for climate and earth observation data analysis.",
+    "total_raised_m": 150.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [],
+    "funding_rounds": [
+      {
+        "company_slug": "palebluedot-ai",
+        "stage": "Series B",
+        "date": "2026-01",
+        "amount_m": 150.0,
+        "valuation_m": null,
+        "lead_investors": "",
+        "other_investors": "",
+        "source": "",
         "notes": ""
       }
     ],
@@ -19512,6 +19761,60 @@
       "Workday Ventures",
       "Export Development Canada"
     ]
+  },
+  {
+    "slug": "sandboxaq",
+    "name": "SandboxAQ",
+    "status": "active",
+    "founded_year": "2022",
+    "hq": "Palo Alto, CA",
+    "website": "https://sandboxaq.com",
+    "sector": "AI + Quantum / Enterprise Software",
+    "one_liner": "Enterprise AI+quantum software company spun out of Alphabet. Combines AI with quantum-inspired algorithms for pharma, finance, cybersecurity.",
+    "total_raised_m": 1100.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [
+      {
+        "company_slug": "sandboxaq",
+        "name": "Jack Hidary",
+        "role": "CEO",
+        "background": "Former Google X, author of Quantum Computing textbook",
+        "origin": "",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "sandboxaq",
+        "stage": "Series B",
+        "date": "2023-02",
+        "amount_m": 500.0,
+        "valuation_m": null,
+        "lead_investors": "T. Rowe Price; Breyer Capital",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
+      },
+      {
+        "company_slug": "sandboxaq",
+        "stage": "Series E",
+        "date": "2025-04",
+        "amount_m": 450.0,
+        "valuation_m": null,
+        "lead_investors": "",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
   },
   {
     "slug": "saronic-technologies",
@@ -22557,6 +22860,40 @@
       "Foundation Capital",
       "Frank Slootman (former Snowflake CEO)"
     ]
+  },
+  {
+    "slug": "tensorwave",
+    "name": "TensorWave",
+    "status": "active",
+    "founded_year": "2023",
+    "hq": "Las Vegas, NV",
+    "website": null,
+    "sector": "AI Cloud / GPU Infrastructure",
+    "one_liner": "AMD-focused AI cloud \u2014 largest AMD Instinct MI300X cluster. Alternative to Nvidia-centric clouds.",
+    "total_raised_m": 100.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [],
+    "funding_rounds": [
+      {
+        "company_slug": "tensorwave",
+        "stage": "Series A",
+        "date": "2025-05",
+        "amount_m": 100.0,
+        "valuation_m": null,
+        "lead_investors": "Valor Equity Partners",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
   },
   {
     "slug": "tenstorrent",
@@ -25696,6 +26033,40 @@
         "lead_investors": "Capnamic",
         "other_investors": "",
         "source": "https://www.eu-startups.com/2025/09/german-deeptech-startup-yasp/",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
+    "slug": "you-com",
+    "name": "You.com",
+    "status": "active",
+    "founded_year": "2020",
+    "hq": "San Francisco, CA",
+    "website": "https://you.com",
+    "sector": "AI Search / Productivity",
+    "one_liner": "AI-powered search and productivity engine with multi-model approach. Enterprise and consumer AI assistant.",
+    "total_raised_m": 145.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [],
+    "funding_rounds": [
+      {
+        "company_slug": "you-com",
+        "stage": "Series C",
+        "date": "2025-12",
+        "amount_m": 100.0,
+        "valuation_m": null,
+        "lead_investors": "",
+        "other_investors": "",
+        "source": "",
         "notes": ""
       }
     ],

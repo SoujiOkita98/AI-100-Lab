@@ -142,6 +142,7 @@ buildots,Series D,2025-05,45.0,300.0,Qumra Capital,,,
 c-the-signs,Growth,2025-01,8.0,,Khosla Ventures,,,
 campfire-ai,Series A,2025-06,35.0,,Accel,,https://campfire.ai/blog/campfire-raises-35m-series-a-from-accel,
 cavela,Seed,2025-11,6.6,,XYZ VC; Susa Ventures,,,
+celestial-ai,Series C,2025-03,250.0,,AMD Ventures; Samsung Catalyst Fund,,,
 ceramic-ai,Seed,2025-03,12.0,,NEA; IBM Ventures; Samsung Next,,https://techcrunch.com/2025/03/05/anna-pattersons-ceramic-ai/,
 chai-discovery,Seed,2024-09,30.0,,Thrive Capital; OpenAI; Dimension,,https://tracxn.com/d/companies/chai-discovery/,
 chai-discovery,Series A,2025-08,70.0,,Menlo Ventures,,https://www.builtinsf.com/articles/chai-discovery-secures-70m-series-a-20250808,
@@ -216,6 +217,7 @@ decagon,Series A,2024-06,30.0,,Accel,,https://decagon.ai/resources/series-a,
 decagon,Series B,2024-10,65.0,,Bain Capital Ventures,,https://decagon.ai/resources/series-b,
 decagon,Series C,2025-06,131.0,1500.0,Accel; Andreessen Horowitz,,https://www.businesswire.com/news/home/20250623894798/en/,
 decagon,Series D,2026-01,250.0,4500.0,Coatue Management; Index Ventures,,https://finance.yahoo.com/news/decagon-raises-250-million-valuation-161223745.html,
+deepgram,Series C,2026-01,130.0,,,,,
 deepl,Seed / Early (details sparse),~2017-2018,,,,,https://tracxn.com/d/companies/deepl/__mTFDDSjOlFbUE5DY_w1NWY3gI5ttRRBOXtV7p6GCqJE/funding-and-investors,Initial backing from Benchmark and btov Partners.
 deepl,Series B (sometimes reported as Series A),2023-01,100.0,1000.0,IVP,Bessemer Venture Partners; Atomico; WiL (World Innovation Lab),https://techcrunch.com/2023/01/11/deepl-the-ai-based-language-translator-raises-over-100m-at-a-1b-valuation/,
 deepl,Series C (sometimes reported as Series B),2024-05-22,300.0,2000.0,Index Ventures,ICONIQ Growth; Teachers' Venture Growth; IVP (existing); Atomico (existing); WiL (existing),https://techcrunch.com/2024/05/22/deepl-the-ai-language-translation-startup-nabs-300m-on-a-2b-valuation-to-focus-on-b2b-growth/,Doubled valuation in ~16 months. Earmarked for B2B expansion and product development.
@@ -249,6 +251,7 @@ emerald-ai,Seed,2025,24.5,,Radical Ventures,,https://news.crunchbase.com/venture
 emergent,Seed,2025-07,7.0,,Y Combinator; Together Fund,,https://techcrunch.com/2025/09/24/emergent-raises-23m/,
 emergent,Series A,2025-09,23.0,100.0,Lightspeed Venture Partners,,https://techcrunch.com/2025/09/24/emergent-raises-23m/,
 emergent,Series B,2026-01,70.0,300.0,Khosla Ventures; SoftBank Vision Fund 2,,https://www.businesswire.com/news/home/20260120852493/en/,
+encharge-ai,Series B,2025-02,100.0,,NEA,,,
 encord,Series C,2025-12,60.0,550.0,,,https://techfundingnews.com/encord-scale-ai-rival-60m-physical-ai-data/,
 endra,Seed,2025-12,20.0,,Notion Capital; Norrsken VC,,https://fortune.com/2025/12/18/endra-ai-startup-automating-mep-design-sweden/,
 enflame-technology,Seed,2018-04,1.3,,Delta Capital; Yunhe Capital,,https://equalocean.com/analysis/201812171163,
@@ -280,6 +283,8 @@ exa,Series A,2024-07,17.0,,Lightspeed Venture Partners,,https://exa.ai/blog/seri
 exa,Series B,2025-09,85.0,700.0,Benchmark,,https://exa.ai/blog/announcing-series-b,
 fable-security,Seed,2025,6.5,,Greylock,,,
 fable-security,Series A,2025-07,24.5,,Redpoint Ventures,,,
+fal-ai,Series C,2025-07,125.0,,Andreessen Horowitz,,,
+fal-ai,Series D,2025-12,140.0,4500.0,Sequoia,,,
 field-ai,Earlier Rounds,~2024 (late),91.0,,,Gates Frontier; Samsung; Intel Capital; Khosla Ventures,https://www.prnewswire.com/news-releases/fieldai-announces-over-400m-in-funds-raised-to-advance-embodied-ai-at-scale-302534675.html,"Initial round raised in late 2024 before the larger 2025 raise.
 "
 field-ai,Growth Round,2025-08-20,314.0,,Bezos Expeditions; Prysm Capital; Temasek,NVentures (NVIDIA); BHP Ventures; Canaan Partners; Emerson Collective; Intel Capital; Khosla Ventures,https://www.cnbc.com/2025/08/20/gates-nvidia-fieldai-robotics.html,"Brought total raised to over $405M. Backed by Bezos, Gates, and NVIDIA. Valuation close to $2 billion.
@@ -337,6 +342,7 @@ glean,Series C,2022-05,100.0,1000.0,Sequoia Capital,,https://tracxn.com/d/compan
 glean,Series D,2024-02,200.0,2200.0,Kleiner Perkins; Lightspeed Venture Partners,,https://www.glean.com/blog/glean-series-d,
 glean,Series E,2024-09,260.0,4600.0,Altimeter; DST Global,,https://www.glean.com/blog/glean-series-e-prompting-launch,
 glean,Series F,2025-06,150.0,7200.0,Wellington Management,,https://www.glean.com/blog/glean-series-f-announcement,
+goodfire,Series B,2026-02,150.0,,,,,
 govstream-ai,Seed,2025-12,3.6,,47th Street Partners,,,
 gradium,Seed,2025-12,70.0,,FirstMark Capital; Eurazeo; DST Global; Eric Schmidt,,https://techcrunch.com/2025/12/02/paris-based-ai-voice-startup-gradium-nabs-70m-seed/,
 granola,Seed,2023-05,4.2,,Lightspeed Venture Partners; betaworks,,https://www.granola.ai/blog/series-a,
@@ -515,6 +521,7 @@ moveworks,Series B,2019-11,75.0,390.0,Iconiq Growth; Kleiner Perkins,,https://tr
 moveworks,Series C,2021-06,200.0,2100.0,Tiger Global; Alkeon Capital,,https://www.moveworks.com/us/en/company/news/press-releases/moveworks-raises-200-million-series-c-funding,
 mozart-ai,Seed,2026-02,6.0,,Balderton Capital,,,
 music-ai-moises,Series A,2025-01,40.0,,Connect Ventures (CAA + NEA); monashees,,,
+mythic-ai,Venture Round,2025-12,125.0,,,,,
 nace-ai,Seed,2025-03,5.0,,General Catalyst,,,
 nebius,Private Placement,2024-12,700.0,,NVIDIA; Accel; Orbis Investments,,https://nebius.com/newsroom/nebius-announces-oversubscribed-strategic-equity-financing-of-usd-700-million-to-accelerate-roll-out-of-full-stack-ai-infrastructure,Post-restructuring from Yandex. Re-listed NASDAQ Oct 2024.
 nebius,Convertible Notes,2025-06,1000.0,,Institutional investors (144A),,https://nebius.com/newsroom/nebius-group-announces-private-placement-of-1-billion-in-aggregate-principal-amount-of-convertible-notes,
@@ -585,6 +592,7 @@ overland-ai,Series B,2026-02,100.0,,8VC,,,
 oxa,Series D (first close),2026-03,103.0,,UK National Wealth Fund,,https://tech.eu/2026/03/04/uk-self-driving-startup-oxa-raises-103m-to-scale-industrial-deployments/,"National Wealth Fund committed $50M. NVentures (Nvidia), IP Group, Hostplus, and bp Ventures also participated. Second close expected H1 2026."
 oxmiq-labs,Seed,2025-08,20.0,,MediaTek Ventures,,,
 paid-ai,Seed,2025-09,21.0,,Lightspeed Venture Partners,,https://techcrunch.com/2025/09/28/paid-the-ai-agent-results-based-billing-startup/,
+palebluedot-ai,Series B,2026-01,150.0,,,,,
 parallel-web,Series A,2025-11,100.0,740.0,Kleiner Perkins; Index Ventures,,https://technologymagazine.com/news/inside-ex-twitter-ceos-us-100m-funding-for-ai-startup,
 patronus-ai,Seed,September 2023,3.0,,Lightspeed Venture Partners,,,
 patronus-ai,Series A,May 2024,17.0,,Notable Capital,,,
@@ -663,6 +671,8 @@ sanctuary-ai,Series A,2022-03,58.5,,Magna International,Bell (BCE); Evok Innovat
 sanctuary-ai,Series A Extension / Follow-on,2024-07,,,,,,
 sanctuary-ai,Convertible Note,2025-01,,,,,,
 sanctuary-ai,"Series B-2 (in progress, unconfirmed closed)",2025 (target close May 2025),,,,,,Also selling ~$125M stake in Apptronik to total ~$175M in new capital
+sandboxaq,Series B,2023-02,500.0,,T. Rowe Price; Breyer Capital,,,
+sandboxaq,Series E,2025-04,450.0,,,,,
 saronic-technologies,Seed,2022-06,,,,,https://sacra.com/c/saronic/,
 saronic-technologies,Series A,2023-10,55.0,,,,https://sacra.com/c/saronic/,
 saronic-technologies,Series B,2024-07,175.0,1000.0,Andreessen Horowitz,,https://breakingdefense.com/2024/07/defense-tech-startup-saronic-announces-175m-in-series-b-funding/,
@@ -781,6 +791,7 @@ tennr,Seed,2023-01,3.2,,Y Combinator,,https://www.crunchbase.com/organization/te
 tennr,Series A,2024-03,18.0,,Andreessen Horowitz,,https://techstartups.com/2024/03/26/healthtech-startup-tennr-raises-18m/,
 tennr,Series B,2024-10,37.0,,Lightspeed Venture Partners,,https://www.fiercehealthcare.com/health-tech/tennr-clinches-101m/,
 tennr,Series C,2025-06,101.0,605.0,IVP,,https://fortune.com/2025/06/18/tennr-health-tech-ai-patient-referral/,
+tensorwave,Series A,2025-05,100.0,,Valor Equity Partners,,,
 tenzai,Seed,2025,75.0,,Battery Ventures; Greylock; Lux Capital,,https://www.calcalistech.com/ctechnews/article/b16iahzeze,
 terray-therapeutics,Series B,2025-10,120.0,,Bedford Ridge; NVentures,,https://techcrunch.com/,
 tessl,Seed,2024-04,25.0,,boldstart ventures; GV,,https://tessl.io/blog/announcing-our-series-a,
@@ -891,6 +902,7 @@ xai,Series E,2026-01-06,20000.0,230000.0,Valor Equity Partners; NVIDIA; Fidelity
 xai,SpaceX Acquisition (all-stock merger),2026-02-02,,,SpaceX,,https://fortune.com/2026/02/02/elon-musk-spacex-xai-ipo-trillion/,"Structured as all-stock acquisition: 1 xAI share = 0.1433 SpaceX shares (xAI at $75.46/share, SpaceX at $526.59/share). Largest merger of all time by combined valuation. Announced ahead of anticipated SpaceX IPO. Musk cited plans to build ""orbital data centers"" as rationale."
 xaira-therapeutics,Series A,2024-04,1000.0,,ARCH Venture Partners; Foresite Capital,,https://www.crunchbase.com/funding_round/xaira-therapeutics-series-a--29a6f309,Launched out of stealth with single $1B mega-round.
 yasp,Seed,2025-09,5.0,,Capnamic,,https://www.eu-startups.com/2025/09/german-deeptech-startup-yasp/,
+you-com,Series C,2025-12,100.0,,,,,
 zhipu-ai,Angel,2021,15.0,,,,https://pro.pandaily.com/p/zhipu-ais-rise-from-tsinghua-lab,
 zhipu-ai,Series B,2022-09,,,Qiming Venture Partners; Tsinghua Holdings,,https://tracxn.com/d/companies/zhipu/,
 zhipu-ai,Series B Extension,2023-07,350.0,2800.0,Alibaba; Tencent; Meituan; Ant Group; Xiaomi; HongShan,,https://www.caproasia.com/2025/04/15/china-artificial-intelligence-startup-zhipu-ai-pre-files-for-ipo-raised-1-4-billion-in-funding-since-founding-2023-valuation-at-2-8-billion-investors-include-alibaba-ant-group-tencent-meituan/,
