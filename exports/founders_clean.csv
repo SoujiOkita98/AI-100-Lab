@@ -32,6 +32,8 @@ agility-robotics,Mikhail Jones,Co-Founder & VP of Software,"Was Jonathan Hurst's
 ai21-labs,Yoav Shoham,"Co-Founder, Co-CEO","Professor Emeritus of Computer Science, Stanford University; former Google Principal Scientist; PhD CS Yale",Israeli,
 ai21-labs,Ori Goshen,"Co-Founder, Co-CEO","Serial entrepreneur (Fring, Crowdx); IDF Unit 8200 veteran; 15+ years technology leadership",Israeli,
 ai21-labs,Amnon Shashua,Co-Founder,"CS Professor, Hebrew University of Jerusalem; Co-founder of Mobileye (Intel acquisition, $15.3B), OrCam, OneZero; 160+ papers, 94+ patents",Israeli,
+aidoc,Elad Walach,CEO,,,
+aidoc,Michael Braginsky,CTO,,,
 ambience-healthcare,Mike Ng,Co-Founder / CEO,,Chinese-American,
 ambience-healthcare,Nikhil Buduma,Co-Founder / CTO,,Indian-American,
 ami-labs,Yann LeCun,Chairman,"Turing Award winner (2018) for pioneering work on convolutional neural networks. Former VP and Chief AI Scientist at Meta (2013-2025). PhD from Sorbonne. Professor at NYU. Invented LeNet, foundational to modern deep learning.","French. Born in Paris. Educated at ESIEE and Sorbonne. Moved to the US in the 1980s, held positions at Bell Labs and NYU.",
@@ -64,10 +66,14 @@ arize-ai,Jason Lopatecki,Co-Founder & CEO,,United States,
 assembled,Ryan Wang,Co-Founder & CEO,"ML Engineer at Stripe (~employee #80); M.S. Statistics & B.A. Economics, University of Chicago",Chinese-American,
 assembled,John Wang,Co-Founder & CTO,"Software Engineer at Stripe (~employee #100); B.S. Computer Science, MIT; prev. Palantir, 37signals, co-founded Zinc",Chinese-American,
 assembled,Brian Sze,Co-Founder,"Head of Business Operations at Stripe (2012-2016, employee ~30-500 scale); B.A. Economics, Stanford; prev. Obama for America analytics team",Chinese-American,
+astrus,Brad Moon,Co-founder,,,
+astrus,Zeyi Wang,Co-founder,,,
 atlan,Prukalpa Sankar,Co-Founder & Co-CEO,"Nanyang Technological University, Singapore",Indian,Co-Founder of SocialCops; Forbes 30 Under 30; TED Speaker
 atlan,Varun Banka,Co-Founder & Co-CEO,"Nanyang Technological University, Singapore",Indian,Co-Founder of SocialCops
 atomic-ai,Raphael Townshend,CEO,Stanford PhD in ML for structural biology,,
 august-ai,Anuruddh Mishra,CEO,,,
+axiamatic,Rajiv Gupta,CEO,Co-founded Skyhigh Networks (acq McAfee),,
+axiamatic,Kaushik Narayan,CTO,Co-founded Skyhigh Networks,,
 axiom-ai,Carina Hong,CEO & Founder,25-year-old Stanford University PhD student in mathematics. MIT graduate. Described as a 'math wizard.' Research focus on formal verification and mathematical proof systems.,"American (of Asian descent, based on name and limited public info).",
 axiom-math,Carina Hong,CEO,"25-year-old Rhodes Scholar, MIT grad, Morgan Prize winner",Chinese-American,
 axiom-math,Shubho Sengupta,CTO,"Led Meta AI supercluster, CrypTen secure ML",Indian-American,
@@ -82,6 +88,7 @@ blocks-diy,Michal Lupu,CEO,Former VP Product at monday.com,Israeli,
 blocks-diy,Tal Haramati,CTO,"Former VP Tech, founding team at monday.com",Israeli,
 bolt,Eric Simons,CEO & Co-Founder,,American,
 bolt,Albert Pai,CTO & Co-Founder,,Chinese-American,
+braintrust-ai,Ankur Goyal,CEO,"Founded Impira (sold to Figma), led AI at Figma",,
 brightwave,Mike Conover,Co-Founder & CEO,,American,
 brightwave,Brandon Kotara,Co-Founder & CTO,,American,
 browser-use,Magnus Muller,Co-Founder,ETH Zurich,German or Swiss,
@@ -137,6 +144,8 @@ cuspai,Dr. Chad Edwards,Co-Founder / CEO,Chemist turned DeepTech entrepreneur; p
 cuspai,Prof. Max Welling,Co-Founder / Chief Scientist,AI pioneer; former Distinguished Scientist at Microsoft Research; VP of Technology at Qualcomm; professor at University of Amsterdam,Dutch,
 cvector,Richard Zhang,CEO,"Ex-Shell, CERN",Chinese-American,
 cvector,Tyler Ruggles,Co-founder,"Ex-Shell, CERN",American,
+cylake,Nir Zuk,Founder,"Founder of Palo Alto Networks, CTO 20+ years",,
+cylake,Ehud Shamir,Co-founder,Co-founder of SentinelOne,,
 databricks,Ali Ghodsi,Co-Founder & CEO,"PhD Distributed Computing, KTH Royal Institute of Technology (2006); MBA, Mid-Sweden University; MSc Computer Engineering, Mid-Sweden University","Iranian-Swedish (born in Iran, raised in Sweden)","Adjunct Professor, UC Berkeley"
 databricks,Ion Stoica,Co-Founder & Executive Chairman,"MS Electrical Engineering & CS, Polytechnic University of Bucharest; PhD, Carnegie Mellon University (inferred from CS career path, started at Old Dominion University)",Romanian-American (born in Romania),"Professor of Computer Science, UC Berkeley; Co-director of AMPLab"
 databricks,Matei Zaharia,Co-Founder & CTO,"Undergraduate, University of Waterloo; PhD, UC Berkeley",Romanian-Canadian,Creator of Apache Spark; Assistant Professor at Stanford University (previously MIT)
@@ -160,6 +169,7 @@ deepl,Jaroslaw (Jarek) Kutylowski,CEO (since 2019; previously CTO),['PhD in Comp
 deepl,Gereon Frahling,Former Head of Research (departed ~2019),['PhD (field unconfirmed)'],German,
 deepl,Leonard Fink,Co-founder (current role unclear),,American,
 descript,Andrew Mason,Executive Chairman (formerly CEO),"Co-founder & former CEO of Groupon; Northwestern University (Music, 2003); founded Detour (audio tours app, acquired by Bose 2018)",American,
+dev-agents,David Singleton,CEO,"Ex-CTO Stripe, ex-VP Engineering Android at Google",,
 devrev,Dheeraj Pandey,Co-Founder & CEO,,"Bihar, India (IIT Kanpur graduate; previously co-founded Nutanix, took it public in 2016)",
 devrev,Manoj Agarwal,Co-Founder & CTO,,India (former SVP of Engineering at Nutanix),
 distyl-ai,Arjun Prakash,CEO,"Cornell BS EE/CS. Ex-BlackRock, Palantir, Snorkel AI.",Indian-American,
@@ -372,6 +382,7 @@ monte-carlo-data,Jordan Van Horn,Co-Founder,,American,
 nace-ai,Dos Baha,CEO,,Central Asian/Kazakh,
 nace-ai,Zhanibek Datbayev,CTO,"Ex-Google, Meta, U of Toronto",Kazakh,
 nebius,Arkady Volozh,"CEO & Co-Founder, originally of Yandex",,,
+netic,Melisa Tokmak,CEO,"Stanford CS, ex-Facebook, ex-Scale AI",,
 netradyne,Avneesh Agrawal,Co-Founder & CEO,,"India (Stanford University; former President, Qualcomm India & South Asia)",
 netradyne,David Julian,Co-Founder & CTO,,United States (former Qualcomm engineer),
 neura-robotics,David Reger,Co-founder & CEO,"German entrepreneur and robotics engineer. Previously founded other technology ventures. Leads NEURA's vision for cognitive robots that can perceive, learn, and interact naturally with humans.
@@ -478,6 +489,7 @@ scale-ai,Alexandr Wang,Co-founder & former CEO (departed June 2025 to Meta),"Bor
 ",Chinese-American,
 scale-ai,Lucy Guo,Co-founder (departed 2018),"Studied CS and human-computer interaction at Carnegie Mellon. Thiel Fellow (2014). Worked at Facebook, Quora, and Snapchat. Left Scale AI in 2018 over strategic disagreements, retaining ~5% stake. Founded Backend Capital (VC) and Passes (creator platform). Became a billionaire on paper after Meta's 2025 investment.
 ",Chinese-American,
+science-corp,Max Hodak,CEO,Co-founder and former president of Neuralink,,
 shield-ai,Brandon Tseng,Co-Founder & President,Former U.S. Navy SEAL Officer. Two combat tours in Afghanistan plus deployments in Asia-Pacific. Graduated from the U.S. Naval Academy; MBA from Harvard Business School. Named to TIME100 AI list (2025). His frontline military experience shaped the company's mission: building AI that protects warfighters.,Asian American (Taiwanese descent),
 shield-ai,Ryan Tseng,Co-Founder & President (formerly CEO until May 2025),"Serial entrepreneur and engineer. BSEE in Electrical Engineering from University of Florida. MBA from MIT Sloan. Previously founded WiPower Inc. (wireless charging company acquired by Qualcomm in 2010), then served as Technical Lead for Wireless Power at Qualcomm. Led Shield AI as CEO for its first decade before transitioning to President in 2025.",Asian American (Taiwanese descent),
 shield-ai,Andrew Reiter,Co-Founder & CTO,"Computer vision and robotics engineer. Previously worked on computer vision applications at Draper Laboratory (formerly MIT's Instrumentation Lab), a nonprofit advanced engineering R&D organization. Technical architect of Hivemind.",American,
@@ -545,6 +557,8 @@ tonic-ai,Ian Coe,Co-Founder & CEO,,American,Palantir Technologies (early commerc
 tonic-ai,Karl Hanson,Co-Founder & CPO,,American,Palantir Technologies
 tonic-ai,Andrew Colombi,Co-Founder & CTO,,American,Palantir Technologies
 tonic-ai,Adam Kamor,Co-Founder & Head of Engineering,"PhD Physics, Georgia Institute of Technology",American,Microsoft; Kabbage; Tableau
+tortus,Dom Pimenta,CEO,Cardiologist,,
+tortus,Christopher Tan,CTO,,,
 tractian,Igor Marinelli,CEO & Co-Founder,,Brazilian,
 tractian,Gabriel Lameirinhas,Co-CEO & Co-Founder,,Brazilian,
 tractian,Leonardo Vieira,Co-Founder,,Brazilian,
@@ -578,6 +592,8 @@ verge-genomics,Alice Zhang,Co-Founder & CEO,,Chinese-American (parents are immig
 vinci-semi,Hardik Kabaria,CEO,"PhD computational geometry, Stanford",Indian-American,
 vinci-semi,Sarah Osentoski,Co-founder,Pioneer in large-scale ML and autonomous systems,American,
 vultr,David Aninowsky,Founder,,,
+wabi-ai,Eugenia Kuyda,CEO,Founder of Replika (AI companion app),,
+waveforms-ai,Alexi Conneau,CEO,"Former OpenAI researcher, GPT-4 Voice Mode",,
 waymo,Sebastian Thrun,Original project lead (Google Self-Driving Car Project),Stanford professor; founded Google X; now at Cresta AI,German-American,
 waymo,Chris Urmson,Early CTO (departed 2016),Carnegie Mellon; later founded Aurora Innovation,Canadian,
 wayve,Alex Kendall,Co-Founder & CEO,"PhD in Deep Learning, Computer Vision & Robotics, University of Cambridge (Trinity College)",New Zealand,

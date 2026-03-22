@@ -1,0 +1,25 @@
+---
+name: "Astrus"
+founded: 2024
+headquarters: "Toronto, Canada"
+sector: "AI for Chip Design / Analog Layout"
+one_liner: "Physics-aware AI foundation model for analog chip layout. Uses AlphaGo-inspired RL to surpass human designers."
+status: active
+founders:
+  - name: "Brad Moon"
+    role: "Co-founder"
+  - name: "Zeyi Wang"
+    role: "Co-founder"
+funding_rounds:
+  - stage: "Seed"
+    date: "2025"
+    amount_m: 8
+    lead_investors: ["Khosla Ventures"]
+total_funding: 8
+last_updated: 2026-03-21
+confidence: medium
+---
+
+# Astrus
+
+Physics-aware AI foundation model for analog chip layout. Uses AlphaGo-inspired RL to surpass human designers.

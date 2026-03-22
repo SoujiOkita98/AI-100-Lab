@@ -611,6 +611,40 @@
     "top_investors": []
   },
   {
+    "slug": "adaptive-ml",
+    "name": "Adaptive ML",
+    "status": "active",
+    "founded_year": "2023",
+    "hq": "Paris, France",
+    "website": null,
+    "sector": "AI Infrastructure / LLM Fine-tuning",
+    "one_liner": "Custom LLM fine-tuning using RLHF/RLAIF. Built by the Hugging Face Falcon models team.",
+    "total_raised_m": 20.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [],
+    "funding_rounds": [
+      {
+        "company_slug": "adaptive-ml",
+        "stage": "Seed",
+        "date": "2024-03",
+        "amount_m": 20.0,
+        "valuation_m": null,
+        "lead_investors": "Index Ventures; ICONIQ Capital",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
     "slug": "adept-ai",
     "name": "Adept AI",
     "status": "Effectively gutted via Amazon acqui-hire (June 2024); nominally independent with ~20 employees",
@@ -750,6 +784,40 @@
         "amount_m": 9.0,
         "valuation_m": null,
         "lead_investors": "Concentric",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
+    "slug": "agentmail",
+    "name": "AgentMail",
+    "status": "active",
+    "founded_year": "2025",
+    "hq": null,
+    "website": null,
+    "sector": "AI Agents / Email Infrastructure",
+    "one_liner": "Email infrastructure API for AI agents \u2014 gives agents their own inboxes with full email capabilities. YC S25.",
+    "total_raised_m": 6.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [],
+    "funding_rounds": [
+      {
+        "company_slug": "agentmail",
+        "stage": "Seed",
+        "date": "2025-08",
+        "amount_m": 6.0,
+        "valuation_m": null,
+        "lead_investors": "General Catalyst; Y Combinator",
         "other_investors": "",
         "source": "",
         "notes": ""
@@ -941,6 +1009,57 @@
     ]
   },
   {
+    "slug": "aidoc",
+    "name": "Aidoc",
+    "status": "active",
+    "founded_year": "2016",
+    "hq": "Tel Aviv, Israel",
+    "website": null,
+    "sector": "AI Healthcare / Radiology",
+    "one_liner": "Clinical AI for radiology and hospital decision support. CARE foundation model. 900+ hospitals deployed.",
+    "total_raised_m": 250.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [
+      {
+        "company_slug": "aidoc",
+        "name": "Elad Walach",
+        "role": "CEO",
+        "background": "",
+        "origin": "",
+        "prior": ""
+      },
+      {
+        "company_slug": "aidoc",
+        "name": "Michael Braginsky",
+        "role": "CTO",
+        "background": "",
+        "origin": "",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "aidoc",
+        "stage": "Series D",
+        "date": "2025-07",
+        "amount_m": 150.0,
+        "valuation_m": null,
+        "lead_investors": "General Catalyst; Square Peg; NVentures",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
     "slug": "aiuc",
     "name": "AIUC",
     "status": "active",
@@ -969,6 +1088,40 @@
         "lead_investors": "Nat Friedman (NFDG); Emergence Capital",
         "other_investors": "",
         "source": "https://fortune.com/2025/07/23/ai-agent-insurance-startup-aiuc-stealth-15-million-seed-nat-friedman/",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
+    "slug": "aleph-fpa",
+    "name": "Aleph (FP&A)",
+    "status": "active",
+    "founded_year": "2019",
+    "hq": null,
+    "website": null,
+    "sector": "AI Finance / FP&A",
+    "one_liner": "AI financial planning and analysis platform. Spreadsheet-native for finance teams.",
+    "total_raised_m": 46.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [],
+    "funding_rounds": [
+      {
+        "company_slug": "aleph-fpa",
+        "stage": "Series B",
+        "date": "2024",
+        "amount_m": 29.0,
+        "valuation_m": null,
+        "lead_investors": "Khosla Ventures",
+        "other_investors": "",
+        "source": "",
         "notes": ""
       }
     ],
@@ -1098,6 +1251,40 @@
       "Georgian",
       "Founders Circle Capital"
     ]
+  },
+  {
+    "slug": "ambient-ai",
+    "name": "Ambient.ai",
+    "status": "active",
+    "founded_year": "2017",
+    "hq": null,
+    "website": null,
+    "sector": "AI Computer Vision / Physical Security",
+    "one_liner": "AI-powered physical security \u2014 computer vision analyzing camera feeds to detect incidents in real time.",
+    "total_raised_m": 74.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [],
+    "funding_rounds": [
+      {
+        "company_slug": "ambient-ai",
+        "stage": "Series B",
+        "date": "2025-04",
+        "amount_m": 74.0,
+        "valuation_m": null,
+        "lead_investors": "Andreessen Horowitz",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
   },
   {
     "slug": "ami-labs",
@@ -2292,6 +2479,57 @@
     ]
   },
   {
+    "slug": "astrus",
+    "name": "Astrus",
+    "status": "active",
+    "founded_year": "2024",
+    "hq": "Toronto, Canada",
+    "website": null,
+    "sector": "AI for Chip Design / Analog Layout",
+    "one_liner": "Physics-aware AI foundation model for analog chip layout. Uses AlphaGo-inspired RL to surpass human designers.",
+    "total_raised_m": 8.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [
+      {
+        "company_slug": "astrus",
+        "name": "Brad Moon",
+        "role": "Co-founder",
+        "background": "",
+        "origin": "",
+        "prior": ""
+      },
+      {
+        "company_slug": "astrus",
+        "name": "Zeyi Wang",
+        "role": "Co-founder",
+        "background": "",
+        "origin": "",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "astrus",
+        "stage": "Seed",
+        "date": "2025",
+        "amount_m": 8.0,
+        "valuation_m": null,
+        "lead_investors": "Khosla Ventures",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
     "slug": "atlan",
     "name": "Atlan",
     "status": "Growth",
@@ -2536,6 +2774,57 @@
     "top_investors": []
   },
   {
+    "slug": "axiamatic",
+    "name": "Axiamatic",
+    "status": "active",
+    "founded_year": "2025",
+    "hq": null,
+    "website": null,
+    "sector": "AI Enterprise / Agentic Transformation",
+    "one_liner": "Agentic AI for enterprise transformation (ERP modernization). Digital twins + process-specific models.",
+    "total_raised_m": 54.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [
+      {
+        "company_slug": "axiamatic",
+        "name": "Rajiv Gupta",
+        "role": "CEO",
+        "background": "Co-founded Skyhigh Networks (acq McAfee)",
+        "origin": "",
+        "prior": ""
+      },
+      {
+        "company_slug": "axiamatic",
+        "name": "Kaushik Narayan",
+        "role": "CTO",
+        "background": "Co-founded Skyhigh Networks",
+        "origin": "",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "axiamatic",
+        "stage": "Seed",
+        "date": "2026-03",
+        "amount_m": 54.0,
+        "valuation_m": null,
+        "lead_investors": "Greylock; Bessemer",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
     "slug": "axiom-ai",
     "name": "Axiom",
     "status": "active",
@@ -2667,6 +2956,40 @@
         "amount_m": 7.5,
         "valuation_m": null,
         "lead_investors": "COTU Ventures",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
+    "slug": "backflip-ai",
+    "name": "Backflip AI",
+    "status": "active",
+    "founded_year": "2024",
+    "hq": null,
+    "website": null,
+    "sector": "AI Design / 3D CAD Generation",
+    "one_liner": "Generative AI converting text/photos/sketches into manufacturing-ready 3D models. Founded by Markforged founders.",
+    "total_raised_m": 30.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [],
+    "funding_rounds": [
+      {
+        "company_slug": "backflip-ai",
+        "stage": "Series A",
+        "date": "2024-12",
+        "amount_m": 30.0,
+        "valuation_m": null,
+        "lead_investors": "Andreessen Horowitz; NEA",
         "other_investors": "",
         "source": "",
         "notes": ""
@@ -3253,6 +3576,71 @@
     "top_investors": []
   },
   {
+    "slug": "braintrust-ai",
+    "name": "Braintrust (AI Eval)",
+    "status": "active",
+    "founded_year": "2023",
+    "hq": null,
+    "website": null,
+    "sector": "AI Observability / LLM Evaluation",
+    "one_liner": "AI observability and eval infrastructure \u2014 hallucination detection, drift monitoring, production evals. Notion, Stripe, Cloudflare as customers.",
+    "total_raised_m": 121.0,
+    "latest_valuation_m": 800.0,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [
+      {
+        "company_slug": "braintrust-ai",
+        "name": "Ankur Goyal",
+        "role": "CEO",
+        "background": "Founded Impira (sold to Figma), led AI at Figma",
+        "origin": "",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "braintrust-ai",
+        "stage": "Seed",
+        "date": "2023-12",
+        "amount_m": 5.1,
+        "valuation_m": null,
+        "lead_investors": "Greylock",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
+      },
+      {
+        "company_slug": "braintrust-ai",
+        "stage": "Series A",
+        "date": "2024-10",
+        "amount_m": 36.0,
+        "valuation_m": null,
+        "lead_investors": "Andreessen Horowitz",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
+      },
+      {
+        "company_slug": "braintrust-ai",
+        "stage": "Series B",
+        "date": "2026-02",
+        "amount_m": 80.0,
+        "valuation_m": 800.0,
+        "lead_investors": "ICONIQ",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
     "slug": "bricklayer-ai",
     "name": "Bricklayer AI",
     "status": "active",
@@ -3362,6 +3750,40 @@
       }
     ],
     "funding_rounds": [],
+    "top_investors": []
+  },
+  {
+    "slug": "c-the-signs",
+    "name": "C the Signs",
+    "status": "active",
+    "founded_year": "2018",
+    "hq": "London, UK",
+    "website": null,
+    "sector": "AI Healthcare / Cancer Detection",
+    "one_liner": "AI cancer prediction system. Detects breast cancer up to 5 years earlier. Deployed across NHS UK.",
+    "total_raised_m": 8.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [],
+    "funding_rounds": [
+      {
+        "company_slug": "c-the-signs",
+        "stage": "Growth",
+        "date": "2025-01",
+        "amount_m": 8.0,
+        "valuation_m": null,
+        "lead_investors": "Khosla Ventures",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
+      }
+    ],
     "top_investors": []
   },
   {
@@ -3983,6 +4405,51 @@
       "CRV",
       "NVentures (NVIDIA)"
     ]
+  },
+  {
+    "slug": "cogent-security",
+    "name": "Cogent Security",
+    "status": "active",
+    "founded_year": "2024",
+    "hq": null,
+    "website": null,
+    "sector": "AI Cybersecurity / Vulnerability Management",
+    "one_liner": "Agentic AI for end-to-end vulnerability triage and remediation. Ex-Abnormal Security team.",
+    "total_raised_m": 53.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [],
+    "funding_rounds": [
+      {
+        "company_slug": "cogent-security",
+        "stage": "Seed",
+        "date": "2025-07",
+        "amount_m": 11.0,
+        "valuation_m": null,
+        "lead_investors": "Greylock",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
+      },
+      {
+        "company_slug": "cogent-security",
+        "stage": "Series A",
+        "date": "2026-02",
+        "amount_m": 42.0,
+        "valuation_m": null,
+        "lead_investors": "Bain Capital Ventures",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
   },
   {
     "slug": "cognition-ai",
@@ -5040,6 +5507,57 @@
     "top_investors": []
   },
   {
+    "slug": "cylake",
+    "name": "Cylake",
+    "status": "active",
+    "founded_year": "2025",
+    "hq": null,
+    "website": null,
+    "sector": "AI Cybersecurity / Sovereign Security",
+    "one_liner": "AI-native cybersecurity with full data sovereignty for regulated enterprises. Founded by Nir Zuk (Palo Alto Networks founder).",
+    "total_raised_m": 45.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [
+      {
+        "company_slug": "cylake",
+        "name": "Nir Zuk",
+        "role": "Founder",
+        "background": "Founder of Palo Alto Networks, CTO 20+ years",
+        "origin": "",
+        "prior": ""
+      },
+      {
+        "company_slug": "cylake",
+        "name": "Ehud Shamir",
+        "role": "Co-founder",
+        "background": "Co-founder of SentinelOne",
+        "origin": "",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "cylake",
+        "stage": "Seed",
+        "date": "2026-03",
+        "amount_m": 45.0,
+        "valuation_m": null,
+        "lead_investors": "Greylock",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
     "slug": "d-matrix",
     "name": "d-Matrix",
     "status": "Growth (Series C)",
@@ -5678,6 +6196,40 @@
     "top_investors": []
   },
   {
+    "slug": "deeptune",
+    "name": "Deeptune",
+    "status": "active",
+    "founded_year": "2024",
+    "hq": null,
+    "website": null,
+    "sector": "AI Training / RL Environments",
+    "one_liner": "High-fidelity RL training gyms simulating real enterprise workflows so AI agents can learn multi-step tasks.",
+    "total_raised_m": 43.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [],
+    "funding_rounds": [
+      {
+        "company_slug": "deeptune",
+        "stage": "Series A",
+        "date": "2026-03",
+        "amount_m": 43.0,
+        "valuation_m": null,
+        "lead_investors": "Andreessen Horowitz",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
     "slug": "delve-ai",
     "name": "Delve",
     "status": "active",
@@ -5792,6 +6344,49 @@
       "Spark Capital (Series B lead)",
       "Daniel Gross (ex-Y Combinator partner)"
     ]
+  },
+  {
+    "slug": "dev-agents",
+    "name": "/dev/agents",
+    "status": "active",
+    "founded_year": "2024",
+    "hq": null,
+    "website": null,
+    "sector": "AI Agents / Infrastructure",
+    "one_liner": "Operating system for AI agents. Founded by David Singleton (ex-CTO Stripe, ex-VP Android at Google).",
+    "total_raised_m": 56.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [
+      {
+        "company_slug": "dev-agents",
+        "name": "David Singleton",
+        "role": "CEO",
+        "background": "Ex-CTO Stripe, ex-VP Engineering Android at Google",
+        "origin": "",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "dev-agents",
+        "stage": "Seed",
+        "date": "2024-11",
+        "amount_m": 56.0,
+        "valuation_m": null,
+        "lead_investors": "Index Ventures; CapitalG",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
   },
   {
     "slug": "devrev",
@@ -5969,6 +6564,40 @@
         "lead_investors": "Peak XV Partners; Gradient",
         "other_investors": "",
         "source": "https://www.globenewswire.com/news-release/2026/02/03/3231154/0/en/Ditto-raises-9-2M-to-replace-swiping-with-real-dates-for-college-students.html",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
+    "slug": "dualentry",
+    "name": "DualEntry",
+    "status": "active",
+    "founded_year": "2024",
+    "hq": null,
+    "website": null,
+    "sector": "AI Enterprise / ERP",
+    "one_liner": "First ERP platform built from scratch with AI for mid-market businesses.",
+    "total_raised_m": 90.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [],
+    "funding_rounds": [
+      {
+        "company_slug": "dualentry",
+        "stage": "Series A",
+        "date": "2025",
+        "amount_m": 90.0,
+        "valuation_m": null,
+        "lead_investors": "Lightspeed; Khosla Ventures; GV",
+        "other_investors": "",
+        "source": "",
         "notes": ""
       }
     ],
@@ -7120,6 +7749,51 @@
     "top_investors": []
   },
   {
+    "slug": "fable-security",
+    "name": "Fable Security",
+    "status": "active",
+    "founded_year": "2024",
+    "hq": null,
+    "website": null,
+    "sector": "AI Security / Human Risk Management",
+    "one_liner": "AI-native human risk management \u2014 monitors behavioral risk and delivers personalized AI interventions.",
+    "total_raised_m": 31.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [],
+    "funding_rounds": [
+      {
+        "company_slug": "fable-security",
+        "stage": "Seed",
+        "date": "2025",
+        "amount_m": 6.5,
+        "valuation_m": null,
+        "lead_investors": "Greylock",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
+      },
+      {
+        "company_slug": "fable-security",
+        "stage": "Series A",
+        "date": "2025-07",
+        "amount_m": 24.5,
+        "valuation_m": null,
+        "lead_investors": "Redpoint Ventures",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
     "slug": "factory-ai",
     "name": "Factory",
     "status": "Private (Series B)",
@@ -7357,6 +8031,40 @@
         "amount_m": 15.0,
         "valuation_m": null,
         "lead_investors": "Peak XV; FinTech Collective; Hoxton Ventures",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
+    "slug": "fireflies-ai",
+    "name": "Fireflies.ai",
+    "status": "active",
+    "founded_year": "2016",
+    "hq": null,
+    "website": null,
+    "sector": "AI Productivity / Meeting Assistant",
+    "one_liner": "AI meeting assistant \u2014 captures, transcribes, and makes meetings searchable. 2M+ users, 200K+ organizations.",
+    "total_raised_m": 14.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [],
+    "funding_rounds": [
+      {
+        "company_slug": "fireflies-ai",
+        "stage": "Series A",
+        "date": "2024",
+        "amount_m": 14.0,
+        "valuation_m": null,
+        "lead_investors": "Khosla Ventures",
         "other_investors": "",
         "source": "",
         "notes": ""
@@ -10662,6 +11370,40 @@
     "top_investors": []
   },
   {
+    "slug": "kaizen-labs",
+    "name": "Kaizen Labs",
+    "status": "active",
+    "founded_year": "2022",
+    "hq": null,
+    "website": null,
+    "sector": "AI GovTech / Civic Tech",
+    "one_liner": "AI-powered digital interfaces for US government agencies. 50+ agencies across 17 states.",
+    "total_raised_m": 21.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [],
+    "funding_rounds": [
+      {
+        "company_slug": "kaizen-labs",
+        "stage": "Series A",
+        "date": "2025-10",
+        "amount_m": 21.0,
+        "valuation_m": null,
+        "lead_investors": "NEA; a16z American Dynamism",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
     "slug": "kalshi",
     "name": "Kalshi",
     "status": "Active, Private",
@@ -11447,6 +12189,40 @@
     "top_investors": []
   },
   {
+    "slug": "limbic",
+    "name": "Limbic",
+    "status": "active",
+    "founded_year": "2018",
+    "hq": "London, UK",
+    "website": null,
+    "sector": "AI Healthcare / Mental Health",
+    "one_liner": "AI mental health chatbot deployed across 33% of UK NHS Talking Therapies. First UKCA Class IIa AI mental health device.",
+    "total_raised_m": 14.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [],
+    "funding_rounds": [
+      {
+        "company_slug": "limbic",
+        "stage": "Series A",
+        "date": "2024-03",
+        "amount_m": 14.0,
+        "valuation_m": null,
+        "lead_investors": "Khosla Ventures",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
     "slug": "liminal-experiences",
     "name": "Liminal Experiences",
     "status": "active",
@@ -11712,6 +12488,40 @@
         "lead_investors": "Felicis Ventures; UC Investments",
         "other_investors": "",
         "source": "https://techcrunch.com/2026/01/06/lmarena-lands-1-7b-valuation/",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
+    "slug": "loti-ai",
+    "name": "Loti AI",
+    "status": "active",
+    "founded_year": "2022",
+    "hq": null,
+    "website": null,
+    "sector": "AI Digital Identity / Deepfake Protection",
+    "one_liner": "AI digital identity protection \u2014 detects deepfakes and unauthorized use of likeness for celebrities and consumers.",
+    "total_raised_m": 16.2,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [],
+    "funding_rounds": [
+      {
+        "company_slug": "loti-ai",
+        "stage": "Series A",
+        "date": "2025-04",
+        "amount_m": 16.2,
+        "valuation_m": null,
+        "lead_investors": "Khosla Ventures",
+        "other_investors": "",
+        "source": "",
         "notes": ""
       }
     ],
@@ -13853,6 +14663,60 @@
         "lead_investors": "NVIDIA",
         "other_investors": "",
         "source": "https://thenextweb.com/news/nvidia-invests-2-billion-in-nebius",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
+    "slug": "netic",
+    "name": "Netic",
+    "status": "active",
+    "founded_year": "2024",
+    "hq": null,
+    "website": null,
+    "sector": "AI for Home Services",
+    "one_liner": "AI revenue engine for plumbers, roofers, HVAC \u2014 automates client outreach, calls, and scheduling.",
+    "total_raised_m": 43.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [
+      {
+        "company_slug": "netic",
+        "name": "Melisa Tokmak",
+        "role": "CEO",
+        "background": "Stanford CS, ex-Facebook, ex-Scale AI",
+        "origin": "",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "netic",
+        "stage": "Series A",
+        "date": "2025-06",
+        "amount_m": 20.0,
+        "valuation_m": null,
+        "lead_investors": "Founders Fund; Greylock",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
+      },
+      {
+        "company_slug": "netic",
+        "stage": "Series B",
+        "date": "2025-11",
+        "amount_m": 23.0,
+        "valuation_m": null,
+        "lead_investors": "Founders Fund",
+        "other_investors": "",
+        "source": "",
         "notes": ""
       }
     ],
@@ -16344,6 +17208,108 @@
     ]
   },
   {
+    "slug": "quiverai",
+    "name": "QuiverAI",
+    "status": "active",
+    "founded_year": "2024",
+    "hq": null,
+    "website": null,
+    "sector": "AI Design / Vector Graphics",
+    "one_liner": "AI models for vector graphics (SVG) generation. Topped SVG Arena leaderboard.",
+    "total_raised_m": 8.3,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [],
+    "funding_rounds": [
+      {
+        "company_slug": "quiverai",
+        "stage": "Seed",
+        "date": "2026-01",
+        "amount_m": 8.3,
+        "valuation_m": null,
+        "lead_investors": "Andreessen Horowitz",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
+    "slug": "rad-ai",
+    "name": "Rad AI",
+    "status": "active",
+    "founded_year": "2018",
+    "hq": null,
+    "website": null,
+    "sector": "AI Healthcare / Radiology",
+    "one_liner": "Generative AI for radiology \u2014 automates reports, dictation, follow-up. Used by 1/3 of US health systems.",
+    "total_raised_m": 80.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [],
+    "funding_rounds": [
+      {
+        "company_slug": "rad-ai",
+        "stage": "Series B",
+        "date": "2024-05",
+        "amount_m": 50.0,
+        "valuation_m": null,
+        "lead_investors": "Khosla Ventures",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
+    "slug": "radical-health",
+    "name": "Radical Health",
+    "status": "active",
+    "founded_year": "2024",
+    "hq": null,
+    "website": null,
+    "sector": "AI Healthcare / Oncology",
+    "one_liner": "Generative AI for personalized cancer care. Built on 10M+ cases from UCSF and Mayo Clinic.",
+    "total_raised_m": 5.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [],
+    "funding_rounds": [
+      {
+        "company_slug": "radical-health",
+        "stage": "Pre-seed",
+        "date": "2025",
+        "amount_m": 5.0,
+        "valuation_m": null,
+        "lead_investors": "Khosla Ventures",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
     "slug": "rain-ai",
     "name": "Rain AI",
     "status": "Late Seed / Series A (troubled)",
@@ -16394,6 +17360,40 @@
         "lead_investors": "Lightspeed Venture Partners",
         "other_investors": "",
         "source": "https://www.startuphub.ai/ai-news/funding-round/2025/raindrop-secures-15-million-seed-round",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
+    "slug": "raspberry-ai",
+    "name": "Raspberry AI",
+    "status": "active",
+    "founded_year": "2022",
+    "hq": "New York, NY",
+    "website": null,
+    "sector": "AI Fashion / Generative Design",
+    "one_liner": "Generative AI for fashion design \u2014 converts sketches into photorealistic renderings. Used by Under Armour, MCM.",
+    "total_raised_m": 24.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [],
+    "funding_rounds": [
+      {
+        "company_slug": "raspberry-ai",
+        "stage": "Series A",
+        "date": "2025-01",
+        "amount_m": 24.0,
+        "valuation_m": null,
+        "lead_investors": "Andreessen Horowitz",
+        "other_investors": "",
+        "source": "",
         "notes": ""
       }
     ],
@@ -17358,6 +18358,40 @@
     "top_investors": []
   },
   {
+    "slug": "salt-ai",
+    "name": "Salt AI",
+    "status": "active",
+    "founded_year": "2023",
+    "hq": null,
+    "website": null,
+    "sector": "AI for Life Sciences",
+    "one_liner": "Contextual AI platform for life sciences and biopharma. Partner with Ellison Medical Institute.",
+    "total_raised_m": 10.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [],
+    "funding_rounds": [
+      {
+        "company_slug": "salt-ai",
+        "stage": "Seed",
+        "date": "2025-09",
+        "amount_m": 10.0,
+        "valuation_m": null,
+        "lead_investors": "Morpheus Ventures; CoreWeave",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
     "slug": "samaya-ai",
     "name": "Samaya AI",
     "status": "active",
@@ -17774,6 +18808,60 @@
         "other_investors": "",
         "source": "https://techcrunch.com/2025/06/13/new-details-emerge-on-metas-14-3b-deal-for-scale/",
         "notes": "Meta acquired 49% non-voting stake. Alexandr Wang departed to Meta as Chief AI Officer. One of the largest private AI transactions in history."
+      }
+    ],
+    "top_investors": []
+  },
+  {
+    "slug": "science-corp",
+    "name": "Science Corp",
+    "status": "active",
+    "founded_year": "2021",
+    "hq": null,
+    "website": null,
+    "sector": "AI Neurotech / Brain-Computer Interface",
+    "one_liner": "Biohybrid neural interfaces using engineered neurons. Founded by Neuralink co-founder Max Hodak.",
+    "total_raised_m": 330.0,
+    "latest_valuation_m": 1250.0,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [
+      {
+        "company_slug": "science-corp",
+        "name": "Max Hodak",
+        "role": "CEO",
+        "background": "Co-founder and former president of Neuralink",
+        "origin": "",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "science-corp",
+        "stage": "Series B",
+        "date": "2025-04",
+        "amount_m": 100.0,
+        "valuation_m": null,
+        "lead_investors": "Khosla Ventures",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
+      },
+      {
+        "company_slug": "science-corp",
+        "stage": "Series C",
+        "date": "2026",
+        "amount_m": 230.0,
+        "valuation_m": 1250.0,
+        "lead_investors": "Khosla Ventures; Lightspeed",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
       }
     ],
     "top_investors": []
@@ -18708,6 +19796,51 @@
         "lead_investors": "KDDI; Axon",
         "other_investors": "",
         "source": "https://techcrunch.com/2024/11/15/drone-manufacturer-skydio-raises-170-million-extension-round/",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
+    "slug": "slingshot-ai",
+    "name": "Slingshot AI",
+    "status": "active",
+    "founded_year": "2024",
+    "hq": null,
+    "website": null,
+    "sector": "AI Healthcare / Mental Health",
+    "one_liner": "AI therapist trained on sessions with human therapists. 50K+ beta users. M total raised.",
+    "total_raised_m": 93.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [],
+    "funding_rounds": [
+      {
+        "company_slug": "slingshot-ai",
+        "stage": "Series A",
+        "date": "2024-08",
+        "amount_m": 30.0,
+        "valuation_m": null,
+        "lead_investors": "Andreessen Horowitz",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
+      },
+      {
+        "company_slug": "slingshot-ai",
+        "stage": "Series A Extension",
+        "date": "2025-07",
+        "amount_m": 63.0,
+        "valuation_m": null,
+        "lead_investors": "Radical Ventures; Forerunner",
+        "other_investors": "",
+        "source": "",
         "notes": ""
       }
     ],
@@ -20234,6 +21367,40 @@
     "top_investors": []
   },
   {
+    "slug": "tenex-ai",
+    "name": "Tenex AI",
+    "status": "active",
+    "founded_year": "2024",
+    "hq": null,
+    "website": null,
+    "sector": "AI Cybersecurity / SOC",
+    "one_liner": "AI-native autonomous SOC. M ARR in first year. Hit M revenue in 6 months.",
+    "total_raised_m": 27.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [],
+    "funding_rounds": [
+      {
+        "company_slug": "tenex-ai",
+        "stage": "Series A",
+        "date": "2025-09",
+        "amount_m": 27.0,
+        "valuation_m": null,
+        "lead_investors": "Crosspoint Capital; a16z",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
     "slug": "tennr",
     "name": "Tennr",
     "status": "Active, Private",
@@ -20884,6 +22051,57 @@
         "lead_investors": "Insight Partners",
         "other_investors": "GGV Capital; Bloomberg Beta; Heavybit; Silicon Valley CISO Investments",
         "source": "https://www.tonic.ai/press-releases/series-b",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
+    "slug": "tortus",
+    "name": "TORTUS",
+    "status": "active",
+    "founded_year": "2022",
+    "hq": "London, UK",
+    "website": null,
+    "sector": "AI Healthcare / Clinical Documentation",
+    "one_liner": "AI copilot for physicians \u2014 listens to patient conversations and generates clinical documentation.",
+    "total_raised_m": 4.2,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [
+      {
+        "company_slug": "tortus",
+        "name": "Dom Pimenta",
+        "role": "CEO",
+        "background": "Cardiologist",
+        "origin": "",
+        "prior": ""
+      },
+      {
+        "company_slug": "tortus",
+        "name": "Christopher Tan",
+        "role": "CTO",
+        "background": "",
+        "origin": "",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "tortus",
+        "stage": "Seed",
+        "date": "2024-02",
+        "amount_m": 4.2,
+        "valuation_m": null,
+        "lead_investors": "Khosla Ventures",
+        "other_investors": "",
+        "source": "",
         "notes": ""
       }
     ],
@@ -22192,6 +23410,92 @@
     "top_investors": []
   },
   {
+    "slug": "wabi-ai",
+    "name": "Wabi AI",
+    "status": "active",
+    "founded_year": "2025",
+    "hq": null,
+    "website": null,
+    "sector": "AI Consumer / App Creation",
+    "one_liner": "YouTube for mini apps \u2014 anyone can create functional apps from natural language. Founded by Replika creator.",
+    "total_raised_m": 20.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [
+      {
+        "company_slug": "wabi-ai",
+        "name": "Eugenia Kuyda",
+        "role": "CEO",
+        "background": "Founder of Replika (AI companion app)",
+        "origin": "",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "wabi-ai",
+        "stage": "Pre-seed",
+        "date": "2025-11",
+        "amount_m": 20.0,
+        "valuation_m": null,
+        "lead_investors": "Naval Ravikant; Garry Tan; Justin Kan",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
+    "slug": "waveforms-ai",
+    "name": "WaveForms AI",
+    "status": "active",
+    "founded_year": "2024",
+    "hq": null,
+    "website": null,
+    "sector": "AI Voice / Emotional Intelligence",
+    "one_liner": "Emotionally intelligent AI voice models. Acquired by Meta Aug 2025. Founded by ex-OpenAI GPT-4 Voice researcher.",
+    "total_raised_m": 40.0,
+    "latest_valuation_m": 200.0,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [
+      {
+        "company_slug": "waveforms-ai",
+        "name": "Alexi Conneau",
+        "role": "CEO",
+        "background": "Former OpenAI researcher, GPT-4 Voice Mode",
+        "origin": "",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "waveforms-ai",
+        "stage": "Seed",
+        "date": "2024-12",
+        "amount_m": 40.0,
+        "valuation_m": 200.0,
+        "lead_investors": "Andreessen Horowitz",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
     "slug": "waymo",
     "name": "Waymo",
     "status": "Active, Subsidiary of Alphabet",
@@ -22552,6 +23856,40 @@
         "lead_investors": "Valor Equity Partners",
         "other_investors": "",
         "source": "https://www.weka.io/",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
+    "slug": "windborne",
+    "name": "WindBorne Systems",
+    "status": "active",
+    "founded_year": "2019",
+    "hq": null,
+    "website": null,
+    "sector": "AI Weather / Climate Tech",
+    "one_liner": "Long-duration weather balloons + AI weather modeling. WeatherMesh surpassed Google DeepMind GraphCast.",
+    "total_raised_m": 15.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [],
+    "funding_rounds": [
+      {
+        "company_slug": "windborne",
+        "stage": "Series A",
+        "date": "2024-06",
+        "amount_m": 15.0,
+        "valuation_m": null,
+        "lead_investors": "Khosla Ventures",
+        "other_investors": "",
+        "source": "",
         "notes": ""
       }
     ],
