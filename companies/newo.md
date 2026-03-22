@@ -1,0 +1,20 @@
+---
+name: "Newo"
+founded: 2023
+website: https://newo.ai
+sector: "AI Voice / SMB Front Desk"
+one_liner: "AI voice and text agents as always-on front desks for small businesses. 15K+ agents deployed, 200+ partners."
+status: active
+funding_rounds:
+  - stage: "Series A"
+    date: "2026-02"
+    amount_m: 25
+    lead_investors: ["Ratmir Timashev"]
+total_funding: 32
+last_updated: 2026-03-21
+confidence: medium
+---
+
+# Newo
+
+AI voice and text agents as always-on front desks for small businesses. 15K+ agents deployed, 200+ partners.

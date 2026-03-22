@@ -1009,6 +1009,40 @@
     ]
   },
   {
+    "slug": "aiceberg",
+    "name": "AIceberg",
+    "status": "active",
+    "founded_year": "2022",
+    "hq": "New York, NY",
+    "website": "https://aiceberg.ai",
+    "sector": "AI Security / Trust Platform",
+    "one_liner": "AI trust platform \u2014 firewall and gateway for all AI traffic. Detects prompt injection, jailbreaking, PII leakage.",
+    "total_raised_m": 10.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [],
+    "funding_rounds": [
+      {
+        "company_slug": "aiceberg",
+        "stage": "Seed",
+        "date": "2025-03",
+        "amount_m": 10.0,
+        "valuation_m": null,
+        "lead_investors": "SYN Ventures",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
     "slug": "aidoc",
     "name": "Aidoc",
     "status": "active",
@@ -1156,6 +1190,40 @@
       "Pillar VC",
       "Betaworks"
     ]
+  },
+  {
+    "slug": "alphaxiv",
+    "name": "alphaXiv",
+    "status": "active",
+    "founded_year": "2024",
+    "hq": null,
+    "website": "https://alphaxiv.org",
+    "sector": "AI Research Tools / Discovery",
+    "one_liner": "GitHub of AI research \u2014 discover, annotate, and discuss arXiv papers. Bridges research and practice.",
+    "total_raised_m": 7.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [],
+    "funding_rounds": [
+      {
+        "company_slug": "alphaxiv",
+        "stage": "Seed",
+        "date": "2025-11",
+        "amount_m": 7.0,
+        "valuation_m": null,
+        "lead_investors": "Menlo Ventures; Haystack",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
   },
   {
     "slug": "ambience-healthcare",
@@ -3469,6 +3537,49 @@
     "top_investors": []
   },
   {
+    "slug": "bobyard",
+    "name": "Bobyard",
+    "status": "active",
+    "founded_year": "2023",
+    "hq": null,
+    "website": "https://bobyard.com",
+    "sector": "AI Construction / Estimating",
+    "one_liner": "AI computer-vision platform automating construction takeoffs and estimating \u2014 70% faster bids.",
+    "total_raised_m": 35.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [
+      {
+        "company_slug": "bobyard",
+        "name": "Michael Ding",
+        "role": "CEO",
+        "background": "Stanford-trained engineer",
+        "origin": "",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "bobyard",
+        "stage": "Series A",
+        "date": "2025-12",
+        "amount_m": 35.0,
+        "valuation_m": null,
+        "lead_investors": "8VC",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
     "slug": "bolt",
     "name": "Bolt.new (StackBlitz)",
     "status": "Series B",
@@ -3714,6 +3825,49 @@
     "top_investors": []
   },
   {
+    "slug": "brisk-teaching",
+    "name": "Brisk Teaching",
+    "status": "active",
+    "founded_year": "2023",
+    "hq": null,
+    "website": "https://briskteaching.com",
+    "sector": "AI EdTech / Teacher Tools",
+    "one_liner": "AI Chrome extension for teachers with 40+ tools for planning, grading, feedback. 1M+ educators in 100 countries.",
+    "total_raised_m": 15.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [
+      {
+        "company_slug": "brisk-teaching",
+        "name": "Arman Jaffer",
+        "role": "CEO",
+        "background": "",
+        "origin": "",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "brisk-teaching",
+        "stage": "Series A",
+        "date": "2025-03",
+        "amount_m": 15.0,
+        "valuation_m": null,
+        "lead_investors": "Bessemer Venture Partners",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
     "slug": "browser-use",
     "name": "Browser Use",
     "status": "Seed",
@@ -3750,6 +3904,49 @@
       }
     ],
     "funding_rounds": [],
+    "top_investors": []
+  },
+  {
+    "slug": "buildots",
+    "name": "Buildots",
+    "status": "active",
+    "founded_year": "2018",
+    "hq": "Tel Aviv, Israel",
+    "website": "https://buildots.com",
+    "sector": "AI Construction / Progress Tracking",
+    "one_liner": "AI construction management \u2014 360-degree cameras on hard hats track progress against BIM models. Intel as client.",
+    "total_raised_m": 166.0,
+    "latest_valuation_m": 300.0,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [
+      {
+        "company_slug": "buildots",
+        "name": "Roy Danon",
+        "role": "CEO",
+        "background": "Talpiot program graduate",
+        "origin": "",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "buildots",
+        "stage": "Series D",
+        "date": "2025-05",
+        "amount_m": 45.0,
+        "valuation_m": 300.0,
+        "lead_investors": "Qumra Capital",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
+      }
+    ],
     "top_investors": []
   },
   {
@@ -14542,6 +14739,74 @@
     "top_investors": []
   },
   {
+    "slug": "mozart-ai",
+    "name": "Mozart AI",
+    "status": "active",
+    "founded_year": "2024",
+    "hq": "London, UK",
+    "website": "https://mozartai.com",
+    "sector": "AI Music / Generative Audio",
+    "one_liner": "Generative Audio Workstation \u2014 AI music creation for amateurs and pros. 100K users, 1M songs in beta.",
+    "total_raised_m": 7.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [],
+    "funding_rounds": [
+      {
+        "company_slug": "mozart-ai",
+        "stage": "Seed",
+        "date": "2026-02",
+        "amount_m": 6.0,
+        "valuation_m": null,
+        "lead_investors": "Balderton Capital",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
+    "slug": "music-ai-moises",
+    "name": "Music AI (Moises)",
+    "status": "active",
+    "founded_year": "2020",
+    "hq": null,
+    "website": "https://music.ai",
+    "sector": "AI Music / Audio Platform",
+    "one_liner": "B2B/B2C AI audio platform \u2014 Moises.ai app with 50M users for stem separation. B2B API for licensing-friendly AI audio.",
+    "total_raised_m": 40.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [],
+    "funding_rounds": [
+      {
+        "company_slug": "music-ai-moises",
+        "stage": "Series A",
+        "date": "2025-01",
+        "amount_m": 40.0,
+        "valuation_m": null,
+        "lead_investors": "Connect Ventures (CAA + NEA); monashees",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
     "slug": "nace-ai",
     "name": "Nace.AI",
     "status": "active",
@@ -14929,6 +15194,40 @@
       }
     ],
     "funding_rounds": [],
+    "top_investors": []
+  },
+  {
+    "slug": "newo",
+    "name": "Newo",
+    "status": "active",
+    "founded_year": "2023",
+    "hq": null,
+    "website": "https://newo.ai",
+    "sector": "AI Voice / SMB Front Desk",
+    "one_liner": "AI voice and text agents as always-on front desks for small businesses. 15K+ agents deployed, 200+ partners.",
+    "total_raised_m": 32.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [],
+    "funding_rounds": [
+      {
+        "company_slug": "newo",
+        "stage": "Series A",
+        "date": "2026-02",
+        "amount_m": 25.0,
+        "valuation_m": null,
+        "lead_investors": "Ratmir Timashev",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
+      }
+    ],
     "top_investors": []
   },
   {
@@ -15708,6 +16007,40 @@
     ]
   },
   {
+    "slug": "ocell",
+    "name": "OCELL",
+    "status": "active",
+    "founded_year": "2020",
+    "hq": "Germany",
+    "website": null,
+    "sector": "AI Climate / Forest Digital Twins",
+    "one_liner": "AI digital twins of forests from aerial imagery and LiDAR \u2014 measures carbon storage and forest growth. 810K+ hectares managed.",
+    "total_raised_m": 11.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [],
+    "funding_rounds": [
+      {
+        "company_slug": "ocell",
+        "stage": "Series A",
+        "date": "2025-01",
+        "amount_m": 11.0,
+        "valuation_m": null,
+        "lead_investors": "Capnamic",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
     "slug": "octave-ai",
     "name": "Octave",
     "status": "active",
@@ -16139,6 +16472,60 @@
     "top_investors": []
   },
   {
+    "slug": "overland-ai",
+    "name": "Overland AI",
+    "status": "active",
+    "founded_year": "2022",
+    "hq": null,
+    "website": "https://overland.ai",
+    "sector": "AI Defense / Ground Autonomy",
+    "one_liner": "Autonomous software for off-road military ground vehicles. One human operator controls multiple robots. US Army/SOCOM contracts.",
+    "total_raised_m": 132.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [
+      {
+        "company_slug": "overland-ai",
+        "name": "Byron Boots",
+        "role": "CEO",
+        "background": "UW robotics professor",
+        "origin": "",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "overland-ai",
+        "stage": "Series A",
+        "date": "2025-01",
+        "amount_m": 32.0,
+        "valuation_m": null,
+        "lead_investors": "8VC",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
+      },
+      {
+        "company_slug": "overland-ai",
+        "stage": "Series B",
+        "date": "2026-02",
+        "amount_m": 100.0,
+        "valuation_m": null,
+        "lead_investors": "8VC",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
     "slug": "oxa",
     "name": "Oxa",
     "status": "active",
@@ -16405,6 +16792,40 @@
     ]
   },
   {
+    "slug": "paxton-ai",
+    "name": "Paxton",
+    "status": "active",
+    "founded_year": "2023",
+    "hq": "Bend, OR",
+    "website": "https://paxton.ai",
+    "sector": "AI Legal / Research Assistant",
+    "one_liner": "AI legal assistant \u2014 real-time multi-jurisdictional research and document drafting. 94% non-hallucination rate.",
+    "total_raised_m": 28.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [],
+    "funding_rounds": [
+      {
+        "company_slug": "paxton-ai",
+        "stage": "Series A",
+        "date": "2025-01",
+        "amount_m": 22.0,
+        "valuation_m": null,
+        "lead_investors": "Unusual Ventures",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
     "slug": "perfect-ai",
     "name": "Perfect",
     "status": "active",
@@ -16493,6 +16914,40 @@
         "lead_investors": "Andreessen Horowitz; Felicis; Nvidia; DST Global; Accel",
         "other_investors": "",
         "source": "https://techcrunch.com/2025/09/30/former-openai-and-deepmind-researchers-raise-whopping-300m-seed-to-automate-science/",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
+    "slug": "peripheral-labs",
+    "name": "Peripheral Labs",
+    "status": "active",
+    "founded_year": "2024",
+    "hq": null,
+    "website": null,
+    "sector": "AI Sports / 3D Reconstruction",
+    "one_liner": "Self-driving car perception tech applied to 3D sports footage reconstruction.",
+    "total_raised_m": 3.6,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [],
+    "funding_rounds": [
+      {
+        "company_slug": "peripheral-labs",
+        "stage": "Seed",
+        "date": "2025-12",
+        "amount_m": 3.6,
+        "valuation_m": null,
+        "lead_investors": "Khosla Ventures",
+        "other_investors": "",
+        "source": "",
         "notes": ""
       }
     ],
@@ -17173,6 +17628,49 @@
         "lead_investors": "Serena; Capital Fund Management; Mozilla Ventures",
         "other_investors": "",
         "source": "https://www.inria.fr/en/probabl-logiciel-open-source-intelligence-artificielle",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
+    "slug": "pryzm",
+    "name": "Pryzm",
+    "status": "active",
+    "founded_year": "2024",
+    "hq": null,
+    "website": "https://pryzm.io",
+    "sector": "AI GovTech / Defense Procurement",
+    "one_liner": "AI platform for federal procurement \u2014 helps defense tech discover RFPs and agencies move faster. IL5+FedRAMP High.",
+    "total_raised_m": 12.2,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [
+      {
+        "company_slug": "pryzm",
+        "name": "Nick LaRovere",
+        "role": "CEO",
+        "background": "Ex-Palantir, Lockheed Martin",
+        "origin": "",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "pryzm",
+        "stage": "Seed",
+        "date": "2025-12",
+        "amount_m": 12.2,
+        "valuation_m": null,
+        "lead_investors": "a16z American Dynamism",
+        "other_investors": "",
+        "source": "",
         "notes": ""
       }
     ],
@@ -17935,6 +18433,40 @@
         "lead_investors": "Lightspeed Venture Partners",
         "other_investors": "",
         "source": "https://techcrunch.com/2025/12/19/ex-splunk-execs-startup-resolve-ai/",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
+    "slug": "rhino-federated",
+    "name": "Rhino Federated Computing",
+    "status": "active",
+    "founded_year": "2020",
+    "hq": "Boston, MA",
+    "website": "https://rhinofcp.com",
+    "sector": "AI Infrastructure / Federated Learning",
+    "one_liner": "Federated AI for regulated industries \u2014 train models across institutions without centralizing data.",
+    "total_raised_m": 30.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [],
+    "funding_rounds": [
+      {
+        "company_slug": "rhino-federated",
+        "stage": "Series A",
+        "date": "2025-05",
+        "amount_m": 15.0,
+        "valuation_m": null,
+        "lead_investors": "AlleyCorp",
+        "other_investors": "",
+        "source": "",
         "notes": ""
       }
     ],
@@ -20268,6 +20800,49 @@
     ]
   },
   {
+    "slug": "soxton-ai",
+    "name": "Soxton AI",
+    "status": "active",
+    "founded_year": "2024",
+    "hq": null,
+    "website": null,
+    "sector": "AI Legal / Startup Law",
+    "one_liner": "AI-native law firm for startups \u2014 50+ contracts, AI copilot, lawyer-in-the-loop negotiations. 270+ businesses served.",
+    "total_raised_m": 2.5,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [
+      {
+        "company_slug": "soxton-ai",
+        "name": "Logan Brown",
+        "role": "CEO",
+        "background": "Harvard J.D., ex-Cooley LLP",
+        "origin": "",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "soxton-ai",
+        "stage": "Pre-Seed",
+        "date": "2025-12",
+        "amount_m": 2.5,
+        "valuation_m": null,
+        "lead_investors": "Moxxie Ventures",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
     "slug": "spacial-ai",
     "name": "Spacial",
     "status": "active",
@@ -20468,6 +21043,49 @@
         "amount_m": 7.0,
         "valuation_m": null,
         "lead_investors": "LAUNCHub Ventures",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
+    "slug": "sportai",
+    "name": "SportAI",
+    "status": "active",
+    "founded_year": "2023",
+    "hq": "Oslo, Norway",
+    "website": "https://sportai.com",
+    "sector": "AI Sports / Video Analysis",
+    "one_liner": "Camera-agnostic AI video analysis for sports coaching. TIME Best Inventions 2025. Backed by Magnus Carlsen.",
+    "total_raised_m": 3.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [
+      {
+        "company_slug": "sportai",
+        "name": "Lauren Pedersen",
+        "role": "CEO",
+        "background": "Former NCAA tennis player",
+        "origin": "",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "sportai",
+        "stage": "Seed",
+        "date": "2025-11",
+        "amount_m": 3.0,
+        "valuation_m": null,
+        "lead_investors": "Altitude Capital",
         "other_investors": "",
         "source": "",
         "notes": ""
@@ -22672,6 +23290,40 @@
         "lead_investors": "China Mobile Capital; Tencent; Alibaba; Ant Group",
         "other_investors": "",
         "source": "https://eu.36kr.com/en/p/3344368397190018",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
+    "slug": "unlimited-industries",
+    "name": "Unlimited Industries",
+    "status": "active",
+    "founded_year": "2024",
+    "hq": null,
+    "website": null,
+    "sector": "AI Construction / Design Optimization",
+    "one_liner": "AI-native construction company evaluating hundreds of thousands of design configurations in parallel.",
+    "total_raised_m": 12.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [],
+    "funding_rounds": [
+      {
+        "company_slug": "unlimited-industries",
+        "stage": "Seed",
+        "date": "2025-12",
+        "amount_m": 12.0,
+        "valuation_m": null,
+        "lead_investors": "Andreessen Horowitz; CIV",
+        "other_investors": "",
+        "source": "",
         "notes": ""
       }
     ],
