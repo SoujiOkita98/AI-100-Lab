@@ -21,6 +21,7 @@ website_verified: true
 linkedin: https://www.linkedin.com/company/non-human-identity-management-oasis
 crunchbase: https://www.crunchbase.com/organization/oasis-security
 crunchbase_verified: true
+twitter: '@oasissec'
 ---
 
 # Oasis Security

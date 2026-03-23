@@ -73,6 +73,7 @@ confidence: medium
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/chaos-industries
 crunchbase_verified: true
+twitter: '@ChaosDefense'
 ---
 
 # Chaos Industries

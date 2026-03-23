@@ -81,6 +81,7 @@ confidence: medium
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/saronic-technologies
 crunchbase_verified: true
+twitter: '@Saronic'
 ---
 
 # Saronic Technologies

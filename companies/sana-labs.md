@@ -18,6 +18,7 @@ confidence: medium
 crunchbase: https://www.crunchbase.com/organization/sana-labs
 crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/sana-labs
+twitter: '@sanalabs'
 ---
 
 # Sana Labs

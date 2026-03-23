@@ -19,6 +19,7 @@ website_verified: true
 crunchbase: https://www.crunchbase.com/organization/magicschool-ai
 crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/magicschool-ai
+twitter: '@magicschoolai'
 ---
 
 # MagicSchool AI -- AI Tools for Educators

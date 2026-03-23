@@ -37,6 +37,7 @@ one_liner: Turing began as an AI-powered platform for vetting and matching remot
 crunchbase: https://www.crunchbase.com/organization/turing
 crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/turingcom
+twitter: '@turingcom'
 ---
 
 # Turing

@@ -19,6 +19,7 @@ confidence: medium
 crunchbase: https://www.crunchbase.com/organization/wisdomai
 crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/wisdomai
+twitter: '@wisdomai_inc'
 ---
 
 # WisdomAI

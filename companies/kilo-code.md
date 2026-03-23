@@ -27,6 +27,7 @@ website_verified: true
 linkedin: https://www.linkedin.com/company/kilo-code
 crunchbase: https://www.crunchbase.com/organization/kilo-code
 crunchbase_verified: true
+twitter: '@kilocode'
 ---
 
 # Kilo Code

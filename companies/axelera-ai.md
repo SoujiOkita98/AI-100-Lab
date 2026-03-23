@@ -16,6 +16,7 @@ confidence: medium
 crunchbase: https://www.crunchbase.com/organization/axelera-ai
 crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/axelera-ai
+twitter: '@AxeleraAI'
 ---
 
 # Axelera AI

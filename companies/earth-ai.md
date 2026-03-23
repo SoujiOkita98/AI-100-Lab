@@ -20,6 +20,7 @@ confidence: medium
 crunchbase: https://www.crunchbase.com/organization/earth-ai
 crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/earth-ai
+twitter: '@earthaiexplore'
 ---
 
 # Earth AI

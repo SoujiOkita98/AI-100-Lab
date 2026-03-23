@@ -18,6 +18,7 @@ confidence: medium
 crunchbase: https://www.crunchbase.com/organization/coram-ai
 crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/coram-ai
+twitter: '@Coram_AI'
 ---
 
 # Coram AI

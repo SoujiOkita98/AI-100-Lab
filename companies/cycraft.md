@@ -16,6 +16,7 @@ confidence: medium
 crunchbase: https://www.crunchbase.com/organization/cycraft
 crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/cycraft
+twitter: '@cycraft_corp'
 ---
 
 # CyCraft

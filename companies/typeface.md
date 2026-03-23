@@ -45,6 +45,7 @@ data_notes: 'Needs verification: website, founders. Profile may be incomplete.'
 crunchbase: https://www.crunchbase.com/organization/typeface
 crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/typefaceai
+twitter: '@typefaceai'
 ---
 
 # Typeface

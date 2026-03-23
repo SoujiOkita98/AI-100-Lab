@@ -20,6 +20,7 @@ confidence: medium
 crunchbase: https://www.crunchbase.com/organization/neural-concept
 crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/neuralconcept
+twitter: '@nc_shape'
 ---
 
 # Neural Concept

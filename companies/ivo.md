@@ -18,6 +18,7 @@ confidence: medium
 crunchbase: https://www.crunchbase.com/organization/ivo
 crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/ivoai
+twitter: '@heyivoai'
 ---
 
 # Ivo

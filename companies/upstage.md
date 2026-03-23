@@ -20,6 +20,7 @@ confidence: medium
 crunchbase: https://www.crunchbase.com/organization/upstage
 crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/upstageai
+twitter: '@upstageai'
 ---
 
 # Upstage

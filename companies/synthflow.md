@@ -19,6 +19,7 @@ linkedin: https://www.linkedin.com/company/synthflowai
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/synthflow
 crunchbase_verified: true
+twitter: '@SynthflowAI'
 ---
 
 # Synthflow

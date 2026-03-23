@@ -20,6 +20,7 @@ headquarters: Los Gatos, CA
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/lumana
 crunchbase_verified: true
+twitter: '@LumanaHQ'
 ---
 
 # Lumana

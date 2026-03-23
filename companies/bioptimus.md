@@ -16,6 +16,7 @@ confidence: medium
 crunchbase: https://www.crunchbase.com/organization/bioptimus
 crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/bioptimus
+twitter: '@bioptimus_ai'
 ---
 
 # Bioptimus

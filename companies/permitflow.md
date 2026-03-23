@@ -20,6 +20,7 @@ headquarters: New York, NY
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/permitflow
 crunchbase_verified: true
+twitter: '@Permitflow'
 ---
 
 # PermitFlow
