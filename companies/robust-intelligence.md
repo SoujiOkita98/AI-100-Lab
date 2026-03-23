@@ -42,6 +42,24 @@ website_verified: false
 data_notes: 'Website URL may be invalid (Connection failed). '
 crunchbase: https://www.crunchbase.com/organization/robust-intelligence
 crunchbase_verified: true
+total_raised_m: 44
+funding_rounds:
+  - stage: "Seed"
+    date: "2019"
+    amount_m: 3
+    lead_investors: ["Sequoia Capital"]
+    source: "https://www.crunchbase.com/organization/robust-intelligence"
+  - stage: "Series A"
+    date: "2020-02"
+    amount_m: 11
+    lead_investors: ["Sequoia Capital"]
+    source: "https://www.crunchbase.com/organization/robust-intelligence"
+  - stage: "Series B"
+    date: "2021-12"
+    amount_m: 30
+    lead_investors: ["Tiger Global Management"]
+    source: "https://www.crunchbase.com/organization/robust-intelligence"
+data_notes: "Acquired by Cisco in October 2024 for ~$400M."
 ---
 
 # Robust Intelligence

@@ -19,7 +19,6 @@ funding_rounds:
   lead_investors:
   - Thrive Capital
   - Greenoaks
-total_funding: 100
 last_updated: 2026-03-21
 confidence: medium
 data_notes: 'Needs verification: website, source_urls. Profile may be incomplete.'
@@ -28,6 +27,7 @@ website_verified: true
 linkedin: https://www.linkedin.com/company/nudge42
 crunchbase: https://www.crunchbase.com/organization/nudge-bci
 crunchbase_verified: true
+total_raised_m: 100.0
 ---
 
 # Nudge (BCI)

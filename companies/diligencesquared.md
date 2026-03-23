@@ -12,7 +12,20 @@ funding_rounds:
   - Relentless
   - Y Combinator
   source: https://techcrunch.com/2026/03/05/diligencesquared-uses-ai-voice-agents/
-total_funding: 5
+founders:
+- name: Frederik Hansen
+  role: Co-Founder & CEO
+  background: Former Principal at Blackstone Private Equity (San Francisco, New York, London). Multi-billion dollar buyout
+    deals.
+  origin: Danish
+- name: Søren Biltoft
+  role: Co-Founder & COO
+  background: Former Principal at BCG, 7 years in BCG's private equity practice leading diligence efforts.
+  origin: Danish
+- name: Harshil Rastogi
+  role: Co-Founder
+  background: Repeat founder. Former software engineer at Google.
+  origin: Indian
 last_updated: 2026-03-21
 confidence: medium
 data_notes: 'Needs verification: website, founders, source_urls, headquarters. Profile may be incomplete.'
@@ -22,6 +35,7 @@ headquarters: New York, NY
 linkedin: https://www.linkedin.com/company/diligencesquared
 crunchbase: https://www.crunchbase.com/organization/diligencesquared
 crunchbase_verified: true
+total_raised_m: 5.0
 ---
 
 # DiligenceSquared

@@ -16,13 +16,22 @@ funding_rounds:
   amount_m: 75
   lead_investors:
   - Sapphire Ventures
-total_funding: 90
+founders:
+  - name: "Will Lawrence"
+    role: "Co-Founder & CEO"
+    background: "Former product lead for Facebook's AML platform. Built core compliance infrastructure at Paxos. YC alum."
+    origin: "American (inferred from name)"
+  - name: "Alex Jin"
+    role: "Co-Founder & CTO"
+    background: "Technical co-founder."
+    origin: "Chinese-American (inferred from name)"
 last_updated: 2026-03-21
 confidence: medium
 linkedin: https://www.linkedin.com/company/bretton-ai
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/bretton-ai
 crunchbase_verified: true
+total_raised_m: 90.0
 ---
 
 # Bretton AI

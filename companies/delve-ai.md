@@ -12,8 +12,16 @@ funding_rounds:
   lead_investors:
   - Insight Partners
   source: https://techcrunch.com/2025/07/22/21-year-old-mit-dropouts-raise-32m/
-total_funding: 32
 latest_valuation: 300
+founders:
+- name: Karun Kaushik
+  role: Co-Founder & CEO
+  background: MIT dropout (sophomore year, 2023). Studied AI at MIT.
+  origin: Indian
+- name: Selin Kocalar
+  role: Co-Founder
+  background: MIT dropout (sophomore year, 2023). Studied AI at MIT.
+  origin: Turkish
 last_updated: 2026-03-21
 confidence: medium
 data_notes: 'Needs verification: website, founders, source_urls, headquarters. Profile may be incomplete.'
@@ -23,6 +31,7 @@ headquarters: San Francisco, CA
 linkedin: https://www.linkedin.com/company/delve-ai
 crunchbase: https://www.crunchbase.com/organization/delve-ai
 crunchbase_verified: true
+total_raised_m: 32.0
 ---
 
 # Delve

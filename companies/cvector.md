@@ -23,7 +23,6 @@ funding_rounds:
   - Fusion Fund
   - Hitachi Ventures
   source: https://techcrunch.com/2026/01/26/ai-startup-cvector-raises-5m/
-total_funding: 5
 last_updated: 2026-03-21
 confidence: medium
 data_notes: 'Needs verification: website, source_urls. Profile may be incomplete.'
@@ -31,6 +30,7 @@ website: https://www.cvector.com
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/cvector
 crunchbase_verified: true
+total_raised_m: 5.0
 ---
 
 # CVector

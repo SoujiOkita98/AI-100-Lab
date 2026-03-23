@@ -14,13 +14,30 @@ funding_rounds:
   - NVIDIA
   - Siemens
   - Microsoft
-total_funding: 95
 last_updated: 2026-03-21
 confidence: medium
 crunchbase: https://www.crunchbase.com/organization/neural-concept
 crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/neuralconcept
 twitter: '@nc_shape'
+total_raised_m: 95.0
+founders:
+  - name: "Pierre Baque"
+    role: "Co-Founder & CEO"
+    background: "PhD; EPFL spin-out"
+    origin: "French"
+  - name: "Theophile Allard"
+    role: "Co-Founder & CTO"
+    background: "EPFL spin-out"
+    origin: "French"
+  - name: "Jonathan Donier"
+    role: "Co-Founder & CSO"
+    background: "PhD; EPFL spin-out"
+    origin: "French"
+  - name: "Thomas von Tschammer"
+    role: "Co-Founder & GM USA"
+    background: "EPFL spin-out"
+    origin: "German-Swiss"
 ---
 
 # Neural Concept

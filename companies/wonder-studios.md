@@ -14,7 +14,6 @@ funding_rounds:
   - LocalGlobe
   - Adobe Ventures
   source: https://sifted.eu/articles/wonder-ai-movie-studio-atomico-localglobe
-total_funding: 12
 last_updated: 2026-03-21
 confidence: medium
 data_notes: 'Needs verification: website, founders, source_urls. Profile may be incomplete.'
@@ -22,6 +21,7 @@ website: https://wonderstudios.com
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/wonder-studios
 crunchbase_verified: true
+total_raised_m: 12.0
 ---
 
 # Wonder Studios

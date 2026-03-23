@@ -23,7 +23,6 @@ funding_rounds:
   - Viola Ventures
   - Lightspeed
   source: https://siliconangle.com/2026/03/02/agentic-e-commerce-startup-zyg-gets-58m/
-total_funding: 58
 last_updated: 2026-03-21
 confidence: medium
 data_notes: 'Needs verification: website, source_urls. Profile may be incomplete.'
@@ -31,6 +30,7 @@ website: https://www.zyg.com
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/zyg
 crunchbase_verified: true
+total_raised_m: 58.0
 ---
 
 # ZyG

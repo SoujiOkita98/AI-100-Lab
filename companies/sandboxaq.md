@@ -21,7 +21,6 @@ funding_rounds:
 - stage: Series E
   date: 2025-04
   amount_m: 450
-total_funding: 1100
 last_updated: 2026-03-21
 confidence: medium
 website_verified: true
@@ -29,6 +28,7 @@ linkedin: https://www.linkedin.com/company/sandboxaq
 crunchbase: https://www.crunchbase.com/organization/sandboxaq
 crunchbase_verified: true
 twitter: '@SandboxAQ'
+total_raised_m: 1100.0
 ---
 
 # SandboxAQ

@@ -14,15 +14,24 @@ funding_rounds:
   amount_m: 83
   lead_investors:
   - JD.com
-total_funding: 153
 last_updated: 2026-03-21
 confidence: medium
-data_notes: 'Needs verification: website, founders, source_urls. Profile may be incomplete.'
+founders:
+  - name: "Han Fengtao"
+    role: "CEO & Founder"
+    background: "Former CTO of Rokae Robotics. Experienced roboticist."
+    origin: "Chinese"
+  - name: "Gao Yang"
+    role: "Co-Founder & Chief Scientist"
+    background: "UC Berkeley PhD (under Pieter Abbeel). Tsinghua professor. Research in cross-modal robot interaction. Published at NeurIPS, ICRA."
+    origin: "Chinese"
+data_notes: 'Needs verification: website, source_urls. Profile may be incomplete.'
 website: https://www.spirit-ai.com/en
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/spirit-ai-robotics
 crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/spirit-robotics
+total_raised_m: 153.0
 ---
 
 # Spirit AI

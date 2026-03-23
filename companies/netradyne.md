@@ -1,6 +1,7 @@
 ---
 company: Netradyne
 legal_name: NetraDyne Inc.
+website: https://www.netradyne.com
 domain: netradyne.com
 sector: AI for Fleet Safety / Computer Vision & Edge AI
 founded: 2015

@@ -12,7 +12,6 @@ funding_rounds:
   lead_investors:
   - Accel
   - Initialized Capital
-total_funding: 54
 last_updated: 2026-03-21
 confidence: medium
 linkedin: https://www.linkedin.com/company/permitflow
@@ -21,6 +20,16 @@ website_verified: true
 crunchbase: https://www.crunchbase.com/organization/permitflow
 crunchbase_verified: true
 twitter: '@Permitflow'
+total_raised_m: 54.0
+founders:
+- name: Francis Thumpasery
+  role: CEO
+  background: AB Economics magna cum laude, Harvard. Stanford GSB. Former McKinsey. Advent International. YC alumni.
+  origin: Indian-American
+- name: Samuel Lam
+  role: CTO
+  background: CS & Statistics, Harvard. Former software engineer at Uber Eats.
+  origin: Chinese-American
 ---
 
 # PermitFlow

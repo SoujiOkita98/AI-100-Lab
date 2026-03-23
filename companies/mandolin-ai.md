@@ -12,7 +12,6 @@ funding_rounds:
   - Greylock
   - SignalFire
   source: https://www.businesswire.com/news/home/20250625104094/en/
-total_funding: 40
 last_updated: 2026-03-21
 confidence: medium
 data_notes: 'Needs verification: website, founders, source_urls, headquarters. Profile may be incomplete.'
@@ -22,6 +21,16 @@ linkedin: https://www.linkedin.com/company/withmandolin
 headquarters: San Francisco, CA
 crunchbase: https://www.crunchbase.com/organization/mandolin-ai
 crunchbase_verified: true
+total_raised_m: 40.0
+founders:
+  - name: "Will Yin"
+    role: "Co-Founder & CEO"
+    background: "Repeat entrepreneur with background in healthcare"
+    origin: "Chinese"
+  - name: "Rohit Rustagi"
+    role: "Co-Founder & COO"
+    background: "Repeat entrepreneur"
+    origin: "Indian"
 ---
 
 # Mandolin

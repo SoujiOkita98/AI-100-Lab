@@ -14,6 +14,11 @@ key_investors:
 - RTP Global
 - Watertower Ventures
 notable_backers: []
+founders:
+  - name: "Ishraq Khan"
+    role: "CEO"
+    background: "Self-taught coder since age 8; launched first startup in middle school; raised $1M in funding while in high school; now 21"
+    origin: "South Asian (Bangladeshi-American)"
 last_updated: 2026-03-20
 confidence: medium
 one_liner: Kodezi is an AI-powered code debugging and autonomous code maintenance platform that positions itself as an "AI
@@ -21,6 +26,18 @@ one_liner: Kodezi is an AI-powered code debugging and autonomous code maintenanc
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/kodezi
 crunchbase_verified: true
+total_raised_m: 2
+funding_rounds:
+  - stage: "Seed"
+    date: "2022"
+    amount_m: 0.8
+    lead_investors: ["RTP Global", "Watertower Ventures"]
+    source: "https://www.crunchbase.com/organization/kodezi"
+  - stage: "Additional Funding"
+    date: "2025-05"
+    amount_m: 1.2
+    lead_investors: ["Undisclosed"]
+    source: "https://www.crunchbase.com/organization/kodezi"
 ---
 
 # Kodezi

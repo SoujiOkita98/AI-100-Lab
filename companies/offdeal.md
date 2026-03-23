@@ -10,7 +10,6 @@ funding_rounds:
   amount_m: 12
   lead_investors:
   - Radical Ventures
-total_funding: 17
 last_updated: 2026-03-21
 confidence: medium
 headquarters: New York, NY
@@ -18,6 +17,16 @@ website: https://offdeal.io
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/offdeal
 crunchbase_verified: true
+total_raised_m: 17.0
+founders:
+  - name: "Ori Eldarov"
+    role: "Co-Founder & CEO"
+    background: "Former investment banker at RBC Capital Markets (6 years); studied at UBC"
+    origin: "Israeli-Canadian"
+  - name: "Alston Lin"
+    role: "Co-Founder & CTO"
+    background: "Former engineer at Meta"
+    origin: "Chinese-Canadian"
 ---
 
 # OffDeal

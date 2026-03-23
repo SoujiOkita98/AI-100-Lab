@@ -2,7 +2,6 @@
 name: Reka AI
 status: active
 founded: 2022
-hq: Sunnyvale, CA
 website: https://reka.ai
 sector:
 - multimodal AI
@@ -123,6 +122,7 @@ website_verified: true
 crunchbase: https://www.crunchbase.com/organization/reka-ai
 crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/reka-ai
+headquarters: Sunnyvale, CA
 ---
 
 # Reka AI

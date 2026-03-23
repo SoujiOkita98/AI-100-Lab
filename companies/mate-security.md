@@ -14,7 +14,6 @@ funding_rounds:
   - Team8
   - Insight Partners
   source: https://www.securityweek.com/mate-emerges-from-stealth-mode-with-15-5-million-in-seed-funding/
-total_funding: 15.5
 last_updated: 2026-03-21
 confidence: medium
 founders:
@@ -28,6 +27,7 @@ website_verified: true
 linkedin: https://www.linkedin.com/company/mate-security
 crunchbase: https://www.crunchbase.com/organization/mate-security
 crunchbase_verified: true
+total_raised_m: 15.5
 ---
 
 # Mate Security

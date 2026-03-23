@@ -9,7 +9,6 @@ funding_rounds:
   amount_m: 23
   lead_investors:
   - Hanaco Ventures
-total_funding: 23
 last_updated: 2026-03-21
 confidence: medium
 founders:
@@ -25,6 +24,7 @@ headquarters: Tel Aviv, Israel
 founded: 2024
 crunchbase: https://www.crunchbase.com/organization/perfect-ai
 crunchbase_verified: true
+total_raised_m: 23.0
 ---
 
 # Perfect

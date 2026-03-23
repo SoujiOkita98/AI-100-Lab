@@ -1,13 +1,13 @@
 ---
 name: Luma AI
 legal_name: Luma AI, Inc.
+website: https://lumalabs.ai
 domain: lumalabs.ai
 sector: AI Video & 3D Generation / Creative AI Agents
 founded: 2021
 headquarters: Palo Alto, CA
 ceo: Amit Jain
 employees_approx: 200
-total_funding_usd: 1070000000
 latest_valuation_usd: 4000000000
 latest_valuation_date: 2025-11-19
 status: Private
@@ -64,6 +64,16 @@ twitter: '@LumaLabsAI'
 linkedin: https://www.linkedin.com/company/lumalabsai
 crunchbase: https://www.crunchbase.com/organization/luma-ai
 crunchbase_verified: true
+total_raised_m: 1070.0
+founders:
+  - name: "Amit Jain"
+    role: "Co-Founder & CEO"
+    background: "Former Systems and ML Engineer at Apple, led Passthrough feature for Apple Vision Pro"
+    origin: "Indian"
+  - name: "Alberto Taiuti"
+    role: "Co-Founder"
+    background: ""
+    origin: "Italian"
 ---
 
 # Luma AI

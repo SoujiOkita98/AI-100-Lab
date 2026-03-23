@@ -2,7 +2,6 @@
 name: Gather AI
 founded: 2017
 incorporated_country: USA
-hq: Pittsburgh, Pennsylvania, USA
 other_offices: []
 sector: Warehouse Automation / Autonomous Drones
 employee_count_approx: ~60
@@ -78,6 +77,7 @@ website_verified: true
 linkedin: https://www.linkedin.com/company/gather-ai
 crunchbase: https://www.crunchbase.com/organization/gather-ai
 crunchbase_verified: true
+headquarters: Pittsburgh, Pennsylvania, USA
 ---
 
 # Gather AI

@@ -1,22 +1,12 @@
 ---
-company_name: Aleph Alpha
-legal_name: Aleph Alpha GmbH
-slug: aleph-alpha
-domain: aleph-alpha.com
-hq_city: Heidelberg
-hq_country: Germany
-additional_offices:
-  - Berlin, Germany
-  - Darmstadt, Germany
-  - Munich, Germany
+name: "Aleph Alpha"
 founded: 2019
-incorporated_country: Germany
-sector: Artificial Intelligence
-sub_sector: Sovereign AI / Enterprise AI Platform
-business_model: Enterprise platform (PhariaAI-as-a-Service) for government and regulated industries, deployed on sovereign cloud infrastructure
-status: Private
-headcount_estimate: ~351 (Feb 2026, after ~50-person layoff in Jan 2026)
-revenue_estimate: Uncertain; significant portion of 2023 mega-round was pre-committed order volume rather than pure equity
+headquarters: "Heidelberg, Germany"
+website: "https://aleph-alpha.com"
+sector: ["sovereign AI", "enterprise AI", "foundation models"]
+one_liner: "Germany's leading sovereign AI company building enterprise AI platform PhariaAI for government and regulated industries."
+status: active
+employees: 351
 
 founders:
   - name: Jonas Andrulis
@@ -60,109 +50,22 @@ funding_rounds:
     notes: Early-stage funding to begin LLM development.
     source: https://www.clay.com/dossier/aleph-alpha-funding
 
-  - stage: Series A
-    date: 2021
-    amount_eur: ~23M
-    lead_investors:
-      - Earlybird Venture Capital (unconfirmed lead)
-    other_investors:
-      - Lakestar
-      - UVC Partners
-      - 468 Capital
-      - Cavalry Ventures
-    notes: Backed primarily by European VCs. Exact lead investor uncertain.
-    source: https://en.wikipedia.org/wiki/Aleph_Alpha
+  - stage: "Series A"
+    date: "2021"
+    amount_m: 25
+    lead_investors: ["Earlybird Venture Capital"]
+    source: "https://en.wikipedia.org/wiki/Aleph_Alpha"
+  - stage: "Series B"
+    date: "2023-11"
+    amount_m: 500
+    lead_investors: ["Schwarz Group", "Innovation Park AI (IPAI)"]
+    source: "https://sifted.eu/articles/ai-startup-aleph-alpha-raises-500m"
+    notes: "Only ~110M EUR was equity; rest was research grants and order commitments."
 
-  - stage: Series B
-    date: 2023-11
-    amount_total: ~$500M (~460M EUR)
-    amount_equity: ~110M EUR
-    amount_research_funding: ~300M EUR (to subsidiary Aleph Alpha Research)
-    amount_order_commitments: ~60M EUR (pre-committed customer orders)
-    lead_investors:
-      - Schwarz Group / Dieter Schwarz Foundation
-      - Innovation Park Artificial Intelligence (IPAI)
-    other_investors:
-      - SAP SE
-      - Bosch Ventures
-      - Hewlett Packard Enterprise
-      - Hubert Burda Media
-      - Christ&Company Consulting
-      - Deutsche Bank
-      - D11Z.Ventures
-    valuation_notes: >
-      Headline $500M round is misleading. Only ~110M EUR was equity; the rest was research
-      grants and order commitments. Equity-based valuation estimated at ~500M EUR. If all
-      capital commitments and joint-project agreements are included, effective valuation
-      could be characterized as up to ~3B EUR, but this is a generous interpretation.
-    source: https://sifted.eu/articles/ai-startup-aleph-alpha-raises-500m
+total_raised_m: 533
 
-total_funding_raised: ~$533M across 4 rounds (per Tracxn; includes all capital types)
-
-key_products:
-  - name: PhariaAI
-    type: Enterprise AI operating system
-    description: >
-      Full-stack, sovereign AI platform for enterprises and governments. Provides
-      customizable LLM deployment, agent orchestration, and compliance tooling.
-      Runs natively on STACKIT (Schwarz Group's sovereign cloud). Successor to
-      the earlier Luminous model API approach.
-    launched: 2024
-    source: https://www.maginative.com/article/aleph-alpha-announces-phariaai-a-sovereign-enterprise-grade-ai-operating-system/
-
-  - name: Pharia-1-LLM-7B
-    type: Foundation model
-    description: >
-      7B-parameter model family (control and control-aligned variants), optimized
-      for enterprise use. Released under Open Aleph License (non-commercial research
-      use permitted; commercial use restricted). Replaced the earlier Luminous model
-      family (13B/30B/70B).
-    source: https://www.cdomagazine.tech/aiml/aleph-alpha-launches-pharia-1-llm-model-family
-
-  - name: Luminous (deprecated)
-    type: Foundation model family
-    description: >
-      Original LLM family in 13B, 30B, and 70B parameter sizes. Multilingual
-      (EN, DE, FR, IT, ES). Included Luminous-Explore for semantic embeddings.
-      Superseded by Pharia models as company pivoted to platform strategy.
-
-  - name: semantha (via thingsTHINKING acquisition)
-    type: AI text processing / semantic analysis
-    description: Acquired to add domain-specific NLP for industrial and financial services sectors.
-    source: https://sifted.eu/articles/aleph-alpha-acquires-thingsthinking
-
-customers_and_use_cases:
-  - sector: German federal/state government
-    details: AI Assistant deployed to ~80,000 government users for administrative process automation
-    source: https://aleph-alpha.com/public-sector/
-  - sector: Municipal government
-    details: "Lumi" virtual citizen assistant for the city of Heidelberg
-  - sector: Regulated enterprises
-    details: PhariaAI-as-a-Service via STACKIT for data-sovereign enterprise AI in banking, insurance, healthcare, and public sector
-  - sector: Industrial
-    details: Schwarz Group (Lidl/Kaufland parent), SAP, Bosch are both investors and customers/partners
-
-key_partnerships:
-  - partner: Schwarz Group / STACKIT
-    nature: >
-      Strategic anchor investor and cloud infrastructure partner. PhariaAI runs
-      natively on STACKIT sovereign cloud. Schwarz Group acquiring Bosch Ventures'
-      stake (announced Feb 2026), consolidating ownership.
-    source: https://european.cloud/2026/02/schwarz-group-aleph-alpha/
-  - partner: IPAI (Innovation Park AI, Heidelberg)
-    nature: Research collaboration for open, application-oriented GenAI R&D
-    source: https://aleph-alpha.com/lighthouse-for-sovereign-ai-development-in-germany-aleph-alpha-strengthens-collaboration-with-the-ipai-ecosystem-for-open-and-application-oriented-research-and-development-in-genai/
-
-certifications_and_compliance:
-  - C5 (German Federal Office for Information Security)
-  - ISO 27001
-  - EU AI Act compliant (per company claims for open-source Pharia models)
-
-infrastructure:
-  - name: Alpha ONE
-    type: AI data center
-    description: Dedicated AI data center aimed at closing infrastructure gaps for federal, state, and local government AI deployment
-    source: https://aleph-alpha.com/alpha-one-opens-aleph-alpha-ai-data-centre-closes-infrastructure-gap-at-federal-state-and-local-level/
+confidence: medium
+last_updated: 2026-03-23
 ---
 
 # Aleph Alpha

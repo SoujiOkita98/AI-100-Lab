@@ -11,15 +11,24 @@ total_funding_estimated: ~$42.5M
 revenue_arr: Undisclosed (825% revenue growth reported, 2025)
 employees: ~50 (estimated)
 status: Private
+founders:
+  - name: "Daniel Saks"
+    role: "CEO"
+    background: "Co-founder and former co-CEO of AppDirect (SaaS marketplace unicorn valued at $1B+)"
+    origin: "Canadian"
+  - name: "Emily Zhang"
+    role: "CPO"
+    background: "Co-founder; product and data science leadership"
+    origin: "Chinese-American"
 last_updated: 2026-03-20
 confidence: medium
 one_liner: Agentic AI platform automating outbound prospecting and pipeline generation for GTM teams.
 website: https://landbase.com
-total_funding: 42.5
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/landbase
 crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/landbase
+total_raised_m: 42.5
 ---
 
 # Landbase

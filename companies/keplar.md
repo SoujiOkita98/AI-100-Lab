@@ -9,7 +9,15 @@ funding_rounds:
   amount_m: 3.4
   lead_investors:
   - Kleiner Perkins
-total_funding: 3.4
+founders:
+  - name: "Dhruv Guliani"
+    role: "Co-Founder & CEO"
+    background: "Former engineer at Google (speech and voice AI models). South Park Commons founder fellowship."
+    origin: "Indian"
+  - name: "William Wen"
+    role: "Co-Founder & CTO"
+    background: "Machine learning engineer. South Park Commons founder fellowship."
+    origin: "Chinese-American"
 last_updated: 2026-03-21
 confidence: medium
 data_notes: 'Needs verification: website, founders, source_urls, headquarters. Profile may be incomplete.'
@@ -20,6 +28,7 @@ headquarters: San Francisco, CA
 founded: 2023
 crunchbase: https://www.crunchbase.com/organization/keplar
 crunchbase_verified: true
+total_raised_m: 3.4
 ---
 
 # Keplar

@@ -17,7 +17,6 @@ funding_rounds:
   - Naval Ravikant
   - Garry Tan
   - Justin Kan
-total_funding: 20
 last_updated: 2026-03-21
 confidence: medium
 website: https://wabi.ai
@@ -26,6 +25,7 @@ website_verified: true
 linkedin: https://www.linkedin.com/company/wabi-ai
 crunchbase: https://www.crunchbase.com/organization/wabi-ai
 crunchbase_verified: true
+total_raised_m: 20.0
 ---
 
 # Wabi AI

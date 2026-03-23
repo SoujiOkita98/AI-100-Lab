@@ -24,7 +24,6 @@ funding_rounds:
   valuation_m: 700
   lead_investors:
   - Notable Capital
-total_funding: 81
 latest_valuation: 700
 last_updated: 2026-03-21
 confidence: medium
@@ -33,6 +32,7 @@ linkedin: https://www.linkedin.com/company/wisprai
 crunchbase: https://www.crunchbase.com/organization/wispr-ai
 crunchbase_verified: true
 twitter: '@WisprFlow'
+total_raised_m: 81.0
 ---
 
 # Wispr AI

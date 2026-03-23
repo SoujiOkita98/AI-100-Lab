@@ -18,6 +18,7 @@ key_products:
 - MTT S-series (data center GPUs)
 - MTT consumer GPUs
 website: https://www.mthreads.com
+one_liner: "Chinese GPU maker developing full-function AI accelerators and graphics chips with its own MUSA software ecosystem as an alternative to Nvidia's CUDA"
 last_updated: 2026-03-20
 confidence_note: Financial data from SSE IPO filings. Performance claims for Huashan chip are from company announcements and
   have not been independently verified. Pre-IPO funding total is estimated from press reports.
@@ -49,6 +50,11 @@ website_verified: true
 crunchbase: https://www.crunchbase.com/organization/moore-threads
 crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/moorethreads
+founders:
+  - name: "Zhang Jianzhong"
+    role: "Founder & CEO"
+    background: "Former global VP and GM of Nvidia's Chinese branch; 14 years at Nvidia"
+    origin: "Chinese"
 ---
 
 # Moore Threads

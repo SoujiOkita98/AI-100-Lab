@@ -5,6 +5,7 @@ sector: AI Photo Editing / Consumer AI
 founded: 2019
 headquarters: Paris, France
 website: https://www.photoroom.com
+one_liner: "AI-powered photo editing app and listing studio enabling e-commerce sellers to create professional product images with instant background removal and generative AI"
 latest_valuation: $500M (February 2024)
 total_funding: ~$75M
 arr: ~$94M (end of 2024)
@@ -17,6 +18,32 @@ confidence_notes: Series B ($43M at $500M) well-sourced via TechCrunch. ARR of $
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/photoroom
 crunchbase_verified: true
+founders:
+  - name: "Matthieu Rouif"
+    role: "Co-Founder & CEO"
+    background: "Stanford University; former product at GoPro; experience in photo/video editing apps"
+    origin: "French"
+  - name: "Eliot Andres"
+    role: "Co-Founder & CTO"
+    background: "Former child actor; published tech author"
+    origin: "French"
+total_raised_m: 75
+funding_rounds:
+  - stage: "Seed"
+    date: "2020"
+    amount_m: 2
+    lead_investors: ["Y Combinator"]
+    source: "https://www.crunchbase.com/organization/photoroom"
+  - stage: "Series A"
+    date: "2022"
+    amount_m: 19
+    lead_investors: ["Balderton Capital"]
+    source: "https://www.crunchbase.com/organization/photoroom"
+  - stage: "Series B"
+    date: "2024-02"
+    amount_m: 43
+    lead_investors: ["Balderton Capital", "Aglae Ventures"]
+    source: "https://www.crunchbase.com/organization/photoroom"
 ---
 
 # Photoroom -- AI Photo Editing

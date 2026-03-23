@@ -21,7 +21,6 @@ funding_rounds:
   - Eclipse
   - Xora Innovation
   - Khosla Ventures
-total_funding: 46
 last_updated: 2026-03-21
 confidence: medium
 data_notes: 'Needs verification: website, source_urls, headquarters. Profile may be incomplete.'
@@ -30,6 +29,7 @@ website_verified: true
 headquarters: Palo Alto, CA
 crunchbase: https://www.crunchbase.com/organization/vinci-semi
 crunchbase_verified: true
+total_raised_m: 46.0
 ---
 
 # Vinci (Semiconductor)

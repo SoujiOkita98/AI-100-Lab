@@ -2,6 +2,7 @@
 company_name: Hadrius
 legal_name: Hadrius, Inc.
 website: https://www.hadrius.com
+one_liner: "AI-native compliance platform for SEC and FINRA-regulated financial firms, automating marketing review, trade monitoring, and communications archiving"
 sector: AI for Financial Compliance
 founded: 2023
 headquarters: San Francisco, CA
@@ -24,6 +25,18 @@ last_updated: 2026-03-20
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/hadrius
 crunchbase_verified: true
+total_raised_m: 28.8
+funding_rounds:
+  - stage: "Seed"
+    date: "2023-09"
+    amount_m: 2
+    lead_investors: ["Y Combinator"]
+    source: "https://www.prnewswire.com/news-releases/yc-backed-hadrius-raises-2m-seed-round-to-power-sec-compliance-using-ai-301918190.html"
+  - stage: "Series A"
+    date: "2025-09"
+    amount_m: 26.8
+    lead_investors: ["Undisclosed"]
+    source: "https://tracxn.com/d/companies/hadrius/__VAwFKR38yiY3tOvhoeJOyfCr13-J-nfshruGOuAptzM"
 ---
 
 # Hadrius -- Company Profile

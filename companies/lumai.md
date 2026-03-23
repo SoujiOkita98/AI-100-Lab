@@ -12,7 +12,6 @@ funding_rounds:
   - Lux Capital
   - Mayfield
   source: https://semiengineering.com/startup-funding-q4-2025/
-total_funding: 33
 last_updated: 2026-03-21
 confidence: medium
 founders:
@@ -31,6 +30,7 @@ linkedin: https://www.linkedin.com/company/lumaitech
 headquarters: Palo Alto, CA
 crunchbase: https://www.crunchbase.com/organization/lumai
 crunchbase_verified: true
+total_raised_m: 33.0
 ---
 
 # Lumai

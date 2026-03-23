@@ -17,10 +17,24 @@ funding_rounds:
   lead_investors:
   - GV
   - Eclipse Ventures
-total_funding: 64
 last_updated: 2026-03-21
 confidence: medium
 twitter: '@BlueWaterShips'
+total_raised_m: 64.0
+founders:
+- name: Rylan Hamilton
+  role: CEO
+  background: US Navy engineering officer. Harvard Business School MBA. Early leader at Amazon Robotics. Co-founded 6 River
+    Systems (acquired by Shopify).
+  origin: American
+- name: Austin Gray
+  role: CSO
+  background: US Navy intelligence officer. Harvard Business School MBA. Defense tech at MIT.
+  origin: American
+- name: Scott N. Miller
+  role: CTO
+  background: MS Ocean Engineering MIT. Built animatronics at Walt Disney Imagineering. Led robots at iRobot.
+  origin: American
 ---
 
 # Blue Water Autonomy

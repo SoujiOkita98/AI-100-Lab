@@ -11,7 +11,19 @@ funding_rounds:
   amount_m: 100
   lead_investors:
   - NEA
-total_funding: 122
+founders:
+  - name: "Naveen Verma"
+    role: "Co-Founder & CEO"
+    background: "Professor of electrical and computer engineering at Princeton University. 2024 Edison Patent Award. Spun EnCharge out of Princeton research lab."
+    origin: "Indian-American"
+  - name: "Felix Xiaochuan Lin"
+    role: "Co-Founder"
+    background: ""
+    origin: "Chinese"
+  - name: "Zizhen Zhong"
+    role: "Co-Founder"
+    background: ""
+    origin: "Chinese"
 last_updated: 2026-03-21
 confidence: medium
 data_notes: 'Needs verification: website, founders, source_urls. Profile may be incomplete.'
@@ -21,6 +33,7 @@ linkedin: https://www.linkedin.com/company/encharge-ai
 crunchbase: https://www.crunchbase.com/organization/encharge-ai
 crunchbase_verified: true
 twitter: '@EnChargeAI'
+total_raised_m: 122.0
 ---
 
 # EnCharge AI

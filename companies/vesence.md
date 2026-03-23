@@ -14,7 +14,6 @@ funding_rounds:
   - Creandum
   - Y Combinator
   source: https://sifted.eu/articles/yc-backed-legal-tech-vesence-raises-9m-seed-round
-total_funding: 9
 last_updated: 2026-03-21
 confidence: medium
 data_notes: 'Needs verification: website, founders, source_urls. Profile may be incomplete.'
@@ -22,6 +21,7 @@ website: https://www.vesence.com
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/vesence
 crunchbase_verified: true
+total_raised_m: 9.0
 ---
 
 # Vesence

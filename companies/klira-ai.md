@@ -13,13 +13,22 @@ funding_rounds:
   amount_m: 0.445
   lead_investors:
   - Techstars
-total_funding: 0.445
+founders:
+  - name: "Eduardo de la Garza"
+    role: "Co-Founder & CEO"
+    background: "Helped Fortune 100 companies in regulated industries deploy AI talent and governance strategies."
+    origin: "Mexican"
+  - name: "Ricardo Sandoval"
+    role: "Co-Founder & CTO"
+    background: "Built AI risk models for $20B portfolio at Banorte (largest Mexican bank). Generated 1B+ USD in business value."
+    origin: "Mexican"
 last_updated: 2026-03-21
 confidence: medium
 website_verified: true
 linkedin: https://www.linkedin.com/company/klira-ai
 crunchbase: https://www.crunchbase.com/organization/klira-ai
 crunchbase_verified: true
+total_raised_m: 0.445
 ---
 
 # Klira AI

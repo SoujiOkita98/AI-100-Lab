@@ -12,7 +12,6 @@ funding_rounds:
   amount_m: 22
   lead_investors:
   - Unusual Ventures
-total_funding: 28
 last_updated: 2026-03-21
 confidence: medium
 data_notes: 'Needs verification: founders, source_urls. Profile may be incomplete.'
@@ -20,6 +19,16 @@ website_verified: true
 linkedin: https://www.linkedin.com/company/paxtonai
 crunchbase: https://www.crunchbase.com/organization/paxton-ai
 crunchbase_verified: true
+total_raised_m: 28.0
+founders:
+  - name: "Tanguy Chau"
+    role: "Co-Founder & CEO"
+    background: "PhD and MBA from MIT; former Board of Trustees at MIT; worked at McKinsey"
+    origin: "Vietnamese-American"
+  - name: "Michael Ulin"
+    role: "Co-Founder & former CTO"
+    background: "Founding engineer and VP of AI at ZestyAI; former McKinsey"
+    origin: "American"
 ---
 
 # Paxton

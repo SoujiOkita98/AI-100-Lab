@@ -38,6 +38,18 @@ crunchbase: https://www.crunchbase.com/organization/turing
 crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/turingcom
 twitter: '@turingcom'
+total_raised_m: 247
+funding_rounds:
+  - stage: "Seed through Series D"
+    date: "2018-2023"
+    amount_m: 136
+    lead_investors: ["Foundation Capital", "WndrCo"]
+    source: "https://www.crunchbase.com/organization/turing"
+  - stage: "Series E"
+    date: "2025-03"
+    amount_m: 111
+    lead_investors: ["Spark Capital"]
+    source: "https://www.crunchbase.com/organization/turing"
 ---
 
 # Turing

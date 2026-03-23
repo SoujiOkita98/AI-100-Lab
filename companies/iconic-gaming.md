@@ -24,7 +24,6 @@ funding_rounds:
   - Kindred
   - Northzone
   - Google AI Futures Fund
-total_funding: 13
 last_updated: 2026-03-21
 confidence: medium
 data_notes: 'Needs verification: website, source_urls. Profile may be incomplete.'
@@ -32,6 +31,7 @@ website: https://iconicgames.io
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/iconic-gaming
 crunchbase_verified: true
+total_raised_m: 13.0
 ---
 
 # Iconic (Gaming AI)

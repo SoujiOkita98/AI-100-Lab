@@ -22,6 +22,24 @@ website_verified: true
 crunchbase: https://www.crunchbase.com/organization/stability-ai
 crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/stability-ai
+total_raised_m: 225
+funding_rounds:
+  - stage: "Seed"
+    date: "2022-09"
+    amount_m: 101
+    lead_investors: ["Coatue", "Lightspeed Venture Partners"]
+    source: "https://www.crunchbase.com/organization/stability-ai"
+  - stage: "Funding Round"
+    date: "2023"
+    amount_m: 50
+    lead_investors: ["Intel Capital", "Google"]
+    source: "https://www.crunchbase.com/organization/stability-ai"
+  - stage: "Recapitalization"
+    date: "2024-06"
+    amount_m: 80
+    lead_investors: ["Greycroft", "Coatue", "Sound Ventures"]
+    source: "https://www.crunchbase.com/organization/stability-ai"
+data_notes: "Total ~$181-225M (sources vary). June 2024 round was a recapitalization at ~$1B valuation under new CEO Prem Akkaraju."
 ---
 
 # Stability AI -- Company Profile

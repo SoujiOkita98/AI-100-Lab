@@ -2,7 +2,6 @@
 name: Wonderful
 status: active
 founded: 2025
-hq: Tel Aviv, Israel
 website: https://wonderful.ai
 sector:
 - enterprise AI
@@ -61,6 +60,7 @@ confidence: high
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/wonderful-ai
 crunchbase_verified: true
+headquarters: Tel Aviv, Israel
 ---
 
 # Wonderful

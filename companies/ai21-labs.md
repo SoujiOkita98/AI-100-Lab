@@ -56,6 +56,28 @@ website_verified: true
 linkedin: https://www.linkedin.com/company/ai21
 crunchbase: https://www.crunchbase.com/organization/ai21-labs
 crunchbase_verified: true
+total_raised_m: 336
+funding_rounds:
+  - stage: "Seed"
+    date: "2019"
+    amount_m: 9.5
+    lead_investors: ["Undisclosed"]
+    source: "https://www.crunchbase.com/organization/ai21"
+  - stage: "Series A"
+    date: "2020-07"
+    amount_m: 34
+    lead_investors: ["Pitango"]
+    source: "https://www.crunchbase.com/organization/ai21"
+  - stage: "Series B"
+    date: "2021-07"
+    amount_m: 64
+    lead_investors: ["Ahren"]
+    source: "https://www.crunchbase.com/organization/ai21"
+  - stage: "Series C"
+    date: "2023-08"
+    amount_m: 208
+    lead_investors: ["Walden Catalyst", "Pitango"]
+    source: "https://www.ai21.com/blog/ai21-completes-208-million-oversubscribed-series-c-round/"
 ---
 
 # AI21 Labs

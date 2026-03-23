@@ -16,6 +16,19 @@ key_investors:
 - Y Combinator
 notable_backers:
 - Cory Levy
+founders:
+  - name: "Daksh Gupta"
+    role: "CEO"
+    background: "Georgia Tech; distributed systems engineering leader"
+    origin: "Indian"
+  - name: "Soohoon Choi"
+    role: "Co-Founder"
+    background: "Georgia Tech; co-founded Greptile in 2023"
+    origin: "Korean"
+  - name: "Vaishant Kameswaran"
+    role: "Co-Founder"
+    background: "Georgia Tech; co-founded Greptile in 2023"
+    origin: "Indian"
 last_updated: 2026-03-20
 confidence: high
 one_liner: Greptile is an AI-powered code review and code validation platform that indexes entire codebases to perform deep,
@@ -23,6 +36,18 @@ one_liner: Greptile is an AI-powered code review and code validation platform th
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/greptile
 crunchbase_verified: true
+total_raised_m: 29
+funding_rounds:
+  - stage: "Seed"
+    date: "2024"
+    amount_m: 4
+    lead_investors: ["Initialized Capital"]
+    source: "https://www.crunchbase.com/organization/greptile"
+  - stage: "Series A"
+    date: "2025-09"
+    amount_m: 25
+    lead_investors: ["Benchmark Capital"]
+    source: "https://www.crunchbase.com/organization/greptile"
 ---
 
 # Greptile

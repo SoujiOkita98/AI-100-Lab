@@ -2,7 +2,6 @@
 name: Corvus Robotics
 founded: 2017
 incorporated_country: USA
-hq: Mountain View, California, USA
 sector: Warehouse Automation / Autonomous Drones
 employee_count_approx: ~50
 status: Private
@@ -58,6 +57,7 @@ one_liner: Corvus Robotics builds fully autonomous drone systems for warehouse i
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/corvus-robotics
 crunchbase_verified: true
+headquarters: Mountain View, California, USA
 ---
 
 # Corvus Robotics

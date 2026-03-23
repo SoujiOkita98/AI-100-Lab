@@ -11,16 +11,25 @@ total_funding_estimated: ~$116M
 revenue_arr: Undisclosed (4x YoY ARR growth reported, 2025)
 employees: ~100 (estimated)
 status: Private
+founders:
+  - name: "Nicolas Sharp"
+    role: "Co-Founder & CEO"
+    background: "Former investment associate at Passion Capital. Newcastle University graduate."
+    origin: "British (inferred from name and London base)"
+  - name: "Alexander Christie"
+    role: "Co-Founder & CTO"
+    background: "Technical co-founder since 2019."
+    origin: "British (inferred from name)"
 last_updated: 2026-03-20
 confidence: medium
 one_liner: AI-native CRM for go-to-market teams combining flexible data models with AI automation.
 website: https://attio.com
-total_funding: 116
 website_verified: true
 linkedin: https://www.linkedin.com/company/attio
 crunchbase: https://www.crunchbase.com/organization/attio
 crunchbase_verified: true
 twitter: '@attio'
+total_raised_m: 116.0
 ---
 
 # Attio

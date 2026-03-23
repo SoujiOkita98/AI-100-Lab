@@ -2,6 +2,7 @@
 company_name: DeepL
 legal_name: DeepL SE
 slug: deepl
+website: https://www.deepl.com
 domain: deepl.com
 hq_city: Cologne
 hq_country: Germany

@@ -92,6 +92,19 @@ website_verified: true
 linkedin: https://www.linkedin.com/company/snyk
 crunchbase: https://www.crunchbase.com/organization/snyk
 crunchbase_verified: true
+founders:
+  - name: "Guy Podjarny"
+    role: "Co-Founder (former CEO, then President)"
+    background: "Former CTO at Akamai. Led AppScan (early AppSec pioneer). IDF Unit 8200 alumnus. Later founded Tessl."
+    origin: "Israeli"
+  - name: "Assaf Hefetz"
+    role: "Co-Founder"
+    background: "IDF Unit 8200 alumnus."
+    origin: "Israeli"
+  - name: "Danny Grander"
+    role: "Co-Founder"
+    background: "IDF Unit 8200 alumnus. Security researcher."
+    origin: "Israeli"
 ---
 
 # Snyk

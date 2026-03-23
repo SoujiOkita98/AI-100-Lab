@@ -6,6 +6,7 @@ headquarters: San Francisco, CA
 sector: AI-Powered Developer Tools
 sub_sector: Open-Source AI Coding Assistant
 website: https://www.continue.dev
+one_liner: "Open-source AI coding assistant for VS Code and JetBrains that provides source-controlled AI checks on every pull request to enforce team conventions"
 status: Private (Seed)
 valuation: Undisclosed
 total_funding: ~$5.6M
@@ -14,12 +15,33 @@ key_investors:
 - Heavybit
 - Y Combinator
 notable_backers: []
+founders:
+  - name: "Ty Dunn"
+    role: "Co-Founder & CPO"
+    background: "MIT '23 (math and physics); first hire at Mayan (YC W21); built mission control software at NASA JPL"
+    origin: "American"
+  - name: "Nate Sesti"
+    role: "Co-Founder & CTO"
+    background: "Technical co-founder; open-source AI coding tools"
+    origin: "American"
 last_updated: 2026-03-20
 confidence: medium
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/continue
 crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/continuedev
+total_raised_m: 5.6
+funding_rounds:
+  - stage: "Pre-Seed (YC)"
+    date: "2023"
+    amount_m: 2.1
+    lead_investors: ["Y Combinator"]
+    source: "https://www.crunchbase.com/organization/continue"
+  - stage: "Seed"
+    date: "2025-02"
+    amount_m: 3
+    lead_investors: ["Heavybit"]
+    source: "https://www.crunchbase.com/organization/continue"
 ---
 
 # Continue

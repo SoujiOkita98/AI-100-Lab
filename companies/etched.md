@@ -9,6 +9,19 @@ latest_valuation: $5 billion (Series B, January 2026)
 total_funding: ~$625 million
 employees: ~50-100 (estimate)
 website: https://etched.com
+founders:
+  - name: "Gavin Uberti"
+    role: "CEO"
+    background: "Harvard dropout; leading effort to build transformer-only ASIC inference chips"
+    origin: "American"
+  - name: "Chris Zhu"
+    role: "CTO"
+    background: "Harvard dropout; co-founded Etched in 2022"
+    origin: "Chinese-American"
+  - name: "Robert Wachen"
+    role: "Co-Founder"
+    background: "Harvard dropout; co-founded Etched in 2022"
+    origin: "American"
 last_updated: 2026-03-20
 one_liner: Etched is building Sohu, the first ASIC (application-specific integrated circuit) purpose-built exclusively for
   transformer model inference
@@ -17,6 +30,23 @@ twitter: '@Etched'
 linkedin: https://www.linkedin.com/company/etched-ai
 crunchbase: https://www.crunchbase.com/organization/etched
 crunchbase_verified: true
+total_raised_m: 625
+funding_rounds:
+  - stage: "Seed"
+    date: "2023-03"
+    amount_m: 5.36
+    lead_investors: ["Primary Venture Partners"]
+    source: "https://www.crunchbase.com/organization/etched"
+  - stage: "Series A"
+    date: "2024-06"
+    amount_m: 120
+    lead_investors: ["Peter Thiel", "Primary VC"]
+    source: "https://www.crunchbase.com/organization/etched"
+  - stage: "Series B"
+    date: "2026-01"
+    amount_m: 500
+    lead_investors: ["Stripes"]
+    source: "https://www.crunchbase.com/organization/etched"
 ---
 
 # Etched

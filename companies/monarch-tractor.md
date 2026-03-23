@@ -2,7 +2,6 @@
 name: Monarch Tractor
 founded: 2017
 incorporated_country: USA
-hq: Livermore, California, USA
 sector: Agricultural Robotics / Autonomous Vehicles
 employee_count_approx: ~200
 status: Private
@@ -81,6 +80,7 @@ one_liner: Monarch Tractor designs and manufactures fully electric, autonomous (
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/monarch-tractor
 crunchbase_verified: true
+headquarters: Livermore, California, USA
 ---
 
 # Monarch Tractor

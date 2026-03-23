@@ -18,7 +18,6 @@ funding_rounds:
   lead_investors:
   - Accel
   - Section 32
-total_funding: 110
 last_updated: 2026-03-21
 confidence: medium
 linkedin: https://www.linkedin.com/company/ema-unlimited
@@ -26,6 +25,7 @@ website_verified: true
 crunchbase: https://www.crunchbase.com/organization/ema
 crunchbase_verified: true
 twitter: '@Ema_Unlimited'
+total_raised_m: 110.0
 ---
 
 # Ema

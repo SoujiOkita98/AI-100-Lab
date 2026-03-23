@@ -22,7 +22,6 @@ funding_rounds:
   - Lux Capital
   - Founders Fund
   source: https://www.bloomberg.com/news/articles/2025-10-24/openai-backs-a-new-venture-trying-to-thwart-ai-bio-attacks
-total_funding: 30
 last_updated: 2026-03-21
 confidence: medium
 data_notes: 'Needs verification: website, source_urls, headquarters. Profile may be incomplete.'
@@ -30,6 +29,7 @@ website: https://valthos.com
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/valthos
 crunchbase_verified: true
+total_raised_m: 30.0
 ---
 
 # Valthos

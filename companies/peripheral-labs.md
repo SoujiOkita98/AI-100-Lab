@@ -10,7 +10,6 @@ funding_rounds:
   amount_m: 3.6
   lead_investors:
   - Khosla Ventures
-total_funding: 3.6
 last_updated: 2026-03-21
 confidence: medium
 data_notes: 'Needs verification: website, founders, source_urls, headquarters. Profile may be incomplete.'
@@ -19,6 +18,16 @@ website_verified: true
 headquarters: Toronto, Canada
 crunchbase: https://www.crunchbase.com/organization/peripheral-labs
 crunchbase_verified: true
+total_raised_m: 3.6
+founders:
+  - name: "Kelvin Cui"
+    role: "Co-Founder & CEO"
+    background: "University of Toronto; led formula-style and self-driving car racing teams"
+    origin: "Chinese-Canadian"
+  - name: "Mustafa Khan"
+    role: "Co-Founder"
+    background: "University of Toronto; led formula-style and self-driving car racing teams"
+    origin: "South Asian-Canadian"
 ---
 
 # Peripheral Labs

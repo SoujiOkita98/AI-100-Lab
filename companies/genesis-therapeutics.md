@@ -3,6 +3,11 @@ company: Genesis Therapeutics
 sector: Biotech AI / Drug Discovery
 founded: 2019
 headquarters: Burlingame, CA
+founders:
+  - name: "Evan Feinberg"
+    role: "CEO"
+    background: "PhD in computational biophysics from Stanford (Vijay Pande lab); developed PotentialNet; BA in Applied Physics from Yale"
+    origin: "American"
 ceo: Evan Feinberg
 employees: ~100-150 (estimated)
 latest_valuation: Undisclosed (Series B extension, Nov 2024)

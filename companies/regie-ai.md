@@ -1,6 +1,8 @@
 ---
 name: Regie.ai
 slug: regie-ai
+website: https://www.regie.ai
+one_liner: "AI sales engagement platform with autonomous prospecting agents that handle contact sourcing, personalized outreach, and multichannel follow-up"
 domain: regie.ai
 founded: 2020
 headquarters: San Francisco, CA
@@ -14,9 +16,18 @@ status: Private
 last_updated: 2026-03-20
 confidence: medium
 data_notes: 'Needs verification: website, founders. Profile may be incomplete.'
-total_funding: 51
 crunchbase: https://www.crunchbase.com/organization/regie-ai
 crunchbase_verified: true
+total_raised_m: 51.0
+founders:
+  - name: "Srinath Sridhar"
+    role: "Co-Founder & CEO"
+    background: "PhD CS from Carnegie Mellon (Algorithms & ML); early 100-person engineering team at Facebook; founding engineer at BloomReach; designed Google web search ranking algorithms"
+    origin: "Indian"
+  - name: "Matt Millen"
+    role: "Co-Founder"
+    background: ""
+    origin: "American"
 ---
 
 # Regie.ai

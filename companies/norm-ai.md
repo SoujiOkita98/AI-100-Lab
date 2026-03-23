@@ -47,6 +47,7 @@ linkedin: https://www.linkedin.com/company/normative-ai
 crunchbase: https://www.crunchbase.com/organization/norm-ai
 crunchbase_verified: true
 twitter: '@normativeai'
+total_raised_m: 139.1
 ---
 
 # Norm AI -- Company Profile

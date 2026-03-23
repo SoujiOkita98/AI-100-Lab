@@ -10,13 +10,22 @@ funding_rounds:
 - stage: Series C
   date: 2026-02
   amount_m: 250
-total_funding: 350
 last_updated: 2026-03-21
 confidence: medium
 crunchbase: https://www.crunchbase.com/organization/axelera-ai
 crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/axelera-ai
 twitter: '@AxeleraAI'
+total_raised_m: 350.0
+founders:
+- name: Fabrizio Del Maffeo
+  role: CEO
+  background: Former Head of AI at Bitfury Group. Former VP at AAEON Technology Europe (ASUS Group).
+  origin: Italian
+- name: Evangelos Eleftheriou
+  role: CTO
+  background: IBM Fellow. 35+ years at IBM Research Zurich.
+  origin: Greek
 ---
 
 # Axelera AI

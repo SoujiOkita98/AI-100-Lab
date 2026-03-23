@@ -56,6 +56,7 @@ website_verified: true
 crunchbase: https://www.crunchbase.com/organization/bolt
 crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/stackblitz
+total_raised_m: 135.4
 ---
 
 # Bolt.new / StackBlitz

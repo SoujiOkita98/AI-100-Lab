@@ -2,7 +2,6 @@
 name: Groq
 status: acquired
 founded: 2016
-hq: Mountain View, CA
 website: https://groq.com
 sector:
 - AI inference hardware
@@ -137,6 +136,7 @@ crunchbase: https://www.crunchbase.com/organization/groq
 crunchbase_verified: true
 data_notes: Nvidia effectively acquired Groq assets for ~$20B via licensing deal (Dec 2025). Previous standalone valuation
   was $6.9B (Sep 2025). Company status changed to acquired.
+headquarters: Mountain View, CA
 ---
 
 # Groq

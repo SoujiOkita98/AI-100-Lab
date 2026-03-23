@@ -21,7 +21,6 @@ funding_rounds:
   - Peter Thiel
   - Alexis Ohanian
   source: https://fortune.com/2026/02/09/exclusive-peter-thiel-alexis-ohanian-new-ai-industrial-startup-emanate-kiara-nirghin/
-total_funding: 10
 last_updated: 2026-03-21
 confidence: medium
 data_notes: 'Needs verification: website, source_urls. Profile may be incomplete.'
@@ -29,6 +28,7 @@ website: https://emanate.ai
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/emanate
 crunchbase_verified: true
+total_raised_m: 10.0
 ---
 
 # Emanate

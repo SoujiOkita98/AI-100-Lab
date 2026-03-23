@@ -19,7 +19,6 @@ funding_rounds:
   amount_m: 5
   lead_investors:
   - General Catalyst
-total_funding: 5
 last_updated: 2026-03-21
 confidence: medium
 data_notes: 'Needs verification: website, source_urls. Profile may be incomplete.'
@@ -28,6 +27,7 @@ website_verified: true
 linkedin: https://www.linkedin.com/company/nace-ai
 crunchbase: https://www.crunchbase.com/organization/nace-ai
 crunchbase_verified: true
+total_raised_m: 5.0
 ---
 
 # Nace.AI

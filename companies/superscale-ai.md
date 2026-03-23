@@ -10,12 +10,21 @@ funding_rounds:
 - stage: Pre-Seed
   date: 2025-06
   amount_m: 5
-total_funding: 5
 last_updated: 2026-03-21
 confidence: medium
 crunchbase: https://www.crunchbase.com/organization/superscale-ai
 crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/superscale-ai
+founders:
+  - name: "Patrick Haede"
+    role: "CEO & Co-Founder"
+    background: "Co-founded Superscale AI in Berlin."
+    origin: "German"
+  - name: "Magnus Langanke"
+    role: "Co-Founder"
+    background: "Co-founded Superscale AI."
+    origin: "German"
+total_raised_m: 5.0
 ---
 
 # Superscale AI

@@ -14,7 +14,6 @@ funding_rounds:
   - Greylock
   - Lux Capital
   source: https://www.calcalistech.com/ctechnews/article/b16iahzeze
-total_funding: 75
 last_updated: 2026-03-21
 confidence: medium
 founders:
@@ -36,6 +35,7 @@ website_verified: true
 linkedin: https://www.linkedin.com/company/tenzai-inc
 crunchbase: https://www.crunchbase.com/organization/tenzai
 crunchbase_verified: true
+total_raised_m: 75.0
 ---
 
 # Tenzai

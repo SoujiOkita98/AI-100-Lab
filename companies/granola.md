@@ -10,6 +10,15 @@ total_funding: ~$125M+
 arr: ~$22M (fiscal year 2024)
 employees: ~30-50 (estimate)
 status: Private
+founders:
+  - name: "Chris Pedregal"
+    role: "CEO"
+    background: "Founded Socratic (acquired by Google); former Google; American expat in London"
+    origin: "American"
+  - name: "Sam Stephenson"
+    role: "Co-Founder"
+    background: "Technical co-founder; based in London"
+    origin: "British"
 last_updated: 2026-03-20
 confidence_notes: Series B ($43M at $250M) well-sourced via TechCrunch and BusinessWire. Reports of $100M+ raise at ~$1B valuation
   from Forbes/Techmeme (Jan 2026) not yet confirmed as closed. Series C of $60M led by Sixth Street Growth reported, bringing

@@ -10,7 +10,6 @@ funding_rounds:
 - stage: Series C
   date: 2026-01
   amount_m: 130
-total_funding: 200
 last_updated: 2026-03-21
 confidence: medium
 data_notes: 'Needs verification: founders, source_urls. Profile may be incomplete.'
@@ -19,6 +18,20 @@ linkedin: https://www.linkedin.com/company/deepgram
 crunchbase: https://www.crunchbase.com/organization/deepgram
 crunchbase_verified: true
 twitter: '@DeepgramAI'
+total_raised_m: 200.0
+founders:
+- name: Scott Stephenson
+  role: CEO
+  background: Dark matter physicist. PhD-level research at University of Michigan (waveform analysis). YC alumni.
+  origin: American
+- name: Adam Sypniewski
+  role: CTO
+  background: PhD experimental astrophysics, University of Michigan. Applied ML to autonomous vehicles.
+  origin: Polish-American
+- name: Noah Shutty
+  role: Co-founder
+  background: Physicist from University of Michigan.
+  origin: American
 ---
 
 # Deepgram

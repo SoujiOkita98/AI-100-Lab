@@ -10,7 +10,6 @@ funding_rounds:
   lead_investors:
   - Index Ventures
   - Creandum
-total_funding: 8
 last_updated: 2026-03-21
 confidence: medium
 data_notes: 'Needs verification: website, founders, source_urls, headquarters. Profile may be incomplete.'
@@ -21,6 +20,16 @@ founded: 2024
 crunchbase: https://www.crunchbase.com/organization/nexos-ai
 crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/nexos-ai
+total_raised_m: 8.0
+founders:
+  - name: "Tomas Okmanas"
+    role: "Co-Founder & CEO"
+    background: "Co-founded Nord Security ($3B valuation), Hostinger, Oxylabs, Tesonet"
+    origin: "Lithuanian"
+  - name: "Eimantas Sabaliauskas"
+    role: "Co-Founder"
+    background: "Co-founded Nord Security, Hostinger, Oxylabs, Tesonet"
+    origin: "Lithuanian"
 ---
 
 # nexos.ai

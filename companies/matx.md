@@ -15,6 +15,27 @@ one_liner: MatX is designing a custom AI chip -- the MatX One -- built from the 
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/matx
 crunchbase_verified: true
+founders:
+  - name: "Reiner Pope"
+    role: "Co-Founder & CEO"
+    background: "Led AI software development for Google TPUs; Efficiency Lead for Google PaLM; 10+ years in high-performance software and hardware"
+    origin: "American"
+  - name: "Mike Gunter"
+    role: "Co-Founder & CTO"
+    background: "28 years in hardware architecture; Chief Architect for Google ML chips; Architect for Google TPUs"
+    origin: "American"
+total_raised_m: 600
+funding_rounds:
+  - stage: "Series A"
+    date: "2024"
+    amount_m: 100
+    lead_investors: ["Spark Capital"]
+    source: "https://www.crunchbase.com/organization/matx"
+  - stage: "Series B"
+    date: "2026-02"
+    amount_m: 500
+    lead_investors: ["Jane Street", "Situational Awareness"]
+    source: "https://www.crunchbase.com/organization/matx"
 ---
 
 # MatX

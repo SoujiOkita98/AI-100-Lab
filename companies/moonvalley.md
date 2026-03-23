@@ -7,7 +7,6 @@ additional_offices:
 - Los Angeles, CA
 sector: AI Video Generation
 stage: Seed Extension (as of July 2025)
-total_funding_usd: 154000000
 headcount: ~123
 website: https://www.moonvalley.com
 yc_batch: Yes (batch unconfirmed)
@@ -33,6 +32,24 @@ website_verified: true
 linkedin: https://www.linkedin.com/company/moonvalley-ai
 crunchbase: https://www.crunchbase.com/organization/moonvalley
 crunchbase_verified: true
+total_raised_m: 154.0
+founders:
+  - name: "Naeem Talukdar"
+    role: "Founder & CEO"
+    background: "Based in Toronto"
+    origin: "South Asian-Canadian"
+  - name: "John Thomas"
+    role: "Co-Founder & COO"
+    background: "Based in Toronto"
+    origin: ""
+  - name: "Mateusz Malinowski"
+    role: "Co-Founder & Chief Scientific Officer"
+    background: "AI research background"
+    origin: "Polish"
+  - name: "Mikolaj Binkowski"
+    role: "Co-Founder & VP of Research"
+    background: "AI research background"
+    origin: "Polish"
 ---
 
 # Moonvalley

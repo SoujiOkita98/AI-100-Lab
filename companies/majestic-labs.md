@@ -12,7 +12,6 @@ funding_rounds:
   - Lux Capital
   - Bow Wave Capital
   source: https://www.cnbc.com/2025/11/10/majestic-labs-meta-google-ai-funding.html
-total_funding: 100
 last_updated: 2026-03-21
 confidence: medium
 founders:
@@ -34,6 +33,7 @@ website_verified: true
 crunchbase: https://www.crunchbase.com/organization/majestic-labs
 crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/majestic-labs-ai
+total_raised_m: 100.0
 ---
 
 # Majestic Labs

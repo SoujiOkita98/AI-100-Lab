@@ -2,7 +2,6 @@
 company: Wayve
 legal_name: Wayve Technologies Ltd.
 domain: Autonomous Driving / Embodied AI
-hq: London, United Kingdom
 other_offices:
 - Vancouver, Canada
 - San Francisco / Silicon Valley, USA
@@ -71,6 +70,7 @@ linkedin: https://www.linkedin.com/company/wayve-technologies
 crunchbase: https://www.crunchbase.com/organization/wayve
 crunchbase_verified: true
 twitter: '@wayve_ai'
+headquarters: London, United Kingdom
 ---
 
 # Wayve

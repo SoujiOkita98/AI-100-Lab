@@ -18,7 +18,6 @@ funding_rounds:
   - Andrej Karpathy
   - Andrew Ng
   source: https://techcrunch.com/2025/11/06/inception-raises-50-million-to-build-diffusion-models-for-code-and-text/
-total_funding: 50
 last_updated: 2026-03-21
 confidence: medium
 founders:
@@ -40,6 +39,7 @@ website_verified: true
 linkedin: https://www.linkedin.com/company/inception-labs-ai
 crunchbase: https://www.crunchbase.com/organization/inception-labs
 crunchbase_verified: true
+total_raised_m: 50.0
 ---
 
 # Inception Labs

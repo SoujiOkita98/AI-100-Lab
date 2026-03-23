@@ -30,10 +30,23 @@ last_updated: 2026-03-20
 one_liner: StepFun is a Shanghai-based AI foundation model company founded in April 2023 by Jiang Daxin, a 16-year veteran
   of Microsoft
 website_verified: true
-total_funding: 1200
 crunchbase: https://www.crunchbase.com/organization/stepfun
 crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/stepfun-ai
+founders:
+  - name: "Jiang Daxin"
+    role: "CEO & Founder"
+    background: "16-year Microsoft veteran. Former Global VP and Chief Scientist of Microsoft's Software Technology Center Asia. PhD in CS from University at Buffalo."
+    origin: "Chinese"
+  - name: "Jiao Binxing"
+    role: "Co-Founder"
+    background: "Former Microsoft. Leads search at StepFun."
+    origin: "Chinese"
+  - name: "Zhu Yibo"
+    role: "CTO & Co-Founder"
+    background: "Former head of AI infrastructure at ByteDance. Former Microsoft."
+    origin: "Chinese"
+total_raised_m: 1200.0
 ---
 
 # StepFun (阶跃星辰)

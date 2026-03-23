@@ -13,8 +13,20 @@ funding_rounds:
   valuation_m: 465
   lead_investors:
   - Point72 Private Investments
-total_funding: 100
 latest_valuation: 465
+founders:
+  - name: "Thomas Kelly"
+    role: "Co-Founder & CEO"
+    background: "Dr. Medical degree from University of Melbourne (2017). Left medical career in 2021 to build Heidi."
+    origin: "Australian"
+  - name: "Yu Liu"
+    role: "Co-Founder & CTO"
+    background: ""
+    origin: "Chinese-Australian"
+  - name: "Waleed Mussa"
+    role: "Co-Founder & CFO"
+    background: ""
+    origin: "Middle Eastern-Australian"
 last_updated: 2026-03-21
 confidence: medium
 data_notes: 'Needs verification: founders, source_urls. Profile may be incomplete.'
@@ -23,6 +35,7 @@ linkedin: https://www.linkedin.com/company/heidihealth
 crunchbase: https://www.crunchbase.com/organization/heidi-health
 crunchbase_verified: true
 twitter: '@tryheidi'
+total_raised_m: 100.0
 ---
 
 # Heidi Health

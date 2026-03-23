@@ -2,7 +2,6 @@
 name: Covariant
 status: semi-active (post-acquihire)
 founded: 2017
-hq: Emeryville, CA
 website: https://covariant.ai
 sector:
 - AI robotics
@@ -110,6 +109,7 @@ website_verified: true
 linkedin: https://www.linkedin.com/company/covariant-ai
 crunchbase: https://www.crunchbase.com/organization/covariant
 crunchbase_verified: true
+headquarters: Emeryville, CA
 ---
 
 ## Overview

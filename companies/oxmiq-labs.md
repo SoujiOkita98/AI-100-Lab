@@ -15,7 +15,6 @@ funding_rounds:
   amount_m: 20
   lead_investors:
   - MediaTek Ventures
-total_funding: 20
 last_updated: 2026-03-21
 confidence: medium
 data_notes: 'Needs verification: website, source_urls, headquarters. Profile may be incomplete.'
@@ -25,6 +24,7 @@ headquarters: Campbell, CA
 linkedin: https://www.linkedin.com/company/oxmiq-labs
 crunchbase: https://www.crunchbase.com/organization/oxmiq-labs
 crunchbase_verified: true
+total_raised_m: 20.0
 ---
 
 # Oxmiq Labs

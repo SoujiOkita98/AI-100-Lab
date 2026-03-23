@@ -19,6 +19,19 @@ key_investors:
 - The General Partnership
 notable_backers:
 - Anthropic
+founders:
+  - name: "Merrill Lutsky"
+    role: "CEO"
+    background: "Harvard (applied math); founded Posmetrics (YC W13); Y Combinator alumnus"
+    origin: "American"
+  - name: "Greg Foster"
+    role: "CTO"
+    background: "Harvard CS; former Airbnb engineer; started coding iOS apps at age 14"
+    origin: "American"
+  - name: "Tomas Reimers"
+    role: "CPO"
+    background: "Co-founded Graphite in 2020"
+    origin: "American"
 last_updated: 2026-03-20
 confidence: high
 one_liner: Graphite is an AI-powered code review and developer workflow platform that leverages models from Anthropic and
@@ -26,6 +39,18 @@ one_liner: Graphite is an AI-powered code review and developer workflow platform
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/graphite
 crunchbase_verified: true
+total_raised_m: 81
+funding_rounds:
+  - stage: "Seed / Series A"
+    date: "2021-2023"
+    amount_m: 29
+    lead_investors: ["Various"]
+    source: "https://www.crunchbase.com/organization/graphite"
+  - stage: "Series B"
+    date: "2025-03"
+    amount_m: 52
+    lead_investors: ["Accel"]
+    source: "https://www.crunchbase.com/organization/graphite"
 ---
 
 # Graphite

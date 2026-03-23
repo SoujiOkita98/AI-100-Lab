@@ -15,6 +15,15 @@ key_investors:
 - CRV
 - NVentures (NVIDIA)
 notable_backers: []
+founders:
+  - name: "Harjot Gill"
+    role: "CEO"
+    background: "Serial entrepreneur; co-founded FluxNinja and Netsil (acquired by Nutanix)"
+    origin: "Indian"
+  - name: "Guritfaq Singh"
+    role: "Co-Founder & COO"
+    background: "Engineering leader with extensive SaaS experience in healthcare at Alegeus"
+    origin: "Indian"
 last_updated: 2026-03-20
 confidence: high
 one_liner: CodeRabbit is an AI-powered code review platform that integrates directly into existing developer workflows through
@@ -23,6 +32,23 @@ website_verified: true
 linkedin: https://www.linkedin.com/company/coderabbitai
 crunchbase: https://www.crunchbase.com/organization/coderabbit
 crunchbase_verified: true
+total_raised_m: 88
+funding_rounds:
+  - stage: "Seed"
+    date: "2023"
+    amount_m: 12
+    lead_investors: ["CRV"]
+    source: "https://www.crunchbase.com/organization/coderabbit"
+  - stage: "Series A"
+    date: "2024-08"
+    amount_m: 16
+    lead_investors: ["CRV"]
+    source: "https://www.crunchbase.com/organization/coderabbit"
+  - stage: "Series B"
+    date: "2025-09"
+    amount_m: 60
+    lead_investors: ["Scale Venture Partners"]
+    source: "https://www.crunchbase.com/organization/coderabbit"
 ---
 
 # CodeRabbit

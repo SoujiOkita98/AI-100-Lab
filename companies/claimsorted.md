@@ -9,7 +9,6 @@ funding_rounds:
   amount_m: 13.3
   lead_investors:
   - Atomico
-total_funding: 13.3
 last_updated: 2026-03-21
 confidence: medium
 data_notes: 'Needs verification: website, founders, source_urls, headquarters. Profile may be incomplete.'
@@ -19,6 +18,16 @@ headquarters: London, UK
 founded: 2024
 crunchbase: https://www.crunchbase.com/organization/claimsorted
 crunchbase_verified: true
+total_raised_m: 13.3
+founders:
+- name: Pavel Gertsberg
+  role: CEO
+  background: Co-founded Fluffy (pet-insurance MGA, acquired by Zurich Insurance). YC alumni.
+  origin: Eastern European
+- name: German Mikulski
+  role: CTO
+  background: Co-founded Fluffy. Former engineering at Deutsche Bank (built core systems used by Apple Pay).
+  origin: Eastern European
 ---
 
 # ClaimSorted

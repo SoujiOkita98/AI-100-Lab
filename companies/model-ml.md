@@ -10,7 +10,6 @@ funding_rounds:
   lead_investors:
   - Y Combinator
   - LocalGlobe
-total_funding: 12
 last_updated: 2026-03-21
 confidence: medium
 data_notes: 'Needs verification: website, founders, source_urls, headquarters. Profile may be incomplete.'
@@ -21,6 +20,16 @@ founded: 2023
 crunchbase: https://www.crunchbase.com/organization/model-ml
 crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/model-ml
+total_raised_m: 12.0
+founders:
+  - name: "Chaz Englander"
+    role: "Co-Founder & CEO"
+    background: "Co-founded Fat Llama (acquired by Hygglo 2022) and Fancy (acquired by GoPuff 2021)"
+    origin: "British"
+  - name: "Arnie Englander"
+    role: "Co-Founder"
+    background: "Co-founded Fat Llama and Fancy with brother Chaz"
+    origin: "British"
 ---
 
 # Model ML

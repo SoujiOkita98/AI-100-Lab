@@ -11,16 +11,25 @@ funding_rounds:
   lead_investors:
   - Sequoia
   - Spark Capital
-total_funding: 250
 last_updated: 2026-03-21
 confidence: medium
-data_notes: 'Needs verification: website, founders, source_urls, headquarters. Profile may be incomplete.'
+founders:
+  - name: "Brendan Iribe"
+    role: "Co-Founder"
+    background: "Co-founder and former CEO of Oculus VR (acquired by Facebook/Meta)."
+    origin: "American"
+  - name: "Ankit Kumar"
+    role: "Co-Founder"
+    background: "Former CTO of Ubiquity6 (AR startup)."
+    origin: "Indian-American"
+data_notes: 'Needs verification: website, source_urls, headquarters. Profile may be incomplete.'
 website: https://www.sesame.com
 website_verified: true
 linkedin: https://www.linkedin.com/company/sesameai
 crunchbase: https://www.crunchbase.com/organization/sesame-ai
 crunchbase_verified: true
 twitter: '@sesame'
+total_raised_m: 250.0
 ---
 
 # Sesame

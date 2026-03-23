@@ -15,7 +15,6 @@ funding_rounds:
   - DST Global
   - Eric Schmidt
   source: https://techcrunch.com/2025/12/02/paris-based-ai-voice-startup-gradium-nabs-70m-seed/
-total_funding: 70
 last_updated: 2026-03-21
 confidence: medium
 founders:
@@ -41,6 +40,7 @@ data_notes: 'Website URL may be invalid (Connection failed). '
 linkedin: https://www.linkedin.com/company/gradium-ai
 crunchbase: https://www.crunchbase.com/organization/gradium
 crunchbase_verified: true
+total_raised_m: 70.0
 ---
 
 # Gradium

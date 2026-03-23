@@ -41,6 +41,16 @@ website_verified: true
 crunchbase: https://www.crunchbase.com/organization/modelbest
 crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/modelbest
+funding_rounds:
+  - stage: "Angel"
+    date: "2023-04"
+    lead_investors: ["Undisclosed"]
+    source: "https://www.crunchbase.com/organization/modelbest"
+  - stage: "Seed"
+    date: "2024-04"
+    lead_investors: ["Primavera Capital"]
+    source: "https://www.crunchbase.com/organization/modelbest"
+data_notes: "Funding data not fully disclosed. Raised hundreds of millions of RMB across multiple rounds (~$50-100M estimated). Exact amounts not publicly confirmed."
 ---
 
 # ModelBest (面壁智能)

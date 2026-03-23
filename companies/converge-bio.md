@@ -21,7 +21,6 @@ funding_rounds:
   amount_m: 25
   lead_investors:
   - Bessemer Venture Partners
-total_funding: 30
 last_updated: 2026-03-21
 confidence: medium
 data_notes: 'Needs verification: website, source_urls. Profile may be incomplete.'
@@ -30,6 +29,7 @@ website_verified: true
 linkedin: https://www.linkedin.com/company/converge-bio
 crunchbase: https://www.crunchbase.com/organization/converge-bio
 crunchbase_verified: true
+total_raised_m: 30.0
 ---
 
 # Converge Bio

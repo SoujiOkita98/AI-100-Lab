@@ -12,12 +12,21 @@ funding_rounds:
   amount_m: 5
   lead_investors:
   - Partech
-total_funding: 5
+founders:
+  - name: "Max Teichert"
+    role: "Co-Founder & CEO"
+    background: "Gamer turned professional racing driver; launched racing career after success in Gran Turismo Academy"
+    origin: "German"
+  - name: "Sam Marsden"
+    role: "Co-Founder"
+    background: "Co-founded Track Titan with Max Teichert"
+    origin: "British"
 last_updated: 2026-03-21
 confidence: medium
 crunchbase: https://www.crunchbase.com/organization/track-titan
 crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/tracktitan
+total_raised_m: 5.0
 ---
 
 # Track Titan

@@ -13,11 +13,20 @@ employees: Undisclosed (early-stage)
 status: Private
 last_updated: 2026-03-20
 confidence: medium
-data_notes: 'Needs verification: website, founders. Profile may be incomplete.'
-total_funding: 38.5
+founders:
+  - name: "Anthony Goldbloom"
+    role: "CEO & Co-Founder"
+    background: "Founder and former CEO of Kaggle (acquired by Google in 2017)."
+    origin: "Australian"
+  - name: "Ben Hamner"
+    role: "Co-Founder"
+    background: "Former CTO of Kaggle."
+    origin: "American"
+data_notes: 'Profile may be incomplete.'
 crunchbase: https://www.crunchbase.com/organization/sumble
 crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/sumble
+total_raised_m: 38.5
 ---
 
 # Sumble

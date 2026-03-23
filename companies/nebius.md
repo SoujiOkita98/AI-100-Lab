@@ -50,6 +50,7 @@ website_verified: true
 crunchbase: https://www.crunchbase.com/organization/nebius
 crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/nebius
+total_raised_m: 7450.0
 ---
 
 # Nebius Group (NBIS)

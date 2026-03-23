@@ -12,6 +12,15 @@ additional_offices:
 co_founders:
 - Tang Xiao'ou (deceased Dec 2023)
 - Xu Li (CEO)
+founders:
+  - name: "Tang Xiao'ou"
+    role: "Co-Founder (deceased Dec 2023)"
+    background: "Professor at Chinese University of Hong Kong. Pioneer in computer vision and deep learning research."
+    origin: "Chinese"
+  - name: "Xu Li"
+    role: "CEO & Co-Founder"
+    background: "Researcher in computer vision and AI. Led SenseTime from startup to Hong Kong IPO."
+    origin: "Chinese"
 sector: Computer Vision / Generative AI / AI Infrastructure
 stage: Public (IPO December 2021, HKEX)
 total_funding_usd: ~$5.2B+

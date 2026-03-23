@@ -2,7 +2,6 @@
 name: FieldAI
 founded: 2016
 incorporated_country: USA
-hq: Irvine, California, USA
 sector: Embodied AI / Autonomous Robotics Software
 employee_count_approx: ~200
 status: Private
@@ -57,6 +56,7 @@ one_liner: FieldAI builds embodiment-agnostic autonomy software -- what the comp
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/field-ai
 crunchbase_verified: true
+headquarters: Irvine, California, USA
 ---
 
 # FieldAI

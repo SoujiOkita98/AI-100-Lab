@@ -18,10 +18,10 @@ one_liner: Callosum is a London-based startup building software that orchestrate
   -- NVIDIA, AMD, AWS Trainium/Inferentia, Cerebras, SambaNova, and others
 website_verified: false
 data_notes: 'Website URL may be invalid (Connection failed). '
-total_funding: 10.25
 crunchbase: https://www.crunchbase.com/organization/callosum
 crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/go-callosum
+total_raised_m: 10.25
 ---
 
 # Callosum

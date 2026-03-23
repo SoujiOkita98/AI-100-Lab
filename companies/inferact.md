@@ -31,7 +31,6 @@ funding_rounds:
   - Sequoia
   - ZhenFund
   source: https://techcrunch.com/2026/01/22/inference-startup-inferact-lands-150m-to-commercialize-vllm/
-total_funding: 150
 latest_valuation: 800
 last_updated: 2026-03-21
 confidence: medium
@@ -40,6 +39,7 @@ website: https://inferact.ai
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/inferact
 crunchbase_verified: true
+total_raised_m: 150.0
 ---
 
 # Inferact

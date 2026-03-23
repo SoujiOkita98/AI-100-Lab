@@ -10,7 +10,6 @@ funding_rounds:
   lead_investors:
   - Khosla Ventures
   - Lightspeed
-total_funding: 175
 last_updated: 2026-03-21
 confidence: medium
 founders:
@@ -30,6 +29,7 @@ founded: 2022
 crunchbase: https://www.crunchbase.com/organization/distyl-ai
 crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/distylai
+total_raised_m: 175.0
 ---
 
 # Distyl AI

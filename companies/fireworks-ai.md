@@ -50,6 +50,19 @@ twitter: '@FireworksAI_HQ'
 linkedin: https://www.linkedin.com/company/fireworks-ai
 crunchbase: https://www.crunchbase.com/organization/fireworks-ai
 crunchbase_verified: true
+founders:
+- name: Lin Qiao
+  role: CEO
+  background: PhD CS, UC Santa Barbara. Former Head of PyTorch at Meta.
+  origin: Chinese-American
+- name: Benny Chen
+  role: Co-founder
+  background: Former Meta Ads Infrastructure Lead.
+  origin: Chinese-American
+- name: Dmytro Dzhulgakov
+  role: Co-founder
+  background: PyTorch core maintainer at Meta.
+  origin: Ukrainian
 ---
 
 # Fireworks AI

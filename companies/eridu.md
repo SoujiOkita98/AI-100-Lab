@@ -2,7 +2,6 @@
 name: Eridu
 status: active
 founded: 2024
-hq: San Francisco, CA
 website: https://eridu.ai
 sector:
 - AI infrastructure
@@ -68,6 +67,7 @@ website_verified: true
 crunchbase: https://www.crunchbase.com/organization/eridu
 crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/eridu-ai
+headquarters: San Francisco, CA
 ---
 
 # Eridu

@@ -2,6 +2,7 @@
 company_name: EvenUp
 legal_name: EvenUp Inc.
 website: https://www.evenuplaw.com
+one_liner: "AI platform for personal injury law firms that automates demand letter drafting, medical bill summarization, and case workflow optimization"
 sector: Legal AI / Legal Tech
 founded: 2019
 headquarters: San Francisco, CA
@@ -52,6 +53,7 @@ linkedin: https://www.linkedin.com/company/evenup
 crunchbase: https://www.crunchbase.com/organization/evenup
 crunchbase_verified: true
 twitter: '@evenuplaw'
+total_raised_m: 370.5
 ---
 
 # EvenUp -- Company Profile

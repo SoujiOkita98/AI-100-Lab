@@ -26,7 +26,6 @@ funding_rounds:
   - Sequoia Capital
   - Index Ventures
   source: https://theaiinsider.tech/2026/02/03/flapping-airplanes-launches-research-first-ai-lab-with-180m-seed-round/
-total_funding: 180
 latest_valuation: 1500
 last_updated: 2026-03-21
 confidence: medium
@@ -36,6 +35,7 @@ website_verified: true
 crunchbase: https://www.crunchbase.com/organization/flapping-airplanes
 crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/flapping-airplanes
+total_raised_m: 180.0
 ---
 
 # Flapping Airplanes

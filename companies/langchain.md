@@ -10,6 +10,11 @@ latest_valuation: $1.25B (unicorn)
 total_funding: ~$260M
 headcount_estimate: ~200-230 (as of early 2026; sources vary)
 status: Private
+founders:
+  - name: "Harrison Chase"
+    role: "CEO"
+    background: "Harvard CS graduate; former entity linking lead at Kensho (fintech); former ML team lead at Robust Intelligence; launched LangChain as open-source project in Oct 2022"
+    origin: "American"
 last_updated: 2026-03-20
 funding_rounds:
 - stage: Seed

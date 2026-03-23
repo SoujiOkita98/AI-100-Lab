@@ -22,7 +22,6 @@ funding_rounds:
   lead_investors:
   - DST Global
   - Thrive Capital
-total_funding: 29.2
 last_updated: 2026-03-21
 confidence: medium
 data_notes: 'Needs verification: website, source_urls. Profile may be incomplete.'
@@ -31,6 +30,7 @@ website_verified: true
 linkedin: https://www.linkedin.com/company/console-co
 crunchbase: https://www.crunchbase.com/organization/console-ai
 crunchbase_verified: true
+total_raised_m: 29.2
 ---
 
 # Console

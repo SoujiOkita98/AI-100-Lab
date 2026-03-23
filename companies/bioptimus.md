@@ -10,13 +10,23 @@ funding_rounds:
 - stage: Seed
   date: '2024'
   amount_m: 67
-total_funding: 67
 last_updated: 2026-03-21
 confidence: medium
 crunchbase: https://www.crunchbase.com/organization/bioptimus
 crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/bioptimus
 twitter: '@bioptimus_ai'
+total_raised_m: 67.0
+founders:
+- name: Jean-Philippe Vert
+  role: CEO
+  background: 25+ years ML/life sciences. Chief R&D Officer at Owkin. Former head of Google Brain Paris. Professor at PSL
+    University.
+  origin: French
+- name: Rodolphe Jenatton
+  role: CTO
+  background: Former senior research scientist at Amazon and Google.
+  origin: French
 ---
 
 # Bioptimus

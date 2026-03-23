@@ -9,7 +9,6 @@ funding_rounds:
   date: 2025-09
   amount_m: 20
   source: https://theaiinsider.tech/2025/09/09/isotopes-ai-launches-from-stealth/
-total_funding: 20
 last_updated: 2026-03-21
 confidence: medium
 founders:
@@ -22,6 +21,7 @@ headquarters: Palo Alto, CA
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/isotopes-ai
 crunchbase_verified: true
+total_raised_m: 20.0
 ---
 
 # Isotopes AI

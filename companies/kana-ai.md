@@ -20,7 +20,6 @@ funding_rounds:
   lead_investors:
   - Mayfield Fund
   source: https://techcrunch.com/2026/02/18/kana-emerges-from-stealth-with-15m/
-total_funding: 15
 last_updated: 2026-03-21
 confidence: medium
 data_notes: 'Needs verification: website, source_urls, headquarters. Profile may be incomplete.'
@@ -30,6 +29,7 @@ headquarters: San Francisco, CA
 linkedin: https://www.linkedin.com/company/kana-intelligence
 crunchbase: https://www.crunchbase.com/organization/kana-ai
 crunchbase_verified: true
+total_raised_m: 15.0
 ---
 
 # Kana

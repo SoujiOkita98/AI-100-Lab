@@ -13,13 +13,13 @@ funding_rounds:
   lead_investors:
   - Kleiner Perkins
   - Nvidia NVentures
-total_funding: 73
 last_updated: 2026-03-21
 confidence: medium
 crunchbase: https://www.crunchbase.com/organization/wisdomai
 crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/wisdomai
 twitter: '@wisdomai_inc'
+total_raised_m: 73.0
 ---
 
 # WisdomAI

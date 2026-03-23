@@ -35,6 +35,23 @@ website_verified: true
 linkedin: https://www.linkedin.com/company/copyai
 crunchbase: https://www.crunchbase.com/organization/copy-ai
 crunchbase_verified: true
+total_raised_m: 19.8
+funding_rounds:
+  - stage: "Seed"
+    date: "2021-03"
+    amount_m: 2.9
+    lead_investors: ["Craft Ventures"]
+    source: "https://www.crunchbase.com/organization/copy-ai"
+  - stage: "Series A"
+    date: "2021-10"
+    amount_m: 11
+    lead_investors: ["Wing Venture Capital"]
+    source: "https://www.crunchbase.com/organization/copy-ai"
+  - stage: "Convertible Note"
+    date: "2023-11"
+    amount_m: 3
+    lead_investors: ["K5 Global Technology"]
+    source: "https://www.crunchbase.com/organization/copy-ai"
 ---
 
 # Copy.ai

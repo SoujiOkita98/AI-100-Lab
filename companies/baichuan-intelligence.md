@@ -2,6 +2,7 @@
 name: Baichuan Intelligence
 legal_name: Baichuan Intelligence Technology Co., Ltd. (百川智能)
 website: https://www.baichuan-ai.com
+one_liner: "Chinese AI company developing foundation large language models with focus on healthcare, education, and finance applications"
 sector: Foundation Models / Medical AI
 founded: Apri
 headquarters: Haidian District, Beijing, China

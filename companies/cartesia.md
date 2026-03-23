@@ -32,6 +32,18 @@ website_verified: true
 linkedin: https://www.linkedin.com/company/cartesia-ai
 crunchbase: https://www.crunchbase.com/organization/cartesia
 crunchbase_verified: true
+total_raised_m: 91
+funding_rounds:
+  - stage: "Seed"
+    date: "2024-12"
+    amount_m: 27
+    lead_investors: ["Index Ventures"]
+    source: "https://www.crunchbase.com/organization/cartesia"
+  - stage: "Series A"
+    date: "2025-03"
+    amount_m: 64
+    lead_investors: ["Kleiner Perkins"]
+    source: "https://www.crunchbase.com/organization/cartesia"
 ---
 
 # Cartesia

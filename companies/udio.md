@@ -52,6 +52,13 @@ one_liner: Udio is a generative AI platform that produces full songs -- vocals, 
 crunchbase: https://www.crunchbase.com/organization/udio
 crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/udiomusic
+total_raised_m: 10
+funding_rounds:
+  - stage: "Seed"
+    date: "2024"
+    amount_m: 10
+    lead_investors: ["Andreessen Horowitz"]
+    source: "https://www.crunchbase.com/organization/udio"
 ---
 
 # Udio -- AI Music Generation

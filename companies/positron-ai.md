@@ -14,6 +14,36 @@ one_liner: Positron AI is building energy-efficient, Made-in-America AI inferenc
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/positron-ai
 crunchbase_verified: true
+founders:
+  - name: "Thomas Sohmers"
+    role: "Co-Founder & CTO"
+    background: "Thiel Fellow; experienced entrepreneur"
+    origin: "American"
+  - name: "Barrett Woodside"
+    role: "Co-Founder & VP of Product"
+    background: ""
+    origin: "American"
+  - name: "Edward Kmett"
+    role: "Co-Founder & Chief Scientist"
+    background: "World-renowned mathematician and functional programming expert"
+    origin: "American"
+total_raised_m: 305
+funding_rounds:
+  - stage: "Seed / Series A"
+    date: "2025-02"
+    amount_m: 23.5
+    lead_investors: ["Flume Ventures", "Valor Equity Partners"]
+    source: "https://www.crunchbase.com/organization/positron-ai"
+  - stage: "Series A Extension"
+    date: "2025"
+    amount_m: 51.6
+    lead_investors: ["DFJ Growth", "Valor Equity Partners"]
+    source: "https://www.crunchbase.com/organization/positron-ai"
+  - stage: "Series B"
+    date: "2026-02"
+    amount_m: 230
+    lead_investors: ["Arena Private Wealth", "Jump Trading"]
+    source: "https://www.crunchbase.com/organization/positron-ai"
 ---
 
 # Positron AI

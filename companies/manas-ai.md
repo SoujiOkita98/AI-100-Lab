@@ -11,7 +11,6 @@ funding_rounds:
   lead_investors:
   - OpenAI
   source: https://ustechtimes.com/openai-just-bet-130m-on-this-6-month-old-drug-company/
-total_funding: 24.6
 last_updated: 2026-03-21
 confidence: medium
 founders:
@@ -30,6 +29,7 @@ linkedin: https://www.linkedin.com/company/manas-ai
 headquarters: New York, NY
 crunchbase: https://www.crunchbase.com/organization/manas-ai
 crunchbase_verified: true
+total_raised_m: 24.6
 ---
 
 # Manas AI

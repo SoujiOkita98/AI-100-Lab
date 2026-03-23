@@ -14,7 +14,6 @@ funding_rounds:
   - Junchi Capital
   - SAIF Partners
   source: https://techcrunch.com/
-total_funding: 242
 last_updated: 2026-03-21
 confidence: medium
 founders:
@@ -33,6 +32,7 @@ founders:
 data_notes: 'Needs verification: website, source_urls. Profile may be incomplete.'
 crunchbase: https://www.crunchbase.com/organization/tars-ai
 crunchbase_verified: true
+total_raised_m: 242.0
 ---
 
 # TARS (Tashi Zhihang)

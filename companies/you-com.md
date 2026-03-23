@@ -10,7 +10,6 @@ funding_rounds:
 - stage: Series C
   date: 2025-12
   amount_m: 100
-total_funding: 145
 last_updated: 2026-03-21
 confidence: medium
 data_notes: 'Needs verification: founders, source_urls. Profile may be incomplete.'
@@ -19,6 +18,7 @@ linkedin: https://www.linkedin.com/company/youdotcom
 crunchbase: https://www.crunchbase.com/organization/you-com
 crunchbase_verified: true
 twitter: '@youdotcom'
+total_raised_m: 145.0
 ---
 
 # You.com

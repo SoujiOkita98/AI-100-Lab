@@ -68,6 +68,7 @@ linkedin: https://www.linkedin.com/company/unconvai
 crunchbase: https://www.crunchbase.com/organization/unconventional-ai
 crunchbase_verified: true
 twitter: '@unconvAI'
+total_raised_m: 475.0
 ---
 
 # Unconventional AI

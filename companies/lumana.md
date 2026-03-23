@@ -12,7 +12,6 @@ funding_rounds:
   amount_m: 40
   lead_investors:
   - Wing VC
-total_funding: 64
 last_updated: 2026-03-21
 confidence: medium
 linkedin: https://www.linkedin.com/company/lumana-ai
@@ -21,6 +20,21 @@ website_verified: true
 crunchbase: https://www.crunchbase.com/organization/lumana
 crunchbase_verified: true
 twitter: '@LumanaHQ'
+total_raised_m: 64.0
+founders:
+- name: Sagi Ben Moshe
+  role: CEO
+  background: Former Intel Chief Incubation Officer and GM. Joined Intel via acquisition of his 3D Imaging company. Was Intels
+    most senior Israeli executive.
+  origin: Israeli
+- name: Ron Kimmel
+  role: CSO
+  background: Professor. Former senior role at Intel Israel.
+  origin: Israeli
+- name: Ofir Mulla
+  role: CTO
+  background: Former senior role at Intel Israel.
+  origin: Israeli
 ---
 
 # Lumana

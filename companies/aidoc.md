@@ -20,7 +20,6 @@ funding_rounds:
   - General Catalyst
   - Square Peg
   - NVentures
-total_funding: 250
 last_updated: 2026-03-21
 confidence: medium
 data_notes: 'Needs verification: website, source_urls. Profile may be incomplete.'
@@ -30,6 +29,7 @@ linkedin: https://www.linkedin.com/company/aidoc
 crunchbase: https://www.crunchbase.com/organization/aidoc
 crunchbase_verified: true
 twitter: '@aidocmed'
+total_raised_m: 250.0
 ---
 
 # Aidoc

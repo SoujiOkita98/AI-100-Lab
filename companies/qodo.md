@@ -25,6 +25,27 @@ one_liner: Qodo, formerly known as CodiumAI, is an AI-powered code testing and q
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/qodo
 crunchbase_verified: true
+founders:
+  - name: "Itamar Friedman"
+    role: "Co-Founder & CEO"
+    background: "Former Director at Alibaba Group Israeli AI Lab; co-founded Visualead (acquired by Alibaba)"
+    origin: "Israeli"
+  - name: "Dedy Kredo"
+    role: "Co-Founder & CPO"
+    background: "Former VP of Customer Data Science at Explorium; managed product line at VMware"
+    origin: "Israeli"
+total_raised_m: 50
+funding_rounds:
+  - stage: "Seed"
+    date: "2023"
+    amount_m: 11
+    lead_investors: ["TLV Partners", "Vine Ventures"]
+    source: "https://www.crunchbase.com/organization/qodo"
+  - stage: "Series A"
+    date: "2024-09"
+    amount_m: 40
+    lead_investors: ["Susa Ventures", "Square Peg"]
+    source: "https://www.crunchbase.com/organization/qodo"
 ---
 
 # Qodo

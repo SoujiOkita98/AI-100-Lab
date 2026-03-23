@@ -12,13 +12,18 @@ funding_rounds:
   amount_m: 55
   lead_investors:
   - NEA
-total_funding: 130
 last_updated: 2026-03-21
 confidence: medium
 crunchbase: https://www.crunchbase.com/organization/sana-labs
 crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/sana-labs
 twitter: '@sanalabs'
+founders:
+  - name: "Joel Hellermark"
+    role: "CEO & Founder"
+    background: "Self-taught engineer from Sweden. Started first AI company as teenager. Appointed AI-specialist by Swedish government. Obama Foundation Leader."
+    origin: "Swedish"
+total_raised_m: 130.0
 ---
 
 # Sana Labs

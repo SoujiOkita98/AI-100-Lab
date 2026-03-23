@@ -11,7 +11,15 @@ funding_rounds:
   lead_investors:
   - Spark Capital
   - Transformation Capital
-total_funding: 80
+founders:
+  - name: "Sriram Somasundaram"
+    role: "Co-Founder & Co-CEO"
+    background: "Indian-American. Age 28."
+    origin: "Indian-American"
+  - name: "Rishabh Jain"
+    role: "Co-Founder & Co-CEO"
+    background: "Indian-American."
+    origin: "Indian-American"
 last_updated: 2026-03-21
 confidence: medium
 linkedin: https://www.linkedin.com/company/latent-health
@@ -20,6 +28,7 @@ website: https://latenthealth.com
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/latent-health
 crunchbase_verified: true
+total_raised_m: 80.0
 ---
 
 # Latent Health

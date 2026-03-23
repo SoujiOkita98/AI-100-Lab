@@ -13,7 +13,6 @@ funding_rounds:
   - Notion Capital
   - Norrsken VC
   source: https://fortune.com/2025/12/18/endra-ai-startup-automating-mep-design-sweden/
-total_funding: 20
 last_updated: 2026-03-21
 confidence: medium
 founders:
@@ -30,6 +29,7 @@ website: https://www.endra.ai
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/endra
 crunchbase_verified: true
+total_raised_m: 20.0
 ---
 
 # Endra

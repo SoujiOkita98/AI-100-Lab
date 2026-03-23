@@ -9,7 +9,6 @@ funding_rounds:
   amount_m: 7.8
   lead_investors:
   - Dell Technologies Capital
-total_funding: 7.8
 last_updated: 2026-03-21
 confidence: medium
 data_notes: 'Needs verification: website, founders, source_urls, headquarters. Profile may be incomplete.'
@@ -20,6 +19,16 @@ founded: 2022
 crunchbase: https://www.crunchbase.com/organization/maxiq
 crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/getmaxiq
+total_raised_m: 7.8
+founders:
+  - name: "Sonny Aulakh"
+    role: "Founder"
+    background: ""
+    origin: "Indian"
+  - name: "Sunny Rai"
+    role: "Co-Founder & Head of Operations"
+    background: ""
+    origin: "Indian"
 ---
 
 # MaxIQ

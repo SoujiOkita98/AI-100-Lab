@@ -2,7 +2,6 @@
 name: Oxa
 status: active
 founded: 2014
-hq: Oxford, United Kingdom
 website: https://oxa.tech
 sector:
 - autonomous vehicles
@@ -54,6 +53,7 @@ confidence: high
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/oxa
 crunchbase_verified: true
+headquarters: Oxford, United Kingdom
 ---
 
 # Oxa

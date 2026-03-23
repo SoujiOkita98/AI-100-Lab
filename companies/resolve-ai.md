@@ -18,7 +18,6 @@ funding_rounds:
   lead_investors:
   - Lightspeed Venture Partners
   source: https://techcrunch.com/2025/12/19/ex-splunk-execs-startup-resolve-ai/
-total_funding: 125
 latest_valuation: 1000
 last_updated: 2026-03-21
 confidence: medium
@@ -29,6 +28,7 @@ headquarters: San Francisco, CA
 crunchbase: https://www.crunchbase.com/organization/resolve-ai
 crunchbase_verified: true
 twitter: '@resolveai'
+total_raised_m: 125.0
 ---
 
 # Resolve AI

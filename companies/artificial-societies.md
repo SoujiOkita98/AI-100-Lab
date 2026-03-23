@@ -11,7 +11,15 @@ funding_rounds:
   lead_investors:
   - Point72 Ventures
   source: https://www.thesaasnews.com/news/artificial-societies-raises-5-35m
-total_funding: 5.35
+founders:
+  - name: "James K He"
+    role: "Co-Founder & CEO"
+    background: "Cambridge psychologist and data scientist. Led seminal paper studying how 33,000 AI chatbots interact."
+    origin: "Chinese/British (inferred from name and Cambridge background)"
+  - name: "Patrick Sharpe"
+    role: "Co-Founder"
+    background: "Applied behavioural scientist with years of experience helping F500 enterprises conduct market research."
+    origin: "British (inferred from name)"
 last_updated: 2026-03-21
 confidence: medium
 data_notes: 'Needs verification: website, founders, source_urls, headquarters. Profile may be incomplete.'
@@ -21,6 +29,7 @@ headquarters: London, UK
 crunchbase: https://www.crunchbase.com/organization/artificial-societies
 crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/artificial-societies
+total_raised_m: 5.35
 ---
 
 # Artificial Societies

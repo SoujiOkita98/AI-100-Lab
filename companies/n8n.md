@@ -15,7 +15,6 @@ funding_rounds:
   - Meritech
   - Redpoint
   - Sequoia
-total_funding: 230
 last_updated: 2026-03-21
 confidence: medium
 data_notes: 'Needs verification: founders, source_urls. Profile may be incomplete.'
@@ -24,6 +23,13 @@ linkedin: https://www.linkedin.com/company/n8n
 crunchbase: https://www.crunchbase.com/organization/n8n
 crunchbase_verified: true
 twitter: '@n8n_io'
+total_raised_m: 230.0
+founders:
+- name: Jan Oberhauser
+  role: CEO
+  background: Studied visual media. Former VFX engineer at Academy Award-winning production company. Founded n8n GmbH in Berlin
+    2019.
+  origin: German
 ---
 
 # n8n

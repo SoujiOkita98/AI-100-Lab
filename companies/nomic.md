@@ -13,7 +13,6 @@ funding_rounds:
   - Coatue
   - Contrary
   source: https://www.nomic.ai/blog/posts/series-a
-total_funding: 17
 latest_valuation: 100
 last_updated: 2026-03-21
 confidence: medium
@@ -24,6 +23,16 @@ linkedin: https://www.linkedin.com/company/nomic-ai
 headquarters: New York, NY
 crunchbase: https://www.crunchbase.com/organization/nomic
 crunchbase_verified: true
+total_raised_m: 17.0
+founders:
+  - name: "Brandon Duderstadt"
+    role: "Co-Founder & CEO"
+    background: "BS Applied Math & Stats and MS Biomedical Engineering from Johns Hopkins; former AI Engineer at Rad AI"
+    origin: "American"
+  - name: "Andriy Mulyar"
+    role: "Co-Founder"
+    background: "Former intern at Rad AI under Duderstadt"
+    origin: "Ukrainian-American"
 ---
 
 # Nomic

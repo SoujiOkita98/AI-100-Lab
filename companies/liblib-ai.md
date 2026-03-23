@@ -12,7 +12,11 @@ funding_rounds:
   lead_investors:
   - HongShan (Sequoia China)
   - CMC Capital
-total_funding: 130
+founders:
+  - name: "Chen Mian"
+    role: "Founder & CEO"
+    background: "Born 1992. Former ByteDance employee, headed commercialization for Jianying and CapCut teams. Left ByteDance May 2023 to found LiblibAI."
+    origin: "Chinese"
 last_updated: 2026-03-21
 confidence: medium
 data_notes: 'Needs verification: website, founders, source_urls. Profile may be incomplete.'
@@ -20,6 +24,7 @@ website: https://www.liblib.art
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/liblib-ai
 crunchbase_verified: true
+total_raised_m: 130.0
 ---
 
 # LiblibAI

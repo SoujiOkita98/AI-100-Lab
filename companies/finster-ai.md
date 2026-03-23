@@ -18,7 +18,6 @@ funding_rounds:
   - Peak XV
   - FinTech Collective
   - Hoxton Ventures
-total_funding: 15
 last_updated: 2026-03-21
 confidence: medium
 data_notes: 'Needs verification: website, source_urls. Profile may be incomplete.'
@@ -27,6 +26,7 @@ website_verified: true
 linkedin: https://www.linkedin.com/company/finster-ai
 crunchbase: https://www.crunchbase.com/organization/finster-ai
 crunchbase_verified: true
+total_raised_m: 15.0
 ---
 
 # Finster AI

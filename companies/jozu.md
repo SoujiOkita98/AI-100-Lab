@@ -13,12 +13,17 @@ funding_rounds:
   lead_investors:
   - HalfCourt Capital
   - Mozilla Ventures
-total_funding: 4
+founders:
+  - name: "Brad Micklea"
+    role: "Founder & CEO"
+    background: ""
+    origin: ""
 last_updated: 2026-03-21
 confidence: medium
 crunchbase: https://www.crunchbase.com/organization/jozu
 crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/jozu-saas
+total_raised_m: 4.0
 ---
 
 # Jozu

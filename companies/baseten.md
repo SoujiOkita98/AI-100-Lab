@@ -19,6 +19,19 @@ tags:
 - Truss
 - LLM infrastructure
 - model training
+founders:
+  - name: "Tuhin Srivastava"
+    role: "Co-Founder & CEO"
+    background: "Former investment banker at Macquarie Group. ML roles at Skulpt and Gumroad."
+    origin: "Indian (inferred from name)"
+  - name: "Amir Haghighat"
+    role: "Co-Founder & CTO"
+    background: "AI infrastructure engineering background."
+    origin: "Iranian (inferred from name)"
+  - name: "Philip Howes"
+    role: "Co-Founder & Chief Scientist"
+    background: "ML research background."
+    origin: "British/American (inferred from name)"
 last_updated: 2026-03-20
 funding_rounds:
 - stage: Seed

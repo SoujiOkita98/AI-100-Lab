@@ -9,16 +9,25 @@ funding_rounds:
   amount_m: 10
   lead_investors:
   - Undisclosed
-total_funding: 10
 last_updated: 2026-03-21
 confidence: medium
-data_notes: 'Needs verification: website, founders, source_urls, headquarters. Profile may be incomplete.'
+founders:
+  - name: "Maor Greenberg"
+    role: "CEO & Co-Founder"
+    background: "Real estate and construction executive with 19+ years of experience."
+    origin: "Israeli"
+  - name: "Ami Avrahami"
+    role: "CPO & Co-Founder"
+    background: "Seasoned technology entrepreneur with 20+ years of experience."
+    origin: "Israeli"
+data_notes: 'Needs verification: website, source_urls, headquarters. Profile may be incomplete.'
 website: https://spacial.io
 website_verified: true
 headquarters: San Francisco, CA
 founded: 2024
 crunchbase: https://www.crunchbase.com/organization/spacial-ai
 crunchbase_verified: true
+total_raised_m: 10.0
 ---
 
 # Spacial

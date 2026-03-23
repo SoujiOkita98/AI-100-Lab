@@ -17,7 +17,6 @@ funding_rounds:
   lead_investors:
   - Accel
   - AltaIR Capital
-total_funding: 4
 last_updated: 2026-03-21
 confidence: medium
 data_notes: 'Needs verification: website, source_urls. Profile may be incomplete.'
@@ -26,6 +25,7 @@ website_verified: true
 crunchbase: https://www.crunchbase.com/organization/solda-ai
 crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/solda-ai
+total_raised_m: 4.0
 ---
 
 # Solda.AI

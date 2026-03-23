@@ -12,7 +12,6 @@ funding_rounds:
   lead_investors:
   - Sequoia Capital
   source: https://sequoiacap.com/article/partnering-with-ricursive-intelligence/
-total_funding: 35
 latest_valuation: 750
 last_updated: 2026-03-21
 confidence: medium
@@ -31,6 +30,7 @@ website_verified: true
 linkedin: https://www.linkedin.com/company/ricursive-intelligence
 crunchbase: https://www.crunchbase.com/organization/ricursive-intelligence
 crunchbase_verified: true
+total_raised_m: 35.0
 ---
 
 # Ricursive Intelligence

@@ -16,6 +16,33 @@ linkedin: https://www.linkedin.com/company/d-matrix
 crunchbase: https://www.crunchbase.com/organization/d-matrix
 crunchbase_verified: true
 twitter: '@dMatrix_AI'
+founders:
+- name: Sid Sheth
+  role: CEO
+  background: MSEE from Purdue. Former SVP/GM at Inphi Corporation (grew to $1B+). Prior at NetLogic Microsystems (now Broadcom)
+    and Intel.
+  origin: Indian-American
+- name: Sudeep Bhoja
+  role: CTO
+  background: Semiconductor industry veteran.
+  origin: Indian-American
+total_raised_m: 450
+funding_rounds:
+  - stage: "Series A"
+    date: "2021"
+    amount_m: 65
+    lead_investors: ["Undisclosed"]
+    source: "https://www.crunchbase.com/organization/d-matrix"
+  - stage: "Series B"
+    date: "2023-09"
+    amount_m: 110
+    lead_investors: ["Temasek"]
+    source: "https://www.crunchbase.com/organization/d-matrix"
+  - stage: "Series C"
+    date: "2025-11"
+    amount_m: 275
+    lead_investors: ["Bullhound Capital", "Triatomic Capital", "Temasek"]
+    source: "https://www.crunchbase.com/organization/d-matrix"
 ---
 
 # d-Matrix

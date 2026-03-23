@@ -11,7 +11,15 @@ funding_rounds:
   lead_investors:
   - NEA
   - a16z American Dynamism
-total_funding: 21
+founders:
+  - name: "Nikhil Reddy"
+    role: "Co-Founder & CEO"
+    background: "Early engineer at Anduril (defense technology)."
+    origin: "Indian-American"
+  - name: "KJ Shah"
+    role: "Co-Founder & COO"
+    background: "Started career in M&A. Exposed to public-sector technology at William Blair."
+    origin: "Indian-American"
 last_updated: 2026-03-21
 confidence: medium
 website: https://kaizenlabs.co
@@ -21,6 +29,7 @@ website_verified: true
 linkedin: https://www.linkedin.com/company/the-kaizen-labs
 crunchbase: https://www.crunchbase.com/organization/kaizen-labs
 crunchbase_verified: true
+total_raised_m: 21.0
 ---
 
 # Kaizen Labs

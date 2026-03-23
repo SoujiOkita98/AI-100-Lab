@@ -2,7 +2,6 @@
 name: Fundamental
 status: active
 founded: 2024
-hq: San Francisco, CA
 website: https://fundamental.ai
 sector:
 - enterprise AI
@@ -57,6 +56,7 @@ confidence: medium
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/fundamental-ai
 crunchbase_verified: true
+headquarters: San Francisco, CA
 ---
 
 # Fundamental

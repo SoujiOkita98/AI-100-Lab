@@ -51,6 +51,19 @@ one_liner: Semgrep (formerly r2c / Return to Corporation) is an AI-powered code 
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/semgrep
 crunchbase_verified: true
+founders:
+  - name: "Isaac Evans"
+    role: "CEO & Co-Founder"
+    background: "MIT alumnus. Led development of the open-source Semgrep tool."
+    origin: "American"
+  - name: "Drew Dennison"
+    role: "CTO & Co-Founder"
+    background: "MIT alumnus. Technical lead for the Semgrep engine and platform."
+    origin: "American"
+  - name: "Luke O'Malley"
+    role: "CPO & Co-Founder"
+    background: "MIT alumnus. Leads product strategy and design."
+    origin: "American"
 ---
 
 # Semgrep

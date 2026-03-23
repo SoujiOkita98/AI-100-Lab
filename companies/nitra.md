@@ -11,10 +11,19 @@ funding_rounds:
 - stage: Series B
   date: 2026-03
   amount_m: 50
-total_funding: 187
 last_updated: 2026-03-21
 confidence: medium
 twitter: '@NitraFinance'
+total_raised_m: 187.0
+founders:
+- name: Jonathan Chen
+  role: CEO
+  background: BS CS valedictorian, University of Maryland. Co-founded FiscalNote (legaltech unicorn).
+  origin: Chinese-American
+- name: Tim Hwang
+  role: Co-founder & Chair
+  background: Co-founded FiscalNote, scaled to thousands of customers.
+  origin: Korean-American
 ---
 
 # Nitra

@@ -35,6 +35,22 @@ website_verified: true
 crunchbase: https://www.crunchbase.com/organization/happyrobot
 crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/happyrobot
+total_raised_m: 62
+funding_rounds:
+  - stage: "Seed"
+    date: "2023"
+    lead_investors: ["Array Ventures", "Y Combinator"]
+    source: "https://www.crunchbase.com/organization/happyrobot"
+  - stage: "Series A"
+    date: "2024-12"
+    amount_m: 15.6
+    lead_investors: ["Andreessen Horowitz"]
+    source: "https://www.prnewswire.com/news-releases/happyrobot-raises-15-6-million-series-a-funding-led-by-a16z-to-transform-logistics-with-agentic-ai-302322662.html"
+  - stage: "Series B"
+    date: "2025"
+    amount_m: 44
+    lead_investors: ["Base10 Partners"]
+    source: "https://www.pymnts.com/news/investment-tracker/2025/happyrobot-raises-44-million-dollars-ai-supply-chain-workers/"
 ---
 
 # HappyRobot

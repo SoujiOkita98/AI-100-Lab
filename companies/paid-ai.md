@@ -11,7 +11,6 @@ funding_rounds:
   lead_investors:
   - Lightspeed Venture Partners
   source: https://techcrunch.com/2025/09/28/paid-the-ai-agent-results-based-billing-startup/
-total_funding: 21
 last_updated: 2026-03-21
 confidence: medium
 founders:
@@ -28,6 +27,7 @@ headquarters: London, UK
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/paid-ai
 crunchbase_verified: true
+total_raised_m: 21.0
 ---
 
 # Paid

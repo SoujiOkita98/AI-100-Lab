@@ -33,6 +33,13 @@ one_liner: '> French AI startup using generative models to discover optimized ca
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/entalpic
 crunchbase_verified: true
+total_raised_m: 9.3
+funding_rounds:
+  - stage: "Seed"
+    date: "2024"
+    amount_m: 9.3
+    lead_investors: ["Breega", "Cathay Innovation", "Felicis"]
+    source: "https://www.cathaycapital.com/entalpic-raises-e8-5-million-to-pioneer-ai-solutions-for-decarbonizing-industrial-chemistry/"
 ---
 
 # Entalpic

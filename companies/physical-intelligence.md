@@ -2,7 +2,6 @@
 name: Physical Intelligence
 status: active
 founded: 2024
-hq: San Francisco, CA
 website: https://www.physicalintelligence.company
 sector:
 - foundation models
@@ -148,6 +147,7 @@ twitter: '@physical_int'
 linkedin: https://www.linkedin.com/company/physical-intelligence
 crunchbase: https://www.crunchbase.com/organization/physical-intelligence
 crunchbase_verified: true
+headquarters: San Francisco, CA
 ---
 
 # Physical Intelligence

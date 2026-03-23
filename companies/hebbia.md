@@ -34,6 +34,7 @@ website_verified: true
 linkedin: https://www.linkedin.com/company/hebbia
 crunchbase: https://www.crunchbase.com/organization/hebbia
 crunchbase_verified: true
+total_raised_m: 160.0
 ---
 
 # Hebbia -- Company Profile

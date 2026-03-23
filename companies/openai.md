@@ -2,7 +2,6 @@
 name: OpenAI
 status: active
 founded: 2015-12-11
-hq: San Francisco, CA
 website: https://openai.com
 sector:
 - foundation models
@@ -186,6 +185,7 @@ linkedin: https://www.linkedin.com/company/openai
 twitter: '@openai'
 crunchbase: https://www.crunchbase.com/organization/openai
 crunchbase_verified: true
+headquarters: San Francisco, CA
 ---
 
 # OpenAI

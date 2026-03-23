@@ -1,19 +1,30 @@
 ---
-name: "Genie AI"
+name: Genie AI
 founded: 2017
-headquarters: "London, UK"
+headquarters: London, UK
 website: https://genieai.co
-sector: "AI Legal / Contract Drafting"
-one_liner: "Agentic legal AI drafting 50+ page agreements across jurisdictions in minutes. GV and Khosla backed."
+sector: AI Legal / Contract Drafting
+one_liner: Agentic legal AI drafting 50+ page agreements across jurisdictions in minutes. GV and Khosla backed.
 status: active
 funding_rounds:
-  - stage: "Series A"
-    date: "2024-10"
-    amount_m: 17.8
-    lead_investors: ["GV (Google Ventures)", "Khosla Ventures"]
-total_funding: 17.8
+- stage: Series A
+  date: 2024-10
+  amount_m: 17.8
+  lead_investors:
+  - GV (Google Ventures)
+  - Khosla Ventures
+founders:
+  - name: "Rafie Faruq"
+    role: "Co-Founder & CEO"
+    background: "Studied at UCL. Taught by leading researchers at Google DeepMind."
+    origin: "British-South Asian"
+  - name: "Nitish Mutha"
+    role: "Co-Founder & CTO"
+    background: "AI specialist at UCL. Taught by leading researchers at Google DeepMind."
+    origin: "Indian"
 last_updated: 2026-03-21
 confidence: medium
+total_raised_m: 17.8
 ---
 
 # Genie AI

@@ -20,13 +20,13 @@ funding_rounds:
   amount_m: 10
   lead_investors:
   - Felicis
-total_funding: 10
 last_updated: 2026-03-21
 confidence: medium
 website_verified: true
 linkedin: https://www.linkedin.com/company/letta-ai
 crunchbase: https://www.crunchbase.com/organization/letta
 crunchbase_verified: true
+total_raised_m: 10.0
 ---
 
 # Letta

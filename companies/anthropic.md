@@ -2,7 +2,6 @@
 name: Anthropic
 status: active
 founded: 2021
-hq: San Francisco, CA
 website: https://www.anthropic.com
 sector:
 - AI safety
@@ -190,6 +189,7 @@ linkedin: https://www.linkedin.com/company/anthropicresearch
 twitter: '@AnthropicAI'
 crunchbase: https://www.crunchbase.com/organization/anthropic
 crunchbase_verified: true
+headquarters: San Francisco, CA
 ---
 
 # Anthropic

@@ -10,7 +10,6 @@ funding_rounds:
   lead_investors:
   - Redpoint Ventures
   - Battery Ventures
-total_funding: 28
 last_updated: 2026-03-21
 confidence: medium
 founders:
@@ -34,6 +33,7 @@ founded: 2024
 crunchbase: https://www.crunchbase.com/organization/imper-ai
 crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/imper-ai
+total_raised_m: 28.0
 ---
 
 # Imper.ai

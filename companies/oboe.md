@@ -9,7 +9,6 @@ funding_rounds:
   amount_m: 16
   lead_investors:
   - Andreessen Horowitz
-total_funding: 16
 last_updated: 2026-03-21
 confidence: medium
 data_notes: 'Needs verification: website, founders, source_urls, headquarters. Profile may be incomplete.'
@@ -20,6 +19,16 @@ website_verified: true
 crunchbase: https://www.crunchbase.com/organization/oboe
 crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/oboelabs
+total_raised_m: 16.0
+founders:
+  - name: "Nir Zicherman"
+    role: "Co-Founder & CEO"
+    background: "Co-founded Anchor (acquired by Spotify); scaled Spotify's audiobooks business"
+    origin: "Israeli-American"
+  - name: "Michael Mignano"
+    role: "Co-Founder"
+    background: "Co-founded Anchor (acquired by Spotify); partner at Lightspeed Ventures"
+    origin: "American"
 ---
 
 # Oboe

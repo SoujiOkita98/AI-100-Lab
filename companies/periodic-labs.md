@@ -25,7 +25,6 @@ funding_rounds:
   - DST Global
   - Accel
   source: https://techcrunch.com/2025/09/30/former-openai-and-deepmind-researchers-raise-whopping-300m-seed-to-automate-science/
-total_funding: 300
 last_updated: 2026-03-21
 confidence: medium
 data_notes: 'Needs verification: website, source_urls. Profile may be incomplete.'
@@ -34,6 +33,7 @@ website_verified: true
 linkedin: https://www.linkedin.com/company/periodic-labs
 crunchbase: https://www.crunchbase.com/organization/periodic-labs
 crunchbase_verified: true
+total_raised_m: 300.0
 ---
 
 # Periodic Labs

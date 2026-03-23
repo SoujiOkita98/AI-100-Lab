@@ -21,7 +21,6 @@ funding_rounds:
   amount_m: 9
   lead_investors:
   - Concentric
-total_funding: 9
 last_updated: 2026-03-21
 confidence: medium
 data_notes: 'Needs verification: website, source_urls. Profile may be incomplete.'
@@ -29,6 +28,7 @@ website: https://www.aeon.health
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/aeon-health
 crunchbase_verified: true
+total_raised_m: 9.0
 ---
 
 # Aeon Health

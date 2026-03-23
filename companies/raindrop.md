@@ -11,7 +11,6 @@ funding_rounds:
   lead_investors:
   - Lightspeed Venture Partners
   source: https://www.startuphub.ai/ai-news/funding-round/2025/raindrop-secures-15-million-seed-round
-total_funding: 15
 last_updated: 2026-03-21
 confidence: medium
 website: https://raindrop.ai
@@ -20,6 +19,20 @@ data_notes: 'Needs verification: founders, source_urls. Profile may be incomplet
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/raindrop
 crunchbase_verified: true
+total_raised_m: 15.0
+founders:
+  - name: "Zubin Koticha"
+    role: "Co-Founder & CEO"
+    background: "Second-time founder; previous company acquired by Coinbase"
+    origin: "Indian-American"
+  - name: "Alexis Gauba"
+    role: "Co-Founder"
+    background: "Second-time founder; previous company acquired by Coinbase"
+    origin: "Indian-American"
+  - name: "Ben Hylak"
+    role: "Co-Founder"
+    background: "Former engineer at Apple; 4 years on Apple Human Interface Design team"
+    origin: "American"
 ---
 
 # Raindrop

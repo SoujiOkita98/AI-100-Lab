@@ -17,7 +17,6 @@ funding_rounds:
   amount_m: 5
   lead_investors:
   - Accel
-total_funding: 5
 last_updated: 2026-03-21
 confidence: medium
 data_notes: 'Needs verification: website, source_urls, headquarters. Profile may be incomplete.'
@@ -26,6 +25,7 @@ website_verified: true
 headquarters: New York, NY
 crunchbase: https://www.crunchbase.com/organization/aegisai
 crunchbase_verified: true
+total_raised_m: 5.0
 ---
 
 # AegisAI

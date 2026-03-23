@@ -17,7 +17,6 @@ funding_rounds:
   - Khosla Ventures
   - General Catalyst
   source: https://techcrunch.com/2025/10/16/general-intuition-lands-134m-seed/
-total_funding: 134
 last_updated: 2026-03-21
 confidence: medium
 data_notes: 'Needs verification: website, source_urls, headquarters. Profile may be incomplete.'
@@ -26,6 +25,7 @@ website_verified: true
 headquarters: New York, NY
 crunchbase: https://www.crunchbase.com/organization/general-intuition
 crunchbase_verified: true
+total_raised_m: 134.0
 ---
 
 # General Intuition

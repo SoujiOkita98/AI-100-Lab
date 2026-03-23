@@ -17,6 +17,32 @@ linkedin: https://www.linkedin.com/company/lightmatter
 crunchbase: https://www.crunchbase.com/organization/lightmatter
 crunchbase_verified: true
 twitter: '@LightmatterCo'
+founders:
+- name: Nicholas Harris
+  role: CEO
+  background: PhD from MIT Quantum Photonics Lab. 87+ patents. Optica Fellow. Prior R&D at Micron Technologies.
+  origin: American
+- name: Darius Bunandar
+  role: Chief Scientist
+  background: PhD from MIT Quantum Photonics Lab.
+  origin: Indonesian-American
+total_raised_m: 850
+funding_rounds:
+  - stage: "Multiple early rounds"
+    date: "2018-2022"
+    lead_investors: ["Various"]
+    source: "https://www.crunchbase.com/organization/lightmatter"
+  - stage: "Series C"
+    date: "2023-05"
+    amount_m: 154
+    lead_investors: ["Viking Global", "GV"]
+    source: "https://www.crunchbase.com/organization/lightmatter"
+  - stage: "Series D"
+    date: "2024-10"
+    amount_m: 400
+    lead_investors: ["T. Rowe Price", "Fidelity"]
+    source: "https://www.crunchbase.com/organization/lightmatter"
+data_notes: "Total ~$850M across 9 rounds. Early round amounts not individually disclosed."
 ---
 
 # Lightmatter

@@ -1,13 +1,14 @@
 ---
 name: Runway
 legal_name: Runway AI, Inc.
+website: https://runwayml.com
+one_liner: "Generative AI company building frontier video, image, and world models for creative professionals, with products like Gen-4.5 and GWM-1"
 domain: runwayml.com
 sector: AI Video Generation / World Models
 founded: 2018
 headquarters: New York, NY
 ceo: Cristobal Valenzuela
 employees_approx: 400
-total_funding_usd: 860000000
 latest_valuation_usd: 5300000000
 latest_valuation_date: 2026-02-10
 status: Private
@@ -63,11 +64,25 @@ funding_rounds:
   lead_investors:
   - General Atlantic
   source: https://news.crunchbase.com/venture/gen-ai-video-startup-unicorn-runway-seriese-raise/
-data_notes: 'Needs verification: website, founders. Profile may be incomplete.'
+founders:
+  - name: "Cristobal Valenzuela"
+    role: "CEO & Co-Founder"
+    background: "BA/MA from Adolfo Ibañez University (Chile), MFA from NYU Tisch ITP. Previously adjunct professor at Adolfo Ibañez."
+    origin: "Chilean"
+  - name: "Anastasis Germanidis"
+    role: "CTO & Co-Founder"
+    background: "NYU Tisch ITP. Background in digital art and generative AI."
+    origin: "Greek"
+  - name: "Alejandro Matamala"
+    role: "Chief Innovation Officer & Co-Founder"
+    background: "NYU Tisch ITP. Background blending art and technology."
+    origin: "Chilean"
+data_notes: 'Needs verification: website. Profile may be incomplete.'
 linkedin: https://www.linkedin.com/company/runwayml
 twitter: '@runwayml'
 crunchbase: https://www.crunchbase.com/organization/runway
 crunchbase_verified: true
+total_raised_m: 860.0
 ---
 
 # Runway

@@ -11,7 +11,6 @@ funding_rounds:
   lead_investors:
   - Team8
   source: https://www.axios.com/pro/enterprise-software-deals/2025/12/04/agentic-ai-security-lumia-team8
-total_funding: 18
 last_updated: 2026-03-21
 confidence: medium
 founders:
@@ -28,6 +27,7 @@ headquarters: New York, NY
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/lumia-security
 crunchbase_verified: true
+total_raised_m: 18.0
 ---
 
 # Lumia Security

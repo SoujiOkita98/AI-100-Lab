@@ -21,7 +21,6 @@ funding_rounds:
   amount_m: 100
   lead_investors:
   - 8VC
-total_funding: 132
 last_updated: 2026-03-21
 confidence: medium
 data_notes: 'Needs verification: source_urls, headquarters. Profile may be incomplete.'
@@ -31,6 +30,7 @@ headquarters: Seattle, WA
 crunchbase: https://www.crunchbase.com/organization/overland-ai
 crunchbase_verified: true
 twitter: '@Overland_AI_X'
+total_raised_m: 132.0
 ---
 
 # Overland AI

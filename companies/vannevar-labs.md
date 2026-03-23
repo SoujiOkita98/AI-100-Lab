@@ -2,7 +2,6 @@
 name: Vannevar Labs
 status: active
 founded: 2019
-hq: San Francisco, California
 website: https://www.vannevarlabs.com
 sector:
 - defense-govtech
@@ -81,6 +80,7 @@ website_verified: true
 crunchbase: https://www.crunchbase.com/organization/vannevar-labs
 crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/vannevar-labs
+headquarters: San Francisco, California
 ---
 
 # Vannevar Labs

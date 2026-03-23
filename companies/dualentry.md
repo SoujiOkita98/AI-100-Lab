@@ -12,7 +12,16 @@ funding_rounds:
   - Lightspeed
   - Khosla Ventures
   - GV
-total_funding: 90
+founders:
+- name: Santiago Nestares
+  role: Co-Founder & CEO
+  background: Previously co-founded Benitago (Amazon brand aggregator, scaled to $100M+ revenue). Experienced legacy ERP frustrations
+    firsthand.
+  origin: Latin American
+- name: Benedict Dohmen
+  role: Co-Founder
+  background: ''
+  origin: German
 last_updated: 2026-03-21
 confidence: medium
 website: https://dualentry.com
@@ -23,6 +32,7 @@ headquarters: New York, NY
 crunchbase: https://www.crunchbase.com/organization/dualentry
 crunchbase_verified: true
 twitter: '@dualentry'
+total_raised_m: 90.0
 ---
 
 # DualEntry

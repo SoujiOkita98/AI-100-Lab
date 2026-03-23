@@ -15,7 +15,15 @@ funding_rounds:
   amount_m: 24.5
   lead_investors:
   - Redpoint Ventures
-total_funding: 31
+founders:
+  - name: "Nicole Jiang"
+    role: "Co-Founder & CEO"
+    background: "Founding team member at Abnormal AI. Helped scale to hundreds of millions ARR. Pioneered behavioral-based security."
+    origin: "Chinese-American"
+  - name: "Sanny Liao"
+    role: "Co-Founder & CPO"
+    background: "Dr. Founding team member at Abnormal AI. Pioneered behavioral-based security concept."
+    origin: "Chinese-American"
 last_updated: 2026-03-21
 confidence: medium
 data_notes: 'Needs verification: website, founders, source_urls, headquarters. Profile may be incomplete.'
@@ -25,6 +33,7 @@ headquarters: San Francisco, CA
 linkedin: https://www.linkedin.com/company/fable-security
 crunchbase: https://www.crunchbase.com/organization/fable-security
 crunchbase_verified: true
+total_raised_m: 31.0
 ---
 
 # Fable Security

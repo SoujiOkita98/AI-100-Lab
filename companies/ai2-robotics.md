@@ -17,7 +17,6 @@ funding_rounds:
   lead_investors:
   - Baidu
   - CRRC
-total_funding: 140
 latest_valuation: 1400
 last_updated: 2026-03-21
 confidence: medium
@@ -26,6 +25,7 @@ website: https://ai2robotics.com/en
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/ai2-robotics
 crunchbase_verified: true
+total_raised_m: 140.0
 ---
 
 # AI2 Robotics

@@ -63,7 +63,7 @@ one_liner: Arena (formerly LMArena, originally Chatbot Arena) is a community-pow
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/arena
 crunchbase_verified: true
-total_funding: 250
+total_raised_m: 250.0
 ---
 
 # Arena

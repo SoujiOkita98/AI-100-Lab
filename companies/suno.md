@@ -36,6 +36,23 @@ twitter: '@suno_ai_'
 linkedin: https://www.linkedin.com/company/suno-ai
 crunchbase: https://www.crunchbase.com/organization/suno
 crunchbase_verified: true
+founders:
+  - name: "Mikey Shulman"
+    role: "CEO & Co-Founder"
+    background: "First ML hire and former Head of ML at Kensho (S&P Global). Lecturer at MIT Sloan (NLP for finance)."
+    origin: "American"
+  - name: "Georg Kucsko"
+    role: "Co-Founder"
+    background: "Former Kensho."
+    origin: "Austrian"
+  - name: "Martin Camacho"
+    role: "Co-Founder"
+    background: "Former Kensho."
+    origin: "Latin American"
+  - name: "Keenan Freyberg"
+    role: "Co-Founder"
+    background: "Former Kensho."
+    origin: "American"
 ---
 
 # Suno — AI Music Generation

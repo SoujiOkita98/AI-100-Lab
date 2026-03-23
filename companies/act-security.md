@@ -13,7 +13,6 @@ funding_rounds:
   - Team8
   - Bessemer Venture Partners
   source: https://www.calcalistech.com/ctechnews/article/b16iahzeze
-total_funding: 20
 last_updated: 2026-03-21
 confidence: medium
 founders:
@@ -31,6 +30,7 @@ website_verified: true
 crunchbase: https://www.crunchbase.com/organization/act-security
 crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/act-sec
+total_raised_m: 20.0
 ---
 
 # Act Security

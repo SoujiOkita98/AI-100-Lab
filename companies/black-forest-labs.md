@@ -18,7 +18,6 @@ funding_rounds:
   valuation_m: 3250
   lead_investors:
   - General Catalyst
-total_funding: 331
 latest_valuation: 3250
 last_updated: 2026-03-21
 confidence: medium
@@ -27,6 +26,20 @@ website_verified: true
 crunchbase: https://www.crunchbase.com/organization/black-forest-labs
 crunchbase_verified: true
 twitter: '@bfl_ml'
+total_raised_m: 331.0
+founders:
+- name: Robin Rombach
+  role: CEO
+  background: PhD CS, LMU Munich. Former Research Director at Stability AI. Co-created Stable Diffusion.
+  origin: German
+- name: Andreas Blattmann
+  role: Co-founder
+  background: Co-authored landmark latent diffusion papers.
+  origin: German
+- name: Patrick Esser
+  role: Co-founder
+  background: Former Stability AI. AI image generation research.
+  origin: German
 ---
 
 # Black Forest Labs

@@ -36,7 +36,6 @@ funding_rounds:
   - Felicis Ventures
   - UC Investments
   source: https://techcrunch.com/2026/01/06/lmarena-lands-1-7b-valuation/
-total_funding: 250
 latest_valuation: 1700
 last_updated: 2026-03-21
 confidence: medium
@@ -44,6 +43,7 @@ website_verified: true
 crunchbase: https://www.crunchbase.com/organization/lmarena
 crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/lmarena
+total_raised_m: 250.0
 ---
 
 # LMArena

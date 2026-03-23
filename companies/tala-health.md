@@ -12,7 +12,6 @@ funding_rounds:
   lead_investors:
   - Sofreh Capital
   source: https://fortune.com/2025/11/04/tala-health-raises-100-million-seed-round/
-total_funding: 100
 latest_valuation: 1200
 last_updated: 2026-03-21
 confidence: medium
@@ -27,6 +26,7 @@ headquarters: San Francisco, CA
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/tala-health
 crunchbase_verified: true
+total_raised_m: 100.0
 ---
 
 # Tala Health

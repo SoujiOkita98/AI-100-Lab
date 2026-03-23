@@ -2,7 +2,6 @@
 name: Pinecone
 status: active
 founded: 2019
-hq: New York, NY
 website: https://www.pinecone.io
 sector:
 - vector databases
@@ -103,6 +102,7 @@ website_verified: true
 crunchbase: https://www.crunchbase.com/organization/pinecone
 crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/pinecone-io
+headquarters: New York, NY
 ---
 
 # Pinecone

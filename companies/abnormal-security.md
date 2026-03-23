@@ -2,7 +2,6 @@
 name: Abnormal AI
 status: active
 founded: 2018
-hq: San Francisco, CA
 website: https://abnormal.ai
 sector:
 - cybersecurity
@@ -111,6 +110,7 @@ linkedin: https://www.linkedin.com/company/abnormalsecurity
 crunchbase: https://www.crunchbase.com/organization/abnormal-security
 crunchbase_verified: true
 twitter: '@AbnormalSec'
+headquarters: San Francisco, CA
 ---
 
 # Abnormal AI (formerly Abnormal Security)

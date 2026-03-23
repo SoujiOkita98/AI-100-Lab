@@ -17,7 +17,6 @@ funding_rounds:
   valuation_m: 300
   lead_investors:
   - Qumra Capital
-total_funding: 166
 last_updated: 2026-03-21
 confidence: medium
 website_verified: true
@@ -25,6 +24,7 @@ linkedin: https://www.linkedin.com/company/buildots
 crunchbase: https://www.crunchbase.com/organization/buildots
 crunchbase_verified: true
 twitter: '@buildots'
+total_raised_m: 166.0
 ---
 
 # Buildots

@@ -2,7 +2,6 @@
 name: Shield AI
 status: active
 founded: 2015
-hq: San Diego, California
 website: https://shield.ai
 sector:
 - defense-govtech
@@ -144,6 +143,7 @@ website_verified: true
 crunchbase: https://www.crunchbase.com/organization/shield-ai
 crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/shield-ai
+headquarters: San Diego, California
 ---
 
 # Shield AI

@@ -1,6 +1,7 @@
 ---
 name: Parallel Web Systems
 founded: 2024
+headquarters: San Francisco, CA
 website: https://parallel.ai/
 sector: AI Infrastructure / Web Agents
 one_liner: Web infrastructure enabling AI agents to access, search, and reason over the live web at scale.
@@ -19,7 +20,6 @@ funding_rounds:
   - Kleiner Perkins
   - Index Ventures
   source: https://technologymagazine.com/news/inside-ex-twitter-ceos-us-100m-funding-for-ai-startup
-total_funding: 100
 latest_valuation: 740
 last_updated: 2026-03-21
 confidence: medium
@@ -28,6 +28,7 @@ website_verified: true
 crunchbase: https://www.crunchbase.com/organization/parallel-web
 crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/parallel-web
+total_raised_m: 100.0
 ---
 
 # Parallel Web Systems

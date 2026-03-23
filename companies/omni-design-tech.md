@@ -11,7 +11,6 @@ funding_rounds:
   amount_m: 35
   lead_investors:
   - CDIB-TEN Capital
-total_funding: 35
 last_updated: 2026-03-21
 confidence: medium
 data_notes: 'Needs verification: website, founders, source_urls. Profile may be incomplete.'
@@ -19,6 +18,20 @@ website: https://www.omnidesigntech.com
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/omni-design-tech
 crunchbase_verified: true
+total_raised_m: 35.0
+founders:
+  - name: "Kush Gulati"
+    role: "Co-Founder & CEO"
+    background: "PhD from MIT; expert in data converters; serial entrepreneur"
+    origin: "Indian"
+  - name: "Sid Dutta"
+    role: "Co-Founder & VP"
+    background: ""
+    origin: "Indian"
+  - name: "Hyun H Boo"
+    role: "Co-Founder & Director"
+    background: ""
+    origin: "Korean"
 ---
 
 # Omni Design Technologies

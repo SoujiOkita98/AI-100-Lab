@@ -12,7 +12,6 @@ funding_rounds:
   amount_m: 11
   lead_investors:
   - Capnamic
-total_funding: 11
 last_updated: 2026-03-21
 confidence: medium
 data_notes: 'Needs verification: website, founders, source_urls. Profile may be incomplete.'
@@ -21,6 +20,20 @@ website_verified: true
 linkedin: https://www.linkedin.com/company/ocell-io
 crunchbase: https://www.crunchbase.com/organization/ocell
 crunchbase_verified: true
+total_raised_m: 11.0
+founders:
+  - name: "David Dohmen"
+    role: "Co-Founder & Co-CEO"
+    background: "Engineering studies at TU Munich"
+    origin: "German"
+  - name: "Christian Decher"
+    role: "Co-Founder & Co-CEO"
+    background: "Engineering studies at TU Munich"
+    origin: "German"
+  - name: "Felix Horvat"
+    role: "Co-Founder & CTO"
+    background: "Engineering studies at TU Munich"
+    origin: "German"
 ---
 
 # OCELL

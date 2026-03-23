@@ -25,7 +25,6 @@ funding_rounds:
   valuation_m: 5550
   lead_investors:
   - Accel
-total_funding: 780
 latest_valuation: 5550
 last_updated: 2026-03-21
 confidence: medium
@@ -34,6 +33,17 @@ website_verified: true
 crunchbase: https://www.crunchbase.com/organization/legora
 crunchbase_verified: true
 twitter: '@WeAreLegora'
+total_raised_m: 780.0
+founders:
+- name: Max Junestrand
+  role: CEO
+  background: Swedish. 25 years old at founding. Dual degrees in ML and Business from KTH and SSE. Previously at McKinsey.
+    YC alumni.
+  origin: Swedish
+- name: Sigge Labor
+  role: Co-founder
+  background: Swedish co-founder.
+  origin: Swedish
 ---
 
 # Legora

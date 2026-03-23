@@ -40,6 +40,14 @@ website_verified: true
 crunchbase: https://www.crunchbase.com/organization/tripo-ai
 crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/tripoai
+total_raised_m: 50
+funding_rounds:
+  - stage: "Multiple rounds"
+    date: "2023-2025"
+    amount_m: 50
+    lead_investors: ["Undisclosed"]
+    source: "https://www.crunchbase.com/organization/tripo-ai"
+data_notes: "Total ~$50M+ across multiple rounds. Individual round details not fully disclosed."
 ---
 
 # Tripo AI

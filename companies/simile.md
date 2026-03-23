@@ -2,7 +2,6 @@
 name: Simile
 status: active
 founded: 2025
-hq: Stanford, CA (uncertain — strong Stanford ties; exact HQ not confirmed)
 website: https://simile.ai
 sector:
 - AI digital twins
@@ -130,6 +129,7 @@ sources:
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/simile
 crunchbase_verified: true
+headquarters: Stanford, CA (uncertain — strong Stanford ties; exact HQ not confirmed)
 ---
 
 # Simile

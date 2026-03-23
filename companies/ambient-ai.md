@@ -10,7 +10,15 @@ funding_rounds:
   amount_m: 74
   lead_investors:
   - Andreessen Horowitz
-total_funding: 74
+founders:
+  - name: "Shikhar Shrestha"
+    role: "Co-Founder & CEO"
+    background: "Stanford CS graduate (computer vision). Previously at Apple and Google."
+    origin: "Nepali (inferred from name)"
+  - name: "Vikesh Khanna"
+    role: "Co-Founder & CTO"
+    background: "Stanford CS graduate. Previously at Dropbox (large-scale data infrastructure)."
+    origin: "Indian (inferred from name)"
 last_updated: 2026-03-21
 confidence: medium
 data_notes: 'Needs verification: website, founders, source_urls, headquarters. Profile may be incomplete.'
@@ -21,6 +29,7 @@ headquarters: Redwood City, CA
 crunchbase: https://www.crunchbase.com/organization/ambient-ai
 crunchbase_verified: true
 twitter: '@ambientai'
+total_raised_m: 74.0
 ---
 
 # Ambient.ai

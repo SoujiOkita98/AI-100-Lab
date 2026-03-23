@@ -9,12 +9,12 @@ funding_rounds:
 - stage: Series A
   date: '2025'
   amount_m: 50
-total_funding: 50
 last_updated: 2026-03-21
 confidence: medium
 crunchbase: https://www.crunchbase.com/organization/tandem-health
 crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/tandem-health
+total_raised_m: 50.0
 ---
 
 # Tandem Health

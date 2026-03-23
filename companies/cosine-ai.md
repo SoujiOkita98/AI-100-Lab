@@ -6,6 +6,7 @@ headquarters: London, United Kingdom
 sector: AI-Powered Developer Tools
 sub_sector: Autonomous AI Software Engineering Agents
 website: https://cosine.sh
+one_liner: "Human reasoning lab building Genie, an autonomous AI software engineer that can branch, implement, test, and submit pull requests from task assignments"
 status: Private (Seed)
 valuation: Undisclosed
 total_funding: ~$2.5M
@@ -17,12 +18,32 @@ key_investors:
 - Y Combinator
 notable_backers:
 - Y Combinator (W23 batch)
+founders:
+  - name: "Alistair Pullen"
+    role: "CEO"
+    background: "Full-stack software engineer with 15 years experience; deep applied knowledge of LLMs and embeddings"
+    origin: "British"
+  - name: "Yang Li"
+    role: "COO"
+    background: "Ex-VP Europe at Digital Currency Group/Luno; launched Ziglu (acquired by Robinhood); scaled Mobike to 220M MAUs"
+    origin: "Chinese"
+  - name: "Sam Stenner"
+    role: "CIO"
+    background: "Technical co-founder"
+    origin: "British"
 last_updated: 2026-03-20
 confidence: medium
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/cosine-ai
 crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/cosine-ai
+total_raised_m: 2.5
+funding_rounds:
+  - stage: "Seed"
+    date: "2024-08"
+    amount_m: 2.5
+    lead_investors: ["Uphonest Capital", "SOMA Capital"]
+    source: "https://www.crunchbase.com/organization/cosine-ai"
 ---
 
 # Cosine

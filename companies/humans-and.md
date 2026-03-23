@@ -2,7 +2,6 @@
 name: Humans&
 status: active
 founded: 2025
-hq: San Francisco, CA
 website: https://humansand.ai
 sector:
 - foundation models
@@ -66,6 +65,7 @@ website_verified: true
 crunchbase: https://www.crunchbase.com/organization/humans-and
 crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/humansand
+headquarters: San Francisco, CA
 ---
 
 # Humans&

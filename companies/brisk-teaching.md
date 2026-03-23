@@ -9,12 +9,16 @@ founders:
 - name: Arman Jaffer
   role: CEO
 funding_rounds:
+- stage: Seed
+  date: 2024-08
+  amount_m: 5
+  lead_investors:
+  - Owl Ventures
 - stage: Series A
   date: 2025-03
   amount_m: 15
   lead_investors:
   - Bessemer Venture Partners
-total_funding: 15
 last_updated: 2026-03-21
 confidence: medium
 data_notes: 'Needs verification: source_urls, headquarters. Profile may be incomplete.'
@@ -24,6 +28,7 @@ headquarters: Los Altos, CA
 crunchbase: https://www.crunchbase.com/organization/brisk-teaching
 crunchbase_verified: true
 twitter: '@briskteaching'
+total_raised_m: 20.0
 ---
 
 # Brisk Teaching

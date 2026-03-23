@@ -10,7 +10,6 @@ funding_rounds:
   lead_investors:
   - Endiya Partners
   - Kalaari Capital
-total_funding: 6.25
 last_updated: 2026-03-21
 confidence: medium
 data_notes: 'Needs verification: website, founders, source_urls, headquarters. Profile may be incomplete.'
@@ -21,6 +20,16 @@ website_verified: true
 crunchbase: https://www.crunchbase.com/organization/matters-ai
 crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/mattersai
+total_raised_m: 6.25
+founders:
+  - name: "Keshava Murthy"
+    role: "Co-Founder & CEO"
+    background: ""
+    origin: "Indian"
+  - name: "Harsh Sahu"
+    role: "Co-Founder & CTO"
+    background: ""
+    origin: "Indian"
 ---
 
 # Matters.AI

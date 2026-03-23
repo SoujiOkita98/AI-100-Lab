@@ -34,6 +34,28 @@ linkedin: https://www.linkedin.com/company/lovable-dev
 crunchbase: https://www.crunchbase.com/organization/lovable
 crunchbase_verified: true
 twitter: '@lovable_dev'
+total_raised_m: 567
+funding_rounds:
+  - stage: "Pre-Seed"
+    date: "2023"
+    amount_m: 4
+    lead_investors: ["Y Combinator"]
+    source: "https://www.crunchbase.com/organization/lovable"
+  - stage: "Seed"
+    date: "2024"
+    amount_m: 7
+    lead_investors: ["Creandum"]
+    source: "https://www.crunchbase.com/organization/lovable"
+  - stage: "Series A"
+    date: "2025-02"
+    amount_m: 56
+    lead_investors: ["Accel"]
+    source: "https://www.crunchbase.com/organization/lovable"
+  - stage: "Series B"
+    date: "2025-12"
+    amount_m: 500
+    lead_investors: ["Benchmark"]
+    source: "https://www.crunchbase.com/organization/lovable"
 ---
 
 # Lovable

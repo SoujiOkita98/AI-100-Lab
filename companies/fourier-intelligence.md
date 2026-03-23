@@ -2,7 +2,6 @@
 name: Fourier Intelligence
 founded: 2015
 incorporated_country: China
-hq: Shanghai, China
 sector: Humanoid Robotics / Rehabilitation Robotics
 employee_count_approx: ~500
 status: Private
@@ -54,6 +53,7 @@ website_verified: true
 crunchbase: https://www.crunchbase.com/organization/fourier-intelligence
 crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/fourier-intelligence-co.-ltd.
+headquarters: Shanghai, China
 ---
 
 # Fourier Intelligence

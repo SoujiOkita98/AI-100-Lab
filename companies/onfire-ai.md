@@ -14,7 +14,6 @@ funding_rounds:
   - TLV Partners
   - Grove Ventures
   source: https://techcrunch.com/2025/10/27/israeli-intelligence-vets-raise-20m/
-total_funding: 20
 last_updated: 2026-03-21
 confidence: medium
 founders:
@@ -28,6 +27,7 @@ website_verified: true
 crunchbase: https://www.crunchbase.com/organization/onfire-ai
 crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/onfire-ai-hq
+total_raised_m: 20.0
 ---
 
 # Onfire AI

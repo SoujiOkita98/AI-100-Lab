@@ -22,7 +22,6 @@ funding_rounds:
   lead_investors:
   - Speedinvest
   - Google Africa Investment Fund
-total_funding: 5
 last_updated: 2026-03-21
 confidence: medium
 data_notes: 'Needs verification: website, source_urls. Profile may be incomplete.'
@@ -30,6 +29,7 @@ website: https://leta.ai
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/leta-logistics
 crunchbase_verified: true
+total_raised_m: 5.0
 ---
 
 # Leta (Logistics)

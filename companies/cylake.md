@@ -20,7 +20,6 @@ funding_rounds:
   amount_m: 45
   lead_investors:
   - Greylock
-total_funding: 45
 last_updated: 2026-03-21
 confidence: medium
 website: https://cylake.com
@@ -28,6 +27,7 @@ headquarters: Sunnyvale, CA
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/cylake
 crunchbase_verified: true
+total_raised_m: 45.0
 ---
 
 # Cylake

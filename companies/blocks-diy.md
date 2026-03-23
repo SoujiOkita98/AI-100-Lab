@@ -22,7 +22,6 @@ funding_rounds:
   - monday.com
   - Qumra Capital
   - Entree Capital
-total_funding: 10
 last_updated: 2026-03-21
 confidence: medium
 data_notes: 'Needs verification: website, source_urls. Profile may be incomplete.'
@@ -30,6 +29,7 @@ website: https://blocks.diy
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/blocks-diy
 crunchbase_verified: true
+total_raised_m: 10.0
 ---
 
 # Blocks.diy

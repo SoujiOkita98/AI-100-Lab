@@ -14,6 +14,19 @@ valuation_current: ~$1.2B (estimated, post-2023 internal markdown of ~20%)
 total_funding: ~$131M
 employee_count_approx: 150-250 (uncertain; see notes below)
 status: Active, pivoted to enterprise AI-agent marketing platform
+founders:
+  - name: "Dave Rogenmoser"
+    role: "Co-Founder (former CEO)"
+    background: "Serial entrepreneur; co-founded Proof and two other startups with co-founders before Jasper; YC alumnus"
+    origin: "American"
+  - name: "John Philip Morgan"
+    role: "Co-Founder & CTO"
+    background: "Technical co-founder; worked with Rogenmoser and Hull since 2014 across multiple startups"
+    origin: "American"
+  - name: "Chris Hull"
+    role: "Co-Founder & COO"
+    background: "Operations leader; co-founded three companies with Rogenmoser and Morgan before Jasper"
+    origin: "American"
 ceo: Timothy Young (since September 2023)
 yc_batch: W20 (Y Combinator, for prior company Proof; Jasper itself is not a YC company but founders are YC alumni)
 last_updated: 2026-03-20

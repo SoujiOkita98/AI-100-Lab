@@ -12,12 +12,25 @@ funding_rounds:
   amount_m: 5.9
   lead_investors:
   - Uncork Capital
-total_funding: 5.9
+founders:
+  - name: "Alexander Michalatos"
+    role: "Co-Founder & CEO"
+    background: "Stanford University. Deep construction management and AI expertise."
+    origin: "Greek (inferred from name)"
+  - name: "Andrei Molchynsky"
+    role: "Co-Founder"
+    background: "Stanford University. Construction management background."
+    origin: "Ukrainian/Eastern European (inferred from name)"
+  - name: "Alex Gureev"
+    role: "Co-Founder"
+    background: "Stanford University. AI development background."
+    origin: "Russian (inferred from name)"
 last_updated: 2026-03-21
 confidence: medium
 crunchbase: https://www.crunchbase.com/organization/buildcheck
 crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/buildcheck-ai
+total_raised_m: 5.9
 ---
 
 # Buildcheck

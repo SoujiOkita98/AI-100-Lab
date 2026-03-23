@@ -16,7 +16,6 @@ funding_rounds:
   lead_investors:
   - BlueFive Capital
   source: https://www.zawya.com/en/press-release/companies-news/mal-closes-record-230m-seed-round-l4vpuic6
-total_funding: 230
 last_updated: 2026-03-21
 confidence: medium
 data_notes: 'Needs verification: website, source_urls, headquarters. Profile may be incomplete.'
@@ -25,6 +24,7 @@ website_verified: true
 headquarters: Abu Dhabi, UAE
 crunchbase: https://www.crunchbase.com/organization/mal-bank
 crunchbase_verified: true
+total_raised_m: 230.0
 ---
 
 # Mal

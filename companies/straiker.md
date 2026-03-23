@@ -12,7 +12,6 @@ funding_rounds:
   - Lightspeed Venture Partners
   - Bain Capital Ventures
   source: https://www.securityweek.com/ai-security-firm-straiker-emerges-from-stealth/
-total_funding: 21
 last_updated: 2026-03-21
 confidence: medium
 founders:
@@ -30,6 +29,7 @@ website_verified: true
 headquarters: Sunnyvale, CA
 crunchbase: https://www.crunchbase.com/organization/straiker
 crunchbase_verified: true
+total_raised_m: 21.0
 ---
 
 # Straiker

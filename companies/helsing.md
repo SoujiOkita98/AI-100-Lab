@@ -2,7 +2,6 @@
 name: Helsing
 status: active
 founded: 2021
-hq: Munich, Germany
 website: https://helsing.ai
 sector:
 - defense-govtech
@@ -89,6 +88,7 @@ crunchbase: https://www.crunchbase.com/organization/helsing
 crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/helsing
 twitter: '@HelsingAI'
+headquarters: Munich, Germany
 ---
 
 # Helsing

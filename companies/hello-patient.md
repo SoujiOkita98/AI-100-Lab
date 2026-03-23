@@ -12,8 +12,16 @@ funding_rounds:
   lead_investors:
   - Scale Venture Partners
   source: https://www.businesswire.com/news/home/20250904242038/en/
-total_funding: 22.5
 latest_valuation: 100
+founders:
+  - name: "Alex Cohen"
+    role: "Co-Founder & CEO"
+    background: "Previously led consumer product and growth at Carbon Health."
+    origin: "American"
+  - name: "Nicholas DeRobertis"
+    role: "Co-Founder & CTO"
+    background: ""
+    origin: "American"
 last_updated: 2026-03-21
 confidence: medium
 data_notes: 'Needs verification: website, founders, source_urls, headquarters. Profile may be incomplete.'
@@ -23,6 +31,7 @@ linkedin: https://www.linkedin.com/company/hello-patient
 headquarters: Austin, TX
 crunchbase: https://www.crunchbase.com/organization/hello-patient
 crunchbase_verified: true
+total_raised_m: 22.5
 ---
 
 # Hello Patient

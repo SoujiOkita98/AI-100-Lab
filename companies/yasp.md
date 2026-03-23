@@ -12,7 +12,6 @@ funding_rounds:
   lead_investors:
   - Capnamic
   source: https://www.eu-startups.com/2025/09/german-deeptech-startup-yasp/
-total_funding: 5
 last_updated: 2026-03-21
 confidence: medium
 data_notes: 'Needs verification: website, founders, source_urls. Profile may be incomplete.'
@@ -20,6 +19,7 @@ website: https://yasp.ai
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/yasp
 crunchbase_verified: true
+total_raised_m: 5.0
 ---
 
 # yasp

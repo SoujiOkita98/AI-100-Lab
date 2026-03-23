@@ -10,7 +10,6 @@ funding_rounds:
   amount_m: 30
   lead_investors:
   - Radical Ventures
-total_funding: 30
 last_updated: 2026-03-21
 confidence: medium
 linkedin: https://www.linkedin.com/company/outset-ai
@@ -19,6 +18,16 @@ website: https://outset.ai
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/outset-ai
 crunchbase_verified: true
+total_raised_m: 30.0
+founders:
+  - name: "Aaron Cannon"
+    role: "Co-Founder & CEO"
+    background: "Former head of product at Untapped and Triplebyte; senior product roles at Tesla, Pebble, Monitor Deloitte"
+    origin: "American"
+  - name: "Michael Hess"
+    role: "Co-Founder & Technical Lead"
+    background: ""
+    origin: "American"
 ---
 
 # Outset

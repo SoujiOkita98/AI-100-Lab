@@ -74,6 +74,7 @@ linkedin: https://www.linkedin.com/company/harvey-ai
 twitter: '@harvey__ai'
 crunchbase: https://www.crunchbase.com/organization/harvey-ai
 crunchbase_verified: true
+total_raised_m: 966.0
 ---
 
 # Harvey AI -- Company Profile

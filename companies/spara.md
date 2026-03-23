@@ -11,13 +11,22 @@ funding_rounds:
   lead_investors:
   - Radical Ventures
   - Inspired Capital
-total_funding: 15
 last_updated: 2026-03-21
 confidence: medium
 website: https://www.spara.co
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/spara
 crunchbase_verified: true
+founders:
+  - name: "David Walker"
+    role: "CEO & Co-Founder"
+    background: "Co-founded Triplemint (acquired by The Agency). Scaled to 350 employees."
+    origin: "American"
+  - name: "Zander Pease"
+    role: "CTO & Co-Founder"
+    background: "Built AI infrastructure at Hyperscience and Nomad Health."
+    origin: "American"
+total_raised_m: 15.0
 ---
 
 # Spara

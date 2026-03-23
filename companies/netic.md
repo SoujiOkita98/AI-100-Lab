@@ -21,7 +21,6 @@ funding_rounds:
   amount_m: 23
   lead_investors:
   - Founders Fund
-total_funding: 43
 last_updated: 2026-03-21
 confidence: medium
 website: https://netic.ai
@@ -30,6 +29,7 @@ website_verified: true
 linkedin: https://www.linkedin.com/company/netic-ai
 crunchbase: https://www.crunchbase.com/organization/netic
 crunchbase_verified: true
+total_raised_m: 43.0
 ---
 
 # Netic

@@ -2,7 +2,6 @@
 name: Weaviate
 status: active
 founded: 2019
-hq: Amsterdam, Netherlands
 website: https://weaviate.io
 sector:
 - vector databases
@@ -123,6 +122,7 @@ website_verified: true
 crunchbase: https://www.crunchbase.com/organization/weaviate
 crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/weaviate-io
+headquarters: Amsterdam, Netherlands
 ---
 
 # Weaviate

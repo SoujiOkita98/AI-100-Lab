@@ -6,6 +6,8 @@ headquarters: San Francisco, CA
 sector: AI-Powered Developer Tools
 sub_sector: AI DevOps / CI-CD / Software Delivery
 website: https://www.harness.io
+one_liner: AI-native software delivery platform that automates CI/CD, testing, security, and cloud cost optimization across
+  the entire DevOps lifecycle
 status: Private (Series E)
 valuation: ~$5.5B (post-money, December 2025)
 total_funding: ~$654M
@@ -70,6 +72,15 @@ linkedin: https://www.linkedin.com/company/harnessinc
 crunchbase: https://www.crunchbase.com/organization/harness
 crunchbase_verified: true
 twitter: '@harnessio'
+founders:
+- name: Jyoti Bansal
+  role: CEO
+  background: BTech CS from IIT Delhi. Founder of AppDynamics (acquired by Cisco for $3.7B). Also founded Traceable.ai.
+  origin: Indian
+- name: Rishi Singh
+  role: CTO
+  background: Formerly at Apple leading high-impact DevOps initiatives.
+  origin: Indian
 ---
 
 # Harness

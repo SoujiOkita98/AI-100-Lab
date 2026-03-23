@@ -2,7 +2,6 @@
 name: Anduril Industries
 status: active
 founded: 2017
-hq: Costa Mesa, California
 website: https://www.anduril.com
 sector:
 - defense-govtech
@@ -145,6 +144,7 @@ linkedin: https://www.linkedin.com/company/andurilindustries
 twitter: '@anduriltech'
 crunchbase: https://www.crunchbase.com/organization/anduril
 crunchbase_verified: true
+headquarters: Costa Mesa, California
 ---
 
 # Anduril Industries

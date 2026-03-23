@@ -1,6 +1,8 @@
 ---
 company: Innovaccer
 legal_name: Innovaccer Inc.
+website: https://innovaccer.com
+one_liner: "Agentic AI cloud for healthcare that unifies clinical, operational, and financial data to power autonomous workflows across health systems and payers"
 domain: innovaccer.com
 sector: Healthcare AI / Health Data Platform
 founded: 2014

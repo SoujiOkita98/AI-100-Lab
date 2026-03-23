@@ -3,7 +3,7 @@ name: Weights & Biases (W&B)
 founded: 2017
 headquarters: San Francisco, CA
 website: https://wandb.ai
-status: Acquired by CoreWeave (Nasdaq: CRWV) — acquisition completed May 5, 2025
+status: "Acquired by CoreWeave (Nasdaq: CRWV) - acquisition completed May 5, 2025"
 current_ceo: Lukas Biewald (Co-founder & CEO)
 founders:
   - name: Lukas Biewald
@@ -99,9 +99,9 @@ funding_rounds:
 
   - round: Acquisition by CoreWeave
     date: 2025-03-04 (announced) / 2025-05-05 (completed)
-    amount: ~$1.7B (reported by The Information; not officially confirmed)
-    lead_investors: N/A (acquirer: CoreWeave, Inc.)
-    valuation: ~$1.7B acquisition price
+    amount_m: 1700
+    lead_investors: ["CoreWeave"]
+    valuation_m: 1700
     source: https://techcrunch.com/2025/03/04/coreweave-acquires-ai-developer-platform-weights-biases/
     notes: >
       Evercore and Morgan Stanley advised CoreWeave. Qatalyst Partners advised W&B.

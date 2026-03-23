@@ -19,7 +19,6 @@ funding_rounds:
   lead_investors:
   - General Catalyst
   - GV
-total_funding: 130
 last_updated: 2026-03-21
 confidence: medium
 data_notes: 'Needs verification: website, source_urls, headquarters. Profile may be incomplete.'
@@ -30,6 +29,7 @@ headquarters: Los Altos Hills, CA
 crunchbase: https://www.crunchbase.com/organization/modular-ai
 crunchbase_verified: true
 twitter: '@Modular'
+total_raised_m: 130.0
 ---
 
 # Modular AI

@@ -11,15 +11,28 @@ funding_rounds:
   lead_investors:
   - Sorenson Capital
   source: https://www.prnewswire.com/news-releases/strongestlayer-emerges-from-stealth/
-total_funding: 5.2
 last_updated: 2026-03-21
 confidence: medium
-data_notes: 'Needs verification: website, founders, source_urls, headquarters. Profile may be incomplete.'
+founders:
+  - name: "Alan Lefort"
+    role: "CEO & Co-Founder"
+    background: "15+ years in cybersecurity. Former product/business leader at Proofpoint, McAfee, and Intel Security."
+    origin: "American"
+  - name: "Muhammad Rizwan"
+    role: "CTO & Co-Founder"
+    background: "Cybersecurity veteran."
+    origin: "Pakistani"
+  - name: "Joshua Bass"
+    role: "CPO & Co-Founder"
+    background: "Cybersecurity veteran."
+    origin: "American"
+data_notes: 'Needs verification: website, source_urls, headquarters. Profile may be incomplete.'
 website: https://www.strongestlayer.com
 website_verified: true
 headquarters: San Francisco, CA
 crunchbase: https://www.crunchbase.com/organization/strongestlayer
 crunchbase_verified: true
+total_raised_m: 5.2
 ---
 
 # StrongestLayer

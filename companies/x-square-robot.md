@@ -13,7 +13,6 @@ funding_rounds:
   - Alibaba Cloud
   - HongShan
   - Meituan
-total_funding: 280
 last_updated: 2026-03-21
 confidence: medium
 data_notes: 'Needs verification: website, founders, source_urls. Profile may be incomplete.'
@@ -22,6 +21,7 @@ website_verified: true
 crunchbase: https://www.crunchbase.com/organization/x-square-robot
 crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/x-square-robot
+total_raised_m: 280.0
 ---
 
 # X Square Robot

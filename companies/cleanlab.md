@@ -12,6 +12,19 @@ sector: Data-Centric AI / Data Quality / AI Reliability
 total_funding: ~$30M
 latest_valuation: Not disclosed
 status: Acquired by Handshake (January 2026)
+founders:
+  - name: "Curtis Northcutt"
+    role: "Co-Founder & CEO (now Director AI Research at Handshake)"
+    background: "MIT PhD in Machine Learning."
+    origin: "American (inferred from name)"
+  - name: "Jonas Mueller"
+    role: "Co-Founder & Chief Scientist"
+    background: "MIT PhD in Machine Learning."
+    origin: "German-American (inferred from name)"
+  - name: "Anish Athalye"
+    role: "Co-Founder & CTO"
+    background: "MIT PhD in Systems."
+    origin: "Indian-American (inferred from name)"
 profile_updated: 2026-03-20
 one_liner: Cleanlab is a data-centric AI company that pioneered automated data quality tools for machine learning
 data_notes: 'Needs verification: website, founders. Profile may be incomplete.'
@@ -20,6 +33,18 @@ website_verified: true
 linkedin: https://www.linkedin.com/company/cleanlab
 crunchbase: https://www.crunchbase.com/organization/cleanlab
 crunchbase_verified: true
+total_raised_m: 30
+funding_rounds:
+  - stage: "Seed"
+    date: "2022"
+    amount_m: 5
+    lead_investors: ["Bain Capital Ventures"]
+    source: "https://www.crunchbase.com/organization/cleanlab"
+  - stage: "Series A"
+    date: "2023-10"
+    amount_m: 25
+    lead_investors: ["Menlo Ventures"]
+    source: "https://www.crunchbase.com/organization/cleanlab"
 ---
 
 # Cleanlab

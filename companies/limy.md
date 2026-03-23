@@ -12,7 +12,19 @@ funding_rounds:
   - Flybridge
   - a16z speedrun
   source: https://alleywatch.com/2026/01/limy-agentic-web-infrastructure/
-total_funding: 10
+founders:
+  - name: "Aviv Shamny"
+    role: "Co-Founder & CEO"
+    background: "a16z speedrun scout."
+    origin: "Israeli"
+  - name: "Ido Zabarsky"
+    role: "Co-Founder & COO"
+    background: "a16z speedrun scout."
+    origin: "Israeli"
+  - name: "Ori Riechman"
+    role: "Co-Founder & CTO"
+    background: ""
+    origin: "Israeli"
 last_updated: 2026-03-21
 confidence: medium
 data_notes: 'Needs verification: website, founders, source_urls, headquarters. Profile may be incomplete.'
@@ -21,6 +33,7 @@ website_verified: true
 headquarters: New York, NY
 crunchbase: https://www.crunchbase.com/organization/limy
 crunchbase_verified: true
+total_raised_m: 10.0
 ---
 
 # Limy

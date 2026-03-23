@@ -18,7 +18,6 @@ funding_rounds:
   - Human Capital
   - BGV
   - 91VC
-total_funding: 12.5
 last_updated: 2026-03-21
 confidence: medium
 data_notes: 'Needs verification: website, source_urls. Profile may be incomplete.'
@@ -27,6 +26,7 @@ website_verified: true
 linkedin: https://www.linkedin.com/company/datawizzai
 crunchbase: https://www.crunchbase.com/organization/datawizz
 crunchbase_verified: true
+total_raised_m: 12.5
 ---
 
 # Datawizz

@@ -10,7 +10,6 @@ funding_rounds:
   amount_m: 5
   lead_investors:
   - Khosla Ventures
-total_funding: 5
 last_updated: 2026-03-21
 confidence: medium
 data_notes: 'Needs verification: website, founders, source_urls, headquarters. Profile may be incomplete.'
@@ -19,6 +18,12 @@ website_verified: true
 headquarters: New York, NY
 crunchbase: https://www.crunchbase.com/organization/radical-health
 crunchbase_verified: true
+total_raised_m: 5.0
+founders:
+  - name: "Simone Korsgaard Jensen"
+    role: "Founder & CEO"
+    background: "Former executive at Flatiron Health and Tempus"
+    origin: "Danish"
 ---
 
 # Radical Health

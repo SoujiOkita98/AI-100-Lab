@@ -9,16 +9,25 @@ funding_rounds:
   amount_m: 7
   lead_investors:
   - LAUNCHub Ventures
-total_funding: 7
 last_updated: 2026-03-21
 confidence: medium
-data_notes: 'Needs verification: website, founders, source_urls, headquarters. Profile may be incomplete.'
+founders:
+  - name: "Kristian Kamber"
+    role: "CEO & Co-Founder"
+    background: "Decade-long career in cybersecurity, SaaS, consulting, and regional sales management."
+    origin: "Croatian"
+  - name: "Ante Gojsalic"
+    role: "CTO & Co-Founder"
+    background: "Technical founder. Engineering team based in Croatia."
+    origin: "Croatian"
+data_notes: 'Acquired by Zscaler in Nov 2025. Needs verification: website, source_urls, headquarters.'
 website: https://splx.ai
 website_verified: true
 headquarters: New York, NY
 founded: 2023
 crunchbase: https://www.crunchbase.com/organization/splxai
 crunchbase_verified: true
+total_raised_m: 7.0
 ---
 
 # SplxAI

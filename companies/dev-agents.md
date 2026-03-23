@@ -16,7 +16,6 @@ funding_rounds:
   lead_investors:
   - Index Ventures
   - CapitalG
-total_funding: 56
 last_updated: 2026-03-21
 confidence: medium
 data_notes: 'Needs verification: website, source_urls, headquarters. Profile may be incomplete.'
@@ -25,6 +24,7 @@ website_verified: true
 headquarters: San Francisco, CA
 crunchbase: https://www.crunchbase.com/organization/dev-agents
 crunchbase_verified: true
+total_raised_m: 56.0
 ---
 
 # /dev/agents

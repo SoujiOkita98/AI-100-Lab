@@ -18,6 +18,14 @@ one_liner: Midjourney is an independent AI research lab and company that builds 
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/midjourney
 crunchbase_verified: true
+founders:
+  - name: "David Holz"
+    role: "Founder & CEO"
+    background: "Co-founded Leap Motion; studied applied math at UNC Chapel Hill (left PhD); contracted for NASA Langley; neuroscience research at Max Planck Institute"
+    origin: "American"
+total_raised_m: 0
+funding_rounds: []
+data_notes: "Midjourney is entirely bootstrapped/self-funded. Zero external venture capital raised."
 ---
 
 # Midjourney

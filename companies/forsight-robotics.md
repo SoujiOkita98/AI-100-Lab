@@ -2,7 +2,6 @@
 name: ForSight Robotics
 founded: 2018
 incorporated_country: Israel
-hq: Yokneam Illit, Israel (relocating to Caesarea)
 sector: Surgical Robotics / Medical AI
 employee_count_approx: ~110
 status: Private
@@ -59,6 +58,7 @@ one_liner: ForSight Robotics is an Israeli surgical robotics company developing 
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/forsight-robotics
 crunchbase_verified: true
+headquarters: Yokneam Illit, Israel (relocating to Caesarea)
 ---
 
 # ForSight Robotics

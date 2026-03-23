@@ -20,12 +20,12 @@ funding_rounds:
   - Elad Gil
   - Fei-Fei Li
   - Jeff Dean
-total_funding: 15
 last_updated: 2026-03-21
 confidence: medium
 crunchbase: https://www.crunchbase.com/organization/yutori
 crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/yutori-ai
+total_raised_m: 15.0
 ---
 
 # Yutori

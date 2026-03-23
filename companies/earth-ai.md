@@ -14,13 +14,22 @@ funding_rounds:
   lead_investors:
   - Tamarack Global
   - Cantos Ventures
-total_funding: 20
+founders:
+  - name: "Roman Teslyuk"
+    role: "Founder, CEO & CTO"
+    background: "Ukrainian-born. Graduate studies at University of Sydney in mining/geology. Spun Earth AI out of doctoral research."
+    origin: "Ukrainian"
+  - name: "Igor Gerechko"
+    role: "Co-Founder"
+    background: ""
+    origin: ""
 last_updated: 2026-03-21
 confidence: medium
 crunchbase: https://www.crunchbase.com/organization/earth-ai
 crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/earth-ai
 twitter: '@earthaiexplore'
+total_raised_m: 20.0
 ---
 
 # Earth AI

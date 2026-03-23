@@ -2,7 +2,6 @@
 name: Mind Robotics
 status: active
 founded: 2025
-hq: Palo Alto, CA
 website: https://www.mindrobotics.com
 sector:
 - industrial robotics
@@ -96,6 +95,7 @@ website_verified: true
 crunchbase: https://www.crunchbase.com/organization/mind-robotics
 crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/mindrobotics
+headquarters: Palo Alto, CA
 ---
 
 # Mind Robotics

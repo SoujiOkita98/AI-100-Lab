@@ -2,7 +2,6 @@
 name: Vectara
 status: active
 founded: 2022
-hq: Palo Alto, CA
 website: https://www.vectara.com
 sector:
 - RAG-as-a-service
@@ -101,6 +100,7 @@ website_verified: true
 crunchbase: https://www.crunchbase.com/organization/vectara
 crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/vectara
+headquarters: Palo Alto, CA
 ---
 
 # Vectara

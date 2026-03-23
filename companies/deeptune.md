@@ -10,7 +10,11 @@ funding_rounds:
   amount_m: 43
   lead_investors:
   - Andreessen Horowitz
-total_funding: 43
+founders:
+  - name: "Tim Lupo"
+    role: "CEO"
+    background: "CEO and co-founder; leads ~20-person team in New York building RL training environments for AI agents"
+    origin: "American"
 last_updated: 2026-03-21
 confidence: medium
 website: https://deeptune.com
@@ -19,6 +23,7 @@ data_notes: 'Needs verification: founders, source_urls. Profile may be incomplet
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/deeptune
 crunchbase_verified: true
+total_raised_m: 43.0
 ---
 
 # Deeptune

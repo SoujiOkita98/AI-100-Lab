@@ -9,12 +9,47 @@ latest_valuation: $3.2 billion (2025 round led by Fidelity)
 total_funding: ~$1.18 billion (across 10 rounds)
 employees: ~400+ (estimate)
 website: https://tenstorrent.com
+founders:
+  - name: "Ljubisa Bajic"
+    role: "Co-Founder & CTO (former CEO)"
+    background: "Original CEO of Tenstorrent; swapped to CTO role when Jim Keller became CEO in Jan 2023"
+    origin: "Serbian-Canadian"
+  - name: "Milos Trajkovic"
+    role: "Co-Founder & Senior Fellow"
+    background: "Leads systems engineering and low-level/foundational software teams at Tenstorrent"
+    origin: "Serbian-Canadian"
+  - name: "Jim Keller"
+    role: "CEO (joined 2020 as CTO, became CEO Jan 2023)"
+    background: "Legendary chip architect; designed DEC Alpha, AMD K7/K8/Zen, Apple A4/A5, Tesla self-driving chip. Former roles at AMD, Apple, Tesla, Intel"
+    origin: "American"
 last_updated: 2026-03-20
 one_liner: Tenstorrent is a Canadian AI chip and RISC-V processor company led by legendary chip architect Jim Keller
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/tenstorrent
 crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/tenstorrent-inc.
+total_raised_m: 1180
+funding_rounds:
+  - stage: "Early rounds"
+    date: "2016-2020"
+    amount_m: 87
+    lead_investors: ["Real Ventures", "Eclipse Ventures"]
+    source: "https://www.crunchbase.com/organization/tenstorrent"
+  - stage: "Series C"
+    date: "2021-05"
+    amount_m: 200
+    lead_investors: ["Fidelity"]
+    source: "https://www.crunchbase.com/organization/tenstorrent"
+  - stage: "Series D"
+    date: "2024-12"
+    amount_m: 693
+    lead_investors: ["Samsung Securities", "AFW Partners"]
+    source: "https://www.crunchbase.com/organization/tenstorrent"
+  - stage: "Follow-on"
+    date: "2025"
+    amount_m: 200
+    lead_investors: ["Fidelity"]
+    source: "https://www.crunchbase.com/organization/tenstorrent"
 ---
 
 # Tenstorrent

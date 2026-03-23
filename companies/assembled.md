@@ -53,6 +53,23 @@ website_verified: true
 linkedin: https://www.linkedin.com/company/assembledhq
 crunchbase: https://www.crunchbase.com/organization/assembled
 crunchbase_verified: true
+total_raised_m: 70.7
+funding_rounds:
+  - stage: "Seed"
+    date: "2020-03"
+    amount_m: 3.1
+    lead_investors: ["Stripe"]
+    source: "https://www.crunchbase.com/organization/assembled"
+  - stage: "Series A"
+    date: "2021-03"
+    amount_m: 16.6
+    lead_investors: ["Emergence Capital"]
+    source: "https://www.crunchbase.com/organization/assembled"
+  - stage: "Series B"
+    date: "2022-05"
+    amount_m: 51
+    lead_investors: ["NEA"]
+    source: "https://www.crunchbase.com/organization/assembled"
 ---
 
 # Assembled

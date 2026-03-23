@@ -21,7 +21,6 @@ funding_rounds:
   - Redpoint Ventures
   - CrowdStrike Falcon Fund
   source: https://fortune.com/2026/03/03/ai-governance-crowdstrike-sentinelone-veterans-raise-34m/
-total_funding: 34
 last_updated: 2026-03-21
 confidence: medium
 data_notes: 'Needs verification: website, source_urls, headquarters. Profile may be incomplete.'
@@ -31,6 +30,7 @@ headquarters: Santa Clara, CA
 linkedin: https://www.linkedin.com/company/jetstreaminc
 crunchbase: https://www.crunchbase.com/organization/jetstream-security
 crunchbase_verified: true
+total_raised_m: 34.0
 ---
 
 # JetStream Security

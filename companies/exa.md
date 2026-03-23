@@ -40,6 +40,7 @@ website_verified: true
 linkedin: https://www.linkedin.com/company/exa-ai
 crunchbase: https://www.crunchbase.com/organization/exa
 crunchbase_verified: true
+total_raised_m: 107.0
 ---
 
 # Exa

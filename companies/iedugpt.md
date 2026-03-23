@@ -9,7 +9,11 @@ funding_rounds:
   amount_m: 10
   lead_investors:
   - New Wheel Capital
-total_funding: 10
+founders:
+  - name: "Ian Barkley"
+    role: "CEO"
+    background: ""
+    origin: ""
 last_updated: 2026-03-21
 confidence: medium
 data_notes: 'Needs verification: website, founders, source_urls, headquarters. Profile may be incomplete.'
@@ -19,6 +23,7 @@ headquarters: Singapore
 founded: 2022
 crunchbase: https://www.crunchbase.com/organization/iedugpt
 crunchbase_verified: true
+total_raised_m: 10.0
 ---
 
 # iEduGPT

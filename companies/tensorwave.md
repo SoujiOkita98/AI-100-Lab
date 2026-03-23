@@ -11,7 +11,6 @@ funding_rounds:
   amount_m: 100
   lead_investors:
   - Valor Equity Partners
-total_funding: 100
 last_updated: 2026-03-21
 confidence: medium
 data_notes: 'Needs verification: website, founders, source_urls. Profile may be incomplete.'
@@ -21,6 +20,7 @@ linkedin: https://www.linkedin.com/company/tensorwave
 crunchbase: https://www.crunchbase.com/organization/tensorwave
 crunchbase_verified: true
 twitter: '@TensorWaveCloud'
+total_raised_m: 100.0
 ---
 
 # TensorWave

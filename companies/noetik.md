@@ -15,7 +15,6 @@ funding_rounds:
   amount_m: 40
   lead_investors:
   - DCVC
-total_funding: 54
 last_updated: 2026-03-21
 confidence: medium
 linkedin: https://www.linkedin.com/company/noetik-inc
@@ -24,6 +23,16 @@ website: https://www.noetik.ai
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/noetik
 crunchbase_verified: true
+total_raised_m: 54.0
+founders:
+  - name: "Ron Alfa"
+    role: "Co-Founder & CEO"
+    background: "MD and PhD from Stanford; former SVP and Head of Research at Recursion; postdoctoral in Neuroscience; MA from UCL"
+    origin: "Israeli"
+  - name: "Jacob Rinaldi"
+    role: "Co-Founder & CSO"
+    background: "PhD; veteran of Recursion"
+    origin: "American"
 ---
 
 # Noetik

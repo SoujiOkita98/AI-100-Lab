@@ -11,7 +11,6 @@ funding_rounds:
   lead_investors:
   - Pelion Ventures
   source: https://www.prnewswire.com/news-releases/honey-health-raises-7-8m/
-total_funding: 7.8
 last_updated: 2026-03-21
 confidence: medium
 founders:
@@ -30,6 +29,7 @@ headquarters: Mountain View, CA
 crunchbase: https://www.crunchbase.com/organization/honey-health
 crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/join-honey-health
+total_raised_m: 7.8
 ---
 
 # Honey Health

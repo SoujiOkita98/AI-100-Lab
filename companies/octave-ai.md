@@ -9,7 +9,6 @@ funding_rounds:
   amount_m: 5.5
   lead_investors:
   - Bonfire Ventures
-total_funding: 5.5
 last_updated: 2026-03-21
 confidence: medium
 data_notes: 'Needs verification: website, founders, source_urls, headquarters. Profile may be incomplete.'
@@ -20,6 +19,12 @@ founded: 2022
 crunchbase: https://www.crunchbase.com/organization/octave-ai
 crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/octavehq
+total_raised_m: 5.5
+founders:
+  - name: "Sandeep Acharya"
+    role: "Founder & CEO"
+    background: "Background in AI-driven go-to-market technology"
+    origin: "Indian"
 ---
 
 # Octave

@@ -27,7 +27,6 @@ funding_rounds:
   - Bain Capital
   - Interface Fund
   source: https://www.bloomberg.com/news/articles/2026-01-15/altman-s-merge-raises-252-million-to-link-brains-and-computers
-total_funding: 252
 latest_valuation: 850
 last_updated: 2026-03-21
 confidence: medium
@@ -37,6 +36,7 @@ website_verified: true
 headquarters: San Antonio, TX
 crunchbase: https://www.crunchbase.com/organization/merge-labs
 crunchbase_verified: true
+total_raised_m: 252.0
 ---
 
 # Merge Labs

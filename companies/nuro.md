@@ -3,6 +3,8 @@ company: Nuro
 legal_name: Nuro, Inc.
 founded: 2016
 headquarters: Mountain View, California
+website: https://www.nuro.ai
+one_liner: "Autonomous vehicle technology company licensing its Level 4 self-driving Nuro Driver system to automakers and mobility providers for robotaxis and delivery"
 sector: Autonomous Vehicles / AI / Robotics
 stage: Late Stage (Series E)
 latest_valuation: $6B (2025)

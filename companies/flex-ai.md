@@ -2,6 +2,7 @@
 name: FlexAI
 legal_name: FlexAI SAS
 website: https://www.flex.ai
+one_liner: "Universal AI compute platform that abstracts heterogeneous hardware architectures, enabling developers to train models faster and cheaper than traditional GPU clusters"
 founded: 2023
 headquarters: Paris, France
 other_offices:
@@ -24,6 +25,13 @@ website_verified: true
 crunchbase: https://www.crunchbase.com/organization/flex-ai
 crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/flexaicorp
+total_raised_m: 30.5
+funding_rounds:
+  - stage: "Seed"
+    date: "2024-04"
+    amount_m: 30.5
+    lead_investors: ["Undisclosed"]
+    source: "https://www.crunchbase.com/organization/flex-ai"
 ---
 
 # FlexAI

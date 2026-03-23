@@ -1,5 +1,7 @@
 ---
 name: Patronus AI
+website: https://www.patronus.ai
+one_liner: "Automated AI evaluation and security platform that detects LLM mistakes at scale, enabling enterprises to deploy AI products safely in regulated industries"
 slug: patronus-ai
 domain: AI Evaluation, Safety Testing & LLM Reliability
 founded: 2023

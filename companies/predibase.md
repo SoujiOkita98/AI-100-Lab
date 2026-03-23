@@ -1,6 +1,7 @@
 ---
 company: Predibase
 legal_name: Predibase Inc.
+website: https://predibase.com
 domain: predibase.com
 sector: AI/ML Infrastructure / Fine-Tuning & Serving Open-Source Models
 founded: 2021
@@ -33,6 +34,19 @@ one_liner: Predibase was an AI infrastructure company that enabled software engi
   models across cloud environments
 crunchbase: https://www.crunchbase.com/organization/predibase
 crunchbase_verified: true
+total_raised_m: 28
+funding_rounds:
+  - stage: "Seed"
+    date: "2022"
+    amount_m: 6.2
+    lead_investors: ["Greylock Partners"]
+    source: "https://www.crunchbase.com/organization/predibase"
+  - stage: "Series A"
+    date: "2024"
+    amount_m: 22
+    lead_investors: ["Felicis"]
+    source: "https://www.crunchbase.com/organization/predibase"
+data_notes: "Acquired by Rubrik in June 2025 for estimated $100-500M."
 ---
 
 # Predibase -- Fine-Tuning & Serving Open-Source AI Models (Acquired by Rubrik)

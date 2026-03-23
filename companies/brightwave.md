@@ -2,6 +2,7 @@
 company_name: Brightwave
 legal_name: Brightwave, Inc.
 website: https://www.brightwave.io
+one_liner: "AI-powered investment research platform that synthesizes thousands of pages of financial documents into actionable insights for investment professionals"
 sector: AI for Finance / Investment Research
 founded: 2023
 headquarters: Boulder, CO
@@ -22,6 +23,18 @@ website_verified: true
 linkedin: https://www.linkedin.com/company/brightwave-io
 crunchbase: https://www.crunchbase.com/organization/brightwave
 crunchbase_verified: true
+total_raised_m: 21
+funding_rounds:
+  - stage: "Seed"
+    date: "2024-06"
+    amount_m: 6
+    lead_investors: ["Decibel Partners"]
+    source: "https://www.businesswire.com/news/home/20240611417446/en/"
+  - stage: "Series A"
+    date: "2024-10"
+    amount_m: 15
+    lead_investors: ["Decibel Partners"]
+    source: "https://www.businesswire.com/news/home/20241029778071/en/"
 ---
 
 # Brightwave -- Company Profile

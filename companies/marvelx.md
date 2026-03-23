@@ -9,7 +9,6 @@ funding_rounds:
   amount_m: 6
   lead_investors:
   - EQT Ventures
-total_funding: 6
 last_updated: 2026-03-21
 confidence: medium
 data_notes: 'Needs verification: website, founders, source_urls, headquarters. Profile may be incomplete.'
@@ -20,6 +19,12 @@ founded: 2023
 crunchbase: https://www.crunchbase.com/organization/marvelx
 crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/marvelxai
+total_raised_m: 6.0
+founders:
+  - name: "Ali el Hassouni"
+    role: "Founder & CEO"
+    background: "Former Head of Data & AI at bunq (neobank unicorn); PhD in AI from Vrije Universiteit Amsterdam"
+    origin: "Moroccan-Dutch"
 ---
 
 # MarvelX

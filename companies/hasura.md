@@ -1,6 +1,7 @@
 ---
 company: Hasura
 legal_name: Hasura Inc.
+website: https://hasura.io
 domain: hasura.io
 sector: AI Data Infrastructure / API & Data Access Platform
 founded: 2013

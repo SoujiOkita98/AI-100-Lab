@@ -9,7 +9,15 @@ funding_rounds:
   amount_m: 9.7
   lead_investors:
   - Flint Capital
-total_funding: 9.7
+founders:
+  - name: "Maor Farid"
+    role: "Co-Founder & CEO"
+    background: "Dr. PhD in mechanical engineering at Technion (Israel) at age 24. Postdoc at MIT in applied mathematics and AI."
+    origin: "Israeli"
+  - name: "Moti Moravia"
+    role: "Co-Founder & CTO"
+    background: "Mechanical engineer and AI expert. Met Maor Farid at age 18 in Israeli military's Brakim program."
+    origin: "Israeli"
 last_updated: 2026-03-21
 confidence: medium
 data_notes: 'Needs verification: website, founders, source_urls, headquarters. Profile may be incomplete.'
@@ -20,6 +28,7 @@ website_verified: true
 crunchbase: https://www.crunchbase.com/organization/leo-ai
 crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/leoai
+total_raised_m: 9.7
 ---
 
 # Leo AI

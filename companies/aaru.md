@@ -1,9 +1,9 @@
 ---
 name: Aaru
 legal_name: Aaru (exact legal entity name unconfirmed)
+website: https://aaru.com
 domain: aaru.com
 founded: Marc
-hq: New York, NY
 sector: AI / Synthetic Research / Market Research
 stage: Series A
 latest_valuation_headline: $1B
@@ -39,6 +39,14 @@ one_liner: Aaru is an AI-powered synthetic research company that replaces tradit
 crunchbase: https://www.crunchbase.com/organization/aaru
 crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/aaru-ai
+headquarters: New York, NY
+total_raised_m: 50
+funding_rounds:
+  - stage: "Series A"
+    date: "2025"
+    amount_m: 50
+    lead_investors: ["Redpoint Ventures"]
+    source: "https://www.crunchbase.com/organization/aaru"
 ---
 
 # Aaru

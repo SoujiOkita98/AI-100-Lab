@@ -39,6 +39,18 @@ website_verified: true
 crunchbase: https://www.crunchbase.com/organization/datacurve
 crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/datacurveai
+total_raised_m: 18
+funding_rounds:
+  - stage: "Seed"
+    date: "2024"
+    amount_m: 2.7
+    lead_investors: ["Balaji Srinivasan"]
+    source: "https://www.crunchbase.com/organization/datacurve"
+  - stage: "Series A"
+    date: "2025-10"
+    amount_m: 15
+    lead_investors: ["Chemistry VC"]
+    source: "https://www.crunchbase.com/organization/datacurve"
 ---
 
 # Datacurve

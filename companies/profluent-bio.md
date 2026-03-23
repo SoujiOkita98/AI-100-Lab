@@ -15,7 +15,6 @@ funding_rounds:
   amount_m: 106
   lead_investors:
   - Jeff Bezos
-total_funding: 141
 last_updated: 2026-03-21
 confidence: medium
 linkedin: https://www.linkedin.com/company/profluent-bio
@@ -24,6 +23,12 @@ website: https://www.profluent.bio
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/profluent-bio
 crunchbase_verified: true
+total_raised_m: 141.0
+founders:
+  - name: "Ali Madani"
+    role: "Founder & CEO"
+    background: "PhD from UC Berkeley; former Senior Research Scientist at Salesforce; architect of ProGen moonshot for protein design"
+    origin: "Iranian-American"
 ---
 
 # Profluent Bio

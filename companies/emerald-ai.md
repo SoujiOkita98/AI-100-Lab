@@ -11,7 +11,6 @@ funding_rounds:
   lead_investors:
   - Radical Ventures
   source: https://news.crunchbase.com/venture/biggest-funding-rounds-ai-defense-tech-anysphere/
-total_funding: 24.5
 last_updated: 2026-03-21
 confidence: medium
 founders:
@@ -27,6 +26,7 @@ linkedin: https://www.linkedin.com/company/emerald-ai-1
 headquarters: Washington, DC
 crunchbase: https://www.crunchbase.com/organization/emerald-ai
 crunchbase_verified: true
+total_raised_m: 24.5
 ---
 
 # Emerald AI

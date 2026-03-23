@@ -14,7 +14,6 @@ funding_rounds:
   - Capital Fund Management
   - Mozilla Ventures
   source: https://www.inria.fr/en/probabl-logiciel-open-source-intelligence-artificielle
-total_funding: 14
 last_updated: 2026-03-21
 confidence: medium
 data_notes: 'Needs verification: website, founders, source_urls. Profile may be incomplete.'
@@ -22,6 +21,16 @@ website: https://probabl.ai
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/probabl
 crunchbase_verified: true
+total_raised_m: 14.0
+founders:
+  - name: "Yann Lechelle"
+    role: "Co-Founder & CEO"
+    background: "Seasoned tech entrepreneur; former CEO of Scaleway"
+    origin: "French"
+  - name: "Gael Varoquaux"
+    role: "Co-Founder"
+    background: "Inria researcher; co-founded scikit-learn"
+    origin: "French"
 ---
 
 # Probabl

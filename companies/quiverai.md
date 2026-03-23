@@ -10,7 +10,6 @@ funding_rounds:
   amount_m: 8.3
   lead_investors:
   - Andreessen Horowitz
-total_funding: 8.3
 last_updated: 2026-03-21
 confidence: medium
 website: https://quiver.ai
@@ -19,6 +18,16 @@ data_notes: 'Needs verification: founders, source_urls. Profile may be incomplet
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/quiverai
 crunchbase_verified: true
+total_raised_m: 8.3
+founders:
+  - name: "James Kardatzke"
+    role: "Co-Founder & CEO"
+    background: "Alternative data platform for retail investors"
+    origin: "American"
+  - name: "Christopher Kardatzke"
+    role: "Co-Founder"
+    background: "Primary coder; twin brother of James"
+    origin: "American"
 ---
 
 # QuiverAI

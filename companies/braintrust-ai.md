@@ -27,7 +27,6 @@ funding_rounds:
   valuation_m: 800
   lead_investors:
   - ICONIQ
-total_funding: 121
 last_updated: 2026-03-21
 confidence: medium
 website: https://braintrust.dev
@@ -37,6 +36,7 @@ linkedin: https://www.linkedin.com/company/braintrust-data
 crunchbase: https://www.crunchbase.com/organization/braintrust-ai
 crunchbase_verified: true
 twitter: '@braintrustdata'
+total_raised_m: 121.0
 ---
 
 # Braintrust (AI Eval)

@@ -26,6 +26,13 @@ one_liner: Nevis is an AI platform purpose-built for Registered Investment Advis
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/nevis
 crunchbase_verified: true
+total_raised_m: 40
+funding_rounds:
+  - stage: "Seed + Series A"
+    date: "2025-12"
+    amount_m: 40
+    lead_investors: ["Sequoia Capital", "ICONIQ", "Ribbit Capital"]
+    source: "https://www.crunchbase.com/organization/nevis"
 ---
 
 # Nevis -- Company Profile

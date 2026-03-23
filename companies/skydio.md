@@ -2,7 +2,6 @@
 name: Skydio
 status: active
 founded: 2014
-hq: San Mateo, California
 website: https://www.skydio.com
 sector:
 - defense-govtech
@@ -110,6 +109,7 @@ website_verified: true
 crunchbase: https://www.crunchbase.com/organization/skydio
 crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/skydio
+headquarters: San Mateo, California
 ---
 
 # Skydio

@@ -15,10 +15,15 @@ funding_rounds:
   - GFT Ventures
   - Intel Capital
   - Samsung NEXT
-total_funding: 24
 last_updated: 2026-03-21
 confidence: medium
 twitter: '@bria_ai_'
+total_raised_m: 24.0
+founders:
+- name: Yair Adato
+  role: CEO
+  background: PhD CS (computer vision). Former CTO at Trax Retail (scaled to unicorn). 50+ patents.
+  origin: Israeli
 ---
 
 # BRIA AI

@@ -10,7 +10,6 @@ funding_rounds:
   amount_m: 15
   lead_investors:
   - Khosla Ventures
-total_funding: 15
 last_updated: 2026-03-21
 confidence: medium
 data_notes: 'Needs verification: website, founders, source_urls, headquarters. Profile may be incomplete.'
@@ -20,6 +19,7 @@ linkedin: https://www.linkedin.com/company/windborne
 headquarters: Palo Alto, CA
 crunchbase: https://www.crunchbase.com/organization/windborne
 crunchbase_verified: true
+total_raised_m: 15.0
 ---
 
 # WindBorne Systems

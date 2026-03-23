@@ -2,7 +2,6 @@
 name: Axiom
 status: active
 founded: 2024
-hq: San Francisco, CA
 website: https://axiommath.ai
 sector:
 - AI safety
@@ -56,6 +55,7 @@ confidence: medium
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/axiom-ai
 crunchbase_verified: true
+headquarters: San Francisco, CA
 ---
 
 # Axiom

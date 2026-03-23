@@ -13,7 +13,6 @@ funding_rounds:
   - Maverick Silicon
   - Qualcomm Ventures
   source: https://finance.yahoo.com/news/upscale-ai-launches-over-100-150000717.html
-total_funding: 100
 last_updated: 2026-03-21
 confidence: medium
 founders:
@@ -31,6 +30,7 @@ website_verified: true
 crunchbase: https://www.crunchbase.com/organization/upscale-ai
 crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/upscale-ai-inc
+total_raised_m: 100.0
 ---
 
 # Upscale AI

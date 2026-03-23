@@ -11,7 +11,15 @@ funding_rounds:
   lead_investors:
   - Redpoint Ventures
   source: https://www.globenewswire.com/news-release/2025/12/16/
-total_funding: 30
+founders:
+  - name: "Peter Shalek"
+    role: "Co-Founder & CEO"
+    background: "Previously co-founded digital mental health startup Joyable (sold to AbleTo)"
+    origin: "American"
+  - name: "Nitin Joshi"
+    role: "Co-Founder"
+    background: "Co-founded Uber Health; former engineer at Stripe and Bridge. First-principles builder"
+    origin: "Indian-American"
 last_updated: 2026-03-21
 confidence: medium
 data_notes: 'Needs verification: website, founders, source_urls, headquarters. Profile may be incomplete.'
@@ -21,6 +29,7 @@ linkedin: https://www.linkedin.com/company/valerie-health
 headquarters: Lafayette, CA
 crunchbase: https://www.crunchbase.com/organization/valerie-health
 crunchbase_verified: true
+total_raised_m: 30.0
 ---
 
 # Valerie Health

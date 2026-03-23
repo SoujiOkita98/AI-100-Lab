@@ -16,7 +16,6 @@ funding_rounds:
   amount_m: 5
   lead_investors:
   - General Catalyst
-total_funding: 7
 last_updated: 2026-03-21
 confidence: medium
 website: https://www.paradigmai.com
@@ -24,6 +23,7 @@ website_verified: true
 crunchbase: https://www.crunchbase.com/organization/paradigm-ai
 crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/tryparadigm
+total_raised_m: 7.0
 ---
 
 # Paradigm (AI Spreadsheet)

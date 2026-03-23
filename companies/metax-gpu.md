@@ -17,7 +17,6 @@ funding_rounds:
   amount_m: 596
   lead_investors:
   - Public Market (STAR Market)
-total_funding: 596
 last_updated: 2026-03-21
 confidence: medium
 data_notes: 'Needs verification: website, source_urls. Profile may be incomplete.'
@@ -25,6 +24,7 @@ website: https://www.metax-tech.com/en
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/metax-gpu
 crunchbase_verified: true
+total_raised_m: 596.0
 ---
 
 # MetaX (GPU)

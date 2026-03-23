@@ -17,7 +17,6 @@ funding_rounds:
   lead_investors:
   - Playground Global
   - Greylock
-total_funding: 42
 last_updated: 2026-03-21
 confidence: medium
 data_notes: 'Needs verification: source_urls, headquarters. Profile may be incomplete.'
@@ -25,6 +24,7 @@ website_verified: true
 headquarters: South San Francisco, CA
 crunchbase: https://www.crunchbase.com/organization/atomic-ai
 crunchbase_verified: true
+total_raised_m: 42.0
 ---
 
 # Atomic AI

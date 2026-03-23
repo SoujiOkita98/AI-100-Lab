@@ -2,7 +2,6 @@
 name: NEURA Robotics
 founded: 2019
 incorporated_country: Germany
-hq: Metzingen, Germany
 sector: Cognitive Robotics / Humanoid Robotics
 employee_count_approx: ~300
 status: Private
@@ -65,6 +64,7 @@ website_verified: true
 crunchbase: https://www.crunchbase.com/organization/neura-robotics
 crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/neura-robotics
+headquarters: Metzingen, Germany
 ---
 
 # NEURA Robotics

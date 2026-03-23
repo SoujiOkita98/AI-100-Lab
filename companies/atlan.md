@@ -4,6 +4,7 @@ legal_name: Atlan Pte. Ltd.
 founded: 2018
 headquarters: New York, New York, USA
 website: https://atlan.com
+one_liner: "Active metadata platform for modern data teams — a collaborative data catalog enabling organizations to find, understand, and trust their data"
 sector: AI Data Governance & Metadata Management
 stage: Growth
 latest_valuation_usd: 750000000

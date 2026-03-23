@@ -25,13 +25,13 @@ funding_rounds:
   lead_investors:
   - Adjacent
   - Kindred Ventures
-total_funding: 36
 last_updated: 2026-03-21
 confidence: medium
 linkedin: https://www.linkedin.com/company/sandbartechnologies
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/sandbar
 crunchbase_verified: true
+total_raised_m: 36.0
 ---
 
 # Sandbar

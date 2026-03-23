@@ -18,7 +18,6 @@ funding_rounds:
   amount_m: 8
   lead_investors:
   - Khosla Ventures
-total_funding: 8
 last_updated: 2026-03-21
 confidence: medium
 data_notes: 'Needs verification: website, source_urls. Profile may be incomplete.'
@@ -26,6 +25,7 @@ website: https://www.astrus.ai
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/astrus
 crunchbase_verified: true
+total_raised_m: 8.0
 ---
 
 # Astrus

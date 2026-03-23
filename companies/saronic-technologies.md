@@ -2,7 +2,6 @@
 name: Saronic Technologies
 status: active
 founded: 2022
-hq: Austin, Texas
 website: https://www.saronic.com
 sector:
 - defense-govtech
@@ -82,6 +81,7 @@ website_verified: true
 crunchbase: https://www.crunchbase.com/organization/saronic-technologies
 crunchbase_verified: true
 twitter: '@Saronic'
+headquarters: Austin, Texas
 ---
 
 # Saronic Technologies

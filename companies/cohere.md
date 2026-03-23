@@ -1,10 +1,10 @@
 ---
 name: Cohere
 legal_name: Cohere Inc.
+website: https://cohere.com
 domain: cohere.com
 founded: 2019
 incorporated: Canada
-hq: Toronto, Ontario, Canada
 other_offices:
 - San Francisco, CA
 - New York, NY
@@ -16,7 +16,6 @@ sector: Enterprise AI / Large Language Models
 status: Private
 latest_valuation_usd: 7000000000
 latest_valuation_date: 2025-09-24
-total_funding_usd: 1540000000
 employee_count_approx: 500+
 arr_usd: 240000000
 arr_date: 2025-12-31
@@ -150,6 +149,8 @@ linkedin: https://www.linkedin.com/company/cohere-ai
 twitter: '@cohere'
 crunchbase: https://www.crunchbase.com/organization/cohere
 crunchbase_verified: true
+total_raised_m: 1540.0
+headquarters: Toronto, Ontario, Canada
 ---
 
 # Cohere

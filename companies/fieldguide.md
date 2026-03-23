@@ -10,7 +10,15 @@ funding_rounds:
   amount_m: 30
   lead_investors:
   - Bessemer Venture Partners
-total_funding: 30
+founders:
+  - name: "Jin Chang"
+    role: "Co-Founder & CEO"
+    background: "Former EY practitioner. Previously at legal AI startup Atrium."
+    origin: "Korean-American"
+  - name: "Chris Szymansky"
+    role: "Co-Founder & CTO"
+    background: "Previously at legal AI startup Atrium where he met Jin Chang."
+    origin: "American"
 last_updated: 2026-03-21
 confidence: medium
 data_notes: 'Needs verification: website, founders, source_urls, headquarters. Profile may be incomplete.'
@@ -20,6 +28,7 @@ linkedin: https://www.linkedin.com/company/fieldguide-inc
 headquarters: San Francisco, CA
 crunchbase: https://www.crunchbase.com/organization/fieldguide
 crunchbase_verified: true
+total_raised_m: 30.0
 ---
 
 # Fieldguide

@@ -1,6 +1,7 @@
 ---
 name: Samaya AI
 founded: 2024
+headquarters: Mountain View, CA
 sector: AI for Financial Services
 one_liner: Expert AI agents for financial services — research, analysis, and compliance automation.
 status: active
@@ -11,7 +12,6 @@ funding_rounds:
   lead_investors:
   - NEA
   source: https://www.businesswire.com/news/home/20250514266881/en/
-total_funding: 43.5
 last_updated: 2026-03-21
 confidence: medium
 founders:
@@ -28,6 +28,7 @@ website: https://samaya.ai
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/samaya-ai
 crunchbase_verified: true
+total_raised_m: 43.5
 ---
 
 # Samaya AI

@@ -8,6 +8,23 @@ sector: AI-Powered Developer Tools
 category: AI Code Editor / IDE
 status: Private
 website: https://cursor.com
+founders:
+  - name: "Michael Truell"
+    role: "Co-Founder & CEO"
+    background: "MIT CS Class of 2022. Neo Scholar."
+    origin: "American (inferred from name)"
+  - name: "Sualeh Asif"
+    role: "Co-Founder & CPO"
+    background: "MIT CS Class of 2022. Neo Scholar."
+    origin: "South Asian (inferred from name)"
+  - name: "Arvid Lunnemark"
+    role: "Co-Founder & former CTO"
+    background: "MIT CS Class of 2022. Neo Scholar."
+    origin: "Scandinavian (inferred from name)"
+  - name: "Aman Sanger"
+    role: "Co-Founder & COO"
+    background: "MIT CS Class of 2022. Neo Scholar."
+    origin: "Indian-American (inferred from name)"
 last_updated: 2026-03-20
 one_liner: Anysphere is the company behind **Cursor**, an AI-native code editor built as a fork of VS Code
 website_verified: true
@@ -17,6 +34,33 @@ crunchbase: https://www.crunchbase.com/organization/anysphere-cursor
 crunchbase_verified: true
 latest_valuation_m: 29300
 data_notes: Valuation $29.3B from $2.3B Series D (Nov 2025). Crossed $2B ARR by Mar 2026.
+total_raised_m: 3373
+funding_rounds:
+  - stage: "Seed"
+    date: "2023-10"
+    amount_m: 8
+    lead_investors: ["OpenAI Startup Fund"]
+    source: "https://anysphere.inc/blog/openai-fund"
+  - stage: "Series A"
+    date: "2024-08"
+    amount_m: 60
+    lead_investors: ["Andreessen Horowitz", "Thrive Capital"]
+    source: "https://techcrunch.com/2024/08/09/anysphere-a-github-copilot-rival-has-raised-60m-series-a-at-400m-valuation-from-a16z-thrive-sources-say/"
+  - stage: "Series B"
+    date: "2024-12"
+    amount_m: 105
+    lead_investors: ["Thrive Capital"]
+    source: "https://techcrunch.com/2024/12/19/in-just-4-months-ai-coding-assistant-cursor-raised-another-100m-at-a-2-5b-valuation-led-by-thrive-sources-say/"
+  - stage: "Series C"
+    date: "2025-06"
+    amount_m: 900
+    lead_investors: ["Thrive Capital"]
+    source: "https://techcrunch.com/2025/06/05/cursors-anysphere-nabs-9-9b-valuation-soars-past-500m-arr/"
+  - stage: "Series D"
+    date: "2025-11"
+    amount_m: 2300
+    lead_investors: ["Accel", "Coatue Management"]
+    source: "https://www.cnbc.com/2025/11/13/cursor-ai-startup-funding-round-valuation.html"
 ---
 
 # Anysphere (Cursor)

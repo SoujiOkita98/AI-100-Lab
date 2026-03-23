@@ -1,6 +1,6 @@
 # AI-100-Lab
 
-**A research-grade database of 500+ AI and robotics startups worldwide — funding rounds, founder profiles, investor networks, and origin analysis.**
+**A research-grade database of 600+ AI and robotics startups worldwide — funding rounds, founder profiles, investor networks, and origin analysis.**
 
 Built with research-grade rigor: every claim is sourced, uncertainty is marked explicitly, and quality takes precedence over completeness.
 
@@ -10,11 +10,11 @@ Built with research-grade rigor: every claim is sourced, uncertainty is marked e
 
 | Metric | Count |
 |--------|------:|
-| Companies | 569 |
-| Funding rounds | 985 |
-| Founders tracked | 638 |
-| 2025 seed rounds | 156 |
-| 2026 seed rounds | 24 |
+| Companies | 615 |
+| Funding rounds | 1,259 |
+| Founders tracked | 1,314 |
+| 2025 seed rounds | 180+ |
+| 2026 seed rounds | 30+ |
 | Countries covered | 20+ |
 
 ## Data Quality
@@ -24,18 +24,18 @@ Built with research-grade rigor: every claim is sourced, uncertainty is marked e
 | Company name | 100% | |
 | Founded year | 100% | |
 | Sector/category | 98% | Multi-tag taxonomy |
-| Website URL | 98% | 498 verified via HTTP request |
+| Website URL | 96% | Verified via HTTP request |
 | HQ location | 95% | City + country |
-| One-liner description | 93% | Auto-extracted from narrative body where available |
-| Total funding raised | 93% | In millions USD, normalized across currencies |
-| Round amount | 97% | Per-round detail for 985 rounds |
+| One-liner description | 97% | Auto-extracted from narrative body where available |
+| Total funding raised | 94% | In millions USD, normalized across currencies |
+| Round amount | 97% | Per-round detail for 1,045 rounds |
 | Lead investors | 92% | Per-round |
-| Founder origin/ethnicity | 87% | Inferred from names, backgrounds, and public info |
+| Founder profiles | 93% | Name, role, background, origin |
 | Source URL | 73% | Traceable to original reporting |
 | Founder background | 66% | Education, prior companies, notable experience |
 | LinkedIn | 44% | Company page URLs |
-| Latest valuation | 35% | Sparse for seed/early stage (market reality) |
-| Revenue signals | 11% | Only where publicly disclosed |
+| Latest valuation | 32% | Sparse for seed/early stage (market reality) |
+| Revenue signals | 8% | Only where publicly disclosed |
 
 ---
 
@@ -43,7 +43,7 @@ Built with research-grade rigor: every claim is sourced, uncertainty is marked e
 
 ```
 AI-100-Lab/
-  companies/           # 513 markdown files — one per company
+  companies/           # 615 markdown files — one per company
   exports/             # Clean CSV + JSON exports (rebuilt on demand)
     companies_clean.csv
     rounds_clean.csv
@@ -214,10 +214,10 @@ Clean, analysis-ready exports are in `exports/`:
 
 | File | Rows | Description |
 |------|-----:|-------------|
-| `companies_clean.csv` | 513 | One row per company — all normalized fields |
-| `rounds_clean.csv` | 918 | One row per funding round — stage, date, amount, valuation, investors |
-| `founders_clean.csv` | 629 | One row per founder — name, role, background, origin |
-| `companies_clean.json` | 513 | Nested format — company + founders + rounds combined |
+| `companies_clean.csv` | 615 | One row per company — all normalized fields |
+| `rounds_clean.csv` | 1,259 | One row per funding round — stage, date, amount, valuation, investors |
+| `founders_clean.csv` | 1,314 | One row per founder — name, role, background, origin |
+| `companies_clean.json` | 615 | Nested format — company + founders + rounds combined |
 
 ### CSV Field Reference
 
@@ -236,7 +236,7 @@ Clean, analysis-ready exports are in `exports/`:
 
 | Script | Purpose |
 |--------|---------|
-| `scripts/rebuild_clean_export.py` | Parse all 513 markdown files and regenerate clean CSV/JSON exports |
+| `scripts/rebuild_clean_export.py` | Parse all 615 markdown files and regenerate clean CSV/JSON exports |
 | `scripts/inject_rounds.py` | Inject funding round data into existing company frontmatter from JSON |
 | `scripts/create_company.py` | Create new company markdown files from JSON input |
 | `scripts/overnight_pipeline.py` | Systematic VC portfolio scraper using browser-use CLI |

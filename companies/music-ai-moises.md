@@ -13,7 +13,6 @@ funding_rounds:
   lead_investors:
   - Connect Ventures (CAA + NEA)
   - monashees
-total_funding: 40
 last_updated: 2026-03-21
 confidence: medium
 data_notes: 'Needs verification: founders, source_urls, headquarters. Profile may be incomplete.'
@@ -22,6 +21,20 @@ linkedin: https://www.linkedin.com/company/moises
 headquarters: Salt Lake City, UT
 crunchbase: https://www.crunchbase.com/organization/music-ai-moises
 crunchbase_verified: true
+total_raised_m: 40.0
+founders:
+  - name: "Geraldo Ramos"
+    role: "Co-Founder & CEO"
+    background: "Serial entrepreneur from NE Brazil; started first tech company at 16; founded HackHands (acquired by Pluralsight 2015)"
+    origin: "Brazilian"
+  - name: "Eddie Hsu"
+    role: "Co-Founder & COO"
+    background: "Originally from NE Brazil"
+    origin: "Brazilian"
+  - name: "Jardson Almeida"
+    role: "Co-Founder & CDO"
+    background: "Originally from NE Brazil"
+    origin: "Brazilian"
 ---
 
 # Music AI (Moises)

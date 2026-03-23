@@ -12,7 +12,6 @@ funding_rounds:
   - CapitalG
   - Redpoint Ventures
   source: https://techcrunch.com/
-total_funding: 46
 last_updated: 2026-03-21
 confidence: medium
 data_notes: 'Needs verification: website, founders, source_urls, headquarters. Profile may be incomplete.'
@@ -21,6 +20,16 @@ website: https://www.motif.io
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/motif-systems
 crunchbase_verified: true
+total_raised_m: 46.0
+founders:
+  - name: "Amar Hanspal"
+    role: "Co-Founder & CEO"
+    background: "Former Co-CEO and CPO of Autodesk; founder and CEO of Bright Machines"
+    origin: "Indian"
+  - name: "Brian Matthews"
+    role: "Co-Founder & CTO"
+    background: "Former VP of Platform Engineering at Autodesk; founder and CTO of Bright Machines"
+    origin: "American"
 ---
 
 # Motif Systems

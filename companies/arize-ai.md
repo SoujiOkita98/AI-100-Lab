@@ -4,6 +4,7 @@ legal_name: Arize AI Inc.
 domain: arize.com
 sector: AI/ML Observability & Evaluation Platform
 founded: 2020
+website: https://arize.com
 headquarters: San Francisco, California
 ceo: Jason Lopatecki
 employees_approx: 150+

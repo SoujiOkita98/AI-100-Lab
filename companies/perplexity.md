@@ -81,6 +81,23 @@ linkedin: https://www.linkedin.com/company/perplexity-ai
 twitter: '@perplexity_ai'
 crunchbase: https://www.crunchbase.com/organization/perplexity
 crunchbase_verified: true
+founders:
+  - name: "Aravind Srinivas"
+    role: "Co-Founder & CEO"
+    background: "PhD CS from UC Berkeley; former research at OpenAI, Google Brain, DeepMind; BS/MS EE from IIT Madras"
+    origin: "Indian"
+  - name: "Denis Yarats"
+    role: "Co-Founder & CTO"
+    background: "Former AI research scientist at Meta"
+    origin: "Eastern European"
+  - name: "Johnny Ho"
+    role: "Co-Founder & CSO"
+    background: "Former engineer at Quora; quantitative trader on Wall Street"
+    origin: "Chinese-American"
+  - name: "Andy Konwinski"
+    role: "Co-Founder"
+    background: "Founding team member at Databricks"
+    origin: "American"
 ---
 
 # Perplexity AI

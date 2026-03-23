@@ -15,7 +15,6 @@ funding_rounds:
   amount_m: 20
   lead_investors:
   - Threshold Ventures
-total_funding: 31.5
 last_updated: 2026-03-21
 confidence: medium
 headquarters: San Mateo, CA
@@ -23,6 +22,16 @@ website: https://www.parspec.io
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/parspec
 crunchbase_verified: true
+total_raised_m: 31.5
+founders:
+  - name: "Forest Flager"
+    role: "Co-Founder & CEO"
+    background: "PhD from Stanford; identified core technology during PhD program"
+    origin: "American"
+  - name: "Pratyush Havelia"
+    role: "Co-Founder & CTO"
+    background: "Post-doctorate at Stanford University"
+    origin: "Indian"
 ---
 
 # Parspec

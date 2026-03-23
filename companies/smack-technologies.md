@@ -21,7 +21,6 @@ funding_rounds:
   - Geodesic Capital
   - Costanoa Ventures
   - Felicis
-total_funding: 32
 last_updated: 2026-03-21
 confidence: medium
 data_notes: 'Needs verification: website, source_urls. Profile may be incomplete.'
@@ -30,6 +29,7 @@ website_verified: true
 linkedin: https://www.linkedin.com/company/smack-technologies-inc
 crunchbase: https://www.crunchbase.com/organization/smack-technologies
 crunchbase_verified: true
+total_raised_m: 32.0
 ---
 
 # Smack Technologies

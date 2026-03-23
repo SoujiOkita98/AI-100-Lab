@@ -21,7 +21,6 @@ funding_rounds:
   - Eclipse Ventures
   - Khosla Ventures
   source: https://techcrunch.com/2025/07/01/genesis-ai-launches-with-105m-seed-funding/
-total_funding: 105
 last_updated: 2026-03-21
 confidence: medium
 data_notes: 'Needs verification: website, source_urls, headquarters. Profile may be incomplete.'
@@ -30,6 +29,7 @@ website_verified: true
 headquarters: Palo Alto, CA
 crunchbase: https://www.crunchbase.com/organization/genesis-ai-robotics
 crunchbase_verified: true
+total_raised_m: 105.0
 ---
 
 # Genesis AI (Robotics)

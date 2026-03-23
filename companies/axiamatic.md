@@ -20,7 +20,6 @@ funding_rounds:
   lead_investors:
   - Greylock
   - Bessemer
-total_funding: 54
 last_updated: 2026-03-21
 confidence: medium
 website: https://axiamatic.com
@@ -28,6 +27,7 @@ headquarters: Saratoga, CA
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/axiamatic
 crunchbase_verified: true
+total_raised_m: 54.0
 ---
 
 # Axiamatic

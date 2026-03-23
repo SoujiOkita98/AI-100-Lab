@@ -18,12 +18,12 @@ funding_rounds:
   amount_m: 0.825
   lead_investors:
   - South Park Commons
-total_funding: 0.825
 last_updated: 2026-03-21
 confidence: medium
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/riverline-ai
 crunchbase_verified: true
+total_raised_m: 0.825
 ---
 
 # Riverline AI

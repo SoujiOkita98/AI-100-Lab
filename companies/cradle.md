@@ -2,7 +2,6 @@
 name: Cradle
 status: active
 founded: 2021
-hq: Amsterdam, Netherlands
 other_offices:
 - Zurich, Switzerland
 - United States (expanding)
@@ -116,6 +115,7 @@ website_verified: true
 linkedin: https://www.linkedin.com/company/cradlebio
 crunchbase: https://www.crunchbase.com/organization/cradle
 crunchbase_verified: true
+headquarters: Amsterdam, Netherlands
 ---
 
 # Cradle

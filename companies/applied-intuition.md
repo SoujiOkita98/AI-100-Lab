@@ -2,7 +2,6 @@
 name: Applied Intuition
 status: active
 founded: 2017
-hq: Mountain View, California
 website: https://www.appliedintuition.com
 sector:
 - autonomous-vehicles
@@ -157,6 +156,7 @@ linkedin: https://www.linkedin.com/company/applied-intuition-inc
 crunchbase: https://www.crunchbase.com/organization/applied-intuition
 crunchbase_verified: true
 twitter: '@AppliedInt'
+headquarters: Mountain View, California
 ---
 
 # Applied Intuition

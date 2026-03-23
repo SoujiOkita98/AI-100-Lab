@@ -2,7 +2,6 @@
 name: Epirus
 status: active
 founded: 2018
-hq: Torrance, California
 website: https://www.epirusinc.com
 sector:
 - defense-govtech
@@ -99,6 +98,7 @@ website_verified: true
 crunchbase: https://www.crunchbase.com/organization/epirus
 crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/epirus
+headquarters: Torrance, California
 ---
 
 # Epirus

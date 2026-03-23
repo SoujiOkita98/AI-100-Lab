@@ -2,7 +2,6 @@
 name: AMI Labs (Advanced Machine Intelligence)
 status: active
 founded: 2025
-hq: Paris, France
 website: https://amilabs.ai
 sector:
 - foundation models
@@ -56,6 +55,7 @@ confidence: high
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/ami-labs
 crunchbase_verified: true
+headquarters: Paris, France
 ---
 
 # AMI Labs (Advanced Machine Intelligence)

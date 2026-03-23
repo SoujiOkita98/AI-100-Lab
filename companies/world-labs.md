@@ -2,7 +2,6 @@
 name: World Labs
 status: active
 founded: 2024
-hq: San Francisco, CA
 website: https://www.worldlabs.ai
 sector:
 - spatial intelligence
@@ -109,6 +108,7 @@ website_verified: true
 crunchbase: https://www.crunchbase.com/organization/world-labs
 crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/world-labs
+headquarters: San Francisco, CA
 ---
 
 # World Labs

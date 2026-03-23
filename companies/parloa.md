@@ -21,7 +21,6 @@ funding_rounds:
   valuation_m: 3000
   lead_investors:
   - Lightspeed
-total_funding: 536
 latest_valuation: 3000
 last_updated: 2026-03-21
 confidence: medium
@@ -30,6 +29,17 @@ website_verified: true
 crunchbase: https://www.crunchbase.com/organization/parloa
 crunchbase_verified: true
 twitter: '@parloa_ai'
+total_raised_m: 536.0
+founders:
+- name: Malte Kosub
+  role: CEO
+  background: University of Hamburg, Harvard, and MIT. Sold first company in 2017. Co-founded Future of Voice (2016). Co-founded
+    Parloa 2018.
+  origin: German
+- name: Stefan Ostwald
+  role: CPO
+  background: Co-founded Future of Voice. Deep focus on voice technologies.
+  origin: German
 ---
 
 # Parloa

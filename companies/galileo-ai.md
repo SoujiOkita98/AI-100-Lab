@@ -1,6 +1,7 @@
 ---
 company_name: Galileo
 legal_name: Galileo Technologies, Inc.
+website: https://www.rungalileo.io
 domain: galileo.ai
 category: AI Evaluation & Observability
 subcategory: LLM Testing, Monitoring, Guardrails, Agent Reliability
@@ -41,6 +42,23 @@ one_liner: Galileo is an AI evaluation and observability platform that helps ent
   LLM-powered applications and AI agents
 crunchbase: https://www.crunchbase.com/organization/galileo-ai
 crunchbase_verified: true
+total_raised_m: 68
+funding_rounds:
+  - stage: "Seed"
+    date: "2022-05"
+    amount_m: 5.1
+    lead_investors: ["The Factory"]
+    source: "https://www.crunchbase.com/organization/galileo-ai"
+  - stage: "Series A"
+    date: "2023"
+    amount_m: 18
+    lead_investors: ["Battery Ventures"]
+    source: "https://www.crunchbase.com/organization/galileo-ai"
+  - stage: "Series B"
+    date: "2024-10"
+    amount_m: 45
+    lead_investors: ["Scale Venture Partners"]
+    source: "https://www.crunchbase.com/organization/galileo-ai"
 ---
 
 # Galileo

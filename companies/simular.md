@@ -31,6 +31,18 @@ one_liner: '> Former DeepMind scientists building autonomous AI agents that cont
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/simular
 crunchbase_verified: true
+total_raised_m: 27
+funding_rounds:
+  - stage: "Seed"
+    date: "2024"
+    amount_m: 5.5
+    lead_investors: ["Basis Set Ventures"]
+    source: "https://www.crunchbase.com/organization/simular"
+  - stage: "Series A"
+    date: "2025-12"
+    amount_m: 21.5
+    lead_investors: ["Felicis Ventures"]
+    source: "https://techcrunch.com/2025/12/02/simular-releases-mac-os-ai-agent-raises-21-5m-from-felicis-with-windows-coming-soon/"
 ---
 
 # Simular

@@ -6,9 +6,21 @@ headquarters: Palo Alto, California, USA
 sector: AI Hardware / AI Infrastructure (Full-Stack)
 stage: Late-stage Private
 latest_valuation: ~$2.24 billion (Series E, February 2026; down from $5.1B in 2021)
-total_funding: 1490
 employees: ~400-415 (as of early 2026)
 website: https://sambanova.ai
+founders:
+  - name: "Rodrigo Liang"
+    role: "CEO"
+    background: "20+ years in semiconductor engineering at Sun Microsystems and Oracle; BS/MS EE from Stanford; born in Taipei, grew up in Brazil"
+    origin: "Taiwanese-Brazilian"
+  - name: "Kunle Olukotun"
+    role: "Co-Founder & Chief Technologist"
+    background: "Stanford Professor of EE and CS; pioneer of multicore processors; founded Afara Websystems (acquired by Sun for ~$62M); PhD from Michigan"
+    origin: "Nigerian"
+  - name: "Christopher Re"
+    role: "Co-Founder"
+    background: "Stanford Professor of CS; MacArthur Fellow; co-founded Snorkel AI (unicorn); two companies acquired by Apple (Lattice/DeepDive 2017, Inductiv/HoloClean 2020)"
+    origin: "American"
 last_updated: 2026-03-20
 one_liner: SambaNova Systems is a full-stack AI infrastructure company that designs custom AI processors (Reconfigurable Dataflow
   Units, or RDUs), accompanying software, and enterprise services
@@ -18,6 +30,7 @@ crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/sambanova
 data_notes: Funding corrected from $2.5B to ~$1.49B after cross-verification against Tracxn/Sacra. Previous figure was significantly
   inflated.
+total_raised_m: 1490.0
 ---
 
 # SambaNova Systems

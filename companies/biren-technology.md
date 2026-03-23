@@ -7,6 +7,15 @@ headquarters: Shanghai, China
 co_founders:
 - Zhang Wen (former SenseTime president)
 - Jiao Guofang (former Huawei)
+founders:
+  - name: "Zhang Wen"
+    role: "Co-Founder"
+    background: "Former president of SenseTime."
+    origin: "Chinese (inferred from name)"
+  - name: "Jiao Guofang"
+    role: "Co-Founder"
+    background: "Former Huawei executive."
+    origin: "Chinese (inferred from name)"
 sector: AI Chips / GPU Accelerators
 stage: Public (IPO January 2, 2026, HKEX)
 ipo_raised_hkd: HK$5.58B (~$717M)

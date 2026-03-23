@@ -1,6 +1,7 @@
 ---
 name: Clay
 slug: clay
+website: https://www.clay.com
 domain: clay.com
 founded: 2017
 headquarters: New York, NY
@@ -16,11 +17,21 @@ confidence: high
 one_liner: AI-powered data enrichment and workflow automation platform that lets go-to-market teams build personalized outbound
   pipelines by combining 130+ data providers in a spreadsheet-like interface
 data_notes: 'Needs verification: website, founders. Profile may be incomplete.'
-total_funding: 204
 crunchbase: https://www.crunchbase.com/organization/clay
 crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/clayhq
 twitter: '@clay_gtm'
+total_raised_m: 204.0
+founders:
+- name: Kareem Amin
+  role: CEO
+  background: BEng Electrical Engineering & Physics, McGill. Former VP of Product at WSJ. Co-founded Frame (acquired by Sailthru).
+    Originally from Egypt.
+  origin: Egyptian-American
+- name: Nicolae Rusan
+  role: Co-founder
+  background: Technical co-founder.
+  origin: Romanian-American
 ---
 
 # Clay

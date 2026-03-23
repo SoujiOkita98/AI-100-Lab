@@ -2,6 +2,7 @@
 company_name: Basis
 legal_name: Basis Platform, Inc.
 website: https://www.getbasis.ai
+one_liner: "AI agents for accounting firms that automate financial statement preparation, tax filing, and expense tracking with long-horizon task execution"
 sector: AI for Accounting
 founded: 2023
 headquarters: New York, NY
@@ -43,6 +44,7 @@ website_verified: true
 linkedin: https://www.linkedin.com/company/get-basis-ai
 crunchbase: https://www.crunchbase.com/organization/basis
 crunchbase_verified: true
+total_raised_m: 137.6
 ---
 
 # Basis -- Company Profile

@@ -2,7 +2,6 @@
 name: Chaos Industries
 status: active
 founded: 2022
-hq: Los Angeles, California
 website: https://www.chaosindustries.com
 sector:
 - defense-govtech
@@ -74,6 +73,7 @@ website_verified: true
 crunchbase: https://www.crunchbase.com/organization/chaos-industries
 crunchbase_verified: true
 twitter: '@ChaosDefense'
+headquarters: Los Angeles, California
 ---
 
 # Chaos Industries

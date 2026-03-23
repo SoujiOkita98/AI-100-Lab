@@ -47,6 +47,18 @@ crunchbase: https://www.crunchbase.com/organization/heygen
 crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/heygen
 twitter: '@HeyGen_Official'
+total_raised_m: 74.6
+funding_rounds:
+  - stage: "Seed"
+    date: "2022"
+    lead_investors: ["Conviction"]
+    source: "https://www.crunchbase.com/organization/heygen"
+  - stage: "Series A"
+    date: "2024-06"
+    amount_m: 60
+    lead_investors: ["Benchmark"]
+    source: "https://www.crunchbase.com/organization/heygen"
+data_notes: "Total ~$65.6-74.6M across multiple rounds. Exact seed amount undisclosed."
 ---
 
 # HeyGen

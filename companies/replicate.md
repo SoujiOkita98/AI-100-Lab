@@ -34,6 +34,24 @@ one_liner: Cloud API platform that lets developers run open-source ML models wit
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/replicate
 crunchbase_verified: true
+total_raised_m: 58
+funding_rounds:
+  - stage: "Seed"
+    date: "2020"
+    amount_m: 2.5
+    lead_investors: ["Y Combinator"]
+    source: "https://www.crunchbase.com/organization/replicate"
+  - stage: "Series A"
+    date: "2022-12"
+    amount_m: 17.8
+    lead_investors: ["a16z"]
+    source: "https://www.crunchbase.com/organization/replicate"
+  - stage: "Series B"
+    date: "2023-12"
+    amount_m: 40
+    lead_investors: ["a16z"]
+    source: "https://www.crunchbase.com/organization/replicate"
+data_notes: "Acquired by Cloudflare in November 2025 for estimated $350-550M."
 ---
 
 # Replicate

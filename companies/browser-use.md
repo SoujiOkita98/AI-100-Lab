@@ -42,6 +42,13 @@ linkedin: https://www.linkedin.com/company/browser-use
 crunchbase: https://www.crunchbase.com/organization/browser-use
 crunchbase_verified: true
 twitter: '@browser_use'
+total_raised_m: 17
+funding_rounds:
+  - stage: "Seed"
+    date: "2025-03"
+    amount_m: 17
+    lead_investors: ["Felicis Ventures"]
+    source: "https://www.crunchbase.com/organization/browser-use"
 ---
 
 # Browser Use

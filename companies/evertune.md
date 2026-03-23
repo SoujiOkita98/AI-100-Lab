@@ -12,18 +12,21 @@ founders:
   role: CEO
   background: Former Trade Desk (grew from 8 people to IPO), Nielsen board
 funding_rounds:
+- stage: Seed
+  date: 2024-10
+  amount_m: 4
 - stage: Series A
   date: 2025-08
   amount_m: 15
   lead_investors:
   - Felicis
-total_funding: 15
 last_updated: 2026-03-21
 confidence: medium
 website_verified: true
 linkedin: https://www.linkedin.com/company/evertune-ai
 crunchbase: https://www.crunchbase.com/organization/evertune
 crunchbase_verified: true
+total_raised_m: 19.0
 ---
 
 # Evertune

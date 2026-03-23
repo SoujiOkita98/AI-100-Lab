@@ -21,7 +21,6 @@ funding_rounds:
   lead_investors:
   - 6DC
   - Syndicate One
-total_funding: 5.5
 last_updated: 2026-03-21
 confidence: medium
 data_notes: 'Needs verification: website, source_urls. Profile may be incomplete.'
@@ -31,6 +30,7 @@ linkedin: https://www.linkedin.com/company/mindoo-ai
 crunchbase: https://www.crunchbase.com/organization/mindoo
 crunchbase_verified: true
 twitter: '@mindooai'
+total_raised_m: 5.5
 ---
 
 # Mindoo

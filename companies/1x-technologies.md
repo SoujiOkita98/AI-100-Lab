@@ -3,7 +3,6 @@ name: 1X Technologies
 former_name: Halodi Robotics
 founded: '2014'
 incorporated_country: Norway
-hq: Palo Alto, California, USA
 other_offices:
 - Moss, Norway (manufacturing + original HQ)
 - Hayward, California (primary manufacturing)
@@ -96,6 +95,7 @@ twitter: '@1x_tech'
 linkedin: https://www.linkedin.com/company/1x-technologies
 crunchbase: https://www.crunchbase.com/organization/1x-technologies
 crunchbase_verified: true
+headquarters: Palo Alto, California, USA
 ---
 
 # 1X Technologies

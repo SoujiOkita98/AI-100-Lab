@@ -11,7 +11,6 @@ funding_rounds:
   lead_investors:
   - Uber
   - Nebius Group
-total_funding: 375
 last_updated: 2026-03-21
 confidence: medium
 data_notes: 'Needs verification: website, founders, source_urls, headquarters. Profile may be incomplete.'
@@ -22,6 +21,12 @@ crunchbase: https://www.crunchbase.com/organization/avride
 crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/avrideai
 twitter: '@Avrideai'
+total_raised_m: 375.0
+founders:
+- name: Dmitry Polishchuk
+  role: CEO
+  background: 15+ years at Yandex. Former CEO of Yandex Self-Driving Group. Avride spun out of Yandex autonomous driving division.
+  origin: Russian
 ---
 
 # Avride

@@ -4,9 +4,9 @@ legal_name: XtalPi Inc.
 founded: 2014
 headquarters: Cambridge, MA (US operations) / Shenzhen, China (global HQ)
 website: https://en.xtalpi.com
-sector: AI Drug Discovery / Quantum Physics / Computational Chemistry
-status: Public (Hong Kong Stock Exchange, listed December 2025)
-total_funding: >$700M (pre-IPO)
+sector: ["AI drug discovery", "quantum physics", "computational chemistry"]
+status: "Public (HKEX, listed December 2025)"
+total_raised_m: 700
 ipo_details: Listed on HKEX Dec 30, 2025; raised HKD 2.277B; largest biotech IPO in Hong Kong in 2025
 employee_count: 500+ (estimate)
 founders:

@@ -1,18 +1,32 @@
 ---
-name: "RADiCAIT"
+name: RADiCAIT
 founded: 2024
-headquarters: "Oxford, UK"
+headquarters: Oxford, UK
 website: https://radicait.com
-sector: "AI Healthcare / Medical Imaging"
-one_liner: "AI converting standard CT scans into synthetic PET scans — 10x cheaper cancer diagnostics. Oxford spinout, Mass General pilots."
+sector: AI Healthcare / Medical Imaging
+one_liner: AI converting standard CT scans into synthetic PET scans — 10x cheaper cancer diagnostics. Oxford spinout, Mass
+  General pilots.
 status: active
 funding_rounds:
-  - stage: "Pre-seed"
-    date: "2025-10"
-    amount_m: 1.7
-total_funding: 1.7
+- stage: Pre-seed
+  date: 2025-10
+  amount_m: 1.7
 last_updated: 2026-03-21
 confidence: medium
+total_raised_m: 1.7
+founders:
+  - name: "Sean Walsh"
+    role: "Co-Founder & CEO"
+    background: ""
+    origin: ""
+  - name: "Regent Lee"
+    role: "Co-Founder"
+    background: ""
+    origin: ""
+  - name: "Sina Shahandeh"
+    role: "Co-Founder & CTO"
+    background: "3x founder; PhD in computational physics"
+    origin: "Iranian"
 ---
 
 # RADiCAIT

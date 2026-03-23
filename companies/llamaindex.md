@@ -20,7 +20,6 @@ funding_rounds:
   amount_m: 19
   lead_investors:
   - Greylock
-total_funding: 27.5
 last_updated: 2026-03-21
 confidence: medium
 data_notes: 'Needs verification: source_urls, headquarters. Profile may be incomplete.'
@@ -30,6 +29,7 @@ headquarters: San Francisco, CA
 crunchbase: https://www.crunchbase.com/organization/llamaindex
 crunchbase_verified: true
 twitter: '@llama_index'
+total_raised_m: 27.5
 ---
 
 # LlamaIndex

@@ -1,6 +1,7 @@
 ---
 company: DevRev
 legal_name: DevRev Inc.
+website: https://devrev.ai
 domain: devrev.ai
 sector: Enterprise AI / AI-Native CRM & Developer Platform
 founded: 2020

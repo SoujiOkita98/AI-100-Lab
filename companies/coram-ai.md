@@ -12,13 +12,22 @@ funding_rounds:
   amount_m: 13.8
   lead_investors:
   - Battery Ventures
-total_funding: 13.8
 last_updated: 2026-03-21
 confidence: medium
 crunchbase: https://www.crunchbase.com/organization/coram-ai
 crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/coram-ai
 twitter: '@Coram_AI'
+total_raised_m: 30.0
+founders:
+- name: Ashesh Jain
+  role: CEO
+  background: PhD CS, Cornell. Visiting Research Scholar at Stanford AI Lab. Director of Engineering at Lyft Autonomy & AI.
+  origin: Indian-American
+- name: Peter Ondruska
+  role: CTO
+  background: PhD Robotics, Oxford. Co-founded Blue Vision Labs (acquired by Lyft).
+  origin: Czech
 ---
 
 # Coram AI

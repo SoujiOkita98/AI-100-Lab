@@ -12,7 +12,6 @@ funding_rounds:
   - S Capital
   - Mike Moritz
   source: https://techcrunch.com/2025/03/11/sola-emerges-from-stealth-with-30m/
-total_funding: 30
 last_updated: 2026-03-21
 confidence: medium
 founders:
@@ -31,6 +30,7 @@ linkedin: https://www.linkedin.com/company/sola-security
 headquarters: Tel Aviv, Israel
 crunchbase: https://www.crunchbase.com/organization/sola-security
 crunchbase_verified: true
+total_raised_m: 30.0
 ---
 
 # Sola Security

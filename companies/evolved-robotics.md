@@ -17,7 +17,6 @@ funding_rounds:
 - stage: Seed (SEC Form D)
   date: 2026-03
   amount_m: 0.325
-total_funding: 0.325
 last_updated: 2026-03-21
 confidence: medium
 data_notes: 'Needs verification: website, source_urls. Profile may be incomplete.'
@@ -26,6 +25,7 @@ website_verified: true
 linkedin: https://www.linkedin.com/company/evolved-robotics-care
 crunchbase: https://www.crunchbase.com/organization/evolved-robotics
 crunchbase_verified: true
+total_raised_m: 0.325
 ---
 
 # Evolved Robotics

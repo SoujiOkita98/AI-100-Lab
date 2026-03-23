@@ -12,7 +12,27 @@ funding_rounds:
   lead_investors:
   - Menlo Ventures
   - Haystack
-total_funding: 7
+founders:
+  - name: "Juan Orbea De Rivera"
+    role: "Co-Founder & CEO"
+    background: "Stanford/Berkeley graduate."
+    origin: "Spanish/Latin American (inferred from name)"
+  - name: "Rehaan Ahmad"
+    role: "Co-Founder"
+    background: "Stanford/Berkeley graduate. Co-launched alphaXiv in May 2023."
+    origin: "South Asian (inferred from name)"
+  - name: "Raj Palleti"
+    role: "Co-Founder"
+    background: "Stanford/Berkeley graduate."
+    origin: "Indian (inferred from name)"
+  - name: "Daniel Kim"
+    role: "Co-Founder"
+    background: "Stanford/Berkeley graduate."
+    origin: "Korean-American (inferred from name)"
+  - name: "Lino Le Van"
+    role: "Co-Founder"
+    background: "Stanford/Berkeley graduate."
+    origin: "Vietnamese/French (inferred from name)"
 last_updated: 2026-03-21
 confidence: medium
 data_notes: 'Needs verification: founders, source_urls, headquarters. Profile may be incomplete.'
@@ -20,6 +40,7 @@ website_verified: true
 headquarters: San Francisco, CA
 crunchbase: https://www.crunchbase.com/organization/alphaxiv
 crunchbase_verified: true
+total_raised_m: 7.0
 ---
 
 # alphaXiv

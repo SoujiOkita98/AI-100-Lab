@@ -11,18 +11,25 @@ founders:
   role: CEO
   background: Former NCAA tennis player
 funding_rounds:
+- stage: Grant
+  date: '2024'
+  amount_m: 0.8
+  notes: Government grants
+- stage: Seed
+  date: '2024'
+  amount_m: 1.8
 - stage: Seed
   date: 2025-11
   amount_m: 3
   lead_investors:
   - Altitude Capital
-total_funding: 3
 last_updated: 2026-03-21
 confidence: medium
 website_verified: true
 linkedin: https://www.linkedin.com/company/sportai
 crunchbase: https://www.crunchbase.com/organization/sportai
 crunchbase_verified: true
+total_raised_m: 5.7
 ---
 
 # SportAI

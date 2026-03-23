@@ -24,6 +24,33 @@ linkedin: https://www.linkedin.com/company/coreweave
 twitter: '@CoreWeave'
 crunchbase: https://www.crunchbase.com/organization/coreweave
 crunchbase_verified: true
+total_raised_m: 2400
+funding_rounds:
+  - stage: "Series A"
+    date: "2021"
+    lead_investors: ["Undisclosed"]
+    source: "https://www.crunchbase.com/organization/coreweave"
+  - stage: "Series B"
+    date: "2023-04"
+    amount_m: 221
+    lead_investors: ["Magnetar Capital"]
+    source: "https://techcrunch.com/2023/04/20/coreweave-a-gpu-focused-cloud-compute-provider-lands-221m-investment/"
+  - stage: "Series B Extension"
+    date: "2023"
+    amount_m: 200
+    lead_investors: ["Magnetar Capital"]
+    source: "https://www.crunchbase.com/organization/coreweave"
+  - stage: "Secondary"
+    date: "2023"
+    amount_m: 642
+    lead_investors: ["Undisclosed"]
+    source: "https://www.crunchbase.com/organization/coreweave"
+  - stage: "Series C"
+    date: "2024-05"
+    amount_m: 1100
+    lead_investors: ["Coatue"]
+    source: "https://www.prnewswire.com/news-releases/coreweave-secures-1-1-billion-in-series-c-funding-to-drive-the-next-generation-of-cloud-computing-for-the-future-of-ai-302133328.html"
+data_notes: "IPO'd March 28, 2025 on NASDAQ (CRWV). Pre-IPO equity ~$2.4B. Also raised $12B+ in debt financing."
 ---
 
 # CoreWeave (CRWV)

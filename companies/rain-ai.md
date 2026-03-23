@@ -15,6 +15,35 @@ one_liner: Rain AI (formerly Rain Neuromorphics) is developing neuromorphic-insp
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/rain-ai
 crunchbase_verified: true
+founders:
+  - name: "Gordon Wilson"
+    role: "Co-Founder & CEO"
+    background: ""
+    origin: "American"
+  - name: "Jack Kendall"
+    role: "Co-Founder"
+    background: ""
+    origin: "American"
+  - name: "Juan Claudio Nino"
+    role: "Co-Founder"
+    background: ""
+    origin: "Hispanic-American"
+total_raised_m: 146
+funding_rounds:
+  - stage: "YC + Early rounds"
+    date: "2018-2021"
+    lead_investors: ["Y Combinator"]
+    source: "https://www.crunchbase.com/organization/rain-ai"
+  - stage: "Series A"
+    date: "2022"
+    amount_m: 25
+    lead_investors: ["Undisclosed"]
+    source: "https://www.crunchbase.com/organization/rain-ai"
+  - stage: "Subsequent rounds"
+    date: "2022-2024"
+    lead_investors: ["Sam Altman (personal)"]
+    source: "https://www.crunchbase.com/organization/rain-ai"
+data_notes: "Total ~$146M across multiple rounds. Individual round amounts mostly undisclosed. Notable investor: Sam Altman (personal, >$1M)."
 ---
 
 # Rain AI

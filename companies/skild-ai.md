@@ -2,7 +2,6 @@
 name: Skild AI
 status: active
 founded: 2023
-hq: Pittsburgh, PA
 website: https://www.skild.ai
 sector:
 - foundation models
@@ -148,6 +147,7 @@ twitter: '@SkildAI'
 linkedin: https://www.linkedin.com/company/skildai
 crunchbase: https://www.crunchbase.com/organization/skild-ai
 crunchbase_verified: true
+headquarters: Pittsburgh, PA
 ---
 
 # Skild AI

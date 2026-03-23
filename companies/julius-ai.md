@@ -11,7 +11,6 @@ funding_rounds:
   lead_investors:
   - Bessemer Venture Partners
   source: https://techcrunch.com/2025/07/28/ai-data-analyst-startup-julius-nabs-10m-seed-round/
-total_funding: 10
 last_updated: 2026-03-21
 confidence: medium
 founders:
@@ -26,6 +25,7 @@ linkedin: https://www.linkedin.com/company/julius-ai
 headquarters: San Francisco, CA
 crunchbase: https://www.crunchbase.com/organization/julius-ai
 crunchbase_verified: true
+total_raised_m: 10.0
 ---
 
 # Julius AI

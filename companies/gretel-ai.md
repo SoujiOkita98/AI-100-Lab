@@ -11,7 +11,6 @@ funding_rounds:
   amount_m: 50
   lead_investors:
   - Greylock
-total_funding: 67
 last_updated: 2026-03-21
 confidence: medium
 data_notes: 'Needs verification: founders, source_urls, headquarters. Profile may be incomplete.'
@@ -21,6 +20,20 @@ headquarters: San Diego, CA
 crunchbase: https://www.crunchbase.com/organization/gretel-ai
 crunchbase_verified: true
 twitter: '@gretel_ai'
+total_raised_m: 67.0
+founders:
+- name: Ali Golshan
+  role: CEO
+  background: Former CTO of StackRox (acquired by Red Hat) and Cyphort (acquired by Juniper). Started in US intelligence community.
+  origin: Iranian-American
+- name: Alex Watson
+  role: CPO
+  background: US Dept of Defense, AWS. Co-founded Harvest AI (acquired by AWS).
+  origin: American
+- name: John Myers
+  role: CTO
+  background: Co-founded Efflux Systems (acquired by NETSCOUT).
+  origin: American
 ---
 
 # Gretel AI

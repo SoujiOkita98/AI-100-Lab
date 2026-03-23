@@ -3,6 +3,15 @@ name: Enflame Technology
 legal_entity: Enflame Technology (Shanghai Suiyuan Intelligent Technology Co., Ltd. / 上海燧原智能科技有限公司)
 founded: 2018
 headquarters: Shanghai, China
+founders:
+  - name: "Zhao Lidong"
+    role: "CEO"
+    background: "Co-founded Enflame Technology in 2018; leads AI chip development for cloud training and inference"
+    origin: "Chinese"
+  - name: "Zhang Yalin"
+    role: "Co-Founder"
+    background: "Co-founded Enflame Technology in 2018"
+    origin: "Chinese"
 co_founders:
 - Zhao Lidong (CEO)
 - Zhang Yalin

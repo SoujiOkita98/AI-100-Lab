@@ -12,7 +12,11 @@ funding_rounds:
   lead_investors:
   - Xpeng (Rockets Capital)
   - JD.com
-total_funding: 139
+founders:
+  - name: "Zhao Tongyang"
+    role: "Founder & CEO"
+    background: "8+ years in robotics. Started IoT business in 2012, invested in bipedal robots in 2016. Co-founded Shenzhen Pengxing Intelligent Research with XPeng Motors in 2018."
+    origin: "Chinese"
 last_updated: 2026-03-21
 confidence: medium
 data_notes: 'Needs verification: website, founders, source_urls. Profile may be incomplete.'
@@ -21,6 +25,7 @@ website_verified: true
 crunchbase: https://www.crunchbase.com/organization/engine-ai
 crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/engineai-robotics
+total_raised_m: 139.0
 ---
 
 # EngineAI

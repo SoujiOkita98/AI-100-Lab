@@ -21,7 +21,6 @@ funding_rounds:
   lead_investors:
   - Plural
   - Seedcamp
-total_funding: 8.5
 last_updated: 2026-03-21
 confidence: medium
 data_notes: 'Needs verification: website, source_urls. Profile may be incomplete.'
@@ -29,6 +28,7 @@ website: https://sunriserobotics.co
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/sunrise-robotics
 crunchbase_verified: true
+total_raised_m: 8.5
 ---
 
 # Sunrise Robotics

@@ -19,7 +19,6 @@ funding_rounds:
   amount_m: 4.2
   lead_investors:
   - Khosla Ventures
-total_funding: 4.2
 last_updated: 2026-03-21
 confidence: medium
 data_notes: 'Needs verification: website, source_urls. Profile may be incomplete.'
@@ -27,6 +26,7 @@ website: https://tortus.ai
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/tortus
 crunchbase_verified: true
+total_raised_m: 4.2
 ---
 
 # TORTUS

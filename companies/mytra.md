@@ -10,7 +10,6 @@ funding_rounds:
   amount_m: 120
   lead_investors:
   - Avenir Growth Capital
-total_funding: 120
 last_updated: 2026-03-21
 confidence: medium
 data_notes: 'Needs verification: website, founders, source_urls, headquarters. Profile may be incomplete.'
@@ -19,6 +18,16 @@ website_verified: true
 headquarters: Brisbane, CA
 crunchbase: https://www.crunchbase.com/organization/mytra
 crunchbase_verified: true
+total_raised_m: 120.0
+founders:
+  - name: "Chris Walti"
+    role: "Co-Founder & CEO"
+    background: "Led Optimus Humanoid Bot team, robotics and warehouse logistics at Tesla; 7+ years at Tesla"
+    origin: "American"
+  - name: "Ahmad Baitalmal"
+    role: "Co-Founder & CTO"
+    background: "Former Director at Rivian; led factory software at Tesla and Rivian"
+    origin: "Middle Eastern-American"
 ---
 
 # Mytra
