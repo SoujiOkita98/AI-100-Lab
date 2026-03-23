@@ -90,6 +90,7 @@ confidence: Moderate — leadership transition and fundraise status post-mid-202
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/sanctuary-ai
 crunchbase_verified: false
+linkedin: https://www.linkedin.com/company/sanctuaryai
 ---
 
 # Sanctuary AI

@@ -39,6 +39,7 @@ one_liner: Tripo AI is an AI-powered platform for generating high-quality 3D mod
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/tripo-ai
 crunchbase_verified: false
+linkedin: https://www.linkedin.com/company/tripoai
 ---
 
 # Tripo AI

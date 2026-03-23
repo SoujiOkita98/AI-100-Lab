@@ -25,6 +25,7 @@ website: https://www.solda.ai
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/solda-ai
 crunchbase_verified: false
+linkedin: https://www.linkedin.com/company/solda-ai
 ---
 
 # Solda.AI

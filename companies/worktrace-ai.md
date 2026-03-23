@@ -31,6 +31,7 @@ one_liner: Worktrace AI is an AI workflow automation startup founded by former O
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/worktrace-ai
 crunchbase_verified: false
+linkedin: https://www.linkedin.com/company/worktrace-ai
 ---
 
 # Worktrace AI

@@ -17,6 +17,7 @@ last_updated: 2026-03-21
 confidence: medium
 crunchbase: https://www.crunchbase.com/organization/multifactor
 crunchbase_verified: false
+linkedin: https://www.linkedin.com/company/multifactorcom
 ---
 
 # Multifactor

@@ -34,6 +34,7 @@ one_liner: Vultr is a cloud infrastructure provider that has pivoted aggressivel
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/vultr
 crunchbase_verified: false
+linkedin: https://www.linkedin.com/company/vultr
 ---
 
 # Vultr

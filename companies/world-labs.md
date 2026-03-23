@@ -108,6 +108,7 @@ confidence: medium-high
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/world-labs
 crunchbase_verified: false
+linkedin: https://www.linkedin.com/company/world-labs
 ---
 
 # World Labs

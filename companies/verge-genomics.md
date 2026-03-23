@@ -46,6 +46,7 @@ one_liner: Verge Genomics is a clinical-stage AI drug discovery company focused 
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/verge-genomics
 crunchbase_verified: false
+linkedin: https://www.linkedin.com/company/verge-genomics
 ---
 
 # Verge Genomics

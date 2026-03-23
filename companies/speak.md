@@ -45,6 +45,7 @@ one_liner: Speak is an AI-powered language learning platform that uses speech re
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/speak
 crunchbase_verified: false
+linkedin: https://www.linkedin.com/company/usespeak
 ---
 
 # Speak -- AI Language Learning

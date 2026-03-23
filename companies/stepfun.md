@@ -33,6 +33,7 @@ website_verified: true
 total_funding: 1200
 crunchbase: https://www.crunchbase.com/organization/stepfun
 crunchbase_verified: false
+linkedin: https://www.linkedin.com/company/stepfun-ai
 ---
 
 # StepFun (阶跃星辰)

@@ -51,6 +51,7 @@ one_liner: Udio is a generative AI platform that produces full songs -- vocals, 
   text prompts
 crunchbase: https://www.crunchbase.com/organization/udio
 crunchbase_verified: false
+linkedin: https://www.linkedin.com/company/udiomusic
 ---
 
 # Udio -- AI Music Generation

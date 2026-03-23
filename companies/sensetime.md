@@ -86,6 +86,7 @@ one_liner: SenseTime is one of China's original "Four AI Dragons" (alongside Meg
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/sensetime
 crunchbase_verified: false
+linkedin: https://www.linkedin.com/company/sensetime-group-limited
 ---
 
 # SenseTime

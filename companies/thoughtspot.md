@@ -86,6 +86,7 @@ funding_rounds:
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/thoughtspot
 crunchbase_verified: false
+linkedin: https://www.linkedin.com/company/thoughtspot
 ---
 
 # ThoughtSpot

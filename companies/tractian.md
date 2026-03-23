@@ -51,6 +51,7 @@ one_liner: Tractian is an industrial AI company that provides integrated hardwar
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/tractian
 crunchbase_verified: false
+linkedin: https://www.linkedin.com/company/get-tractian
 ---
 
 # Tractian -- Company Profile

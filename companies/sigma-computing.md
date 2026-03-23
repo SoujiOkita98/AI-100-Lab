@@ -73,6 +73,7 @@ funding_rounds:
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/sigma-computing
 crunchbase_verified: false
+linkedin: https://www.linkedin.com/company/sigmacomputing
 ---
 
 # Sigma Computing

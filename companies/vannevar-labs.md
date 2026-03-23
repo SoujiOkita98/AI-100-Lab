@@ -80,6 +80,7 @@ confidence: high
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/vannevar-labs
 crunchbase_verified: false
+linkedin: https://www.linkedin.com/company/vannevar-labs
 ---
 
 # Vannevar Labs

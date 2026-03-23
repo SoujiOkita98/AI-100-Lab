@@ -18,6 +18,7 @@ website: https://verticalcompute.com
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/vertical-compute
 crunchbase_verified: false
+linkedin: https://www.linkedin.com/company/verticalcompute
 ---
 
 # Vertical Compute

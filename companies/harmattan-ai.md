@@ -20,6 +20,7 @@ last_updated: 2026-03-21
 confidence: medium
 crunchbase: https://www.crunchbase.com/organization/harmattan-ai
 crunchbase_verified: false
+linkedin: https://www.linkedin.com/company/harmattan-ai
 ---
 
 # Harmattan AI

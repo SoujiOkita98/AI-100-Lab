@@ -44,6 +44,7 @@ one_liner: Enterprise AI platform for brand-consistent, multi-channel marketing 
 data_notes: 'Needs verification: website, founders. Profile may be incomplete.'
 crunchbase: https://www.crunchbase.com/organization/typeface
 crunchbase_verified: false
+linkedin: https://www.linkedin.com/company/typefaceai
 ---
 
 # Typeface

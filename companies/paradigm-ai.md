@@ -23,6 +23,7 @@ website: https://www.paradigmai.com
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/paradigm-ai
 crunchbase_verified: false
+linkedin: https://www.linkedin.com/company/tryparadigm
 ---
 
 # Paradigm (AI Spreadsheet)

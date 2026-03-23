@@ -29,6 +29,7 @@ one_liner: Vercel is a frontend cloud platform that enables developers to build,
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/vercel
 crunchbase_verified: false
+linkedin: https://www.linkedin.com/company/vercel
 ---
 
 # Vercel

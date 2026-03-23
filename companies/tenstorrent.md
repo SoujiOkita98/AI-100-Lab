@@ -14,6 +14,7 @@ one_liner: Tenstorrent is a Canadian AI chip and RISC-V processor company led by
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/tenstorrent
 crunchbase_verified: false
+linkedin: https://www.linkedin.com/company/tenstorrent-inc.
 ---
 
 # Tenstorrent

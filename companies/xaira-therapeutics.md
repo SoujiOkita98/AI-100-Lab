@@ -25,6 +25,7 @@ one_liner: Xaira Therapeutics is an AI-powered drug discovery company that launc
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/xaira-therapeutics
 crunchbase_verified: false
+linkedin: https://www.linkedin.com/company/xaira-therapeutics
 ---
 
 # Xaira Therapeutics
