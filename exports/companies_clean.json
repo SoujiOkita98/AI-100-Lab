@@ -30753,6 +30753,68 @@
     "top_investors": []
   },
   {
+    "slug": "plain",
+    "name": "Plain",
+    "status": "Private",
+    "founded_year": "2020",
+    "hq": "London, UK",
+    "website": "https://www.plain.com",
+    "sector": "AI / Customer Support / B2B SaaS",
+    "one_liner": "API-first collaborative B2B customer support platform that aggregates cross-channel customer communications into a single real-time platform, built by ex-Deliveroo leaders",
+    "total_raised_m": 21.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "high",
+    "last_updated": "2026-03-23",
+    "founders": [
+      {
+        "company_slug": "plain",
+        "name": "Simon Rohrbach",
+        "role": "Co-Founder",
+        "background": "Former Deliveroo. Led Deliveroo's 40-person content, research, and design team from early days through scale-up.",
+        "origin": "",
+        "prior": ""
+      },
+      {
+        "company_slug": "plain",
+        "name": "Matt Vagni",
+        "role": "Co-Founder",
+        "background": "Former Deliveroo. Worked on design systems and internal tooling at Deliveroo from the early days.",
+        "origin": "",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "plain",
+        "stage": "Seed",
+        "date": "2022-11",
+        "amount_m": 6.0,
+        "valuation_m": null,
+        "lead_investors": "Index Ventures; Connect Ventures",
+        "other_investors": "",
+        "source": "https://www.indexventures.com/perspectives/plain-raises-6-million-to-build-api-first-platform-that-will-transform-customer-support-for-businesses/",
+        "notes": ""
+      },
+      {
+        "company_slug": "plain",
+        "stage": "Series A",
+        "date": "2025-02",
+        "amount_m": 15.0,
+        "valuation_m": null,
+        "lead_investors": "Battery Ventures",
+        "other_investors": "",
+        "source": "https://www.plain.com/blog/we-ve-raised-a-15m-series-a",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
     "slug": "poly-ai-files",
     "name": "Poly",
     "status": "active",
@@ -36607,6 +36669,76 @@
         "lead_investors": "First Round Capital",
         "other_investors": "",
         "source": "",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
+    "slug": "solve-intelligence",
+    "name": "Solve Intelligence",
+    "status": "Private",
+    "founded_year": "2023",
+    "hq": "San Francisco, CA",
+    "website": "https://www.solveintelligence.com",
+    "sector": "AI / Legal Tech / Patent Automation",
+    "one_liner": "AI platform specialized for patents, used by 400+ IP teams across six continents for patent drafting, prosecution, harvesting, office actions, and global filings coordination",
+    "total_raised_m": 55.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "high",
+    "last_updated": "2026-03-23",
+    "founders": [
+      {
+        "company_slug": "solve-intelligence",
+        "name": "Chris Parsonson",
+        "role": "Co-Founder & CEO",
+        "background": "PhD holder. Co-founded Solve Intelligence with his brother Angus. Y Combinator alumni.",
+        "origin": "",
+        "prior": ""
+      },
+      {
+        "company_slug": "solve-intelligence",
+        "name": "Angus Parsonson",
+        "role": "Co-Founder & CTO",
+        "background": "Technical co-founder. Brother of Chris. Y Combinator alumni.",
+        "origin": "",
+        "prior": ""
+      },
+      {
+        "company_slug": "solve-intelligence",
+        "name": "Sanj Ahilan",
+        "role": "Co-Founder & Chief Research Officer",
+        "background": "PhD holder. Leads research and development at Solve Intelligence.",
+        "origin": "",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "solve-intelligence",
+        "stage": "Series A",
+        "date": "2025-04",
+        "amount_m": 12.0,
+        "valuation_m": null,
+        "lead_investors": "20VC",
+        "other_investors": "",
+        "source": "https://techcrunch.com/2025/04/09/microsoft-backs-solve-intelligence-in-12m-series-a-funding/",
+        "notes": ""
+      },
+      {
+        "company_slug": "solve-intelligence",
+        "stage": "Series B",
+        "date": "2025-12",
+        "amount_m": 40.0,
+        "valuation_m": null,
+        "lead_investors": "Visionaries; 20VC",
+        "other_investors": "",
+        "source": "https://www.solveintelligence.com/blog/post/solve-intelligence-raises-40m-series-b-to-build-ai-for-patents-and-launches-charts",
         "notes": ""
       }
     ],
