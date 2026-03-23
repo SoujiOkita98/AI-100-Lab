@@ -3364,57 +3364,6 @@
     "top_investors": []
   },
   {
-    "slug": "axiom-math",
-    "name": "Axiom Math",
-    "status": "active",
-    "founded_year": "2025",
-    "hq": "San Francisco, CA",
-    "website": "https://axiommath.ai",
-    "sector": "AI Safety / Formal Verification",
-    "one_liner": "Formal verification platform using advanced mathematics to prove AI-generated code is correct.",
-    "total_raised_m": 200.0,
-    "latest_valuation_m": 1600.0,
-    "employees": null,
-    "revenue_signals": null,
-    "business_model": null,
-    "key_customers": null,
-    "team_china_profile": null,
-    "confidence": "medium",
-    "last_updated": "2026-03-21",
-    "founders": [
-      {
-        "company_slug": "axiom-math",
-        "name": "Carina Hong",
-        "role": "CEO",
-        "background": "25-year-old Rhodes Scholar, MIT grad, Morgan Prize winner",
-        "origin": "Chinese-American",
-        "prior": ""
-      },
-      {
-        "company_slug": "axiom-math",
-        "name": "Shubho Sengupta",
-        "role": "CTO",
-        "background": "Led Meta AI supercluster, CrypTen secure ML",
-        "origin": "Indian-American",
-        "prior": ""
-      }
-    ],
-    "funding_rounds": [
-      {
-        "company_slug": "axiom-math",
-        "stage": "Series A",
-        "date": "2026-03",
-        "amount_m": 200.0,
-        "valuation_m": 1600.0,
-        "lead_investors": "Menlo Ventures",
-        "other_investors": "",
-        "source": "https://menlovc.com/perspective/ai-will-write-all-the-code-mathematics-will-prove-it-works/",
-        "notes": ""
-      }
-    ],
-    "top_investors": []
-  },
-  {
     "slug": "aydi",
     "name": "Aydi",
     "status": "active",
@@ -9560,49 +9509,6 @@
         "other_investors": "NVentures (NVIDIA); BHP Ventures; Canaan Partners; Emerson Collective; Intel Capital; Khosla Ventures",
         "source": "https://www.cnbc.com/2025/08/20/gates-nvidia-fieldai-robotics.html",
         "notes": "Brought total raised to over $405M. Backed by Bezos, Gates, and NVIDIA. Valuation close to $2 billion.\n"
-      }
-    ],
-    "top_investors": []
-  },
-  {
-    "slug": "fieldai",
-    "name": "FieldAI",
-    "status": "active",
-    "founded_year": "2023",
-    "hq": "Irvine, CA",
-    "website": "https://www.fieldai.com",
-    "sector": "AI Robotics / Universal Robot Brains",
-    "one_liner": "Universal robot brains \u2014 embodied AI software working across all robot types.",
-    "total_raised_m": 405.0,
-    "latest_valuation_m": null,
-    "employees": null,
-    "revenue_signals": null,
-    "business_model": null,
-    "key_customers": null,
-    "team_china_profile": null,
-    "confidence": "medium",
-    "last_updated": "2026-03-21",
-    "founders": [
-      {
-        "company_slug": "fieldai",
-        "name": "Ali Agha",
-        "role": "CEO",
-        "background": "PhD Robotics Texas A&M. 7 years at NASA JPL. Led DARPA Subterranean Challenge team.",
-        "origin": "Iranian-American",
-        "prior": ""
-      }
-    ],
-    "funding_rounds": [
-      {
-        "company_slug": "fieldai",
-        "stage": "Seed",
-        "date": "2025-08",
-        "amount_m": 405.0,
-        "valuation_m": null,
-        "lead_investors": "Bezos Expeditions; Prysm; Temasek; Khosla; NVentures",
-        "other_investors": "",
-        "source": "",
-        "notes": ""
       }
     ],
     "top_investors": []
@@ -22260,76 +22166,6 @@
     "top_investors": []
   },
   {
-    "slug": "safe-superintelligence",
-    "name": "Safe Superintelligence",
-    "status": "active",
-    "founded_year": "2024",
-    "hq": "Palo Alto, CA",
-    "website": "https://ssi.inc",
-    "sector": "AI Safety / AGI Research",
-    "one_liner": "Pure-play AI safety lab focused on building safe superintelligence, founded by Ilya Sutskever.",
-    "total_raised_m": 3000.0,
-    "latest_valuation_m": 32000.0,
-    "employees": null,
-    "revenue_signals": null,
-    "business_model": null,
-    "key_customers": null,
-    "team_china_profile": null,
-    "confidence": "medium",
-    "last_updated": "2026-03-21",
-    "founders": [
-      {
-        "company_slug": "safe-superintelligence",
-        "name": "Ilya Sutskever",
-        "role": "CEO",
-        "background": "Former OpenAI co-founder and chief scientist",
-        "origin": "Russian-Israeli-Canadian",
-        "prior": ""
-      },
-      {
-        "company_slug": "safe-superintelligence",
-        "name": "Daniel Gross",
-        "role": "Co-founder",
-        "background": "Former head of Apple AI",
-        "origin": "Israeli-American",
-        "prior": ""
-      },
-      {
-        "company_slug": "safe-superintelligence",
-        "name": "Daniel Levy",
-        "role": "Co-founder",
-        "background": "AI researcher",
-        "origin": "American",
-        "prior": ""
-      }
-    ],
-    "funding_rounds": [
-      {
-        "company_slug": "safe-superintelligence",
-        "stage": "Seed",
-        "date": "2024-09",
-        "amount_m": 1000.0,
-        "valuation_m": 5000.0,
-        "lead_investors": "Andreessen Horowitz; Sequoia Capital; DST Global; SV Angel",
-        "other_investors": "",
-        "source": "https://techcrunch.com/2024/09/04/safe-superintelligence-raises-1b/",
-        "notes": ""
-      },
-      {
-        "company_slug": "safe-superintelligence",
-        "stage": "Series A",
-        "date": "2025-04",
-        "amount_m": 2000.0,
-        "valuation_m": 32000.0,
-        "lead_investors": "Greenoaks Capital; Andreessen Horowitz; Lightspeed; DST Global; Alphabet; NVIDIA",
-        "other_investors": "",
-        "source": "https://techcrunch.com/2025/04/12/openai-co-founder-ilya-sutskevers-safe-superintelligence-reportedly-valued-at-32b/",
-        "notes": ""
-      }
-    ],
-    "top_investors": []
-  },
-  {
     "slug": "sakana-ai",
     "name": "Sakana AI",
     "status": "Series B",
@@ -23746,40 +23582,6 @@
         "lead_investors": "Spark Capital; Avenir Growth Capital",
         "other_investors": "Snowflake Ventures; Sutter Hill Ventures; D1 Capital Partners; XN Ventures; Altimeter Capital; NewView Capital",
         "source": "https://siliconangle.com/2024/05/16/business-intelligence-startup-sigma-closes-200m-round-1-5b-valuation/",
-        "notes": ""
-      }
-    ],
-    "top_investors": []
-  },
-  {
-    "slug": "simile-ai",
-    "name": "Simile",
-    "status": "active",
-    "founded_year": "2024",
-    "hq": "Palo Alto, CA",
-    "website": "https://simile.ai",
-    "sector": "AI Simulation / Digital Twins",
-    "one_liner": "AI digital twins of human decision-making \u2014 predicts behavior at scale. Replaces focus groups. Stanford spinout.",
-    "total_raised_m": 100.0,
-    "latest_valuation_m": null,
-    "employees": null,
-    "revenue_signals": null,
-    "business_model": null,
-    "key_customers": null,
-    "team_china_profile": null,
-    "confidence": "medium",
-    "last_updated": "2026-03-21",
-    "founders": [],
-    "funding_rounds": [
-      {
-        "company_slug": "simile-ai",
-        "stage": "Series A",
-        "date": "2026-02",
-        "amount_m": 100.0,
-        "valuation_m": null,
-        "lead_investors": "Index Ventures",
-        "other_investors": "",
-        "source": "",
         "notes": ""
       }
     ],
