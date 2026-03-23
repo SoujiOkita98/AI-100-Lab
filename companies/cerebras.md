@@ -41,9 +41,19 @@ twitter: '@CerebrasSystems'
 crunchbase: https://www.crunchbase.com/organization/cerebras
 crunchbase_verified: true
 latest_valuation_m: 23000
-data_notes: Valuation updated to $23B after Series H (Feb 2026). Previous $8.1B was from Series G (Oct 2025).
+data_notes: Valuation updated to $23B after Series H (Feb 2026). Previous $8.1B was from Series G (Oct 2025). Sum
+  of disclosed rounds is ~$2.8B; total_raised_m of $4.3B includes undisclosed early rounds and secondary transactions.
 total_raised_m: 4300
 funding_rounds:
+- stage: Seed
+  date: 2015-12
+  amount_m: null
+  lead_investors:
+  - Benchmark
+  - Foundation Capital
+  - Eclipse Ventures
+  source: https://www.crunchbase.com/organization/cerebras-systems
+  notes: Exact seed amount undisclosed. Company founded 2015; seed preceded Series A.
 - stage: Series A
   date: 2016-05
   amount_m: 27

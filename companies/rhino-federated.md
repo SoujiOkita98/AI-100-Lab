@@ -7,11 +7,28 @@ sector: AI Infrastructure / Federated Learning
 one_liner: Federated AI for regulated industries — train models across institutions without centralizing data.
 status: active
 funding_rounds:
+- stage: Seed
+  date: 2021
+  amount_m: 5
+  lead_investors:
+  - LionBird
+  - Fusion Fund
+  source: https://www.crunchbase.com/organization/rhino-health
+  notes: $5M seed round for AI-based healthcare solutions.
+- stage: Seed II
+  date: 2022-04
+  amount_m: null
+  lead_investors:
+  - Undisclosed
+  source: https://www.crunchbase.com/organization/rhino-health
+  notes: Valuation $36.7M. Amount undisclosed.
 - stage: Series A
   date: 2025-05
   amount_m: 15
   lead_investors:
   - AlleyCorp
+  source: https://www.rhinofcp.com/blog/series-a
+  notes: All existing institutional investors participated. Total funding over $30M.
 last_updated: 2026-03-21
 confidence: medium
 data_notes: 'Needs verification: founders, source_urls. Profile may be incomplete.'

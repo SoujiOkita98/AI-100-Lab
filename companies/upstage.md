@@ -8,10 +8,27 @@ one_liner: Enterprise LLMs (Solar model), document AI, and agentic workflows. Am
   GenAI IPO.
 status: active
 funding_rounds:
+- stage: Series A
+  date: 2021
+  amount_m: 23
+  lead_investors:
+  - Undisclosed
+  source: https://en.wikipedia.org/wiki/Upstage_(company)
+  notes: 31.6 billion won (~$23M).
+- stage: Series B
+  date: 2024-04
+  amount_m: 72
+  lead_investors:
+  - SK Networks
+  - KT
+  - Korea Development Bank
+  source: https://www.upstage.ai/news/upstage-series-b-funding
+  notes: Most-funded South Korean AI software company at the time.
 - stage: Series B Bridge
   date: 2025-08
   amount_m: 45
   lead_investors:
+  - Korea Development Bank (KDB)
   - Amazon
   - AMD
 founders:

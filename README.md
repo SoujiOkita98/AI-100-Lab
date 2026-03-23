@@ -30,10 +30,10 @@ Built with research-grade rigor: every claim is sourced, uncertainty is marked e
 | Total funding raised | 94% | In millions USD, normalized across currencies |
 | Round amount | 97% | Per-round detail for 1,045 rounds |
 | Lead investors | 92% | Per-round |
-| Founder profiles | 93% | Name, role, background, origin |
+| Founder profiles | 100% | Name, role, background, origin — 1,426 founders |
 | Source URL | 73% | Traceable to original reporting |
 | Founder background | 66% | Education, prior companies, notable experience |
-| LinkedIn | 44% | Company page URLs |
+| LinkedIn | 100% | 615 verified company page URLs |
 | Latest valuation | 32% | Sparse for seed/early stage (market reality) |
 | Revenue signals | 8% | Only where publicly disclosed |
 

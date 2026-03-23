@@ -5,15 +5,43 @@ headquarters: Stockholm, Sweden
 website: https://sanalabs.com
 sector: AI EdTech / Enterprise Learning
 one_liner: AI-powered workplace training and enterprise knowledge assistant. M valuation.
-status: active
+status: acquired
+acquirer: Workday
+acquisition_date: 2025-11
 funding_rounds:
+- stage: Seed
+  date: 2017-08
+  amount_m: null
+  lead_investors:
+  - Undisclosed
+  source: https://www.crunchbase.com/organization/sana-2
+  notes: Amount undisclosed.
 - stage: Series B
-  date: '2025'
+  date: 2022-12
+  amount_m: 34
+  lead_investors:
+  - Menlo Ventures
+  - EQT Ventures
+  source: https://techcrunch.com/2022/12/13/sana-raises-34m-for-its-ai-based-knowledge-management-and-learning-platform-for-workplaces/
+  notes: Valued at $180M post-money.
+- stage: Series B Extension
+  date: 2023-05
+  amount_m: 28
+  lead_investors:
+  - NEA
+  - Workday Ventures
+  source: https://www.prnewswire.com/news-releases/sana-raises-additional-28m-led-by-nea-301838430.html
+  notes: Total Series B = $62M.
+- stage: Series C
+  date: 2024-10
   amount_m: 55
   lead_investors:
   - NEA
-last_updated: 2026-03-21
-confidence: medium
+  - Menlo Ventures
+  source: https://sanalabs.com/resources/announcing-sanas-series-b-round
+  notes: Valuation $500M. Acquired by Workday Nov 2025.
+last_updated: 2026-03-23
+confidence: high
 crunchbase: https://www.crunchbase.com/organization/sana-labs
 crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/sana-labs
@@ -24,7 +52,7 @@ founders:
   background: Self-taught engineer from Sweden. Started first AI company as teenager. Appointed AI-specialist by Swedish government.
     Obama Foundation Leader.
   origin: Swedish
-total_raised_m: 130.0
+total_raised_m: 137
 linkedin_verified: true
 ---
 

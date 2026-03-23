@@ -7,12 +7,34 @@ sector: AI Healthcare / Medical Scribe
 one_liner: AI medical scribe and care partner. 70M+ patient visits in 116 countries, 18M+ hours returned to clinicians.
 status: active
 funding_rounds:
+- stage: Seed
+  date: 2021-08
+  amount_m: 5
+  lead_investors:
+  - Blackbird Ventures
+  source: https://sacra.com/c/heidi-health/
+  notes: Originally launched as Oscer.
+- stage: Series A
+  date: 2023-10
+  amount_m: 10
+  lead_investors:
+  - Undisclosed
+  source: https://sacra.com/c/heidi-health/
+- stage: Series A Extension
+  date: 2025-03
+  amount_m: 16.6
+  lead_investors:
+  - Headline
+  source: https://sacra.com/c/heidi-health/
+  notes: A$27M (~$16.6M USD) top-up to original Series A.
 - stage: Series B
   date: 2025-10
   amount_m: 65
   valuation_m: 465
   lead_investors:
   - Point72 Private Investments
+  source: https://techcrunch.com/2025/10/05/heidi-health-raises-65m-series-b-led-by-steve-cohens-point72/
+  notes: Blackbird, Headline, Latitude (Phoenix Court growth fund) also participated.
 latest_valuation: 465
 founders:
 - name: Thomas Kelly

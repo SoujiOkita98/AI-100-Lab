@@ -7,12 +7,21 @@ sector: AI Data Analytics
 one_liner: AI-native business analytics answering questions from structured and unstructured data. Founded by Rubrik co-founder.
 status: active
 funding_rounds:
+- stage: Seed
+  date: 2025-05
+  amount_m: 23
+  lead_investors:
+  - Coatue
+  source: https://www.wisdom.ai/blog/announcing-our-series-a-funding
+  notes: $23M seed led by Coatue. Also Latitude Capital, Madrona, GTM Capital, Menlo Ventures, U First Capital.
 - stage: Series A
   date: 2025-11
   amount_m: 50
   lead_investors:
   - Kleiner Perkins
   - Nvidia NVentures
+  source: https://www.wisdom.ai/blog/announcing-our-series-a-funding
+  notes: Six months after seed. Total $73M.
 founders:
 - name: Soham Mazumdar
   role: Co-Founder & CEO

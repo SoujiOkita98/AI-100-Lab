@@ -13,6 +13,26 @@ logo: null
 total_raised_m: 277
 latest_valuation_m: null
 funding_rounds:
+- stage: Series B
+  date: 2018-06
+  amount_m: null
+  lead_investors:
+  - Undisclosed
+  source: https://www.crunchbase.com/organization/oxbotica-ltd
+  notes: First disclosed round. Amount undisclosed.
+- stage: Series B (extension)
+  date: 2021-01
+  amount_m: 47
+  lead_investors:
+  - Undisclosed
+  source: https://en.wikipedia.org/wiki/Oxa
+- stage: Series C
+  date: 2023-10
+  amount_m: null
+  lead_investors:
+  - Undisclosed
+  source: https://www.crunchbase.com/organization/oxbotica-ltd
+  notes: Amount undisclosed.
 - stage: Series D (first close)
   date: 2026-03
   amount_m: 103

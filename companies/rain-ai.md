@@ -30,24 +30,40 @@ founders:
   origin: Hispanic-American
 total_raised_m: 146
 funding_rounds:
-- stage: YC + Early rounds
-  date: 2018-2021
+- stage: YC Batch
+  date: 2018
+  amount_m: null
   lead_investors:
   - Y Combinator
   source: https://www.crunchbase.com/organization/rain-ai
+- stage: Seed
+  date: 2018
+  amount_m: 5
+  lead_investors:
+  - Sam Altman (personal)
+  source: https://www.design-reuse.com/news/51363/rain-neuromorphics-funding.html
+  notes: $5M seed led by Sam Altman.
 - stage: Series A
-  date: '2022'
+  date: 2022-02
   amount_m: 25
+  lead_investors:
+  - Prosperity 7 Ventures
+  source: https://www.design-reuse.com/news/51363/rain-neuromorphics-funding.html
+  notes: Buckley Ventures, Gaingels, Loup Ventures, Metaplanet, Pioneer Fund. Angel investors include Sam Altman.
+- stage: Series A (extension)
+  date: 2024-05
+  amount_m: 8.1
+  lead_investors:
+  - Gaingels
+  source: https://www.crunchbase.com/organization/rain-ai
+- stage: Bridge
+  date: 2025-05
+  amount_m: 3
   lead_investors:
   - Undisclosed
   source: https://www.crunchbase.com/organization/rain-ai
-- stage: Subsequent rounds
-  date: 2022-2024
-  lead_investors:
-  - Sam Altman (personal)
-  source: https://www.crunchbase.com/organization/rain-ai
-data_notes: 'Total ~$146M across multiple rounds. Individual round amounts mostly undisclosed. Notable investor: Sam Altman
-  (personal, >$1M).'
+data_notes: Total ~$146M across 13 rounds per Tracxn. Most individual round amounts undisclosed. Notable investor
+  Sam Altman (personal, >$1M). Remaining ~$105M across undisclosed rounds.
 linkedin: https://www.linkedin.com/company/rain-neuromorphics/
 name: Rain AI
 linkedin_verified: true

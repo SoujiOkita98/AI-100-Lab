@@ -5,11 +5,30 @@ sector: AI Finance / FP&A
 one_liner: AI financial planning and analysis platform. Spreadsheet-native for finance teams.
 status: active
 funding_rounds:
+- stage: Seed
+  date: 2020
+  amount_m: null
+  lead_investors:
+  - Khosla Ventures
+  - Picus Capital
+  - Y Combinator
+  source: https://www.getaleph.com/blog/series-b
+  notes: Amount undisclosed. Part of combined $16.7M seed+A.
+- stage: Series A
+  date: 2022
+  amount_m: null
+  lead_investors:
+  - Bain Capital Ventures
+  - Khosla Ventures
+  source: https://www.getaleph.com/blog/series-b
+  notes: Amount undisclosed. Combined seed+A = $16.7M. Picus Capital also participated.
 - stage: Series B
-  date: '2024'
+  date: 2025-09
   amount_m: 29
   lead_investors:
   - Khosla Ventures
+  source: https://www.getaleph.com/blog/series-b
+  notes: Bain Capital Ventures, Picus Capital, Y Combinator continued. Total funding $46M.
 founders:
 - name: Albert Gozzi
   role: Co-Founder & CEO

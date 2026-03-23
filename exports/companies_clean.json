@@ -769,6 +769,68 @@
     "top_investors": []
   },
   {
+    "slug": "ada-support",
+    "name": "Ada",
+    "status": "active",
+    "founded_year": "2016",
+    "hq": "Toronto, Canada",
+    "website": "https://www.ada.cx",
+    "sector": "customer-service-ai; conversational-ai; enterprise-ai",
+    "one_liner": "Canadian AI-powered customer service automation platform replacing traditional chatbots with intelligent AI agents.",
+    "total_raised_m": 200.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-23",
+    "founders": [
+      {
+        "company_slug": "ada-support",
+        "name": "Mike Murchison",
+        "role": "CEO",
+        "background": "Serial entrepreneur; built Ada from Toronto into a global enterprise AI platform",
+        "origin": "Canadian",
+        "prior": ""
+      },
+      {
+        "company_slug": "ada-support",
+        "name": "David Hariri",
+        "role": "Co-founder",
+        "background": "Co-founded Ada; product and technology leader",
+        "origin": "Canadian",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "ada-support",
+        "stage": "Series C",
+        "date": "2021-05",
+        "amount_m": 130.0,
+        "valuation_m": null,
+        "lead_investors": "Spark Capital",
+        "other_investors": "",
+        "source": "https://www.crunchbase.com/organization/ada-support",
+        "notes": ""
+      },
+      {
+        "company_slug": "ada-support",
+        "stage": "Government Grant",
+        "date": "2025-03",
+        "amount_m": 1.8,
+        "valuation_m": null,
+        "lead_investors": "Government of Canada",
+        "other_investors": "",
+        "source": "https://www.crunchbase.com/organization/ada-support",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
     "slug": "adaptive-ml",
     "name": "Adaptive ML",
     "status": "active",
@@ -1410,15 +1472,15 @@
     "website": "https://www.aidoc.com",
     "sector": "AI Healthcare / Radiology",
     "one_liner": "Clinical AI for radiology and hospital decision support. CARE foundation model. 900+ hospitals deployed.",
-    "total_raised_m": 250.0,
+    "total_raised_m": 384.0,
     "latest_valuation_m": null,
     "employees": null,
     "revenue_signals": null,
     "business_model": null,
     "key_customers": null,
     "team_china_profile": null,
-    "confidence": "medium",
-    "last_updated": "2026-03-21",
+    "confidence": "high",
+    "last_updated": "2026-03-23",
     "founders": [
       {
         "company_slug": "aidoc",
@@ -1440,14 +1502,58 @@
     "funding_rounds": [
       {
         "company_slug": "aidoc",
+        "stage": "Series B",
+        "date": 2019,
+        "amount_m": 27.0,
+        "valuation_m": null,
+        "lead_investors": "Undisclosed",
+        "other_investors": "",
+        "source": "https://www.aidoc.com/about/news/aidoc-announces-funding/",
+        "notes": ""
+      },
+      {
+        "company_slug": "aidoc",
+        "stage": "Series B Extension",
+        "date": 2020,
+        "amount_m": 20.0,
+        "valuation_m": null,
+        "lead_investors": "Undisclosed",
+        "other_investors": "",
+        "source": "https://www.aidoc.com/about/news/aidoc-announces-funding/",
+        "notes": "Brought total to $60M."
+      },
+      {
+        "company_slug": "aidoc",
+        "stage": "Series C",
+        "date": 2021,
+        "amount_m": 66.0,
+        "valuation_m": null,
+        "lead_investors": "Undisclosed",
+        "other_investors": "",
+        "source": "https://tracxn.com/d/companies/aidoc/",
+        "notes": ""
+      },
+      {
+        "company_slug": "aidoc",
         "stage": "Series D",
+        "date": 2022,
+        "amount_m": 110.0,
+        "valuation_m": null,
+        "lead_investors": "Undisclosed",
+        "other_investors": "",
+        "source": "https://www.aidoc.com/about/news/aidoc-110-million-funding/",
+        "notes": ""
+      },
+      {
+        "company_slug": "aidoc",
+        "stage": "Series E",
         "date": "2025-07",
-        "amount_m": 150.0,
+        "amount_m": 110.0,
         "valuation_m": null,
         "lead_investors": "General Catalyst; Square Peg; NVentures",
         "other_investors": "",
-        "source": "",
-        "notes": ""
+        "source": "https://www.fiercehealthcare.com/health-tech/clinical-ai-company-aidoc-lands-150m-backed-general-catalyst-nvidias-venture-arm",
+        "notes": "Round was $150M including $40M revolving credit facility. Equity portion ~$110M."
       }
     ],
     "top_investors": []
@@ -1737,14 +1843,36 @@
     "funding_rounds": [
       {
         "company_slug": "aleph-fpa",
+        "stage": "Seed",
+        "date": 2020,
+        "amount_m": null,
+        "valuation_m": null,
+        "lead_investors": "Khosla Ventures; Picus Capital; Y Combinator",
+        "other_investors": "",
+        "source": "https://www.getaleph.com/blog/series-b",
+        "notes": "Amount undisclosed. Part of combined $16.7M seed+A."
+      },
+      {
+        "company_slug": "aleph-fpa",
+        "stage": "Series A",
+        "date": 2022,
+        "amount_m": null,
+        "valuation_m": null,
+        "lead_investors": "Bain Capital Ventures; Khosla Ventures",
+        "other_investors": "",
+        "source": "https://www.getaleph.com/blog/series-b",
+        "notes": "Amount undisclosed. Combined seed+A = $16.7M. Picus Capital also participated."
+      },
+      {
+        "company_slug": "aleph-fpa",
         "stage": "Series B",
-        "date": "2024",
+        "date": "2025-09",
         "amount_m": 29.0,
         "valuation_m": null,
         "lead_investors": "Khosla Ventures",
         "other_investors": "",
-        "source": "",
-        "notes": ""
+        "source": "https://www.getaleph.com/blog/series-b",
+        "notes": "Bain Capital Ventures, Picus Capital, Y Combinator continued. Total funding $46M."
       }
     ],
     "top_investors": []
@@ -2301,14 +2429,36 @@
     "funding_rounds": [
       {
         "company_slug": "angle-health",
+        "stage": "Seed",
+        "date": 2020,
+        "amount_m": 4.0,
+        "valuation_m": null,
+        "lead_investors": "Blumberg Capital",
+        "other_investors": "",
+        "source": "https://www.anglehealth.com/post/digital-first-health-insurance-provider-angle-health-raises-58-million-to-modernize-access-to-comprehensive-healthcare-benefits",
+        "notes": "Post YC W20."
+      },
+      {
+        "company_slug": "angle-health",
+        "stage": "Series A",
+        "date": "2022-01",
+        "amount_m": 58.0,
+        "valuation_m": null,
+        "lead_investors": "Portage",
+        "other_investors": "",
+        "source": "https://www.anglehealth.com/post/digital-first-health-insurance-provider-angle-health-raises-58-million-to-modernize-access-to-comprehensive-healthcare-benefits",
+        "notes": "PruVen Capital, Wing VC, SixThirty Ventures, Mighty Capital also participated."
+      },
+      {
+        "company_slug": "angle-health",
         "stage": "Series B",
         "date": "2025-12",
         "amount_m": 134.0,
         "valuation_m": null,
         "lead_investors": "Portage",
         "other_investors": "",
-        "source": "",
-        "notes": ""
+        "source": "https://fortune.com/2025/12/03/exclusive-angle-health-raises-134-million-series-b/",
+        "notes": "Oversubscribed. Combination of debt and equity."
       }
     ],
     "top_investors": []
@@ -4260,6 +4410,28 @@
     "funding_rounds": [
       {
         "company_slug": "autonomous-a2z",
+        "stage": "Earlier rounds",
+        "date": "2018-2024",
+        "amount_m": 25.0,
+        "valuation_m": null,
+        "lead_investors": "Various",
+        "other_investors": "",
+        "source": "https://www.digitaltoday.co.kr/en/view/35426/",
+        "notes": "Estimated ~25M across earlier rounds. Exact breakdown not publicly available. Total before Series C was ~$25M."
+      },
+      {
+        "company_slug": "autonomous-a2z",
+        "stage": "Series C",
+        "date": "2024-12",
+        "amount_m": 30.0,
+        "valuation_m": null,
+        "lead_investors": "Nvestor; DS Asset Management; T.S. Investment",
+        "other_investors": "",
+        "source": "https://www.digitaltoday.co.kr/en/view/35426/",
+        "notes": "KRW 30 billion. KB Securities, KB Investment, K & Investment Partners also participated."
+      },
+      {
+        "company_slug": "autonomous-a2z",
         "stage": "Pre-IPO",
         "date": "2026-03",
         "amount_m": 28.0,
@@ -4267,7 +4439,7 @@
         "lead_investors": "DS Investment Partners",
         "other_investors": "",
         "source": "https://www.koreaherald.com/article/10692899",
-        "notes": "40.5 billion won (~$28M). Total funding now 122.5 billion won (~$83M), the largest raised by a self-driving startup in Korea. KB Investment and Hana Securities also participated. Planning Kosdaq IPO in 2026."
+        "notes": "KRW 40.5 billion (~$28M). Total funding now KRW 122.5 billion (~$83M). KB Investment and Hana Securities also participated. Planning Kosdaq IPO in 2026."
       }
     ],
     "top_investors": []
@@ -4331,8 +4503,8 @@
     "business_model": null,
     "key_customers": null,
     "team_china_profile": null,
-    "confidence": "medium",
-    "last_updated": "2026-03-21",
+    "confidence": "high",
+    "last_updated": "2026-03-23",
     "founders": [
       {
         "company_slug": "axelera-ai",
@@ -4354,13 +4526,46 @@
     "funding_rounds": [
       {
         "company_slug": "axelera-ai",
+        "stage": "Seed",
+        "date": 2021,
+        "amount_m": 12.0,
+        "valuation_m": null,
+        "lead_investors": "Bitfury; imec.xpand; Innovation Industries",
+        "other_investors": "",
+        "source": "https://en.wikipedia.org/wiki/Axelera_AI",
+        "notes": ""
+      },
+      {
+        "company_slug": "axelera-ai",
+        "stage": "Series A",
+        "date": "2022-10",
+        "amount_m": 50.0,
+        "valuation_m": null,
+        "lead_investors": "Innovation Industries",
+        "other_investors": "",
+        "source": "https://en.wikipedia.org/wiki/Axelera_AI",
+        "notes": "~$27M initial + extension to ~$50M total. Also received ~$6.7M Dutch govt innovation credit."
+      },
+      {
+        "company_slug": "axelera-ai",
+        "stage": "Series B",
+        "date": "2024-06",
+        "amount_m": 68.0,
+        "valuation_m": null,
+        "lead_investors": "European Innovation Council Fund; Innovation Industries; Samsung Catalyst Fund",
+        "other_investors": "",
+        "source": "https://axelera.ai/news/axelera-ai-raises-68-million-series-b-funding-to-accelerate-next-generation-ai",
+        "notes": ""
+      },
+      {
+        "company_slug": "axelera-ai",
         "stage": "Series C",
         "date": "2026-02",
         "amount_m": 250.0,
         "valuation_m": null,
-        "lead_investors": "",
+        "lead_investors": "Innovation Industries; BlackRock; SiteGround Capital",
         "other_investors": "",
-        "source": "",
+        "source": "https://en.wikipedia.org/wiki/Axelera_AI",
         "notes": ""
       }
     ],
@@ -4954,6 +5159,68 @@
     "top_investors": []
   },
   {
+    "slug": "biomap",
+    "name": "BioMap",
+    "status": "active",
+    "founded_year": "2020",
+    "hq": "Beijing, China",
+    "website": "https://www.biomap.com",
+    "sector": "ai-biotech; drug-discovery; protein-design",
+    "one_liner": "AI-powered life sciences platform using a 268B-parameter foundation model to decode biological systems and accelerate drug discovery.",
+    "total_raised_m": 150.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-23",
+    "founders": [
+      {
+        "company_slug": "biomap",
+        "name": "Wei Liu",
+        "role": "CEO",
+        "background": "Former CEO of Baidu Ventures",
+        "origin": "Chinese",
+        "prior": ""
+      },
+      {
+        "company_slug": "biomap",
+        "name": "Robin Li",
+        "role": "Chairman",
+        "background": "Founder and CEO of Baidu; co-established BioMap",
+        "origin": "Chinese",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "biomap",
+        "stage": "Series A",
+        "date": "2021-07",
+        "amount_m": 100.0,
+        "valuation_m": null,
+        "lead_investors": "Baidu; Legend Capital",
+        "other_investors": "",
+        "source": "https://www.caixinglobal.com/2021-08-02/biological-computing-startup-biomap-raises-100-million-in-new-funding-101750036.html",
+        "notes": ""
+      },
+      {
+        "company_slug": "biomap",
+        "stage": "Strategic Partnership",
+        "date": "2024-06",
+        "amount_m": 50.0,
+        "valuation_m": null,
+        "lead_investors": "HKIC (Hong Kong Investment Corporation)",
+        "other_investors": "",
+        "source": "https://finance.yahoo.com/news/hkstps-startup-biomap-secured-funding-105600422.html",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
     "slug": "bioptimus",
     "name": "Bioptimus",
     "status": "active",
@@ -5328,6 +5595,73 @@
         "lead_investors": "monday.com; Qumra Capital; Entree Capital",
         "other_investors": "",
         "source": "",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
+    "slug": "blue-j",
+    "name": "Blue J",
+    "status": "active",
+    "founded_year": "2015",
+    "hq": "Toronto, Canada",
+    "website": "https://www.bluej.com",
+    "sector": "legal-ai; tax-tech; enterprise-ai",
+    "one_liner": "AI-powered tax research platform used by 4,000+ law firms, transforming tax queries with generative AI.",
+    "total_raised_m": 167.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "high",
+    "last_updated": "2026-03-23",
+    "founders": [
+      {
+        "company_slug": "blue-j",
+        "name": "Benjamin Alarie",
+        "role": "CEO",
+        "background": "Professor at University of Toronto Faculty of Law",
+        "origin": "Canadian",
+        "prior": ""
+      },
+      {
+        "company_slug": "blue-j",
+        "name": "Anthony Niblett",
+        "role": "Co-founder",
+        "background": "Professor at University of Toronto Faculty of Law",
+        "origin": "Canadian",
+        "prior": ""
+      },
+      {
+        "company_slug": "blue-j",
+        "name": "Brett Janssen",
+        "role": "Co-founder",
+        "background": "Co-founded Blue J in 2015",
+        "origin": "Canadian",
+        "prior": ""
+      },
+      {
+        "company_slug": "blue-j",
+        "name": "Albert Yoo",
+        "role": "Co-founder",
+        "background": "Co-founded Blue J in 2015",
+        "origin": "Canadian",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "blue-j",
+        "stage": "Series D",
+        "date": "2025-06",
+        "amount_m": 122.0,
+        "valuation_m": null,
+        "lead_investors": "Sapphire Ventures; Oak HC/FT",
+        "other_investors": "",
+        "source": "https://betakit.com/blue-j-series-d-after-doubling-revenue/",
         "notes": ""
       }
     ],
@@ -6088,7 +6422,7 @@
     "key_customers": null,
     "team_china_profile": null,
     "confidence": "medium",
-    "last_updated": "2026-03-21",
+    "last_updated": "2026-03-23",
     "founders": [
       {
         "company_slug": "buildots",
@@ -6102,14 +6436,36 @@
     "funding_rounds": [
       {
         "company_slug": "buildots",
+        "stage": "Series C",
+        "date": "2023-08",
+        "amount_m": 60.0,
+        "valuation_m": null,
+        "lead_investors": "Viola Growth; O.G. Tech (Eyal Ofer)",
+        "other_investors": "",
+        "source": "https://buildots.com/blog/buildots-raises-60-million/",
+        "notes": "Brought total to $106M. TLV Partners, Lightspeed, Future Energy Ventures also participated."
+      },
+      {
+        "company_slug": "buildots",
+        "stage": "Intel Capital Investment",
+        "date": "2024-07",
+        "amount_m": 15.0,
+        "valuation_m": null,
+        "lead_investors": "Intel Capital",
+        "other_investors": "",
+        "source": "https://www.intelcapital.com/buildots-ai-driven-construction-technology-leader-secures-15m-intel-capital-led-investment/",
+        "notes": "Brought total to $121M."
+      },
+      {
+        "company_slug": "buildots",
         "stage": "Series D",
         "date": "2025-05",
         "amount_m": 45.0,
         "valuation_m": 300.0,
         "lead_investors": "Qumra Capital",
         "other_investors": "",
-        "source": "",
-        "notes": ""
+        "source": "https://buildots.com/blog/buildots-raises-45m-in-series-d-funding/",
+        "notes": "Total funding now $166M. OG Venture Partners, TLV Partners, Viola Growth also participated."
       }
     ],
     "top_investors": []
@@ -6522,21 +6878,21 @@
   {
     "slug": "celestial-ai",
     "name": "Celestial AI",
-    "status": "active",
+    "status": "acquired",
     "founded_year": "2020",
     "hq": "Santa Clara, CA",
     "website": "https://celestial.ai",
     "sector": "AI Chips / Photonic Interconnects",
     "one_liner": "Photonic fabric technology connecting compute and memory in AI data centers. Eliminates data movement bottleneck.",
-    "total_raised_m": 400.0,
+    "total_raised_m": 525.0,
     "latest_valuation_m": null,
     "employees": null,
     "revenue_signals": null,
     "business_model": null,
     "key_customers": null,
     "team_china_profile": null,
-    "confidence": "medium",
-    "last_updated": "2026-03-21",
+    "confidence": "high",
+    "last_updated": "2026-03-23",
     "founders": [
       {
         "company_slug": "celestial-ai",
@@ -6558,14 +6914,58 @@
     "funding_rounds": [
       {
         "company_slug": "celestial-ai",
+        "stage": "Seed",
+        "date": "2020-08",
+        "amount_m": null,
+        "valuation_m": null,
+        "lead_investors": "Undisclosed",
+        "other_investors": "",
+        "source": "https://tracxn.com/d/companies/celestial-ai/",
+        "notes": "First funding round Aug 2020. Amount undisclosed."
+      },
+      {
+        "company_slug": "celestial-ai",
+        "stage": "Series A",
+        "date": "2021-12",
+        "amount_m": null,
+        "valuation_m": null,
+        "lead_investors": "Koch Disruptive Technologies; Xora Innovation (Temasek)",
+        "other_investors": "",
+        "source": "https://tracxn.com/d/companies/celestial-ai/",
+        "notes": "Amount undisclosed."
+      },
+      {
+        "company_slug": "celestial-ai",
+        "stage": "Series B",
+        "date": "2023-06",
+        "amount_m": 100.0,
+        "valuation_m": null,
+        "lead_investors": "IAG Capital Partners; Koch Disruptive Technologies; Xora Innovation (Temasek)",
+        "other_investors": "",
+        "source": "https://news.crunchbase.com/semiconductors-and-5g/chip-startup-celestial-ai-venture-funding-fidelity/",
+        "notes": ""
+      },
+      {
+        "company_slug": "celestial-ai",
         "stage": "Series C",
-        "date": "2025-03",
+        "date": "2024-03",
+        "amount_m": 175.0,
+        "valuation_m": null,
+        "lead_investors": "US Innovative Technology Fund (Thomas Tull)",
+        "other_investors": "",
+        "source": "https://news.crunchbase.com/semiconductors-and-5g/chip-startup-celestial-ai-venture-funding-fidelity/",
+        "notes": ""
+      },
+      {
+        "company_slug": "celestial-ai",
+        "stage": "Series C1",
+        "date": "2025-02",
         "amount_m": 250.0,
         "valuation_m": null,
-        "lead_investors": "AMD Ventures; Samsung Catalyst Fund",
+        "lead_investors": "Fidelity Management & Research; BlackRock; Tiger Global",
         "other_investors": "",
-        "source": "",
-        "notes": ""
+        "source": "https://www.businesswire.com/news/home/20250812918226/en/Celestial-AI-Closes-Final-Series-C1-Round",
+        "notes": "Valuation ~$2.5B. Acquired by Marvell Dec 2025."
       }
     ],
     "top_investors": []
@@ -6682,6 +7082,17 @@
       }
     ],
     "funding_rounds": [
+      {
+        "company_slug": "cerebras",
+        "stage": "Seed",
+        "date": "2015-12",
+        "amount_m": null,
+        "valuation_m": null,
+        "lead_investors": "Benchmark; Foundation Capital; Eclipse Ventures",
+        "other_investors": "",
+        "source": "https://www.crunchbase.com/organization/cerebras-systems",
+        "notes": "Exact seed amount undisclosed. Company founded 2015; seed preceded Series A."
+      },
       {
         "company_slug": "cerebras",
         "stage": "Series A",
@@ -8227,14 +8638,25 @@
     "funding_rounds": [
       {
         "company_slug": "coram-ai",
+        "stage": "Pre-Seed / Seed",
+        "date": "2023-08",
+        "amount_m": 5.2,
+        "valuation_m": null,
+        "lead_investors": "Battery Ventures; 8VC; Air Street Capital; K5 Global; Mosaic Ventures",
+        "other_investors": "",
+        "source": "https://www.crunchbase.com/organization/coram-ai",
+        "notes": "First funding round. Labeled as Series A on Crunchbase but functionally seed stage."
+      },
+      {
+        "company_slug": "coram-ai",
         "stage": "Series A",
         "date": "2025-01",
         "amount_m": 13.8,
         "valuation_m": null,
         "lead_investors": "Battery Ventures",
         "other_investors": "",
-        "source": "",
-        "notes": ""
+        "source": "https://www.businesswire.com/news/home/20250115943800/en/Coram-AI-Raises-13.8-Million-in-Series-A-Funding",
+        "notes": "8VC and Mosaic Ventures also participated. Total funding $30M."
       }
     ],
     "top_investors": []
@@ -8719,6 +9141,79 @@
         "lead_investors": "Salesforce Ventures",
         "other_investors": "",
         "source": "",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
+    "slug": "coveo",
+    "name": "Coveo",
+    "status": "public",
+    "founded_year": "2005",
+    "hq": "Montreal, Canada",
+    "website": "https://www.coveo.com",
+    "sector": "enterprise-search; ai-relevance; generative-ai",
+    "one_liner": "Canadian AI-powered enterprise search and relevance platform using generative AI to optimize digital experiences.",
+    "total_raised_m": 340.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "high",
+    "last_updated": "2026-03-23",
+    "founders": [
+      {
+        "company_slug": "coveo",
+        "name": "Laurent Simoneau",
+        "role": "Co-founder",
+        "background": "Spin-off from Copernic Technologies; original technical founder",
+        "origin": "Canadian",
+        "prior": ""
+      },
+      {
+        "company_slug": "coveo",
+        "name": "Louis Tetu",
+        "role": "CEO & Chairman (joined 2008)",
+        "background": "Co-founded Taleo Corp (acquired by Oracle for $1.9B); Quebec tech veteran",
+        "origin": "Canadian",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "coveo",
+        "stage": "Growth Round",
+        "date": "2018-04",
+        "amount_m": 100.0,
+        "valuation_m": null,
+        "lead_investors": "Evergreen Coast Capital",
+        "other_investors": "",
+        "source": "https://en.wikipedia.org/wiki/Coveo",
+        "notes": ""
+      },
+      {
+        "company_slug": "coveo",
+        "stage": "Series F",
+        "date": "2019-11",
+        "amount_m": 172.0,
+        "valuation_m": null,
+        "lead_investors": "OMERS Private Equity",
+        "other_investors": "",
+        "source": "https://techcrunch.com/2019/11/06/coveo-raises-227m-at-1b-valuation-for-ai-based-enterprise-search-and-personalization/",
+        "notes": ""
+      },
+      {
+        "company_slug": "coveo",
+        "stage": "IPO (TSX: CVO)",
+        "date": "2021-11",
+        "amount_m": 68.0,
+        "valuation_m": null,
+        "lead_investors": "Public Markets",
+        "other_investors": "",
+        "source": "https://en.wikipedia.org/wiki/Coveo",
         "notes": ""
       }
     ],
@@ -9295,6 +9790,79 @@
     "top_investors": []
   },
   {
+    "slug": "cyera",
+    "name": "Cyera",
+    "status": "active",
+    "founded_year": "2021",
+    "hq": "Tel Aviv, Israel",
+    "website": "https://www.cyera.com",
+    "sector": "data-security; ai-security; cybersecurity",
+    "one_liner": "AI-powered data security platform protecting enterprise data across cloud, SaaS, and on-premises environments.",
+    "total_raised_m": 1700.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "high",
+    "last_updated": "2026-03-23",
+    "founders": [
+      {
+        "company_slug": "cyera",
+        "name": "Yotam Segev",
+        "role": "CEO",
+        "background": "Built and ran the cloud security division for the IDF's Unit 8200",
+        "origin": "Israeli",
+        "prior": ""
+      },
+      {
+        "company_slug": "cyera",
+        "name": "Tamar Bar-Ilan",
+        "role": "CTO",
+        "background": "Co-built cloud security at IDF Unit 8200 with Segev",
+        "origin": "Israeli",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "cyera",
+        "stage": "Series C",
+        "date": "2024-11",
+        "amount_m": 300.0,
+        "valuation_m": null,
+        "lead_investors": "Coatue",
+        "other_investors": "",
+        "source": "https://techcrunch.com/2024/11/cyera-raises-300m",
+        "notes": ""
+      },
+      {
+        "company_slug": "cyera",
+        "stage": "Series E",
+        "date": "2025-06",
+        "amount_m": 540.0,
+        "valuation_m": null,
+        "lead_investors": "Accel; Coatue",
+        "other_investors": "",
+        "source": "https://techstartups.com/2025/06/11/israeli-ai-data-security-startup-cyera-raises-540m-doubles-valuation-to-6b-in-7-months/",
+        "notes": ""
+      },
+      {
+        "company_slug": "cyera",
+        "stage": "Series F",
+        "date": "2026-01",
+        "amount_m": 400.0,
+        "valuation_m": null,
+        "lead_investors": "Blackstone",
+        "other_investors": "",
+        "source": "https://www.cyera.com/press-releases/cyera-raises-400m-to-meet-rapidly-growing-demand-for-ai-security-among-enterprises",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
     "slug": "cylake",
     "name": "Cylake",
     "status": "active",
@@ -9739,14 +10307,69 @@
     "funding_rounds": [
       {
         "company_slug": "dataminr",
-        "stage": "Series A-D",
-        "date": "2011-2015",
+        "stage": "Seed",
+        "date": "2009-10",
+        "amount_m": 2.0,
+        "valuation_m": null,
+        "lead_investors": "Undisclosed",
+        "other_investors": "",
+        "source": "https://www.crunchbase.com/organization/dataminr",
+        "notes": "$1.98M seed round."
+      },
+      {
+        "company_slug": "dataminr",
+        "stage": "Venture Round",
+        "date": "2010-08",
         "amount_m": null,
         "valuation_m": null,
-        "lead_investors": "BoxGroup; IVP; Fidelity",
+        "lead_investors": "Undisclosed",
         "other_investors": "",
         "source": "https://www.crunchbase.com/organization/dataminr",
         "notes": ""
+      },
+      {
+        "company_slug": "dataminr",
+        "stage": "Series A",
+        "date": 2011,
+        "amount_m": null,
+        "valuation_m": null,
+        "lead_investors": "BoxGroup",
+        "other_investors": "",
+        "source": "https://www.crunchbase.com/organization/dataminr",
+        "notes": "Amount undisclosed."
+      },
+      {
+        "company_slug": "dataminr",
+        "stage": "Series B",
+        "date": "2012-09",
+        "amount_m": 16.5,
+        "valuation_m": null,
+        "lead_investors": "Deep Fork Capital",
+        "other_investors": "",
+        "source": "https://www.crunchbase.com/organization/dataminr",
+        "notes": ""
+      },
+      {
+        "company_slug": "dataminr",
+        "stage": "Series C",
+        "date": "2013-06",
+        "amount_m": 34.0,
+        "valuation_m": null,
+        "lead_investors": "IVP",
+        "other_investors": "",
+        "source": "https://www.crunchbase.com/organization/dataminr",
+        "notes": ""
+      },
+      {
+        "company_slug": "dataminr",
+        "stage": "Series D",
+        "date": "2015-02",
+        "amount_m": null,
+        "valuation_m": null,
+        "lead_investors": "Fidelity Investments; Goldman Sachs",
+        "other_investors": "",
+        "source": "https://www.crunchbase.com/organization/dataminr",
+        "notes": "Amount undisclosed."
       },
       {
         "company_slug": "dataminr",
@@ -9754,10 +10377,10 @@
         "date": "2018-05",
         "amount_m": null,
         "valuation_m": null,
-        "lead_investors": "Vulcan Capital",
+        "lead_investors": "Vulcan Capital; Moore Strategic Ventures",
         "other_investors": "",
         "source": "https://www.crunchbase.com/organization/dataminr",
-        "notes": ""
+        "notes": "Amount undisclosed."
       },
       {
         "company_slug": "dataminr",
@@ -10097,6 +10720,49 @@
     "top_investors": []
   },
   {
+    "slug": "deepbrain-ai",
+    "name": "DeepBrain AI",
+    "status": "active",
+    "founded_year": "2016",
+    "hq": "Seoul, South Korea",
+    "website": "https://www.deepbrain.io",
+    "sector": "ai-avatars; video-generation; conversational-ai",
+    "one_liner": "Korean AI company creating photorealistic AI avatars and video generation tools for enterprise customer service.",
+    "total_raised_m": 56.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-23",
+    "founders": [
+      {
+        "company_slug": "deepbrain-ai",
+        "name": "Eric Jang",
+        "role": "CEO",
+        "background": "AI entrepreneur; leads global expansion from Seoul",
+        "origin": "Korean",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "deepbrain-ai",
+        "stage": "Series B",
+        "date": "2021-08",
+        "amount_m": 44.0,
+        "valuation_m": null,
+        "lead_investors": "Korea Development Bank",
+        "other_investors": "",
+        "source": "https://venturebeat.com/ai/deepbrain-boosts-ai-powered-virtual-avatars-with-44m-raise/",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
     "slug": "deepgram",
     "name": "Deepgram",
     "status": "active",
@@ -10105,15 +10771,15 @@
     "website": "https://deepgram.com",
     "sector": "AI Voice / Speech-to-Text",
     "one_liner": "AI speech-to-text and text-to-speech API. Powers voice AI for enterprises with industry-leading accuracy and speed.",
-    "total_raised_m": 200.0,
+    "total_raised_m": 229.0,
     "latest_valuation_m": null,
     "employees": null,
     "revenue_signals": null,
     "business_model": null,
     "key_customers": null,
     "team_china_profile": null,
-    "confidence": "medium",
-    "last_updated": "2026-03-21",
+    "confidence": "high",
+    "last_updated": "2026-03-23",
     "founders": [
       {
         "company_slug": "deepgram",
@@ -10143,14 +10809,47 @@
     "funding_rounds": [
       {
         "company_slug": "deepgram",
+        "stage": "Seed",
+        "date": "2016-03",
+        "amount_m": null,
+        "valuation_m": null,
+        "lead_investors": "Y Combinator",
+        "other_investors": "",
+        "source": "https://www.crunchbase.com/organization/deepgram",
+        "notes": "Amount undisclosed."
+      },
+      {
+        "company_slug": "deepgram",
+        "stage": "Series A",
+        "date": 2020,
+        "amount_m": 12.0,
+        "valuation_m": null,
+        "lead_investors": "Wing VC",
+        "other_investors": "",
+        "source": "https://deepgram.com/learn/deepgram-series-a",
+        "notes": "Participation from NVIDIA, Y Combinator, Compound, SAP.iO."
+      },
+      {
+        "company_slug": "deepgram",
+        "stage": "Series B",
+        "date": 2022,
+        "amount_m": 72.0,
+        "valuation_m": null,
+        "lead_investors": "Madrona; Alkeon",
+        "other_investors": "",
+        "source": "https://deepgram.com/learn/deepgram-72-million-series-b-defines-future-of-AI-speech-understanding",
+        "notes": ""
+      },
+      {
+        "company_slug": "deepgram",
         "stage": "Series C",
         "date": "2026-01",
         "amount_m": 130.0,
         "valuation_m": null,
-        "lead_investors": "",
+        "lead_investors": "AVP",
         "other_investors": "",
-        "source": "",
-        "notes": ""
+        "source": "https://techcrunch.com/2026/01/13/deepgram-raises-130m-at-1-3b-valuation-and-buys-a-yc-ai-startup/",
+        "notes": "$1.3B valuation. Also acquired a YC AI startup."
       }
     ],
     "top_investors": []
@@ -11206,7 +11905,7 @@
     "key_customers": null,
     "team_china_profile": null,
     "confidence": "medium",
-    "last_updated": "2026-03-21",
+    "last_updated": "2026-03-23",
     "founders": [
       {
         "company_slug": "ema",
@@ -11220,14 +11919,25 @@
     "funding_rounds": [
       {
         "company_slug": "ema",
+        "stage": "Seed",
+        "date": "2024-03",
+        "amount_m": 11.0,
+        "valuation_m": null,
+        "lead_investors": "Undisclosed",
+        "other_investors": "",
+        "source": "https://www.crunchbase.com/organization/ema-8724",
+        "notes": "Estimated ~$11M based on total $61M minus $50M Series A."
+      },
+      {
+        "company_slug": "ema",
         "stage": "Series A",
-        "date": "2024",
-        "amount_m": 36.0,
+        "date": "2024-07",
+        "amount_m": 50.0,
         "valuation_m": null,
         "lead_investors": "Accel; Section 32",
         "other_investors": "",
-        "source": "",
-        "notes": ""
+        "source": "https://www.prosus.com/news-insights/group-updates/2024/ema-increases-series-a",
+        "notes": "Initially announced as $36M, increased to $50M with Prosus Ventures, Wipro Ventures, Hitachi Ventures."
       }
     ],
     "top_investors": []
@@ -11853,6 +12563,65 @@
         "lead_investors": "Felicis",
         "other_investors": "",
         "source": "",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
+    "slug": "eon",
+    "name": "Eon",
+    "status": "active",
+    "founded_year": "2024",
+    "hq": "Tel Aviv, Israel",
+    "website": "https://www.eon.io",
+    "sector": "cloud-infrastructure; data-management; ai-analytics",
+    "one_liner": "Cloud storage platform that autonomously manages backups and unlocks enterprise data for AI analytics.",
+    "total_raised_m": 500.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "high",
+    "last_updated": "2026-03-23",
+    "founders": [
+      {
+        "company_slug": "eon",
+        "name": "Ofir Ehrlich",
+        "role": "CEO",
+        "background": "AWS alumnus; co-founded CloudEndure (acquired by Amazon in 2019); IDF Unit 8200 graduate",
+        "origin": "Israeli",
+        "prior": ""
+      },
+      {
+        "company_slug": "eon",
+        "name": "Ron Kimchi",
+        "role": "Co-founder",
+        "background": "AWS alumnus; leads R&D center in Tel Aviv",
+        "origin": "Israeli",
+        "prior": ""
+      },
+      {
+        "company_slug": "eon",
+        "name": "Gonen Stein",
+        "role": "Co-founder",
+        "background": "AWS alumnus; oversees business operations from New York",
+        "origin": "Israeli",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "eon",
+        "stage": "Series D",
+        "date": "2025-12",
+        "amount_m": 300.0,
+        "valuation_m": null,
+        "lead_investors": "Elad Gil (Gil Capital)",
+        "other_investors": "",
+        "source": "https://www.calcalistech.com/ctechnews/article/ryelst2wwe",
         "notes": ""
       }
     ],
@@ -15121,21 +15890,21 @@
   {
     "slug": "gretel-ai",
     "name": "Gretel AI",
-    "status": "active",
+    "status": "acquired",
     "founded_year": "2020",
     "hq": "San Diego, CA",
     "website": "https://gretel.ai",
     "sector": "AI Data / Synthetic Data",
     "one_liner": "Synthetic data platform \u2014 generates privacy-safe, AI-ready data for training models.",
-    "total_raised_m": 67.0,
+    "total_raised_m": 65.5,
     "latest_valuation_m": null,
     "employees": null,
     "revenue_signals": null,
     "business_model": null,
     "key_customers": null,
     "team_china_profile": null,
-    "confidence": "medium",
-    "last_updated": "2026-03-21",
+    "confidence": "high",
+    "last_updated": "2026-03-23",
     "founders": [
       {
         "company_slug": "gretel-ai",
@@ -15165,14 +15934,36 @@
     "funding_rounds": [
       {
         "company_slug": "gretel-ai",
-        "stage": "Series B",
-        "date": "2023-11",
-        "amount_m": 50.0,
+        "stage": "Seed",
+        "date": "2020-03",
+        "amount_m": 3.5,
+        "valuation_m": null,
+        "lead_investors": "Greylock; Moonshots Capital",
+        "other_investors": "",
+        "source": "https://www.crunchbase.com/organization/gretel-ai",
+        "notes": "Estimated ~$3.5M based on $65.5M total at Series B minus $12M A minus $50M B."
+      },
+      {
+        "company_slug": "gretel-ai",
+        "stage": "Series A",
+        "date": "2020-11",
+        "amount_m": 12.0,
         "valuation_m": null,
         "lead_investors": "Greylock",
         "other_investors": "",
-        "source": "",
+        "source": "https://gretel.ai/blog/gretel-ai-raises-12-million-in-series-a-to-safely-share-build-with-data",
         "notes": ""
+      },
+      {
+        "company_slug": "gretel-ai",
+        "stage": "Series B",
+        "date": "2021-10",
+        "amount_m": 50.0,
+        "valuation_m": null,
+        "lead_investors": "Anthos Capital; Section 32; Greylock",
+        "other_investors": "",
+        "source": "https://www.businesswire.com/news/home/20211007005870/en/Gretel.ai-Closes-50-Million-Series-B-Round",
+        "notes": "Total funding $65.5M at this point."
       }
     ],
     "top_investors": []
@@ -15445,6 +16236,87 @@
         "lead_investors": "Undisclosed",
         "other_investors": "",
         "source": "https://tracxn.com/d/companies/hadrius/__VAwFKR38yiY3tOvhoeJOyfCr13-J-nfshruGOuAptzM",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
+    "slug": "hailo",
+    "name": "Hailo",
+    "status": "active",
+    "founded_year": "2017",
+    "hq": "Tel Aviv, Israel",
+    "website": "https://hailo.ai",
+    "sector": "ai-chips; edge-ai; semiconductors",
+    "one_liner": "Israeli AI chip company designing energy-efficient processors for real-time AI inference at the edge.",
+    "total_raised_m": 344.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "high",
+    "last_updated": "2026-03-23",
+    "founders": [
+      {
+        "company_slug": "hailo",
+        "name": "Orr Danon",
+        "role": "CEO",
+        "background": "Co-founded Hailo; took over as CEO after co-founder Rami Feig's passing",
+        "origin": "Israeli",
+        "prior": ""
+      },
+      {
+        "company_slug": "hailo",
+        "name": "Avi Baum",
+        "role": "CTO",
+        "background": "Co-founded Hailo; leads chip architecture and technology",
+        "origin": "Israeli",
+        "prior": ""
+      },
+      {
+        "company_slug": "hailo",
+        "name": "Hadar Zeitlin",
+        "role": "Co-founder",
+        "background": "Co-founded Hailo in 2017",
+        "origin": "Israeli",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "hailo",
+        "stage": "Series B",
+        "date": "2020-03",
+        "amount_m": 60.0,
+        "valuation_m": null,
+        "lead_investors": "Undisclosed",
+        "other_investors": "",
+        "source": "https://www.crunchbase.com/organization/hailo-technologies",
+        "notes": ""
+      },
+      {
+        "company_slug": "hailo",
+        "stage": "Series C",
+        "date": "2021-10",
+        "amount_m": 136.0,
+        "valuation_m": null,
+        "lead_investors": "Undisclosed",
+        "other_investors": "",
+        "source": "https://www.timesofisrael.com/israeli-ai-chip-maker-hailo-becomes-newest-unicorn-after-136m-investment/",
+        "notes": ""
+      },
+      {
+        "company_slug": "hailo",
+        "stage": "Series C Extension",
+        "date": "2024-04",
+        "amount_m": 120.0,
+        "valuation_m": null,
+        "lead_investors": "Undisclosed",
+        "other_investors": "",
+        "source": "https://techcrunch.com/2024/04/02/hailo-ai-chip-startup-lands-120m-to-battle-nvidia/",
         "notes": ""
       }
     ],
@@ -16135,14 +17007,47 @@
     "funding_rounds": [
       {
         "company_slug": "heidi-health",
+        "stage": "Seed",
+        "date": "2021-08",
+        "amount_m": 5.0,
+        "valuation_m": null,
+        "lead_investors": "Blackbird Ventures",
+        "other_investors": "",
+        "source": "https://sacra.com/c/heidi-health/",
+        "notes": "Originally launched as Oscer."
+      },
+      {
+        "company_slug": "heidi-health",
+        "stage": "Series A",
+        "date": "2023-10",
+        "amount_m": 10.0,
+        "valuation_m": null,
+        "lead_investors": "Undisclosed",
+        "other_investors": "",
+        "source": "https://sacra.com/c/heidi-health/",
+        "notes": ""
+      },
+      {
+        "company_slug": "heidi-health",
+        "stage": "Series A Extension",
+        "date": "2025-03",
+        "amount_m": 16.6,
+        "valuation_m": null,
+        "lead_investors": "Headline",
+        "other_investors": "",
+        "source": "https://sacra.com/c/heidi-health/",
+        "notes": "A$27M (~$16.6M USD) top-up to original Series A."
+      },
+      {
+        "company_slug": "heidi-health",
         "stage": "Series B",
         "date": "2025-10",
         "amount_m": 65.0,
         "valuation_m": 465.0,
         "lead_investors": "Point72 Private Investments",
         "other_investors": "",
-        "source": "",
-        "notes": ""
+        "source": "https://techcrunch.com/2025/10/05/heidi-health-raises-65m-series-b-led-by-steve-cohens-point72/",
+        "notes": "Blackbird, Headline, Latitude (Phoenix Court growth fund) also participated."
       }
     ],
     "top_investors": []
@@ -16552,6 +17457,60 @@
         "lead_investors": "Pelion Ventures",
         "other_investors": "",
         "source": "https://www.prnewswire.com/news-releases/honey-health-raises-7-8m/",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
+    "slug": "horizon-robotics",
+    "name": "Horizon Robotics",
+    "status": "public",
+    "founded_year": "2015",
+    "hq": "Beijing, China",
+    "website": "https://en.horizon.auto",
+    "sector": "ai-chips; autonomous-driving; adas; semiconductors",
+    "one_liner": "Chinese AI chip company powering intelligent driving systems in one out of every three smart cars in China.",
+    "total_raised_m": 2500.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "high",
+    "last_updated": "2026-03-23",
+    "founders": [
+      {
+        "company_slug": "horizon-robotics",
+        "name": "Yu Kai",
+        "role": "CEO",
+        "background": "Former head of Baidu's self-driving car division and Institute of Deep Learning",
+        "origin": "Chinese",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "horizon-robotics",
+        "stage": "Strategic Investment",
+        "date": "2022-10",
+        "amount_m": 2300.0,
+        "valuation_m": null,
+        "lead_investors": "Volkswagen Group (JV)",
+        "other_investors": "",
+        "source": "https://en.wikipedia.org/wiki/Horizon_Robotics",
+        "notes": ""
+      },
+      {
+        "company_slug": "horizon-robotics",
+        "stage": "IPO (Hong Kong)",
+        "date": "2024-10",
+        "amount_m": 696.0,
+        "valuation_m": null,
+        "lead_investors": "Public Markets",
+        "other_investors": "",
+        "source": "https://en.wikipedia.org/wiki/Horizon_Robotics",
         "notes": ""
       }
     ],
@@ -17129,6 +18088,28 @@
     "funding_rounds": [
       {
         "company_slug": "infinigence-ai",
+        "stage": "Seed",
+        "date": "2023-12",
+        "amount_m": null,
+        "valuation_m": null,
+        "lead_investors": "HongShan; Baidu",
+        "other_investors": "",
+        "source": "https://tracxn.com/d/companies/infinigence/",
+        "notes": "First funding round. Amount undisclosed. Founded May 2023."
+      },
+      {
+        "company_slug": "infinigence-ai",
+        "stage": "Series A",
+        "date": "2024-09",
+        "amount_m": 70.0,
+        "valuation_m": null,
+        "lead_investors": "Social Security Fund Zhongguancun; Qiming Venture Partners; Hongtai Aplus",
+        "other_investors": "",
+        "source": "https://en.tmtpost.com/post/7235681",
+        "notes": "~500 million yuan ($70.2M). Strategic investors include Lenovo Capital and Xiaomi."
+      },
+      {
+        "company_slug": "infinigence-ai",
         "stage": "Series A+",
         "date": "2025-11",
         "amount_m": 70.0,
@@ -17136,7 +18117,7 @@
         "lead_investors": "Zhuhai Technology Group; Futeng Capital",
         "other_investors": "",
         "source": "https://www.caixinglobal.com/2025-11-28/infinigence-ai-raises-500-million-yuan-to-expand-heterogeneous-computing-platform-102387594.html",
-        "notes": "Total raised approximately 1.5 billion yuan. Additional investors include Lenovo Capital, Junlian Capital, Shenwan Hongyuan Group, Huiyuan Capital, Shangqi Capital, and Highlight Capital. Earlier backers include Baidu, Xiaomi, Zhipu AI, HongShan Capital, and Qiming Venture Partners."
+        "notes": "~500 million yuan ($70.6M). Follow-on from Lenovo Capital, Junlian Capital, Shenwan Hongyuan Group."
       }
     ],
     "top_investors": []
@@ -17509,7 +18490,7 @@
     "website": "https://ivo.ai",
     "sector": "AI Legal / Contract Intelligence",
     "one_liner": "AI contract intelligence \u2014 automates review and converts agreements into structured searchable data.",
-    "total_raised_m": 77.0,
+    "total_raised_m": 77.2,
     "latest_valuation_m": null,
     "employees": null,
     "revenue_signals": null,
@@ -17517,7 +18498,7 @@
     "key_customers": null,
     "team_china_profile": null,
     "confidence": "medium",
-    "last_updated": "2026-03-21",
+    "last_updated": "2026-03-23",
     "founders": [
       {
         "company_slug": "ivo",
@@ -17539,14 +18520,36 @@
     "funding_rounds": [
       {
         "company_slug": "ivo",
+        "stage": "Seed",
+        "date": "2024-04",
+        "amount_m": 4.8,
+        "valuation_m": null,
+        "lead_investors": "Daniel Gross; Fika Ventures; GD1; Phase One Ventures; Uncork Capital",
+        "other_investors": "",
+        "source": "https://www.crunchbase.com/organization/latch-2f35",
+        "notes": ""
+      },
+      {
+        "company_slug": "ivo",
+        "stage": "Series A",
+        "date": "2025-02",
+        "amount_m": 16.0,
+        "valuation_m": null,
+        "lead_investors": "Costanoa Ventures",
+        "other_investors": "",
+        "source": "https://www.globenewswire.com/news-release/2025/02/05/3021329/0/en/Ivo-raises-16M-Series-A.html",
+        "notes": "Uncork Capital, Fika Ventures, GD1, Phase One Ventures, Blackbird VC also participated."
+      },
+      {
+        "company_slug": "ivo",
         "stage": "Series B",
-        "date": "2025",
+        "date": "2026-01",
         "amount_m": 55.0,
         "valuation_m": null,
         "lead_investors": "Blackbird",
         "other_investors": "",
-        "source": "",
-        "notes": ""
+        "source": "https://www.capitalbrief.com/briefing/legal-ai-developer-ivo-raises-55m-in-blackbird-led-series-b-round/",
+        "notes": "Costanoa Ventures, Uncork Capital, Fika Ventures, GD1, Icehouse Ventures also participated."
       }
     ],
     "top_investors": []
@@ -18511,6 +19514,60 @@
     ]
   },
   {
+    "slug": "krutrim",
+    "name": "Krutrim",
+    "status": "active",
+    "founded_year": "2023",
+    "hq": "Bengaluru, India",
+    "website": "https://krutrim.com",
+    "sector": "foundation-models; ai-infrastructure; indian-languages",
+    "one_liner": "India's fastest AI unicorn building multilingual foundation models and AI infrastructure for the Indian market.",
+    "total_raised_m": 280.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-23",
+    "founders": [
+      {
+        "company_slug": "krutrim",
+        "name": "Bhavish Aggarwal",
+        "role": "CEO",
+        "background": "Founder of Ola (ride-hailing); IIT Bombay graduate; SoftBank-backed billionaire",
+        "origin": "Indian",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "krutrim",
+        "stage": "Series A",
+        "date": "2024-01",
+        "amount_m": 50.0,
+        "valuation_m": null,
+        "lead_investors": "Matrix Partners India",
+        "other_investors": "",
+        "source": "https://techcrunch.com/2025/02/04/softbank-backed-billionaire-to-invest-230m-in-indian-ai-startup-krutrim/",
+        "notes": ""
+      },
+      {
+        "company_slug": "krutrim",
+        "stage": "Founder Investment",
+        "date": "2025-02",
+        "amount_m": 230.0,
+        "valuation_m": null,
+        "lead_investors": "Bhavish Aggarwal (family office)",
+        "other_investors": "",
+        "source": "https://techcrunch.com/2025/02/04/softbank-backed-billionaire-to-invest-230m-in-indian-ai-startup-krutrim/",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
     "slug": "kyutai",
     "name": "Kyutai",
     "status": "Active",
@@ -19433,13 +20490,35 @@
     "funding_rounds": [
       {
         "company_slug": "lightmatter",
-        "stage": "Multiple early rounds",
-        "date": "2018-2022",
-        "amount_m": null,
+        "stage": "Grant (MIT $100K prize)",
+        "date": "2017-05",
+        "amount_m": 0.1,
         "valuation_m": null,
-        "lead_investors": "Various",
+        "lead_investors": "MIT",
         "other_investors": "",
-        "source": "https://www.crunchbase.com/organization/lightmatter",
+        "source": "https://tracxn.com/d/companies/lightmatter/",
+        "notes": ""
+      },
+      {
+        "company_slug": "lightmatter",
+        "stage": "Series A",
+        "date": 2019,
+        "amount_m": 33.0,
+        "valuation_m": null,
+        "lead_investors": "GV (Google Ventures)",
+        "other_investors": "",
+        "source": "https://tracxn.com/d/companies/lightmatter/",
+        "notes": ""
+      },
+      {
+        "company_slug": "lightmatter",
+        "stage": "Series B",
+        "date": "2021-05",
+        "amount_m": 113.0,
+        "valuation_m": null,
+        "lead_investors": "Viking Global Investors; SIP Global Partners",
+        "other_investors": "",
+        "source": "https://tracxn.com/d/companies/lightmatter/",
         "notes": ""
       },
       {
@@ -19450,8 +20529,8 @@
         "valuation_m": null,
         "lead_investors": "Viking Global; GV",
         "other_investors": "",
-        "source": "https://www.crunchbase.com/organization/lightmatter",
-        "notes": ""
+        "source": "https://www.crunchbase.com/organization/lightmatter-inc",
+        "notes": "Initial $154M in May 2023, extended to ~$155M in December 2023."
       },
       {
         "company_slug": "lightmatter",
@@ -19461,7 +20540,115 @@
         "valuation_m": null,
         "lead_investors": "T. Rowe Price; Fidelity",
         "other_investors": "",
-        "source": "https://www.crunchbase.com/organization/lightmatter",
+        "source": "https://www.crunchbase.com/organization/lightmatter-inc",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
+    "slug": "lightricks",
+    "name": "Lightricks",
+    "status": "active",
+    "founded_year": "2013",
+    "hq": "Jerusalem, Israel",
+    "website": "https://www.lightricks.com",
+    "sector": "creative-ai; generative-ai; content-creation",
+    "one_liner": "Israeli creative AI company behind Facetune and LTX Studio, building generative AI tools for image and video creation.",
+    "total_raised_m": 361.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "high",
+    "last_updated": "2026-03-23",
+    "founders": [
+      {
+        "company_slug": "lightricks",
+        "name": "Zeev Farbman",
+        "role": "CEO",
+        "background": "PhD student at Hebrew University of Jerusalem; computer vision researcher",
+        "origin": "Israeli",
+        "prior": ""
+      },
+      {
+        "company_slug": "lightricks",
+        "name": "Nir Pochter",
+        "role": "Co-founder",
+        "background": "PhD student at Hebrew University of Jerusalem",
+        "origin": "Israeli",
+        "prior": ""
+      },
+      {
+        "company_slug": "lightricks",
+        "name": "Yaron Inger",
+        "role": "Co-founder",
+        "background": "PhD student at Hebrew University of Jerusalem",
+        "origin": "Israeli",
+        "prior": ""
+      },
+      {
+        "company_slug": "lightricks",
+        "name": "Amit Goldstein",
+        "role": "Co-founder",
+        "background": "PhD student at Hebrew University of Jerusalem",
+        "origin": "Israeli",
+        "prior": ""
+      },
+      {
+        "company_slug": "lightricks",
+        "name": "Itai Tsiddon",
+        "role": "Co-founder",
+        "background": "Former Supreme Court of Israel clerk",
+        "origin": "Israeli",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "lightricks",
+        "stage": "Series A",
+        "date": "2015-01",
+        "amount_m": 10.0,
+        "valuation_m": null,
+        "lead_investors": "Viola Ventures",
+        "other_investors": "",
+        "source": "https://en.wikipedia.org/wiki/Lightricks",
+        "notes": ""
+      },
+      {
+        "company_slug": "lightricks",
+        "stage": "Series B",
+        "date": "2018-11",
+        "amount_m": 60.0,
+        "valuation_m": null,
+        "lead_investors": "Insight Partners",
+        "other_investors": "",
+        "source": "https://en.wikipedia.org/wiki/Lightricks",
+        "notes": ""
+      },
+      {
+        "company_slug": "lightricks",
+        "stage": "Series C",
+        "date": "2019-07",
+        "amount_m": 135.0,
+        "valuation_m": null,
+        "lead_investors": "Goldman Sachs",
+        "other_investors": "",
+        "source": "https://www.prnewswire.com/il/news-releases/content-creation-platform-developer-lightricks-raises-135-million",
+        "notes": ""
+      },
+      {
+        "company_slug": "lightricks",
+        "stage": "Series D",
+        "date": "2021-09",
+        "amount_m": 130.0,
+        "valuation_m": null,
+        "lead_investors": "Insight Partners; Hanaco Venture Capital",
+        "other_investors": "",
+        "source": "https://en.wikipedia.org/wiki/Lightricks",
         "notes": ""
       }
     ],
@@ -20095,14 +21282,36 @@
     "funding_rounds": [
       {
         "company_slug": "lorikeet",
+        "stage": "Seed",
+        "date": "2024-10",
+        "amount_m": 7.3,
+        "valuation_m": null,
+        "lead_investors": "Square Peg",
+        "other_investors": "",
+        "source": "https://fortune.com/2024/10/03/lorikeet-ai-customer-service-platform-5-million-seed-funding/",
+        "notes": "Also Skip Capital and angel investors including Stripe ex-COO Claire Johnson."
+      },
+      {
+        "company_slug": "lorikeet",
+        "stage": "Seed Extension",
+        "date": "2025-02",
+        "amount_m": 9.0,
+        "valuation_m": null,
+        "lead_investors": "Blackbird; Square Peg; Skip Capital",
+        "other_investors": "",
+        "source": "https://www.prnewswire.com/news-releases/lorikeet-secures-9-million-in-additional-funding-302368146.html",
+        "notes": ""
+      },
+      {
+        "company_slug": "lorikeet",
         "stage": "Series A",
         "date": "2025-08",
         "amount_m": 35.0,
         "valuation_m": null,
         "lead_investors": "QED Investors",
         "other_investors": "",
-        "source": "",
-        "notes": ""
+        "source": "https://www.prnewswire.com/news-releases/lorikeet-raises-35-million-usd-series-a-302522821.html",
+        "notes": "Blackbird, Square Peg, Skip Capital, Airtree also participated. Valuation $200M."
       }
     ],
     "top_investors": []
@@ -20443,14 +21652,25 @@
     "funding_rounds": [
       {
         "company_slug": "lumana",
+        "stage": "Seed",
+        "date": "2024-04",
+        "amount_m": 24.0,
+        "valuation_m": null,
+        "lead_investors": "S Capital",
+        "other_investors": "",
+        "source": "https://tracxn.com/d/companies/lumana/",
+        "notes": "Founded 2021, emerged from stealth 2024."
+      },
+      {
+        "company_slug": "lumana",
         "stage": "Series A",
         "date": "2025-07",
         "amount_m": 40.0,
         "valuation_m": null,
         "lead_investors": "Wing VC",
         "other_investors": "",
-        "source": "",
-        "notes": ""
+        "source": "https://www.lumana.ai/blog/lumana-secures-40-million-to-lead-the-next-era-of-ai-powered-video-intelligence",
+        "notes": "Largest Series A in video security sector history. Norwest and S Capital also participated."
       }
     ],
     "top_investors": []
@@ -22974,6 +24194,60 @@
     "top_investors": []
   },
   {
+    "slug": "multiverse-computing",
+    "name": "Multiverse Computing",
+    "status": "active",
+    "founded_year": "2019",
+    "hq": "San Sebastian, Spain",
+    "website": "https://multiversecomputing.com",
+    "sector": "quantum-ai; model-compression; enterprise-ai",
+    "one_liner": "Quantum-inspired AI company that compresses large language models by up to 95% with minimal precision loss.",
+    "total_raised_m": 285.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "high",
+    "last_updated": "2026-03-23",
+    "founders": [
+      {
+        "company_slug": "multiverse-computing",
+        "name": "Enrique Lizaso Olmos",
+        "role": "CEO",
+        "background": "Quantum computing entrepreneur",
+        "origin": "Spanish",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "multiverse-computing",
+        "stage": "Government Co-Investment",
+        "date": "2025-03",
+        "amount_m": 70.0,
+        "valuation_m": null,
+        "lead_investors": "SETT (Spanish Government)",
+        "other_investors": "",
+        "source": "https://www.eu-startups.com/2025/03/spanish-government-raises-e67-million-for-multiverse-computing-for-ai-compression",
+        "notes": ""
+      },
+      {
+        "company_slug": "multiverse-computing",
+        "stage": "Series B",
+        "date": "2025-06",
+        "amount_m": 215.0,
+        "valuation_m": null,
+        "lead_investors": "Bullhound Capital",
+        "other_investors": "",
+        "source": "https://techcrunch.com/2025/06/12/multiverse-computing-raises-215m-for-tech-that-could-radically-slim-ai-costs/",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
     "slug": "murphy-ai",
     "name": "Murphy",
     "status": "active",
@@ -23979,8 +25253,8 @@
     "business_model": null,
     "key_customers": null,
     "team_china_profile": null,
-    "confidence": "medium",
-    "last_updated": "2026-03-21",
+    "confidence": "high",
+    "last_updated": "2026-03-23",
     "founders": [
       {
         "company_slug": "nitra",
@@ -24000,6 +25274,28 @@
       }
     ],
     "funding_rounds": [
+      {
+        "company_slug": "nitra",
+        "stage": "Seed",
+        "date": "2022-08",
+        "amount_m": 62.0,
+        "valuation_m": null,
+        "lead_investors": "Andreessen Horowitz (a16z); New Enterprise Associates (NEA); Pantera Capital",
+        "other_investors": "",
+        "source": "https://www.prnewswire.com/news-releases/nitra-raises-62-million-to-revolutionize-fintech-for-the-healthcare-industry-301610996.html",
+        "notes": "$62M in equity and debt capital. Also included KB Financial Group, AME Cloud Ventures (Jerry Yang)."
+      },
+      {
+        "company_slug": "nitra",
+        "stage": "Series A",
+        "date": "2025-08",
+        "amount_m": 22.0,
+        "valuation_m": null,
+        "lead_investors": "Actions Capital; NEA; Pantera Capital",
+        "other_investors": "",
+        "source": "https://fortune.com/2026/03/10/tim-hwang-nitra-funding-ai-healthcare-platform/",
+        "notes": ""
+      },
       {
         "company_slug": "nitra",
         "stage": "Series B",
@@ -24122,6 +25418,76 @@
         "lead_investors": "DCVC",
         "other_investors": "",
         "source": "",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
+    "slug": "nomagic",
+    "name": "Nomagic",
+    "status": "active",
+    "founded_year": "2017",
+    "hq": "Warsaw, Poland",
+    "website": "https://nomagic.ai",
+    "sector": "physical-ai; robotics; warehouse-automation",
+    "one_liner": "Polish AI robotics company building intelligent pick-and-place robotic arms for warehouse automation.",
+    "total_raised_m": 84.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "high",
+    "last_updated": "2026-03-23",
+    "founders": [
+      {
+        "company_slug": "nomagic",
+        "name": "Kacper Nowicki",
+        "role": "CEO",
+        "background": "Former Google engineer (5+ years); built startup in California before returning to Poland",
+        "origin": "Polish",
+        "prior": ""
+      },
+      {
+        "company_slug": "nomagic",
+        "name": "Marek Cygan",
+        "role": "Co-founder",
+        "background": "Academic and robotics researcher",
+        "origin": "Polish",
+        "prior": ""
+      },
+      {
+        "company_slug": "nomagic",
+        "name": "Tristan D'Orgeval",
+        "role": "Co-founder",
+        "background": "Entrepreneurial background",
+        "origin": "French",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "nomagic",
+        "stage": "Series B",
+        "date": "2025-02",
+        "amount_m": 44.0,
+        "valuation_m": null,
+        "lead_investors": "EBRD Venture Capital",
+        "other_investors": "",
+        "source": "https://techcrunch.com/2025/02/26/nomagic-picks-up-44m-for-its-ai-powered-robotic-arms/",
+        "notes": ""
+      },
+      {
+        "company_slug": "nomagic",
+        "stage": "Series B Extension",
+        "date": "2026-01",
+        "amount_m": 10.0,
+        "valuation_m": null,
+        "lead_investors": "Cogito Capital Partners",
+        "other_investors": "",
+        "source": "https://www.eu-startups.com/2026/01/polish-robotics-startup-nomagic-secures-e8-3-million-to-scale-physical-ai-operations-in-the-us/",
         "notes": ""
       }
     ],
@@ -25756,6 +27122,68 @@
     "top_investors": []
   },
   {
+    "slug": "orca-ai",
+    "name": "Orca AI",
+    "status": "active",
+    "founded_year": "2018",
+    "hq": "Tel Aviv, Israel",
+    "website": "https://www.orca-ai.io",
+    "sector": "maritime-ai; autonomous-shipping; computer-vision",
+    "one_liner": "Israeli maritime AI company building autonomous navigation systems with the world's largest marine visual dataset.",
+    "total_raised_m": 111.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "high",
+    "last_updated": "2026-03-23",
+    "founders": [
+      {
+        "company_slug": "orca-ai",
+        "name": "Yarden Gross",
+        "role": "CEO",
+        "background": "Israeli Navy veteran; vision to bring shipping industry to digital age",
+        "origin": "Israeli",
+        "prior": ""
+      },
+      {
+        "company_slug": "orca-ai",
+        "name": "Dor Raviv",
+        "role": "Co-founder",
+        "background": "Israeli Navy veteran",
+        "origin": "Israeli",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "orca-ai",
+        "stage": "Series A",
+        "date": "2024-05",
+        "amount_m": 23.0,
+        "valuation_m": null,
+        "lead_investors": "OCV Partners; MizMaa Ventures",
+        "other_investors": "",
+        "source": "https://techcrunch.com/2024/05/23/autonomous-shipping-startup-orca-ai-tops-up-with-23m-led-by-ocv-partners-and-mizmaa-ventures/",
+        "notes": ""
+      },
+      {
+        "company_slug": "orca-ai",
+        "stage": "Series B",
+        "date": "2025-05",
+        "amount_m": 72.5,
+        "valuation_m": null,
+        "lead_investors": "Brighton Park Capital",
+        "other_investors": "",
+        "source": "https://www.calcalistech.com/ctechnews/article/bkotyuvgle",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
     "slug": "orchid-security",
     "name": "Orchid Security",
     "status": "active",
@@ -26099,6 +27527,39 @@
       }
     ],
     "funding_rounds": [
+      {
+        "company_slug": "oxa",
+        "stage": "Series B",
+        "date": "2018-06",
+        "amount_m": null,
+        "valuation_m": null,
+        "lead_investors": "Undisclosed",
+        "other_investors": "",
+        "source": "https://www.crunchbase.com/organization/oxbotica-ltd",
+        "notes": "First disclosed round. Amount undisclosed."
+      },
+      {
+        "company_slug": "oxa",
+        "stage": "Series B (extension)",
+        "date": "2021-01",
+        "amount_m": 47.0,
+        "valuation_m": null,
+        "lead_investors": "Undisclosed",
+        "other_investors": "",
+        "source": "https://en.wikipedia.org/wiki/Oxa",
+        "notes": ""
+      },
+      {
+        "company_slug": "oxa",
+        "stage": "Series C",
+        "date": "2023-10",
+        "amount_m": null,
+        "valuation_m": null,
+        "lead_investors": "Undisclosed",
+        "other_investors": "",
+        "source": "https://www.crunchbase.com/organization/oxbotica-ltd",
+        "notes": "Amount undisclosed."
+      },
       {
         "company_slug": "oxa",
         "stage": "Series D (first close)",
@@ -27539,6 +29000,76 @@
     "top_investors": []
   },
   {
+    "slug": "polyai",
+    "name": "PolyAI",
+    "status": "active",
+    "founded_year": "2017",
+    "hq": "London, UK",
+    "website": "https://poly.ai",
+    "sector": "voice-ai; conversational-ai; customer-service",
+    "one_liner": "Enterprise voice AI company building human-like conversational agents for customer service at scale.",
+    "total_raised_m": 200.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "high",
+    "last_updated": "2026-03-23",
+    "founders": [
+      {
+        "company_slug": "polyai",
+        "name": "Nikola Mrksic",
+        "role": "CEO",
+        "background": "University of Cambridge Machine Intelligence Lab; dialogue systems researcher",
+        "origin": "Serbian-British",
+        "prior": ""
+      },
+      {
+        "company_slug": "polyai",
+        "name": "Pei-Hao Su",
+        "role": "Co-founder",
+        "background": "University of Cambridge dialogue systems group",
+        "origin": "Taiwanese-British",
+        "prior": ""
+      },
+      {
+        "company_slug": "polyai",
+        "name": "Tsung-Hsien Wen",
+        "role": "Co-founder",
+        "background": "University of Cambridge dialogue systems group",
+        "origin": "Taiwanese-British",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "polyai",
+        "stage": "Series C",
+        "date": "2024-05",
+        "amount_m": 50.0,
+        "valuation_m": null,
+        "lead_investors": "NVIDIA; Khosla Ventures",
+        "other_investors": "",
+        "source": "https://sifted.eu/articles/polyai-series-d-86m",
+        "notes": ""
+      },
+      {
+        "company_slug": "polyai",
+        "stage": "Series D",
+        "date": "2025-12",
+        "amount_m": 86.0,
+        "valuation_m": null,
+        "lead_investors": "Georgian; Hedosophia; Khosla Ventures",
+        "other_investors": "",
+        "source": "https://techfundingnews.com/polyai-86m-series-d-nvidia-british-business-bank/",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
     "slug": "polygraf-ai",
     "name": "Polygraf AI",
     "status": "active",
@@ -27598,6 +29129,79 @@
     "top_investors": []
   },
   {
+    "slug": "pony-ai",
+    "name": "Pony.ai",
+    "status": "public",
+    "founded_year": "2016",
+    "hq": "Guangzhou, China",
+    "website": "https://pony.ai",
+    "sector": "autonomous-driving; robotaxi; self-driving",
+    "one_liner": "Chinese autonomous driving company operating fully driverless commercial robotaxi services across major Chinese cities.",
+    "total_raised_m": 2300.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "high",
+    "last_updated": "2026-03-23",
+    "founders": [
+      {
+        "company_slug": "pony-ai",
+        "name": "James Peng",
+        "role": "CEO",
+        "background": "Former Baidu autonomous driving executive",
+        "origin": "Chinese",
+        "prior": ""
+      },
+      {
+        "company_slug": "pony-ai",
+        "name": "Tiancheng Lou",
+        "role": "CTO",
+        "background": "Co-founded Pony.ai; world-class competitive programmer (ACM ICPC)",
+        "origin": "Chinese",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "pony-ai",
+        "stage": "Series C",
+        "date": "2021-11",
+        "amount_m": 100.0,
+        "valuation_m": null,
+        "lead_investors": "Ontario Teachers' Pension Plan",
+        "other_investors": "",
+        "source": "https://en.wikipedia.org/wiki/Pony.ai",
+        "notes": ""
+      },
+      {
+        "company_slug": "pony-ai",
+        "stage": "IPO (Nasdaq)",
+        "date": "2024-11",
+        "amount_m": 260.0,
+        "valuation_m": null,
+        "lead_investors": "Public Markets",
+        "other_investors": "",
+        "source": "https://en.wikipedia.org/wiki/Pony.ai",
+        "notes": ""
+      },
+      {
+        "company_slug": "pony-ai",
+        "stage": "IPO (Hong Kong Secondary)",
+        "date": "2025-11",
+        "amount_m": 830.0,
+        "valuation_m": null,
+        "lead_investors": "Public Markets",
+        "other_investors": "",
+        "source": "https://ir.pony.ai/news-releases/news-release-details/pony-ai-inc-kicks-fully-driverless-commercial-services-gen-7",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
     "slug": "poolside",
     "name": "Poolside",
     "status": "Private, Pre-IPO",
@@ -27647,6 +29251,57 @@
       "SentinelOne S Ventures",
       "Air Street Capital"
     ]
+  },
+  {
+    "slug": "port",
+    "name": "Port",
+    "status": "active",
+    "founded_year": "2022",
+    "hq": "Tel Aviv, Israel",
+    "website": "https://www.getport.io",
+    "sector": "developer-platform; ai-agents; software-engineering",
+    "one_liner": "Agentic engineering platform that uses AI to automate operational work across the software development lifecycle.",
+    "total_raised_m": 158.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "high",
+    "last_updated": "2026-03-23",
+    "founders": [
+      {
+        "company_slug": "port",
+        "name": "Zohar Einy",
+        "role": "CEO",
+        "background": "Built internal developer portal for IDF Unit 8200 serving 2,000+ developers",
+        "origin": "Israeli",
+        "prior": ""
+      },
+      {
+        "company_slug": "port",
+        "name": "Yonatan Boguslavski",
+        "role": "CTO",
+        "background": "Co-built developer platform at IDF Unit 8200",
+        "origin": "Israeli",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "port",
+        "stage": "Series C",
+        "date": "2025-12",
+        "amount_m": 100.0,
+        "valuation_m": null,
+        "lead_investors": "General Atlantic",
+        "other_investors": "",
+        "source": "https://techcrunch.com/2025/12/11/port-raises-100m-at-800m-valuation-to-take-on-spotifys-backstage/",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
   },
   {
     "slug": "positron-ai",
@@ -27853,6 +29508,68 @@
         "lead_investors": "Base10 Partners",
         "other_investors": "",
         "source": "https://hitconsultant.net/2025/09/02/predoc-raises-30m/",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
+    "slug": "preferred-networks",
+    "name": "Preferred Networks",
+    "status": "active",
+    "founded_year": "2014",
+    "hq": "Tokyo, Japan",
+    "website": "https://www.preferred.jp/en",
+    "sector": "foundation-models; ai-chips; robotics; deep-learning",
+    "one_liner": "Japan's leading AI company developing custom AI chips, foundation models, and deep learning solutions across manufacturing and robotics.",
+    "total_raised_m": 200.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-23",
+    "founders": [
+      {
+        "company_slug": "preferred-networks",
+        "name": "Toru Nishikawa",
+        "role": "CEO",
+        "background": "Computer science researcher; led PFN from deep learning research lab to vertically integrated AI company",
+        "origin": "Japanese",
+        "prior": ""
+      },
+      {
+        "company_slug": "preferred-networks",
+        "name": "Daisuke Okanohara",
+        "role": "Co-founder",
+        "background": "AI researcher; former associate professor at University of Tokyo",
+        "origin": "Japanese",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "preferred-networks",
+        "stage": "Growth Round",
+        "date": "2024-12",
+        "amount_m": 130.0,
+        "valuation_m": null,
+        "lead_investors": "Development Bank of Japan; SBI Holdings",
+        "other_investors": "",
+        "source": "https://www.preferred.jp/en/news/pr20241223",
+        "notes": ""
+      },
+      {
+        "company_slug": "preferred-networks",
+        "stage": "Extension Round",
+        "date": "2025-04",
+        "amount_m": 35.0,
+        "valuation_m": null,
+        "lead_investors": "Undisclosed",
+        "other_investors": "",
+        "source": "https://www.preferred.jp/en/news/pr20250430",
         "notes": ""
       }
     ],
@@ -28326,15 +30043,15 @@
     "website": "https://www.radai.com",
     "sector": "AI Healthcare / Radiology",
     "one_liner": "Generative AI for radiology \u2014 automates reports, dictation, follow-up. Used by 1/3 of US health systems.",
-    "total_raised_m": 80.0,
+    "total_raised_m": 153.0,
     "latest_valuation_m": null,
     "employees": null,
     "revenue_signals": null,
     "business_model": null,
     "key_customers": null,
     "team_china_profile": null,
-    "confidence": "medium",
-    "last_updated": "2026-03-21",
+    "confidence": "high",
+    "last_updated": "2026-03-23",
     "founders": [
       {
         "company_slug": "rad-ai",
@@ -28356,14 +30073,47 @@
     "funding_rounds": [
       {
         "company_slug": "rad-ai",
+        "stage": "Seed",
+        "date": 2019,
+        "amount_m": null,
+        "valuation_m": null,
+        "lead_investors": "Gradient Ventures (Google); OCV Partners; Kickstart Fund",
+        "other_investors": "",
+        "source": "https://tracxn.com/d/companies/radai/",
+        "notes": "Amount undisclosed."
+      },
+      {
+        "company_slug": "rad-ai",
+        "stage": "Series A",
+        "date": "2021-11",
+        "amount_m": 25.0,
+        "valuation_m": null,
+        "lead_investors": "ARTIS Ventures",
+        "other_investors": "",
+        "source": "https://www.radai.com/news/rad-ai-closes-25-million-series-a-to-transform-radiology-workflow-by-harnessing-the-power-of-artificial-intelligence",
+        "notes": "OCV Partners, Kickstart Fund, Gradient Ventures also participated."
+      },
+      {
+        "company_slug": "rad-ai",
         "stage": "Series B",
         "date": "2024-05",
         "amount_m": 50.0,
         "valuation_m": null,
         "lead_investors": "Khosla Ventures",
         "other_investors": "",
-        "source": "",
-        "notes": ""
+        "source": "https://www.radai.com/news/rad-ai-closes-50-million-to-empower-physicians-with-ai",
+        "notes": "WiL, ARTIS Ventures, OCV Partners, Gradient Ventures also participated. Total over $80M at this point."
+      },
+      {
+        "company_slug": "rad-ai",
+        "stage": "Series C",
+        "date": "2025-01",
+        "amount_m": 73.0,
+        "valuation_m": null,
+        "lead_investors": "Transformation Capital",
+        "other_investors": "",
+        "source": "https://tracxn.com/d/companies/radai/",
+        "notes": "Advocate Health, Memorial Hermann, Corewell Health, Atlantic Health System also invested."
       }
     ],
     "top_investors": []
@@ -28517,8 +30267,8 @@
     "funding_rounds": [
       {
         "company_slug": "rain-ai",
-        "stage": "YC + Early rounds",
-        "date": "2018-2021",
+        "stage": "YC Batch",
+        "date": 2018,
         "amount_m": null,
         "valuation_m": null,
         "lead_investors": "Y Combinator",
@@ -28528,22 +30278,44 @@
       },
       {
         "company_slug": "rain-ai",
+        "stage": "Seed",
+        "date": 2018,
+        "amount_m": 5.0,
+        "valuation_m": null,
+        "lead_investors": "Sam Altman (personal)",
+        "other_investors": "",
+        "source": "https://www.design-reuse.com/news/51363/rain-neuromorphics-funding.html",
+        "notes": "$5M seed led by Sam Altman."
+      },
+      {
+        "company_slug": "rain-ai",
         "stage": "Series A",
-        "date": "2022",
+        "date": "2022-02",
         "amount_m": 25.0,
         "valuation_m": null,
-        "lead_investors": "Undisclosed",
+        "lead_investors": "Prosperity 7 Ventures",
+        "other_investors": "",
+        "source": "https://www.design-reuse.com/news/51363/rain-neuromorphics-funding.html",
+        "notes": "Buckley Ventures, Gaingels, Loup Ventures, Metaplanet, Pioneer Fund. Angel investors include Sam Altman."
+      },
+      {
+        "company_slug": "rain-ai",
+        "stage": "Series A (extension)",
+        "date": "2024-05",
+        "amount_m": 8.1,
+        "valuation_m": null,
+        "lead_investors": "Gaingels",
         "other_investors": "",
         "source": "https://www.crunchbase.com/organization/rain-ai",
         "notes": ""
       },
       {
         "company_slug": "rain-ai",
-        "stage": "Subsequent rounds",
-        "date": "2022-2024",
-        "amount_m": null,
+        "stage": "Bridge",
+        "date": "2025-05",
+        "amount_m": 3.0,
         "valuation_m": null,
-        "lead_investors": "Sam Altman (personal)",
+        "lead_investors": "Undisclosed",
         "other_investors": "",
         "source": "https://www.crunchbase.com/organization/rain-ai",
         "notes": ""
@@ -29465,14 +31237,36 @@
     "funding_rounds": [
       {
         "company_slug": "rhino-federated",
+        "stage": "Seed",
+        "date": 2021,
+        "amount_m": 5.0,
+        "valuation_m": null,
+        "lead_investors": "LionBird; Fusion Fund",
+        "other_investors": "",
+        "source": "https://www.crunchbase.com/organization/rhino-health",
+        "notes": "$5M seed round for AI-based healthcare solutions."
+      },
+      {
+        "company_slug": "rhino-federated",
+        "stage": "Seed II",
+        "date": "2022-04",
+        "amount_m": null,
+        "valuation_m": null,
+        "lead_investors": "Undisclosed",
+        "other_investors": "",
+        "source": "https://www.crunchbase.com/organization/rhino-health",
+        "notes": "Valuation $36.7M. Amount undisclosed."
+      },
+      {
+        "company_slug": "rhino-federated",
         "stage": "Series A",
         "date": "2025-05",
         "amount_m": 15.0,
         "valuation_m": null,
         "lead_investors": "AlleyCorp",
         "other_investors": "",
-        "source": "",
-        "notes": ""
+        "source": "https://www.rhinofcp.com/blog/series-a",
+        "notes": "All existing institutional investors participated. Total funding over $30M."
       }
     ],
     "top_investors": []
@@ -29860,11 +31654,22 @@
     "funding_rounds": [
       {
         "company_slug": "runware",
+        "stage": "Seed",
+        "date": "2024-10",
+        "amount_m": 13.0,
+        "valuation_m": null,
+        "lead_investors": "Insight Partners; a16z Speedrun; Begin Capital; Zero Prime",
+        "other_investors": "",
+        "source": "https://runware.ai/blog/runware-raises-13m-seed-to-scale-ai-generation-platform-for-developers",
+        "notes": ""
+      },
+      {
+        "company_slug": "runware",
         "stage": "Series A",
         "date": "2025-12",
         "amount_m": 50.0,
         "valuation_m": null,
-        "lead_investors": "Dawn Capital; Comcast Ventures",
+        "lead_investors": "Dawn Capital; Comcast Ventures; Speedinvest; Insight Partners",
         "other_investors": "",
         "source": "https://techcrunch.com/2025/12/11/runware-raises-50m-series-a/",
         "notes": ""
@@ -30238,21 +32043,21 @@
   {
     "slug": "sana-labs",
     "name": "Sana Labs",
-    "status": "active",
+    "status": "acquired",
     "founded_year": "2016",
     "hq": "Stockholm, Sweden",
     "website": "https://sanalabs.com",
     "sector": "AI EdTech / Enterprise Learning",
     "one_liner": "AI-powered workplace training and enterprise knowledge assistant. M valuation.",
-    "total_raised_m": 130.0,
+    "total_raised_m": 137.0,
     "latest_valuation_m": null,
     "employees": null,
     "revenue_signals": null,
     "business_model": null,
     "key_customers": null,
     "team_china_profile": null,
-    "confidence": "medium",
-    "last_updated": "2026-03-21",
+    "confidence": "high",
+    "last_updated": "2026-03-23",
     "founders": [
       {
         "company_slug": "sana-labs",
@@ -30266,14 +32071,47 @@
     "funding_rounds": [
       {
         "company_slug": "sana-labs",
+        "stage": "Seed",
+        "date": "2017-08",
+        "amount_m": null,
+        "valuation_m": null,
+        "lead_investors": "Undisclosed",
+        "other_investors": "",
+        "source": "https://www.crunchbase.com/organization/sana-2",
+        "notes": "Amount undisclosed."
+      },
+      {
+        "company_slug": "sana-labs",
         "stage": "Series B",
-        "date": "2025",
+        "date": "2022-12",
+        "amount_m": 34.0,
+        "valuation_m": null,
+        "lead_investors": "Menlo Ventures; EQT Ventures",
+        "other_investors": "",
+        "source": "https://techcrunch.com/2022/12/13/sana-raises-34m-for-its-ai-based-knowledge-management-and-learning-platform-for-workplaces/",
+        "notes": "Valued at $180M post-money."
+      },
+      {
+        "company_slug": "sana-labs",
+        "stage": "Series B Extension",
+        "date": "2023-05",
+        "amount_m": 28.0,
+        "valuation_m": null,
+        "lead_investors": "NEA; Workday Ventures",
+        "other_investors": "",
+        "source": "https://www.prnewswire.com/news-releases/sana-raises-additional-28m-led-by-nea-301838430.html",
+        "notes": "Total Series B = $62M."
+      },
+      {
+        "company_slug": "sana-labs",
+        "stage": "Series C",
+        "date": "2024-10",
         "amount_m": 55.0,
         "valuation_m": null,
-        "lead_investors": "NEA",
+        "lead_investors": "NEA; Menlo Ventures",
         "other_investors": "",
-        "source": "",
-        "notes": ""
+        "source": "https://sanalabs.com/resources/announcing-sanas-series-b-round",
+        "notes": "Valuation $500M. Acquired by Workday Nov 2025."
       }
     ],
     "top_investors": []
@@ -30609,6 +32447,68 @@
         "lead_investors": "Elad Gil",
         "other_investors": "",
         "source": "https://www.prnewswire.com/news-releases/saronic-raises-600m-series-c-to-take-on-autonomous-shipbuilding-302379441.html",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
+    "slug": "sarvam-ai",
+    "name": "Sarvam AI",
+    "status": "active",
+    "founded_year": "2023",
+    "hq": "Bengaluru, India",
+    "website": "https://www.sarvam.ai",
+    "sector": "sovereign-ai; foundation-models; indian-languages",
+    "one_liner": "India's full-stack sovereign AI platform building foundation models optimized for Indian languages and culture.",
+    "total_raised_m": 54.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-23",
+    "founders": [
+      {
+        "company_slug": "sarvam-ai",
+        "name": "Vivek Raghavan",
+        "role": "Co-founder",
+        "background": "Former Chief Product Manager and Biometric Architect at UIDAI (Aadhaar); key role in scaling India's biometric ID system",
+        "origin": "Indian",
+        "prior": ""
+      },
+      {
+        "company_slug": "sarvam-ai",
+        "name": "Pratyush Kumar",
+        "role": "Co-founder",
+        "background": "Adjunct faculty at IIT Madras; co-founded AI4Bharat, open-source initiative for AI in Indian languages",
+        "origin": "Indian",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "sarvam-ai",
+        "stage": "Seed + Series A",
+        "date": "2023-12",
+        "amount_m": 41.0,
+        "valuation_m": null,
+        "lead_investors": "Lightspeed Venture Partners",
+        "other_investors": "",
+        "source": "https://www.sarvam.ai/blogs/announcing-series-a",
+        "notes": ""
+      },
+      {
+        "company_slug": "sarvam-ai",
+        "stage": "Follow-on",
+        "date": "2025-01",
+        "amount_m": 13.0,
+        "valuation_m": null,
+        "lead_investors": "Khosla Ventures",
+        "other_investors": "",
+        "source": "https://www.businesstoday.in/magazine/cover-story/story/the-sarvam-moment-how-the-local-ai-start-up-could-reshape-indias-tech-push-520734-2026-03-16",
         "notes": ""
       }
     ],
@@ -34934,7 +36834,7 @@
     "key_customers": null,
     "team_china_profile": null,
     "confidence": "medium",
-    "last_updated": "2026-03-21",
+    "last_updated": "2026-03-23",
     "founders": [
       {
         "company_slug": "tars-ai",
@@ -34964,14 +36864,25 @@
     "funding_rounds": [
       {
         "company_slug": "tars-ai",
+        "stage": "Angel",
+        "date": "2025-03",
+        "amount_m": 120.0,
+        "valuation_m": null,
+        "lead_investors": "Lanchi Ventures; Qiming Venture Partners; Linear Capital; Hengxu Capital; Hongtai Aplus",
+        "other_investors": "",
+        "source": "https://www.caproasia.com/2025/03/28/china-ai-tech-startup-tars-tashi-zhihang-raised-120-million/",
+        "notes": "Initial $120M raise, just one month after founding."
+      },
+      {
+        "company_slug": "tars-ai",
         "stage": "Angel+",
         "date": "2025-07",
         "amount_m": 122.0,
         "valuation_m": null,
-        "lead_investors": "Meituan; Junchi Capital; SAIF Partners",
+        "lead_investors": "Meituan (strategic); Junshan Capital; SAIF Partners",
         "other_investors": "",
-        "source": "https://techcrunch.com/",
-        "notes": ""
+        "source": "https://technode.com/2025/07/09/embodied-ai-startup-tars-completes-122-million-angel-funding-round-report/",
+        "notes": "Second round four months after first. Existing investors Linear Capital and Xianghe Capital also participated."
       }
     ],
     "top_investors": []
@@ -36202,6 +38113,76 @@
     "top_investors": []
   },
   {
+    "slug": "tractable",
+    "name": "Tractable",
+    "status": "active",
+    "founded_year": "2014",
+    "hq": "London, UK",
+    "website": "https://tractable.ai",
+    "sector": "computer-vision; insurtech; damage-assessment",
+    "one_liner": "UK's first computer vision unicorn, using AI to automate vehicle and property damage appraisals for insurers.",
+    "total_raised_m": 185.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "high",
+    "last_updated": "2026-03-23",
+    "founders": [
+      {
+        "company_slug": "tractable",
+        "name": "Alex Dalyac",
+        "role": "CEO",
+        "background": "Former researcher at Imperial College London; Entrepreneur First alumnus",
+        "origin": "French",
+        "prior": ""
+      },
+      {
+        "company_slug": "tractable",
+        "name": "Razvan Ranca",
+        "role": "Co-founder",
+        "background": "Former researcher at University of Cambridge; Entrepreneur First alumnus",
+        "origin": "Romanian",
+        "prior": ""
+      },
+      {
+        "company_slug": "tractable",
+        "name": "Adrien Cohen",
+        "role": "Co-founder",
+        "background": "Entrepreneur First alumnus",
+        "origin": "French",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "tractable",
+        "stage": "Series D",
+        "date": "2021-06",
+        "amount_m": 60.0,
+        "valuation_m": null,
+        "lead_investors": "Insight Partners; Georgian",
+        "other_investors": "",
+        "source": "https://techcrunch.com/2021/06/16/tractable-raises-60m-at-a-1b-valuation-to-make-damage-appraisals-using-ai/",
+        "notes": ""
+      },
+      {
+        "company_slug": "tractable",
+        "stage": "Series E",
+        "date": "2023-07",
+        "amount_m": 65.0,
+        "valuation_m": null,
+        "lead_investors": "SoftBank Vision Fund 2",
+        "other_investors": "",
+        "source": "https://insurtechdigital.com/articles/insurance-claims-ai-unicorn-tractable-closes-65m-series-e",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
     "slug": "tractian",
     "name": "Tractian",
     "status": "Private",
@@ -37185,14 +39166,25 @@
     "funding_rounds": [
       {
         "company_slug": "unique-ai",
+        "stage": "Seed",
+        "date": 2022,
+        "amount_m": 23.0,
+        "valuation_m": null,
+        "lead_investors": "VI Partners; Pictet Group",
+        "other_investors": "",
+        "source": "https://www.unique.ai/en/blog/unique-secures-usd-30-million-series-a-to-pioneer-agentic-ai-workforce-in-financial-services-2",
+        "notes": "Estimated ~$23M based on $53M total minus $30M Series A."
+      },
+      {
+        "company_slug": "unique-ai",
         "stage": "Series A",
         "date": "2025-02",
         "amount_m": 30.0,
         "valuation_m": null,
-        "lead_investors": "DN Capital; CommerzVentures",
+        "lead_investors": "CommerzVentures; DN Capital",
         "other_investors": "",
-        "source": "",
-        "notes": ""
+        "source": "https://www.unique.ai/en/blog/unique-secures-usd-30-million-series-a-to-pioneer-agentic-ai-workforce-in-financial-services-2",
+        "notes": "Continued support from existing seed investors VI Partners and Pictet Group."
       }
     ],
     "top_investors": []
@@ -37473,11 +39465,33 @@
     "funding_rounds": [
       {
         "company_slug": "upstage",
+        "stage": "Series A",
+        "date": 2021,
+        "amount_m": 23.0,
+        "valuation_m": null,
+        "lead_investors": "Undisclosed",
+        "other_investors": "",
+        "source": "https://en.wikipedia.org/wiki/Upstage_(company)",
+        "notes": "31.6 billion won (~$23M)."
+      },
+      {
+        "company_slug": "upstage",
+        "stage": "Series B",
+        "date": "2024-04",
+        "amount_m": 72.0,
+        "valuation_m": null,
+        "lead_investors": "SK Networks; KT; Korea Development Bank",
+        "other_investors": "",
+        "source": "https://www.upstage.ai/news/upstage-series-b-funding",
+        "notes": "Most-funded South Korean AI software company at the time."
+      },
+      {
+        "company_slug": "upstage",
         "stage": "Series B Bridge",
         "date": "2025-08",
         "amount_m": 45.0,
         "valuation_m": null,
-        "lead_investors": "Amazon; AMD",
+        "lead_investors": "Korea Development Bank (KDB); Amazon; AMD",
         "other_investors": "",
         "source": "",
         "notes": ""
@@ -39276,6 +41290,79 @@
     "top_investors": []
   },
   {
+    "slug": "weride",
+    "name": "WeRide",
+    "status": "public",
+    "founded_year": "2017",
+    "hq": "Guangzhou, China",
+    "website": "https://www.weride.ai",
+    "sector": "autonomous-driving; robotaxi; self-driving",
+    "one_liner": "Chinese autonomous driving company operating robotaxis and autonomous vehicles across multiple cities globally.",
+    "total_raised_m": 1400.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "high",
+    "last_updated": "2026-03-23",
+    "founders": [
+      {
+        "company_slug": "weride",
+        "name": "Tony Han",
+        "role": "CEO",
+        "background": "Former Chief Scientist of Baidu's Autonomous Driving Unit",
+        "origin": "Chinese",
+        "prior": ""
+      },
+      {
+        "company_slug": "weride",
+        "name": "Yan Li",
+        "role": "Co-founder",
+        "background": "Co-founded WeRide in Silicon Valley",
+        "origin": "Chinese",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "weride",
+        "stage": "Series C",
+        "date": "2021-05",
+        "amount_m": 310.0,
+        "valuation_m": null,
+        "lead_investors": "IDG Capital",
+        "other_investors": "",
+        "source": "https://www.cnbc.com/2021/05/13/china-autonomous-driving-firm-weride-valued-at-3point3-billion-after-funding.html",
+        "notes": ""
+      },
+      {
+        "company_slug": "weride",
+        "stage": "IPO (Nasdaq)",
+        "date": "2024-10",
+        "amount_m": 440.0,
+        "valuation_m": null,
+        "lead_investors": "Public Markets",
+        "other_investors": "",
+        "source": "https://en.wikipedia.org/wiki/WeRide",
+        "notes": ""
+      },
+      {
+        "company_slug": "weride",
+        "stage": "IPO (Hong Kong Secondary)",
+        "date": "2025-11",
+        "amount_m": 291.0,
+        "valuation_m": null,
+        "lead_investors": "Public Markets",
+        "other_investors": "",
+        "source": "https://fortune.com/2025/11/06/weride-ceo-tony-han-robotaxi-hong-kong-ipo-shares-safety/",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
     "slug": "windborne",
     "name": "WindBorne Systems",
     "status": "active",
@@ -39474,14 +41561,25 @@
     "funding_rounds": [
       {
         "company_slug": "wisdomai",
+        "stage": "Seed",
+        "date": "2025-05",
+        "amount_m": 23.0,
+        "valuation_m": null,
+        "lead_investors": "Coatue",
+        "other_investors": "",
+        "source": "https://www.wisdom.ai/blog/announcing-our-series-a-funding",
+        "notes": "$23M seed led by Coatue. Also Latitude Capital, Madrona, GTM Capital, Menlo Ventures, U First Capital."
+      },
+      {
+        "company_slug": "wisdomai",
         "stage": "Series A",
         "date": "2025-11",
         "amount_m": 50.0,
         "valuation_m": null,
         "lead_investors": "Kleiner Perkins; Nvidia NVentures",
         "other_investors": "",
-        "source": "",
-        "notes": ""
+        "source": "https://www.wisdom.ai/blog/announcing-our-series-a-funding",
+        "notes": "Six months after seed. Total $73M."
       }
     ],
     "top_investors": []
@@ -39523,6 +41621,17 @@
       }
     ],
     "funding_rounds": [
+      {
+        "company_slug": "wispr-ai",
+        "stage": "Seed",
+        "date": 2024,
+        "amount_m": 26.0,
+        "valuation_m": null,
+        "lead_investors": "Undisclosed",
+        "other_investors": "",
+        "source": "https://sacra.com/c/wispr/",
+        "notes": "Estimated ~$26M based on $81M total minus $55M Series A rounds. Early backers included Matt Kraning (Menlo Ventures) as angel."
+      },
       {
         "company_slug": "wispr-ai",
         "stage": "Series A",
@@ -39888,7 +41997,7 @@
     "website": "https://www.x2robot.com/en",
     "sector": "Humanoid Robotics / Service Robots",
     "one_liner": "Humanoid service robots for hotels, schools, retirement homes. Open-source embodied AI model. ~$280M raised.",
-    "total_raised_m": 280.0,
+    "total_raised_m": 297.0,
     "latest_valuation_m": null,
     "employees": null,
     "revenue_signals": null,
@@ -39911,13 +42020,24 @@
       {
         "company_slug": "x-square-robot",
         "stage": "Series A+",
-        "date": "2025",
+        "date": "2025-09",
+        "amount_m": 100.0,
+        "valuation_m": null,
+        "lead_investors": "Alibaba Cloud; HongShan; INCE Capital",
+        "other_investors": "",
+        "source": "https://www.therobotreport.com/x-square-robot-debuts-foundation-model-embodied-ai-100m-series-a/",
+        "notes": "Meituan, Legend Star, Legend Capital also participated as existing backers."
+      },
+      {
+        "company_slug": "x-square-robot",
+        "stage": "Series A++",
+        "date": "2026-01",
         "amount_m": 140.0,
         "valuation_m": null,
-        "lead_investors": "Alibaba Cloud; HongShan; Meituan",
+        "lead_investors": "ByteDance; HongShan",
         "other_investors": "",
-        "source": "",
-        "notes": ""
+        "source": "https://www.prnewswire.com/apac/news-releases/x-square-robot-secures-140-million-in-series-a-funding-302659254.html",
+        "notes": "RMB 1 billion. Also Shenzhen Capital Group, Wuxi Capital, Alibaba Group, Meituan."
       }
     ],
     "top_investors": []
@@ -40299,7 +42419,7 @@
     "website": "https://you.com",
     "sector": "AI Search / Productivity",
     "one_liner": "AI-powered search and productivity engine with multi-model approach. Enterprise and consumer AI assistant.",
-    "total_raised_m": 145.0,
+    "total_raised_m": 199.0,
     "latest_valuation_m": null,
     "employees": null,
     "revenue_signals": null,
@@ -40329,14 +42449,47 @@
     "funding_rounds": [
       {
         "company_slug": "you-com",
+        "stage": "Seed",
+        "date": "2021-11",
+        "amount_m": 20.0,
+        "valuation_m": null,
+        "lead_investors": "Marc Benioff (Salesforce founder); Breyer Capital; Sound Ventures",
+        "other_investors": "",
+        "source": "https://en.wikipedia.org/wiki/You.com",
+        "notes": ""
+      },
+      {
+        "company_slug": "you-com",
+        "stage": "Series A",
+        "date": "2022-07",
+        "amount_m": 25.0,
+        "valuation_m": null,
+        "lead_investors": "Radical Ventures",
+        "other_investors": "",
+        "source": "https://www.crunchbase.com/organization/you-com-523e",
+        "notes": "Time Ventures, Breyer Capital, Norwest Venture Partners, Day One Ventures."
+      },
+      {
+        "company_slug": "you-com",
+        "stage": "Series B",
+        "date": "2024-09",
+        "amount_m": 50.0,
+        "valuation_m": null,
+        "lead_investors": "Georgian",
+        "other_investors": "",
+        "source": "https://you.com/resources/youdotcom-usd50m-series-b-press-release",
+        "notes": "Salesforce Ventures, NVIDIA, Gen Digital, DuckDuckGo also participated."
+      },
+      {
+        "company_slug": "you-com",
         "stage": "Series C",
-        "date": "2025-12",
+        "date": "2025-09",
         "amount_m": 100.0,
         "valuation_m": null,
-        "lead_investors": "",
+        "lead_investors": "Cox Enterprises",
         "other_investors": "",
-        "source": "",
-        "notes": ""
+        "source": "https://www.investing.com/news/company-news/youcom-secures-100m-in-series-c-funding-at-15b-valuation-93CH-4222089",
+        "notes": "$1.5B valuation. Unicorn status."
       }
     ],
     "top_investors": []

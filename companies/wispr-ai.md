@@ -12,6 +12,14 @@ founders:
 - name: Sahaj Garg
   role: CTO
 funding_rounds:
+- stage: Seed
+  date: 2024
+  amount_m: 26
+  lead_investors:
+  - Undisclosed
+  source: https://sacra.com/c/wispr/
+  notes: Estimated ~$26M based on $81M total minus $55M Series A rounds. Early backers included Matt Kraning (Menlo
+    Ventures) as angel.
 - stage: Series A
   date: 2025-06
   amount_m: 30

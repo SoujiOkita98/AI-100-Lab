@@ -7,11 +7,24 @@ sector: AI Video Analytics / Workplace Safety
 one_liner: Turns existing security cameras into intelligent AI detecting safety incidents and monitoring compliance.
 status: active
 funding_rounds:
+- stage: Pre-Seed / Seed
+  date: 2023-08
+  amount_m: 5.25
+  lead_investors:
+  - Battery Ventures
+  - 8VC
+  - Air Street Capital
+  - K5 Global
+  - Mosaic Ventures
+  source: https://www.crunchbase.com/organization/coram-ai
+  notes: First funding round. Labeled as Series A on Crunchbase but functionally seed stage.
 - stage: Series A
   date: 2025-01
   amount_m: 13.8
   lead_investors:
   - Battery Ventures
+  source: https://www.businesswire.com/news/home/20250115943800/en/Coram-AI-Raises-13.8-Million-in-Series-A-Funding
+  notes: 8VC and Mosaic Ventures also participated. Total funding $30M.
 last_updated: 2026-03-21
 confidence: medium
 crunchbase: https://www.crunchbase.com/organization/coram-ai

@@ -24,18 +24,54 @@ crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/dataminr
 total_raised_m: 1240
 funding_rounds:
-- stage: Series A-D
-  date: 2011-2015
+- stage: Seed
+  date: 2009-10
+  amount_m: 2
+  lead_investors:
+  - Undisclosed
+  source: https://www.crunchbase.com/organization/dataminr
+  notes: $1.98M seed round.
+- stage: Venture Round
+  date: 2010-08
+  amount_m: null
+  lead_investors:
+  - Undisclosed
+  source: https://www.crunchbase.com/organization/dataminr
+- stage: Series A
+  date: 2011
+  amount_m: null
   lead_investors:
   - BoxGroup
-  - IVP
-  - Fidelity
   source: https://www.crunchbase.com/organization/dataminr
+  notes: Amount undisclosed.
+- stage: Series B
+  date: 2012-09
+  amount_m: 16.5
+  lead_investors:
+  - Deep Fork Capital
+  source: https://www.crunchbase.com/organization/dataminr
+- stage: Series C
+  date: 2013-06
+  amount_m: 34
+  lead_investors:
+  - IVP
+  source: https://www.crunchbase.com/organization/dataminr
+- stage: Series D
+  date: 2015-02
+  amount_m: null
+  lead_investors:
+  - Fidelity Investments
+  - Goldman Sachs
+  source: https://www.crunchbase.com/organization/dataminr
+  notes: Amount undisclosed.
 - stage: Series E
   date: 2018-05
+  amount_m: null
   lead_investors:
   - Vulcan Capital
+  - Moore Strategic Ventures
   source: https://www.crunchbase.com/organization/dataminr
+  notes: Amount undisclosed.
 - stage: Series F
   date: 2021-03
   amount_m: 475
@@ -56,7 +92,8 @@ funding_rounds:
   lead_investors:
   - Fortress Investment Group
   source: https://www.crunchbase.com/organization/dataminr
-data_notes: Total ~$1.24B across 13+ rounds. Early round amounts (Series A-E) undisclosed.
+data_notes: Total ~$1.24B across 13+ rounds. Seed ($2M), Series B ($16.5M), Series C ($34M) now broken out. Series
+  A, D, E amounts remain undisclosed.
 name: Dataminr
 linkedin_verified: true
 ---

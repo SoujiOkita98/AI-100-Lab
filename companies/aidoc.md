@@ -13,23 +13,50 @@ founders:
   role: CTO
   origin: Israeli (Russian-Jewish heritage)
 funding_rounds:
+- stage: Series B
+  date: 2019
+  amount_m: 27
+  lead_investors:
+  - Undisclosed
+  source: https://www.aidoc.com/about/news/aidoc-announces-funding/
+- stage: Series B Extension
+  date: 2020
+  amount_m: 20
+  lead_investors:
+  - Undisclosed
+  source: https://www.aidoc.com/about/news/aidoc-announces-funding/
+  notes: Brought total to $60M.
+- stage: Series C
+  date: 2021
+  amount_m: 66
+  lead_investors:
+  - Undisclosed
+  source: https://tracxn.com/d/companies/aidoc/
 - stage: Series D
+  date: 2022
+  amount_m: 110
+  lead_investors:
+  - Undisclosed
+  source: https://www.aidoc.com/about/news/aidoc-110-million-funding/
+- stage: Series E
   date: 2025-07
-  amount_m: 150
+  amount_m: 110
   lead_investors:
   - General Catalyst
   - Square Peg
   - NVentures
-last_updated: 2026-03-21
-confidence: medium
-data_notes: 'Needs verification: website, source_urls. Profile may be incomplete.'
+  source: https://www.fiercehealthcare.com/health-tech/clinical-ai-company-aidoc-lands-150m-backed-general-catalyst-nvidias-venture-arm
+  notes: Round was $150M including $40M revolving credit facility. Equity portion ~$110M.
+last_updated: 2026-03-23
+confidence: high
+data_notes: Funding history expanded. Total ~$384M per Tracxn across 12 rounds including seed and debt.
 website: https://www.aidoc.com
 website_verified: true
 linkedin: https://www.linkedin.com/company/aidoc
 crunchbase: https://www.crunchbase.com/organization/aidoc
 crunchbase_verified: true
 twitter: '@aidocmed'
-total_raised_m: 250.0
+total_raised_m: 384
 linkedin_verified: true
 ---
 

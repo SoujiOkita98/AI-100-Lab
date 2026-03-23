@@ -7,11 +7,20 @@ one_liner: AI video security using vision-language models — turns any camera i
   NYU as clients.
 status: active
 funding_rounds:
+- stage: Seed
+  date: 2024-04
+  amount_m: 24
+  lead_investors:
+  - S Capital
+  source: https://tracxn.com/d/companies/lumana/
+  notes: Founded 2021, emerged from stealth 2024.
 - stage: Series A
   date: 2025-07
   amount_m: 40
   lead_investors:
   - Wing VC
+  source: https://www.lumana.ai/blog/lumana-secures-40-million-to-lead-the-next-era-of-ai-powered-video-intelligence
+  notes: Largest Series A in video security sector history. Norwest and S Capital also participated.
 last_updated: 2026-03-21
 confidence: medium
 linkedin: https://www.linkedin.com/company/lumana-ai

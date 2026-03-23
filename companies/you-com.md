@@ -7,9 +7,35 @@ sector: AI Search / Productivity
 one_liner: AI-powered search and productivity engine with multi-model approach. Enterprise and consumer AI assistant.
 status: active
 funding_rounds:
+- stage: Seed
+  date: 2021-11
+  amount_m: 20
+  lead_investors:
+  - Marc Benioff (Salesforce founder)
+  - Breyer Capital
+  - Sound Ventures
+  source: https://en.wikipedia.org/wiki/You.com
+- stage: Series A
+  date: 2022-07
+  amount_m: 25
+  lead_investors:
+  - Radical Ventures
+  source: https://www.crunchbase.com/organization/you-com-523e
+  notes: Time Ventures, Breyer Capital, Norwest Venture Partners, Day One Ventures.
+- stage: Series B
+  date: 2024-09
+  amount_m: 50
+  lead_investors:
+  - Georgian
+  source: https://you.com/resources/youdotcom-usd50m-series-b-press-release
+  notes: Salesforce Ventures, NVIDIA, Gen Digital, DuckDuckGo also participated.
 - stage: Series C
-  date: 2025-12
+  date: 2025-09
   amount_m: 100
+  lead_investors:
+  - Cox Enterprises
+  source: https://www.investing.com/news/company-news/youcom-secures-100m-in-series-c-funding-at-15b-valuation-93CH-4222089
+  notes: $1.5B valuation. Unicorn status.
 founders:
 - name: Richard Socher
   role: Co-Founder & CEO
@@ -30,7 +56,7 @@ linkedin: https://www.linkedin.com/company/youdotcom
 crunchbase: https://www.crunchbase.com/organization/you-com
 crunchbase_verified: true
 twitter: '@youdotcom'
-total_raised_m: 145.0
+total_raised_m: 199
 linkedin_verified: true
 ---
 

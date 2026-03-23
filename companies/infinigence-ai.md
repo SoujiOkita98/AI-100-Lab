@@ -14,6 +14,23 @@ logo: null
 total_raised_m: 210
 latest_valuation_m: null
 funding_rounds:
+- stage: Seed
+  date: 2023-12
+  amount_m: null
+  lead_investors:
+  - HongShan
+  - Baidu
+  source: https://tracxn.com/d/companies/infinigence/
+  notes: First funding round. Amount undisclosed. Founded May 2023.
+- stage: Series A
+  date: 2024-09
+  amount_m: 70
+  lead_investors:
+  - Social Security Fund Zhongguancun
+  - Qiming Venture Partners
+  - Hongtai Aplus
+  source: https://en.tmtpost.com/post/7235681
+  notes: ~500 million yuan ($70.2M). Strategic investors include Lenovo Capital and Xiaomi.
 - stage: Series A+
   date: 2025-11
   amount_m: 70
@@ -22,9 +39,7 @@ funding_rounds:
   - Zhuhai Technology Group
   - Futeng Capital
   source: https://www.caixinglobal.com/2025-11-28/infinigence-ai-raises-500-million-yuan-to-expand-heterogeneous-computing-platform-102387594.html
-  notes: Total raised approximately 1.5 billion yuan. Additional investors include Lenovo Capital, Junlian Capital, Shenwan
-    Hongyuan Group, Huiyuan Capital, Shangqi Capital, and Highlight Capital. Earlier backers include Baidu, Xiaomi, Zhipu
-    AI, HongShan Capital, and Qiming Venture Partners.
+  notes: ~500 million yuan ($70.6M). Follow-on from Lenovo Capital, Junlian Capital, Shenwan Hongyuan Group.
 founders:
 - name: Xia Lixue
   role: CEO & Co-founder

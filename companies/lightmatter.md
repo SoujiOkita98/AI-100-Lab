@@ -28,26 +28,42 @@ founders:
   origin: Indonesian-American
 total_raised_m: 850
 funding_rounds:
-- stage: Multiple early rounds
-  date: 2018-2022
+- stage: Grant (MIT $100K prize)
+  date: 2017-05
+  amount_m: 0.1
   lead_investors:
-  - Various
-  source: https://www.crunchbase.com/organization/lightmatter
+  - MIT
+  source: https://tracxn.com/d/companies/lightmatter/
+- stage: Series A
+  date: 2019
+  amount_m: 33
+  lead_investors:
+  - GV (Google Ventures)
+  source: https://tracxn.com/d/companies/lightmatter/
+- stage: Series B
+  date: 2021-05
+  amount_m: 113
+  lead_investors:
+  - Viking Global Investors
+  - SIP Global Partners
+  source: https://tracxn.com/d/companies/lightmatter/
 - stage: Series C
   date: 2023-05
   amount_m: 154
   lead_investors:
   - Viking Global
   - GV
-  source: https://www.crunchbase.com/organization/lightmatter
+  source: https://www.crunchbase.com/organization/lightmatter-inc
+  notes: Initial $154M in May 2023, extended to ~$155M in December 2023.
 - stage: Series D
   date: 2024-10
   amount_m: 400
   lead_investors:
   - T. Rowe Price
   - Fidelity
-  source: https://www.crunchbase.com/organization/lightmatter
-data_notes: Total ~$850M across 9 rounds. Early round amounts not individually disclosed.
+  source: https://www.crunchbase.com/organization/lightmatter-inc
+data_notes: Total ~$850M across rounds. Early rounds now broken out. Sum of disclosed rounds ~$700M; remainder includes
+  smaller undisclosed early rounds and extensions.
 name: Lightmatter
 linkedin_verified: true
 ---

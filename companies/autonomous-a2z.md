@@ -14,6 +14,22 @@ logo: null
 total_raised_m: 83
 latest_valuation_m: null
 funding_rounds:
+- stage: Earlier rounds
+  date: 2018-2024
+  amount_m: 25
+  lead_investors:
+  - Various
+  source: https://www.digitaltoday.co.kr/en/view/35426/
+  notes: Estimated ~25M across earlier rounds. Exact breakdown not publicly available. Total before Series C was ~$25M.
+- stage: Series C
+  date: 2024-12
+  amount_m: 30
+  lead_investors:
+  - Nvestor
+  - DS Asset Management
+  - T.S. Investment
+  source: https://www.digitaltoday.co.kr/en/view/35426/
+  notes: KRW 30 billion. KB Securities, KB Investment, K & Investment Partners also participated.
 - stage: Pre-IPO
   date: 2026-03
   amount_m: 28
@@ -21,8 +37,8 @@ funding_rounds:
   lead_investors:
   - DS Investment Partners
   source: https://www.koreaherald.com/article/10692899
-  notes: 40.5 billion won (~$28M). Total funding now 122.5 billion won (~$83M), the largest raised by a self-driving startup
-    in Korea. KB Investment and Hana Securities also participated. Planning Kosdaq IPO in 2026.
+  notes: KRW 40.5 billion (~$28M). Total funding now KRW 122.5 billion (~$83M). KB Investment and Hana Securities also
+    participated. Planning Kosdaq IPO in 2026.
 founders:
 - name: Han Ji-hyeong
   role: CEO
