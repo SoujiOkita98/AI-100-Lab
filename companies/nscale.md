@@ -53,6 +53,7 @@ website_verified: true
 crunchbase: https://www.crunchbase.com/organization/nscale
 crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/nscale-cloud
+total_raised_m: 3280
 ---
 
 # Nscale

@@ -63,6 +63,8 @@ twitter: '@CrusoeAI'
 linkedin: https://www.linkedin.com/company/crusoe
 crunchbase: https://www.crunchbase.com/organization/crusoe
 crunchbase_verified: true
+total_raised_m: 4140
+data_notes: Funding updated from $3.4B to ~$4.14B to include $1.375B Series E (Oct 2025) and $300M debt (Feb 2026).
 ---
 
 # Crusoe

@@ -192,6 +192,8 @@ linkedin: https://www.linkedin.com/company/xai
 twitter: '@xai'
 crunchbase: https://www.crunchbase.com/organization/xai
 crunchbase_verified: true
+total_raised_m: 32000
+data_notes: Funding corrected from $45B to ~$32B after cross-verification. Includes ~$27B equity + ~$5B debt facility.
 ---
 
 # xAI

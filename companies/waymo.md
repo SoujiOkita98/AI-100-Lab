@@ -93,6 +93,8 @@ twitter: '@Waymo'
 linkedin: https://www.linkedin.com/company/waymo
 crunchbase: https://www.crunchbase.com/organization/waymo
 crunchbase_verified: true
+total_raised_m: 27100
+data_notes: Total raised updated to $27.1B (cumulative all rounds). Previous $16B figure was the Feb 2026 Series D round only.
 ---
 
 # Waymo

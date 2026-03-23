@@ -6,7 +6,7 @@ headquarters: Palo Alto, California, USA
 sector: AI Hardware / AI Infrastructure (Full-Stack)
 stage: Late-stage Private
 latest_valuation: ~$2.24 billion (Series E, February 2026; down from $5.1B in 2021)
-total_funding: ~$1.48 billion (across 6 rounds)
+total_funding: 1490
 employees: ~400-415 (as of early 2026)
 website: https://sambanova.ai
 last_updated: 2026-03-20
@@ -16,6 +16,8 @@ website_verified: true
 crunchbase: https://www.crunchbase.com/organization/sambanova
 crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/sambanova
+data_notes: Funding corrected from $2.5B to ~$1.49B after cross-verification against Tracxn/Sacra. Previous figure was significantly
+  inflated.
 ---
 
 # SambaNova Systems
