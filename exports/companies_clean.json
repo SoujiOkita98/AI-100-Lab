@@ -1748,6 +1748,40 @@
     "top_investors": []
   },
   {
+    "slug": "angle-health",
+    "name": "Angle Health",
+    "status": "active",
+    "founded_year": "2019",
+    "hq": "San Francisco, CA",
+    "website": "https://anglehealth.com",
+    "sector": "AI Healthcare / Benefits",
+    "one_liner": "AI-native health benefits for SMBs \u2014 predicts healthcare risks using millions of de-identified patient records. 44 states, 2600+ employers. Ex-Palantir founders.",
+    "total_raised_m": 200.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [],
+    "funding_rounds": [
+      {
+        "company_slug": "angle-health",
+        "stage": "Series B",
+        "date": "2025-12",
+        "amount_m": 134.0,
+        "valuation_m": null,
+        "lead_investors": "Portage",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
     "slug": "ankar",
     "name": "Ankar",
     "status": "active",
@@ -4053,6 +4087,51 @@
         "amount_m": 10.0,
         "valuation_m": null,
         "lead_investors": "monday.com; Qumra Capital; Entree Capital",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
+    "slug": "blue-water-autonomy",
+    "name": "Blue Water Autonomy",
+    "status": "active",
+    "founded_year": "2024",
+    "hq": "Boston, MA",
+    "website": "https://blw.ai",
+    "sector": "AI Defense / Autonomous Ships",
+    "one_liner": "Fully autonomous captainless ships for months-long open-ocean missions. Liberty Class 190-foot warship for US Navy. Founded by 6 River Systems founder.",
+    "total_raised_m": 64.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [],
+    "funding_rounds": [
+      {
+        "company_slug": "blue-water-autonomy",
+        "stage": "Seed",
+        "date": "2025-04",
+        "amount_m": 14.0,
+        "valuation_m": null,
+        "lead_investors": "",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
+      },
+      {
+        "company_slug": "blue-water-autonomy",
+        "stage": "Series A",
+        "date": "2025-08",
+        "amount_m": 50.0,
+        "valuation_m": null,
+        "lead_investors": "GV; Eclipse Ventures",
         "other_investors": "",
         "source": "",
         "notes": ""
@@ -18216,6 +18295,40 @@
     "top_investors": []
   },
   {
+    "slug": "nitra",
+    "name": "Nitra",
+    "status": "active",
+    "founded_year": "2022",
+    "hq": "New York, NY",
+    "website": "https://nitra.com",
+    "sector": "AI Healthcare Ops",
+    "one_liner": "AI-native OS for physician practices \u2014 scheduling, billing, compliance. 700+ clinics, B+ processing, M ARR. Founded by FiscalNote founders.",
+    "total_raised_m": 187.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [],
+    "funding_rounds": [
+      {
+        "company_slug": "nitra",
+        "stage": "Series B",
+        "date": "2026-03",
+        "amount_m": 50.0,
+        "valuation_m": null,
+        "lead_investors": "",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
     "slug": "noda-ai",
     "name": "NODA AI",
     "status": "active",
@@ -22438,6 +22551,40 @@
     "top_investors": []
   },
   {
+    "slug": "roboforce",
+    "name": "RoboForce",
+    "status": "active",
+    "founded_year": "2024",
+    "hq": "Milpitas, CA",
+    "website": "https://roboforce.ai",
+    "sector": "AI Robotics / Industrial",
+    "one_liner": "Physical AI foundation model for demanding industrial environments \u2014 solar, data centers, mining, manufacturing. Nvidia + CMU partnership.",
+    "total_raised_m": 67.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [],
+    "funding_rounds": [
+      {
+        "company_slug": "roboforce",
+        "stage": "Seed",
+        "date": "2026-03",
+        "amount_m": 52.0,
+        "valuation_m": null,
+        "lead_investors": "YZi Labs; Jerry Yang",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
     "slug": "robust-intelligence",
     "name": "Robust Intelligence",
     "status": "Acquired by Cisco (October 2024)",
@@ -25813,6 +25960,40 @@
     "top_investors": []
   },
   {
+    "slug": "sunday-household",
+    "name": "Sunday (Household Robot)",
+    "status": "active",
+    "founded_year": "2024",
+    "hq": "Mountain View, CA",
+    "website": null,
+    "sector": "AI Robotics / Household",
+    "one_liner": "Household robot startup building Memo \u2014 a home robot. Beta launch planned 2026.",
+    "total_raised_m": 165.0,
+    "latest_valuation_m": 1150.0,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [],
+    "funding_rounds": [
+      {
+        "company_slug": "sunday-household",
+        "stage": "Series B",
+        "date": "2026-03",
+        "amount_m": 165.0,
+        "valuation_m": 1150.0,
+        "lead_investors": "Coatue",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
     "slug": "sunday-robotics",
     "name": "Sunday",
     "status": "Pre-revenue; beta deployment planned for late 2026",
@@ -27434,6 +27615,51 @@
         "lead_investors": "Sapphire Ventures",
         "other_investors": "",
         "source": "https://news.crunchbase.com/venture/sapphire-led-raise-manufacturing-ai-startup-tractian/",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
+    "slug": "translucent",
+    "name": "Translucent",
+    "status": "active",
+    "founded_year": "2024",
+    "hq": "New York, NY",
+    "website": "https://translucent.ai",
+    "sector": "AI Healthcare Finance",
+    "one_liner": "Agentic AI for healthcare finance \u2014 consolidates operational/clinical/financial data with real-time insights for health systems.",
+    "total_raised_m": 34.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [],
+    "funding_rounds": [
+      {
+        "company_slug": "translucent",
+        "stage": "Seed",
+        "date": "2025-08",
+        "amount_m": 7.0,
+        "valuation_m": null,
+        "lead_investors": "GV",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
+      },
+      {
+        "company_slug": "translucent",
+        "stage": "Series A",
+        "date": "2026-03",
+        "amount_m": 27.0,
+        "valuation_m": null,
+        "lead_investors": "GV; NEA",
+        "other_investors": "",
+        "source": "",
         "notes": ""
       }
     ],
