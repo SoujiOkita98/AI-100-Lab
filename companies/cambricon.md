@@ -25,6 +25,7 @@ one_liner: Cambricon Technologies is China's most valuable AI chip company and o
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/cambricon
 crunchbase_verified: true
+linkedin: https://www.linkedin.com/company/cambricon
 ---
 
 # Cambricon Technologies

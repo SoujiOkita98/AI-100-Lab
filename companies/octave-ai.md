@@ -19,6 +19,7 @@ headquarters: San Francisco, CA
 founded: 2022
 crunchbase: https://www.crunchbase.com/organization/octave-ai
 crunchbase_verified: true
+linkedin: https://www.linkedin.com/company/octavehq
 ---
 
 # Octave

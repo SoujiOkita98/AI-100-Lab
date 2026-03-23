@@ -20,6 +20,7 @@ headquarters: San Francisco, CA
 founded: 2023
 crunchbase: https://www.crunchbase.com/organization/model-ml
 crunchbase_verified: true
+linkedin: https://www.linkedin.com/company/model-ml
 ---
 
 # Model ML

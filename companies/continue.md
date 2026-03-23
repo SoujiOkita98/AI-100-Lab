@@ -19,6 +19,7 @@ confidence: medium
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/continue
 crunchbase_verified: true
+linkedin: https://www.linkedin.com/company/continuedev
 ---
 
 # Continue

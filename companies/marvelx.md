@@ -19,6 +19,7 @@ headquarters: Amsterdam, Netherlands
 founded: 2023
 crunchbase: https://www.crunchbase.com/organization/marvelx
 crunchbase_verified: true
+linkedin: https://www.linkedin.com/company/marvelxai
 ---
 
 # MarvelX

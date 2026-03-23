@@ -29,6 +29,7 @@ website_verified: true
 headquarters: Mountain View, CA
 crunchbase: https://www.crunchbase.com/organization/honey-health
 crunchbase_verified: true
+linkedin: https://www.linkedin.com/company/join-honey-health
 ---
 
 # Honey Health

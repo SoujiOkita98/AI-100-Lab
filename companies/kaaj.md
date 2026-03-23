@@ -19,6 +19,7 @@ headquarters: San Francisco, CA
 founded: 2024
 crunchbase: https://www.crunchbase.com/organization/kaaj
 crunchbase_verified: true
+linkedin: https://www.linkedin.com/company/kaaj-ai
 ---
 
 # Kaaj

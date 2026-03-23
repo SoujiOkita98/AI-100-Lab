@@ -30,6 +30,7 @@ website: https://www.arago.inc
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/arago-photonics
 crunchbase_verified: true
+linkedin: https://www.linkedin.com/company/aragoinc
 ---
 
 # Arago Photonics

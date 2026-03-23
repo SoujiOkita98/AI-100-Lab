@@ -30,6 +30,7 @@ website: https://act.security
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/act-security
 crunchbase_verified: true
+linkedin: https://www.linkedin.com/company/act-sec
 ---
 
 # Act Security

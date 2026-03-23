@@ -20,6 +20,7 @@ headquarters: Santa Monica, CA
 founded: 2022
 crunchbase: https://www.crunchbase.com/organization/liminal-experiences
 crunchbase_verified: true
+linkedin: https://www.linkedin.com/company/liminalgg
 ---
 
 # Liminal Experiences

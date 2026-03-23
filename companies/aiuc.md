@@ -21,6 +21,7 @@ data_notes: 'Needs verification: founders, source_urls. Profile may be incomplet
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/aiuc
 crunchbase_verified: true
+linkedin: https://www.linkedin.com/company/aiunderwriting
 ---
 
 # AIUC

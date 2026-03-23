@@ -19,6 +19,7 @@ headquarters: Almere, Netherlands
 founded: 2022
 crunchbase: https://www.crunchbase.com/organization/aydi
 crunchbase_verified: true
+linkedin: https://www.linkedin.com/company/ayditechnologies
 ---
 
 # Aydi

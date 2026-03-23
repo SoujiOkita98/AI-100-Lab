@@ -20,6 +20,7 @@ founded: 2023
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/matters-ai
 crunchbase_verified: true
+linkedin: https://www.linkedin.com/company/mattersai
 ---
 
 # Matters.AI

@@ -15,6 +15,7 @@ one_liner: Graphcore was a British AI chip company that designed the Intelligenc
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/graphcore
 crunchbase_verified: true
+linkedin: https://www.linkedin.com/company/graphcore
 ---
 
 # Graphcore

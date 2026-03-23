@@ -20,6 +20,7 @@ website_verified: true
 headquarters: Mont Saint Aignan, France
 crunchbase: https://www.crunchbase.com/organization/arcads-ai
 crunchbase_verified: true
+linkedin: https://www.linkedin.com/company/arcads-ai
 ---
 
 # Arcads.ai

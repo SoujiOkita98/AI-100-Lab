@@ -22,6 +22,7 @@ confidence: medium
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/cosine-ai
 crunchbase_verified: true
+linkedin: https://www.linkedin.com/company/cosine-ai
 ---
 
 # Cosine

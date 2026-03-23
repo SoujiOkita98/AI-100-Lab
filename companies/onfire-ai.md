@@ -27,6 +27,7 @@ website: https://www.onfire.ai
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/onfire-ai
 crunchbase_verified: true
+linkedin: https://www.linkedin.com/company/onfire-ai-hq
 ---
 
 # Onfire AI

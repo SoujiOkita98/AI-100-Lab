@@ -20,6 +20,7 @@ website_verified: true
 headquarters: Arlington, VA
 crunchbase: https://www.crunchbase.com/organization/bricklayer-ai
 crunchbase_verified: true
+linkedin: https://www.linkedin.com/company/bricklayerai
 ---
 
 # Bricklayer AI

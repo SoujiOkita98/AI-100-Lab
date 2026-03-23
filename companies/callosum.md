@@ -21,6 +21,7 @@ data_notes: 'Website URL may be invalid (Connection failed). '
 total_funding: 10.25
 crunchbase: https://www.crunchbase.com/organization/callosum
 crunchbase_verified: true
+linkedin: https://www.linkedin.com/company/go-callosum
 ---
 
 # Callosum

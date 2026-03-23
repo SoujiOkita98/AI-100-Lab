@@ -20,6 +20,7 @@ headquarters: San Francisco, CA
 founded: 2023
 crunchbase: https://www.crunchbase.com/organization/cavela
 crunchbase_verified: true
+linkedin: https://www.linkedin.com/company/cavela
 ---
 
 # Cavela

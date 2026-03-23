@@ -19,6 +19,7 @@ founded: 2024
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/oboe
 crunchbase_verified: true
+linkedin: https://www.linkedin.com/company/oboelabs
 ---
 
 # Oboe

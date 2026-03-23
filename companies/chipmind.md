@@ -19,6 +19,7 @@ website: https://www.chipmind.ai
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/chipmind
 crunchbase_verified: true
+linkedin: https://www.linkedin.com/company/chipmind
 ---
 
 # Chipmind

@@ -21,6 +21,7 @@ website_verified: true
 headquarters: Tel Aviv, Israel
 crunchbase: https://www.crunchbase.com/organization/milestone-ai
 crunchbase_verified: true
+linkedin: https://www.linkedin.com/company/milestoneai
 ---
 
 # Milestone AI

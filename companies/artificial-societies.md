@@ -20,6 +20,7 @@ website_verified: true
 headquarters: London, UK
 crunchbase: https://www.crunchbase.com/organization/artificial-societies
 crunchbase_verified: true
+linkedin: https://www.linkedin.com/company/artificial-societies
 ---
 
 # Artificial Societies
