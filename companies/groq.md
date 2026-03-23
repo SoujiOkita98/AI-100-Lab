@@ -137,6 +137,7 @@ crunchbase_verified: true
 data_notes: Nvidia effectively acquired Groq assets for ~$20B via licensing deal (Dec 2025). Previous standalone valuation
   was $6.9B (Sep 2025). Company status changed to acquired.
 headquarters: Mountain View, CA
+linkedin_verified: true
 ---
 
 # Groq

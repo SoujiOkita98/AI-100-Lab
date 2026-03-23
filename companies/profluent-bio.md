@@ -25,10 +25,12 @@ crunchbase: https://www.crunchbase.com/organization/profluent-bio
 crunchbase_verified: true
 total_raised_m: 141.0
 founders:
-  - name: "Ali Madani"
-    role: "Founder & CEO"
-    background: "PhD from UC Berkeley; former Senior Research Scientist at Salesforce; architect of ProGen moonshot for protein design"
-    origin: "Iranian-American"
+- name: Ali Madani
+  role: Founder & CEO
+  background: PhD from UC Berkeley; former Senior Research Scientist at Salesforce; architect of ProGen moonshot for protein
+    design
+  origin: Iranian-American
+linkedin_verified: true
 ---
 
 # Profluent Bio

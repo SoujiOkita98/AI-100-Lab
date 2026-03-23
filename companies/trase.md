@@ -30,6 +30,7 @@ crunchbase: https://www.crunchbase.com/organization/trase
 crunchbase_verified: true
 total_raised_m: 10.5
 linkedin: https://www.linkedin.com/company/trase/
+linkedin_verified: true
 ---
 
 # Trase

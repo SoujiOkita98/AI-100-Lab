@@ -45,6 +45,7 @@ linkedin: https://www.linkedin.com/company/genesistherapeutics
 crunchbase: https://www.crunchbase.com/organization/genesis-therapeutics
 crunchbase_verified: true
 name: Genesis Therapeutics
+linkedin_verified: true
 ---
 
 # Genesis Therapeutics

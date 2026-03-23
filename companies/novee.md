@@ -35,6 +35,7 @@ founders:
   background: Senior cybersecurity executive; veteran of Unit 8200
   origin: Israeli
 linkedin: https://www.linkedin.com/company/novee/
+linkedin_verified: true
 ---
 
 # Novee

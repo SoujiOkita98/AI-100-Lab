@@ -83,6 +83,7 @@ founders:
   background: Stanford background in ML systems.
   origin: American
 name: Snorkel AI
+linkedin_verified: true
 ---
 
 # Snorkel AI

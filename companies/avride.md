@@ -27,6 +27,7 @@ founders:
   role: CEO
   background: 15+ years at Yandex. Former CEO of Yandex Self-Driving Group. Avride spun out of Yandex autonomous driving division.
   origin: Russian
+linkedin_verified: true
 ---
 
 # Avride

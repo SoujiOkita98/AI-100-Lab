@@ -12,16 +12,18 @@ funding_rounds:
   lead_investors:
   - Real Tech Fund Japan
 founders:
-  - name: "Benson Wu"
-    role: "CEO"
-    background: "PhD in Electrical Engineering from National Taiwan University; 15+ years in cybersecurity research; co-founded Xecure Lab (acquired by Verint in 2014)"
-    origin: "Taiwanese"
+- name: Benson Wu
+  role: CEO
+  background: PhD in Electrical Engineering from National Taiwan University; 15+ years in cybersecurity research; co-founded
+    Xecure Lab (acquired by Verint in 2014)
+  origin: Taiwanese
 last_updated: 2026-03-21
 confidence: medium
 crunchbase: https://www.crunchbase.com/organization/cycraft
 crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/cycraft
 twitter: '@cycraft_corp'
+linkedin_verified: true
 ---
 
 # CyCraft

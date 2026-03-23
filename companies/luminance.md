@@ -58,6 +58,7 @@ website_verified: true
 linkedin: https://www.linkedin.com/company/luminancetech
 crunchbase: https://www.crunchbase.com/organization/luminance
 crunchbase_verified: true
+linkedin_verified: true
 ---
 
 # Luminance

@@ -13,10 +13,11 @@ funding_rounds:
   - Speedinvest
   source: https://www.businesswire.com/news/home/20251202243223/en/
 founders:
-  - name: "Yannis Niebelschuetz"
-    role: "Founder & CEO"
-    background: "Previously Founder & CEO of CoachHub (raised $350M+, expanded to 7 offices globally, clients include Ford, Coca-Cola, Virgin Atlantic). Former Senior Manager at LinkedIn."
-    origin: "German"
+- name: Yannis Niebelschuetz
+  role: Founder & CEO
+  background: Previously Founder & CEO of CoachHub (raised $350M+, expanded to 7 offices globally, clients include Ford, Coca-Cola,
+    Virgin Atlantic). Former Senior Manager at LinkedIn.
+  origin: German
 last_updated: 2026-03-21
 confidence: medium
 data_notes: 'Needs verification: website, founders, source_urls, headquarters. Profile may be incomplete.'
@@ -27,6 +28,7 @@ linkedin: https://www.linkedin.com/company/lizzy-ai
 crunchbase: https://www.crunchbase.com/organization/lizzyai
 crunchbase_verified: true
 total_raised_m: 5.0
+linkedin_verified: true
 ---
 
 # LizzyAI

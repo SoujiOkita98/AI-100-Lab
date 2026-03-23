@@ -56,6 +56,7 @@ website_verified: true
 crunchbase: https://www.crunchbase.com/organization/baichuan-intelligence
 crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/baichuan-intelligence/
+linkedin_verified: true
 ---
 
 # Baichuan Intelligence

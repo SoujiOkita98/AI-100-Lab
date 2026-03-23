@@ -21,14 +21,15 @@ crunchbase: https://www.crunchbase.com/organization/rhino-federated
 crunchbase_verified: true
 total_raised_m: 30.0
 founders:
-  - name: "Ittai Dayan"
-    role: "Co-Founder & CEO"
-    background: "Medical background"
-    origin: "Israeli"
-  - name: "Yuval Baror"
-    role: "Co-Founder & CTO"
-    background: "Experienced AI entrepreneur"
-    origin: "Israeli"
+- name: Ittai Dayan
+  role: Co-Founder & CEO
+  background: Medical background
+  origin: Israeli
+- name: Yuval Baror
+  role: Co-Founder & CTO
+  background: Experienced AI entrepreneur
+  origin: Israeli
+linkedin_verified: true
 ---
 
 # Rhino Federated Computing

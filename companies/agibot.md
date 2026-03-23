@@ -7,14 +7,14 @@ co_founders:
 - Deng Taihua (CEO, Chairman)
 - Peng Zhihui (CTO)
 founders:
-  - name: "Deng Taihua"
-    role: "Co-Founder, CEO & Chairman"
-    background: "Founded AgiBot in 2023 in Shanghai."
-    origin: "Chinese (inferred from name)"
-  - name: "Peng Zhihui"
-    role: "Co-Founder & CTO"
-    background: "Prominent Chinese robotics/AI engineer. Well-known tech influencer in China."
-    origin: "Chinese (inferred from name)"
+- name: Deng Taihua
+  role: Co-Founder, CEO & Chairman
+  background: Founded AgiBot in 2023 in Shanghai.
+  origin: Chinese (inferred from name)
+- name: Peng Zhihui
+  role: Co-Founder & CTO
+  background: Prominent Chinese robotics/AI engineer. Well-known tech influencer in China.
+  origin: Chinese (inferred from name)
 sector: Humanoid Robotics / Embodied AI
 stage: Pre-IPO (Hong Kong IPO expected Q3 2026)
 reported_valuation_usd: ~$5-6.4B (targeted IPO valuation)
@@ -37,11 +37,15 @@ crunchbase: https://www.crunchbase.com/organization/agibot
 crunchbase_verified: true
 total_raised_m: 84
 funding_rounds:
-  - stage: "Multiple rounds (8+)"
-    date: "2023-2025"
-    amount_m: 84
-    lead_investors: ["Tencent", "BYD", "HongShan"]
-    source: "https://www.crunchbase.com/organization/agibot"
+- stage: Multiple rounds (8+)
+  date: 2023-2025
+  amount_m: 84
+  lead_investors:
+  - Tencent
+  - BYD
+  - HongShan
+  source: https://www.crunchbase.com/organization/agibot
+linkedin_verified: true
 ---
 
 # AgiBot (Zhiyuan Robotics)

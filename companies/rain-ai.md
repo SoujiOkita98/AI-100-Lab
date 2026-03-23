@@ -50,6 +50,7 @@ data_notes: 'Total ~$146M across multiple rounds. Individual round amounts mostl
   (personal, >$1M).'
 linkedin: https://www.linkedin.com/company/rain-neuromorphics/
 name: Rain AI
+linkedin_verified: true
 ---
 
 # Rain AI

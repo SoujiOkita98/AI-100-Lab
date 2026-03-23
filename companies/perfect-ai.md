@@ -25,6 +25,7 @@ founded: 2024
 crunchbase: https://www.crunchbase.com/organization/perfect-ai
 crunchbase_verified: true
 total_raised_m: 23.0
+linkedin_verified: true
 ---
 
 # Perfect

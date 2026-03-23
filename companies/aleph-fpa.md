@@ -29,6 +29,7 @@ crunchbase: https://www.crunchbase.com/organization/aleph-fpa
 crunchbase_verified: true
 total_raised_m: 46.0
 linkedin: https://www.linkedin.com/company/aleph-fp&a/
+linkedin_verified: true
 ---
 
 # Aleph (FP&A)

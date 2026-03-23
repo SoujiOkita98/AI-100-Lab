@@ -65,6 +65,7 @@ crunchbase: https://www.crunchbase.com/organization/arena
 crunchbase_verified: true
 total_raised_m: 250.0
 linkedin: https://www.linkedin.com/company/arena/
+linkedin_verified: true
 ---
 
 # Arena

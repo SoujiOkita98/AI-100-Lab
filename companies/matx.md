@@ -42,6 +42,7 @@ funding_rounds:
   source: https://www.crunchbase.com/organization/matx
 linkedin: https://www.linkedin.com/company/matx/
 name: MatX
+linkedin_verified: true
 ---
 
 # MatX

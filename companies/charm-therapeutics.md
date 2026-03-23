@@ -42,6 +42,7 @@ linkedin: https://www.linkedin.com/company/charm-therapeutics
 crunchbase: https://www.crunchbase.com/organization/charm-therapeutics
 crunchbase_verified: true
 name: Charm Therapeutics
+linkedin_verified: true
 ---
 
 # Charm Therapeutics

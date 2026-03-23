@@ -29,6 +29,7 @@ founders:
   origin: American
 total_raised_m: 15.0
 linkedin: https://www.linkedin.com/company/spara/
+linkedin_verified: true
 ---
 
 # Spara

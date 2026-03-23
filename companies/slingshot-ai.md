@@ -19,14 +19,15 @@ funding_rounds:
 last_updated: 2026-03-21
 confidence: medium
 founders:
-  - name: "Daniel Cahn"
-    role: "CEO & Co-Founder"
-    background: "MSc in Machine Learning from Imperial College (highest honours). Former ML Engineer at Instabase. NLP research at Imperial's Data Science Institute."
-    origin: "American"
-  - name: "Neil Parikh"
-    role: "Co-Founder"
-    background: "Co-founder of Casper Sleep (mattress company)."
-    origin: "Indian-American"
+- name: Daniel Cahn
+  role: CEO & Co-Founder
+  background: MSc in Machine Learning from Imperial College (highest honours). Former ML Engineer at Instabase. NLP research
+    at Imperial's Data Science Institute.
+  origin: American
+- name: Neil Parikh
+  role: Co-Founder
+  background: Co-founder of Casper Sleep (mattress company).
+  origin: Indian-American
 data_notes: 'Needs verification: website, source_urls, headquarters. Profile may be incomplete.'
 website: https://slingshotai.com
 website_verified: true
@@ -36,6 +37,7 @@ crunchbase: https://www.crunchbase.com/organization/slingshot-ai
 crunchbase_verified: true
 twitter: '@slingshotai_inc'
 total_raised_m: 93.0
+linkedin_verified: true
 ---
 
 # Slingshot AI

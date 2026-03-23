@@ -62,6 +62,7 @@ linkedin: https://www.linkedin.com/company/cusp-ai
 crunchbase: https://www.crunchbase.com/organization/cuspai
 crunchbase_verified: true
 twitter: '@cusp_ai'
+linkedin_verified: true
 ---
 
 # CuspAI

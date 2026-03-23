@@ -11,18 +11,18 @@ funding_rounds:
   lead_investors:
   - Khosla Ventures
 founders:
-  - name: "Luke Arrigoni"
-    role: "Co-Founder & CEO"
-    background: "Ran an AI consulting firm for a decade. Former data scientist at CAA (talent agency)."
-    origin: "American"
-  - name: "Rebekah Arrigoni"
-    role: "Co-Founder"
-    background: ""
-    origin: "American"
-  - name: "Hirak Chhatbar"
-    role: "Co-Founder"
-    background: "Serial entrepreneur."
-    origin: "Indian"
+- name: Luke Arrigoni
+  role: Co-Founder & CEO
+  background: Ran an AI consulting firm for a decade. Former data scientist at CAA (talent agency).
+  origin: American
+- name: Rebekah Arrigoni
+  role: Co-Founder
+  background: ''
+  origin: American
+- name: Hirak Chhatbar
+  role: Co-Founder
+  background: Serial entrepreneur.
+  origin: Indian
 last_updated: 2026-03-21
 confidence: medium
 data_notes: 'Needs verification: website, founders, source_urls, headquarters. Profile may be incomplete.'
@@ -33,6 +33,7 @@ crunchbase: https://www.crunchbase.com/organization/loti-ai
 crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/goloti
 total_raised_m: 16.2
+linkedin_verified: true
 ---
 
 # Loti AI

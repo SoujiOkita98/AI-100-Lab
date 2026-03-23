@@ -32,6 +32,7 @@ crunchbase: https://www.crunchbase.com/organization/valthos
 crunchbase_verified: true
 total_raised_m: 30.0
 linkedin: https://www.linkedin.com/company/valthos/
+linkedin_verified: true
 ---
 
 # Valthos

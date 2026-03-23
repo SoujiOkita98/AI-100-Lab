@@ -66,6 +66,7 @@ total_raised_m: 533
 confidence: medium
 last_updated: 2026-03-23
 linkedin: https://www.linkedin.com/company/aleph-alpha/
+linkedin_verified: true
 ---
 
 # Aleph Alpha

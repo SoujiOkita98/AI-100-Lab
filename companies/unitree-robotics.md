@@ -17,10 +17,11 @@ key_products:
 - Unitree B2 (industrial quadruped)
 - Unitree Z1 / Dex3 (robotic arms)
 founders:
-  - name: "Wang Xingxing"
-    role: "Founder & CEO"
-    background: "Founded Unitree Robotics in 2016 in Hangzhou; led company from quadruped robots to humanoid robots and pre-IPO stage"
-    origin: "Chinese"
+- name: Wang Xingxing
+  role: Founder & CEO
+  background: Founded Unitree Robotics in 2016 in Hangzhou; led company from quadruped robots to humanoid robots and pre-IPO
+    stage
+  origin: Chinese
 website: https://www.unitree.com
 last_updated: 2026-03-20
 confidence_note: Financial figures from press reports and company statements to Chinese media. IPO valuation is a target figure
@@ -51,6 +52,7 @@ linkedin: https://www.linkedin.com/company/unitreerobotics
 crunchbase: https://www.crunchbase.com/organization/unitree-robotics
 crunchbase_verified: true
 twitter: '@UnitreeRobotics'
+linkedin_verified: true
 ---
 
 # Unitree Robotics

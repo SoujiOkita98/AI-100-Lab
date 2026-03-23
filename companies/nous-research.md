@@ -117,6 +117,7 @@ crunchbase: https://www.crunchbase.com/organization/nous-research
 crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/nous-research/
 name: Nous Research
+linkedin_verified: true
 ---
 
 # Nous Research

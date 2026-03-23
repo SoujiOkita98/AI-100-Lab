@@ -27,6 +27,7 @@ headquarters: San Francisco, CA
 crunchbase: https://www.crunchbase.com/organization/bobyard
 crunchbase_verified: true
 total_raised_m: 38.6
+linkedin_verified: true
 ---
 
 # Bobyard

@@ -12,10 +12,10 @@ funding_rounds:
   lead_investors:
   - Nexus Venture Partners
 founders:
-  - name: "Feroze Mohammed"
-    role: "CEO"
-    background: "30+ years in tech leadership; former COO of Hitachi Vantara"
-    origin: "Indian"
+- name: Feroze Mohammed
+  role: CEO
+  background: 30+ years in tech leadership; former COO of Hitachi Vantara
+  origin: Indian
 last_updated: 2026-03-21
 confidence: medium
 data_notes: 'Needs verification: website, founders, source_urls. Profile may be incomplete.'
@@ -25,6 +25,7 @@ linkedin: https://www.linkedin.com/company/cognida-ai
 crunchbase: https://www.crunchbase.com/organization/cognida-ai
 crunchbase_verified: true
 total_raised_m: 15.0
+linkedin_verified: true
 ---
 
 # Cognida.ai

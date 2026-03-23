@@ -40,6 +40,7 @@ founders:
   role: Co-founder
   background: Former Stability AI. AI image generation research.
   origin: German
+linkedin_verified: true
 ---
 
 # Black Forest Labs

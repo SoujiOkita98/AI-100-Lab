@@ -34,6 +34,7 @@ crunchbase: https://www.crunchbase.com/organization/agentmail
 crunchbase_verified: true
 total_raised_m: 6.0
 linkedin: https://www.linkedin.com/company/agentmail/
+linkedin_verified: true
 ---
 
 # AgentMail

@@ -36,6 +36,7 @@ linkedin: https://www.linkedin.com/company/nexthopai
 crunchbase: https://www.crunchbase.com/organization/nexthop-ai
 crunchbase_verified: true
 total_raised_m: 610.0
+linkedin_verified: true
 ---
 
 # Nexthop AI

@@ -35,6 +35,7 @@ crunchbase: https://www.crunchbase.com/organization/limy
 crunchbase_verified: true
 total_raised_m: 10.0
 linkedin: https://www.linkedin.com/company/limy/
+linkedin_verified: true
 ---
 
 # Limy

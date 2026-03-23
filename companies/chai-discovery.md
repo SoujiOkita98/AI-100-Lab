@@ -59,6 +59,7 @@ linkedin: https://www.linkedin.com/company/chaidiscovery
 crunchbase: https://www.crunchbase.com/organization/chai-discovery
 crunchbase_verified: true
 name: Chai Discovery
+linkedin_verified: true
 ---
 
 # Chai Discovery

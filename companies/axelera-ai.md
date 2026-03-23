@@ -26,6 +26,7 @@ founders:
   role: CTO
   background: IBM Fellow. 35+ years at IBM Research Zurich.
   origin: Greek
+linkedin_verified: true
 ---
 
 # Axelera AI

@@ -22,18 +22,19 @@ crunchbase: https://www.crunchbase.com/organization/predoc
 crunchbase_verified: true
 total_raised_m: 30.0
 founders:
-  - name: "Nishant Hari"
-    role: "Founder & CEO"
-    background: ""
-    origin: "Indian-American"
-  - name: "Kaushal Kulkarni"
-    role: "Co-Founder & CMO"
-    background: "Medical Doctor"
-    origin: "Indian-American"
-  - name: "Alex Daniels"
-    role: "Co-Founder & CTO"
-    background: ""
-    origin: "American"
+- name: Nishant Hari
+  role: Founder & CEO
+  background: ''
+  origin: Indian-American
+- name: Kaushal Kulkarni
+  role: Co-Founder & CMO
+  background: Medical Doctor
+  origin: Indian-American
+- name: Alex Daniels
+  role: Co-Founder & CTO
+  background: ''
+  origin: American
+linkedin_verified: true
 ---
 
 # Predoc

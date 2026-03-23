@@ -70,6 +70,7 @@ funding_rounds:
   source: https://www.crunchbase.com/organization/twelve-labs
 linkedin: https://www.linkedin.com/company/twelve-labs/
 name: Twelve Labs
+linkedin_verified: true
 ---
 
 # Twelve Labs

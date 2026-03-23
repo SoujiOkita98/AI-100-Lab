@@ -151,6 +151,7 @@ crunchbase: https://www.crunchbase.com/organization/cohere
 crunchbase_verified: true
 total_raised_m: 1540.0
 headquarters: Toronto, Ontario, Canada
+linkedin_verified: true
 ---
 
 # Cohere

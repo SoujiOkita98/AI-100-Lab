@@ -74,6 +74,7 @@ linkedin: https://www.linkedin.com/company/freenome
 crunchbase: https://www.crunchbase.com/organization/freenome
 crunchbase_verified: true
 name: Freenome
+linkedin_verified: true
 ---
 
 # Freenome

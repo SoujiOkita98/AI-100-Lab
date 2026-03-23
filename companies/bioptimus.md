@@ -27,6 +27,7 @@ founders:
   role: CTO
   background: Former senior research scientist at Amazon and Google.
   origin: French
+linkedin_verified: true
 ---
 
 # Bioptimus

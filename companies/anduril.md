@@ -145,6 +145,7 @@ twitter: '@anduriltech'
 crunchbase: https://www.crunchbase.com/organization/anduril
 crunchbase_verified: true
 headquarters: Costa Mesa, California
+linkedin_verified: true
 ---
 
 # Anduril Industries

@@ -52,6 +52,7 @@ funding_rounds:
   - Stripes
   source: https://www.crunchbase.com/organization/etched
 name: Etched
+linkedin_verified: true
 ---
 
 # Etched

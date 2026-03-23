@@ -28,6 +28,7 @@ crunchbase: https://www.crunchbase.com/organization/onfire-ai
 crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/onfire-ai-hq
 total_raised_m: 20.0
+linkedin_verified: true
 ---
 
 # Onfire AI

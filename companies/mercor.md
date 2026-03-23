@@ -76,6 +76,7 @@ linkedin: https://www.linkedin.com/company/mercor-ai
 crunchbase: https://www.crunchbase.com/organization/mercor
 crunchbase_verified: true
 name: Mercor
+linkedin_verified: true
 ---
 
 # Mercor

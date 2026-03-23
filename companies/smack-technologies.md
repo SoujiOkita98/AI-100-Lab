@@ -30,6 +30,7 @@ linkedin: https://www.linkedin.com/company/smack-technologies-inc
 crunchbase: https://www.crunchbase.com/organization/smack-technologies
 crunchbase_verified: true
 total_raised_m: 32.0
+linkedin_verified: true
 ---
 
 # Smack Technologies

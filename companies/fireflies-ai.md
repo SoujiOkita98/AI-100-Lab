@@ -11,14 +11,14 @@ funding_rounds:
   lead_investors:
   - Khosla Ventures
 founders:
-  - name: "Krish Ramineni"
-    role: "Co-Founder & CEO"
-    background: "Former product manager at Microsoft. UPenn grad (summa cum laude, HCI). Forbes 30 Under 30 (2021)."
-    origin: "Indian-American"
-  - name: "Sam Udotong"
-    role: "Co-Founder & CTO"
-    background: ""
-    origin: ""
+- name: Krish Ramineni
+  role: Co-Founder & CEO
+  background: Former product manager at Microsoft. UPenn grad (summa cum laude, HCI). Forbes 30 Under 30 (2021).
+  origin: Indian-American
+- name: Sam Udotong
+  role: Co-Founder & CTO
+  background: ''
+  origin: ''
 last_updated: 2026-03-21
 confidence: medium
 data_notes: 'Needs verification: website, founders, source_urls, headquarters. Profile may be incomplete.'
@@ -29,6 +29,7 @@ headquarters: Pleasanton, CA
 crunchbase: https://www.crunchbase.com/organization/fireflies-ai
 crunchbase_verified: true
 total_raised_m: 14.0
+linkedin_verified: true
 ---
 
 # Fireflies.ai

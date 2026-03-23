@@ -10,18 +10,18 @@ funding_rounds:
   lead_investors:
   - Creandum
 founders:
-  - name: "Andrew D'Souza"
-    role: "Co-Founder & CEO"
-    background: "Co-founded Clearco. Serial entrepreneur."
-    origin: "Indian-Canadian (inferred from name)"
-  - name: "Matt Stein"
-    role: "Co-Founder"
-    background: ""
-    origin: "American/Canadian (inferred from name)"
-  - name: "Shen Sivananthan"
-    role: "Co-Founder"
-    background: ""
-    origin: "South Asian (inferred from name)"
+- name: Andrew D'Souza
+  role: Co-Founder & CEO
+  background: Co-founded Clearco. Serial entrepreneur.
+  origin: Indian-Canadian (inferred from name)
+- name: Matt Stein
+  role: Co-Founder
+  background: ''
+  origin: American/Canadian (inferred from name)
+- name: Shen Sivananthan
+  role: Co-Founder
+  background: ''
+  origin: South Asian (inferred from name)
 last_updated: 2026-03-21
 confidence: medium
 data_notes: 'Needs verification: website, founders, source_urls, headquarters. Profile may be incomplete.'
@@ -33,6 +33,7 @@ crunchbase: https://www.crunchbase.com/organization/boardy-ai
 crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/boardy
 total_raised_m: 8.0
+linkedin_verified: true
 ---
 
 # Boardy AI

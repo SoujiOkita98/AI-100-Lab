@@ -56,6 +56,7 @@ funding_rounds:
   - K5 Global Technology
   source: https://www.crunchbase.com/organization/copy-ai
 name: Copy.ai
+linkedin_verified: true
 ---
 
 # Copy.ai

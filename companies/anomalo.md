@@ -4,7 +4,8 @@ legal_name: Anomalo, Inc.
 founded: 2018
 headquarters: San Francisco, California, USA
 website: https://www.anomalo.com
-one_liner: "AI-powered data quality platform that automatically detects, explains, and resolves data issues across enterprise data warehouses and lakehouses"
+one_liner: AI-powered data quality platform that automatically detects, explains, and resolves data issues across enterprise
+  data warehouses and lakehouses
 sector: AI Data Quality & Observability
 stage: Growth
 latest_valuation_usd: null
@@ -60,6 +61,7 @@ crunchbase: https://www.crunchbase.com/organization/anomalo
 crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/anomalo
 twitter: '@anomalo_hq'
+linkedin_verified: true
 ---
 
 # Anomalo

@@ -21,10 +21,11 @@ crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/octavehq
 total_raised_m: 5.5
 founders:
-  - name: "Sandeep Acharya"
-    role: "Founder & CEO"
-    background: "Background in AI-driven go-to-market technology"
-    origin: "Indian"
+- name: Sandeep Acharya
+  role: Founder & CEO
+  background: Background in AI-driven go-to-market technology
+  origin: Indian
+linkedin_verified: true
 ---
 
 # Octave

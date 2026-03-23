@@ -20,18 +20,19 @@ last_updated: 2026-03-20
 one_liner: Lepton AI was a GPU cloud infrastructure startup founded by Yangqing Jia, one of the most influential Chinese-born
   AI researchers in the world
 website_verified: false
-data_notes: 'Website URL may be invalid (HTTP 503). '
+data_notes: Acquired by NVIDIA in 2025 for several hundred million dollars.
 crunchbase: https://www.crunchbase.com/organization/lepton-ai
 crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/lepton-ai
 total_raised_m: 11
 funding_rounds:
-  - stage: "Angel"
-    date: "2023"
-    amount_m: 11
-    lead_investors: ["Undisclosed"]
-    source: "https://www.crunchbase.com/organization/lepton-ai"
-data_notes: "Acquired by NVIDIA in 2025 for several hundred million dollars."
+- stage: Angel
+  date: '2023'
+  amount_m: 11
+  lead_investors:
+  - Undisclosed
+  source: https://www.crunchbase.com/organization/lepton-ai
+linkedin_verified: true
 ---
 
 # Lepton AI

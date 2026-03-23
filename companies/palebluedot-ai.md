@@ -27,6 +27,7 @@ founders:
   background: ''
   origin: Chinese
 linkedin: https://www.linkedin.com/company/palebluedot-ai/
+linkedin_verified: true
 ---
 
 # PaleBlueDot AI

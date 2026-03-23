@@ -31,6 +31,7 @@ crunchbase: https://www.crunchbase.com/organization/genesis-ai-robotics
 crunchbase_verified: true
 total_raised_m: 105.0
 linkedin: https://www.linkedin.com/company/genesis-ai-robotics/
+linkedin_verified: true
 ---
 
 # Genesis AI (Robotics)

@@ -34,6 +34,7 @@ founders:
   background: ''
   origin: Ukrainian
 linkedin: https://www.linkedin.com/company/polygraf-ai/
+linkedin_verified: true
 ---
 
 # Polygraf AI

@@ -28,6 +28,7 @@ crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/graphcore
 total_raised_m: 720.0
 name: Graphcore
+linkedin_verified: true
 ---
 
 # Graphcore

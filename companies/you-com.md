@@ -11,14 +11,17 @@ funding_rounds:
   date: 2025-12
   amount_m: 100
 founders:
-  - name: "Richard Socher"
-    role: "Co-Founder & CEO"
-    background: "Born in Dresden, Germany. Ph.D. in CS from Stanford (under Andrew Ng and Chris Manning). Former Chief Scientist & EVP at Salesforce; CEO/CTO of MetaMind (acquired by Salesforce 2016). 4th most-cited NLP researcher (~220K citations). TIME 100 AI"
-    origin: "German"
-  - name: "Bryan McCann"
-    role: "Co-Founder & CTO"
-    background: "Former Lead Research Scientist in NLP at Salesforce Research. Met Socher at Stanford; co-published deep learning and NLP research before co-founding You.com"
-    origin: "American"
+- name: Richard Socher
+  role: Co-Founder & CEO
+  background: Born in Dresden, Germany. Ph.D. in CS from Stanford (under Andrew Ng and Chris Manning). Former Chief Scientist
+    & EVP at Salesforce; CEO/CTO of MetaMind (acquired by Salesforce 2016). 4th most-cited NLP researcher (~220K citations).
+    TIME 100 AI
+  origin: German
+- name: Bryan McCann
+  role: Co-Founder & CTO
+  background: Former Lead Research Scientist in NLP at Salesforce Research. Met Socher at Stanford; co-published deep learning
+    and NLP research before co-founding You.com
+  origin: American
 last_updated: 2026-03-21
 confidence: medium
 data_notes: 'Needs verification: founders, source_urls. Profile may be incomplete.'
@@ -28,6 +31,7 @@ crunchbase: https://www.crunchbase.com/organization/you-com
 crunchbase_verified: true
 twitter: '@youdotcom'
 total_raised_m: 145.0
+linkedin_verified: true
 ---
 
 # You.com

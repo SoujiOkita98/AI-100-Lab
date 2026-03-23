@@ -10,14 +10,14 @@ funding_rounds:
   lead_investors:
   - First Spark Ventures
 founders:
-  - name: "Will Blyth"
-    role: "Co-Founder & CEO"
-    background: "Former British Army Officer. Previously at Palantir and Helsing (AI defence)."
-    origin: "British (inferred from name and military background)"
-  - name: "Rob Underhill"
-    role: "Co-Founder & CTO"
-    background: "Former lead engineer at BAE Systems. Founding engineer at Garrison Technology."
-    origin: "British (inferred from name)"
+- name: Will Blyth
+  role: Co-Founder & CEO
+  background: Former British Army Officer. Previously at Palantir and Helsing (AI defence).
+  origin: British (inferred from name and military background)
+- name: Rob Underhill
+  role: Co-Founder & CTO
+  background: Former lead engineer at BAE Systems. Founding engineer at Garrison Technology.
+  origin: British (inferred from name)
 last_updated: 2026-03-21
 confidence: medium
 data_notes: 'Needs verification: website, founders, source_urls, headquarters. Profile may be incomplete.'
@@ -29,6 +29,7 @@ crunchbase: https://www.crunchbase.com/organization/arondite
 crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/arondite
 total_raised_m: 12.0
+linkedin_verified: true
 ---
 
 # Arondite

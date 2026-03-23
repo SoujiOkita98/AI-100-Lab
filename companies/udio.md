@@ -62,6 +62,7 @@ funding_rounds:
   - Andreessen Horowitz
   source: https://www.crunchbase.com/organization/udio
 name: Udio
+linkedin_verified: true
 ---
 
 # Udio -- AI Music Generation

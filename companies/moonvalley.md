@@ -51,6 +51,7 @@ founders:
   background: AI research background
   origin: Polish
 name: Moonvalley
+linkedin_verified: true
 ---
 
 # Moonvalley

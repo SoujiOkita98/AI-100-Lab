@@ -47,6 +47,7 @@ funding_rounds:
   - Emergence Capital
   source: https://www.crunchbase.com/organization/harper
 name: Harper
+linkedin_verified: true
 ---
 
 # Harper

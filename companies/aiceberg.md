@@ -25,6 +25,7 @@ crunchbase: https://www.crunchbase.com/organization/aiceberg
 crunchbase_verified: true
 total_raised_m: 10.0
 linkedin: https://www.linkedin.com/company/aiceberg/
+linkedin_verified: true
 ---
 
 # AIceberg

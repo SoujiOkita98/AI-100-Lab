@@ -29,6 +29,7 @@ crunchbase: https://www.crunchbase.com/organization/spacial-ai
 crunchbase_verified: true
 total_raised_m: 10.0
 linkedin: https://www.linkedin.com/company/spacial/
+linkedin_verified: true
 ---
 
 # Spacial

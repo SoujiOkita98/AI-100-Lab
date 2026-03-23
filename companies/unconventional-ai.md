@@ -4,7 +4,8 @@ legal_name: Unconventional, Inc.
 website: https://unconv.ai
 founded: '2025'
 headquarters: San Francisco, CA (some sources report San Diego, CA)
-one_liner: Neuromorphic chip startup building brain-inspired analog computing hardware to bring biology-scale energy efficiency to AI.
+one_liner: Neuromorphic chip startup building brain-inspired analog computing hardware to bring biology-scale energy efficiency
+  to AI.
 ceo: Naveen Rao
 cofounders:
 - name: Naveen Rao
@@ -70,6 +71,7 @@ crunchbase: https://www.crunchbase.com/organization/unconventional-ai
 crunchbase_verified: true
 twitter: '@unconvAI'
 total_raised_m: 475.0
+linkedin_verified: true
 ---
 
 # Unconventional AI

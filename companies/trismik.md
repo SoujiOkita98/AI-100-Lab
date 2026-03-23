@@ -32,6 +32,7 @@ last_updated: 2026-03-21
 confidence: medium
 total_raised_m: 3.0
 linkedin: https://www.linkedin.com/company/trismik/
+linkedin_verified: true
 ---
 
 # Trismik

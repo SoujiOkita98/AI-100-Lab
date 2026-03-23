@@ -61,6 +61,7 @@ twitter: '@thinkymachines'
 linkedin: https://www.linkedin.com/company/thinkingmachinesai
 crunchbase: https://www.crunchbase.com/organization/thinking-machines-lab
 crunchbase_verified: true
+linkedin_verified: true
 ---
 
 # Thinking Machines Lab

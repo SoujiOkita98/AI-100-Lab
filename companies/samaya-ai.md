@@ -30,6 +30,7 @@ crunchbase: https://www.crunchbase.com/organization/samaya-ai
 crunchbase_verified: true
 total_raised_m: 43.5
 linkedin: https://www.linkedin.com/company/samaya-ai/
+linkedin_verified: true
 ---
 
 # Samaya AI

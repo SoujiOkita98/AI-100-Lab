@@ -27,6 +27,7 @@ headquarters: Washington, DC
 crunchbase: https://www.crunchbase.com/organization/emerald-ai
 crunchbase_verified: true
 total_raised_m: 24.5
+linkedin_verified: true
 ---
 
 # Emerald AI

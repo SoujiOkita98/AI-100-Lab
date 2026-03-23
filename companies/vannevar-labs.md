@@ -81,6 +81,7 @@ crunchbase: https://www.crunchbase.com/organization/vannevar-labs
 crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/vannevar-labs
 headquarters: San Francisco, California
+linkedin_verified: true
 ---
 
 # Vannevar Labs

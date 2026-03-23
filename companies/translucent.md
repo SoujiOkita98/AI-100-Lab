@@ -33,6 +33,7 @@ last_updated: 2026-03-21
 confidence: medium
 total_raised_m: 34.0
 linkedin: https://www.linkedin.com/company/translucent/
+linkedin_verified: true
 ---
 
 # Translucent

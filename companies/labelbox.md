@@ -75,6 +75,7 @@ linkedin: https://www.linkedin.com/company/labelbox
 crunchbase: https://www.crunchbase.com/organization/labelbox
 crunchbase_verified: true
 name: Labelbox
+linkedin_verified: true
 ---
 
 # Labelbox

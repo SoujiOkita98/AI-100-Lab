@@ -28,6 +28,7 @@ founders:
   role: CTO
   background: PhD Robotics, Oxford. Co-founded Blue Vision Labs (acquired by Lyft).
   origin: Czech
+linkedin_verified: true
 ---
 
 # Coram AI

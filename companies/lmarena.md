@@ -44,6 +44,7 @@ crunchbase: https://www.crunchbase.com/organization/lmarena
 crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/lmarena
 total_raised_m: 250.0
+linkedin_verified: true
 ---
 
 # LMArena

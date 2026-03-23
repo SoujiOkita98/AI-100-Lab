@@ -111,6 +111,7 @@ crunchbase: https://www.crunchbase.com/organization/abnormal-security
 crunchbase_verified: true
 twitter: '@AbnormalSec'
 headquarters: San Francisco, CA
+linkedin_verified: true
 ---
 
 # Abnormal AI (formerly Abnormal Security)

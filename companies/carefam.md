@@ -35,6 +35,7 @@ founders:
 confidence: high
 last_updated: 2026-03-23
 linkedin: https://www.linkedin.com/company/carefam/
+linkedin_verified: true
 ---
 
 # Carefam

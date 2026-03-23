@@ -64,6 +64,7 @@ founders:
   background: Stanford graduate. Previously at Google and Palantir. Now founding Amp Inc.
   origin: Chinese-American
 name: Sourcegraph
+linkedin_verified: true
 ---
 
 # Sourcegraph

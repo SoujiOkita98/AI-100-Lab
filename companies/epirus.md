@@ -99,6 +99,7 @@ crunchbase: https://www.crunchbase.com/organization/epirus
 crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/epirus
 headquarters: Torrance, California
+linkedin_verified: true
 ---
 
 # Epirus

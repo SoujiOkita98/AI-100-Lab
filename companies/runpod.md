@@ -28,6 +28,7 @@ founders:
   background: ''
   origin: Indian-American
 linkedin: https://www.linkedin.com/company/runpod/
+linkedin_verified: true
 ---
 
 # RunPod

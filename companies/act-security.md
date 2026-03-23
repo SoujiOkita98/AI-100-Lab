@@ -31,6 +31,7 @@ crunchbase: https://www.crunchbase.com/organization/act-security
 crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/act-sec
 total_raised_m: 20.0
+linkedin_verified: true
 ---
 
 # Act Security

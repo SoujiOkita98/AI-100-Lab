@@ -28,6 +28,7 @@ linkedin: https://www.linkedin.com/company/nace-ai
 crunchbase: https://www.crunchbase.com/organization/nace-ai
 crunchbase_verified: true
 total_raised_m: 5.0
+linkedin_verified: true
 ---
 
 # Nace.AI

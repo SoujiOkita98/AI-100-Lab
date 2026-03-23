@@ -13,14 +13,14 @@ funding_rounds:
   - Alibaba
   - JD.com
 founders:
-  - name: "Wei Zhang"
-    role: "Co-Founder & CEO"
-    background: "Dr. Tenured professor. PhD from Purdue University."
-    origin: "Chinese"
-  - name: "Li Zhang"
-    role: "Co-Founder & COO"
-    background: "Former COO at WeRide (autonomous driving)."
-    origin: "Chinese"
+- name: Wei Zhang
+  role: Co-Founder & CEO
+  background: Dr. Tenured professor. PhD from Purdue University.
+  origin: Chinese
+- name: Li Zhang
+  role: Co-Founder & COO
+  background: Former COO at WeRide (autonomous driving).
+  origin: Chinese
 last_updated: 2026-03-21
 confidence: medium
 data_notes: 'Needs verification: website, founders, source_urls. Profile may be incomplete.'
@@ -30,6 +30,7 @@ linkedin: https://www.linkedin.com/company/limx-dynamics
 crunchbase: https://www.crunchbase.com/organization/limx-dynamics
 crunchbase_verified: true
 total_raised_m: 69.0
+linkedin_verified: true
 ---
 
 # LimX Dynamics

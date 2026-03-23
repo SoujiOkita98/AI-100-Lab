@@ -48,6 +48,7 @@ funding_rounds:
   source: https://www.crunchbase.com/organization/numeric
 linkedin: https://www.linkedin.com/company/numeric/
 name: Numeric
+linkedin_verified: true
 ---
 
 # Numeric -- Company Profile

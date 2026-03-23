@@ -58,6 +58,7 @@ crunchbase: https://www.crunchbase.com/organization/fundamental-ai
 crunchbase_verified: true
 headquarters: San Francisco, CA
 linkedin: https://www.linkedin.com/company/fundamental/
+linkedin_verified: true
 ---
 
 # Fundamental

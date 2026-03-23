@@ -27,6 +27,7 @@ crunchbase: https://www.crunchbase.com/organization/liblib-ai
 crunchbase_verified: true
 total_raised_m: 130.0
 linkedin: https://www.linkedin.com/company/liblibai/
+linkedin_verified: true
 ---
 
 # LiblibAI

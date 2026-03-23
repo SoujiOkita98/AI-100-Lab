@@ -22,6 +22,7 @@ founders:
   background: ''
   origin: South Asian-American
 linkedin: https://www.linkedin.com/company/pytho-ai/
+linkedin_verified: true
 ---
 
 # Pytho AI

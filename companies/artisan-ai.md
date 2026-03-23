@@ -12,14 +12,15 @@ revenue_arr: ~$6M ARR (2025)
 employees: ~35 (estimated, 2025)
 status: Private
 founders:
-  - name: "Jaspar Carmichael-Jack"
-    role: "Co-Founder & CEO"
-    background: "British entrepreneur. Previously founded an on-demand services startup and a GTM agency. Founded Artisan at age 23."
-    origin: "British (inferred from name)"
-  - name: "Sam Stallings"
-    role: "Co-Founder"
-    background: "Former IBM product manager."
-    origin: "American (inferred from name)"
+- name: Jaspar Carmichael-Jack
+  role: Co-Founder & CEO
+  background: British entrepreneur. Previously founded an on-demand services startup and a GTM agency. Founded Artisan at
+    age 23.
+  origin: British (inferred from name)
+- name: Sam Stallings
+  role: Co-Founder
+  background: Former IBM product manager.
+  origin: American (inferred from name)
 last_updated: 2026-03-20
 confidence: medium
 one_liner: AI digital workers starting with Ava, an AI BDR automating B2B sales outbound. 250 customers, $5M ARR.
@@ -29,6 +30,7 @@ crunchbase: https://www.crunchbase.com/organization/artisan-ai
 crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/artisanai
 total_raised_m: 46.0
+linkedin_verified: true
 ---
 
 # Artisan AI

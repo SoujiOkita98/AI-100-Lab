@@ -48,6 +48,7 @@ crunchbase_verified: true
 total_raised_m: 104.6
 linkedin: https://www.linkedin.com/company/jump-ai/
 name: Jump
+linkedin_verified: true
 ---
 
 # Jump -- Company Profile

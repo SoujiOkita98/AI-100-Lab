@@ -28,6 +28,7 @@ founders:
   background: Former engineer at Meta
   origin: Chinese-Canadian
 linkedin: https://www.linkedin.com/company/offdeal/
+linkedin_verified: true
 ---
 
 # OffDeal

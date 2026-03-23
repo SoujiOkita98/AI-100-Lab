@@ -55,6 +55,7 @@ crunchbase: https://www.crunchbase.com/organization/essential-ai
 crunchbase_verified: true
 twitter: '@essential_ai'
 name: Essential AI
+linkedin_verified: true
 ---
 
 # Essential AI

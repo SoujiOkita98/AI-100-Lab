@@ -36,6 +36,7 @@ founders:
 confidence: high
 last_updated: 2026-03-23
 linkedin: https://www.linkedin.com/company/kai-security/
+linkedin_verified: true
 ---
 
 # Kai Security

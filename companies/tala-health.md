@@ -28,6 +28,7 @@ crunchbase: https://www.crunchbase.com/organization/tala-health
 crunchbase_verified: true
 total_raised_m: 100.0
 linkedin: https://www.linkedin.com/company/tala-health/
+linkedin_verified: true
 ---
 
 # Tala Health

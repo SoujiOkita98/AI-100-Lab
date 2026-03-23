@@ -56,6 +56,7 @@ funding_rounds:
   source: https://www.crunchbase.com/organization/tavus
 linkedin: https://www.linkedin.com/company/tavus/
 name: Tavus
+linkedin_verified: true
 ---
 
 # Tavus

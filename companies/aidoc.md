@@ -30,6 +30,7 @@ crunchbase: https://www.crunchbase.com/organization/aidoc
 crunchbase_verified: true
 twitter: '@aidocmed'
 total_raised_m: 250.0
+linkedin_verified: true
 ---
 
 # Aidoc

@@ -29,6 +29,7 @@ crunchbase: https://www.crunchbase.com/organization/sennos
 crunchbase_verified: true
 total_raised_m: 15.0
 linkedin: https://www.linkedin.com/company/sennos/
+linkedin_verified: true
 ---
 
 # Sennos

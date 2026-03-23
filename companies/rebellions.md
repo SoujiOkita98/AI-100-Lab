@@ -23,10 +23,12 @@ crunchbase_verified: true
 twitter: '@Rebellions_inc'
 total_raised_m: 250.0
 founders:
-  - name: "Sunghyun Park"
-    role: "Founder & CEO"
-    background: "MIT graduate in EE and CS; former Senior Research Scientist at Intel Labs, Staff Engineer at Samsung, Starlink ASIC Design Engineer at SpaceX, VP at Morgan Stanley"
-    origin: "Korean"
+- name: Sunghyun Park
+  role: Founder & CEO
+  background: MIT graduate in EE and CS; former Senior Research Scientist at Intel Labs, Staff Engineer at Samsung, Starlink
+    ASIC Design Engineer at SpaceX, VP at Morgan Stanley
+  origin: Korean
+linkedin_verified: true
 ---
 
 # Rebellions

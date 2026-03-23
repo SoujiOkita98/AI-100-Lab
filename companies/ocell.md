@@ -22,18 +22,19 @@ crunchbase: https://www.crunchbase.com/organization/ocell
 crunchbase_verified: true
 total_raised_m: 11.0
 founders:
-  - name: "David Dohmen"
-    role: "Co-Founder & Co-CEO"
-    background: "Engineering studies at TU Munich"
-    origin: "German"
-  - name: "Christian Decher"
-    role: "Co-Founder & Co-CEO"
-    background: "Engineering studies at TU Munich"
-    origin: "German"
-  - name: "Felix Horvat"
-    role: "Co-Founder & CTO"
-    background: "Engineering studies at TU Munich"
-    origin: "German"
+- name: David Dohmen
+  role: Co-Founder & Co-CEO
+  background: Engineering studies at TU Munich
+  origin: German
+- name: Christian Decher
+  role: Co-Founder & Co-CEO
+  background: Engineering studies at TU Munich
+  origin: German
+- name: Felix Horvat
+  role: Co-Founder & CTO
+  background: Engineering studies at TU Munich
+  origin: German
+linkedin_verified: true
 ---
 
 # OCELL

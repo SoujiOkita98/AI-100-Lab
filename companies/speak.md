@@ -47,14 +47,15 @@ crunchbase: https://www.crunchbase.com/organization/speak
 crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/usespeak
 founders:
-  - name: "Connor Zwick"
-    role: "CEO & Co-Founder"
-    background: "Former Harvard student, Thiel Fellow. Created Flashcards+ (top US education app, acquired by Chegg)."
-    origin: "American"
-  - name: "Andrew Hsu"
-    role: "Co-Founder"
-    background: "Co-founded Speak with Zwick."
-    origin: "Taiwanese-American"
+- name: Connor Zwick
+  role: CEO & Co-Founder
+  background: Former Harvard student, Thiel Fellow. Created Flashcards+ (top US education app, acquired by Chegg).
+  origin: American
+- name: Andrew Hsu
+  role: Co-Founder
+  background: Co-founded Speak with Zwick.
+  origin: Taiwanese-American
+linkedin_verified: true
 ---
 
 # Speak -- AI Language Learning

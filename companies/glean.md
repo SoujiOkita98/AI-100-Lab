@@ -86,6 +86,7 @@ twitter: '@glean'
 crunchbase: https://www.crunchbase.com/organization/glean
 crunchbase_verified: true
 name: Glean
+linkedin_verified: true
 ---
 
 # Glean -- AI-Powered Enterprise Search & Work AI Platform

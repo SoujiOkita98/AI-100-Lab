@@ -17,14 +17,15 @@ crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/phonic-research
 total_raised_m: 4.0
 founders:
-  - name: "Moin Nadeem"
-    role: "Co-Founder & CEO"
-    background: "MEng and BS from MIT"
-    origin: "South Asian-American"
-  - name: "Nikhil Murthy"
-    role: "Co-Founder & CTO"
-    background: "MEng and BS from MIT"
-    origin: "Indian-American"
+- name: Moin Nadeem
+  role: Co-Founder & CEO
+  background: MEng and BS from MIT
+  origin: South Asian-American
+- name: Nikhil Murthy
+  role: Co-Founder & CTO
+  background: MEng and BS from MIT
+  origin: Indian-American
+linkedin_verified: true
 ---
 
 # Phonic

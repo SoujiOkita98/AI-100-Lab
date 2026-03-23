@@ -29,6 +29,7 @@ confidence: medium
 twitter: '@armada_ai'
 total_raised_m: 171.0
 linkedin: https://www.linkedin.com/company/armada/
+linkedin_verified: true
 ---
 
 # Armada

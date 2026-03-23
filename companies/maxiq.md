@@ -21,14 +21,15 @@ crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/getmaxiq
 total_raised_m: 7.8
 founders:
-  - name: "Sonny Aulakh"
-    role: "Founder"
-    background: ""
-    origin: "Indian"
-  - name: "Sunny Rai"
-    role: "Co-Founder & Head of Operations"
-    background: ""
-    origin: "Indian"
+- name: Sonny Aulakh
+  role: Founder
+  background: ''
+  origin: Indian
+- name: Sunny Rai
+  role: Co-Founder & Head of Operations
+  background: ''
+  origin: Indian
+linkedin_verified: true
 ---
 
 # MaxIQ

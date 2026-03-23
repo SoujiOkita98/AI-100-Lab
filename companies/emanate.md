@@ -30,6 +30,7 @@ crunchbase: https://www.crunchbase.com/organization/emanate
 crunchbase_verified: true
 total_raised_m: 10.0
 linkedin: https://www.linkedin.com/company/emanate/
+linkedin_verified: true
 ---
 
 # Emanate

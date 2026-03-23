@@ -27,6 +27,7 @@ linkedin: https://www.linkedin.com/company/datawizzai
 crunchbase: https://www.crunchbase.com/organization/datawizz
 crunchbase_verified: true
 total_raised_m: 12.5
+linkedin_verified: true
 ---
 
 # Datawizz

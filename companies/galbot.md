@@ -4,10 +4,10 @@ legal_entity: Galaxy General Robotics (Beijing) Co., Ltd. (银河通用机器人
 founded: '2023'
 headquarters: Beijing, China
 founders:
-  - name: "He Wang"
-    role: "CEO"
-    background: "Professor at Peking University; researcher in robotics and embodied AI"
-    origin: "Chinese"
+- name: He Wang
+  role: CEO
+  background: Professor at Peking University; researcher in robotics and embodied AI
+  origin: Chinese
 founder_ceo: He Wang (Peking University Professor)
 sector: Humanoid Robotics / Embodied AI
 stage: Series B+ (late-stage private)
@@ -57,6 +57,7 @@ website_verified: true
 linkedin: https://www.linkedin.com/company/galbot-robotics
 crunchbase: https://www.crunchbase.com/organization/galbot
 crunchbase_verified: true
+linkedin_verified: true
 ---
 
 # Galbot (Galaxy General Robotics)

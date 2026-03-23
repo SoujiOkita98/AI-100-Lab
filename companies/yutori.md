@@ -26,6 +26,7 @@ crunchbase: https://www.crunchbase.com/organization/yutori
 crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/yutori-ai
 total_raised_m: 15.0
+linkedin_verified: true
 ---
 
 # Yutori

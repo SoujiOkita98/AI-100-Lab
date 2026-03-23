@@ -58,6 +58,7 @@ linkedin: https://www.linkedin.com/company/sierra
 crunchbase: https://www.crunchbase.com/organization/sierra-ai
 crunchbase_verified: true
 name: Sierra Technologies, Inc.
+linkedin_verified: true
 ---
 
 # Sierra AI

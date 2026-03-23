@@ -28,6 +28,7 @@ linkedin: https://www.linkedin.com/company/getenter
 crunchbase: https://www.crunchbase.com/organization/enter-legal-brazil
 crunchbase_verified: true
 total_raised_m: 35.0
+linkedin_verified: true
 ---
 
 # Enter (Legal AI Brazil)

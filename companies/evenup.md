@@ -56,6 +56,7 @@ crunchbase_verified: true
 twitter: '@evenuplaw'
 total_raised_m: 370.5
 name: EvenUp
+linkedin_verified: true
 ---
 
 # EvenUp -- Company Profile

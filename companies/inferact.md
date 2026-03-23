@@ -41,6 +41,7 @@ crunchbase: https://www.crunchbase.com/organization/inferact
 crunchbase_verified: true
 total_raised_m: 150.0
 linkedin: https://www.linkedin.com/company/inferact/
+linkedin_verified: true
 ---
 
 # Inferact

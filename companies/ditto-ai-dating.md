@@ -31,6 +31,7 @@ headquarters: Oakland, CA
 crunchbase: https://www.crunchbase.com/organization/ditto-ai-dating
 crunchbase_verified: true
 total_raised_m: 9.2
+linkedin_verified: true
 ---
 
 # Ditto AI (Dating)

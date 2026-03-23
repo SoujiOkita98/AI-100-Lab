@@ -17,18 +17,18 @@ funding_rounds:
   lead_investors:
   - USVP
 founders:
-  - name: "Ari Caroline"
-    role: "Co-Founder & CEO"
-    background: "Co-founded Weave Bio in 2023 to automate regulatory workflows for drug development"
-    origin: "American"
-  - name: "Umut Eser"
-    role: "Co-Founder & CTO"
-    background: "AI/ML expert; leads technical development of Weave's regulatory platform"
-    origin: "Turkish-American"
-  - name: "Brandon Rice"
-    role: "Co-Founder & CPO"
-    background: "Chief Product Officer leading regulatory product strategy at Weave Bio"
-    origin: "American"
+- name: Ari Caroline
+  role: Co-Founder & CEO
+  background: Co-founded Weave Bio in 2023 to automate regulatory workflows for drug development
+  origin: American
+- name: Umut Eser
+  role: Co-Founder & CTO
+  background: AI/ML expert; leads technical development of Weave's regulatory platform
+  origin: Turkish-American
+- name: Brandon Rice
+  role: Co-Founder & CPO
+  background: Chief Product Officer leading regulatory product strategy at Weave Bio
+  origin: American
 last_updated: 2026-03-21
 confidence: medium
 linkedin: https://www.linkedin.com/company/weavebio
@@ -37,6 +37,7 @@ website_verified: true
 crunchbase: https://www.crunchbase.com/organization/weave-bio
 crunchbase_verified: true
 total_raised_m: 30.0
+linkedin_verified: true
 ---
 
 # Weave Bio

@@ -26,6 +26,7 @@ linkedin: https://www.linkedin.com/company/evolved-robotics-care
 crunchbase: https://www.crunchbase.com/organization/evolved-robotics
 crunchbase_verified: true
 total_raised_m: 0.325
+linkedin_verified: true
 ---
 
 # Evolved Robotics

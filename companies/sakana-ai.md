@@ -66,6 +66,7 @@ linkedin: https://www.linkedin.com/company/sakana-ai
 crunchbase: https://www.crunchbase.com/organization/sakana-ai
 crunchbase_verified: true
 name: Sakana AI
+linkedin_verified: true
 ---
 
 # Sakana AI

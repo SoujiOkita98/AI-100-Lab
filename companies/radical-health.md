@@ -25,6 +25,7 @@ founders:
   background: Former executive at Flatiron Health and Tempus
   origin: Danish
 linkedin: https://www.linkedin.com/company/radical-health/
+linkedin_verified: true
 ---
 
 # Radical Health

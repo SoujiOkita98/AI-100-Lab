@@ -27,6 +27,7 @@ crunchbase: https://www.crunchbase.com/organization/bone-ai
 crunchbase_verified: true
 total_raised_m: 12.0
 linkedin: https://www.linkedin.com/company/bone-ai/
+linkedin_verified: true
 ---
 
 # Bone AI

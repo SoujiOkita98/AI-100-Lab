@@ -29,6 +29,7 @@ funding_rounds: []
 data_notes: Midjourney is entirely bootstrapped/self-funded. Zero external venture capital raised.
 linkedin: https://www.linkedin.com/company/midjourney-inc/
 name: Midjourney
+linkedin_verified: true
 ---
 
 # Midjourney

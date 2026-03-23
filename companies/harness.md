@@ -82,6 +82,7 @@ founders:
   background: Formerly at Apple leading high-impact DevOps initiatives.
   origin: Indian
 name: Harness
+linkedin_verified: true
 ---
 
 # Harness

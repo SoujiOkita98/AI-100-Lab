@@ -30,6 +30,7 @@ linkedin: https://www.linkedin.com/company/converge-bio
 crunchbase: https://www.crunchbase.com/organization/converge-bio
 crunchbase_verified: true
 total_raised_m: 30.0
+linkedin_verified: true
 ---
 
 # Converge Bio

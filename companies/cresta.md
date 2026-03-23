@@ -55,6 +55,7 @@ crunchbase: https://www.crunchbase.com/organization/cresta
 crunchbase_verified: true
 total_raised_m: 270.0
 name: Cresta
+linkedin_verified: true
 ---
 
 # Cresta -- Company Profile

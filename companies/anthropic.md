@@ -190,6 +190,7 @@ twitter: '@AnthropicAI'
 crunchbase: https://www.crunchbase.com/organization/anthropic
 crunchbase_verified: true
 headquarters: San Francisco, CA
+linkedin_verified: true
 ---
 
 # Anthropic

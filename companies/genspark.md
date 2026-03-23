@@ -18,18 +18,19 @@ funding_rounds:
   - Emergence Capital
 latest_valuation: 1250
 founders:
-  - name: "Eric Jing"
-    role: "Co-Founder & CEO"
-    background: "Microsoft veteran (joined 2006), founding member of Microsoft Bing. Built previous company to $5.5B valuation."
-    origin: "Chinese"
-  - name: "Kay Zhu"
-    role: "Co-Founder & CTO"
-    background: "Pioneered AI-powered search ranking at Google (2011). Launched world's first deep neural network ranking model in production search (2013). Worked with Eric Jing for 11 years."
-    origin: "Chinese"
-  - name: "Wen Sang"
-    role: "Co-Founder & COO"
-    background: "PhD from MIT. Founded and exited Smarking (YC and Khosla-backed enterprise SaaS)."
-    origin: "Chinese"
+- name: Eric Jing
+  role: Co-Founder & CEO
+  background: Microsoft veteran (joined 2006), founding member of Microsoft Bing. Built previous company to $5.5B valuation.
+  origin: Chinese
+- name: Kay Zhu
+  role: Co-Founder & CTO
+  background: Pioneered AI-powered search ranking at Google (2011). Launched world's first deep neural network ranking model
+    in production search (2013). Worked with Eric Jing for 11 years.
+  origin: Chinese
+- name: Wen Sang
+  role: Co-Founder & COO
+  background: PhD from MIT. Founded and exited Smarking (YC and Khosla-backed enterprise SaaS).
+  origin: Chinese
 last_updated: 2026-03-21
 confidence: medium
 linkedin: https://www.linkedin.com/company/gensparkai
@@ -40,6 +41,7 @@ crunchbase: https://www.crunchbase.com/organization/genspark
 crunchbase_verified: true
 twitter: '@genspark_ai'
 total_raised_m: 335.0
+linkedin_verified: true
 ---
 
 # Genspark

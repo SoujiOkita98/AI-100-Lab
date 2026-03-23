@@ -66,6 +66,7 @@ founders:
   origin: American
 linkedin: https://www.linkedin.com/company/semgrep/
 name: Semgrep
+linkedin_verified: true
 ---
 
 # Semgrep

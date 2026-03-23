@@ -23,14 +23,15 @@ crunchbase: https://www.crunchbase.com/organization/mandolin-ai
 crunchbase_verified: true
 total_raised_m: 40.0
 founders:
-  - name: "Will Yin"
-    role: "Co-Founder & CEO"
-    background: "Repeat entrepreneur with background in healthcare"
-    origin: "Chinese"
-  - name: "Rohit Rustagi"
-    role: "Co-Founder & COO"
-    background: "Repeat entrepreneur"
-    origin: "Indian"
+- name: Will Yin
+  role: Co-Founder & CEO
+  background: Repeat entrepreneur with background in healthcare
+  origin: Chinese
+- name: Rohit Rustagi
+  role: Co-Founder & COO
+  background: Repeat entrepreneur
+  origin: Indian
+linkedin_verified: true
 ---
 
 # Mandolin

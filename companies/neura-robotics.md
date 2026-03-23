@@ -65,6 +65,7 @@ crunchbase: https://www.crunchbase.com/organization/neura-robotics
 crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/neura-robotics
 headquarters: Metzingen, Germany
+linkedin_verified: true
 ---
 
 # NEURA Robotics

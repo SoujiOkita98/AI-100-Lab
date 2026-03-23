@@ -57,6 +57,7 @@ crunchbase: https://www.crunchbase.com/organization/axiom-ai
 crunchbase_verified: true
 headquarters: San Francisco, CA
 linkedin: https://www.linkedin.com/company/axiom/
+linkedin_verified: true
 ---
 
 # Axiom

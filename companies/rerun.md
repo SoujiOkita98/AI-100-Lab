@@ -32,6 +32,7 @@ founders:
   background: Led 3D scanning company Volumental as CEO from pre-product to global market leader
   origin: German
 linkedin: https://www.linkedin.com/company/rerun/
+linkedin_verified: true
 ---
 
 # Rerun

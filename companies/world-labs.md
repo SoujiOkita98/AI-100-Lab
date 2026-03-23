@@ -109,6 +109,7 @@ crunchbase: https://www.crunchbase.com/organization/world-labs
 crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/world-labs
 headquarters: San Francisco, CA
+linkedin_verified: true
 ---
 
 # World Labs

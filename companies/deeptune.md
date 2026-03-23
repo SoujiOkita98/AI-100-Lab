@@ -25,6 +25,7 @@ crunchbase: https://www.crunchbase.com/organization/deeptune
 crunchbase_verified: true
 total_raised_m: 43.0
 linkedin: https://www.linkedin.com/company/deeptune/
+linkedin_verified: true
 ---
 
 # Deeptune

@@ -90,6 +90,7 @@ linkedin: https://www.linkedin.com/company/nuro-inc.
 crunchbase: https://www.crunchbase.com/organization/nuro
 crunchbase_verified: true
 name: Nuro
+linkedin_verified: true
 ---
 
 # Nuro

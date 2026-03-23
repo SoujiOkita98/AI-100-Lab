@@ -12,10 +12,10 @@ funding_rounds:
   - Tech Square Ventures
   source: https://www.prnewswire.com/news-releases/bricklayer-ai-raises-5-million-seed-round/
 founders:
-  - name: "Adam Vincent"
-    role: "Founder & CEO"
-    background: "Previous founder of ThreatConnect (cybersecurity intelligence and automation)."
-    origin: "American (inferred from name)"
+- name: Adam Vincent
+  role: Founder & CEO
+  background: Previous founder of ThreatConnect (cybersecurity intelligence and automation).
+  origin: American (inferred from name)
 last_updated: 2026-03-21
 confidence: medium
 data_notes: 'Needs verification: website, founders, source_urls, headquarters. Profile may be incomplete.'
@@ -26,6 +26,7 @@ crunchbase: https://www.crunchbase.com/organization/bricklayer-ai
 crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/bricklayerai
 total_raised_m: 5.0
+linkedin_verified: true
 ---
 
 # Bricklayer AI

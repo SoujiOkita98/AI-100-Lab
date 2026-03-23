@@ -20,14 +20,14 @@ funding_rounds:
   lead_investors:
   - Sequoia
 founders:
-  - name: "Burkay Gur"
-    role: "Co-Founder & CEO"
-    background: "Previously at Coinbase."
-    origin: "Turkish"
-  - name: "Gorkem Yurtseven"
-    role: "Co-Founder"
-    background: "Previously at Amazon."
-    origin: "Turkish"
+- name: Burkay Gur
+  role: Co-Founder & CEO
+  background: Previously at Coinbase.
+  origin: Turkish
+- name: Gorkem Yurtseven
+  role: Co-Founder
+  background: Previously at Amazon.
+  origin: Turkish
 last_updated: 2026-03-21
 confidence: medium
 data_notes: 'Needs verification: founders, source_urls. Profile may be incomplete.'
@@ -37,6 +37,7 @@ crunchbase: https://www.crunchbase.com/organization/fal-ai
 crunchbase_verified: true
 twitter: '@fal'
 total_raised_m: 300.0
+linkedin_verified: true
 ---
 
 # Fal

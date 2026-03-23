@@ -22,14 +22,15 @@ crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/model-ml
 total_raised_m: 12.0
 founders:
-  - name: "Chaz Englander"
-    role: "Co-Founder & CEO"
-    background: "Co-founded Fat Llama (acquired by Hygglo 2022) and Fancy (acquired by GoPuff 2021)"
-    origin: "British"
-  - name: "Arnie Englander"
-    role: "Co-Founder"
-    background: "Co-founded Fat Llama and Fancy with brother Chaz"
-    origin: "British"
+- name: Chaz Englander
+  role: Co-Founder & CEO
+  background: Co-founded Fat Llama (acquired by Hygglo 2022) and Fancy (acquired by GoPuff 2021)
+  origin: British
+- name: Arnie Englander
+  role: Co-Founder
+  background: Co-founded Fat Llama and Fancy with brother Chaz
+  origin: British
+linkedin_verified: true
 ---
 
 # Model ML

@@ -34,6 +34,7 @@ crunchbase: https://www.crunchbase.com/organization/tenex-ai
 crunchbase_verified: true
 total_raised_m: 27.0
 linkedin: https://www.linkedin.com/company/tenex-ai/
+linkedin_verified: true
 ---
 
 # Tenex AI

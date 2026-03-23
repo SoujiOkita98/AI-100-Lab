@@ -27,6 +27,7 @@ founders:
   background: Technical founder with product vision background
   origin: Spanish
 linkedin: https://www.linkedin.com/company/murphy/
+linkedin_verified: true
 ---
 
 # Murphy

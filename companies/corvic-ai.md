@@ -33,6 +33,7 @@ founders:
   role: CPO
   background: Former Katana Graph, Intel, Determined AI.
   origin: Indian-American
+linkedin_verified: true
 ---
 
 # Corvic AI

@@ -21,10 +21,11 @@ crunchbase: https://www.crunchbase.com/organization/raspberry-ai
 crunchbase_verified: true
 total_raised_m: 24.0
 founders:
-  - name: "Cheryl Liu"
-    role: "Founder & CEO"
-    background: "Former private equity analyst at KKR (retail focus); worked at Amazon and DoorDash"
-    origin: "Chinese-American"
+- name: Cheryl Liu
+  role: Founder & CEO
+  background: Former private equity analyst at KKR (retail focus); worked at Amazon and DoorDash
+  origin: Chinese-American
+linkedin_verified: true
 ---
 
 # Raspberry AI

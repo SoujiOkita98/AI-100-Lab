@@ -52,6 +52,7 @@ funding_rounds:
   - Mozilla Ventures
   source: https://www.credo.ai/blog/accelerating-global-growth-and-innovation-in-ai-governance-with-21-million-in-new-capital
 name: Credo AI
+linkedin_verified: true
 ---
 
 # Credo AI -- AI Governance & Responsible AI Platform

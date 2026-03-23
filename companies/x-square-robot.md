@@ -14,10 +14,11 @@ funding_rounds:
   - HongShan
   - Meituan
 founders:
-  - name: "Wang Qian"
-    role: "Founder & CEO"
-    background: "BS and MS from Tsinghua University; PhD from University of Southern California. Founded X Square Robot in December 2023 in Shenzhen"
-    origin: "Chinese"
+- name: Wang Qian
+  role: Founder & CEO
+  background: BS and MS from Tsinghua University; PhD from University of Southern California. Founded X Square Robot in December
+    2023 in Shenzhen
+  origin: Chinese
 last_updated: 2026-03-21
 confidence: medium
 data_notes: 'Needs verification: website, founders, source_urls. Profile may be incomplete.'
@@ -27,6 +28,7 @@ crunchbase: https://www.crunchbase.com/organization/x-square-robot
 crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/x-square-robot
 total_raised_m: 280.0
+linkedin_verified: true
 ---
 
 # X Square Robot

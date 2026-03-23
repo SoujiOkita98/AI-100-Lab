@@ -47,6 +47,7 @@ crunchbase: https://www.crunchbase.com/organization/basis
 crunchbase_verified: true
 total_raised_m: 137.6
 name: Basis
+linkedin_verified: true
 ---
 
 # Basis -- Company Profile

@@ -25,6 +25,7 @@ linkedin: https://www.linkedin.com/company/oxmiq-labs
 crunchbase: https://www.crunchbase.com/organization/oxmiq-labs
 crunchbase_verified: true
 total_raised_m: 20.0
+linkedin_verified: true
 ---
 
 # Oxmiq Labs

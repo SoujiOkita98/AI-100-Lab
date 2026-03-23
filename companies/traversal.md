@@ -39,6 +39,7 @@ crunchbase: https://www.crunchbase.com/organization/traversal
 crunchbase_verified: true
 total_raised_m: 48.0
 linkedin: https://www.linkedin.com/company/traversal/
+linkedin_verified: true
 ---
 
 # Traversal

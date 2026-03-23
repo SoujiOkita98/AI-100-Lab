@@ -44,6 +44,7 @@ crunchbase: https://www.crunchbase.com/organization/contextual-ai
 crunchbase_verified: true
 total_raised_m: 100.0
 name: Contextual AI
+linkedin_verified: true
 ---
 
 # Contextual AI

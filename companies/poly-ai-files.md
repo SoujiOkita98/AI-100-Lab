@@ -36,6 +36,7 @@ founders:
   background: PhD at Cambridge; worked at Facebook AI
   origin: Taiwanese
 linkedin: https://www.linkedin.com/company/poly/
+linkedin_verified: true
 ---
 
 # Poly

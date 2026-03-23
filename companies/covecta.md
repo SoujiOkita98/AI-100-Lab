@@ -31,6 +31,7 @@ founders:
   background: Former engineering at AppSense and Orgvue.
   origin: Middle Eastern
 linkedin: https://www.linkedin.com/company/covecta/
+linkedin_verified: true
 ---
 
 # Covecta

@@ -30,6 +30,7 @@ crunchbase: https://www.crunchbase.com/organization/distyl-ai
 crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/distylai
 total_raised_m: 175.0
+linkedin_verified: true
 ---
 
 # Distyl AI

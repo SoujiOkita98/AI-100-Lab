@@ -30,6 +30,7 @@ linkedin: https://www.linkedin.com/company/noda-ai
 crunchbase: https://www.crunchbase.com/organization/noda-ai
 crunchbase_verified: true
 total_raised_m: 25.0
+linkedin_verified: true
 ---
 
 # NODA AI

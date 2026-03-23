@@ -67,6 +67,7 @@ founders:
   background: ''
   origin: Chinese
 name: Moveworks
+linkedin_verified: true
 ---
 
 # Moveworks -- Agentic AI Copilot for Enterprise Employee Support

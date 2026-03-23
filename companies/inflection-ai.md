@@ -71,6 +71,7 @@ crunchbase_verified: true
 twitter: '@inflectionAI'
 total_raised_m: 1525.0
 name: Inflection AI
+linkedin_verified: true
 ---
 
 # Inflection AI

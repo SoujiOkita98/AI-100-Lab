@@ -8,14 +8,14 @@ co_founders:
 - Zhang Wen (former SenseTime president)
 - Jiao Guofang (former Huawei)
 founders:
-  - name: "Zhang Wen"
-    role: "Co-Founder"
-    background: "Former president of SenseTime."
-    origin: "Chinese (inferred from name)"
-  - name: "Jiao Guofang"
-    role: "Co-Founder"
-    background: "Former Huawei executive."
-    origin: "Chinese (inferred from name)"
+- name: Zhang Wen
+  role: Co-Founder
+  background: Former president of SenseTime.
+  origin: Chinese (inferred from name)
+- name: Jiao Guofang
+  role: Co-Founder
+  background: Former Huawei executive.
+  origin: Chinese (inferred from name)
 sector: AI Chips / GPU Accelerators
 stage: Public (IPO January 2, 2026, HKEX)
 ipo_raised_hkd: HK$5.58B (~$717M)
@@ -61,6 +61,7 @@ website_verified: true
 linkedin: https://www.linkedin.com/company/birentech
 crunchbase: https://www.crunchbase.com/organization/biren-technology
 crunchbase_verified: true
+linkedin_verified: true
 ---
 
 # Biren Technology

@@ -41,6 +41,7 @@ linkedin: https://www.linkedin.com/company/gradium-ai
 crunchbase: https://www.crunchbase.com/organization/gradium
 crunchbase_verified: true
 total_raised_m: 70.0
+linkedin_verified: true
 ---
 
 # Gradium

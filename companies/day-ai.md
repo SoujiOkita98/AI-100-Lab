@@ -12,14 +12,14 @@ revenue_arr: Undisclosed (early-stage)
 employees: Undisclosed (small team)
 status: Private
 founders:
-  - name: "Christopher O'Donnell"
-    role: "CEO"
-    background: "Former VP of Product / CPO at HubSpot; helped scale HubSpot through IPO era"
-    origin: "American"
-  - name: "Michael Pici"
-    role: "Co-Founder"
-    background: "Former VP of Product, Revenue at HubSpot; co-built HubSpot's original CRM and Sales Hub"
-    origin: "American"
+- name: Christopher O'Donnell
+  role: CEO
+  background: Former VP of Product / CPO at HubSpot; helped scale HubSpot through IPO era
+  origin: American
+- name: Michael Pici
+  role: Co-Founder
+  background: Former VP of Product, Revenue at HubSpot; co-built HubSpot's original CRM and Sales Hub
+  origin: American
 last_updated: 2026-03-20
 confidence: medium
 one_liner: AI-native CRM auto-capturing relationship data from emails, calendars, meetings. No manual entry.
@@ -29,6 +29,7 @@ crunchbase: https://www.crunchbase.com/organization/day-ai
 crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/day-ai
 total_raised_m: 28.0
+linkedin_verified: true
 ---
 
 # Day AI

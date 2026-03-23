@@ -51,12 +51,14 @@ crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/manus-im
 total_raised_m: 75
 funding_rounds:
-  - stage: "Series A"
-    date: "2025-04"
-    amount_m: 75
-    lead_investors: ["Benchmark"]
-    source: "https://www.crunchbase.com/organization/manus-ai"
-data_notes: "Acquired by Meta for ~$2.5-3B in December 2025."
+- stage: Series A
+  date: 2025-04
+  amount_m: 75
+  lead_investors:
+  - Benchmark
+  source: https://www.crunchbase.com/organization/manus-ai
+data_notes: Acquired by Meta for ~$2.5-3B in December 2025.
+linkedin_verified: true
 ---
 
 # Manus AI

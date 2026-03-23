@@ -34,6 +34,7 @@ crunchbase: https://www.crunchbase.com/organization/majestic-labs
 crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/majestic-labs-ai
 total_raised_m: 100.0
+linkedin_verified: true
 ---
 
 # Majestic Labs

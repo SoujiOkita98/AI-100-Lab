@@ -51,6 +51,7 @@ funding_rounds:
   - Spectrum Equity
   source: https://www.crunchbase.com/organization/otter-ai
 linkedin: https://www.linkedin.com/company/otter-ai/
+linkedin_verified: true
 ---
 
 # Otter.ai -- AI Meeting Transcription & Productivity

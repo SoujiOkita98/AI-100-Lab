@@ -42,11 +42,13 @@ linkedin: https://www.linkedin.com/company/aaru-ai
 headquarters: New York, NY
 total_raised_m: 50
 funding_rounds:
-  - stage: "Series A"
-    date: "2025"
-    amount_m: 50
-    lead_investors: ["Redpoint Ventures"]
-    source: "https://www.crunchbase.com/organization/aaru"
+- stage: Series A
+  date: '2025'
+  amount_m: 50
+  lead_investors:
+  - Redpoint Ventures
+  source: https://www.crunchbase.com/organization/aaru
+linkedin_verified: true
 ---
 
 # Aaru

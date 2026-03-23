@@ -21,14 +21,15 @@ crunchbase: https://www.crunchbase.com/organization/rad-ai
 crunchbase_verified: true
 total_raised_m: 80.0
 founders:
-  - name: "Doktor Gurson"
-    role: "Co-Founder & CEO"
-    background: "UC Berkeley Haas School of Business; built Doblet and Lifetime Host; advisor to BillionToOne, GOLinks"
-    origin: "Turkish-American"
-  - name: "Jeff Chang"
-    role: "Co-Founder"
-    background: "Medical Doctor"
-    origin: "Chinese-American"
+- name: Doktor Gurson
+  role: Co-Founder & CEO
+  background: UC Berkeley Haas School of Business; built Doblet and Lifetime Host; advisor to BillionToOne, GOLinks
+  origin: Turkish-American
+- name: Jeff Chang
+  role: Co-Founder
+  background: Medical Doctor
+  origin: Chinese-American
+linkedin_verified: true
 ---
 
 # Rad AI

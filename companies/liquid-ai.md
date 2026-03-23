@@ -16,22 +16,23 @@ revenue_approx: $13.2M (Nov 2025, per Getlatka — treat with caution)
 status: Active, private
 website: https://www.liquid.ai
 founders:
-  - name: "Ramin Hasani"
-    role: "CEO"
-    background: "PhD in CS from TU Wien (Austria) with distinction; MIT CSAIL scientist; research on liquid neural networks and robust deep learning"
-    origin: "Iranian"
-  - name: "Mathias Lechner"
-    role: "Co-Founder"
-    background: "MIT CSAIL researcher; co-inventor of liquid neural networks"
-    origin: "Austrian"
-  - name: "Alexander Amini"
-    role: "Co-Founder"
-    background: "MIT CSAIL researcher; co-inventor of liquid neural networks"
-    origin: "Iranian-American"
-  - name: "Daniela Rus"
-    role: "Co-Founder"
-    background: "Director of MIT CSAIL; one of the world's most prominent robotics and AI researchers"
-    origin: "Romanian-American"
+- name: Ramin Hasani
+  role: CEO
+  background: PhD in CS from TU Wien (Austria) with distinction; MIT CSAIL scientist; research on liquid neural networks and
+    robust deep learning
+  origin: Iranian
+- name: Mathias Lechner
+  role: Co-Founder
+  background: MIT CSAIL researcher; co-inventor of liquid neural networks
+  origin: Austrian
+- name: Alexander Amini
+  role: Co-Founder
+  background: MIT CSAIL researcher; co-inventor of liquid neural networks
+  origin: Iranian-American
+- name: Daniela Rus
+  role: Co-Founder
+  background: Director of MIT CSAIL; one of the world's most prominent robotics and AI researchers
+  origin: Romanian-American
 last_updated: '2026-03-20'
 confidence: high on funding/founders; moderate on revenue/headcount (third-party estimates)
 funding_rounds:
@@ -57,6 +58,7 @@ website_verified: true
 linkedin: https://www.linkedin.com/company/liquid-ai-inc
 crunchbase: https://www.crunchbase.com/organization/liquid-ai
 crunchbase_verified: true
+linkedin_verified: true
 ---
 
 # Liquid AI

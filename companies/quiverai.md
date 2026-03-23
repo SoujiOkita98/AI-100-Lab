@@ -29,6 +29,7 @@ founders:
   background: Primary coder; twin brother of James
   origin: American
 linkedin: https://www.linkedin.com/company/quiverai/
+linkedin_verified: true
 ---
 
 # QuiverAI

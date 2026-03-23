@@ -26,6 +26,7 @@ crunchbase: https://www.crunchbase.com/organization/solda-ai
 crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/solda-ai
 total_raised_m: 4.0
+linkedin_verified: true
 ---
 
 # Solda.AI

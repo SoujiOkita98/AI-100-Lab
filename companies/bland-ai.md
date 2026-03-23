@@ -54,6 +54,7 @@ funding_rounds:
   - Emergence Capital
   source: https://www.crunchbase.com/organization/bland-ai
 name: Bland AI
+linkedin_verified: true
 ---
 
 # Bland AI

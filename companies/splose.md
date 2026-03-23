@@ -14,10 +14,10 @@ funding_rounds:
 last_updated: 2026-03-21
 confidence: medium
 founders:
-  - name: "Nicholas Sanderson"
-    role: "CEO & Founder"
-    background: "SmartCompany Smart50 founder of the year finalist (2025)."
-    origin: "Australian"
+- name: Nicholas Sanderson
+  role: CEO & Founder
+  background: SmartCompany Smart50 founder of the year finalist (2025).
+  origin: Australian
 data_notes: 'Needs verification: website, source_urls. Profile may be incomplete.'
 website: https://splose.com
 website_verified: true
@@ -25,6 +25,7 @@ linkedin: https://www.linkedin.com/company/splose
 crunchbase: https://www.crunchbase.com/organization/splose
 crunchbase_verified: true
 total_raised_m: 46.0
+linkedin_verified: true
 ---
 
 # Splose

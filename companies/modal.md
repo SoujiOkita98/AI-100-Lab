@@ -60,6 +60,7 @@ crunchbase: https://www.crunchbase.com/organization/modal
 crunchbase_verified: true
 twitter: '@modal_labs'
 name: Modal (Modal Labs, Inc.)
+linkedin_verified: true
 ---
 
 # Modal — Serverless Cloud for AI/ML

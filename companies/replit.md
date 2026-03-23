@@ -90,6 +90,7 @@ twitter: '@Replit'
 linkedin: https://www.linkedin.com/company/repl-it
 crunchbase: https://www.crunchbase.com/organization/replit
 crunchbase_verified: true
+linkedin_verified: true
 ---
 
 # Replit

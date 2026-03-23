@@ -24,6 +24,7 @@ linkedin: https://www.linkedin.com/company/pryzm-dynamics
 crunchbase: https://www.crunchbase.com/organization/pryzm
 crunchbase_verified: true
 total_raised_m: 12.2
+linkedin_verified: true
 ---
 
 # Pryzm

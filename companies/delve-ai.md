@@ -32,6 +32,7 @@ linkedin: https://www.linkedin.com/company/delve-ai
 crunchbase: https://www.crunchbase.com/organization/delve-ai
 crunchbase_verified: true
 total_raised_m: 32.0
+linkedin_verified: true
 ---
 
 # Delve

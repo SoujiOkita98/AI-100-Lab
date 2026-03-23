@@ -27,6 +27,7 @@ founders:
   origin: Chinese-American
 total_raised_m: 165.0
 linkedin: https://www.linkedin.com/company/sunday-household-robot/
+linkedin_verified: true
 ---
 
 # Sunday (Household Robot)

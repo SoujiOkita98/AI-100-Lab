@@ -40,6 +40,7 @@ crunchbase: https://www.crunchbase.com/organization/armadin
 crunchbase_verified: true
 total_raised_m: 190.0
 linkedin: https://www.linkedin.com/company/armadin/
+linkedin_verified: true
 ---
 
 # Armadin

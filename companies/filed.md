@@ -30,6 +30,7 @@ crunchbase: https://www.crunchbase.com/organization/filed
 crunchbase_verified: true
 total_raised_m: 17.2
 linkedin: https://www.linkedin.com/company/filed/
+linkedin_verified: true
 ---
 
 # Filed

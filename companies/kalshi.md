@@ -86,6 +86,7 @@ twitter: '@Kalshi'
 linkedin: https://www.linkedin.com/company/kalshi
 crunchbase: https://www.crunchbase.com/organization/kalshi
 crunchbase_verified: true
+linkedin_verified: true
 ---
 
 # Kalshi

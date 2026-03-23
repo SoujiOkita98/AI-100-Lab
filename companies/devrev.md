@@ -48,6 +48,7 @@ linkedin: https://www.linkedin.com/company/devrev
 crunchbase: https://www.crunchbase.com/organization/devrev
 crunchbase_verified: true
 name: DevRev
+linkedin_verified: true
 ---
 
 # DevRev -- AI-Native CRM & Developer Platform

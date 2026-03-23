@@ -54,6 +54,7 @@ funding_rounds:
   - Emerson Collective
   source: https://www.coactive.ai/blog/series-b
 name: Coactive AI
+linkedin_verified: true
 ---
 
 # Coactive AI

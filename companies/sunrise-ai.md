@@ -70,6 +70,7 @@ data_notes: 'Website URL may be invalid (Invalid URL format). '
 crunchbase: https://www.crunchbase.com/organization/sunrise-ai
 crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/sunrise/
+linkedin_verified: true
 ---
 
 # Sunrise (SenseTime AI Chip Spinoff)

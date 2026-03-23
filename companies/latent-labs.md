@@ -13,10 +13,11 @@ funding_rounds:
   - Sofinnova Partners
   source: https://techcrunch.com/2025/02/12/founded-by-deepmind-alumnus-latent-labs-launches-with-50m/
 founders:
-  - name: "Simon Kohl"
-    role: "Founder & CEO"
-    background: "Former research scientist at DeepMind. Part of Nobel Prize-winning AlphaFold2 team. Co-led protein design team. Set up DeepMind's wet lab at Francis Crick Institute."
-    origin: "German"
+- name: Simon Kohl
+  role: Founder & CEO
+  background: Former research scientist at DeepMind. Part of Nobel Prize-winning AlphaFold2 team. Co-led protein design team.
+    Set up DeepMind's wet lab at Francis Crick Institute.
+  origin: German
 last_updated: 2026-03-21
 confidence: medium
 data_notes: 'Needs verification: website, founders, source_urls, headquarters. Profile may be incomplete.'
@@ -27,6 +28,7 @@ headquarters: London, UK
 crunchbase: https://www.crunchbase.com/organization/latent-labs
 crunchbase_verified: true
 total_raised_m: 50.0
+linkedin_verified: true
 ---
 
 # Latent Labs

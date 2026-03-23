@@ -108,6 +108,7 @@ founders:
   background: IDF Unit 8200 alumnus. Security researcher.
   origin: Israeli
 name: Snyk
+linkedin_verified: true
 ---
 
 # Snyk

@@ -61,6 +61,7 @@ twitter: '@reflection_ai'
 linkedin: https://www.linkedin.com/company/reflectionai
 crunchbase: https://www.crunchbase.com/organization/reflection-ai
 crunchbase_verified: true
+linkedin_verified: true
 ---
 
 # Reflection AI

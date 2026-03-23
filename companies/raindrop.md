@@ -34,6 +34,7 @@ founders:
   background: Former engineer at Apple; 4 years on Apple Human Interface Design team
   origin: American
 linkedin: https://www.linkedin.com/company/raindrop/
+linkedin_verified: true
 ---
 
 # Raindrop

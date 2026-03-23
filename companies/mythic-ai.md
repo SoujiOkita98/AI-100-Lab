@@ -19,14 +19,15 @@ crunchbase: https://www.crunchbase.com/organization/mythic-ai
 crunchbase_verified: true
 total_raised_m: 125.0
 founders:
-  - name: "Mike Henry"
-    role: "Co-Founder"
-    background: ""
-    origin: "American"
-  - name: "Dave Fick"
-    role: "Co-Founder & CTO"
-    background: "Formerly CEO, transitioned to CTO role"
-    origin: "American"
+- name: Mike Henry
+  role: Co-Founder
+  background: ''
+  origin: American
+- name: Dave Fick
+  role: Co-Founder & CTO
+  background: Formerly CEO, transitioned to CTO role
+  origin: American
+linkedin_verified: true
 ---
 
 # Mythic

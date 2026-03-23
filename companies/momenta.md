@@ -73,14 +73,16 @@ linkedin: https://www.linkedin.com/company/momenta.ai
 crunchbase: https://www.crunchbase.com/organization/momenta
 crunchbase_verified: true
 founders:
-  - name: "Xudong Cao"
-    role: "Co-Founder & CEO"
-    background: "Former scientist at Microsoft Research; former executive director of R&D at SenseTime; 10+ years in intelligent driving"
-    origin: "Chinese"
-  - name: "Shaoqing Ren"
-    role: "Co-Founder"
-    background: "Alumni of Microsoft Research Asia"
-    origin: "Chinese"
+- name: Xudong Cao
+  role: Co-Founder & CEO
+  background: Former scientist at Microsoft Research; former executive director of R&D at SenseTime; 10+ years in intelligent
+    driving
+  origin: Chinese
+- name: Shaoqing Ren
+  role: Co-Founder
+  background: Alumni of Microsoft Research Asia
+  origin: Chinese
+linkedin_verified: true
 ---
 
 # Momenta

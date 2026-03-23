@@ -148,6 +148,7 @@ twitter: '@MistralAI'
 crunchbase: https://www.crunchbase.com/organization/mistral-ai
 crunchbase_verified: true
 name: Mistral AI
+linkedin_verified: true
 ---
 
 # Mistral AI

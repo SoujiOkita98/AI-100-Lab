@@ -32,6 +32,7 @@ crunchbase: https://www.crunchbase.com/organization/scout-ai
 crunchbase_verified: true
 total_raised_m: 15.0
 linkedin: https://www.linkedin.com/company/scout-ai/
+linkedin_verified: true
 ---
 
 # Scout AI

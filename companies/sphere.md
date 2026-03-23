@@ -39,6 +39,7 @@ funding_rounds:
   source: https://techcrunch.com/2025/11/18/a16z-leads-21m-series-a-into-tax-compliance-platform-sphere/
 linkedin: https://www.linkedin.com/company/sphere/
 name: Sphere
+linkedin_verified: true
 ---
 
 # Sphere -- Company Profile

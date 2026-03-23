@@ -24,18 +24,18 @@ key_products:
 - Vercel AI SDK (open-source TypeScript toolkit)
 - Vercel AI Gateway
 founders:
-  - name: "Guillermo Rauch"
-    role: "Co-Founder & CEO"
-    background: "Open-source developer; creator of Socket.io and other JS tools. Serial entrepreneur in developer tools"
-    origin: "Argentine"
-  - name: "Tony Kovanen"
-    role: "Co-Founder"
-    background: "Co-founded ZEIT (later renamed Vercel) in 2015"
-    origin: "Finnish"
-  - name: "Naoyuki Kanezawa"
-    role: "Co-Founder"
-    background: "Co-founded ZEIT (later renamed Vercel) in 2015"
-    origin: "Japanese"
+- name: Guillermo Rauch
+  role: Co-Founder & CEO
+  background: Open-source developer; creator of Socket.io and other JS tools. Serial entrepreneur in developer tools
+  origin: Argentine
+- name: Tony Kovanen
+  role: Co-Founder
+  background: Co-founded ZEIT (later renamed Vercel) in 2015
+  origin: Finnish
+- name: Naoyuki Kanezawa
+  role: Co-Founder
+  background: Co-founded ZEIT (later renamed Vercel) in 2015
+  origin: Japanese
 profile_updated: 2026-03-20
 one_liner: Vercel is a frontend cloud platform that enables developers to build, deploy, and scale web applications with minimal
   configuration
@@ -45,41 +45,49 @@ crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/vercel
 total_raised_m: 863
 funding_rounds:
-  - stage: "Seed"
-    date: "2016"
-    amount_m: 2.5
-    lead_investors: ["Undisclosed"]
-    source: "https://www.crunchbase.com/organization/vercel"
-  - stage: "Series A"
-    date: "2020-04"
-    amount_m: 21
-    lead_investors: ["Accel"]
-    source: "https://www.crunchbase.com/organization/vercel"
-  - stage: "Series B"
-    date: "2020-12"
-    amount_m: 40
-    lead_investors: ["GV"]
-    source: "https://www.crunchbase.com/organization/vercel"
-  - stage: "Series C"
-    date: "2021-06"
-    amount_m: 102
-    lead_investors: ["Bedrock Capital"]
-    source: "https://www.crunchbase.com/organization/vercel"
-  - stage: "Series D"
-    date: "2021-11"
-    amount_m: 150
-    lead_investors: ["GIC"]
-    source: "https://www.crunchbase.com/organization/vercel"
-  - stage: "Series E"
-    date: "2024-05"
-    amount_m: 250
-    lead_investors: ["Accel"]
-    source: "https://www.crunchbase.com/organization/vercel"
-  - stage: "Series F"
-    date: "2025-09"
-    amount_m: 300
-    lead_investors: ["Undisclosed"]
-    source: "https://www.crunchbase.com/organization/vercel"
+- stage: Seed
+  date: '2016'
+  amount_m: 2.5
+  lead_investors:
+  - Undisclosed
+  source: https://www.crunchbase.com/organization/vercel
+- stage: Series A
+  date: 2020-04
+  amount_m: 21
+  lead_investors:
+  - Accel
+  source: https://www.crunchbase.com/organization/vercel
+- stage: Series B
+  date: 2020-12
+  amount_m: 40
+  lead_investors:
+  - GV
+  source: https://www.crunchbase.com/organization/vercel
+- stage: Series C
+  date: 2021-06
+  amount_m: 102
+  lead_investors:
+  - Bedrock Capital
+  source: https://www.crunchbase.com/organization/vercel
+- stage: Series D
+  date: 2021-11
+  amount_m: 150
+  lead_investors:
+  - GIC
+  source: https://www.crunchbase.com/organization/vercel
+- stage: Series E
+  date: 2024-05
+  amount_m: 250
+  lead_investors:
+  - Accel
+  source: https://www.crunchbase.com/organization/vercel
+- stage: Series F
+  date: 2025-09
+  amount_m: 300
+  lead_investors:
+  - Undisclosed
+  source: https://www.crunchbase.com/organization/vercel
+linkedin_verified: true
 ---
 
 # Vercel

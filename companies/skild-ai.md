@@ -148,6 +148,7 @@ linkedin: https://www.linkedin.com/company/skildai
 crunchbase: https://www.crunchbase.com/organization/skild-ai
 crunchbase_verified: true
 headquarters: Pittsburgh, PA
+linkedin_verified: true
 ---
 
 # Skild AI

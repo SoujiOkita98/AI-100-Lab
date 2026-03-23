@@ -28,6 +28,7 @@ founders:
   background: Decades of experience at Microsoft, IBM, STL Digital; designed MLOps and multi-cloud architecture
   origin: Indian
 linkedin: https://www.linkedin.com/company/neysa/
+linkedin_verified: true
 ---
 
 # Neysa

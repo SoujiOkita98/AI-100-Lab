@@ -66,6 +66,7 @@ crunchbase: https://www.crunchbase.com/organization/emergent
 crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/emergent/
 name: Emergent
+linkedin_verified: true
 ---
 
 # Emergent

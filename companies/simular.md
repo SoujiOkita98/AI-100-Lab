@@ -46,6 +46,7 @@ funding_rounds:
   - Felicis Ventures
   source: https://techcrunch.com/2025/12/02/simular-releases-mac-os-ai-agent-raises-21-5m-from-felicis-with-windows-coming-soon/
 linkedin: https://www.linkedin.com/company/simular/
+linkedin_verified: true
 ---
 
 # Simular

@@ -54,6 +54,7 @@ crunchbase: https://www.crunchbase.com/organization/fourier-intelligence
 crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/fourier-intelligence-co.-ltd.
 headquarters: Shanghai, China
+linkedin_verified: true
 ---
 
 # Fourier Intelligence

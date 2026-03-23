@@ -14,14 +14,15 @@ funding_rounds:
   - Samsung Next
   source: https://techcrunch.com/2025/03/05/anna-pattersons-ceramic-ai/
 founders:
-  - name: "Anna Patterson"
-    role: "Founder & CEO"
-    background: "Former VP of Engineering at Google Research. Founded Google's Gradient Ventures. Two exits to Google. Research scientist at Stanford with John McCarthy."
-    origin: "American (inferred from name)"
-  - name: "Tom Costello"
-    role: "Co-Founder & Chief Scientist"
-    background: "PhD in AI from Stanford (advised by John McCarthy). 20+ years in AI research."
-    origin: "American (inferred from name)"
+- name: Anna Patterson
+  role: Founder & CEO
+  background: Former VP of Engineering at Google Research. Founded Google's Gradient Ventures. Two exits to Google. Research
+    scientist at Stanford with John McCarthy.
+  origin: American (inferred from name)
+- name: Tom Costello
+  role: Co-Founder & Chief Scientist
+  background: PhD in AI from Stanford (advised by John McCarthy). 20+ years in AI research.
+  origin: American (inferred from name)
 last_updated: 2026-03-21
 confidence: medium
 data_notes: 'Needs verification: website, founders, source_urls, headquarters. Profile may be incomplete.'
@@ -32,6 +33,7 @@ headquarters: Mountain View, CA
 crunchbase: https://www.crunchbase.com/organization/ceramic-ai
 crunchbase_verified: true
 total_raised_m: 12.0
+linkedin_verified: true
 ---
 
 # Ceramic.ai

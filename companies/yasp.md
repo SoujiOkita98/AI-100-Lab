@@ -31,6 +31,7 @@ crunchbase: https://www.crunchbase.com/organization/yasp
 crunchbase_verified: true
 total_raised_m: 5.0
 linkedin: https://www.linkedin.com/company/yasp/
+linkedin_verified: true
 ---
 
 # yasp

@@ -40,6 +40,7 @@ linkedin: https://www.linkedin.com/company/inception-labs-ai
 crunchbase: https://www.crunchbase.com/organization/inception-labs
 crunchbase_verified: true
 total_raised_m: 50.0
+linkedin_verified: true
 ---
 
 # Inception Labs

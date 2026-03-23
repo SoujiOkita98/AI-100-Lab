@@ -110,6 +110,7 @@ crunchbase: https://www.crunchbase.com/organization/skydio
 crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/skydio
 headquarters: San Mateo, California
+linkedin_verified: true
 ---
 
 # Skydio

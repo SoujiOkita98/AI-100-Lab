@@ -106,6 +106,7 @@ linkedin: https://www.linkedin.com/company/scaleai
 twitter: '@scale_AI'
 crunchbase: https://www.crunchbase.com/organization/scale-ai
 crunchbase_verified: true
+linkedin_verified: true
 ---
 
 # Scale AI

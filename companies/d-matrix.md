@@ -49,6 +49,7 @@ funding_rounds:
   - Temasek
   source: https://www.crunchbase.com/organization/d-matrix
 name: d-Matrix
+linkedin_verified: true
 ---
 
 # d-Matrix

@@ -31,6 +31,7 @@ headquarters: Tel Aviv, Israel
 crunchbase: https://www.crunchbase.com/organization/sola-security
 crunchbase_verified: true
 total_raised_m: 30.0
+linkedin_verified: true
 ---
 
 # Sola Security

@@ -29,6 +29,7 @@ founders:
   background: Former Director at Rivian; led factory software at Tesla and Rivian
   origin: Middle Eastern-American
 linkedin: https://www.linkedin.com/company/mytra/
+linkedin_verified: true
 ---
 
 # Mytra

@@ -26,6 +26,7 @@ last_updated: 2026-03-21
 confidence: medium
 total_raised_m: 17.8
 linkedin: https://www.linkedin.com/company/genie-ai/
+linkedin_verified: true
 ---
 
 # Genie AI

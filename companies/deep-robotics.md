@@ -13,14 +13,15 @@ funding_rounds:
   - CMB International
   - China Asset Management
 founders:
-  - name: "Zhu Qiuguo"
-    role: "CEO"
-    background: "Associate Professor and PhD advisor at Zhejiang University; led development of Jueying quadruped robot and Wukong humanoid"
-    origin: "Chinese"
-  - name: "Li Chao"
-    role: "Co-Founder"
-    background: "Co-founded DEEP Robotics in 2017"
-    origin: "Chinese"
+- name: Zhu Qiuguo
+  role: CEO
+  background: Associate Professor and PhD advisor at Zhejiang University; led development of Jueying quadruped robot and Wukong
+    humanoid
+  origin: Chinese
+- name: Li Chao
+  role: Co-Founder
+  background: Co-founded DEEP Robotics in 2017
+  origin: Chinese
 last_updated: 2026-03-21
 confidence: medium
 data_notes: 'Needs verification: website, founders, source_urls. Profile may be incomplete.'
@@ -30,6 +31,7 @@ crunchbase: https://www.crunchbase.com/organization/deep-robotics
 crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/deep-robotics
 total_raised_m: 70.0
+linkedin_verified: true
 ---
 
 # DEEP Robotics

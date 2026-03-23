@@ -21,14 +21,15 @@ crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/oboelabs
 total_raised_m: 16.0
 founders:
-  - name: "Nir Zicherman"
-    role: "Co-Founder & CEO"
-    background: "Co-founded Anchor (acquired by Spotify); scaled Spotify's audiobooks business"
-    origin: "Israeli-American"
-  - name: "Michael Mignano"
-    role: "Co-Founder"
-    background: "Co-founded Anchor (acquired by Spotify); partner at Lightspeed Ventures"
-    origin: "American"
+- name: Nir Zicherman
+  role: Co-Founder & CEO
+  background: Co-founded Anchor (acquired by Spotify); scaled Spotify's audiobooks business
+  origin: Israeli-American
+- name: Michael Mignano
+  role: Co-Founder
+  background: Co-founded Anchor (acquired by Spotify); partner at Lightspeed Ventures
+  origin: American
+linkedin_verified: true
 ---
 
 # Oboe

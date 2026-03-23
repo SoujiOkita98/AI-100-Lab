@@ -67,6 +67,7 @@ twitter: '@togethercompute'
 crunchbase: https://www.crunchbase.com/organization/together-ai
 crunchbase_verified: true
 name: Together AI
+linkedin_verified: true
 ---
 
 # Together AI

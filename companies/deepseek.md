@@ -6,10 +6,10 @@ headquarters: Hangzhou, Zhejiang, China
 additional_offices:
 - Beijing (100+ engineers)
 founders:
-  - name: "Liang Wenfeng"
-    role: "CEO"
-    background: "Founder of High-Flyer Capital Management (~$8B AUM hedge fund); self-funded DeepSeek with proprietary capital"
-    origin: "Chinese"
+- name: Liang Wenfeng
+  role: CEO
+  background: Founder of High-Flyer Capital Management (~$8B AUM hedge fund); self-funded DeepSeek with proprietary capital
+  origin: Chinese
 founder_ceo: Liang Wenfeng
 parent_company: High-Flyer (Hangzhou High-Flyer Capital Management)
 sector: Foundation Models / Large Language Models
@@ -45,6 +45,7 @@ linkedin: https://www.linkedin.com/company/deepseek-ai
 twitter: '@deepseek_ai'
 crunchbase: https://www.crunchbase.com/organization/deepseek
 crunchbase_verified: true
+linkedin_verified: true
 ---
 
 # DeepSeek

@@ -101,6 +101,7 @@ linkedin: https://www.linkedin.com/company/figure-ai
 twitter: '@Figure_robot'
 crunchbase: https://www.crunchbase.com/organization/figure-ai
 crunchbase_verified: true
+linkedin_verified: true
 ---
 
 # Figure AI

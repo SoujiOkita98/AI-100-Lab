@@ -40,6 +40,7 @@ founders:
   role: CPO
   background: Co-founded Future of Voice. Deep focus on voice technologies.
   origin: German
+linkedin_verified: true
 ---
 
 # Parloa

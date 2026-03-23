@@ -53,6 +53,7 @@ linkedin: https://www.linkedin.com/company/augmentinc
 crunchbase: https://www.crunchbase.com/organization/augment-code
 crunchbase_verified: true
 name: Augment Code
+linkedin_verified: true
 ---
 
 # Augment Code

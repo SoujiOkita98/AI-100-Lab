@@ -64,6 +64,7 @@ founders:
   background: PyTorch core maintainer at Meta.
   origin: Ukrainian
 name: Fireworks AI
+linkedin_verified: true
 ---
 
 # Fireworks AI

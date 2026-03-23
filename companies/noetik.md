@@ -25,14 +25,16 @@ crunchbase: https://www.crunchbase.com/organization/noetik
 crunchbase_verified: true
 total_raised_m: 54.0
 founders:
-  - name: "Ron Alfa"
-    role: "Co-Founder & CEO"
-    background: "MD and PhD from Stanford; former SVP and Head of Research at Recursion; postdoctoral in Neuroscience; MA from UCL"
-    origin: "Israeli"
-  - name: "Jacob Rinaldi"
-    role: "Co-Founder & CSO"
-    background: "PhD; veteran of Recursion"
-    origin: "American"
+- name: Ron Alfa
+  role: Co-Founder & CEO
+  background: MD and PhD from Stanford; former SVP and Head of Research at Recursion; postdoctoral in Neuroscience; MA from
+    UCL
+  origin: Israeli
+- name: Jacob Rinaldi
+  role: Co-Founder & CSO
+  background: PhD; veteran of Recursion
+  origin: American
+linkedin_verified: true
 ---
 
 # Noetik

@@ -27,6 +27,7 @@ crunchbase: https://www.crunchbase.com/organization/ai2-robotics
 crunchbase_verified: true
 total_raised_m: 140.0
 linkedin: https://www.linkedin.com/company/ai2-robotics/
+linkedin_verified: true
 ---
 
 # AI2 Robotics

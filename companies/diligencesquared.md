@@ -36,6 +36,7 @@ linkedin: https://www.linkedin.com/company/diligencesquared
 crunchbase: https://www.crunchbase.com/organization/diligencesquared
 crunchbase_verified: true
 total_raised_m: 5.0
+linkedin_verified: true
 ---
 
 # DiligenceSquared

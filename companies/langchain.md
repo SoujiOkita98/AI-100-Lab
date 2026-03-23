@@ -46,6 +46,7 @@ linkedin: https://www.linkedin.com/company/langchain
 crunchbase: https://www.crunchbase.com/organization/langchain
 crunchbase_verified: true
 name: LangChain
+linkedin_verified: true
 ---
 
 # LangChain

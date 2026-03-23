@@ -123,6 +123,7 @@ crunchbase: https://www.crunchbase.com/organization/weaviate
 crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/weaviate-io
 headquarters: Amsterdam, Netherlands
+linkedin_verified: true
 ---
 
 # Weaviate

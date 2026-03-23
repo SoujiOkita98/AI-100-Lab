@@ -30,6 +30,7 @@ last_updated: 2026-03-21
 confidence: medium
 total_raised_m: 75.0
 linkedin: https://www.linkedin.com/company/wandercraft/
+linkedin_verified: true
 ---
 
 # Wandercraft

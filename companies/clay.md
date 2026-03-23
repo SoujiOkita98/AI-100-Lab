@@ -32,6 +32,7 @@ founders:
   role: Co-founder
   background: Technical co-founder.
   origin: Romanian-American
+linkedin_verified: true
 ---
 
 # Clay

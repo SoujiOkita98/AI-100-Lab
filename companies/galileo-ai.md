@@ -64,6 +64,7 @@ funding_rounds:
   source: https://www.crunchbase.com/organization/galileo-ai
 linkedin: https://www.linkedin.com/company/galileo-ai/
 name: Galileo
+linkedin_verified: true
 ---
 
 # Galileo

@@ -44,6 +44,7 @@ founders:
   role: Co-founder
   background: Swedish co-founder.
   origin: Swedish
+linkedin_verified: true
 ---
 
 # Legora

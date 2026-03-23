@@ -23,14 +23,15 @@ crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/milestoneai
 total_raised_m: 10.0
 founders:
-  - name: "Liad Elidan"
-    role: "Co-Founder & CEO"
-    background: "Met co-founder at Trinity College Dublin; focus on measuring software development efficiency"
-    origin: "Israeli"
-  - name: "Stephen Barrett"
-    role: "Co-Founder & CTO"
-    background: "Professor at Trinity College Dublin; research in software development efficiency"
-    origin: "Irish"
+- name: Liad Elidan
+  role: Co-Founder & CEO
+  background: Met co-founder at Trinity College Dublin; focus on measuring software development efficiency
+  origin: Israeli
+- name: Stephen Barrett
+  role: Co-Founder & CTO
+  background: Professor at Trinity College Dublin; research in software development efficiency
+  origin: Irish
+linkedin_verified: true
 ---
 
 # Milestone AI

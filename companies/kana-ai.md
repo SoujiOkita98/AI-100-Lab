@@ -30,6 +30,7 @@ linkedin: https://www.linkedin.com/company/kana-intelligence
 crunchbase: https://www.crunchbase.com/organization/kana-ai
 crunchbase_verified: true
 total_raised_m: 15.0
+linkedin_verified: true
 ---
 
 # Kana

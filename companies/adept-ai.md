@@ -49,6 +49,7 @@ linkedin: https://www.linkedin.com/company/adeptai
 crunchbase: https://www.crunchbase.com/organization/adept-ai
 crunchbase_verified: true
 name: Adept AI
+linkedin_verified: true
 ---
 
 # Adept AI

@@ -12,14 +12,14 @@ funding_rounds:
   - Eurazeo
   source: https://www.prnewswire.com/news-releases/arcadsai-raises-16-million-usd/
 founders:
-  - name: "Romain Torres"
-    role: "Co-Founder & Co-CEO"
-    background: "Based in France."
-    origin: "French (inferred from name)"
-  - name: "Dylan Fournier"
-    role: "Co-Founder & Co-CEO"
-    background: "Based in France."
-    origin: "French (inferred from name)"
+- name: Romain Torres
+  role: Co-Founder & Co-CEO
+  background: Based in France.
+  origin: French (inferred from name)
+- name: Dylan Fournier
+  role: Co-Founder & Co-CEO
+  background: Based in France.
+  origin: French (inferred from name)
 last_updated: 2026-03-21
 confidence: medium
 data_notes: 'Needs verification: website, founders, source_urls, headquarters. Profile may be incomplete.'
@@ -30,6 +30,7 @@ crunchbase: https://www.crunchbase.com/organization/arcads-ai
 crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/arcads-ai
 total_raised_m: 16.0
+linkedin_verified: true
 ---
 
 # Arcads.ai

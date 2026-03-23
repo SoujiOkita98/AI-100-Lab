@@ -27,6 +27,7 @@ linkedin: https://www.linkedin.com/company/letta-ai
 crunchbase: https://www.crunchbase.com/organization/letta
 crunchbase_verified: true
 total_raised_m: 10.0
+linkedin_verified: true
 ---
 
 # Letta

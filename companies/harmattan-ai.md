@@ -16,36 +16,37 @@ funding_rounds:
   - FirstMark
 latest_valuation: 1400
 founders:
-  - name: "Mouad M'Ghari"
-    role: "Co-Founder & CEO"
-    background: ""
-    origin: "Moroccan-French"
-  - name: "Martin de Gourcuff"
-    role: "Co-Founder & CTO"
-    background: ""
-    origin: "French"
-  - name: "Edouard Rosset"
-    role: "Co-Founder"
-    background: ""
-    origin: "French"
-  - name: "Jean-Christophe Charlaix"
-    role: "Co-Founder"
-    background: ""
-    origin: "French"
-  - name: "Jean-Patrice Coste"
-    role: "Co-Founder"
-    background: ""
-    origin: "French"
-  - name: "Marc Grelet"
-    role: "Co-Founder"
-    background: ""
-    origin: "French"
+- name: Mouad M'Ghari
+  role: Co-Founder & CEO
+  background: ''
+  origin: Moroccan-French
+- name: Martin de Gourcuff
+  role: Co-Founder & CTO
+  background: ''
+  origin: French
+- name: Edouard Rosset
+  role: Co-Founder
+  background: ''
+  origin: French
+- name: Jean-Christophe Charlaix
+  role: Co-Founder
+  background: ''
+  origin: French
+- name: Jean-Patrice Coste
+  role: Co-Founder
+  background: ''
+  origin: French
+- name: Marc Grelet
+  role: Co-Founder
+  background: ''
+  origin: French
 last_updated: 2026-03-21
 confidence: medium
 crunchbase: https://www.crunchbase.com/organization/harmattan-ai
 crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/harmattan-ai
 total_raised_m: 200.0
+linkedin_verified: true
 ---
 
 # Harmattan AI

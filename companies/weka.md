@@ -73,6 +73,7 @@ crunchbase: https://www.crunchbase.com/organization/weka
 crunchbase_verified: true
 twitter: '@WekaIO'
 name: WEKA
+linkedin_verified: true
 ---
 
 # WEKA

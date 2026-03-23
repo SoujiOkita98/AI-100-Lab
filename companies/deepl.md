@@ -88,6 +88,7 @@ crunchbase: https://www.crunchbase.com/organization/deepl
 crunchbase_verified: true
 twitter: '@DeepLcom'
 name: DeepL
+linkedin_verified: true
 ---
 
 # DeepL

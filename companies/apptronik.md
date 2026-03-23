@@ -88,6 +88,7 @@ linkedin: https://www.linkedin.com/company/apptronik-inc.
 crunchbase: https://www.crunchbase.com/organization/apptronik
 crunchbase_verified: true
 name: Apptronik
+linkedin_verified: true
 ---
 
 # Apptronik

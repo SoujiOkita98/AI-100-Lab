@@ -29,6 +29,7 @@ crunchbase: https://www.crunchbase.com/organization/splxai
 crunchbase_verified: true
 total_raised_m: 7.0
 linkedin: https://www.linkedin.com/company/splxai/
+linkedin_verified: true
 ---
 
 # SplxAI

@@ -24,6 +24,7 @@ last_updated: 2026-03-21
 confidence: medium
 total_raised_m: 18.0
 linkedin: https://www.linkedin.com/company/aim-security/
+linkedin_verified: true
 ---
 
 # Aim Security

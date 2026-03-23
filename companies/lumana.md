@@ -35,6 +35,7 @@ founders:
   role: CTO
   background: Former senior role at Intel Israel.
   origin: Israeli
+linkedin_verified: true
 ---
 
 # Lumana

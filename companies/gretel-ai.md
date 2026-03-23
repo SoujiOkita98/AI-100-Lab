@@ -34,6 +34,7 @@ founders:
   role: CTO
   background: Co-founded Efflux Systems (acquired by NETSCOUT).
   origin: American
+linkedin_verified: true
 ---
 
 # Gretel AI

@@ -29,6 +29,7 @@ crunchbase: https://www.crunchbase.com/organization/brisk-teaching
 crunchbase_verified: true
 twitter: '@briskteaching'
 total_raised_m: 20.0
+linkedin_verified: true
 ---
 
 # Brisk Teaching

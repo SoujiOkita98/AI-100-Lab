@@ -34,19 +34,21 @@ crunchbase: https://www.crunchbase.com/organization/stepfun
 crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/stepfun-ai
 founders:
-  - name: "Jiang Daxin"
-    role: "CEO & Founder"
-    background: "16-year Microsoft veteran. Former Global VP and Chief Scientist of Microsoft's Software Technology Center Asia. PhD in CS from University at Buffalo."
-    origin: "Chinese"
-  - name: "Jiao Binxing"
-    role: "Co-Founder"
-    background: "Former Microsoft. Leads search at StepFun."
-    origin: "Chinese"
-  - name: "Zhu Yibo"
-    role: "CTO & Co-Founder"
-    background: "Former head of AI infrastructure at ByteDance. Former Microsoft."
-    origin: "Chinese"
+- name: Jiang Daxin
+  role: CEO & Founder
+  background: 16-year Microsoft veteran. Former Global VP and Chief Scientist of Microsoft's Software Technology Center Asia.
+    PhD in CS from University at Buffalo.
+  origin: Chinese
+- name: Jiao Binxing
+  role: Co-Founder
+  background: Former Microsoft. Leads search at StepFun.
+  origin: Chinese
+- name: Zhu Yibo
+  role: CTO & Co-Founder
+  background: Former head of AI infrastructure at ByteDance. Former Microsoft.
+  origin: Chinese
 total_raised_m: 1200.0
+linkedin_verified: true
 ---
 
 # StepFun (阶跃星辰)

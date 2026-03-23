@@ -34,6 +34,7 @@ founders:
   background: ''
   origin: German
 linkedin: https://www.linkedin.com/company/octonomy/
+linkedin_verified: true
 ---
 
 # Octonomy

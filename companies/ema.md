@@ -26,6 +26,7 @@ crunchbase: https://www.crunchbase.com/organization/ema
 crunchbase_verified: true
 twitter: '@Ema_Unlimited'
 total_raised_m: 110.0
+linkedin_verified: true
 ---
 
 # Ema

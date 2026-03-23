@@ -42,6 +42,7 @@ linkedin: https://www.linkedin.com/company/character-ai
 crunchbase: https://www.crunchbase.com/organization/character-ai
 crunchbase_verified: true
 total_raised_m: 193.0
+linkedin_verified: true
 ---
 
 # Character.AI

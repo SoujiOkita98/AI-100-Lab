@@ -31,6 +31,7 @@ crunchbase: https://www.crunchbase.com/organization/overland-ai
 crunchbase_verified: true
 twitter: '@Overland_AI_X'
 total_raised_m: 132.0
+linkedin_verified: true
 ---
 
 # Overland AI

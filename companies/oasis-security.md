@@ -24,14 +24,15 @@ crunchbase_verified: true
 twitter: '@oasissec'
 total_raised_m: 120.0
 founders:
-  - name: "Danny Brickman"
-    role: "Co-Founder & CEO"
-    background: "Former Head of Cyber R&D in IDF (11 years); led product strategy at Buildots"
-    origin: "Israeli"
-  - name: "Amit Zimerman"
-    role: "Co-Founder & CPO"
-    background: "IDF cybersecurity veteran with 10+ years experience"
-    origin: "Israeli"
+- name: Danny Brickman
+  role: Co-Founder & CEO
+  background: Former Head of Cyber R&D in IDF (11 years); led product strategy at Buildots
+  origin: Israeli
+- name: Amit Zimerman
+  role: Co-Founder & CPO
+  background: IDF cybersecurity veteran with 10+ years experience
+  origin: Israeli
+linkedin_verified: true
 ---
 
 # Oasis Security

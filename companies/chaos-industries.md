@@ -75,6 +75,7 @@ crunchbase_verified: true
 twitter: '@ChaosDefense'
 headquarters: Los Angeles, California
 linkedin: https://www.linkedin.com/company/chaos-industries/
+linkedin_verified: true
 ---
 
 # Chaos Industries

@@ -62,6 +62,7 @@ funding_rounds:
   source: https://www.crunchbase.com/organization/viz-ai
 data_notes: Total ~$252-289M (sources vary). Unicorn status at $1.2B valuation (Series D).
 name: Viz.ai
+linkedin_verified: true
 ---
 
 # Viz.ai

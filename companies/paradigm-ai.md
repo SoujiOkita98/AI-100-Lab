@@ -24,6 +24,7 @@ crunchbase: https://www.crunchbase.com/organization/paradigm-ai
 crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/tryparadigm
 total_raised_m: 7.0
+linkedin_verified: true
 ---
 
 # Paradigm (AI Spreadsheet)

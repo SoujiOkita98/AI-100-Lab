@@ -82,6 +82,7 @@ linkedin: https://www.linkedin.com/company/baseten
 crunchbase: https://www.crunchbase.com/organization/baseten
 crunchbase_verified: true
 name: Baseten
+linkedin_verified: true
 ---
 
 # Baseten

@@ -31,6 +31,7 @@ founders:
   background: BA in Economics; MSc in Pharmaceutical Economics
   origin: American
 linkedin: https://www.linkedin.com/company/pheronym/
+linkedin_verified: true
 ---
 
 # Pheronym

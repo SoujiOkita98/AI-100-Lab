@@ -31,6 +31,7 @@ linkedin: https://www.linkedin.com/company/jetstreaminc
 crunchbase: https://www.crunchbase.com/organization/jetstream-security
 crunchbase_verified: true
 total_raised_m: 34.0
+linkedin_verified: true
 ---
 
 # JetStream Security

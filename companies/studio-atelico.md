@@ -38,6 +38,7 @@ crunchbase: https://www.crunchbase.com/organization/studio-atelico
 crunchbase_verified: true
 total_raised_m: 5.0
 linkedin: https://www.linkedin.com/company/studio-atelico/
+linkedin_verified: true
 ---
 
 # Studio Atelico

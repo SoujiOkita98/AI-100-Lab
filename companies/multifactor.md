@@ -20,14 +20,16 @@ crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/multifactorcom
 total_raised_m: 15.0
 founders:
-  - name: "Vivek Nair"
-    role: "Co-Founder & CEO"
-    background: "PhD computer scientist; former CIA officer in elite cyber units of DOD and CIA; received Exceptional Performance Award"
-    origin: "Indian-American"
-  - name: "Colin Roberts"
-    role: "Co-Founder & CTO"
-    background: "PhD mathematician; former NASA scientist"
-    origin: "American"
+- name: Vivek Nair
+  role: Co-Founder & CEO
+  background: PhD computer scientist; former CIA officer in elite cyber units of DOD and CIA; received Exceptional Performance
+    Award
+  origin: Indian-American
+- name: Colin Roberts
+  role: Co-Founder & CTO
+  background: PhD mathematician; former NASA scientist
+  origin: American
+linkedin_verified: true
 ---
 
 # Multifactor

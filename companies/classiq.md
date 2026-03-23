@@ -31,6 +31,7 @@ confidence: medium
 twitter: '@ClassiqTech'
 total_raised_m: 110.0
 linkedin: https://www.linkedin.com/company/classiq/
+linkedin_verified: true
 ---
 
 # Classiq

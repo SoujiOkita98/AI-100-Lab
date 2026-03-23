@@ -29,6 +29,7 @@ crunchbase: https://www.crunchbase.com/organization/subsense
 crunchbase_verified: true
 total_raised_m: 27.0
 linkedin: https://www.linkedin.com/company/subsense/
+linkedin_verified: true
 ---
 
 # Subsense

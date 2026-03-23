@@ -32,6 +32,7 @@ crunchbase: https://www.crunchbase.com/organization/standard-kernel
 crunchbase_verified: true
 total_raised_m: 20.0
 linkedin: https://www.linkedin.com/company/standard-kernel/
+linkedin_verified: true
 ---
 
 # Standard Kernel

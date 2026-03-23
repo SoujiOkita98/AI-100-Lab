@@ -22,14 +22,15 @@ crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/nexos-ai
 total_raised_m: 8.0
 founders:
-  - name: "Tomas Okmanas"
-    role: "Co-Founder & CEO"
-    background: "Co-founded Nord Security ($3B valuation), Hostinger, Oxylabs, Tesonet"
-    origin: "Lithuanian"
-  - name: "Eimantas Sabaliauskas"
-    role: "Co-Founder"
-    background: "Co-founded Nord Security, Hostinger, Oxylabs, Tesonet"
-    origin: "Lithuanian"
+- name: Tomas Okmanas
+  role: Co-Founder & CEO
+  background: Co-founded Nord Security ($3B valuation), Hostinger, Oxylabs, Tesonet
+  origin: Lithuanian
+- name: Eimantas Sabaliauskas
+  role: Co-Founder
+  background: Co-founded Nord Security, Hostinger, Oxylabs, Tesonet
+  origin: Lithuanian
+linkedin_verified: true
 ---
 
 # nexos.ai

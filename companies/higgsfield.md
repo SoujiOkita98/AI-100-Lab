@@ -34,6 +34,7 @@ founders:
   role: CTO
   background: AI researcher specializing in generative video.
   origin: Kazakhstani
+linkedin_verified: true
 ---
 
 # Higgsfield

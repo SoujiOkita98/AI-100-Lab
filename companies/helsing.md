@@ -89,6 +89,7 @@ crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/helsing
 twitter: '@HelsingAI'
 headquarters: Munich, Germany
+linkedin_verified: true
 ---
 
 # Helsing

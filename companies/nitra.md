@@ -25,6 +25,7 @@ founders:
   background: Co-founded FiscalNote, scaled to thousands of customers.
   origin: Korean-American
 linkedin: https://www.linkedin.com/company/nitra/
+linkedin_verified: true
 ---
 
 # Nitra

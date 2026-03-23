@@ -26,6 +26,7 @@ linkedin: https://www.linkedin.com/company/wabi-ai
 crunchbase: https://www.crunchbase.com/organization/wabi-ai
 crunchbase_verified: true
 total_raised_m: 20.0
+linkedin_verified: true
 ---
 
 # Wabi AI

@@ -28,6 +28,7 @@ founders:
   role: CTO
   background: Technical co-founder. Founded in New Zealand.
   origin: New Zealander
+linkedin_verified: true
 ---
 
 # Ivo

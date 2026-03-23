@@ -21,19 +21,20 @@ research_date: 2026-03-20
 one_liner: Tome was an AI-native storytelling and presentation platform founded in 2020 by former Meta executives Keith Peiris
   and Henri Liriani
 founders:
-  - name: "Keith Peiris"
-    role: "Co-Founder & CEO"
-    background: "Former Meta executive; led Tome through pivot to Lightfield AI-native CRM"
-    origin: "Sri Lankan-American"
-  - name: "Henri Liriani"
-    role: "Co-Founder"
-    background: "Former Meta executive; co-founded Tome with Keith Peiris in 2020"
-    origin: "French-American"
+- name: Keith Peiris
+  role: Co-Founder & CEO
+  background: Former Meta executive; led Tome through pivot to Lightfield AI-native CRM
+  origin: Sri Lankan-American
+- name: Henri Liriani
+  role: Co-Founder
+  background: Former Meta executive; co-founded Tome with Keith Peiris in 2020
+  origin: French-American
 data_notes: 'Needs verification: website, founders. Profile may be incomplete.'
 crunchbase: https://www.crunchbase.com/organization/tome
 crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/magical-tome
 total_raised_m: 81.0
+linkedin_verified: true
 ---
 
 # Tome

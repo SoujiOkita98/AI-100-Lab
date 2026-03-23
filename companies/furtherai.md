@@ -38,6 +38,7 @@ funding_rounds:
   source: https://www.furtherai.com/blog/%20furtherai-announces-25m-series-a-from-andreessen-horowitz-to-transform-insurance-workflows-with-ai-automating-busywork
 linkedin: https://www.linkedin.com/company/furtherai/
 name: FurtherAI
+linkedin_verified: true
 ---
 
 # FurtherAI -- Company Profile

@@ -30,6 +30,7 @@ crunchbase: https://www.crunchbase.com/organization/ankar
 crunchbase_verified: true
 total_raised_m: 23.0
 linkedin: https://www.linkedin.com/company/ankar/
+linkedin_verified: true
 ---
 
 # Ankar

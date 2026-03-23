@@ -30,6 +30,7 @@ founders:
   role: SVP Technology
   background: 10+ years at MIT Lincoln Laboratory. Worked with Navy, Army, and DHS.
   origin: American
+linkedin_verified: true
 ---
 
 # Code Metal

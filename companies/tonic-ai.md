@@ -61,6 +61,7 @@ website_verified: true
 crunchbase: https://www.crunchbase.com/organization/tonic-ai
 crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/tonicai/
+linkedin_verified: true
 ---
 
 # Tonic.ai

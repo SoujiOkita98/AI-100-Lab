@@ -47,6 +47,7 @@ funding_rounds:
   - Kleiner Perkins
   source: https://www.crunchbase.com/organization/cartesia
 name: Cartesia
+linkedin_verified: true
 ---
 
 # Cartesia

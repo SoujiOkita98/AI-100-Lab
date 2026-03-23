@@ -36,6 +36,7 @@ founders:
   background: MS Ocean Engineering MIT. Built animatronics at Walt Disney Imagineering. Led robots at iRobot.
   origin: American
 linkedin: https://www.linkedin.com/company/blue-water-autonomy/
+linkedin_verified: true
 ---
 
 # Blue Water Autonomy

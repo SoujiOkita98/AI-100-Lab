@@ -30,6 +30,7 @@ crunchbase: https://www.crunchbase.com/organization/modular-ai
 crunchbase_verified: true
 twitter: '@Modular'
 total_raised_m: 130.0
+linkedin_verified: true
 ---
 
 # Modular AI

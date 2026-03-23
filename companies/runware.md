@@ -31,6 +31,7 @@ founders:
   background: Operations and GTM focus
   origin: Romanian
 linkedin: https://www.linkedin.com/company/runware/
+linkedin_verified: true
 ---
 
 # Runware

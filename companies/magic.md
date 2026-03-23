@@ -57,6 +57,7 @@ website_verified: true
 linkedin: https://www.linkedin.com/company/magicailabs
 crunchbase: https://www.crunchbase.com/organization/magic
 crunchbase_verified: true
+linkedin_verified: true
 ---
 
 # Magic -- AI Software Engineer with Ultra-Long Context

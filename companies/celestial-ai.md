@@ -32,6 +32,7 @@ founders:
   role: COO
   background: Previously at Macom and Mindspeed Technologies.
   origin: Indian-American
+linkedin_verified: true
 ---
 
 # Celestial AI

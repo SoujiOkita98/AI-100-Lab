@@ -21,26 +21,31 @@ crunchbase: https://www.crunchbase.com/organization/lambda
 crunchbase_verified: true
 total_raised_m: 2440
 funding_rounds:
-  - stage: "Multiple early rounds"
-    date: "2018-2022"
-    lead_investors: ["Various"]
-    source: "https://www.crunchbase.com/organization/lambda"
-  - stage: "Series C"
-    date: "2023"
-    amount_m: 320
-    lead_investors: ["Thomas Tull"]
-    source: "https://www.crunchbase.com/organization/lambda"
-  - stage: "Series D"
-    date: "2024"
-    amount_m: 800
-    lead_investors: ["SK Telecom"]
-    source: "https://www.crunchbase.com/organization/lambda"
-  - stage: "Series E"
-    date: "2025"
-    amount_m: 1200
-    lead_investors: ["Undisclosed"]
-    source: "https://www.crunchbase.com/organization/lambda"
-data_notes: "Total ~$2.44B across 10+ rounds. Early round details approximate."
+- stage: Multiple early rounds
+  date: 2018-2022
+  lead_investors:
+  - Various
+  source: https://www.crunchbase.com/organization/lambda
+- stage: Series C
+  date: '2023'
+  amount_m: 320
+  lead_investors:
+  - Thomas Tull
+  source: https://www.crunchbase.com/organization/lambda
+- stage: Series D
+  date: '2024'
+  amount_m: 800
+  lead_investors:
+  - SK Telecom
+  source: https://www.crunchbase.com/organization/lambda
+- stage: Series E
+  date: '2025'
+  amount_m: 1200
+  lead_investors:
+  - Undisclosed
+  source: https://www.crunchbase.com/organization/lambda
+data_notes: Total ~$2.44B across 10+ rounds. Early round details approximate.
+linkedin_verified: true
 ---
 
 # Lambda

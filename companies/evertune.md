@@ -27,6 +27,7 @@ linkedin: https://www.linkedin.com/company/evertune-ai
 crunchbase: https://www.crunchbase.com/organization/evertune
 crunchbase_verified: true
 total_raised_m: 19.0
+linkedin_verified: true
 ---
 
 # Evertune

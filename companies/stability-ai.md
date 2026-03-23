@@ -48,6 +48,7 @@ funding_rounds:
   source: https://www.crunchbase.com/organization/stability-ai
 data_notes: Total ~$181-225M (sources vary). June 2024 round was a recapitalization at ~$1B valuation under new CEO Prem Akkaraju.
 name: Stability AI
+linkedin_verified: true
 ---
 
 # Stability AI -- Company Profile

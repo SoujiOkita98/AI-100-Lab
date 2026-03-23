@@ -48,6 +48,7 @@ funding_rounds:
   - SOMA Capital
   source: https://www.crunchbase.com/organization/cosine-ai
 name: Cosine
+linkedin_verified: true
 ---
 
 # Cosine

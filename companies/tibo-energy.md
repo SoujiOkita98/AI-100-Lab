@@ -44,6 +44,7 @@ crunchbase: https://www.crunchbase.com/organization/tibo-energy
 crunchbase_verified: true
 total_raised_m: 9.8
 linkedin: https://www.linkedin.com/company/tibo-energy/
+linkedin_verified: true
 ---
 
 # Tibo Energy

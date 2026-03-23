@@ -57,6 +57,7 @@ funding_rounds:
 data_notes: Acquired by Cloudflare in November 2025 for estimated $350-550M.
 linkedin: https://www.linkedin.com/company/replicate/
 name: Replicate
+linkedin_verified: true
 ---
 
 # Replicate

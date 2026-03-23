@@ -53,6 +53,7 @@ crunchbase: https://www.crunchbase.com/organization/imbue
 crunchbase_verified: true
 twitter: '@imbue_ai'
 name: Imbue
+linkedin_verified: true
 ---
 
 # Imbue

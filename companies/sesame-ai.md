@@ -15,14 +15,14 @@ funding_rounds:
 last_updated: 2026-03-21
 confidence: medium
 founders:
-  - name: "Brendan Iribe"
-    role: "Co-Founder"
-    background: "Co-founder and former CEO of Oculus VR (acquired by Facebook/Meta)."
-    origin: "American"
-  - name: "Ankit Kumar"
-    role: "Co-Founder"
-    background: "Former CTO of Ubiquity6 (AR startup)."
-    origin: "Indian-American"
+- name: Brendan Iribe
+  role: Co-Founder
+  background: Co-founder and former CEO of Oculus VR (acquired by Facebook/Meta).
+  origin: American
+- name: Ankit Kumar
+  role: Co-Founder
+  background: Former CTO of Ubiquity6 (AR startup).
+  origin: Indian-American
 data_notes: 'Needs verification: website, source_urls, headquarters. Profile may be incomplete.'
 website: https://www.sesame.com
 website_verified: true
@@ -31,6 +31,7 @@ crunchbase: https://www.crunchbase.com/organization/sesame-ai
 crunchbase_verified: true
 twitter: '@sesame'
 total_raised_m: 250.0
+linkedin_verified: true
 ---
 
 # Sesame

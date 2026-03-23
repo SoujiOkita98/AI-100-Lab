@@ -58,6 +58,7 @@ crunchbase: https://www.crunchbase.com/organization/writer
 crunchbase_verified: true
 twitter: '@Get_Writer'
 name: Writer
+linkedin_verified: true
 ---
 
 # Writer — Enterprise AI Platform

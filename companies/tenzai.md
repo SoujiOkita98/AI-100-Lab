@@ -36,6 +36,7 @@ linkedin: https://www.linkedin.com/company/tenzai-inc
 crunchbase: https://www.crunchbase.com/organization/tenzai
 crunchbase_verified: true
 total_raised_m: 75.0
+linkedin_verified: true
 ---
 
 # Tenzai

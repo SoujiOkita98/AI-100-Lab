@@ -66,14 +66,15 @@ crunchbase: https://www.crunchbase.com/organization/luma-ai
 crunchbase_verified: true
 total_raised_m: 1070.0
 founders:
-  - name: "Amit Jain"
-    role: "Co-Founder & CEO"
-    background: "Former Systems and ML Engineer at Apple, led Passthrough feature for Apple Vision Pro"
-    origin: "Indian"
-  - name: "Alberto Taiuti"
-    role: "Co-Founder"
-    background: ""
-    origin: "Italian"
+- name: Amit Jain
+  role: Co-Founder & CEO
+  background: Former Systems and ML Engineer at Apple, led Passthrough feature for Apple Vision Pro
+  origin: Indian
+- name: Alberto Taiuti
+  role: Co-Founder
+  background: ''
+  origin: Italian
+linkedin_verified: true
 ---
 
 # Luma AI

@@ -32,6 +32,7 @@ founders:
   role: Co-founder
   background: Physicist from University of Michigan.
   origin: American
+linkedin_verified: true
 ---
 
 # Deepgram

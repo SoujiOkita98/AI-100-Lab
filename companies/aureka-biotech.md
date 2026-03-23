@@ -31,6 +31,7 @@ crunchbase: https://www.crunchbase.com/organization/aureka-biotech
 crunchbase_verified: true
 total_raised_m: 20.0
 linkedin: https://www.linkedin.com/company/aureka-biotech/
+linkedin_verified: true
 ---
 
 # Aureka Biotech

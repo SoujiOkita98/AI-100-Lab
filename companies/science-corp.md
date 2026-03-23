@@ -32,6 +32,7 @@ linkedin: https://www.linkedin.com/company/sciencecorporation
 crunchbase: https://www.crunchbase.com/organization/science-corp
 crunchbase_verified: true
 total_raised_m: 330.0
+linkedin_verified: true
 ---
 
 # Science Corp

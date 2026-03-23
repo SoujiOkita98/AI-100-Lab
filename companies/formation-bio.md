@@ -47,6 +47,7 @@ crunchbase: https://www.crunchbase.com/organization/formation-bio
 crunchbase_verified: true
 twitter: '@formationbio'
 name: Formation Bio
+linkedin_verified: true
 ---
 
 # Formation Bio

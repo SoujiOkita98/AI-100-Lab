@@ -56,6 +56,7 @@ linkedin: https://www.linkedin.com/company/nscale-cloud
 total_raised_m: 3280
 latest_valuation_m: 14600
 twitter: '@nscale_cloud'
+linkedin_verified: true
 ---
 
 # Nscale

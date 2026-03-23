@@ -34,6 +34,7 @@ crunchbase: https://www.crunchbase.com/organization/legion-ai
 crunchbase_verified: true
 total_raised_m: 38.0
 linkedin: https://www.linkedin.com/company/legion/
+linkedin_verified: true
 ---
 
 # Legion

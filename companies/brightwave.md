@@ -39,6 +39,7 @@ funding_rounds:
   - Decibel Partners
   source: https://www.businesswire.com/news/home/20241029778071/en/
 name: Brightwave
+linkedin_verified: true
 ---
 
 # Brightwave -- Company Profile

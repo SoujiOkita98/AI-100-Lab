@@ -48,6 +48,7 @@ funding_rounds:
   - Menlo Ventures
   source: https://www.crunchbase.com/organization/cleanlab
 name: Cleanlab
+linkedin_verified: true
 ---
 
 # Cleanlab

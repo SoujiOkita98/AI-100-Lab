@@ -43,6 +43,7 @@ website_verified: true
 crunchbase: https://www.crunchbase.com/organization/rebellion-defense
 crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/rebellion-defense/
+linkedin_verified: true
 ---
 
 # Rebellion Defense

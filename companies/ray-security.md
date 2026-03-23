@@ -30,6 +30,7 @@ founders:
   background: Enterprise security background
   origin: Israeli
 linkedin: https://www.linkedin.com/company/ray-security/
+linkedin_verified: true
 ---
 
 # Ray Security

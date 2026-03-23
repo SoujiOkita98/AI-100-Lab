@@ -53,6 +53,7 @@ founders:
   background: Professor at Stanford University; head of Computational Imaging Lab
   origin: German-American
 name: Rhoda AI
+linkedin_verified: true
 ---
 
 # Rhoda AI

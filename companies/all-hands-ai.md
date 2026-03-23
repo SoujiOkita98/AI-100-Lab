@@ -59,6 +59,7 @@ funding_rounds:
   source: https://www.crunchbase.com/organization/all-hands-ai
 linkedin: https://www.linkedin.com/company/all-hands-ai/
 name: All Hands AI (OpenHands)
+linkedin_verified: true
 ---
 
 # All Hands AI (OpenHands)

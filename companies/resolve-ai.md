@@ -29,6 +29,7 @@ crunchbase: https://www.crunchbase.com/organization/resolve-ai
 crunchbase_verified: true
 twitter: '@resolveai'
 total_raised_m: 125.0
+linkedin_verified: true
 ---
 
 # Resolve AI

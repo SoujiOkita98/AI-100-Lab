@@ -32,6 +32,7 @@ crunchbase: https://www.crunchbase.com/organization/upscale-ai
 crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/upscale-ai-inc
 total_raised_m: 100.0
+linkedin_verified: true
 ---
 
 # Upscale AI

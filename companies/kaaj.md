@@ -10,14 +10,14 @@ funding_rounds:
   lead_investors:
   - Kindred Ventures
 founders:
-  - name: "Utsav Shah"
-    role: "Co-Founder & CEO"
-    background: "Spent a decade at Uber and Cruise building large-scale AI decision systems."
-    origin: "Indian-American"
-  - name: "Shivi Sharma"
-    role: "Co-Founder & President"
-    background: "Credit and fraud risk expert at American Express, Uber, and Varo Bank."
-    origin: "Indian-American"
+- name: Utsav Shah
+  role: Co-Founder & CEO
+  background: Spent a decade at Uber and Cruise building large-scale AI decision systems.
+  origin: Indian-American
+- name: Shivi Sharma
+  role: Co-Founder & President
+  background: Credit and fraud risk expert at American Express, Uber, and Varo Bank.
+  origin: Indian-American
 last_updated: 2026-03-21
 confidence: medium
 data_notes: 'Needs verification: website, founders, source_urls, headquarters. Profile may be incomplete.'
@@ -29,6 +29,7 @@ crunchbase: https://www.crunchbase.com/organization/kaaj
 crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/kaaj-ai
 total_raised_m: 3.8
+linkedin_verified: true
 ---
 
 # Kaaj

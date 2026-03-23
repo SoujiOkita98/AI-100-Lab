@@ -15,22 +15,22 @@ confidence_notes: Series B (EUR27M) and valuation well-sourced via EU-Startups, 
   confirmed across multiple sources. User count of 20M+ from company press materials. Employee count and revenue not publicly
   disclosed; estimates based on company stage.
 founders:
-  - name: "Benedict Kurz"
-    role: "CEO"
-    background: "Founded Knowunity at age 17 while still in school; skipped university to build the company"
-    origin: "German"
-  - name: "Gregor Weber"
-    role: "CPO"
-    background: "Co-founded Knowunity as a teenager; leads product"
-    origin: "German"
-  - name: "Lucas Hild"
-    role: "CTO"
-    background: "Co-founded Knowunity as a teenager; leads engineering"
-    origin: "German"
-  - name: "Yannik Prigl"
-    role: "Co-Founder"
-    background: "Co-founded Knowunity as a teenager; backend engineering"
-    origin: "German"
+- name: Benedict Kurz
+  role: CEO
+  background: Founded Knowunity at age 17 while still in school; skipped university to build the company
+  origin: German
+- name: Gregor Weber
+  role: CPO
+  background: Co-founded Knowunity as a teenager; leads product
+  origin: German
+- name: Lucas Hild
+  role: CTO
+  background: Co-founded Knowunity as a teenager; leads engineering
+  origin: German
+- name: Yannik Prigl
+  role: Co-Founder
+  background: Co-founded Knowunity as a teenager; backend engineering
+  origin: German
 one_liner: Knowunity is a Berlin-based AI-powered learning platform that combines community-generated study materials with
   an AI tutor to help students learn more effectively
 website_verified: true
@@ -39,21 +39,25 @@ crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/knowunity
 total_raised_m: 50
 funding_rounds:
-  - stage: "Seed"
-    date: "2021"
-    amount_m: 3.3
-    lead_investors: ["Undisclosed"]
-    source: "https://www.crunchbase.com/organization/knowunity"
-  - stage: "Series A"
-    date: "2022-05"
-    amount_m: 11
-    lead_investors: ["Undisclosed"]
-    source: "https://www.crunchbase.com/organization/knowunity"
-  - stage: "Series B"
-    date: "2025-06"
-    amount_m: 30
-    lead_investors: ["XAnge"]
-    source: "https://www.crunchbase.com/organization/knowunity"
+- stage: Seed
+  date: '2021'
+  amount_m: 3.3
+  lead_investors:
+  - Undisclosed
+  source: https://www.crunchbase.com/organization/knowunity
+- stage: Series A
+  date: 2022-05
+  amount_m: 11
+  lead_investors:
+  - Undisclosed
+  source: https://www.crunchbase.com/organization/knowunity
+- stage: Series B
+  date: 2025-06
+  amount_m: 30
+  lead_investors:
+  - XAnge
+  source: https://www.crunchbase.com/organization/knowunity
+linkedin_verified: true
 ---
 
 # Knowunity -- AI Learning Platform for Students

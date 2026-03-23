@@ -32,6 +32,7 @@ founders:
   background: Inria researcher; co-founded scikit-learn
   origin: French
 linkedin: https://www.linkedin.com/company/probabl/
+linkedin_verified: true
 ---
 
 # Probabl

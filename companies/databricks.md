@@ -4,7 +4,8 @@ legal_name: Databricks, Inc.
 founded: 2013
 headquarters: San Francisco, California, USA
 website: https://www.databricks.com
-one_liner: "Unified data lakehouse and AI platform enabling enterprises to build, deploy, and manage data analytics and AI solutions at scale"
+one_liner: Unified data lakehouse and AI platform enabling enterprises to build, deploy, and manage data analytics and AI
+  solutions at scale
 sector: Data & AI Infrastructure
 stage: Late-stage / Pre-IPO
 latest_valuation_usd: 134000000000
@@ -221,6 +222,7 @@ linkedin: https://www.linkedin.com/company/databricks
 twitter: '@databricks'
 crunchbase: https://www.crunchbase.com/organization/databricks
 crunchbase_verified: true
+linkedin_verified: true
 ---
 
 # Databricks

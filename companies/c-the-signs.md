@@ -12,14 +12,14 @@ funding_rounds:
   lead_investors:
   - Khosla Ventures
 founders:
-  - name: "Bea Bakshi"
-    role: "Co-Founder & CEO"
-    background: "NHS doctor. Medical background in cancer detection."
-    origin: "South Asian-British (inferred from name)"
-  - name: "Miles Payling"
-    role: "Co-Founder & Chief Scientific Officer"
-    background: "NHS doctor."
-    origin: "British (inferred from name)"
+- name: Bea Bakshi
+  role: Co-Founder & CEO
+  background: NHS doctor. Medical background in cancer detection.
+  origin: South Asian-British (inferred from name)
+- name: Miles Payling
+  role: Co-Founder & Chief Scientific Officer
+  background: NHS doctor.
+  origin: British (inferred from name)
 last_updated: 2026-03-21
 confidence: medium
 data_notes: 'Needs verification: website, founders, source_urls. Profile may be incomplete.'
@@ -29,6 +29,7 @@ crunchbase: https://www.crunchbase.com/organization/c-the-signs
 crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/c-the-signs
 total_raised_m: 8.0
+linkedin_verified: true
 ---
 
 # C the Signs

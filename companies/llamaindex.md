@@ -30,6 +30,7 @@ crunchbase: https://www.crunchbase.com/organization/llamaindex
 crunchbase_verified: true
 twitter: '@llama_index'
 total_raised_m: 27.5
+linkedin_verified: true
 ---
 
 # LlamaIndex

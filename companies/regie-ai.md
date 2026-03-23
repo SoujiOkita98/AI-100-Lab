@@ -31,6 +31,7 @@ founders:
   background: ''
   origin: American
 linkedin: https://www.linkedin.com/company/regieai/
+linkedin_verified: true
 ---
 
 # Regie.ai

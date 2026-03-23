@@ -96,6 +96,7 @@ funding_rounds:
   - Tiger Global
   source: https://www.cerebras.ai/press-release/cerebras-systems-raises-usd1-billion-series-h
 name: Cerebras Systems
+linkedin_verified: true
 ---
 
 # Cerebras Systems

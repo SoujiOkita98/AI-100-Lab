@@ -101,6 +101,7 @@ crunchbase: https://www.crunchbase.com/organization/vectara
 crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/vectara
 headquarters: Palo Alto, CA
+linkedin_verified: true
 ---
 
 # Vectara

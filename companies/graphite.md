@@ -55,6 +55,7 @@ funding_rounds:
   source: https://www.crunchbase.com/organization/graphite
 linkedin: https://www.linkedin.com/company/graphite/
 name: Graphite
+linkedin_verified: true
 ---
 
 # Graphite

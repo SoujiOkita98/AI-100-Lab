@@ -148,6 +148,7 @@ linkedin: https://www.linkedin.com/company/physical-intelligence
 crunchbase: https://www.crunchbase.com/organization/physical-intelligence
 crunchbase_verified: true
 headquarters: San Francisco, CA
+linkedin_verified: true
 ---
 
 # Physical Intelligence

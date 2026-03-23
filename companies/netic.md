@@ -30,6 +30,7 @@ linkedin: https://www.linkedin.com/company/netic-ai
 crunchbase: https://www.crunchbase.com/organization/netic
 crunchbase_verified: true
 total_raised_m: 43.0
+linkedin_verified: true
 ---
 
 # Netic

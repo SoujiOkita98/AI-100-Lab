@@ -33,6 +33,7 @@ crunchbase: https://www.crunchbase.com/organization/vesence
 crunchbase_verified: true
 total_raised_m: 9.0
 linkedin: https://www.linkedin.com/company/vesence/
+linkedin_verified: true
 ---
 
 # Vesence

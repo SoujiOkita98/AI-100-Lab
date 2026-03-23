@@ -144,6 +144,7 @@ crunchbase: https://www.crunchbase.com/organization/shield-ai
 crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/shield-ai
 headquarters: San Diego, California
+linkedin_verified: true
 ---
 
 # Shield AI

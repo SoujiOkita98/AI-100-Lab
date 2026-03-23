@@ -31,6 +31,7 @@ key_investors:
 - China Life Healthcare Fund
 last_updated: 2026-03-20
 linkedin: https://www.linkedin.com/company/xtalpi/
+linkedin_verified: true
 ---
 
 # XtalPi

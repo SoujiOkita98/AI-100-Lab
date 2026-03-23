@@ -72,6 +72,7 @@ crunchbase: https://www.crunchbase.com/organization/observe-ai
 crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/observe-ai/
 name: Observe.AI
+linkedin_verified: true
 ---
 
 # Observe.AI

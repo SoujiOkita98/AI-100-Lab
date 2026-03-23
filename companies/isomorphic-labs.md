@@ -10,10 +10,11 @@ parent: Alphabet Inc.
 origin: Spin-off from Google DeepMind
 website: https://www.isomorphiclabs.com
 founders:
-  - name: "Sir Demis Hassabis"
-    role: "Founder & CEO"
-    background: "Co-founder and CEO of Google DeepMind; Nobel Prize in Chemistry 2024 (AlphaFold); child chess prodigy; PhD in cognitive neuroscience from UCL; co-created AlphaGo"
-    origin: "British (Greek-Cypriot and Singaporean descent)"
+- name: Sir Demis Hassabis
+  role: Founder & CEO
+  background: Co-founder and CEO of Google DeepMind; Nobel Prize in Chemistry 2024 (AlphaFold); child chess prodigy; PhD in
+    cognitive neuroscience from UCL; co-created AlphaGo
+  origin: British (Greek-Cypriot and Singaporean descent)
 ceo: Sir Demis Hassabis
 president: Max Jaderberg (effective 2026-01-01; succeeded Colin Murdoch)
 employees: ~348 (as of Feb 2026)
@@ -56,6 +57,7 @@ crunchbase: https://www.crunchbase.com/organization/isomorphic-labs
 crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/isomorphic-labs
 total_raised_m: 600.0
+linkedin_verified: true
 ---
 
 # Isomorphic Labs

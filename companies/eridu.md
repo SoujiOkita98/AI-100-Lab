@@ -68,6 +68,7 @@ crunchbase: https://www.crunchbase.com/organization/eridu
 crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/eridu-ai
 headquarters: San Francisco, CA
+linkedin_verified: true
 ---
 
 # Eridu

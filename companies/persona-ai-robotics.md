@@ -31,6 +31,7 @@ founders:
   background: Helped develop NASA Valkyrie humanoid robot; former Nauticus Robotics
   origin: Nigerian-American
 linkedin: https://www.linkedin.com/company/persona-ai-robotics/
+linkedin_verified: true
 ---
 
 # Persona AI Robotics

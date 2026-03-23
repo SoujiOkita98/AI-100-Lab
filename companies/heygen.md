@@ -62,6 +62,7 @@ funding_rounds:
   source: https://www.crunchbase.com/organization/heygen
 data_notes: Total ~$65.6-74.6M across multiple rounds. Exact seed amount undisclosed.
 name: HeyGen
+linkedin_verified: true
 ---
 
 # HeyGen

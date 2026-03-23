@@ -63,6 +63,7 @@ funding_rounds:
   - Tiger Global Management
   source: https://www.crunchbase.com/organization/robust-intelligence
 linkedin: https://www.linkedin.com/company/robust-intelligence/
+linkedin_verified: true
 ---
 
 # Robust Intelligence

@@ -48,6 +48,7 @@ founders:
 confidence: high
 last_updated: 2026-03-23
 linkedin: https://www.linkedin.com/company/surf-ai/
+linkedin_verified: true
 ---
 
 # Surf AI

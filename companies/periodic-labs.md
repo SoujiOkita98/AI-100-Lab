@@ -34,6 +34,7 @@ linkedin: https://www.linkedin.com/company/periodic-labs
 crunchbase: https://www.crunchbase.com/organization/periodic-labs
 crunchbase_verified: true
 total_raised_m: 300.0
+linkedin_verified: true
 ---
 
 # Periodic Labs

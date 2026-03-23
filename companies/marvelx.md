@@ -21,10 +21,11 @@ crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/marvelxai
 total_raised_m: 6.0
 founders:
-  - name: "Ali el Hassouni"
-    role: "Founder & CEO"
-    background: "Former Head of Data & AI at bunq (neobank unicorn); PhD in AI from Vrije Universiteit Amsterdam"
-    origin: "Moroccan-Dutch"
+- name: Ali el Hassouni
+  role: Founder & CEO
+  background: Former Head of Data & AI at bunq (neobank unicorn); PhD in AI from Vrije Universiteit Amsterdam
+  origin: Moroccan-Dutch
+linkedin_verified: true
 ---
 
 # MarvelX

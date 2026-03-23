@@ -96,6 +96,7 @@ crunchbase: https://www.crunchbase.com/organization/mind-robotics
 crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/mindrobotics
 headquarters: Palo Alto, CA
+linkedin_verified: true
 ---
 
 # Mind Robotics

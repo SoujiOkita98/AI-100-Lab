@@ -56,6 +56,7 @@ founders:
   origin: Israeli
 linkedin: https://www.linkedin.com/company/tabnine/
 name: Tabnine
+linkedin_verified: true
 ---
 
 # Tabnine

@@ -60,6 +60,7 @@ crunchbase: https://www.crunchbase.com/organization/forsight-robotics
 crunchbase_verified: true
 headquarters: Yokneam Illit, Israel (relocating to Caesarea)
 linkedin: https://www.linkedin.com/company/forsight-robotics/
+linkedin_verified: true
 ---
 
 # ForSight Robotics

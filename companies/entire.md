@@ -25,6 +25,7 @@ crunchbase: https://www.crunchbase.com/organization/entire
 crunchbase_verified: true
 total_raised_m: 60.0
 linkedin: https://www.linkedin.com/company/entire/
+linkedin_verified: true
 ---
 
 # Entire

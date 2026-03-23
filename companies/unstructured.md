@@ -45,6 +45,7 @@ funding_rounds:
   source: https://www.crunchbase.com/organization/unstructured
 linkedin: https://www.linkedin.com/company/unstructuredio/
 name: Unstructured (Unstructured Technologies, Inc.)
+linkedin_verified: true
 ---
 
 # Unstructured

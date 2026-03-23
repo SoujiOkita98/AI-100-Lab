@@ -31,6 +31,7 @@ crunchbase: https://www.crunchbase.com/organization/mindoo
 crunchbase_verified: true
 twitter: '@mindooai'
 total_raised_m: 5.5
+linkedin_verified: true
 ---
 
 # Mindoo

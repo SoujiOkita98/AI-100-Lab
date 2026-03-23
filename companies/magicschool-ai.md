@@ -21,27 +21,31 @@ crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/magicschool-ai
 twitter: '@magicschoolai'
 founders:
-  - name: "Adeel Khan"
-    role: "Founder & CEO"
-    background: "Former teacher, assistant principal, principal, and district administrator in public schools"
-    origin: "South Asian"
+- name: Adeel Khan
+  role: Founder & CEO
+  background: Former teacher, assistant principal, principal, and district administrator in public schools
+  origin: South Asian
 total_raised_m: 67
 funding_rounds:
-  - stage: "Pre-Seed / Seed"
-    date: "2023"
-    amount_m: 7
-    lead_investors: ["Undisclosed"]
-    source: "https://www.crunchbase.com/organization/magicschool-ai"
-  - stage: "Series A"
-    date: "2024-07"
-    amount_m: 15
-    lead_investors: ["Bain Capital Ventures"]
-    source: "https://www.crunchbase.com/organization/magicschool-ai"
-  - stage: "Series B"
-    date: "2025-02"
-    amount_m: 45
-    lead_investors: ["Valor Equity Partners"]
-    source: "https://www.crunchbase.com/organization/magicschool-ai"
+- stage: Pre-Seed / Seed
+  date: '2023'
+  amount_m: 7
+  lead_investors:
+  - Undisclosed
+  source: https://www.crunchbase.com/organization/magicschool-ai
+- stage: Series A
+  date: 2024-07
+  amount_m: 15
+  lead_investors:
+  - Bain Capital Ventures
+  source: https://www.crunchbase.com/organization/magicschool-ai
+- stage: Series B
+  date: 2025-02
+  amount_m: 45
+  lead_investors:
+  - Valor Equity Partners
+  source: https://www.crunchbase.com/organization/magicschool-ai
+linkedin_verified: true
 ---
 
 # MagicSchool AI -- AI Tools for Educators

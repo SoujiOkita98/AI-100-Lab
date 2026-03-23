@@ -27,6 +27,7 @@ crunchbase: https://www.crunchbase.com/organization/kingpin
 crunchbase_verified: true
 total_raised_m: 3.5
 linkedin: https://www.linkedin.com/company/kingpin/
+linkedin_verified: true
 ---
 
 # Kingpin

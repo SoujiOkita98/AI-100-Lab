@@ -33,6 +33,7 @@ crunchbase: https://www.crunchbase.com/organization/wispr-ai
 crunchbase_verified: true
 twitter: '@WisprFlow'
 total_raised_m: 81.0
+linkedin_verified: true
 ---
 
 # Wispr AI

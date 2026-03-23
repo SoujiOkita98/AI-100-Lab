@@ -32,6 +32,7 @@ website_verified: true
 crunchbase: https://www.crunchbase.com/organization/sandbar
 crunchbase_verified: true
 total_raised_m: 36.0
+linkedin_verified: true
 ---
 
 # Sandbar

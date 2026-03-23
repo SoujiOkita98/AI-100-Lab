@@ -27,6 +27,7 @@ founders:
   origin: American
 total_raised_m: 47.0
 linkedin: https://www.linkedin.com/company/serval/
+linkedin_verified: true
 ---
 
 # Serval

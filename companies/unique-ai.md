@@ -30,6 +30,7 @@ last_updated: 2026-03-21
 confidence: medium
 total_raised_m: 53.0
 linkedin: https://www.linkedin.com/company/unique/
+linkedin_verified: true
 ---
 
 # Unique

@@ -44,6 +44,7 @@ founders:
 confidence: high
 last_updated: 2026-03-23
 linkedin: https://www.linkedin.com/company/onyx-security/
+linkedin_verified: true
 ---
 
 # Onyx Security

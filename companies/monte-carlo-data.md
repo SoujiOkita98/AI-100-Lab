@@ -74,6 +74,7 @@ website_verified: true
 crunchbase: https://www.crunchbase.com/organization/monte-carlo-data
 crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/monte-carlo/
+linkedin_verified: true
 ---
 
 # Monte Carlo

@@ -56,6 +56,7 @@ funding_rounds:
   source: https://www.crunchbase.com/organization/factory-ai
 linkedin: https://www.linkedin.com/company/factory-ai/
 name: Factory
+linkedin_verified: true
 ---
 
 # Factory

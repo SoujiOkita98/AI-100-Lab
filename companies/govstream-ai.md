@@ -10,10 +10,10 @@ funding_rounds:
   lead_investors:
   - 47th Street Partners
 founders:
-  - name: "Safouen Rabah"
-    role: "Founder & CEO"
-    background: "Veteran of government-tech companies including Socrata and Tyler Technologies."
-    origin: "Tunisian"
+- name: Safouen Rabah
+  role: Founder & CEO
+  background: Veteran of government-tech companies including Socrata and Tyler Technologies.
+  origin: Tunisian
 last_updated: 2026-03-21
 confidence: medium
 data_notes: 'Needs verification: website, founders, source_urls, headquarters. Profile may be incomplete.'
@@ -25,6 +25,7 @@ founded: 2024
 crunchbase: https://www.crunchbase.com/organization/govstream-ai
 crunchbase_verified: true
 total_raised_m: 3.6
+linkedin_verified: true
 ---
 
 # Govstream.ai

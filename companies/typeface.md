@@ -54,6 +54,7 @@ crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/typefaceai
 twitter: '@typefaceai'
 name: Typeface
+linkedin_verified: true
 ---
 
 # Typeface

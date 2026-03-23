@@ -37,6 +37,7 @@ crunchbase: https://www.crunchbase.com/organization/braintrust-ai
 crunchbase_verified: true
 twitter: '@braintrustdata'
 total_raised_m: 121.0
+linkedin_verified: true
 ---
 
 # Braintrust (AI Eval)

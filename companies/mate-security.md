@@ -28,6 +28,7 @@ linkedin: https://www.linkedin.com/company/mate-security
 crunchbase: https://www.crunchbase.com/organization/mate-security
 crunchbase_verified: true
 total_raised_m: 15.5
+linkedin_verified: true
 ---
 
 # Mate Security

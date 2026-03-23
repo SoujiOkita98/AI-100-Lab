@@ -26,6 +26,7 @@ crunchbase: https://www.crunchbase.com/organization/dev-agents
 crunchbase_verified: true
 total_raised_m: 56.0
 linkedin: https://www.linkedin.com/company//dev/agents/
+linkedin_verified: true
 ---
 
 # /dev/agents

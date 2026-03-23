@@ -29,6 +29,7 @@ founders:
   background: 15+ years in managerial roles; international sales across Europe and US
   origin: Russian
 linkedin: https://www.linkedin.com/company/newo/
+linkedin_verified: true
 ---
 
 # Newo

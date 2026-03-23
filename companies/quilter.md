@@ -31,6 +31,7 @@ crunchbase: https://www.crunchbase.com/organization/quilter
 crunchbase_verified: true
 twitter: '@quilterai'
 total_raised_m: 40.0
+linkedin_verified: true
 ---
 
 # Quilter

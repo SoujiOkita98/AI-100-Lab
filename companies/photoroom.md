@@ -50,6 +50,7 @@ funding_rounds:
   - Aglae Ventures
   source: https://www.crunchbase.com/organization/photoroom
 linkedin: https://www.linkedin.com/company/photoroom/
+linkedin_verified: true
 ---
 
 # Photoroom -- AI Photo Editing

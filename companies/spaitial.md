@@ -39,6 +39,7 @@ crunchbase: https://www.crunchbase.com/organization/spaitial
 crunchbase_verified: true
 total_raised_m: 13.0
 linkedin: https://www.linkedin.com/company/spaitial/
+linkedin_verified: true
 ---
 
 # SpAItial

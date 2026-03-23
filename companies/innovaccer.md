@@ -82,6 +82,7 @@ linkedin: https://www.linkedin.com/company/innovaccer
 crunchbase: https://www.crunchbase.com/organization/innovaccer
 crunchbase_verified: true
 name: Innovaccer
+linkedin_verified: true
 ---
 
 # Innovaccer -- Healthcare AI & Data Platform

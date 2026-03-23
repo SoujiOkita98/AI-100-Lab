@@ -59,6 +59,7 @@ linkedin: https://www.linkedin.com/company/hasura
 crunchbase: https://www.crunchbase.com/organization/hasura
 crunchbase_verified: true
 name: Hasura
+linkedin_verified: true
 ---
 
 # Hasura -- AI Data Infrastructure & API Platform

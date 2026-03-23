@@ -65,6 +65,7 @@ website_verified: true
 crunchbase: https://www.crunchbase.com/organization/ambience-healthcare
 crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/ambiencehealthcare
+linkedin_verified: true
 ---
 
 # Ambience Healthcare

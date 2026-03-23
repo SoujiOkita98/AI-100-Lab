@@ -54,6 +54,7 @@ funding_rounds:
   - Chemistry VC
   source: https://www.crunchbase.com/organization/datacurve
 name: Datacurve
+linkedin_verified: true
 ---
 
 # Datacurve

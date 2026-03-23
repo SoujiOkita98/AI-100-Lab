@@ -5,7 +5,8 @@ ticker: 'HKEX: 2513'
 founded: 2019
 headquarters: Beijing, China (Tsinghua University Science Park)
 industry: Artificial Intelligence / Foundation Models
-one_liner: Chinese AI foundation model company (Tsinghua spinout) building the GLM series of large language models, publicly listed on HKEX.
+one_liner: Chinese AI foundation model company (Tsinghua spinout) building the GLM series of large language models, publicly
+  listed on HKEX.
 stage: Public (IPO January 8, 2026)
 ipo_date: '2026-01-08'
 ipo_exchange: Hong Kong Stock Exchange
@@ -24,18 +25,21 @@ core_models:
 - AutoGLM
 - Ying (video)
 founders:
-  - name: "Tang Jie (唐杰)"
-    role: "Co-Founder & Chief Scientist"
-    background: "Professor at Tsinghua University; Fellow of ACM, IEEE, and AAAI. Director of Foundation Model Research Center at Tsinghua's AI Institute. Led development of Wu Dao 1.75T-parameter model at BAAI. Key controlling shareholder"
-    origin: "Chinese"
-  - name: "Li Juanzi (李涓子)"
-    role: "Co-Founder"
-    background: "Professor and Director of Tsinghua's Knowledge Engineering Group (KEG), where Zhipu was incubated. Specializes in knowledge graphs and NLP"
-    origin: "Chinese"
-  - name: "Zhang Peng (张鹏)"
-    role: "CEO"
-    background: "PhD from Tsinghua's KEG under the co-founders. Leads commercial strategy with stated ambition to build 'China's OpenAI'"
-    origin: "Chinese"
+- name: Tang Jie (唐杰)
+  role: Co-Founder & Chief Scientist
+  background: Professor at Tsinghua University; Fellow of ACM, IEEE, and AAAI. Director of Foundation Model Research Center
+    at Tsinghua's AI Institute. Led development of Wu Dao 1.75T-parameter model at BAAI. Key controlling shareholder
+  origin: Chinese
+- name: Li Juanzi (李涓子)
+  role: Co-Founder
+  background: Professor and Director of Tsinghua's Knowledge Engineering Group (KEG), where Zhipu was incubated. Specializes
+    in knowledge graphs and NLP
+  origin: Chinese
+- name: Zhang Peng (张鹏)
+  role: CEO
+  background: PhD from Tsinghua's KEG under the co-founders. Leads commercial strategy with stated ambition to build 'China's
+    OpenAI'
+  origin: Chinese
 profile_updated: '2026-03-20'
 confidence_notes: Employee count is estimated; all financial figures sourced from IPO prospectus and press reporting.
 funding_rounds:
@@ -93,6 +97,7 @@ website_verified: true
 crunchbase: https://www.crunchbase.com/organization/zhipu-ai
 crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/zhipuai
+linkedin_verified: true
 ---
 
 # Zhipu AI (Z.ai) -- Company Profile

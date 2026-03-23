@@ -33,6 +33,7 @@ crunchbase: https://www.crunchbase.com/organization/dream-security
 crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/dreamsecurity
 total_raised_m: 100.0
+linkedin_verified: true
 ---
 
 # Dream Security

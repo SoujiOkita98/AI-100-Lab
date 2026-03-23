@@ -44,6 +44,7 @@ funding_rounds:
   source: https://www.crunchbase.com/organization/kodezi
 linkedin: https://www.linkedin.com/company/kodezi/
 name: Kodezi
+linkedin_verified: true
 ---
 
 # Kodezi

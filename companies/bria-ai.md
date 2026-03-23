@@ -25,6 +25,7 @@ founders:
   background: PhD CS (computer vision). Former CTO at Trax Retail (scaled to unicorn). 50+ patents.
   origin: Israeli
 linkedin: https://www.linkedin.com/company/bria-ai/
+linkedin_verified: true
 ---
 
 # BRIA AI

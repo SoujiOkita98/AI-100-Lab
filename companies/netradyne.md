@@ -59,6 +59,7 @@ crunchbase: https://www.crunchbase.com/organization/netradyne
 crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/netradyne/
 name: Netradyne
+linkedin_verified: true
 ---
 
 # Netradyne -- AI-Powered Fleet Safety & Driver Intelligence

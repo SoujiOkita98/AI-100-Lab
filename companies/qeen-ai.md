@@ -24,6 +24,7 @@ crunchbase: https://www.crunchbase.com/organization/qeen-ai
 crunchbase_verified: true
 total_raised_m: 12.0
 linkedin: https://www.linkedin.com/company/qeenai/
+linkedin_verified: true
 ---
 
 # Qeen.ai

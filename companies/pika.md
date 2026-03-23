@@ -58,6 +58,7 @@ twitter: '@pika_labs'
 linkedin: https://www.linkedin.com/company/pika-labs
 crunchbase: https://www.crunchbase.com/organization/pika
 crunchbase_verified: true
+linkedin_verified: true
 ---
 
 # Pika

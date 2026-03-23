@@ -31,6 +31,7 @@ founders:
 confidence: medium
 last_updated: 2026-03-23
 linkedin: https://www.linkedin.com/company/leiniao-innovation/
+linkedin_verified: true
 ---
 
 # Leiniao Innovation

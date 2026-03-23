@@ -26,6 +26,7 @@ headquarters: San Francisco, CA
 crunchbase: https://www.crunchbase.com/organization/julius-ai
 crunchbase_verified: true
 total_raised_m: 10.0
+linkedin_verified: true
 ---
 
 # Julius AI

@@ -44,6 +44,7 @@ funding_rounds:
   - Felicis
   source: https://www.cathaycapital.com/entalpic-raises-e8-5-million-to-pioneer-ai-solutions-for-decarbonizing-industrial-chemistry/
 linkedin: https://www.linkedin.com/company/entalpic/
+linkedin_verified: true
 ---
 
 # Entalpic

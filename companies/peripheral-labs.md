@@ -29,6 +29,7 @@ founders:
   background: University of Toronto; led formula-style and self-driving car racing teams
   origin: South Asian-Canadian
 linkedin: https://www.linkedin.com/company/peripheral-labs/
+linkedin_verified: true
 ---
 
 # Peripheral Labs

@@ -9,10 +9,11 @@ funding_rounds:
   date: '2025'
   amount_m: 18
 founders:
-  - name: "Joao Moura"
-    role: "CEO"
-    background: "Former Director of AI Engineering at Clearbit (acquired by HubSpot); career at intersection of engineering, product design, and data science"
-    origin: "Brazilian"
+- name: Joao Moura
+  role: CEO
+  background: Former Director of AI Engineering at Clearbit (acquired by HubSpot); career at intersection of engineering,
+    product design, and data science
+  origin: Brazilian
 last_updated: 2026-03-21
 confidence: medium
 data_notes: 'Needs verification: website, founders, source_urls, headquarters. Profile may be incomplete.'
@@ -24,6 +25,7 @@ crunchbase: https://www.crunchbase.com/organization/crewai
 crunchbase_verified: true
 twitter: '@crewAIInc'
 total_raised_m: 18.0
+linkedin_verified: true
 ---
 
 # CrewAI

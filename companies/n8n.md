@@ -30,6 +30,7 @@ founders:
   background: Studied visual media. Former VFX engineer at Academy Award-winning production company. Founded n8n GmbH in Berlin
     2019.
   origin: German
+linkedin_verified: true
 ---
 
 # n8n

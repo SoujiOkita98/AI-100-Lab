@@ -38,6 +38,7 @@ crunchbase: https://www.crunchbase.com/organization/cogent-security
 crunchbase_verified: true
 total_raised_m: 53.0
 linkedin: https://www.linkedin.com/company/cogent-security/
+linkedin_verified: true
 ---
 
 # Cogent Security

@@ -10,10 +10,10 @@ funding_rounds:
   lead_investors:
   - COTU Ventures
 founders:
-  - name: "Hassan Fayed"
-    role: "Founder & CEO"
-    background: "AgTech entrepreneur."
-    origin: "Arab/Middle Eastern (inferred from name)"
+- name: Hassan Fayed
+  role: Founder & CEO
+  background: AgTech entrepreneur.
+  origin: Arab/Middle Eastern (inferred from name)
 last_updated: 2026-03-21
 confidence: medium
 data_notes: 'Needs verification: website, founders, source_urls, headquarters. Profile may be incomplete.'
@@ -25,6 +25,7 @@ crunchbase: https://www.crunchbase.com/organization/aydi
 crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/ayditechnologies
 total_raised_m: 7.5
+linkedin_verified: true
 ---
 
 # Aydi

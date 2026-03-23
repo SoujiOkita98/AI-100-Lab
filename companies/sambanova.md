@@ -35,6 +35,7 @@ data_notes: Funding corrected from $2.5B to ~$1.49B after cross-verification aga
   inflated.
 total_raised_m: 1490.0
 name: SambaNova Systems
+linkedin_verified: true
 ---
 
 # SambaNova Systems

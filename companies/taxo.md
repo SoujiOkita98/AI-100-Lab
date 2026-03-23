@@ -47,6 +47,7 @@ funding_rounds:
   source: https://www.crunchbase.com/organization/taxo
 linkedin: https://www.linkedin.com/company/taxo/
 name: Taxo
+linkedin_verified: true
 ---
 
 # Taxo

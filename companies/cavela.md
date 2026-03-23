@@ -30,6 +30,7 @@ founders:
   background: MSc from McGill University. Published research on ML applied to global trade. 20+ years in manufacturing hubs
     across Asia and Latin America.
   origin: French-Canadian
+linkedin_verified: true
 ---
 
 # Cavela

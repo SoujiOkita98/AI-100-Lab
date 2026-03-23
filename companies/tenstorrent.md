@@ -58,6 +58,7 @@ funding_rounds:
   - Fidelity
   source: https://www.crunchbase.com/organization/tenstorrent
 name: Tenstorrent
+linkedin_verified: true
 ---
 
 # Tenstorrent

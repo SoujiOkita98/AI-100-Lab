@@ -27,6 +27,7 @@ confidence: medium
 twitter: '@angle_health'
 total_raised_m: 200.0
 linkedin: https://www.linkedin.com/company/angle-health/
+linkedin_verified: true
 ---
 
 # Angle Health

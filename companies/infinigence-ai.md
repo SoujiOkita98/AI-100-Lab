@@ -41,6 +41,7 @@ founders:
 confidence: medium
 last_updated: 2026-03-23
 linkedin: https://www.linkedin.com/company/infinigence-ai/
+linkedin_verified: true
 ---
 
 # Infinigence AI

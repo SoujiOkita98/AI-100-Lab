@@ -26,6 +26,7 @@ founders:
   background: Technical co-founder. AI research.
   origin: American
 linkedin: https://www.linkedin.com/company/hedra/
+linkedin_verified: true
 ---
 
 # Hedra

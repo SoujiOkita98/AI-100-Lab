@@ -25,6 +25,7 @@ crunchbase: https://www.crunchbase.com/organization/buildots
 crunchbase_verified: true
 twitter: '@buildots'
 total_raised_m: 166.0
+linkedin_verified: true
 ---
 
 # Buildots

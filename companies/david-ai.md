@@ -64,6 +64,7 @@ funding_rounds:
   - Meritech Capital
   source: https://www.crunchbase.com/organization/david-ai
 name: David AI
+linkedin_verified: true
 ---
 
 # David AI

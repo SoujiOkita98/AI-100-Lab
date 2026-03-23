@@ -30,6 +30,7 @@ linkedin: https://www.linkedin.com/company/sportai
 crunchbase: https://www.crunchbase.com/organization/sportai
 crunchbase_verified: true
 total_raised_m: 5.7
+linkedin_verified: true
 ---
 
 # SportAI

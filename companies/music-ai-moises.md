@@ -23,18 +23,20 @@ crunchbase: https://www.crunchbase.com/organization/music-ai-moises
 crunchbase_verified: true
 total_raised_m: 40.0
 founders:
-  - name: "Geraldo Ramos"
-    role: "Co-Founder & CEO"
-    background: "Serial entrepreneur from NE Brazil; started first tech company at 16; founded HackHands (acquired by Pluralsight 2015)"
-    origin: "Brazilian"
-  - name: "Eddie Hsu"
-    role: "Co-Founder & COO"
-    background: "Originally from NE Brazil"
-    origin: "Brazilian"
-  - name: "Jardson Almeida"
-    role: "Co-Founder & CDO"
-    background: "Originally from NE Brazil"
-    origin: "Brazilian"
+- name: Geraldo Ramos
+  role: Co-Founder & CEO
+  background: Serial entrepreneur from NE Brazil; started first tech company at 16; founded HackHands (acquired by Pluralsight
+    2015)
+  origin: Brazilian
+- name: Eddie Hsu
+  role: Co-Founder & COO
+  background: Originally from NE Brazil
+  origin: Brazilian
+- name: Jardson Almeida
+  role: Co-Founder & CDO
+  background: Originally from NE Brazil
+  origin: Brazilian
+linkedin_verified: true
 ---
 
 # Music AI (Moises)

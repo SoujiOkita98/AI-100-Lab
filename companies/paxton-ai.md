@@ -21,14 +21,15 @@ crunchbase: https://www.crunchbase.com/organization/paxton-ai
 crunchbase_verified: true
 total_raised_m: 28.0
 founders:
-  - name: "Tanguy Chau"
-    role: "Co-Founder & CEO"
-    background: "PhD and MBA from MIT; former Board of Trustees at MIT; worked at McKinsey"
-    origin: "Vietnamese-American"
-  - name: "Michael Ulin"
-    role: "Co-Founder & former CTO"
-    background: "Founding engineer and VP of AI at ZestyAI; former McKinsey"
-    origin: "American"
+- name: Tanguy Chau
+  role: Co-Founder & CEO
+  background: PhD and MBA from MIT; former Board of Trustees at MIT; worked at McKinsey
+  origin: Vietnamese-American
+- name: Michael Ulin
+  role: Co-Founder & former CTO
+  background: Founding engineer and VP of AI at ZestyAI; former McKinsey
+  origin: American
+linkedin_verified: true
 ---
 
 # Paxton

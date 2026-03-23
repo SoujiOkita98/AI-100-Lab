@@ -38,6 +38,7 @@ crunchbase: https://www.crunchbase.com/organization/merge-labs
 crunchbase_verified: true
 total_raised_m: 252.0
 linkedin: https://www.linkedin.com/company/merge-labs/
+linkedin_verified: true
 ---
 
 # Merge Labs

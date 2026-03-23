@@ -38,6 +38,7 @@ funding_rounds:
   source: https://www.crunchbase.com/organization/nevis
 linkedin: https://www.linkedin.com/company/nevis/
 name: Nevis
+linkedin_verified: true
 ---
 
 # Nevis -- Company Profile

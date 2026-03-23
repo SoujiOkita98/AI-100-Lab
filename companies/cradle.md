@@ -116,6 +116,7 @@ linkedin: https://www.linkedin.com/company/cradlebio
 crunchbase: https://www.crunchbase.com/organization/cradle
 crunchbase_verified: true
 headquarters: Amsterdam, Netherlands
+linkedin_verified: true
 ---
 
 # Cradle

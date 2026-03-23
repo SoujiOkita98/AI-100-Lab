@@ -57,6 +57,7 @@ funding_rounds:
   source: https://www.crunchbase.com/organization/ssi
 linkedin: https://www.linkedin.com/company/ssi/
 name: Safe Superintelligence Inc.
+linkedin_verified: true
 ---
 
 # Safe Superintelligence Inc. (SSI)

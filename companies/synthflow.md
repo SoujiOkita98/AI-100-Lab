@@ -20,19 +20,20 @@ crunchbase: https://www.crunchbase.com/organization/synthflow
 crunchbase_verified: true
 twitter: '@SynthflowAI'
 founders:
-  - name: "Hakob Astabatsyan"
-    role: "CEO & Co-Founder"
-    background: "Serial entrepreneur. Built ventures with Rocket Internet. Former growth strategist at BCG."
-    origin: "Armenian"
-  - name: "Albert Astabatsyan"
-    role: "CPO & Co-Founder"
-    background: "Serial entrepreneur."
-    origin: "Armenian"
-  - name: "Sassun Mirzakhan-Saky"
-    role: "CTO & Co-Founder"
-    background: "Technical co-founder."
-    origin: "Armenian"
+- name: Hakob Astabatsyan
+  role: CEO & Co-Founder
+  background: Serial entrepreneur. Built ventures with Rocket Internet. Former growth strategist at BCG.
+  origin: Armenian
+- name: Albert Astabatsyan
+  role: CPO & Co-Founder
+  background: Serial entrepreneur.
+  origin: Armenian
+- name: Sassun Mirzakhan-Saky
+  role: CTO & Co-Founder
+  background: Technical co-founder.
+  origin: Armenian
 total_raised_m: 30.0
+linkedin_verified: true
 ---
 
 # Synthflow

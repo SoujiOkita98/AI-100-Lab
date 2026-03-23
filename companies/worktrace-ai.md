@@ -34,11 +34,15 @@ crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/worktrace-ai
 total_raised_m: 9.5
 funding_rounds:
-  - stage: "Seed"
-    date: "2025"
-    amount_m: 9.5
-    lead_investors: ["Conviction", "8VC", "OpenAI Fund"]
-    source: "https://www.crunchbase.com/organization/worktrace-ai"
+- stage: Seed
+  date: '2025'
+  amount_m: 9.5
+  lead_investors:
+  - Conviction
+  - 8VC
+  - OpenAI Fund
+  source: https://www.crunchbase.com/organization/worktrace-ai
+linkedin_verified: true
 ---
 
 # Worktrace AI

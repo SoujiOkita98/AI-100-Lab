@@ -31,6 +31,7 @@ linkedin: https://www.linkedin.com/company/ricursive-intelligence
 crunchbase: https://www.crunchbase.com/organization/ricursive-intelligence
 crunchbase_verified: true
 total_raised_m: 35.0
+linkedin_verified: true
 ---
 
 # Ricursive Intelligence

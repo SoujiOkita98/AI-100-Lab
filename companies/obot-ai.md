@@ -21,12 +21,12 @@ founders:
   role: CEO
   background: PhD Yale. Ex-Sun Microsystems Java VM. Co-founded Cloud.com (acq Citrix), Rancher Labs (acq SUSE $800M).
   origin: Chinese-American
-headquarters: Cupertino, CA
 data_notes: 'Needs verification: website, source_urls. Profile may be incomplete.'
 linkedin: https://www.linkedin.com/company/obots-ai
 crunchbase: https://www.crunchbase.com/organization/obot-ai
 crunchbase_verified: true
 total_raised_m: 35.0
+linkedin_verified: true
 ---
 
 # Obot AI

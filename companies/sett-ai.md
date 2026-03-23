@@ -31,6 +31,7 @@ crunchbase: https://www.crunchbase.com/organization/sett-ai
 crunchbase_verified: true
 total_raised_m: 27.0
 linkedin: https://www.linkedin.com/company/sett/
+linkedin_verified: true
 ---
 
 # Sett

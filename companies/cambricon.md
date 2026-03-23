@@ -8,14 +8,14 @@ co_founders:
 - Chen Tianshi (CEO)
 - Chen Yunji
 founders:
-  - name: "Chen Tianshi"
-    role: "Co-Founder & CEO"
-    background: "Chinese Academy of Sciences researcher. Pioneer in AI chip architecture."
-    origin: "Chinese (inferred from name)"
-  - name: "Chen Yunji"
-    role: "Co-Founder"
-    background: "Chinese Academy of Sciences researcher. Brother of Chen Tianshi."
-    origin: "Chinese (inferred from name)"
+- name: Chen Tianshi
+  role: Co-Founder & CEO
+  background: Chinese Academy of Sciences researcher. Pioneer in AI chip architecture.
+  origin: Chinese (inferred from name)
+- name: Chen Yunji
+  role: Co-Founder
+  background: Chinese Academy of Sciences researcher. Brother of Chen Tianshi.
+  origin: Chinese (inferred from name)
 sector: AI Chips / Semiconductors
 stage: Public (IPO July 2020, Shanghai STAR Market)
 market_cap_usd: ~$81B (peak, Sep 2025)
@@ -37,21 +37,28 @@ crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/cambricon
 total_raised_m: 469
 funding_rounds:
-  - stage: "Series A"
-    date: "2017-08"
-    amount_m: 100
-    lead_investors: ["Alibaba Group", "Lenovo"]
-    source: "https://www.crunchbase.com/organization/cambricon-technologies"
-  - stage: "Series B"
-    date: "2018-06"
-    lead_investors: ["China Merchants China Direct Investments", "SDIC Venture Capital"]
-    source: "https://www.crunchbase.com/organization/cambricon-technologies"
-  - stage: "IPO (STAR Market)"
-    date: "2020-07"
-    amount_m: 369
-    lead_investors: ["Public offering"]
-    source: "https://en.wikipedia.org/wiki/Cambricon_Technologies"
-data_notes: "Pre-IPO funding ~$100M+; IPO raised ~$369M. Series B amount not publicly disclosed. Post-IPO private placement of $560M in 2025."
+- stage: Series A
+  date: 2017-08
+  amount_m: 100
+  lead_investors:
+  - Alibaba Group
+  - Lenovo
+  source: https://www.crunchbase.com/organization/cambricon-technologies
+- stage: Series B
+  date: 2018-06
+  lead_investors:
+  - China Merchants China Direct Investments
+  - SDIC Venture Capital
+  source: https://www.crunchbase.com/organization/cambricon-technologies
+- stage: IPO (STAR Market)
+  date: 2020-07
+  amount_m: 369
+  lead_investors:
+  - Public offering
+  source: https://en.wikipedia.org/wiki/Cambricon_Technologies
+data_notes: Pre-IPO funding ~$100M+; IPO raised ~$369M. Series B amount not publicly disclosed. Post-IPO private placement
+  of $560M in 2025.
+linkedin_verified: true
 ---
 
 # Cambricon Technologies

@@ -47,6 +47,7 @@ crunchbase: https://www.crunchbase.com/organization/xaira-therapeutics
 crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/xaira-therapeutics
 name: Xaira Therapeutics
+linkedin_verified: true
 ---
 
 # Xaira Therapeutics

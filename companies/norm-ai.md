@@ -49,6 +49,7 @@ crunchbase_verified: true
 twitter: '@normativeai'
 total_raised_m: 139.1
 name: Norm AI
+linkedin_verified: true
 ---
 
 # Norm AI -- Company Profile

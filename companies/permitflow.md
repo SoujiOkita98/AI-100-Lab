@@ -30,6 +30,7 @@ founders:
   role: CTO
   background: CS & Statistics, Harvard. Former software engineer at Uber Eats.
   origin: Chinese-American
+linkedin_verified: true
 ---
 
 # PermitFlow

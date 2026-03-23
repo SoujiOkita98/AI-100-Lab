@@ -57,6 +57,7 @@ website_verified: true
 crunchbase: https://www.crunchbase.com/organization/tennr
 crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/tennr/
+linkedin_verified: true
 ---
 
 # Tennr

@@ -34,6 +34,7 @@ crunchbase: https://www.crunchbase.com/organization/salt-ai
 crunchbase_verified: true
 total_raised_m: 10.0
 linkedin: https://www.linkedin.com/company/salt-ai/
+linkedin_verified: true
 ---
 
 # Salt AI

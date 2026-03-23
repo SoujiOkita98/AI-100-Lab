@@ -31,6 +31,7 @@ founders:
   background: ''
   origin: Polish
 linkedin: https://www.linkedin.com/company/mako/
+linkedin_verified: true
 ---
 
 # Mako

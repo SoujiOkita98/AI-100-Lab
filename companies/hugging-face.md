@@ -38,6 +38,7 @@ crunchbase_verified: true
 twitter: '@huggingface'
 total_raised_m: 400.0
 name: Hugging Face
+linkedin_verified: true
 ---
 
 # Hugging Face

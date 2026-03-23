@@ -53,6 +53,7 @@ funding_rounds:
   - Scale Venture Partners
   source: https://www.crunchbase.com/organization/coderabbit
 name: CodeRabbit
+linkedin_verified: true
 ---
 
 # CodeRabbit

@@ -70,6 +70,7 @@ funding_rounds:
 confidence: medium
 last_updated: 2026-03-23
 linkedin: https://www.linkedin.com/company/moonshot-ai/
+linkedin_verified: true
 ---
 
 # Moonshot AI — Company Profile

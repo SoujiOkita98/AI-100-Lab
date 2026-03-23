@@ -33,6 +33,7 @@ crunchbase: https://www.crunchbase.com/organization/wonder-studios
 crunchbase_verified: true
 total_raised_m: 12.0
 linkedin: https://www.linkedin.com/company/wonder-studios/
+linkedin_verified: true
 ---
 
 # Wonder Studios

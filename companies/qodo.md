@@ -52,6 +52,7 @@ funding_rounds:
   source: https://www.crunchbase.com/organization/qodo
 linkedin: https://www.linkedin.com/company/qodo/
 name: Qodo
+linkedin_verified: true
 ---
 
 # Qodo

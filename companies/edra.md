@@ -15,14 +15,15 @@ funding_rounds:
   - 8VC
   - A*
 founders:
-  - name: "Eugen Alpeza"
-    role: "Co-Founder & CEO"
-    background: "7 years at Palantir. Co-head of forward deployed AI engineering. Started Palantir's work with AT&T. Launched Palantir's AI Platform."
-    origin: "Croatian"
-  - name: "Yannis Karamanlakis"
-    role: "Co-Founder"
-    background: "First Forward Deployed AI Engineer at Palantir. Led team taking LLMs from demos to production."
-    origin: "Greek"
+- name: Eugen Alpeza
+  role: Co-Founder & CEO
+  background: 7 years at Palantir. Co-head of forward deployed AI engineering. Started Palantir's work with AT&T. Launched
+    Palantir's AI Platform.
+  origin: Croatian
+- name: Yannis Karamanlakis
+  role: Co-Founder
+  background: First Forward Deployed AI Engineer at Palantir. Led team taking LLMs from demos to production.
+  origin: Greek
 last_updated: 2026-03-21
 confidence: medium
 website_verified: true
@@ -30,6 +31,7 @@ crunchbase: https://www.crunchbase.com/organization/edra
 crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/edra-ai
 total_raised_m: 36.5
+linkedin_verified: true
 ---
 
 # Edra

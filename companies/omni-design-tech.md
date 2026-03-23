@@ -33,6 +33,7 @@ founders:
   background: ''
   origin: Korean
 linkedin: https://www.linkedin.com/company/omni-design-technologies/
+linkedin_verified: true
 ---
 
 # Omni Design Technologies

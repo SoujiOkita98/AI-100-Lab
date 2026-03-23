@@ -103,6 +103,7 @@ crunchbase: https://www.crunchbase.com/organization/pinecone
 crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/pinecone-io
 headquarters: New York, NY
+linkedin_verified: true
 ---
 
 # Pinecone

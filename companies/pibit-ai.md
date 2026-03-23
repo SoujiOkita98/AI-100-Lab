@@ -19,14 +19,15 @@ crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/pibitai
 total_raised_m: 7.0
 founders:
-  - name: "Akash Agarwal"
-    role: "Co-Founder & CEO"
-    background: "Engineer; inspired by father's work as insurance agent"
-    origin: "Indian"
-  - name: "Karan Bedi"
-    role: "Co-Founder"
-    background: ""
-    origin: "Indian"
+- name: Akash Agarwal
+  role: Co-Founder & CEO
+  background: Engineer; inspired by father's work as insurance agent
+  origin: Indian
+- name: Karan Bedi
+  role: Co-Founder
+  background: ''
+  origin: Indian
+linkedin_verified: true
 ---
 
 # Pibit.AI

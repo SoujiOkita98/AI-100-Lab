@@ -46,6 +46,7 @@ funding_rounds:
   - Heavybit
   source: https://www.crunchbase.com/organization/continue
 name: Continue
+linkedin_verified: true
 ---
 
 # Continue

@@ -42,6 +42,7 @@ crunchbase: https://www.crunchbase.com/organization/alphaxiv
 crunchbase_verified: true
 total_raised_m: 7.0
 linkedin: https://www.linkedin.com/company/alphaxiv/
+linkedin_verified: true
 ---
 
 # alphaXiv

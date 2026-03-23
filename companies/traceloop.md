@@ -28,6 +28,7 @@ confidence: medium
 twitter: '@traceloopdev'
 total_raised_m: 6.1
 linkedin: https://www.linkedin.com/company/traceloop/
+linkedin_verified: true
 ---
 
 # Traceloop

@@ -33,6 +33,7 @@ crunchbase: https://www.crunchbase.com/organization/dualentry
 crunchbase_verified: true
 twitter: '@dualentry'
 total_raised_m: 90.0
+linkedin_verified: true
 ---
 
 # DualEntry

@@ -27,6 +27,7 @@ linkedin: https://www.linkedin.com/company/finster-ai
 crunchbase: https://www.crunchbase.com/organization/finster-ai
 crunchbase_verified: true
 total_raised_m: 15.0
+linkedin_verified: true
 ---
 
 # Finster AI

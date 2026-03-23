@@ -34,6 +34,7 @@ crunchbase: https://www.crunchbase.com/organization/strongestlayer
 crunchbase_verified: true
 total_raised_m: 5.2
 linkedin: https://www.linkedin.com/company/strongestlayer/
+linkedin_verified: true
 ---
 
 # StrongestLayer

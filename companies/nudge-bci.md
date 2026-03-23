@@ -28,6 +28,7 @@ linkedin: https://www.linkedin.com/company/nudge42
 crunchbase: https://www.crunchbase.com/organization/nudge-bci
 crunchbase_verified: true
 total_raised_m: 100.0
+linkedin_verified: true
 ---
 
 # Nudge (BCI)

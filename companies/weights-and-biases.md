@@ -109,6 +109,7 @@ funding_rounds:
   notes: Evercore and Morgan Stanley advised CoreWeave. Qatalyst Partners advised W&B. Davis Polk & Wardwell (CoreWeave legal);
     Orrick, Herrington & Sutcliffe (W&B legal).
 linkedin: https://www.linkedin.com/company/wandb/
+linkedin_verified: true
 ---
 
 # Weights & Biases (W&B)

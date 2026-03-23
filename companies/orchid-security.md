@@ -23,18 +23,19 @@ crunchbase: https://www.crunchbase.com/organization/orchid-security
 crunchbase_verified: true
 total_raised_m: 36.0
 founders:
-  - name: "Roy Katmor"
-    role: "Co-Founder & CEO"
-    background: "Founded enSilo (acquired by Fortinet); former GM and VP of Endpoint Security at Fortinet"
-    origin: "Israeli"
-  - name: "Robert Wiseman"
-    role: "Co-Founder"
-    background: "Led identity-focused initiatives at Team8 and Claroty"
-    origin: "Israeli"
-  - name: "Ido Kelson"
-    role: "Co-Founder"
-    background: "Co-founded enSilo"
-    origin: "Israeli"
+- name: Roy Katmor
+  role: Co-Founder & CEO
+  background: Founded enSilo (acquired by Fortinet); former GM and VP of Endpoint Security at Fortinet
+  origin: Israeli
+- name: Robert Wiseman
+  role: Co-Founder
+  background: Led identity-focused initiatives at Team8 and Claroty
+  origin: Israeli
+- name: Ido Kelson
+  role: Co-Founder
+  background: Co-founded enSilo
+  origin: Israeli
+linkedin_verified: true
 ---
 
 # Orchid Security

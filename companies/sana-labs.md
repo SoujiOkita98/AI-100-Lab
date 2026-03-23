@@ -19,11 +19,13 @@ crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/sana-labs
 twitter: '@sanalabs'
 founders:
-  - name: "Joel Hellermark"
-    role: "CEO & Founder"
-    background: "Self-taught engineer from Sweden. Started first AI company as teenager. Appointed AI-specialist by Swedish government. Obama Foundation Leader."
-    origin: "Swedish"
+- name: Joel Hellermark
+  role: CEO & Founder
+  background: Self-taught engineer from Sweden. Started first AI company as teenager. Appointed AI-specialist by Swedish government.
+    Obama Foundation Leader.
+  origin: Swedish
 total_raised_m: 130.0
+linkedin_verified: true
 ---
 
 # Sana Labs

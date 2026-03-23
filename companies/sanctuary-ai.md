@@ -94,6 +94,7 @@ crunchbase: https://www.crunchbase.com/organization/sanctuary-ai
 crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/sanctuaryai
 name: Sanctuary AI
+linkedin_verified: true
 ---
 
 # Sanctuary AI

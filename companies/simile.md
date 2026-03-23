@@ -131,6 +131,7 @@ crunchbase: https://www.crunchbase.com/organization/simile
 crunchbase_verified: true
 headquarters: Stanford, CA (uncertain — strong Stanford ties; exact HQ not confirmed)
 linkedin: https://www.linkedin.com/company/simile/
+linkedin_verified: true
 ---
 
 # Simile

@@ -23,6 +23,7 @@ founders:
   background: Background at ADP Dealer Services, CDK Global, DealerSocket
   origin: American
 linkedin: https://www.linkedin.com/company/promptpathai/
+linkedin_verified: true
 ---
 
 # PromptPath.AI

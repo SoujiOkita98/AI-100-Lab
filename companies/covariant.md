@@ -110,6 +110,7 @@ linkedin: https://www.linkedin.com/company/covariant-ai
 crunchbase: https://www.crunchbase.com/organization/covariant
 crunchbase_verified: true
 headquarters: Emeryville, CA
+linkedin_verified: true
 ---
 
 ## Overview

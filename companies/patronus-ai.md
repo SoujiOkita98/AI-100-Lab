@@ -55,6 +55,7 @@ confidence: medium-high
 crunchbase: https://www.crunchbase.com/organization/patronus-ai
 crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/patronus-ai/
+linkedin_verified: true
 ---
 
 # Patronus AI

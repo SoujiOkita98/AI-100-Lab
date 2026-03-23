@@ -28,6 +28,7 @@ crunchbase: https://www.crunchbase.com/organization/kilo-code
 crunchbase_verified: true
 twitter: '@kilocode'
 total_raised_m: 8.0
+linkedin_verified: true
 ---
 
 # Kilo Code

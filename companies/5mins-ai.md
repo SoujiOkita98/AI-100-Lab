@@ -26,6 +26,7 @@ crunchbase: https://www.crunchbase.com/organization/5mins-ai
 crunchbase_verified: true
 total_raised_m: 5.7
 linkedin: https://www.linkedin.com/company/5mins-ai/
+linkedin_verified: true
 ---
 
 # 5Mins AI

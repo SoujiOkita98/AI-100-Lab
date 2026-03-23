@@ -36,6 +36,7 @@ crunchbase: https://www.crunchbase.com/organization/vultr
 crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/vultr
 total_raised_m: 662.0
+linkedin_verified: true
 ---
 
 # Vultr

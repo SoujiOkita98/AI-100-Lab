@@ -38,6 +38,7 @@ funding_rounds:
   source: https://www.manilatimes.net/2026/02/05/tmt-newswire/pr-newswire/shengshu-technology-completes-series-a-funding-of-over-rmb-600-million/2272178
 data_notes: Total funding across 6+ rounds likely exceeds $86M. Series A+ (RMB 600M+, ~$86M) confirmed Feb 2026.
 linkedin: https://www.linkedin.com/company/shenshu-technology/
+linkedin_verified: true
 ---
 
 # Shenshu Technology

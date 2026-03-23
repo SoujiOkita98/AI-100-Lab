@@ -52,6 +52,7 @@ funding_rounds:
   source: https://www.crunchbase.com/organization/greptile
 linkedin: https://www.linkedin.com/company/greptile/
 name: Greptile
+linkedin_verified: true
 ---
 
 # Greptile

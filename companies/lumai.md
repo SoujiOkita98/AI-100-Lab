@@ -31,6 +31,7 @@ headquarters: Palo Alto, CA
 crunchbase: https://www.crunchbase.com/organization/lumai
 crunchbase_verified: true
 total_raised_m: 33.0
+linkedin_verified: true
 ---
 
 # Lumai

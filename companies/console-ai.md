@@ -31,6 +31,7 @@ linkedin: https://www.linkedin.com/company/console-co
 crunchbase: https://www.crunchbase.com/organization/console-ai
 crunchbase_verified: true
 total_raised_m: 29.2
+linkedin_verified: true
 ---
 
 # Console

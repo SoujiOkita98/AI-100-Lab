@@ -31,6 +31,7 @@ crunchbase: https://www.crunchbase.com/organization/arago-photonics
 crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/aragoinc
 total_raised_m: 26.0
+linkedin_verified: true
 ---
 
 # Arago Photonics

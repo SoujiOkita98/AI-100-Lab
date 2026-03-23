@@ -28,6 +28,7 @@ founders:
   background: 3x founder; PhD in computational physics
   origin: Iranian
 linkedin: https://www.linkedin.com/company/radicait/
+linkedin_verified: true
 ---
 
 # RADiCAIT

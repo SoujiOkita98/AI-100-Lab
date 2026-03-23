@@ -32,6 +32,7 @@ crunchbase: https://www.crunchbase.com/organization/solidroad
 crunchbase_verified: true
 total_raised_m: 8.2
 linkedin: https://www.linkedin.com/company/solidroad/
+linkedin_verified: true
 ---
 
 # Solidroad

@@ -41,6 +41,7 @@ confidence: medium
 twitter: '@FlexionRobotics'
 total_raised_m: 57.0
 linkedin: https://www.linkedin.com/company/flexion/
+linkedin_verified: true
 ---
 
 # Flexion

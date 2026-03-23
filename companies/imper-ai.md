@@ -34,6 +34,7 @@ crunchbase: https://www.crunchbase.com/organization/imper-ai
 crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/imper-ai
 total_raised_m: 28.0
+linkedin_verified: true
 ---
 
 # Imper.ai

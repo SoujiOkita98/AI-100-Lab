@@ -14,18 +14,18 @@ funding_rounds:
 last_updated: 2026-03-21
 confidence: medium
 founders:
-  - name: "Chris Sidlauskas"
-    role: "CEO & Co-Founder"
-    background: "Started marketing agency at age 16 in Vilnius. Serial entrepreneur."
-    origin: "Lithuanian"
-  - name: "Rokas Judickas"
-    role: "Co-Founder"
-    background: "Started marketing agency with Sidlauskas at age 15. Leads product design."
-    origin: "Lithuanian"
-  - name: "Vasaris Kaveckas"
-    role: "Founding Engineer"
-    background: "Self-taught engineer who began coding games at 15."
-    origin: "Lithuanian"
+- name: Chris Sidlauskas
+  role: CEO & Co-Founder
+  background: Started marketing agency at age 16 in Vilnius. Serial entrepreneur.
+  origin: Lithuanian
+- name: Rokas Judickas
+  role: Co-Founder
+  background: Started marketing agency with Sidlauskas at age 15. Leads product design.
+  origin: Lithuanian
+- name: Vasaris Kaveckas
+  role: Founding Engineer
+  background: Self-taught engineer who began coding games at 15.
+  origin: Lithuanian
 data_notes: 'Needs verification: website, source_urls. Profile may be incomplete.'
 website: https://sintra.ai
 website_verified: true
@@ -33,6 +33,7 @@ linkedin: https://www.linkedin.com/company/sintradotai
 crunchbase: https://www.crunchbase.com/organization/sintra
 crunchbase_verified: true
 total_raised_m: 17.0
+linkedin_verified: true
 ---
 
 # Sintra

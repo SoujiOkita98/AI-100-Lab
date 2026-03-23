@@ -49,6 +49,7 @@ funding_rounds:
   source: https://www.crunchbase.com/organization/lightmatter
 data_notes: Total ~$850M across 9 rounds. Early round amounts not individually disclosed.
 name: Lightmatter
+linkedin_verified: true
 ---
 
 # Lightmatter

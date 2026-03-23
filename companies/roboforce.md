@@ -27,6 +27,7 @@ founders:
   background: ''
   origin: Chinese-American
 linkedin: https://www.linkedin.com/company/roboforce/
+linkedin_verified: true
 ---
 
 # RoboForce

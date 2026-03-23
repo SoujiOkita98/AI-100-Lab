@@ -41,6 +41,7 @@ crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/poolsideai
 total_raised_m: 626.0
 name: Poolside
+linkedin_verified: true
 ---
 
 # Poolside

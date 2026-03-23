@@ -52,6 +52,7 @@ funding_rounds:
   source: https://www.crunchbase.com/organization/positron-ai
 linkedin: https://www.linkedin.com/company/positronai/
 name: Positron AI
+linkedin_verified: true
 ---
 
 # Positron AI

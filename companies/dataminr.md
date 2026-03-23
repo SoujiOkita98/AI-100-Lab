@@ -58,6 +58,7 @@ funding_rounds:
   source: https://www.crunchbase.com/organization/dataminr
 data_notes: Total ~$1.24B across 13+ rounds. Early round amounts (Series A-E) undisclosed.
 name: Dataminr
+linkedin_verified: true
 ---
 
 # Dataminr

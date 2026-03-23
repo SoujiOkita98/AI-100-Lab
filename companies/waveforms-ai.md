@@ -25,6 +25,7 @@ crunchbase: https://www.crunchbase.com/organization/waveforms-ai
 crunchbase_verified: true
 total_raised_m: 40.0
 linkedin: https://www.linkedin.com/company/waveforms-ai/
+linkedin_verified: true
 ---
 
 # WaveForms AI

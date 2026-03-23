@@ -59,6 +59,7 @@ linkedin: https://www.linkedin.com/company/arizeai
 crunchbase: https://www.crunchbase.com/organization/arize-ai
 crunchbase_verified: true
 name: Arize AI
+linkedin_verified: true
 ---
 
 # Arize AI -- AI/ML Observability & Evaluation Platform

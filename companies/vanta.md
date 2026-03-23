@@ -62,6 +62,7 @@ funding_rounds:
 confidence: high
 last_updated: 2026-03-23
 linkedin: https://www.linkedin.com/company/vanta-trust/
+linkedin_verified: true
 ---
 
 # Vanta

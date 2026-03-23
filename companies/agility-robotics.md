@@ -6,7 +6,7 @@ domain: Humanoid Robotics / Warehouse Automation / Logistics
 founded: 2015
 headquarters: Salem, Oregon, USA
 website: https://www.agilityrobotics.com
-one_liner: "Humanoid robotics company building Digit, a multi-purpose bipedal robot designed for warehouse logistics and automation"
+one_liner: Humanoid robotics company building Digit, a multi-purpose bipedal robot designed for warehouse logistics and automation
 status: Private
 employees_approx: ~332 (as of February 2026)
 total_funding_approx: ~$641M–$683M
@@ -137,6 +137,7 @@ crunchbase: https://www.crunchbase.com/organization/agility-robotics
 crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/agilityrobotics
 twitter: '@agilityrobotics'
+linkedin_verified: true
 ---
 
 # Agility Robotics

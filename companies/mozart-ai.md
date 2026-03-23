@@ -21,22 +21,24 @@ crunchbase: https://www.crunchbase.com/organization/mozart-ai
 crunchbase_verified: true
 total_raised_m: 7.0
 founders:
-  - name: "Sundar Arvind"
-    role: "Co-Founder & CEO"
-    background: "Former tennis prodigy turned music producer; signed to Spinnin' Records (Warner Bros.) by age 14; 2M+ streams on Spotify"
-    origin: "Indian"
-  - name: "Pascual Merita Torres"
-    role: "Co-Founder & CTO"
-    background: "AI master's degree from University of Edinburgh; 10+ years music production experience"
-    origin: "Spanish"
-  - name: "Arjun Khanna"
-    role: "Co-Founder & COO"
-    background: "Former professional debater; represented India at UN debates"
-    origin: "Indian"
-  - name: "Immanuel Rajadurai"
-    role: "Co-Founder"
-    background: "AI researcher and professional bassist"
-    origin: "Indian"
+- name: Sundar Arvind
+  role: Co-Founder & CEO
+  background: Former tennis prodigy turned music producer; signed to Spinnin' Records (Warner Bros.) by age 14; 2M+ streams
+    on Spotify
+  origin: Indian
+- name: Pascual Merita Torres
+  role: Co-Founder & CTO
+  background: AI master's degree from University of Edinburgh; 10+ years music production experience
+  origin: Spanish
+- name: Arjun Khanna
+  role: Co-Founder & COO
+  background: Former professional debater; represented India at UN debates
+  origin: Indian
+- name: Immanuel Rajadurai
+  role: Co-Founder
+  background: AI researcher and professional bassist
+  origin: Indian
+linkedin_verified: true
 ---
 
 # Mozart AI

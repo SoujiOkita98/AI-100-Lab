@@ -29,6 +29,7 @@ crunchbase: https://www.crunchbase.com/organization/lumia-security
 crunchbase_verified: true
 total_raised_m: 18.0
 linkedin: https://www.linkedin.com/company/lumia-security/
+linkedin_verified: true
 ---
 
 # Lumia Security

@@ -45,6 +45,7 @@ linkedin: https://www.linkedin.com/company/heyjasperai
 crunchbase: https://www.crunchbase.com/organization/jasper
 crunchbase_verified: true
 name: Jasper
+linkedin_verified: true
 ---
 
 # Jasper -- AI Marketing Platform

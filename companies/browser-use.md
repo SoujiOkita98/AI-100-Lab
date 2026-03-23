@@ -51,6 +51,7 @@ funding_rounds:
   - Felicis Ventures
   source: https://www.crunchbase.com/organization/browser-use
 name: Browser Use
+linkedin_verified: true
 ---
 
 # Browser Use

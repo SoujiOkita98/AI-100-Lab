@@ -30,6 +30,7 @@ founders:
   background: PhD; former Senior Applied Scientist at AWS (6 years)
   origin: Iranian-American
 linkedin: https://www.linkedin.com/company/ninjatech-ai/
+linkedin_verified: true
 ---
 
 # NinjaTech AI

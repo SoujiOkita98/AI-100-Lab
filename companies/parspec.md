@@ -33,6 +33,7 @@ founders:
   background: Post-doctorate at Stanford University
   origin: Indian
 linkedin: https://www.linkedin.com/company/parspec/
+linkedin_verified: true
 ---
 
 # Parspec

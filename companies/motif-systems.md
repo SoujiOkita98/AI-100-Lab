@@ -31,6 +31,7 @@ founders:
   background: Former VP of Platform Engineering at Autodesk; founder and CTO of Bright Machines
   origin: American
 linkedin: https://www.linkedin.com/company/motif-systems/
+linkedin_verified: true
 ---
 
 # Motif Systems

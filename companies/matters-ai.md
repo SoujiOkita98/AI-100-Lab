@@ -22,14 +22,15 @@ crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/mattersai
 total_raised_m: 6.25
 founders:
-  - name: "Keshava Murthy"
-    role: "Co-Founder & CEO"
-    background: ""
-    origin: "Indian"
-  - name: "Harsh Sahu"
-    role: "Co-Founder & CTO"
-    background: ""
-    origin: "Indian"
+- name: Keshava Murthy
+  role: Co-Founder & CEO
+  background: ''
+  origin: Indian
+- name: Harsh Sahu
+  role: Co-Founder & CTO
+  background: ''
+  origin: Indian
+linkedin_verified: true
 ---
 
 # Matters.AI

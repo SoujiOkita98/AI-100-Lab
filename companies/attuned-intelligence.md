@@ -25,6 +25,7 @@ crunchbase: https://www.crunchbase.com/organization/attuned-intelligence
 crunchbase_verified: true
 total_raised_m: 13.0
 linkedin: https://www.linkedin.com/company/attuned-intelligence/
+linkedin_verified: true
 ---
 
 # Attuned Intelligence

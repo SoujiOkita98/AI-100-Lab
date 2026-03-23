@@ -16,15 +16,16 @@ crunchbase: https://www.crunchbase.com/organization/superscale-ai
 crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/superscale-ai
 founders:
-  - name: "Patrick Haede"
-    role: "CEO & Co-Founder"
-    background: "Co-founded Superscale AI in Berlin."
-    origin: "German"
-  - name: "Magnus Langanke"
-    role: "Co-Founder"
-    background: "Co-founded Superscale AI."
-    origin: "German"
+- name: Patrick Haede
+  role: CEO & Co-Founder
+  background: Co-founded Superscale AI in Berlin.
+  origin: German
+- name: Magnus Langanke
+  role: Co-Founder
+  background: Co-founded Superscale AI.
+  origin: German
 total_raised_m: 5.0
+linkedin_verified: true
 ---
 
 # Superscale AI

@@ -186,6 +186,7 @@ twitter: '@openai'
 crunchbase: https://www.crunchbase.com/organization/openai
 crunchbase_verified: true
 headquarters: San Francisco, CA
+linkedin_verified: true
 ---
 
 # OpenAI

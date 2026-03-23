@@ -22,6 +22,7 @@ crunchbase: https://www.crunchbase.com/organization/callosum
 crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/go-callosum
 total_raised_m: 10.25
+linkedin_verified: true
 ---
 
 # Callosum
