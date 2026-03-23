@@ -14,6 +14,15 @@ funding_rounds:
   - LocalGlobe
   - Adobe Ventures
   source: https://sifted.eu/articles/wonder-ai-movie-studio-atomico-localglobe
+founders:
+  - name: "Xavier Collins"
+    role: "Co-Founder & CEO"
+    background: "Formerly of Deliveroo and Turo; seasoned operator skilled in building and scaling global platforms"
+    origin: "British"
+  - name: "Justin Hackney"
+    role: "Co-Founder & Chief Creative Officer"
+    background: "Award-winning filmmaker; recognized as one of the leading voices at the intersection of AI and film. Leads Wonder's community of 200+ AI-native filmmakers"
+    origin: "British"
 last_updated: 2026-03-21
 confidence: medium
 data_notes: 'Needs verification: website, founders, source_urls. Profile may be incomplete.'

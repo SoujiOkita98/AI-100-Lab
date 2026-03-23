@@ -1,6 +1,7 @@
 ---
 name: Sunday (Household Robot)
 founded: 2024
+website: https://www.sunday.ai
 headquarters: Mountain View, CA
 sector: AI Robotics / Household
 one_liner: Household robot startup building Memo — a home robot. Beta launch planned 2026.

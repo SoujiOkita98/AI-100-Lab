@@ -1,7 +1,8 @@
 ---
 name: TARS (Tashi Zhihang)
 founded: 2025
-headquarters: China
+website: https://www.tarsrobot.com
+headquarters: Shanghai, China
 sector: Embodied AI / Robotics
 one_liner: Embodied AI for smart manufacturing and intelligent logistics.
 status: active

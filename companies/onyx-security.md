@@ -2,7 +2,7 @@
 name: Onyx Security
 status: active
 founded: 2024
-website: null
+website: https://onyx.security
 headquarters: Tel Aviv, Israel
 sector:
 - cybersecurity

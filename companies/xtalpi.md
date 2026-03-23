@@ -5,6 +5,7 @@ founded: 2014
 headquarters: Cambridge, MA (US operations) / Shenzhen, China (global HQ)
 website: https://en.xtalpi.com
 sector: ["AI drug discovery", "quantum physics", "computational chemistry"]
+one_liner: "AI-powered drug discovery platform combining quantum mechanics and machine learning to predict molecular properties."
 status: "Public (HKEX, listed December 2025)"
 total_raised_m: 700
 ipo_details: Listed on HKEX Dec 30, 2025; raised HKD 2.277B; largest biotech IPO in Hong Kong in 2025

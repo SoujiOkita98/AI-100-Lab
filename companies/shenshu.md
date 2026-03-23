@@ -1,6 +1,7 @@
 ---
 name: "Shenshu Technology"
 founded: 2023
+website: https://www.shengshu.com
 headquarters: "Beijing, China"
 sector: "AI Video Generation"
 one_liner: "AI video generation platform with 10x user and revenue growth in 2025. 6 financing rounds in under 3 years. Tsinghua spinout."

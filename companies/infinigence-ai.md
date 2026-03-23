@@ -2,7 +2,7 @@
 name: Infinigence AI
 status: active
 founded: 2023
-website: null
+website: https://cloud.infini-ai.com
 headquarters: Shanghai, China
 sector:
 - AI infrastructure

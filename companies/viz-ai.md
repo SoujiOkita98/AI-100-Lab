@@ -1,5 +1,6 @@
 ---
 company: Viz.ai
+one_liner: AI-powered care coordination platform with 50+ FDA-cleared algorithms that accelerate diagnosis and treatment across 1,700+ hospitals.
 sector: Healthcare AI / Clinical Decision Support
 founded: 2016
 headquarters: San Francisco, CA
@@ -10,6 +11,15 @@ total_funding: ~$252M-$289M (sources vary)
 stage: Series D
 status: Private (unicorn)
 website: https://www.viz.ai
+founders:
+  - name: "Chris Mansi"
+    role: "Co-Founder & CEO"
+    background: "Neurosurgeon (MD, MBA); co-founded Viz.ai in 2016 while at Stanford MBA program. Seed-funded by Eric Schmidt. Named TIME 100 Most Influential in AI 2024"
+    origin: "British-American"
+  - name: "David Golan"
+    role: "Co-Founder"
+    background: "Machine learning post-doc; co-founded Viz.ai with Chris Mansi"
+    origin: "Israeli"
 last_updated: 2026-03-20
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/viz-ai

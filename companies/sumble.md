@@ -1,7 +1,9 @@
 ---
 name: Sumble
 slug: sumble
+website: https://sumble.com
 domain: sumble.com
+one_liner: AI-powered sales intelligence platform using a knowledge graph to surface contextual account data for go-to-market teams.
 founded: 2022
 headquarters: San Francisco, CA
 sector: AI / Sales Intelligence / GTM Data

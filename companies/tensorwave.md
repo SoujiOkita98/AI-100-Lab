@@ -11,6 +11,19 @@ funding_rounds:
   amount_m: 100
   lead_investors:
   - Valor Equity Partners
+founders:
+  - name: "Darrick Horton"
+    role: "CEO"
+    background: "Forbes 30 Under 30 (AI); former Lockheed Martin Skunk Works (nuclear fusion); NASA-funded plasma physics research; LIGO astrophysics"
+    origin: "American"
+  - name: "Jeff Tatarchuk"
+    role: "Co-Founder"
+    background: "Co-founded TensorWave in 2023"
+    origin: "American"
+  - name: "Piotr Tomasik"
+    role: "Co-Founder"
+    background: "Co-founded TensorWave in 2023"
+    origin: "Polish"
 last_updated: 2026-03-21
 confidence: medium
 data_notes: 'Needs verification: website, founders, source_urls. Profile may be incomplete.'

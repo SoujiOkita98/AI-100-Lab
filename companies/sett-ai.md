@@ -1,6 +1,7 @@
 ---
 name: Sett
 founded: 2024
+headquarters: Tel Aviv, Israel
 sector: AI for Gaming / Ad Creative
 one_liner: Agentic AI for mobile game studios — generates data-driven video ads and in-game content at scale.
 status: active

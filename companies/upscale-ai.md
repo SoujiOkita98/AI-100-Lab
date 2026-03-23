@@ -1,6 +1,7 @@
 ---
 name: Upscale AI
 founded: 2025
+headquarters: Santa Clara, CA
 sector: AI Networking Infrastructure
 one_liner: Open-standard AI networking silicon and systems for ultra-low-latency AI workloads.
 status: active

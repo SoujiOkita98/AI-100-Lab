@@ -1,6 +1,7 @@
 ---
 name: Spara
 founded: 2024
+headquarters: New York, NY
 sector: AI Sales / Voice Agents
 one_liner: AI voice/chat/email agents for inbound sales — qualifies leads and books meetings in real-time.
 status: active

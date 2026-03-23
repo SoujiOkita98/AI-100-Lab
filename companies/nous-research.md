@@ -4,6 +4,7 @@ legal_name: Nous Research Inc.
 slug: nous-research
 website: https://nousresearch.com
 domain: nousresearch.com
+headquarters: New York, NY
 hq_city: New York
 hq_country: United States
 additional_offices: []

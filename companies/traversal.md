@@ -1,6 +1,7 @@
 ---
 name: Traversal
 founded: 2024
+headquarters: New York, NY
 sector: AI Agents / SRE
 one_liner: AI SRE agent — autonomous incident detection, root cause analysis, and remediation.
 status: active

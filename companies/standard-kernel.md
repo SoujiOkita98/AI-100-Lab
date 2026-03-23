@@ -1,6 +1,7 @@
 ---
 name: Standard Kernel
 founded: 2025
+headquarters: Mountain View, CA
 sector: AI Infrastructure / GPU Optimization
 one_liner: AI that auto-generates ultra-optimized GPU kernels — improves AI workload performance without changing models.
 status: active

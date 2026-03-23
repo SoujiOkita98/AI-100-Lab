@@ -1,6 +1,7 @@
 ---
 name: Traceloop
 founded: 2023
+headquarters: Tel Aviv, Israel
 website: https://traceloop.com
 sector: AI Observability / LLM Evaluation
 one_liner: LLM agent observability — detects hallucinations, tracks behavior, enables prompt versioning. IBM, Cisco as clients.

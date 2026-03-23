@@ -5,6 +5,7 @@ founded: 2015
 headquarters: Boston, MA (US HQ); Tel Aviv, Israel (R&D HQ)
 sector: AI-Powered Developer Tools
 sub_sector: Developer Security / DevSecOps
+one_liner: Developer-first security platform that finds and fixes vulnerabilities in code, open-source dependencies, containers, and cloud infrastructure.
 website: https://snyk.io
 status: Private (Series F); potential IPO in 2026
 valuation: ~$8.5B (post-money, September 2021)

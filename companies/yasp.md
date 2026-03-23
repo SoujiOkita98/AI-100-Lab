@@ -12,6 +12,15 @@ funding_rounds:
   lead_investors:
   - Capnamic
   source: https://www.eu-startups.com/2025/09/german-deeptech-startup-yasp/
+founders:
+  - name: "Stefan Krassin"
+    role: "Co-Founder & CEO"
+    background: "Co-founded yasp in 2025 in Munich; leads business strategy for the German-Canadian AI compiler startup"
+    origin: "German"
+  - name: "Reza Rahimi"
+    role: "Co-Founder & CTO"
+    background: "Previously at Torc (autonomous trucking). Expertise in C++, CUDA, TensorRT, and accelerated embedded architectures. Studied at Dalhousie University, Halifax"
+    origin: "Iranian-Canadian"
 last_updated: 2026-03-21
 confidence: medium
 data_notes: 'Needs verification: website, founders, source_urls. Profile may be incomplete.'

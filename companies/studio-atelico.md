@@ -1,5 +1,6 @@
 ---
 name: Studio Atelico
+headquarters: San Francisco, CA
 sector: AI Gaming / Game Engine
 one_liner: AI-first game studio with on-device engine for lifelike NPCs and emergent behaviors.
 status: active

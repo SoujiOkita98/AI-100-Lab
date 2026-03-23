@@ -1,6 +1,7 @@
 ---
 name: Sesame
 founded: 2024
+headquarters: San Francisco, CA
 sector: AI Voice / Smart Glasses
 one_liner: Voice-first AI smart glasses.
 status: active

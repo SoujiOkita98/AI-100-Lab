@@ -1,7 +1,7 @@
 ---
 name: Turing
 legal_name: Turing Enterprises Inc.
-url: https://www.turing.com
+website: https://www.turing.com
 founded: 2018
 headquarters: Palo Alto, California, USA
 founders:

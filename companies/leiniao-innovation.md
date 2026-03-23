@@ -2,7 +2,7 @@
 name: Leiniao Innovation
 status: active
 founded: 2021
-website: null
+website: https://www.leiniao.com
 headquarters: Shenzhen, China
 sector:
 - AI hardware

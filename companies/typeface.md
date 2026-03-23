@@ -1,5 +1,6 @@
 ---
 company: Typeface
+website: https://www.typeface.ai
 domain: typeface.ai
 sector: Enterprise AI / Generative AI for Marketing & Content
 founded: 'May '

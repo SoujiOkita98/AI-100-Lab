@@ -1,6 +1,7 @@
 ---
 name: Tandem Health
 founded: 2022
+website: https://www.tandemhealth.ai
 headquarters: Stockholm, Sweden
 sector: AI Healthcare / Medical Copilot
 one_liner: AI medical copilot for clinicians.
@@ -9,6 +10,19 @@ funding_rounds:
 - stage: Series A
   date: '2025'
   amount_m: 50
+founders:
+  - name: "Lukas Saari"
+    role: "CEO"
+    background: "Former McKinsey (led Nordic practice for digitization & AI in healthcare); former Spotify (machine learning)"
+    origin: "Finnish-Swedish"
+  - name: "Oliver Astrand"
+    role: "CTO"
+    background: "AI researcher at GoogleX & Uber; developed AI products at startups Depict & Mavenoid"
+    origin: "Swedish"
+  - name: "Oscar Boldt-Christmas"
+    role: "CCO"
+    background: "Former McKinsey Senior Partner; led European healthcare practice with 20 years of healthcare experience"
+    origin: "Swedish"
 last_updated: 2026-03-21
 confidence: medium
 crunchbase: https://www.crunchbase.com/organization/tandem-health

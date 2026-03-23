@@ -1,6 +1,7 @@
 ---
 name: Terray Therapeutics
 founded: 2021
+headquarters: Pasadena, CA
 sector: AI Drug Discovery
 one_liner: High-throughput chemistry + AI for small molecule drug discovery.
 status: active

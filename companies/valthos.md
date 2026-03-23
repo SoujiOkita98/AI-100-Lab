@@ -1,6 +1,7 @@
 ---
 name: Valthos
 founded: 2025
+headquarters: New York, NY
 sector: AI Biodefense
 one_liner: AI biodefense platform analyzing biological sequences and designing countermeasures against bio threats in real-time.
 status: active

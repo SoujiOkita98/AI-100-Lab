@@ -1,6 +1,7 @@
 ---
 name: WaveForms AI
 founded: 2024
+website: https://www.waveforms.ai
 sector: AI Voice / Emotional Intelligence
 one_liner: Emotionally intelligent AI voice models. Acquired by Meta Aug 2025. Founded by ex-OpenAI GPT-4 Voice researcher.
 status: active

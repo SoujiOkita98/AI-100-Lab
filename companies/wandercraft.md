@@ -13,6 +13,19 @@ funding_rounds:
   lead_investors:
   - Renault Group
   - Bpifrance
+founders:
+  - name: "Matthieu Masselin"
+    role: "Co-Founder & CEO"
+    background: "Engineer who co-founded Wandercraft in 2012 to build autonomous walking exoskeletons"
+    origin: "French"
+  - name: "Nicolas Simon"
+    role: "Co-Founder"
+    background: "Engineer; co-founded Wandercraft in 2012"
+    origin: "French"
+  - name: "Alexandre Boulanger"
+    role: "Co-Founder"
+    background: "Engineer; co-founded Wandercraft in 2012"
+    origin: "French"
 last_updated: 2026-03-21
 confidence: medium
 total_raised_m: 75.0

@@ -1,7 +1,9 @@
 ---
 company: Uniphore
 legal_name: Uniphore Software Systems Inc.
+website: https://www.uniphore.com
 domain: uniphore.com
+one_liner: Enterprise conversational AI and business automation platform for contact centers, sales, and back-office workflows.
 sector: Enterprise AI / Conversational AI & Business Automation
 founded: 2008
 headquarters: Palo Alto, California (originally incubated at IIT Madras, India)

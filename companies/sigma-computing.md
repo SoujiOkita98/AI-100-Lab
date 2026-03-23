@@ -5,6 +5,7 @@ founded: 2014
 headquarters: San Francisco, California, USA
 website: https://www.sigmacomputing.com
 sector: AI-Native Business Intelligence & Analytics
+one_liner: Cloud-based analytics platform enabling business teams to explore and visualize live data in a spreadsheet-like interface without SQL.
 stage: Late-stage / Growth
 latest_valuation_usd: 1500000000
 latest_valuation_date: 2024-05

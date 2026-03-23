@@ -13,6 +13,23 @@ funding_rounds:
   lead_investors:
   - Kleiner Perkins
   - Nvidia NVentures
+founders:
+  - name: "Soham Mazumdar"
+    role: "Co-Founder & CEO"
+    background: "Co-Founder and Chief Architect at Rubrik (scaled over 9 years); left Rubrik in 2023 to start WisdomAI"
+    origin: "Indian-American"
+  - name: "Kapil Chhabra"
+    role: "Co-Founder & CPO"
+    background: "Senior colleague from Rubrik; leads product at WisdomAI"
+    origin: "Indian-American"
+  - name: "Sharvanath Pathak"
+    role: "Co-Founder & CTO"
+    background: "Senior colleague from Rubrik; leads technology at WisdomAI"
+    origin: "Indian-American"
+  - name: "Guilherme Menezes"
+    role: "Co-Founder & Head of R&D"
+    background: "Senior colleague from Rubrik; leads R&D at WisdomAI"
+    origin: "Brazilian"
 last_updated: 2026-03-21
 confidence: medium
 crunchbase: https://www.crunchbase.com/organization/wisdomai

@@ -2,7 +2,7 @@
 name: Surf AI
 status: active
 founded: 2024
-website: null
+website: https://www.surf.ai
 headquarters: Tel Aviv, Israel
 sector:
 - cybersecurity

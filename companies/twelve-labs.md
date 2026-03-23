@@ -1,6 +1,7 @@
 ---
 company: Twelve Labs
 legal_name: Twelve Labs, Inc.
+website: https://www.twelvelabs.io
 domain: twelvelabs.io
 sector: Multimodal AI / Video Understanding
 founded: 2021

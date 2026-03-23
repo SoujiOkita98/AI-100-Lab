@@ -1,6 +1,8 @@
 ---
 name: Serval
 founded: 2024
+website: https://www.serval.com
+headquarters: San Francisco, CA
 sector: AI IT Service Management
 one_liner: AI agents for enterprise ITSM — automates helpdesk tickets, incident routing, and service workflows.
 status: active

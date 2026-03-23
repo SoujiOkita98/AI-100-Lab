@@ -1,5 +1,6 @@
 ---
 company: Synthesia
+website: https://www.synthesia.io
 domain: AI Video Generation (Avatar-based)
 founded: 2017
 headquarters: London, UK (20 Triton Street)
