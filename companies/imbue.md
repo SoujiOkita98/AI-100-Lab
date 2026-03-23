@@ -52,6 +52,7 @@ linkedin: https://www.linkedin.com/company/imbue-ai
 crunchbase: https://www.crunchbase.com/organization/imbue
 crunchbase_verified: true
 twitter: '@imbue_ai'
+name: Imbue
 ---
 
 # Imbue

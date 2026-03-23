@@ -84,6 +84,7 @@ twitter: '@synthesiaIO'
 linkedin: https://www.linkedin.com/company/synthesia-technologies
 crunchbase: https://www.crunchbase.com/organization/synthesia
 crunchbase_verified: true
+name: Synthesia
 ---
 
 # Synthesia

@@ -63,6 +63,7 @@ funding_rounds:
   - Scale Venture Partners
   source: https://www.crunchbase.com/organization/galileo-ai
 linkedin: https://www.linkedin.com/company/galileo-ai/
+name: Galileo
 ---
 
 # Galileo

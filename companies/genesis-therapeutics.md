@@ -4,10 +4,11 @@ sector: Biotech AI / Drug Discovery
 founded: 2019
 headquarters: Burlingame, CA
 founders:
-  - name: "Evan Feinberg"
-    role: "CEO"
-    background: "PhD in computational biophysics from Stanford (Vijay Pande lab); developed PotentialNet; BA in Applied Physics from Yale"
-    origin: "American"
+- name: Evan Feinberg
+  role: CEO
+  background: PhD in computational biophysics from Stanford (Vijay Pande lab); developed PotentialNet; BA in Applied Physics
+    from Yale
+  origin: American
 ceo: Evan Feinberg
 employees: ~100-150 (estimated)
 latest_valuation: Undisclosed (Series B extension, Nov 2024)
@@ -43,6 +44,7 @@ website_verified: true
 linkedin: https://www.linkedin.com/company/genesistherapeutics
 crunchbase: https://www.crunchbase.com/organization/genesis-therapeutics
 crunchbase_verified: true
+name: Genesis Therapeutics
 ---
 
 # Genesis Therapeutics

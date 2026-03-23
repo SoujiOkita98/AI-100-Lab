@@ -35,21 +35,25 @@ linkedin: https://www.linkedin.com/company/bland-ai
 twitter: '@usebland'
 total_raised_m: 65
 funding_rounds:
-  - stage: "Seed"
-    date: "2023-2024"
-    amount_m: 9
-    lead_investors: ["Y Combinator"]
-    source: "https://www.crunchbase.com/organization/bland-ai"
-  - stage: "Series A"
-    date: "2024-08"
-    amount_m: 16
-    lead_investors: ["Scale Venture Partners"]
-    source: "https://www.crunchbase.com/organization/bland-ai"
-  - stage: "Series B"
-    date: "2025-01"
-    amount_m: 40
-    lead_investors: ["Emergence Capital"]
-    source: "https://www.crunchbase.com/organization/bland-ai"
+- stage: Seed
+  date: 2023-2024
+  amount_m: 9
+  lead_investors:
+  - Y Combinator
+  source: https://www.crunchbase.com/organization/bland-ai
+- stage: Series A
+  date: 2024-08
+  amount_m: 16
+  lead_investors:
+  - Scale Venture Partners
+  source: https://www.crunchbase.com/organization/bland-ai
+- stage: Series B
+  date: 2025-01
+  amount_m: 40
+  lead_investors:
+  - Emergence Capital
+  source: https://www.crunchbase.com/organization/bland-ai
+name: Bland AI
 ---
 
 # Bland AI

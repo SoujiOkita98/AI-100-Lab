@@ -47,6 +47,7 @@ one_liner: DevRev is an AI-native platform that unifies customer support and pro
 linkedin: https://www.linkedin.com/company/devrev
 crunchbase: https://www.crunchbase.com/organization/devrev
 crunchbase_verified: true
+name: DevRev
 ---
 
 # DevRev -- AI-Native CRM & Developer Platform

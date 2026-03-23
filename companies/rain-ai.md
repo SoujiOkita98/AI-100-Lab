@@ -49,6 +49,7 @@ funding_rounds:
 data_notes: 'Total ~$146M across multiple rounds. Individual round amounts mostly undisclosed. Notable investor: Sam Altman
   (personal, >$1M).'
 linkedin: https://www.linkedin.com/company/rain-neuromorphics/
+name: Rain AI
 ---
 
 # Rain AI

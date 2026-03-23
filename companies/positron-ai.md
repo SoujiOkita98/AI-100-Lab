@@ -51,6 +51,7 @@ funding_rounds:
   - Jump Trading
   source: https://www.crunchbase.com/organization/positron-ai
 linkedin: https://www.linkedin.com/company/positronai/
+name: Positron AI
 ---
 
 # Positron AI

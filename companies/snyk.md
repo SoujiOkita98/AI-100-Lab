@@ -5,7 +5,8 @@ founded: 2015
 headquarters: Boston, MA (US HQ); Tel Aviv, Israel (R&D HQ)
 sector: AI-Powered Developer Tools
 sub_sector: Developer Security / DevSecOps
-one_liner: Developer-first security platform that finds and fixes vulnerabilities in code, open-source dependencies, containers, and cloud infrastructure.
+one_liner: Developer-first security platform that finds and fixes vulnerabilities in code, open-source dependencies, containers,
+  and cloud infrastructure.
 website: https://snyk.io
 status: Private (Series F); potential IPO in 2026
 valuation: ~$8.5B (post-money, September 2021)
@@ -94,18 +95,19 @@ linkedin: https://www.linkedin.com/company/snyk
 crunchbase: https://www.crunchbase.com/organization/snyk
 crunchbase_verified: true
 founders:
-  - name: "Guy Podjarny"
-    role: "Co-Founder (former CEO, then President)"
-    background: "Former CTO at Akamai. Led AppScan (early AppSec pioneer). IDF Unit 8200 alumnus. Later founded Tessl."
-    origin: "Israeli"
-  - name: "Assaf Hefetz"
-    role: "Co-Founder"
-    background: "IDF Unit 8200 alumnus."
-    origin: "Israeli"
-  - name: "Danny Grander"
-    role: "Co-Founder"
-    background: "IDF Unit 8200 alumnus. Security researcher."
-    origin: "Israeli"
+- name: Guy Podjarny
+  role: Co-Founder (former CEO, then President)
+  background: Former CTO at Akamai. Led AppScan (early AppSec pioneer). IDF Unit 8200 alumnus. Later founded Tessl.
+  origin: Israeli
+- name: Assaf Hefetz
+  role: Co-Founder
+  background: IDF Unit 8200 alumnus.
+  origin: Israeli
+- name: Danny Grander
+  role: Co-Founder
+  background: IDF Unit 8200 alumnus. Security researcher.
+  origin: Israeli
+name: Snyk
 ---
 
 # Snyk

@@ -10,14 +10,15 @@ total_funding_pre_acquisition: ~$730 million
 employees: ~500 at peak; reduced pre-acquisition
 website: https://www.graphcore.ai
 founders:
-  - name: "Nigel Toon"
-    role: "Co-Founder & CEO"
-    background: "30+ years in semiconductors; former CEO of Icera (acquired by Nvidia for ~$367M) and XMOS"
-    origin: "British"
-  - name: "Simon Knowles"
-    role: "Co-Founder & CTO"
-    background: "Chief architect of the IPU; co-founded Icera and Element 14 (acquired by Broadcom); one of UK's most accomplished chip designers"
-    origin: "British"
+- name: Nigel Toon
+  role: Co-Founder & CEO
+  background: 30+ years in semiconductors; former CEO of Icera (acquired by Nvidia for ~$367M) and XMOS
+  origin: British
+- name: Simon Knowles
+  role: Co-Founder & CTO
+  background: Chief architect of the IPU; co-founded Icera and Element 14 (acquired by Broadcom); one of UK's most accomplished
+    chip designers
+  origin: British
 last_updated: 2026-03-20
 one_liner: Graphcore was a British AI chip company that designed the Intelligence Processing Unit (IPU), a novel processor
   architecture built specifically for machine learning workloads
@@ -26,6 +27,7 @@ crunchbase: https://www.crunchbase.com/organization/graphcore
 crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/graphcore
 total_raised_m: 720.0
+name: Graphcore
 ---
 
 # Graphcore

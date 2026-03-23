@@ -44,6 +44,7 @@ funding_rounds:
   - Menlo Ventures
   source: https://www.crunchbase.com/organization/unstructured
 linkedin: https://www.linkedin.com/company/unstructuredio/
+name: Unstructured (Unstructured Technologies, Inc.)
 ---
 
 # Unstructured

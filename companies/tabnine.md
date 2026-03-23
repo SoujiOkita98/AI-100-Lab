@@ -55,6 +55,7 @@ founders:
   background: Co-founded Codota (renamed Tabnine) in 2013. Computer science researcher.
   origin: Israeli
 linkedin: https://www.linkedin.com/company/tabnine/
+name: Tabnine
 ---
 
 # Tabnine

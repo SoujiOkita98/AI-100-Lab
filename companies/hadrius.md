@@ -41,6 +41,7 @@ funding_rounds:
   - Undisclosed
   source: https://tracxn.com/d/companies/hadrius/__VAwFKR38yiY3tOvhoeJOyfCr13-J-nfshruGOuAptzM
 linkedin: https://www.linkedin.com/company/hadrius/
+name: Hadrius
 ---
 
 # Hadrius -- Company Profile

@@ -28,21 +28,27 @@ founders:
   origin: Indian-American
 total_raised_m: 450
 funding_rounds:
-  - stage: "Series A"
-    date: "2021"
-    amount_m: 65
-    lead_investors: ["Undisclosed"]
-    source: "https://www.crunchbase.com/organization/d-matrix"
-  - stage: "Series B"
-    date: "2023-09"
-    amount_m: 110
-    lead_investors: ["Temasek"]
-    source: "https://www.crunchbase.com/organization/d-matrix"
-  - stage: "Series C"
-    date: "2025-11"
-    amount_m: 275
-    lead_investors: ["Bullhound Capital", "Triatomic Capital", "Temasek"]
-    source: "https://www.crunchbase.com/organization/d-matrix"
+- stage: Series A
+  date: '2021'
+  amount_m: 65
+  lead_investors:
+  - Undisclosed
+  source: https://www.crunchbase.com/organization/d-matrix
+- stage: Series B
+  date: 2023-09
+  amount_m: 110
+  lead_investors:
+  - Temasek
+  source: https://www.crunchbase.com/organization/d-matrix
+- stage: Series C
+  date: 2025-11
+  amount_m: 275
+  lead_investors:
+  - Bullhound Capital
+  - Triatomic Capital
+  - Temasek
+  source: https://www.crunchbase.com/organization/d-matrix
+name: d-Matrix
 ---
 
 # d-Matrix

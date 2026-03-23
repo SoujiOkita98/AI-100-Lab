@@ -4,7 +4,8 @@ legal_name: Harper Inc.
 founded: 2024
 headquarters: San Francisco, CA
 website: https://www.harperinsure.com
-one_liner: "AI-native commercial insurance brokerage that automates carrier matching, form completion, and client communications for small and mid-sized businesses"
+one_liner: AI-native commercial insurance brokerage that automates carrier matching, form completion, and client communications
+  for small and mid-sized businesses
 sector: AI Applications / InsurTech
 stage: Series A
 latest_valuation: Undisclosed
@@ -33,18 +34,19 @@ tags:
 - yc-w25
 yc_batch: W25
 last_updated: 2026-03-20
-website: https://www.harperinsure.com
 website_verified: true
 linkedin: https://www.linkedin.com/company/harperinsure
 crunchbase: https://www.crunchbase.com/organization/harper
 crunchbase_verified: true
 total_raised_m: 47
 funding_rounds:
-  - stage: "Seed + Series A"
-    date: "2024-2025"
-    amount_m: 47
-    lead_investors: ["Emergence Capital"]
-    source: "https://www.crunchbase.com/organization/harper"
+- stage: Seed + Series A
+  date: 2024-2025
+  amount_m: 47
+  lead_investors:
+  - Emergence Capital
+  source: https://www.crunchbase.com/organization/harper
+name: Harper
 ---
 
 # Harper

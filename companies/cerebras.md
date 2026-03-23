@@ -11,26 +11,27 @@ employees: ~500 (estimate; exact figure uncertain)
 website: https://www.cerebras.ai
 ticker_pending: CBRS (Nasdaq, planned)
 founders:
-  - name: "Andrew Feldman"
-    role: "Co-Founder & CEO"
-    background: "Previously co-founded SeaMicro (sold to AMD for $334M). Stanford BA Economics/PoliSci, Stanford MBA. Former VP at Force10 Networks (sold to Dell for $800M)."
-    origin: "American (inferred from name)"
-  - name: "Gary Lauterbach"
-    role: "Co-Founder"
-    background: "Co-founded SeaMicro with Feldman."
-    origin: "American (inferred from name)"
-  - name: "Sean Lie"
-    role: "Co-Founder"
-    background: "Previously at SeaMicro."
-    origin: "Chinese-American (inferred from name)"
-  - name: "Jean-Philippe Fricker"
-    role: "Co-Founder"
-    background: "Previously at SeaMicro."
-    origin: "French (inferred from name)"
-  - name: "Michael James"
-    role: "Co-Founder"
-    background: "Previously at SeaMicro."
-    origin: "American (inferred from name)"
+- name: Andrew Feldman
+  role: Co-Founder & CEO
+  background: Previously co-founded SeaMicro (sold to AMD for $334M). Stanford BA Economics/PoliSci, Stanford MBA. Former
+    VP at Force10 Networks (sold to Dell for $800M).
+  origin: American (inferred from name)
+- name: Gary Lauterbach
+  role: Co-Founder
+  background: Co-founded SeaMicro with Feldman.
+  origin: American (inferred from name)
+- name: Sean Lie
+  role: Co-Founder
+  background: Previously at SeaMicro.
+  origin: Chinese-American (inferred from name)
+- name: Jean-Philippe Fricker
+  role: Co-Founder
+  background: Previously at SeaMicro.
+  origin: French (inferred from name)
+- name: Michael James
+  role: Co-Founder
+  background: Previously at SeaMicro.
+  origin: American (inferred from name)
 last_updated: 2026-03-20
 one_liner: Cerebras Systems is an AI semiconductor company that designs and manufactures the world's largest computer chips
   -- Wafer-Scale Engines (WSE) -- purpose-built for AI training and inference
@@ -43,46 +44,58 @@ latest_valuation_m: 23000
 data_notes: Valuation updated to $23B after Series H (Feb 2026). Previous $8.1B was from Series G (Oct 2025).
 total_raised_m: 4300
 funding_rounds:
-  - stage: "Series A"
-    date: "2016-05"
-    amount_m: 27
-    lead_investors: ["Benchmark", "Foundation Capital"]
-    source: "https://www.crunchbase.com/organization/cerebras-systems"
-  - stage: "Series B"
-    date: "2016-12"
-    amount_m: 25
-    lead_investors: ["Coatue Management"]
-    source: "https://www.crunchbase.com/organization/cerebras-systems"
-  - stage: "Series C"
-    date: "2017-01"
-    amount_m: 60
-    lead_investors: ["VY Capital"]
-    source: "https://www.crunchbase.com/organization/cerebras-systems"
-  - stage: "Series D"
-    date: "2018-11"
-    amount_m: 88
-    lead_investors: ["Altimeter", "VY Capital"]
-    source: "https://www.crunchbase.com/organization/cerebras-systems"
-  - stage: "Series E"
-    date: "2019-11"
-    amount_m: 272
-    lead_investors: ["Undisclosed"]
-    source: "https://en.wikipedia.org/wiki/Cerebras"
-  - stage: "Series F"
-    date: "2021-11"
-    amount_m: 250
-    lead_investors: ["Alpha Wave Ventures"]
-    source: "https://www.cerebras.ai/press-release/cerebras-systems-raises-250m-in-funding-for-over-4b-valuation-to-advance-the-future-of-artificial-intelligence-compute"
-  - stage: "Series G"
-    date: "2025-09"
-    amount_m: 1100
-    lead_investors: ["Fidelity", "Atreides Management"]
-    source: "https://www.cerebras.ai/press-release/series-g"
-  - stage: "Series H"
-    date: "2026-02"
-    amount_m: 1000
-    lead_investors: ["Tiger Global"]
-    source: "https://www.cerebras.ai/press-release/cerebras-systems-raises-usd1-billion-series-h"
+- stage: Series A
+  date: 2016-05
+  amount_m: 27
+  lead_investors:
+  - Benchmark
+  - Foundation Capital
+  source: https://www.crunchbase.com/organization/cerebras-systems
+- stage: Series B
+  date: 2016-12
+  amount_m: 25
+  lead_investors:
+  - Coatue Management
+  source: https://www.crunchbase.com/organization/cerebras-systems
+- stage: Series C
+  date: 2017-01
+  amount_m: 60
+  lead_investors:
+  - VY Capital
+  source: https://www.crunchbase.com/organization/cerebras-systems
+- stage: Series D
+  date: 2018-11
+  amount_m: 88
+  lead_investors:
+  - Altimeter
+  - VY Capital
+  source: https://www.crunchbase.com/organization/cerebras-systems
+- stage: Series E
+  date: 2019-11
+  amount_m: 272
+  lead_investors:
+  - Undisclosed
+  source: https://en.wikipedia.org/wiki/Cerebras
+- stage: Series F
+  date: 2021-11
+  amount_m: 250
+  lead_investors:
+  - Alpha Wave Ventures
+  source: https://www.cerebras.ai/press-release/cerebras-systems-raises-250m-in-funding-for-over-4b-valuation-to-advance-the-future-of-artificial-intelligence-compute
+- stage: Series G
+  date: 2025-09
+  amount_m: 1100
+  lead_investors:
+  - Fidelity
+  - Atreides Management
+  source: https://www.cerebras.ai/press-release/series-g
+- stage: Series H
+  date: 2026-02
+  amount_m: 1000
+  lead_investors:
+  - Tiger Global
+  source: https://www.cerebras.ai/press-release/cerebras-systems-raises-usd1-billion-series-h
+name: Cerebras Systems
 ---
 
 # Cerebras Systems

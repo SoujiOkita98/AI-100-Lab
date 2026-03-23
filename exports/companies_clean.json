@@ -18511,6 +18511,65 @@
     ]
   },
   {
+    "slug": "kyutai",
+    "name": "Kyutai",
+    "status": "Active",
+    "founded_year": "2023",
+    "hq": null,
+    "website": "https://kyutai.org",
+    "sector": "Artificial Intelligence",
+    "one_liner": "French open-science AI research lab focused on voice and audio AI, backed by Xavier Niel, Rodolphe Saade, and Eric Schmidt",
+    "total_raised_m": 330.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": "Nonprofit research lab (open-source models)",
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "high",
+    "last_updated": "2026-03-23",
+    "founders": [
+      {
+        "company_slug": "kyutai",
+        "name": "Xavier Niel",
+        "role": "Co-founder & Primary Backer",
+        "background": "",
+        "origin": "French",
+        "prior": ""
+      },
+      {
+        "company_slug": "kyutai",
+        "name": "Rodolphe Saade",
+        "role": "Co-founder & Backer",
+        "background": "",
+        "origin": "French",
+        "prior": ""
+      },
+      {
+        "company_slug": "kyutai",
+        "name": "Eric Schmidt",
+        "role": "Co-founder & Backer",
+        "background": "",
+        "origin": "American",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "kyutai",
+        "stage": "Initial Endowment",
+        "date": "2023-11",
+        "amount_m": 330.0,
+        "valuation_m": null,
+        "lead_investors": "",
+        "other_investors": "",
+        "source": "https://techcrunch.com/2023/11/17/kyutai-is-an-french-ai-research-lab-with-a-330-million-budget-that-will-make-everything-open-source/",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
     "slug": "labelbox",
     "name": "Labelbox",
     "status": "Private",

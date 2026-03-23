@@ -4,10 +4,11 @@ sector: Healthcare AI / Agentic AI
 founded: 2023
 headquarters: Palo Alto, CA
 founders:
-  - name: "Munjal Shah"
-    role: "CEO"
-    background: "Serial entrepreneur; BS CS from UCSD, MS CS (AI focus) from Stanford; founded Andale (acquired by Alibaba via Vendio), Like.com, and Health IQ; 42+ seed investments"
-    origin: "Indian-American"
+- name: Munjal Shah
+  role: CEO
+  background: Serial entrepreneur; BS CS from UCSD, MS CS (AI focus) from Stanford; founded Andale (acquired by Alibaba via
+    Vendio), Like.com, and Health IQ; 42+ seed investments
+  origin: Indian-American
 ceo: Munjal Shah
 employees: ~200-260 (estimates vary by source; ~211 as of Dec 2025)
 latest_valuation: $3.5B (Series C, Nov 2025)
@@ -64,6 +65,7 @@ twitter: '@hippocraticai'
 linkedin: https://www.linkedin.com/company/hippocratic-ai-health
 crunchbase: https://www.crunchbase.com/organization/hippocratic-ai
 crunchbase_verified: true
+name: Hippocratic AI
 ---
 
 # Hippocratic AI

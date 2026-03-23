@@ -10,18 +10,21 @@ total_funding: ~$375M (reported range $372M-$415M depending on source)
 employees: ~533 (as of January 2026)
 website: https://www.weka.io
 founders:
-  - name: "Liran Zvibel"
-    role: "Co-Founder & CEO"
-    background: "Principal software architect and founding member at XIV Storage (acquired by IBM ~$350M). Captain in Israeli Defense Forces. BS in Mathematics and CS from Tel Aviv University"
-    origin: "Israeli"
-  - name: "Omri Palmon"
-    role: "Co-Founder & COO"
-    background: "VP of Marketing and Product at XIV until IBM acquisition. PhD in CS from Stanford; degrees in pure mathematics from Tel Aviv University. 30+ years in software development"
-    origin: "Israeli"
-  - name: "Maor Ben-Dayan"
-    role: "Co-Founder & Chief Architect"
-    background: "Project lead for IBM XIV Storage System; led collision-avoidance tech at Mobileye. Unix kernel development for Israeli Defense Forces. ~20 years of deep technical experience"
-    origin: "Israeli"
+- name: Liran Zvibel
+  role: Co-Founder & CEO
+  background: Principal software architect and founding member at XIV Storage (acquired by IBM ~$350M). Captain in Israeli
+    Defense Forces. BS in Mathematics and CS from Tel Aviv University
+  origin: Israeli
+- name: Omri Palmon
+  role: Co-Founder & COO
+  background: VP of Marketing and Product at XIV until IBM acquisition. PhD in CS from Stanford; degrees in pure mathematics
+    from Tel Aviv University. 30+ years in software development
+  origin: Israeli
+- name: Maor Ben-Dayan
+  role: Co-Founder & Chief Architect
+  background: Project lead for IBM XIV Storage System; led collision-avoidance tech at Mobileye. Unix kernel development for
+    Israeli Defense Forces. ~20 years of deep technical experience
+  origin: Israeli
 last_updated: 2026-03-20
 funding_rounds:
 - stage: Series A
@@ -69,6 +72,7 @@ linkedin: https://www.linkedin.com/company/weka-io
 crunchbase: https://www.crunchbase.com/organization/weka
 crunchbase_verified: true
 twitter: '@WekaIO'
+name: WEKA
 ---
 
 # WEKA

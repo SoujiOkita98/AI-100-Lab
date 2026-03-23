@@ -4,7 +4,8 @@ legal_name: Inflection AI, Inc.
 founded: 2022
 headquarters: Palo Alto, CA
 website: https://inflection.ai
-one_liner: "Enterprise AI studio offering customizable LLMs and agentic AI systems, pivoted from consumer chatbot Pi after co-founders departed to Microsoft"
+one_liner: Enterprise AI studio offering customizable LLMs and agentic AI systems, pivoted from consumer chatbot Pi after
+  co-founders departed to Microsoft
 status: Active (post-pivot, enterprise-focused)
 current_ceo: Sean White
 founders:
@@ -69,6 +70,7 @@ crunchbase: https://www.crunchbase.com/organization/inflection-ai
 crunchbase_verified: true
 twitter: '@inflectionAI'
 total_raised_m: 1525.0
+name: Inflection AI
 ---
 
 # Inflection AI

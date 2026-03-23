@@ -56,6 +56,7 @@ funding_rounds:
   - Greenoaks Capital
   source: https://www.crunchbase.com/organization/ssi
 linkedin: https://www.linkedin.com/company/ssi/
+name: Safe Superintelligence Inc.
 ---
 
 # Safe Superintelligence Inc. (SSI)

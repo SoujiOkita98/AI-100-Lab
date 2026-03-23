@@ -20,14 +20,15 @@ key_investors:
 notable_backers:
 - Eric Schmidt (former Google CEO)
 founders:
-  - name: "Igor Ostrovsky"
-    role: "Co-Founder"
-    background: "Former chief architect at Pure Storage. Former Microsoft software engineer. CS degree from University of British Columbia."
-    origin: "Russian/Eastern European (inferred from name)"
-  - name: "Guy Gur-Ari"
-    role: "Co-Founder"
-    background: "Former AI researcher at Google."
-    origin: "Israeli (inferred from name)"
+- name: Igor Ostrovsky
+  role: Co-Founder
+  background: Former chief architect at Pure Storage. Former Microsoft software engineer. CS degree from University of British
+    Columbia.
+  origin: Russian/Eastern European (inferred from name)
+- name: Guy Gur-Ari
+  role: Co-Founder
+  background: Former AI researcher at Google.
+  origin: Israeli (inferred from name)
 last_updated: 2026-03-20
 confidence: high
 funding_rounds:
@@ -51,6 +52,7 @@ twitter: '@augmentcode'
 linkedin: https://www.linkedin.com/company/augmentinc
 crunchbase: https://www.crunchbase.com/organization/augment-code
 crunchbase_verified: true
+name: Augment Code
 ---
 
 # Augment Code

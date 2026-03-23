@@ -41,6 +41,7 @@ funding_rounds:
   - Situational Awareness
   source: https://www.crunchbase.com/organization/matx
 linkedin: https://www.linkedin.com/company/matx/
+name: MatX
 ---
 
 # MatX

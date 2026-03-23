@@ -58,6 +58,7 @@ funding_rounds:
   - Madrona
   source: https://www.crunchbase.com/organization/all-hands-ai
 linkedin: https://www.linkedin.com/company/all-hands-ai/
+name: All Hands AI (OpenHands)
 ---
 
 # All Hands AI (OpenHands)

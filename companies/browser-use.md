@@ -44,11 +44,13 @@ crunchbase_verified: true
 twitter: '@browser_use'
 total_raised_m: 17
 funding_rounds:
-  - stage: "Seed"
-    date: "2025-03"
-    amount_m: 17
-    lead_investors: ["Felicis Ventures"]
-    source: "https://www.crunchbase.com/organization/browser-use"
+- stage: Seed
+  date: 2025-03
+  amount_m: 17
+  lead_investors:
+  - Felicis Ventures
+  source: https://www.crunchbase.com/organization/browser-use
+name: Browser Use
 ---
 
 # Browser Use

@@ -15,18 +15,18 @@ total_funding: ~$131M
 employee_count_approx: 150-250 (uncertain; see notes below)
 status: Active, pivoted to enterprise AI-agent marketing platform
 founders:
-  - name: "Dave Rogenmoser"
-    role: "Co-Founder (former CEO)"
-    background: "Serial entrepreneur; co-founded Proof and two other startups with co-founders before Jasper; YC alumnus"
-    origin: "American"
-  - name: "John Philip Morgan"
-    role: "Co-Founder & CTO"
-    background: "Technical co-founder; worked with Rogenmoser and Hull since 2014 across multiple startups"
-    origin: "American"
-  - name: "Chris Hull"
-    role: "Co-Founder & COO"
-    background: "Operations leader; co-founded three companies with Rogenmoser and Morgan before Jasper"
-    origin: "American"
+- name: Dave Rogenmoser
+  role: Co-Founder (former CEO)
+  background: Serial entrepreneur; co-founded Proof and two other startups with co-founders before Jasper; YC alumnus
+  origin: American
+- name: John Philip Morgan
+  role: Co-Founder & CTO
+  background: Technical co-founder; worked with Rogenmoser and Hull since 2014 across multiple startups
+  origin: American
+- name: Chris Hull
+  role: Co-Founder & COO
+  background: Operations leader; co-founded three companies with Rogenmoser and Morgan before Jasper
+  origin: American
 ceo: Timothy Young (since September 2023)
 yc_batch: W20 (Y Combinator, for prior company Proof; Jasper itself is not a YC company but founders are YC alumni)
 last_updated: 2026-03-20
@@ -44,6 +44,7 @@ website_verified: true
 linkedin: https://www.linkedin.com/company/heyjasperai
 crunchbase: https://www.crunchbase.com/organization/jasper
 crunchbase_verified: true
+name: Jasper
 ---
 
 # Jasper -- AI Marketing Platform

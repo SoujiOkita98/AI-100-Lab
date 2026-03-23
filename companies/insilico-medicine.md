@@ -7,10 +7,11 @@ headquarters: Hong Kong (global operations in US, China, UAE, and other location
 sector: AI-Driven Drug Discovery / Generative AI Biotech
 employees: ~500+ (estimated early 2026; exact figure uncertain)
 founders:
-  - name: "Alex Zhavoronkov"
-    role: "Founder & Co-CEO"
-    background: "Born in Latvia; BS from Queen's University (Canada); MS Biotechnology from Johns Hopkins; PhD in Physics/Math from Moscow State; former ATI Technologies (AMD); 160+ publications; pioneered GANs/RL for drug discovery in 2016"
-    origin: "Latvian-Canadian"
+- name: Alex Zhavoronkov
+  role: Founder & Co-CEO
+  background: Born in Latvia; BS from Queen's University (Canada); MS Biotechnology from Johns Hopkins; PhD in Physics/Math
+    from Moscow State; former ATI Technologies (AMD); 160+ publications; pioneered GANs/RL for drug discovery in 2016
+  origin: Latvian-Canadian
 ceo: Alex Zhavoronkov, Ph.D. (Founder) and Feng Ren, Ph.D. (Co-CEO)
 website: https://insilico.com
 last_updated: 2026-03-20
@@ -21,6 +22,7 @@ linkedin: https://www.linkedin.com/company/in-silico-medicine
 crunchbase: https://www.crunchbase.com/organization/insilico-medicine
 crunchbase_verified: true
 total_raised_m: 1000.0
+name: Insilico Medicine
 ---
 
 # Insilico Medicine

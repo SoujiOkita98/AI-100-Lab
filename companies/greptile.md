@@ -51,6 +51,7 @@ funding_rounds:
   - Benchmark Capital
   source: https://www.crunchbase.com/organization/greptile
 linkedin: https://www.linkedin.com/company/greptile/
+name: Greptile
 ---
 
 # Greptile

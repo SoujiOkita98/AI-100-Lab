@@ -12,17 +12,18 @@ stage: Series B
 total_funding: $44M
 latest_valuation: $200M (May 2024)
 website: https://www.coactive.ai
-one_liner: "Enterprise AI platform that transforms unstructured visual data (images and video) into searchable, insight-rich information for media and retail companies"
+one_liner: Enterprise AI platform that transforms unstructured visual data (images and video) into searchable, insight-rich
+  information for media and retail companies
 status: Active, Private
 founders:
-  - name: "Cody Coleman"
-    role: "Co-Founder & CEO"
-    background: "PhD in CS from Stanford. Co-creator of DAWNBench and MLPerf. MIT MEng/BS in EECS."
-    origin: "American (inferred from name)"
-  - name: "Will Gaviria Rojas"
-    role: "Co-Founder"
-    background: "Former data scientist at eBay."
-    origin: "Colombian-American (inferred from name)"
+- name: Cody Coleman
+  role: Co-Founder & CEO
+  background: PhD in CS from Stanford. Co-creator of DAWNBench and MLPerf. MIT MEng/BS in EECS.
+  origin: American (inferred from name)
+- name: Will Gaviria Rojas
+  role: Co-Founder
+  background: Former data scientist at eBay.
+  origin: Colombian-American (inferred from name)
 last_updated: 2026-03-20
 confidence: high
 website_verified: true
@@ -31,21 +32,28 @@ crunchbase: https://www.crunchbase.com/organization/coactive-ai
 crunchbase_verified: true
 total_raised_m: 44
 funding_rounds:
-  - stage: "Seed"
-    date: "2023-03"
-    amount_m: 3.6
-    lead_investors: ["Andreessen Horowitz", "Bessemer Venture Partners"]
-    source: "https://www.crunchbase.com/organization/coactive-ai"
-  - stage: "Series A"
-    date: "2023-03"
-    amount_m: 10.4
-    lead_investors: ["Andreessen Horowitz", "Bessemer Venture Partners"]
-    source: "https://www.crunchbase.com/organization/coactive-ai"
-  - stage: "Series B"
-    date: "2024-05"
-    amount_m: 30
-    lead_investors: ["Cherryrock Capital", "Emerson Collective"]
-    source: "https://www.coactive.ai/blog/series-b"
+- stage: Seed
+  date: 2023-03
+  amount_m: 3.6
+  lead_investors:
+  - Andreessen Horowitz
+  - Bessemer Venture Partners
+  source: https://www.crunchbase.com/organization/coactive-ai
+- stage: Series A
+  date: 2023-03
+  amount_m: 10.4
+  lead_investors:
+  - Andreessen Horowitz
+  - Bessemer Venture Partners
+  source: https://www.crunchbase.com/organization/coactive-ai
+- stage: Series B
+  date: 2024-05
+  amount_m: 30
+  lead_investors:
+  - Cherryrock Capital
+  - Emerson Collective
+  source: https://www.coactive.ai/blog/series-b
+name: Coactive AI
 ---
 
 # Coactive AI

@@ -55,6 +55,7 @@ website_verified: true
 crunchbase: https://www.crunchbase.com/organization/sunday-robotics
 crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/sunday-robotics/
+name: Sunday
 ---
 
 # Sunday Robotics

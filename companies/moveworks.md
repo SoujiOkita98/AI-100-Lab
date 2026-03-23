@@ -49,22 +49,24 @@ linkedin: https://www.linkedin.com/company/moveworksai
 crunchbase: https://www.crunchbase.com/organization/moveworks
 crunchbase_verified: true
 founders:
-  - name: "Bhavin Shah"
-    role: "Co-Founder & CEO"
-    background: "25+ years entrepreneurial experience; former CEO of Refresh.io (acquired by LinkedIn 2015); MA Stanford, BS UCSD"
-    origin: "Indian-American"
-  - name: "Vaibhav Nivargi"
-    role: "Co-Founder & CTO"
-    background: ""
-    origin: "Indian"
-  - name: "Varun Singh"
-    role: "Co-Founder & President"
-    background: ""
-    origin: "Indian"
-  - name: "Jiang Chen"
-    role: "Co-Founder & CTO of AI"
-    background: ""
-    origin: "Chinese"
+- name: Bhavin Shah
+  role: Co-Founder & CEO
+  background: 25+ years entrepreneurial experience; former CEO of Refresh.io (acquired by LinkedIn 2015); MA Stanford, BS
+    UCSD
+  origin: Indian-American
+- name: Vaibhav Nivargi
+  role: Co-Founder & CTO
+  background: ''
+  origin: Indian
+- name: Varun Singh
+  role: Co-Founder & President
+  background: ''
+  origin: Indian
+- name: Jiang Chen
+  role: Co-Founder & CTO of AI
+  background: ''
+  origin: Chinese
+name: Moveworks
 ---
 
 # Moveworks -- Agentic AI Copilot for Enterprise Employee Support

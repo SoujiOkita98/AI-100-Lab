@@ -51,6 +51,7 @@ funding_rounds:
   - Square Peg
   source: https://www.crunchbase.com/organization/qodo
 linkedin: https://www.linkedin.com/company/qodo/
+name: Qodo
 ---
 
 # Qodo

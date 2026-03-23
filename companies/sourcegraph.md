@@ -55,14 +55,15 @@ crunchbase: https://www.crunchbase.com/organization/sourcegraph
 crunchbase_verified: true
 twitter: '@Sourcegraph'
 founders:
-  - name: "Quinn Slack"
-    role: "CEO & Co-Founder"
-    background: "Stanford graduate. Previously at Palantir. Self-taught coder since age 9. Now founding Amp Inc."
-    origin: "American"
-  - name: "Beyang Liu"
-    role: "CTO & Co-Founder"
-    background: "Stanford graduate. Previously at Google and Palantir. Now founding Amp Inc."
-    origin: "Chinese-American"
+- name: Quinn Slack
+  role: CEO & Co-Founder
+  background: Stanford graduate. Previously at Palantir. Self-taught coder since age 9. Now founding Amp Inc.
+  origin: American
+- name: Beyang Liu
+  role: CTO & Co-Founder
+  background: Stanford graduate. Previously at Google and Palantir. Now founding Amp Inc.
+  origin: Chinese-American
+name: Sourcegraph
 ---
 
 # Sourcegraph

@@ -11,18 +11,18 @@ peak_valuation: ~$1B (Series B, March 2023)
 key_event: Amazon acqui-hire of co-founders and ~66% of staff (June 2024)
 current_ceo: Zach Brock (formerly Head of Engineering)
 founders:
-  - name: "David Luan"
-    role: "Co-Founder & former CEO (now at Amazon)"
-    background: "Led Google's large model program. Former head of engineering at OpenAI."
-    origin: "Chinese-American (inferred from name)"
-  - name: "Ashish Vaswani"
-    role: "Co-Founder & former Chief Scientist (left for Essential AI)"
-    background: "Co-author of the Transformer paper ('Attention Is All You Need'). Former Google Brain researcher."
-    origin: "Indian (inferred from name)"
-  - name: "Niki Parmar"
-    role: "Co-Founder & former CTO (left for Essential AI)"
-    background: "Co-author of the Transformer paper. Former Google Brain researcher."
-    origin: "Indian (inferred from name)"
+- name: David Luan
+  role: Co-Founder & former CEO (now at Amazon)
+  background: Led Google's large model program. Former head of engineering at OpenAI.
+  origin: Chinese-American (inferred from name)
+- name: Ashish Vaswani
+  role: Co-Founder & former Chief Scientist (left for Essential AI)
+  background: Co-author of the Transformer paper ('Attention Is All You Need'). Former Google Brain researcher.
+  origin: Indian (inferred from name)
+- name: Niki Parmar
+  role: Co-Founder & former CTO (left for Essential AI)
+  background: Co-author of the Transformer paper. Former Google Brain researcher.
+  origin: Indian (inferred from name)
 profile_created: 2026-03-20
 confidence: high
 funding_rounds:
@@ -48,6 +48,7 @@ website_verified: true
 linkedin: https://www.linkedin.com/company/adeptai
 crunchbase: https://www.crunchbase.com/organization/adept-ai
 crunchbase_verified: true
+name: Adept AI
 ---
 
 # Adept AI

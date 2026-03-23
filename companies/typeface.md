@@ -20,10 +20,11 @@ tags:
 - agentic-ai
 - brand-safety
 founders:
-  - name: "Abhay Parasnis"
-    role: "Founder & CEO"
-    background: "Former CTO and CPO at Adobe; prior roles at Microsoft (Azure) and Oracle (Public Cloud lead). BS from COEP Technological University. Board member at Schneider Electric and Dropbox. 35+ patents"
-    origin: "Indian-American"
+- name: Abhay Parasnis
+  role: Founder & CEO
+  background: Former CTO and CPO at Adobe; prior roles at Microsoft (Azure) and Oracle (Public Cloud lead). BS from COEP Technological
+    University. Board member at Schneider Electric and Dropbox. 35+ patents
+  origin: Indian-American
 last_updated: 2026-03-20
 confidence: high
 funding_rounds:
@@ -52,6 +53,7 @@ crunchbase: https://www.crunchbase.com/organization/typeface
 crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/typefaceai
 twitter: '@typefaceai'
+name: Typeface
 ---
 
 # Typeface

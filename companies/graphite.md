@@ -54,6 +54,7 @@ funding_rounds:
   - Accel
   source: https://www.crunchbase.com/organization/graphite
 linkedin: https://www.linkedin.com/company/graphite/
+name: Graphite
 ---
 
 # Graphite

@@ -69,6 +69,7 @@ funding_rounds:
   - NVIDIA
   source: https://www.crunchbase.com/organization/twelve-labs
 linkedin: https://www.linkedin.com/company/twelve-labs/
+name: Twelve Labs
 ---
 
 # Twelve Labs

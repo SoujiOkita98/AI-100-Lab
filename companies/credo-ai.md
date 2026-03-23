@@ -32,21 +32,26 @@ crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/credo-ai
 total_raised_m: 41
 funding_rounds:
-  - stage: "Seed"
-    date: "2021"
-    amount_m: 5.5
-    lead_investors: ["Sands Capital"]
-    source: "https://www.crunchbase.com/organization/credo-ai"
-  - stage: "Series A"
-    date: "2022"
-    amount_m: 12.8
-    lead_investors: ["Sands Capital"]
-    source: "https://www.credo.ai/news/credo-ai-announces-12-8-million-series-a-funding-round-for-responsible-ai"
-  - stage: "Series A-II"
-    date: "2024-07"
-    amount_m: 21
-    lead_investors: ["CrimsoNox Capital", "Mozilla Ventures"]
-    source: "https://www.credo.ai/blog/accelerating-global-growth-and-innovation-in-ai-governance-with-21-million-in-new-capital"
+- stage: Seed
+  date: '2021'
+  amount_m: 5.5
+  lead_investors:
+  - Sands Capital
+  source: https://www.crunchbase.com/organization/credo-ai
+- stage: Series A
+  date: '2022'
+  amount_m: 12.8
+  lead_investors:
+  - Sands Capital
+  source: https://www.credo.ai/news/credo-ai-announces-12-8-million-series-a-funding-round-for-responsible-ai
+- stage: Series A-II
+  date: 2024-07
+  amount_m: 21
+  lead_investors:
+  - CrimsoNox Capital
+  - Mozilla Ventures
+  source: https://www.credo.ai/blog/accelerating-global-growth-and-innovation-in-ai-governance-with-21-million-in-new-capital
+name: Credo AI
 ---
 
 # Credo AI -- AI Governance & Responsible AI Platform

@@ -3,8 +3,9 @@ company_name: Essential AI
 legal_name: Essential AI Labs Inc.
 founded: 2023
 headquarters: San Francisco, CA
-website: https://essential.ai
-one_liner: "Enterprise AI platform built by Transformer co-inventors that automates complex knowledge work using proprietary large language models"
+website: https://www.essential.ai
+one_liner: Enterprise AI platform built by Transformer co-inventors that automates complex knowledge work using proprietary
+  large language models
 sector: Enterprise AI / AI Automation
 stage: Series B
 latest_valuation: ~$1B (unicorn status)
@@ -48,12 +49,12 @@ funding_rounds:
   lead_investors:
   - Lightspeed Venture Partners
   source: https://salestools.io/en/report/essential-ai-175m-series-b
-website: https://www.essential.ai
 website_verified: true
 linkedin: https://www.linkedin.com/company/essentialai
 crunchbase: https://www.crunchbase.com/organization/essential-ai
 crunchbase_verified: true
 twitter: '@essential_ai'
+name: Essential AI
 ---
 
 # Essential AI

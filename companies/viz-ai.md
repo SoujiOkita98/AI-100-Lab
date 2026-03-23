@@ -1,6 +1,7 @@
 ---
 company: Viz.ai
-one_liner: AI-powered care coordination platform with 50+ FDA-cleared algorithms that accelerate diagnosis and treatment across 1,700+ hospitals.
+one_liner: AI-powered care coordination platform with 50+ FDA-cleared algorithms that accelerate diagnosis and treatment across
+  1,700+ hospitals.
 sector: Healthcare AI / Clinical Decision Support
 founded: 2016
 headquarters: San Francisco, CA
@@ -12,14 +13,15 @@ stage: Series D
 status: Private (unicorn)
 website: https://www.viz.ai
 founders:
-  - name: "Chris Mansi"
-    role: "Co-Founder & CEO"
-    background: "Neurosurgeon (MD, MBA); co-founded Viz.ai in 2016 while at Stanford MBA program. Seed-funded by Eric Schmidt. Named TIME 100 Most Influential in AI 2024"
-    origin: "British-American"
-  - name: "David Golan"
-    role: "Co-Founder"
-    background: "Machine learning post-doc; co-founded Viz.ai with Chris Mansi"
-    origin: "Israeli"
+- name: Chris Mansi
+  role: Co-Founder & CEO
+  background: Neurosurgeon (MD, MBA); co-founded Viz.ai in 2016 while at Stanford MBA program. Seed-funded by Eric Schmidt.
+    Named TIME 100 Most Influential in AI 2024
+  origin: British-American
+- name: David Golan
+  role: Co-Founder
+  background: Machine learning post-doc; co-founded Viz.ai with Chris Mansi
+  origin: Israeli
 last_updated: 2026-03-20
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/viz-ai
@@ -27,32 +29,39 @@ crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/viz.ai
 total_raised_m: 252
 funding_rounds:
-  - stage: "Seed"
-    date: "2017"
-    amount_m: 7
-    lead_investors: ["Lightspeed Venture Partners"]
-    source: "https://www.crunchbase.com/organization/viz-ai"
-  - stage: "Series A"
-    date: "2019"
-    amount_m: 21
-    lead_investors: ["GV", "CRV"]
-    source: "https://www.crunchbase.com/organization/viz-ai"
-  - stage: "Series B"
-    date: "2020"
-    amount_m: 29
-    lead_investors: ["Scale Venture Partners"]
-    source: "https://www.crunchbase.com/organization/viz-ai"
-  - stage: "Series C"
-    date: "2021"
-    amount_m: 71
-    lead_investors: ["Insight Partners"]
-    source: "https://www.crunchbase.com/organization/viz-ai"
-  - stage: "Series D"
-    date: "2022-04"
-    amount_m: 100
-    lead_investors: ["Tiger Global"]
-    source: "https://www.crunchbase.com/organization/viz-ai"
-data_notes: "Total ~$252-289M (sources vary). Unicorn status at $1.2B valuation (Series D)."
+- stage: Seed
+  date: '2017'
+  amount_m: 7
+  lead_investors:
+  - Lightspeed Venture Partners
+  source: https://www.crunchbase.com/organization/viz-ai
+- stage: Series A
+  date: '2019'
+  amount_m: 21
+  lead_investors:
+  - GV
+  - CRV
+  source: https://www.crunchbase.com/organization/viz-ai
+- stage: Series B
+  date: '2020'
+  amount_m: 29
+  lead_investors:
+  - Scale Venture Partners
+  source: https://www.crunchbase.com/organization/viz-ai
+- stage: Series C
+  date: '2021'
+  amount_m: 71
+  lead_investors:
+  - Insight Partners
+  source: https://www.crunchbase.com/organization/viz-ai
+- stage: Series D
+  date: 2022-04
+  amount_m: 100
+  lead_investors:
+  - Tiger Global
+  source: https://www.crunchbase.com/organization/viz-ai
+data_notes: Total ~$252-289M (sources vary). Unicorn status at $1.2B valuation (Series D).
+name: Viz.ai
 ---
 
 # Viz.ai

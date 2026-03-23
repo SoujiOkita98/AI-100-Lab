@@ -11,22 +11,22 @@ cofounders:
 - Luis Sentis (Scientific Advisor; UT Austin professor)
 - Bill Welch (retired Air Force General; mentor/co-founder)
 founders:
-  - name: "Jeff Cardenas"
-    role: "Co-Founder & CEO"
-    background: "Robotics entrepreneur from UT Austin Human Centered Robotics Lab."
-    origin: "Hispanic-American (inferred from name)"
-  - name: "Nicholas Paine"
-    role: "Co-Founder & CTO"
-    background: "UT Austin robotics researcher."
-    origin: "American (inferred from name)"
-  - name: "Luis Sentis"
-    role: "Co-Founder & Scientific Advisor"
-    background: "Professor at UT Austin, Human Centered Robotics Lab."
-    origin: "Spanish/Hispanic (inferred from name)"
-  - name: "Bill Welch"
-    role: "Co-Founder & Mentor"
-    background: "Retired Air Force General."
-    origin: "American (inferred from name)"
+- name: Jeff Cardenas
+  role: Co-Founder & CEO
+  background: Robotics entrepreneur from UT Austin Human Centered Robotics Lab.
+  origin: Hispanic-American (inferred from name)
+- name: Nicholas Paine
+  role: Co-Founder & CTO
+  background: UT Austin robotics researcher.
+  origin: American (inferred from name)
+- name: Luis Sentis
+  role: Co-Founder & Scientific Advisor
+  background: Professor at UT Austin, Human Centered Robotics Lab.
+  origin: Spanish/Hispanic (inferred from name)
+- name: Bill Welch
+  role: Co-Founder & Mentor
+  background: Retired Air Force General.
+  origin: American (inferred from name)
 employees: ~264-300 (as of late 2025; rapidly growing)
 sector: Humanoid Robotics / AI
 flagship_product: Apollo (general-purpose humanoid robot)
@@ -87,6 +87,7 @@ twitter: '@Apptronik'
 linkedin: https://www.linkedin.com/company/apptronik-inc.
 crunchbase: https://www.crunchbase.com/organization/apptronik
 crunchbase_verified: true
+name: Apptronik
 ---
 
 # Apptronik

@@ -61,6 +61,7 @@ website_verified: true
 linkedin: https://www.linkedin.com/company/descript
 crunchbase: https://www.crunchbase.com/organization/descript
 crunchbase_verified: true
+name: Descript
 ---
 
 # Descript

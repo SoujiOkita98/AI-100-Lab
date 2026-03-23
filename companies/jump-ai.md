@@ -47,6 +47,7 @@ crunchbase: https://www.crunchbase.com/organization/jump-ai
 crunchbase_verified: true
 total_raised_m: 104.6
 linkedin: https://www.linkedin.com/company/jump-ai/
+name: Jump
 ---
 
 # Jump -- Company Profile

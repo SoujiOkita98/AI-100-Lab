@@ -34,22 +34,23 @@ crunchbase: https://www.crunchbase.com/organization/moonvalley
 crunchbase_verified: true
 total_raised_m: 154.0
 founders:
-  - name: "Naeem Talukdar"
-    role: "Founder & CEO"
-    background: "Based in Toronto"
-    origin: "South Asian-Canadian"
-  - name: "John Thomas"
-    role: "Co-Founder & COO"
-    background: "Based in Toronto"
-    origin: ""
-  - name: "Mateusz Malinowski"
-    role: "Co-Founder & Chief Scientific Officer"
-    background: "AI research background"
-    origin: "Polish"
-  - name: "Mikolaj Binkowski"
-    role: "Co-Founder & VP of Research"
-    background: "AI research background"
-    origin: "Polish"
+- name: Naeem Talukdar
+  role: Founder & CEO
+  background: Based in Toronto
+  origin: South Asian-Canadian
+- name: John Thomas
+  role: Co-Founder & COO
+  background: Based in Toronto
+  origin: ''
+- name: Mateusz Malinowski
+  role: Co-Founder & Chief Scientific Officer
+  background: AI research background
+  origin: Polish
+- name: Mikolaj Binkowski
+  role: Co-Founder & VP of Research
+  background: AI research background
+  origin: Polish
+name: Moonvalley
 ---
 
 # Moonvalley

@@ -81,6 +81,7 @@ founders:
   role: CTO
   background: Formerly at Apple leading high-impact DevOps initiatives.
   origin: Indian
+name: Harness
 ---
 
 # Harness

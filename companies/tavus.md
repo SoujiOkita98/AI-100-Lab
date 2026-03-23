@@ -55,6 +55,7 @@ funding_rounds:
   - Menlo Ventures
   source: https://www.crunchbase.com/organization/tavus
 linkedin: https://www.linkedin.com/company/tavus/
+name: Tavus
 ---
 
 # Tavus

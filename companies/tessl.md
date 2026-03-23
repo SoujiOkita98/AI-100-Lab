@@ -45,6 +45,7 @@ website_verified: true
 crunchbase: https://www.crunchbase.com/organization/tessl
 crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/tessl/
+name: Tessl
 ---
 
 # Tessl

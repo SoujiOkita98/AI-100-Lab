@@ -44,21 +44,26 @@ crunchbase: https://www.crunchbase.com/organization/david-ai
 crunchbase_verified: true
 total_raised_m: 80
 funding_rounds:
-  - stage: "Seed"
-    date: "2025-01"
-    amount_m: 5
-    lead_investors: ["First Round Capital"]
-    source: "https://www.crunchbase.com/organization/david-ai"
-  - stage: "Series A"
-    date: "2025-05"
-    amount_m: 25
-    lead_investors: ["Alt Capital", "Amplify Partners"]
-    source: "https://www.crunchbase.com/organization/david-ai"
-  - stage: "Series B"
-    date: "2025-10"
-    amount_m: 50
-    lead_investors: ["Meritech Capital"]
-    source: "https://www.crunchbase.com/organization/david-ai"
+- stage: Seed
+  date: 2025-01
+  amount_m: 5
+  lead_investors:
+  - First Round Capital
+  source: https://www.crunchbase.com/organization/david-ai
+- stage: Series A
+  date: 2025-05
+  amount_m: 25
+  lead_investors:
+  - Alt Capital
+  - Amplify Partners
+  source: https://www.crunchbase.com/organization/david-ai
+- stage: Series B
+  date: 2025-10
+  amount_m: 50
+  lead_investors:
+  - Meritech Capital
+  source: https://www.crunchbase.com/organization/david-ai
+name: David AI
 ---
 
 # David AI

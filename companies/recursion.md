@@ -50,6 +50,7 @@ funding_rounds:
   source: https://www.crunchbase.com/organization/recursion-pharmaceuticals
 data_notes: IPO'd April 2021 on NASDAQ (RXRX). Pre-IPO equity ~$510M. Also received post-IPO funding and grants.
 linkedin: https://www.linkedin.com/company/recursionpharma/
+name: Recursion Pharmaceuticals, Inc.
 ---
 
 # Recursion Pharmaceuticals

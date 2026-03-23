@@ -11,22 +11,23 @@ stage: Series B
 status: Private
 website: https://chaidiscovery.com
 founders:
-  - name: "Joshua Meier"
-    role: "Co-Founder & CEO"
-    background: "Pioneered frontier AI at OpenAI and Meta (co-led ESM1 transformer protein-language model). Former AI division lead at Absci."
-    origin: "American (inferred from name)"
-  - name: "Jack Dent"
-    role: "Co-Founder"
-    background: "Former engineering and product leader at Stripe."
-    origin: "American/British (inferred from name)"
-  - name: "Matthew McPartlon"
-    role: "Co-Founder"
-    background: "AI researcher. Previously at Absci working on de novo antibody design."
-    origin: "American (inferred from name)"
-  - name: "Jacques Boitreaud"
-    role: "Co-Founder"
-    background: "AI researcher."
-    origin: "French (inferred from name)"
+- name: Joshua Meier
+  role: Co-Founder & CEO
+  background: Pioneered frontier AI at OpenAI and Meta (co-led ESM1 transformer protein-language model). Former AI division
+    lead at Absci.
+  origin: American (inferred from name)
+- name: Jack Dent
+  role: Co-Founder
+  background: Former engineering and product leader at Stripe.
+  origin: American/British (inferred from name)
+- name: Matthew McPartlon
+  role: Co-Founder
+  background: AI researcher. Previously at Absci working on de novo antibody design.
+  origin: American (inferred from name)
+- name: Jacques Boitreaud
+  role: Co-Founder
+  background: AI researcher.
+  origin: French (inferred from name)
 last_updated: 2026-03-20
 funding_rounds:
 - stage: Seed
@@ -57,6 +58,7 @@ website_verified: true
 linkedin: https://www.linkedin.com/company/chaidiscovery
 crunchbase: https://www.crunchbase.com/organization/chai-discovery
 crunchbase_verified: true
+name: Chai Discovery
 ---
 
 # Chai Discovery

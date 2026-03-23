@@ -47,6 +47,7 @@ funding_rounds:
   - Founders Fund
   source: https://www.crunchbase.com/organization/numeric
 linkedin: https://www.linkedin.com/company/numeric/
+name: Numeric
 ---
 
 # Numeric -- Company Profile

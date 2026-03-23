@@ -50,6 +50,7 @@ funding_rounds:
   source: https://www.crunchbase.com/organization/predibase
 data_notes: Acquired by Rubrik in June 2025 for estimated $100-500M.
 linkedin: https://www.linkedin.com/company/predibase/
+name: Predibase
 ---
 
 # Predibase -- Fine-Tuning & Serving Open-Source AI Models (Acquired by Rubrik)

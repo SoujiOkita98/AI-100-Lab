@@ -71,6 +71,7 @@ crunchbase: https://www.crunchbase.com/organization/wayve
 crunchbase_verified: true
 twitter: '@wayve_ai'
 headquarters: London, United Kingdom
+name: Wayve
 ---
 
 # Wayve

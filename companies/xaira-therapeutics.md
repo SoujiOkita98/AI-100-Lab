@@ -23,26 +23,30 @@ funding_rounds:
 one_liner: Xaira Therapeutics is an AI-powered drug discovery company that launched in April 2024 with $1 billion in committed
   funding -- one of the largest launch rounds in biotech history
 founders:
-  - name: "Marc Tessier-Lavigne"
-    role: "Co-Founder, Chairman & CEO"
-    background: "Canadian-American neuroscientist. Former President of Stanford University; former CSO and EVP at Genentech. Ph.D. in physiology from University College London; Rhodes Scholar at Oxford; B.Sc. in physics from McGill University"
-    origin: "Canadian"
-  - name: "David Baker"
-    role: "Co-Founder & Chief Scientist"
-    background: "Professor of Biochemistry and Director of the Institute for Protein Design at University of Washington. 2024 Nobel Prize in Chemistry laureate for computational protein design. Creator of Rosetta and RFdiffusion"
-    origin: "American"
-  - name: "Hetu Kamisetty"
-    role: "Co-Founder"
-    background: "Previously at Meta (Facebook) and the Institute for Protein Design. Expertise in ML applied to protein structure prediction"
-    origin: "Indian-American"
-  - name: "Arvind Rajpal"
-    role: "Co-Founder"
-    background: "Former head of large molecule drug discovery at Genentech (Roche). Deep experience in therapeutic antibody development"
-    origin: "Indian-American"
+- name: Marc Tessier-Lavigne
+  role: Co-Founder, Chairman & CEO
+  background: Canadian-American neuroscientist. Former President of Stanford University; former CSO and EVP at Genentech.
+    Ph.D. in physiology from University College London; Rhodes Scholar at Oxford; B.Sc. in physics from McGill University
+  origin: Canadian
+- name: David Baker
+  role: Co-Founder & Chief Scientist
+  background: Professor of Biochemistry and Director of the Institute for Protein Design at University of Washington. 2024
+    Nobel Prize in Chemistry laureate for computational protein design. Creator of Rosetta and RFdiffusion
+  origin: American
+- name: Hetu Kamisetty
+  role: Co-Founder
+  background: Previously at Meta (Facebook) and the Institute for Protein Design. Expertise in ML applied to protein structure
+    prediction
+  origin: Indian-American
+- name: Arvind Rajpal
+  role: Co-Founder
+  background: Former head of large molecule drug discovery at Genentech (Roche). Deep experience in therapeutic antibody development
+  origin: Indian-American
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/xaira-therapeutics
 crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/xaira-therapeutics
+name: Xaira Therapeutics
 ---
 
 # Xaira Therapeutics

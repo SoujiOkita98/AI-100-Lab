@@ -63,6 +63,7 @@ founders:
   role: Co-founder
   background: PyTorch core maintainer at Meta.
   origin: Ukrainian
+name: Fireworks AI
 ---
 
 # Fireworks AI

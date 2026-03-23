@@ -116,6 +116,7 @@ data_notes: 'Needs verification: website, headquarters. Profile may be incomplet
 crunchbase: https://www.crunchbase.com/organization/nous-research
 crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/nous-research/
+name: Nous Research
 ---
 
 # Nous Research

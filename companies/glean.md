@@ -13,22 +13,22 @@ total_funding: ~$765M
 arr: $200M (as of December 2025)
 status: Private
 founders:
-  - name: "Arvind Jain"
-    role: "Founder & CEO"
-    background: "Former Distinguished Engineer at Google (Search, Maps, YouTube, 10+ years). Co-founded Rubrik (now public)."
-    origin: "Indian"
-  - name: "T.R. Vishwanath"
-    role: "Co-Founder"
-    background: ""
-    origin: "Indian"
-  - name: "Piyush Prahladka"
-    role: "Co-Founder"
-    background: ""
-    origin: "Indian"
-  - name: "Tony Gentilcore"
-    role: "Co-Founder"
-    background: ""
-    origin: "American"
+- name: Arvind Jain
+  role: CEO
+  background: BTech CS from IIT Delhi. MS CS, University of Washington. 10+ years at Google. Co-founded Rubrik (public company).
+  origin: Indian
+- name: T.R. Vishwanath
+  role: Co-founder
+  background: Principal Software Engineer at Facebook (2010-2019, News Feed ranking).
+  origin: Indian
+- name: Piyush Prahladka
+  role: Co-founder
+  background: 12 years at Google (Maps, Search Quality Ranking lead).
+  origin: Indian
+- name: Tony Gentilcore
+  role: Co-founder
+  background: 10 years at Google (web search interface, Chrome Speed Team).
+  origin: Italian-American
 last_updated: 2026-03-20
 confidence_note: Funding round details for Series A-D are cross-referenced across multiple sources (Crunchbase, Tracxn, company
   blog, TechCrunch, CNBC). Series B date/amount has minor source discrepancies (some report $23M in 2019, others $40M in 2021);
@@ -85,23 +85,7 @@ linkedin: https://www.linkedin.com/company/gleanwork
 twitter: '@glean'
 crunchbase: https://www.crunchbase.com/organization/glean
 crunchbase_verified: true
-founders:
-- name: Arvind Jain
-  role: CEO
-  background: BTech CS from IIT Delhi. MS CS, University of Washington. 10+ years at Google. Co-founded Rubrik (public company).
-  origin: Indian
-- name: T.R. Vishwanath
-  role: Co-founder
-  background: Principal Software Engineer at Facebook (2010-2019, News Feed ranking).
-  origin: Indian
-- name: Piyush Prahladka
-  role: Co-founder
-  background: 12 years at Google (Maps, Search Quality Ranking lead).
-  origin: Indian
-- name: Tony Gentilcore
-  role: Co-founder
-  background: 10 years at Google (web search interface, Chrome Speed Team).
-  origin: Italian-American
+name: Glean
 ---
 
 # Glean -- AI-Powered Enterprise Search & Work AI Platform

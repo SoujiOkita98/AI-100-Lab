@@ -27,14 +27,15 @@ funding_rounds:
   - Bain Capital Ventures
   source: https://contextual.ai/blog/announcing-series-a
 founders:
-  - name: "Douwe Kiela"
-    role: "CEO"
-    background: "Dutch-American AI researcher; co-invented RAG at Meta FAIR; adjunct professor at Stanford; PhD from University of Cambridge"
-    origin: "Dutch"
-  - name: "Amanpreet Singh"
-    role: "Co-Founder"
-    background: "Former researcher at Facebook AI Research and Hugging Face"
-    origin: "Indian"
+- name: Douwe Kiela
+  role: CEO
+  background: Dutch-American AI researcher; co-invented RAG at Meta FAIR; adjunct professor at Stanford; PhD from University
+    of Cambridge
+  origin: Dutch
+- name: Amanpreet Singh
+  role: Co-Founder
+  background: Former researcher at Facebook AI Research and Hugging Face
+  origin: Indian
 one_liner: RAG-native enterprise AI platform that end-to-end optimizes retrieval and generation, founded by the researchers
   who invented RAG at Meta FAIR
 website_verified: true
@@ -42,6 +43,7 @@ linkedin: https://www.linkedin.com/company/contextualai
 crunchbase: https://www.crunchbase.com/organization/contextual-ai
 crunchbase_verified: true
 total_raised_m: 100.0
+name: Contextual AI
 ---
 
 # Contextual AI

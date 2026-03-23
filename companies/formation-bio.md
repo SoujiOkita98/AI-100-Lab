@@ -4,14 +4,15 @@ sector: Biotech AI / AI-Native Pharma
 founded: 2016
 headquarters: New York, NY
 founders:
-  - name: "Benjamine Liu"
-    role: "CEO"
-    background: "Rhodes Scholar; PhD at Oxford in computational biology; Yale graduate (highest honors); MPhil from Cambridge; former Agouron Pharmaceuticals"
-    origin: "Chinese-American"
-  - name: "Linhao Zhang"
-    role: "CTO"
-    background: "Technical co-founder leading AI-driven drug development platform"
-    origin: "Chinese"
+- name: Benjamine Liu
+  role: CEO
+  background: Rhodes Scholar; PhD at Oxford in computational biology; Yale graduate (highest honors); MPhil from Cambridge;
+    former Agouron Pharmaceuticals
+  origin: Chinese-American
+- name: Linhao Zhang
+  role: CTO
+  background: Technical co-founder leading AI-driven drug development platform
+  origin: Chinese
 ceo: Benjamine Liu
 employees: ~200-300 (estimated)
 latest_valuation: $1.7B+ (Series D, May 2024)
@@ -45,6 +46,7 @@ linkedin: https://www.linkedin.com/company/formationbio
 crunchbase: https://www.crunchbase.com/organization/formation-bio
 crunchbase_verified: true
 twitter: '@formationbio'
+name: Formation Bio
 ---
 
 # Formation Bio

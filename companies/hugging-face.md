@@ -16,18 +16,18 @@ confidence_notes: Funding data through Series D (Aug 2023) is well-sourced from 
   could not be independently verified through primary sources. We flag those claims but do not treat them as confirmed. Revenue
   figures come from Sacra/Latka estimates, not official disclosures.
 founders:
-  - name: "Clement Delangue"
-    role: "CEO"
-    background: "French; Master in Management from ESCP Business School; former Product/CMO at Mention; Stanford coursework"
-    origin: "French"
-  - name: "Julien Chaumond"
-    role: "CTO"
-    background: "French engineer; technical co-founder leading platform engineering"
-    origin: "French"
-  - name: "Thomas Wolf"
-    role: "CSO (Chief Science Officer)"
-    background: "French; PhD in physics; led development of the Transformers library; prolific open-source contributor"
-    origin: "French"
+- name: Clement Delangue
+  role: CEO
+  background: French; Master in Management from ESCP Business School; former Product/CMO at Mention; Stanford coursework
+  origin: French
+- name: Julien Chaumond
+  role: CTO
+  background: French engineer; technical co-founder leading platform engineering
+  origin: French
+- name: Thomas Wolf
+  role: CSO (Chief Science Officer)
+  background: French; PhD in physics; led development of the Transformers library; prolific open-source contributor
+  origin: French
 one_liner: The open-source AI platform — 500K+ models, 100K+ datasets. Where the ML community collaborates.
 website: https://huggingface.co
 latest_valuation: 4500
@@ -37,6 +37,7 @@ crunchbase: https://www.crunchbase.com/organization/hugging-face
 crunchbase_verified: true
 twitter: '@huggingface'
 total_raised_m: 400.0
+name: Hugging Face
 ---
 
 # Hugging Face

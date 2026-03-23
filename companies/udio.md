@@ -55,11 +55,13 @@ crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/udiomusic
 total_raised_m: 10
 funding_rounds:
-  - stage: "Seed"
-    date: "2024"
-    amount_m: 10
-    lead_investors: ["Andreessen Horowitz"]
-    source: "https://www.crunchbase.com/organization/udio"
+- stage: Seed
+  date: '2024'
+  amount_m: 10
+  lead_investors:
+  - Andreessen Horowitz
+  source: https://www.crunchbase.com/organization/udio
+name: Udio
 ---
 
 # Udio -- AI Music Generation

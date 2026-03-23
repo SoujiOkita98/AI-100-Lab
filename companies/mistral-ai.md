@@ -3,7 +3,8 @@ company_name: Mistral AI
 legal_name: Mistral AI SAS
 slug: mistral-ai
 website: https://mistral.ai
-one_liner: "French AI company building open-weight and proprietary frontier LLMs with enterprise customization, agent orchestration, and multilingual capabilities"
+one_liner: French AI company building open-weight and proprietary frontier LLMs with enterprise customization, agent orchestration,
+  and multilingual capabilities
 domain: mistral.ai
 hq_city: Paris
 hq_country: France
@@ -146,6 +147,7 @@ linkedin: https://www.linkedin.com/company/mistralai
 twitter: '@MistralAI'
 crunchbase: https://www.crunchbase.com/organization/mistral-ai
 crunchbase_verified: true
+name: Mistral AI
 ---
 
 # Mistral AI

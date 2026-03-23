@@ -63,6 +63,7 @@ linkedin: https://www.linkedin.com/company/eliseai
 crunchbase: https://www.crunchbase.com/organization/eliseai
 crunchbase_verified: true
 total_raised_m: 391.9
+name: EliseAI
 ---
 
 # EliseAI -- Company Profile

@@ -24,30 +24,40 @@ crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/dataminr
 total_raised_m: 1240
 funding_rounds:
-  - stage: "Series A-D"
-    date: "2011-2015"
-    lead_investors: ["BoxGroup", "IVP", "Fidelity"]
-    source: "https://www.crunchbase.com/organization/dataminr"
-  - stage: "Series E"
-    date: "2018-05"
-    lead_investors: ["Vulcan Capital"]
-    source: "https://www.crunchbase.com/organization/dataminr"
-  - stage: "Series F"
-    date: "2021-03"
-    amount_m: 475
-    lead_investors: ["Eldridge", "Valor Equity Partners"]
-    source: "https://www.dataminr.com/press/dataminr-announces-475m-financing-round/"
-  - stage: "Convertible"
-    date: "2025-03"
-    amount_m: 85
-    lead_investors: ["NightDragon", "HSBC"]
-    source: "https://www.crunchbase.com/organization/dataminr"
-  - stage: "Series F Extension"
-    date: "2025-04"
-    amount_m: 100
-    lead_investors: ["Fortress Investment Group"]
-    source: "https://www.crunchbase.com/organization/dataminr"
-data_notes: "Total ~$1.24B across 13+ rounds. Early round amounts (Series A-E) undisclosed."
+- stage: Series A-D
+  date: 2011-2015
+  lead_investors:
+  - BoxGroup
+  - IVP
+  - Fidelity
+  source: https://www.crunchbase.com/organization/dataminr
+- stage: Series E
+  date: 2018-05
+  lead_investors:
+  - Vulcan Capital
+  source: https://www.crunchbase.com/organization/dataminr
+- stage: Series F
+  date: 2021-03
+  amount_m: 475
+  lead_investors:
+  - Eldridge
+  - Valor Equity Partners
+  source: https://www.dataminr.com/press/dataminr-announces-475m-financing-round/
+- stage: Convertible
+  date: 2025-03
+  amount_m: 85
+  lead_investors:
+  - NightDragon
+  - HSBC
+  source: https://www.crunchbase.com/organization/dataminr
+- stage: Series F Extension
+  date: 2025-04
+  amount_m: 100
+  lead_investors:
+  - Fortress Investment Group
+  source: https://www.crunchbase.com/organization/dataminr
+data_notes: Total ~$1.24B across 13+ rounds. Early round amounts (Series A-E) undisclosed.
+name: Dataminr
 ---
 
 # Dataminr

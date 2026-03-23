@@ -2,7 +2,8 @@
 company: Innovaccer
 legal_name: Innovaccer Inc.
 website: https://innovaccer.com
-one_liner: "Agentic AI cloud for healthcare that unifies clinical, operational, and financial data to power autonomous workflows across health systems and payers"
+one_liner: Agentic AI cloud for healthcare that unifies clinical, operational, and financial data to power autonomous workflows
+  across health systems and payers
 domain: innovaccer.com
 sector: Healthcare AI / Health Data Platform
 founded: 2014
@@ -80,6 +81,7 @@ funding_rounds:
 linkedin: https://www.linkedin.com/company/innovaccer
 crunchbase: https://www.crunchbase.com/organization/innovaccer
 crunchbase_verified: true
+name: Innovaccer
 ---
 
 # Innovaccer -- Healthcare AI & Data Platform

@@ -55,6 +55,7 @@ funding_rounds:
   - NEA
   source: https://www.crunchbase.com/organization/factory-ai
 linkedin: https://www.linkedin.com/company/factory-ai/
+name: Factory
 ---
 
 # Factory

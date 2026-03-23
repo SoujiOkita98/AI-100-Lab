@@ -49,6 +49,7 @@ website_verified: true
 linkedin: https://www.linkedin.com/company/lila-sciences
 crunchbase: https://www.crunchbase.com/organization/lila-sciences
 crunchbase_verified: true
+name: Lila Sciences
 ---
 
 # Lila Sciences

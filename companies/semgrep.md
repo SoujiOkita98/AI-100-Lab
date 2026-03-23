@@ -65,6 +65,7 @@ founders:
   background: MIT alumnus. Leads product strategy and design.
   origin: American
 linkedin: https://www.linkedin.com/company/semgrep/
+name: Semgrep
 ---
 
 # Semgrep

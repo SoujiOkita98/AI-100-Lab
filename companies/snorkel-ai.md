@@ -60,26 +60,29 @@ linkedin: https://www.linkedin.com/company/snorkel-ai
 crunchbase: https://www.crunchbase.com/organization/snorkel-ai
 crunchbase_verified: true
 founders:
-  - name: "Alex Ratner"
-    role: "CEO & Co-Founder"
-    background: "PhD in CS from Stanford (advised by Chris Ré). Affiliate assistant professor at University of Washington. Started and led the Snorkel open source project."
-    origin: "American"
-  - name: "Christopher Ré"
-    role: "Co-Founder & Board Member"
-    background: "Associate Professor of CS at Stanford. MacArthur Fellow. Also co-founded SambaNova, Lattice/DeepDive (acq. by Apple), Inductiv (acq. by Apple)."
-    origin: "American"
-  - name: "Paroma Varma"
-    role: "Co-Founder & Head of Solutions"
-    background: "Stanford PhD. Researched weak supervision and data programming."
-    origin: "Indian-American"
-  - name: "Braden Hancock"
-    role: "Co-Founder & Head of Technology"
-    background: "Stanford PhD in NLP and data programming."
-    origin: "American"
-  - name: "Henry Ehrenberg"
-    role: "Co-Founder & Head of Engineering"
-    background: "Stanford background in ML systems."
-    origin: "American"
+- name: Alex Ratner
+  role: CEO & Co-Founder
+  background: PhD in CS from Stanford (advised by Chris Ré). Affiliate assistant professor at University of Washington. Started
+    and led the Snorkel open source project.
+  origin: American
+- name: Christopher Ré
+  role: Co-Founder & Board Member
+  background: Associate Professor of CS at Stanford. MacArthur Fellow. Also co-founded SambaNova, Lattice/DeepDive (acq. by
+    Apple), Inductiv (acq. by Apple).
+  origin: American
+- name: Paroma Varma
+  role: Co-Founder & Head of Solutions
+  background: Stanford PhD. Researched weak supervision and data programming.
+  origin: Indian-American
+- name: Braden Hancock
+  role: Co-Founder & Head of Technology
+  background: Stanford PhD in NLP and data programming.
+  origin: American
+- name: Henry Ehrenberg
+  role: Co-Founder & Head of Engineering
+  background: Stanford background in ML systems.
+  origin: American
+name: Snorkel AI
 ---
 
 # Snorkel AI

@@ -37,6 +37,7 @@ funding_rounds:
   - Ribbit Capital
   source: https://www.crunchbase.com/organization/nevis
 linkedin: https://www.linkedin.com/company/nevis/
+name: Nevis
 ---
 
 # Nevis -- Company Profile

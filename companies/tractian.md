@@ -53,6 +53,7 @@ crunchbase: https://www.crunchbase.com/organization/tractian
 crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/get-tractian
 total_raised_m: 183.2
+name: Tractian
 ---
 
 # Tractian -- Company Profile

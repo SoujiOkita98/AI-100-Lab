@@ -59,6 +59,7 @@ funding_rounds:
 linkedin: https://www.linkedin.com/company/uniphore
 crunchbase: https://www.crunchbase.com/organization/uniphore
 crunchbase_verified: true
+name: Uniphore
 ---
 
 # Uniphore -- Enterprise Conversational AI & Business Automation

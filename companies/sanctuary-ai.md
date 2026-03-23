@@ -5,7 +5,8 @@ founded: 2018
 headquarters: Vancouver, British Columbia, Canada
 address: 201 - 1825 Quebec Street, Vancouver, BC
 website: https://www.sanctuary.ai
-one_liner: "Canadian company building Phoenix, a general-purpose humanoid robot powered by the Carbon AI control system, designed for industrial tasks in retail, logistics, and manufacturing"
+one_liner: Canadian company building Phoenix, a general-purpose humanoid robot powered by the Carbon AI control system, designed
+  for industrial tasks in retail, logistics, and manufacturing
 sector: AI / Robotics
 sub_sector: Humanoid General-Purpose Robots
 flagship_product: Phoenix (humanoid robot)
@@ -92,6 +93,7 @@ website_verified: true
 crunchbase: https://www.crunchbase.com/organization/sanctuary-ai
 crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/sanctuaryai
+name: Sanctuary AI
 ---
 
 # Sanctuary AI

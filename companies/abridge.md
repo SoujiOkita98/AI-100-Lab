@@ -85,6 +85,7 @@ twitter: '@AbridgeHQ'
 linkedin: https://www.linkedin.com/company/abridgehq
 crunchbase: https://www.crunchbase.com/organization/abridge
 crunchbase_verified: true
+name: Abridge
 ---
 
 # Abridge

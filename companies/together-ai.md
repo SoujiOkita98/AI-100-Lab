@@ -49,14 +49,16 @@ funding_rounds:
   - Prosperity7 Ventures
   source: https://www.together.ai/blog/together-ai-announcing-305m-series-b
 founders:
-  - name: "Vipul Ved Prakash"
-    role: "Co-Founder & CEO"
-    background: "Serial entrepreneur; created Vipul's Razor (anti-spam); co-founded Cloudmark and Topsy Labs (acquired by Apple ~$200M). Former Director of Engineering at Apple"
-    origin: "Indian-American"
-  - name: "Ce Zhang"
-    role: "Co-Founder & CTO"
-    background: "Associate Professor of Computer Science at ETH Zurich (on leave); expert in decentralized/distributed training and data-centric ML Ops"
-    origin: "Chinese"
+- name: Vipul Ved Prakash
+  role: Co-Founder & CEO
+  background: Serial entrepreneur; created Vipul's Razor (anti-spam); co-founded Cloudmark and Topsy Labs (acquired by Apple
+    ~$200M). Former Director of Engineering at Apple
+  origin: Indian-American
+- name: Ce Zhang
+  role: Co-Founder & CTO
+  background: Associate Professor of Computer Science at ETH Zurich (on leave); expert in decentralized/distributed training
+    and data-centric ML Ops
+  origin: Chinese
 one_liner: Together AI is an AI-native cloud platform that provides infrastructure for running, training, and fine-tuning
   open-source AI models
 website_verified: true
@@ -64,6 +66,7 @@ linkedin: https://www.linkedin.com/company/togethercomputer
 twitter: '@togethercompute'
 crunchbase: https://www.crunchbase.com/organization/together-ai
 crunchbase_verified: true
+name: Together AI
 ---
 
 # Together AI

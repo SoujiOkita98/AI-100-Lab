@@ -4,7 +4,8 @@ legal_name: Nuro, Inc.
 founded: 2016
 headquarters: Mountain View, California
 website: https://www.nuro.ai
-one_liner: "Autonomous vehicle technology company licensing its Level 4 self-driving Nuro Driver system to automakers and mobility providers for robotaxis and delivery"
+one_liner: Autonomous vehicle technology company licensing its Level 4 self-driving Nuro Driver system to automakers and mobility
+  providers for robotaxis and delivery
 sector: Autonomous Vehicles / AI / Robotics
 stage: Late Stage (Series E)
 latest_valuation: $6B (2025)
@@ -35,7 +36,6 @@ key_investors:
 - Kroger
 - Woven Capital (Toyota)
 - Baillie Gifford
-website: https://www.nuro.ai
 last_updated: 2026-03-20
 funding_rounds:
 - stage: Series A
@@ -89,6 +89,7 @@ twitter: '@nuro'
 linkedin: https://www.linkedin.com/company/nuro-inc.
 crunchbase: https://www.crunchbase.com/organization/nuro
 crunchbase_verified: true
+name: Nuro
 ---
 
 # Nuro

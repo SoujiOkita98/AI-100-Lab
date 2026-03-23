@@ -4,18 +4,18 @@ sector: Healthcare AI / Cancer Diagnostics
 founded: 2014
 headquarters: South San Francisco, CA
 founders:
-  - name: "Gabriel Otte"
-    role: "Co-Founder (former CEO)"
-    background: "Co-founded Freenome in 2014; replaced as CEO by Mike Nolan in 2021"
-    origin: "American"
-  - name: "Charlie Roberts"
-    role: "Co-Founder"
-    background: "Co-founded Freenome in 2014"
-    origin: "American"
-  - name: "Riley Ennis"
-    role: "Co-Founder"
-    background: "Co-founded Freenome in 2014"
-    origin: "American"
+- name: Gabriel Otte
+  role: Co-Founder (former CEO)
+  background: Co-founded Freenome in 2014; replaced as CEO by Mike Nolan in 2021
+  origin: American
+- name: Charlie Roberts
+  role: Co-Founder
+  background: Co-founded Freenome in 2014
+  origin: American
+- name: Riley Ennis
+  role: Co-Founder
+  background: Co-founded Freenome in 2014
+  origin: American
 ceo: Mike Nolan
 employees: ~400-500 (estimated)
 latest_valuation: $1.5B (estimated, Series D era)
@@ -73,6 +73,7 @@ website_verified: true
 linkedin: https://www.linkedin.com/company/freenome
 crunchbase: https://www.crunchbase.com/organization/freenome
 crunchbase_verified: true
+name: Freenome
 ---
 
 # Freenome

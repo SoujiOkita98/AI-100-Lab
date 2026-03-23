@@ -39,18 +39,20 @@ crunchbase: https://www.crunchbase.com/organization/rhoda-ai
 crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/rhoda-ai
 founders:
-  - name: "Jagdeep Singh"
-    role: "Co-Founder & CEO"
-    background: "Serial deep-tech founder; former CEO of QuantumScape (solid-state battery pioneer)"
-    origin: "Indian-American"
-  - name: "Eric Ryan Chan"
-    role: "Co-Founder & CSO"
-    background: "Stanford researcher; leader in computer vision and generative modeling; former generative model architect at WorldLabs"
-    origin: "American"
-  - name: "Gordon Wetzstein"
-    role: "Co-Founder"
-    background: "Professor at Stanford University; head of Computational Imaging Lab"
-    origin: "German-American"
+- name: Jagdeep Singh
+  role: Co-Founder & CEO
+  background: Serial deep-tech founder; former CEO of QuantumScape (solid-state battery pioneer)
+  origin: Indian-American
+- name: Eric Ryan Chan
+  role: Co-Founder & CSO
+  background: Stanford researcher; leader in computer vision and generative modeling; former generative model architect at
+    WorldLabs
+  origin: American
+- name: Gordon Wetzstein
+  role: Co-Founder
+  background: Professor at Stanford University; head of Computational Imaging Lab
+  origin: German-American
+name: Rhoda AI
 ---
 
 # Rhoda AI

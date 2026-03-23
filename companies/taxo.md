@@ -46,6 +46,7 @@ funding_rounds:
   - Character
   source: https://www.crunchbase.com/organization/taxo
 linkedin: https://www.linkedin.com/company/taxo/
+name: Taxo
 ---
 
 # Taxo

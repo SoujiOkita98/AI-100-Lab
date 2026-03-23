@@ -57,6 +57,7 @@ twitter: '@SierraPlatform'
 linkedin: https://www.linkedin.com/company/sierra
 crunchbase: https://www.crunchbase.com/organization/sierra-ai
 crunchbase_verified: true
+name: Sierra Technologies, Inc.
 ---
 
 # Sierra AI
