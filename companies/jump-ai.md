@@ -44,7 +44,7 @@ one_liner: Jump is an AI-powered operating system for financial advisors that au
   advisors to spend more time with clients
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/jump-ai
-crunchbase_verified: false
+crunchbase_verified: true
 ---
 
 # Jump -- Company Profile

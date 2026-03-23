@@ -25,7 +25,7 @@ one_liner: 'Full-stack humanoid robots for industrial use. Produced 5168 robots 
 website_verified: true
 linkedin: https://www.linkedin.com/company/agibot
 crunchbase: https://www.crunchbase.com/organization/agibot
-crunchbase_verified: false
+crunchbase_verified: true
 ---
 
 # AgiBot (Zhiyuan Robotics)

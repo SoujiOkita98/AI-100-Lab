@@ -22,7 +22,7 @@ website_verified: true
 linkedin: https://www.linkedin.com/company/brisk-teaching
 headquarters: Los Altos, CA
 crunchbase: https://www.crunchbase.com/organization/brisk-teaching
-crunchbase_verified: false
+crunchbase_verified: true
 ---
 
 # Brisk Teaching

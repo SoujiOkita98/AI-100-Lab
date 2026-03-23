@@ -92,7 +92,7 @@ website_verified: true
 twitter: '@Waymo'
 linkedin: https://www.linkedin.com/company/waymo
 crunchbase: https://www.crunchbase.com/organization/waymo
-crunchbase_verified: false
+crunchbase_verified: true
 ---
 
 # Waymo

@@ -13,7 +13,7 @@ website: https://www.viz.ai
 last_updated: 2026-03-20
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/viz-ai
-crunchbase_verified: false
+crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/viz.ai
 ---
 

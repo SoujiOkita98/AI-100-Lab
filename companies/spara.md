@@ -17,7 +17,7 @@ confidence: medium
 website: https://www.spara.co
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/spara
-crunchbase_verified: false
+crunchbase_verified: true
 ---
 
 # Spara

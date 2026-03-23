@@ -84,7 +84,7 @@ data_notes: 'Needs verification: website, headquarters. Profile may be incomplet
 linkedin: https://www.linkedin.com/company/deepl
 headquarters: Cologne, Germany
 crunchbase: https://www.crunchbase.com/organization/deepl
-crunchbase_verified: false
+crunchbase_verified: true
 ---
 
 # DeepL

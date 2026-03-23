@@ -66,7 +66,7 @@ data_notes: 'Needs verification: website, founders. Profile may be incomplete.'
 linkedin: https://www.linkedin.com/company/gleanwork
 twitter: '@glean'
 crunchbase: https://www.crunchbase.com/organization/glean
-crunchbase_verified: false
+crunchbase_verified: true
 ---
 
 # Glean -- AI-Powered Enterprise Search & Work AI Platform

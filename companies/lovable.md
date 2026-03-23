@@ -32,7 +32,7 @@ one_liner: Lovable is a Swedish AI-powered "vibe coding" platform that turns nat
 website_verified: true
 linkedin: https://www.linkedin.com/company/lovable-dev
 crunchbase: https://www.crunchbase.com/organization/lovable
-crunchbase_verified: false
+crunchbase_verified: true
 ---
 
 # Lovable

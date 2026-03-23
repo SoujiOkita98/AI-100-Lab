@@ -23,7 +23,7 @@ status: Private
 last_updated: 2026-03-20
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/hadrius
-crunchbase_verified: false
+crunchbase_verified: true
 ---
 
 # Hadrius -- Company Profile

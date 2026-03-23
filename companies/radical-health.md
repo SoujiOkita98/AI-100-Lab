@@ -18,7 +18,7 @@ website: https://radicalhealth.ai
 website_verified: true
 headquarters: New York, NY
 crunchbase: https://www.crunchbase.com/organization/radical-health
-crunchbase_verified: false
+crunchbase_verified: true
 ---
 
 # Radical Health

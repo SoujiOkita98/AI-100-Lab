@@ -18,7 +18,7 @@ headquarters: Orlando, FL
 website: https://www.attuned-intelligence.com
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/attuned-intelligence
-crunchbase_verified: false
+crunchbase_verified: true
 ---
 
 # Attuned Intelligence

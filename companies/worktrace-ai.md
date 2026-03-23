@@ -30,7 +30,7 @@ one_liner: Worktrace AI is an AI workflow automation startup founded by former O
   Deepak Vasisht
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/worktrace-ai
-crunchbase_verified: false
+crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/worktrace-ai
 ---
 

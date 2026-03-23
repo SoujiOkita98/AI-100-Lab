@@ -26,7 +26,7 @@ website: https://talahealth.com
 headquarters: San Francisco, CA
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/tala-health
-crunchbase_verified: false
+crunchbase_verified: true
 ---
 
 # Tala Health

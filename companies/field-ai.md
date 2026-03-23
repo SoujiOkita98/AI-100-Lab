@@ -56,7 +56,7 @@ one_liner: FieldAI builds embodiment-agnostic autonomy software -- what the comp
   -- that serve as a universal AI brain for mobile robots
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/field-ai
-crunchbase_verified: false
+crunchbase_verified: true
 ---
 
 # FieldAI

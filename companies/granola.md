@@ -40,7 +40,7 @@ one_liner: Granola is an AI-powered notepad that combines a user's typed notes w
 website_verified: true
 linkedin: https://www.linkedin.com/company/meetgranola
 crunchbase: https://www.crunchbase.com/organization/granola
-crunchbase_verified: false
+crunchbase_verified: true
 ---
 
 # Granola -- AI Meeting Notes

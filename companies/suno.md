@@ -35,7 +35,7 @@ website_verified: true
 twitter: '@suno_ai_'
 linkedin: https://www.linkedin.com/company/suno-ai
 crunchbase: https://www.crunchbase.com/organization/suno
-crunchbase_verified: false
+crunchbase_verified: true
 ---
 
 # Suno — AI Music Generation

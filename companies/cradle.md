@@ -115,7 +115,7 @@ confidence_notes: Funding rounds are well-documented. Founder backgrounds are co
 website_verified: true
 linkedin: https://www.linkedin.com/company/cradlebio
 crunchbase: https://www.crunchbase.com/organization/cradle
-crunchbase_verified: false
+crunchbase_verified: true
 ---
 
 # Cradle

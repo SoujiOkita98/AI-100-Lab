@@ -60,7 +60,7 @@ website_verified: true
 twitter: '@reflection_ai'
 linkedin: https://www.linkedin.com/company/reflectionai
 crunchbase: https://www.crunchbase.com/organization/reflection-ai
-crunchbase_verified: false
+crunchbase_verified: true
 ---
 
 # Reflection AI

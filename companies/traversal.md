@@ -19,7 +19,7 @@ data_notes: 'Needs verification: website, founders, source_urls, headquarters. P
 website: https://traversal.com
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/traversal
-crunchbase_verified: false
+crunchbase_verified: true
 ---
 
 # Traversal

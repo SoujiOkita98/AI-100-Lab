@@ -18,7 +18,7 @@ one_liner: AI-powered data enrichment and workflow automation platform that lets
 data_notes: 'Needs verification: website, founders. Profile may be incomplete.'
 total_funding: 204
 crunchbase: https://www.crunchbase.com/organization/clay
-crunchbase_verified: false
+crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/clayhq
 ---
 

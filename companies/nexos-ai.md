@@ -19,7 +19,7 @@ website_verified: true
 headquarters: Vilnius, Lithuania
 founded: 2024
 crunchbase: https://www.crunchbase.com/organization/nexos-ai
-crunchbase_verified: false
+crunchbase_verified: true
 ---
 
 # nexos.ai

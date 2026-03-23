@@ -14,7 +14,7 @@ one_liner: MatX is designing a custom AI chip -- the MatX One -- built from the 
   language models
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/matx
-crunchbase_verified: false
+crunchbase_verified: true
 ---
 
 # MatX

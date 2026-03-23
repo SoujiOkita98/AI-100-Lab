@@ -28,7 +28,7 @@ website_verified: true
 linkedin: https://www.linkedin.com/company/llamaindex
 headquarters: San Francisco, CA
 crunchbase: https://www.crunchbase.com/organization/llamaindex
-crunchbase_verified: false
+crunchbase_verified: true
 ---
 
 # LlamaIndex

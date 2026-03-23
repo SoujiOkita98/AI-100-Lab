@@ -51,7 +51,7 @@ one_liner: Galbot (Galaxy General Robotics) is a Beijing-based humanoid robotics
 website_verified: true
 linkedin: https://www.linkedin.com/company/galbot-robotics
 crunchbase: https://www.crunchbase.com/organization/galbot
-crunchbase_verified: false
+crunchbase_verified: true
 ---
 
 # Galbot (Galaxy General Robotics)

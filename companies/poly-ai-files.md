@@ -20,7 +20,7 @@ data_notes: 'Needs verification: website, founders, source_urls, headquarters. P
 website: https://poly.app
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/poly-ai-files
-crunchbase_verified: false
+crunchbase_verified: true
 ---
 
 # Poly

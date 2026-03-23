@@ -18,7 +18,7 @@ website_verified: true
 headquarters: New York, NY
 founded: 2023
 crunchbase: https://www.crunchbase.com/organization/splxai
-crunchbase_verified: false
+crunchbase_verified: true
 ---
 
 # SplxAI

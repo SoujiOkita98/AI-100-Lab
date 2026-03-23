@@ -65,7 +65,7 @@ funding_rounds:
 website_verified: true
 linkedin: https://www.linkedin.com/company/inflectionai
 crunchbase: https://www.crunchbase.com/organization/inflection-ai
-crunchbase_verified: false
+crunchbase_verified: true
 ---
 
 # Inflection AI

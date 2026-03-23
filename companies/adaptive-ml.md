@@ -19,7 +19,7 @@ data_notes: 'Needs verification: website, founders, source_urls. Profile may be 
 website: https://www.adaptive-ml.com
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/adaptive-ml
-crunchbase_verified: false
+crunchbase_verified: true
 ---
 
 # Adaptive ML

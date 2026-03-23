@@ -50,7 +50,7 @@ website_verified: true
 twitter: '@ssi'
 linkedin: https://www.linkedin.com/company/ssi-ai
 crunchbase: https://www.crunchbase.com/organization/safe-superintelligence
-crunchbase_verified: false
+crunchbase_verified: true
 ---
 
 # Safe Superintelligence

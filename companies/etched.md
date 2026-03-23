@@ -16,7 +16,7 @@ website_verified: true
 twitter: '@Etched'
 linkedin: https://www.linkedin.com/company/etched-ai
 crunchbase: https://www.crunchbase.com/organization/etched
-crunchbase_verified: false
+crunchbase_verified: true
 ---
 
 # Etched

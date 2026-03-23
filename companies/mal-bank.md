@@ -24,7 +24,7 @@ website: https://www.mal.ai
 website_verified: true
 headquarters: Abu Dhabi, UAE
 crunchbase: https://www.crunchbase.com/organization/mal-bank
-crunchbase_verified: false
+crunchbase_verified: true
 ---
 
 # Mal

@@ -22,7 +22,7 @@ one_liner: CodeRabbit is an AI-powered code review platform that integrates dire
 website_verified: true
 linkedin: https://www.linkedin.com/company/coderabbitai
 crunchbase: https://www.crunchbase.com/organization/coderabbit
-crunchbase_verified: false
+crunchbase_verified: true
 ---
 
 # CodeRabbit

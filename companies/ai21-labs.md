@@ -55,7 +55,7 @@ one_liner: AI21 Labs is an Israeli AI company founded in November 2017 that deve
 website_verified: true
 linkedin: https://www.linkedin.com/company/ai21
 crunchbase: https://www.crunchbase.com/organization/ai21-labs
-crunchbase_verified: false
+crunchbase_verified: true
 ---
 
 # AI21 Labs

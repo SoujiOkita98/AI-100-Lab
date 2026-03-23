@@ -25,7 +25,7 @@ website: https://www.aegisai.ai
 website_verified: true
 headquarters: New York, NY
 crunchbase: https://www.crunchbase.com/organization/aegisai
-crunchbase_verified: false
+crunchbase_verified: true
 ---
 
 # AegisAI

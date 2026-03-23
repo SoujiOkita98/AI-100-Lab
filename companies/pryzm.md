@@ -22,7 +22,7 @@ data_notes: 'Needs verification: source_urls, headquarters. Profile may be incom
 website_verified: true
 linkedin: https://www.linkedin.com/company/pryzm-dynamics
 crunchbase: https://www.crunchbase.com/organization/pryzm
-crunchbase_verified: false
+crunchbase_verified: true
 ---
 
 # Pryzm

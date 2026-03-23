@@ -50,7 +50,7 @@ one_liner: Imbue is an independent AI research lab that trains its own large fou
 website_verified: true
 linkedin: https://www.linkedin.com/company/imbue-ai
 crunchbase: https://www.crunchbase.com/organization/imbue
-crunchbase_verified: false
+crunchbase_verified: true
 ---
 
 # Imbue

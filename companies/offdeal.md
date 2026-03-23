@@ -17,7 +17,7 @@ headquarters: New York, NY
 website: https://offdeal.io
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/offdeal
-crunchbase_verified: false
+crunchbase_verified: true
 ---
 
 # OffDeal

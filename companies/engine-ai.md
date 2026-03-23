@@ -19,7 +19,7 @@ data_notes: 'Needs verification: website, founders, source_urls. Profile may be 
 website: https://en.engineai.com.cn
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/engine-ai
-crunchbase_verified: false
+crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/engineai-robotics
 ---
 

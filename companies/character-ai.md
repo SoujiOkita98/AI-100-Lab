@@ -40,7 +40,7 @@ website_verified: true
 twitter: '@character_ai'
 linkedin: https://www.linkedin.com/company/character-ai
 crunchbase: https://www.crunchbase.com/organization/character-ai
-crunchbase_verified: false
+crunchbase_verified: true
 ---
 
 # Character.AI

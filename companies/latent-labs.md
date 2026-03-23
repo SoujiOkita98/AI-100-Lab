@@ -21,7 +21,7 @@ website_verified: true
 linkedin: https://www.linkedin.com/company/latent-labs
 headquarters: London, UK
 crunchbase: https://www.crunchbase.com/organization/latent-labs
-crunchbase_verified: false
+crunchbase_verified: true
 ---
 
 # Latent Labs

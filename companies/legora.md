@@ -32,7 +32,7 @@ confidence: medium
 linkedin: https://www.linkedin.com/company/wearelegora
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/legora
-crunchbase_verified: false
+crunchbase_verified: true
 ---
 
 # Legora

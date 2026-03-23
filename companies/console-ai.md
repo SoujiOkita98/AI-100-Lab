@@ -30,7 +30,7 @@ website: https://www.console.com
 website_verified: true
 linkedin: https://www.linkedin.com/company/console-co
 crunchbase: https://www.crunchbase.com/organization/console-ai
-crunchbase_verified: false
+crunchbase_verified: true
 ---
 
 # Console

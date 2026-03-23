@@ -19,7 +19,7 @@ linkedin: https://www.linkedin.com/company/raspberry-ai
 website: https://www.raspberry.ai
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/raspberry-ai
-crunchbase_verified: false
+crunchbase_verified: true
 ---
 
 # Raspberry AI

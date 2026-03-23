@@ -46,7 +46,7 @@ one_liner: Moveworks built an AI-powered employee support platform -- an "enterp
 data_notes: 'Needs verification: website, founders. Profile may be incomplete.'
 linkedin: https://www.linkedin.com/company/moveworksai
 crunchbase: https://www.crunchbase.com/organization/moveworks
-crunchbase_verified: false
+crunchbase_verified: true
 ---
 
 # Moveworks -- Agentic AI Copilot for Enterprise Employee Support

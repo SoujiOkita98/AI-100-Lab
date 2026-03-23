@@ -23,7 +23,7 @@ website_verified: true
 linkedin: https://www.linkedin.com/company/bobyard
 headquarters: San Francisco, CA
 crunchbase: https://www.crunchbase.com/organization/bobyard
-crunchbase_verified: false
+crunchbase_verified: true
 ---
 
 # Bobyard

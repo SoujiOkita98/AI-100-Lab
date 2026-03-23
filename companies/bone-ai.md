@@ -20,7 +20,7 @@ data_notes: 'Needs verification: website, founders, source_urls. Profile may be 
 website: https://www.bonerobotics.ai
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/bone-ai
-crunchbase_verified: false
+crunchbase_verified: true
 ---
 
 # Bone AI

@@ -54,7 +54,7 @@ one_liner: WEKA builds a high-performance, software-defined data platform purpos
 website_verified: true
 linkedin: https://www.linkedin.com/company/weka-io
 crunchbase: https://www.crunchbase.com/organization/weka
-crunchbase_verified: false
+crunchbase_verified: true
 ---
 
 # WEKA

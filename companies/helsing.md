@@ -86,7 +86,7 @@ confidence: medium
 website_verified: false
 data_notes: 'Website URL may be invalid (HTTP 429). '
 crunchbase: https://www.crunchbase.com/organization/helsing
-crunchbase_verified: false
+crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/helsing
 ---
 

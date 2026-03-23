@@ -49,7 +49,7 @@ one_liner: Isomorphic Labs is an Alphabet subsidiary spun out of Google DeepMind
 website_verified: true
 total_funding: 600
 crunchbase: https://www.crunchbase.com/organization/isomorphic-labs
-crunchbase_verified: false
+crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/isomorphic-labs
 ---
 

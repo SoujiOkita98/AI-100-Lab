@@ -14,7 +14,7 @@ one_liner: Graphcore was a British AI chip company that designed the Intelligenc
   architecture built specifically for machine learning workloads
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/graphcore
-crunchbase_verified: false
+crunchbase_verified: true
 ---
 
 # Graphcore

@@ -20,7 +20,7 @@ website: https://www.pheronym.com
 founded: 2017
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/pheronym
-crunchbase_verified: false
+crunchbase_verified: true
 ---
 
 # Pheronym

@@ -29,7 +29,7 @@ website_verified: true
 linkedin: https://www.linkedin.com/company/overland-ai
 headquarters: Seattle, WA
 crunchbase: https://www.crunchbase.com/organization/overland-ai
-crunchbase_verified: false
+crunchbase_verified: true
 ---
 
 # Overland AI

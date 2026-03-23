@@ -19,7 +19,7 @@ linkedin: https://www.linkedin.com/company/govstream
 headquarters: Spokane, WA
 founded: 2024
 crunchbase: https://www.crunchbase.com/organization/govstream-ai
-crunchbase_verified: false
+crunchbase_verified: true
 ---
 
 # Govstream.ai

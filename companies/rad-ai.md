@@ -18,7 +18,7 @@ website: https://www.radai.com
 website_verified: true
 linkedin: https://www.linkedin.com/company/radai
 crunchbase: https://www.crunchbase.com/organization/rad-ai
-crunchbase_verified: false
+crunchbase_verified: true
 ---
 
 # Rad AI

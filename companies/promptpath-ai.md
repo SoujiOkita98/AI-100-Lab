@@ -16,7 +16,7 @@ data_notes: 'Needs verification: website, founders, source_urls. Profile may be 
 website: https://www.promptpath.ai
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/promptpath-ai
-crunchbase_verified: false
+crunchbase_verified: true
 ---
 
 # PromptPath.AI

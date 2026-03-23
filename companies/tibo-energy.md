@@ -18,7 +18,7 @@ website_verified: true
 headquarters: Eindhoven, Netherlands
 founded: 2022
 crunchbase: https://www.crunchbase.com/organization/tibo-energy
-crunchbase_verified: false
+crunchbase_verified: true
 ---
 
 # Tibo Energy

@@ -24,7 +24,7 @@ one_liner: Factory is building an "agent-native" software development platform c
   that handle full tasks across the software development lifecycle
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/factory-ai
-crunchbase_verified: false
+crunchbase_verified: true
 ---
 
 # Factory

@@ -29,7 +29,7 @@ website: https://smacktechnologies.com
 website_verified: true
 linkedin: https://www.linkedin.com/company/smack-technologies-inc
 crunchbase: https://www.crunchbase.com/organization/smack-technologies
-crunchbase_verified: false
+crunchbase_verified: true
 ---
 
 # Smack Technologies

@@ -18,7 +18,7 @@ website: https://www.octonomy.ai
 founded: 2024
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/octonomy
-crunchbase_verified: false
+crunchbase_verified: true
 ---
 
 # Octonomy

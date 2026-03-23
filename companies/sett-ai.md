@@ -19,7 +19,7 @@ data_notes: 'Needs verification: website, founders, source_urls, headquarters. P
 website: https://www.sett.ai
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/sett-ai
-crunchbase_verified: false
+crunchbase_verified: true
 ---
 
 # Sett

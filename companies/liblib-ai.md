@@ -19,7 +19,7 @@ data_notes: 'Needs verification: website, founders, source_urls. Profile may be 
 website: https://www.liblib.art
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/liblib-ai
-crunchbase_verified: false
+crunchbase_verified: true
 ---
 
 # LiblibAI

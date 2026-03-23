@@ -18,7 +18,7 @@ website: https://mytra.ai
 website_verified: true
 headquarters: Brisbane, CA
 crunchbase: https://www.crunchbase.com/organization/mytra
-crunchbase_verified: false
+crunchbase_verified: true
 ---
 
 # Mytra

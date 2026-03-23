@@ -72,7 +72,7 @@ funding_rounds:
   source: https://siliconangle.com/2024/05/16/business-intelligence-startup-sigma-closes-200m-round-1-5b-valuation/
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/sigma-computing
-crunchbase_verified: false
+crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/sigmacomputing
 ---
 

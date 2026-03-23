@@ -30,7 +30,7 @@ website: https://axiommath.ai
 website_verified: true
 headquarters: San Francisco, CA
 crunchbase: https://www.crunchbase.com/organization/axiom-math
-crunchbase_verified: false
+crunchbase_verified: true
 ---
 
 # Axiom Math

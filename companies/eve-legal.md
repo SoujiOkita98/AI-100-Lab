@@ -19,7 +19,7 @@ website: https://www.eve.legal
 website_verified: true
 headquarters: San Mateo, CA
 crunchbase: https://www.crunchbase.com/organization/eve-legal
-crunchbase_verified: false
+crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/eve-legal
 ---
 

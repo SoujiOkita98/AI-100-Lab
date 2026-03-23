@@ -34,7 +34,7 @@ website_verified: false
 data_notes: 'Website URL may be invalid (Connection failed). '
 linkedin: https://www.linkedin.com/company/formationbio
 crunchbase: https://www.crunchbase.com/organization/formation-bio
-crunchbase_verified: false
+crunchbase_verified: true
 ---
 
 # Formation Bio

@@ -19,7 +19,7 @@ website: https://www.unlimitedindustries.com
 website_verified: true
 headquarters: San Francisco, CA
 crunchbase: https://www.crunchbase.com/organization/unlimited-industries
-crunchbase_verified: false
+crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/unlimited-industries
 ---
 

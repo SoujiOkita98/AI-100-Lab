@@ -23,7 +23,7 @@ website_verified: true
 linkedin: https://www.linkedin.com/company/nomic-ai
 headquarters: New York, NY
 crunchbase: https://www.crunchbase.com/organization/nomic
-crunchbase_verified: false
+crunchbase_verified: true
 ---
 
 # Nomic

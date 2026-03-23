@@ -18,7 +18,7 @@ confidence: medium
 linkedin: https://www.linkedin.com/company/synthflowai
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/synthflow
-crunchbase_verified: false
+crunchbase_verified: true
 ---
 
 # Synthflow

@@ -67,7 +67,7 @@ website_verified: true
 twitter: '@cognition_labs'
 linkedin: https://www.linkedin.com/company/cognition-ai-labs
 crunchbase: https://www.crunchbase.com/organization/cognition-ai
-crunchbase_verified: false
+crunchbase_verified: true
 ---
 
 # Cognition AI

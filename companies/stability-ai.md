@@ -20,7 +20,7 @@ one_liner: Stability AI is the company behind Stable Diffusion, one of the most 
   AI models
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/stability-ai
-crunchbase_verified: false
+crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/stability-ai
 ---
 

@@ -18,7 +18,7 @@ website: https://antithesis.com
 website_verified: true
 headquarters: Vienna, VA
 crunchbase: https://www.crunchbase.com/organization/antithesis
-crunchbase_verified: false
+crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/antithesis-operations
 ---
 

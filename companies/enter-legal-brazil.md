@@ -27,7 +27,7 @@ website: https://www.getenter.ai
 website_verified: true
 linkedin: https://www.linkedin.com/company/getenter
 crunchbase: https://www.crunchbase.com/organization/enter-legal-brazil
-crunchbase_verified: false
+crunchbase_verified: true
 ---
 
 # Enter (Legal AI Brazil)

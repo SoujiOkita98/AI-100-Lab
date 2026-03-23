@@ -31,7 +31,7 @@ one_liner: Charm Therapeutics (stylized as CHARM) is a London-based biotech comp
 website_verified: true
 linkedin: https://www.linkedin.com/company/charm-therapeutics
 crunchbase: https://www.crunchbase.com/organization/charm-therapeutics
-crunchbase_verified: false
+crunchbase_verified: true
 ---
 
 # Charm Therapeutics

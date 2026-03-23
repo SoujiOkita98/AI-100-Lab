@@ -30,7 +30,7 @@ one_liner: Jasper is an AI content and marketing platform that rose to prominenc
 website_verified: true
 linkedin: https://www.linkedin.com/company/heyjasperai
 crunchbase: https://www.crunchbase.com/organization/jasper
-crunchbase_verified: false
+crunchbase_verified: true
 ---
 
 # Jasper -- AI Marketing Platform

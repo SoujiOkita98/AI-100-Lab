@@ -39,7 +39,7 @@ website_verified: true
 linkedin: https://www.linkedin.com/company/deepseek-ai
 twitter: '@deepseek_ai'
 crunchbase: https://www.crunchbase.com/organization/deepseek
-crunchbase_verified: false
+crunchbase_verified: true
 ---
 
 # DeepSeek

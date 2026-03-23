@@ -16,7 +16,7 @@ confidence: medium
 data_notes: 'Needs verification: website, founders. Profile may be incomplete.'
 total_funding: 38.5
 crunchbase: https://www.crunchbase.com/organization/sumble
-crunchbase_verified: false
+crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/sumble
 ---
 

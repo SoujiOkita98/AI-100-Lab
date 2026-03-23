@@ -29,7 +29,7 @@ data_notes: 'Needs verification: website, source_urls. Profile may be incomplete
 website: https://blocks.diy
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/blocks-diy
-crunchbase_verified: false
+crunchbase_verified: true
 ---
 
 # Blocks.diy

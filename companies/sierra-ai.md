@@ -56,7 +56,7 @@ website_verified: true
 twitter: '@SierraPlatform'
 linkedin: https://www.linkedin.com/company/sierra
 crunchbase: https://www.crunchbase.com/organization/sierra-ai
-crunchbase_verified: false
+crunchbase_verified: true
 ---
 
 # Sierra AI

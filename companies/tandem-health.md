@@ -13,7 +13,7 @@ total_funding: 50
 last_updated: 2026-03-21
 confidence: medium
 crunchbase: https://www.crunchbase.com/organization/tandem-health
-crunchbase_verified: false
+crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/tandem-health
 ---
 

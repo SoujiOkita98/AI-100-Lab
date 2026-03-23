@@ -23,7 +23,7 @@ confidence: medium
 website_verified: true
 linkedin: https://www.linkedin.com/company/evertune-ai
 crunchbase: https://www.crunchbase.com/organization/evertune
-crunchbase_verified: false
+crunchbase_verified: true
 ---
 
 # Evertune

@@ -72,7 +72,7 @@ funding_rounds:
 one_liner: Monte Carlo is the pioneer and market leader in data observability -- a category the company essentially created
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/monte-carlo-data
-crunchbase_verified: false
+crunchbase_verified: true
 ---
 
 # Monte Carlo

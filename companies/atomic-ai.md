@@ -24,7 +24,7 @@ data_notes: 'Needs verification: source_urls, headquarters. Profile may be incom
 website_verified: true
 headquarters: South San Francisco, CA
 crunchbase: https://www.crunchbase.com/organization/atomic-ai
-crunchbase_verified: false
+crunchbase_verified: true
 ---
 
 # Atomic AI

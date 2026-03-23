@@ -60,7 +60,7 @@ funding_rounds:
   source: https://siliconangle.com/2024/05/08/atlan-raises-105m-750m-valuation-data-ai-governance-platform/
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/atlan
-crunchbase_verified: false
+crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/atlan-hq
 ---
 

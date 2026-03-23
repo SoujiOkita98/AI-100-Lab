@@ -82,7 +82,7 @@ one_liner: Synthesia is a London-based AI video generation platform that convert
 twitter: '@synthesiaIO'
 linkedin: https://www.linkedin.com/company/synthesia-technologies
 crunchbase: https://www.crunchbase.com/organization/synthesia
-crunchbase_verified: false
+crunchbase_verified: true
 ---
 
 # Synthesia

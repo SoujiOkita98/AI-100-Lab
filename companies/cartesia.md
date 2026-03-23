@@ -31,7 +31,7 @@ one_liner: Cartesia builds real-time AI models based on State Space Model (SSM) 
 website_verified: true
 linkedin: https://www.linkedin.com/company/cartesia-ai
 crunchbase: https://www.crunchbase.com/organization/cartesia
-crunchbase_verified: false
+crunchbase_verified: true
 ---
 
 # Cartesia

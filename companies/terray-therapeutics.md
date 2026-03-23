@@ -20,7 +20,7 @@ website: https://www.terraytx.com
 website_verified: true
 linkedin: https://www.linkedin.com/company/terray-therapeutics
 crunchbase: https://www.crunchbase.com/organization/terray-therapeutics
-crunchbase_verified: false
+crunchbase_verified: true
 ---
 
 # Terray Therapeutics

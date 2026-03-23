@@ -27,7 +27,7 @@ confidence: medium
 website_verified: true
 linkedin: https://www.linkedin.com/company/sandboxaq
 crunchbase: https://www.crunchbase.com/organization/sandboxaq
-crunchbase_verified: false
+crunchbase_verified: true
 ---
 
 # SandboxAQ

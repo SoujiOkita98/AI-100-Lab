@@ -56,7 +56,7 @@ one_liner: Magic is building an AI software engineer designed to function as a c
 website_verified: true
 linkedin: https://www.linkedin.com/company/magicailabs
 crunchbase: https://www.crunchbase.com/organization/magic
-crunchbase_verified: false
+crunchbase_verified: true
 ---
 
 # Magic -- AI Software Engineer with Ultra-Long Context

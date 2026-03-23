@@ -19,7 +19,7 @@ data_notes: 'Needs verification: website, founders, source_urls. Profile may be 
 website: https://limbic.ai
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/limbic
-crunchbase_verified: false
+crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/limbic-ai
 ---
 

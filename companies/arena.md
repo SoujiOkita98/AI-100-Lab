@@ -62,7 +62,7 @@ last_updated: 2026-03-20
 one_liner: Arena (formerly LMArena, originally Chatbot Arena) is a community-powered AI model evaluation platform
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/arena
-crunchbase_verified: false
+crunchbase_verified: true
 ---
 
 # Arena

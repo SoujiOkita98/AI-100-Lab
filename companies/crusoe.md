@@ -62,7 +62,7 @@ website_verified: true
 twitter: '@CrusoeAI'
 linkedin: https://www.linkedin.com/company/crusoe
 crunchbase: https://www.crunchbase.com/organization/crusoe
-crunchbase_verified: false
+crunchbase_verified: true
 ---
 
 # Crusoe

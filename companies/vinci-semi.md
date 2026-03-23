@@ -29,7 +29,7 @@ website: https://www.getvinci.ai
 website_verified: true
 headquarters: Palo Alto, CA
 crunchbase: https://www.crunchbase.com/organization/vinci-semi
-crunchbase_verified: false
+crunchbase_verified: true
 ---
 
 # Vinci (Semiconductor)

@@ -18,7 +18,7 @@ website_verified: true
 headquarters: Durham, NC
 founded: 2017
 crunchbase: https://www.crunchbase.com/organization/sennos
-crunchbase_verified: false
+crunchbase_verified: true
 ---
 
 # Sennos

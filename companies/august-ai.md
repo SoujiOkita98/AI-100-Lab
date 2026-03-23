@@ -22,7 +22,7 @@ website: https://www.meetaugust.ai
 website_verified: true
 headquarters: New York, NY
 crunchbase: https://www.crunchbase.com/organization/august-ai
-crunchbase_verified: false
+crunchbase_verified: true
 ---
 
 # August AI

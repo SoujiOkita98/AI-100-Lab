@@ -23,7 +23,7 @@ website_verified: true
 linkedin: https://www.linkedin.com/company/coreweave
 twitter: '@CoreWeave'
 crunchbase: https://www.crunchbase.com/organization/coreweave
-crunchbase_verified: false
+crunchbase_verified: true
 ---
 
 # CoreWeave (CRWV)

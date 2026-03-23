@@ -29,7 +29,7 @@ data_notes: 'Needs verification: website, source_urls. Profile may be incomplete
 website: https://leta.ai
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/leta-logistics
-crunchbase_verified: false
+crunchbase_verified: true
 ---
 
 # Leta (Logistics)

@@ -16,7 +16,7 @@ total_funding: 5.9
 last_updated: 2026-03-21
 confidence: medium
 crunchbase: https://www.crunchbase.com/organization/buildcheck
-crunchbase_verified: false
+crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/buildcheck-ai
 ---
 

@@ -24,7 +24,7 @@ website: https://sdsa.ai
 website_verified: true
 headquarters: San Francisco, CA
 crunchbase: https://www.crunchbase.com/organization/dev-agents
-crunchbase_verified: false
+crunchbase_verified: true
 ---
 
 # /dev/agents

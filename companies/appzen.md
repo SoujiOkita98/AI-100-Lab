@@ -63,7 +63,7 @@ one_liner: '> AI-native autonomous finance platform with proprietary models, ser
   end-to-end finance workflows across T&E, accounts payable, and corporate cards'
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/appzen
-crunchbase_verified: false
+crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/appzen
 ---
 

@@ -19,7 +19,7 @@ headquarters: San Francisco, CA
 data_notes: 'Needs verification: founders, source_urls. Profile may be incomplete.'
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/raindrop
-crunchbase_verified: false
+crunchbase_verified: true
 ---
 
 # Raindrop

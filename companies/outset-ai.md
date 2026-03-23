@@ -18,7 +18,7 @@ headquarters: San Francisco, CA
 website: https://outset.ai
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/outset-ai
-crunchbase_verified: false
+crunchbase_verified: true
 ---
 
 # Outset

@@ -21,7 +21,7 @@ confidence: medium-high
 one_liner: Twelve Labs builds foundation models purpose-built for video understanding
 data_notes: 'Needs verification: website, founders. Profile may be incomplete.'
 crunchbase: https://www.crunchbase.com/organization/twelve-labs
-crunchbase_verified: false
+crunchbase_verified: true
 ---
 
 # Twelve Labs

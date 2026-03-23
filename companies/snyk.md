@@ -91,7 +91,7 @@ funding_rounds:
 website_verified: true
 linkedin: https://www.linkedin.com/company/snyk
 crunchbase: https://www.crunchbase.com/organization/snyk
-crunchbase_verified: false
+crunchbase_verified: true
 ---
 
 # Snyk

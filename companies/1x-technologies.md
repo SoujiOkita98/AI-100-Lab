@@ -95,7 +95,7 @@ website_verified: true
 twitter: '@1x_tech'
 linkedin: https://www.linkedin.com/company/1x-technologies
 crunchbase: https://www.crunchbase.com/organization/1x-technologies
-crunchbase_verified: false
+crunchbase_verified: true
 ---
 
 # 1X Technologies

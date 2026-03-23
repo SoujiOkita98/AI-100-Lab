@@ -25,7 +25,7 @@ data_notes: 'Needs verification: website, source_urls. Profile may be incomplete
 website: https://www.astrus.ai
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/astrus
-crunchbase_verified: false
+crunchbase_verified: true
 ---
 
 # Astrus

@@ -19,7 +19,7 @@ one_liner: Otter.ai is an AI-powered meeting assistant that provides real-time t
   items for meetings
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/otter-ai
-crunchbase_verified: false
+crunchbase_verified: true
 ---
 
 # Otter.ai -- AI Meeting Transcription & Productivity

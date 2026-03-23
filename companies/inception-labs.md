@@ -39,7 +39,7 @@ headquarters: Palo Alto, CA
 website_verified: true
 linkedin: https://www.linkedin.com/company/inception-labs-ai
 crunchbase: https://www.crunchbase.com/organization/inception-labs
-crunchbase_verified: false
+crunchbase_verified: true
 ---
 
 # Inception Labs

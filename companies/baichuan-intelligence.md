@@ -52,7 +52,7 @@ funding_rounds:
   source: https://asiatechdaily.com/alibaba-backed-baichuan-secures-691-million-valued-at-2-7-billion/
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/baichuan-intelligence
-crunchbase_verified: false
+crunchbase_verified: true
 ---
 
 # Baichuan Intelligence

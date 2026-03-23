@@ -129,7 +129,7 @@ sources:
 - https://www.ctol.digital/news/simile-ai-100m-series-a-synthetic-humanity/
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/simile
-crunchbase_verified: false
+crunchbase_verified: true
 ---
 
 # Simile

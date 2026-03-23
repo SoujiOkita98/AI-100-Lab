@@ -41,7 +41,7 @@ funding_rounds:
 one_liner: Rebellion Defense is a defense technology startup that builds AI-powered software for the U.S
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/rebellion-defense
-crunchbase_verified: false
+crunchbase_verified: true
 ---
 
 # Rebellion Defense

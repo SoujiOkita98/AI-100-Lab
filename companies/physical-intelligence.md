@@ -147,7 +147,7 @@ website_verified: true
 twitter: '@physical_int'
 linkedin: https://www.linkedin.com/company/physical-intelligence
 crunchbase: https://www.crunchbase.com/organization/physical-intelligence
-crunchbase_verified: false
+crunchbase_verified: true
 ---
 
 # Physical Intelligence

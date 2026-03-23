@@ -21,7 +21,7 @@ website_verified: true
 linkedin: https://www.linkedin.com/company/withmandolin
 headquarters: San Francisco, CA
 crunchbase: https://www.crunchbase.com/organization/mandolin-ai
-crunchbase_verified: false
+crunchbase_verified: true
 ---
 
 # Mandolin

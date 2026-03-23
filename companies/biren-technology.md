@@ -51,7 +51,7 @@ one_liner: Biren Technology is a Shanghai-based AI chip company that designs gen
 website_verified: true
 linkedin: https://www.linkedin.com/company/birentech
 crunchbase: https://www.crunchbase.com/organization/biren-technology
-crunchbase_verified: false
+crunchbase_verified: true
 ---
 
 # Biren Technology

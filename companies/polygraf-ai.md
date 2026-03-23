@@ -18,7 +18,7 @@ data_notes: 'Needs verification: website, founders, source_urls, headquarters. P
 website: https://polygraf.ai
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/polygraf-ai
-crunchbase_verified: false
+crunchbase_verified: true
 ---
 
 # Polygraf AI

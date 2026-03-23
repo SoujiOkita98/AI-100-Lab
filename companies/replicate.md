@@ -33,7 +33,7 @@ one_liner: Cloud API platform that lets developers run open-source ML models wit
   to manage GPUs or infrastructure
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/replicate
-crunchbase_verified: false
+crunchbase_verified: true
 ---
 
 # Replicate

@@ -185,7 +185,7 @@ website_verified: true
 linkedin: https://www.linkedin.com/company/openai
 twitter: '@openai'
 crunchbase: https://www.crunchbase.com/organization/openai
-crunchbase_verified: false
+crunchbase_verified: true
 ---
 
 # OpenAI

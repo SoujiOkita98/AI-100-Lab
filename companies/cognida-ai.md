@@ -19,7 +19,7 @@ website: https://www.cognida.ai
 website_verified: true
 linkedin: https://www.linkedin.com/company/cognida-ai
 crunchbase: https://www.crunchbase.com/organization/cognida-ai
-crunchbase_verified: false
+crunchbase_verified: true
 ---
 
 # Cognida.ai

@@ -14,7 +14,7 @@ one_liner: Rain AI (formerly Rain Neuromorphics) is developing neuromorphic-insp
   inference
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/rain-ai
-crunchbase_verified: false
+crunchbase_verified: true
 ---
 
 # Rain AI

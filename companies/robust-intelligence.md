@@ -41,7 +41,7 @@ website: https://www.robustintelligence.com
 website_verified: false
 data_notes: 'Website URL may be invalid (Connection failed). '
 crunchbase: https://www.crunchbase.com/organization/robust-intelligence
-crunchbase_verified: false
+crunchbase_verified: true
 ---
 
 # Robust Intelligence

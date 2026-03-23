@@ -27,7 +27,7 @@ website: https://mate.security
 website_verified: true
 linkedin: https://www.linkedin.com/company/mate-security
 crunchbase: https://www.crunchbase.com/organization/mate-security
-crunchbase_verified: false
+crunchbase_verified: true
 ---
 
 # Mate Security

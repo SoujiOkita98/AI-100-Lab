@@ -19,7 +19,7 @@ website: https://www.agentmail.to
 website_verified: true
 headquarters: San Francisco, CA
 crunchbase: https://www.crunchbase.com/organization/agentmail
-crunchbase_verified: false
+crunchbase_verified: true
 ---
 
 # AgentMail

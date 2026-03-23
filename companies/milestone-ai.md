@@ -20,7 +20,7 @@ website: https://mstone.ai
 website_verified: true
 headquarters: Tel Aviv, Israel
 crunchbase: https://www.crunchbase.com/organization/milestone-ai
-crunchbase_verified: false
+crunchbase_verified: true
 ---
 
 # Milestone AI

@@ -61,7 +61,7 @@ one_liner: EliseAI is a vertical AI company that automates communications and op
 website_verified: true
 linkedin: https://www.linkedin.com/company/eliseai
 crunchbase: https://www.crunchbase.com/organization/eliseai
-crunchbase_verified: false
+crunchbase_verified: true
 ---
 
 # EliseAI -- Company Profile

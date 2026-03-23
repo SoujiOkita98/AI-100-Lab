@@ -47,7 +47,7 @@ funding_rounds:
   notes: ~8B CNY raised in IPO.
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/moore-threads
-crunchbase_verified: false
+crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/moorethreads
 ---
 

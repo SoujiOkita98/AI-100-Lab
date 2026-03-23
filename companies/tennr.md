@@ -55,7 +55,7 @@ one_liner: '> AI-powered healthcare document automation that processes 10 millio
   broken patient referral system'
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/tennr
-crunchbase_verified: false
+crunchbase_verified: true
 ---
 
 # Tennr

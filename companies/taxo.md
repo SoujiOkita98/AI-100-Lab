@@ -34,7 +34,7 @@ one_liner: Taxo is a healthcare AI company building what it describes as the wor
 website: https://taxo.ai
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/taxo
-crunchbase_verified: false
+crunchbase_verified: true
 ---
 
 # Taxo

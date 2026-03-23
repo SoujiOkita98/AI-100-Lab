@@ -22,7 +22,7 @@ one_liner: Sphere is an AI-native global tax compliance platform that automates 
   expanding internationally
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/sphere
-crunchbase_verified: false
+crunchbase_verified: true
 ---
 
 # Sphere -- Company Profile

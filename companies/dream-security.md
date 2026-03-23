@@ -18,7 +18,7 @@ website: https://dreamgroup.com
 website_verified: true
 headquarters: Tel Aviv, Israel
 crunchbase: https://www.crunchbase.com/organization/dream-security
-crunchbase_verified: false
+crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/dreamsecurity
 ---
 

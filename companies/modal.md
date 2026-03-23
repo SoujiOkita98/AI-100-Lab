@@ -57,7 +57,7 @@ one_liner: Modal is a serverless compute platform purpose-built for AI and ML wo
 website_verified: true
 linkedin: https://www.linkedin.com/company/modal-labs
 crunchbase: https://www.crunchbase.com/organization/modal
-crunchbase_verified: false
+crunchbase_verified: true
 ---
 
 # Modal — Serverless Cloud for AI/ML

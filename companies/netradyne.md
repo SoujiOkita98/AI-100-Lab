@@ -55,7 +55,7 @@ funding_rounds:
 one_liner: Netradyne is a private technology company specializing in artificial intelligence and edge computing for fleet
   safety and management
 crunchbase: https://www.crunchbase.com/organization/netradyne
-crunchbase_verified: false
+crunchbase_verified: true
 ---
 
 # Netradyne -- AI-Powered Fleet Safety & Driver Intelligence

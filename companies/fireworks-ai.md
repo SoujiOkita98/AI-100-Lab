@@ -49,7 +49,7 @@ website_verified: true
 twitter: '@FireworksAI_HQ'
 linkedin: https://www.linkedin.com/company/fireworks-ai
 crunchbase: https://www.crunchbase.com/organization/fireworks-ai
-crunchbase_verified: false
+crunchbase_verified: true
 ---
 
 # Fireworks AI

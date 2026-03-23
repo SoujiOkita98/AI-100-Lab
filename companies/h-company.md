@@ -55,7 +55,7 @@ one_liner: '> Paris-based AI startup building autonomous "action-oriented" agent
   by a record-breaking European seed round'
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/h-company
-crunchbase_verified: false
+crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/h-company-ai
 ---
 

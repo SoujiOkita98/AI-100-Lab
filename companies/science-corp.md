@@ -30,7 +30,7 @@ website: https://science.xyz
 website_verified: true
 linkedin: https://www.linkedin.com/company/sciencecorporation
 crunchbase: https://www.crunchbase.com/organization/science-corp
-crunchbase_verified: false
+crunchbase_verified: true
 ---
 
 # Science Corp

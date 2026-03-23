@@ -19,7 +19,7 @@ data_notes: 'Needs verification: founders, source_urls, headquarters. Profile ma
 website_verified: true
 headquarters: San Francisco, CA
 crunchbase: https://www.crunchbase.com/organization/alphaxiv
-crunchbase_verified: false
+crunchbase_verified: true
 ---
 
 # alphaXiv

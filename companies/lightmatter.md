@@ -15,7 +15,7 @@ one_liner: Lightmatter is a photonic computing and interconnect company building
 website_verified: true
 linkedin: https://www.linkedin.com/company/lightmatter
 crunchbase: https://www.crunchbase.com/organization/lightmatter
-crunchbase_verified: false
+crunchbase_verified: true
 ---
 
 # Lightmatter

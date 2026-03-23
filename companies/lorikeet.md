@@ -20,7 +20,7 @@ website: https://www.lorikeetcx.ai
 website_verified: true
 linkedin: https://www.linkedin.com/company/lorikeetcx
 crunchbase: https://www.crunchbase.com/organization/lorikeet
-crunchbase_verified: false
+crunchbase_verified: true
 ---
 
 # Lorikeet

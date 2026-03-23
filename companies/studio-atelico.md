@@ -17,7 +17,7 @@ website: https://atelico.studio
 founded: 2024
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/studio-atelico
-crunchbase_verified: false
+crunchbase_verified: true
 ---
 
 # Studio Atelico

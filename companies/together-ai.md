@@ -54,7 +54,7 @@ website_verified: true
 linkedin: https://www.linkedin.com/company/togethercomputer
 twitter: '@togethercompute'
 crunchbase: https://www.crunchbase.com/organization/together-ai
-crunchbase_verified: false
+crunchbase_verified: true
 ---
 
 # Together AI

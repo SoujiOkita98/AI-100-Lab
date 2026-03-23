@@ -18,7 +18,7 @@ website: https://www.peripheral.so
 website_verified: true
 headquarters: Toronto, Canada
 crunchbase: https://www.crunchbase.com/organization/peripheral-labs
-crunchbase_verified: false
+crunchbase_verified: true
 ---
 
 # Peripheral Labs

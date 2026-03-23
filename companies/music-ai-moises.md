@@ -21,7 +21,7 @@ website_verified: true
 linkedin: https://www.linkedin.com/company/moises
 headquarters: Salt Lake City, UT
 crunchbase: https://www.crunchbase.com/organization/music-ai-moises
-crunchbase_verified: false
+crunchbase_verified: true
 ---
 
 # Music AI (Moises)

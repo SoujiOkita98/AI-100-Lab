@@ -35,7 +35,7 @@ website: https://www.harperinsure.com
 website_verified: true
 linkedin: https://www.linkedin.com/company/harperinsure
 crunchbase: https://www.crunchbase.com/organization/harper
-crunchbase_verified: false
+crunchbase_verified: true
 ---
 
 # Harper

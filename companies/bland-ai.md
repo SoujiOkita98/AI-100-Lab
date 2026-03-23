@@ -30,7 +30,7 @@ one_liner: Enterprise platform for automating phone calls with AI voice agents t
   outbound calls at scale
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/bland-ai
-crunchbase_verified: false
+crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/bland-ai
 ---
 

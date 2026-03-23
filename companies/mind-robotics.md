@@ -94,7 +94,7 @@ confidence_notes: Funding amounts ($115M seed, $500M Series A) and lead investor
   disclosed. Employee count (~13) is from LinkedIn and may be outdated given rapid hiring.
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/mind-robotics
-crunchbase_verified: false
+crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/mindrobotics
 ---
 

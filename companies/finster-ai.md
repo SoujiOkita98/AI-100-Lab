@@ -26,7 +26,7 @@ website: https://www.finster.ai
 website_verified: true
 linkedin: https://www.linkedin.com/company/finster-ai
 crunchbase: https://www.crunchbase.com/organization/finster-ai
-crunchbase_verified: false
+crunchbase_verified: true
 ---
 
 # Finster AI

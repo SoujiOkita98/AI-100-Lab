@@ -16,7 +16,7 @@ confidence_notes: Series B ($43M at $500M) well-sourced via TechCrunch. ARR of $
   CEO.
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/photoroom
-crunchbase_verified: false
+crunchbase_verified: true
 ---
 
 # Photoroom -- AI Photo Editing

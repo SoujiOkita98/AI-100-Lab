@@ -55,7 +55,7 @@ one_liner: Writer is a full-stack enterprise generative AI platform built on its
 website_verified: true
 linkedin: https://www.linkedin.com/company/getwriter
 crunchbase: https://www.crunchbase.com/organization/writer
-crunchbase_verified: false
+crunchbase_verified: true
 ---
 
 # Writer — Enterprise AI Platform

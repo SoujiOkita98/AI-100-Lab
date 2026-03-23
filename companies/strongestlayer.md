@@ -19,7 +19,7 @@ website: https://www.strongestlayer.com
 website_verified: true
 headquarters: San Francisco, CA
 crunchbase: https://www.crunchbase.com/organization/strongestlayer
-crunchbase_verified: false
+crunchbase_verified: true
 ---
 
 # StrongestLayer

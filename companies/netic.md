@@ -29,7 +29,7 @@ headquarters: San Francisco, CA
 website_verified: true
 linkedin: https://www.linkedin.com/company/netic-ai
 crunchbase: https://www.crunchbase.com/organization/netic
-crunchbase_verified: false
+crunchbase_verified: true
 ---
 
 # Netic

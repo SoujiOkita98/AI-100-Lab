@@ -44,7 +44,7 @@ one_liner: HeyGen is an AI-powered video generation platform that enables users 
   AI avatars, voice cloning, and text-to-speech in over 175 languages
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/heygen
-crunchbase_verified: false
+crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/heygen
 ---
 

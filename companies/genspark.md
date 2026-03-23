@@ -25,7 +25,7 @@ headquarters: Palo Alto, CA
 website: https://www.genspark.ai
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/genspark
-crunchbase_verified: false
+crunchbase_verified: true
 ---
 
 # Genspark

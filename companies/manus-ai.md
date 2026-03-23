@@ -47,7 +47,7 @@ one_liner: Manus AI is an AI agent platform that burst onto the scene in March 2
   AI products globally
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/manus-ai
-crunchbase_verified: false
+crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/manus-im
 ---
 

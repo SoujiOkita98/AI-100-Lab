@@ -80,7 +80,7 @@ website_verified: true
 linkedin: https://www.linkedin.com/company/perplexity-ai
 twitter: '@perplexity_ai'
 crunchbase: https://www.crunchbase.com/organization/perplexity
-crunchbase_verified: false
+crunchbase_verified: true
 ---
 
 # Perplexity AI

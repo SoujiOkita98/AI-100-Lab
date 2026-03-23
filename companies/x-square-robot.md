@@ -20,7 +20,7 @@ data_notes: 'Needs verification: website, founders, source_urls. Profile may be 
 website: https://www.x2robot.com/en
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/x-square-robot
-crunchbase_verified: false
+crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/x-square-robot
 ---
 

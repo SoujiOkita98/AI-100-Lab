@@ -42,7 +42,7 @@ last_updated: 2026-03-21
 confidence: medium
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/lmarena
-crunchbase_verified: false
+crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/lmarena
 ---
 

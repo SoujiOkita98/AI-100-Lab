@@ -25,7 +25,7 @@ website: https://www.generalintuition.com
 website_verified: true
 headquarters: New York, NY
 crunchbase: https://www.crunchbase.com/organization/general-intuition
-crunchbase_verified: false
+crunchbase_verified: true
 ---
 
 # General Intuition

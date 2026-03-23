@@ -40,7 +40,7 @@ website: https://browser-use.com
 website_verified: true
 linkedin: https://www.linkedin.com/company/browser-use
 crunchbase: https://www.crunchbase.com/organization/browser-use
-crunchbase_verified: false
+crunchbase_verified: true
 ---
 
 # Browser Use

@@ -22,7 +22,7 @@ website: https://www.soxton.ai
 website_verified: true
 headquarters: New York, NY
 crunchbase: https://www.crunchbase.com/organization/soxton-ai
-crunchbase_verified: false
+crunchbase_verified: true
 ---
 
 # Soxton AI

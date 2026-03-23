@@ -18,7 +18,7 @@ website_verified: true
 headquarters: Palo Alto, CA
 founded: 2022
 crunchbase: https://www.crunchbase.com/organization/subsense
-crunchbase_verified: false
+crunchbase_verified: true
 ---
 
 # Subsense

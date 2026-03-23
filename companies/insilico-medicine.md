@@ -15,7 +15,7 @@ total_funding: 1000
 website_verified: true
 linkedin: https://www.linkedin.com/company/in-silico-medicine
 crunchbase: https://www.crunchbase.com/organization/insilico-medicine
-crunchbase_verified: false
+crunchbase_verified: true
 ---
 
 # Insilico Medicine

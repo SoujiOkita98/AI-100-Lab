@@ -18,7 +18,7 @@ website_verified: true
 headquarters: Bellevue, WA
 founded: 2025
 crunchbase: https://www.crunchbase.com/organization/entire
-crunchbase_verified: false
+crunchbase_verified: true
 ---
 
 # Entire

@@ -29,7 +29,7 @@ website: https://www.nodaintelligence.ai
 website_verified: true
 linkedin: https://www.linkedin.com/company/noda-ai
 crunchbase: https://www.crunchbase.com/organization/noda-ai
-crunchbase_verified: false
+crunchbase_verified: true
 ---
 
 # NODA AI

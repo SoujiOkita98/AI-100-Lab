@@ -42,7 +42,7 @@ funding_rounds:
 website_verified: true
 linkedin: https://www.linkedin.com/company/get-basis-ai
 crunchbase: https://www.crunchbase.com/organization/basis
-crunchbase_verified: false
+crunchbase_verified: true
 ---
 
 # Basis -- Company Profile

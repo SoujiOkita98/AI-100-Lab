@@ -18,7 +18,7 @@ website: https://www.getleo.ai
 founded: 2023
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/leo-ai
-crunchbase_verified: false
+crunchbase_verified: true
 ---
 
 # Leo AI

@@ -29,7 +29,7 @@ website: https://mindoo.ai
 website_verified: true
 linkedin: https://www.linkedin.com/company/mindoo-ai
 crunchbase: https://www.crunchbase.com/organization/mindoo
-crunchbase_verified: false
+crunchbase_verified: true
 ---
 
 # Mindoo

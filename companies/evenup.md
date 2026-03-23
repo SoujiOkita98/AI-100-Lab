@@ -50,7 +50,7 @@ funding_rounds:
 website_verified: true
 linkedin: https://www.linkedin.com/company/evenup
 crunchbase: https://www.crunchbase.com/organization/evenup
-crunchbase_verified: false
+crunchbase_verified: true
 ---
 
 # EvenUp -- Company Profile

@@ -29,7 +29,7 @@ website_verified: true
 linkedin: https://www.linkedin.com/company/manas-ai
 headquarters: New York, NY
 crunchbase: https://www.crunchbase.com/organization/manas-ai
-crunchbase_verified: false
+crunchbase_verified: true
 ---
 
 # Manas AI

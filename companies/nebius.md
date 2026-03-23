@@ -48,7 +48,7 @@ one_liner: Nebius is a full-stack AI cloud infrastructure provider offering GPU-
   enterprises
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/nebius
-crunchbase_verified: false
+crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/nebius
 ---
 

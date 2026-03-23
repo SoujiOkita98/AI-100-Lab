@@ -50,7 +50,7 @@ one_liner: Semgrep (formerly r2c / Return to Corporation) is an AI-powered code 
   static analysis with large language models to find vulnerabilities in code
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/semgrep
-crunchbase_verified: false
+crunchbase_verified: true
 ---
 
 # Semgrep

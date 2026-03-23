@@ -61,7 +61,7 @@ funding_rounds:
 website: https://emergent.sh
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/emergent
-crunchbase_verified: false
+crunchbase_verified: true
 ---
 
 # Emergent

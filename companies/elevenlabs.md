@@ -95,7 +95,7 @@ website_verified: true
 linkedin: https://www.linkedin.com/company/elevenlabsio
 twitter: '@ElevenLabs'
 crunchbase: https://www.crunchbase.com/organization/elevenlabs
-crunchbase_verified: false
+crunchbase_verified: true
 ---
 
 # ElevenLabs

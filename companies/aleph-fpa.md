@@ -18,7 +18,7 @@ website: https://www.getaleph.com
 website_verified: true
 headquarters: New York, NY
 crunchbase: https://www.crunchbase.com/organization/aleph-fpa
-crunchbase_verified: false
+crunchbase_verified: true
 ---
 
 # Aleph (FP&A)

@@ -25,7 +25,7 @@ one_liner: Numeric is an AI-powered accounting platform that unifies close manag
   for enterprise finance teams
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/numeric
-crunchbase_verified: false
+crunchbase_verified: true
 ---
 
 # Numeric -- Company Profile

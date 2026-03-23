@@ -20,7 +20,7 @@ website_verified: true
 linkedin: https://www.linkedin.com/company/eudia-team
 headquarters: Palo Alto, CA
 crunchbase: https://www.crunchbase.com/organization/eudia
-crunchbase_verified: false
+crunchbase_verified: true
 ---
 
 # Eudia

@@ -20,7 +20,7 @@ data_notes: 'Needs verification: website, founders, source_urls. Profile may be 
 website: https://www.spaitial.ai
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/spaitial
-crunchbase_verified: false
+crunchbase_verified: true
 ---
 
 # SpAItial

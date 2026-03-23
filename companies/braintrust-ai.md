@@ -35,7 +35,7 @@ headquarters: San Francisco, CA
 website_verified: true
 linkedin: https://www.linkedin.com/company/braintrust-data
 crunchbase: https://www.crunchbase.com/organization/braintrust-ai
-crunchbase_verified: false
+crunchbase_verified: true
 ---
 
 # Braintrust (AI Eval)

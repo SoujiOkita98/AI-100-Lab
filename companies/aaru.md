@@ -37,7 +37,7 @@ last_updated: 2026-03-20
 one_liner: Aaru is an AI-powered synthetic research company that replaces traditional market research methods (surveys, focus
   groups, polling) with thousands of AI agents that simulate human behavior
 crunchbase: https://www.crunchbase.com/organization/aaru
-crunchbase_verified: false
+crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/aaru-ai
 ---
 

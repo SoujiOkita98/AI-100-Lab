@@ -80,7 +80,7 @@ one_liner: Monarch Tractor designs and manufactures fully electric, autonomous (
   agricultural sector
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/monarch-tractor
-crunchbase_verified: false
+crunchbase_verified: true
 ---
 
 # Monarch Tractor

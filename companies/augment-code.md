@@ -41,7 +41,7 @@ website_verified: true
 twitter: '@augmentcode'
 linkedin: https://www.linkedin.com/company/augmentinc
 crunchbase: https://www.crunchbase.com/organization/augment-code
-crunchbase_verified: false
+crunchbase_verified: true
 ---
 
 # Augment Code

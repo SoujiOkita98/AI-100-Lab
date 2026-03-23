@@ -24,7 +24,7 @@ one_liner: Xaira Therapeutics is an AI-powered drug discovery company that launc
   funding -- one of the largest launch rounds in biotech history
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/xaira-therapeutics
-crunchbase_verified: false
+crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/xaira-therapeutics
 ---
 

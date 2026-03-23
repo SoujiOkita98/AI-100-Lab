@@ -27,7 +27,7 @@ website: https://nace.ai
 website_verified: true
 linkedin: https://www.linkedin.com/company/nace-ai
 crunchbase: https://www.crunchbase.com/organization/nace-ai
-crunchbase_verified: false
+crunchbase_verified: true
 ---
 
 # Nace.AI

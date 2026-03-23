@@ -19,7 +19,7 @@ website_verified: true
 linkedin: https://www.linkedin.com/company/gretelai
 headquarters: San Diego, CA
 crunchbase: https://www.crunchbase.com/organization/gretel-ai
-crunchbase_verified: false
+crunchbase_verified: true
 ---
 
 # Gretel AI

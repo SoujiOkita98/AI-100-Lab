@@ -19,7 +19,7 @@ linkedin: https://www.linkedin.com/company/keplar-io
 headquarters: San Francisco, CA
 founded: 2023
 crunchbase: https://www.crunchbase.com/organization/keplar
-crunchbase_verified: false
+crunchbase_verified: true
 ---
 
 # Keplar

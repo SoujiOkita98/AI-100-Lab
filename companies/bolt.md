@@ -54,7 +54,7 @@ one_liner: AI-powered full-stack application builder that runs entirely in the b
   deployable web apps in minutes
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/bolt
-crunchbase_verified: false
+crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/stackblitz
 ---
 

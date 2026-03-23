@@ -58,7 +58,7 @@ website_verified: true
 twitter: '@hippocraticai'
 linkedin: https://www.linkedin.com/company/hippocratic-ai-health
 crunchbase: https://www.crunchbase.com/organization/hippocratic-ai
-crunchbase_verified: false
+crunchbase_verified: true
 ---
 
 # Hippocratic AI

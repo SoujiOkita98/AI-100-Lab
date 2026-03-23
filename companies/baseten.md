@@ -67,7 +67,7 @@ website_verified: true
 twitter: '@basetenco'
 linkedin: https://www.linkedin.com/company/baseten
 crunchbase: https://www.crunchbase.com/organization/baseten
-crunchbase_verified: false
+crunchbase_verified: true
 ---
 
 # Baseten

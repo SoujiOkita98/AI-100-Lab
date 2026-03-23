@@ -191,7 +191,7 @@ website_verified: true
 linkedin: https://www.linkedin.com/company/xai
 twitter: '@xai'
 crunchbase: https://www.crunchbase.com/organization/xai
-crunchbase_verified: false
+crunchbase_verified: true
 ---
 
 # xAI

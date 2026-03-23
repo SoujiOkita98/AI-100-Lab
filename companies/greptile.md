@@ -22,7 +22,7 @@ one_liner: Greptile is an AI-powered code review and code validation platform th
   context-aware code review
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/greptile
-crunchbase_verified: false
+crunchbase_verified: true
 ---
 
 # Greptile

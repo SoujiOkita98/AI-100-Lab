@@ -22,7 +22,7 @@ website_verified: true
 headquarters: San Francisco, CA
 linkedin: https://www.linkedin.com/company/delve-ai
 crunchbase: https://www.crunchbase.com/organization/delve-ai
-crunchbase_verified: false
+crunchbase_verified: true
 ---
 
 # Delve

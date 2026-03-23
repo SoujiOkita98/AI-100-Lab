@@ -28,7 +28,7 @@ linkedin: https://www.linkedin.com/company/fieldai
 headquarters: Irvine, CA
 founded: 2023
 crunchbase: https://www.crunchbase.com/organization/fieldai
-crunchbase_verified: false
+crunchbase_verified: true
 ---
 
 # FieldAI

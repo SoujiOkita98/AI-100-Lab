@@ -14,7 +14,7 @@ one_liner: In-memory AI inference accelerator chips — Corsair series targeting
 website_verified: true
 linkedin: https://www.linkedin.com/company/d-matrix
 crunchbase: https://www.crunchbase.com/organization/d-matrix
-crunchbase_verified: false
+crunchbase_verified: true
 ---
 
 # d-Matrix

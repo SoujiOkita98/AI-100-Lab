@@ -69,7 +69,7 @@ website_verified: true
 twitter: '@Apptronik'
 linkedin: https://www.linkedin.com/company/apptronik-inc.
 crunchbase: https://www.crunchbase.com/organization/apptronik
-crunchbase_verified: false
+crunchbase_verified: true
 ---
 
 # Apptronik

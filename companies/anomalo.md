@@ -56,7 +56,7 @@ strategic_investors:
 - Snowflake Ventures
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/anomalo
-crunchbase_verified: false
+crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/anomalo
 ---
 

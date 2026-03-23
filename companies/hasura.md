@@ -56,7 +56,7 @@ funding_rounds:
 one_liner: Hasura is a developer tooling company that provides instant data access and API generation for enterprises
 linkedin: https://www.linkedin.com/company/hasura
 crunchbase: https://www.crunchbase.com/organization/hasura
-crunchbase_verified: false
+crunchbase_verified: true
 ---
 
 # Hasura -- AI Data Infrastructure & API Platform

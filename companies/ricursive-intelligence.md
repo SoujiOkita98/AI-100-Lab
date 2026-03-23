@@ -30,7 +30,7 @@ headquarters: Palo Alto, CA
 website_verified: true
 linkedin: https://www.linkedin.com/company/ricursive-intelligence
 crunchbase: https://www.crunchbase.com/organization/ricursive-intelligence
-crunchbase_verified: false
+crunchbase_verified: true
 ---
 
 # Ricursive Intelligence

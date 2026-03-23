@@ -38,7 +38,7 @@ one_liner: Poolside is building purpose-built foundation models for software eng
 website_verified: true
 total_funding: 626
 crunchbase: https://www.crunchbase.com/organization/poolside
-crunchbase_verified: false
+crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/poolsideai
 ---
 

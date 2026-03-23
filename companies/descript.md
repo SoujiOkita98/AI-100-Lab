@@ -60,7 +60,7 @@ one_liner: 'Descript is an AI-powered collaborative video and audio editing plat
 website_verified: true
 linkedin: https://www.linkedin.com/company/descript
 crunchbase: https://www.crunchbase.com/organization/descript
-crunchbase_verified: false
+crunchbase_verified: true
 ---
 
 # Descript

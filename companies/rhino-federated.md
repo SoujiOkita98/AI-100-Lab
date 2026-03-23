@@ -19,7 +19,7 @@ data_notes: 'Needs verification: founders, source_urls. Profile may be incomplet
 website_verified: true
 linkedin: https://www.linkedin.com/company/rhinofc
 crunchbase: https://www.crunchbase.com/organization/rhino-federated
-crunchbase_verified: false
+crunchbase_verified: true
 ---
 
 # Rhino Federated Computing

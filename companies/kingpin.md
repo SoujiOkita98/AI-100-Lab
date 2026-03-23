@@ -15,7 +15,7 @@ total_funding: 3.5
 last_updated: 2026-03-21
 confidence: medium
 crunchbase: https://www.crunchbase.com/organization/kingpin
-crunchbase_verified: false
+crunchbase_verified: true
 ---
 
 # Kingpin

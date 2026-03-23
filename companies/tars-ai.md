@@ -32,7 +32,7 @@ founders:
   origin: Chinese
 data_notes: 'Needs verification: website, source_urls. Profile may be incomplete.'
 crunchbase: https://www.crunchbase.com/organization/tars-ai
-crunchbase_verified: false
+crunchbase_verified: true
 ---
 
 # TARS (Tashi Zhihang)

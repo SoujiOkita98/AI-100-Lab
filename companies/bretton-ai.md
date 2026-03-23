@@ -22,7 +22,7 @@ confidence: medium
 linkedin: https://www.linkedin.com/company/bretton-ai
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/bretton-ai
-crunchbase_verified: false
+crunchbase_verified: true
 ---
 
 # Bretton AI

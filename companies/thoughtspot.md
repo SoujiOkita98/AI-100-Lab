@@ -85,7 +85,7 @@ funding_rounds:
   source: https://www.thoughtspot.com/press-releases/thoughtspot-raises-new-funding-at-usd4-2b-valuation
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/thoughtspot
-crunchbase_verified: false
+crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/thoughtspot
 ---
 

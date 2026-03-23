@@ -21,7 +21,7 @@ one_liner: FurtherAI builds AI agents that automate insurance workflows across u
   and compliance
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/furtherai
-crunchbase_verified: false
+crunchbase_verified: true
 ---
 
 # FurtherAI -- Company Profile

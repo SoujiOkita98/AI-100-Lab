@@ -26,7 +26,7 @@ confidence: medium
 data_notes: 'Needs verification: source_urls, headquarters. Profile may be incomplete.'
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/parallel-web
-crunchbase_verified: false
+crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/parallel-web
 ---
 

@@ -33,7 +33,7 @@ one_liner: '> AI agents automating logistics operations for enterprises like DHL
   founders out of YC S23'
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/happyrobot
-crunchbase_verified: false
+crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/happyrobot
 ---
 

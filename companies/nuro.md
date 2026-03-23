@@ -86,7 +86,7 @@ website_verified: true
 twitter: '@nuro'
 linkedin: https://www.linkedin.com/company/nuro-inc.
 crunchbase: https://www.crunchbase.com/organization/nuro
-crunchbase_verified: false
+crunchbase_verified: true
 ---
 
 # Nuro

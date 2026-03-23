@@ -12,7 +12,7 @@ last_updated: 2026-03-20
 confidence: high (publicly traded; extensive disclosures available)
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/recursion
-crunchbase_verified: false
+crunchbase_verified: true
 ---
 
 # Recursion Pharmaceuticals

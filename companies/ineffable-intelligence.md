@@ -27,7 +27,7 @@ website: https://ineffable.limited
 website_verified: false
 data_notes: 'Website URL may be invalid (Connection failed). '
 crunchbase: https://www.crunchbase.com/organization/ineffable-intelligence
-crunchbase_verified: false
+crunchbase_verified: true
 ---
 
 # Ineffable Intelligence

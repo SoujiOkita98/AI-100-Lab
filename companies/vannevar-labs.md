@@ -79,7 +79,7 @@ last_updated: 2026-03-20
 confidence: high
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/vannevar-labs
-crunchbase_verified: false
+crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/vannevar-labs
 ---
 

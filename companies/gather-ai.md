@@ -77,7 +77,7 @@ one_liner: Gather AI is a Pittsburgh-based physical AI company that uses autonom
 website_verified: true
 linkedin: https://www.linkedin.com/company/gather-ai
 crunchbase: https://www.crunchbase.com/organization/gather-ai
-crunchbase_verified: false
+crunchbase_verified: true
 ---
 
 # Gather AI

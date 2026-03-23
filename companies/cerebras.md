@@ -17,7 +17,7 @@ website_verified: true
 linkedin: https://www.linkedin.com/company/cerebras-systems
 twitter: '@CerebrasSystems'
 crunchbase: https://www.crunchbase.com/organization/cerebras
-crunchbase_verified: false
+crunchbase_verified: true
 ---
 
 # Cerebras Systems

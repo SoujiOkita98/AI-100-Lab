@@ -24,7 +24,7 @@ linkedin: https://www.linkedin.com/company/hireperfectly
 headquarters: Tel Aviv, Israel
 founded: 2024
 crunchbase: https://www.crunchbase.com/organization/perfect-ai
-crunchbase_verified: false
+crunchbase_verified: true
 ---
 
 # Perfect

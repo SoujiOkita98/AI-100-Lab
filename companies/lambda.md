@@ -18,7 +18,7 @@ website_verified: true
 twitter: '@LambdaAPI'
 linkedin: https://www.linkedin.com/company/lambda-labs
 crunchbase: https://www.crunchbase.com/organization/lambda
-crunchbase_verified: false
+crunchbase_verified: true
 ---
 
 # Lambda

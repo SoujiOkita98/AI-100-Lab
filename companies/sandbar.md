@@ -31,7 +31,7 @@ confidence: medium
 linkedin: https://www.linkedin.com/company/sandbartechnologies
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/sandbar
-crunchbase_verified: false
+crunchbase_verified: true
 ---
 
 # Sandbar

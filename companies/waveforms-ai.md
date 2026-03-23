@@ -22,7 +22,7 @@ confidence: medium
 headquarters: San Francisco, CA
 data_notes: 'Needs verification: website, source_urls. Profile may be incomplete.'
 crunchbase: https://www.crunchbase.com/organization/waveforms-ai
-crunchbase_verified: false
+crunchbase_verified: true
 ---
 
 # WaveForms AI

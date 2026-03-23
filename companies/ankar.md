@@ -19,7 +19,7 @@ data_notes: 'Needs verification: website, founders, source_urls. Profile may be 
 website: https://ankar.ai
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/ankar
-crunchbase_verified: false
+crunchbase_verified: true
 ---
 
 # Ankar

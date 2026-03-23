@@ -59,7 +59,7 @@ one_liner: Freenome is a biotechnology company developing blood-based early canc
 website_verified: true
 linkedin: https://www.linkedin.com/company/freenome
 crunchbase: https://www.crunchbase.com/organization/freenome
-crunchbase_verified: false
+crunchbase_verified: true
 ---
 
 # Freenome

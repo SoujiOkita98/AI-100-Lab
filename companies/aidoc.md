@@ -28,7 +28,7 @@ website: https://www.aidoc.com
 website_verified: true
 linkedin: https://www.linkedin.com/company/aidoc
 crunchbase: https://www.crunchbase.com/organization/aidoc
-crunchbase_verified: false
+crunchbase_verified: true
 ---
 
 # Aidoc

@@ -19,7 +19,7 @@ total_funding: 116
 website_verified: true
 linkedin: https://www.linkedin.com/company/attio
 crunchbase: https://www.crunchbase.com/organization/attio
-crunchbase_verified: false
+crunchbase_verified: true
 ---
 
 # Attio

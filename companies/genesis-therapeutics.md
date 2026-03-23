@@ -37,7 +37,7 @@ one_liner: Genesis Therapeutics is a computational drug discovery company that u
 website_verified: true
 linkedin: https://www.linkedin.com/company/genesistherapeutics
 crunchbase: https://www.crunchbase.com/organization/genesis-therapeutics
-crunchbase_verified: false
+crunchbase_verified: true
 ---
 
 # Genesis Therapeutics

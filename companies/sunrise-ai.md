@@ -68,7 +68,7 @@ one_liner: Sunrise is a high-performance GPU and AI chip developer spun off from
 website_verified: false
 data_notes: 'Website URL may be invalid (Invalid URL format). '
 crunchbase: https://www.crunchbase.com/organization/sunrise-ai
-crunchbase_verified: false
+crunchbase_verified: true
 ---
 
 # Sunrise (SenseTime AI Chip Spinoff)

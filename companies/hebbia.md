@@ -33,7 +33,7 @@ one_liner: Hebbia is an AI platform for knowledge work, purpose-built for financ
 website_verified: true
 linkedin: https://www.linkedin.com/company/hebbia
 crunchbase: https://www.crunchbase.com/organization/hebbia
-crunchbase_verified: false
+crunchbase_verified: true
 ---
 
 # Hebbia -- Company Profile

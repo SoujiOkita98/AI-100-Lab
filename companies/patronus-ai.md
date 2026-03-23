@@ -50,7 +50,7 @@ status: Private
 last_updated: 2026-03-20
 confidence: medium-high
 crunchbase: https://www.crunchbase.com/organization/patronus-ai
-crunchbase_verified: false
+crunchbase_verified: true
 ---
 
 # Patronus AI

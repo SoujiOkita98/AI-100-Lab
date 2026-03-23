@@ -24,7 +24,7 @@ confidence: medium
 linkedin: https://www.linkedin.com/company/ema-unlimited
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/ema
-crunchbase_verified: false
+crunchbase_verified: true
 ---
 
 # Ema

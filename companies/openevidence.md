@@ -62,7 +62,7 @@ one_liner: '> The "ChatGPT for doctors" -- an AI-powered medical search engine u
 website_verified: true
 linkedin: https://www.linkedin.com/company/openevidence
 crunchbase: https://www.crunchbase.com/organization/openevidence
-crunchbase_verified: false
+crunchbase_verified: true
 ---
 
 # OpenEvidence

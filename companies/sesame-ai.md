@@ -19,7 +19,7 @@ website: https://www.sesame.com
 website_verified: true
 linkedin: https://www.linkedin.com/company/sesameai
 crunchbase: https://www.crunchbase.com/organization/sesame-ai
-crunchbase_verified: false
+crunchbase_verified: true
 ---
 
 # Sesame

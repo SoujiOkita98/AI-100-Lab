@@ -27,7 +27,7 @@ website: https://paid.ai
 headquarters: London, UK
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/paid-ai
-crunchbase_verified: false
+crunchbase_verified: true
 ---
 
 # Paid

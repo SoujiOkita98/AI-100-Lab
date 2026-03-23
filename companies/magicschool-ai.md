@@ -17,7 +17,7 @@ confidence_notes: Funding figures sourced from company blog and EdWeek Market Br
 one_liner: MagicSchool AI is the fastest-growing AI platform built specifically for teachers and educators
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/magicschool-ai
-crunchbase_verified: false
+crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/magicschool-ai
 ---
 

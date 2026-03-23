@@ -19,7 +19,7 @@ website: https://www.matters.ai
 founded: 2023
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/matters-ai
-crunchbase_verified: false
+crunchbase_verified: true
 ---
 
 # Matters.AI

@@ -19,7 +19,7 @@ confidence: medium
 website_verified: true
 linkedin: https://www.linkedin.com/company/klira-ai
 crunchbase: https://www.crunchbase.com/organization/klira-ai
-crunchbase_verified: false
+crunchbase_verified: true
 ---
 
 # Klira AI

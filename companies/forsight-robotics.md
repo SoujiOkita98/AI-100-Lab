@@ -58,7 +58,7 @@ one_liner: ForSight Robotics is an Israeli surgical robotics company developing 
   specifically designed for cataract and ophthalmic (eye) surgery
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/forsight-robotics
-crunchbase_verified: false
+crunchbase_verified: true
 ---
 
 # ForSight Robotics

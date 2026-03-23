@@ -39,7 +39,7 @@ one_liner: 'ModelBest is a Tsinghua University spinout that has carved out a dis
   high-performance small language models optimized for on-device deployment'
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/modelbest
-crunchbase_verified: false
+crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/modelbest
 ---
 

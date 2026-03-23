@@ -27,7 +27,7 @@ website_verified: true
 linkedin: https://www.linkedin.com/company/resolveai
 headquarters: San Francisco, CA
 crunchbase: https://www.crunchbase.com/organization/resolve-ai
-crunchbase_verified: false
+crunchbase_verified: true
 ---
 
 # Resolve AI

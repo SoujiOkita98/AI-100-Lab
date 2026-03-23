@@ -37,7 +37,7 @@ one_liner: Datacurve provides premium, curated coding data for training and eval
 website: https://datacurve.ai
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/datacurve
-crunchbase_verified: false
+crunchbase_verified: true
 ---
 
 # Datacurve

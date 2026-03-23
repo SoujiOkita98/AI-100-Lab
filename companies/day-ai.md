@@ -18,7 +18,7 @@ website: https://day.ai
 total_funding: 28
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/day-ai
-crunchbase_verified: false
+crunchbase_verified: true
 ---
 
 # Day AI

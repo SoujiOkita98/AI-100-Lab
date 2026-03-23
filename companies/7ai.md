@@ -47,7 +47,7 @@ one_liner: '> Autonomous AI-powered cybersecurity agents that automate security 
 website_verified: true
 linkedin: https://www.linkedin.com/company/seven-ai
 crunchbase: https://www.crunchbase.com/organization/7ai
-crunchbase_verified: false
+crunchbase_verified: true
 ---
 
 # 7AI

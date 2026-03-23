@@ -22,7 +22,7 @@ linkedin: https://www.linkedin.com/company/weavebio
 website: https://www.weave.bio
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/weave-bio
-crunchbase_verified: false
+crunchbase_verified: true
 ---
 
 # Weave Bio

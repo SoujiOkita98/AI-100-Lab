@@ -28,7 +28,7 @@ website: https://www.honeyhealth.ai
 website_verified: true
 headquarters: Mountain View, CA
 crunchbase: https://www.crunchbase.com/organization/honey-health
-crunchbase_verified: false
+crunchbase_verified: true
 ---
 
 # Honey Health

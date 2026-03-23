@@ -63,7 +63,7 @@ data_notes: 'Needs verification: website, founders. Profile may be incomplete.'
 twitter: '@LumaLabsAI'
 linkedin: https://www.linkedin.com/company/lumalabsai
 crunchbase: https://www.crunchbase.com/organization/luma-ai
-crunchbase_verified: false
+crunchbase_verified: true
 ---
 
 # Luma AI

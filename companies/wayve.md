@@ -69,7 +69,7 @@ one_liner: Wayve is a London-based autonomous driving company building end-to-en
 website_verified: true
 linkedin: https://www.linkedin.com/company/wayve-technologies
 crunchbase: https://www.crunchbase.com/organization/wayve
-crunchbase_verified: false
+crunchbase_verified: true
 ---
 
 # Wayve

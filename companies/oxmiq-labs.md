@@ -24,7 +24,7 @@ website_verified: true
 headquarters: Campbell, CA
 linkedin: https://www.linkedin.com/company/oxmiq-labs
 crunchbase: https://www.crunchbase.com/organization/oxmiq-labs
-crunchbase_verified: false
+crunchbase_verified: true
 ---
 
 # Oxmiq Labs

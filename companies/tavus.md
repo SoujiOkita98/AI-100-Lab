@@ -33,7 +33,7 @@ one_liner: AI research lab building "human computing" -- real-time, emotionally 
   and react in face-to-face video interactions, delivered as a developer platform
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/tavus
-crunchbase_verified: false
+crunchbase_verified: true
 ---
 
 # Tavus

@@ -39,7 +39,7 @@ one_liner: Exa (formerly Metaphor) is an AI-native search engine built specifica
 website_verified: true
 linkedin: https://www.linkedin.com/company/exa-ai
 crunchbase: https://www.crunchbase.com/organization/exa
-crunchbase_verified: false
+crunchbase_verified: true
 ---
 
 # Exa

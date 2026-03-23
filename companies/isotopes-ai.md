@@ -21,7 +21,7 @@ website: https://isotopes.ai
 headquarters: Palo Alto, CA
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/isotopes-ai
-crunchbase_verified: false
+crunchbase_verified: true
 ---
 
 # Isotopes AI

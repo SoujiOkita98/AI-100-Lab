@@ -43,7 +43,7 @@ funding_rounds:
 one_liner: Enterprise AI platform for brand-consistent, multi-channel marketing content generation and orchestration
 data_notes: 'Needs verification: website, founders. Profile may be incomplete.'
 crunchbase: https://www.crunchbase.com/organization/typeface
-crunchbase_verified: false
+crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/typefaceai
 ---
 

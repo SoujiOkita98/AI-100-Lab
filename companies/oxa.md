@@ -53,7 +53,7 @@ last_updated: 2026-03-20
 confidence: high
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/oxa
-crunchbase_verified: false
+crunchbase_verified: true
 ---
 
 # Oxa

@@ -36,7 +36,7 @@ website: https://merge.io
 website_verified: true
 headquarters: San Antonio, TX
 crunchbase: https://www.crunchbase.com/organization/merge-labs
-crunchbase_verified: false
+crunchbase_verified: true
 ---
 
 # Merge Labs

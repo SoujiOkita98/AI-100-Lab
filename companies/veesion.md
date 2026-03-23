@@ -14,7 +14,7 @@ total_funding: 59
 last_updated: 2026-03-21
 confidence: medium
 crunchbase: https://www.crunchbase.com/organization/veesion
-crunchbase_verified: false
+crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/veesionsas
 ---
 

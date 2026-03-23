@@ -41,7 +41,7 @@ one_liner: MiniMax is one of China's "Six AI Tigers" — the cohort of leading C
 website: https://www.minimax.io
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/minimax
-crunchbase_verified: false
+crunchbase_verified: true
 total_funding: 1150
 linkedin: https://www.linkedin.com/company/minimax-ai
 ---

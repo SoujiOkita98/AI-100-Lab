@@ -20,7 +20,7 @@ one_liner: Kodezi is an AI-powered code debugging and autonomous code maintenanc
   CTO" for engineering teams
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/kodezi
-crunchbase_verified: false
+crunchbase_verified: true
 ---
 
 # Kodezi

@@ -22,7 +22,7 @@ one_liner: Tome was an AI-native storytelling and presentation platform founded 
   and Henri Liriani
 data_notes: 'Needs verification: website, founders. Profile may be incomplete.'
 crunchbase: https://www.crunchbase.com/organization/tome
-crunchbase_verified: false
+crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/magical-tome
 ---
 

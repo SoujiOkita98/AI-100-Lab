@@ -143,7 +143,7 @@ headquarters: Paris, France
 linkedin: https://www.linkedin.com/company/mistralai
 twitter: '@MistralAI'
 crunchbase: https://www.crunchbase.com/organization/mistral-ai
-crunchbase_verified: false
+crunchbase_verified: true
 ---
 
 # Mistral AI

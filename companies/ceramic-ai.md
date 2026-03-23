@@ -22,7 +22,7 @@ website_verified: true
 linkedin: https://www.linkedin.com/company/ceramicai
 headquarters: Mountain View, CA
 crunchbase: https://www.crunchbase.com/organization/ceramic-ai
-crunchbase_verified: false
+crunchbase_verified: true
 ---
 
 # Ceramic.ai

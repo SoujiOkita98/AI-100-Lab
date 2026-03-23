@@ -25,7 +25,7 @@ website_verified: true
 linkedin: https://www.linkedin.com/company/julius-ai
 headquarters: San Francisco, CA
 crunchbase: https://www.crunchbase.com/organization/julius-ai
-crunchbase_verified: false
+crunchbase_verified: true
 ---
 
 # Julius AI

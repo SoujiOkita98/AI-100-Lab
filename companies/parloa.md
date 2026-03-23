@@ -28,7 +28,7 @@ confidence: medium
 linkedin: https://www.linkedin.com/company/parloa
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/parloa
-crunchbase_verified: false
+crunchbase_verified: true
 ---
 
 # Parloa

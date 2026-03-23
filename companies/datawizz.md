@@ -26,7 +26,7 @@ website: https://datawizz.ai
 website_verified: true
 linkedin: https://www.linkedin.com/company/datawizzai
 crunchbase: https://www.crunchbase.com/organization/datawizz
-crunchbase_verified: false
+crunchbase_verified: true
 ---
 
 # Datawizz

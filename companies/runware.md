@@ -19,7 +19,7 @@ confidence: medium
 data_notes: 'Needs verification: founders, source_urls, headquarters. Profile may be incomplete.'
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/runware
-crunchbase_verified: false
+crunchbase_verified: true
 ---
 
 # Runware

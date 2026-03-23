@@ -85,7 +85,7 @@ data_notes: 'Website URL may be invalid (HTTP 429). '
 twitter: '@Kalshi'
 linkedin: https://www.linkedin.com/company/kalshi
 crunchbase: https://www.crunchbase.com/organization/kalshi
-crunchbase_verified: false
+crunchbase_verified: true
 ---
 
 # Kalshi

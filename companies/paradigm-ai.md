@@ -22,7 +22,7 @@ confidence: medium
 website: https://www.paradigmai.com
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/paradigm-ai
-crunchbase_verified: false
+crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/tryparadigm
 ---
 

@@ -29,7 +29,7 @@ website: https://www.straiker.ai
 website_verified: true
 headquarters: Sunnyvale, CA
 crunchbase: https://www.crunchbase.com/organization/straiker
-crunchbase_verified: false
+crunchbase_verified: true
 ---
 
 # Straiker

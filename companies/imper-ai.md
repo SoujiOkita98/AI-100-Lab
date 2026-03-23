@@ -32,7 +32,7 @@ website_verified: true
 headquarters: Brooklyn, NY
 founded: 2024
 crunchbase: https://www.crunchbase.com/organization/imper-ai
-crunchbase_verified: false
+crunchbase_verified: true
 ---
 
 # Imper.ai

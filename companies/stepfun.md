@@ -32,7 +32,7 @@ one_liner: StepFun is a Shanghai-based AI foundation model company founded in Ap
 website_verified: true
 total_funding: 1200
 crunchbase: https://www.crunchbase.com/organization/stepfun
-crunchbase_verified: false
+crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/stepfun-ai
 ---
 

@@ -20,7 +20,7 @@ website: https://www.ocell.io
 website_verified: true
 linkedin: https://www.linkedin.com/company/ocell-io
 crunchbase: https://www.crunchbase.com/organization/ocell
-crunchbase_verified: false
+crunchbase_verified: true
 ---
 
 # OCELL

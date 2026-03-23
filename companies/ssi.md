@@ -38,7 +38,7 @@ last_updated: '2026-03-20'
 one_liner: 'SSI exists to solve one problem: build a **safe superintelligence**'
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/ssi
-crunchbase_verified: false
+crunchbase_verified: true
 ---
 
 # Safe Superintelligence Inc. (SSI)

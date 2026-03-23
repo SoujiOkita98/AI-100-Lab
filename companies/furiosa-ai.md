@@ -19,7 +19,7 @@ website: https://furiosa.ai
 website_verified: true
 linkedin: https://www.linkedin.com/company/furiosaai
 crunchbase: https://www.crunchbase.com/organization/furiosa-ai
-crunchbase_verified: false
+crunchbase_verified: true
 ---
 
 # FuriosaAI

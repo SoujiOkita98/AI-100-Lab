@@ -71,7 +71,7 @@ one_liner: Momenta is a Beijing-based autonomous driving company that develops A
 website_verified: true
 linkedin: https://www.linkedin.com/company/momenta.ai
 crunchbase: https://www.crunchbase.com/organization/momenta
-crunchbase_verified: false
+crunchbase_verified: true
 ---
 
 # Momenta

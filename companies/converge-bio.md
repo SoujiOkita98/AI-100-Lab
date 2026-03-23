@@ -29,7 +29,7 @@ website: https://converge-bio.com
 website_verified: true
 linkedin: https://www.linkedin.com/company/converge-bio
 crunchbase: https://www.crunchbase.com/organization/converge-bio
-crunchbase_verified: false
+crunchbase_verified: true
 ---
 
 # Converge Bio

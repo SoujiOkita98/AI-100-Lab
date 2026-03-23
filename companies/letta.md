@@ -26,7 +26,7 @@ confidence: medium
 website_verified: true
 linkedin: https://www.linkedin.com/company/letta-ai
 crunchbase: https://www.crunchbase.com/organization/letta
-crunchbase_verified: false
+crunchbase_verified: true
 ---
 
 # Letta
