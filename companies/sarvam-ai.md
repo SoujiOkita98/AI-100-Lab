@@ -1,34 +1,42 @@
 ---
-name: "Sarvam AI"
+name: Sarvam AI
 founded: 2023
-headquarters: "Bengaluru, India"
-website: "https://www.sarvam.ai"
-sector: ["sovereign-ai", "foundation-models", "indian-languages"]
-one_liner: "India's full-stack sovereign AI platform building foundation models optimized for Indian languages and culture."
+headquarters: Bengaluru, India
+website: https://www.sarvam.ai
+sector:
+- sovereign-ai
+- foundation-models
+- indian-languages
+one_liner: India's full-stack sovereign AI platform building foundation models optimized for Indian languages and culture.
 status: active
 total_raised_m: 54
 founders:
-  - name: "Vivek Raghavan"
-    role: "Co-founder"
-    background: "Former Chief Product Manager and Biometric Architect at UIDAI (Aadhaar); key role in scaling India's biometric ID system"
-    origin: "Indian"
-  - name: "Pratyush Kumar"
-    role: "Co-founder"
-    background: "Adjunct faculty at IIT Madras; co-founded AI4Bharat, open-source initiative for AI in Indian languages"
-    origin: "Indian"
+- name: Vivek Raghavan
+  role: Co-founder
+  background: Former Chief Product Manager and Biometric Architect at UIDAI (Aadhaar); key role in scaling India's biometric
+    ID system
+  origin: Indian
+- name: Pratyush Kumar
+  role: Co-founder
+  background: Adjunct faculty at IIT Madras; co-founded AI4Bharat, open-source initiative for AI in Indian languages
+  origin: Indian
 funding_rounds:
-  - stage: "Seed + Series A"
-    date: "2023-12"
-    amount_m: 41
-    lead_investors: ["Lightspeed Venture Partners"]
-    source: "https://www.sarvam.ai/blogs/announcing-series-a"
-  - stage: "Follow-on"
-    date: "2025-01"
-    amount_m: 13
-    lead_investors: ["Khosla Ventures"]
-    source: "https://www.businesstoday.in/magazine/cover-story/story/the-sarvam-moment-how-the-local-ai-start-up-could-reshape-indias-tech-push-520734-2026-03-16"
+- stage: Seed + Series A
+  date: 2023-12
+  amount_m: 41
+  lead_investors:
+  - Lightspeed Venture Partners
+  source: https://www.sarvam.ai/blogs/announcing-series-a
+- stage: Follow-on
+  date: 2025-01
+  amount_m: 13
+  lead_investors:
+  - Khosla Ventures
+  source: https://www.businesstoday.in/magazine/cover-story/story/the-sarvam-moment-how-the-local-ai-start-up-could-reshape-indias-tech-push-520734-2026-03-16
 confidence: medium
 last_updated: 2026-03-23
+linkedin: https://www.linkedin.com/company/sarvam-ai/
+linkedin_verified: true
 ---
 
 # Sarvam AI

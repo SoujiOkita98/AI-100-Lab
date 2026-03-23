@@ -1,30 +1,38 @@
 ---
-name: "Horizon Robotics"
+name: Horizon Robotics
 founded: 2015
-headquarters: "Beijing, China"
-website: "https://en.horizon.auto"
-sector: ["ai-chips", "autonomous-driving", "adas", "semiconductors"]
-one_liner: "Chinese AI chip company powering intelligent driving systems in one out of every three smart cars in China."
+headquarters: Beijing, China
+website: https://en.horizon.auto
+sector:
+- ai-chips
+- autonomous-driving
+- adas
+- semiconductors
+one_liner: Chinese AI chip company powering intelligent driving systems in one out of every three smart cars in China.
 status: public
 total_raised_m: 2500
 founders:
-  - name: "Yu Kai"
-    role: "CEO"
-    background: "Former head of Baidu's self-driving car division and Institute of Deep Learning"
-    origin: "Chinese"
+- name: Yu Kai
+  role: CEO
+  background: Former head of Baidu's self-driving car division and Institute of Deep Learning
+  origin: Chinese
 funding_rounds:
-  - stage: "Strategic Investment"
-    date: "2022-10"
-    amount_m: 2300
-    lead_investors: ["Volkswagen Group (JV)"]
-    source: "https://en.wikipedia.org/wiki/Horizon_Robotics"
-  - stage: "IPO (Hong Kong)"
-    date: "2024-10"
-    amount_m: 696
-    lead_investors: ["Public Markets"]
-    source: "https://en.wikipedia.org/wiki/Horizon_Robotics"
+- stage: Strategic Investment
+  date: 2022-10
+  amount_m: 2300
+  lead_investors:
+  - Volkswagen Group (JV)
+  source: https://en.wikipedia.org/wiki/Horizon_Robotics
+- stage: IPO (Hong Kong)
+  date: 2024-10
+  amount_m: 696
+  lead_investors:
+  - Public Markets
+  source: https://en.wikipedia.org/wiki/Horizon_Robotics
 confidence: high
 last_updated: 2026-03-23
+linkedin: https://www.linkedin.com/company/horizon-robotics/
+linkedin_verified: true
 ---
 
 # Horizon Robotics

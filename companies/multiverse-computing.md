@@ -1,30 +1,37 @@
 ---
-name: "Multiverse Computing"
+name: Multiverse Computing
 founded: 2019
-headquarters: "San Sebastian, Spain"
-website: "https://multiversecomputing.com"
-sector: ["quantum-ai", "model-compression", "enterprise-ai"]
-one_liner: "Quantum-inspired AI company that compresses large language models by up to 95% with minimal precision loss."
+headquarters: San Sebastian, Spain
+website: https://multiversecomputing.com
+sector:
+- quantum-ai
+- model-compression
+- enterprise-ai
+one_liner: Quantum-inspired AI company that compresses large language models by up to 95% with minimal precision loss.
 status: active
 total_raised_m: 285
 founders:
-  - name: "Enrique Lizaso Olmos"
-    role: "CEO"
-    background: "Quantum computing entrepreneur"
-    origin: "Spanish"
+- name: Enrique Lizaso Olmos
+  role: CEO
+  background: Quantum computing entrepreneur
+  origin: Spanish
 funding_rounds:
-  - stage: "Government Co-Investment"
-    date: "2025-03"
-    amount_m: 70
-    lead_investors: ["SETT (Spanish Government)"]
-    source: "https://www.eu-startups.com/2025/03/spanish-government-raises-e67-million-for-multiverse-computing-for-ai-compression"
-  - stage: "Series B"
-    date: "2025-06"
-    amount_m: 215
-    lead_investors: ["Bullhound Capital"]
-    source: "https://techcrunch.com/2025/06/12/multiverse-computing-raises-215m-for-tech-that-could-radically-slim-ai-costs/"
+- stage: Government Co-Investment
+  date: 2025-03
+  amount_m: 70
+  lead_investors:
+  - SETT (Spanish Government)
+  source: https://www.eu-startups.com/2025/03/spanish-government-raises-e67-million-for-multiverse-computing-for-ai-compression
+- stage: Series B
+  date: 2025-06
+  amount_m: 215
+  lead_investors:
+  - Bullhound Capital
+  source: https://techcrunch.com/2025/06/12/multiverse-computing-raises-215m-for-tech-that-could-radically-slim-ai-costs/
 confidence: high
 last_updated: 2026-03-23
+linkedin: https://www.linkedin.com/company/multiverse-computing/
+linkedin_verified: true
 ---
 
 # Multiverse Computing

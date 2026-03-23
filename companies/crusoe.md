@@ -57,6 +57,20 @@ funding_rounds:
   - Valor Equity Partners
   - Mubadala Capital
   source: https://www.crusoe.ai/resources/newsroom/crusoe-announces-series-e-funding
+- stage: Debt Round
+  date: 2025-03
+  amount_m: null
+  lead_investors:
+  - ORIX
+  source: https://tracxn.com/d/companies/crusoe/
+  notes: Conventional debt round. Amount undisclosed.
+- stage: Debt Round
+  date: 2026-02
+  amount_m: 300
+  lead_investors:
+  - Undisclosed
+  source: https://tracxn.com/d/companies/crusoe/
+  notes: $300M debt financing.
 one_liner: Crusoe is an AI infrastructure company that designs, builds, and operates data centers purpose-built for AI workloads
 website_verified: true
 twitter: '@CrusoeAI'
@@ -64,7 +78,9 @@ linkedin: https://www.linkedin.com/company/crusoe
 crunchbase: https://www.crunchbase.com/organization/crusoe
 crunchbase_verified: true
 total_raised_m: 4140
-data_notes: Funding updated from $3.4B to ~$4.14B to include $1.375B Series E (Oct 2025) and $300M debt (Feb 2026).
+data_notes: Total ~$4.14B across equity + debt. Equity rounds sum to ~$2.49B. Remainder is debt financing including
+  $300M (Feb 2026) and multiple earlier debt rounds. Crusoe also secured $11.6B in project-level financing (not included)
+  for its Abilene TX data center (OpenAI).
 linkedin_verified: true
 ---
 

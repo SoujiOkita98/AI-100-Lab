@@ -1,37 +1,44 @@
 ---
-name: "Blue J"
+name: Blue J
 founded: 2015
-headquarters: "Toronto, Canada"
-website: "https://www.bluej.com"
-sector: ["legal-ai", "tax-tech", "enterprise-ai"]
-one_liner: "AI-powered tax research platform used by 4,000+ law firms, transforming tax queries with generative AI."
+headquarters: Toronto, Canada
+website: https://www.bluej.com
+sector:
+- legal-ai
+- tax-tech
+- enterprise-ai
+one_liner: AI-powered tax research platform used by 4,000+ law firms, transforming tax queries with generative AI.
 status: active
 total_raised_m: 167
 founders:
-  - name: "Benjamin Alarie"
-    role: "CEO"
-    background: "Professor at University of Toronto Faculty of Law"
-    origin: "Canadian"
-  - name: "Anthony Niblett"
-    role: "Co-founder"
-    background: "Professor at University of Toronto Faculty of Law"
-    origin: "Canadian"
-  - name: "Brett Janssen"
-    role: "Co-founder"
-    background: "Co-founded Blue J in 2015"
-    origin: "Canadian"
-  - name: "Albert Yoo"
-    role: "Co-founder"
-    background: "Co-founded Blue J in 2015"
-    origin: "Canadian"
+- name: Benjamin Alarie
+  role: CEO
+  background: Professor at University of Toronto Faculty of Law
+  origin: Canadian
+- name: Anthony Niblett
+  role: Co-founder
+  background: Professor at University of Toronto Faculty of Law
+  origin: Canadian
+- name: Brett Janssen
+  role: Co-founder
+  background: Co-founded Blue J in 2015
+  origin: Canadian
+- name: Albert Yoo
+  role: Co-founder
+  background: Co-founded Blue J in 2015
+  origin: Canadian
 funding_rounds:
-  - stage: "Series D"
-    date: "2025-06"
-    amount_m: 122
-    lead_investors: ["Sapphire Ventures", "Oak HC/FT"]
-    source: "https://betakit.com/blue-j-series-d-after-doubling-revenue/"
+- stage: Series D
+  date: 2025-06
+  amount_m: 122
+  lead_investors:
+  - Sapphire Ventures
+  - Oak HC/FT
+  source: https://betakit.com/blue-j-series-d-after-doubling-revenue/
 confidence: high
 last_updated: 2026-03-23
+linkedin: https://www.linkedin.com/company/blue-j/
+linkedin_verified: true
 ---
 
 # Blue J

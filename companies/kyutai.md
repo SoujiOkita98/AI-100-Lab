@@ -1,7 +1,8 @@
 ---
-name: "Kyutai"
+name: Kyutai
 website: https://kyutai.org
-one_liner: French open-science AI research lab focused on voice and audio AI, backed by Xavier Niel, Rodolphe Saade, and Eric Schmidt
+one_liner: French open-science AI research lab focused on voice and audio AI, backed by Xavier Niel, Rodolphe Saade, and Eric
+  Schmidt
 domain: kyutai.org
 hq_city: Paris
 hq_country: France
@@ -96,10 +97,13 @@ key_products:
   description: Lightweight multilingual model supporting six European languages, designed for mobile devices
   launched: 2025-01
   open_source: true
-notes: >
-  Kyutai is structured as a privately funded nonprofit research lab, not a traditional VC-backed startup.
-  Launched on November 17, 2023 at Station F in Paris. All research and models are released as open source.
-  The core research team was assembled primarily from Meta AI (FAIR), Google DeepMind, and Inria.
+notes: 'Kyutai is structured as a privately funded nonprofit research lab, not a traditional VC-backed startup. Launched on
+  November 17, 2023 at Station F in Paris. All research and models are released as open source. The core research team was
+  assembled primarily from Meta AI (FAIR), Google DeepMind, and Inria.
+
+  '
 confidence: high
 last_updated: 2026-03-23
+linkedin: https://www.linkedin.com/company/kyutai/
+linkedin_verified: true
 ---

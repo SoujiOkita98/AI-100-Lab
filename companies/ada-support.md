@@ -1,34 +1,41 @@
 ---
-name: "Ada"
+name: Ada
 founded: 2016
-headquarters: "Toronto, Canada"
-website: "https://www.ada.cx"
-sector: ["customer-service-ai", "conversational-ai", "enterprise-ai"]
-one_liner: "Canadian AI-powered customer service automation platform replacing traditional chatbots with intelligent AI agents."
+headquarters: Toronto, Canada
+website: https://www.ada.cx
+sector:
+- customer-service-ai
+- conversational-ai
+- enterprise-ai
+one_liner: Canadian AI-powered customer service automation platform replacing traditional chatbots with intelligent AI agents.
 status: active
 total_raised_m: 200
 founders:
-  - name: "Mike Murchison"
-    role: "CEO"
-    background: "Serial entrepreneur; built Ada from Toronto into a global enterprise AI platform"
-    origin: "Canadian"
-  - name: "David Hariri"
-    role: "Co-founder"
-    background: "Co-founded Ada; product and technology leader"
-    origin: "Canadian"
+- name: Mike Murchison
+  role: CEO
+  background: Serial entrepreneur; built Ada from Toronto into a global enterprise AI platform
+  origin: Canadian
+- name: David Hariri
+  role: Co-founder
+  background: Co-founded Ada; product and technology leader
+  origin: Canadian
 funding_rounds:
-  - stage: "Series C"
-    date: "2021-05"
-    amount_m: 130
-    lead_investors: ["Spark Capital"]
-    source: "https://www.crunchbase.com/organization/ada-support"
-  - stage: "Government Grant"
-    date: "2025-03"
-    amount_m: 1.75
-    lead_investors: ["Government of Canada"]
-    source: "https://www.crunchbase.com/organization/ada-support"
+- stage: Series C
+  date: 2021-05
+  amount_m: 130
+  lead_investors:
+  - Spark Capital
+  source: https://www.crunchbase.com/organization/ada-support
+- stage: Government Grant
+  date: 2025-03
+  amount_m: 1.75
+  lead_investors:
+  - Government of Canada
+  source: https://www.crunchbase.com/organization/ada-support
 confidence: medium
 last_updated: 2026-03-23
+linkedin: https://www.linkedin.com/company/ada/
+linkedin_verified: true
 ---
 
 # Ada

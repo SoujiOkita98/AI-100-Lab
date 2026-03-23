@@ -1,34 +1,42 @@
 ---
-name: "Orca AI"
+name: Orca AI
 founded: 2018
-headquarters: "Tel Aviv, Israel"
-website: "https://www.orca-ai.io"
-sector: ["maritime-ai", "autonomous-shipping", "computer-vision"]
-one_liner: "Israeli maritime AI company building autonomous navigation systems with the world's largest marine visual dataset."
+headquarters: Tel Aviv, Israel
+website: https://www.orca-ai.io
+sector:
+- maritime-ai
+- autonomous-shipping
+- computer-vision
+one_liner: Israeli maritime AI company building autonomous navigation systems with the world's largest marine visual dataset.
 status: active
 total_raised_m: 111
 founders:
-  - name: "Yarden Gross"
-    role: "CEO"
-    background: "Israeli Navy veteran; vision to bring shipping industry to digital age"
-    origin: "Israeli"
-  - name: "Dor Raviv"
-    role: "Co-founder"
-    background: "Israeli Navy veteran"
-    origin: "Israeli"
+- name: Yarden Gross
+  role: CEO
+  background: Israeli Navy veteran; vision to bring shipping industry to digital age
+  origin: Israeli
+- name: Dor Raviv
+  role: Co-founder
+  background: Israeli Navy veteran
+  origin: Israeli
 funding_rounds:
-  - stage: "Series A"
-    date: "2024-05"
-    amount_m: 23
-    lead_investors: ["OCV Partners", "MizMaa Ventures"]
-    source: "https://techcrunch.com/2024/05/23/autonomous-shipping-startup-orca-ai-tops-up-with-23m-led-by-ocv-partners-and-mizmaa-ventures/"
-  - stage: "Series B"
-    date: "2025-05"
-    amount_m: 72.5
-    lead_investors: ["Brighton Park Capital"]
-    source: "https://www.calcalistech.com/ctechnews/article/bkotyuvgle"
+- stage: Series A
+  date: 2024-05
+  amount_m: 23
+  lead_investors:
+  - OCV Partners
+  - MizMaa Ventures
+  source: https://techcrunch.com/2024/05/23/autonomous-shipping-startup-orca-ai-tops-up-with-23m-led-by-ocv-partners-and-mizmaa-ventures/
+- stage: Series B
+  date: 2025-05
+  amount_m: 72.5
+  lead_investors:
+  - Brighton Park Capital
+  source: https://www.calcalistech.com/ctechnews/article/bkotyuvgle
 confidence: high
 last_updated: 2026-03-23
+linkedin: https://www.linkedin.com/company/orca-ai/
+linkedin_verified: true
 ---
 
 # Orca AI

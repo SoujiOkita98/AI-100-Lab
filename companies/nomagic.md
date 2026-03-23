@@ -1,38 +1,45 @@
 ---
-name: "Nomagic"
+name: Nomagic
 founded: 2017
-headquarters: "Warsaw, Poland"
-website: "https://nomagic.ai"
-sector: ["physical-ai", "robotics", "warehouse-automation"]
-one_liner: "Polish AI robotics company building intelligent pick-and-place robotic arms for warehouse automation."
+headquarters: Warsaw, Poland
+website: https://nomagic.ai
+sector:
+- physical-ai
+- robotics
+- warehouse-automation
+one_liner: Polish AI robotics company building intelligent pick-and-place robotic arms for warehouse automation.
 status: active
 total_raised_m: 84
 founders:
-  - name: "Kacper Nowicki"
-    role: "CEO"
-    background: "Former Google engineer (5+ years); built startup in California before returning to Poland"
-    origin: "Polish"
-  - name: "Marek Cygan"
-    role: "Co-founder"
-    background: "Academic and robotics researcher"
-    origin: "Polish"
-  - name: "Tristan D'Orgeval"
-    role: "Co-founder"
-    background: "Entrepreneurial background"
-    origin: "French"
+- name: Kacper Nowicki
+  role: CEO
+  background: Former Google engineer (5+ years); built startup in California before returning to Poland
+  origin: Polish
+- name: Marek Cygan
+  role: Co-founder
+  background: Academic and robotics researcher
+  origin: Polish
+- name: Tristan D'Orgeval
+  role: Co-founder
+  background: Entrepreneurial background
+  origin: French
 funding_rounds:
-  - stage: "Series B"
-    date: "2025-02"
-    amount_m: 44
-    lead_investors: ["EBRD Venture Capital"]
-    source: "https://techcrunch.com/2025/02/26/nomagic-picks-up-44m-for-its-ai-powered-robotic-arms/"
-  - stage: "Series B Extension"
-    date: "2026-01"
-    amount_m: 10
-    lead_investors: ["Cogito Capital Partners"]
-    source: "https://www.eu-startups.com/2026/01/polish-robotics-startup-nomagic-secures-e8-3-million-to-scale-physical-ai-operations-in-the-us/"
+- stage: Series B
+  date: 2025-02
+  amount_m: 44
+  lead_investors:
+  - EBRD Venture Capital
+  source: https://techcrunch.com/2025/02/26/nomagic-picks-up-44m-for-its-ai-powered-robotic-arms/
+- stage: Series B Extension
+  date: 2026-01
+  amount_m: 10
+  lead_investors:
+  - Cogito Capital Partners
+  source: https://www.eu-startups.com/2026/01/polish-robotics-startup-nomagic-secures-e8-3-million-to-scale-physical-ai-operations-in-the-us/
 confidence: high
 last_updated: 2026-03-23
+linkedin: https://www.linkedin.com/company/nomagic/
+linkedin_verified: true
 ---
 
 # Nomagic

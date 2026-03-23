@@ -9618,6 +9618,28 @@
         "other_investors": "",
         "source": "https://www.crusoe.ai/resources/newsroom/crusoe-announces-series-e-funding",
         "notes": ""
+      },
+      {
+        "company_slug": "crusoe",
+        "stage": "Debt Round",
+        "date": "2025-03",
+        "amount_m": null,
+        "valuation_m": null,
+        "lead_investors": "ORIX",
+        "other_investors": "",
+        "source": "https://tracxn.com/d/companies/crusoe/",
+        "notes": "Conventional debt round. Amount undisclosed."
+      },
+      {
+        "company_slug": "crusoe",
+        "stage": "Debt Round",
+        "date": "2026-02",
+        "amount_m": 300.0,
+        "valuation_m": null,
+        "lead_investors": "Undisclosed",
+        "other_investors": "",
+        "source": "https://tracxn.com/d/companies/crusoe/",
+        "notes": "$300M debt financing."
       }
     ],
     "top_investors": []
