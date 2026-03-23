@@ -4,6 +4,7 @@ website: https://kyutai.org
 one_liner: French open-science AI research lab focused on voice and audio AI, backed by Xavier Niel, Rodolphe Saade, and Eric
   Schmidt
 domain: kyutai.org
+headquarters: "Paris, France"
 hq_city: Paris
 hq_country: France
 founded: '2023'

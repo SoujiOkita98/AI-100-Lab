@@ -3,7 +3,7 @@ name: Generalist AI
 company: Generalist AI
 founded: 2024
 headquarters: San Francisco, CA, USA
-website: null
+website: "https://www.generalist.ai"
 sector: Robotics / AI / Embodied Intelligence
 one_liner: AI robotics company building general-purpose robots using embodied intelligence, founded by ex-Google DeepMind researchers behind RT-2 and PaLM-E.
 status: active
