@@ -190,6 +190,8 @@ one_liner: xAI is an artificial intelligence company founded by Elon Musk on Mar
 website_verified: true
 linkedin: https://www.linkedin.com/company/xai
 twitter: '@xai'
+crunchbase: https://www.crunchbase.com/organization/xai
+crunchbase_verified: false
 ---
 
 # xAI

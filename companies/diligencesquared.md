@@ -20,6 +20,8 @@ website: https://www.diligencesquared.com
 website_verified: true
 headquarters: New York, NY
 linkedin: https://www.linkedin.com/company/diligencesquared
+crunchbase: https://www.crunchbase.com/organization/diligencesquared
+crunchbase_verified: false
 ---
 
 # DiligenceSquared

@@ -40,6 +40,8 @@ one_liner: David AI is the world's first dedicated audio data research lab, buil
 website: https://www.withdavid.ai
 website_verified: true
 linkedin: https://www.linkedin.com/company/david-ai
+crunchbase: https://www.crunchbase.com/organization/david-ai
+crunchbase_verified: false
 ---
 
 # David AI

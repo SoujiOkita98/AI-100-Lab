@@ -68,6 +68,8 @@ funding_rounds:
 one_liner: Enflame Technology (also known as Suiyuan Technology) is a Shanghai-based AI chip designer that develops cloud-based
   deep learning accelerators for AI training and inference
 website_verified: true
+crunchbase: https://www.crunchbase.com/organization/enflame-technology
+crunchbase_verified: false
 ---
 
 # Enflame Technology

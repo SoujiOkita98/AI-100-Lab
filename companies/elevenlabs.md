@@ -94,6 +94,8 @@ one_liner: ElevenLabs is an AI voice and audio company founded in April 2022 by 
 website_verified: true
 linkedin: https://www.linkedin.com/company/elevenlabsio
 twitter: '@ElevenLabs'
+crunchbase: https://www.crunchbase.com/organization/elevenlabs
+crunchbase_verified: false
 ---
 
 # ElevenLabs

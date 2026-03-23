@@ -29,6 +29,8 @@ last_updated: 2026-03-20
 one_liner: Worktrace AI is an AI workflow automation startup founded by former OpenAI product manager Angela Jiang and researcher
   Deepak Vasisht
 website_verified: true
+crunchbase: https://www.crunchbase.com/organization/worktrace-ai
+crunchbase_verified: false
 ---
 
 # Worktrace AI

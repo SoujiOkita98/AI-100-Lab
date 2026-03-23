@@ -24,6 +24,8 @@ website: https://slingshotai.com
 website_verified: true
 linkedin: https://www.linkedin.com/company/slingshotai
 headquarters: New York, NY
+crunchbase: https://www.crunchbase.com/organization/slingshot-ai
+crunchbase_verified: false
 ---
 
 # Slingshot AI

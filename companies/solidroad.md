@@ -17,6 +17,8 @@ website: https://www.solidroad.com
 website_verified: true
 headquarters: Dublin, Ireland
 founded: 2023
+crunchbase: https://www.crunchbase.com/organization/solidroad
+crunchbase_verified: false
 ---
 
 # Solidroad

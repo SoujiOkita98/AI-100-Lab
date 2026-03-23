@@ -66,6 +66,8 @@ one_liner: Baseten is an AI model inference infrastructure company that enables 
 website_verified: true
 twitter: '@basetenco'
 linkedin: https://www.linkedin.com/company/baseten
+crunchbase: https://www.crunchbase.com/organization/baseten
+crunchbase_verified: false
 ---
 
 # Baseten

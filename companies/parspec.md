@@ -21,6 +21,8 @@ confidence: medium
 headquarters: San Mateo, CA
 website: https://www.parspec.io
 website_verified: true
+crunchbase: https://www.crunchbase.com/organization/parspec
+crunchbase_verified: false
 ---
 
 # Parspec

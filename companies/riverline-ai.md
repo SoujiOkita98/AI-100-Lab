@@ -22,6 +22,8 @@ total_funding: 0.825
 last_updated: 2026-03-21
 confidence: medium
 website_verified: true
+crunchbase: https://www.crunchbase.com/organization/riverline-ai
+crunchbase_verified: false
 ---
 
 # Riverline AI

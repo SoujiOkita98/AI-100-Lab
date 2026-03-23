@@ -99,6 +99,8 @@ one_liner: Figure AI is building general-purpose humanoid robots for commercial 
 website_verified: true
 linkedin: https://www.linkedin.com/company/figure-ai
 twitter: '@Figure_robot'
+crunchbase: https://www.crunchbase.com/organization/figure-ai
+crunchbase_verified: false
 ---
 
 # Figure AI

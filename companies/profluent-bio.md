@@ -22,6 +22,8 @@ linkedin: https://www.linkedin.com/company/profluent-bio
 headquarters: Emeryville, CA
 website: https://www.profluent.bio
 website_verified: true
+crunchbase: https://www.crunchbase.com/organization/profluent-bio
+crunchbase_verified: false
 ---
 
 # Profluent Bio

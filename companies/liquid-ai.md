@@ -38,6 +38,8 @@ one_liner: Liquid AI is an MIT CSAIL spinout building foundation models based on
   architecture to the transformer models that underpin most modern AI systems
 website_verified: true
 linkedin: https://www.linkedin.com/company/liquid-ai-inc
+crunchbase: https://www.crunchbase.com/organization/liquid-ai
+crunchbase_verified: false
 ---
 
 # Liquid AI

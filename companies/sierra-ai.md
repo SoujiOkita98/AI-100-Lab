@@ -55,6 +55,8 @@ one_liner: Sierra is an enterprise AI company building autonomous AI agents for 
 website_verified: true
 twitter: '@SierraPlatform'
 linkedin: https://www.linkedin.com/company/sierra
+crunchbase: https://www.crunchbase.com/organization/sierra-ai
+crunchbase_verified: false
 ---
 
 # Sierra AI

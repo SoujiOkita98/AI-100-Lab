@@ -15,6 +15,8 @@ data_notes: 'Needs verification: website, founders, source_urls, headquarters. P
 website: https://palebluedot.ai
 website_verified: true
 headquarters: Palo Alto, CA
+crunchbase: https://www.crunchbase.com/organization/palebluedot-ai
+crunchbase_verified: false
 ---
 
 # PaleBlueDot AI

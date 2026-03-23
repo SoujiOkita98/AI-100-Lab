@@ -24,6 +24,8 @@ last_updated: 2026-03-21
 confidence: medium
 linkedin: https://www.linkedin.com/company/bflai
 website_verified: true
+crunchbase: https://www.crunchbase.com/organization/black-forest-labs
+crunchbase_verified: false
 ---
 
 # Black Forest Labs

@@ -18,6 +18,8 @@ confidence: medium
 data_notes: 'Needs verification: website, founders, source_urls. Profile may be incomplete.'
 website: https://en.engineai.com.cn
 website_verified: true
+crunchbase: https://www.crunchbase.com/organization/engine-ai
+crunchbase_verified: false
 ---
 
 # EngineAI

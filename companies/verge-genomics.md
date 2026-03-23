@@ -44,6 +44,8 @@ funding_rounds:
 one_liner: Verge Genomics is a clinical-stage AI drug discovery company focused on neurodegenerative diseases including ALS,
   Parkinson's, and Alzheimer's
 website_verified: true
+crunchbase: https://www.crunchbase.com/organization/verge-genomics
+crunchbase_verified: false
 ---
 
 # Verge Genomics

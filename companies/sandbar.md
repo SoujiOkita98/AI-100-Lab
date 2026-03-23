@@ -30,6 +30,8 @@ last_updated: 2026-03-21
 confidence: medium
 linkedin: https://www.linkedin.com/company/sandbartechnologies
 website_verified: true
+crunchbase: https://www.crunchbase.com/organization/sandbar
+crunchbase_verified: false
 ---
 
 # Sandbar

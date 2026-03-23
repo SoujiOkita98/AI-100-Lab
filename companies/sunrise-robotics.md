@@ -27,6 +27,8 @@ confidence: medium
 data_notes: 'Needs verification: website, source_urls. Profile may be incomplete.'
 website: https://sunriserobotics.co
 website_verified: true
+crunchbase: https://www.crunchbase.com/organization/sunrise-robotics
+crunchbase_verified: false
 ---
 
 # Sunrise Robotics

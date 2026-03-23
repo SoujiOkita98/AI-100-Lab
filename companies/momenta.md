@@ -70,6 +70,8 @@ one_liner: Momenta is a Beijing-based autonomous driving company that develops A
   both L2+ driver-assistance systems (ADAS) and full L4 autonomous driving
 website_verified: true
 linkedin: https://www.linkedin.com/company/momenta.ai
+crunchbase: https://www.crunchbase.com/organization/momenta
+crunchbase_verified: false
 ---
 
 # Momenta

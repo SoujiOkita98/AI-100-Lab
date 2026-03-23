@@ -38,6 +38,8 @@ one_liner: DeepSeek is a Chinese AI research lab that builds open-weight large l
 website_verified: true
 linkedin: https://www.linkedin.com/company/deepseek-ai
 twitter: '@deepseek_ai'
+crunchbase: https://www.crunchbase.com/organization/deepseek
+crunchbase_verified: false
 ---
 
 # DeepSeek

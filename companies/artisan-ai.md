@@ -17,6 +17,8 @@ one_liner: AI digital workers starting with Ava, an AI BDR automating B2B sales 
 website: https://artisan.co
 total_funding: 46
 website_verified: true
+crunchbase: https://www.crunchbase.com/organization/artisan-ai
+crunchbase_verified: false
 ---
 
 # Artisan AI

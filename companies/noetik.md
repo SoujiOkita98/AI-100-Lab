@@ -22,6 +22,8 @@ linkedin: https://www.linkedin.com/company/noetik-inc
 headquarters: San Francisco, CA
 website: https://www.noetik.ai
 website_verified: true
+crunchbase: https://www.crunchbase.com/organization/noetik
+crunchbase_verified: false
 ---
 
 # Noetik

@@ -60,6 +60,8 @@ website: https://windsurf.com
 website_verified: true
 twitter: '@codeiumdev'
 linkedin: https://www.linkedin.com/company/codeiumdev
+crunchbase: https://www.crunchbase.com/organization/windsurf
+crunchbase_verified: false
 ---
 
 # Windsurf (formerly Codeium / Exafunction)

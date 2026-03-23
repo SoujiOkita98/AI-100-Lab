@@ -19,6 +19,8 @@ website: https://valeriehealth.com
 website_verified: true
 linkedin: https://www.linkedin.com/company/valerie-health
 headquarters: Lafayette, CA
+crunchbase: https://www.crunchbase.com/organization/valerie-health
+crunchbase_verified: false
 ---
 
 # Valerie Health

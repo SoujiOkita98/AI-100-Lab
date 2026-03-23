@@ -17,6 +17,8 @@ headquarters: New York, NY
 website: https://oboe.com
 founded: 2024
 website_verified: true
+crunchbase: https://www.crunchbase.com/organization/oboe
+crunchbase_verified: false
 ---
 
 # Oboe

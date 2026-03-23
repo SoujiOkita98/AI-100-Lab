@@ -31,6 +31,8 @@ one_liner: RAG-native enterprise AI platform that end-to-end optimizes retrieval
   who invented RAG at Meta FAIR
 website_verified: true
 linkedin: https://www.linkedin.com/company/contextualai
+crunchbase: https://www.crunchbase.com/organization/contextual-ai
+crunchbase_verified: false
 ---
 
 # Contextual AI

@@ -29,6 +29,8 @@ website: https://sola.security
 website_verified: true
 linkedin: https://www.linkedin.com/company/sola-security
 headquarters: Tel Aviv, Israel
+crunchbase: https://www.crunchbase.com/organization/sola-security
+crunchbase_verified: false
 ---
 
 # Sola Security

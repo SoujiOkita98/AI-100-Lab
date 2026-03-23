@@ -26,6 +26,8 @@ confidence: medium
 website: https://axiamatic.com
 headquarters: Saratoga, CA
 website_verified: true
+crunchbase: https://www.crunchbase.com/organization/axiamatic
+crunchbase_verified: false
 ---
 
 # Axiamatic

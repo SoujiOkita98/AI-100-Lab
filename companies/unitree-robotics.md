@@ -43,6 +43,8 @@ one_liner: Unitree Robotics is China's leading manufacturer of legged robots, pr
   robots
 website_verified: true
 linkedin: https://www.linkedin.com/company/unitreerobotics
+crunchbase: https://www.crunchbase.com/organization/unitree-robotics
+crunchbase_verified: false
 ---
 
 # Unitree Robotics

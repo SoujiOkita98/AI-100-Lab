@@ -36,6 +36,8 @@ last_updated: 2026-03-20
 one_liner: Datacurve provides premium, curated coding data for training and evaluating large language models
 website: https://datacurve.ai
 website_verified: true
+crunchbase: https://www.crunchbase.com/organization/datacurve
+crunchbase_verified: false
 ---
 
 # Datacurve

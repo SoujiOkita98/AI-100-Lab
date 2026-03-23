@@ -51,6 +51,8 @@ one_liner: Cresta is a contact center AI platform that provides real-time intell
   managers, and executives
 website_verified: true
 linkedin: https://www.linkedin.com/company/cresta-inc
+crunchbase: https://www.crunchbase.com/organization/cresta
+crunchbase_verified: false
 ---
 
 # Cresta -- Company Profile

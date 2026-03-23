@@ -18,6 +18,8 @@ data_notes: 'Needs verification: website, founders, source_urls, headquarters. P
 website: https://www.sesame.com
 website_verified: true
 linkedin: https://www.linkedin.com/company/sesameai
+crunchbase: https://www.crunchbase.com/organization/sesame-ai
+crunchbase_verified: false
 ---
 
 # Sesame

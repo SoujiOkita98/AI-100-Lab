@@ -62,6 +62,8 @@ one_liner: Luma AI is a Palo Alto-based AI company building multimodal generativ
 data_notes: 'Needs verification: website, founders. Profile may be incomplete.'
 twitter: '@LumaLabsAI'
 linkedin: https://www.linkedin.com/company/lumalabsai
+crunchbase: https://www.crunchbase.com/organization/luma-ai
+crunchbase_verified: false
 ---
 
 # Luma AI

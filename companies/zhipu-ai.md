@@ -76,6 +76,8 @@ funding_rounds:
   - Shanghai State Funds
   source: https://www.caixinglobal.com/2025-07-03/chinas-zhipu-ai-secures-140-million-investment-from-shanghai-state-funds-amid-ipo-push-102337464.html
 website_verified: true
+crunchbase: https://www.crunchbase.com/organization/zhipu-ai
+crunchbase_verified: false
 ---
 
 # Zhipu AI (Z.ai) -- Company Profile

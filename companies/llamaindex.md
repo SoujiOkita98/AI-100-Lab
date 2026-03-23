@@ -27,6 +27,8 @@ data_notes: 'Needs verification: source_urls, headquarters. Profile may be incom
 website_verified: true
 linkedin: https://www.linkedin.com/company/llamaindex
 headquarters: San Francisco, CA
+crunchbase: https://www.crunchbase.com/organization/llamaindex
+crunchbase_verified: false
 ---
 
 # LlamaIndex

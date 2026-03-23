@@ -20,6 +20,8 @@ status: Private
 last_updated: 2026-03-20
 website_verified: true
 linkedin: https://www.linkedin.com/company/brightwave-io
+crunchbase: https://www.crunchbase.com/organization/brightwave
+crunchbase_verified: false
 ---
 
 # Brightwave -- Company Profile

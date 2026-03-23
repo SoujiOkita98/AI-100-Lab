@@ -38,6 +38,8 @@ one_liner: Chai Discovery is building foundation models for molecular discovery 
   for biological molecules
 website_verified: true
 linkedin: https://www.linkedin.com/company/chaidiscovery
+crunchbase: https://www.crunchbase.com/organization/chai-discovery
+crunchbase_verified: false
 ---
 
 # Chai Discovery

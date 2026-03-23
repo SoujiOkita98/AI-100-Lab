@@ -1,19 +1,24 @@
 ---
-name: "Neural Concept"
+name: Neural Concept
 founded: 2018
-headquarters: "Lausanne, Switzerland"
+headquarters: Lausanne, Switzerland
 website: https://neuralconcept.com
-sector: "AI Engineering / Simulation"
-one_liner: "AI simulation for engineering design — aerodynamics, thermal, structural. Backed by NVIDIA, Siemens, Microsoft."
+sector: AI Engineering / Simulation
+one_liner: AI simulation for engineering design — aerodynamics, thermal, structural. Backed by NVIDIA, Siemens, Microsoft.
 status: active
 funding_rounds:
-  - stage: "Series C"
-    date: "2025-12"
-    amount_m: 95
-    lead_investors: ["NVIDIA", "Siemens", "Microsoft"]
+- stage: Series C
+  date: 2025-12
+  amount_m: 95
+  lead_investors:
+  - NVIDIA
+  - Siemens
+  - Microsoft
 total_funding: 95
 last_updated: 2026-03-21
 confidence: medium
+crunchbase: https://www.crunchbase.com/organization/neural-concept
+crunchbase_verified: false
 ---
 
 # Neural Concept

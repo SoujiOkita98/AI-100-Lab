@@ -26,6 +26,8 @@ founders:
 data_notes: 'Needs verification: website, source_urls, headquarters. Profile may be incomplete.'
 website: https://samaya.ai
 website_verified: true
+crunchbase: https://www.crunchbase.com/organization/samaya-ai
+crunchbase_verified: false
 ---
 
 # Samaya AI

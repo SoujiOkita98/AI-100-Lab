@@ -33,6 +33,8 @@ one_liner: Copy.ai is a generative AI platform that evolved from an AI copywriti
   AI) platform for sales, marketing, and revenue operations teams
 website_verified: true
 linkedin: https://www.linkedin.com/company/copyai
+crunchbase: https://www.crunchbase.com/organization/copy-ai
+crunchbase_verified: false
 ---
 
 # Copy.ai

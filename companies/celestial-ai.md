@@ -19,6 +19,8 @@ confidence: medium
 data_notes: 'Needs verification: founders, source_urls. Profile may be incomplete.'
 website_verified: true
 linkedin: https://www.linkedin.com/company/celestial-ai
+crunchbase: https://www.crunchbase.com/organization/celestial-ai
+crunchbase_verified: false
 ---
 
 # Celestial AI

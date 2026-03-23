@@ -23,6 +23,8 @@ funding_rounds:
 one_liner: Xaira Therapeutics is an AI-powered drug discovery company that launched in April 2024 with $1 billion in committed
   funding -- one of the largest launch rounds in biotech history
 website_verified: true
+crunchbase: https://www.crunchbase.com/organization/xaira-therapeutics
+crunchbase_verified: false
 ---
 
 # Xaira Therapeutics

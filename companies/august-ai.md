@@ -21,6 +21,8 @@ data_notes: 'Needs verification: website, source_urls, headquarters. Profile may
 website: https://www.meetaugust.ai
 website_verified: true
 headquarters: New York, NY
+crunchbase: https://www.crunchbase.com/organization/august-ai
+crunchbase_verified: false
 ---
 
 # August AI

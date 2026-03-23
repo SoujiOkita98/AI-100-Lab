@@ -17,6 +17,8 @@ confidence: medium
 data_notes: 'Needs verification: founders, source_urls, headquarters. Profile may be incomplete.'
 website_verified: true
 headquarters: San Francisco, CA
+crunchbase: https://www.crunchbase.com/organization/newo
+crunchbase_verified: false
 ---
 
 # Newo

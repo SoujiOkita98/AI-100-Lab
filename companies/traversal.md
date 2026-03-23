@@ -18,6 +18,8 @@ confidence: medium
 data_notes: 'Needs verification: website, founders, source_urls, headquarters. Profile may be incomplete.'
 website: https://traversal.com
 website_verified: true
+crunchbase: https://www.crunchbase.com/organization/traversal
+crunchbase_verified: false
 ---
 
 # Traversal

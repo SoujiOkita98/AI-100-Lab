@@ -18,6 +18,8 @@ confidence: medium
 data_notes: 'Needs verification: website, founders, source_urls. Profile may be incomplete.'
 website: https://www.filed.com
 website_verified: true
+crunchbase: https://www.crunchbase.com/organization/filed
+crunchbase_verified: false
 ---
 
 # Filed

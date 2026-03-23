@@ -26,6 +26,8 @@ data_notes: 'Needs verification: source_urls, headquarters. Profile may be incom
 website_verified: true
 linkedin: https://www.linkedin.com/company/resolveai
 headquarters: San Francisco, CA
+crunchbase: https://www.crunchbase.com/organization/resolve-ai
+crunchbase_verified: false
 ---
 
 # Resolve AI

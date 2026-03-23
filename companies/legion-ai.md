@@ -18,6 +18,8 @@ website: https://www.legionintel.com
 website_verified: true
 headquarters: Santa Clara, CA
 founded: 2024
+crunchbase: https://www.crunchbase.com/organization/legion-ai
+crunchbase_verified: false
 ---
 
 # Legion

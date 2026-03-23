@@ -19,6 +19,8 @@ confidence: medium
 data_notes: 'Needs verification: website, founders, source_urls. Profile may be incomplete.'
 website: https://www.bonerobotics.ai
 website_verified: true
+crunchbase: https://www.crunchbase.com/organization/bone-ai
+crunchbase_verified: false
 ---
 
 # Bone AI

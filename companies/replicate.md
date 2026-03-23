@@ -32,6 +32,8 @@ last_updated: 2026-03-20
 one_liner: Cloud API platform that lets developers run open-source ML models with a single API call, eliminating the need
   to manage GPUs or infrastructure
 website_verified: true
+crunchbase: https://www.crunchbase.com/organization/replicate
+crunchbase_verified: false
 ---
 
 # Replicate

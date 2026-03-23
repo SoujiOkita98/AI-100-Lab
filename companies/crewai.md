@@ -16,6 +16,8 @@ website: https://crewai.com
 website_verified: true
 linkedin: https://www.linkedin.com/company/crewai-inc
 headquarters: San Francisco, CA
+crunchbase: https://www.crunchbase.com/organization/crewai
+crunchbase_verified: false
 ---
 
 # CrewAI

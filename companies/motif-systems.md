@@ -19,6 +19,8 @@ data_notes: 'Needs verification: website, founders, source_urls, headquarters. P
 headquarters: San Francisco, CA
 website: https://www.motif.io
 website_verified: true
+crunchbase: https://www.crunchbase.com/organization/motif-systems
+crunchbase_verified: false
 ---
 
 # Motif Systems

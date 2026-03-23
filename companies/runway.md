@@ -66,6 +66,8 @@ funding_rounds:
 data_notes: 'Needs verification: website, founders. Profile may be incomplete.'
 linkedin: https://www.linkedin.com/company/runwayml
 twitter: '@runwayml'
+crunchbase: https://www.crunchbase.com/organization/runway
+crunchbase_verified: false
 ---
 
 # Runway

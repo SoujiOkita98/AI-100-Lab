@@ -20,6 +20,8 @@ last_updated: 2026-03-21
 confidence: medium
 linkedin: https://www.linkedin.com/company/sfcompute
 website_verified: true
+crunchbase: https://www.crunchbase.com/organization/sf-compute
+crunchbase_verified: false
 ---
 
 # SF Compute

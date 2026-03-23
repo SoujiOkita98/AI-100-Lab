@@ -84,6 +84,8 @@ funding_rounds:
   - GIC
   source: https://www.thoughtspot.com/press-releases/thoughtspot-raises-new-funding-at-usd4-2b-valuation
 website_verified: true
+crunchbase: https://www.crunchbase.com/organization/thoughtspot
+crunchbase_verified: false
 ---
 
 # ThoughtSpot

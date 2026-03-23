@@ -20,6 +20,8 @@ confidence: medium
 data_notes: 'Needs verification: website, founders, source_urls. Profile may be incomplete.'
 website: https://www.spirit-ai.com/en
 website_verified: true
+crunchbase: https://www.crunchbase.com/organization/spirit-ai-robotics
+crunchbase_verified: false
 ---
 
 # Spirit AI

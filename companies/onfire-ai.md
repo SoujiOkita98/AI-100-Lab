@@ -25,6 +25,8 @@ founders:
 data_notes: 'Needs verification: website, source_urls. Profile may be incomplete.'
 website: https://www.onfire.ai
 website_verified: true
+crunchbase: https://www.crunchbase.com/organization/onfire-ai
+crunchbase_verified: false
 ---
 
 # Onfire AI

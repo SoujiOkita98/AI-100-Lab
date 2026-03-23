@@ -46,6 +46,8 @@ funding_rounds:
   source: https://www.cnbc.com/2025/12/05/china-nvidia-moore-threads-trading-debut-1-billion-listing-ipo-shanghai-gpu-enflame-biren.html
   notes: ~8B CNY raised in IPO.
 website_verified: true
+crunchbase: https://www.crunchbase.com/organization/moore-threads
+crunchbase_verified: false
 ---
 
 # Moore Threads

@@ -17,6 +17,8 @@ data_notes: 'Needs verification: website, founders, source_urls, headquarters. P
 website: https://dreamgroup.com
 website_verified: true
 headquarters: Tel Aviv, Israel
+crunchbase: https://www.crunchbase.com/organization/dream-security
+crunchbase_verified: false
 ---
 
 # Dream Security

@@ -24,6 +24,8 @@ last_updated: 2026-03-20
 one_liner: Nevis is an AI platform purpose-built for Registered Investment Advisors (RIAs) that automates the administrative
   workflows consuming up to 80% of a financial advisor's time
 website_verified: true
+crunchbase: https://www.crunchbase.com/organization/nevis
+crunchbase_verified: false
 ---
 
 # Nevis -- Company Profile

@@ -47,6 +47,8 @@ one_liner: Lila Sciences is building what it calls "AI Science Factories" -- aut
   execute, and interpret scientific experiments with minimal human intervention
 website_verified: true
 linkedin: https://www.linkedin.com/company/lila-sciences
+crunchbase: https://www.crunchbase.com/organization/lila-sciences
+crunchbase_verified: false
 ---
 
 # Lila Sciences

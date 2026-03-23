@@ -22,6 +22,8 @@ data_notes: 'Needs verification: source_urls, headquarters. Profile may be incom
 website_verified: true
 linkedin: https://www.linkedin.com/company/bobyard
 headquarters: San Francisco, CA
+crunchbase: https://www.crunchbase.com/organization/bobyard
+crunchbase_verified: false
 ---
 
 # Bobyard

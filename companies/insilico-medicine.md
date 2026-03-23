@@ -14,6 +14,8 @@ one_liner: Generative AI for drug discovery with molecules in clinical trials. I
 total_funding: 1000
 website_verified: true
 linkedin: https://www.linkedin.com/company/in-silico-medicine
+crunchbase: https://www.crunchbase.com/organization/insilico-medicine
+crunchbase_verified: false
 ---
 
 # Insilico Medicine

@@ -59,6 +59,8 @@ sources:
 last_updated: 2026-03-20
 confidence: high
 website_verified: true
+crunchbase: https://www.crunchbase.com/organization/wonderful-ai
+crunchbase_verified: false
 ---
 
 # Wonderful

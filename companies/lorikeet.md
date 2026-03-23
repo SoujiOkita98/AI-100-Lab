@@ -19,6 +19,8 @@ data_notes: 'Needs verification: website, founders, source_urls. Profile may be 
 website: https://www.lorikeetcx.ai
 website_verified: true
 linkedin: https://www.linkedin.com/company/lorikeetcx
+crunchbase: https://www.crunchbase.com/organization/lorikeet
+crunchbase_verified: false
 ---
 
 # Lorikeet

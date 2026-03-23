@@ -24,6 +24,8 @@ data_notes: 'Needs verification: website, source_urls. Profile may be incomplete
 website: https://www.evolvedrobotics.ai
 website_verified: true
 linkedin: https://www.linkedin.com/company/evolved-robotics-care
+crunchbase: https://www.crunchbase.com/organization/evolved-robotics
+crunchbase_verified: false
 ---
 
 # Evolved Robotics

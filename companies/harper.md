@@ -34,6 +34,8 @@ last_updated: 2026-03-20
 website: https://www.harperinsure.com
 website_verified: true
 linkedin: https://www.linkedin.com/company/harperinsure
+crunchbase: https://www.crunchbase.com/organization/harper
+crunchbase_verified: false
 ---
 
 # Harper

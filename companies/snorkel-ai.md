@@ -57,6 +57,8 @@ website: https://snorkel.ai
 website_verified: true
 twitter: '@SnorkelAI'
 linkedin: https://www.linkedin.com/company/snorkel-ai
+crunchbase: https://www.crunchbase.com/organization/snorkel-ai
+crunchbase_verified: false
 ---
 
 # Snorkel AI

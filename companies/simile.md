@@ -128,6 +128,8 @@ sources:
 - https://www.lw.com/en/news/latham-advises-simile-ai-inc-on-us-100-million-series-a
 - https://www.ctol.digital/news/simile-ai-100m-series-a-synthetic-humanity/
 website_verified: true
+crunchbase: https://www.crunchbase.com/organization/simile
+crunchbase_verified: false
 ---
 
 # Simile

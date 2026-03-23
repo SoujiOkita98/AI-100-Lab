@@ -26,6 +26,8 @@ data_notes: 'Needs verification: website, source_urls. Profile may be incomplete
 website: https://nace.ai
 website_verified: true
 linkedin: https://www.linkedin.com/company/nace-ai
+crunchbase: https://www.crunchbase.com/organization/nace-ai
+crunchbase_verified: false
 ---
 
 # Nace.AI

@@ -18,6 +18,8 @@ confidence: medium
 data_notes: 'Needs verification: website, founders, source_urls, headquarters. Profile may be incomplete.'
 website: https://www.sett.ai
 website_verified: true
+crunchbase: https://www.crunchbase.com/organization/sett-ai
+crunchbase_verified: false
 ---
 
 # Sett

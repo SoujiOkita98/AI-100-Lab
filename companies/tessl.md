@@ -36,6 +36,8 @@ funding_rounds:
   source: https://techcrunch.com/2024/11/14/tessl-raises-125m/
 one_liner: Tessl is building an AI-native, spec-centric platform for autonomous software development
 website_verified: true
+crunchbase: https://www.crunchbase.com/organization/tessl
+crunchbase_verified: false
 ---
 
 # Tessl

@@ -57,6 +57,8 @@ one_liner: Hippocratic AI builds safety-focused generative AI agents for healthc
 website_verified: true
 twitter: '@hippocraticai'
 linkedin: https://www.linkedin.com/company/hippocratic-ai-health
+crunchbase: https://www.crunchbase.com/organization/hippocratic-ai
+crunchbase_verified: false
 ---
 
 # Hippocratic AI

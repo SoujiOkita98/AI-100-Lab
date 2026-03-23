@@ -18,6 +18,8 @@ website: https://windbornesystems.com
 website_verified: true
 linkedin: https://www.linkedin.com/company/windborne
 headquarters: Palo Alto, CA
+crunchbase: https://www.crunchbase.com/organization/windborne
+crunchbase_verified: false
 ---
 
 # WindBorne Systems

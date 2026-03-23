@@ -37,6 +37,8 @@ confidence: high on funding figures; moderate on revenue projections and employe
 one_liner: Poolside is building purpose-built foundation models for software engineering
 website_verified: true
 total_funding: 626
+crunchbase: https://www.crunchbase.com/organization/poolside
+crunchbase_verified: false
 ---
 
 # Poolside

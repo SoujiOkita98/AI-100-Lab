@@ -49,6 +49,8 @@ funding_rounds:
 website: https://www.essential.ai
 website_verified: true
 linkedin: https://www.linkedin.com/company/essentialai
+crunchbase: https://www.crunchbase.com/organization/essential-ai
+crunchbase_verified: false
 ---
 
 # Essential AI

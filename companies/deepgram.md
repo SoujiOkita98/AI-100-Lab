@@ -16,6 +16,8 @@ confidence: medium
 data_notes: 'Needs verification: founders, source_urls. Profile may be incomplete.'
 website_verified: true
 linkedin: https://www.linkedin.com/company/deepgram
+crunchbase: https://www.crunchbase.com/organization/deepgram
+crunchbase_verified: false
 ---
 
 # Deepgram

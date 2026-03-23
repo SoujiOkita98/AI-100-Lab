@@ -20,6 +20,8 @@ confidence: medium
 data_notes: 'Needs verification: website, founders, source_urls. Profile may be incomplete.'
 website: https://www.vesence.com
 website_verified: true
+crunchbase: https://www.crunchbase.com/organization/vesence
+crunchbase_verified: false
 ---
 
 # Vesence

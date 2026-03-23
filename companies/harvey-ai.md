@@ -72,6 +72,8 @@ one_liner: Harvey is a domain-specific AI platform built for legal and professio
 website_verified: true
 linkedin: https://www.linkedin.com/company/harvey-ai
 twitter: '@harvey__ai'
+crunchbase: https://www.crunchbase.com/organization/harvey-ai
+crunchbase_verified: false
 ---
 
 # Harvey AI -- Company Profile

@@ -106,6 +106,8 @@ sources:
 last_updated: 2026-03-20
 confidence: medium-high
 website_verified: true
+crunchbase: https://www.crunchbase.com/organization/world-labs
+crunchbase_verified: false
 ---
 
 # World Labs

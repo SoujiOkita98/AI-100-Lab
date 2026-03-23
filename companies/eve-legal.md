@@ -18,6 +18,8 @@ data_notes: 'Needs verification: website, founders, source_urls, headquarters. P
 website: https://www.eve.legal
 website_verified: true
 headquarters: San Mateo, CA
+crunchbase: https://www.crunchbase.com/organization/eve-legal
+crunchbase_verified: false
 ---
 
 # Eve (Legal AI)

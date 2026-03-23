@@ -146,6 +146,8 @@ confidence_notes: Funding amounts and lead investors are well-sourced from multi
 website_verified: true
 twitter: '@physical_int'
 linkedin: https://www.linkedin.com/company/physical-intelligence
+crunchbase: https://www.crunchbase.com/organization/physical-intelligence
+crunchbase_verified: false
 ---
 
 # Physical Intelligence

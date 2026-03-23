@@ -54,6 +54,8 @@ funding_rounds:
 one_liner: '> AI-powered healthcare document automation that processes 10 million medical documents per month, fixing the
   broken patient referral system'
 website_verified: true
+crunchbase: https://www.crunchbase.com/organization/tennr
+crunchbase_verified: false
 ---
 
 # Tennr

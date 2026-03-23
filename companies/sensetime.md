@@ -84,6 +84,8 @@ funding_rounds:
 one_liner: SenseTime is one of China's original "Four AI Dragons" (alongside Megvii, CloudWalk, and Yitu) that defined the
   first wave of Chinese AI companies in the mid-2010s
 website_verified: true
+crunchbase: https://www.crunchbase.com/organization/sensetime
+crunchbase_verified: false
 ---
 
 # SenseTime

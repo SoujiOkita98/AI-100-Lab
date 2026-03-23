@@ -32,6 +32,8 @@ last_updated: 2026-03-20
 one_liner: AI research lab building "human computing" -- real-time, emotionally intelligent AI humans that see, hear, speak,
   and react in face-to-face video interactions, delivered as a developer platform
 website_verified: true
+crunchbase: https://www.crunchbase.com/organization/tavus
+crunchbase_verified: false
 ---
 
 # Tavus

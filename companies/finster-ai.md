@@ -25,6 +25,8 @@ data_notes: 'Needs verification: website, source_urls. Profile may be incomplete
 website: https://www.finster.ai
 website_verified: true
 linkedin: https://www.linkedin.com/company/finster-ai
+crunchbase: https://www.crunchbase.com/organization/finster-ai
+crunchbase_verified: false
 ---
 
 # Finster AI

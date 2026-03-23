@@ -29,6 +29,8 @@ key_investors:
 one_liner: '> Former DeepMind scientists building autonomous AI agents that control your Mac and Windows PC — navigating interfaces,
   completing workflows, and operating software like a human knowledge worker'
 website_verified: true
+crunchbase: https://www.crunchbase.com/organization/simular
+crunchbase_verified: false
 ---
 
 # Simular

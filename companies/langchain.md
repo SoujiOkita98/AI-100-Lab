@@ -37,6 +37,8 @@ one_liner: LangChain is the leading open-source framework and commercial platfor
 website_verified: true
 twitter: '@LangChainAI'
 linkedin: https://www.linkedin.com/company/langchain
+crunchbase: https://www.crunchbase.com/organization/langchain
+crunchbase_verified: false
 ---
 
 # LangChain

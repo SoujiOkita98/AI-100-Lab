@@ -28,6 +28,8 @@ founders:
 data_notes: 'Needs verification: website, source_urls. Profile may be incomplete.'
 website: https://act.security
 website_verified: true
+crunchbase: https://www.crunchbase.com/organization/act-security
+crunchbase_verified: false
 ---
 
 # Act Security

@@ -39,6 +39,8 @@ website: https://gradium.org
 website_verified: false
 data_notes: 'Website URL may be invalid (Connection failed). '
 linkedin: https://www.linkedin.com/company/gradium-ai
+crunchbase: https://www.crunchbase.com/organization/gradium
+crunchbase_verified: false
 ---
 
 # Gradium

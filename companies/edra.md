@@ -18,6 +18,8 @@ total_funding: 36.5
 last_updated: 2026-03-21
 confidence: medium
 website_verified: true
+crunchbase: https://www.crunchbase.com/organization/edra
+crunchbase_verified: false
 ---
 
 # Edra

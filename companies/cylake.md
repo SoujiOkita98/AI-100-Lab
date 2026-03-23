@@ -26,6 +26,8 @@ confidence: medium
 website: https://cylake.com
 headquarters: Sunnyvale, CA
 website_verified: true
+crunchbase: https://www.crunchbase.com/organization/cylake
+crunchbase_verified: false
 ---
 
 # Cylake

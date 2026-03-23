@@ -68,6 +68,8 @@ funding_rounds:
 one_liner: Decagon is an enterprise AI company building autonomous AI agents for customer support and experience
 website_verified: true
 linkedin: https://www.linkedin.com/company/decagon-ai
+crunchbase: https://www.crunchbase.com/organization/decagon
+crunchbase_verified: false
 ---
 
 # Decagon

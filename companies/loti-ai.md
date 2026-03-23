@@ -17,6 +17,8 @@ data_notes: 'Needs verification: website, founders, source_urls, headquarters. P
 website: https://www.lotiai.com
 website_verified: true
 headquarters: Seattle, WA
+crunchbase: https://www.crunchbase.com/organization/loti-ai
+crunchbase_verified: false
 ---
 
 # Loti AI

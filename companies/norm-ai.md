@@ -44,6 +44,8 @@ funding_rounds:
 one_liner: Norm AI transforms regulations, laws, corporate policies, and legal obligations into AI-powered compliance systems
 website_verified: true
 linkedin: https://www.linkedin.com/company/normative-ai
+crunchbase: https://www.crunchbase.com/organization/norm-ai
+crunchbase_verified: false
 ---
 
 # Norm AI -- Company Profile

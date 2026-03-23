@@ -31,6 +31,8 @@ funding_rounds:
 one_liner: Moonvalley's flagship model, **Marey**, was announced in March 2025 and reached general availability in July 2025
 website_verified: true
 linkedin: https://www.linkedin.com/company/moonvalley-ai
+crunchbase: https://www.crunchbase.com/organization/moonvalley
+crunchbase_verified: false
 ---
 
 # Moonvalley

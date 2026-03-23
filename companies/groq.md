@@ -133,6 +133,8 @@ confidence_notes: Funding rounds Series A-B have some variance across sources on
 website_verified: true
 linkedin: https://www.linkedin.com/company/groq
 twitter: '@GroqInc'
+crunchbase: https://www.crunchbase.com/organization/groq
+crunchbase_verified: false
 ---
 
 # Groq

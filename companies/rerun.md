@@ -16,6 +16,8 @@ confidence: medium
 data_notes: 'Needs verification: website, founders, source_urls. Profile may be incomplete.'
 website: https://rerun.io
 website_verified: true
+crunchbase: https://www.crunchbase.com/organization/rerun
+crunchbase_verified: false
 ---
 
 # Rerun

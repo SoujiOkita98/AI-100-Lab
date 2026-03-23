@@ -19,6 +19,8 @@ confidence: medium
 data_notes: 'Needs verification: website, founders, source_urls. Profile may be incomplete.'
 website: https://www.x2robot.com/en
 website_verified: true
+crunchbase: https://www.crunchbase.com/organization/x-square-robot
+crunchbase_verified: false
 ---
 
 # X Square Robot

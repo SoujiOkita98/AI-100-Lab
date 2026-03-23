@@ -40,6 +40,8 @@ one_liner: Robust Intelligence was an AI security and validation platform founde
 website: https://www.robustintelligence.com
 website_verified: false
 data_notes: 'Website URL may be invalid (Connection failed). '
+crunchbase: https://www.crunchbase.com/organization/robust-intelligence
+crunchbase_verified: false
 ---
 
 # Robust Intelligence

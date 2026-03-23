@@ -16,6 +16,8 @@ website: https://mythic.ai
 website_verified: true
 headquarters: Austin, TX
 linkedin: https://www.linkedin.com/company/mythic-ai
+crunchbase: https://www.crunchbase.com/organization/mythic-ai
+crunchbase_verified: false
 ---
 
 # Mythic

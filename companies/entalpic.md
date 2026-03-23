@@ -31,6 +31,8 @@ key_investors:
 one_liner: '> French AI startup using generative models to discover optimized catalytic materials for decarbonizing industrial
   chemistry, founded by Mila and Owkin alumni'
 website_verified: true
+crunchbase: https://www.crunchbase.com/organization/entalpic
+crunchbase_verified: false
 ---
 
 # Entalpic

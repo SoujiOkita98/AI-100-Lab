@@ -13,6 +13,8 @@ last_updated: 2026-03-20
 one_liner: Graphcore was a British AI chip company that designed the Intelligence Processing Unit (IPU), a novel processor
   architecture built specifically for machine learning workloads
 website_verified: true
+crunchbase: https://www.crunchbase.com/organization/graphcore
+crunchbase_verified: false
 ---
 
 # Graphcore

@@ -23,6 +23,8 @@ website: https://fablesecurity.com
 website_verified: true
 headquarters: San Francisco, CA
 linkedin: https://www.linkedin.com/company/fable-security
+crunchbase: https://www.crunchbase.com/organization/fable-security
+crunchbase_verified: false
 ---
 
 # Fable Security

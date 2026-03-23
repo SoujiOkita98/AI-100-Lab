@@ -13,6 +13,8 @@ one_liner: Anysphere is the company behind **Cursor**, an AI-native code editor 
 website_verified: true
 linkedin: https://www.linkedin.com/company/anysphere
 twitter: '@cursor_ai'
+crunchbase: https://www.crunchbase.com/organization/anysphere-cursor
+crunchbase_verified: false
 ---
 
 # Anysphere (Cursor)

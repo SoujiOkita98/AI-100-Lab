@@ -48,6 +48,8 @@ one_liner: Fireworks AI is a high-performance AI inference platform founded by t
 website_verified: true
 twitter: '@FireworksAI_HQ'
 linkedin: https://www.linkedin.com/company/fireworks-ai
+crunchbase: https://www.crunchbase.com/organization/fireworks-ai
+crunchbase_verified: false
 ---
 
 # Fireworks AI

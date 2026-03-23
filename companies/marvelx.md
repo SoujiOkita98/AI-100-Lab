@@ -17,6 +17,8 @@ website: https://www.marvelx.ai
 website_verified: true
 headquarters: Amsterdam, Netherlands
 founded: 2023
+crunchbase: https://www.crunchbase.com/organization/marvelx
+crunchbase_verified: false
 ---
 
 # MarvelX

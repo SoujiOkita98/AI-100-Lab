@@ -37,6 +37,8 @@ status: Active, stealth R&D mode
 last_updated: '2026-03-20'
 one_liner: 'SSI exists to solve one problem: build a **safe superintelligence**'
 website_verified: true
+crunchbase: https://www.crunchbase.com/organization/ssi
+crunchbase_verified: false
 ---
 
 # Safe Superintelligence Inc. (SSI)

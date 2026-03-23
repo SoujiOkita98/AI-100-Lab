@@ -17,6 +17,8 @@ confidence: medium
 data_notes: 'Needs verification: website, founders, source_urls, headquarters. Profile may be incomplete.'
 website: https://tenex.ai
 website_verified: true
+crunchbase: https://www.crunchbase.com/organization/tenex-ai
+crunchbase_verified: false
 ---
 
 # Tenex AI

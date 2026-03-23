@@ -26,6 +26,8 @@ last_updated: 2026-03-21
 confidence: medium
 website_verified: true
 linkedin: https://www.linkedin.com/company/sandboxaq
+crunchbase: https://www.crunchbase.com/organization/sandboxaq
+crunchbase_verified: false
 ---
 
 # SandboxAQ

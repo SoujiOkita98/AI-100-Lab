@@ -21,6 +21,8 @@ research_date: 2026-03-20
 one_liner: Tome was an AI-native storytelling and presentation platform founded in 2020 by former Meta executives Keith Peiris
   and Henri Liriani
 data_notes: 'Needs verification: website, founders. Profile may be incomplete.'
+crunchbase: https://www.crunchbase.com/organization/tome
+crunchbase_verified: false
 ---
 
 # Tome

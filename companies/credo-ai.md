@@ -26,6 +26,8 @@ tags:
 - ex-qualcomm
 one_liner: Credo AI is an AI governance SaaS platform that helps enterprises minimize AI-related risk by ensuring their AI
   systems are fair, compliant, secure, auditable, and human-centered
+crunchbase: https://www.crunchbase.com/organization/credo-ai
+crunchbase_verified: false
 ---
 
 # Credo AI -- AI Governance & Responsible AI Platform

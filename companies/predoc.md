@@ -19,6 +19,8 @@ website: https://www.predoc.ai
 website_verified: true
 linkedin: https://www.linkedin.com/company/predocai
 headquarters: New York, NY
+crunchbase: https://www.crunchbase.com/organization/predoc
+crunchbase_verified: false
 ---
 
 # Predoc

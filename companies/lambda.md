@@ -17,6 +17,8 @@ one_liner: Lambda is a GPU cloud infrastructure company providing scalable compu
 website_verified: true
 twitter: '@LambdaAPI'
 linkedin: https://www.linkedin.com/company/lambda-labs
+crunchbase: https://www.crunchbase.com/organization/lambda
+crunchbase_verified: false
 ---
 
 # Lambda

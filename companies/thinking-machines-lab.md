@@ -59,6 +59,8 @@ one_liner: '> Public benefit corporation building customizable frontier AI model
 website_verified: true
 twitter: '@thinkymachines'
 linkedin: https://www.linkedin.com/company/thinkingmachinesai
+crunchbase: https://www.crunchbase.com/organization/thinking-machines-lab
+crunchbase_verified: false
 ---
 
 # Thinking Machines Lab

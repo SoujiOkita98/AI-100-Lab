@@ -24,6 +24,8 @@ confidence: high
 one_liner: Graphite is an AI-powered code review and developer workflow platform that leverages models from Anthropic and
   OpenAI to flag errors, suggest improvements, and accelerate the review process
 website_verified: true
+crunchbase: https://www.crunchbase.com/organization/graphite
+crunchbase_verified: false
 ---
 
 # Graphite

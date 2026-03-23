@@ -12,6 +12,8 @@ website: https://tenstorrent.com
 last_updated: 2026-03-20
 one_liner: Tenstorrent is a Canadian AI chip and RISC-V processor company led by legendary chip architect Jim Keller
 website_verified: true
+crunchbase: https://www.crunchbase.com/organization/tenstorrent
+crunchbase_verified: false
 ---
 
 # Tenstorrent

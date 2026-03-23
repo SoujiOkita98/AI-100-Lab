@@ -16,6 +16,8 @@ last_updated: 2026-03-21
 confidence: medium
 website: https://www.spara.co
 website_verified: true
+crunchbase: https://www.crunchbase.com/organization/spara
+crunchbase_verified: false
 ---
 
 # Spara

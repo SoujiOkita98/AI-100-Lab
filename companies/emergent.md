@@ -60,6 +60,8 @@ funding_rounds:
   source: https://www.businesswire.com/news/home/20260120852493/en/
 website: https://emergent.sh
 website_verified: true
+crunchbase: https://www.crunchbase.com/organization/emergent
+crunchbase_verified: false
 ---
 
 # Emergent

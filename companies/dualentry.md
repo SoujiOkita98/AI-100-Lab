@@ -20,6 +20,8 @@ data_notes: 'Needs verification: founders, source_urls, headquarters. Profile ma
 website_verified: true
 linkedin: https://www.linkedin.com/company/dualentry
 headquarters: New York, NY
+crunchbase: https://www.crunchbase.com/organization/dualentry
+crunchbase_verified: false
 ---
 
 # DualEntry

@@ -47,6 +47,8 @@ funding_rounds:
 one_liner: Nebius is a full-stack AI cloud infrastructure provider offering GPU-as-a-Service (GPUaaS) to AI developers and
   enterprises
 website_verified: true
+crunchbase: https://www.crunchbase.com/organization/nebius
+crunchbase_verified: false
 ---
 
 # Nebius Group (NBIS)

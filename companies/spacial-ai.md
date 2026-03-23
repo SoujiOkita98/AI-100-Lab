@@ -17,6 +17,8 @@ website: https://spacial.io
 website_verified: true
 headquarters: San Francisco, CA
 founded: 2024
+crunchbase: https://www.crunchbase.com/organization/spacial-ai
+crunchbase_verified: false
 ---
 
 # Spacial

@@ -17,6 +17,8 @@ confidence: medium
 data_notes: 'Needs verification: website, founders, source_urls. Profile may be incomplete.'
 website: https://www.cthesigns.com
 website_verified: true
+crunchbase: https://www.crunchbase.com/organization/c-the-signs
+crunchbase_verified: false
 ---
 
 # C the Signs

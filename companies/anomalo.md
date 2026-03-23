@@ -55,6 +55,8 @@ strategic_investors:
 - Databricks Ventures
 - Snowflake Ventures
 website_verified: true
+crunchbase: https://www.crunchbase.com/organization/anomalo
+crunchbase_verified: false
 ---
 
 # Anomalo

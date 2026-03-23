@@ -43,6 +43,8 @@ funding_rounds:
 one_liner: Speak is an AI-powered language learning platform that uses speech recognition and conversational AI to help users
   practice speaking foreign languages
 website_verified: true
+crunchbase: https://www.crunchbase.com/organization/speak
+crunchbase_verified: false
 ---
 
 # Speak -- AI Language Learning

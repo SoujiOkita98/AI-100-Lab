@@ -56,6 +56,8 @@ one_liner: '> UK-based Legal-Grade AI platform used by 1,000+ organizations acro
   a quarter of the Global Top 100 law firms'
 website_verified: true
 linkedin: https://www.linkedin.com/company/luminancetech
+crunchbase: https://www.crunchbase.com/organization/luminance
+crunchbase_verified: false
 ---
 
 # Luminance

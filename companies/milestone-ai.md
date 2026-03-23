@@ -19,6 +19,8 @@ data_notes: 'Needs verification: website, founders, source_urls, headquarters. P
 website: https://mstone.ai
 website_verified: true
 headquarters: Tel Aviv, Israel
+crunchbase: https://www.crunchbase.com/organization/milestone-ai
+crunchbase_verified: false
 ---
 
 # Milestone AI

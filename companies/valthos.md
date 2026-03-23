@@ -28,6 +28,8 @@ confidence: medium
 data_notes: 'Needs verification: website, source_urls, headquarters. Profile may be incomplete.'
 website: https://valthos.com
 website_verified: true
+crunchbase: https://www.crunchbase.com/organization/valthos
+crunchbase_verified: false
 ---
 
 # Valthos

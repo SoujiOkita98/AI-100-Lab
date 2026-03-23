@@ -18,6 +18,8 @@ website: https://www.ambient.ai
 website_verified: true
 linkedin: https://www.linkedin.com/company/ambient-ai
 headquarters: Redwood City, CA
+crunchbase: https://www.crunchbase.com/organization/ambient-ai
+crunchbase_verified: false
 ---
 
 # Ambient.ai

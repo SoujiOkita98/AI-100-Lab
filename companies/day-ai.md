@@ -17,6 +17,8 @@ one_liner: AI-native CRM auto-capturing relationship data from emails, calendars
 website: https://day.ai
 total_funding: 28
 website_verified: true
+crunchbase: https://www.crunchbase.com/organization/day-ai
+crunchbase_verified: false
 ---
 
 # Day AI

@@ -46,6 +46,8 @@ one_liner: '> Autonomous AI-powered cybersecurity agents that automate security 
   of Cybereason'
 website_verified: true
 linkedin: https://www.linkedin.com/company/seven-ai
+crunchbase: https://www.crunchbase.com/organization/7ai
+crunchbase_verified: false
 ---
 
 # 7AI

@@ -21,6 +21,8 @@ one_liner: CodeRabbit is an AI-powered code review platform that integrates dire
   GitHub, GitLab, Azure DevOps, and Bitbucket
 website_verified: true
 linkedin: https://www.linkedin.com/company/coderabbitai
+crunchbase: https://www.crunchbase.com/organization/coderabbit
+crunchbase_verified: false
 ---
 
 # CodeRabbit

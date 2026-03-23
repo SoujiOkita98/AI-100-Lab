@@ -59,6 +59,8 @@ one_liner: '> AI "search engine for new materials" -- backed by Nvidia, advised 
   transform materials discovery for climate and industry'
 website_verified: true
 linkedin: https://www.linkedin.com/company/cusp-ai
+crunchbase: https://www.crunchbase.com/organization/cuspai
+crunchbase_verified: false
 ---
 
 # CuspAI

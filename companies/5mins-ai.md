@@ -17,6 +17,8 @@ website: https://www.5mins.ai
 website_verified: true
 headquarters: London, UK
 founded: 2021
+crunchbase: https://www.crunchbase.com/organization/5mins-ai
+crunchbase_verified: false
 ---
 
 # 5Mins AI

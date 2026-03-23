@@ -22,6 +22,8 @@ data_notes: 'Needs verification: website, source_urls, headquarters. Profile may
 website: https://www.biostate.ai
 website_verified: true
 headquarters: Houston, TX
+crunchbase: https://www.crunchbase.com/organization/biostate-ai
+crunchbase_verified: false
 ---
 
 # Biostate AI

@@ -76,6 +76,8 @@ funding_rounds:
   - Kaiser Permanente
   source: https://techcrunch.com/2025/01/09/innovaccer-aims-to-become-healthcares-ai-powerhouse-with-275m-series-f/
 linkedin: https://www.linkedin.com/company/innovaccer
+crunchbase: https://www.crunchbase.com/organization/innovaccer
+crunchbase_verified: false
 ---
 
 # Innovaccer -- Healthcare AI & Data Platform

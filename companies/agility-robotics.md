@@ -132,6 +132,8 @@ tags:
 - deep-tech
 - bipedal-locomotion
 website_verified: true
+crunchbase: https://www.crunchbase.com/organization/agility-robotics
+crunchbase_verified: false
 ---
 
 # Agility Robotics

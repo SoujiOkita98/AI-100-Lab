@@ -63,6 +63,8 @@ website: https://sakana.ai
 website_verified: true
 twitter: '@SakanaAILabs'
 linkedin: https://www.linkedin.com/company/sakana-ai
+crunchbase: https://www.crunchbase.com/organization/sakana-ai
+crunchbase_verified: false
 ---
 
 # Sakana AI

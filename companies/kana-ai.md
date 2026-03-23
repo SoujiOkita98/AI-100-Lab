@@ -28,6 +28,8 @@ website: https://www.kana.ai
 website_verified: true
 headquarters: San Francisco, CA
 linkedin: https://www.linkedin.com/company/kana-intelligence
+crunchbase: https://www.crunchbase.com/organization/kana-ai
+crunchbase_verified: false
 ---
 
 # Kana

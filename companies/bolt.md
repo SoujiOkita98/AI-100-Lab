@@ -53,6 +53,8 @@ funding_rounds:
 one_liner: AI-powered full-stack application builder that runs entirely in the browser, turning natural-language prompts into
   deployable web apps in minutes
 website_verified: true
+crunchbase: https://www.crunchbase.com/organization/bolt
+crunchbase_verified: false
 ---
 
 # Bolt.new / StackBlitz

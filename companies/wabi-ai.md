@@ -24,6 +24,8 @@ website: https://wabi.ai
 headquarters: San Francisco, CA
 website_verified: true
 linkedin: https://www.linkedin.com/company/wabi-ai
+crunchbase: https://www.crunchbase.com/organization/wabi-ai
+crunchbase_verified: false
 ---
 
 # Wabi AI

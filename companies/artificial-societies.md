@@ -18,6 +18,8 @@ data_notes: 'Needs verification: website, founders, source_urls, headquarters. P
 website: https://societies.io
 website_verified: true
 headquarters: London, UK
+crunchbase: https://www.crunchbase.com/organization/artificial-societies
+crunchbase_verified: false
 ---
 
 # Artificial Societies

@@ -15,6 +15,8 @@ one_liner: Etched is building Sohu, the first ASIC (application-specific integra
 website_verified: true
 twitter: '@Etched'
 linkedin: https://www.linkedin.com/company/etched-ai
+crunchbase: https://www.crunchbase.com/organization/etched
+crunchbase_verified: false
 ---
 
 # Etched

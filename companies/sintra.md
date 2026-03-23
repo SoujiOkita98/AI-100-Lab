@@ -18,6 +18,8 @@ data_notes: 'Needs verification: website, founders, source_urls. Profile may be 
 website: https://sintra.ai
 website_verified: true
 linkedin: https://www.linkedin.com/company/sintradotai
+crunchbase: https://www.crunchbase.com/organization/sintra
+crunchbase_verified: false
 ---
 
 # Sintra

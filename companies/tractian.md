@@ -49,6 +49,8 @@ funding_rounds:
 one_liner: Tractian is an industrial AI company that provides integrated hardware and software solutions to eliminate unplanned
   downtime in manufacturing and heavy industry
 website_verified: true
+crunchbase: https://www.crunchbase.com/organization/tractian
+crunchbase_verified: false
 ---
 
 # Tractian -- Company Profile

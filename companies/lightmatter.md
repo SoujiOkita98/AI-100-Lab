@@ -14,6 +14,8 @@ one_liner: Lightmatter is a photonic computing and interconnect company building
   of electrical signals to move data between processors in AI data centers
 website_verified: true
 linkedin: https://www.linkedin.com/company/lightmatter
+crunchbase: https://www.crunchbase.com/organization/lightmatter
+crunchbase_verified: false
 ---
 
 # Lightmatter

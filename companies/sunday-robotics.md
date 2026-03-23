@@ -52,6 +52,8 @@ last_updated: 2026-03-20
 one_liner: Sunday is building Memo, an autonomous household robot designed to help families with everyday chores such as doing
   dishes, laundry, and tidying up
 website_verified: true
+crunchbase: https://www.crunchbase.com/organization/sunday-robotics
+crunchbase_verified: false
 ---
 
 # Sunday Robotics

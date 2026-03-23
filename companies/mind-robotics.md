@@ -93,6 +93,8 @@ confidence_notes: Funding amounts ($115M seed, $500M Series A) and lead investor
   Google) are mentioned in press coverage but individual names beyond Scaringe and board member Sameer Gandhi have not been
   disclosed. Employee count (~13) is from LinkedIn and may be outdated given rapid hiring.
 website_verified: true
+crunchbase: https://www.crunchbase.com/organization/mind-robotics
+crunchbase_verified: false
 ---
 
 # Mind Robotics

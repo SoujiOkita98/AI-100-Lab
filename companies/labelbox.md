@@ -72,6 +72,8 @@ one_liner: Labelbox is an AI data infrastructure company that provides an integr
   and expert-sourced training data
 website_verified: true
 linkedin: https://www.linkedin.com/company/labelbox
+crunchbase: https://www.crunchbase.com/organization/labelbox
+crunchbase_verified: false
 ---
 
 # Labelbox

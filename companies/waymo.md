@@ -91,6 +91,8 @@ one_liner: '> Alphabet''s autonomous driving subsidiary, now valued at $126 bill
 website_verified: true
 twitter: '@Waymo'
 linkedin: https://www.linkedin.com/company/waymo
+crunchbase: https://www.crunchbase.com/organization/waymo
+crunchbase_verified: false
 ---
 
 # Waymo

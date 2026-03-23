@@ -23,6 +23,8 @@ data_notes: 'Needs verification: website, source_urls, headquarters. Profile may
 website: https://www.mal.ai
 website_verified: true
 headquarters: Abu Dhabi, UAE
+crunchbase: https://www.crunchbase.com/organization/mal-bank
+crunchbase_verified: false
 ---
 
 # Mal

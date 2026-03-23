@@ -48,6 +48,8 @@ last_updated: 2026-03-20
 one_liner: Isomorphic Labs is an Alphabet subsidiary spun out of Google DeepMind to apply frontier AI to drug discovery
 website_verified: true
 total_funding: 600
+crunchbase: https://www.crunchbase.com/organization/isomorphic-labs
+crunchbase_verified: false
 ---
 
 # Isomorphic Labs

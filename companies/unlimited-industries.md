@@ -18,6 +18,8 @@ data_notes: 'Needs verification: website, founders, source_urls, headquarters. P
 website: https://www.unlimitedindustries.com
 website_verified: true
 headquarters: San Francisco, CA
+crunchbase: https://www.crunchbase.com/organization/unlimited-industries
+crunchbase_verified: false
 ---
 
 # Unlimited Industries

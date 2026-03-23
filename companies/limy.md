@@ -19,6 +19,8 @@ data_notes: 'Needs verification: website, founders, source_urls, headquarters. P
 website: https://limy.ai
 website_verified: true
 headquarters: New York, NY
+crunchbase: https://www.crunchbase.com/organization/limy
+crunchbase_verified: false
 ---
 
 # Limy

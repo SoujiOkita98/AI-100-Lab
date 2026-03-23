@@ -146,6 +146,8 @@ confidence_notes: Funding amounts and lead investors are well-sourced from offic
 website_verified: true
 twitter: '@SkildAI'
 linkedin: https://www.linkedin.com/company/skildai
+crunchbase: https://www.crunchbase.com/organization/skild-ai
+crunchbase_verified: false
 ---
 
 # Skild AI

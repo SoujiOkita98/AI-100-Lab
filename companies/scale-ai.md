@@ -104,6 +104,8 @@ one_liner: Scale AI is a San Francisco-based AI infrastructure company that prov
 website_verified: true
 linkedin: https://www.linkedin.com/company/scaleai
 twitter: '@scale_AI'
+crunchbase: https://www.crunchbase.com/organization/scale-ai
+crunchbase_verified: false
 ---
 
 # Scale AI

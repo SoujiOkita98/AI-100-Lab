@@ -35,6 +35,8 @@ funding_rounds:
   source: https://www.bloomberg.com/news/articles/2026-03-10/ai-robotics-startup-rhoda-valued-at-1-7-billion-in-new-funding
 one_liner: Rhoda AI emerged from stealth on March 10, 2026, announcing a $450 million Series A at a $1.7 billion valuation
 website_verified: true
+crunchbase: https://www.crunchbase.com/organization/rhoda-ai
+crunchbase_verified: false
 ---
 
 # Rhoda AI

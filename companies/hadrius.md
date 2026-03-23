@@ -22,6 +22,8 @@ employee_count_estimate: ~50 (as of Jan 2026, per Tracxn)
 status: Private
 last_updated: 2026-03-20
 website_verified: true
+crunchbase: https://www.crunchbase.com/organization/hadrius
+crunchbase_verified: false
 ---
 
 # Hadrius -- Company Profile

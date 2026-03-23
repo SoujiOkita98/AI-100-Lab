@@ -17,6 +17,8 @@ website: https://www.claimsorted.com
 website_verified: true
 headquarters: London, UK
 founded: 2024
+crunchbase: https://www.crunchbase.com/organization/claimsorted
+crunchbase_verified: false
 ---
 
 # ClaimSorted

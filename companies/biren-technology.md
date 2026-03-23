@@ -50,6 +50,8 @@ funding_rounds:
 one_liner: Biren Technology is a Shanghai-based AI chip company that designs general-purpose GPUs for AI training and inference
 website_verified: true
 linkedin: https://www.linkedin.com/company/birentech
+crunchbase: https://www.crunchbase.com/organization/biren-technology
+crunchbase_verified: false
 ---
 
 # Biren Technology

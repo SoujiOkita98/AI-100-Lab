@@ -16,6 +16,8 @@ data_notes: 'Needs verification: website, founders, source_urls, headquarters. P
 website: https://atelico.studio
 founded: 2024
 website_verified: true
+crunchbase: https://www.crunchbase.com/organization/studio-atelico
+crunchbase_verified: false
 ---
 
 # Studio Atelico

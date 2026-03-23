@@ -79,6 +79,8 @@ one_liner: Perplexity AI is an AI-powered "answer engine" that combines large la
 website_verified: true
 linkedin: https://www.linkedin.com/company/perplexity-ai
 twitter: '@perplexity_ai'
+crunchbase: https://www.crunchbase.com/organization/perplexity
+crunchbase_verified: false
 ---
 
 # Perplexity AI

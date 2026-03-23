@@ -21,6 +21,8 @@ data_notes: 'Needs verification: website, source_urls, headquarters. Profile may
 website: https://www.soxton.ai
 website_verified: true
 headquarters: New York, NY
+crunchbase: https://www.crunchbase.com/organization/soxton-ai
+crunchbase_verified: false
 ---
 
 # Soxton AI

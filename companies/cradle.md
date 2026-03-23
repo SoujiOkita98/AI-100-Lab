@@ -114,6 +114,8 @@ confidence_notes: Funding rounds are well-documented. Founder backgrounds are co
   count (~107) from Tracxn Jan 2026 data.
 website_verified: true
 linkedin: https://www.linkedin.com/company/cradlebio
+crunchbase: https://www.crunchbase.com/organization/cradle
+crunchbase_verified: false
 ---
 
 # Cradle

@@ -56,6 +56,8 @@ funding_rounds:
 total_known_funding: ~$28M
 one_liner: Corvus Robotics builds fully autonomous drone systems for warehouse inventory management
 website_verified: true
+crunchbase: https://www.crunchbase.com/organization/corvus-robotics
+crunchbase_verified: false
 ---
 
 # Corvus Robotics

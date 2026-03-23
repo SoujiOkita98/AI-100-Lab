@@ -31,6 +31,8 @@ founders:
   background: Former head of Baidu Intelligent Driving Group.
   origin: Chinese
 data_notes: 'Needs verification: website, source_urls. Profile may be incomplete.'
+crunchbase: https://www.crunchbase.com/organization/tars-ai
+crunchbase_verified: false
 ---
 
 # TARS (Tashi Zhihang)

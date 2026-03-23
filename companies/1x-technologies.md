@@ -94,6 +94,8 @@ one_liner: 1X Technologies (formerly Halodi Robotics) is a Norwegian-American hu
 website_verified: true
 twitter: '@1x_tech'
 linkedin: https://www.linkedin.com/company/1x-technologies
+crunchbase: https://www.crunchbase.com/organization/1x-technologies
+crunchbase_verified: false
 ---
 
 # 1X Technologies

@@ -13,6 +13,8 @@ last_updated: 2026-03-20
 one_liner: Rain AI (formerly Rain Neuromorphics) is developing neuromorphic-inspired digital in-memory compute chips for AI
   inference
 website_verified: true
+crunchbase: https://www.crunchbase.com/organization/rain-ai
+crunchbase_verified: false
 ---
 
 # Rain AI

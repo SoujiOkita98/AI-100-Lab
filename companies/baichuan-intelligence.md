@@ -51,6 +51,8 @@ funding_rounds:
   - Beijing AI Industry Investment Fund
   source: https://asiatechdaily.com/alibaba-backed-baichuan-secures-691-million-valued-at-2-7-billion/
 website_verified: true
+crunchbase: https://www.crunchbase.com/organization/baichuan-intelligence
+crunchbase_verified: false
 ---
 
 # Baichuan Intelligence

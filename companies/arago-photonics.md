@@ -28,6 +28,8 @@ founders:
 data_notes: 'Needs verification: website, source_urls. Profile may be incomplete.'
 website: https://www.arago.inc
 website_verified: true
+crunchbase: https://www.crunchbase.com/organization/arago-photonics
+crunchbase_verified: false
 ---
 
 # Arago Photonics

@@ -21,6 +21,8 @@ total_funding: 400
 latest_valuation: 4500
 website_verified: true
 linkedin: https://www.linkedin.com/company/huggingface
+crunchbase: https://www.crunchbase.com/organization/hugging-face
+crunchbase_verified: false
 ---
 
 # Hugging Face

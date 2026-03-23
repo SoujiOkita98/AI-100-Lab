@@ -31,6 +31,8 @@ tags:
 - acquired
 one_liner: Predibase was an AI infrastructure company that enabled software engineers to fine-tune and serve open-source AI
   models across cloud environments
+crunchbase: https://www.crunchbase.com/organization/predibase
+crunchbase_verified: false
 ---
 
 # Predibase -- Fine-Tuning & Serving Open-Source AI Models (Acquired by Rubrik)

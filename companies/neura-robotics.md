@@ -62,6 +62,8 @@ total_known_funding: ~$281M (per Tracxn as of early 2026)
 one_liner: NEURA Robotics is a German cognitive and humanoid robotics company building robots designed to work seamlessly
   alongside humans in manufacturing, logistics, and healthcare environments
 website_verified: true
+crunchbase: https://www.crunchbase.com/organization/neura-robotics
+crunchbase_verified: false
 ---
 
 # NEURA Robotics

@@ -55,6 +55,8 @@ funding_rounds:
   - Databricks
   source: https://www.superbcrew.com/uniphore-closes-260-million-series-f-funding-round/
 linkedin: https://www.linkedin.com/company/uniphore
+crunchbase: https://www.crunchbase.com/organization/uniphore
+crunchbase_verified: false
 ---
 
 # Uniphore -- Enterprise Conversational AI & Business Automation

@@ -18,6 +18,8 @@ data_notes: 'Needs verification: website, founders, source_urls, headquarters. P
 website: https://www.strongestlayer.com
 website_verified: true
 headquarters: San Francisco, CA
+crunchbase: https://www.crunchbase.com/organization/strongestlayer
+crunchbase_verified: false
 ---
 
 # StrongestLayer

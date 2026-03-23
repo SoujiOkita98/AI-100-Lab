@@ -46,6 +46,8 @@ last_updated: 2026-03-20
 one_liner: Manus AI is an AI agent platform that burst onto the scene in March 2025, quickly becoming one of the most talked-about
   AI products globally
 website_verified: true
+crunchbase: https://www.crunchbase.com/organization/manus-ai
+crunchbase_verified: false
 ---
 
 # Manus AI

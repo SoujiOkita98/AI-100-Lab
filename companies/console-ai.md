@@ -29,6 +29,8 @@ data_notes: 'Needs verification: website, source_urls. Profile may be incomplete
 website: https://www.console.com
 website_verified: true
 linkedin: https://www.linkedin.com/company/console-co
+crunchbase: https://www.crunchbase.com/organization/console-ai
+crunchbase_verified: false
 ---
 
 # Console

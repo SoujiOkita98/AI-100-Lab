@@ -22,6 +22,8 @@ website: https://cogent.com
 headquarters: San Francisco, CA
 data_notes: 'Needs verification: founders, source_urls. Profile may be incomplete.'
 website_verified: true
+crunchbase: https://www.crunchbase.com/organization/cogent-security
+crunchbase_verified: false
 ---
 
 # Cogent Security

@@ -23,6 +23,8 @@ last_updated: 2026-03-21
 confidence: medium
 linkedin: https://www.linkedin.com/company/ema-unlimited
 website_verified: true
+crunchbase: https://www.crunchbase.com/organization/ema
+crunchbase_verified: false
 ---
 
 # Ema

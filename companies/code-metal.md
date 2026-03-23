@@ -17,6 +17,8 @@ data_notes: 'Needs verification: website, founders, source_urls, headquarters. P
 website: https://www.codemetal.ai
 website_verified: true
 headquarters: Boston, MA
+crunchbase: https://www.crunchbase.com/organization/code-metal
+crunchbase_verified: false
 ---
 
 # Code Metal

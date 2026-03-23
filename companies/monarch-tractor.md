@@ -79,6 +79,8 @@ total_known_funding: ~$200M+
 one_liner: Monarch Tractor designs and manufactures fully electric, autonomous ("driver-optional") smart tractors for the
   agricultural sector
 website_verified: true
+crunchbase: https://www.crunchbase.com/organization/monarch-tractor
+crunchbase_verified: false
 ---
 
 # Monarch Tractor

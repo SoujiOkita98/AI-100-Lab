@@ -39,6 +39,8 @@ one_liner: Browser Use is the leading open-source framework for enabling AI agen
 website: https://browser-use.com
 website_verified: true
 linkedin: https://www.linkedin.com/company/browser-use
+crunchbase: https://www.crunchbase.com/organization/browser-use
+crunchbase_verified: false
 ---
 
 # Browser Use

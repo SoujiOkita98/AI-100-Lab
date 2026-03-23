@@ -23,6 +23,8 @@ confidence: high
 one_liner: Qodo, formerly known as CodiumAI, is an AI-powered code testing and quality platform that takes a "quality-first"
   approach to AI-assisted development
 website_verified: true
+crunchbase: https://www.crunchbase.com/organization/qodo
+crunchbase_verified: false
 ---
 
 # Qodo

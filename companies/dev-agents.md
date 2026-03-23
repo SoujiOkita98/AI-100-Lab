@@ -23,6 +23,8 @@ data_notes: 'Needs verification: website, source_urls, headquarters. Profile may
 website: https://sdsa.ai
 website_verified: true
 headquarters: San Francisco, CA
+crunchbase: https://www.crunchbase.com/organization/dev-agents
+crunchbase_verified: false
 ---
 
 # /dev/agents

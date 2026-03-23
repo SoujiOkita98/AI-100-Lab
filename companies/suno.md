@@ -34,6 +34,8 @@ one_liner: Suno is the leading AI music generation platform, enabling anyone to 
 website_verified: true
 twitter: '@suno_ai_'
 linkedin: https://www.linkedin.com/company/suno-ai
+crunchbase: https://www.crunchbase.com/organization/suno
+crunchbase_verified: false
 ---
 
 # Suno — AI Music Generation

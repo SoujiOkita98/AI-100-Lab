@@ -40,6 +40,8 @@ one_liner: Augment Code is an enterprise-focused AI coding assistant company tha
 website_verified: true
 twitter: '@augmentcode'
 linkedin: https://www.linkedin.com/company/augmentinc
+crunchbase: https://www.crunchbase.com/organization/augment-code
+crunchbase_verified: false
 ---
 
 # Augment Code

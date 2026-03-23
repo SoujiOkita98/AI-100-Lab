@@ -17,6 +17,8 @@ confidence_notes: Series B (EUR27M) and valuation well-sourced via EU-Startups, 
 one_liner: Knowunity is a Berlin-based AI-powered learning platform that combines community-generated study materials with
   an AI tutor to help students learn more effectively
 website_verified: true
+crunchbase: https://www.crunchbase.com/organization/knowunity
+crunchbase_verified: false
 ---
 
 # Knowunity -- AI Learning Platform for Students

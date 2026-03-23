@@ -88,6 +88,8 @@ updated: 2026-03-20
 website_verified: true
 twitter: '@Replit'
 linkedin: https://www.linkedin.com/company/repl-it
+crunchbase: https://www.crunchbase.com/organization/replit
+crunchbase_verified: false
 ---
 
 # Replit

@@ -13,6 +13,8 @@ last_updated: 2026-03-20
 one_liner: SambaNova Systems is a full-stack AI infrastructure company that designs custom AI processors (Reconfigurable Dataflow
   Units, or RDUs), accompanying software, and enterprise services
 website_verified: true
+crunchbase: https://www.crunchbase.com/organization/sambanova
+crunchbase_verified: false
 ---
 
 # SambaNova Systems

@@ -18,6 +18,8 @@ linkedin: https://www.linkedin.com/company/latent-health
 headquarters: San Francisco, CA
 website: https://latenthealth.com
 website_verified: true
+crunchbase: https://www.crunchbase.com/organization/latent-health
+crunchbase_verified: false
 ---
 
 # Latent Health

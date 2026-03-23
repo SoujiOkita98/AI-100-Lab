@@ -25,6 +25,8 @@ website: https://www.emeraldai.co
 website_verified: true
 linkedin: https://www.linkedin.com/company/emerald-ai-1
 headquarters: Washington, DC
+crunchbase: https://www.crunchbase.com/organization/emerald-ai
+crunchbase_verified: false
 ---
 
 # Emerald AI

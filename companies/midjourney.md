@@ -16,6 +16,8 @@ confidence_note: Midjourney is a private, bootstrapped company that discloses ve
   and headcount figures are third-party estimates and should be treated as approximate. Sources are cited below.
 one_liner: Midjourney is an independent AI research lab and company that builds generative AI tools for image and video creation
 website_verified: true
+crunchbase: https://www.crunchbase.com/organization/midjourney
+crunchbase_verified: false
 ---
 
 # Midjourney

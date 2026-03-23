@@ -21,6 +21,8 @@ confidence: medium
 data_notes: 'Needs verification: founders, source_urls. Profile may be incomplete.'
 website_verified: true
 linkedin: https://www.linkedin.com/company/n8n
+crunchbase: https://www.crunchbase.com/organization/n8n
+crunchbase_verified: false
 ---
 
 # n8n

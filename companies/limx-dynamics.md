@@ -19,6 +19,8 @@ data_notes: 'Needs verification: website, founders, source_urls. Profile may be 
 website: https://www.limxdynamics.com/en
 website_verified: true
 linkedin: https://www.linkedin.com/company/limx-dynamics
+crunchbase: https://www.crunchbase.com/organization/limx-dynamics
+crunchbase_verified: false
 ---
 
 # LimX Dynamics

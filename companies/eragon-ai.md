@@ -22,6 +22,8 @@ website: https://www.eragon.ai
 website_verified: true
 headquarters: San Francisco, CA
 linkedin: https://www.linkedin.com/company/eragonai
+crunchbase: https://www.crunchbase.com/organization/eragon-ai
+crunchbase_verified: false
 ---
 
 # Eragon

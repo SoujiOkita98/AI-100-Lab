@@ -19,6 +19,8 @@ website: https://encord.com
 website_verified: true
 linkedin: https://www.linkedin.com/company/encord-team
 headquarters: London, UK
+crunchbase: https://www.crunchbase.com/organization/encord
+crunchbase_verified: false
 ---
 
 # Encord

@@ -17,6 +17,8 @@ data_notes: 'Needs verification: website, founders, source_urls, headquarters. P
 website: https://www.radai.com
 website_verified: true
 linkedin: https://www.linkedin.com/company/radai
+crunchbase: https://www.crunchbase.com/organization/rad-ai
+crunchbase_verified: false
 ---
 
 # Rad AI

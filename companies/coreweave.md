@@ -22,6 +22,8 @@ one_liner: CoreWeave is a specialized GPU cloud infrastructure provider purpose-
 website_verified: true
 linkedin: https://www.linkedin.com/company/coreweave
 twitter: '@CoreWeave'
+crunchbase: https://www.crunchbase.com/organization/coreweave
+crunchbase_verified: false
 ---
 
 # CoreWeave (CRWV)

@@ -218,6 +218,8 @@ key_acquisitions:
 website_verified: true
 linkedin: https://www.linkedin.com/company/databricks
 twitter: '@databricks'
+crunchbase: https://www.crunchbase.com/organization/databricks
+crunchbase_verified: false
 ---
 
 # Databricks

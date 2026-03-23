@@ -20,6 +20,8 @@ website: https://lizzyai.com
 website_verified: true
 headquarters: New York, NY
 linkedin: https://www.linkedin.com/company/lizzy-ai
+crunchbase: https://www.crunchbase.com/organization/lizzyai
+crunchbase_verified: false
 ---
 
 # LizzyAI

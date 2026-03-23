@@ -29,6 +29,8 @@ data_notes: 'Needs verification: website, source_urls, headquarters. Profile may
 website: https://science.xyz
 website_verified: true
 linkedin: https://www.linkedin.com/company/sciencecorporation
+crunchbase: https://www.crunchbase.com/organization/science-corp
+crunchbase_verified: false
 ---
 
 # Science Corp

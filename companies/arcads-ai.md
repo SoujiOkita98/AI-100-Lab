@@ -18,6 +18,8 @@ data_notes: 'Needs verification: website, founders, source_urls, headquarters. P
 website: https://www.arcads.ai
 website_verified: true
 headquarters: Mont Saint Aignan, France
+crunchbase: https://www.crunchbase.com/organization/arcads-ai
+crunchbase_verified: false
 ---
 
 # Arcads.ai

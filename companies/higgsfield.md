@@ -21,6 +21,8 @@ website: https://higgsfield.ai
 website_verified: true
 linkedin: https://www.linkedin.com/company/higgsfield
 headquarters: San Francisco, CA
+crunchbase: https://www.crunchbase.com/organization/higgsfield
+crunchbase_verified: false
 ---
 
 # Higgsfield

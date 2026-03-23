@@ -51,6 +51,8 @@ one_liner: AI-powered support operations platform that unifies workforce managem
   for enterprise customer service teams
 website_verified: true
 linkedin: https://www.linkedin.com/company/assembledhq
+crunchbase: https://www.crunchbase.com/organization/assembled
+crunchbase_verified: false
 ---
 
 # Assembled

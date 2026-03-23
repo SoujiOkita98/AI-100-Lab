@@ -143,6 +143,8 @@ confidence: high
 website_verified: true
 linkedin: https://www.linkedin.com/company/andurilindustries
 twitter: '@anduriltech'
+crunchbase: https://www.crunchbase.com/organization/anduril
+crunchbase_verified: false
 ---
 
 # Anduril Industries

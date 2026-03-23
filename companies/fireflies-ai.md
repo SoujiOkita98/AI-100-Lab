@@ -18,6 +18,8 @@ website: https://fireflies.ai
 website_verified: true
 linkedin: https://www.linkedin.com/company/fireflies-inc
 headquarters: Pleasanton, CA
+crunchbase: https://www.crunchbase.com/organization/fireflies-ai
+crunchbase_verified: false
 ---
 
 # Fireflies.ai

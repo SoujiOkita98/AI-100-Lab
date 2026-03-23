@@ -18,6 +18,8 @@ data_notes: 'Needs verification: website, founders, source_urls, headquarters. P
 website: https://www.trase.ai
 website_verified: true
 headquarters: McLean, VA
+crunchbase: https://www.crunchbase.com/organization/trase
+crunchbase_verified: false
 ---
 
 # Trase

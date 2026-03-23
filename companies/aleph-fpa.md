@@ -17,6 +17,8 @@ data_notes: 'Needs verification: website, founders, source_urls, headquarters. P
 website: https://www.getaleph.com
 website_verified: true
 headquarters: New York, NY
+crunchbase: https://www.crunchbase.com/organization/aleph-fpa
+crunchbase_verified: false
 ---
 
 # Aleph (FP&A)

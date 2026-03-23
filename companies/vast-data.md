@@ -63,6 +63,8 @@ one_liner: VAST Data is an AI-native data infrastructure company that has built 
   from the ground up for AI workloads
 website_verified: true
 linkedin: https://www.linkedin.com/company/vast-data
+crunchbase: https://www.crunchbase.com/organization/vast-data
+crunchbase_verified: false
 ---
 
 # VAST Data

@@ -28,6 +28,8 @@ data_notes: 'Needs verification: website, source_urls, headquarters. Profile may
 website: https://www.getvinci.ai
 website_verified: true
 headquarters: Palo Alto, CA
+crunchbase: https://www.crunchbase.com/organization/vinci-semi
+crunchbase_verified: false
 ---
 
 # Vinci (Semiconductor)

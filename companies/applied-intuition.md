@@ -154,6 +154,8 @@ last_updated: 2026-03-20
 confidence: high
 website_verified: true
 linkedin: https://www.linkedin.com/company/applied-intuition-inc
+crunchbase: https://www.crunchbase.com/organization/applied-intuition
+crunchbase_verified: false
 ---
 
 # Applied Intuition

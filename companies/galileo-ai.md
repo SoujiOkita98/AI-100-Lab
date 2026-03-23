@@ -39,6 +39,8 @@ last_updated: 2026-03-20
 confidence: high
 one_liner: Galileo is an AI evaluation and observability platform that helps enterprises build, test, monitor, and secure
   LLM-powered applications and AI agents
+crunchbase: https://www.crunchbase.com/organization/galileo-ai
+crunchbase_verified: false
 ---
 
 # Galileo

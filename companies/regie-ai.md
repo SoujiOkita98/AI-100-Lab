@@ -15,6 +15,8 @@ last_updated: 2026-03-20
 confidence: medium
 data_notes: 'Needs verification: website, founders. Profile may be incomplete.'
 total_funding: 51
+crunchbase: https://www.crunchbase.com/organization/regie-ai
+crunchbase_verified: false
 ---
 
 # Regie.ai

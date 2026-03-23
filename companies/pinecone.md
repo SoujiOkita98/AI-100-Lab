@@ -100,6 +100,8 @@ sources:
 last_updated: 2026-03-20
 confidence: medium
 website_verified: true
+crunchbase: https://www.crunchbase.com/organization/pinecone
+crunchbase_verified: false
 ---
 
 # Pinecone

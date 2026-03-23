@@ -33,6 +33,8 @@ one_liner: Nexthop AI builds custom networking hardware and software optimized f
 website_verified: true
 twitter: '@nexthopai'
 linkedin: https://www.linkedin.com/company/nexthopai
+crunchbase: https://www.crunchbase.com/organization/nexthop-ai
+crunchbase_verified: false
 ---
 
 # Nexthop AI

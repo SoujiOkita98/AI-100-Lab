@@ -108,6 +108,8 @@ revenue_signals: No public revenue figures. Pre-deal, Covariant had deployed hun
   multiple industries.
 website_verified: true
 linkedin: https://www.linkedin.com/company/covariant-ai
+crunchbase: https://www.crunchbase.com/organization/covariant
+crunchbase_verified: false
 ---
 
 ## Overview

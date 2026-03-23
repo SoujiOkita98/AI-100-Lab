@@ -17,6 +17,8 @@ website: https://subsense-bci.com
 website_verified: true
 headquarters: Palo Alto, CA
 founded: 2022
+crunchbase: https://www.crunchbase.com/organization/subsense
+crunchbase_verified: false
 ---
 
 # Subsense

@@ -17,6 +17,8 @@ one_liner: AI-powered data enrichment and workflow automation platform that lets
   pipelines by combining 130+ data providers in a spreadsheet-like interface
 data_notes: 'Needs verification: website, founders. Profile may be incomplete.'
 total_funding: 204
+crunchbase: https://www.crunchbase.com/organization/clay
+crunchbase_verified: false
 ---
 
 # Clay

@@ -28,6 +28,8 @@ confidence: high
 one_liner: All Hands AI is the company behind OpenHands (formerly OpenDevin), one of the most popular open-source AI coding
   agents
 website_verified: true
+crunchbase: https://www.crunchbase.com/organization/all-hands-ai
+crunchbase_verified: false
 ---
 
 # All Hands AI (OpenHands)

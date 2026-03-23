@@ -40,6 +40,9 @@ one_liner: MiniMax is one of China's "Six AI Tigers" — the cohort of leading C
   era (alongside Zhipu AI, Moonshot AI / Kimi, Baichuan, 01.AI, and StepFun)
 website: https://www.minimax.io
 website_verified: true
+crunchbase: https://www.crunchbase.com/organization/minimax
+crunchbase_verified: false
+total_funding: 1150
 ---
 
 # MiniMax

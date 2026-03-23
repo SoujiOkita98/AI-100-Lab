@@ -39,6 +39,8 @@ one_liner: Character.AI is a generative AI chatbot platform that allows users to
 website_verified: true
 twitter: '@character_ai'
 linkedin: https://www.linkedin.com/company/character-ai
+crunchbase: https://www.crunchbase.com/organization/character-ai
+crunchbase_verified: false
 ---
 
 # Character.AI

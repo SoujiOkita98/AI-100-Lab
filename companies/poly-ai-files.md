@@ -19,6 +19,8 @@ confidence: medium
 data_notes: 'Needs verification: website, founders, source_urls, headquarters. Profile may be incomplete.'
 website: https://poly.app
 website_verified: true
+crunchbase: https://www.crunchbase.com/organization/poly-ai-files
+crunchbase_verified: false
 ---
 
 # Poly

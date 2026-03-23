@@ -17,6 +17,8 @@ website: https://www.boardy.ai
 website_verified: true
 headquarters: San Francisco, CA
 founded: 2024
+crunchbase: https://www.crunchbase.com/organization/boardy-ai
+crunchbase_verified: false
 ---
 
 # Boardy AI

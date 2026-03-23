@@ -29,6 +29,8 @@ confidence: high on funding and founders; moderate on headcount and revenue
 one_liner: Enterprise platform for automating phone calls with AI voice agents that sound human, handling both inbound and
   outbound calls at scale
 website_verified: true
+crunchbase: https://www.crunchbase.com/organization/bland-ai
+crunchbase_verified: false
 ---
 
 # Bland AI

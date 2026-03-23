@@ -148,6 +148,8 @@ one_liner: Cohere is a Toronto-headquartered enterprise AI company that builds l
   for business use
 linkedin: https://www.linkedin.com/company/cohere-ai
 twitter: '@cohere'
+crunchbase: https://www.crunchbase.com/organization/cohere
+crunchbase_verified: false
 ---
 
 # Cohere

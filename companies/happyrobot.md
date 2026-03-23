@@ -32,6 +32,8 @@ key_investors:
 one_liner: '> AI agents automating logistics operations for enterprises like DHL, Ryder, and Schneider -- built by Spanish-born
   founders out of YC S23'
 website_verified: true
+crunchbase: https://www.crunchbase.com/organization/happyrobot
+crunchbase_verified: false
 ---
 
 # HappyRobot

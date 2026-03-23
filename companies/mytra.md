@@ -17,6 +17,8 @@ data_notes: 'Needs verification: website, founders, source_urls, headquarters. P
 website: https://mytra.ai
 website_verified: true
 headquarters: Brisbane, CA
+crunchbase: https://www.crunchbase.com/organization/mytra
+crunchbase_verified: false
 ---
 
 # Mytra

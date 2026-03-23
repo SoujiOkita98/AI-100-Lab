@@ -17,6 +17,8 @@ website: https://www.getmaxiq.com
 website_verified: true
 headquarters: San Francisco, CA
 founded: 2022
+crunchbase: https://www.crunchbase.com/organization/maxiq
+crunchbase_verified: false
 ---
 
 # MaxIQ

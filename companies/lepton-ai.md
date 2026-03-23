@@ -21,6 +21,8 @@ one_liner: Lepton AI was a GPU cloud infrastructure startup founded by Yangqing 
   AI researchers in the world
 website_verified: false
 data_notes: 'Website URL may be invalid (HTTP 503). '
+crunchbase: https://www.crunchbase.com/organization/lepton-ai
+crunchbase_verified: false
 ---
 
 # Lepton AI

@@ -120,6 +120,8 @@ confidence_notes: Core funding data and founder backgrounds are well-sourced. Re
   sources. Yi Tay's departure and current role at Google DeepMind are well-documented. Some product details (Reka Vision,
   Reka Research) have limited independent coverage.
 website_verified: true
+crunchbase: https://www.crunchbase.com/organization/reka-ai
+crunchbase_verified: false
 ---
 
 # Reka AI

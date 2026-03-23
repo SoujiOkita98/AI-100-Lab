@@ -55,6 +55,8 @@ funding_rounds:
   source: https://arize.com/blog/arize-ai-raises-70m-series-c/
 one_liner: Arize AI is an AI engineering platform focused on evaluation and observability for AI models and agents
 linkedin: https://www.linkedin.com/company/arizeai
+crunchbase: https://www.crunchbase.com/organization/arize-ai
+crunchbase_verified: false
 ---
 
 # Arize AI -- AI/ML Observability & Evaluation Platform

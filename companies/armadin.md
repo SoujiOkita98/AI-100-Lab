@@ -20,6 +20,8 @@ website: https://www.armadin.com
 website_verified: true
 headquarters: San Francisco, CA
 founded: 2025
+crunchbase: https://www.crunchbase.com/organization/armadin
+crunchbase_verified: false
 ---
 
 # Armadin

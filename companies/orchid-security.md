@@ -20,6 +20,8 @@ website: https://www.orchid.security
 website_verified: true
 linkedin: https://www.linkedin.com/company/orchid-security
 headquarters: New York, NY
+crunchbase: https://www.crunchbase.com/organization/orchid-security
+crunchbase_verified: false
 ---
 
 # Orchid Security

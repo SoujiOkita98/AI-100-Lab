@@ -59,6 +59,8 @@ one_liner: '> Former DeepMind researchers building autonomous coding agents and 
 website_verified: true
 twitter: '@reflection_ai'
 linkedin: https://www.linkedin.com/company/reflectionai
+crunchbase: https://www.crunchbase.com/organization/reflection-ai
+crunchbase_verified: false
 ---
 
 # Reflection AI

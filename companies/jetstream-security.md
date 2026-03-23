@@ -29,6 +29,8 @@ website: https://jetstream.security
 website_verified: true
 headquarters: Santa Clara, CA
 linkedin: https://www.linkedin.com/company/jetstreaminc
+crunchbase: https://www.crunchbase.com/organization/jetstream-security
+crunchbase_verified: false
 ---
 
 # JetStream Security

@@ -24,6 +24,8 @@ data_notes: 'Needs verification: website, source_urls, headquarters. Profile may
 website: https://www.aegisai.ai
 website_verified: true
 headquarters: New York, NY
+crunchbase: https://www.crunchbase.com/organization/aegisai
+crunchbase_verified: false
 ---
 
 # AegisAI

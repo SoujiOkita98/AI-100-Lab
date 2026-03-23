@@ -18,6 +18,8 @@ confidence: medium
 data_notes: 'Needs verification: website, founders, source_urls. Profile may be incomplete.'
 website: https://www.deeprobotics.cn/en
 website_verified: true
+crunchbase: https://www.crunchbase.com/organization/deep-robotics
+crunchbase_verified: false
 ---
 
 # DEEP Robotics

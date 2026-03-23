@@ -73,6 +73,8 @@ website: https://mercor.com
 website_verified: true
 twitter: '@mercor_ai'
 linkedin: https://www.linkedin.com/company/mercor-ai
+crunchbase: https://www.crunchbase.com/organization/mercor
+crunchbase_verified: false
 ---
 
 # Mercor

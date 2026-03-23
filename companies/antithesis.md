@@ -17,6 +17,8 @@ data_notes: 'Needs verification: website, founders, source_urls, headquarters. P
 website: https://antithesis.com
 website_verified: true
 headquarters: Vienna, VA
+crunchbase: https://www.crunchbase.com/organization/antithesis
+crunchbase_verified: false
 ---
 
 # Antithesis

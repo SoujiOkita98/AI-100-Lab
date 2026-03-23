@@ -18,6 +18,8 @@ website_verified: true
 headquarters: San Francisco, CA
 linkedin: https://www.linkedin.com/company/gameramp
 founded: 2025
+crunchbase: https://www.crunchbase.com/organization/gameramp
+crunchbase_verified: false
 ---
 
 # GameRamp

@@ -34,6 +34,8 @@ tags:
 last_updated: 2026-03-20
 confidence: high
 one_liner: Turing began as an AI-powered platform for vetting and matching remote software developers with companies
+crunchbase: https://www.crunchbase.com/organization/turing
+crunchbase_verified: false
 ---
 
 # Turing

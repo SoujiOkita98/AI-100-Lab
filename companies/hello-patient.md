@@ -21,6 +21,8 @@ website: https://www.hellopatient.com
 website_verified: true
 linkedin: https://www.linkedin.com/company/hello-patient
 headquarters: Austin, TX
+crunchbase: https://www.crunchbase.com/organization/hello-patient
+crunchbase_verified: false
 ---
 
 # Hello Patient

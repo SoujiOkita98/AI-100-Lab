@@ -188,6 +188,8 @@ confidence: high
 website_verified: true
 linkedin: https://www.linkedin.com/company/anthropicresearch
 twitter: '@AnthropicAI'
+crunchbase: https://www.crunchbase.com/organization/anthropic
+crunchbase_verified: false
 ---
 
 # Anthropic

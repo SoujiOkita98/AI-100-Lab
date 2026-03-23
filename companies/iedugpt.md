@@ -17,6 +17,8 @@ website: https://iedugpt.org
 website_verified: true
 headquarters: Singapore
 founded: 2022
+crunchbase: https://www.crunchbase.com/organization/iedugpt
+crunchbase_verified: false
 ---
 
 # iEduGPT

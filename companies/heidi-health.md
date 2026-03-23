@@ -20,6 +20,8 @@ confidence: medium
 data_notes: 'Needs verification: founders, source_urls. Profile may be incomplete.'
 website_verified: true
 linkedin: https://www.linkedin.com/company/heidihealth
+crunchbase: https://www.crunchbase.com/organization/heidi-health
+crunchbase_verified: false
 ---
 
 # Heidi Health

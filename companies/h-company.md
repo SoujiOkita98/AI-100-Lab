@@ -54,6 +54,8 @@ funding_rounds:
 one_liner: '> Paris-based AI startup building autonomous "action-oriented" agents for enterprise and consumer markets, backed
   by a record-breaking European seed round'
 website_verified: true
+crunchbase: https://www.crunchbase.com/organization/h-company
+crunchbase_verified: false
 ---
 
 # H Company

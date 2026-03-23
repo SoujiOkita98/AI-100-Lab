@@ -32,6 +32,8 @@ funding_rounds:
 one_liner: Hebbia is an AI platform for knowledge work, purpose-built for finance, legal, and government sectors
 website_verified: true
 linkedin: https://www.linkedin.com/company/hebbia
+crunchbase: https://www.crunchbase.com/organization/hebbia
+crunchbase_verified: false
 ---
 
 # Hebbia -- Company Profile

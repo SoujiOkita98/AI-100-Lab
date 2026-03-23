@@ -29,6 +29,8 @@ one_liner: Jasper is an AI content and marketing platform that rose to prominenc
   ever, reaching unicorn status in roughly 18 months
 website_verified: true
 linkedin: https://www.linkedin.com/company/heyjasperai
+crunchbase: https://www.crunchbase.com/organization/jasper
+crunchbase_verified: false
 ---
 
 # Jasper -- AI Marketing Platform

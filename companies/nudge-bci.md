@@ -26,6 +26,8 @@ data_notes: 'Needs verification: website, source_urls. Profile may be incomplete
 website: https://nudge.com
 website_verified: true
 linkedin: https://www.linkedin.com/company/nudge42
+crunchbase: https://www.crunchbase.com/organization/nudge-bci
+crunchbase_verified: false
 ---
 
 # Nudge (BCI)

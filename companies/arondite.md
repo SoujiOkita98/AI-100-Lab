@@ -17,6 +17,8 @@ website: https://www.arondite.com
 website_verified: true
 headquarters: London, UK
 founded: 2023
+crunchbase: https://www.crunchbase.com/organization/arondite
+crunchbase_verified: false
 ---
 
 # Arondite

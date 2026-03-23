@@ -17,6 +17,8 @@ one_liner: Agentic AI platform automating outbound prospecting and pipeline gene
 website: https://landbase.com
 total_funding: 42.5
 website_verified: true
+crunchbase: https://www.crunchbase.com/organization/landbase
+crunchbase_verified: false
 ---
 
 # Landbase

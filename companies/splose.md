@@ -18,6 +18,8 @@ data_notes: 'Needs verification: website, founders, source_urls. Profile may be 
 website: https://splose.com
 website_verified: true
 linkedin: https://www.linkedin.com/company/splose
+crunchbase: https://www.crunchbase.com/organization/splose
+crunchbase_verified: false
 ---
 
 # Splose

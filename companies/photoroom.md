@@ -15,6 +15,8 @@ confidence_notes: Series B ($43M at $500M) well-sourced via TechCrunch. ARR of $
   Total funding of $75.3M from Tracxn. Employee count approximate. Profitability claims sourced from Sifted interview with
   CEO.
 website_verified: true
+crunchbase: https://www.crunchbase.com/organization/photoroom
+crunchbase_verified: false
 ---
 
 # Photoroom -- AI Photo Editing

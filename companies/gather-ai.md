@@ -76,6 +76,8 @@ one_liner: Gather AI is a Pittsburgh-based physical AI company that uses autonom
   warehouse inventory in real time
 website_verified: true
 linkedin: https://www.linkedin.com/company/gather-ai
+crunchbase: https://www.crunchbase.com/organization/gather-ai
+crunchbase_verified: false
 ---
 
 # Gather AI

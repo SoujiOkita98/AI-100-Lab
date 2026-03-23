@@ -61,6 +61,8 @@ one_liner: Crusoe is an AI infrastructure company that designs, builds, and oper
 website_verified: true
 twitter: '@CrusoeAI'
 linkedin: https://www.linkedin.com/company/crusoe
+crunchbase: https://www.crunchbase.com/organization/crusoe
+crunchbase_verified: false
 ---
 
 # Crusoe

@@ -31,6 +31,8 @@ founders:
 website: https://majestic-labs.ai
 headquarters: San Francisco, CA
 website_verified: true
+crunchbase: https://www.crunchbase.com/organization/majestic-labs
+crunchbase_verified: false
 ---
 
 # Majestic Labs

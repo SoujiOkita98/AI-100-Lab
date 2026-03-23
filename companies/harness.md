@@ -67,6 +67,8 @@ funding_rounds:
   source: https://techcrunch.com/2025/12/11/harness-hits-5-5b-valuation-with-240m-to-automate-ais-after-code-gap/
 website_verified: true
 linkedin: https://www.linkedin.com/company/harnessinc
+crunchbase: https://www.crunchbase.com/organization/harness
+crunchbase_verified: false
 ---
 
 # Harness

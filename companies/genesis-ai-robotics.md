@@ -28,6 +28,8 @@ data_notes: 'Needs verification: website, source_urls, headquarters. Profile may
 website: https://genesis-ai.company
 website_verified: true
 headquarters: Palo Alto, CA
+crunchbase: https://www.crunchbase.com/organization/genesis-ai-robotics
+crunchbase_verified: false
 ---
 
 # Genesis AI (Robotics)

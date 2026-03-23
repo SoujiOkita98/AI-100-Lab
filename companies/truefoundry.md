@@ -18,6 +18,8 @@ data_notes: 'Needs verification: website, founders, source_urls. Profile may be 
 website: https://www.truefoundry.com
 website_verified: true
 linkedin: https://www.linkedin.com/company/truefoundry
+crunchbase: https://www.crunchbase.com/organization/truefoundry
+crunchbase_verified: false
 ---
 
 # TrueFoundry

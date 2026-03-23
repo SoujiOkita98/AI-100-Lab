@@ -18,6 +18,8 @@ website: https://www.singulr.ai
 website_verified: true
 headquarters: Palo Alto, CA
 founded: 2023
+crunchbase: https://www.crunchbase.com/organization/singulr-ai
+crunchbase_verified: false
 ---
 
 # Singulr AI

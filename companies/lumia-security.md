@@ -26,6 +26,8 @@ founders:
 website: https://lumia.security
 headquarters: New York, NY
 website_verified: true
+crunchbase: https://www.crunchbase.com/organization/lumia-security
+crunchbase_verified: false
 ---
 
 # Lumia Security

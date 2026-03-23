@@ -33,6 +33,8 @@ one_liner: Adept AI was founded in 2022 to build AI agents that could interact w
   AI" company before the term became mainstream
 website_verified: true
 linkedin: https://www.linkedin.com/company/adeptai
+crunchbase: https://www.crunchbase.com/organization/adept-ai
+crunchbase_verified: false
 ---
 
 # Adept AI

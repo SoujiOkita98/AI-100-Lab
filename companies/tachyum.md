@@ -15,6 +15,8 @@ confidence: medium
 data_notes: 'Needs verification: website, founders, source_urls. Profile may be incomplete.'
 website: https://www.tachyum.com
 website_verified: true
+crunchbase: https://www.crunchbase.com/organization/tachyum
+crunchbase_verified: false
 ---
 
 # Tachyum

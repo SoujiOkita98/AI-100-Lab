@@ -38,6 +38,8 @@ last_updated: 2026-03-20
 one_liner: 'ModelBest is a Tsinghua University spinout that has carved out a distinctive niche in China''s AI landscape: building
   high-performance small language models optimized for on-device deployment'
 website_verified: true
+crunchbase: https://www.crunchbase.com/organization/modelbest
+crunchbase_verified: false
 ---
 
 # ModelBest (面壁智能)

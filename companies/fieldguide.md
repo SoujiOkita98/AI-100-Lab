@@ -18,6 +18,8 @@ website: https://www.fieldguide.io
 website_verified: true
 linkedin: https://www.linkedin.com/company/fieldguide-inc
 headquarters: San Francisco, CA
+crunchbase: https://www.crunchbase.com/organization/fieldguide
+crunchbase_verified: false
 ---
 
 # Fieldguide
