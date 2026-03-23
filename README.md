@@ -10,29 +10,30 @@ Built with research-grade rigor: every claim is sourced, uncertainty is marked e
 
 | Metric | Count |
 |--------|------:|
-| Companies | 513 |
-| Funding rounds | 918 |
-| Founders tracked | 629 |
-| 2025 seed rounds | 137 |
+| Companies | 569 |
+| Funding rounds | 985 |
+| Founders tracked | 638 |
+| 2025 seed rounds | 156 |
 | 2026 seed rounds | 24 |
-| Countries covered | 15+ |
+| Countries covered | 20+ |
 
 ## Data Quality
 
 | Field | Coverage | Notes |
 |-------|:--------:|-------|
 | Company name | 100% | |
+| Founded year | 100% | |
 | Sector/category | 98% | Multi-tag taxonomy |
-| One-liner description | 92% | Auto-extracted from narrative body where available |
-| Founded year | 92% | |
-| Total funding raised | 91% | In millions USD, normalized across currencies |
-| Round amount | 96% | Per-round detail for 918 rounds |
-| Lead investors | 93% | Per-round |
-| Source URL | 79% | Traceable to original reporting |
-| Founder origin/ethnicity | 89% | Inferred from names, backgrounds, and public info |
+| Website URL | 98% | 498 verified via HTTP request |
+| HQ location | 95% | City + country |
+| One-liner description | 93% | Auto-extracted from narrative body where available |
+| Total funding raised | 93% | In millions USD, normalized across currencies |
+| Round amount | 97% | Per-round detail for 985 rounds |
+| Lead investors | 92% | Per-round |
+| Founder origin/ethnicity | 87% | Inferred from names, backgrounds, and public info |
+| Source URL | 73% | Traceable to original reporting |
 | Founder background | 66% | Education, prior companies, notable experience |
-| HQ location | 73% | City + country |
-| Website | 59% | |
+| LinkedIn | 44% | Company page URLs |
 | Latest valuation | 35% | Sparse for seed/early stage (market reality) |
 | Revenue signals | 11% | Only where publicly disclosed |
 
