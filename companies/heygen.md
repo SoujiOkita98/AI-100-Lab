@@ -45,6 +45,7 @@ one_liner: HeyGen is an AI-powered video generation platform that enables users 
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/heygen
 crunchbase_verified: false
+linkedin: https://www.linkedin.com/company/heygen
 ---
 
 # HeyGen

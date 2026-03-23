@@ -20,6 +20,7 @@ website: https://en.engineai.com.cn
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/engine-ai
 crunchbase_verified: false
+linkedin: https://www.linkedin.com/company/engineai-robotics
 ---
 
 # EngineAI

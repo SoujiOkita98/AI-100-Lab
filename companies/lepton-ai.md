@@ -23,6 +23,7 @@ website_verified: false
 data_notes: 'Website URL may be invalid (HTTP 503). '
 crunchbase: https://www.crunchbase.com/organization/lepton-ai
 crunchbase_verified: false
+linkedin: https://www.linkedin.com/company/lepton-ai
 ---
 
 # Lepton AI

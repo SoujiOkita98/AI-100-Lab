@@ -29,6 +29,7 @@ headquarters: San Francisco, CA
 founded: 2022
 crunchbase: https://www.crunchbase.com/organization/distyl-ai
 crunchbase_verified: false
+linkedin: https://www.linkedin.com/company/distylai
 ---
 
 # Distyl AI

@@ -55,6 +55,7 @@ one_liner: AI-powered full-stack application builder that runs entirely in the b
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/bolt
 crunchbase_verified: false
+linkedin: https://www.linkedin.com/company/stackblitz
 ---
 
 # Bolt.new / StackBlitz

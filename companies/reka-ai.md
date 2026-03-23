@@ -122,6 +122,7 @@ confidence_notes: Core funding data and founder backgrounds are well-sourced. Re
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/reka-ai
 crunchbase_verified: false
+linkedin: https://www.linkedin.com/company/reka-ai
 ---
 
 # Reka AI

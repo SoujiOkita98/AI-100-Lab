@@ -19,6 +19,7 @@ website_verified: true
 headquarters: Seattle, WA
 crunchbase: https://www.crunchbase.com/organization/loti-ai
 crunchbase_verified: false
+linkedin: https://www.linkedin.com/company/goloti
 ---
 
 # Loti AI

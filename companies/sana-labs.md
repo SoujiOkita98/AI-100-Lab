@@ -17,6 +17,7 @@ last_updated: 2026-03-21
 confidence: medium
 crunchbase: https://www.crunchbase.com/organization/sana-labs
 crunchbase_verified: false
+linkedin: https://www.linkedin.com/company/sana-labs
 ---
 
 # Sana Labs

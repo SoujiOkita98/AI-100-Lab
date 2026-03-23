@@ -56,6 +56,7 @@ one_liner: '> Paris-based AI startup building autonomous "action-oriented" agent
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/h-company
 crunchbase_verified: false
+linkedin: https://www.linkedin.com/company/h-company-ai
 ---
 
 # H Company

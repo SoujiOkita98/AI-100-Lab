@@ -53,6 +53,7 @@ one_liner: Fourier Intelligence is a Shanghai-based robotics company that has tr
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/fourier-intelligence
 crunchbase_verified: false
+linkedin: https://www.linkedin.com/company/fourier-intelligence-co.-ltd.
 ---
 
 # Fourier Intelligence

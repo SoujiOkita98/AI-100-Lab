@@ -64,6 +64,7 @@ one_liner: NEURA Robotics is a German cognitive and humanoid robotics company bu
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/neura-robotics
 crunchbase_verified: false
+linkedin: https://www.linkedin.com/company/neura-robotics
 ---
 
 # NEURA Robotics

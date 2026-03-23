@@ -23,6 +23,7 @@ confidence: high
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/flex-ai
 crunchbase_verified: false
+linkedin: https://www.linkedin.com/company/flexaicorp
 ---
 
 # FlexAI

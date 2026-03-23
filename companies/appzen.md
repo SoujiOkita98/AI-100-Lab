@@ -64,6 +64,7 @@ one_liner: '> AI-native autonomous finance platform with proprietary models, ser
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/appzen
 crunchbase_verified: false
+linkedin: https://www.linkedin.com/company/appzen
 ---
 
 # AppZen

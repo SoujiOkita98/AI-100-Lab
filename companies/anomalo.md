@@ -57,6 +57,7 @@ strategic_investors:
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/anomalo
 crunchbase_verified: false
+linkedin: https://www.linkedin.com/company/anomalo
 ---
 
 # Anomalo

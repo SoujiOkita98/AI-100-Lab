@@ -70,6 +70,7 @@ one_liner: Enflame Technology (also known as Suiyuan Technology) is a Shanghai-b
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/enflame-technology
 crunchbase_verified: false
+linkedin: https://www.linkedin.com/company/enflame
 ---
 
 # Enflame Technology

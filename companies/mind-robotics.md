@@ -95,6 +95,7 @@ confidence_notes: Funding amounts ($115M seed, $500M Series A) and lead investor
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/mind-robotics
 crunchbase_verified: false
+linkedin: https://www.linkedin.com/company/mindrobotics
 ---
 
 # Mind Robotics

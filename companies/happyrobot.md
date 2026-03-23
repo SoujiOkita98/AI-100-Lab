@@ -34,6 +34,7 @@ one_liner: '> AI agents automating logistics operations for enterprises like DHL
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/happyrobot
 crunchbase_verified: false
+linkedin: https://www.linkedin.com/company/happyrobot
 ---
 
 # HappyRobot

@@ -39,6 +39,7 @@ website_verified: true
 total_funding: 626
 crunchbase: https://www.crunchbase.com/organization/poolside
 crunchbase_verified: false
+linkedin: https://www.linkedin.com/company/poolsideai
 ---
 
 # Poolside

@@ -52,6 +52,7 @@ one_liner: Nscale is a London-based AI infrastructure company that designs, buil
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/nscale
 crunchbase_verified: false
+linkedin: https://www.linkedin.com/company/nscale-cloud
 ---
 
 # Nscale

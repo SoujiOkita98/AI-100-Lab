@@ -19,6 +19,7 @@ total_funding: 42.5
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/landbase
 crunchbase_verified: false
+linkedin: https://www.linkedin.com/company/landbase
 ---
 
 # Landbase

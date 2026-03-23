@@ -33,6 +33,7 @@ headquarters: San Francisco, CA
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/majestic-labs
 crunchbase_verified: false
+linkedin: https://www.linkedin.com/company/majestic-labs-ai
 ---
 
 # Majestic Labs

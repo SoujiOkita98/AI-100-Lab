@@ -19,6 +19,7 @@ total_funding: 46
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/artisan-ai
 crunchbase_verified: false
+linkedin: https://www.linkedin.com/company/artisanai
 ---
 
 # Artisan AI

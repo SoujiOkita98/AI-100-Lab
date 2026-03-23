@@ -20,6 +20,7 @@ website: https://www.deeprobotics.cn/en
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/deep-robotics
 crunchbase_verified: false
+linkedin: https://www.linkedin.com/company/deep-robotics
 ---
 
 # DEEP Robotics

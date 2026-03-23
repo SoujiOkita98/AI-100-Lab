@@ -21,6 +21,7 @@ one_liner: Dataminr is a New York-based AI company that provides real-time detec
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/dataminr
 crunchbase_verified: false
+linkedin: https://www.linkedin.com/company/dataminr
 ---
 
 # Dataminr

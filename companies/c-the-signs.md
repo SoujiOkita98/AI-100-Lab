@@ -19,6 +19,7 @@ website: https://www.cthesigns.com
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/c-the-signs
 crunchbase_verified: false
+linkedin: https://www.linkedin.com/company/c-the-signs
 ---
 
 # C the Signs

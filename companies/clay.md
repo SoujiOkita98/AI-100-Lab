@@ -19,6 +19,7 @@ data_notes: 'Needs verification: website, founders. Profile may be incomplete.'
 total_funding: 204
 crunchbase: https://www.crunchbase.com/organization/clay
 crunchbase_verified: false
+linkedin: https://www.linkedin.com/company/clayhq
 ---
 
 # Clay

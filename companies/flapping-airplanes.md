@@ -35,6 +35,7 @@ website: https://flappingairplanes.com
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/flapping-airplanes
 crunchbase_verified: false
+linkedin: https://www.linkedin.com/company/flapping-airplanes
 ---
 
 # Flapping Airplanes

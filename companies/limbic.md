@@ -20,6 +20,7 @@ website: https://limbic.ai
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/limbic
 crunchbase_verified: false
+linkedin: https://www.linkedin.com/company/limbic-ai
 ---
 
 # Limbic

@@ -20,6 +20,7 @@ website_verified: true
 headquarters: Austin, TX
 crunchbase: https://www.crunchbase.com/organization/avride
 crunchbase_verified: false
+linkedin: https://www.linkedin.com/company/avrideai
 ---
 
 # Avride

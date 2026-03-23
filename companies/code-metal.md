@@ -19,6 +19,7 @@ website_verified: true
 headquarters: Boston, MA
 crunchbase: https://www.crunchbase.com/organization/code-metal
 crunchbase_verified: false
+linkedin: https://www.linkedin.com/company/code-metal
 ---
 
 # Code Metal

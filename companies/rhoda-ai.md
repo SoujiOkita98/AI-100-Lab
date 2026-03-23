@@ -37,6 +37,7 @@ one_liner: Rhoda AI emerged from stealth on March 10, 2026, announcing a $450 mi
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/rhoda-ai
 crunchbase_verified: false
+linkedin: https://www.linkedin.com/company/rhoda-ai
 ---
 
 # Rhoda AI

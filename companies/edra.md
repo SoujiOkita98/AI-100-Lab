@@ -20,6 +20,7 @@ confidence: medium
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/edra
 crunchbase_verified: false
+linkedin: https://www.linkedin.com/company/edra-ai
 ---
 
 # Edra

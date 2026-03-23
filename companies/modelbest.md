@@ -40,6 +40,7 @@ one_liner: 'ModelBest is a Tsinghua University spinout that has carved out a dis
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/modelbest
 crunchbase_verified: false
+linkedin: https://www.linkedin.com/company/modelbest
 ---
 
 # ModelBest (面壁智能)

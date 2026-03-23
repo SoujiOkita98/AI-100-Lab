@@ -43,6 +43,7 @@ website_verified: true
 crunchbase: https://www.crunchbase.com/organization/minimax
 crunchbase_verified: false
 total_funding: 1150
+linkedin: https://www.linkedin.com/company/minimax-ai
 ---
 
 # MiniMax

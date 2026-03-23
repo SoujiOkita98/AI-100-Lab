@@ -19,6 +19,7 @@ one_liner: Knowunity is a Berlin-based AI-powered learning platform that combine
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/knowunity
 crunchbase_verified: false
+linkedin: https://www.linkedin.com/company/knowunity
 ---
 
 # Knowunity -- AI Learning Platform for Students

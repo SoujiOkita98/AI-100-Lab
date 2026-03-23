@@ -64,6 +64,7 @@ one_liner: '> Ambient AI platform for health systems, automating clinical docume
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/ambience-healthcare
 crunchbase_verified: false
+linkedin: https://www.linkedin.com/company/ambiencehealthcare
 ---
 
 # Ambience Healthcare

@@ -15,6 +15,7 @@ one_liner: SambaNova Systems is a full-stack AI infrastructure company that desi
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/sambanova
 crunchbase_verified: false
+linkedin: https://www.linkedin.com/company/sambanova
 ---
 
 # SambaNova Systems

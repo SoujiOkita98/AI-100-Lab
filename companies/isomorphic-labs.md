@@ -50,6 +50,7 @@ website_verified: true
 total_funding: 600
 crunchbase: https://www.crunchbase.com/organization/isomorphic-labs
 crunchbase_verified: false
+linkedin: https://www.linkedin.com/company/isomorphic-labs
 ---
 
 # Isomorphic Labs
