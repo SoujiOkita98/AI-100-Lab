@@ -2099,7 +2099,7 @@
     "sector": "AI-Powered Developer Tools",
     "one_liner": "Anysphere is the company behind **Cursor**, an AI-native code editor built as a fork of VS Code",
     "total_raised_m": null,
-    "latest_valuation_m": null,
+    "latest_valuation_m": 29300.0,
     "employees": null,
     "revenue_signals": null,
     "business_model": null,
@@ -2845,6 +2845,40 @@
     "top_investors": []
   },
   {
+    "slug": "astut",
+    "name": "Astut",
+    "status": "active",
+    "founded_year": "2025",
+    "hq": "Oxford, UK",
+    "website": "https://astut.co.uk",
+    "sector": "AI Decision Intelligence / Defense",
+    "one_liner": "Hybrid AI for high-stakes unseen decisions \u2014 transparent reasoning for defense, energy, and finance. Oxford Math Dept spinout.",
+    "total_raised_m": 2.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [],
+    "funding_rounds": [
+      {
+        "company_slug": "astut",
+        "stage": "Seed",
+        "date": "2025-10",
+        "amount_m": 2.0,
+        "valuation_m": null,
+        "lead_investors": "East X Ventures; Sure Valley Ventures",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
     "slug": "atlan",
     "name": "Atlan",
     "status": "Growth",
@@ -3359,6 +3393,40 @@
         "other_investors": "",
         "source": "https://siliconangle.com/2026/03/12/verifiable-ai-startup-axiom-raises-200m-prove-ai-generated-code-safe-use/",
         "notes": "Existing investors Madrona, Greycroft, B Capital, Toyota Ventures, and Triatomic Capital also participated. Valuation jumped 5x from seed in under 6 months."
+      }
+    ],
+    "top_investors": []
+  },
+  {
+    "slug": "ayar-labs",
+    "name": "Ayar Labs",
+    "status": "active",
+    "founded_year": "2015",
+    "hq": "Santa Clara, CA",
+    "website": "https://ayarlabs.com",
+    "sector": "AI Chips / Optical Interconnects",
+    "one_liner": "Silicon-photonic optical interconnects replacing copper \u2014 20x higher throughput per watt for AI data centers. MIT spinout.",
+    "total_raised_m": 130.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [],
+    "funding_rounds": [
+      {
+        "company_slug": "ayar-labs",
+        "stage": "Series C",
+        "date": "2022",
+        "amount_m": 130.0,
+        "valuation_m": null,
+        "lead_investors": "",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
       }
     ],
     "top_investors": []
@@ -4777,7 +4845,7 @@
     "sector": "AI Hardware / Semiconductors",
     "one_liner": "Cerebras Systems is an AI semiconductor company that designs and manufactures the world's largest computer chips -- Wafer-Scale Engines (WSE) -- purpose-built for AI training and inference",
     "total_raised_m": null,
-    "latest_valuation_m": null,
+    "latest_valuation_m": 23000.0,
     "employees": "500 (estimate; exact figure uncertain)",
     "revenue_signals": null,
     "business_model": null,
@@ -6357,7 +6425,7 @@
     "website": "https://www.crusoe.ai",
     "sector": "AI / GPU Cloud Infrastructure / Data Centers",
     "one_liner": "Crusoe is an AI infrastructure company that designs, builds, and operates data centers purpose-built for AI workloads",
-    "total_raised_m": 3400.0,
+    "total_raised_m": 4140.0,
     "latest_valuation_m": 10000.0,
     "employees": "500+ (estimate; exact figure uncertain)",
     "revenue_signals": null,
@@ -9889,6 +9957,40 @@
     "top_investors": []
   },
   {
+    "slug": "flexion",
+    "name": "Flexion",
+    "status": "active",
+    "founded_year": "2024",
+    "hq": "Zurich, Switzerland",
+    "website": "https://flexion.ai",
+    "sector": "AI Robotics / Humanoid Brain",
+    "one_liner": "Intelligence stack for humanoid robots \u2014 perception, reasoning, and control software. ETH Zurich spinout, ex-Nvidia Isaac Gym team.",
+    "total_raised_m": 57.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [],
+    "funding_rounds": [
+      {
+        "company_slug": "flexion",
+        "stage": "Series A",
+        "date": "2025-11",
+        "amount_m": 50.0,
+        "valuation_m": null,
+        "lead_investors": "DST Global; Nvidia NVentures; Prosus",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
     "slug": "formation-bio",
     "name": "Formation Bio",
     "status": "Private",
@@ -11141,7 +11243,7 @@
   {
     "slug": "groq",
     "name": "Groq",
-    "status": "acquired (Nvidia licensing/acqui-hire, Dec 2025)",
+    "status": "acquired",
     "founded_year": "2016",
     "hq": "Mountain View, CA",
     "website": "https://groq.com",
@@ -15446,6 +15548,40 @@
     "top_investors": []
   },
   {
+    "slug": "mako",
+    "name": "Mako",
+    "status": "active",
+    "founded_year": "2025",
+    "hq": "New York, NY",
+    "website": "https://mako.ai",
+    "sector": "AI Infrastructure / GPU Optimization",
+    "one_liner": "GPU optimization tooling streamlining GPU code deployment for faster, more efficient AI systems. Cornell Tech spinout.",
+    "total_raised_m": 8.5,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [],
+    "funding_rounds": [
+      {
+        "company_slug": "mako",
+        "stage": "Seed",
+        "date": "2025-08",
+        "amount_m": 8.5,
+        "valuation_m": null,
+        "lead_investors": "M13; Neo; Flybridge",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
     "slug": "mal-bank",
     "name": "Mal",
     "status": "active",
@@ -18143,7 +18279,7 @@
     "website": "https://www.nscale.com",
     "sector": "AI / GPU Cloud Infrastructure / Data Centers",
     "one_liner": "Nscale is a London-based AI infrastructure company that designs, builds, and operates GPU data centers for AI workloads",
-    "total_raised_m": 2850.0,
+    "total_raised_m": 3280.0,
     "latest_valuation_m": 14600.0,
     "employees": "unknown",
     "revenue_signals": null,
@@ -21082,6 +21218,40 @@
     "top_investors": []
   },
   {
+    "slug": "radicait",
+    "name": "RADiCAIT",
+    "status": "active",
+    "founded_year": "2024",
+    "hq": "Oxford, UK",
+    "website": "https://radicait.com",
+    "sector": "AI Healthcare / Medical Imaging",
+    "one_liner": "AI converting standard CT scans into synthetic PET scans \u2014 10x cheaper cancer diagnostics. Oxford spinout, Mass General pilots.",
+    "total_raised_m": 1.7,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [],
+    "funding_rounds": [
+      {
+        "company_slug": "radicait",
+        "stage": "Pre-seed",
+        "date": "2025-10",
+        "amount_m": 1.7,
+        "valuation_m": null,
+        "lead_investors": "",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
     "slug": "radical-health",
     "name": "Radical Health",
     "status": "active",
@@ -22340,7 +22510,7 @@
     "website": "https://sambanova.ai",
     "sector": "AI Hardware / AI Infrastructure (Full-Stack)",
     "one_liner": "SambaNova Systems is a full-stack AI infrastructure company that designs custom AI processors (Reconfigurable Dataflow Units, or RDUs), accompanying software, and enterprise services",
-    "total_raised_m": null,
+    "total_raised_m": 1490.0,
     "latest_valuation_m": null,
     "employees": "400-415 (as of early 2026)",
     "revenue_signals": null,
@@ -23281,6 +23451,28 @@
         "notes": ""
       }
     ],
+    "top_investors": []
+  },
+  {
+    "slug": "shenshu",
+    "name": "Shenshu Technology",
+    "status": "active",
+    "founded_year": "2023",
+    "hq": "Beijing, China",
+    "website": null,
+    "sector": "AI Video Generation",
+    "one_liner": "AI video generation platform with 10x user and revenue growth in 2025. 6 financing rounds in under 3 years. Tsinghua spinout.",
+    "total_raised_m": null,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [],
+    "funding_rounds": [],
     "top_investors": []
   },
   {
@@ -27008,6 +27200,40 @@
     "top_investors": []
   },
   {
+    "slug": "trismik",
+    "name": "Trismik",
+    "status": "active",
+    "founded_year": "2024",
+    "hq": "Cambridge, UK",
+    "website": "https://trismik.com",
+    "sector": "AI Evaluation / Testing",
+    "one_liner": "Adaptive AI evaluation using psychometric methods \u2014 dynamically adjusts test difficulty for LLMs. Cambridge NLP spinout.",
+    "total_raised_m": 3.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [],
+    "funding_rounds": [
+      {
+        "company_slug": "trismik",
+        "stage": "Pre-seed",
+        "date": "2025-09",
+        "amount_m": 3.0,
+        "valuation_m": null,
+        "lead_investors": "Twinpath Ventures; Cambridge Enterprise",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
     "slug": "truefoundry",
     "name": "TrueFoundry",
     "status": "active",
@@ -27392,6 +27618,40 @@
         "lead_investors": "NVIDIA; AMD; Snowflake; Databricks",
         "other_investors": "",
         "source": "https://www.superbcrew.com/uniphore-closes-260-million-series-f-funding-round/",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
+    "slug": "unique-ai",
+    "name": "Unique",
+    "status": "active",
+    "founded_year": "2021",
+    "hq": "Zurich, Switzerland",
+    "website": "https://unique.ai",
+    "sector": "AI Finance / Agentic Copilot",
+    "one_liner": "Agentic AI copilot for financial services \u2014 research, compliance, KYC for banks managing .3T+ AUM. ETH Zurich spinoff.",
+    "total_raised_m": 53.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [],
+    "funding_rounds": [
+      {
+        "company_slug": "unique-ai",
+        "stage": "Series A",
+        "date": "2025-02",
+        "amount_m": 30.0,
+        "valuation_m": null,
+        "lead_investors": "DN Capital; CommerzVentures",
+        "other_investors": "",
+        "source": "",
         "notes": ""
       }
     ],
@@ -28405,7 +28665,7 @@
     "website": "https://waymo.com",
     "sector": "AI / Autonomous Vehicles / Robotics / Transportation",
     "one_liner": "> Alphabet's autonomous driving subsidiary, now valued at $126 billion after a $16 billion raise -- the most valuable autonomous vehicle company in the world",
-    "total_raised_m": 16000.0,
+    "total_raised_m": 27100.0,
     "latest_valuation_m": 126000.0,
     "employees": null,
     "revenue_signals": null,
@@ -29359,7 +29619,7 @@
     "website": "https://x.ai",
     "sector": "AI / Foundation Models / Consumer AI",
     "one_liner": "xAI is an artificial intelligence company founded by Elon Musk on March 9, 2023, and publicly announced on July 12, 2023",
-    "total_raised_m": 45000.0,
+    "total_raised_m": 32000.0,
     "latest_valuation_m": 250000.0,
     "employees": "1000+ (estimates; exact figure undisclosed)",
     "revenue_signals": null,

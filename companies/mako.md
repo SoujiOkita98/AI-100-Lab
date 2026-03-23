@@ -1,0 +1,21 @@
+---
+name: "Mako"
+founded: 2025
+headquarters: "New York, NY"
+website: https://mako.ai
+sector: "AI Infrastructure / GPU Optimization"
+one_liner: "GPU optimization tooling streamlining GPU code deployment for faster, more efficient AI systems. Cornell Tech spinout."
+status: active
+funding_rounds:
+  - stage: "Seed"
+    date: "2025-08"
+    amount_m: 8.5
+    lead_investors: ["M13", "Neo", "Flybridge"]
+total_funding: 8.5
+last_updated: 2026-03-21
+confidence: medium
+---
+
+# Mako
+
+GPU optimization tooling streamlining GPU code deployment for faster, more efficient AI systems. Cornell Tech spinout.
