@@ -15,6 +15,8 @@ linkedin: https://www.linkedin.com/company/anysphere
 twitter: '@cursor_ai'
 crunchbase: https://www.crunchbase.com/organization/anysphere-cursor
 crunchbase_verified: true
+latest_valuation_m: 29300
+data_notes: Valuation $29.3B from $2.3B Series D (Nov 2025). Crossed $2B ARR by Mar 2026.
 ---
 
 # Anysphere (Cursor)

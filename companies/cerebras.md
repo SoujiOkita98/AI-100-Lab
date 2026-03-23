@@ -18,6 +18,8 @@ linkedin: https://www.linkedin.com/company/cerebras-systems
 twitter: '@CerebrasSystems'
 crunchbase: https://www.crunchbase.com/organization/cerebras
 crunchbase_verified: true
+latest_valuation_m: 23000
+data_notes: Valuation updated to $23B after Series H (Feb 2026). Previous $8.1B was from Series G (Oct 2025).
 ---
 
 # Cerebras Systems

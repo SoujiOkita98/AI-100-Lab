@@ -193,7 +193,8 @@ twitter: '@xai'
 crunchbase: https://www.crunchbase.com/organization/xai
 crunchbase_verified: true
 total_raised_m: 32000
-data_notes: Funding corrected from $45B to ~$32B after cross-verification. Includes ~$27B equity + ~$5B debt facility.
+data_notes: SpaceX acquired xAI in Feb 2026 at combined $1.25T valuation. Last standalone valuation was ~$250B (Jan 2026 Series
+  E at $20B raise). No longer independent.
 ---
 
 # xAI
