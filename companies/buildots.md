@@ -24,6 +24,7 @@ website_verified: true
 linkedin: https://www.linkedin.com/company/buildots
 crunchbase: https://www.crunchbase.com/organization/buildots
 crunchbase_verified: true
+twitter: '@buildots'
 ---
 
 # Buildots

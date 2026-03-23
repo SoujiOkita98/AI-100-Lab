@@ -70,6 +70,7 @@ website_verified: true
 linkedin: https://www.linkedin.com/company/wayve-technologies
 crunchbase: https://www.crunchbase.com/organization/wayve
 crunchbase_verified: true
+twitter: '@wayve_ai'
 ---
 
 # Wayve

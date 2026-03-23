@@ -21,6 +21,7 @@ website_verified: true
 linkedin: https://www.linkedin.com/company/rebellions-ai
 crunchbase: https://www.crunchbase.com/organization/rebellions
 crunchbase_verified: true
+twitter: '@Rebellions_inc'
 ---
 
 # Rebellions

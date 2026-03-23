@@ -69,6 +69,7 @@ website_verified: true
 linkedin: https://www.linkedin.com/company/harnessinc
 crunchbase: https://www.crunchbase.com/organization/harness
 crunchbase_verified: true
+twitter: '@harnessio'
 ---
 
 # Harness

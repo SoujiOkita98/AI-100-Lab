@@ -65,6 +65,7 @@ website_verified: true
 linkedin: https://www.linkedin.com/company/vast-data
 crunchbase: https://www.crunchbase.com/organization/vast-data
 crunchbase_verified: true
+twitter: '@VAST_Data'
 ---
 
 # VAST Data

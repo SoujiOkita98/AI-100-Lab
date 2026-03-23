@@ -51,6 +51,7 @@ website_verified: true
 linkedin: https://www.linkedin.com/company/evenup
 crunchbase: https://www.crunchbase.com/organization/evenup
 crunchbase_verified: true
+twitter: '@evenuplaw'
 ---
 
 # EvenUp -- Company Profile

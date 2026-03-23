@@ -32,6 +32,7 @@ website_verified: true
 crunchbase: https://www.crunchbase.com/organization/bland-ai
 crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/bland-ai
+twitter: '@usebland'
 ---
 
 # Bland AI

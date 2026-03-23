@@ -29,6 +29,7 @@ linkedin: https://www.linkedin.com/company/parloa
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/parloa
 crunchbase_verified: true
+twitter: '@parloa_ai'
 ---
 
 # Parloa

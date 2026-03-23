@@ -56,6 +56,7 @@ website_verified: true
 linkedin: https://www.linkedin.com/company/getwriter
 crunchbase: https://www.crunchbase.com/organization/writer
 crunchbase_verified: true
+twitter: '@Get_Writer'
 ---
 
 # Writer — Enterprise AI Platform

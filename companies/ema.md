@@ -25,6 +25,7 @@ linkedin: https://www.linkedin.com/company/ema-unlimited
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/ema
 crunchbase_verified: true
+twitter: '@Ema_Unlimited'
 ---
 
 # Ema

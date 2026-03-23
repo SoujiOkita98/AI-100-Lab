@@ -20,6 +20,7 @@ website_verified: true
 linkedin: https://www.linkedin.com/company/encharge-ai
 crunchbase: https://www.crunchbase.com/organization/encharge-ai
 crunchbase_verified: true
+twitter: '@EnChargeAI'
 ---
 
 # EnCharge AI

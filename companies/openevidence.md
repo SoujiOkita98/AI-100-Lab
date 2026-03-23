@@ -63,6 +63,7 @@ website_verified: true
 linkedin: https://www.linkedin.com/company/openevidence
 crunchbase: https://www.crunchbase.com/organization/openevidence
 crunchbase_verified: true
+twitter: '@EvidenceOpen'
 ---
 
 # OpenEvidence

@@ -22,6 +22,7 @@ linkedin: https://www.linkedin.com/company/dualentry
 headquarters: New York, NY
 crunchbase: https://www.crunchbase.com/organization/dualentry
 crunchbase_verified: true
+twitter: '@dualentry'
 ---
 
 # DualEntry

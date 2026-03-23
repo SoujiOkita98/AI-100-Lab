@@ -18,6 +18,7 @@ website_verified: true
 linkedin: https://www.linkedin.com/company/youdotcom
 crunchbase: https://www.crunchbase.com/organization/you-com
 crunchbase_verified: true
+twitter: '@youdotcom'
 ---
 
 # You.com

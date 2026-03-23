@@ -26,6 +26,7 @@ linkedin: https://www.linkedin.com/company/bflai
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/black-forest-labs
 crunchbase_verified: true
+twitter: '@bfl_ml'
 ---
 
 # Black Forest Labs

@@ -20,6 +20,7 @@ website_verified: true
 linkedin: https://www.linkedin.com/company/attio
 crunchbase: https://www.crunchbase.com/organization/attio
 crunchbase_verified: true
+twitter: '@attio'
 ---
 
 # Attio

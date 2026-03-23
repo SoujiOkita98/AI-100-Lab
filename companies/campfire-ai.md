@@ -21,6 +21,7 @@ linkedin: https://www.linkedin.com/company/meetcampfire
 headquarters: San Francisco, CA
 crunchbase: https://www.crunchbase.com/organization/campfire-ai
 crunchbase_verified: true
+twitter: '@campfireai'
 ---
 
 # Campfire

@@ -45,6 +45,7 @@ website_verified: true
 linkedin: https://www.linkedin.com/company/unitreerobotics
 crunchbase: https://www.crunchbase.com/organization/unitree-robotics
 crunchbase_verified: true
+twitter: '@UnitreeRobotics'
 ---
 
 # Unitree Robotics

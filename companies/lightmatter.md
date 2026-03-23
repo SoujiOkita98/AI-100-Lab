@@ -16,6 +16,7 @@ website_verified: true
 linkedin: https://www.linkedin.com/company/lightmatter
 crunchbase: https://www.crunchbase.com/organization/lightmatter
 crunchbase_verified: true
+twitter: '@LightmatterCo'
 ---
 
 # Lightmatter

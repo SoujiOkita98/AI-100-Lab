@@ -46,6 +46,7 @@ website_verified: true
 linkedin: https://www.linkedin.com/company/normative-ai
 crunchbase: https://www.crunchbase.com/organization/norm-ai
 crunchbase_verified: true
+twitter: '@normativeai'
 ---
 
 # Norm AI -- Company Profile

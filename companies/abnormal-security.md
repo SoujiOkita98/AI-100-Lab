@@ -110,6 +110,7 @@ website_verified: true
 linkedin: https://www.linkedin.com/company/abnormalsecurity
 crunchbase: https://www.crunchbase.com/organization/abnormal-security
 crunchbase_verified: true
+twitter: '@AbnormalSec'
 ---
 
 # Abnormal AI (formerly Abnormal Security)

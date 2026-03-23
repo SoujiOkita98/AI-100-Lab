@@ -32,6 +32,7 @@ website_verified: true
 linkedin: https://www.linkedin.com/company/wisprai
 crunchbase: https://www.crunchbase.com/organization/wispr-ai
 crunchbase_verified: true
+twitter: '@WisprFlow'
 ---
 
 # Wispr AI

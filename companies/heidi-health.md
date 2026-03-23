@@ -22,6 +22,7 @@ website_verified: true
 linkedin: https://www.linkedin.com/company/heidihealth
 crunchbase: https://www.crunchbase.com/organization/heidi-health
 crunchbase_verified: true
+twitter: '@tryheidi'
 ---
 
 # Heidi Health

@@ -85,6 +85,7 @@ linkedin: https://www.linkedin.com/company/deepl
 headquarters: Cologne, Germany
 crunchbase: https://www.crunchbase.com/organization/deepl
 crunchbase_verified: true
+twitter: '@DeepLcom'
 ---
 
 # DeepL

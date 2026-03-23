@@ -41,6 +41,7 @@ website_verified: true
 linkedin: https://www.linkedin.com/company/browser-use
 crunchbase: https://www.crunchbase.com/organization/browser-use
 crunchbase_verified: true
+twitter: '@browser_use'
 ---
 
 # Browser Use

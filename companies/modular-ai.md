@@ -29,6 +29,7 @@ linkedin: https://www.linkedin.com/company/modular-ai
 headquarters: Los Altos Hills, CA
 crunchbase: https://www.crunchbase.com/organization/modular-ai
 crunchbase_verified: true
+twitter: '@Modular'
 ---
 
 # Modular AI

@@ -21,6 +21,7 @@ website_verified: true
 linkedin: https://www.linkedin.com/company/celestial-ai
 crunchbase: https://www.crunchbase.com/organization/celestial-ai
 crunchbase_verified: true
+twitter: '@CelestialAIinc'
 ---
 
 # Celestial AI

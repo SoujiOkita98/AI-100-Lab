@@ -22,6 +22,7 @@ linkedin: https://www.linkedin.com/company/sfcompute
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/sf-compute
 crunchbase_verified: true
+twitter: '@sfcompute'
 ---
 
 # SF Compute

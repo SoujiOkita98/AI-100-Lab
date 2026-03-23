@@ -20,6 +20,7 @@ total_funding: 204
 crunchbase: https://www.crunchbase.com/organization/clay
 crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/clayhq
+twitter: '@clay_gtm'
 ---
 
 # Clay

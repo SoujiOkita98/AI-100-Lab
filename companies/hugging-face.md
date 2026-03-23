@@ -23,6 +23,7 @@ website_verified: true
 linkedin: https://www.linkedin.com/company/huggingface
 crunchbase: https://www.crunchbase.com/organization/hugging-face
 crunchbase_verified: true
+twitter: '@huggingface'
 ---
 
 # Hugging Face

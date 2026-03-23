@@ -20,6 +20,7 @@ website_verified: true
 linkedin: https://www.linkedin.com/company/tensorwave
 crunchbase: https://www.crunchbase.com/organization/tensorwave
 crunchbase_verified: true
+twitter: '@TensorWaveCloud'
 ---
 
 # TensorWave

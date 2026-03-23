@@ -67,6 +67,7 @@ website_verified: true
 linkedin: https://www.linkedin.com/company/unconvai
 crunchbase: https://www.crunchbase.com/organization/unconventional-ai
 crunchbase_verified: true
+twitter: '@unconvAI'
 ---
 
 # Unconventional AI

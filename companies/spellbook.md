@@ -20,6 +20,7 @@ website_verified: true
 linkedin: https://www.linkedin.com/company/spellbookai
 crunchbase: https://www.crunchbase.com/organization/spellbook
 crunchbase_verified: true
+twitter: '@SpellbookLegal'
 ---
 
 # Spellbook

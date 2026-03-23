@@ -23,6 +23,7 @@ website_verified: true
 linkedin: https://www.linkedin.com/company/n8n
 crunchbase: https://www.crunchbase.com/organization/n8n
 crunchbase_verified: true
+twitter: '@n8n_io'
 ---
 
 # n8n

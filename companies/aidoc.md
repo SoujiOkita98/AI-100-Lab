@@ -29,6 +29,7 @@ website_verified: true
 linkedin: https://www.linkedin.com/company/aidoc
 crunchbase: https://www.crunchbase.com/organization/aidoc
 crunchbase_verified: true
+twitter: '@aidocmed'
 ---
 
 # Aidoc

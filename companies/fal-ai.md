@@ -27,6 +27,7 @@ website_verified: true
 linkedin: https://www.linkedin.com/company/features-and-labels
 crunchbase: https://www.crunchbase.com/organization/fal-ai
 crunchbase_verified: true
+twitter: '@fal'
 ---
 
 # Fal

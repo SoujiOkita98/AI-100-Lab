@@ -20,6 +20,7 @@ linkedin: https://www.linkedin.com/company/ambient-ai
 headquarters: Redwood City, CA
 crunchbase: https://www.crunchbase.com/organization/ambient-ai
 crunchbase_verified: true
+twitter: '@ambientai'
 ---
 
 # Ambient.ai

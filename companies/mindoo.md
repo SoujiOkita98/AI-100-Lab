@@ -30,6 +30,7 @@ website_verified: true
 linkedin: https://www.linkedin.com/company/mindoo-ai
 crunchbase: https://www.crunchbase.com/organization/mindoo
 crunchbase_verified: true
+twitter: '@mindooai'
 ---
 
 # Mindoo
