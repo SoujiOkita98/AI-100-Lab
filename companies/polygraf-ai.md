@@ -21,18 +21,19 @@ crunchbase: https://www.crunchbase.com/organization/polygraf-ai
 crunchbase_verified: true
 total_raised_m: 9.5
 founders:
-  - name: "Yagub Rahimov"
-    role: "Founder & CEO"
-    background: ""
-    origin: "Azerbaijani"
-  - name: "Vignesh Karumbaya"
-    role: "Co-Founder & COO"
-    background: ""
-    origin: "Indian"
-  - name: "Anton Stepaniuk"
-    role: "Co-Founder"
-    background: ""
-    origin: "Ukrainian"
+- name: Yagub Rahimov
+  role: Founder & CEO
+  background: ''
+  origin: Azerbaijani
+- name: Vignesh Karumbaya
+  role: Co-Founder & COO
+  background: ''
+  origin: Indian
+- name: Anton Stepaniuk
+  role: Co-Founder
+  background: ''
+  origin: Ukrainian
+linkedin: https://www.linkedin.com/company/polygraf-ai/
 ---
 
 # Polygraf AI

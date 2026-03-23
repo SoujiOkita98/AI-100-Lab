@@ -30,6 +30,7 @@ website_verified: true
 crunchbase: https://www.crunchbase.com/organization/endra
 crunchbase_verified: true
 total_raised_m: 20.0
+linkedin: https://www.linkedin.com/company/endra/
 ---
 
 # Endra

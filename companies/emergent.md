@@ -4,7 +4,8 @@ legal_name: Emergent Labs Inc.
 founded: 2024
 headquarters: San Francisco, CA (R&D center in Bengaluru, India)
 website: https://emergent.sh
-one_liner: "AI app builder that turns plain-language ideas into production-ready, monetizable web and mobile applications without coding"
+one_liner: AI app builder that turns plain-language ideas into production-ready, monetizable web and mobile applications without
+  coding
 sector: AI Applications / Vibe Coding
 stage: Series B
 latest_valuation: $300M (January 2026)
@@ -60,10 +61,10 @@ funding_rounds:
   - Khosla Ventures
   - SoftBank Vision Fund 2
   source: https://www.businesswire.com/news/home/20260120852493/en/
-website: https://emergent.sh
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/emergent
 crunchbase_verified: true
+linkedin: https://www.linkedin.com/company/emergent/
 ---
 
 # Emergent

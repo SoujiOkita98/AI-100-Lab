@@ -8,7 +8,7 @@ sector:
 - AI hardware
 - augmented reality
 - consumer electronics
-one_liner: Chinese AI + AR glasses maker ranked #1 globally in AR glasses sales with 39% market share, products sold in 25+ countries.
+one_liner: Chinese AI + AR glasses maker ranked
 logo: null
 total_raised_m: 140
 latest_valuation_m: null
@@ -20,14 +20,17 @@ funding_rounds:
   lead_investors:
   - CITIC Jingshi
   source: https://eu.36kr.com/en/p/3542786251992967
-  notes: Largest single-round financing in China's AI + AR glasses sector. Total Series C approaching 1 billion yuan (~$140M). Participants include CITIC Securities International Capital and CITIC Securities Investment.
+  notes: Largest single-round financing in China's AI + AR glasses sector. Total Series C approaching 1 billion yuan (~$140M).
+    Participants include CITIC Securities International Capital and CITIC Securities Investment.
 founders:
 - name: Li Hongwei
   role: CEO & Founder
-  background: Technology executive with expertise in AR/VR and consumer electronics. Built Leiniao into the global leader in AR glasses sales.
+  background: Technology executive with expertise in AR/VR and consumer electronics. Built Leiniao into the global leader
+    in AR glasses sales.
   origin: Chinese.
 confidence: medium
 last_updated: 2026-03-23
+linkedin: https://www.linkedin.com/company/leiniao-innovation/
 ---
 
 # Leiniao Innovation

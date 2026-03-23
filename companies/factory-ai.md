@@ -19,14 +19,14 @@ key_investors:
 - Mantis VC
 notable_backers: []
 founders:
-  - name: "Matan Grinberg"
-    role: "CEO"
-    background: "PhD in theoretical physics; met co-founder at an AI hackathon"
-    origin: "American"
-  - name: "Eno Reyes"
-    role: "CTO"
-    background: "Former data scientist at Hugging Face and Microsoft; thesis on deep learning and language models"
-    origin: "Filipino-American"
+- name: Matan Grinberg
+  role: CEO
+  background: PhD in theoretical physics; met co-founder at an AI hackathon
+  origin: American
+- name: Eno Reyes
+  role: CTO
+  background: Former data scientist at Hugging Face and Microsoft; thesis on deep learning and language models
+  origin: Filipino-American
 last_updated: 2026-03-20
 confidence: high
 one_liner: Factory is building an "agent-native" software development platform centered on autonomous AI agents called "Droids"
@@ -36,21 +36,25 @@ crunchbase: https://www.crunchbase.com/organization/factory-ai
 crunchbase_verified: true
 total_raised_m: 70
 funding_rounds:
-  - stage: "Seed"
-    date: "2023"
-    amount_m: 5
-    lead_investors: ["Undisclosed"]
-    source: "https://www.crunchbase.com/organization/factory-ai"
-  - stage: "Series A"
-    date: "2024"
-    amount_m: 15
-    lead_investors: ["Sequoia Capital"]
-    source: "https://www.crunchbase.com/organization/factory-ai"
-  - stage: "Series B"
-    date: "2025-09"
-    amount_m: 50
-    lead_investors: ["NEA"]
-    source: "https://www.crunchbase.com/organization/factory-ai"
+- stage: Seed
+  date: '2023'
+  amount_m: 5
+  lead_investors:
+  - Undisclosed
+  source: https://www.crunchbase.com/organization/factory-ai
+- stage: Series A
+  date: '2024'
+  amount_m: 15
+  lead_investors:
+  - Sequoia Capital
+  source: https://www.crunchbase.com/organization/factory-ai
+- stage: Series B
+  date: 2025-09
+  amount_m: 50
+  lead_investors:
+  - NEA
+  source: https://www.crunchbase.com/organization/factory-ai
+linkedin: https://www.linkedin.com/company/factory-ai/
 ---
 
 # Factory

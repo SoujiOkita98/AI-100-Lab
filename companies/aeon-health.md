@@ -29,6 +29,7 @@ website_verified: true
 crunchbase: https://www.crunchbase.com/organization/aeon-health
 crunchbase_verified: true
 total_raised_m: 9.0
+linkedin: https://www.linkedin.com/company/aeon-health/
 ---
 
 # Aeon Health

@@ -25,14 +25,15 @@ crunchbase: https://www.crunchbase.com/organization/octonomy
 crunchbase_verified: true
 total_raised_m: 25.0
 founders:
-  - name: "Sushel Bijganath"
-    role: "Co-Founder & CEO"
-    background: "Based in Cologne, Germany"
-    origin: "Dutch"
-  - name: "Oliver Trabert"
-    role: "Co-Founder & CPTO"
-    background: ""
-    origin: "German"
+- name: Sushel Bijganath
+  role: Co-Founder & CEO
+  background: Based in Cologne, Germany
+  origin: Dutch
+- name: Oliver Trabert
+  role: Co-Founder & CPTO
+  background: ''
+  origin: German
+linkedin: https://www.linkedin.com/company/octonomy/
 ---
 
 # Octonomy

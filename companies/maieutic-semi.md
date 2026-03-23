@@ -30,6 +30,7 @@ website_verified: true
 crunchbase: https://www.crunchbase.com/organization/maieutic-semi
 crunchbase_verified: true
 total_raised_m: 6.0
+linkedin: https://www.linkedin.com/company/maieutic-semiconductors/
 ---
 
 # Maieutic Semiconductors

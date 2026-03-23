@@ -8,7 +8,8 @@ sector:
 - AI infrastructure
 - heterogeneous computing
 - AI cloud
-one_liner: Chinese AI infrastructure startup providing AGI computing power solutions through heterogeneous computing, aggregating resources across 53 data centers in 26 Chinese cities.
+one_liner: Chinese AI infrastructure startup providing AGI computing power solutions through heterogeneous computing, aggregating
+  resources across 53 data centers in 26 Chinese cities.
 logo: null
 total_raised_m: 210
 latest_valuation_m: null
@@ -21,7 +22,9 @@ funding_rounds:
   - Zhuhai Technology Group
   - Futeng Capital
   source: https://www.caixinglobal.com/2025-11-28/infinigence-ai-raises-500-million-yuan-to-expand-heterogeneous-computing-platform-102387594.html
-  notes: Total raised approximately 1.5 billion yuan. Additional investors include Lenovo Capital, Junlian Capital, Shenwan Hongyuan Group, Huiyuan Capital, Shangqi Capital, and Highlight Capital. Earlier backers include Baidu, Xiaomi, Zhipu AI, HongShan Capital, and Qiming Venture Partners.
+  notes: Total raised approximately 1.5 billion yuan. Additional investors include Lenovo Capital, Junlian Capital, Shenwan
+    Hongyuan Group, Huiyuan Capital, Shangqi Capital, and Highlight Capital. Earlier backers include Baidu, Xiaomi, Zhipu
+    AI, HongShan Capital, and Qiming Venture Partners.
 founders:
 - name: Xia Lixue
   role: CEO & Co-founder
@@ -37,6 +40,7 @@ founders:
   origin: Chinese.
 confidence: medium
 last_updated: 2026-03-23
+linkedin: https://www.linkedin.com/company/infinigence-ai/
 ---
 
 # Infinigence AI

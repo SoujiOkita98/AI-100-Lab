@@ -20,10 +20,11 @@ crunchbase: https://www.crunchbase.com/organization/radical-health
 crunchbase_verified: true
 total_raised_m: 5.0
 founders:
-  - name: "Simone Korsgaard Jensen"
-    role: "Founder & CEO"
-    background: "Former executive at Flatiron Health and Tempus"
-    origin: "Danish"
+- name: Simone Korsgaard Jensen
+  role: Founder & CEO
+  background: Former executive at Flatiron Health and Tempus
+  origin: Danish
+linkedin: https://www.linkedin.com/company/radical-health/
 ---
 
 # Radical Health

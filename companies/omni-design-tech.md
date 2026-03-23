@@ -20,18 +20,19 @@ crunchbase: https://www.crunchbase.com/organization/omni-design-tech
 crunchbase_verified: true
 total_raised_m: 35.0
 founders:
-  - name: "Kush Gulati"
-    role: "Co-Founder & CEO"
-    background: "PhD from MIT; expert in data converters; serial entrepreneur"
-    origin: "Indian"
-  - name: "Sid Dutta"
-    role: "Co-Founder & VP"
-    background: ""
-    origin: "Indian"
-  - name: "Hyun H Boo"
-    role: "Co-Founder & Director"
-    background: ""
-    origin: "Korean"
+- name: Kush Gulati
+  role: Co-Founder & CEO
+  background: PhD from MIT; expert in data converters; serial entrepreneur
+  origin: Indian
+- name: Sid Dutta
+  role: Co-Founder & VP
+  background: ''
+  origin: Indian
+- name: Hyun H Boo
+  role: Co-Founder & Director
+  background: ''
+  origin: Korean
+linkedin: https://www.linkedin.com/company/omni-design-technologies/
 ---
 
 # Omni Design Technologies

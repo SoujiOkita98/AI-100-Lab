@@ -21,18 +21,19 @@ crunchbase: https://www.crunchbase.com/organization/raindrop
 crunchbase_verified: true
 total_raised_m: 15.0
 founders:
-  - name: "Zubin Koticha"
-    role: "Co-Founder & CEO"
-    background: "Second-time founder; previous company acquired by Coinbase"
-    origin: "Indian-American"
-  - name: "Alexis Gauba"
-    role: "Co-Founder"
-    background: "Second-time founder; previous company acquired by Coinbase"
-    origin: "Indian-American"
-  - name: "Ben Hylak"
-    role: "Co-Founder"
-    background: "Former engineer at Apple; 4 years on Apple Human Interface Design team"
-    origin: "American"
+- name: Zubin Koticha
+  role: Co-Founder & CEO
+  background: Second-time founder; previous company acquired by Coinbase
+  origin: Indian-American
+- name: Alexis Gauba
+  role: Co-Founder
+  background: Second-time founder; previous company acquired by Coinbase
+  origin: Indian-American
+- name: Ben Hylak
+  role: Co-Founder
+  background: Former engineer at Apple; 4 years on Apple Human Interface Design team
+  origin: American
+linkedin: https://www.linkedin.com/company/raindrop/
 ---
 
 # Raindrop

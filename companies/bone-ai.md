@@ -14,10 +14,10 @@ funding_rounds:
   - Kolon Group
   source: https://techcrunch.com/2025/11/17/bone-ai-raises-funding/
 founders:
-  - name: "DK Lee"
-    role: "Founder & CEO"
-    background: "Co-founded MarqVision. Cornell University business graduate. Serial entrepreneur from Y Combinator."
-    origin: "Korean (inferred from name and Seoul base)"
+- name: DK Lee
+  role: Founder & CEO
+  background: Co-founded MarqVision. Cornell University business graduate. Serial entrepreneur from Y Combinator.
+  origin: Korean (inferred from name and Seoul base)
 last_updated: 2026-03-21
 confidence: medium
 data_notes: 'Needs verification: website, founders, source_urls. Profile may be incomplete.'
@@ -26,6 +26,7 @@ website_verified: true
 crunchbase: https://www.crunchbase.com/organization/bone-ai
 crunchbase_verified: true
 total_raised_m: 12.0
+linkedin: https://www.linkedin.com/company/bone-ai/
 ---
 
 # Bone AI

@@ -12,14 +12,14 @@ funding_rounds:
 last_updated: 2026-03-21
 confidence: medium
 founders:
-  - name: "Jared Resnick"
-    role: "CEO & Co-Founder"
-    background: "Founded Precision Fermentation (rebranded to Sennos in 2025)."
-    origin: "American"
-  - name: "Daniel Kulenic"
-    role: "Co-Founder"
-    background: "Co-founded Precision Fermentation with Resnick."
-    origin: "American"
+- name: Jared Resnick
+  role: CEO & Co-Founder
+  background: Founded Precision Fermentation (rebranded to Sennos in 2025).
+  origin: American
+- name: Daniel Kulenic
+  role: Co-Founder
+  background: Co-founded Precision Fermentation with Resnick.
+  origin: American
 data_notes: 'Needs verification: website, source_urls, headquarters. Profile may be incomplete.'
 website: https://www.sennos.com
 website_verified: true
@@ -28,6 +28,7 @@ founded: 2017
 crunchbase: https://www.crunchbase.com/organization/sennos
 crunchbase_verified: true
 total_raised_m: 15.0
+linkedin: https://www.linkedin.com/company/sennos/
 ---
 
 # Sennos

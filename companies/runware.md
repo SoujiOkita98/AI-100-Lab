@@ -22,14 +22,15 @@ crunchbase: https://www.crunchbase.com/organization/runware
 crunchbase_verified: true
 total_raised_m: 66.0
 founders:
-  - name: "Flaviu Radulescu"
-    role: "Co-Founder & CEO"
-    background: "20+ years experience in big data and cloud platforms"
-    origin: "Romanian"
-  - name: "Ioana Hreninciuc"
-    role: "Co-Founder & COO"
-    background: "Operations and GTM focus"
-    origin: "Romanian"
+- name: Flaviu Radulescu
+  role: Co-Founder & CEO
+  background: 20+ years experience in big data and cloud platforms
+  origin: Romanian
+- name: Ioana Hreninciuc
+  role: Co-Founder & COO
+  background: Operations and GTM focus
+  origin: Romanian
+linkedin: https://www.linkedin.com/company/runware/
 ---
 
 # Runware

@@ -24,6 +24,7 @@ website_verified: true
 crunchbase: https://www.crunchbase.com/organization/riverline-ai
 crunchbase_verified: true
 total_raised_m: 0.825
+linkedin: https://www.linkedin.com/company/riverline-ai/
 ---
 
 # Riverline AI

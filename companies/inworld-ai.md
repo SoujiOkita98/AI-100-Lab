@@ -32,6 +32,7 @@ founders:
   role: CTO
   background: Technical co-founder.
   origin: Russian
+linkedin: https://www.linkedin.com/company/inworld-ai/
 ---
 
 # Inworld AI

@@ -29,6 +29,7 @@ website_verified: true
 crunchbase: https://www.crunchbase.com/organization/sunrise-robotics
 crunchbase_verified: true
 total_raised_m: 8.5
+linkedin: https://www.linkedin.com/company/sunrise-robotics/
 ---
 
 # Sunrise Robotics

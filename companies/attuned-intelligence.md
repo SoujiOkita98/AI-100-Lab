@@ -12,10 +12,10 @@ funding_rounds:
   - Radical Ventures
   - Threshold Ventures
 founders:
-  - name: "Domenic Donato"
-    role: "Co-Founder & CEO"
-    background: "Former Google engineer and DeepMind research lead. Previously scaled tech teams at AssemblyAI."
-    origin: "Italian-American (inferred from name)"
+- name: Domenic Donato
+  role: Co-Founder & CEO
+  background: Former Google engineer and DeepMind research lead. Previously scaled tech teams at AssemblyAI.
+  origin: Italian-American (inferred from name)
 last_updated: 2026-03-21
 confidence: medium
 headquarters: Orlando, FL
@@ -24,6 +24,7 @@ website_verified: true
 crunchbase: https://www.crunchbase.com/organization/attuned-intelligence
 crunchbase_verified: true
 total_raised_m: 13.0
+linkedin: https://www.linkedin.com/company/attuned-intelligence/
 ---
 
 # Attuned Intelligence

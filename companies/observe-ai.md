@@ -70,6 +70,7 @@ one_liner: Observe.AI is an AI-powered platform for contact centers that embeds 
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/observe-ai
 crunchbase_verified: true
+linkedin: https://www.linkedin.com/company/observe-ai/
 ---
 
 # Observe.AI

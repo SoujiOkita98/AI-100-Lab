@@ -18,14 +18,15 @@ last_updated: 2026-03-21
 confidence: medium
 total_raised_m: 67.0
 founders:
-  - name: "Leo Ma"
-    role: "Co-Founder & CEO"
-    background: "MS in Computer Science from Carnegie Mellon; Executive Education at Wharton; 15 years in AI robotics"
-    origin: "Chinese-American"
-  - name: "Calvin Zhou"
-    role: "Co-Founder & VP of Engineering"
-    background: ""
-    origin: "Chinese-American"
+- name: Leo Ma
+  role: Co-Founder & CEO
+  background: MS in Computer Science from Carnegie Mellon; Executive Education at Wharton; 15 years in AI robotics
+  origin: Chinese-American
+- name: Calvin Zhou
+  role: Co-Founder & VP of Engineering
+  background: ''
+  origin: Chinese-American
+linkedin: https://www.linkedin.com/company/roboforce/
 ---
 
 # RoboForce

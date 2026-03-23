@@ -36,21 +36,25 @@ crunchbase: https://www.crunchbase.com/organization/tavus
 crunchbase_verified: true
 total_raised_m: 64.2
 funding_rounds:
-  - stage: "Seed"
-    date: "2022"
-    amount_m: 6.2
-    lead_investors: ["Sequoia Capital"]
-    source: "https://www.crunchbase.com/organization/tavus"
-  - stage: "Series A"
-    date: "2024"
-    amount_m: 18
-    lead_investors: ["Benchmark"]
-    source: "https://www.crunchbase.com/organization/tavus"
-  - stage: "Series B"
-    date: "2025-11"
-    amount_m: 40
-    lead_investors: ["Menlo Ventures"]
-    source: "https://www.crunchbase.com/organization/tavus"
+- stage: Seed
+  date: '2022'
+  amount_m: 6.2
+  lead_investors:
+  - Sequoia Capital
+  source: https://www.crunchbase.com/organization/tavus
+- stage: Series A
+  date: '2024'
+  amount_m: 18
+  lead_investors:
+  - Benchmark
+  source: https://www.crunchbase.com/organization/tavus
+- stage: Series B
+  date: 2025-11
+  amount_m: 40
+  lead_investors:
+  - Menlo Ventures
+  source: https://www.crunchbase.com/organization/tavus
+linkedin: https://www.linkedin.com/company/tavus/
 ---
 
 # Tavus

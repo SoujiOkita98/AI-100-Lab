@@ -15,18 +15,19 @@ funding_rounds:
   - Sorenson Capital
   - Samsung NEXT
 founders:
-  - name: "Nir Gazit"
-    role: "Co-Founder & CEO"
-    background: "4 years at Google leading ML engagement/retention models; former Chief Architect at Fiverr"
-    origin: "Israeli"
-  - name: "Gal Kleinman"
-    role: "Co-Founder & CTO"
-    background: "Led development of Fiverr's machine learning platform and data infrastructure"
-    origin: "Israeli"
+- name: Nir Gazit
+  role: Co-Founder & CEO
+  background: 4 years at Google leading ML engagement/retention models; former Chief Architect at Fiverr
+  origin: Israeli
+- name: Gal Kleinman
+  role: Co-Founder & CTO
+  background: Led development of Fiverr's machine learning platform and data infrastructure
+  origin: Israeli
 last_updated: 2026-03-21
 confidence: medium
 twitter: '@traceloopdev'
 total_raised_m: 6.1
+linkedin: https://www.linkedin.com/company/traceloop/
 ---
 
 # Traceloop

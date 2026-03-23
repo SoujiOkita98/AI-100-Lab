@@ -24,16 +24,19 @@ crunchbase: https://www.crunchbase.com/organization/furtherai
 crunchbase_verified: true
 total_raised_m: 30
 funding_rounds:
-  - stage: "Seed"
-    date: "2024"
-    amount_m: 5
-    lead_investors: ["Y Combinator"]
-    source: "https://www.ycombinator.com/companies/furtherai"
-  - stage: "Series A"
-    date: "2025"
-    amount_m: 25
-    lead_investors: ["Andreessen Horowitz"]
-    source: "https://www.furtherai.com/blog/%20furtherai-announces-25m-series-a-from-andreessen-horowitz-to-transform-insurance-workflows-with-ai-automating-busywork"
+- stage: Seed
+  date: '2024'
+  amount_m: 5
+  lead_investors:
+  - Y Combinator
+  source: https://www.ycombinator.com/companies/furtherai
+- stage: Series A
+  date: '2025'
+  amount_m: 25
+  lead_investors:
+  - Andreessen Horowitz
+  source: https://www.furtherai.com/blog/%20furtherai-announces-25m-series-a-from-andreessen-horowitz-to-transform-insurance-workflows-with-ai-automating-busywork
+linkedin: https://www.linkedin.com/company/furtherai/
 ---
 
 # FurtherAI -- Company Profile

@@ -13,13 +13,14 @@ funding_rounds:
   lead_investors:
   - Battery Ventures
 founders:
-  - name: "Amanda Kahlow"
-    role: "Founder & CEO"
-    background: "3x entrepreneur. Founder & former CEO of 6sense (unicorn valued over $1B). Started first company at 21."
-    origin: "American (inferred from name and public bio)"
+- name: Amanda Kahlow
+  role: Founder & CEO
+  background: 3x entrepreneur. Founder & former CEO of 6sense (unicorn valued over $1B). Started first company at 21.
+  origin: American (inferred from name and public bio)
 last_updated: 2026-03-21
 confidence: medium
 total_raised_m: 40.0
+linkedin: https://www.linkedin.com/company/1mind/
 ---
 
 # 1mind

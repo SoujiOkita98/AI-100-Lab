@@ -25,6 +25,7 @@ headquarters: South San Francisco, CA
 crunchbase: https://www.crunchbase.com/organization/atomic-ai
 crunchbase_verified: true
 total_raised_m: 42.0
+linkedin: https://www.linkedin.com/company/atomic-ai/
 ---
 
 # Atomic AI

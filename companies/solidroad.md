@@ -15,14 +15,14 @@ funding_rounds:
 last_updated: 2026-03-21
 confidence: medium
 founders:
-  - name: "Mark Hughes"
-    role: "CEO & Co-Founder"
-    background: "Founded Gradguide. Former EMEA Sales/Support lead at Chargify. Early sales rep at Intercom."
-    origin: "Irish"
-  - name: "Patrick Finlay"
-    role: "CTO & Co-Founder"
-    background: "Co-founded Monaru (YC-backed). Former product engineer at Intercom."
-    origin: "Irish"
+- name: Mark Hughes
+  role: CEO & Co-Founder
+  background: Founded Gradguide. Former EMEA Sales/Support lead at Chargify. Early sales rep at Intercom.
+  origin: Irish
+- name: Patrick Finlay
+  role: CTO & Co-Founder
+  background: Co-founded Monaru (YC-backed). Former product engineer at Intercom.
+  origin: Irish
 data_notes: 'Needs verification: website, source_urls, headquarters. Profile may be incomplete.'
 website: https://www.solidroad.com
 website_verified: true
@@ -31,6 +31,7 @@ founded: 2023
 crunchbase: https://www.crunchbase.com/organization/solidroad
 crunchbase_verified: true
 total_raised_m: 8.2
+linkedin: https://www.linkedin.com/company/solidroad/
 ---
 
 # Solidroad

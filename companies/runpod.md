@@ -19,14 +19,15 @@ confidence: medium
 twitter: '@runpod_io'
 total_raised_m: 20.0
 founders:
-  - name: "Zhen Lu"
-    role: "Co-Founder & CEO"
-    background: ""
-    origin: "Chinese-American"
-  - name: "Pardeep Singh"
-    role: "Co-Founder & CTO"
-    background: ""
-    origin: "Indian-American"
+- name: Zhen Lu
+  role: Co-Founder & CEO
+  background: ''
+  origin: Chinese-American
+- name: Pardeep Singh
+  role: Co-Founder & CTO
+  background: ''
+  origin: Indian-American
+linkedin: https://www.linkedin.com/company/runpod/
 ---
 
 # RunPod

@@ -56,6 +56,7 @@ website_verified: true
 crunchbase: https://www.crunchbase.com/organization/ami-labs
 crunchbase_verified: true
 headquarters: Paris, France
+linkedin: https://www.linkedin.com/company/ami-labs-advanced-machine-intelligence/
 ---
 
 # AMI Labs (Advanced Machine Intelligence)

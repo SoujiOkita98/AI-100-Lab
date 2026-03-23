@@ -28,6 +28,7 @@ data_notes: 'Website URL may be invalid (Connection failed). '
 crunchbase: https://www.crunchbase.com/organization/ineffable-intelligence
 crunchbase_verified: true
 total_raised_m: 1000.0
+linkedin: https://www.linkedin.com/company/ineffable-intelligence/
 ---
 
 # Ineffable Intelligence

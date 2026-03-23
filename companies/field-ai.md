@@ -57,6 +57,7 @@ website_verified: true
 crunchbase: https://www.crunchbase.com/organization/field-ai
 crunchbase_verified: true
 headquarters: Irvine, California, USA
+linkedin: https://www.linkedin.com/company/fieldai/
 ---
 
 # FieldAI

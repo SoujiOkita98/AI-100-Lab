@@ -16,18 +16,19 @@ funding_rounds:
   date: 2025-07
   amount_m: 131
 founders:
-  - name: "Dan Wright"
-    role: "Co-Founder & CEO"
-    background: "Former CEO of DataRobot. Former COO of AppDynamics (through $3.7B Cisco acquisition)."
-    origin: "American (inferred from name)"
-  - name: "Jon Runyan"
-    role: "Co-Founder & COO"
-    background: ""
-    origin: "American (inferred from name)"
+- name: Dan Wright
+  role: Co-Founder & CEO
+  background: Former CEO of DataRobot. Former COO of AppDynamics (through $3.7B Cisco acquisition).
+  origin: American (inferred from name)
+- name: Jon Runyan
+  role: Co-Founder & COO
+  background: ''
+  origin: American (inferred from name)
 last_updated: 2026-03-21
 confidence: medium
 twitter: '@armada_ai'
 total_raised_m: 171.0
+linkedin: https://www.linkedin.com/company/armada/
 ---
 
 # Armada

@@ -8,7 +8,8 @@ sector:
 - AI chips
 - photonics
 - AI inference hardware
-one_liner: UK-based startup building photonic AI inference chips (Optical Tensor Processing Units) that integrate SRAM and photonics to outperform HBM-based designs.
+one_liner: UK-based startup building photonic AI inference chips (Optical Tensor Processing Units) that integrate SRAM and
+  photonics to outperform HBM-based designs.
 logo: null
 total_raised_m: 250
 latest_valuation_m: 1000
@@ -20,14 +21,17 @@ funding_rounds:
   lead_investors:
   - Hummingbird Ventures
   source: https://techfundingnews.com/olix-220m-unicorn-photonic-ai-chips-inference/
-  notes: Previously raised $30M from Plural, Vertex Ventures, LocalGlobe, and Entrepreneurs First. Originally founded as Flux Computing in March 2024, rebranded to Olix Computing in January 2026. Plans to deliver first products by 2027.
+  notes: Previously raised $30M from Plural, Vertex Ventures, LocalGlobe, and Entrepreneurs First. Originally founded as Flux
+    Computing in March 2024, rebranded to Olix Computing in January 2026. Plans to deliver first products by 2027.
 founders:
 - name: James Dacombe
   role: CEO
-  background: 25-year-old founder who also leads CoMind, a brain-monitoring startup he started as a teenager that has raised $100M. Founded Flux Corp Ltd in March 2024.
+  background: 25-year-old founder who also leads CoMind, a brain-monitoring startup he started as a teenager that has raised
+    $100M. Founded Flux Corp Ltd in March 2024.
   origin: British.
 confidence: high
 last_updated: 2026-03-23
+linkedin: https://www.linkedin.com/company/olix-computing/
 ---
 
 # Olix Computing

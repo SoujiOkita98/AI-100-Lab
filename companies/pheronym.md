@@ -22,14 +22,15 @@ crunchbase: https://www.crunchbase.com/organization/pheronym
 crunchbase_verified: true
 total_raised_m: 3.5
 founders:
-  - name: "Fatma Kaplan"
-    role: "Co-Founder & CEO"
-    background: "PhD in Plant Molecular and Cellular Biology; discovered first sex pheromone of C. elegans (Nature 2008)"
-    origin: "Turkish-American"
-  - name: "Karl Cameron Schiller"
-    role: "Co-Founder & COO"
-    background: "BA in Economics; MSc in Pharmaceutical Economics"
-    origin: "American"
+- name: Fatma Kaplan
+  role: Co-Founder & CEO
+  background: PhD in Plant Molecular and Cellular Biology; discovered first sex pheromone of C. elegans (Nature 2008)
+  origin: Turkish-American
+- name: Karl Cameron Schiller
+  role: Co-Founder & COO
+  background: BA in Economics; MSc in Pharmaceutical Economics
+  origin: American
+linkedin: https://www.linkedin.com/company/pheronym/
 ---
 
 # Pheronym

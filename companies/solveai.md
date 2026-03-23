@@ -8,7 +8,8 @@ sector:
 - enterprise AI
 - no-code development
 - AI software development
-one_liner: London-based startup enabling non-technical employees to build production-ready, IT-compliant enterprise software using AI, with built-in governance and security.
+one_liner: London-based startup enabling non-technical employees to build production-ready, IT-compliant enterprise software
+  using AI, with built-in governance and security.
 logo: null
 total_raised_m: 50
 latest_valuation_m: null
@@ -20,7 +21,8 @@ funding_rounds:
   lead_investors:
   - GV (Google Ventures)
   source: https://techfundingnews.com/solveai-emerges-stealth-50m-gv-ai-enterprise-software/
-  notes: Emerged from stealth in February 2026. Northzone, Mantis VC, and NeverLift also participated, alongside angel backers from Palantir, Google DeepMind, and OpenAI.
+  notes: Emerged from stealth in February 2026. Northzone, Mantis VC, and NeverLift also participated, alongside angel backers
+    from Palantir, Google DeepMind, and OpenAI.
 - stage: Pre-Seed
   date: 2025-09
   amount_m: 5
@@ -32,10 +34,12 @@ funding_rounds:
 founders:
 - name: Steve Basher
   role: CEO & Founder
-  background: Spent eight years at Palantir working with complex enterprise software before founding SolveAI in July 2025. Built company to 12-person team (with hires from Palantir, ElevenLabs, Meta) before emerging from stealth.
+  background: Spent eight years at Palantir working with complex enterprise software before founding SolveAI in July 2025.
+    Built company to 12-person team (with hires from Palantir, ElevenLabs, Meta) before emerging from stealth.
   origin: British (inferred, London-based).
 confidence: high
 last_updated: 2026-03-23
+linkedin: https://www.linkedin.com/company/solveai/
 ---
 
 # SolveAI

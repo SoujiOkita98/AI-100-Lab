@@ -23,6 +23,7 @@ headquarters: New York, NY
 crunchbase: https://www.crunchbase.com/organization/soxton-ai
 crunchbase_verified: true
 total_raised_m: 2.5
+linkedin: https://www.linkedin.com/company/soxton-ai/
 ---
 
 # Soxton AI

@@ -54,6 +54,7 @@ website_verified: true
 crunchbase: https://www.crunchbase.com/organization/oxa
 crunchbase_verified: true
 headquarters: Oxford, United Kingdom
+linkedin: https://www.linkedin.com/company/oxa/
 ---
 
 # Oxa

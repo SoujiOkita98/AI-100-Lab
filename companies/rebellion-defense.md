@@ -42,6 +42,7 @@ one_liner: Rebellion Defense is a defense technology startup that builds AI-powe
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/rebellion-defense
 crunchbase_verified: true
+linkedin: https://www.linkedin.com/company/rebellion-defense/
 ---
 
 # Rebellion Defense

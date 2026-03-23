@@ -20,14 +20,15 @@ crunchbase: https://www.crunchbase.com/organization/peripheral-labs
 crunchbase_verified: true
 total_raised_m: 3.6
 founders:
-  - name: "Kelvin Cui"
-    role: "Co-Founder & CEO"
-    background: "University of Toronto; led formula-style and self-driving car racing teams"
-    origin: "Chinese-Canadian"
-  - name: "Mustafa Khan"
-    role: "Co-Founder"
-    background: "University of Toronto; led formula-style and self-driving car racing teams"
-    origin: "South Asian-Canadian"
+- name: Kelvin Cui
+  role: Co-Founder & CEO
+  background: University of Toronto; led formula-style and self-driving car racing teams
+  origin: Chinese-Canadian
+- name: Mustafa Khan
+  role: Co-Founder
+  background: University of Toronto; led formula-style and self-driving car racing teams
+  origin: South Asian-Canadian
+linkedin: https://www.linkedin.com/company/peripheral-labs/
 ---
 
 # Peripheral Labs

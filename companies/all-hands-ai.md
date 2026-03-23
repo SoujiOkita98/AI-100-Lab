@@ -24,18 +24,18 @@ notable_backers:
 - Jeff Hammerbacher (Cloudera Co-Founder, angel investor)
 - Soumith Chintala (PyTorch creator, angel investor)
 founders:
-  - name: "Robert Brennan"
-    role: "Co-Founder & CEO"
-    background: "Previously at Google (document summarization). Executive roles at multiple ML/infrastructure startups."
-    origin: "American (inferred from name)"
-  - name: "Graham Neubig"
-    role: "Co-Founder & Chief Scientist"
-    background: "Associate Professor at Carnegie Mellon University. Expert in NLP and language agents."
-    origin: "American (inferred from name and CMU affiliation)"
-  - name: "Xingyao Wang"
-    role: "Co-Founder & Chief AI Officer"
-    background: "PhD student at University of Illinois Urbana-Champaign. Research on interactive language agents."
-    origin: "Chinese (inferred from name)"
+- name: Robert Brennan
+  role: Co-Founder & CEO
+  background: Previously at Google (document summarization). Executive roles at multiple ML/infrastructure startups.
+  origin: American (inferred from name)
+- name: Graham Neubig
+  role: Co-Founder & Chief Scientist
+  background: Associate Professor at Carnegie Mellon University. Expert in NLP and language agents.
+  origin: American (inferred from name and CMU affiliation)
+- name: Xingyao Wang
+  role: Co-Founder & Chief AI Officer
+  background: PhD student at University of Illinois Urbana-Champaign. Research on interactive language agents.
+  origin: Chinese (inferred from name)
 last_updated: 2026-03-20
 confidence: high
 one_liner: All Hands AI is the company behind OpenHands (formerly OpenDevin), one of the most popular open-source AI coding
@@ -45,16 +45,19 @@ crunchbase: https://www.crunchbase.com/organization/all-hands-ai
 crunchbase_verified: true
 total_raised_m: 23.8
 funding_rounds:
-  - stage: "Seed"
-    date: "2024-09"
-    amount_m: 5
-    lead_investors: ["Menlo Ventures"]
-    source: "https://www.crunchbase.com/organization/all-hands-ai"
-  - stage: "Series A"
-    date: "2025-11"
-    amount_m: 18.8
-    lead_investors: ["Madrona"]
-    source: "https://www.crunchbase.com/organization/all-hands-ai"
+- stage: Seed
+  date: 2024-09
+  amount_m: 5
+  lead_investors:
+  - Menlo Ventures
+  source: https://www.crunchbase.com/organization/all-hands-ai
+- stage: Series A
+  date: 2025-11
+  amount_m: 18.8
+  lead_investors:
+  - Madrona
+  source: https://www.crunchbase.com/organization/all-hands-ai
+linkedin: https://www.linkedin.com/company/all-hands-ai/
 ---
 
 # All Hands AI (OpenHands)

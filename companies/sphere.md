@@ -25,16 +25,19 @@ crunchbase: https://www.crunchbase.com/organization/sphere
 crunchbase_verified: true
 total_raised_m: 24
 funding_rounds:
-  - stage: "Seed"
-    date: "2024"
-    amount_m: 3
-    lead_investors: ["Undisclosed"]
-    source: "https://www.crunchbase.com/organization/sphere"
-  - stage: "Series A"
-    date: "2025-11"
-    amount_m: 21
-    lead_investors: ["Andreessen Horowitz"]
-    source: "https://techcrunch.com/2025/11/18/a16z-leads-21m-series-a-into-tax-compliance-platform-sphere/"
+- stage: Seed
+  date: '2024'
+  amount_m: 3
+  lead_investors:
+  - Undisclosed
+  source: https://www.crunchbase.com/organization/sphere
+- stage: Series A
+  date: 2025-11
+  amount_m: 21
+  lead_investors:
+  - Andreessen Horowitz
+  source: https://techcrunch.com/2025/11/18/a16z-leads-21m-series-a-into-tax-compliance-platform-sphere/
+linkedin: https://www.linkedin.com/company/sphere/
 ---
 
 # Sphere -- Company Profile

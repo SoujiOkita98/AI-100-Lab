@@ -57,6 +57,7 @@ one_liner: Netradyne is a private technology company specializing in artificial 
   safety and management
 crunchbase: https://www.crunchbase.com/organization/netradyne
 crunchbase_verified: true
+linkedin: https://www.linkedin.com/company/netradyne/
 ---
 
 # Netradyne -- AI-Powered Fleet Safety & Driver Intelligence

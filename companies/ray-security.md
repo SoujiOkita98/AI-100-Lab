@@ -17,18 +17,19 @@ last_updated: 2026-03-21
 confidence: medium
 total_raised_m: 11.0
 founders:
-  - name: "Ariel Zamir"
-    role: "Co-Founder & CEO"
-    background: "Israeli cybersecurity veteran; experience at NetApp, Check Point, Guardicore, Axonius"
-    origin: "Israeli"
-  - name: "Eric Wolf"
-    role: "Co-Founder & CBO"
-    background: "Enterprise security background"
-    origin: "Israeli"
-  - name: "Dekel Levkovich"
-    role: "Co-Founder & CTO"
-    background: "Enterprise security background"
-    origin: "Israeli"
+- name: Ariel Zamir
+  role: Co-Founder & CEO
+  background: Israeli cybersecurity veteran; experience at NetApp, Check Point, Guardicore, Axonius
+  origin: Israeli
+- name: Eric Wolf
+  role: Co-Founder & CBO
+  background: Enterprise security background
+  origin: Israeli
+- name: Dekel Levkovich
+  role: Co-Founder & CTO
+  background: Enterprise security background
+  origin: Israeli
+linkedin: https://www.linkedin.com/company/ray-security/
 ---
 
 # Ray Security

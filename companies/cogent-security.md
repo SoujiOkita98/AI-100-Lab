@@ -16,18 +16,18 @@ funding_rounds:
   lead_investors:
   - Bain Capital Ventures
 founders:
-  - name: "Vineet Edupuganti"
-    role: "CEO"
-    background: "Former GM at Abnormal Security (early employee); ML and product management background"
-    origin: "Indian"
-  - name: "Geng Sng"
-    role: "CTO"
-    background: "Former head of Product Engineering at Abnormal Security and Royal; ML and distributed systems expert"
-    origin: "Southeast Asian"
-  - name: "Thanos Baskous"
-    role: "VP Engineering"
-    background: "Former engineering leader at Abnormal Security"
-    origin: "Greek"
+- name: Vineet Edupuganti
+  role: CEO
+  background: Former GM at Abnormal Security (early employee); ML and product management background
+  origin: Indian
+- name: Geng Sng
+  role: CTO
+  background: Former head of Product Engineering at Abnormal Security and Royal; ML and distributed systems expert
+  origin: Southeast Asian
+- name: Thanos Baskous
+  role: VP Engineering
+  background: Former engineering leader at Abnormal Security
+  origin: Greek
 last_updated: 2026-03-21
 confidence: medium
 website: https://cogent.com
@@ -37,6 +37,7 @@ website_verified: true
 crunchbase: https://www.crunchbase.com/organization/cogent-security
 crunchbase_verified: true
 total_raised_m: 53.0
+linkedin: https://www.linkedin.com/company/cogent-security/
 ---
 
 # Cogent Security

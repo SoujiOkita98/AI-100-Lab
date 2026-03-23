@@ -28,6 +28,7 @@ website_verified: true
 crunchbase: https://www.crunchbase.com/organization/axiamatic
 crunchbase_verified: true
 total_raised_m: 54.0
+linkedin: https://www.linkedin.com/company/axiamatic/
 ---
 
 # Axiamatic

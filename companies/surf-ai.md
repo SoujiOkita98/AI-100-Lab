@@ -8,7 +8,8 @@ sector:
 - cybersecurity
 - agentic AI
 - security operations
-one_liner: Israeli agentic cybersecurity platform that aggregates signals across identity, cloud, security, and IT tools to create a living context graph for AI-driven threat prioritization and remediation.
+one_liner: Israeli agentic cybersecurity platform that aggregates signals across identity, cloud, security, and IT tools to
+  create a living context graph for AI-driven threat prioritization and remediation.
 logo: null
 total_raised_m: 57
 latest_valuation_m: null
@@ -20,11 +21,13 @@ funding_rounds:
   lead_investors:
   - Accel
   source: https://siliconangle.com/2026/03/17/surf-ai-launches-agentic-security-operations-platform-57m-funding-round/
-  notes: Emerged from stealth on March 17, 2026. Cyberstarts and Boldstart Ventures also participated. Already working with Fortune 500 companies. 66 employees, primarily in Israel with US operations.
+  notes: Emerged from stealth on March 17, 2026. Cyberstarts and Boldstart Ventures also participated. Already working with
+    Fortune 500 companies. 66 employees, primarily in Israel with US operations.
 founders:
 - name: Yair Grindlinger
   role: CEO & Co-founder
-  background: Co-founded FireLayers (acquired by Proofpoint), later held senior management positions at Proofpoint. Veteran Israeli cybersecurity entrepreneur.
+  background: Co-founded FireLayers (acquired by Proofpoint), later held senior management positions at Proofpoint. Veteran
+    Israeli cybersecurity entrepreneur.
   origin: Israeli.
 - name: Elad Horn
   role: Co-founder
@@ -44,6 +47,7 @@ founders:
   origin: American (inferred).
 confidence: high
 last_updated: 2026-03-23
+linkedin: https://www.linkedin.com/company/surf-ai/
 ---
 
 # Surf AI

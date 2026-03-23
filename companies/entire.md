@@ -10,10 +10,10 @@ funding_rounds:
   lead_investors:
   - Felicis
 founders:
-  - name: "Thomas Dohmke"
-    role: "Founder & CEO"
-    background: "Former CEO of GitHub (Microsoft). Stepped down August 2025 to start Entire."
-    origin: "German"
+- name: Thomas Dohmke
+  role: Founder & CEO
+  background: Former CEO of GitHub (Microsoft). Stepped down August 2025 to start Entire.
+  origin: German
 last_updated: 2026-03-21
 confidence: medium
 data_notes: 'Needs verification: website, founders, source_urls, headquarters. Profile may be incomplete.'
@@ -24,6 +24,7 @@ founded: 2025
 crunchbase: https://www.crunchbase.com/organization/entire
 crunchbase_verified: true
 total_raised_m: 60.0
+linkedin: https://www.linkedin.com/company/entire/
 ---
 
 # Entire

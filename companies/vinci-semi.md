@@ -30,6 +30,7 @@ headquarters: Palo Alto, CA
 crunchbase: https://www.crunchbase.com/organization/vinci-semi
 crunchbase_verified: true
 total_raised_m: 46.0
+linkedin: https://www.linkedin.com/company/vinci-semiconductor/
 ---
 
 # Vinci (Semiconductor)

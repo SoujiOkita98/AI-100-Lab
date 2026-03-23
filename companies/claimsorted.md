@@ -28,6 +28,7 @@ founders:
   role: CTO
   background: Co-founded Fluffy. Former engineering at Deutsche Bank (built core systems used by Apple Pay).
   origin: Eastern European
+linkedin: https://www.linkedin.com/company/claimsorted/
 ---
 
 # ClaimSorted

@@ -20,14 +20,15 @@ crunchbase: https://www.crunchbase.com/organization/quiverai
 crunchbase_verified: true
 total_raised_m: 8.3
 founders:
-  - name: "James Kardatzke"
-    role: "Co-Founder & CEO"
-    background: "Alternative data platform for retail investors"
-    origin: "American"
-  - name: "Christopher Kardatzke"
-    role: "Co-Founder"
-    background: "Primary coder; twin brother of James"
-    origin: "American"
+- name: James Kardatzke
+  role: Co-Founder & CEO
+  background: Alternative data platform for retail investors
+  origin: American
+- name: Christopher Kardatzke
+  role: Co-Founder
+  background: Primary coder; twin brother of James
+  origin: American
+linkedin: https://www.linkedin.com/company/quiverai/
 ---
 
 # QuiverAI

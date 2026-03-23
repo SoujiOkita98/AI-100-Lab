@@ -28,21 +28,25 @@ crunchbase: https://www.crunchbase.com/organization/numeric
 crunchbase_verified: true
 total_raised_m: 89
 funding_rounds:
-  - stage: "Seed"
-    date: "2021"
-    amount_m: 4
-    lead_investors: ["Menlo Ventures"]
-    source: "https://www.crunchbase.com/organization/numeric"
-  - stage: "Series A"
-    date: "2023"
-    amount_m: 15
-    lead_investors: ["IVP"]
-    source: "https://www.crunchbase.com/organization/numeric"
-  - stage: "Series B"
-    date: "2025"
-    amount_m: 70
-    lead_investors: ["Founders Fund"]
-    source: "https://www.crunchbase.com/organization/numeric"
+- stage: Seed
+  date: '2021'
+  amount_m: 4
+  lead_investors:
+  - Menlo Ventures
+  source: https://www.crunchbase.com/organization/numeric
+- stage: Series A
+  date: '2023'
+  amount_m: 15
+  lead_investors:
+  - IVP
+  source: https://www.crunchbase.com/organization/numeric
+- stage: Series B
+  date: '2025'
+  amount_m: 70
+  lead_investors:
+  - Founders Fund
+  source: https://www.crunchbase.com/organization/numeric
+linkedin: https://www.linkedin.com/company/numeric/
 ---
 
 # Numeric -- Company Profile

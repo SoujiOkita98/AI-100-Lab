@@ -15,18 +15,19 @@ last_updated: 2026-03-21
 confidence: medium
 total_raised_m: 1.7
 founders:
-  - name: "Sean Walsh"
-    role: "Co-Founder & CEO"
-    background: ""
-    origin: ""
-  - name: "Regent Lee"
-    role: "Co-Founder"
-    background: ""
-    origin: ""
-  - name: "Sina Shahandeh"
-    role: "Co-Founder & CTO"
-    background: "3x founder; PhD in computational physics"
-    origin: "Iranian"
+- name: Sean Walsh
+  role: Co-Founder & CEO
+  background: ''
+  origin: ''
+- name: Regent Lee
+  role: Co-Founder
+  background: ''
+  origin: ''
+- name: Sina Shahandeh
+  role: Co-Founder & CTO
+  background: 3x founder; PhD in computational physics
+  origin: Iranian
+linkedin: https://www.linkedin.com/company/radicait/
 ---
 
 # RADiCAIT

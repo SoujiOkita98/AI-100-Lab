@@ -17,15 +17,16 @@ latest_valuation: 1150
 last_updated: 2026-03-21
 confidence: medium
 founders:
-  - name: "Tony Zhao"
-    role: "CEO & Co-Founder"
-    background: "Stanford PhD roboticist."
-    origin: "Chinese-American"
-  - name: "Cheng Chi"
-    role: "CTO & Co-Founder"
-    background: "Stanford PhD roboticist."
-    origin: "Chinese-American"
+- name: Tony Zhao
+  role: CEO & Co-Founder
+  background: Stanford PhD roboticist.
+  origin: Chinese-American
+- name: Cheng Chi
+  role: CTO & Co-Founder
+  background: Stanford PhD roboticist.
+  origin: Chinese-American
 total_raised_m: 165.0
+linkedin: https://www.linkedin.com/company/sunday-household-robot/
 ---
 
 # Sunday (Household Robot)

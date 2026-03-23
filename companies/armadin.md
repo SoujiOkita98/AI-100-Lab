@@ -13,22 +13,22 @@ funding_rounds:
   - Kleiner Perkins
   - In-Q-Tel
 founders:
-  - name: "Kevin Mandia"
-    role: "Founder & CEO"
-    background: "Founded Mandiant in 2004 (sold to Google for $5.4B in 2022). Iconic cybersecurity figure."
-    origin: "American (inferred from name)"
-  - name: "Travis Lanham"
-    role: "Co-Founder"
-    background: "Former Google Cloud Security principal engineer."
-    origin: "American (inferred from name)"
-  - name: "Evan Peña"
-    role: "Co-Founder"
-    background: "Former Mandiant executive."
-    origin: "American/Hispanic (inferred from name)"
-  - name: "David Slater"
-    role: "Co-Founder"
-    background: "Former Google SecOps engineer."
-    origin: "American (inferred from name)"
+- name: Kevin Mandia
+  role: Founder & CEO
+  background: Founded Mandiant in 2004 (sold to Google for $5.4B in 2022). Iconic cybersecurity figure.
+  origin: American (inferred from name)
+- name: Travis Lanham
+  role: Co-Founder
+  background: Former Google Cloud Security principal engineer.
+  origin: American (inferred from name)
+- name: Evan Peña
+  role: Co-Founder
+  background: Former Mandiant executive.
+  origin: American/Hispanic (inferred from name)
+- name: David Slater
+  role: Co-Founder
+  background: Former Google SecOps engineer.
+  origin: American (inferred from name)
 last_updated: 2026-03-21
 confidence: medium
 data_notes: 'Needs verification: website, founders, source_urls, headquarters. Profile may be incomplete.'
@@ -39,6 +39,7 @@ founded: 2025
 crunchbase: https://www.crunchbase.com/organization/armadin
 crunchbase_verified: true
 total_raised_m: 190.0
+linkedin: https://www.linkedin.com/company/armadin/
 ---
 
 # Armadin

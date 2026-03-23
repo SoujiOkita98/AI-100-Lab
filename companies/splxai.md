@@ -12,14 +12,14 @@ funding_rounds:
 last_updated: 2026-03-21
 confidence: medium
 founders:
-  - name: "Kristian Kamber"
-    role: "CEO & Co-Founder"
-    background: "Decade-long career in cybersecurity, SaaS, consulting, and regional sales management."
-    origin: "Croatian"
-  - name: "Ante Gojsalic"
-    role: "CTO & Co-Founder"
-    background: "Technical founder. Engineering team based in Croatia."
-    origin: "Croatian"
+- name: Kristian Kamber
+  role: CEO & Co-Founder
+  background: Decade-long career in cybersecurity, SaaS, consulting, and regional sales management.
+  origin: Croatian
+- name: Ante Gojsalic
+  role: CTO & Co-Founder
+  background: Technical founder. Engineering team based in Croatia.
+  origin: Croatian
 data_notes: 'Acquired by Zscaler in Nov 2025. Needs verification: website, source_urls, headquarters.'
 website: https://splx.ai
 website_verified: true
@@ -28,6 +28,7 @@ founded: 2023
 crunchbase: https://www.crunchbase.com/organization/splxai
 crunchbase_verified: true
 total_raised_m: 7.0
+linkedin: https://www.linkedin.com/company/splxai/
 ---
 
 # SplxAI

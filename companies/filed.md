@@ -13,14 +13,14 @@ funding_rounds:
   - Northzone
   - Day One Ventures
 founders:
-  - name: "Leroy Kerry"
-    role: "Co-Founder & CEO"
-    background: "Previous startup experience from Swedish fintech Juni."
-    origin: "British"
-  - name: "Atul Ramachandran"
-    role: "Co-Founder & CTO"
-    background: "Former engineering leader at PayPal."
-    origin: "Indian"
+- name: Leroy Kerry
+  role: Co-Founder & CEO
+  background: Previous startup experience from Swedish fintech Juni.
+  origin: British
+- name: Atul Ramachandran
+  role: Co-Founder & CTO
+  background: Former engineering leader at PayPal.
+  origin: Indian
 last_updated: 2026-03-21
 confidence: medium
 data_notes: 'Needs verification: website, founders, source_urls. Profile may be incomplete.'
@@ -29,6 +29,7 @@ website_verified: true
 crunchbase: https://www.crunchbase.com/organization/filed
 crunchbase_verified: true
 total_raised_m: 17.2
+linkedin: https://www.linkedin.com/company/filed/
 ---
 
 # Filed

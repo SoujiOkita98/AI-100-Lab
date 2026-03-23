@@ -60,6 +60,7 @@ one_liner: Tonic.ai is a synthetic data platform that generates realistic, de-id
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/tonic-ai
 crunchbase_verified: true
+linkedin: https://www.linkedin.com/company/tonicai/
 ---
 
 # Tonic.ai

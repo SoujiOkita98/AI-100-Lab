@@ -22,14 +22,15 @@ crunchbase: https://www.crunchbase.com/organization/motif-systems
 crunchbase_verified: true
 total_raised_m: 46.0
 founders:
-  - name: "Amar Hanspal"
-    role: "Co-Founder & CEO"
-    background: "Former Co-CEO and CPO of Autodesk; founder and CEO of Bright Machines"
-    origin: "Indian"
-  - name: "Brian Matthews"
-    role: "Co-Founder & CTO"
-    background: "Former VP of Platform Engineering at Autodesk; founder and CTO of Bright Machines"
-    origin: "American"
+- name: Amar Hanspal
+  role: Co-Founder & CEO
+  background: Former Co-CEO and CPO of Autodesk; founder and CEO of Bright Machines
+  origin: Indian
+- name: Brian Matthews
+  role: Co-Founder & CTO
+  background: Former VP of Platform Engineering at Autodesk; founder and CTO of Bright Machines
+  origin: American
+linkedin: https://www.linkedin.com/company/motif-systems/
 ---
 
 # Motif Systems

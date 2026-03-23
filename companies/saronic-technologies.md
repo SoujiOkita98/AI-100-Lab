@@ -82,6 +82,7 @@ crunchbase: https://www.crunchbase.com/organization/saronic-technologies
 crunchbase_verified: true
 twitter: '@Saronic'
 headquarters: Austin, Texas
+linkedin: https://www.linkedin.com/company/saronic-technologies/
 ---
 
 # Saronic Technologies

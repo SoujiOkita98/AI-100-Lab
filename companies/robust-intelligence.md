@@ -39,27 +39,30 @@ profile_updated: 2026-03-20
 one_liner: Robust Intelligence was an AI security and validation platform founded in 2019 as a spinout of Harvard University
 website: https://www.robustintelligence.com
 website_verified: false
-data_notes: 'Website URL may be invalid (Connection failed). '
+data_notes: Acquired by Cisco in October 2024 for ~$400M.
 crunchbase: https://www.crunchbase.com/organization/robust-intelligence
 crunchbase_verified: true
 total_raised_m: 44
 funding_rounds:
-  - stage: "Seed"
-    date: "2019"
-    amount_m: 3
-    lead_investors: ["Sequoia Capital"]
-    source: "https://www.crunchbase.com/organization/robust-intelligence"
-  - stage: "Series A"
-    date: "2020-02"
-    amount_m: 11
-    lead_investors: ["Sequoia Capital"]
-    source: "https://www.crunchbase.com/organization/robust-intelligence"
-  - stage: "Series B"
-    date: "2021-12"
-    amount_m: 30
-    lead_investors: ["Tiger Global Management"]
-    source: "https://www.crunchbase.com/organization/robust-intelligence"
-data_notes: "Acquired by Cisco in October 2024 for ~$400M."
+- stage: Seed
+  date: '2019'
+  amount_m: 3
+  lead_investors:
+  - Sequoia Capital
+  source: https://www.crunchbase.com/organization/robust-intelligence
+- stage: Series A
+  date: 2020-02
+  amount_m: 11
+  lead_investors:
+  - Sequoia Capital
+  source: https://www.crunchbase.com/organization/robust-intelligence
+- stage: Series B
+  date: 2021-12
+  amount_m: 30
+  lead_investors:
+  - Tiger Global Management
+  source: https://www.crunchbase.com/organization/robust-intelligence
+linkedin: https://www.linkedin.com/company/robust-intelligence/
 ---
 
 # Robust Intelligence

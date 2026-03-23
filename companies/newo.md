@@ -20,14 +20,15 @@ crunchbase: https://www.crunchbase.com/organization/newo
 crunchbase_verified: true
 total_raised_m: 32.0
 founders:
-  - name: "David Yang"
-    role: "Co-Founder & President"
-    background: "Serial entrepreneur; PhD; founded 12 companies including ABBYY, Morfeus.ai, Yva"
-    origin: "Russian-Armenian"
-  - name: "Luba Ovtsinnikova"
-    role: "Co-Founder & CEO"
-    background: "15+ years in managerial roles; international sales across Europe and US"
-    origin: "Russian"
+- name: David Yang
+  role: Co-Founder & President
+  background: Serial entrepreneur; PhD; founded 12 companies including ABBYY, Morfeus.ai, Yva
+  origin: Russian-Armenian
+- name: Luba Ovtsinnikova
+  role: Co-Founder & CEO
+  background: 15+ years in managerial roles; international sales across Europe and US
+  origin: Russian
+linkedin: https://www.linkedin.com/company/newo/
 ---
 
 # Newo

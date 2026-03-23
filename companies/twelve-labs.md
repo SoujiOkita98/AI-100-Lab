@@ -21,47 +21,54 @@ last_updated: 2026-03-20
 confidence: medium-high
 one_liner: Twelve Labs builds foundation models purpose-built for video understanding
 founders:
-  - name: "Jae Lee"
-    role: "Co-Founder & CEO"
-    background: "Born in Seoul; studied CS at UC Berkeley; founded Twelve Labs in 2021 during military service at Korean Cyber Command"
-    origin: "Korean"
-  - name: "Aiden Lee"
-    role: "Co-Founder"
-    background: "Recruited by Jae Lee; met at Korean Cyber Command"
-    origin: "Korean"
-  - name: "SJ Kim"
-    role: "Co-Founder"
-    background: "One of five co-founders recruited from Jae Lee's network"
-    origin: "Korean"
-  - name: "Dave Chung"
-    role: "Co-Founder"
-    background: "One of five co-founders recruited from Jae Lee's network"
-    origin: "Korean"
-  - name: "Soyoung Lee"
-    role: "Co-Founder"
-    background: "One of five co-founders recruited from Jae Lee's network"
-    origin: "Korean"
-data_notes: 'Needs verification: website, founders. Profile may be incomplete.'
+- name: Jae Lee
+  role: Co-Founder & CEO
+  background: Born in Seoul; studied CS at UC Berkeley; founded Twelve Labs in 2021 during military service at Korean Cyber
+    Command
+  origin: Korean
+- name: Aiden Lee
+  role: Co-Founder
+  background: Recruited by Jae Lee; met at Korean Cyber Command
+  origin: Korean
+- name: SJ Kim
+  role: Co-Founder
+  background: One of five co-founders recruited from Jae Lee's network
+  origin: Korean
+- name: Dave Chung
+  role: Co-Founder
+  background: One of five co-founders recruited from Jae Lee's network
+  origin: Korean
+- name: Soyoung Lee
+  role: Co-Founder
+  background: One of five co-founders recruited from Jae Lee's network
+  origin: Korean
+data_notes: Some sources report Series A and B as a single $103M round. SK Telecom invested $3M in Oct 2025.
 crunchbase: https://www.crunchbase.com/organization/twelve-labs
 crunchbase_verified: true
 total_raised_m: 107
 funding_rounds:
-  - stage: "Seed"
-    date: "2022"
-    amount_m: 12
-    lead_investors: ["Index Ventures", "Radical Ventures"]
-    source: "https://www.crunchbase.com/organization/twelve-labs"
-  - stage: "Series A"
-    date: "2024-06"
-    amount_m: 50
-    lead_investors: ["NEA", "NVIDIA NVentures"]
-    source: "https://www.crunchbase.com/organization/twelve-labs"
-  - stage: "Series B"
-    date: "2024-07"
-    amount_m: 42
-    lead_investors: ["NEA", "NVIDIA"]
-    source: "https://www.crunchbase.com/organization/twelve-labs"
-data_notes: "Some sources report Series A and B as a single $103M round. SK Telecom invested $3M in Oct 2025."
+- stage: Seed
+  date: '2022'
+  amount_m: 12
+  lead_investors:
+  - Index Ventures
+  - Radical Ventures
+  source: https://www.crunchbase.com/organization/twelve-labs
+- stage: Series A
+  date: 2024-06
+  amount_m: 50
+  lead_investors:
+  - NEA
+  - NVIDIA NVentures
+  source: https://www.crunchbase.com/organization/twelve-labs
+- stage: Series B
+  date: 2024-07
+  amount_m: 42
+  lead_investors:
+  - NEA
+  - NVIDIA
+  source: https://www.crunchbase.com/organization/twelve-labs
+linkedin: https://www.linkedin.com/company/twelve-labs/
 ---
 
 # Twelve Labs

@@ -30,6 +30,7 @@ headquarters: Sunnyvale, CA
 crunchbase: https://www.crunchbase.com/organization/straiker
 crunchbase_verified: true
 total_raised_m: 21.0
+linkedin: https://www.linkedin.com/company/straiker/
 ---
 
 # Straiker

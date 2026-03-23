@@ -24,6 +24,7 @@ website_verified: true
 headquarters: Houston, TX
 crunchbase: https://www.crunchbase.com/organization/biostate-ai
 crunchbase_verified: true
+linkedin: https://www.linkedin.com/company/biostate-ai/
 ---
 
 # Biostate AI

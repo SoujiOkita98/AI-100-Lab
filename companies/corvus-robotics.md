@@ -58,6 +58,7 @@ website_verified: true
 crunchbase: https://www.crunchbase.com/organization/corvus-robotics
 crunchbase_verified: true
 headquarters: Mountain View, California, USA
+linkedin: https://www.linkedin.com/company/corvus-robotics/
 ---
 
 # Corvus Robotics

@@ -44,21 +44,25 @@ crunchbase: https://www.crunchbase.com/organization/galileo-ai
 crunchbase_verified: true
 total_raised_m: 68
 funding_rounds:
-  - stage: "Seed"
-    date: "2022-05"
-    amount_m: 5.1
-    lead_investors: ["The Factory"]
-    source: "https://www.crunchbase.com/organization/galileo-ai"
-  - stage: "Series A"
-    date: "2023"
-    amount_m: 18
-    lead_investors: ["Battery Ventures"]
-    source: "https://www.crunchbase.com/organization/galileo-ai"
-  - stage: "Series B"
-    date: "2024-10"
-    amount_m: 45
-    lead_investors: ["Scale Venture Partners"]
-    source: "https://www.crunchbase.com/organization/galileo-ai"
+- stage: Seed
+  date: 2022-05
+  amount_m: 5.1
+  lead_investors:
+  - The Factory
+  source: https://www.crunchbase.com/organization/galileo-ai
+- stage: Series A
+  date: '2023'
+  amount_m: 18
+  lead_investors:
+  - Battery Ventures
+  source: https://www.crunchbase.com/organization/galileo-ai
+- stage: Series B
+  date: 2024-10
+  amount_m: 45
+  lead_investors:
+  - Scale Venture Partners
+  source: https://www.crunchbase.com/organization/galileo-ai
+linkedin: https://www.linkedin.com/company/galileo-ai/
 ---
 
 # Galileo

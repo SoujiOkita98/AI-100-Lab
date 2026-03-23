@@ -20,17 +20,19 @@ funding_rounds:
   - GV
   - NEA
 founders:
-  - name: "Jack O'Hara"
-    role: "Founder & CEO"
-    background: "Former CIO at two multi-billion medical groups (ChenMed and Springfield); led teams of 300 across product, engineering, and AI"
-    origin: "American"
-  - name: "Max Jones"
-    role: "Co-Founder & COO"
-    background: "Former consultant at Deloitte and healthcare investor at Redesign Health"
-    origin: "American"
+- name: Jack O'Hara
+  role: Founder & CEO
+  background: Former CIO at two multi-billion medical groups (ChenMed and Springfield); led teams of 300 across product, engineering,
+    and AI
+  origin: American
+- name: Max Jones
+  role: Co-Founder & COO
+  background: Former consultant at Deloitte and healthcare investor at Redesign Health
+  origin: American
 last_updated: 2026-03-21
 confidence: medium
 total_raised_m: 34.0
+linkedin: https://www.linkedin.com/company/translucent/
 ---
 
 # Translucent

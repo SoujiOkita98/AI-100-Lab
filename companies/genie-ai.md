@@ -14,17 +14,18 @@ funding_rounds:
   - GV (Google Ventures)
   - Khosla Ventures
 founders:
-  - name: "Rafie Faruq"
-    role: "Co-Founder & CEO"
-    background: "Studied at UCL. Taught by leading researchers at Google DeepMind."
-    origin: "British-South Asian"
-  - name: "Nitish Mutha"
-    role: "Co-Founder & CTO"
-    background: "AI specialist at UCL. Taught by leading researchers at Google DeepMind."
-    origin: "Indian"
+- name: Rafie Faruq
+  role: Co-Founder & CEO
+  background: Studied at UCL. Taught by leading researchers at Google DeepMind.
+  origin: British-South Asian
+- name: Nitish Mutha
+  role: Co-Founder & CTO
+  background: AI specialist at UCL. Taught by leading researchers at Google DeepMind.
+  origin: Indian
 last_updated: 2026-03-21
 confidence: medium
 total_raised_m: 17.8
+linkedin: https://www.linkedin.com/company/genie-ai/
 ---
 
 # Genie AI

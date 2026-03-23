@@ -8,7 +8,8 @@ sector:
 - cybersecurity
 - AI agent security
 - enterprise AI
-one_liner: Israeli AI security startup building the secure control plane for the agentic AI era, protecting and managing AI agents operating inside enterprise environments.
+one_liner: Israeli AI security startup building the secure control plane for the agentic AI era, protecting and managing AI
+  agents operating inside enterprise environments.
 logo: null
 total_raised_m: 40
 latest_valuation_m: null
@@ -20,7 +21,8 @@ funding_rounds:
   lead_investors:
   - Conviction
   source: https://www.securityweek.com/onyx-security-launches-with-40-million-in-funding/
-  notes: Emerged from stealth on March 12, 2026. Also received a $5M seed round in 2024 from Cyberstarts. Over 70 employees across Israel, US, and Canada. Already used by several Fortune 500 companies.
+  notes: Emerged from stealth on March 12, 2026. Also received a $5M seed round in 2024 from Cyberstarts. Over 70 employees
+    across Israel, US, and Canada. Already used by several Fortune 500 companies.
 - stage: Seed
   date: 2024-06
   amount_m: 5
@@ -36,10 +38,12 @@ founders:
   origin: Israeli.
 - name: Gil Elbaz
   role: Co-founder
-  background: Veteran AI researcher, previously reporting to the CTO of Nvidia. Former member of one of the IDF's AI research units.
+  background: Veteran AI researcher, previously reporting to the CTO of Nvidia. Former member of one of the IDF's AI research
+    units.
   origin: Israeli.
 confidence: high
 last_updated: 2026-03-23
+linkedin: https://www.linkedin.com/company/onyx-security/
 ---
 
 # Onyx Security

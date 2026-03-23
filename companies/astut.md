@@ -15,13 +15,15 @@ funding_rounds:
   - East X Ventures
   - Sure Valley Ventures
 founders:
-  - name: "Pete Grindrod"
-    role: "Founder & CEO"
-    background: "Professor of mathematics at University of Oxford. Founding trustee of the Alan Turing Institute. CBE for services to mathematics (2005). Previously founded Numbercraft (acquired 2003)."
-    origin: "British (inferred from name and Oxford affiliation)"
+- name: Pete Grindrod
+  role: Founder & CEO
+  background: Professor of mathematics at University of Oxford. Founding trustee of the Alan Turing Institute. CBE for services
+    to mathematics (2005). Previously founded Numbercraft (acquired 2003).
+  origin: British (inferred from name and Oxford affiliation)
 last_updated: 2026-03-21
 confidence: medium
 total_raised_m: 2.0
+linkedin: https://www.linkedin.com/company/astut/
 ---
 
 # Astut

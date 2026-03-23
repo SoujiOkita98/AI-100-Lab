@@ -18,10 +18,11 @@ crunchbase: https://www.crunchbase.com/organization/promptpath-ai
 crunchbase_verified: true
 total_raised_m: 11.3
 founders:
-  - name: "Malcolm Thorne"
-    role: "Co-Founder & CEO"
-    background: "Background at ADP Dealer Services, CDK Global, DealerSocket"
-    origin: "American"
+- name: Malcolm Thorne
+  role: Co-Founder & CEO
+  background: Background at ADP Dealer Services, CDK Global, DealerSocket
+  origin: American
+linkedin: https://www.linkedin.com/company/promptpathai/
 ---
 
 # PromptPath.AI

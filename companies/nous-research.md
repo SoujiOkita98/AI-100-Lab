@@ -115,6 +115,7 @@ one_liner: Nous Research is an open-source AI research lab founded in 2022 by a 
 data_notes: 'Needs verification: website, headquarters. Profile may be incomplete.'
 crunchbase: https://www.crunchbase.com/organization/nous-research
 crunchbase_verified: true
+linkedin: https://www.linkedin.com/company/nous-research/
 ---
 
 # Nous Research

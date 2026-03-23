@@ -27,6 +27,7 @@ website_verified: true
 crunchbase: https://www.crunchbase.com/organization/tortus
 crunchbase_verified: true
 total_raised_m: 4.2
+linkedin: https://www.linkedin.com/company/tortus/
 ---
 
 # TORTUS

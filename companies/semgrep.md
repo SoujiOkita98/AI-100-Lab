@@ -52,18 +52,19 @@ website_verified: true
 crunchbase: https://www.crunchbase.com/organization/semgrep
 crunchbase_verified: true
 founders:
-  - name: "Isaac Evans"
-    role: "CEO & Co-Founder"
-    background: "MIT alumnus. Led development of the open-source Semgrep tool."
-    origin: "American"
-  - name: "Drew Dennison"
-    role: "CTO & Co-Founder"
-    background: "MIT alumnus. Technical lead for the Semgrep engine and platform."
-    origin: "American"
-  - name: "Luke O'Malley"
-    role: "CPO & Co-Founder"
-    background: "MIT alumnus. Leads product strategy and design."
-    origin: "American"
+- name: Isaac Evans
+  role: CEO & Co-Founder
+  background: MIT alumnus. Led development of the open-source Semgrep tool.
+  origin: American
+- name: Drew Dennison
+  role: CTO & Co-Founder
+  background: MIT alumnus. Technical lead for the Semgrep engine and platform.
+  origin: American
+- name: Luke O'Malley
+  role: CPO & Co-Founder
+  background: MIT alumnus. Leads product strategy and design.
+  origin: American
+linkedin: https://www.linkedin.com/company/semgrep/
 ---
 
 # Semgrep

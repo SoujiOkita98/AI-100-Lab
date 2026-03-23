@@ -56,6 +56,7 @@ one_liner: '> AI-powered healthcare document automation that processes 10 millio
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/tennr
 crunchbase_verified: true
+linkedin: https://www.linkedin.com/company/tennr/
 ---
 
 # Tennr

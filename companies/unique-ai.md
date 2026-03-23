@@ -14,21 +14,22 @@ funding_rounds:
   - DN Capital
   - CommerzVentures
 founders:
-  - name: "Manuel Grenacher"
-    role: "Co-Founder & CEO"
-    background: "Founded Unique in Zurich in 2021; leads the company's AI copilot platform for financial services"
-    origin: "Swiss"
-  - name: "Michelle Heppler"
-    role: "Co-Founder & CCO"
-    background: "Co-founded Unique in 2021"
-    origin: "Swiss"
-  - name: "Andreas Hauri"
-    role: "Co-Founder & CTO"
-    background: "Co-founded Unique in 2021"
-    origin: "Swiss"
+- name: Manuel Grenacher
+  role: Co-Founder & CEO
+  background: Founded Unique in Zurich in 2021; leads the company's AI copilot platform for financial services
+  origin: Swiss
+- name: Michelle Heppler
+  role: Co-Founder & CCO
+  background: Co-founded Unique in 2021
+  origin: Swiss
+- name: Andreas Hauri
+  role: Co-Founder & CTO
+  background: Co-founded Unique in 2021
+  origin: Swiss
 last_updated: 2026-03-21
 confidence: medium
 total_raised_m: 53.0
+linkedin: https://www.linkedin.com/company/unique/
 ---
 
 # Unique

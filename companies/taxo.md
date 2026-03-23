@@ -37,11 +37,15 @@ crunchbase: https://www.crunchbase.com/organization/taxo
 crunchbase_verified: true
 total_raised_m: 5
 funding_rounds:
-  - stage: "Seed"
-    date: "2025-03"
-    amount_m: 5
-    lead_investors: ["Y Combinator", "General Catalyst", "Character"]
-    source: "https://www.crunchbase.com/organization/taxo"
+- stage: Seed
+  date: 2025-03
+  amount_m: 5
+  lead_investors:
+  - Y Combinator
+  - General Catalyst
+  - Character
+  source: https://www.crunchbase.com/organization/taxo
+linkedin: https://www.linkedin.com/company/taxo/
 ---
 
 # Taxo

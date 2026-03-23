@@ -34,6 +34,7 @@ data_notes: 'Needs verification: website, source_urls. Profile may be incomplete
 crunchbase: https://www.crunchbase.com/organization/tars-ai
 crunchbase_verified: true
 total_raised_m: 242.0
+linkedin: https://www.linkedin.com/company/tars-tashi-zhihang/
 ---
 
 # TARS (Tashi Zhihang)

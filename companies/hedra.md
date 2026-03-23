@@ -25,6 +25,7 @@ founders:
   role: CTO
   background: Technical co-founder. AI research.
   origin: American
+linkedin: https://www.linkedin.com/company/hedra/
 ---
 
 # Hedra

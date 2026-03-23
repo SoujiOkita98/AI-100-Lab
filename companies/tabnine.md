@@ -25,31 +25,36 @@ crunchbase: https://www.crunchbase.com/organization/tabnine
 crunchbase_verified: true
 total_raised_m: 67
 funding_rounds:
-  - stage: "Earlier rounds"
-    date: "2013-2021"
-    amount_m: 30
-    lead_investors: ["Khosla Ventures", "OurCrowd"]
-    source: "https://www.crunchbase.com/organization/tabnine"
-  - stage: "Series B (Growth)"
-    date: "2022"
-    amount_m: 15.5
-    lead_investors: ["Qualcomm Ventures"]
-    source: "https://www.crunchbase.com/organization/tabnine"
-  - stage: "Series B"
-    date: "2023-11"
-    amount_m: 25
-    lead_investors: ["Telekom Innovation Pool"]
-    source: "https://www.crunchbase.com/organization/tabnine"
-data_notes: "Total funding ~$67-102M (sources vary). Discrepancy reflects different inclusion criteria."
+- stage: Earlier rounds
+  date: 2013-2021
+  amount_m: 30
+  lead_investors:
+  - Khosla Ventures
+  - OurCrowd
+  source: https://www.crunchbase.com/organization/tabnine
+- stage: Series B (Growth)
+  date: '2022'
+  amount_m: 15.5
+  lead_investors:
+  - Qualcomm Ventures
+  source: https://www.crunchbase.com/organization/tabnine
+- stage: Series B
+  date: 2023-11
+  amount_m: 25
+  lead_investors:
+  - Telekom Innovation Pool
+  source: https://www.crunchbase.com/organization/tabnine
+data_notes: Total funding ~$67-102M (sources vary). Discrepancy reflects different inclusion criteria.
 founders:
-  - name: "Dror Weiss"
-    role: "CEO & Co-Founder"
-    background: "Co-founded Codota (renamed Tabnine) in 2013."
-    origin: "Israeli"
-  - name: "Eran Yahav"
-    role: "CTO & Co-Founder"
-    background: "Co-founded Codota (renamed Tabnine) in 2013. Computer science researcher."
-    origin: "Israeli"
+- name: Dror Weiss
+  role: CEO & Co-Founder
+  background: Co-founded Codota (renamed Tabnine) in 2013.
+  origin: Israeli
+- name: Eran Yahav
+  role: CTO & Co-Founder
+  background: Co-founded Codota (renamed Tabnine) in 2013. Computer science researcher.
+  origin: Israeli
+linkedin: https://www.linkedin.com/company/tabnine/
 ---
 
 # Tabnine

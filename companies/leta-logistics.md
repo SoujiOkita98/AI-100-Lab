@@ -30,6 +30,7 @@ website_verified: true
 crunchbase: https://www.crunchbase.com/organization/leta-logistics
 crunchbase_verified: true
 total_raised_m: 5.0
+linkedin: https://www.linkedin.com/company/leta-logistics/
 ---
 
 # Leta (Logistics)

@@ -81,6 +81,7 @@ website_verified: true
 crunchbase: https://www.crunchbase.com/organization/monarch-tractor
 crunchbase_verified: true
 headquarters: Livermore, California, USA
+linkedin: https://www.linkedin.com/company/monarch-tractor/
 ---
 
 # Monarch Tractor

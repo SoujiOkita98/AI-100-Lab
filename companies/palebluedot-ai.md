@@ -18,14 +18,15 @@ crunchbase: https://www.crunchbase.com/organization/palebluedot-ai
 crunchbase_verified: true
 total_raised_m: 150.0
 founders:
-  - name: "Jonathan Zhu"
-    role: "Co-Founder"
-    background: ""
-    origin: "Chinese"
-  - name: "Shaodong Huang"
-    role: "Co-Founder"
-    background: ""
-    origin: "Chinese"
+- name: Jonathan Zhu
+  role: Co-Founder
+  background: ''
+  origin: Chinese
+- name: Shaodong Huang
+  role: Co-Founder
+  background: ''
+  origin: Chinese
+linkedin: https://www.linkedin.com/company/palebluedot-ai/
 ---
 
 # PaleBlueDot AI

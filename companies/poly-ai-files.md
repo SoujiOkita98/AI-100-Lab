@@ -23,18 +23,19 @@ crunchbase: https://www.crunchbase.com/organization/poly-ai-files
 crunchbase_verified: true
 total_raised_m: 8.0
 founders:
-  - name: "Nikola Mrksic"
-    role: "Co-Founder & CEO"
-    background: "Serbian; PhD in CS from Cambridge; worked at Apple Siri after VocalIQ acquisition"
-    origin: "Serbian"
-  - name: "Tsung-Hsien Wen"
-    role: "Co-Founder"
-    background: "PhD at Cambridge; worked at Google on deep learning for dialogue"
-    origin: "Taiwanese"
-  - name: "Pei-Hao Su"
-    role: "Co-Founder"
-    background: "PhD at Cambridge; worked at Facebook AI"
-    origin: "Taiwanese"
+- name: Nikola Mrksic
+  role: Co-Founder & CEO
+  background: Serbian; PhD in CS from Cambridge; worked at Apple Siri after VocalIQ acquisition
+  origin: Serbian
+- name: Tsung-Hsien Wen
+  role: Co-Founder
+  background: PhD at Cambridge; worked at Google on deep learning for dialogue
+  origin: Taiwanese
+- name: Pei-Hao Su
+  role: Co-Founder
+  background: PhD at Cambridge; worked at Facebook AI
+  origin: Taiwanese
+linkedin: https://www.linkedin.com/company/poly/
 ---
 
 # Poly

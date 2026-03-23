@@ -18,14 +18,15 @@ last_updated: 2026-03-21
 confidence: medium
 total_raised_m: 14.0
 founders:
-  - name: "Borja Sole"
-    role: "Co-Founder & CEO"
-    background: "Former CFO with firsthand experience in inefficient debt collection processes"
-    origin: "Spanish"
-  - name: "Marc Sanchez"
-    role: "Co-Founder & CTO"
-    background: "Technical founder with product vision background"
-    origin: "Spanish"
+- name: Borja Sole
+  role: Co-Founder & CEO
+  background: Former CFO with firsthand experience in inefficient debt collection processes
+  origin: Spanish
+- name: Marc Sanchez
+  role: Co-Founder & CTO
+  background: Technical founder with product vision background
+  origin: Spanish
+linkedin: https://www.linkedin.com/company/murphy/
 ---
 
 # Murphy

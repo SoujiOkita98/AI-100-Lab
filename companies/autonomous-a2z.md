@@ -8,7 +8,8 @@ sector:
 - autonomous vehicles
 - mobility
 - robotics
-one_liner: South Korea's leading autonomous driving startup with 400,000+ km of autonomous driving experience, operating Level-4 autonomous vehicles across Korea, Singapore, Japan, and the UAE.
+one_liner: South Korea's leading autonomous driving startup with 400,000+ km of autonomous driving experience, operating Level-4
+  autonomous vehicles across Korea, Singapore, Japan, and the UAE.
 logo: null
 total_raised_m: 83
 latest_valuation_m: null
@@ -20,7 +21,8 @@ funding_rounds:
   lead_investors:
   - DS Investment Partners
   source: https://www.koreaherald.com/article/10692899
-  notes: 40.5 billion won (~$28M). Total funding now 122.5 billion won (~$83M), the largest raised by a self-driving startup in Korea. KB Investment and Hana Securities also participated. Planning Kosdaq IPO in 2026.
+  notes: 40.5 billion won (~$28M). Total funding now 122.5 billion won (~$83M), the largest raised by a self-driving startup
+    in Korea. KB Investment and Hana Securities also participated. Planning Kosdaq IPO in 2026.
 founders:
 - name: Han Ji-hyeong
   role: CEO
@@ -28,6 +30,7 @@ founders:
   origin: Korean.
 confidence: high
 last_updated: 2026-03-23
+linkedin: https://www.linkedin.com/company/autonomous-a2z/
 ---
 
 # Autonomous A2Z

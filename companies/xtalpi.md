@@ -4,29 +4,33 @@ legal_name: XtalPi Inc.
 founded: 2014
 headquarters: Cambridge, MA (US operations) / Shenzhen, China (global HQ)
 website: https://en.xtalpi.com
-sector: ["AI drug discovery", "quantum physics", "computational chemistry"]
-one_liner: "AI-powered drug discovery platform combining quantum mechanics and machine learning to predict molecular properties."
-status: "Public (HKEX, listed December 2025)"
+sector:
+- AI drug discovery
+- quantum physics
+- computational chemistry
+one_liner: AI-powered drug discovery platform combining quantum mechanics and machine learning to predict molecular properties.
+status: Public (HKEX, listed December 2025)
 total_raised_m: 700
 ipo_details: Listed on HKEX Dec 30, 2025; raised HKD 2.277B; largest biotech IPO in Hong Kong in 2025
 employee_count: 500+ (estimate)
 founders:
-  - name: Jian Ma (Ma Jian)
-    role: Co-Founder & CEO
-    origin: Mainland Chinese (MIT postdoctoral researcher)
-  - name: Wen Shuhao
-    role: Co-Founder
-    origin: Mainland Chinese (MIT postdoctoral researcher)
-  - name: Lai Lipeng
-    role: Co-Founder
-    origin: Mainland Chinese (MIT postdoctoral researcher)
+- name: Jian Ma (Ma Jian)
+  role: Co-Founder & CEO
+  origin: Mainland Chinese (MIT postdoctoral researcher)
+- name: Wen Shuhao
+  role: Co-Founder
+  origin: Mainland Chinese (MIT postdoctoral researcher)
+- name: Lai Lipeng
+  role: Co-Founder
+  origin: Mainland Chinese (MIT postdoctoral researcher)
 key_investors:
-  - SoftBank Vision Fund
-  - Tencent
-  - Google
-  - Sequoia Capital China
-  - China Life Healthcare Fund
+- SoftBank Vision Fund
+- Tencent
+- Google
+- Sequoia Capital China
+- China Life Healthcare Fund
 last_updated: 2026-03-20
+linkedin: https://www.linkedin.com/company/xtalpi/
 ---
 
 # XtalPi

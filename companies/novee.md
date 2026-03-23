@@ -22,18 +22,19 @@ crunchbase: https://www.crunchbase.com/organization/novee
 crunchbase_verified: true
 total_raised_m: 51.5
 founders:
-  - name: "Ido Geffen"
-    role: "Co-Founder & CEO"
-    background: "Former VP of Product at Orca Security; veteran of Unit 8200 and Talpiot program"
-    origin: "Israeli"
-  - name: "Gon Chalamish"
-    role: "Co-Founder & CPO"
-    background: "Senior cybersecurity executive; veteran of Unit 8200"
-    origin: "Israeli"
-  - name: "Omer Ninburg"
-    role: "Co-Founder & CTO"
-    background: "Senior cybersecurity executive; veteran of Unit 8200"
-    origin: "Israeli"
+- name: Ido Geffen
+  role: Co-Founder & CEO
+  background: Former VP of Product at Orca Security; veteran of Unit 8200 and Talpiot program
+  origin: Israeli
+- name: Gon Chalamish
+  role: Co-Founder & CPO
+  background: Senior cybersecurity executive; veteran of Unit 8200
+  origin: Israeli
+- name: Omer Ninburg
+  role: Co-Founder & CTO
+  background: Senior cybersecurity executive; veteran of Unit 8200
+  origin: Israeli
+linkedin: https://www.linkedin.com/company/novee/
 ---
 
 # Novee

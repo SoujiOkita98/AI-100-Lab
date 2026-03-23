@@ -1,71 +1,71 @@
 ---
-name: "Aleph Alpha"
+name: Aleph Alpha
 founded: 2019
-headquarters: "Heidelberg, Germany"
-website: "https://aleph-alpha.com"
-sector: ["sovereign AI", "enterprise AI", "foundation models"]
-one_liner: "Germany's leading sovereign AI company building enterprise AI platform PhariaAI for government and regulated industries."
+headquarters: Heidelberg, Germany
+website: https://aleph-alpha.com
+sector:
+- sovereign AI
+- enterprise AI
+- foundation models
+one_liner: Germany's leading sovereign AI company building enterprise AI platform PhariaAI for government and regulated industries.
 status: active
 employees: 351
-
 founders:
-  - name: Jonas Andrulis
-    role: Founder; Chairman of Advisory Board (as of Jan 2026; stepped down as CEO Oct 2025)
-    nationality: German
-    education:
-      - Industrial Engineering, Karlsruhe Institute of Technology (KIT), specialization in AI and modeling
-    prior_experience:
-      - Apple, Special Projects Group - Senior AI R&D Manager (multiple years in California)
-      - Pallas Ludens - Founder & CEO (machine learning / computer vision startup)
-    source: https://www.deutschland.de/en/topic/business/portrait-of-jonas-andrulis-founder-of-aleph-alpha
-
-  - name: Samuel Weinbach
-    role: Co-Founder; Co-Chief Research Officer
-    nationality: German (unconfirmed)
-    education:
-      - Unknown (details not publicly available)
-    prior_experience:
-      - Deloitte - AI Expert
-    notes: Leads Aleph Alpha Research alongside Yasser Jadidi. Key contributor to the company's work on LLM explainability.
-    source: https://theorg.com/org/aleph-alpha/org-chart/samuel-weinbach
-
+- name: Jonas Andrulis
+  role: Founder; Chairman of Advisory Board (as of Jan 2026; stepped down as CEO Oct 2025)
+  nationality: German
+  education:
+  - Industrial Engineering, Karlsruhe Institute of Technology (KIT), specialization in AI and modeling
+  prior_experience:
+  - Apple, Special Projects Group - Senior AI R&D Manager (multiple years in California)
+  - Pallas Ludens - Founder & CEO (machine learning / computer vision startup)
+  source: https://www.deutschland.de/en/topic/business/portrait-of-jonas-andrulis-founder-of-aleph-alpha
+- name: Samuel Weinbach
+  role: Co-Founder; Co-Chief Research Officer
+  nationality: German (unconfirmed)
+  education:
+  - Unknown (details not publicly available)
+  prior_experience:
+  - Deloitte - AI Expert
+  notes: Leads Aleph Alpha Research alongside Yasser Jadidi. Key contributor to the company's work on LLM explainability.
+  source: https://theorg.com/org/aleph-alpha/org-chart/samuel-weinbach
 current_leadership:
-  - name: Reto Spoerri
-    role: Co-CEO (installed summer 2025)
-    prior_experience: Former divisional head at Schwarz Group
-    source: https://sifted.eu/articles/aleph-alpha-founder-quits-as-ceo
-  - name: Ilhan Scheer
-    role: Co-CEO / Chief Growth Officer (joined 2025)
-    prior_experience: Accenture
-    source: https://sifted.eu/articles/aleph-alpha-founder-quits-as-ceo
-  - name: Lucie Prinz
-    role: Chief People Officer
-  - name: Yasser Jadidi
-    role: Co-Chief Research Officer
-
+- name: Reto Spoerri
+  role: Co-CEO (installed summer 2025)
+  prior_experience: Former divisional head at Schwarz Group
+  source: https://sifted.eu/articles/aleph-alpha-founder-quits-as-ceo
+- name: Ilhan Scheer
+  role: Co-CEO / Chief Growth Officer (joined 2025)
+  prior_experience: Accenture
+  source: https://sifted.eu/articles/aleph-alpha-founder-quits-as-ceo
+- name: Lucie Prinz
+  role: Chief People Officer
+- name: Yasser Jadidi
+  role: Co-Chief Research Officer
 funding_rounds:
-  - stage: Seed
-    date: 2020
-    amount_eur: ~5.3M
-    notes: Early-stage funding to begin LLM development.
-    source: https://www.clay.com/dossier/aleph-alpha-funding
-
-  - stage: "Series A"
-    date: "2021"
-    amount_m: 25
-    lead_investors: ["Earlybird Venture Capital"]
-    source: "https://en.wikipedia.org/wiki/Aleph_Alpha"
-  - stage: "Series B"
-    date: "2023-11"
-    amount_m: 500
-    lead_investors: ["Schwarz Group", "Innovation Park AI (IPAI)"]
-    source: "https://sifted.eu/articles/ai-startup-aleph-alpha-raises-500m"
-    notes: "Only ~110M EUR was equity; rest was research grants and order commitments."
-
+- stage: Seed
+  date: 2020
+  amount_eur: ~5.3M
+  notes: Early-stage funding to begin LLM development.
+  source: https://www.clay.com/dossier/aleph-alpha-funding
+- stage: Series A
+  date: '2021'
+  amount_m: 25
+  lead_investors:
+  - Earlybird Venture Capital
+  source: https://en.wikipedia.org/wiki/Aleph_Alpha
+- stage: Series B
+  date: 2023-11
+  amount_m: 500
+  lead_investors:
+  - Schwarz Group
+  - Innovation Park AI (IPAI)
+  source: https://sifted.eu/articles/ai-startup-aleph-alpha-raises-500m
+  notes: Only ~110M EUR was equity; rest was research grants and order commitments.
 total_raised_m: 533
-
 confidence: medium
 last_updated: 2026-03-23
+linkedin: https://www.linkedin.com/company/aleph-alpha/
 ---
 
 # Aleph Alpha

@@ -28,6 +28,7 @@ website_verified: true
 crunchbase: https://www.crunchbase.com/organization/cylake
 crunchbase_verified: true
 total_raised_m: 45.0
+linkedin: https://www.linkedin.com/company/cylake/
 ---
 
 # Cylake

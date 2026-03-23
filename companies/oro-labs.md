@@ -8,7 +8,8 @@ sector:
 - enterprise AI
 - procurement automation
 - agentic AI
-one_liner: AI-native procurement orchestration platform automating procurement requests, supplier onboarding, and compliance checks for global enterprises like Coca-Cola, Siemens Energy, and Novartis.
+one_liner: AI-native procurement orchestration platform automating procurement requests, supplier onboarding, and compliance
+  checks for global enterprises like Coca-Cola, Siemens Energy, and Novartis.
 logo: null
 total_raised_m: 160
 latest_valuation_m: null
@@ -21,7 +22,8 @@ funding_rounds:
   - Brighton Park Capital
   - Goldman Sachs Alternatives
   source: https://fortune.com/2026/03/12/oro-labs-corporate-procurement-ai-efficiency/
-  notes: Continued participation from Norwest Venture Partners, B Capital, XYZ Capital, and Felicis. 300% revenue growth reported in 2024-2025.
+  notes: Continued participation from Norwest Venture Partners, B Capital, XYZ Capital, and Felicis. 300% revenue growth reported
+    in 2024-2025.
 - stage: Series B
   date: 2023-11
   amount_m: 34
@@ -45,6 +47,7 @@ founders:
   origin: Chinese.
 confidence: high
 last_updated: 2026-03-23
+linkedin: https://www.linkedin.com/company/oro-labs/
 ---
 
 # ORO Labs

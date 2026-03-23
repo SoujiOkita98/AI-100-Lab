@@ -1,57 +1,75 @@
 ---
-name: "Moonshot AI"
+name: Moonshot AI
 founded: 2023
-headquarters: "Beijing, China"
-website: "https://www.moonshot.cn"
-sector: ["foundation models", "long-context AI", "consumer AI"]
-one_liner: "Beijing-based AI lab behind the Kimi chatbot, pioneering long-context LLMs in China."
+headquarters: Beijing, China
+website: https://www.moonshot.cn
+sector:
+- foundation models
+- long-context AI
+- consumer AI
+one_liner: Beijing-based AI lab behind the Kimi chatbot, pioneering long-context LLMs in China.
 status: active
 total_raised_m: 3000
 latest_valuation_m: 18000
 founders:
-  - name: "Yang Zhilin"
-    role: "CEO"
-    background: "BS CS Tsinghua, PhD CS Carnegie Mellon. Co-first author of Transformer-XL and XLNet. Research at Google Brain and Meta AI."
-    origin: "Chinese"
-  - name: "Zhou Xinyu"
-    role: "Co-founder"
-    background: "Tsinghua University. Former engineering at Hulu, Tencent, and Megvii."
-    origin: "Chinese"
-  - name: "Wu Yuxin"
-    role: "Co-founder"
-    background: "BS CS Tsinghua, MS CMU. Former Google Brain and Facebook AI Research."
-    origin: "Chinese"
+- name: Yang Zhilin
+  role: CEO
+  background: BS CS Tsinghua, PhD CS Carnegie Mellon. Co-first author of Transformer-XL and XLNet. Research at Google Brain
+    and Meta AI.
+  origin: Chinese
+- name: Zhou Xinyu
+  role: Co-founder
+  background: Tsinghua University. Former engineering at Hulu, Tencent, and Megvii.
+  origin: Chinese
+- name: Wu Yuxin
+  role: Co-founder
+  background: BS CS Tsinghua, MS CMU. Former Google Brain and Facebook AI Research.
+  origin: Chinese
 funding_rounds:
-  - stage: "Seed"
-    date: "2023-06"
-    amount_m: 25
-    lead_investors: ["HongShan (Sequoia China)", "ZhenFund"]
-  - stage: "Series A"
-    date: "2023-12"
-    amount_m: 200
-    lead_investors: ["HongShan", "ZhenFund"]
-  - stage: "Series B"
-    date: "2024-02"
-    amount_m: 1000
-    valuation_m: 2500
-    lead_investors: ["Alibaba", "HongShan"]
-  - stage: "Follow-on"
-    date: "2024-08"
-    amount_m: 300
-    valuation_m: 3300
-    lead_investors: ["Tencent", "Gaorong Capital"]
-  - stage: "Series C"
-    date: "2025-12"
-    amount_m: 500
-    valuation_m: 4300
-    lead_investors: ["IDG Capital", "Alibaba", "Tencent"]
-  - stage: "Series D"
-    date: "2026-02"
-    amount_m: 700
-    valuation_m: 10000
-    lead_investors: ["Alibaba", "Tencent"]
+- stage: Seed
+  date: 2023-06
+  amount_m: 25
+  lead_investors:
+  - HongShan (Sequoia China)
+  - ZhenFund
+- stage: Series A
+  date: 2023-12
+  amount_m: 200
+  lead_investors:
+  - HongShan
+  - ZhenFund
+- stage: Series B
+  date: 2024-02
+  amount_m: 1000
+  valuation_m: 2500
+  lead_investors:
+  - Alibaba
+  - HongShan
+- stage: Follow-on
+  date: 2024-08
+  amount_m: 300
+  valuation_m: 3300
+  lead_investors:
+  - Tencent
+  - Gaorong Capital
+- stage: Series C
+  date: 2025-12
+  amount_m: 500
+  valuation_m: 4300
+  lead_investors:
+  - IDG Capital
+  - Alibaba
+  - Tencent
+- stage: Series D
+  date: 2026-02
+  amount_m: 700
+  valuation_m: 10000
+  lead_investors:
+  - Alibaba
+  - Tencent
 confidence: medium
 last_updated: 2026-03-23
+linkedin: https://www.linkedin.com/company/moonshot-ai/
 ---
 
 # Moonshot AI — Company Profile

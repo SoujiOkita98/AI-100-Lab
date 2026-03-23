@@ -28,11 +28,15 @@ crunchbase: https://www.crunchbase.com/organization/nevis
 crunchbase_verified: true
 total_raised_m: 40
 funding_rounds:
-  - stage: "Seed + Series A"
-    date: "2025-12"
-    amount_m: 40
-    lead_investors: ["Sequoia Capital", "ICONIQ", "Ribbit Capital"]
-    source: "https://www.crunchbase.com/organization/nevis"
+- stage: Seed + Series A
+  date: 2025-12
+  amount_m: 40
+  lead_investors:
+  - Sequoia Capital
+  - ICONIQ
+  - Ribbit Capital
+  source: https://www.crunchbase.com/organization/nevis
+linkedin: https://www.linkedin.com/company/nevis/
 ---
 
 # Nevis -- Company Profile

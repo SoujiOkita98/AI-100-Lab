@@ -35,14 +35,16 @@ funding_rounds:
   - Index Ventures
   source: https://techcrunch.com/2024/11/14/tessl-raises-125m/
 founders:
-  - name: "Guy Podjarny"
-    role: "Founder & CEO"
-    background: "Co-founded Snyk (valued at $7.4B, $300M+ ARR); previously CTO at Akamai after Blaze.io acquisition. Serial entrepreneur in developer tools"
-    origin: "Israeli"
+- name: Guy Podjarny
+  role: Founder & CEO
+  background: Co-founded Snyk (valued at $7.4B, $300M+ ARR); previously CTO at Akamai after Blaze.io acquisition. Serial entrepreneur
+    in developer tools
+  origin: Israeli
 one_liner: Tessl is building an AI-native, spec-centric platform for autonomous software development
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/tessl
 crunchbase_verified: true
+linkedin: https://www.linkedin.com/company/tessl/
 ---
 
 # Tessl

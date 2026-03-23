@@ -23,14 +23,15 @@ crunchbase: https://www.crunchbase.com/organization/probabl
 crunchbase_verified: true
 total_raised_m: 14.0
 founders:
-  - name: "Yann Lechelle"
-    role: "Co-Founder & CEO"
-    background: "Seasoned tech entrepreneur; former CEO of Scaleway"
-    origin: "French"
-  - name: "Gael Varoquaux"
-    role: "Co-Founder"
-    background: "Inria researcher; co-founded scikit-learn"
-    origin: "French"
+- name: Yann Lechelle
+  role: Co-Founder & CEO
+  background: Seasoned tech entrepreneur; former CEO of Scaleway
+  origin: French
+- name: Gael Varoquaux
+  role: Co-Founder
+  background: Inria researcher; co-founded scikit-learn
+  origin: French
+linkedin: https://www.linkedin.com/company/probabl/
 ---
 
 # Probabl

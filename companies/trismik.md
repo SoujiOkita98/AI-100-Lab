@@ -15,21 +15,23 @@ funding_rounds:
   - Twinpath Ventures
   - Cambridge Enterprise
 founders:
-  - name: "Rebekka Mikkola"
-    role: "Co-Founder & CEO"
-    background: "Repeat founder with experience in enterprise AI sales"
-    origin: "Nordic (Finnish/Danish)"
-  - name: "Nigel Collier"
-    role: "Co-Founder & Chief Scientist"
-    background: "Professor of NLP at University of Cambridge; 200+ publications; PhD in machine translation with neural networks (1990s)"
-    origin: "British"
-  - name: "Marco Basaldella"
-    role: "Co-Founder & CTO"
-    background: "Former Amazon engineer working on foundation models and evaluation"
-    origin: "Italian"
+- name: Rebekka Mikkola
+  role: Co-Founder & CEO
+  background: Repeat founder with experience in enterprise AI sales
+  origin: Nordic (Finnish/Danish)
+- name: Nigel Collier
+  role: Co-Founder & Chief Scientist
+  background: Professor of NLP at University of Cambridge; 200+ publications; PhD in machine translation with neural networks
+    (1990s)
+  origin: British
+- name: Marco Basaldella
+  role: Co-Founder & CTO
+  background: Former Amazon engineer working on foundation models and evaluation
+  origin: Italian
 last_updated: 2026-03-21
 confidence: medium
 total_raised_m: 3.0
+linkedin: https://www.linkedin.com/company/trismik/
 ---
 
 # Trismik

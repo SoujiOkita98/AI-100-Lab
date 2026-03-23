@@ -4,17 +4,18 @@ website: https://unstructured.io
 founded: July
 headquarters: Rocklin, California (Sacramento metro area)
 sector: AI Infrastructure / Data ETL & Preprocessing
-one_liner: Enterprise ETL platform that transforms complex unstructured data (PDFs, images, HTML) into clean, AI-ready structured formats for GenAI pipelines.
+one_liner: Enterprise ETL platform that transforms complex unstructured data (PDFs, images, HTML) into clean, AI-ready structured
+  formats for GenAI pipelines.
 stage: Series B
 total_funding: ~$65M
 latest_round: Series B ($40M, March 2024)
 employees_est: ~84-150 (as of late 2025)
 revenue_est: ~$7.7M (estimated, unconfirmed)
 founders:
-  - name: "Brian S. Raymond"
-    role: "Founder & CEO"
-    background: "Former CIA officer; founded Primer AI before starting Unstructured in 2022"
-    origin: "American"
+- name: Brian S. Raymond
+  role: Founder & CEO
+  background: Former CIA officer; founded Primer AI before starting Unstructured in 2022
+  origin: American
 founder_ceo: Brian S. Raymond
 status: Private
 last_updated: 2026-03-20
@@ -24,21 +25,25 @@ crunchbase: https://www.crunchbase.com/organization/unstructured
 crunchbase_verified: true
 total_raised_m: 65
 funding_rounds:
-  - stage: "Seed"
-    date: "2023"
-    amount_m: 5
-    lead_investors: ["New Enterprise Associates"]
-    source: "https://www.crunchbase.com/organization/unstructured"
-  - stage: "Series A"
-    date: "2023"
-    amount_m: 20
-    lead_investors: ["Menlo Ventures"]
-    source: "https://www.crunchbase.com/organization/unstructured"
-  - stage: "Series B"
-    date: "2024-03"
-    amount_m: 40
-    lead_investors: ["Menlo Ventures"]
-    source: "https://www.crunchbase.com/organization/unstructured"
+- stage: Seed
+  date: '2023'
+  amount_m: 5
+  lead_investors:
+  - New Enterprise Associates
+  source: https://www.crunchbase.com/organization/unstructured
+- stage: Series A
+  date: '2023'
+  amount_m: 20
+  lead_investors:
+  - Menlo Ventures
+  source: https://www.crunchbase.com/organization/unstructured
+- stage: Series B
+  date: 2024-03
+  amount_m: 40
+  lead_investors:
+  - Menlo Ventures
+  source: https://www.crunchbase.com/organization/unstructured
+linkedin: https://www.linkedin.com/company/unstructuredio/
 ---
 
 # Unstructured

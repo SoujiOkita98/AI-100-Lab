@@ -30,6 +30,7 @@ founders:
   role: CTO
   background: Former engineering at AppSense and Orgvue.
   origin: Middle Eastern
+linkedin: https://www.linkedin.com/company/covecta/
 ---
 
 # Covecta

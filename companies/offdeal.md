@@ -19,14 +19,15 @@ crunchbase: https://www.crunchbase.com/organization/offdeal
 crunchbase_verified: true
 total_raised_m: 17.0
 founders:
-  - name: "Ori Eldarov"
-    role: "Co-Founder & CEO"
-    background: "Former investment banker at RBC Capital Markets (6 years); studied at UBC"
-    origin: "Israeli-Canadian"
-  - name: "Alston Lin"
-    role: "Co-Founder & CTO"
-    background: "Former engineer at Meta"
-    origin: "Chinese-Canadian"
+- name: Ori Eldarov
+  role: Co-Founder & CEO
+  background: Former investment banker at RBC Capital Markets (6 years); studied at UBC
+  origin: Israeli-Canadian
+- name: Alston Lin
+  role: Co-Founder & CTO
+  background: Former engineer at Meta
+  origin: Chinese-Canadian
+linkedin: https://www.linkedin.com/company/offdeal/
 ---
 
 # OffDeal

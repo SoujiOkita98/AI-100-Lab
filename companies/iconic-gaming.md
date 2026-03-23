@@ -32,6 +32,7 @@ website_verified: true
 crunchbase: https://www.crunchbase.com/organization/iconic-gaming
 crunchbase_verified: true
 total_raised_m: 13.0
+linkedin: https://www.linkedin.com/company/iconic-gaming-ai/
 ---
 
 # Iconic (Gaming AI)

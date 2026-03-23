@@ -18,18 +18,19 @@ last_updated: 2026-03-21
 confidence: medium
 total_raised_m: 8.5
 founders:
-  - name: "Waleed Atallah"
-    role: "Co-Founder & CEO"
-    background: "Cornell Tech faculty-led startup"
-    origin: "Middle Eastern"
-  - name: "Mohamed Abdelfattah"
-    role: "Co-Founder"
-    background: "Cornell Tech"
-    origin: "Egyptian"
-  - name: "Lukasz Dudziak"
-    role: "Co-Founder"
-    background: ""
-    origin: "Polish"
+- name: Waleed Atallah
+  role: Co-Founder & CEO
+  background: Cornell Tech faculty-led startup
+  origin: Middle Eastern
+- name: Mohamed Abdelfattah
+  role: Co-Founder
+  background: Cornell Tech
+  origin: Egyptian
+- name: Lukasz Dudziak
+  role: Co-Founder
+  background: ''
+  origin: Polish
+linkedin: https://www.linkedin.com/company/mako/
 ---
 
 # Mako

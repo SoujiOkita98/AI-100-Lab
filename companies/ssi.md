@@ -41,16 +41,21 @@ crunchbase: https://www.crunchbase.com/organization/ssi
 crunchbase_verified: true
 total_raised_m: 3000
 funding_rounds:
-  - stage: "Seed"
-    date: "2024-09"
-    amount_m: 1000
-    lead_investors: ["Andreessen Horowitz", "Sequoia Capital", "DST Global"]
-    source: "https://www.crunchbase.com/organization/ssi"
-  - stage: "Series B"
-    date: "2025-04"
-    amount_m: 2000
-    lead_investors: ["Greenoaks Capital"]
-    source: "https://www.crunchbase.com/organization/ssi"
+- stage: Seed
+  date: 2024-09
+  amount_m: 1000
+  lead_investors:
+  - Andreessen Horowitz
+  - Sequoia Capital
+  - DST Global
+  source: https://www.crunchbase.com/organization/ssi
+- stage: Series B
+  date: 2025-04
+  amount_m: 2000
+  lead_investors:
+  - Greenoaks Capital
+  source: https://www.crunchbase.com/organization/ssi
+linkedin: https://www.linkedin.com/company/ssi/
 ---
 
 # Safe Superintelligence Inc. (SSI)

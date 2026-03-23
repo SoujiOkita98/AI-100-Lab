@@ -13,19 +13,20 @@ funding_rounds:
   lead_investors:
   - Infinity Ventures
 founders:
-  - name: "Harsh Sajnani"
-    role: "Co-Founder & CEO"
-    background: "Third-generation industry operator in MENA distribution."
-    origin: "Indian"
-  - name: "Guilherme Soares"
-    role: "Co-Founder & COO"
-    background: "Third-generation industry operator in Latin American distribution."
-    origin: "Brazilian"
+- name: Harsh Sajnani
+  role: Co-Founder & CEO
+  background: Third-generation industry operator in MENA distribution.
+  origin: Indian
+- name: Guilherme Soares
+  role: Co-Founder & COO
+  background: Third-generation industry operator in Latin American distribution.
+  origin: Brazilian
 last_updated: 2026-03-21
 confidence: medium
 crunchbase: https://www.crunchbase.com/organization/kingpin
 crunchbase_verified: true
 total_raised_m: 3.5
+linkedin: https://www.linkedin.com/company/kingpin/
 ---
 
 # Kingpin

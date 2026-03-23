@@ -26,6 +26,7 @@ headquarters: New York, NY
 crunchbase: https://www.crunchbase.com/organization/general-intuition
 crunchbase_verified: true
 total_raised_m: 134.0
+linkedin: https://www.linkedin.com/company/general-intuition/
 ---
 
 # General Intuition

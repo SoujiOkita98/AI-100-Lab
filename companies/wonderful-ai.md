@@ -61,6 +61,7 @@ website_verified: true
 crunchbase: https://www.crunchbase.com/organization/wonderful-ai
 crunchbase_verified: true
 headquarters: Tel Aviv, Israel
+linkedin: https://www.linkedin.com/company/wonderful/
 ---
 
 # Wonderful

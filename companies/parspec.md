@@ -24,14 +24,15 @@ crunchbase: https://www.crunchbase.com/organization/parspec
 crunchbase_verified: true
 total_raised_m: 31.5
 founders:
-  - name: "Forest Flager"
-    role: "Co-Founder & CEO"
-    background: "PhD from Stanford; identified core technology during PhD program"
-    origin: "American"
-  - name: "Pratyush Havelia"
-    role: "Co-Founder & CTO"
-    background: "Post-doctorate at Stanford University"
-    origin: "Indian"
+- name: Forest Flager
+  role: Co-Founder & CEO
+  background: PhD from Stanford; identified core technology during PhD program
+  origin: American
+- name: Pratyush Havelia
+  role: Co-Founder & CTO
+  background: Post-doctorate at Stanford University
+  origin: Indian
+linkedin: https://www.linkedin.com/company/parspec/
 ---
 
 # Parspec

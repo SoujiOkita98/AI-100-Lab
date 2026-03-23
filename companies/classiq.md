@@ -14,22 +14,23 @@ funding_rounds:
   lead_investors:
   - Samsung NEXT
 founders:
-  - name: "Nir Minerbi"
-    role: "Co-Founder & CEO"
-    background: "IDF Talpiot, Unit 8200, and Rafael alumnus."
-    origin: "Israeli (inferred from name and military background)"
-  - name: "Yehuda Naveh"
-    role: "Co-Founder & CTO"
-    background: "Top academic in quantum computing."
-    origin: "Israeli (inferred from name)"
-  - name: "Amir Naveh"
-    role: "Co-Founder & VP R&D"
-    background: "IDF Talpiot and Defense Ministry alumnus. Son of Yehuda Naveh."
-    origin: "Israeli (inferred from name)"
+- name: Nir Minerbi
+  role: Co-Founder & CEO
+  background: IDF Talpiot, Unit 8200, and Rafael alumnus.
+  origin: Israeli (inferred from name and military background)
+- name: Yehuda Naveh
+  role: Co-Founder & CTO
+  background: Top academic in quantum computing.
+  origin: Israeli (inferred from name)
+- name: Amir Naveh
+  role: Co-Founder & VP R&D
+  background: IDF Talpiot and Defense Ministry alumnus. Son of Yehuda Naveh.
+  origin: Israeli (inferred from name)
 last_updated: 2026-03-21
 confidence: medium
 twitter: '@ClassiqTech'
 total_raised_m: 110.0
+linkedin: https://www.linkedin.com/company/classiq/
 ---
 
 # Classiq

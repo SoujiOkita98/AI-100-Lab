@@ -8,7 +8,8 @@ sector:
 - AI healthcare
 - HR automation
 - agentic AI
-one_liner: Israeli AI startup automating healthcare hiring with conversational AI agents that handle candidate outreach, scheduling, credential screening, and onboarding for hospitals and care facilities.
+one_liner: Israeli AI startup automating healthcare hiring with conversational AI agents that handle candidate outreach, scheduling,
+  credential screening, and onboarding for hospitals and care facilities.
 logo: null
 total_raised_m: 14.5
 latest_valuation_m: null
@@ -20,7 +21,8 @@ funding_rounds:
   lead_investors:
   - Pitango HealthTech
   source: https://www.calcalistech.com/ctechnews/article/h1hd004eq11g
-  notes: Emerged from stealth in March 2026. Earlier round backed by Emerge. Platform shows 900% growth in one year with hundreds of US healthcare providers already onboard.
+  notes: Emerged from stealth in March 2026. Earlier round backed by Emerge. Platform shows 900% growth in one year with hundreds
+    of US healthcare providers already onboard.
 founders:
 - name: Matan Hoffmann
   role: CEO & Co-founder
@@ -32,6 +34,7 @@ founders:
   origin: Israeli.
 confidence: high
 last_updated: 2026-03-23
+linkedin: https://www.linkedin.com/company/carefam/
 ---
 
 # Carefam

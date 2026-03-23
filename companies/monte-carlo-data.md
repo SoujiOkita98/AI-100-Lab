@@ -73,6 +73,7 @@ one_liner: Monte Carlo is the pioneer and market leader in data observability --
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/monte-carlo-data
 crunchbase_verified: true
+linkedin: https://www.linkedin.com/company/monte-carlo/
 ---
 
 # Monte Carlo

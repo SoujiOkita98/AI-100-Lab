@@ -8,7 +8,8 @@ sector:
 - cybersecurity
 - agentic AI
 - industrial security
-one_liner: Agentic AI cybersecurity platform bridging IT and OT security, operating autonomously at machine speed to detect, reason about, and respond to threats.
+one_liner: Agentic AI cybersecurity platform bridging IT and OT security, operating autonomously at machine speed to detect,
+  reason about, and respond to threats.
 logo: null
 total_raised_m: 125
 latest_valuation_m: null
@@ -20,7 +21,8 @@ funding_rounds:
   lead_investors:
   - Evolution Equity Partners
   source: https://www.securityweek.com/kai-emerges-from-stealth-with-125m-in-funding-for-ai-platform-bridging-it-and-ot-security/
-  notes: Emerged from stealth on March 10, 2026. N47 and strategic investors also participated. Seven figures in bookings within 10 months of first code. Customers across energy, pharmaceuticals, automotive, and hospitality.
+  notes: Emerged from stealth on March 10, 2026. N47 and strategic investors also participated. Seven figures in bookings
+    within 10 months of first code. Customers across energy, pharmaceuticals, automotive, and hospitality.
 founders:
 - name: Galina Antova
   role: CEO & Co-founder
@@ -28,10 +30,12 @@ founders:
   origin: Bulgarian. Based in the United States.
 - name: Damiano Bolzoni
   role: CTO & Co-founder
-  background: PhD-level AI researcher. Co-founded SecurityMatters, an OT cybersecurity company later acquired by Forescout Technologies.
+  background: PhD-level AI researcher. Co-founded SecurityMatters, an OT cybersecurity company later acquired by Forescout
+    Technologies.
   origin: Italian.
 confidence: high
 last_updated: 2026-03-23
+linkedin: https://www.linkedin.com/company/kai-security/
 ---
 
 # Kai Security

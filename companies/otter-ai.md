@@ -21,31 +21,36 @@ website_verified: true
 crunchbase: https://www.crunchbase.com/organization/otter-ai
 crunchbase_verified: true
 founders:
-  - name: "Sam Liang"
-    role: "Co-Founder & CEO"
-    background: "BS Peking University; PhD Stanford (Internet Distributed Systems); former lead of Google Map Location Platform; founded Alohar Mobile (acquired by Alibaba)"
-    origin: "Chinese-American"
-  - name: "Yun Fu"
-    role: "Co-Founder & CTO"
-    background: "PhD Computer Science from Duke University"
-    origin: "Chinese-American"
+- name: Sam Liang
+  role: Co-Founder & CEO
+  background: BS Peking University; PhD Stanford (Internet Distributed Systems); former lead of Google Map Location Platform;
+    founded Alohar Mobile (acquired by Alibaba)
+  origin: Chinese-American
+- name: Yun Fu
+  role: Co-Founder & CTO
+  background: PhD Computer Science from Duke University
+  origin: Chinese-American
 total_raised_m: 70
 funding_rounds:
-  - stage: "Seed"
-    date: "2016-09"
-    amount_m: 3
-    lead_investors: ["Undisclosed"]
-    source: "https://www.crunchbase.com/organization/otter-ai"
-  - stage: "Series A"
-    date: "2017-11"
-    amount_m: 10
-    lead_investors: ["Draper Associates"]
-    source: "https://www.crunchbase.com/organization/otter-ai"
-  - stage: "Series B"
-    date: "2021-02"
-    amount_m: 50
-    lead_investors: ["Spectrum Equity"]
-    source: "https://www.crunchbase.com/organization/otter-ai"
+- stage: Seed
+  date: 2016-09
+  amount_m: 3
+  lead_investors:
+  - Undisclosed
+  source: https://www.crunchbase.com/organization/otter-ai
+- stage: Series A
+  date: 2017-11
+  amount_m: 10
+  lead_investors:
+  - Draper Associates
+  source: https://www.crunchbase.com/organization/otter-ai
+- stage: Series B
+  date: 2021-02
+  amount_m: 50
+  lead_investors:
+  - Spectrum Equity
+  source: https://www.crunchbase.com/organization/otter-ai
+linkedin: https://www.linkedin.com/company/otter-ai/
 ---
 
 # Otter.ai -- AI Meeting Transcription & Productivity

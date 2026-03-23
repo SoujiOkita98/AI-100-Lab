@@ -16,20 +16,22 @@ funding_rounds:
 last_updated: 2026-03-21
 confidence: medium
 founders:
-  - name: "Colby Adcock"
-    role: "CEO & Co-Founder"
-    background: "Former tech private equity executive. Board member at Figure AI."
-    origin: "American"
-  - name: "Collin Otis"
-    role: "CTO & Co-Founder"
-    background: "Serial entrepreneur. Founding engineer and Director of Autonomy at Kodiak Robotics. Former Head of Data Science at Uber ATG."
-    origin: "American"
+- name: Colby Adcock
+  role: CEO & Co-Founder
+  background: Former tech private equity executive. Board member at Figure AI.
+  origin: American
+- name: Collin Otis
+  role: CTO & Co-Founder
+  background: Serial entrepreneur. Founding engineer and Director of Autonomy at Kodiak Robotics. Former Head of Data Science
+    at Uber ATG.
+  origin: American
 data_notes: 'Needs verification: website, source_urls, headquarters. Profile may be incomplete.'
 website: https://scoutco.ai
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/scout-ai
 crunchbase_verified: true
 total_raised_m: 15.0
+linkedin: https://www.linkedin.com/company/scout-ai/
 ---
 
 # Scout AI

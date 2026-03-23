@@ -12,18 +12,18 @@ funding_rounds:
   - General Catalyst
   - Y Combinator
 founders:
-  - name: "Haakam Aujla"
-    role: "Co-Founder"
-    background: "YC S25 batch."
-    origin: "South Asian (inferred from name)"
-  - name: "Michael Kim"
-    role: "Co-Founder & CTO"
-    background: "YC S25 batch."
-    origin: "Korean-American (inferred from name)"
-  - name: "Adi Singh"
-    role: "Co-Founder"
-    background: "YC S25 batch."
-    origin: "Indian (inferred from name)"
+- name: Haakam Aujla
+  role: Co-Founder
+  background: YC S25 batch.
+  origin: South Asian (inferred from name)
+- name: Michael Kim
+  role: Co-Founder & CTO
+  background: YC S25 batch.
+  origin: Korean-American (inferred from name)
+- name: Adi Singh
+  role: Co-Founder
+  background: YC S25 batch.
+  origin: Indian (inferred from name)
 last_updated: 2026-03-21
 confidence: medium
 data_notes: 'Needs verification: website, founders, source_urls, headquarters. Profile may be incomplete.'
@@ -33,6 +33,7 @@ headquarters: San Francisco, CA
 crunchbase: https://www.crunchbase.com/organization/agentmail
 crunchbase_verified: true
 total_raised_m: 6.0
+linkedin: https://www.linkedin.com/company/agentmail/
 ---
 
 # AgentMail

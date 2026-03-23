@@ -8,40 +8,48 @@ sector: AI-Driven Drug Discovery / TechBio
 employees: ~515-600 (estimated early 2026, post-layoffs)
 ceo: Chris Gibson, Ph.D. (Co-Founder; transitioned to Board Chair ~2025)
 website: https://www.recursion.com
-one_liner: "Public AI-driven drug discovery company using automated biology, computer vision, and massive proprietary datasets to industrialize the search for new therapeutics"
+one_liner: Public AI-driven drug discovery company using automated biology, computer vision, and massive proprietary datasets
+  to industrialize the search for new therapeutics
 last_updated: 2026-03-20
 confidence: high (publicly traded; extensive disclosures available)
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/recursion
 crunchbase_verified: true
 founders:
-  - name: "Chris Gibson"
-    role: "Co-Founder & Board Chair"
-    background: "PhD; developed Recursion's core technology during graduate work at University of Utah; Rice University degrees in bioengineering and management; former CEO 2013-2025"
-    origin: "American"
+- name: Chris Gibson
+  role: Co-Founder & Board Chair
+  background: PhD; developed Recursion's core technology during graduate work at University of Utah; Rice University degrees
+    in bioengineering and management; former CEO 2013-2025
+  origin: American
 total_raised_m: 510
 funding_rounds:
-  - stage: "Series A"
-    date: "2016-10"
-    amount_m: 13
-    lead_investors: ["Lux Capital", "Data Collective"]
-    source: "https://www.crunchbase.com/organization/recursion-pharmaceuticals"
-  - stage: "Series B"
-    date: "2017"
-    amount_m: 60
-    lead_investors: ["Undisclosed"]
-    source: "https://www.crunchbase.com/organization/recursion-pharmaceuticals"
-  - stage: "Series C"
-    date: "2019-07"
-    amount_m: 121
-    lead_investors: ["Undisclosed"]
-    source: "https://www.crunchbase.com/organization/recursion-pharmaceuticals"
-  - stage: "Series D"
-    date: "2020-09"
-    amount_m: 246
-    lead_investors: ["Leaps by Bayer"]
-    source: "https://www.crunchbase.com/organization/recursion-pharmaceuticals"
-data_notes: "IPO'd April 2021 on NASDAQ (RXRX). Pre-IPO equity ~$510M. Also received post-IPO funding and grants."
+- stage: Series A
+  date: 2016-10
+  amount_m: 13
+  lead_investors:
+  - Lux Capital
+  - Data Collective
+  source: https://www.crunchbase.com/organization/recursion-pharmaceuticals
+- stage: Series B
+  date: '2017'
+  amount_m: 60
+  lead_investors:
+  - Undisclosed
+  source: https://www.crunchbase.com/organization/recursion-pharmaceuticals
+- stage: Series C
+  date: 2019-07
+  amount_m: 121
+  lead_investors:
+  - Undisclosed
+  source: https://www.crunchbase.com/organization/recursion-pharmaceuticals
+- stage: Series D
+  date: 2020-09
+  amount_m: 246
+  lead_investors:
+  - Leaps by Bayer
+  source: https://www.crunchbase.com/organization/recursion-pharmaceuticals
+data_notes: IPO'd April 2021 on NASDAQ (RXRX). Pre-IPO equity ~$510M. Also received post-IPO funding and grants.
+linkedin: https://www.linkedin.com/company/recursionpharma/
 ---
 
 # Recursion Pharmaceuticals

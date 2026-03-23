@@ -17,15 +17,16 @@ funding_rounds:
 last_updated: 2026-03-21
 confidence: medium
 founders:
-  - name: "Jake Stauch"
-    role: "CEO & Co-Founder"
-    background: "Previously at Verkada."
-    origin: "American"
-  - name: "Alex McLeod"
-    role: "Co-Founder"
-    background: "Previously at Verkada."
-    origin: "American"
+- name: Jake Stauch
+  role: CEO & Co-Founder
+  background: Previously at Verkada.
+  origin: American
+- name: Alex McLeod
+  role: Co-Founder
+  background: Previously at Verkada.
+  origin: American
 total_raised_m: 47.0
+linkedin: https://www.linkedin.com/company/serval/
 ---
 
 # Serval

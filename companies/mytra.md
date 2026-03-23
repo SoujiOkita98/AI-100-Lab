@@ -20,14 +20,15 @@ crunchbase: https://www.crunchbase.com/organization/mytra
 crunchbase_verified: true
 total_raised_m: 120.0
 founders:
-  - name: "Chris Walti"
-    role: "Co-Founder & CEO"
-    background: "Led Optimus Humanoid Bot team, robotics and warehouse logistics at Tesla; 7+ years at Tesla"
-    origin: "American"
-  - name: "Ahmad Baitalmal"
-    role: "Co-Founder & CTO"
-    background: "Former Director at Rivian; led factory software at Tesla and Rivian"
-    origin: "Middle Eastern-American"
+- name: Chris Walti
+  role: Co-Founder & CEO
+  background: Led Optimus Humanoid Bot team, robotics and warehouse logistics at Tesla; 7+ years at Tesla
+  origin: American
+- name: Ahmad Baitalmal
+  role: Co-Founder & CTO
+  background: Former Director at Rivian; led factory software at Tesla and Rivian
+  origin: Middle Eastern-American
+linkedin: https://www.linkedin.com/company/mytra/
 ---
 
 # Mytra
