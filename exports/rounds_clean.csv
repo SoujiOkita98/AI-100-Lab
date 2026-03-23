@@ -1,5 +1,6 @@
 company_slug,stage,date,amount_m,valuation_m,lead_investors,other_investors,source,notes
 01-ai,Series D,2023-11,300.0,1000.0,Alibaba Cloud; Xiaomi; Tencent; Sinovation Ventures,,https://siliconangle.com/2023/11/06/01-ai-led-ai-pioneer-kai-fu-lee-achieves-1b-valuation/,
+1mind,Series A,2025-11,30.0,,Battery Ventures,,,
 1x-technologies,Seed / Early,~2021-05,,,Valinor,Jacob Hatteland (AutoStore founder); ADT Commercial,https://valinor.no/en/investments/halodi-robotics/,"Raised as Halodi Robotics. Exact seed timing uncertain; May 2021 is the earliest publicly documented round of this size.
 "
 1x-technologies,Series A2,2023-03,23.5,,OpenAI Startup Fund,Tiger Global; Sandwater; Alliance Ventures; Skagerak Capital,https://www.1x.tech/discover/1x-rasies-23-5m-in-series-a2-funding-led-by-open-ai,"First major round after the 2022 rebrand from Halodi Robotics to 1X Technologies. OpenAI's backing was a strong signal and drew significant attention.
@@ -40,6 +41,7 @@ agility-robotics,Undisclosed Round,2025-09,,,[not disclosed],,https://tracxn.com
 ai2-robotics,Series B,2025,140.0,1400.0,Baidu; CRRC,,,
 aiceberg,Seed,2025-03,10.0,,SYN Ventures,,,
 aidoc,Series D,2025-07,150.0,,General Catalyst; Square Peg; NVentures,,,
+aim-security,Series A,2025,18.0,,,,,
 aiuc,Seed,2025-07,15.0,,Nat Friedman (NFDG); Emergence Capital,,https://fortune.com/2025/07/23/ai-agent-insurance-startup-aiuc-stealth-15-million-seed-nat-friedman/,
 albatross-ai,Seed,2025-11,12.5,,MMC Ventures,,,
 aleph-fpa,Series B,2024,29.0,,Khosla Ventures,,,
@@ -577,6 +579,7 @@ moveworks,Series B,2019-11,75.0,390.0,Iconiq Growth; Kleiner Perkins,,https://tr
 moveworks,Series C,2021-06,200.0,2100.0,Tiger Global; Alkeon Capital,,https://www.moveworks.com/us/en/company/news/press-releases/moveworks-raises-200-million-series-c-funding,
 mozart-ai,Seed,2026-02,6.0,,Balderton Capital,,,
 multifactor,Seed,2025-12,15.0,,Nexus Venture Partners; Y Combinator,,,
+murphy-ai,Pre-Seed + Seed,2025,14.0,,Northzone; Lakestar; Seedcamp,,,
 music-ai-moises,Series A,2025-01,40.0,,Connect Ventures (CAA + NEA); monashees,,,
 mythic-ai,Venture Round,2025-12,125.0,,,,,
 mytra,Series C,2025,120.0,,Avenir Growth Capital,,,
@@ -601,6 +604,7 @@ newo,Series A,2026-02,25.0,,Ratmir Timashev,,,
 nexos-ai,Seed,2025-Q1,8.0,,Index Ventures; Creandum,,,
 nexthop-ai,Series A,2025-03,110.0,,Lightspeed Venture Partners; Kleiner Perkins,,https://news.crunchbase.com/ai/infrastructure-nexthop-venture-funding-lightspeed/,
 nexthop-ai,Series B,2026-03,500.0,4200.0,Lightspeed Venture Partners; Andreessen Horowitz,,https://nexthop.ai/news-and-event/nexthop-ai-accelerates-into-hypergrowth-with-oversubscribed-500m-series-b-funding-catapulting-the-companys-valuation-to-4-2-billion/,
+neysa,Series A,2025,30.0,,NTTVC; Z47; Nexus Partners,,,
 noda-ai,Series A,2026-02,25.0,125.0,Bessemer Venture Partners,,,
 noetik,Seed,2023,14.0,,DCVC,,,
 noetik,Series A,2024,40.0,,DCVC,,,
@@ -683,6 +687,7 @@ perplexity,Series D,2024-12,500.0,9000.0,IVP,,https://www.bloomberg.com/news/art
 perplexity,Series E,2025-06,500.0,14000.0,Accel,,https://www.cnbc.com/2025/05/12/perplexity-funding-round-comet.html,
 perplexity,Series E Extension,2025-07,100.0,18000.0,,,https://www.pymnts.com/artificial-intelligence-2/2025/perplexity-ai-hits-18-billion-valuation-in-latest-funding-round/,
 perplexity,Late-Stage Round,2025-09,200.0,20000.0,,,https://techcrunch.com/2025/09/10/perplexity-reportedly-raised-200m-at-20b-valuation/,
+persona-ai-robotics,Pre-Seed,2025-05,27.0,,Unity Growth; Tides Ventures,,,
 pheronym,Seed,2025-11,6.0,,Khosla Ventures; Paul Graham; Y Combinator,,,
 phonic,Seed,2025,4.0,,,,,
 physical-intelligence,Seed,2024-03,70.0,400.0,Thrive Capital,,https://www.crunchbase.com/funding_round/physical-intelligence-834b-seed--0936ae55,7 investors participated. Initial capital to develop foundational models and learning algorithms for robots.
@@ -702,6 +707,7 @@ profluent-bio,Series A,2024-03,35.0,,Spark Capital,,,
 profluent-bio,Series B,2025-11,106.0,,Jeff Bezos,,,
 promptpath-ai,Seed (SEC Form D),2025,11.3,,,,,
 pryzm,Seed,2025-12,12.2,,a16z American Dynamism,,,
+pytho-ai,Stealth,2025-10,,,,,,
 qeen-ai,Seed,2025-02,10.0,,Prosus Ventures,,,
 quilter,Series A,2024,10.0,,Benchmark; Coatue,,,
 quilter,Series B,2025-10,25.0,,Index Ventures,,,
@@ -710,6 +716,7 @@ rad-ai,Series B,2024-05,50.0,,Khosla Ventures,,,
 radical-health,Pre-seed,2025,5.0,,Khosla Ventures,,,
 raindrop,Seed,2025-12,15.0,,Lightspeed Venture Partners,,https://www.startuphub.ai/ai-news/funding-round/2025/raindrop-secures-15-million-seed-round,
 raspberry-ai,Series A,2025-01,24.0,,Andreessen Horowitz,,,
+ray-security,Seed,2025,11.0,,Venture Guides; Ibex Investors,,,
 rebellion-defense,Seed,2019-01,11.3,,Venrock,,https://tracxn.com/d/companies/rebellion-defense/,
 rebellion-defense,Series B,2021-09,150.0,,Insight Partners; Venrock,,https://www.crunchbase.com/funding_round/rebellion-defense-series-b--c87bbd3f,
 rebellions,Series C,2025,250.0,,Arm; Samsung Ventures,,,
@@ -786,6 +793,7 @@ sensetime,Series C,2018-05,620.0,4500.0,Alibaba; Fidelity International; Tiger G
 sensetime,Series D,2018-09,1000.0,6000.0,SoftBank Vision Fund,,https://www.crunchbase.com/funding_round/sensetime-series-d--41f8a591,
 sensetime,Pre-IPO,2021-06,700.0,13000.0,Government-associated institutions,,https://kr-asia.com/key-stat-computer-vision-unicorn-sensetime-closes-pre-ipo-round,
 sensetime,Post-IPO Equity,2024-06,256.0,,Institutional investors,,https://www.crunchbase.com/funding_round/sensetime-post-ipo-equity--a972149b,IPO on HKEX Dec 2021.
+serval,Series A,2025-10,47.0,,Redpoint Ventures; First Round; General Catalyst,,,
 sesame-ai,Series B,2025,250.0,,Sequoia; Spark Capital,,,
 sett-ai,Seed,2025-05,12.0,,F2 Venture Capital; Bessemer Venture Partners,,https://techcrunch.com/2025/05/07/game-sett-funding/,
 sf-compute,Series A,2025-11,40.0,300.0,DCVC; Wing VC,,,
@@ -805,6 +813,7 @@ sigma-computing,Series A,2019-11,,,Sutter Hill Ventures,Altimeter Capital,https:
 sigma-computing,Series B,2019-11,,,Sutter Hill Ventures,Altimeter Capital,https://tracxn.com/d/companies/sigma/__6Ey-Cn1NtwqHCDL5voJWgm75xwVxjte6Xhh6SKxOcgA/funding-and-investors,
 sigma-computing,Series C,2021-11,340.0,,D1 Capital Partners,Snowflake Ventures; XN Ventures; Sutter Hill Ventures; Altimeter Capital,https://tracxn.com/d/companies/sigma/__6Ey-Cn1NtwqHCDL5voJWgm75xwVxjte6Xhh6SKxOcgA/funding-and-investors,
 sigma-computing,Series D,2024-05,200.0,1500.0,Spark Capital; Avenir Growth Capital,Snowflake Ventures; Sutter Hill Ventures; D1 Capital Partners; XN Ventures; Altimeter Capital; NewView Capital,https://siliconangle.com/2024/05/16/business-intelligence-startup-sigma-closes-200m-round-1-5b-valuation/,
+simile-ai,Series A,2026-02,100.0,,Index Ventures,,,
 simile,Series A,2026-02-12,100.0,,Index Ventures (Shardul Shah),Bain Capital Ventures; A*; Hanabi Capital; Fei-Fei Li; Andrej Karpathy; Adam D'Angelo; Guillermo Rauch; Scott Belsky,https://siliconangle.com/2026/02/12/ai-digital-twin-startup-simile-raises-100m-funding/,No publicly known seed round prior to the Series A. The company emerged from stealth after ~7 months of development. Valuation not disclosed. Legal counsel by Latham & Watkins.
 singulr-ai,Seed,2025-02,10.0,,Nexus Venture Partners; Dell Technologies Capital,,,
 sintra,Seed,2025-06,17.0,,Earlybird VC,,,
@@ -954,6 +963,7 @@ vinci-semi,Seed + Series A,2025-12,46.0,,Eclipse; Xora Innovation; Khosla Ventur
 vultr,Debt / Credit Facility,2024-06,329.0,,Goldman Sachs; Citi,,https://www.datacenterdynamics.com/en/news/vultr-secures-329m-in-credit-financing/,
 vultr,Growth Equity,2024-12,333.0,3500.0,AMD Ventures; LuminArx Capital,,https://news.crunchbase.com/cloud/ai-cloud-startup-unicorn-vultr-amd-luminarx/,
 wabi-ai,Pre-seed,2025-11,20.0,,Naval Ravikant; Garry Tan; Justin Kan,,,
+wandercraft,Series D,2025-06,75.0,,Renault Group; Bpifrance,,,
 waveforms-ai,Seed,2024-12,40.0,200.0,Andreessen Horowitz,,,
 waymo,Series A,2020-03,3200.0,,Alphabet; Silver Lake; CPP Investments; Mubadala; Magna International; Andreessen Horowitz; AutoNation,,https://waymo.com/blog/2020/03/waymo-raises-first-external-investment-round/,"Initially $2.25B, expanded to $3.2B by July 2020."
 waymo,Series B,2021-06,2500.0,,Alphabet; Andreessen Horowitz; Fidelity; Silver Lake; Tiger Global; T. Rowe Price,,https://www.cnbc.com/2021/06/16/alphabets-waymo-raises-2point5-billion-in-new-investment-round.html,

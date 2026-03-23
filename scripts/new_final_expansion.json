@@ -1,0 +1,196 @@
+[
+  {
+    "name": "Wandercraft",
+    "slug": "wandercraft",
+    "founded": 2012,
+    "hq": "Paris, France",
+    "sector": "AI Robotics / Rehabilitation",
+    "one_liner": "AI-powered rehabilitation robots and humanoid systems. First exoskeleton enabling hands-free walking for paraplegics.",
+    "website": "https://wandercraft.eu",
+    "funding_rounds": [
+      {
+        "stage": "Series D",
+        "date": "2025-06",
+        "amount_m": 75,
+        "lead_investors": [
+          "Renault Group",
+          "Bpifrance"
+        ]
+      }
+    ],
+    "total_raised_m": 75
+  },
+  {
+    "name": "Persona AI Robotics",
+    "slug": "persona-ai-robotics",
+    "founded": 2024,
+    "hq": "Houston, TX",
+    "sector": "Humanoid Robotics / Shipbuilding",
+    "one_liner": "Humanoid robots for shipbuilding and heavy manufacturing \u2014 first robotics company targeting maritime industrial sector.",
+    "funding_rounds": [
+      {
+        "stage": "Pre-Seed",
+        "date": "2025-05",
+        "amount_m": 27,
+        "lead_investors": [
+          "Unity Growth",
+          "Tides Ventures"
+        ]
+      }
+    ],
+    "total_raised_m": 27
+  },
+  {
+    "name": "Simile",
+    "slug": "simile-ai",
+    "founded": 2024,
+    "hq": "Palo Alto, CA",
+    "sector": "AI Simulation / Digital Twins",
+    "one_liner": "AI digital twins of human decision-making \u2014 predicts behavior at scale. Replaces focus groups. Stanford spinout.",
+    "website": "https://simile.ai",
+    "funding_rounds": [
+      {
+        "stage": "Series A",
+        "date": "2026-02",
+        "amount_m": 100,
+        "lead_investors": [
+          "Index Ventures"
+        ]
+      }
+    ],
+    "total_raised_m": 100
+  },
+  {
+    "name": "Serval",
+    "slug": "serval",
+    "founded": 2024,
+    "sector": "AI IT Service Management",
+    "one_liner": "AI agents for enterprise ITSM \u2014 automates helpdesk tickets, incident routing, and service workflows.",
+    "funding_rounds": [
+      {
+        "stage": "Series A",
+        "date": "2025-10",
+        "amount_m": 47,
+        "lead_investors": [
+          "Redpoint Ventures",
+          "First Round",
+          "General Catalyst"
+        ]
+      }
+    ],
+    "total_raised_m": 47
+  },
+  {
+    "name": "1mind",
+    "slug": "1mind",
+    "founded": 2024,
+    "sector": "AI Sales / Human Replacement",
+    "one_liner": "AI that replaces human roles in sales workflows. Founded by 6sense founder Amanda Kahlow.",
+    "website": "https://1mind.com",
+    "funding_rounds": [
+      {
+        "stage": "Series A",
+        "date": "2025-11",
+        "amount_m": 30,
+        "lead_investors": [
+          "Battery Ventures"
+        ]
+      }
+    ],
+    "total_raised_m": 40
+  },
+  {
+    "name": "Pytho AI",
+    "slug": "pytho-ai",
+    "founded": 2024,
+    "sector": "AI Defense / Mission Planning",
+    "one_liner": "Defense AI turning multi-day military mission planning into minutes. Founded by former Marine HUMINT officer.",
+    "website": "https://pytho.ai",
+    "funding_rounds": [
+      {
+        "stage": "Stealth",
+        "date": "2025-10"
+      }
+    ]
+  },
+  {
+    "name": "Ray Security",
+    "slug": "ray-security",
+    "founded": 2024,
+    "sector": "AI Cybersecurity / Predictive",
+    "one_liner": "Predictive data security platform using AI to prevent breaches before they happen.",
+    "funding_rounds": [
+      {
+        "stage": "Seed",
+        "date": "2025",
+        "amount_m": 11,
+        "lead_investors": [
+          "Venture Guides",
+          "Ibex Investors"
+        ]
+      }
+    ],
+    "total_raised_m": 11
+  },
+  {
+    "name": "Murphy",
+    "slug": "murphy-ai",
+    "founded": 2024,
+    "hq": "Barcelona, Spain",
+    "sector": "AI Fintech / Debt Servicing",
+    "one_liner": "AI-powered debt servicing making collections more efficient and humane. Backed by Northzone and ElevenLabs.",
+    "website": "https://murphy.ai",
+    "funding_rounds": [
+      {
+        "stage": "Pre-Seed + Seed",
+        "date": "2025",
+        "amount_m": 14,
+        "lead_investors": [
+          "Northzone",
+          "Lakestar",
+          "Seedcamp"
+        ]
+      }
+    ],
+    "total_raised_m": 14
+  },
+  {
+    "name": "Neysa",
+    "slug": "neysa",
+    "founded": 2023,
+    "hq": "Mumbai, India",
+    "sector": "AI Cloud / Emerging Markets",
+    "one_liner": "AI acceleration cloud for enterprises in India and Southeast Asia \u2014 GPU compute and model deployment infrastructure.",
+    "website": "https://neysa.ai",
+    "funding_rounds": [
+      {
+        "stage": "Series A",
+        "date": "2025",
+        "amount_m": 30,
+        "lead_investors": [
+          "NTTVC",
+          "Z47",
+          "Nexus Partners"
+        ]
+      }
+    ],
+    "total_raised_m": 30
+  },
+  {
+    "name": "Aim Security",
+    "slug": "aim-security",
+    "founded": 2023,
+    "hq": "Tel Aviv, Israel",
+    "sector": "AI Security / Agent Protection",
+    "one_liner": "Runtime protection for AI agents \u2014 secures agentic AI against prompt injection, data exfiltration, and AI-specific attacks.",
+    "website": "https://aim.security",
+    "funding_rounds": [
+      {
+        "stage": "Series A",
+        "date": "2025",
+        "amount_m": 18
+      }
+    ],
+    "total_raised_m": 18
+  }
+]
