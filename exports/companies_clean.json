@@ -4496,7 +4496,7 @@
     "website": "https://axelera.ai",
     "sector": "AI Chips / Edge Inference",
     "one_liner": "Energy-efficient AI inference chips for edge computing \u2014 designed to undercut Nvidia on power.",
-    "total_raised_m": 350.0,
+    "total_raised_m": 380.0,
     "latest_valuation_m": null,
     "employees": null,
     "revenue_signals": null,
@@ -6436,8 +6436,41 @@
     "funding_rounds": [
       {
         "company_slug": "buildots",
+        "stage": "Seed",
+        "date": 2019,
+        "amount_m": 3.0,
+        "valuation_m": null,
+        "lead_investors": "TLV Partners",
+        "other_investors": "",
+        "source": "https://techcrunch.com/2020/07/30/buildots-raises-16m-to-bring-computer-vision-to-construction-management/",
+        "notes": ""
+      },
+      {
+        "company_slug": "buildots",
+        "stage": "Series A",
+        "date": "2020-07",
+        "amount_m": 13.0,
+        "valuation_m": null,
+        "lead_investors": "TLV Partners",
+        "other_investors": "",
+        "source": "https://techcrunch.com/2020/07/30/buildots-raises-16m-to-bring-computer-vision-to-construction-management/",
+        "notes": "Reported as $16M total including seed."
+      },
+      {
+        "company_slug": "buildots",
+        "stage": "Series B",
+        "date": "2021-08",
+        "amount_m": 30.0,
+        "valuation_m": null,
+        "lead_investors": "Lightspeed Venture Partners",
+        "other_investors": "",
+        "source": "https://www.prnewswire.com/news-releases/buildots-announces-30-million-series-b-301348142.html",
+        "notes": "TLV Partners, Future Energy Ventures, Tidhar Construction, Maor Investments also participated."
+      },
+      {
+        "company_slug": "buildots",
         "stage": "Series C",
-        "date": "2023-08",
+        "date": "2022-05",
         "amount_m": 60.0,
         "valuation_m": null,
         "lead_investors": "Viola Growth; O.G. Tech (Eyal Ofer)",

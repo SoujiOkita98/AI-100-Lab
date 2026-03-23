@@ -46,7 +46,7 @@ crunchbase: https://www.crunchbase.com/organization/axelera-ai
 crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/axelera-ai
 twitter: '@AxeleraAI'
-total_raised_m: 350.0
+total_raised_m: 380
 founders:
 - name: Fabrizio Del Maffeo
   role: CEO

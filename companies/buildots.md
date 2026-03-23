@@ -11,8 +11,28 @@ founders:
   role: CEO
   background: Talpiot program graduate
 funding_rounds:
+- stage: Seed
+  date: 2019
+  amount_m: 3
+  lead_investors:
+  - TLV Partners
+  source: https://techcrunch.com/2020/07/30/buildots-raises-16m-to-bring-computer-vision-to-construction-management/
+- stage: Series A
+  date: 2020-07
+  amount_m: 13
+  lead_investors:
+  - TLV Partners
+  source: https://techcrunch.com/2020/07/30/buildots-raises-16m-to-bring-computer-vision-to-construction-management/
+  notes: Reported as $16M total including seed.
+- stage: Series B
+  date: 2021-08
+  amount_m: 30
+  lead_investors:
+  - Lightspeed Venture Partners
+  source: https://www.prnewswire.com/news-releases/buildots-announces-30-million-series-b-301348142.html
+  notes: TLV Partners, Future Energy Ventures, Tidhar Construction, Maor Investments also participated.
 - stage: Series C
-  date: 2023-08
+  date: 2022-05
   amount_m: 60
   lead_investors:
   - Viola Growth
