@@ -1,6 +1,5 @@
 ---
 company: Cleanlab
-slug: cleanlab
 founded: 2021
 headquarters: San Francisco, CA
 ceo: Curtis Northcutt (now Director, AI Research at Handshake)
@@ -10,7 +9,6 @@ co_founders:
 - Anish Athalye (CTO) — MIT PhD, Systems
 sector: Data-Centric AI / Data Quality / AI Reliability
 total_funding: ~$30M
-latest_valuation: Not disclosed
 status: Acquired by Handshake (January 2026)
 founders:
 - name: Curtis Northcutt
@@ -37,13 +35,13 @@ total_raised_m: 30
 funding_rounds:
 - stage: Seed
   date: '2022'
-  amount_m: 5
+  amount_m: 5.0
   lead_investors:
   - Bain Capital Ventures
   source: https://www.crunchbase.com/organization/cleanlab
 - stage: Series A
   date: 2023-10
-  amount_m: 25
+  amount_m: 25.0
   lead_investors:
   - Menlo Ventures
   source: https://www.crunchbase.com/organization/cleanlab

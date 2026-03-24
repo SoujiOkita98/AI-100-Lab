@@ -1,13 +1,10 @@
 ---
 company: Automat (fka Lasso)
-legal_name: Automat AI, Inc.
 founded: 2023
 headquarters: San Francisco, CA
 website: https://automat.ai
 sector: AI / Automation / RPA
 stage: Pre-Seed
-latest_valuation: Undisclosed
-total_funding: ~$1M (estimated)
 headcount_estimate: ~5-10
 status: Private
 yc_batch: W23
@@ -28,11 +25,13 @@ funding_rounds:
   lead_investors:
   - Y Combinator
   source: https://www.crunchbase.com/organization/lasso-d885
-one_liner: AI-enabled RPA platform that turns video recordings and descriptions into automated software workflows using ChatGPT and computer vision
+one_liner: AI-enabled RPA platform that turns video recordings and descriptions into automated software workflows using ChatGPT
+  and computer vision
 website_verified: true
 linkedin: https://www.linkedin.com/company/automat-ai
 crunchbase: https://www.crunchbase.com/organization/lasso-d885
 name: Automat
+total_raised_m: 1.0
 ---
 
 # Automat (fka Lasso)

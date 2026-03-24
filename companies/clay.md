@@ -1,13 +1,10 @@
 ---
 name: Clay
-slug: clay
 website: https://www.clay.com
-domain: clay.com
 founded: 2017
 headquarters: New York, NY
 sector: AI / Sales Intelligence / GTM Automation
 stage: Series C
-latest_valuation: $5B (Jan 2026 tender offer); $3.1B (Aug 2025 Series C)
 total_funding_estimated: ~$250M+
 revenue_arr: $100M ARR (Nov 2025)
 employees: ~1,167 (Feb 2026, per Tracxn)
@@ -33,6 +30,7 @@ founders:
   background: Technical co-founder.
   origin: Romanian-American
 linkedin_verified: true
+funding_rounds: []
 ---
 
 # Clay

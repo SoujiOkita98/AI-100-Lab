@@ -1,6 +1,5 @@
 ---
 company: Apptronik
-legal_name: Apptronik, Inc.
 founded: 2016
 headquarters: Austin, Texas
 ceo: Jeff Cardenas
@@ -30,8 +29,6 @@ founders:
 employees: ~264-300 (as of late 2025; rapidly growing)
 sector: Humanoid Robotics / AI
 flagship_product: Apollo (general-purpose humanoid robot)
-valuation: ~$5.5B (Feb 2026)
-total_funding: ~$935M+ (Series A cumulative)
 key_investors:
 - Google (lead)
 - Mercedes-Benz (>EUR 100M committed)
@@ -66,15 +63,15 @@ funding_rounds:
   source: https://www.prweb.com/releases/Apptronik_Secures_14_6M_to_Accelerate_Commercialization_of_General_Purpose_Robots/prweb18754478.htm
 - stage: Series A
   date: 2025-02
-  amount_m: 350
+  amount_m: 350.0
   lead_investors:
   - B Capital
   - Capital Factory
   source: https://techcrunch.com/2025/02/13/apptronik-raises-350m-to-build-humanoid-robots-with-help-from-google/
 - stage: Series A Extension
   date: 2026-02
-  amount_m: 520
-  valuation_m: 5500
+  amount_m: 520.0
+  valuation_m: 5500.0
   lead_investors:
   - B Capital
   - Google
@@ -89,6 +86,9 @@ crunchbase: https://www.crunchbase.com/organization/apptronik
 crunchbase_verified: true
 name: Apptronik
 linkedin_verified: true
+total_raised_m: 935.0
+latest_valuation_m: 5500.0
+status: active
 ---
 
 # Apptronik

@@ -12,12 +12,11 @@ founders:
 funding_rounds:
 - stage: Series B
   date: '2025'
-  amount_m: 140
-  valuation_m: 1400
+  amount_m: 140.0
+  valuation_m: 1400.0
   lead_investors:
   - Baidu
   - CRRC
-latest_valuation: 1400
 last_updated: 2026-03-21
 confidence: medium
 data_notes: 'Needs verification: website, source_urls. Profile may be incomplete.'
@@ -28,6 +27,7 @@ crunchbase_verified: true
 total_raised_m: 140.0
 linkedin: https://www.linkedin.com/company/ai2-robotics/
 linkedin_verified: true
+latest_valuation_m: 1400.0
 ---
 
 # AI2 Robotics

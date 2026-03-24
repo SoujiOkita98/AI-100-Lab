@@ -17,7 +17,6 @@ funding_rounds:
 - stage: Seed
   date: 2026-03
   amount_m: 14.5
-  valuation_m: null
   lead_investors:
   - Pitango HealthTech
   source: https://www.calcalistech.com/ctechnews/article/h1hd004eq11g

@@ -1,12 +1,9 @@
 ---
 name: Artisan AI
-slug: artisan-ai
-domain: artisan.co
 founded: 2023
 headquarters: San Francisco, CA
 sector: AI / Sales Automation / Digital Workers
 stage: Series A
-latest_valuation: Undisclosed (~$100M+ estimated)
 total_funding_estimated: ~$37M
 revenue_arr: ~$6M ARR (2025)
 employees: ~35 (estimated, 2025)
@@ -31,6 +28,7 @@ crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/artisanai
 total_raised_m: 46.0
 linkedin_verified: true
+funding_rounds: []
 ---
 
 # Artisan AI

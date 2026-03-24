@@ -1,13 +1,10 @@
 ---
 company: Athina AI
-legal_name: Athina AI, Inc.
 founded: 2023
 headquarters: San Francisco, CA
 website: https://www.athina.ai
 sector: AI Infrastructure / LLM Evaluation
 stage: Seed
-latest_valuation: Undisclosed
-total_funding: ~$3M
 headcount_estimate: ~10-15
 status: Private
 yc_batch: W23
@@ -30,7 +27,7 @@ funding_rounds:
   source: https://www.crunchbase.com/organization/magikinvest
 - stage: Seed
   date: 2024-11
-  amount_m: 2.96
+  amount_m: 3.0
   lead_investors:
   - Undisclosed
   source: https://www.trysignalbase.com/news/funding/announcing-athina-ai's-seed-round-2.96m-raised-to-empower-llm-developers-in-ai-prototype-and-production-monitoring
@@ -39,6 +36,7 @@ website_verified: true
 linkedin: https://www.linkedin.com/company/athina-ai
 crunchbase: https://www.crunchbase.com/organization/magikinvest
 name: Athina AI
+total_raised_m: 3.0
 ---
 
 # Athina AI

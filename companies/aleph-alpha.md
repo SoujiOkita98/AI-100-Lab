@@ -13,22 +13,14 @@ employees: 351
 founders:
 - name: Jonas Andrulis
   role: Founder; Chairman of Advisory Board (as of Jan 2026; stepped down as CEO Oct 2025)
-  nationality: German
-  education:
-  - Industrial Engineering, Karlsruhe Institute of Technology (KIT), specialization in AI and modeling
-  prior_experience:
-  - Apple, Special Projects Group - Senior AI R&D Manager (multiple years in California)
-  - Pallas Ludens - Founder & CEO (machine learning / computer vision startup)
-  source: https://www.deutschland.de/en/topic/business/portrait-of-jonas-andrulis-founder-of-aleph-alpha
+  background: Industrial Engineering, Karlsruhe Institute of Technology (KIT), specialization in AI and modeling Apple, Special
+    Projects Group - Senior AI R&D Manager (multiple years in California); Pallas Ludens - Founder & CEO (machine learning
+    / computer vision startup)
+  origin: German
 - name: Samuel Weinbach
   role: Co-Founder; Co-Chief Research Officer
-  nationality: German (unconfirmed)
-  education:
-  - Unknown (details not publicly available)
-  prior_experience:
-  - Deloitte - AI Expert
-  notes: Leads Aleph Alpha Research alongside Yasser Jadidi. Key contributor to the company's work on LLM explainability.
-  source: https://theorg.com/org/aleph-alpha/org-chart/samuel-weinbach
+  background: Unknown (details not publicly available) Deloitte - AI Expert
+  origin: German (unconfirmed)
 current_leadership:
 - name: Reto Spoerri
   role: Co-CEO (installed summer 2025)
@@ -45,18 +37,18 @@ current_leadership:
 funding_rounds:
 - stage: Seed
   date: 2020
-  amount_eur: ~5.3M
-  notes: Early-stage funding to begin LLM development.
+  amount_m: 5.8
   source: https://www.clay.com/dossier/aleph-alpha-funding
+  notes: Early-stage funding to begin LLM development.
 - stage: Series A
   date: '2021'
-  amount_m: 25
+  amount_m: 25.0
   lead_investors:
   - Earlybird Venture Capital
   source: https://en.wikipedia.org/wiki/Aleph_Alpha
 - stage: Series B
   date: 2023-11
-  amount_m: 500
+  amount_m: 500.0
   lead_investors:
   - Schwarz Group
   - Innovation Park AI (IPAI)

@@ -1,7 +1,6 @@
 ---
 company_name: Anysphere
 product_name: Cursor
-legal_name: Anysphere Inc.
 founded: 2022
 headquarters: San Francisco, CA
 sector: AI-Powered Developer Tools
@@ -38,32 +37,32 @@ total_raised_m: 3373
 funding_rounds:
 - stage: Seed
   date: 2023-10
-  amount_m: 8
+  amount_m: 8.0
   lead_investors:
   - OpenAI Startup Fund
   source: https://anysphere.inc/blog/openai-fund
 - stage: Series A
   date: 2024-08
-  amount_m: 60
+  amount_m: 60.0
   lead_investors:
   - Andreessen Horowitz
   - Thrive Capital
   source: https://techcrunch.com/2024/08/09/anysphere-a-github-copilot-rival-has-raised-60m-series-a-at-400m-valuation-from-a16z-thrive-sources-say/
 - stage: Series B
   date: 2024-12
-  amount_m: 105
+  amount_m: 105.0
   lead_investors:
   - Thrive Capital
   source: https://techcrunch.com/2024/12/19/in-just-4-months-ai-coding-assistant-cursor-raised-another-100m-at-a-2-5b-valuation-led-by-thrive-sources-say/
 - stage: Series C
   date: 2025-06
-  amount_m: 900
+  amount_m: 900.0
   lead_investors:
   - Thrive Capital
   source: https://techcrunch.com/2025/06/05/cursors-anysphere-nabs-9-9b-valuation-soars-past-500m-arr/
 - stage: Series D
   date: 2025-11
-  amount_m: 2300
+  amount_m: 2300.0
   lead_investors:
   - Accel
   - Coatue Management

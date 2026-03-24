@@ -1,6 +1,5 @@
 ---
 company: Cerebras Systems
-legal_name: Cerebras Systems Inc.
 founded: 2015
 headquarters: Sunnyvale, California, USA
 sector: AI Hardware / Semiconductors
@@ -41,13 +40,12 @@ twitter: '@CerebrasSystems'
 crunchbase: https://www.crunchbase.com/organization/cerebras
 crunchbase_verified: true
 latest_valuation_m: 23000
-data_notes: Valuation updated to $23B after Series H (Feb 2026). Previous $8.1B was from Series G (Oct 2025). Sum
-  of disclosed rounds is ~$2.8B; total_raised_m of $4.3B includes undisclosed early rounds and secondary transactions.
+data_notes: Valuation updated to $23B after Series H (Feb 2026). Previous $8.1B was from Series G (Oct 2025). Sum of disclosed
+  rounds is ~$2.8B; total_raised_m of $4.3B includes undisclosed early rounds and secondary transactions.
 total_raised_m: 4300
 funding_rounds:
 - stage: Seed
   date: 2015-12
-  amount_m: null
   lead_investors:
   - Benchmark
   - Foundation Capital
@@ -56,57 +54,58 @@ funding_rounds:
   notes: Exact seed amount undisclosed. Company founded 2015; seed preceded Series A.
 - stage: Series A
   date: 2016-05
-  amount_m: 27
+  amount_m: 27.0
   lead_investors:
   - Benchmark
   - Foundation Capital
   source: https://www.crunchbase.com/organization/cerebras-systems
 - stage: Series B
   date: 2016-12
-  amount_m: 25
+  amount_m: 25.0
   lead_investors:
   - Coatue Management
   source: https://www.crunchbase.com/organization/cerebras-systems
 - stage: Series C
   date: 2017-01
-  amount_m: 60
+  amount_m: 60.0
   lead_investors:
   - VY Capital
   source: https://www.crunchbase.com/organization/cerebras-systems
 - stage: Series D
   date: 2018-11
-  amount_m: 88
+  amount_m: 88.0
   lead_investors:
   - Altimeter
   - VY Capital
   source: https://www.crunchbase.com/organization/cerebras-systems
 - stage: Series E
   date: 2019-11
-  amount_m: 272
+  amount_m: 272.0
   lead_investors:
   - Undisclosed
   source: https://en.wikipedia.org/wiki/Cerebras
 - stage: Series F
   date: 2021-11
-  amount_m: 250
+  amount_m: 250.0
   lead_investors:
   - Alpha Wave Ventures
   source: https://www.cerebras.ai/press-release/cerebras-systems-raises-250m-in-funding-for-over-4b-valuation-to-advance-the-future-of-artificial-intelligence-compute
 - stage: Series G
   date: 2025-09
-  amount_m: 1100
+  amount_m: 1100.0
   lead_investors:
   - Fidelity
   - Atreides Management
   source: https://www.cerebras.ai/press-release/series-g
 - stage: Series H
   date: 2026-02
-  amount_m: 1000
+  amount_m: 1000.0
   lead_investors:
   - Tiger Global
   source: https://www.cerebras.ai/press-release/cerebras-systems-raises-usd1-billion-series-h
 name: Cerebras Systems
 linkedin_verified: true
+status: active
 ---
 
 # Cerebras Systems

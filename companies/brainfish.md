@@ -18,7 +18,6 @@ funding_rounds:
 - stage: Seed
   date: 2024-05
   amount_m: 2.5
-  lead_investors: []
   source: https://www.brainfishai.com/blog/australian-start-up-brainfish-raises-3-85m-in-seed-funding-round-to-redefine-customer-support-experience-with-ai
   notes: AUD $3.85M (~USD $2.5M).
 - stage: Pre-Series A

@@ -1,6 +1,5 @@
 ---
 name: Callosum
-slug: callosum
 sector: AI / Compute Orchestration / Multi-chip Infrastructure
 founded: '2024'
 headquarters: London, United Kingdom
@@ -25,6 +24,7 @@ crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/go-callosum
 total_raised_m: 10.25
 linkedin_verified: true
+funding_rounds: []
 ---
 
 # Callosum

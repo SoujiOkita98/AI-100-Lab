@@ -1,6 +1,5 @@
 ---
 name: Atlan
-legal_name: Atlan Pte. Ltd.
 founded: 2018
 headquarters: New York, New York, USA
 website: https://atlan.com
@@ -10,47 +9,46 @@ sector: AI Data Governance & Metadata Management
 stage: Growth
 latest_valuation_usd: 750000000
 latest_valuation_date: 2024-05
-total_funding_usd: ~206_000_000
 employee_count_approx: 400
 employee_count_date: 2025
 ipo_status: Private
 founders:
 - name: Prukalpa Sankar
   role: Co-Founder & Co-CEO
+  background: Nanyang Technological University, Singapore
   origin: Indian
-  education: Nanyang Technological University, Singapore
   prior: Co-Founder of SocialCops; Forbes 30 Under 30; TED Speaker
 - name: Varun Banka
   role: Co-Founder & Co-CEO
+  background: Nanyang Technological University, Singapore
   origin: Indian
-  education: Nanyang Technological University, Singapore
   prior: Co-Founder of SocialCops
 funding_rounds:
-- round: Seed
+- stage: Seed
   date: 2019-07
-  amount_usd: 2500000
+  amount_m: 2.5
   lead_investors:
   - WaterBridge Ventures
   source: https://techcrunch.com/2019/07/01/atlan-socialcops/
-- round: Series A
+- stage: Series A
   date: 2021-05
-  amount_usd: 16000000
+  amount_m: 16.0
   lead_investors:
   - Insight Partners
   source: https://tracxn.com/d/companies/atlan/__wmS8cTNiTpcWtSAsRTmxu2alNUcymWvjDPnevifoSnQ/funding-and-investors
-- round: Series B
+- stage: Series B
   date: 2023-03
-  amount_usd: ~50_000_000
+  amount_m: 50.0
   lead_investors:
   - Insight Partners
   other_investors:
   - Salesforce Ventures
   - PeakXV Partners
   source: https://tracxn.com/d/companies/atlan/__wmS8cTNiTpcWtSAsRTmxu2alNUcymWvjDPnevifoSnQ/funding-and-investors
-- round: Series C
+- stage: Series C
   date: 2024-05
-  amount_usd: 105000000
-  valuation_usd: 750000000
+  amount_m: 105.0
+  valuation_m: 750.0
   lead_investors:
   - GIC (Singapore sovereign wealth fund)
   - Meritech Capital
@@ -65,6 +63,8 @@ crunchbase: https://www.crunchbase.com/organization/atlan
 crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/atlan-hq
 linkedin_verified: true
+total_raised_m: 206.0
+status: active
 ---
 
 # Atlan

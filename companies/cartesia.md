@@ -1,6 +1,5 @@
 ---
 company: Cartesia
-legal_name: Cartesia AI, Inc.
 website: https://cartesia.ai
 founded: 2023
 headquarters: San Francisco, CA, USA
@@ -41,13 +40,13 @@ total_raised_m: 91
 funding_rounds:
 - stage: Seed
   date: 2024-12
-  amount_m: 27
+  amount_m: 27.0
   lead_investors:
   - Index Ventures
   source: https://www.crunchbase.com/organization/cartesia
 - stage: Series A
   date: 2025-03
-  amount_m: 64
+  amount_m: 64.0
   lead_investors:
   - Kleiner Perkins
   source: https://www.crunchbase.com/organization/cartesia

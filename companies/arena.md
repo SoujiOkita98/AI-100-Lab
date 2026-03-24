@@ -4,7 +4,6 @@ former_names:
 - Chatbot Arena
 - LMArena
 - LMSYS Chatbot Arena
-domain: AI Model Evaluation
 founded: '2023'
 incorporated: 2025
 headquarters: San Francisco Bay Area, CA (originated from UC Berkeley)
@@ -52,12 +51,6 @@ funding:
     - Lightspeed Venture Partners
     - Laude Ventures
 status: Unicorn
-tags:
-- AI evaluation
-- LLM benchmarking
-- crowdsourced evaluation
-- model leaderboards
-- enterprise AI
 last_updated: 2026-03-20
 one_liner: Arena (formerly LMArena, originally Chatbot Arena) is a community-powered AI model evaluation platform
 website_verified: true
@@ -66,6 +59,13 @@ crunchbase_verified: true
 total_raised_m: 250.0
 linkedin: https://www.linkedin.com/company/arena/
 linkedin_verified: true
+sector:
+- AI evaluation
+- LLM benchmarking
+- crowdsourced evaluation
+- model leaderboards
+- enterprise AI
+funding_rounds: []
 ---
 
 # Arena

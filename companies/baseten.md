@@ -1,13 +1,10 @@
 ---
 company: Baseten
-legal_name: Baseten Labs Inc.
 founded: 2019
 headquarters: San Francisco, CA
 sector: AI Infrastructure / Cloud
 subsector: AI Model Inference & Serving
 website: https://www.baseten.co
-total_funding: ~$585M
-latest_valuation: $5B (Jan 2026)
 estimated_annual_revenue: ~$15.8M (2025 est.; see note below)
 employee_count_approx: ~150-190 (est. 2025-2026)
 status: Private
@@ -36,40 +33,40 @@ last_updated: 2026-03-20
 funding_rounds:
 - stage: Seed
   date: 2022-04
-  amount_m: 8
+  amount_m: 8.0
   lead_investors:
   - Greylock
   - South Park Commons
   source: https://www.globenewswire.com/news-release/2022/04/26/2429468/0/en/
 - stage: Series A
   date: 2022-04
-  amount_m: 12
+  amount_m: 12.0
   lead_investors:
   - Greylock
   source: https://www.baseten.co/blog/announcing-our-series-a/
 - stage: Series B
   date: 2024-03
-  amount_m: 40
+  amount_m: 40.0
   lead_investors:
   - Spark Capital
   source: https://www.crunchbase.com/funding_round/baseten-series-b--8c4203e2
 - stage: Series C
   date: 2025-02
-  amount_m: 75
+  amount_m: 75.0
   lead_investors:
   - IVP
   - Spark Capital
   source: https://www.baseten.co/blog/announcing-baseten-75m-series-c/
 - stage: Series D
   date: 2025-09
-  amount_m: 150
+  amount_m: 150.0
   lead_investors:
   - BOND
   source: https://www.crunchbase.com/funding_round/baseten-series-d--92b99bf7
 - stage: Series E
   date: 2026-01
-  amount_m: 300
-  valuation_m: 5000
+  amount_m: 300.0
+  valuation_m: 5000.0
   lead_investors:
   - IVP
   - CapitalG
@@ -83,6 +80,8 @@ crunchbase: https://www.crunchbase.com/organization/baseten
 crunchbase_verified: true
 name: Baseten
 linkedin_verified: true
+total_raised_m: 585.0
+latest_valuation_m: 5000.0
 ---
 
 # Baseten

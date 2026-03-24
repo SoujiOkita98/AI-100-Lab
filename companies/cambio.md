@@ -1,5 +1,5 @@
 ---
-name: "Cambio"
+name: Cambio
 company_name: Cambio
 founded: '2022'
 headquarters: San Francisco, USA
@@ -7,51 +7,64 @@ website: https://www.cambio.ai/
 linkedin: https://www.linkedin.com/company/cambioai
 linkedin_verified: true
 sector: PropTech / Climate Tech / Commercial Real Estate / Agentic AI
-one_liner: "AI-native commercial real estate operations platform that transforms raw building data into actionable insights for decarbonization, capital planning, and compliance."
+one_liner: AI-native commercial real estate operations platform that transforms raw building data into actionable insights
+  for decarbonization, capital planning, and compliance.
 status: active
 stage: Series A
 total_raised_m: 22.0
-valuation: ~$100M (Series A, January 2026)
 founders:
-  - name: "Leia de Guzman"
-    role: "Co-Founder & Co-CEO"
-    background: "Former Investments Director at Oxford Properties/OMERS, deployed $8B globally; climate tech investor at G2 Venture Partners; BS Environmental Science (Queen's University), MBA Stanford, CFA"
-    origin: "Philippines (moved to Canada as a child)"
-  - name: "Stephanie Grayson"
-    role: "Co-Founder & Co-CEO"
-    background: "Former CRE investor at KKR and Goldman Sachs, deployed $2B in capital; started career at JPMorgan; BA Government & Economics (Harvard), MBA & MS Sustainable Built Environment (Stanford)"
-    origin: "USA (first-generation Cuban American)"
+- name: Leia de Guzman
+  role: Co-Founder & Co-CEO
+  background: Former Investments Director at Oxford Properties/OMERS, deployed $8B globally; climate tech investor at G2 Venture
+    Partners; BS Environmental Science (Queen's University), MBA Stanford, CFA
+  origin: Philippines (moved to Canada as a child)
+- name: Stephanie Grayson
+  role: Co-Founder & Co-CEO
+  background: Former CRE investor at KKR and Goldman Sachs, deployed $2B in capital; started career at JPMorgan; BA Government
+    & Economics (Harvard), MBA & MS Sustainable Built Environment (Stanford)
+  origin: USA (first-generation Cuban American)
 key_investors:
-  - Maverick Ventures
-  - Y Combinator
-  - Adverb Ventures
-  - Peterson Ventures
+- Maverick Ventures
+- Y Combinator
+- Adverb Ventures
+- Peterson Ventures
+- Fifth Wall
+- Pear VC
+- CRV
+- NFX
+- Accel
+- Agya
+funding_rounds:
+- stage: Seed
+  date: '2022'
+  amount_m: 4.0
+  valuation_m: 35.0
+  lead_investors:
   - Fifth Wall
+  - Peterson Ventures
   - Pear VC
   - CRV
   - NFX
   - Accel
   - Agya
-funding_rounds:
-  - stage: "Seed"
-    date: "2022"
-    amount_m: 4
-    valuation_m: 35
-    lead_investors: ["Fifth Wall", "Peterson Ventures", "Pear VC", "CRV", "NFX", "Accel", "Agya"]
-    notes: "Y Combinator S22 batch"
-    source: "https://www.ycombinator.com/companies/cambio-2"
-  - stage: "Series A"
-    date: "2026-01"
-    amount_m: 18
-    valuation_m: 100
-    lead_investors: ["Maverick Ventures"]
-    other_investors: ["Y Combinator", "Adverb Ventures", "Peterson Ventures"]
-    angel_investors: "Angels from OpenAI, Anthropic, Notion, Procore, Vanta, Vercel, ServiceNow, Amplitude"
-    source: "https://proptechconnect.com/cambio-announced-its-public-launch-and-18-million-in-series-a-funding/"
+  source: https://www.ycombinator.com/companies/cambio-2
+  notes: Y Combinator S22 batch
+- stage: Series A
+  date: 2026-01
+  amount_m: 18.0
+  valuation_m: 100.0
+  lead_investors:
+  - Maverick Ventures
+  other_investors:
+  - Y Combinator
+  - Adverb Ventures
+  - Peterson Ventures
+  source: https://proptechconnect.com/cambio-announced-its-public-launch-and-18-million-in-series-a-funding/
 crunchbase: https://www.crunchbase.com/organization/cambio-0fb5
 website_verified: true
 confidence: medium
 last_updated: 2026-03-23
+latest_valuation_m: 100.0
 ---
 
 # Cambio

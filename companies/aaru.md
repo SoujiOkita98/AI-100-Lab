@@ -1,8 +1,6 @@
 ---
 name: Aaru
-legal_name: Aaru (exact legal entity name unconfirmed)
 website: https://aaru.com
-domain: aaru.com
 founded: Marc
 sector: AI / Synthetic Research / Market Research
 stage: Series A
@@ -21,15 +19,12 @@ other_investors:
 founders:
 - name: Cameron Fink
   role: Co-founder & CEO
-  age_approx: 20 (as of early 2026)
   origin: American
 - name: Ned Koh
   role: Co-founder & President
-  age_approx: 20 (as of early 2026)
   origin: American
 - name: John Kessler
   role: Co-founder & CTO
-  age_approx: 16 (as of early 2026)
   origin: American
 arr_est: <$10M (as of late 2025)
 status: active
@@ -44,7 +39,7 @@ total_raised_m: 50
 funding_rounds:
 - stage: Series A
   date: '2025'
-  amount_m: 50
+  amount_m: 50.0
   lead_investors:
   - Redpoint Ventures
   source: https://www.crunchbase.com/organization/aaru

@@ -5,8 +5,6 @@ founded: 2021
 headquarters: London, UK
 ceo: Gary Glick (Executive Chairman)
 employees: ~50-80 (estimated)
-latest_valuation: Undisclosed (Series B, Aug 2025)
-total_funding: $150M
 stage: Series B
 status: Private
 website: https://charmtx.com
@@ -23,14 +21,14 @@ last_updated: 2026-03-20
 funding_rounds:
 - stage: Series A
   date: 2022-06
-  amount_m: 50
+  amount_m: 50.0
   lead_investors:
   - F-Prime Capital
   - OrbiMed
   source: https://www.crunchbase.com/funding_round/charm-therapeutics-series-a--4ba7d923
 - stage: Series B
   date: 2025-09
-  amount_m: 80
+  amount_m: 80.0
   lead_investors:
   - NEA
   - SR One
@@ -43,6 +41,7 @@ crunchbase: https://www.crunchbase.com/organization/charm-therapeutics
 crunchbase_verified: true
 name: Charm Therapeutics
 linkedin_verified: true
+total_raised_m: 150.0
 ---
 
 # Charm Therapeutics

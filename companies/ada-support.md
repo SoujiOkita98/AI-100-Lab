@@ -22,13 +22,13 @@ founders:
 funding_rounds:
 - stage: Series C
   date: 2021-05
-  amount_m: 130
+  amount_m: 130.0
   lead_investors:
   - Spark Capital
   source: https://www.crunchbase.com/organization/ada-support
 - stage: Government Grant
   date: 2025-03
-  amount_m: 1.75
+  amount_m: 1.8
   lead_investors:
   - Government of Canada
   source: https://www.crunchbase.com/organization/ada-support

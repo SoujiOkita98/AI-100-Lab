@@ -2,7 +2,6 @@
 name: 1X Technologies
 former_name: Halodi Robotics
 founded: '2014'
-incorporated_country: Norway
 other_offices:
 - Moss, Norway (manufacturing + original HQ)
 - Hayward, California (primary manufacturing)
@@ -14,10 +13,8 @@ last_updated: 2026-03-20
 founders:
 - name: Bernt Oivind Bornich
   role: Founder & CEO
-  background: 'Norwegian roboticist. Studied at University of Oslo. Described as a "science nerd, roboticist, and jack-of-all-trades."
+  background: Norwegian roboticist. Studied at University of Oslo. Described as a "science nerd, roboticist, and jack-of-all-trades."
     Has led the company from its 2014 founding through rebranding and pivot to consumer humanoids.
-
-    '
   origin: Norwegian
 - name: Phuong Nguyen
   role: Co-founder, former CTO
@@ -31,8 +28,8 @@ founders:
 funding_rounds:
 - stage: Seed / Early
   date: ~2021-05
-  amount: 86M NOK (~$10M USD)
-  valuation: Unknown
+  amount_m: null
+  valuation_m: null
   lead_investors:
   - Valinor
   other_investors:
@@ -45,8 +42,8 @@ funding_rounds:
     '
 - stage: Series A2
   date: 2023-03
-  amount: $23.5M
-  valuation: ~$210M post-money (reported)
+  amount_m: 23.5
+  valuation_m: null
   lead_investors:
   - OpenAI Startup Fund
   other_investors:
@@ -61,8 +58,8 @@ funding_rounds:
     '
 - stage: Series B
   date: 2024-01-11
-  amount: $100M
-  valuation: ~$800M post-money (estimated; some sources cite $500M+, others ~$820M)
+  amount_m: 100.0
+  valuation_m: null
   lead_investors:
   - EQT Ventures
   other_investors:
@@ -77,17 +74,18 @@ funding_rounds:
     '
 - stage: Series C (UNCONFIRMED)
   date: ~2025-09 (reported target)
-  amount: Up to $1B (target)
-  valuation: $10B+ (target, >12x Series B valuation)
-  lead_investors: Unknown
-  other_investors: Unknown
+  amount_m: null
+  valuation_m: 10000.0
+  lead_investors:
+  - Unknown
+  other_investors:
+  - Unknown
   source: https://techstartups.com/2025/09/24/norways-1x-raising-1b-at-10b-valuation-to-bring-humanoid-robot-neo-into-homes/
   notes: 'UNCERTAINTY: The Information and other outlets reported in Sep 2025 that 1X was in talks to raise up to $1B. As
     of March 2026, I could not independently confirm this round closed or identify the final investors. Do not treat this
     as confirmed.
 
     '
-total_known_funding: ~$126M (confirmed); potentially >$1B if Series C closed
 one_liner: 1X Technologies (formerly Halodi Robotics) is a Norwegian-American humanoid robotics company building general-purpose
   androids for home and enterprise use
 website_verified: true

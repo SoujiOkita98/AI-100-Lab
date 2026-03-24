@@ -14,7 +14,6 @@ founders:
   origin: Chinese-American
 stage: Series B
 total_funding_raised: ~$135M
-latest_valuation: ~$700M (January 2025)
 estimated_arr: ~$40M (March 2025)
 team_size: ~35 (as of early 2025)
 sector: AI-Powered Development Tools / Vibe Coding
@@ -37,7 +36,7 @@ funding_rounds:
   source: https://blog.stackblitz.com/posts/seed-funding/
 - stage: Series A
   date: 2024-11
-  amount_m: 22
+  amount_m: 22.0
   lead_investors:
   - Emergence Capital
   - GV
@@ -45,7 +44,7 @@ funding_rounds:
 - stage: Series B
   date: 2025-01
   amount_m: 105.5
-  valuation_m: 700
+  valuation_m: 700.0
   lead_investors:
   - Emergence Capital
   - GV
@@ -58,6 +57,8 @@ crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/stackblitz
 total_raised_m: 135.4
 linkedin_verified: true
+latest_valuation_m: 700.0
+status: active
 ---
 
 # Bolt.new / StackBlitz

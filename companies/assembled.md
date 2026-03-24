@@ -1,6 +1,5 @@
 ---
 name: Assembled
-slug: assembled
 founded: 2018
 headquarters: San Francisco, CA
 website: https://www.assembled.com
@@ -69,11 +68,12 @@ funding_rounds:
   source: https://www.crunchbase.com/organization/assembled
 - stage: Series B
   date: 2022-05
-  amount_m: 51
+  amount_m: 51.0
   lead_investors:
   - NEA
   source: https://www.crunchbase.com/organization/assembled
 linkedin_verified: true
+status: active
 ---
 
 # Assembled

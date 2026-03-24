@@ -1,6 +1,5 @@
 ---
 name: Anomalo
-legal_name: Anomalo, Inc.
 founded: 2018
 headquarters: San Francisco, California, USA
 website: https://www.anomalo.com
@@ -10,41 +9,39 @@ sector: AI Data Quality & Observability
 stage: Growth
 latest_valuation_usd: null
 latest_valuation_date: null
-total_funding_usd: ~72_000_000
 employee_count_approx: 100
 employee_count_date: 2025
 ipo_status: Private
 founders:
 - name: Elliot Shmukler
   role: Co-Founder & CEO
-  prior: Instacart (VP of Product & Growth); LinkedIn (Head of Growth); Wealthfront
   origin: American (Russian-Jewish heritage)
+  prior: Instacart (VP of Product & Growth); LinkedIn (Head of Growth); Wealthfront
 - name: Jeremy Stanley
   role: Co-Founder & CTO
-  education: PhD (inferred from technical background)
-  prior: Instacart (VP of Data Science)
+  background: PhD (inferred from technical background)
   origin: American
+  prior: Instacart (VP of Data Science)
 funding_rounds:
-- round: Seed
+- stage: Seed
   date: 2021
-  amount_usd: null
   lead_investors:
   - Foundation Capital
   other_investors:
   - Two Sigma Ventures
   source: https://www.anomalo.com/blog/anomalo-raises-a-33-million-series-a-led-by-norwest-venture-partners/
-- round: Series A
+- stage: Series A
   date: 2022
-  amount_usd: 33000000
+  amount_m: 33.0
   lead_investors:
   - Norwest Venture Partners
   other_investors:
   - Foundation Capital
   - Two Sigma Ventures
   source: https://www.anomalo.com/blog/anomalo-raises-a-33-million-series-a-led-by-norwest-venture-partners/
-- round: Series B
+- stage: Series B
   date: 2024-01
-  amount_usd: 33000000
+  amount_m: 33.0
   lead_investors:
   - SignalFire
   other_investors:
@@ -62,6 +59,8 @@ crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/anomalo
 twitter: '@anomalo_hq'
 linkedin_verified: true
+total_raised_m: 72.0
+status: active
 ---
 
 # Anomalo

@@ -1,13 +1,11 @@
 ---
 name: AI21 Labs
-slug: ai21-labs
 founded: '2017'
 headquarters: Tel Aviv, Israel
 us_operations: New York, NY
 website: https://www.ai21.com
 sector: Enterprise AI / Foundation Models
 stage: Late Stage (Series C closed; Series D status disputed)
-latest_valuation: $1.4B (Series C, August 2023)
 total_funding_confirmed: ~$336M (through Series C)
 employee_count: ~230 (as of early 2026)
 status: Independent (potential Nvidia acquisition under discussion as of late 2025)
@@ -66,24 +64,25 @@ funding_rounds:
   source: https://www.crunchbase.com/organization/ai21
 - stage: Series A
   date: 2020-07
-  amount_m: 34
+  amount_m: 34.0
   lead_investors:
   - Pitango
   source: https://www.crunchbase.com/organization/ai21
 - stage: Series B
   date: 2021-07
-  amount_m: 64
+  amount_m: 64.0
   lead_investors:
   - Ahren
   source: https://www.crunchbase.com/organization/ai21
 - stage: Series C
   date: 2023-08
-  amount_m: 208
+  amount_m: 208.0
   lead_investors:
   - Walden Catalyst
   - Pitango
   source: https://www.ai21.com/blog/ai21-completes-208-million-oversubscribed-series-c-round/
 linkedin_verified: true
+latest_valuation_m: 1400.0
 ---
 
 # AI21 Labs

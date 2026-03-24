@@ -9,12 +9,12 @@ status: active
 funding_rounds:
 - stage: Series B
   date: 2024-07
-  amount_m: 40
+  amount_m: 40.0
   lead_investors:
   - M12
 - stage: Growth
   date: 2025-07
-  amount_m: 131
+  amount_m: 131.0
 founders:
 - name: Dan Wright
   role: Co-Founder & CEO
@@ -22,7 +22,6 @@ founders:
   origin: American (inferred from name)
 - name: Jon Runyan
   role: Co-Founder & COO
-  background: ''
   origin: American (inferred from name)
 last_updated: 2026-03-21
 confidence: medium

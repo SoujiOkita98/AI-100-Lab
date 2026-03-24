@@ -17,7 +17,6 @@ founders:
   origin: Chinese (inferred from name)
 sector: Humanoid Robotics / Embodied AI
 stage: Pre-IPO (Hong Kong IPO expected Q3 2026)
-reported_valuation_usd: ~$5-6.4B (targeted IPO valuation)
 total_funding_usd: ~$84M+ disclosed (8+ rounds in 2 years)
 revenue_2025_target_usd: ~$142M (1B RMB target)
 robots_shipped_2025: ~5,168 (global leader in humanoid shipments)
@@ -39,13 +38,14 @@ total_raised_m: 84
 funding_rounds:
 - stage: Multiple rounds (8+)
   date: 2023-2025
-  amount_m: 84
+  amount_m: 84.0
   lead_investors:
   - Tencent
   - BYD
   - HongShan
   source: https://www.crunchbase.com/organization/agibot
 linkedin_verified: true
+status: active
 ---
 
 # AgiBot (Zhiyuan Robotics)

@@ -1,15 +1,11 @@
 ---
 company: Arize AI
-legal_name: Arize AI Inc.
-domain: arize.com
 sector: AI/ML Observability & Evaluation Platform
 founded: 2020
 website: https://arize.com
 headquarters: San Francisco, California
 ceo: Jason Lopatecki
 employees_approx: 150+
-latest_valuation: Undisclosed (Series C stage)
-total_funding: ~$131M
 status: Private
 last_updated: 2026-03-20
 founders:
@@ -31,26 +27,26 @@ tags:
 funding_rounds:
 - stage: Seed
   date: 2020-02
-  amount_m: 4
+  amount_m: 4.0
   lead_investors:
   - Foundation Capital
   - Trinity Ventures
   source: https://www.crunchbase.com/organization/arize-ai
 - stage: Series A
   date: 2021-09
-  amount_m: 19
+  amount_m: 19.0
   lead_investors:
   - Battery Ventures
   source: https://www.prnewswire.com/news-releases/arize-ai-raises-19-million/
 - stage: Series B
   date: 2022-09
-  amount_m: 38
+  amount_m: 38.0
   lead_investors:
   - TCV
   source: https://www.prnewswire.com/news-releases/arize-ai-raises-38-million/
 - stage: Series C
   date: 2025-02
-  amount_m: 70
+  amount_m: 70.0
   lead_investors:
   - Adams Street Partners
   source: https://arize.com/blog/arize-ai-raises-70m-series-c/
@@ -60,6 +56,7 @@ crunchbase: https://www.crunchbase.com/organization/arize-ai
 crunchbase_verified: true
 name: Arize AI
 linkedin_verified: true
+total_raised_m: 131.0
 ---
 
 # Arize AI -- AI/ML Observability & Evaluation Platform

@@ -1,13 +1,11 @@
 ---
 name: Character.AI
-legal_name: Character Technologies, Inc.
 founded: Nove
 headquarters: Menlo Park, California
 website: https://character.ai
 sector: Consumer AI / Conversational AI
 stage: Post-Series A (complicated by Google licensing deal)
 total_funding_raised: ~$193M (plus ~$2.7B in Google licensing/buyout payments)
-latest_valuation: ~$2.5B (implied by Google deal, August 2024)
 revenue_estimate: $32.2M (2024 actual); ~$50M projected for 2025
 employees: ~259 (as of February 2026)
 monthly_active_users: ~20M (late 2025); peak was ~28M (mid-2024)
@@ -24,15 +22,15 @@ last_updated: 2026-03-20
 funding_rounds:
 - stage: Seed
   date: 2021-12
-  amount_m: 43
+  amount_m: 43.0
   lead_investors:
   - Elad Gil
   - SV Angel
   source: https://www.crunchbase.com/funding_round/character-ai-seed--57b92e7f
 - stage: Series A
   date: 2023-03
-  amount_m: 150
-  valuation_m: 1000
+  amount_m: 150.0
+  valuation_m: 1000.0
   lead_investors:
   - Andreessen Horowitz
   source: https://news.crunchbase.com/ai-robotics/character-ai-unicorn-venture-funding/
@@ -45,6 +43,7 @@ crunchbase: https://www.crunchbase.com/organization/character-ai
 crunchbase_verified: true
 total_raised_m: 193.0
 linkedin_verified: true
+latest_valuation_m: 2500.0
 ---
 
 # Character.AI

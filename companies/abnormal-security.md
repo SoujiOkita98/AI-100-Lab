@@ -16,40 +16,36 @@ latest_valuation_m: 5100
 funding_rounds:
 - stage: Seed
   date: 2018
-  amount_m: null
-  valuation_m: null
   lead_investors:
   - Greylock Partners
   source: https://news.greylock.com/our-investment-in-abnormal-security-5b58650c690c
   notes: Company incubated at Greylock's San Francisco offices. Exact seed amount not publicly disclosed.
 - stage: Series A
   date: 2019-11
-  amount_m: 24
-  valuation_m: null
+  amount_m: 24.0
   lead_investors:
   - Greylock Partners
   source: https://abnormal.ai/about/news/launching-24m-series-a-funding-from-greylock
   notes: Public launch of the company coincided with Series A announcement.
 - stage: Series B
   date: 2020-11
-  amount_m: 50
-  valuation_m: null
+  amount_m: 50.0
   lead_investors:
   - Menlo Ventures
   source: https://abnormal.ai/about/news/50m-series-b-funding
   notes: Greylock participated. Total funding reached ~$75M.
 - stage: Series C
   date: 2022-05
-  amount_m: 210
-  valuation_m: 4000
+  amount_m: 210.0
+  valuation_m: 4000.0
   lead_investors:
   - Insight Partners
   source: https://abnormal.ai/about/news/series-c-funding-4b-valuation
   notes: Greylock and Menlo Ventures also participated. Tripled ARR in preceding year.
 - stage: Series D
   date: 2024-08
-  amount_m: 250
-  valuation_m: 5100
+  amount_m: 250.0
+  valuation_m: 5100.0
   lead_investors:
   - Wellington Management
   source: https://abnormal.ai/about/news/series-d-5b-valuation

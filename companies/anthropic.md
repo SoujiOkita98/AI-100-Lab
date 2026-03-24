@@ -14,71 +14,67 @@ latest_valuation_m: 380000
 funding_rounds:
 - stage: Series A
   date: 2021-05
-  amount_m: 124
-  valuation_m: 550
+  amount_m: 124.0
+  valuation_m: 550.0
   lead_investors:
   - Jaan Tallinn
   - Dustin Moskovitz
   source: https://news.crunchbase.com/ai/anthropic-raises-30b-second-largest-deal-all-time/
 - stage: Series B
   date: 2022-04
-  amount_m: 580
-  valuation_m: 4000
+  amount_m: 580.0
+  valuation_m: 4000.0
   lead_investors:
   - FTX (Sam Bankman-Fried)
   source: https://www.clay.com/dossier/anthropic-funding
 - stage: Google strategic investment
   date: 2023-02
-  amount_m: 550
-  valuation_m: null
+  amount_m: 550.0
   lead_investors:
   - Google
   source: https://en.wikipedia.org/wiki/Anthropic
   notes: Part of a broader commitment; Google eventually invested ~$2B total across 2023.
 - stage: Series C
   date: 2023-05
-  amount_m: 450
-  valuation_m: null
+  amount_m: 450.0
   lead_investors:
   - Spark Capital
   source: https://www.clay.com/dossier/anthropic-funding
   notes: Menlo Ventures, Salesforce Ventures, and Google also participated.
 - stage: Amazon strategic investment (tranche 1)
   date: 2023-09
-  amount_m: 1250
-  valuation_m: null
+  amount_m: 1250.0
   lead_investors:
   - Amazon
   source: https://techcrunch.com/2023/09/25/amazon-to-invest-up-to-4-billion-in-ai-startup-anthropic/
   notes: Initial tranche of a $4B commitment. Anthropic named AWS primary cloud provider.
 - stage: Amazon strategic investment (tranche 2)
   date: 2024-03
-  amount_m: 2750
-  valuation_m: null
+  amount_m: 2750.0
   lead_investors:
   - Amazon
   source: https://www.aboutamazon.com/news/aws/amazon-invests-additional-4-billion-anthropic-ai
   notes: Completed the initial $4B Amazon commitment.
 - stage: Series D
   date: 2024-02
-  amount_m: 750
-  valuation_m: 18400
+  amount_m: 750.0
+  valuation_m: 18400.0
   lead_investors:
   - Menlo Ventures
   source: https://www.theinformation.com/articles/anthropic-to-raise-750-million-in-menlo-ventures-led-deal
   notes: Structured as an SPV (special purpose vehicle).
 - stage: Amazon strategic investment (round 2)
   date: 2024-11
-  amount_m: 4000
-  valuation_m: 41000
+  amount_m: 4000.0
+  valuation_m: 41000.0
   lead_investors:
   - Amazon
   source: https://www.cnbc.com/2024/11/22/amazon-to-invest-another-4-billion-in-anthropic-openais-biggest-rival.html
   notes: Brought Amazon's total investment to $8B.
 - stage: Series E
   date: 2025-03
-  amount_m: 3500
-  valuation_m: 61500
+  amount_m: 3500.0
+  valuation_m: 61500.0
   lead_investors:
   - Lightspeed Venture Partners
   source: https://www.anthropic.com/news/anthropic-raises-series-e-at-usd61-5b-post-money-valuation
@@ -86,8 +82,8 @@ funding_rounds:
     Salesforce Ventures also participated.
 - stage: Series F
   date: 2025-09
-  amount_m: 13000
-  valuation_m: 183000
+  amount_m: 13000.0
+  valuation_m: 183000.0
   lead_investors:
   - GIC
   - Coatue Management
@@ -95,8 +91,8 @@ funding_rounds:
   notes: Sequoia Capital, ICONIQ, and Lightspeed also participated.
 - stage: Series G
   date: 2026-02
-  amount_m: 30000
-  valuation_m: 380000
+  amount_m: 30000.0
+  valuation_m: 380000.0
   lead_investors:
   - GIC
   - Coatue

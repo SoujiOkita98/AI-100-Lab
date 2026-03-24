@@ -1,12 +1,9 @@
 ---
 name: Attio
-slug: attio
-domain: attio.com
 founded: 2019
 headquarters: London, UK
 sector: AI / CRM / GTM Automation
 stage: Series B
-latest_valuation: Undisclosed
 total_funding_estimated: ~$116M
 revenue_arr: Undisclosed (4x YoY ARR growth reported, 2025)
 employees: ~100 (estimated)
@@ -31,6 +28,7 @@ crunchbase_verified: true
 twitter: '@attio'
 total_raised_m: 116.0
 linkedin_verified: true
+funding_rounds: []
 ---
 
 # Attio

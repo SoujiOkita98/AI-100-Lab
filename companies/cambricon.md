@@ -39,7 +39,7 @@ total_raised_m: 469
 funding_rounds:
 - stage: Series A
   date: 2017-08
-  amount_m: 100
+  amount_m: 100.0
   lead_investors:
   - Alibaba Group
   - Lenovo
@@ -52,13 +52,14 @@ funding_rounds:
   source: https://www.crunchbase.com/organization/cambricon-technologies
 - stage: IPO (STAR Market)
   date: 2020-07
-  amount_m: 369
+  amount_m: 369.0
   lead_investors:
   - Public offering
   source: https://en.wikipedia.org/wiki/Cambricon_Technologies
 data_notes: Pre-IPO funding ~$100M+; IPO raised ~$369M. Series B amount not publicly disclosed. Post-IPO private placement
   of $560M in 2025.
 linkedin_verified: true
+status: active
 ---
 
 # Cambricon Technologies

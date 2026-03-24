@@ -1,20 +1,18 @@
 ---
 company: Birch Biosciences
-legal_name: Birch Biosciences, Inc.
 founded: 2022
 headquarters: Portland, OR
 website: https://www.birchbiosciences.com
 sector: AI / Biotech / Climate / Enzyme Engineering
 stage: Seed
-latest_valuation: Undisclosed
-total_funding: ~$2M (estimated, excl. government grants)
 headcount_estimate: ~10-15
 status: Private
 yc_batch: S22
 founders:
 - name: Morgan Vague
   role: Co-Founder & CEO
-  background: Microbiologist and enzyme engineer; research background in plastic-degrading bacteria and enzymes; PhD-level expertise in synthetic biology
+  background: Microbiologist and enzyme engineer; research background in plastic-degrading bacteria and enzymes; PhD-level
+    expertise in synthetic biology
   origin: American
 last_updated: 2026-03-23
 funding_rounds:
@@ -28,6 +26,7 @@ one_liner: Uses generative AI and enzyme engineering to develop novel biological
 website_verified: true
 linkedin: https://www.linkedin.com/company/birchbiosciences
 name: Birch Biosciences
+total_raised_m: 2.0
 ---
 
 # Birch Biosciences

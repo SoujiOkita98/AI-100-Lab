@@ -1,12 +1,10 @@
 ---
 company: Adept AI
-legal_name: Adept AI Labs, Inc.
 founded: 2022
 headquarters: San Francisco, CA
 sector: AI Agents / Enterprise Automation
 status: Effectively gutted via Amazon acqui-hire (June 2024); nominally independent with ~20 employees
 website: https://www.adept.ai
-total_funding: ~$415M
 peak_valuation: ~$1B (Series B, March 2023)
 key_event: Amazon acqui-hire of co-founders and ~66% of staff (June 2024)
 current_ceo: Zach Brock (formerly Head of Engineering)
@@ -28,15 +26,15 @@ confidence: high
 funding_rounds:
 - stage: Series A
   date: 2022-04
-  amount_m: 65
+  amount_m: 65.0
   lead_investors:
   - Addition
   - Greylock
   source: https://www.crunchbase.com/funding_round/adept-48e7-series-a--03865118
 - stage: Series B
   date: 2023-03
-  amount_m: 350
-  valuation_m: 1000
+  amount_m: 350.0
+  valuation_m: 1000.0
   lead_investors:
   - General Catalyst
   - Spark Capital
@@ -50,6 +48,7 @@ crunchbase: https://www.crunchbase.com/organization/adept-ai
 crunchbase_verified: true
 name: Adept AI
 linkedin_verified: true
+total_raised_m: 415.0
 ---
 
 # Adept AI

@@ -1,20 +1,18 @@
 ---
 company: Browser Use
-legal_name: Browser Use GmbH
 founded: 2024
 headquarters: Zurich, Switzerland / San Francisco, CA
 sector: AI Infrastructure / Agentic AI Tooling
 stage: Seed
-latest_valuation: Undisclosed
 total_funding: ~$17M
 founders:
 - name: Magnus Muller
   role: Co-Founder
-  education: ETH Zurich
+  background: ETH Zurich
   origin: German or Swiss
 - name: Gregor Zunic
   role: Co-Founder
-  education: ETH Zurich
+  background: ETH Zurich
   origin: Slovenian or Croatian
 notable_investors:
 - Felicis Ventures (Seed lead)
@@ -46,12 +44,13 @@ total_raised_m: 17
 funding_rounds:
 - stage: Seed
   date: 2025-03
-  amount_m: 17
+  amount_m: 17.0
   lead_investors:
   - Felicis Ventures
   source: https://www.crunchbase.com/organization/browser-use
 name: Browser Use
 linkedin_verified: true
+status: active
 ---
 
 # Browser Use

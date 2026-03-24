@@ -5,8 +5,6 @@ founded: 2024
 headquarters: San Francisco, CA
 ceo: Josh Meier
 employees: ~50-100 (estimated)
-latest_valuation: $1.3B (Series B, Dec 2025)
-total_funding: $225M+
 stage: Series B
 status: Private
 website: https://chaidiscovery.com
@@ -32,7 +30,7 @@ last_updated: 2026-03-20
 funding_rounds:
 - stage: Seed
   date: 2024-09
-  amount_m: 30
+  amount_m: 30.0
   lead_investors:
   - Thrive Capital
   - OpenAI
@@ -40,14 +38,14 @@ funding_rounds:
   source: https://tracxn.com/d/companies/chai-discovery/
 - stage: Series A
   date: 2025-08
-  amount_m: 70
+  amount_m: 70.0
   lead_investors:
   - Menlo Ventures
   source: https://www.builtinsf.com/articles/chai-discovery-secures-70m-series-a-20250808
 - stage: Series B
   date: 2025-12
-  amount_m: 130
-  valuation_m: 1300
+  amount_m: 130.0
+  valuation_m: 1300.0
   lead_investors:
   - General Catalyst
   - Oak HC/FT
@@ -60,6 +58,8 @@ crunchbase: https://www.crunchbase.com/organization/chai-discovery
 crunchbase_verified: true
 name: Chai Discovery
 linkedin_verified: true
+total_raised_m: 225.0
+latest_valuation_m: 1300.0
 ---
 
 # Chai Discovery

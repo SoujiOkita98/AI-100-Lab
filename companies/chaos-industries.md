@@ -13,22 +13,20 @@ latest_valuation_m: 4500
 funding_rounds:
 - stage: Series B
   date: 2024-06
-  amount_m: 145
-  valuation_m: null
-  lead_investors: []
+  amount_m: 145.0
   source: https://news.crunchbase.com/venture/defense-tech-funding-growth-chaos-industries/
 - stage: Series C
   date: 2025-05
-  amount_m: 275
-  valuation_m: 2000
+  amount_m: 275.0
+  valuation_m: 2000.0
   lead_investors:
   - Accel
   - NEA
   source: https://www.ensemble.vc/research/chaos-industries-reaches-2b-valuation-in-series-c-led-by-accel-nea
 - stage: Series D
   date: 2025-11
-  amount_m: 510
-  valuation_m: 4500
+  amount_m: 510.0
+  valuation_m: 4500.0
   lead_investors:
   - Valor Equity Partners
   source: https://news.crunchbase.com/defense-tech/funding-hits-record-high-2025-snapshot/

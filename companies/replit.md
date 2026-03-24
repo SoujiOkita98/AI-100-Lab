@@ -1,6 +1,5 @@
 ---
 name: Replit
-slug: replit
 one_liner: AI-powered cloud coding platform — build, run, and deploy software from a browser
 sector: Developer Tools / AI-Assisted Software Development
 stage: Series D
@@ -8,9 +7,7 @@ founded: 2016
 headquarters: Foster City, CA (remote-friendly)
 website: https://replit.com
 status: Private
-last_valuation_usd: 9000000000
 last_valuation_date: 2026-03-16
-total_funding_usd: ~872_000_000
 employees_approx: 280-335
 annual_revenue_usd: ~265_000_000
 revenue_note: $265M ARR in 2025; targeting $1B run-rate by end of 2026
@@ -32,58 +29,62 @@ founders:
 funding_rounds:
 - stage: Pre-Seed
   date: 2016-10
-  amount_usd: 600000
-  valuation_usd: 6000000
-  lead_investor: Bloomberg Beta
+  amount_m: 0.6
+  valuation_m: 6.0
+  lead_investors:
+  - Bloomberg Beta
   source: https://research.contrary.com/company/replit
 - stage: Y Combinator (W18)
   date: 2018-01
-  amount_usd: 120000
-  valuation_usd: null
-  lead_investor: Y Combinator
+  amount_m: 0.1
+  lead_investors:
+  - Y Combinator
   source: https://blog.replit.com/yc
 - stage: Seed
   date: 2018-10
-  amount_usd: 4500000
-  valuation_usd: null
-  lead_investor: Andreessen Horowitz
+  amount_m: 4.5
+  lead_investors:
+  - Andreessen Horowitz
   source: https://blog.replit.com/a16z
 - stage: Series A
   date: 2021-02-18
-  amount_usd: 20000000
-  valuation_usd: null
-  lead_investor: A.Capital Ventures
+  amount_m: 20.0
+  lead_investors:
+  - A.Capital Ventures
   source: https://tracxn.com/d/companies/replit/__PUWtoWCDA1Qjxd1rE0XG7GgDNdav8DNlaP_1EkZUh3A/funding-and-investors
 - stage: Series B
   date: 2021-12-10
-  amount_usd: 80000000
-  valuation_usd: null
-  lead_investor: Coatue
-  note: 'Additional investors: Volt Capital, Fifth Down Capital'
+  amount_m: 80.0
+  lead_investors:
+  - Coatue
   source: https://tracxn.com/d/companies/replit/__PUWtoWCDA1Qjxd1rE0XG7GgDNdav8DNlaP_1EkZUh3A/funding-and-investors
+  notes: 'Additional investors: Volt Capital, Fifth Down Capital'
 - stage: Series B Extension
   date: 2023-04-25
-  amount_usd: 97400000
-  valuation_usd: 1160000000
-  lead_investor: Andreessen Horowitz (Growth Fund)
-  note: 'Other investors: Khosla Ventures, Coatue, SV Angel, Y Combinator, Bloomberg Beta, Naval Ravikant, ARK Ventures, Hamilton
-    Helmer. Included conversion of Wefunder community SAFEs.'
+  amount_m: 97.4
+  valuation_m: 1160.0
+  lead_investors:
+  - Andreessen Horowitz (Growth Fund)
   source: https://blog.replit.com/b-extension
+  notes: 'Other investors: Khosla Ventures, Coatue, SV Angel, Y Combinator, Bloomberg Beta, Naval Ravikant, ARK Ventures,
+    Hamilton Helmer. Included conversion of Wefunder community SAFEs.'
 - stage: Series C
   date: 2025-09
-  amount_usd: 250000000
-  valuation_usd: 3000000000
-  lead_investor: Prysm Capital
-  note: 'Other investors: Amex Ventures, Google AI Futures Fund, Andreessen Horowitz, Y Combinator'
+  amount_m: 250.0
+  valuation_m: 3000.0
+  lead_investors:
+  - Prysm Capital
   source: https://replit.com/news/funding-announcement
+  notes: 'Other investors: Amex Ventures, Google AI Futures Fund, Andreessen Horowitz, Y Combinator'
 - stage: Series D
   date: 2026-03
-  amount_usd: 400000000
-  valuation_usd: 9000000000
-  lead_investor: Georgian Partners
-  note: 'Other investors: G Squared, Prysm Capital, Coatue, a16z, Craft Ventures, Y Combinator, Accenture Ventures, Okta Ventures,
-    Databricks Ventures. Angel investors include Shaquille O''Neal and Jared Leto.'
+  amount_m: 400.0
+  valuation_m: 9000.0
+  lead_investors:
+  - Georgian Partners
   source: https://theaiinsider.tech/2026/03/16/replit-raises-400m-to-expand-ai-coding-platform-at-9b-valuation/
+  notes: 'Other investors: G Squared, Prysm Capital, Coatue, a16z, Craft Ventures, Y Combinator, Accenture Ventures, Okta
+    Ventures, Databricks Ventures. Angel investors include Shaquille O''Neal and Jared Leto.'
 updated: 2026-03-20
 website_verified: true
 twitter: '@Replit'
@@ -91,6 +92,8 @@ linkedin: https://www.linkedin.com/company/repl-it
 crunchbase: https://www.crunchbase.com/organization/replit
 crunchbase_verified: true
 linkedin_verified: true
+total_raised_m: 872.0
+latest_valuation_m: 9000.0
 ---
 
 # Replit

@@ -1,6 +1,5 @@
 ---
 company_name: Basis
-legal_name: Basis Platform, Inc.
 website: https://www.getbasis.ai
 one_liner: AI agents for accounting firms that automate financial statement preparation, tax filing, and expense tracking
   with long-horizon task execution
@@ -14,7 +13,6 @@ founders:
 - name: Mitchell Troyanovsky
   role: Co-Founder
   origin: American (Slavic heritage)
-latest_valuation: $1.15B
 total_funding_raised: $138M
 arr_estimate: Undisclosed
 employee_count_estimate: ~50-100 (estimated based on growth stage)
@@ -29,14 +27,14 @@ funding_rounds:
   source: https://www.getbasis.ai/blogs/basis-raises-a-34m-series-a-led-by-khosla-ventures
 - stage: Series A
   date: 2024-12
-  amount_m: 34
+  amount_m: 34.0
   lead_investors:
   - Khosla Ventures
   source: https://www.getbasis.ai/blogs/basis-raises-a-34m-series-a-led-by-khosla-ventures
 - stage: Series B
   date: 2026-02
-  amount_m: 100
-  valuation_m: 1150
+  amount_m: 100.0
+  valuation_m: 1150.0
   lead_investors:
   - Accel
   - GV
@@ -48,6 +46,7 @@ crunchbase_verified: true
 total_raised_m: 137.6
 name: Basis
 linkedin_verified: true
+latest_valuation_m: 1150.0
 ---
 
 # Basis -- Company Profile

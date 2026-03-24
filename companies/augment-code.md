@@ -1,14 +1,11 @@
 ---
 company_name: Augment Code
-legal_name: Augment Computing, Inc.
 founded: 2022
 headquarters: Palo Alto, CA
 sector: AI-Powered Developer Tools
 sub_sector: AI Coding Assistants / Agentic Development
 website: https://www.augmentcode.com
 status: Private (Series B)
-valuation: ~$977M (post-money, April 2024)
-total_funding: $252M
 employee_count: ~156-188 (estimates vary, 2025-2026)
 key_investors:
 - Index Ventures
@@ -34,14 +31,14 @@ confidence: high
 funding_rounds:
 - stage: Series A
   date: 2024-01
-  amount_m: 25
+  amount_m: 25.0
   lead_investors:
   - Sutter Hill Ventures
   source: https://www.crunchbase.com/funding_round/augment-68db-series-a--b24cdbce
 - stage: Series B
   date: 2024-04
-  amount_m: 227
-  valuation_m: 977
+  amount_m: 227.0
+  valuation_m: 977.0
   lead_investors:
   - Sutter Hill Ventures
   source: https://www.augmentcode.com/blog/augment-inc-raises-227-million
@@ -54,6 +51,8 @@ crunchbase: https://www.crunchbase.com/organization/augment-code
 crunchbase_verified: true
 name: Augment Code
 linkedin_verified: true
+total_raised_m: 252.0
+latest_valuation_m: 977.0
 ---
 
 # Augment Code

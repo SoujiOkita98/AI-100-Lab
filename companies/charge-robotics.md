@@ -24,13 +24,10 @@ funding_rounds:
   source: https://www.crunchbase.com/organization/charge-robotics
 - stage: Series A
   date: 2024-07
-  amount_m: null
-  lead_investors: []
   source: https://www.crunchbase.com/organization/charge-robotics
 - stage: Series B
   date: 2025-03
-  amount_m: 22
-  lead_investors: []
+  amount_m: 22.0
   source: https://www.trysignalbase.com/news/funding/charge-robotics-secures-22m-series-b-to-accelerate-solar-construction-automation-and-drive-renewable-growth
 confidence: medium
 last_updated: 2026-03-23

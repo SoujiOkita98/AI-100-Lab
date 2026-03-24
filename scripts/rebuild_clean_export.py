@@ -30,6 +30,20 @@ def parse_frontmatter(filepath):
     return fm, body
 
 
+def normalize_money_usd(val):
+    """Convert a raw USD value (e.g. 4500000) to millions. Always divides by 1M."""
+    if val is None or val == "":
+        return None
+    s = str(val).strip().replace(",", "").replace("_", "")
+    s = re.sub(r"[~$><+]", "", s).strip()
+    if not s or not any(c.isdigit() for c in s):
+        return None
+    try:
+        return round(float(re.sub(r"[^0-9.]", "", s)) / 1_000_000, 1)
+    except:
+        return None
+
+
 def normalize_money(val):
     """Convert various money representations to float in millions USD.
 
@@ -137,8 +151,11 @@ def extract_company(fm, body, slug):
             for r in rounds_raw:
                 if not isinstance(r, dict):
                     continue
-                amt = normalize_money(r.get("amount_m", r.get("amount",
-                      r.get("amount_usd"))))
+                amt_usd = r.get("amount_usd")
+                if amt_usd is not None:
+                    amt = normalize_money_usd(amt_usd)
+                else:
+                    amt = normalize_money(r.get("amount_m", r.get("amount")))
                 if amt and amt > 0:
                     total += amt
                     count += 1
@@ -252,8 +269,8 @@ def extract_rounds(fm, slug):
             "company_slug": slug,
             "stage": r.get("stage", r.get("round", "")),
             "date": r.get("date", ""),
-            "amount_m": normalize_money(r.get("amount_m", r.get("amount", r.get("amount_usd")))),
-            "valuation_m": normalize_money(r.get("valuation_m", r.get("valuation", r.get("valuation_usd", r.get("post_money_valuation"))))),
+            "amount_m": normalize_money_usd(r.get("amount_usd")) if r.get("amount_usd") is not None else normalize_money(r.get("amount_m", r.get("amount"))),
+            "valuation_m": normalize_money_usd(r.get("valuation_usd")) if r.get("valuation_usd") is not None else normalize_money(r.get("valuation_m", r.get("valuation", r.get("post_money_valuation")))),
             "lead_investors": leads or "",
             "other_investors": others or "",
             "source": r.get("source", r.get("source_url", "")),

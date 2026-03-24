@@ -1,6 +1,5 @@
 ---
 name: Baichuan Intelligence
-legal_name: Baichuan Intelligence Technology Co., Ltd. (百川智能)
 website: https://www.baichuan-ai.com
 one_liner: Chinese AI company developing foundation large language models with focus on healthcare, education, and finance
   applications
@@ -10,16 +9,13 @@ headquarters: Haidian District, Beijing, China
 founders:
 - name: Wang Xiaochuan (王小川)
   role: Founder & CEO
-  nationality: Chinese (mainland, born in Chengdu, Sichuan Province)
-  education:
-  - Tsinghua University, Computer Science (entered via national informatics olympiad)
-  notable: Former CEO of Sogou (China's second-largest search engine), which was acquired by Tencent in 2021 for ~$3.5B. Built
-    Sogou from a Sohu subsidiary into a publicly traded company (NYSE). One of China's most prominent tech entrepreneurs,
-    often called a "first-generation internet veteran."
+  background: Tsinghua University, Computer Science (entered via national informatics olympiad) Former CEO of Sogou (China's
+    second-largest search engine), which was acquired by Tencent in 2021 for ~$3.5B. Built Sogou from a Sohu subsidiary into
+    a publicly traded company (NYSE). One of China's most prominent tech entrepreneurs, often called a "first-generation internet
+    veteran."
   origin: Chinese
 team_size_estimate: ~400 (as of early 2025, before layoffs/restructuring)
 stage: Series A (mega-round)
-total_funding: ~$1.04B
 estimated_valuation: ~$2.7B (20 billion RMB, post-Series A)
 estimated_arr_2026: Unknown (projected order signing of 1-2 billion RMB for 2025)
 tags:
@@ -33,13 +29,13 @@ last_updated: 2026-03-20
 funding_rounds:
 - stage: Angel
   date: 2023-04
-  amount_m: 50
+  amount_m: 50.0
   lead_investors:
   - Undisclosed
   source: https://tracxn.com/d/companies/baichuan/
 - stage: Series A1
   date: 2023-10
-  amount_m: 300
+  amount_m: 300.0
   lead_investors:
   - Alibaba
   - Tencent
@@ -47,8 +43,8 @@ funding_rounds:
   source: https://siliconangle.com/2023/10/17/chinese-ai-startup-baichuan-raises-300m-alibaba-tencent-xiaomi/
 - stage: Series A
   date: 2024-07
-  amount_m: 691
-  valuation_m: 2750
+  amount_m: 691.0
+  valuation_m: 2750.0
   lead_investors:
   - Beijing AI Industry Investment Fund
   source: https://asiatechdaily.com/alibaba-backed-baichuan-secures-691-million-valued-at-2-7-billion/
@@ -57,6 +53,8 @@ crunchbase: https://www.crunchbase.com/organization/baichuan-intelligence
 crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/baichuan-intelligence/
 linkedin_verified: true
+total_raised_m: 1040.0
+status: active
 ---
 
 # Baichuan Intelligence

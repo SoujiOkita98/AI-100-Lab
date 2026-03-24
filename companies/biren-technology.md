@@ -19,7 +19,6 @@ founders:
 sector: AI Chips / GPU Accelerators
 stage: Public (IPO January 2, 2026, HKEX)
 ipo_raised_hkd: HK$5.58B (~$717M)
-total_funding_usd: ~$904M (pre-IPO)
 headcount: ~1,000+ (estimated)
 key_products:
 - BR100 series (general-purpose GPU)
@@ -31,7 +30,7 @@ confidence_note: Funding data from Crunchbase. IPO details from press reports (T
 funding_rounds:
 - stage: Series A
   date: 2020-06
-  amount_m: 155
+  amount_m: 155.0
   lead_investors:
   - Walden International
   - Qiming Venture Partners
@@ -39,20 +38,20 @@ funding_rounds:
   source: https://www.crunchbase.com/funding_round/biren-technology-series-a--e786fd55
 - stage: Series B
   date: 2021-03
-  amount_m: 410
+  amount_m: 410.0
   lead_investors:
   - Ping An
   source: https://equalocean.com/news/2021033016119
 - stage: Series C
   date: 2023-12
-  amount_m: 280
+  amount_m: 280.0
   lead_investors:
   - Guangzhou Government-backed Investors
   source: https://www.bloomberg.com/news/articles/2023-12-01/china-s-ai-chipmaker-biren-wins-280-million-in-funding-pledge-after-us-sanction
   notes: Post-US sanctions government funding pledge.
 - stage: Series C-II
   date: 2025-06
-  amount_m: 209
+  amount_m: 209.0
   lead_investors:
   - Shanghai State-owned Capital Investment (SSCI)
   source: https://www.scmp.com/tech/tech-war/article/3302409/nvidia-challenger-biren-secures-fresh-funding-from-state-backed-investor
@@ -62,6 +61,8 @@ linkedin: https://www.linkedin.com/company/birentech
 crunchbase: https://www.crunchbase.com/organization/biren-technology
 crunchbase_verified: true
 linkedin_verified: true
+total_raised_m: 904.0
+status: active
 ---
 
 # Biren Technology

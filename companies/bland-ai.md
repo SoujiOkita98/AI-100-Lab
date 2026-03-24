@@ -1,7 +1,6 @@
 ---
 company: Bland AI
 website: https://www.bland.ai
-domain: AI Phone Calling Agents / Conversational Voice AI
 founded: 2023
 headquarters: San Francisco, CA
 founders:
@@ -23,7 +22,6 @@ notable_angels:
 - Jeff Lawson (Twilio founder)
 - Piotr Dabkowski
 yc_batch: W24
-valuation: undisclosed
 last_updated: 2026-03-20
 confidence: high on funding and founders; moderate on headcount and revenue
 one_liner: Enterprise platform for automating phone calls with AI voice agents that sound human, handling both inbound and
@@ -37,24 +35,25 @@ total_raised_m: 65
 funding_rounds:
 - stage: Seed
   date: 2023-2024
-  amount_m: 9
+  amount_m: 9.0
   lead_investors:
   - Y Combinator
   source: https://www.crunchbase.com/organization/bland-ai
 - stage: Series A
   date: 2024-08
-  amount_m: 16
+  amount_m: 16.0
   lead_investors:
   - Scale Venture Partners
   source: https://www.crunchbase.com/organization/bland-ai
 - stage: Series B
   date: 2025-01
-  amount_m: 40
+  amount_m: 40.0
   lead_investors:
   - Emergence Capital
   source: https://www.crunchbase.com/organization/bland-ai
 name: Bland AI
 linkedin_verified: true
+status: active
 ---
 
 # Bland AI

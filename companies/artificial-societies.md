@@ -7,7 +7,7 @@ status: active
 funding_rounds:
 - stage: Seed
   date: 2025-08
-  amount_m: 5.35
+  amount_m: 5.3
   lead_investors:
   - Point72 Ventures
   source: https://www.thesaasnews.com/news/artificial-societies-raises-5-35m

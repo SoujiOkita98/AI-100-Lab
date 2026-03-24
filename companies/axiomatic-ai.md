@@ -17,8 +17,7 @@ latest_valuation_m: null
 funding_rounds:
 - stage: Seed
   date: 2026-03
-  amount_m: 18
-  valuation_m: null
+  amount_m: 18.0
   lead_investors:
   - Engine Ventures
   source: https://www.businesswire.com/news/home/20260309009285/en/Axiomatic-AI-Raises-$18M-to-Build-the-Intelligence-Infrastructure-for-Verified-Science-Engineering

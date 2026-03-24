@@ -1,6 +1,5 @@
 ---
 name: 7AI
-legal_name: 7AI, Inc.
 founded: 2024
 headquarters: Boston, MA
 headcount: Unknown (growing rapidly)
@@ -8,17 +7,13 @@ website: https://7ai.com
 product: 7AI Platform (autonomous cybersecurity investigation agents)
 sector: AI / Cybersecurity / Agentic Security
 stage: Series A (latest round Dec 2025)
-latest_valuation: $700M (Dec 2025, per WSJ)
-total_funding: $166M
 status: Active, Private
 founders:
 - name: Lior Div
   role: CEO
-  ethnicity: Israeli
   origin: Israeli
 - name: Yonatan Striem-Amit
   role: CTO
-  ethnicity: Israeli
   origin: Israeli
 key_investors:
 - Index Ventures — Series A lead
@@ -29,7 +24,7 @@ key_investors:
 funding_rounds:
 - stage: Seed
   date: 2025-02
-  amount_m: 36
+  amount_m: 36.0
   lead_investors:
   - Greylock
   - CRV
@@ -37,8 +32,8 @@ funding_rounds:
   source: https://blog.7ai.com/302-days-from-stealth-to-the-largest-cybersecurity-series-a-in-history
 - stage: Series A
   date: 2025-12
-  amount_m: 130
-  valuation_m: 700
+  amount_m: 130.0
+  valuation_m: 700.0
   lead_investors:
   - Index Ventures
   source: https://blog.7ai.com/citing-the-agentic-security-inflection-point-7ai-raises-largest-cybersecurity-a-round-in-history
@@ -49,6 +44,8 @@ linkedin: https://www.linkedin.com/company/seven-ai
 crunchbase: https://www.crunchbase.com/organization/7ai
 crunchbase_verified: true
 linkedin_verified: true
+total_raised_m: 166.0
+latest_valuation_m: 700.0
 ---
 
 # 7AI

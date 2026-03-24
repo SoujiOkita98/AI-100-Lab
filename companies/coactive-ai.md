@@ -1,6 +1,5 @@
 ---
 company_name: Coactive AI
-legal_name: Coactive Systems, Inc.
 founded: 2021
 headquarters: San Jose, California
 additional_offices:
@@ -10,7 +9,6 @@ employees: ~66 (as of late 2025)
 sector: Enterprise AI / Multimodal AI / Visual Content Intelligence
 stage: Series B
 total_funding: $44M
-latest_valuation: $200M (May 2024)
 website: https://www.coactive.ai
 one_liner: Enterprise AI platform that transforms unstructured visual data (images and video) into searchable, insight-rich
   information for media and retail companies
@@ -48,13 +46,14 @@ funding_rounds:
   source: https://www.crunchbase.com/organization/coactive-ai
 - stage: Series B
   date: 2024-05
-  amount_m: 30
+  amount_m: 30.0
   lead_investors:
   - Cherryrock Capital
   - Emerson Collective
   source: https://www.coactive.ai/blog/series-b
 name: Coactive AI
 linkedin_verified: true
+latest_valuation_m: 200.0
 ---
 
 # Coactive AI

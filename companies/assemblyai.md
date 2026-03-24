@@ -15,25 +15,23 @@ founders:
 funding_rounds:
 - stage: Seed
   date: 2017
-  amount_m: null
   lead_investors:
   - Y Combinator
   source: https://www.crunchbase.com/organization/assemblyai
 - stage: Series A
   date: 2022-03
-  amount_m: null
   lead_investors:
   - Accel
   source: https://www.crunchbase.com/organization/assemblyai
 - stage: Series B
   date: 2022-07
-  amount_m: 30
+  amount_m: 30.0
   lead_investors:
   - Insight Partners
   source: https://www.assemblyai.com/blog/our-30m-series-b
 - stage: Series C
   date: 2023-12
-  amount_m: 50
+  amount_m: 50.0
   lead_investors:
   - Accel
   source: https://www.assemblyai.com/blog/announcing-our-50m-series-c-to-build-superhuman-speech-ai-models

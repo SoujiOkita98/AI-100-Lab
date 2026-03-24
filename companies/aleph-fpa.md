@@ -7,7 +7,6 @@ status: active
 funding_rounds:
 - stage: Seed
   date: 2020
-  amount_m: null
   lead_investors:
   - Khosla Ventures
   - Picus Capital
@@ -16,7 +15,6 @@ funding_rounds:
   notes: Amount undisclosed. Part of combined $16.7M seed+A.
 - stage: Series A
   date: 2022
-  amount_m: null
   lead_investors:
   - Bain Capital Ventures
   - Khosla Ventures
@@ -24,7 +22,7 @@ funding_rounds:
   notes: Amount undisclosed. Combined seed+A = $16.7M. Picus Capital also participated.
 - stage: Series B
   date: 2025-09
-  amount_m: 29
+  amount_m: 29.0
   lead_investors:
   - Khosla Ventures
   source: https://www.getaleph.com/blog/series-b

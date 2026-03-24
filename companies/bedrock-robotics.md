@@ -22,20 +22,18 @@ founders:
 funding_rounds:
 - stage: Seed
   date: 2024
-  amount_m: null
   lead_investors:
   - Eclipse
   source: https://techcrunch.com/2025/07/16/ex-waymo-engineers-launch-bedrock-robotics-with-80m-to-automate-construction/
 - stage: Series A
   date: 2025-07
-  amount_m: null
   lead_investors:
   - 8VC
   source: https://techcrunch.com/2025/07/16/ex-waymo-engineers-launch-bedrock-robotics-with-80m-to-automate-construction/
   notes: Combined Seed + Series A was $80M at stealth emergence.
 - stage: Series B
   date: 2026-02
-  amount_m: 270
+  amount_m: 270.0
   lead_investors:
   - CapitalG
   - Valor Atreides AI Fund

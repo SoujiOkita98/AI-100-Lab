@@ -16,14 +16,14 @@ latest_valuation_m: null
 funding_rounds:
 - stage: Earlier rounds
   date: 2018-2024
-  amount_m: 25
+  amount_m: 25.0
   lead_investors:
   - Various
   source: https://www.digitaltoday.co.kr/en/view/35426/
   notes: Estimated ~25M across earlier rounds. Exact breakdown not publicly available. Total before Series C was ~$25M.
 - stage: Series C
   date: 2024-12
-  amount_m: 30
+  amount_m: 30.0
   lead_investors:
   - Nvestor
   - DS Asset Management
@@ -32,13 +32,12 @@ funding_rounds:
   notes: KRW 30 billion. KB Securities, KB Investment, K & Investment Partners also participated.
 - stage: Pre-IPO
   date: 2026-03
-  amount_m: 28
-  valuation_m: null
+  amount_m: 28.0
   lead_investors:
   - DS Investment Partners
   source: https://www.koreaherald.com/article/10692899
-  notes: KRW 40.5 billion (~$28M). Total funding now KRW 122.5 billion (~$83M). KB Investment and Hana Securities also
-    participated. Planning Kosdaq IPO in 2026.
+  notes: KRW 40.5 billion (~$28M). Total funding now KRW 122.5 billion (~$83M). KB Investment and Hana Securities also participated.
+    Planning Kosdaq IPO in 2026.
 founders:
 - name: Han Ji-hyeong
   role: CEO

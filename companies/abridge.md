@@ -13,8 +13,6 @@ founders:
 - name: Florian Metze
   role: Co-Founder (departed 2019)
   origin: German
-valuation: ~$5.3B (as of June 2025 Series E)
-total_funding: ~$750M+
 last_round: Series E — $300M (June 2025)
 key_investors:
 - Andreessen Horowitz (a16z)
@@ -37,7 +35,7 @@ profile_updated: 2026-03-20
 funding_rounds:
 - stage: Seed / Series A
   date: 2020-10
-  amount_m: 15
+  amount_m: 15.0
   lead_investors:
   - Union Square Ventures
   - UPMC
@@ -50,29 +48,29 @@ funding_rounds:
   source: https://www.seedtable.com/funding-round/Abridge_-_Series_A-BY8YEGG
 - stage: Series B
   date: 2023-10
-  amount_m: 30
+  amount_m: 30.0
   lead_investors:
   - Spark Capital
   source: https://www.abridge.com/press-release/abridge-raises-30m-to-accelerate-adoption-of-its-proven-generative-ai-solution-across-u-s-healthcare-systems
 - stage: Series C
   date: 2024-02
-  amount_m: 150
+  amount_m: 150.0
   lead_investors:
   - Lightspeed Venture Partners
   - Redpoint Ventures
   source: https://www.abridge.com/press-release/series-c-150
 - stage: Series D
   date: 2025-02
-  amount_m: 250
-  valuation_m: 2750
+  amount_m: 250.0
+  valuation_m: 2750.0
   lead_investors:
   - Elad Gil
   - IVP
   source: https://fortune.com/2025/02/17/exclusive-abridge-raises-250-million-series-d-led-by-elad-gil-and-ivp/
 - stage: Series E
   date: 2025-06
-  amount_m: 300
-  valuation_m: 5300
+  amount_m: 300.0
+  valuation_m: 5300.0
   lead_investors:
   - Andreessen Horowitz
   - Khosla Ventures
@@ -87,6 +85,8 @@ crunchbase: https://www.crunchbase.com/organization/abridge
 crunchbase_verified: true
 name: Abridge
 linkedin_verified: true
+total_raised_m: 750.0
+latest_valuation_m: 5300.0
 ---
 
 # Abridge

@@ -14,29 +14,25 @@ latest_valuation_m: 15000
 funding_rounds:
 - stage: Seed
   date: 2017-01
-  amount_m: null
-  valuation_m: null
   lead_investors:
   - Floodgate
   source: https://research.contrary.com/company/applied-intuition
 - stage: Series A
   date: 2018-09
   amount_m: 11.5
-  valuation_m: null
   lead_investors:
   - Andreessen Horowitz
   source: https://www.crunchbase.com/funding_round/applied-intuition-series-a--06b58f4c
 - stage: Series B
   date: 2019-09-12
-  amount_m: 40
-  valuation_m: null
+  amount_m: 40.0
   lead_investors:
   - General Catalyst
   source: https://www.globenewswire.com/news-release/2019/09/12/1914818/0/en/Applied-Intuition-Secures-40-Million-in-Series-B-Funding-Led-by-General-Catalyst.html
 - stage: Series C
   date: 2021-03
-  amount_m: 125
-  valuation_m: 1250
+  amount_m: 125.0
+  valuation_m: 1250.0
   lead_investors:
   - Lux Capital
   - Andreessen Horowitz
@@ -44,8 +40,8 @@ funding_rounds:
   source: https://www.appliedintuition.com/news/series-c
 - stage: Series D
   date: 2021-11-11
-  amount_m: 175
-  valuation_m: 3600
+  amount_m: 175.0
+  valuation_m: 3600.0
   lead_investors:
   - Elad Gil
   - Addition
@@ -53,16 +49,16 @@ funding_rounds:
   source: https://www.prnewswire.com/news-releases/applied-intuition-raises-175m-series-d-co-led-by-elad-gil-addition-and-coatue-management-at-3-6b-valuation-301422396.html
 - stage: Series E
   date: 2024-03-12
-  amount_m: 250
-  valuation_m: 6000
+  amount_m: 250.0
+  valuation_m: 6000.0
   lead_investors:
   - Lux Capital
   - Elad Gil
   source: https://techcrunch.com/2024/03/12/applied-intuition-series-e-raise-funding-andreessen-lux/
 - stage: Series F
   date: 2025-06-17
-  amount_m: 600
-  valuation_m: 15000
+  amount_m: 600.0
+  valuation_m: 15000.0
   lead_investors:
   - BlackRock
   - Kleiner Perkins

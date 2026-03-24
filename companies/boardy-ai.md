@@ -6,7 +6,7 @@ status: active
 funding_rounds:
 - stage: Seed
   date: 2025-01
-  amount_m: 8
+  amount_m: 8.0
   lead_investors:
   - Creandum
 founders:
@@ -16,11 +16,9 @@ founders:
   origin: Indian-Canadian (inferred from name)
 - name: Matt Stein
   role: Co-Founder
-  background: ''
   origin: American/Canadian (inferred from name)
 - name: Shen Sivananthan
   role: Co-Founder
-  background: ''
   origin: South Asian (inferred from name)
 last_updated: 2026-03-21
 confidence: medium

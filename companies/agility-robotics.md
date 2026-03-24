@@ -1,8 +1,5 @@
 ---
 name: Agility Robotics
-legal_name: Agility Robotics, Inc.
-slug: agility-robotics
-domain: Humanoid Robotics / Warehouse Automation / Logistics
 founded: 2015
 headquarters: Salem, Oregon, USA
 website: https://www.agilityrobotics.com
@@ -10,7 +7,6 @@ one_liner: Humanoid robotics company building Digit, a multi-purpose bipedal rob
 status: Private
 employees_approx: ~332 (as of February 2026)
 total_funding_approx: ~$641M–$683M
-latest_valuation: ~$2.1B (post-money, March 2025)
 latest_round: Series C
 note: 'In March 2026, Agility Robotics rebranded to simply "Agility" to signal expansion beyond hardware into software/services.
   This profile uses the original name for clarity.
@@ -19,29 +15,21 @@ note: 'In March 2026, Agility Robotics rebranded to simply "Agility" to signal e
 founders:
 - name: Jonathan Hurst
   role: Co-Founder & Chief Robot Officer
-  background: 'B.S. in Mechanical Engineering, M.S. and Ph.D. in Robotics, all from Carnegie Mellon University. Professor
-    at Oregon State University, where he co-founded the OSU Robotics Institute and ran the Dynamic Robotics Laboratory. His
-    academic research on physics-based legged locomotion formed the scientific foundation for Cassie and Digit. Transitioned
-    from CTO to Chief Robot Officer in April 2023 to focus on R&D roadmap, industrial design, and innovation pipeline. Remains
-    on OSU faculty.
-
-    '
+  background: B.S. in Mechanical Engineering, M.S. and Ph.D. in Robotics, all from Carnegie Mellon University. Professor at
+    Oregon State University, where he co-founded the OSU Robotics Institute and ran the Dynamic Robotics Laboratory. His academic
+    research on physics-based legged locomotion formed the scientific foundation for Cassie and Digit. Transitioned from CTO
+    to Chief Robot Officer in April 2023 to focus on R&D roadmap, industrial design, and innovation pipeline. Remains on OSU
+    faculty.
   origin: American
-  source: https://engineering.oregonstate.edu/people/jonathan-hurst
 - name: Damion Shelton
   role: Co-Founder & Chairman of the Board (formerly CEO, then President, then Chief Engagement Officer)
-  background: 'Ph.D. in Robotics from Carnegie Mellon University, where he met Hurst. Served as CEO from founding through
-    March 2024, then transitioned to President, and later to Chief Engagement Officer (December 2024), focusing on commercial
-    and investor engagement. Now serves as Chairman.
-
-    '
+  background: Ph.D. in Robotics from Carnegie Mellon University, where he met Hurst. Served as CEO from founding through March
+    2024, then transitioned to President, and later to Chief Engagement Officer (December 2024), focusing on commercial and
+    investor engagement. Now serves as Chairman.
   origin: American
-  source: https://www.agilityrobotics.com/about/leadership
 - name: Mikhail Jones
   role: Co-Founder & VP of Software
-  background: 'Was Jonathan Hurst''s graduate student at Oregon State University. Leads software development for Digit.
-
-    '
+  background: Was Jonathan Hurst's graduate student at Oregon State University. Leads software development for Digit.
   origin: '[not publicly detailed]'
 key_people:
 - name: Peggy Johnson
@@ -63,15 +51,15 @@ key_people:
 funding_rounds:
 - stage: Seed / Early Grants
   date: 2015–2017
-  amount: '[undisclosed; includes ONAMI and OSU-related support]'
-  valuation: '[not disclosed]'
+  amount_m: null
+  valuation_m: null
   lead_investors:
   - ONAMI (Oregon Nanoscience and Microtechnologies Institute)
   source: https://onami.us/onami-success-stories/agility-robotics
 - stage: Series A
   date: '2018'
-  amount: $8M
-  valuation: '[not disclosed]'
+  amount_m: 8.0
+  valuation_m: null
   lead_investors:
   - Playground Global
   other_investors:
@@ -80,8 +68,8 @@ funding_rounds:
   source: https://onami.us/onami-success-stories/agility-robotics-secures-8m-series-a-funding
 - stage: Series B
   date: 2022-04
-  amount: $150M
-  valuation: '[not disclosed]'
+  amount_m: 150.0
+  valuation_m: null
   lead_investors:
   - DCVC
   - Playground Global
@@ -93,15 +81,15 @@ funding_rounds:
   - Safar Partners
   - Sony Innovation Fund
   - TDK Ventures
+  source: https://www.agilityrobotics.com/content/agility-robotics-raises-150m-series-b-led-by-dcvc-and-playground-global
   notes: 'Amazon''s investment through its Industrial Innovation Fund signaled strategic alignment for warehouse deployment
     of Digit.
 
     '
-  source: https://www.agilityrobotics.com/content/agility-robotics-raises-150m-series-b-led-by-dcvc-and-playground-global
 - stage: Series C
   date: 2025-03
-  amount: $400M
-  valuation: ~$2.1B (post-money); ~$1.75B (pre-money per some reports)
+  amount_m: 400.0
+  valuation_m: null
   lead_investors:
   - WP Global Partners
   other_investors:
@@ -113,18 +101,25 @@ funding_rounds:
   - Humanoid Global Holdings
   - Sony Innovation Fund
   - Safar Partners
+  source: https://www.geekwire.com/2025/agility-robotics-reportedly-raising-400m-for-humanoid-warehouse-robots/
   notes: 'Funding intended to scale operations through the 10,000-unit production milestone at RoboFab.
 
     '
-  source: https://www.geekwire.com/2025/agility-robotics-reportedly-raising-400m-for-humanoid-warehouse-robots/
 - stage: Undisclosed Round
   date: 2025-09
-  amount: '[undisclosed]'
-  valuation: '[not disclosed]'
+  amount_m: null
+  valuation_m: null
   lead_investors:
   - '[not disclosed]'
   source: https://tracxn.com/d/companies/agilityrobotics/__zWyvO8soXb6xhR16FWzvRmbHXslWot5BI_JRbmtdaF0/funding-and-investors
-tags:
+website_verified: true
+crunchbase: https://www.crunchbase.com/organization/agility-robotics
+crunchbase_verified: true
+linkedin: https://www.linkedin.com/company/agilityrobotics
+twitter: '@agilityrobotics'
+linkedin_verified: true
+latest_valuation_m: 2100.0
+sector:
 - humanoid-robotics
 - warehouse-automation
 - logistics
@@ -132,12 +127,6 @@ tags:
 - hardware
 - deep-tech
 - bipedal-locomotion
-website_verified: true
-crunchbase: https://www.crunchbase.com/organization/agility-robotics
-crunchbase_verified: true
-linkedin: https://www.linkedin.com/company/agilityrobotics
-twitter: '@agilityrobotics'
-linkedin_verified: true
 ---
 
 # Agility Robotics

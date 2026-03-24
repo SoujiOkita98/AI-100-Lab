@@ -1,14 +1,11 @@
 ---
 name: Ambience Healthcare
-legal_name: Ambience Healthcare Inc.
 founded: 2020
 headquarters: San Francisco, CA
 website: https://www.ambiencehealthcare.com
 product: Ambient AI platform for clinical documentation, coding, and workflow automation
 sector: AI / Healthcare / Clinical Documentation
 stage: Series C
-latest_valuation: $1.25B (Jul 2025)
-total_funding: ~$345M
 status: Active, Private
 founders:
 - name: Mike Ng
@@ -39,22 +36,22 @@ funding_rounds:
   source: https://pitchbook.com/profiles/company/442685-89
 - stage: Series A
   date: 2022-04
-  amount_m: 30
-  valuation_m: 126
+  amount_m: 30.0
+  valuation_m: 126.0
   lead_investors:
   - Andreessen Horowitz
   source: https://pitchbook.com/profiles/company/442685-89
 - stage: Series B
   date: 2024-02
-  amount_m: 70
+  amount_m: 70.0
   lead_investors:
   - Kleiner Perkins
   - OpenAI Startup Fund
   source: https://techcrunch.com/2024/02/06/ambience-healthcare-raises-70m/
 - stage: Series C
   date: 2025-07
-  amount_m: 243
-  valuation_m: 1250
+  amount_m: 243.0
+  valuation_m: 1250.0
   lead_investors:
   - Oak HC/FT
   - Andreessen Horowitz
@@ -66,6 +63,8 @@ crunchbase: https://www.crunchbase.com/organization/ambience-healthcare
 crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/ambiencehealthcare
 linkedin_verified: true
+total_raised_m: 345.0
+latest_valuation_m: 1250.0
 ---
 
 # Ambience Healthcare

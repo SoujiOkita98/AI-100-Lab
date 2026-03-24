@@ -1,13 +1,11 @@
 ---
 company_name: All Hands AI (OpenHands)
-legal_name: All Hands AI, Inc.
 founded: 2024
 headquarters: Somerville, MA
 sector: AI-Powered Developer Tools
 sub_sector: Open-Source AI Coding Agents
 website: https://openhands.dev
 status: Private (Series A)
-valuation: Undisclosed
 total_funding: $23.8M
 employee_count: Undisclosed (estimated 15-30)
 key_investors:
@@ -47,7 +45,7 @@ total_raised_m: 23.8
 funding_rounds:
 - stage: Seed
   date: 2024-09
-  amount_m: 5
+  amount_m: 5.0
   lead_investors:
   - Menlo Ventures
   source: https://www.crunchbase.com/organization/all-hands-ai

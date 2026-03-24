@@ -1,6 +1,5 @@
 ---
 name: AppZen
-legal_name: AppZen, Inc.
 founded: 2012
 headquarters: San Jose, CA
 headcount: ~378 (as of 2025)
@@ -8,17 +7,13 @@ website: https://www.appzen.com
 product: Mastermind AI Automation Platform (autonomous finance agents powered by ZenLM models)
 sector: AI / Fintech / Autonomous Finance / Enterprise Automation
 stage: Series D / Growth (latest round Sep 2025)
-latest_valuation: Undisclosed (up round from $500M Series C in 2019)
-total_funding: $290M
 status: Active, Private
 founders:
 - name: Anant Kale
   role: Co-founder & CEO
-  ethnicity: Indian
   origin: Indian
 - name: Kunal Verma
   role: Co-founder & CTO
-  ethnicity: Indian
   origin: Indian
 key_investors:
 - Riverwood Capital — Series D lead
@@ -35,27 +30,27 @@ funding_rounds:
   source: https://www.crunchbase.com/organization/appzen
 - stage: Series A
   date: 2017-11
-  amount_m: 13
+  amount_m: 13.0
   lead_investors:
   - Redpoint Ventures
   source: https://tracxn.com/d/companies/appzen/
 - stage: Series B
   date: 2018-10
-  amount_m: 35
-  valuation_m: 140
+  amount_m: 35.0
+  valuation_m: 140.0
   lead_investors:
   - Lightspeed Venture Partners
   source: https://www.crunchbase.com/funding_round/appzen-series-b--879591d0
 - stage: Series C
   date: 2019-09
-  amount_m: 50
-  valuation_m: 500
+  amount_m: 50.0
+  valuation_m: 500.0
   lead_investors:
   - Coatue Management
   source: https://www.businesswire.com/news/home/20190909005314/en/
 - stage: Series D
   date: 2025-09
-  amount_m: 180
+  amount_m: 180.0
   lead_investors:
   - Riverwood Capital
   source: https://www.prnewswire.com/news-releases/appzen-raises-180-million-growth-round/
@@ -66,6 +61,7 @@ crunchbase: https://www.crunchbase.com/organization/appzen
 crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/appzen
 linkedin_verified: true
+total_raised_m: 290.0
 ---
 
 # AppZen

@@ -14,64 +14,63 @@ funding_rounds:
 - stage: Seed
   date: 2017-08
   amount_m: 17.5
-  valuation_m: null
   lead_investors:
   - Founders Fund
   source: https://tracxn.com/d/companies/anduril/__qqOI0HKR47lFXorj9FAQlDfmJOqfOpDNWiW3JcO--ss/funding-and-investors
 - stage: Series A
   date: 2018-06
-  amount_m: 41
-  valuation_m: 250
+  amount_m: 41.0
+  valuation_m: 250.0
   lead_investors:
   - Founders Fund
   source: https://www.crunchbase.com/funding_round/anduril-industries-series-a--32661f15
 - stage: Series B
   date: 2019-09
-  amount_m: 120
-  valuation_m: 1000
+  amount_m: 120.0
+  valuation_m: 1000.0
   lead_investors:
   - Andreessen Horowitz
   source: https://www.cnbc.com/2019/09/11/anduril-valued-at-1-billion-in-round-including-andreessen-horowitz.html
 - stage: Series C
   date: 2020-07
-  amount_m: 200
-  valuation_m: 1900
+  amount_m: 200.0
+  valuation_m: 1900.0
   lead_investors:
   - Andreessen Horowitz
   source: https://www.crunchbase.com/funding_round/anduril-industries-series-c--bc53d7d0
 - stage: Series D
   date: 2021-06
-  amount_m: 450
-  valuation_m: 4600
+  amount_m: 450.0
+  valuation_m: 4600.0
   lead_investors:
   - Elad Gil
   source: https://research.contrary.com/company/anduril
 - stage: Series E
   date: 2022-12
-  amount_m: 1480
-  valuation_m: 8480
+  amount_m: 1480.0
+  valuation_m: 8480.0
   lead_investors:
   - Valor Equity Partners
   source: https://www.anduril.com/news/anduril-raises-usd1-48-billion-in-series-e-funding
 - stage: Series F
   date: 2024-08
-  amount_m: 1500
-  valuation_m: 14000
+  amount_m: 1500.0
+  valuation_m: 14000.0
   lead_investors:
   - Sands Capital
   - Founders Fund
   source: https://techcrunch.com/2024/08/07/anduril-raises-1-5b-to-hyper-scale-defense-production/
 - stage: Series G
   date: 2025-06
-  amount_m: 2500
-  valuation_m: 30500
+  amount_m: 2500.0
+  valuation_m: 30500.0
   lead_investors:
   - Founders Fund
   source: https://techcrunch.com/2025/06/05/anduril-raises-2-5b-at-30-5b-valuation-led-by-founders-fund/
 - stage: Series H
   date: 2026-03
-  amount_m: 4000
-  valuation_m: 60000
+  amount_m: 4000.0
+  valuation_m: 60000.0
   lead_investors:
   - Andreessen Horowitz
   - Thrive Capital
