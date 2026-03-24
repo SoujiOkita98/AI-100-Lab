@@ -20,9 +20,12 @@ total_raised_m: 150.0
 founders:
 - name: Jonathan Zhu
   role: Co-Founder
-  origin: Chinese
+  background: Alumnus of Peking University and Stanford Graduate School of Business. Based in San Francisco Bay Area. Co-founded PaleBlueDot AI in 2024 to provide cloud-based GPU infrastructure.
+  origin: Chinese-American
 - name: Shaodong Huang
   role: Co-Founder
+  background: Details limited in public sources. Co-founded PaleBlueDot AI in 2024 with Jonathan Zhu. Based in the United States.
+  origin: Chinese
   origin: Chinese
 linkedin: https://www.linkedin.com/company/palebluedot-ai/
 linkedin_verified: true

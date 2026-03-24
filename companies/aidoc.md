@@ -9,9 +9,11 @@ founders:
 - name: Elad Walach
   role: CEO
   origin: Israeli
+  background: "BSc CS Technion, BSc Math & Physics Hebrew University. IDF Talpiot program veteran. Led AI research in Israeli Air Force. Forbes 30 Under 30, Modern Healthcare 40 Under 40."
 - name: Michael Braginsky
   role: CTO
   origin: Israeli (Russian-Jewish heritage)
+  background: "BSc Physics & CS, MSc CS (Medical Image Processing) Hebrew University. IDF Talpiot program veteran. Former Head of R&D for Israeli Special Forces, deploying state-of-the-art vision technologies."
 funding_rounds:
 - stage: Series B
   date: 2019

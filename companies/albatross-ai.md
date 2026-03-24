@@ -8,11 +8,21 @@ one_liner: Real-time AI product discovery for retailers using transformer archit
   AI founders.
 status: active
 funding_rounds:
+- stage: Pre-Seed
+  date: 2024-09
+  amount_m: 3.5
+  lead_investors:
+  - Redalpine
+  source: https://www.thesaasnews.com/news/albatross-raises-3-million-in-funding
+  notes: Foundation round
 - stage: Seed
   date: 2025-11
   amount_m: 12.5
   lead_investors:
   - MMC Ventures
+  other_investors:
+  - Redalpine
+  - Daphni
 founders:
 - name: Kevin Kahn
   role: Co-Founder & CEO
@@ -32,7 +42,7 @@ confidence: medium
 crunchbase: https://www.crunchbase.com/organization/albatross-ai
 crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/albatross-ai
-total_raised_m: 12.5
+total_raised_m: 16.0
 linkedin_verified: true
 ---
 

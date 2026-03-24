@@ -8,12 +8,20 @@ current_ceo: Ben FitzGerald
 founders:
 - name: Chris Lynch
   role: Co-founder
+  background: Serial entrepreneur from Seattle. Attended University of Cincinnati Carl H. Lindner College of Business. Hired by SecDef Ash Carter in 2015 to found the Defense Digital Service (DDS), a Pentagon "SWAT team of hackers" that ran bug bounty programs and helped launch the JEDI cloud program. Left DDS in April 2019 to found Rebellion Defense. Previously founded venture-backed startups and led engineering teams at enterprise companies.
+  origin: American
 - name: Nicole Camarillo
   role: Co-founder
+  background: Spent 20 years as a Federal employee supporting Department of the Navy, Department of Defense, and DISA. Served as Chief Strategist for U.S. Army Cyber Command. At Rebellion Defense, served as Chief Talent and Operations Officer.
+  origin: American
 - name: Oliver Lewis
   role: Co-founder
+  background: Former Deputy Director of the Digital, Data and Technology profession in the British civil service. UK Ministry of Defence intelligence officer, policy advisor, and strategy advisor with two deployments to Afghanistan as a civilian intelligence officer embedded in the British Army. Started government business for metaverse technology unicorn Improbable. Affiliated with University of Oxford's Changing Character of War Centre for a decade. Non-resident senior visiting fellow at USC Center on Public Diplomacy.
+  origin: British
 - name: Chase Kimball
   role: Co-founder
+  background: Details limited in public sources. Co-founded Rebellion Defense in 2019 alongside Lynch, Camarillo, and Lewis.
+  origin: American
 latest_round: Series B
 employee_count: ~40 (as of February 2026; down from peak of ~200+)
 status: Active but significantly downsized; pivoted to mission engineering focus

@@ -8,6 +8,16 @@ one_liner: Agentic AI for enterprise marketing ops — automates content supply 
   as clients.
 status: active
 funding_rounds:
+- stage: Seed
+  date: 2024-02
+  amount_m: 5.4
+  lead_investors:
+  - Madrona
+  other_investors:
+  - General Advance
+  - Outsiders Fund
+  - Space Capital
+  source: https://www.finsmes.com/2024/02/gradial-raises-5-4m-in-seed-financing.html
 - stage: Series A
   date: 2025-04
   amount_m: 13
@@ -40,7 +50,7 @@ website_verified: true
 linkedin: https://www.linkedin.com/company/gradialai
 crunchbase: https://www.crunchbase.com/organization/gradial
 crunchbase_verified: true
-total_raised_m: 53.0
+total_raised_m: 53.4
 linkedin_verified: true
 ---
 

@@ -9,7 +9,8 @@ sector:
 - enterprise-ai
 one_liner: AI-powered tax research platform used by 4,000+ law firms, transforming tax queries with generative AI.
 status: active
-total_raised_m: 167
+total_raised_m: 139.5
+currency_note: All amounts in USD. Crunchbase reports $139.48M total across 11 rounds. Previous $167M figure may have been CAD.
 founders:
 - name: Benjamin Alarie
   role: CEO
@@ -28,6 +29,33 @@ founders:
   background: Co-founded Blue J in 2015
   origin: Canadian
 funding_rounds:
+- stage: Series A
+  date: 2018-11
+  amount_m: 6.7
+  lead_investors:
+  - Relay Ventures
+  other_investors:
+  - Mistral Venture Partners
+  - LDV Partners
+  - Business Development Bank of Canada
+  source: https://www.crunchbase.com/funding_round/blue-j-legal-series-a--78a3b285
+- stage: Series B
+  date: 2021-08
+  amount_m: 9.0
+  lead_investors:
+  - Generation Ventures
+  other_investors:
+  - Relay Ventures
+  - Mistral Venture Partners
+  - LDV Partners
+  source: https://www.businesswire.com/news/home/20210810005199/en/
+- stage: Series C
+  date: 2024-12
+  amount_m: null
+  lead_investors:
+  - Ten Coves Capital
+  source: https://www.businesswire.com/news/home/20241217312442/en/
+  notes: Amount undisclosed
 - stage: Series D
   date: 2025-06
   amount_m: 122

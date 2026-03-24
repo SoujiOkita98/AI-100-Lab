@@ -11,8 +11,12 @@ total_raised_m: 64
 founders:
 - name: Joseph Nelson
   role: Co-Founder & CEO
+  background: BS Economics from George Washington University; studied at London School of Economics. Co-founded Represently (civic-tech NLP platform connecting Congress with constituents), acquired by Fireside21. Principal Data Scientist at ROC AUC consulting for Fortune 500 companies. Wrote and taught 2000+ hours of data science curriculum at General Assembly. Data/Product intern at Meta (government and politics team). Led logic/debate workshops at France's Ecole de guerre.
+  origin: American
 - name: Brad Dwyer
   role: Co-Founder & CTO
+  background: Attended Iowa State University (2006-2014). Founded and ran Hatchlings as CEO from 2008 to 2018 (10 years). Based in San Francisco. Co-founded Roboflow in 2019 with Nelson, driven by the conviction that every developer should have computer vision in their toolkit.
+  origin: American
 funding_rounds:
 - stage: Seed
   date: 2021-01

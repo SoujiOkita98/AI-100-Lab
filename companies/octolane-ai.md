@@ -9,9 +9,13 @@ status: Active
 total_raised_m: 5.7
 founders:
 - name: One Chowdhury
-  role: Co-Founder
+  role: Co-Founder & CEO
+  background: Duke University dropout (Class of 2025). First startup was acquired during freshman year (grew traffic from 0 to 300K/month). First engineering intern at Mintlify (YC W22, a16z-backed), where he built search analytics and AI-powered doc search. Best friends with Rafi since high school; both self-taught coders via YouTube tutorials.
+  origin: Bangladeshi-American
 - name: Md Abdul Halim Rafi
   role: Co-Founder & CTO
+  background: BSc Applied Mathematics from University of Dhaka. 6+ years web development (JavaScript, React, Node) and 7+ years mobile development (Flutter, Android, iOS). Previously Software Engineer III at RoBenDevs and Lead Software Engineer at HypeScout. Co-founded MainlyCoding.com (Bangladesh's first hands-on coding learning platform), acquired by Shikho (EdTech) in January 2022.
+  origin: Bangladeshi
 funding_rounds:
 - stage: Seed
   date: 2024-06

@@ -10,8 +10,12 @@ total_raised_m: 25
 founders:
 - name: Zohaib Ahmed
   role: Co-Founder & CEO
+  background: Computer Science degree from University of Toronto. Led engineering teams at Magic Leap, Deepen AI, Hipmunk (acquired), and BlackBerry. At Hipmunk, was lead engineer of first AI Assistant for Travel built using modern NLP. At Magic Leap, worked on novel UI interactions and deep learning models from user data analysis. Founded Resemble AI with former roommate Saqib Muhammad after identifying opportunity in AI-generated voices for media production.
+  origin: Canadian (Pakistani heritage)
 - name: Saqib Muhammad
   role: Co-Founder
+  background: Bachelor of Commerce from McMaster University; degree from University of Chicago Booth School of Business. Previous experience in finance at Pantera Capital, Passport Capital, Contrarian Capital Management, and Breton Hill Capital. Former roommate and fellow gamer with Zohaib Ahmed. Brings finance and investment expertise to the AI voice synthesis space. Based in Menlo Park, CA.
+  origin: Canadian (Pakistani heritage)
 funding_rounds:
 - stage: Seed
   date: 2020

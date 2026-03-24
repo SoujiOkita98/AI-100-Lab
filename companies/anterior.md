@@ -9,9 +9,13 @@ status: active
 total_raised_m: 64
 founders:
 - name: Abdel Mahmoud
-  role: Co-Founder
+  role: Co-Founder & CEO
+  background: "Born in Libya, came to UK as refugee at age 8. MEng UCL. Youngest infantry officer in UK (Royal Military Academy Sandhurst at 18). Trained as doctor (NHS), then returned to CS. Former product roles at Google and Meta."
+  origin: Libyan-British
 - name: Zahid Mahmood
-  role: Co-Founder
+  role: Co-Founder & CTO
+  background: "BEng EE Queen Mary University, MSc Engineering Management UCL. Founded first company as teenager. 6 years as Software Engineer at Global Aerospace building payment platforms. Serial founder (Buskana, Crowdfund NFT)."
+  origin: British
 funding_rounds:
 - stage: Seed
   date: 2023-09

@@ -12,9 +12,11 @@ founders:
 - name: Anant Kale
   role: Co-founder & CEO
   origin: Indian
+  background: "BEng, MBA Finance University of Mumbai. Former VP Applications at Fujitsu America (strategy, product management). 15+ years in enterprise software development."
 - name: Kunal Verma
   role: Co-founder & CTO
   origin: Indian
+  background: "PhD CS University of Georgia (semantic technologies). Former team lead at Accenture Technology Labs. Published 50+ papers, holds 7 patents in AI/semantic technologies."
 key_investors:
 - Riverwood Capital — Series D lead
 - Lightspeed Venture Partners

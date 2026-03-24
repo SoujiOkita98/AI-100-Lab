@@ -9,7 +9,7 @@ sector:
 - computational chemistry
 one_liner: AI-powered drug discovery platform combining quantum mechanics and machine learning to predict molecular properties.
 status: Public (HKEX, listed December 2025)
-total_raised_m: 700
+total_raised_m: 785
 ipo_details: Listed on HKEX Dec 30, 2025; raised HKD 2.277B; largest biotech IPO in Hong Kong in 2025
 employee_count: 500+ (estimate)
 founders:
@@ -31,7 +31,50 @@ key_investors:
 last_updated: 2026-03-20
 linkedin: https://www.linkedin.com/company/xtalpi/
 linkedin_verified: true
-funding_rounds: []
+funding_rounds:
+- stage: Seed
+  date: '2015'
+  amount_m: 0.3
+  lead_investors:
+  - Renren
+  source: https://www.crunchbase.com/organization/xtalpi
+- stage: Series A
+  date: '2015-11'
+  amount_m: 5.0
+  lead_investors:
+  - Tencent
+  source: https://www.crunchbase.com/funding_round/xtalpi-series-a--b8d87a79
+- stage: Series A (extension)
+  date: '2016-01'
+  amount_m: 1.2
+  lead_investors:
+  - Undisclosed
+  source: https://www.crunchbase.com/funding_round/xtalpi-series-a--5cdc1988
+- stage: Series B
+  date: '2018-01'
+  amount_m: 15.0
+  lead_investors:
+  - Undisclosed
+  source: https://www.crunchbase.com/funding_round/xtalpi-series-b--e0594bbe
+- stage: Series B (extension)
+  date: '2018-10'
+  amount_m: 46.0
+  lead_investors:
+  - Sequoia Capital China
+  source: https://www.crunchbase.com/funding_round/xtalpi-series-b--40b1faaa
+- stage: Series C
+  date: '2020-09'
+  amount_m: 319.0
+  lead_investors:
+  - SoftBank Vision Fund
+  source: https://techcrunch.com/2020/09/28/xtalpi-lands-massive-319m-softbank-led-round-c-to-continue-its-high-tech-drug-discovery/
+- stage: Series D
+  date: '2021-08'
+  amount_m: 400.0
+  lead_investors:
+  - SoftBank Vision Fund
+  source: https://globalventuring.com/corporate/xtalpi-executes-400m-series-d-round/
+  notes: Total pre-IPO private funding ~$786M across 7 rounds
 ---
 
 # XtalPi

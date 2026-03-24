@@ -10,6 +10,8 @@ total_funding_approx: ~$2.85B+
 founders:
 - name: Josh Payne
   role: CEO & Founder
+  background: Serial entrepreneur. Started working in Australian coal mines, where he taught himself entrepreneurship during downtime. Built companies across recruitment, capital markets, and supercomputing infrastructure. Founded and served as Executive Chairman of Arkon Energy (Bitcoin mining on renewable infrastructure). Designed and constructed 54 data centres including London Stock Exchange infrastructure. Nscale was spun off from Arkon Energy to pivot data center expertise toward AI compute.
+  origin: Australian (British-born)
 employees_approx: unknown
 research_date: 2026-03-20
 confidence: high

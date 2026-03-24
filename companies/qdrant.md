@@ -11,8 +11,12 @@ total_raised_m: 88
 founders:
 - name: Andre Zayarni
   role: Co-Founder & CEO
+  background: MSc in Medieninformatik from Karlsruhe University of Applied Sciences (2007). Career spanning multiple tech roles since 2009 including Senior Software Developer at VZnet Netzwerke, Senior Software Engineer at Bigpoint GmbH, Technical Lead at Spreadsave, Technical Co-founder at Choisr Internet GmbH, and CTO/CPO at MoBerries GmbH. Co-founded Qdrant in 2021 after identifying the need for a production-ready vector search engine.
+  origin: German
 - name: Andrey Vasnetsov
   role: Co-Founder & CTO
+  background: BSc and MSc in Information Technologies from Bauman Moscow State Technical University (2011-2017). Started career as Software Developer at Mail.Ru Group, then Software Engineer at dotin LLC building social profile matching. Machine Learning Engineer and Team Lead at Tinkoff Bank (2017-2020). Lead Data Scientist at MoBerries (where he met Zayarni). Expert in vector search, metric learning, and self-supervised learning. Built Qdrant's vector search engine from scratch in Rust.
+  origin: Russian
 funding_rounds:
 - stage: Seed
   date: 2022

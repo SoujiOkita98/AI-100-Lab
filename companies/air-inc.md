@@ -11,8 +11,12 @@ total_raised_m: 77.0
 founders:
 - name: Shane Hegde
   role: CEO
+  background: "BS Stanford. Former Chief Digital Strategist at REVOLT. CEO & Co-Founder of Swap (venture-backed fintech). Former PE investor at HPS Investment Partners."
+  origin: American
 - name: Tyler Strand
-  role: Co-Founder
+  role: Co-Founder & CTO
+  background: "BS CS Stanford. Former Director of Product at Beatport (launched Beatport Live). Former Partner & Director of PM at Postlight (clients: Goldman Sachs, Time Inc, Bloomberg). Stanford college roommate of Shane Hegde."
+  origin: American
 funding_rounds:
 - stage: Seed
   date: '2020'

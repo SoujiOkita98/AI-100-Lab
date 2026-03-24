@@ -10,13 +10,16 @@ last_updated: 2026-03-20
 founders:
 - name: Devvret Rishi
   role: Co-Founder & CEO
-  origin: Indian-American (Harvard CS; former Google PM for Vertex AI and Kaggle)
+  background: Harvard CS graduate. Former Google Product Manager for Vertex AI and Kaggle. Led product strategy for Google's ML platform services before co-founding Predibase to democratize ML fine-tuning.
+  origin: Indian-American
 - name: Piero Molino
   role: Co-Founder & Chief Science Officer
-  origin: Italy (creator of Ludwig; former Uber AI Labs)
+  background: Creator of Ludwig, the open-source declarative ML framework. Former researcher at Uber AI Labs. PhD in AI/NLP. Published researcher in deep learning and NLP. Ludwig became the technical foundation of Predibase's fine-tuning platform.
+  origin: Italian
 - name: Travis Addair
   role: Co-Founder & CTO
-  origin: United States (former Uber ML Platform lead)
+  background: Former Uber ML Platform lead, where he built and managed the distributed ML training infrastructure at scale. Led the engineering team at Predibase focused on efficient fine-tuning and serving of open-source LLMs. Deep expertise in distributed systems and ML infrastructure.
+  origin: American
 one_liner: Predibase was an AI infrastructure company that enabled software engineers to fine-tune and serve open-source AI
   models across cloud environments
 crunchbase: https://www.crunchbase.com/organization/predibase

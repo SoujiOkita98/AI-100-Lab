@@ -10,8 +10,12 @@ total_raised_m: 22
 founders:
 - name: Jordan Dearsley
   role: Co-Founder & CEO
+  background: Studied Software Engineering at University of Waterloo (2017-2020, dropped out). Software Engineer at Asana and Wealthsimple. Co-founded Superpowered (YC W21), an AI meeting notetaker, which he ran from 2020-2023. Pivoted multiple times (investing app, note-taking tool, AI productivity) before relocating to San Francisco and founding Vapi in August 2023.
+  origin: Canadian
 - name: Nikhil Gupta
   role: Co-Founder & CTO
+  background: Co-founded Superpowered (YC W21) with Dearsley from 2021 to early 2023. Previously played a pivotal role at Nearside before its acquisition by Plastiq in 2020. Product-focused technical founder obsessed with user experience. Co-founded Vapi after pivoting from Superpowered.
+  origin: Indian-American
 funding_rounds:
 - stage: Seed
   date: 2023

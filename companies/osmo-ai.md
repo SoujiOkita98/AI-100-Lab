@@ -11,6 +11,8 @@ total_raised_m: 135
 founders:
 - name: Alex Wiltschko
   role: Founder & CEO
+  background: PhD in olfactory neuroscience from Harvard. Founded and exited two AI companies (Syllable, sold to Neumora; Whetlab, sold to Twitter, where he started the deep learning group). Joined Google Brain, where he created Alphabet's olfaction research group and proved AI could predict molecular smell before synthesis. Grew up in a small town in Texas. Founded Osmo in 2022 to digitize scent.
+  origin: American
 funding_rounds:
 - stage: Series A
   date: 2023-01

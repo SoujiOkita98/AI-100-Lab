@@ -23,6 +23,8 @@ total_raised_m: 9.5
 founders:
 - name: Yagub Rahimov
   role: Founder & CEO
+  background: 3x founder. Attended Hanze University of Applied Sciences. First venture was a machine learning-powered social trading platform connecting rookie investors with verified professionals, followed by two more bootstrapped companies. Previously CEO and Co-founder of 7marketz. Immigrant entrepreneur who has lived in many parts of the world.
+  origin: Azerbaijani
   origin: Azerbaijani
 - name: Vignesh Karumbaya
   role: Co-Founder & COO

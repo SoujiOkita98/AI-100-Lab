@@ -8,9 +8,11 @@ founders:
 - name: Cy Khormaee
   role: CEO
   origin: Iranian-American
+  background: "MBA Harvard Business School. Former Head of Product / Director of Product Management at Google (Safe Browsing, reCAPTCHA, Web Risk). Previously founded Contastic (acquired by SugarCRM 2016). Former VP Product Management at Attentive."
 - name: Ryan Luo
-  role: Co-founder
+  role: Co-founder & CTO
   origin: Chinese-American
+  background: "Pomona College, Yale CS Award recipient. 9 years at Google on Safe Browsing and reCAPTCHA teams. Built reCAPTCHA's product-led growth strategy driving adoption by millions of sites."
 funding_rounds:
 - stage: Seed
   date: '2025'

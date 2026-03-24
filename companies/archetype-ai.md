@@ -11,14 +11,24 @@ total_raised_m: 48
 founders:
 - name: Ivan Poupyrev
   role: CEO
+  background: "MS Applied Math & CS Moscow Aerospace University, PhD CS Hiroshima University. Former Director of Engineering at Google ATAP (led Project Soli radar sensing and Jacquard smart textiles, shipped in 15+ products across 33 countries). Former Principal Research Scientist at Walt Disney Imagineering and Sony Research Tokyo."
+  origin: Russian-American
 - name: Leonardo Giusti
   role: Co-founder
+  background: "Former Google ATAP team member. Co-created Project Jacquard connected apparel platform."
+  origin: Italian-American
 - name: Jaime Lien
   role: Co-founder
+  background: "Former Google ATAP team member. Co-created Project Soli radar-based gesture recognition."
+  origin: American
 - name: Brandon Barbello
   role: Co-founder
+  background: "Former Google ATAP team member. Worked on Project Soli and Jacquard platforms."
+  origin: American
 - name: Nick Gillian
   role: Co-founder
+  background: "Former Google ATAP team member. ML/sensing specialist on Project Soli."
+  origin: Irish-American
 funding_rounds:
 - stage: Seed
   date: 2024-04

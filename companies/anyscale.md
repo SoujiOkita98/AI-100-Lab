@@ -9,13 +9,21 @@ status: active
 total_raised_m: 281
 founders:
 - name: Robert Nishihara
-  role: Co-Founder
+  role: Co-Founder & CEO
+  background: "BA Mathematics Harvard, PhD CS UC Berkeley (advised by Ion Stoica). Research intern at Facebook AI Research, Microsoft Research. Co-creator of Ray distributed computing framework."
+  origin: American
 - name: Philipp Moritz
-  role: Co-Founder
+  role: Co-Founder & CTO
+  background: "BSc Physics U. Würzburg, MASt Mathematics Cambridge, PhD CS UC Berkeley. Co-creator of Ray. Contributor to vLLM, Apache Arrow. Research in distributed systems, compilers."
+  origin: German
 - name: Ion Stoica
   role: Co-Founder
+  background: "MS EE/CS Polytechnic University of Bucharest, PhD ECE Carnegie Mellon. Professor of CS at UC Berkeley (Xu Bao Chancellor's Chair). Co-founded Databricks and Conviva. Director of RISELab/SkyLab."
+  origin: Romanian-American
 - name: Michael I. Jordan
   role: Co-Founder
+  background: "MS Mathematics Arizona State, PhD Cognitive Science UC San Diego. Pehong Chen Distinguished Professor at UC Berkeley (EECS & Statistics). Former MIT professor (1988-1998). Member of NAS, NAE, and American Academy of Arts and Sciences."
+  origin: American
 funding_rounds:
 - stage: Series A
   date: 2019-12

@@ -6,7 +6,7 @@ us_operations: New York, NY
 website: https://www.ai21.com
 sector: Enterprise AI / Foundation Models
 stage: Late Stage (Series C closed; Series D status disputed)
-total_funding_confirmed: ~$336M (through Series C)
+total_funding_confirmed: ~$326.5M (through Series C, per Crunchbase)
 employee_count: ~230 (as of early 2026)
 status: Independent (potential Nvidia acquisition under discussion as of late 2025)
 founders:
@@ -46,33 +46,50 @@ website_verified: true
 linkedin: https://www.linkedin.com/company/ai21
 crunchbase: https://www.crunchbase.com/organization/ai21-labs
 crunchbase_verified: true
-total_raised_m: 336
+total_raised_m: 326.5
 funding_rounds:
 - stage: Seed
-  date: '2019'
+  date: '2019-01'
   amount_m: 9.5
   lead_investors:
   - Undisclosed
   source: https://www.crunchbase.com/organization/ai21
-- stage: Series A
-  date: 2020-07
-  amount_m: 34.0
+- stage: Venture Round
+  date: '2020'
+  amount_m: 20.0
   lead_investors:
-  - Pitango
-  source: https://www.crunchbase.com/organization/ai21
+  - Walden Catalyst
+  source: https://www.crunchbase.com/funding_round/ai21-series-unknown--6ae0f6fc
+  notes: Undisclosed venture round listed on Crunchbase
+- stage: Series A
+  date: '2021-11'
+  amount_m: 25.0
+  lead_investors:
+  - Pitango First
+  - Walden Catalyst
+  source: https://www.crunchbase.com/funding_round/ai21-series-a--27e9dfec
 - stage: Series B
-  date: 2021-07
+  date: '2022-07'
   amount_m: 64.0
   lead_investors:
   - Ahren
-  source: https://www.crunchbase.com/organization/ai21
+  source: https://www.crunchbase.com/funding_round/ai21-series-b--1fc9de3d
 - stage: Series C
-  date: 2023-08
-  amount_m: 208.0
+  date: '2023-08'
+  amount_m: 155.0
   lead_investors:
   - Walden Catalyst
   - Pitango
+  source: https://www.ai21.com/blog/series-c-funding/
+  notes: Initial close at $1.4B valuation
+- stage: Series C Extension
+  date: '2023-11'
+  amount_m: 53.0
+  lead_investors:
+  - Intel Capital
+  - Comcast Ventures
   source: https://www.ai21.com/blog/ai21-completes-208-million-oversubscribed-series-c-round/
+  notes: Extended Series C from $155M to $208M total
 linkedin_verified: true
 latest_valuation_m: 1400.0
 ---
@@ -111,7 +128,7 @@ A professor of computer science at the Hebrew University of Jerusalem and one of
 | Series C | Aug 2023 | $155M (extended to $208M by Nov 2023) | $1.4B | Walden Catalyst, Pitango, Google, Nvidia, SCB10X, Samsung Next, Intel Capital |
 | Series D (reported) | May 2025 | $300M (reported) | ~$1.4B | Google, Nvidia (reported) |
 
-**Total confirmed funding:** ~$336M through the completed Series C extension.
+**Total confirmed funding:** ~$326.5M through the completed Series C extension (per Crunchbase: 8 rounds totaling $326.5M).
 
 **Critical caveat on Series D:** Multiple sources (notably Calcalist/Ctech) report that the $300M Series D round announced in May 2025 was **never formally closed**. The round was reportedly never reflected in the company's capital structure. If accurate, total funding stands at ~$336M, not $636M. This is a significant discrepancy that surfaces in various databases. Treat the $636M total-funding figure with skepticism.
 

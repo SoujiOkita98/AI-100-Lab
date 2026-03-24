@@ -11,6 +11,8 @@ total_raised_m: 42
 founders:
 - name: Anna Veronika Dorogush
   role: Founder & CEO
+  background: MSc in Applied Mathematics and Computer Science from Lomonosov Moscow State University (2005-2010). Yandex School of Data Analysis graduate. Career includes Software Engineer at ABBYY (morphology/spellchecking), Software Engineer at Microsoft (2012-2013), Software Engineer at Google NLP group (2014, automatic fact translation and knowledge graph), and IC/Head of ML Tools at Yandex (2016+). Creator of CatBoost, the widely-used open-source gradient boosting library (hundreds of thousands of weekly PyPI downloads). Director of ML Engineering at Next Iteration Technologies. Solo female founder in AI image generation, previously worked as a professional model while studying mathematics.
+  origin: Russian
 funding_rounds:
 - stage: Series A
   date: 2024

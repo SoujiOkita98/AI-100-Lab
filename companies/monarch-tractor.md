@@ -28,37 +28,44 @@ founders:
   origin: Italian-American
 funding_rounds:
 - stage: Series A
-  date: ~2020
+  date: 2021-03
   amount_m: 20.0
-  source: https://www.crunchbase.com/organization/monarch-tractors
-  notes: 'Early round to develop prototype autonomous electric tractor.
-
-    '
+  source: https://www.crunchbase.com/funding_round/monarch-tractors-series-a--b3ac0f44
+  notes: Early round to develop prototype autonomous electric tractor.
 - stage: Series B
-  date: 2022-01
+  date: 2021-11
   amount_m: 61.0
   other_investors:
   - CNH Industrial
-  source: https://aibusiness.com/verticals/autonomous-smart-tractor-firm-monarch-secures-61m-in-funding
-  notes: 'Strategic investment from CNH Industrial (Case IH, New Holland) validated the platform and provided agricultural
-    distribution channels.
-
-    '
+  source: https://www.crunchbase.com/funding_round/monarch-tractors-series-b--8b69a1c5
+  notes: Strategic investment from CNH Industrial (Case IH, New Holland) validated the platform and provided agricultural distribution channels.
 - stage: Series C
-  date: 2024
+  date: 2024-07
   amount_m: 133.0
   lead_investors:
   - Astanor Ventures
-  - Foxconn Co-GP Fund
+  - HH-CTBC Partnership
   other_investors:
   - At One Ventures
   - PMV
   - The Welvaartsfonds
-  source: https://globalaginvesting.com/ai-powered-autonomous-tractor-maker-monarch-tractor-secures-133m-in-latest-round/
-  notes: 'Largest agricultural robotics funding round at the time. Brought total raised to over $200M. Foxconn involvement
-    signals potential manufacturing scale-up partnership.
-
-    '
+  - Foxconn Co-GP Fund
+  source: https://www.crunchbase.com/funding_round/monarch-tractors-series-c--d170e85f
+  notes: Largest agricultural robotics funding round at the time.
+- stage: Grant
+  date: 2024-08
+  amount_m: 2.5
+  lead_investors:
+  - California Energy Commission
+  source: https://www.crunchbase.com/funding_round/monarch-tractors-grant--949ce9e4
+  notes: Rural Electrification And Charging Technology (REACT) grant
+- stage: Venture Round
+  date: null
+  amount_m: 3.5
+  lead_investors:
+  - Undisclosed
+  source: https://www.crunchbase.com/funding_round/monarch-tractors-series-unknown--27880228
+  notes: Additional venture round listed on Crunchbase; date undisclosed
 one_liner: Monarch Tractor designs and manufactures fully electric, autonomous ("driver-optional") smart tractors for the
   agricultural sector
 website_verified: true
@@ -67,7 +74,7 @@ crunchbase_verified: true
 headquarters: Livermore, California, USA
 linkedin: https://www.linkedin.com/company/monarch-tractor/
 linkedin_verified: true
-total_raised_m: 200.0
+total_raised_m: 220.0
 ---
 
 # Monarch Tractor
