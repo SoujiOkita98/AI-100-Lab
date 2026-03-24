@@ -1197,7 +1197,32 @@
     "team_china_profile": null,
     "confidence": "Low",
     "last_updated": "2026-03-23",
-    "founders": [],
+    "founders": [
+      {
+        "company_slug": "afterquery",
+        "name": "Carlos Georgescu",
+        "role": "Co-Founder",
+        "background": "Built multiple software businesses, exited an ed-tech startup; former SWE at Citadel Securities; interned at Meta",
+        "origin": "Romania",
+        "prior": ""
+      },
+      {
+        "company_slug": "afterquery",
+        "name": "Spencer Mateega",
+        "role": "Co-Founder",
+        "background": "Award-winning researcher; interned at Meta (SWE), Google (SWE), Morgan Stanley (IB), Silver Lake (PE)",
+        "origin": "United States",
+        "prior": ""
+      },
+      {
+        "company_slug": "afterquery",
+        "name": "Danny Tang",
+        "role": "Co-Founder",
+        "background": "Won international Microsoft AI competition; worked at Morgan Stanley (IB), BDT & MSD Partners; Wharton student",
+        "origin": "United States",
+        "prior": ""
+      }
+    ],
     "funding_rounds": [
       {
         "company_slug": "afterquery",
@@ -8072,7 +8097,24 @@
     "team_china_profile": null,
     "confidence": "Low",
     "last_updated": "2026-03-23",
-    "founders": [],
+    "founders": [
+      {
+        "company_slug": "calltree-ai",
+        "name": "Kun Qian",
+        "role": "CEO",
+        "background": "Former product leader at AWS focused on contact center solutions; built and scaled product lines to tens of millions in ARR",
+        "origin": "China",
+        "prior": ""
+      },
+      {
+        "company_slug": "calltree-ai",
+        "name": "Robertson Taylor",
+        "role": "CTO",
+        "background": "Specializes in multimodal search for video and audio; helped companies like Walmart and Etsy fine-tune embedding models",
+        "origin": "United States",
+        "prior": ""
+      }
+    ],
     "funding_rounds": [
       {
         "company_slug": "calltree-ai",
@@ -19707,7 +19749,24 @@
     "team_china_profile": null,
     "confidence": "Low",
     "last_updated": "2026-03-23",
-    "founders": [],
+    "founders": [
+      {
+        "company_slug": "hamming",
+        "name": "Sumanyu Sharma",
+        "role": "CEO",
+        "background": "Former Head of Data at Citizen; Senior Staff Data Scientist at Tesla where he grew AI-powered sales to hundreds of millions in revenue/year",
+        "origin": "India",
+        "prior": ""
+      },
+      {
+        "company_slug": "hamming",
+        "name": "Marius Buleandra",
+        "role": "CTO",
+        "background": "Former data infrastructure lead at Anduril; founding engineer at Spell (MLOps startup acquired by Reddit)",
+        "origin": "Romania",
+        "prior": ""
+      }
+    ],
     "funding_rounds": [
       {
         "company_slug": "hamming",
@@ -27057,7 +27116,24 @@
     "team_china_profile": null,
     "confidence": "Low",
     "last_updated": "2026-03-23",
-    "founders": [],
+    "founders": [
+      {
+        "company_slug": "marr-labs",
+        "name": "Han Shu",
+        "role": "Co-Founder",
+        "background": "Co-created Vlingo, the speech tech that powered Siri and Samsung's S-Voice (acquired for $225M)",
+        "origin": "China",
+        "prior": ""
+      },
+      {
+        "company_slug": "marr-labs",
+        "name": "Dave Grannan",
+        "role": "Co-Founder",
+        "background": "Co-created Vlingo (acquired for $225M); serial entrepreneur in speech technology",
+        "origin": "United States",
+        "prior": ""
+      }
+    ],
     "funding_rounds": [
       {
         "company_slug": "marr-labs",
@@ -32115,7 +32191,24 @@
     "team_china_profile": null,
     "confidence": "Low",
     "last_updated": "2026-03-23",
-    "founders": [],
+    "founders": [
+      {
+        "company_slug": "onlook",
+        "name": "Daniel Farrell",
+        "role": "Co-Founder (Design & Growth)",
+        "background": "Designer for over a decade; first 100 employee at Bird; former Head of Growth; ex-DIMO, Defy Marketing",
+        "origin": "United States",
+        "prior": ""
+      },
+      {
+        "company_slug": "onlook",
+        "name": "Kiet Ho",
+        "role": "Co-Founder (Engineering)",
+        "background": "Ex-Amazon; maintained design system at ServiceNow",
+        "origin": "Vietnam",
+        "prior": ""
+      }
+    ],
     "funding_rounds": [
       {
         "company_slug": "onlook",
@@ -33474,7 +33567,24 @@
     "team_china_profile": null,
     "confidence": "Low",
     "last_updated": "2026-03-23",
-    "founders": [],
+    "founders": [
+      {
+        "company_slug": "pave-robotics",
+        "name": "Josh Kelly",
+        "role": "Co-Founder",
+        "background": "Stanford grad; head of engineering for Mark Rober's YouTube team; previously at Zipline and NASA JPL (Mechatronics)",
+        "origin": "United States",
+        "prior": ""
+      },
+      {
+        "company_slug": "pave-robotics",
+        "name": "Mason Landon Smith",
+        "role": "Co-Founder",
+        "background": "Rhode Island School of Design grad; founding product designer at Crunch Labs (Mark Rober); multiple award-winning products",
+        "origin": "United States",
+        "prior": ""
+      }
+    ],
     "funding_rounds": [
       {
         "company_slug": "pave-robotics",
@@ -34389,7 +34499,48 @@
     "team_china_profile": null,
     "confidence": "Low",
     "last_updated": "2026-03-23",
-    "founders": [],
+    "founders": [
+      {
+        "company_slug": "pickle",
+        "name": "Daniel Park",
+        "role": "CEO",
+        "background": "Medical school dropout who built a $2M/year e-commerce business at age 22",
+        "origin": "South Korea",
+        "prior": ""
+      },
+      {
+        "company_slug": "pickle",
+        "name": "Sam Yu",
+        "role": "CTO",
+        "background": "Summa cum laude CS & EE dropout; built a self-driving AI model at 21",
+        "origin": "South Korea",
+        "prior": ""
+      },
+      {
+        "company_slug": "pickle",
+        "name": "Emmett Kim",
+        "role": "Co-Founder",
+        "background": "CS dropout; star of Pickle's viral demo",
+        "origin": "South Korea",
+        "prior": ""
+      },
+      {
+        "company_slug": "pickle",
+        "name": "Sanio Jung",
+        "role": "Co-Founder",
+        "background": "Former medical doctor and self-taught engineer; built AI model for detecting wrist fractures",
+        "origin": "South Korea",
+        "prior": ""
+      },
+      {
+        "company_slug": "pickle",
+        "name": "Chris Kang",
+        "role": "Co-Founder",
+        "background": "CS dropout and social media expert; managed accounts with over 100M views",
+        "origin": "South Korea",
+        "prior": ""
+      }
+    ],
     "funding_rounds": [
       {
         "company_slug": "pickle",
@@ -37324,7 +37475,24 @@
     "team_china_profile": null,
     "confidence": "Low",
     "last_updated": "2026-03-23",
-    "founders": [],
+    "founders": [
+      {
+        "company_slug": "revise-robotics",
+        "name": "Rupesh Jeyaram",
+        "role": "CEO",
+        "background": "Caltech BS 2020; Wharton MBA 2024",
+        "origin": "India",
+        "prior": ""
+      },
+      {
+        "company_slug": "revise-robotics",
+        "name": "Antonio Monreal",
+        "role": "CTO",
+        "background": "Caltech BS in Electrical Engineering (2016-2020); self-taught English and calculus on a refurbished laptop; full ride to Caltech",
+        "origin": "Mexico",
+        "prior": ""
+      }
+    ],
     "funding_rounds": [
       {
         "company_slug": "revise-robotics",
@@ -41286,7 +41454,24 @@
     "team_china_profile": null,
     "confidence": "Low",
     "last_updated": "2026-03-23",
-    "founders": [],
+    "founders": [
+      {
+        "company_slug": "sonauto",
+        "name": "Ryan Tremblay",
+        "role": "Co-Founder",
+        "background": "Cornell CS & History grad; spent 1.5 years researching music AI in collaboration with HarmonAI (Stability AI) and open-source researchers",
+        "origin": "United States",
+        "prior": ""
+      },
+      {
+        "company_slug": "sonauto",
+        "name": "Hayden Housen",
+        "role": "Co-Founder",
+        "background": "Published at NeurIPS; authored one of the first open-source transformer summarization libraries; youngest ML engineer intern at unicorn Ada at age 18",
+        "origin": "Canada",
+        "prior": ""
+      }
+    ],
     "funding_rounds": [
       {
         "company_slug": "sonauto",
@@ -43409,7 +43594,40 @@
     "team_china_profile": null,
     "confidence": "Low",
     "last_updated": "2026-03-23",
-    "founders": [],
+    "founders": [
+      {
+        "company_slug": "sync-labs",
+        "name": "Prady Modukuru",
+        "role": "CEO",
+        "background": "Co-creator of wav2lip (8.7k+ GitHub stars); raised $5.5M seed led by GV; won AI grant from Nat Friedman and Daniel Gross",
+        "origin": "India",
+        "prior": ""
+      },
+      {
+        "company_slug": "sync-labs",
+        "name": "Rudrabha Mukhopadhyay",
+        "role": "CTO",
+        "background": "Co-creator of wav2lip; researcher in lip-sync and speech-driven facial animation",
+        "origin": "India",
+        "prior": ""
+      },
+      {
+        "company_slug": "sync-labs",
+        "name": "Prajwal K R",
+        "role": "Chief Scientist",
+        "background": "Co-creator of wav2lip; researcher in audio-visual speech synthesis",
+        "origin": "India",
+        "prior": ""
+      },
+      {
+        "company_slug": "sync-labs",
+        "name": "Pavan Reddy",
+        "role": "COO",
+        "background": "Co-creator of wav2lip; operations and business development",
+        "origin": "India",
+        "prior": ""
+      }
+    ],
     "funding_rounds": [
       {
         "company_slug": "sync-labs",
@@ -45719,7 +45937,24 @@
     "team_china_profile": null,
     "confidence": "Low",
     "last_updated": "2026-03-23",
-    "founders": [],
+    "founders": [
+      {
+        "company_slug": "trellis",
+        "name": "Mac Klinkachorn",
+        "role": "CEO",
+        "background": "Stanford AI Lab; built LLM infra at Cresta and Moveworks processing terabytes of chat logs and voice calls",
+        "origin": "Thailand",
+        "prior": ""
+      },
+      {
+        "company_slug": "trellis",
+        "name": "Jacky Lin",
+        "role": "Co-Founder",
+        "background": "Stanford AI Lab; taught hundreds of Stanford grad students to build/train/deploy AI models; previously at Meta, World Bank, Wayfair",
+        "origin": "United States",
+        "prior": ""
+      }
+    ],
     "funding_rounds": [
       {
         "company_slug": "trellis",
@@ -46099,7 +46334,24 @@
     "team_china_profile": null,
     "confidence": "Medium",
     "last_updated": "2026-03-23",
-    "founders": [],
+    "founders": [
+      {
+        "company_slug": "truffle-ai",
+        "name": "Rahul Karajgikar",
+        "role": "Co-Founder",
+        "background": "Published research at NeurIPS 2022 and WACV '23 (with Meta); built AI products for face recognition and health estimation at Hyperverge",
+        "origin": "India",
+        "prior": ""
+      },
+      {
+        "company_slug": "truffle-ai",
+        "name": "Shaunak Srivastava",
+        "role": "Co-Founder",
+        "background": "Published research at NeurIPS 2022 and WACV '23 (with Meta); built AI products at Hyperverge",
+        "origin": "India",
+        "prior": ""
+      }
+    ],
     "funding_rounds": [
       {
         "company_slug": "truffle-ai",
@@ -50347,7 +50599,32 @@
     "team_china_profile": null,
     "confidence": "Medium",
     "last_updated": "2026-03-23",
-    "founders": [],
+    "founders": [
+      {
+        "company_slug": "yoneda-labs",
+        "name": "Michal Mgeladze-Arciuch",
+        "role": "CEO",
+        "background": "University of Cambridge; worked on ML algorithms at Jane Street; researched large AI models at UC Berkeley",
+        "origin": "Georgia/Poland",
+        "prior": ""
+      },
+      {
+        "company_slug": "yoneda-labs",
+        "name": "Jan Oboril",
+        "role": "Chief Scientist",
+        "background": "University of Cambridge (Chemistry & Biology); worked at Bayer; 8th/10th/11th at International Chemistry Olympiad",
+        "origin": "Czech Republic",
+        "prior": ""
+      },
+      {
+        "company_slug": "yoneda-labs",
+        "name": "Daniel Vlasits",
+        "role": "CTO",
+        "background": "University of Cambridge (Computer Science); SWE at Cisco and Optiver; programming languages researcher",
+        "origin": "Austria",
+        "prior": ""
+      }
+    ],
     "funding_rounds": [
       {
         "company_slug": "yoneda-labs",

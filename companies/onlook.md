@@ -7,7 +7,15 @@ sector: AI Developer Tools / Design-to-Code
 one_liner: Open-source visual editor for React apps that lets designers and developers collaborate in real time
 status: Active
 total_raised_m: 0.5
-founders: []
+founders:
+  - name: "Daniel Farrell"
+    role: "Co-Founder (Design & Growth)"
+    background: "Designer for over a decade; first 100 employee at Bird; former Head of Growth; ex-DIMO, Defy Marketing"
+    origin: "United States"
+  - name: "Kiet Ho"
+    role: "Co-Founder (Engineering)"
+    background: "Ex-Amazon; maintained design system at ServiceNow"
+    origin: "Vietnam"
 funding_rounds:
 - stage: Seed
   date: 2025-03

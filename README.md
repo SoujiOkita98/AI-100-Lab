@@ -1,6 +1,6 @@
 # AI-100-Lab
 
-**A research-grade database of 600+ AI and robotics startups worldwide — funding rounds, founder profiles, investor networks, and origin analysis.**
+**A research-grade database of 750+ AI and robotics startups worldwide — funding rounds, founder profiles, investor networks, and origin analysis.**
 
 Built with research-grade rigor: every claim is sourced, uncertainty is marked explicitly, and quality takes precedence over completeness.
 
@@ -10,9 +10,9 @@ Built with research-grade rigor: every claim is sourced, uncertainty is marked e
 
 | Metric | Count |
 |--------|------:|
-| Companies | 615 |
-| Funding rounds | 1,259 |
-| Founders tracked | 1,314 |
+| Companies | 767 |
+| Funding rounds | 1,635 |
+| Founders tracked | 1,737 |
 | 2025 seed rounds | 180+ |
 | 2026 seed rounds | 30+ |
 | Countries covered | 20+ |
@@ -43,7 +43,7 @@ Built with research-grade rigor: every claim is sourced, uncertainty is marked e
 
 ```
 AI-100-Lab/
-  companies/           # 615 markdown files — one per company
+  companies/           # 767 markdown files — one per company
   exports/             # Clean CSV + JSON exports (rebuilt on demand)
     companies_clean.csv
     rounds_clean.csv
@@ -214,10 +214,10 @@ Clean, analysis-ready exports are in `exports/`:
 
 | File | Rows | Description |
 |------|-----:|-------------|
-| `companies_clean.csv` | 615 | One row per company — all normalized fields |
-| `rounds_clean.csv` | 1,259 | One row per funding round — stage, date, amount, valuation, investors |
-| `founders_clean.csv` | 1,314 | One row per founder — name, role, background, origin |
-| `companies_clean.json` | 615 | Nested format — company + founders + rounds combined |
+| `companies_clean.csv` | 767 | One row per company — all normalized fields |
+| `rounds_clean.csv` | 1,635 | One row per funding round — stage, date, amount, valuation, investors |
+| `founders_clean.csv` | 1,737 | One row per founder — name, role, background, origin |
+| `companies_clean.json` | 767 | Nested format — company + founders + rounds combined |
 
 ### CSV Field Reference
 
@@ -236,7 +236,7 @@ Clean, analysis-ready exports are in `exports/`:
 
 | Script | Purpose |
 |--------|---------|
-| `scripts/rebuild_clean_export.py` | Parse all 615 markdown files and regenerate clean CSV/JSON exports |
+| `scripts/rebuild_clean_export.py` | Parse all 767 markdown files and regenerate clean CSV/JSON exports |
 | `scripts/inject_rounds.py` | Inject funding round data into existing company frontmatter from JSON |
 | `scripts/create_company.py` | Create new company markdown files from JSON input |
 | `scripts/overnight_pipeline.py` | Systematic VC portfolio scraper using browser-use CLI |

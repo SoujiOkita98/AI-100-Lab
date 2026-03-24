@@ -7,7 +7,15 @@ sector: AI Testing / Voice Agent QA
 one_liner: Automated testing platform for voice agents and conversational AI applications
 status: Active
 total_raised_m: 0.5
-founders: []
+founders:
+  - name: "Sumanyu Sharma"
+    role: "CEO"
+    background: "Former Head of Data at Citizen; Senior Staff Data Scientist at Tesla where he grew AI-powered sales to hundreds of millions in revenue/year"
+    origin: "India"
+  - name: "Marius Buleandra"
+    role: "CTO"
+    background: "Former data infrastructure lead at Anduril; founding engineer at Spell (MLOps startup acquired by Reddit)"
+    origin: "Romania"
 funding_rounds:
 - stage: Seed
   date: 2024-09

@@ -7,7 +7,15 @@ sector: AI Music / Creative Tools
 one_liner: AI music editor that creates full-length songs from prompts, lyrics, or melodies
 status: Active
 total_raised_m: 0.5
-founders: []
+founders:
+  - name: "Ryan Tremblay"
+    role: "Co-Founder"
+    background: "Cornell CS & History grad; spent 1.5 years researching music AI in collaboration with HarmonAI (Stability AI) and open-source researchers"
+    origin: "United States"
+  - name: "Hayden Housen"
+    role: "Co-Founder"
+    background: "Published at NeurIPS; authored one of the first open-source transformer summarization libraries; youngest ML engineer intern at unicorn Ada at age 18"
+    origin: "Canada"
 funding_rounds:
 - stage: Seed
   date: 2024-03

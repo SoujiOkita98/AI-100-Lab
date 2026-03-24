@@ -7,7 +7,15 @@ sector: AI Voice Agents / Customer Service
 one_liner: Voice agents that perform phone-based tasks like scheduling and customer service, indistinguishable from humans
 status: Active
 total_raised_m: 0.5
-founders: []
+founders:
+  - name: "Han Shu"
+    role: "Co-Founder"
+    background: "Co-created Vlingo, the speech tech that powered Siri and Samsung's S-Voice (acquired for $225M)"
+    origin: "China"
+  - name: "Dave Grannan"
+    role: "Co-Founder"
+    background: "Co-created Vlingo (acquired for $225M); serial entrepreneur in speech technology"
+    origin: "United States"
 funding_rounds:
 - stage: Seed
   date: 2024-03

@@ -7,7 +7,23 @@ sector: AI Video / Lip-Sync Technology
 one_liner: API enabling real-time lip-syncing for video subjects across any language
 status: Active
 total_raised_m: 0.5
-founders: []
+founders:
+  - name: "Prady Modukuru"
+    role: "CEO"
+    background: "Co-creator of wav2lip (8.7k+ GitHub stars); raised $5.5M seed led by GV; won AI grant from Nat Friedman and Daniel Gross"
+    origin: "India"
+  - name: "Rudrabha Mukhopadhyay"
+    role: "CTO"
+    background: "Co-creator of wav2lip; researcher in lip-sync and speech-driven facial animation"
+    origin: "India"
+  - name: "Prajwal K R"
+    role: "Chief Scientist"
+    background: "Co-creator of wav2lip; researcher in audio-visual speech synthesis"
+    origin: "India"
+  - name: "Pavan Reddy"
+    role: "COO"
+    background: "Co-creator of wav2lip; operations and business development"
+    origin: "India"
 funding_rounds:
 - stage: Seed
   date: 2024-03

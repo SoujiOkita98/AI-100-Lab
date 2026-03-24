@@ -7,7 +7,27 @@ sector: AI Video / Real-Time Lip-Sync
 one_liner: AI that clones an ideal version of yourself for video calls, lip-syncing to your voice in real time
 status: Active
 total_raised_m: 0.5
-founders: []
+founders:
+  - name: "Daniel Park"
+    role: "CEO"
+    background: "Medical school dropout who built a $2M/year e-commerce business at age 22"
+    origin: "South Korea"
+  - name: "Sam Yu"
+    role: "CTO"
+    background: "Summa cum laude CS & EE dropout; built a self-driving AI model at 21"
+    origin: "South Korea"
+  - name: "Emmett Kim"
+    role: "Co-Founder"
+    background: "CS dropout; star of Pickle's viral demo"
+    origin: "South Korea"
+  - name: "Sanio Jung"
+    role: "Co-Founder"
+    background: "Former medical doctor and self-taught engineer; built AI model for detecting wrist fractures"
+    origin: "South Korea"
+  - name: "Chris Kang"
+    role: "Co-Founder"
+    background: "CS dropout and social media expert; managed accounts with over 100M views"
+    origin: "South Korea"
 funding_rounds:
 - stage: Seed
   date: 2025-03

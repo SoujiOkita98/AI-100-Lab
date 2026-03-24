@@ -7,7 +7,15 @@ sector: AI Voice Agents / Enterprise Customer Support
 one_liner: Enterprise-grade AI support reps for call centers that use internal enterprise tools like CRM and dashboards
 status: Active
 total_raised_m: 0.5
-founders: []
+founders:
+  - name: "Kun Qian"
+    role: "CEO"
+    background: "Former product leader at AWS focused on contact center solutions; built and scaled product lines to tens of millions in ARR"
+    origin: "China"
+  - name: "Robertson Taylor"
+    role: "CTO"
+    background: "Specializes in multimodal search for video and audio; helped companies like Walmart and Etsy fine-tune embedding models"
+    origin: "United States"
 funding_rounds:
 - stage: Seed
   date: 2025-03
