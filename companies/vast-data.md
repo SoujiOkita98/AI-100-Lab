@@ -7,13 +7,21 @@ website: https://www.vastdata.com
 status: Private
 founders:
 - name: Renen Hallak
-  role: CEO
+  role: CEO & Founder
+  background: Background in complexity theory, cryptography, and computer science. Former VP of Engineering/Head of R&D at XtremIO (acquired by Dell EMC in 2012 for ~$430M; achieved $1.2B run rate in first year of sales). Founded VAST Data in January 2016. Named one of Goldman Sachs' 100 Most Intriguing Entrepreneurs (multiple consecutive years). BigDATAwire Person to Watch 2024.
+  origin: Israeli
 - name: Shachar Fienblit
-  role: Chief R&D Officer
+  role: Chief R&D Officer & Co-Founder
+  background: BSc Computer Software Engineering from University of Haifa (2000). Software Engineer at Picker Medical Systems (1996-2000). Storage Development Architect at IBM (2000-2008). CTO and VP Engineering at Kaminario (2009-2016). Co-founded VAST Data in 2016 bringing deep storage infrastructure expertise.
+  origin: Israeli
 - name: Jeff Denworth
   role: Co-founder, VP Products
+  background: Formerly of CTERA Networks. Co-founded VAST Data in 2016 with Hallak and Fienblit. Leads product strategy at VAST Data. Deep experience in enterprise storage and data management.
+  origin: American
 - name: Alon Horev
   role: CTO
+  background: Details on prior career limited in public sources. Serves as CTO overseeing technical architecture of VAST Data's platform.
+  origin: Israeli
 employees_approx: ~500-1,000 (estimate; exact figure uncertain)
 research_date: 2026-03-20
 confidence: high

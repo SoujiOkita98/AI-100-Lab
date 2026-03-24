@@ -7,12 +7,15 @@ founders:
 - name: Zayd Enam
   role: Co-Founder (former CEO)
   origin: Pakistani-American
+  background: "BS with High Honors UC Berkeley (EECS). Stanford AI Lab PhD candidate (left to found Cresta). 1st place 2007 All Pakistan Science Fair. Co-founded MediConnect (healthcare marketplace in Pakistan) at age 16."
 - name: Sebastian Thrun
   role: Co-Founder & Board Member
   origin: German-American
+  background: "Professor at Stanford. Led Google's self-driving car project (Waymo precursor). Co-founded Google X. Founded Udacity. Pioneer in autonomous vehicles and AI education."
 - name: Tim Shi
   role: Co-Founder
   origin: Chinese-American
+  background: "Stanford AI Lab PhD candidate (left to co-found Cresta). Early researcher at OpenAI."
 employee_count_estimate: ~300 (uncertain)
 status: Private
 last_updated: 2026-03-20

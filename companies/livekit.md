@@ -10,8 +10,12 @@ total_raised_m: 183
 founders:
 - name: Russ d'Sa
   role: Co-Founder & CEO
+  background: BS and MS in Computer Science from UC Davis. Previously at Twitter and 23andMe. Co-founded Evie Labs (acquired by Medium, 2019). Led product at Medium for creators and readers. Started LiveKit during Covid-19 pandemic.
+  origin: American
 - name: David Zhao
   role: Co-Founder & CTO
+  background: Studied Computer Engineering at University of Washington. Director of Engineering at Medium. Co-founded Evie Labs and Zecter (acquired by Motorola Mobility). Previously at Amazon. Senior Venture Partner at Pioneer Fund.
+  origin: American
 funding_rounds:
 - stage: Seed
   date: 2021

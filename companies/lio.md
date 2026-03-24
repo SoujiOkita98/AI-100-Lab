@@ -15,12 +15,15 @@ funding_rounds:
 founders:
 - name: Vladimir Keil
   role: Co-Founder & CEO
+  background: Had a profitable startup by age 22. Co-founded Gabriel AI (partnered with German FBI for telephone fraud prevention). Experienced procurement problems firsthand while selling enterprise software. YC S23.
   origin: German
 - name: Lukas Heinzmann
-  role: Co-Founder
+  role: Co-Founder & CTO
+  background: MS in AI/ML from Technical University of Munich. One of first employees at startup acquired by Audi (brought AI/ML to mobile apps). Technical lead for myAudi app (tripled user base). Co-founded Gabriel AI.
   origin: German
 - name: Till Wagner
   role: Co-Founder & COO
+  background: Experience in web/app design and product-building at AI startups in SF. Operational and analytic experience at Deloitte's biggest German client. Worked at SAP. His failure buying equipment with SAP's own software inspired Lio's creation.
   origin: German
 last_updated: 2026-03-21
 confidence: medium

@@ -22,10 +22,12 @@ linkedin: https://www.linkedin.com/company/getmaxiq
 total_raised_m: 7.8
 founders:
 - name: Sonny Aulakh
-  role: Founder
-  origin: Indian
+  role: Founder & CEO
+  background: 20+ years in tech. BS in Engineering from Cal State Sacramento. VP Products/Solutions/Vertical Marketing at Pure Storage. Global VP Sales Engineering at Dell EMC. VP Sales Engineering at EMC (XtremIO, $1B in first 18 months). Held roles at Reputation.com, Zscaler, Cisco, and Rainfinity.
+  origin: Indian-American
 - name: Sunny Rai
   role: Co-Founder & Head of Operations
+  background: Co-founded MaxIQ in 2022. Leads operations for the AI-powered customer journey management platform.
   origin: Indian
 linkedin_verified: true
 ---

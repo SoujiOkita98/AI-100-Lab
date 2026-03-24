@@ -11,8 +11,12 @@ total_raised_m: 39
 founders:
 - name: Banks Hunter
   role: Co-Founder & CEO
+  background: "MIT Class of 2015 (Mechanical Engineering & CS). Second employee at Vicarious Surgical (medical robotics, raised $450M+, worked there 5 years). Former engineer at Shaper Tools."
+  origin: American
 - name: Max Justicz
-  role: Co-Founder
+  role: Co-Founder & CTO
+  background: "MIT Class of 2017 (EECS). Friends with Banks Hunter since MIT. Shared climate motivation led to founding Charge Robotics together in 2021."
+  origin: American
 funding_rounds:
 - stage: Seed
   date: 2021

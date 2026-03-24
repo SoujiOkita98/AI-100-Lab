@@ -12,8 +12,12 @@ latest_valuation_m: 1450
 founders:
 - name: Tudor Achim
   role: Co-Founder & CEO
+  background: BS in Computer Science from Carnegie Mellon University, PhD candidate in CS at Stanford. Co-founded Helm.ai (autonomous driving) as CTO. Experience in large-model training from Helm and Quora.
+  origin: American (Romanian descent)
 - name: Vlad Tenev
   role: Co-Founder & Executive Chairman
+  background: Co-Founder and CEO of Robinhood Markets. BS in Mathematics from Stanford University, MS in Mathematics from UCLA. Built Robinhood into an international platform.
+  origin: Bulgarian-American
 funding_rounds:
 - stage: Series A
   date: 2024-09

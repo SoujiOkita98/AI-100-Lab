@@ -8,6 +8,7 @@ founders:
 - name: Anuruddh Mishra
   role: CEO
   origin: Indian
+  background: "BTech Electronics Engineering IIT-BHU Varanasi. Former roles at SuperShare, Give, and Reimagine Giving. Founded August AI after personal four-month misdiagnosis experience. 6M+ users across 160 countries."
 funding_rounds:
 - stage: Seed
   date: '2025'

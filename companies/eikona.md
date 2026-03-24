@@ -17,9 +17,11 @@ founders:
 - name: Nir Weingarten
   role: Co-Founder & CEO
   origin: Israeli
+  background: "IDC Herzliya. Based in Tel Aviv."
 - name: Omer Hacohen
   role: Co-Founder & CTO
   origin: Israeli
+  background: "BSc Ben-Gurion University, BSc Open University of Israel. Former Team Lead AI SDK (Compiler) at NeuReality. Former Israeli Air Force."
 last_updated: 2026-03-21
 confidence: medium
 crunchbase: https://www.crunchbase.com/organization/eikona

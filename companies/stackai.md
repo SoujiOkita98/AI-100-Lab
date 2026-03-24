@@ -10,9 +10,13 @@ status: Active
 total_raised_m: 19.0
 founders:
 - name: Antoni Rosinol
-  role: Co-Founder
+  role: Co-Founder & CEO
+  background: PhD in Computer Science & AI from MIT (LIDS and AeroAstro, 2018-2022). MSc Robotics from ETH Zurich. BSc from EPFL and NTU Singapore. Born in Barcelona. Robotics Engineer and Perception Lead at NASA JPL as part of CoSTAR team (JPL/MIT/Caltech) for DARPA SubT challenge. Research focused on deep learning, computer vision, and SLAM. Co-founded Stack AI after graduating MIT in 2022. YC W23.
+  origin: Spanish
 - name: Bernardo Aceituno
   role: Co-Founder
+  background: PhD and Minor in Business Administration from MIT. MSc Mechanical Engineering from MIT. BSc Electrical Engineering and Computer Science from Universidad Simon Bolivar. Research at MIT MCube Lab with Prof. Alberto Rodriguez on robustness and certification for manipulation tasks. Led research projects at Facebook AI Research (FAIR) and Italian Institute of Technology (IIT) on deep learning, trajectory optimization, and legged robots. Co-founded Stack AI after graduating MIT. YC W23.
+  origin: Venezuelan
 funding_rounds:
 - stage: Seed
   date: '2023'

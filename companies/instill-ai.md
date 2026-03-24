@@ -11,8 +11,12 @@ total_raised_m: 3.7
 founders:
 - name: Ping-Lin Chang
   role: Co-Founder & CEO
+  background: PhD in Computer Science from Imperial College London. MSc in AI from University of Southampton. BSc from National Cheng Kung University. Co-founded Umbo Computer Vision (CTO, 2014-2020). Grew up in Pingtung, Taiwan.
+  origin: Taiwanese
 - name: Xiaofei Du
   role: Co-Founder & COO
+  background: Researcher and PhD student at UCL (2013-2018). MSc in Biomedical Engineering from Tsinghua University. BSc in Telecommunications Engineering from Nanjing University of Posts and Telecommunications.
+  origin: Chinese
 funding_rounds:
 - stage: Pre-Seed
   date: 2021-10

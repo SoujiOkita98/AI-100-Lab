@@ -12,8 +12,12 @@ ceo: Karandeep Anand (appointed June 2025)
 founders:
 - name: Noam Shazeer
   role: departed to Google, August 2024
+  background: "Duke University (Math & CS, 1994-1998). Gold medal with perfect score at International Math Olympiad 1994. Joined Google in 2000. Lead author of 'Attention Is All You Need' (2017), the seminal transformer architecture paper. Created LaMDA chatbot at Google. Departed to Google DeepMind Aug 2024."
+  origin: American
 - name: Daniel De Freitas
   role: departed to Google, August 2024
+  background: "Former Senior Staff Software Engineer at Google. Lead designer of Meena/LaMDA chatbot at Google. Departed to Google DeepMind Aug 2024."
+  origin: Brazilian-American
 key_investors:
 - Andreessen Horowitz (a16z)
 status: Operating independently, but hollowed out by Google talent deal; facing major legal and regulatory headwinds

@@ -9,9 +9,11 @@ founders:
 - name: Matthew Harpe
   role: Co-Founder & CEO
   origin: American
+  background: "Former consultant at Boston Consulting Group (healthcare and data science). Discovered accounting data inefficiencies while at BCG, left to co-found Basis."
 - name: Mitchell Troyanovsky
   role: Co-Founder
   origin: American (Slavic heritage)
+  background: "Long-time friend of Harpe. Exposed to accounting industry inefficiencies in prior career. Co-built Basis prototype that attracted immediate interest from largest US accounting firms."
 arr_estimate: Undisclosed
 employee_count_estimate: ~50-100 (estimated based on growth stage)
 status: Private

@@ -10,8 +10,12 @@ total_raised_m: 115
 founders:
 - name: Deon Nicholas
   role: Co-Founder & Executive Chairman
+  background: Bachelor of Mathematics from University of Waterloo. Built products at Facebook, Palantir, Dropbox, and Pure Storage. Forbes 30 Under 30. Holds patents in ML. Angel investor in Cognition (Devin) and Anthropic.
+  origin: Canadian (grew up in inner-city Toronto)
 - name: Sami Ghoche
   role: Co-Founder & CEO
+  background: Harvard University (undergrad and graduate studies in Computer Science). Previously on LinkedIn's AI/ML team enhancing newsfeed relevance. Forbes 30 Under 30. Co-founded Forethought at age 24 with Nicholas.
+  origin: Lebanese-American
 funding_rounds:
 - stage: Seed
   date: 2018

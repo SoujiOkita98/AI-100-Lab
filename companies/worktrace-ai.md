@@ -9,9 +9,11 @@ employee_count: ~30
 founders:
 - name: Angela Jiang
   role: Co-Founder & CEO
-  origin: Mainland Chinese (graduated from Wharton, University of Pennsylvania)
+  background: PhD in Machine Learning Software Systems from Carnegie Mellon University. Early internships at Google Brain and Microsoft. Product Manager at OpenAI where she shipped GPT-3.5 and GPT-4 product work and the content moderation API. Later led a public policy team at OpenAI aligning policy, research, and product on AI safety, deepfakes, and data governance. Departed OpenAI in December 2024 to found Worktrace AI.
+  origin: Chinese-American
 - name: Deepak Vasisht
   role: Co-Founder
+  background: PhD in Computer Science from MIT. President of India Gold Medalist. Former intern at Microsoft working on FarmBeats (data for agriculture). Assistant Professor at University of Illinois Urbana-Champaign (Siebel School of Computing and Data Science). Pioneering research in distributed networking and computational systems across Earth and space. Took leave from teaching to join Silicon Valley's AI startup scene. Met Angela Jiang at South Park Commons.
   origin: Indian-American
 key_investors:
 - Conviction

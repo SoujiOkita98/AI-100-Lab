@@ -17,21 +17,27 @@ funding_rounds:
 founders:
 - name: Mouad M'Ghari
   role: Co-Founder & CEO
+  background: Born Feb 2000 in Rabat, Morocco. Studied at Lycee Louis-le-Grand, Ecole Polytechnique, and ENS. Masters from MIT (with Martin Wainwright). Interned at G-Research (London) and Attali Associates (Paris).
   origin: Moroccan-French
 - name: Martin de Gourcuff
   role: Co-Founder & CTO
+  background: Technical co-founder leading autonomous systems development for defense applications including integration with Dassault's Rafale F5 and UCAS drone programs.
   origin: French
 - name: Edouard Rosset
   role: Co-Founder
+  background: Co-founded Harmattan AI in 2024. Defense technology and autonomous systems background.
   origin: French
 - name: Jean-Christophe Charlaix
   role: Co-Founder
+  background: Co-founded Harmattan AI in 2024. Defense technology background.
   origin: French
 - name: Jean-Patrice Coste
   role: Co-Founder
+  background: Co-founded Harmattan AI in 2024. Defense technology background.
   origin: French
 - name: Marc Grelet
   role: Co-Founder
+  background: Co-founded Harmattan AI in 2024. Defense technology background.
   origin: French
 last_updated: 2026-03-21
 confidence: medium

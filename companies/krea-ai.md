@@ -10,9 +10,13 @@ total_raised_m: 83
 latest_valuation_m: 500
 founders:
 - name: Diego Rodriguez
-  role: Co-Founder
+  role: Co-Founder & CTO
+  background: Engineering degree in audiovisual systems in Barcelona. Won fellowship from King of Spain to attend Cornell (dropped out). Background in digital art, 3D architectural visualization, and programming. Co-founded KREA via HF0 residency.
+  origin: Venezuelan-Spanish
 - name: Victor Perez
-  role: Co-Founder
+  role: Co-Founder & CEO
+  background: Studied engineering in Barcelona, briefly attended Cornell on same royal fellowship (left after one day). Head of ML Research at Plyzer Intelligence (graph neural networks for e-commerce, 2018-2020). Background in music production and graffiti art.
+  origin: Spanish
 funding_rounds:
 - stage: Pre-Seed/Seed
   date: 2023

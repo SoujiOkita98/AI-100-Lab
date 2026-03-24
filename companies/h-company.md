@@ -10,19 +10,24 @@ stage: Seed (latest round May 2024)
 status: Active, Private
 founders:
 - name: Charles Kantor
-  role: Co-founder
+  role: Co-founder (stepped down as CEO Jun 2025, remains shareholder)
+  background: Former Stanford University computational mathematics researcher. Co-founded H Company while at Stanford. Replaced as CEO by Gautier Cloix (former Palantir executive) in June 2025.
   origin: American
 - name: Laurent Sifre
-  role: Co-founder
+  role: Co-founder & CTO
+  background: Former Principal Scientist at Google DeepMind. Contributed to AlphaGo, AlphaFold, and AlphaStar. Worked on Google's Gemini and Gemma models. Deep expertise in large-scale AI training.
   origin: French
 - name: Daan Wierstra
   role: Co-founder (departed Aug 2024)
+  background: Google DeepMind veteran. Research scientist specializing in reinforcement learning and neural networks.
   origin: Dutch
 - name: Karl Tuyls
   role: Co-founder (departed Aug 2024)
+  background: Google DeepMind veteran. Research scientist in multi-agent systems and game theory.
   origin: Belgian
 - name: Julien Perolat
   role: Co-founder (departed Aug 2024)
+  background: Google DeepMind veteran. Research scientist in multi-agent reinforcement learning.
   origin: French
 key_investors:
 - Accel

@@ -11,10 +11,16 @@ total_raised_m: 140
 founders:
 - name: Andy Zeng
   role: Co-Founder
+  background: Former Research Scientist and Tech Lead at Google DeepMind. Co-author of PaLM-E and RT-2. Worked on large-scale foundation models and robots that write their own code. Invented handheld data collection for robots.
+  origin: American
 - name: Pete Florence
   role: Co-Founder
+  background: Former Senior Research Scientist at Google DeepMind. Led research and development of visual/embodied intelligence models including PaLM-E and RT-2. PhD from MIT CSAIL.
+  origin: American
 - name: Andrew Barry
-  role: Co-Founder
+  role: Co-Founder & CTO
+  background: PhD in EECS from MIT (CSAIL, autonomous drones). BS from Olin College. Senior Roboticist at Boston Dynamics (5 years, worked on Spot robot arm). ML Scientist at Broad Institute of MIT and Harvard. Pete Florence's PhD classmate at MIT.
+  origin: American
 funding_rounds:
 - stage: Seed
   date: 2025-03

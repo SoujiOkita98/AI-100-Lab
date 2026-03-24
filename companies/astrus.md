@@ -9,9 +9,11 @@ founders:
 - name: Brad Moon
   role: Co-founder
   origin: Canadian
+  background: "University of Alberta (analog IC design). Former satellite CMOS image sensor designer at Teledyne DALSA. Previously helped lead product discovery for ApplyBoard."
 - name: Zeyi Wang
   role: Co-founder
   origin: Chinese-Canadian
+  background: "Reinforcement learning researcher trained by AlphaGo advisor Martin Müller at University of Alberta. Worked in research group that laid foundations for Google DeepMind's AlphaGo."
 funding_rounds:
 - stage: Seed
   date: '2025'

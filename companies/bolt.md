@@ -9,9 +9,11 @@ founders:
 - name: Eric Simons
   role: CEO & Co-Founder
   origin: American
+  background: "Chicago native. Founded Thinkster (coding education, acquired 2018). Pioneered WebContainers technology enabling Node.js in browsers. Known for squatting inside AOL HQ at 19 for $1/day. Built Bolt.new from 0 to $40M ARR in ~5 months with 12-person team."
 - name: Albert Pai
   role: CTO & Co-Founder
   origin: Chinese-American
+  background: "University of Illinois Chicago. Chicago native, met Eric Simons as teenager. Co-founded ClassConnect (Imagine K12 accelerator, 2011) and Thinkster (acquired 2018). Co-created WebContainers and Bolt.new."
 stage: Series B
 estimated_arr: ~$40M (March 2025)
 team_size: ~35 (as of early 2025)

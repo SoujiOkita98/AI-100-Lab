@@ -9,11 +9,17 @@ status: Active
 total_raised_m: 13.5
 founders:
 - name: Abhi Aiyer
-  role: Co-Founder
+  role: Co-Founder & CTO
+  background: Principal engineer at Netlify, led 100+ person engineering org. Built Gatsby Cloud infrastructure (tens of thousands of build nodes, billions of files, hundreds of TB monthly). Previously co-built Gatsby for ~8 years.
+  origin: American
 - name: Sam Bhagwat
-  role: Co-Founder
+  role: Co-Founder & CEO
+  background: Stanford graduate (2011). Co-founded Gatsby.js (open-source React framework, scaled to $5M ARR, sold to Netlify). Previously engineer at Zenefits (W13) and Plangrid (W12). Spent ~8 years building Gatsby.
+  origin: American
 - name: Shane Thomas
-  role: Co-Founder
+  role: Co-Founder & CPO
+  background: Staff engineer and head of product at Gatsby. 15+ years in open source. Previously built Audiofeed (AI podcasting app). State wrestling champion. All three co-founders built Gatsby together before Netlify.
+  origin: American
 funding_rounds:
 - stage: Seed
   date: 2025-03

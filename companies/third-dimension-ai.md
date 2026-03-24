@@ -10,11 +10,17 @@ status: Active
 total_raised_m: 7.0
 founders:
 - name: Tolga Kart
-  role: CEO
+  role: CEO & Co-Founder
+  background: 15-year technical and product leader. McGill University (2002-2005). Senior Director on Call of Duty at Activision (5+ years). Technical Program Management & Simulation for Autopilot at Tesla (2+ years). VP of Engineering at Parallel Domain (synthetic data company). Also worked at Sledgehammer Games and Electronic Arts (EA). Deep expertise in gaming, simulation, and autonomous vehicles.
+  origin: Turkish-Canadian
 - name: Piotr Sokolski
-  role: Co-Founder
+  role: Co-Founder & CTO
+  background: Veteran in 3D reconstruction and AI. Spent 4 years at Wayve building photorealistic neural simulators for self-driving cars. 3+ years at Google. Expertise in machine learning, 3D reconstruction, and autonomous driving simulation.
+  origin: Polish
 - name: Soner Ozgun Pelvan
   role: Co-Founder
+  background: Co-founded Third Dimension AI in 2024 alongside Tolga Kart and Piotr Sokolski. Background in video games and autonomous vehicles. Further career details limited in public sources.
+  origin: Turkish
 funding_rounds:
 - stage: Seed
   date: 2024-10

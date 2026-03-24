@@ -12,13 +12,16 @@ last_updated: 2026-03-20
 founders:
 - name: Abhinav Shashank
   role: Co-Founder & CEO
-  origin: Lucknow, Uttar Pradesh, India (IIT Kharagpur graduate)
+  background: Mechanical Engineering from IIT Kharagpur. Journey started in 2011 with data analytics project at Wharton and Harvard. Developed ways to unify patient data across systems for clinical, operational, and financial outcomes.
+  origin: Indian (from Lucknow, Uttar Pradesh)
 - name: Kanav Hasija
-  role: Co-Founder & CTO
-  origin: India
+  role: Co-Founder & CPO
+  background: IIT Kharagpur graduate, MS in Patent Law from University of New Hampshire. Interned at General Electric during undergrad. Principal consultant at Kharagpur Consulting Group. Co-started data analytics project at Wharton/Harvard with Shashank in 2011.
+  origin: Indian
 - name: Sandeep Gupta
   role: Co-Founder
-  origin: India
+  background: Joined Abhinav and Kanav in 2014 to formally establish Innovaccer. Engineering background in healthcare data systems.
+  origin: Indian
 funding_rounds:
 - stage: Series A
   date: 2016-07

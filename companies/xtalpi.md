@@ -15,13 +15,16 @@ employee_count: 500+ (estimate)
 founders:
 - name: Jian Ma (Ma Jian)
   role: Co-Founder & CEO
-  origin: Mainland Chinese (MIT postdoctoral researcher)
+  background: PhD in Physics from Zhejiang University (2012). Postdoctoral associate at MIT (2012-2014). Visiting scholar at RIKEN (Japan) and Chinese University of Hong Kong. Extensive research in quantum information, quantum computing, and numerical simulation. Named MIT Technology Review "Innovator Under 35" (China). Named Best CEO in China for AI New Drug Discovery. Co-founded XtalPi at MIT in 2014.
+  origin: Chinese
 - name: Wen Shuhao
-  role: Co-Founder
-  origin: Mainland Chinese (MIT postdoctoral researcher)
+  role: Co-Founder & Chairman
+  background: PhD in Physical Chemistry from Chinese Academy of Sciences. Postdoctoral research at UC Riverside and MIT (quantum chemistry fellow, 2013-2015). Published 36 papers with 2,900+ citations. Youngest member and sole mainland China representative on MIT Visiting Committee's Chemistry Division (149-year-old advisory body). Co-founded XtalPi at MIT in 2014 with quantum physics and AI-based drug discovery approach.
+  origin: Chinese
 - name: Lai Lipeng
   role: Co-Founder
-  origin: Mainland Chinese (MIT postdoctoral researcher)
+  background: Postdoctoral fellow at MIT. Quantum physicist specializing in computational physics. Co-founded XtalPi at MIT in 2014 alongside Ma Jian and Wen Shuhao. Part of the original group of quantum physicists who developed XtalPi's AI-powered molecular property prediction platform.
+  origin: Chinese
 key_investors:
 - SoftBank Vision Fund
 - Tencent

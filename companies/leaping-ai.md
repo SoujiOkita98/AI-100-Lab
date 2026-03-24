@@ -10,6 +10,12 @@ total_raised_m: 5.2
 founders:
 - name: Kevin Wu
   role: CEO & Co-Founder
+  background: BS in CS from Technical University of Munich, with studies at Carnegie Mellon, NUS, Peking University. Former Associate at Boston Consulting Group (2020-2023). Interned at Global Founders Capital and Amazon. YC W25.
+  origin: German-Chinese
+- name: Arkadiy Telegin
+  role: CTO & Co-Founder
+  background: Born and raised in Kazakhstan. MSc in CS at Technical University of Munich, Visiting Scholar at University of Tokyo. Former Associate at BCG (3 years). Chief Software Officer at WARR Space Robotics (CRATER Mars rover). Previously at Microsoft and Plus.
+  origin: Kazakhstani
 funding_rounds:
 - stage: Seed
   date: 2025-06

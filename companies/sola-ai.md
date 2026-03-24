@@ -10,9 +10,13 @@ status: Active
 total_raised_m: 21.0
 founders:
 - name: Jessica Wu
-  role: CEO
+  role: CEO & Co-Founder
+  background: Mathematics and Computer Science background from MIT (dropped out to found Sola). Youngest quantitative researcher at a billion-dollar hedge fund. Worked across venture, quant research, and trading at Citadel, Goldentree, and Thrive Capital. Led product and design at early-stage startups. Founded Sola in 2023 at age 22 after experiencing pain with legacy RPA tools in finance. YC S23.
+  origin: Chinese-American
 - name: Neil Deshmukh
-  role: Co-Founder
+  role: Co-Founder & CTO
+  background: BSc Computer Science from MIT (dropped out to co-found Sola). Led cutting-edge research in computer vision and LLMs at MIT-IBM Watson and Quest for Intelligence Labs, focusing on multimodal reinforcement learning. Previously Lead Software/ML Engineer at Moonbear Bio (no-code ML platform for biologists), ML researcher at PostEra. Founded PlantumAI (plant disease diagnosis app) and co-founded VocalEyes (for visually impaired). Built vision-based biometrics at age 14.
+  origin: Indian-American
 funding_rounds:
 - stage: Seed
   date: '2024'

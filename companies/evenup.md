@@ -9,12 +9,15 @@ founders:
 - name: Rami Karabibar
   role: CEO & Co-Founder
   origin: Middle Eastern
+  background: "Background in startup and VC operations. Previously worked across private equity, venture capital, and venture-backed startups including roles at Bain and Waymo."
 - name: Saam Mashhad
   role: CPO & Co-Founder
   origin: Iranian-American
+  background: "Former litigation attorney. Legal background drives EvenUp's approach to AI-assisted demand letter generation and case workflow optimization."
 - name: Raymond Mieszaniec
   role: COO & Co-Founder
-  origin: American
+  origin: Canadian
+  background: "BA Economics Simon Fraser University, MBA HKUST. Two-time entrepreneur (co-founded EquitySim). Former risk consultant at PwC Hong Kong. Former accountant at Scotiabank. Personal motivation: father permanently disabled in police-chase car accident, family received only 10% of average payout."
 employee_count_estimate: ~300 (uncertain)
 status: Private
 last_updated: 2026-03-20

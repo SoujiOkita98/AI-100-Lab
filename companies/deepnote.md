@@ -11,12 +11,17 @@ total_raised_m: 24
 founders:
 - name: Jakub Jurovych
   role: Founder & CEO
+  background: "BS CS Masaryk University, MPhil Cambridge (ML, computer vision, HCI). Former Firefox DevTools engineer at Mozilla. Former CTO at Operam (scaled 0 to 120 FTE) and Unite (acquired 2015). Co-founded Hack Cambridge hackathon. Forbes 30 Under 30. YC alum."
+  origin: Czech/Slovak
 - name: Filip Stollar
   role: Co-founder
+  origin: Czech/Slovak
 - name: Jan Matas
   role: Co-founder
+  origin: Czech/Slovak
 - name: Jirka Lhotka
   role: Co-founder
+  origin: Czech/Slovak
 funding_rounds:
 - stage: Seed
   date: 2020

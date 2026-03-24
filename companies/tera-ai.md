@@ -11,6 +11,8 @@ total_raised_m: 7.8
 founders:
 - name: Tony Zhang
   role: Founder & CEO
+  background: PhD from Caltech under Pietro Perona (pioneer in computer vision), studying how biological systems solve navigation. Machine Learning Lead at Google X on geospatial AI project, where his team developed novel AI models for sensing, prediction, and optimal control. Left Google X within months of ChatGPT's launch to found Tera AI in 2023, betting spatial understanding would become as important as text comprehension.
+  origin: Chinese-American
 funding_rounds:
 - stage: Seed
   date: 2025-03

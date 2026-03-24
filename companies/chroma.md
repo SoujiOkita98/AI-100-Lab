@@ -10,8 +10,12 @@ total_raised_m: 20
 founders:
 - name: Jeff Huber
   role: Co-Founder & CEO
+  background: "Industrial Engineering & Economics, NC State. Co-founded Standard Cyborg (YC-backed prosthetics, Forbes 30 Under 30 2018). Former Head of Product at MightyHive. Co-founded edtech startup Knowit."
+  origin: American
 - name: Anton Troynikov
   role: Co-Founder
+  background: "Born in Soviet Union. BEng Computer Engineering University of Melbourne, MS Robotics TU Munich. Former Computer Vision engineer at Iris Automation. Founded edtech startup Geddit."
+  origin: Russian-Australian-American
 funding_rounds:
 - stage: Pre-Seed
   date: 2022-05

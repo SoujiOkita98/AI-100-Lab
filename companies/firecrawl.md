@@ -10,10 +10,16 @@ total_raised_m: 16
 founders:
 - name: Caleb Peffer
   role: Co-Founder & CEO
+  background: Serial builder with 10+ years in software engineering. Previously built Mendable (chat-with-docs, customers included Snapchat, Coinbase, MongoDB) and co-founded SideGuide (learn-to-code in VS Code, 50K users). YC alum (S22).
+  origin: American
 - name: Eric Ciarla
-  role: Co-Founder
+  role: Co-Founder & CMO
+  background: Studied Economics and Philosophy at University of New Hampshire. Former Data Scientist at Ford and Fracta. Co-founded Mendable and SideGuide with Peffer and Camara before Firecrawl.
+  origin: American
 - name: Nicolas Silberstein Camara
-  role: Co-Founder
+  role: Co-Founder & CTO
+  background: Studied at University of New Hampshire. Previously built Mendable (AI docs search), SideGuide, FlutterBricks, and HallHub. Creator of FlutterGuide community (50K developers). Firecrawl was originally an internal tool at Mendable.
+  origin: American
 funding_rounds:
 - stage: Seed
   date: 2024

@@ -10,8 +10,12 @@ total_raised_m: 4.7
 founders:
 - name: Ghita Houir Alami
   role: CEO & Co-Founder
+  background: Born and raised in Morocco. Left home at 17 to study in France at Ecole Polytechnique (BS/MS Applied Mathematics, specializing in Data Science). Master's in Mathematics at UC Berkeley. Top 10 finalist in U.S. Embassy science contest. Honorable Mention at 2017 International Physics Olympiad. Before ZeroEntropy, built an early AI conversational assistant, gaining insight into the importance of retrieval context for LLMs. YC W25.
+  origin: Moroccan
 - name: Nicholas Pipitone
   role: CTO & Co-Founder
+  background: Dropped out of Carnegie Mellon University (theoretical mathematics and CS). USACO Finalist (2016). CTO and/or main developer for 5 different startups. Created stat-arb algorithms and audited blockchains for bug bounties and hedge fund due diligence. Led product at Whist (cloud-hybrid browser) through a $4M raise. Software developer at AoPS Inc. Expert in low-level C/C++/Assembly/GPU code. YC W25.
+  origin: American
 funding_rounds:
 - stage: Seed
   date: 2025-07

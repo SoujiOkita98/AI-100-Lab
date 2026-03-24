@@ -10,9 +10,11 @@ status: Active, Private
 founders:
 - name: Tyler Hoffman
   role: CEO / Co-Founder
+  background: "[Note: Public sources indicate the CEO is Trey Holterman, not Tyler Hoffman — name may need correction.] Stanford CS alumnus. Worked as software engineer at Health IQ (Medicare platform) and Strava (fitness). All-American rower at Stanford. Met co-founders at Stanford working on advanced AI and LLM research. Founded Tennr in 2021."
   origin: American
 - name: Diego Espinosa
   role: Co-Founder
+  background: "[Note: Public sources indicate the co-founder is Diego Baugh — name may need correction.] Met co-founders at Stanford. Co-founded Tennr in 2021 focused on healthcare document processing and patient referral automation."
   origin: Latin American
 key_investors:
 - IVP (lead, Series C)

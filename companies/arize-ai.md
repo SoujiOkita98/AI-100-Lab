@@ -10,10 +10,12 @@ last_updated: 2026-03-20
 founders:
 - name: Aparna Dhinakaran
   role: Co-Founder & Chief Product Officer
-  origin: Chennai, India (born in Chennai; parents immigrated to US when she was 6 months old; Berkeley EECS)
+  origin: Indian-American (born in Chennai; parents immigrated to US when she was 6 months old)
+  background: "BS EECS UC Berkeley (published research with Berkeley AI Research group). On leave from PhD in Computer Vision at Cornell. Former ML engineer at Uber (built Michelangelo ML platform), Apple, and TubeMogul (acquired by Adobe). Founded MonitorML (YC-backed). Forbes 30 Under 30."
 - name: Jason Lopatecki
   role: Co-Founder & CEO
-  origin: United States
+  origin: American
+  background: "BS EECS UC Berkeley. Co-founded TubeMogul (scaled to IPO, acquired by Adobe) as Chief Innovation Officer. Deep expertise in big data architectures, programmatic advertising, and distributed systems."
 funding_rounds:
 - stage: Seed
   date: 2020-02

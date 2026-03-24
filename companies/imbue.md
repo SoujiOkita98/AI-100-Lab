@@ -8,9 +8,11 @@ stage: Series B
 founders:
 - name: Kanjun Qiu
   role: CEO
+  background: CS at MIT, graduate researcher at MIT Media Lab. Paid tuition writing high-frequency trading algorithms. First chief of staff at Dropbox (200 to 1200 people). Co-founded Sourceress (YC S17, ML recruiting). Forbes 30 Under 30 (2020).
   origin: Chinese-American
 - name: Josh Albrecht
   role: CTO
+  background: BS and MS in Computer Science from University of Pittsburgh. Published ML research under Dr. Rebecca Hwa. Led infrastructure at fintech unicorn Addepar. Thiel Fellow mentor. Co-founded Sourceress (YC S17) and CloudFab (3D injection molding, acquired).
   origin: American
 team_size: ~20-30 (estimated; sources vary from 15-50)
 status: Active

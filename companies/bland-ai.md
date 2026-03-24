@@ -6,9 +6,11 @@ founders:
 - name: Isaiah N. Granet
   role: Co-Founder & CEO
   origin: American
+  background: "BS CS & Economics Washington University in St. Louis (2022). Former software engineer at Lantern (AI startup). Z Fellow. Previously co-founded Intelliga Health before pivoting to Bland AI."
 - name: Sobhan Nejad
   role: Co-Founder & COO
   origin: Iranian-American
+  background: "Self-taught developer. Former full-time engineer at Shogun (started via cold emails as teenager). Co-founded Intelliga Health (medical AI) before pivoting to Bland AI's enterprise phone platform."
 headcount_estimate: 65-107 (sources vary; Y Combinator reports 65, PitchBook reports 107)
 latest_round: Series B - $40M (January 2025)
 lead_investors:

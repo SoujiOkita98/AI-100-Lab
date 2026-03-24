@@ -10,11 +10,17 @@ status: Active
 total_raised_m: 60.0
 founders:
 - name: David Stout
-  role: Co-Founder
+  role: Co-Founder & CEO
+  background: Raised on a cattle ranch in northern Michigan. Studied at Davenport University, then enrolled in online AI coursework at Stanford University (left to focus on webAI). Developed interest in machinery and computing under resource-constrained conditions. Founded Ghost House Technology in 2016, an AI software startup that served as early incubator for on-device AI concepts leading to webAI. Met co-founders Tyler Mauer and Ethan Baird as fellow Michigan computer engineers.
+  origin: American
 - name: Tyler Mauer
   role: Co-Founder
+  background: Computer engineer from Michigan. Met David Stout and Ethan Baird through shared technical interests. Co-founded webAI in 2019 with a vision of creating AI systems that run directly on devices without cloud dependency. Technical co-founder focused on distributed AI architecture.
+  origin: American
 - name: Ethan Baird
   role: Co-Founder
+  background: Computer engineer from Michigan. Co-founded webAI in 2019 alongside David Stout and Tyler Mauer. Shared the founding vision of privacy-focused, on-device AI systems. Technical co-founder contributing to the sovereign AI platform architecture.
+  origin: American
 funding_rounds:
 - stage: Series A
   date: 2024-09

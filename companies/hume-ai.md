@@ -11,8 +11,12 @@ total_raised_m: 81
 founders:
 - name: Alan Cowen
   role: CEO & Chief Scientist
+  background: PhD in Psychology from UC Berkeley with 40+ peer-reviewed publications. Started the Affective Computing team at Google. Researcher at Berkeley's Social Interaction Lab. Scientific advisor to Facebook. Creator of semantic space theory for understanding emotional expression.
+  origin: American
 - name: Janet Ho
-  role: COO
+  role: COO & Co-Founder
+  background: BA in Government (secondary in CS) from Harvard University. Former Managing Partner at Aegis Ventures. Product leadership roles at Zynga, Rakuten, and The League. Co-founded Hume AI in 2021.
+  origin: American
 funding_rounds:
 - stage: Seed
   date: 2022

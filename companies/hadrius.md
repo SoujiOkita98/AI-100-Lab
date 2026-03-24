@@ -7,13 +7,16 @@ founded: 2023
 headquarters: San Francisco, CA
 founders:
 - name: Thomas Stewart
-  role: Co-Founder
+  role: Co-Founder & CEO
+  background: 2x founder including 1 exit. University of Virginia. Previously CEO of Quantbase, an SEC-registered robo-advisor for volatile assets. Pivoted Quantbase to Hadrius during YC W23 batch.
   origin: American
 - name: Som Mohapatra
-  role: Co-Founder
+  role: Co-Founder & COO/CIO
+  background: University of Virginia. Dropped out of college to co-found Quantbase (grew to multi-million AUM in <1 year, sold to competitor). Former Fellow at Contrary Capital. Portfolio Manager at McIntire Investment Institute.
   origin: Indian-American
 - name: Allen Calderwood
-  role: Co-Founder
+  role: Co-Founder & CTO
+  background: Former engineer at Google and Chime. Technical lead for Hadrius platform. Co-founded Quantbase before pivoting to Hadrius during YC W23.
   origin: American
 arr_estimate: Undisclosed
 employee_count_estimate: ~50 (as of Jan 2026, per Tracxn)

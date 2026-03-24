@@ -8,9 +8,11 @@ other_offices:
 founders:
 - name: Hassaan Raza
   role: Co-Founder & CEO
+  background: BSc Computer Science from UT Austin (2015-2019). Technical Program Manager at Google. Engineering Program Manager at Apple. Principal at Simublade (product studio overseeing product development for startup partners, specializing in AI/ML). Co-founded Accantus (SaaS/IoT startup using telemetry and patient health data to predict treatment outcomes). 5-6 years in ML (avatars, 3D reconstruction, lip sync). Forbes 30 Under 30 (2024).
   origin: Pakistani-American
 - name: Quinn Favret
   role: Co-Founder & COO
+  background: Details on prior career limited in public sources. Co-founded Tavus with Hassaan Raza in 2021 (YC S21). Handles operations at Tavus.
   origin: American
 employees: ~40
 sector: AI Video / Human Computing

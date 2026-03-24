@@ -6,9 +6,11 @@ headquarters: San Francisco, CA
 founders:
 - name: Winston Weinberg
   role: CEO & Co-Founder
+  background: BA from Kenyon College, JD from USC Gould School of Law. Securities and antitrust litigation associate at O'Melveny & Myers LLP. Left BigLaw after ~1 year to co-found Harvey. Roommates with Pereyra in LA.
   origin: American
 - name: Gabriel Pereyra
   role: President & Co-Founder
+  background: BS in CS from USC, pursued PhD in Neuroscience at Oxford (did not complete). Google Brain Resident (2016), Research Scientist at DeepMind (2017), founded stealth startup (2018), founding team at XOKind (2020), ML Engineer at Meta (2022).
   origin: Latin American
 arr_estimate: ~$195M (end of 2025)
 employee_count_estimate: ~1,000 (uncertain; not independently confirmed)

@@ -7,7 +7,8 @@ one_liner: Open-source data framework for LLM applications. Connects custom data
 status: active
 founders:
 - name: Jerry Liu
-  role: CEO
+  role: Co-Founder & CEO
+  background: BSE in CS with certificate in finance from Princeton (2017, Shapiro Prize, Outstanding Senior Thesis Award). ML Engineering Manager at Robust Intelligence. Research Scientist at Uber (2018-2021). ML Engineer at Quora. Interned at Two Sigma and Apple.
   origin: Chinese-American
 funding_rounds:
 - stage: Seed

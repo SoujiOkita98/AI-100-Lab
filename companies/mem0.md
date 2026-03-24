@@ -10,8 +10,12 @@ total_raised_m: 24
 founders:
 - name: Taranjeet Singh
   role: Co-Founder & CEO
+  background: First growth engineer at Khatabook (YC S18), quickly became Senior PM. Started career at Paytm (India's PayPal). Built AI-powered tutoring app featured at Google I/O. Co-created EvalAI (open-source Kaggle alternative, 1.6K GitHub stars). Created first GPT app store (1M+ users).
+  origin: Indian
 - name: Deshraj Yadav
   role: Co-Founder & CTO
+  background: Led AI Platform at Tesla Autopilot (large-scale training, model evaluation, monitoring for full self-driving). MS from Georgia Tech where he created EvalAI as thesis. Published at CVPR, ECCV, AAAI. Broadly interested in AI/ML infrastructure.
+  origin: Indian
 funding_rounds:
 - stage: Seed
   date: 2024

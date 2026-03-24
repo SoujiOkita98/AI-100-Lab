@@ -10,8 +10,12 @@ total_raised_m: 584
 founders:
 - name: Amit Bendov
   role: Co-Founder & CEO
+  background: 20+ years leading hyper-growth enterprise software startups. Former CEO of SiSense, CMO of Panaya, SVP Sales & Marketing at ClickSoftware. BSc in Computer Science from Tel Aviv University.
+  origin: Israeli
 - name: Eilon Reshef
   role: Co-Founder & CPO
+  background: Serial entrepreneur and investor. Co-founded and sold Webcollage (e-commerce startup). Previously CTO at Gong before transitioning to CPO. Self-taught deep learning before GPT era.
+  origin: Israeli
 funding_rounds:
 - stage: Seed
   date: 2016

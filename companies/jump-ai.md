@@ -6,12 +6,15 @@ headquarters: Salt Lake City, UT
 founders:
 - name: Parker Ence
   role: Co-Founder & CEO
+  background: 4x technology CEO (fintech, data, AI). MBA from Stanford GSB, BS in Economics from University of Utah. Summer with AI team at Google Cloud. Led Dental Warranty Corp turnaround (10x revenue). Previously ran and exited a data spinout company.
   origin: American
 - name: Tim Chaves
-  role: Co-Founder
+  role: Co-Founder & President/COO
+  background: 2x fintech entrepreneur, full-stack engineer and product designer. MBA with distinction from Harvard, summa cum laude from BYU (valedictorian). Founded ZipBooks (cloud AI accounting), sold to Divvy (2019), subsequently to Bill.com (2021).
   origin: American
 - name: Adam Kirk
   role: Co-Founder
+  background: Technical co-founder with expertise in AI/ML systems for financial services applications.
   origin: American
 arr_estimate: Undisclosed
 employee_count_estimate: ~50-100 (estimated)

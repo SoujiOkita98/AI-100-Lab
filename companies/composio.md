@@ -9,9 +9,13 @@ status: active
 total_raised_m: 29
 founders:
 - name: Soham Ganatra
-  role: Co-Founder
+  role: Co-Founder & CEO
+  background: "IIT Bombay. Physics Olympiad teammate with Vaidya (2013). Founding Engineer & Technical PM at Bureau Inc. Co-founded Darkhorse Capital (trading infrastructure) and Cogno AI (enterprise customer service)."
+  origin: Indian
 - name: Karan Vaidya
-  role: Co-Founder
+  role: Co-Founder & CTO
+  background: "IIT Bombay. Physics Olympiad teammate with Ganatra (2013). Former engineering lead at Rubrik and Nirvana, focused on integrations. Active in open-source developer community."
+  origin: Indian
 funding_rounds:
 - stage: Seed
   date: 2024

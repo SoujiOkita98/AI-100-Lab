@@ -10,9 +10,13 @@ status: acquired
 total_raised_m: 3.6
 founders:
 - name: James Smith
-  role: Co-Founder
+  role: Co-Founder & CEO
+  background: Veteran Google and Google DeepMind engineer and Group Product Manager. Attended University of St Andrews. Sparked interest in AI data licensing while helping ship the first DeepMind model on a mobile device via Android.
+  origin: British
 - name: Jack Galilee
-  role: Co-Founder
+  role: Co-Founder & CTO
+  background: Software engineer who worked on machine learning systems at Grail (medical technology company). Leads technical development at Human Native AI (acquired by Cloudflare in 2026).
+  origin: British
 funding_rounds:
 - stage: Seed
   date: 2024-06

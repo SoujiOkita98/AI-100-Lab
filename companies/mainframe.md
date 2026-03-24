@@ -10,7 +10,9 @@ status: Active
 total_raised_m: 6.75
 founders:
 - name: Jordan Singer
-  role: CEO
+  role: Founder & CEO
+  background: CS degree from University of Arizona. 14 years building consumer products. Founded Diagram (one of earliest AI design tools, acquired by Figma). Product Designer at Figma. Previously shaped product at Cash App/Square. Design engineering background.
+  origin: American
 funding_rounds:
 - stage: Pre-Seed
   date: '2024'

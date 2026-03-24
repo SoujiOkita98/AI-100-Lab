@@ -8,8 +8,12 @@ status: Private (IPO expected H2 2026)
 founders:
 - name: Stephen Balaban
   role: CEO
+  background: Studied CS and Economics at University of Michigan. Twin brother of Michael. First engineering hire at Perceptio (on-device face recognition, acquired by Apple 2013). Started Lambda at Noisebridge hackerspace in SF's Mission District.
+  origin: American
 - name: Michael Balaban
   role: CTO
+  background: BS in Mathematics and Computer Science from University of Michigan (2012). Twin brother of Stephen. Joined Nextdoor as software engineer on infrastructure team, helped scale from 300K to 100M users. Leads Lambda's technology and product development.
+  origin: American
 employees_approx: ~300-500 (estimate; exact figure uncertain)
 research_date: 2026-03-20
 confidence: medium-high

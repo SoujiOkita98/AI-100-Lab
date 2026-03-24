@@ -10,10 +10,12 @@ status: Private, Unicorn
 founders:
 - name: May Habib
   role: CEO & Co-founder
-  origin: Lebanese-American
+  background: Born in Lebanon, emigrated to Canada at age 8 (eldest of 8 children, became family interpreter). BA Economics and Near Eastern Languages from Harvard University. Worked in investment portfolios at Lehman Brothers and Mubadala Development Company. Co-founded Qordoba in 2015 (AI-powered content localization), rebranded to Writer in 2020. Forbes AI 50 (2023), Inc Female Founder Award (2023), WEF Young Global Leader (2024), Aspen Global Leadership Network Fellow. Owns 15% of Writer (~$2B valuation).
+  origin: Lebanese-Canadian-American
 - name: Waseem AlShikh
   role: CTO & Co-founder
-  origin: Arab-American
+  background: Grew up in mountains south of Damascus, Syria. Moved to Lebanon at 18 to study CS; built a summarization tool to overcome English-language barriers. Degrees in Electronics from Beirut Arab University and Damascus Polytechnic University. Met May Habib through a Twitter post about algorithms in Dubai's small CS community. Co-founded Qordoba in 2013 (content localization with early transformer work in machine translation). Co-founded Writer in 2020 bringing deep NLP and enterprise language AI expertise.
+  origin: Syrian-American
 employee_count_estimate: 200-400 (uncertain; not independently confirmed for 2026)
 last_updated: 2026-03-20
 confidence: high

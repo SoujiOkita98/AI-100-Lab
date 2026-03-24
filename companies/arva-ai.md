@@ -9,9 +9,13 @@ status: Active
 total_raised_m: 3.5
 founders:
 - name: Rhim Shah
-  role: Co-Founder
+  role: Co-Founder & CEO
+  background: "Engineering, University of Oxford. Former FinCrime product lead at Revolut Business. Former product roles at Jobandtalent. APM intern at Google. Previous internship at AWS."
+  origin: British
 - name: Oliver Wales
-  role: Co-Founder
+  role: Co-Founder & CTO
+  background: "CS University of Cambridge. Former lead product engineer at Opvia (YC S20). Former full-stack engineer at Iventis, Chimnie, and The Trade Desk."
+  origin: British
 funding_rounds:
 - stage: Seed
   date: 2025-01

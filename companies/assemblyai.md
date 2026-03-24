@@ -11,6 +11,8 @@ total_raised_m: 115
 founders:
 - name: Dylan Fox
   role: Founder & CEO
+  background: "BA Business Economics & Public Policy, George Washington University. Former ML team lead at Cisco Systems. Founded YouGive1. YC alum. AssemblyAI voted Best API of 2020."
+  origin: American
 funding_rounds:
 - stage: Seed
   date: 2017

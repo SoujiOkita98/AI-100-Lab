@@ -9,12 +9,15 @@ status: active
 founders:
 - name: Ben Spector
   role: Co-founder
+  background: Founder of Prod, a Silicon Valley talent incubator that shaped companies like Cursor, Mercor, Etched, and Decart. Age 25 at founding. Brother of Asher Spector.
   origin: American
 - name: Asher Spector
   role: Co-founder
+  background: Former debate champion turned Stanford Statistics PhD student. Age 26 at founding. One year older than brother Ben.
   origin: American
 - name: Aidan Smith
   role: Co-founder
+  background: Former founder and Thiel Fellow. Worked at Neuralink for 3 years while in college at Georgia Tech.
   origin: American
 funding_rounds:
 - stage: Seed

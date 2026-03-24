@@ -16,6 +16,8 @@ funding_rounds:
 founders:
 - name: Brad Micklea
   role: Founder & CEO
+  background: 25-year career in developer tools and DevOps. BA in Literature from McGill. Former GM of Amazon's API Gateway. Founded Codenvy (first container-based dev environment, sold to Red Hat 2017). VP of Developer Tools & Marketing at Red Hat. Project lead for open-source KitOps.ml.
+  origin: American
 last_updated: 2026-03-21
 confidence: medium
 crunchbase: https://www.crunchbase.com/organization/jozu

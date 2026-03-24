@@ -10,10 +10,12 @@ last_updated: 2026-03-20
 founders:
 - name: Dheeraj Pandey
   role: Co-Founder & CEO
-  origin: Bihar, India (IIT Kanpur graduate; previously co-founded Nutanix, took it public in 2016)
+  origin: Indian
+  background: "BS CS&E IIT Kanpur (1997), MS CS UT Austin. Co-founded Nutanix (2009, IPO 2016 on Nasdaq, served as CEO until 2020). Former Senior Manager Software Development at Oracle. Adobe board member."
 - name: Manoj Agarwal
   role: Co-Founder & CTO
-  origin: India (former SVP of Engineering at Nutanix)
+  origin: Indian
+  background: "Former SVP of Engineering at Nutanix. Deep enterprise infrastructure and engineering leadership experience. Co-founded DevRev with Pandey in 2020."
 funding_rounds:
 - stage: Seed
   date: 2021-07

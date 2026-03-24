@@ -21,9 +21,11 @@ total_raised_m: 20.0
 founders:
 - name: Zhen Lu
   role: Co-Founder & CEO
+  background: BSc Chemistry from University of Pittsburgh. Assistant Professor at University of Pittsburgh (2015-2017). Joined Comcast in 2017, progressing from Software Engineer 3 to Software Engineer 4 to Software Engineering Manager (2017-2022). Co-founded RunPod in late 2021 by converting Ethereum mining rigs in his New Jersey basement into AI servers before ChatGPT launched.
   origin: Chinese-American
 - name: Pardeep Singh
   role: Co-Founder & CTO
+  background: Over a decade of software engineering experience. Senior Software Engineer at Comcast where he met Zhen Lu. Fascinated with coding since high school, paid for college with a free music app focused on YouTube playlists. Co-founded RunPod by converting Ethereum mining rigs into GPU cloud servers from his New Jersey basement. Built the technical infrastructure for RunPod's globally distributed GPU cloud platform.
   origin: Indian-American
 linkedin: https://www.linkedin.com/company/runpod/
 linkedin_verified: true

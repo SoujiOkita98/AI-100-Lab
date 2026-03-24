@@ -10,7 +10,9 @@ status: Active
 total_raised_m: 8.5
 founders:
 - name: Mehdi Jamei
-  role: CEO & Founder
+  role: CEO & Co-Founder
+  background: PhD in Electrical Engineering and Computer Science from UC Berkeley. MS in Physics from UC Berkeley. Formerly led agentic AI at System and Workmate. Previous experience at NationSwell and Bayes Impact. Founded Veris AI to build simulation-based training platform for enterprise AI agents.
+  origin: Iranian-American
 funding_rounds:
 - stage: Seed
   date: 2025-06

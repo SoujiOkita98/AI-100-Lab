@@ -10,8 +10,12 @@ status: active
 founders:
 - name: Ankit Sanghvi
   role: CEO
+  background: IIT Madras (2023) and Carnegie Mellon University (2024). Research Programmer at CMU. Co-founded Coursepanel (AI-driven course selection platform at IIT Madras). Joined early YC-backed teams as a student. Moved to Bay Area for master's at CMU where he focused on AI. Previously did standup comedy and worked on racecars as a freshman at IIT.
+  origin: Indian
 - name: Jayanth Krishnaprakash
   role: Co-founder
+  background: Co-founded Riverline AI with Ankit Sanghvi and Abhishek Gupta. Based in Bengaluru, India. Details on prior career limited in public sources.
+  origin: Indian
 funding_rounds:
 - stage: Pre-seed
   date: 2025-11

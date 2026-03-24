@@ -10,8 +10,11 @@ total_raised_m: 100
 founders:
 - name: Gaurav Misra
   role: Co-Founder & CEO
+  background: "BS CS Boston University. Born in Boston, grew up in New Delhi. Former Head of Design Engineering at Snap Inc (2016-2021, built Spotlight and Snap Map). Former SDE at Microsoft (Azure ML). Product designer and engineer with ML background."
+  origin: Indian-American
 - name: Dwight Churchill
   role: Co-Founder & COO
+  origin: American
 funding_rounds:
 - stage: Series A
   date: 2022

@@ -6,6 +6,7 @@ headquarters: New York, NY
 founders:
 - name: George Sivulka
   role: Founder & CEO
+  background: Born 1999. BS in Mathematics (2.5 years, 4.0 GPA), MS in Applied Physics, and PhD coursework in EE/Computational Neuroscience -- all at Stanford. Left PhD at age ~21 to found Hebbia. Research in Baccus Lab (ML inspired by retinal computation). One of youngest founders to raise $100M+ in enterprise AI.
   origin: American
 arr_estimate: ~$25M (Sep 2025 estimate; see notes below)
 employee_count_estimate: ~140 (as of Jan 2026)

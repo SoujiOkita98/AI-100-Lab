@@ -7,11 +7,13 @@ headquarters: Los Angeles, California, USA
 previous_headquarters: Shenzhen, China (2020-2022)
 founders:
 - name: Joshua Xu (Xu Zhengjia)
-  role: CEO
-  origin: China
+  role: CEO & Co-Founder
+  background: MS in Computer Science from Carnegie Mellon, BS in Automation from Tongji University. One of first 100 employees at Snapchat, No. 2 engineer in Advertising Division. Built Snap's ad platform, recommendation algorithms, and billion-scale ML platform (Barista) over 6 years.
+  origin: Chinese
 - name: Wayne Liang
   role: Chief Innovation Officer / Co-Founder
-  origin: China
+  background: Attended Tongji University, MS from Carnegie Mellon University. Product designer at Smule for ~5 years. Briefly at ByteDance. Co-founded HeyGen (originally Surreal) in Shenzhen in December 2020.
+  origin: Chinese
 website: https://www.heygen.com
 status: Private
 headcount_estimate: 157-192

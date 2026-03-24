@@ -10,11 +10,17 @@ status: Active
 total_raised_m: 22.0
 founders:
 - name: Max Greenwald
-  role: CEO
+  role: CEO & Co-Founder
+  background: Princeton University (BS Computer Science & Public Policy). Product Manager at Google working on Photos, Maps, and Chrome. Intern at FTC in Cyber Security. Founder and Chairman of IgniteSTEM nonprofit. Left Google in 2020 to start Warmly. Went through 7+ pivots before finding product-market fit as an autonomous sales orchestration platform.
+  origin: American
 - name: Carina Boo
   role: Co-Founder
+  background: Co-founded Warmly in 2020 with Max Greenwald and Alan Zhao. Engineering background. Details on prior career limited in public sources.
+  origin: American
 - name: Alan Zhao
-  role: Co-Founder
+  role: Co-Founder & VP of Engineering
+  background: Met Max Greenwald during an On Deck in-person weekend hackathon. Joined as co-founder and VP of Engineering at Warmly. Engineering background focused on building the technical platform.
+  origin: Chinese-American
 funding_rounds:
 - stage: Seed
   date: '2021'

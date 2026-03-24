@@ -7,7 +7,9 @@ one_liner: AI Chrome extension for teachers with 40+ tools for planning, grading
 status: active
 founders:
 - name: Arman Jaffer
-  role: CEO
+  role: Founder & CEO
+  background: "BA CS & Economics UC Berkeley. Former White House Office of CTO. Former PM at Chan Zuckerberg Initiative (Education team, launched Notebooks). Former mobile search team at Google. Forbes 30 Under 30 (Education). Founder Fellow at South Park Commons."
+  origin: American
 funding_rounds:
 - stage: Seed
   date: 2024-08

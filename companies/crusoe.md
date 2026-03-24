@@ -10,8 +10,12 @@ total_funding_approx: ~$3.4B+ (equity + debt)
 founders:
 - name: Chase Lochmiller
   role: CEO
+  background: "BS Math & Physics MIT, MS CS (AI specialization) Stanford. Former quantitative researcher at GETCO and Jump Trading. Former GP at Polychain Capital. Summited Mt. Everest (2018). Childhood friends with Cavness in Denver."
+  origin: American
 - name: Cully Cavness
   role: President & COO
+  background: "BA Geology Middlebury College, MBA University of Oxford. Former energy investment banking associate at Petrie Partners. Former CFO at Sword & Plough. Former business development at Recurrent Engineering. Childhood friends with Lochmiller."
+  origin: American
 employees_approx: ~500+ (estimate; exact figure uncertain)
 research_date: 2026-03-20
 confidence: high

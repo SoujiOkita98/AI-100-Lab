@@ -9,11 +9,17 @@ status: active
 total_raised_m: 25
 founders:
 - name: Noa Flaherty
-  role: Co-Founder
+  role: Co-Founder & CTO
+  background: BS Mechanical Engineering and Management from MIT (2011-2015). Multiple roles at DataRobot (MLOps Software Engineer, Team Lead, Covid Intelligence). Software Engineering Manager and Technology Lead at Dover. Worked at three tech startups before co-founding Vellum. YC W23.
+  origin: American
 - name: Sidd Seethepalli
   role: Co-Founder
+  background: MIT undergraduate. Worked on Quora's ML Platform team. Spent 4 years at tech companies including Quora and Dover. Co-built production LLM use-cases at Dover (YC S19) which inspired creating Vellum. YC W23.
+  origin: Indian-American
 - name: Akash Sharma
-  role: Co-Founder
+  role: Co-Founder & CEO
+  background: UC Berkeley graduate. Spent 5 years at McKinsey's Silicon Valley Office. Worked at Dover (YC S19) for 2+ years building production LLM applications with GPT-3 and Cohere. The internal tooling they built to compare models, fine-tune, and measure performance inspired the creation of Vellum. YC W23.
+  origin: Indian-American
 funding_rounds:
 - stage: Seed
   date: 2023-07

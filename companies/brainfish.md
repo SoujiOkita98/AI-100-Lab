@@ -10,9 +10,13 @@ status: active
 total_raised_m: 10
 founders:
 - name: Daniel Kimber
-  role: Co-Founder
+  role: Co-Founder & CEO
+  background: "BIS UNSW. 10+ years in product and CX. Former Lead Product Manager at me&u, Product Owner at Willow, various roles at SiteMinder."
+  origin: Australian
 - name: Ajain Vivek
-  role: Co-Founder
+  role: Co-Founder & CTO
+  background: "Seasoned technologist with background in AI, infrastructure, and automation. Former engineering lead at SiteMinder. Led high-performing engineering teams across startups and enterprise."
+  origin: Australian (Indian heritage)
 funding_rounds:
 - stage: Seed
   date: 2024-05

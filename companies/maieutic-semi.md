@@ -7,13 +7,16 @@ one_liner: Generative AI copilot for analog chip design. Founding team sold Ster
 status: active
 founders:
 - name: Gireesh Rajendran
-  role: CEO
+  role: CEO & Co-Founder
+  background: Founded Steradian Semiconductors (imaging radar, acquired by Renesas Electronics 2022). Team collectively holds 70+ patents. Products shipped over 1 billion units globally. Deep domain expertise in semiconductor innovation.
   origin: Indian
 - name: Ashish Lachhwani
-  role: Co-founder
+  role: Co-Founder & Chief Business Officer
+  background: Co-founded Steradian Semiconductors with Rajendran and Kumar (acquired by Renesas 2022). Extensive background in semiconductor design and AI systems.
   origin: Indian
 - name: Rakesh Kumar
-  role: Co-founder
+  role: Co-Founder & Chief Product Officer
+  background: Co-founded Steradian Semiconductors with Rajendran and Lachhwani (acquired by Renesas 2022). Background in semiconductor design.
   origin: Indian
 funding_rounds:
 - stage: Seed

@@ -10,8 +10,12 @@ total_funding_approx: ~$10.25M (seed)
 founders:
 - name: Danyal Akarca
   role: Co-Founder
+  background: "PhD Cambridge (MRC Cognition and Brain Sciences Unit). Neuroscience and computing researcher. Published in Nature journals. Collaborated with Intel Labs."
+  origin: British
 - name: Jascha Achterberg
   role: Co-Founder
+  background: "PhD Cambridge (MRC Cognition and Brain Sciences Unit, supervised by John Duncan and Matthew Botvinick). Career Development Research Fellow at St John's College, Oxford. Collaborated with Google DeepMind and Intel Labs. Published in Nature Machine Intelligence."
+  origin: British (German heritage)
 employees_approx: unknown (likely small, <30)
 research_date: 2026-03-20
 confidence: medium

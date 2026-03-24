@@ -10,10 +10,16 @@ total_raised_m: 172
 founders:
 - name: Tejas Manohar
   role: Co-Founder & Co-CEO
+  background: Joined Segment at age 16 as one of their first 10 engineers (Segment later acquired by Twilio for $3.2B). Coined the "Composable CDP" concept. Focuses on product vision.
+  origin: Indian-American
 - name: Kashish Gupta
   role: Co-Founder & Co-CEO
+  background: MSc in Robotics from Penn, BS in Economics from Wharton. Background in venture capital and machine learning. Focuses on ML and growth. Co-founders lived together in a Mission District hacker house.
+  origin: Indian-American
 - name: Josh Curl
   role: Co-Founder & CTO
+  background: One of the first engineers at Rancher Labs (Kubernetes platform). Previously helped build Segment's Personas product. Focuses on platform engineering and integrations.
+  origin: American
 funding_rounds:
 - stage: Seed
   date: 2020

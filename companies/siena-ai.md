@@ -10,8 +10,12 @@ total_raised_m: 11
 founders:
 - name: Andrei Negrau
   role: Co-Founder & CEO
+  background: Second-time founder with 9+ years of e-commerce experience. Previously founded Cartloop (Shopify SMS marketing app) and Relevon (online gaming platform). Technical engineer specializing in eCommerce and AI. Built software for Shopify merchants before pivoting to AI-powered customer service with Siena.
+  origin: Romanian
 - name: Lisa Popovici
   role: Co-Founder & CMO
+  background: Growth marketer and sales leader with 9+ years of e-commerce experience. Second-time founder alongside Andrei Negrau. Previously co-built Cartloop with Negrau. Leads go-to-market and growth functions at Siena AI.
+  origin: Romanian
 funding_rounds:
 - stage: Pre-Seed
   date: 2022-09

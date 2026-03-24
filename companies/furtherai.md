@@ -6,9 +6,11 @@ headquarters: New York, NY
 founders:
 - name: Aman Gour
   role: CEO & Co-Founder
+  background: Second-time founder with ~10 years in workflow automation. CS degree from IIT Bombay. Former Product Manager at Microsoft. Co-founded TurboHire (recruitment automation, scaled to $1M+ ARR). South Park Commons member.
   origin: Indian
 - name: Sashank Gondala
   role: CTO & Co-Founder
+  background: CS degree from IIT Bombay, MS in CS (Machine Learning) from Georgia Tech. Former language modeling scientist at Apple (built and scaled language models for Siri). Previously at Oracle. Published multimodal AI research.
   origin: Indian
 employee_count_estimate: ~50 (uncertain)
 status: Private

@@ -11,10 +11,16 @@ total_raised_m: 172
 founders:
 - name: Barry McCardel
   role: Co-Founder & CEO
+  background: Former Senior Director of Operations and Strategy at TrialSpark. Previously at Palantir, where he met Colgrove and Takahashi. Started in data science early in college writing R scripts.
+  origin: American
 - name: Caitlin Colgrove
   role: Co-Founder & CTO
+  background: Former Director of Engineering at Remix. Previously at Palantir. Co-founded Hex after experiencing the difficulty of sharing and publishing data work.
+  origin: American
 - name: Glen Takahashi
   role: Co-Founder & Chief Architect
+  background: Former engineer at Palantir, where he met McCardel and Colgrove. The shared frustration of data practitioners writing one-off queries and screenshotting charts inspired Hex.
+  origin: American
 funding_rounds:
 - stage: Seed
   date: 2020

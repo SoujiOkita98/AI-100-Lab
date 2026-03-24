@@ -12,12 +12,20 @@ latest_valuation_m: 1750
 founders:
 - name: Boris Sofman
   role: Co-Founder & CEO
+  background: "BS, MS, PhD Robotics Carnegie Mellon. Co-founded Anki (consumer robotics, shipped 3.7M+ devices, ~$100M annual revenue). Former Director of Engineering & Head of Trucking at Waymo (~5 years)."
+  origin: American
 - name: Kevin Peterson
   role: Co-Founder & CTO
+  background: "Former Waymo engineering leader. Part of the core ex-Waymo team that founded Bedrock."
+  origin: American
 - name: Ajay Gummalla
   role: Co-Founder & VP Engineering
+  background: "Former Waymo engineering leader. Part of the core ex-Waymo team that founded Bedrock."
+  origin: Indian-American
 - name: Tom Eliaz
   role: Co-Founder & VP Engineering
+  background: "Former Waymo engineering leader. Part of the core ex-Waymo team that founded Bedrock."
+  origin: American
 funding_rounds:
 - stage: Seed
   date: 2024

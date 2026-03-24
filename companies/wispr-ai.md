@@ -8,9 +8,13 @@ one_liner: AI voice dictation across any app — 104 languages, auto-removes fil
 status: active
 founders:
 - name: Tanay Kothari
-  role: CEO
+  role: CEO & Co-Founder
+  background: BSc Computer Science and MSc Artificial Intelligence from Stanford. Taught Stanford's Deep Learning course alongside Prof. Andrew Ng. Published research at Stanford AI Lab. 4x founder - built FeatherX (AI personalization for online stores, acquired by Cerebra Technologies) while in college, and Convert (music discovery platform, 2.5M+ monthly active users). President of Stanford Venture Capital Club for 3 years. Forbes 30 Under 30 (2023). Founded Wispr in 2021 at age ~24.
+  origin: Indian-American
 - name: Sahaj Garg
-  role: CTO
+  role: CTO & Co-Founder
+  background: Engineering degree from Stanford with Henry Ford II Scholar Award (highest academic achievement in School of Engineering). Research assistant at Stanford AI Lab under Prof. Andrew Ng. Published research in generative modeling. Published with Google Research and Columbia Psychiatry. Background in computational neuroscience (analyzing SSRI effects on early brain development). Co-founded Wispr with Stanford batchmate Tanay Kothari.
+  origin: Indian-American
 funding_rounds:
 - stage: Seed
   date: 2024

@@ -10,10 +10,16 @@ total_raised_m: 0.5
 founders:
 - name: Ayomide Omolewa
   role: Co-Founder
+  background: "Former roles at Nvidia, Paramount, Google, and Lockheed Martin. 7+ years as indie app developer (up to $14K MRR side income)."
+  origin: Nigerian-American
 - name: Seth Setse
   role: Co-Founder
+  background: "CMU Class of 2023. Former roles at Microsoft and Teleparty. 7+ years as indie app developer alongside Omolewa."
+  origin: American
 - name: Bradley Lafond
   role: Co-Founder
+  background: "Growth strategist. Joined Omolewa and Setse to handle go-to-market."
+  origin: American
 funding_rounds:
 - stage: Pre-Seed
   date: 2025-01

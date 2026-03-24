@@ -20,12 +20,15 @@ founders:
 - name: Cameron Fink
   role: Co-founder & CEO
   origin: American
+  background: "Dartmouth College dropout (~age 18-19 at founding). Experience at Kleiner Perkins and Research Science Institute (RSI). ~20 years old."
 - name: Ned Koh
   role: Co-founder & President
   origin: American
+  background: "Harvard dropout (~age 18-19 at founding). Prior research at Northwestern University. Co-founded earlier startups. ~20 years old."
 - name: John Kessler
   role: Co-founder & CTO
   origin: American
+  background: "~15 years old at time of founding (2024). Teen tech prodigy. Leads technical architecture of Aaru's synthetic audience simulation models."
 arr_est: <$10M (as of late 2025)
 status: active
 last_updated: 2026-03-20

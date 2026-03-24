@@ -7,13 +7,16 @@ one_liner: AI logistics SaaS for Africa — optimizes routes, tracks shipments, 
 status: active
 founders:
 - name: Nick Joshi
-  role: CEO
+  role: CEO & Founder
+  background: 10+ years of tech leadership in the US and Africa. Studied at University of Western Australia. Founded Leta in 2021 to apply AI to efficient goods movement for businesses across Africa.
   origin: Kenyan-American
 - name: Kip Maritim
   role: CTO
+  background: Led development and delivery of Leta's tech, overseeing product and engineering. Had a full-fledged tech team from previous collaborations before joining Leta. Builds solutions for supply chain control.
   origin: Kenyan
 - name: Anthony Ketter
-  role: COO
+  role: COO / Chief Growth Officer
+  background: Leads growth at Leta focusing on market expansion and customer success across Africa. Extensive business development and operations experience across FMCG, telcos, and tech.
   origin: Kenyan
 funding_rounds:
 - stage: Seed

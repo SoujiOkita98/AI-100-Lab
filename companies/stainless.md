@@ -11,6 +11,8 @@ total_raised_m: 35.0
 founders:
 - name: Alex Rattray
   role: Founder & CEO
+  background: BSc from University of Pennsylvania (Wharton). Worked at Stripe (2017-2020) on developer tools. Contributed to Prettier (JavaScript formatter), including the no-semi option and JSX behavior. Also worked at Hired, Babajob, and Toptal. Started a campus bikeshare at UPenn and an underground newspaper in high school. Founded Stainless after developers asked him to reproduce Stripe-caliber SDKs for their APIs.
+  origin: American
 funding_rounds:
 - stage: Seed
   date: '2023'

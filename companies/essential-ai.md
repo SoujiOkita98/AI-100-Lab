@@ -10,9 +10,11 @@ founders:
 - name: Ashish Vaswani
   role: Co-Founder & CEO
   origin: Indian (born in India, raised in India and the Middle East)
+  background: "BEng CS Birla Institute of Technology Mesra (2002), PhD CS USC (advised by David Chiang). Former researcher at Google Brain. Co-author of 'Attention Is All You Need' (2017) — the seminal paper introducing the Transformer architecture that underpins GPT, BERT, and modern LLMs."
 - name: Niki Parmar
   role: Co-Founder (departed ~September 2024)
   origin: Indian (from Pune, India)
+  background: "MS CS USC. Former researcher at Google (sentence similarity, question answering). Co-author of 'Attention Is All You Need' (2017). Close collaborator with Vaswani at Google."
 key_investors:
 - Lightspeed Venture Partners (Series B lead)
 - Thrive Capital
