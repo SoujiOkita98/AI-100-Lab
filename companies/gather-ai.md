@@ -26,8 +26,6 @@ founders:
 funding_rounds:
 - stage: Seed
   date: ~2019
-  amount_m: null
-  valuation_m: null
   source: https://www.gather.ai
   notes: 'Early stage funding after spinning out of CMU Robotics Institute.
 
@@ -50,7 +48,6 @@ funding_rounds:
 - stage: Series B
   date: 2026-02-09
   amount_m: 40.0
-  valuation_m: null
   lead_investors:
   - Smith Point Capital (Keith Block, former Salesforce co-CEO)
   other_investors:

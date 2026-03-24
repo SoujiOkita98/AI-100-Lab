@@ -16,8 +16,7 @@ latest_valuation_m: null
 funding_rounds:
 - stage: Series C
   date: 2026-03
-  amount_m: 100
-  valuation_m: null
+  amount_m: 100.0
   lead_investors:
   - Brighton Park Capital
   - Goldman Sachs Alternatives
@@ -26,12 +25,10 @@ funding_rounds:
     in 2024-2025.
 - stage: Series B
   date: 2023-11
-  amount_m: 34
-  valuation_m: null
+  amount_m: 34.0
   lead_investors:
   - Norwest Venture Partners
   source: https://techcrunch.com/2023/11/01/procurement-management-software-startup-oro-labs-lands-34m-investment/
-  notes: null
 founders:
 - name: Sudhir Bhojwani
   role: CEO & Co-founder

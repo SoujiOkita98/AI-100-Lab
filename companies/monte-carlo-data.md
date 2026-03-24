@@ -1,6 +1,5 @@
 ---
 name: Monte Carlo
-legal_name: Monte Carlo Data, Inc.
 founded: 2019
 headquarters: San Francisco, California, USA
 website: https://www.montecarlodata.com
@@ -8,7 +7,6 @@ sector: Data Observability & AI Data Quality
 stage: Late-stage / Growth
 latest_valuation_usd: 1600000000
 latest_valuation_date: 2022-05
-total_funding_usd: ~236_000_000
 revenue_run_rate_usd: ~82_000_000
 revenue_run_rate_date: 2025
 employee_count_approx: 559
@@ -17,13 +15,13 @@ ipo_status: Private
 founders:
 - name: Barr Moses
   role: Co-Founder & CEO
+  background: Stanford University (MBA); Israeli Defense Forces intelligence unit
   origin: Israeli
-  education: Stanford University (MBA); Israeli Defense Forces intelligence unit
   prior: First Round Capital (mentor); Gainsight (VP of Customer Operations)
 - name: Lior Gavish
   role: Co-Founder & CTO
+  background: Technion (inferred from Israeli tech ecosystem)
   origin: Israeli
-  education: Technion (inferred from Israeli tech ecosystem)
   prior: Yahoo (Engineering)
 - name: Itay Bleier
   role: Co-Founder
@@ -32,21 +30,21 @@ founders:
   role: Co-Founder
   origin: American
 funding_rounds:
-- round: Series A
+- stage: Series A
   date: 2020-09
-  amount_usd: 16000000
+  amount_m: 16.0
   lead_investors:
   - Accel
   source: https://www.montecarlodata.com/blog-monte-carlo-raises-series-c-brings-funding-to-101m-to-help-companies-trust-their-data/
-- round: Series B
+- stage: Series B
   date: 2021-02
-  amount_usd: 25000000
+  amount_m: 25.0
   lead_investors:
   - Redpoint Ventures
   source: https://techcrunch.com/2021/02/09/monte-carlo-raises-25m-for-its-data-observability-service/
-- round: Series C
+- stage: Series C
   date: 2021-08
-  amount_usd: 60000000
+  amount_m: 60.0
   lead_investors:
   - ICONIQ Growth
   other_investors:
@@ -55,10 +53,10 @@ funding_rounds:
   - GGV Capital
   - Redpoint Ventures
   source: https://www.montecarlodata.com/blog-monte-carlo-raises-series-c-brings-funding-to-101m-to-help-companies-trust-their-data/
-- round: Series D
+- stage: Series D
   date: 2022-05
-  amount_usd: 135000000
-  valuation_usd: 1600000000
+  amount_m: 135.0
+  valuation_m: 1600.0
   lead_investors:
   - IVP
   other_investors:
@@ -75,6 +73,8 @@ crunchbase: https://www.crunchbase.com/organization/monte-carlo-data
 crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/monte-carlo/
 linkedin_verified: true
+total_raised_m: 236.0
+status: active
 ---
 
 # Monte Carlo

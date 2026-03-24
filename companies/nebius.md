@@ -2,7 +2,6 @@
 name: Nebius Group
 ticker: NBIS
 exchange: NASDAQ
-slug: nebius
 sector: AI / GPU Cloud Infrastructure
 founded: '2022'
 headquarters: Amsterdam, Netherlands
@@ -19,7 +18,7 @@ confidence: high
 funding_rounds:
 - stage: Private Placement
   date: 2024-12
-  amount_m: 700
+  amount_m: 700.0
   lead_investors:
   - NVIDIA
   - Accel
@@ -28,20 +27,20 @@ funding_rounds:
   notes: Post-restructuring from Yandex. Re-listed NASDAQ Oct 2024.
 - stage: Convertible Notes
   date: 2025-06
-  amount_m: 1000
+  amount_m: 1000.0
   lead_investors:
   - Institutional investors (144A)
   source: https://nebius.com/newsroom/nebius-group-announces-private-placement-of-1-billion-in-aggregate-principal-amount-of-convertible-notes
 - stage: Convertible Notes + Follow-on Equity
   date: 2025-09
-  amount_m: 3750
+  amount_m: 3750.0
   lead_investors:
   - Institutional buyers
   source: https://nebius.com/newsroom/nebius-group-announces-pricing-of-upsized-private-offering-of-2-75-billion-of-convertible-senior-notes
   notes: $2.75B convertible notes + $1B equity offering.
 - stage: NVIDIA Strategic Investment
   date: 2026-03
-  amount_m: 2000
+  amount_m: 2000.0
   lead_investors:
   - NVIDIA
   source: https://thenextweb.com/news/nvidia-invests-2-billion-in-nebius

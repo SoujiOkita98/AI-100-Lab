@@ -22,21 +22,20 @@ founders:
 funding_rounds:
 - stage: Seed
   date: 2025-05
-  amount_m: 100
-  valuation_m: 600
+  amount_m: 100.0
+  valuation_m: 600.0
   lead_investors:
   - Andreessen Horowitz
   - UC Investments
   source: https://www.prnewswire.com/news-releases/lmarena-secures-100m-in-seed-funding/
 - stage: Series A
   date: 2026-01
-  amount_m: 150
-  valuation_m: 1700
+  amount_m: 150.0
+  valuation_m: 1700.0
   lead_investors:
   - Felicis Ventures
   - UC Investments
   source: https://techcrunch.com/2026/01/06/lmarena-lands-1-7b-valuation/
-latest_valuation: 1700
 last_updated: 2026-03-21
 confidence: medium
 website_verified: true
@@ -45,6 +44,7 @@ crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/lmarena
 total_raised_m: 250.0
 linkedin_verified: true
+latest_valuation_m: 1700.0
 ---
 
 # LMArena

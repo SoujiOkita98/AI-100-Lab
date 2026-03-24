@@ -1,6 +1,5 @@
 ---
 name: Manus AI
-legal_name: Manus AI (formerly Butterfly Effect / Monica.im)
 website: https://manus.im
 sector: AI Agents / General-Purpose AI Assistant
 founded: '2022'
@@ -8,27 +7,20 @@ headquarters: Singapore (relocated from Beijing in May 2025)
 founders:
 - name: Xiao Hong (萧弘)
   role: Co-founder & CEO
-  nationality: Chinese (mainland)
-  education:
-  - Details not widely reported; first startup launched in 2016, one year after graduation
-  notable: Founded first startup in 2016 building creator tools for WeChat. Founded Butterfly Effect in 2022, which launched
-    Monica (a browser extension AI assistant) before pivoting to Manus.
+  background: Details not widely reported; first startup launched in 2016, one year after graduation Founded first startup
+    in 2016 building creator tools for WeChat. Founded Butterfly Effect in 2022, which launched Monica (a browser extension
+    AI assistant) before pivoting to Manus.
   origin: Chinese
 - name: Ji Yichao (季逸超), known as "Peak"
   role: Co-founder & Chief Scientist
-  nationality: Chinese (mainland)
-  education:
-  - Beijing Information Science and Technology University (dropped out)
-  notable: Built "Mammoth Browser" (猛犸浏览器) at age 17, which became the most downloaded third-party iPhone browser in China.
-    Later built Magi, a knowledge search engine. Named to MIT Technology Review's Innovators Under 35 (2025). Age ~32.
+  background: Beijing Information Science and Technology University (dropped out) Built "Mammoth Browser" (猛犸浏览器) at age 17,
+    which became the most downloaded third-party iPhone browser in China. Later built Magi, a knowledge search engine. Named
+    to MIT Technology Review's Innovators Under 35 (2025). Age ~32.
   origin: Chinese
 - name: Zhang Tao (张涛)
   role: Co-founder & CPO (Product)
-  nationality: Chinese (mainland)
-  education:
-  - Chongqing University of Posts and Telecommunications
-  notable: Former Head of Global Product at ByteDance (2022-2023). Previously product manager at Tencent. Directed the Manus
-    launch video.
+  background: Chongqing University of Posts and Telecommunications Former Head of Global Product at ByteDance (2022-2023).
+    Previously product manager at Tencent. Directed the Manus launch video.
   origin: Chinese
 team_size_estimate: ~50-100 (pre-acquisition)
 stage: Acquired by Meta
@@ -53,12 +45,13 @@ total_raised_m: 75
 funding_rounds:
 - stage: Series A
   date: 2025-04
-  amount_m: 75
+  amount_m: 75.0
   lead_investors:
   - Benchmark
   source: https://www.crunchbase.com/organization/manus-ai
 data_notes: Acquired by Meta for ~$2.5-3B in December 2025.
 linkedin_verified: true
+status: active
 ---
 
 # Manus AI

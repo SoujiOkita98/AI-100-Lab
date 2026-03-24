@@ -1,6 +1,5 @@
 ---
 company: Nuro
-legal_name: Nuro, Inc.
 founded: 2016
 headquarters: Mountain View, California
 website: https://www.nuro.ai
@@ -8,22 +7,16 @@ one_liner: Autonomous vehicle technology company licensing its Level 4 self-driv
   providers for robotaxis and delivery
 sector: Autonomous Vehicles / AI / Robotics
 stage: Late Stage (Series E)
-latest_valuation: $6B (2025)
-total_funding: ~$2.3B
 employees: ~975 (est. 2025)
 founders:
 - name: Jiajun Zhu (JZ)
   role: Co-Founder & Co-CEO
+  background: BS Computer Science, Fudan University (Shanghai, China); MS Computer Science, University of Virginia
   origin: China
-  education:
-  - BS Computer Science, Fudan University (Shanghai, China)
-  - MS Computer Science, University of Virginia
 - name: Dave Ferguson
   role: Co-Founder & Co-CEO
+  background: BS Computer Science & Mathematics, University of Otago (New Zealand); MS & PhD Robotics, Carnegie Mellon University
   origin: New Zealand
-  education:
-  - BS Computer Science & Mathematics, University of Otago (New Zealand)
-  - MS & PhD Robotics, Carnegie Mellon University
 key_investors:
 - SoftBank Vision Fund
 - T. Rowe Price
@@ -40,36 +33,36 @@ last_updated: 2026-03-20
 funding_rounds:
 - stage: Series A
   date: 2018-01
-  amount_m: 92
+  amount_m: 92.0
   lead_investors:
   - Greylock Partners
   - Gaorong Capital
   source: https://en.wikipedia.org/wiki/Nuro
 - stage: Series B
   date: 2019-02
-  amount_m: 940
+  amount_m: 940.0
   lead_investors:
   - SoftBank Vision Fund 1
   source: https://www.crunchbase.com/funding_round/nuro-2-series-b--f7ca85b0
 - stage: Series C
   date: 2020-11
-  amount_m: 500
-  valuation_m: 5000
+  amount_m: 500.0
+  valuation_m: 5000.0
   lead_investors:
   - T. Rowe Price
   source: https://techcrunch.com/2020/11/09/autonomous-delivery-startup-nuro-hits-5-billion-valuation-on-fresh-funding-of-500-million/
 - stage: Series D
   date: 2021-11
-  amount_m: 600
-  valuation_m: 8600
+  amount_m: 600.0
+  valuation_m: 8600.0
   lead_investors:
   - Tiger Global Management
   source: https://techcrunch.com/2021/11/02/nuro-lands-investment-from-google-tiger-global-in-new-600-million-round/
   notes: Also included Google, Kroger, Baillie Gifford, Fidelity, Woven Capital, SoftBank.
 - stage: Series E
   date: 2025-04
-  amount_m: 106
-  valuation_m: 6000
+  amount_m: 106.0
+  valuation_m: 6000.0
   lead_investors:
   - T. Rowe Price
   - Fidelity
@@ -77,8 +70,8 @@ funding_rounds:
   source: https://www.nuro.ai/blog/nuro-announces-series-e-financing-at-6b-valuation-backed-by-leading-financial-and-strategic-investors
 - stage: Series E Extension
   date: 2025-08
-  amount_m: 97
-  valuation_m: 6000
+  amount_m: 97.0
+  valuation_m: 6000.0
   lead_investors:
   - Uber
   - Nvidia
@@ -91,6 +84,9 @@ crunchbase: https://www.crunchbase.com/organization/nuro
 crunchbase_verified: true
 name: Nuro
 linkedin_verified: true
+total_raised_m: 2300.0
+latest_valuation_m: 6000.0
+status: active
 ---
 
 # Nuro

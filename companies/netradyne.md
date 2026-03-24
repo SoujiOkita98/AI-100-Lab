@@ -1,15 +1,11 @@
 ---
 company: Netradyne
-legal_name: NetraDyne Inc.
 website: https://www.netradyne.com
-domain: netradyne.com
 sector: AI for Fleet Safety / Computer Vision & Edge AI
 founded: 2015
 headquarters: San Diego, California
 ceo: Avneesh Agrawal
 employees_approx: 800+
-latest_valuation: $1.34B (Series D, January 2025)
-total_funding: ~$250M+
 status: Private
 last_updated: 2026-03-20
 founders:
@@ -29,27 +25,27 @@ tags:
 funding_rounds:
 - stage: Series A
   date: 2016-06
-  amount_m: 16
+  amount_m: 16.0
   lead_investors:
   - Reliance Industries
   source: https://tracxn.com/d/companies/netradyne/
 - stage: Series B
   date: 2018-09
-  amount_m: 21
+  amount_m: 21.0
   lead_investors:
   - M12 (Microsoft Ventures)
   source: https://www.prnewswire.com/news-releases/artificial-intelligence-leader-netradyne-raises-21-million/
 - stage: Series C
   date: 2021-07
-  amount_m: 150
-  valuation_m: 1000
+  amount_m: 150.0
+  valuation_m: 1000.0
   lead_investors:
   - SoftBank Vision Fund 2
   source: https://www.prnewswire.com/news-releases/netradyne-raises-150-million/
 - stage: Series D
   date: 2025-01
-  amount_m: 90
-  valuation_m: 2250
+  amount_m: 90.0
+  valuation_m: 2250.0
   lead_investors:
   - Point72 Private Investments
   source: https://www.netradyne.com/news/netradyne-r-raises-90-million/
@@ -60,6 +56,8 @@ crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/netradyne/
 name: Netradyne
 linkedin_verified: true
+total_raised_m: 250.0
+latest_valuation_m: 1340.0
 ---
 
 # Netradyne -- AI-Powered Fleet Safety & Driver Intelligence

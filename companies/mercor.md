@@ -1,24 +1,21 @@
 ---
 company: Mercor
-legal_name: Mercor Inc.
 founded: 2023
 headquarters: San Francisco, CA
 sector: AI Infrastructure / Human-in-the-Loop AI Training
 stage: Series C
-latest_valuation: $10B (October 2025)
-total_funding: ~$492M
 founders:
 - name: Brendan Foody
   role: CEO
-  education: Georgetown University (dropped out, sophomore year)
+  background: Georgetown University (dropped out, sophomore year)
   origin: American
 - name: Adarsh Hiremath
   role: CTO
-  education: Harvard University (dropped out, sophomore year)
+  background: Harvard University (dropped out, sophomore year)
   origin: Indian-American
 - name: Surya Midha
   role: Board Chairman (formerly COO)
-  education: Georgetown University (dropped out, sophomore year)
+  background: Georgetown University (dropped out, sophomore year)
   origin: Indian-American
 notable_investors:
 - Felicis Ventures (led Series B and C)
@@ -49,22 +46,22 @@ funding_rounds:
   source: https://techcrunch.com/2025/02/20/mercor-an-ai-recruiting-startup-founded-by-21-year-olds-raises-100m-at-2b-valuation/
 - stage: Series A
   date: 2024-01
-  amount_m: 32
-  valuation_m: 250
+  amount_m: 32.0
+  valuation_m: 250.0
   lead_investors:
   - Benchmark
   source: https://techcrunch.com/2025/02/20/mercor-an-ai-recruiting-startup-founded-by-21-year-olds-raises-100m-at-2b-valuation/
 - stage: Series B
   date: 2025-02
-  amount_m: 100
-  valuation_m: 2000
+  amount_m: 100.0
+  valuation_m: 2000.0
   lead_investors:
   - Felicis Ventures
   source: https://techcrunch.com/2025/02/20/mercor-an-ai-recruiting-startup-founded-by-21-year-olds-raises-100m-at-2b-valuation/
 - stage: Series C
   date: 2025-10
-  amount_m: 350
-  valuation_m: 10000
+  amount_m: 350.0
+  valuation_m: 10000.0
   lead_investors:
   - Felicis Ventures
   source: https://techcrunch.com/2025/10/27/mercor-quintuples-valuation-to-10b-with-350m-series-c/
@@ -77,6 +74,9 @@ crunchbase: https://www.crunchbase.com/organization/mercor
 crunchbase_verified: true
 name: Mercor
 linkedin_verified: true
+total_raised_m: 492.0
+latest_valuation_m: 10000.0
+status: active
 ---
 
 # Mercor

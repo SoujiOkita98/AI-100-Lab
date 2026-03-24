@@ -30,6 +30,7 @@ data_notes: Midjourney is entirely bootstrapped/self-funded. Zero external ventu
 linkedin: https://www.linkedin.com/company/midjourney-inc/
 name: Midjourney
 linkedin_verified: true
+status: active
 ---
 
 # Midjourney

@@ -1,19 +1,13 @@
 ---
 company_name: Mistral AI
-legal_name: Mistral AI SAS
-slug: mistral-ai
 website: https://mistral.ai
 one_liner: French AI company building open-weight and proprietary frontier LLMs with enterprise customization, agent orchestration,
   and multilingual capabilities
-domain: mistral.ai
-hq_city: Paris
-hq_country: France
 additional_offices:
 - Palo Alto, CA, USA
 - London, UK
 - Singapore
 founded: '2023'
-incorporated_country: France
 sector: Artificial Intelligence
 sub_sector: Foundation Models / Large Language Models
 business_model: Open-core SaaS (API + enterprise subscriptions + consumer product)
@@ -23,42 +17,22 @@ revenue_estimate: ~$400M ARR (Jan 2026); targeting >$1B by end of 2026
 founders:
 - name: Arthur Mensch
   role: CEO
-  nationality: French
-  education:
-  - Ecole Polytechnique (2011)
-  - Telecom Paris
-  - MSc Mathematics, Vision, Learning - Universite Paris-Saclay
-  - PhD Machine Learning - Universite Paris-Saclay
-  prior_experience:
-  - DeepMind (Google) - ~3 years
-  source: https://en.wikipedia.org/wiki/Arthur_Mensch
+  background: Ecole Polytechnique (2011); Telecom Paris; MSc Mathematics, Vision, Learning - Universite Paris-Saclay; PhD
+    Machine Learning - Universite Paris-Saclay DeepMind (Google) - ~3 years
   origin: French
 - name: Guillaume Lample
   role: Chief Scientist
-  nationality: French
-  education:
-  - Ecole Polytechnique
-  - Carnegie Mellon University
-  prior_experience:
-  - Meta AI (FAIR) - 2014-2023; co-creator of LLaMA
-  source: https://en.wikipedia.org/wiki/Mistral_AI
+  background: Ecole Polytechnique; Carnegie Mellon University Meta AI (FAIR) - 2014-2023; co-creator of LLaMA
   origin: French
 - name: Timothee Lacroix
   role: CTO
-  nationality: French
-  education:
-  - Ecole Normale Superieure
-  prior_experience:
-  - Meta AI (FAIR) - 2014-2023
-  source: https://en.wikipedia.org/wiki/Mistral_AI
+  background: Ecole Normale Superieure Meta AI (FAIR) - 2014-2023
   origin: French
 funding_rounds:
 - stage: Seed
   date: 2023-06-13
-  amount_eur: 105M
-  amount_usd: ~113M
-  valuation_eur: 240M
-  valuation_usd: ~260M
+  amount_m: 0.0
+  valuation_m: 0.0
   lead_investors:
   - Lightspeed Venture Partners
   other_investors:
@@ -76,14 +50,12 @@ funding_rounds:
   - LocalGlobe
   - Bpifrance
   - Eric Schmidt
-  notes: Largest seed round in European history at the time. Company was ~1 month old.
   source: https://techcrunch.com/2023/06/13/frances-mistral-ai-blows-in-with-a-113m-seed-round-at-a-260m-valuation-to-take-on-openai/
+  notes: Largest seed round in European history at the time. Company was ~1 month old.
 - stage: Series A
   date: 2023-12-10
-  amount_eur: 385M
-  amount_usd: ~415M
-  valuation_eur: ~1.85B
-  valuation_usd: ~2B
+  amount_m: 0.0
+  valuation_m: 0.0
   lead_investors:
   - Andreessen Horowitz (a16z)
   other_investors:
@@ -96,14 +68,12 @@ funding_rounds:
   - Conviction
   - Nvidia (convertible debt)
   - Salesforce (convertible debt)
-  notes: a16z reportedly invested ~200M EUR. First major US VC bet on open-source LLM creator.
   source: https://techcrunch.com/2023/12/11/mistral-ai-a-paris-based-openai-rival-closed-its-415-million-funding-round/
+  notes: a16z reportedly invested ~200M EUR. First major US VC bet on open-source LLM creator.
 - stage: Series B
   date: 2024-06
-  amount_eur: 595M
-  amount_usd: ~640M
-  valuation_eur: 5.8B
-  valuation_usd: ~6.2B
+  amount_m: 0.0
+  valuation_m: 0.0
   lead_investors:
   - General Catalyst
   - DST Global
@@ -116,14 +86,12 @@ funding_rounds:
   - BNP Paribas
   - IBM
   - SV Angel
-  notes: 3x valuation jump in ~6 months.
   source: https://www.maginative.com/article/mistral-ai-secures-640m-in-series-b-funding-boosting-valuation-to-6b/
+  notes: 3x valuation jump in ~6 months.
 - stage: Series C
   date: 2025-09-08
-  amount_eur: 1.7B
-  amount_usd: ~2B
-  valuation_eur: 11.7B
-  valuation_usd: ~13.8B
+  amount_m: 0.0
+  valuation_m: 0.0
   lead_investors:
   - ASML (invested ~1.3B EUR; acquired ~11% stake)
   other_investors:
@@ -134,13 +102,12 @@ funding_rounds:
   - General Catalyst
   - Index Ventures
   - Lightspeed Venture Partners
+  source: https://www.cnbc.com/2025/09/09/ai-firm-mistral-valued-at-14-billion-as-asml-takes-major-stake.html
   notes: 'ASML CFO Roger Dassen gained seat on Mistral''s Strategic Committee. Strategic partnership beyond financial investment.
     More than doubled prior valuation.
 
     '
-  source: https://www.cnbc.com/2025/09/09/ai-firm-mistral-valued-at-14-billion-as-asml-takes-major-stake.html
 total_funding_eur: ~2.785B
-total_funding_usd: ~3.17B
 last_updated: 2026-03-20
 headquarters: Paris, France
 linkedin: https://www.linkedin.com/company/mistralai
@@ -149,6 +116,7 @@ crunchbase: https://www.crunchbase.com/organization/mistral-ai
 crunchbase_verified: true
 name: Mistral AI
 linkedin_verified: true
+total_raised_m: 3170.0
 ---
 
 # Mistral AI

@@ -1,8 +1,6 @@
 ---
 name: Mirelo AI
-slug: mirelo-ai
 website: https://mirelo.ai
-domain: mirelo.ai
 founded: 2023
 headquarters: Berlin, Germany
 sector: AI / Generative Audio / Media
@@ -12,27 +10,30 @@ status: Private
 founders:
 - name: CJ Simon-Gabriel
   role: Co-Founder & CEO
-  background: PhD in machine learning and causal inference from Max Planck Institute (under Bernhard Scholkopf). Postdoc at ETH Zurich. Former AWS Labs senior AI researcher. Degree in piano, organ and composition from Conservatoire in Strasbourg.
+  background: PhD in machine learning and causal inference from Max Planck Institute (under Bernhard Scholkopf). Postdoc at
+    ETH Zurich. Former AWS Labs senior AI researcher. Degree in piano, organ and composition from Conservatoire in Strasbourg.
 - name: Florian Wenzel
   role: Co-Founder & CTO
-  background: PhD in deep learning from Humboldt University. Former Google Brain researcher. Former AWS Labs. Musician who plays electric guitar in a Berlin electro band.
+  background: PhD in deep learning from Humboldt University. Former Google Brain researcher. Former AWS Labs. Musician who
+    plays electric guitar in a Berlin electro band.
 last_updated: 2026-03-23
 confidence: high
-one_liner: AI foundation model company that generates perfectly synchronized sound effects for video content, solving the silent problem of AI-generated video
-data_notes: 'Massive $41M seed round co-led by Index and a16z. Total includes earlier pre-seed from Atlantic.'
+one_liner: AI foundation model company that generates perfectly synchronized sound effects for video content, solving the
+  silent problem of AI-generated video
+data_notes: Massive $41M seed round co-led by Index and a16z. Total includes earlier pre-seed from Atlantic.
 crunchbase: https://www.crunchbase.com/organization/mirelo-ai
 linkedin: https://www.linkedin.com/company/mirelo-ai
 total_raised_m: 44
 funding_rounds:
 - stage: Pre-Seed
   date: '2024'
-  amount_m: 3
+  amount_m: 3.0
   lead_investors:
   - Atlantic.vc
   source: https://techcrunch.com/2025/12/15/mirelo-raises-41m-from-index-and-a16z-to-solve-ai-videos-silent-problem/
 - stage: Seed
   date: 2025-12
-  amount_m: 41
+  amount_m: 41.0
   lead_investors:
   - Index Ventures
   - Andreessen Horowitz

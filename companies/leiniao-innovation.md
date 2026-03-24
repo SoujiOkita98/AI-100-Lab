@@ -15,8 +15,7 @@ latest_valuation_m: null
 funding_rounds:
 - stage: Series C
   date: 2025-06
-  amount_m: 110
-  valuation_m: null
+  amount_m: 110.0
   lead_investors:
   - CITIC Jingshi
   source: https://eu.36kr.com/en/p/3542786251992967

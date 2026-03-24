@@ -1,8 +1,6 @@
 ---
 name: Luma AI
-legal_name: Luma AI, Inc.
 website: https://lumalabs.ai
-domain: lumalabs.ai
 sector: AI Video & 3D Generation / Creative AI Agents
 founded: 2021
 headquarters: Palo Alto, CA
@@ -31,7 +29,7 @@ funding_rounds:
   source: https://tracxn.com/d/companies/luma-ai/
 - stage: Series A
   date: 2023-03
-  amount_m: 20
+  amount_m: 20.0
   lead_investors:
   - General Catalyst
   - Z47
@@ -39,13 +37,13 @@ funding_rounds:
   source: https://tracxn.com/d/companies/luma-ai/
 - stage: Series B
   date: 2024-01
-  amount_m: 43
+  amount_m: 43.0
   lead_investors:
   - Andreessen Horowitz
   source: https://techcrunch.com/2024/01/09/luma-raises-43m-to-build-ai-that-crafts-3d-models/
 - stage: Series C (tranche 1)
   date: 2024-12
-  amount_m: 90
+  amount_m: 90.0
   lead_investors:
   - Amazon
   - AMD
@@ -53,8 +51,8 @@ funding_rounds:
   source: https://sacra.com/c/luma-ai/
 - stage: Series C (tranche 2)
   date: 2025-11
-  amount_m: 900
-  valuation_m: 4000
+  amount_m: 900.0
+  valuation_m: 4000.0
   lead_investors:
   - HUMAIN (PIF subsidiary)
   source: https://lumalabs.ai/press/luma-ai-raises-900-million-series-c-led-by-humain-and-partners-on-2-gigawatt-ai-supercluster-in-saudi-arabia
@@ -72,7 +70,6 @@ founders:
   origin: Indian
 - name: Alberto Taiuti
   role: Co-Founder
-  background: ''
   origin: Italian
 linkedin_verified: true
 ---

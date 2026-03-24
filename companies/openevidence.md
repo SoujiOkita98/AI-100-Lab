@@ -1,14 +1,11 @@
 ---
 name: OpenEvidence
-legal_name: OpenEvidence Inc.
 founded: 2022
 headquarters: Miami, FL
 website: https://www.openevidence.com
 product: AI-powered medical search engine and clinical decision support for physicians
 sector: AI / Healthcare / Clinical Decision Support
 stage: Series D
-latest_valuation: $12B (Jan 2026)
-total_funding: ~$700M
 status: Active, Private
 founders:
 - name: Daniel Nadler
@@ -30,30 +27,30 @@ key_investors:
 funding_rounds:
 - stage: Series A
   date: 2025-02
-  amount_m: 75
-  valuation_m: 1000
+  amount_m: 75.0
+  valuation_m: 1000.0
   lead_investors:
   - Sequoia Capital
   source: https://news.crunchbase.com/venture/openevidence-ai-doctors-doubles-valuation-seriesd/
 - stage: Series B
   date: 2025-07
-  amount_m: 210
-  valuation_m: 3500
+  amount_m: 210.0
+  valuation_m: 3500.0
   lead_investors:
   - Google Ventures
   - Kleiner Perkins
   source: https://www.prnewswire.com/news-releases/openevidence-the-fastest-growing-application-for-physicians-in-history-announces-210-million-round-at-3-5-billion-valuation-302505806.html
 - stage: Series C
   date: 2025-10
-  amount_m: 200
-  valuation_m: 6100
+  amount_m: 200.0
+  valuation_m: 6100.0
   lead_investors:
   - GV
   source: https://techcrunch.com/2025/10/20/openevidence-the-chatgpt-for-doctors-raises-200m-at-6b-valuation/
 - stage: Series D
   date: 2026-01
-  amount_m: 250
-  valuation_m: 12000
+  amount_m: 250.0
+  valuation_m: 12000.0
   lead_investors:
   - Thrive Capital
   - DST Global
@@ -65,6 +62,8 @@ crunchbase: https://www.crunchbase.com/organization/openevidence
 crunchbase_verified: true
 twitter: '@EvidenceOpen'
 linkedin_verified: true
+total_raised_m: 700.0
+latest_valuation_m: 12000.0
 ---
 
 # OpenEvidence

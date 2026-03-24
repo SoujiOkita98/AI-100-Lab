@@ -1,7 +1,6 @@
 ---
 name: NEURA Robotics
 founded: 2019
-incorporated_country: Germany
 sector: Cognitive Robotics / Humanoid Robotics
 employee_count_approx: ~300
 status: Private
@@ -10,10 +9,8 @@ last_updated: 2026-03-20
 founders:
 - name: David Reger
   role: Co-founder & CEO
-  background: 'German entrepreneur and robotics engineer. Previously founded other technology ventures. Leads NEURA''s vision
+  background: German entrepreneur and robotics engineer. Previously founded other technology ventures. Leads NEURA's vision
     for cognitive robots that can perceive, learn, and interact naturally with humans.
-
-    '
   origin: German
 - name: Mavarick H
   role: Co-founder
@@ -27,9 +24,8 @@ founders:
 funding_rounds:
 - stage: Series A
   date: ~2023
-  amount: Undisclosed
-  valuation: Unknown
-  lead_investors: []
+  amount_m: null
+  valuation_m: null
   other_investors:
   - HV Capital
   - Vsquared Ventures
@@ -39,8 +35,8 @@ funding_rounds:
     '
 - stage: Series B
   date: 2025-01-15
-  amount: EUR 120M (~$130M USD)
-  valuation: Unknown
+  amount_m: null
+  valuation_m: null
   lead_investors:
   - Lingotto Investment Management
   other_investors:
@@ -57,7 +53,6 @@ funding_rounds:
   notes: 'Largest European cognitive robotics round. Capital used to scale manufacturing and expand global go-to-market.
 
     '
-total_known_funding: ~$281M (per Tracxn as of early 2026)
 one_liner: NEURA Robotics is a German cognitive and humanoid robotics company building robots designed to work seamlessly
   alongside humans in manufacturing, logistics, and healthcare environments
 website_verified: true
@@ -66,6 +61,7 @@ crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/neura-robotics
 headquarters: Metzingen, Germany
 linkedin_verified: true
+total_raised_m: 281.0
 ---
 
 # NEURA Robotics

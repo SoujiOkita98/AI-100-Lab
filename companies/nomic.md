@@ -7,13 +7,12 @@ status: active
 funding_rounds:
 - stage: Series A
   date: '2025'
-  amount_m: 17
-  valuation_m: 100
+  amount_m: 17.0
+  valuation_m: 100.0
   lead_investors:
   - Coatue
   - Contrary
   source: https://www.nomic.ai/blog/posts/series-a
-latest_valuation: 100
 last_updated: 2026-03-21
 confidence: medium
 data_notes: 'Needs verification: website, founders, source_urls, headquarters. Profile may be incomplete.'
@@ -34,6 +33,7 @@ founders:
   background: Former intern at Rad AI under Duderstadt
   origin: Ukrainian-American
 linkedin_verified: true
+latest_valuation_m: 100.0
 ---
 
 # Nomic

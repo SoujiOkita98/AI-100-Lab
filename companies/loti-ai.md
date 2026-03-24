@@ -17,7 +17,6 @@ founders:
   origin: American
 - name: Rebekah Arrigoni
   role: Co-Founder
-  background: ''
   origin: American
 - name: Hirak Chhatbar
   role: Co-Founder

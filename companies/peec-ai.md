@@ -1,8 +1,6 @@
 ---
 name: Peec AI
-slug: peec-ai
 website: https://peec.ai
-domain: peec.ai
 founded: 2025
 headquarters: Berlin, Germany
 sector: AI / Marketing / GEO / AI Search Analytics
@@ -22,27 +20,29 @@ founders:
   background: Met co-founders during Antler Founder residency in Berlin (late 2024).
 last_updated: 2026-03-23
 confidence: high
-one_liner: AI search analytics platform enabling marketing teams to track, analyze, and improve brand visibility across generative AI search engines like ChatGPT and Perplexity (generative engine optimization)
-data_notes: 'Despite the name, Peec AI is not a presentation coach. It is an AI search analytics / GEO platform. Extremely fast growth from 0 to $4M ARR in 10 months.'
+one_liner: AI search analytics platform enabling marketing teams to track, analyze, and improve brand visibility across generative
+  AI search engines like ChatGPT and Perplexity (generative engine optimization)
+data_notes: Despite the name, Peec AI is not a presentation coach. It is an AI search analytics / GEO platform. Extremely
+  fast growth from 0 to $4M ARR in 10 months.
 crunchbase: https://www.crunchbase.com/organization/peec-ai
 linkedin: https://www.linkedin.com/company/peec-ai
 total_raised_m: 29.1
 funding_rounds:
 - stage: Pre-Seed
   date: 2024-12
-  amount_m: 0.12
+  amount_m: 0.1
   lead_investors:
   - Antler
   source: https://www.eu-startups.com/2025/07/berlin-based-peec-ai-raises-e7-million-four-months-after-launch-to-empower-companies-to-improve-their-geo/
 - stage: Seed
   date: 2025-07
-  amount_m: 8
+  amount_m: 8.0
   lead_investors:
   - 20VC
   source: https://www.eu-startups.com/2025/07/berlin-based-peec-ai-raises-e7-million-four-months-after-launch-to-empower-companies-to-improve-their-geo/
 - stage: Series A
   date: 2025-11
-  amount_m: 21
+  amount_m: 21.0
   lead_investors:
   - Singular
   source: https://sifted.eu/articles/peec-ai-raises-21m-series-a

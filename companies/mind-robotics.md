@@ -17,8 +17,7 @@ latest_valuation_m: 2000
 funding_rounds:
 - stage: Seed
   date: 2025-11
-  amount_m: 115
-  valuation_m: null
+  amount_m: 115.0
   lead_investors:
   - Eclipse
   source: https://techcrunch.com/2025/11/04/rivian-creates-another-spinoff-company-called-mind-robotics/
@@ -26,8 +25,8 @@ funding_rounds:
     report the seed as $110M rather than $115M -- exact figure uncertain.
 - stage: Series A
   date: 2026-03
-  amount_m: 500
-  valuation_m: 2000
+  amount_m: 500.0
+  valuation_m: 2000.0
   lead_investors:
   - Accel
   - Andreessen Horowitz

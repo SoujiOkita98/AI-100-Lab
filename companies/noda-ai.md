@@ -16,11 +16,10 @@ founders:
 funding_rounds:
 - stage: Series A
   date: 2026-02
-  amount_m: 25
-  valuation_m: 125
+  amount_m: 25.0
+  valuation_m: 125.0
   lead_investors:
   - Bessemer Venture Partners
-latest_valuation: 125
 last_updated: 2026-03-21
 confidence: medium
 data_notes: 'Needs verification: website, source_urls. Profile may be incomplete.'
@@ -31,6 +30,7 @@ crunchbase: https://www.crunchbase.com/organization/noda-ai
 crunchbase_verified: true
 total_raised_m: 25.0
 linkedin_verified: true
+latest_valuation_m: 125.0
 ---
 
 # NODA AI

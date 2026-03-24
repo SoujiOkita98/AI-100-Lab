@@ -1,6 +1,5 @@
 ---
 company_name: Nevis
-legal_name: Nevis Technologies, Inc.
 website: https://www.neviswealth.com
 sector: AI for Wealth Management
 founded: 2024
@@ -15,7 +14,6 @@ founders:
 - name: Ivan Chalov
   role: Co-Founder & COO
   origin: Russian
-latest_valuation: $200M
 total_funding_raised: $40M
 arr_estimate: Undisclosed
 employee_count_estimate: ~20-40 (estimated, early-stage)
@@ -30,7 +28,7 @@ total_raised_m: 40
 funding_rounds:
 - stage: Seed + Series A
   date: 2025-12
-  amount_m: 40
+  amount_m: 40.0
   lead_investors:
   - Sequoia Capital
   - ICONIQ
@@ -39,6 +37,7 @@ funding_rounds:
 linkedin: https://www.linkedin.com/company/nevis/
 name: Nevis
 linkedin_verified: true
+latest_valuation_m: 200.0
 ---
 
 # Nevis -- Company Profile

@@ -1,13 +1,10 @@
 ---
 company: Mintlify
-legal_name: Mintlify, Inc.
 founded: 2021
 headquarters: San Francisco, CA
 website: https://www.mintlify.com
 sector: AI / Developer Tools / Documentation
 stage: Series A
-latest_valuation: Undisclosed
-total_funding: ~$21.7M
 headcount_estimate: ~55
 status: Private
 yc_batch: W22
@@ -36,7 +33,7 @@ funding_rounds:
   source: https://coreviewsystems.com/mintlify-a-y-combinator-startup-secured-2-8-million-in-a-seed-funding/
 - stage: Series A
   date: 2024-09
-  amount_m: 18
+  amount_m: 18.0
   lead_investors:
   - Andreessen Horowitz (a16z)
   source: https://www.mintlify.com/blog/series-a
@@ -45,6 +42,7 @@ website_verified: true
 linkedin: https://www.linkedin.com/company/mintlify
 crunchbase: https://www.crunchbase.com/organization/mintlify
 name: Mintlify
+total_raised_m: 21.7
 ---
 
 # Mintlify

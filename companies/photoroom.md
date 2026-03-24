@@ -7,7 +7,6 @@ headquarters: Paris, France
 website: https://www.photoroom.com
 one_liner: AI-powered photo editing app and listing studio enabling e-commerce sellers to create professional product images
   with instant background removal and generative AI
-latest_valuation: $500M (February 2024)
 total_funding: ~$75M
 arr: ~$94M (end of 2024)
 employees: ~80
@@ -32,25 +31,26 @@ total_raised_m: 75
 funding_rounds:
 - stage: Seed
   date: '2020'
-  amount_m: 2
+  amount_m: 2.0
   lead_investors:
   - Y Combinator
   source: https://www.crunchbase.com/organization/photoroom
 - stage: Series A
   date: '2022'
-  amount_m: 19
+  amount_m: 19.0
   lead_investors:
   - Balderton Capital
   source: https://www.crunchbase.com/organization/photoroom
 - stage: Series B
   date: 2024-02
-  amount_m: 43
+  amount_m: 43.0
   lead_investors:
   - Balderton Capital
   - Aglae Ventures
   source: https://www.crunchbase.com/organization/photoroom
 linkedin: https://www.linkedin.com/company/photoroom/
 linkedin_verified: true
+latest_valuation_m: 500.0
 ---
 
 # Photoroom -- AI Photo Editing

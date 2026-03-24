@@ -1,6 +1,5 @@
 ---
 company: Moonvalley
-legal_name: Moonvalley Inc.
 founded: 2023
 headquarters: Toronto, Canada
 additional_offices:
@@ -16,14 +15,14 @@ confidence_notes: Funding figures are well-sourced from SEC filings and press re
 funding_rounds:
 - stage: Seed
   date: 2024-11
-  amount_m: 70
+  amount_m: 70.0
   lead_investors:
   - General Catalyst
   - Khosla Ventures
   source: https://www.prnewswire.com/news-releases/ai-company-moonvalley-raises-70-million/
 - stage: Series A
   date: 2025-07
-  amount_m: 84
+  amount_m: 84.0
   lead_investors:
   - General Catalyst
   source: https://www.businesswire.com/news/home/20250714518340/en/
@@ -41,7 +40,6 @@ founders:
 - name: John Thomas
   role: Co-Founder & COO
   background: Based in Toronto
-  origin: ''
 - name: Mateusz Malinowski
   role: Co-Founder & Chief Scientific Officer
   background: AI research background
@@ -52,6 +50,7 @@ founders:
   origin: Polish
 name: Moonvalley
 linkedin_verified: true
+status: active
 ---
 
 # Moonvalley

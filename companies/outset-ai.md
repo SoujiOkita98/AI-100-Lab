@@ -7,7 +7,7 @@ status: active
 funding_rounds:
 - stage: Series B
   date: 2025-12
-  amount_m: 30
+  amount_m: 30.0
   lead_investors:
   - Radical Ventures
 last_updated: 2026-03-21
@@ -26,7 +26,6 @@ founders:
   origin: American
 - name: Michael Hess
   role: Co-Founder & Technical Lead
-  background: ''
   origin: American
 linkedin_verified: true
 ---

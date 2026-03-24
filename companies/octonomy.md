@@ -6,12 +6,12 @@ status: active
 funding_rounds:
 - stage: Pre-Seed
   date: 2025-01
-  amount_m: 5
+  amount_m: 5.0
   lead_investors:
   - Capnamic
 - stage: Seed
   date: 2025-11
-  amount_m: 20
+  amount_m: 20.0
   lead_investors:
   - Macquarie Capital VC
 last_updated: 2026-03-21
@@ -31,7 +31,6 @@ founders:
   origin: Dutch
 - name: Oliver Trabert
   role: Co-Founder & CPTO
-  background: ''
   origin: German
 linkedin: https://www.linkedin.com/company/octonomy/
 linkedin_verified: true

@@ -17,8 +17,7 @@ latest_valuation_m: 840000
 funding_rounds:
 - stage: Seed / Founding pledge
   date: 2015-12
-  amount_m: 100
-  valuation_m: null
+  amount_m: 100.0
   lead_investors:
   - Elon Musk
   - Sam Altman
@@ -30,32 +29,30 @@ funding_rounds:
     initial funds).
 - stage: Corporate round (Microsoft partnership)
   date: 2019-07
-  amount_m: 1000
-  valuation_m: null
+  amount_m: 1000.0
   lead_investors:
   - Microsoft
   source: https://openai.com/index/microsoft-invests-in-and-partners-with-openai/
   notes: Roughly half in Azure credits. Coincided with creation of the capped-profit entity OpenAI LP.
 - stage: Corporate round (Microsoft Phase 2)
   date: 2021
-  amount_m: 2000
-  valuation_m: null
+  amount_m: 2000.0
   lead_investors:
   - Microsoft
   source: https://www.cnbc.com/2023/04/08/microsofts-complex-bet-on-openai-brings-potential-and-uncertainty.html
   notes: Estimated ~$2B additional from Microsoft between 2019 and early 2023. Exact breakdown uncertain.
 - stage: Corporate round (Microsoft Phase 3)
   date: 2023-01
-  amount_m: 10000
-  valuation_m: 29000
+  amount_m: 10000.0
+  valuation_m: 29000.0
   lead_investors:
   - Microsoft
   source: https://blogs.microsoft.com/blog/2023/01/23/microsoftandopenaiextendpartnership/
   notes: Reported as 'multiyear, multibillion dollar' -- widely cited as up to $10B. Valuation ~$29B reported at time.
 - stage: Series A (Thrive-led)
   date: 2024-10-02
-  amount_m: 6600
-  valuation_m: 157000
+  amount_m: 6600.0
+  valuation_m: 157000.0
   lead_investors:
   - Thrive Capital
   source: https://techcrunch.com/2024/10/02/openai-raises-6-6b-and-is-now-valued-at-157b/
@@ -63,16 +60,16 @@ funding_rounds:
     MGX. Close was contingent on OpenAI restructuring to for-profit within 2 years.'
 - stage: Series B (SoftBank-led)
   date: 2025-03-31
-  amount_m: 40000
-  valuation_m: 300000
+  amount_m: 40000.0
+  valuation_m: 300000.0
   lead_investors:
   - SoftBank
   source: https://www.cnbc.com/2025/03/31/openai-closes-40-billion-in-funding-the-largest-private-fundraise-in-history-softbank-chatgpt.html
   notes: Largest private funding round on record at the time.
 - stage: Secondary sale
   date: 2025-10-02
-  amount_m: 6600
-  valuation_m: 500000
+  amount_m: 6600.0
+  valuation_m: 500000.0
   lead_investors:
   - Thrive Capital
   - SoftBank
@@ -84,8 +81,8 @@ funding_rounds:
     surpassing SpaceX.
 - stage: Series C (Amazon / Nvidia / SoftBank)
   date: 2026-02-27
-  amount_m: 110000
-  valuation_m: 840000
+  amount_m: 110000.0
+  valuation_m: 840000.0
   lead_investors:
   - Amazon
   - Nvidia

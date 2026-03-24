@@ -17,7 +17,7 @@ founders:
 funding_rounds:
 - stage: Seed
   date: 2024-01
-  amount_m: 1.82
+  amount_m: 1.8
   lead_investors:
   - Y Combinator
 notable_investors:

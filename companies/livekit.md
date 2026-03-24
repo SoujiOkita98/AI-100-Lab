@@ -16,25 +16,24 @@ founders:
 funding_rounds:
 - stage: Seed
   date: 2021
-  amount_m: 7
+  amount_m: 7.0
   lead_investors:
   - Redpoint Ventures
   source: https://www.crunchbase.com/organization/livekit
 - stage: Series A
   date: 2022-09
-  amount_m: null
   lead_investors:
   - null
   source: https://www.crunchbase.com/organization/livekit
 - stage: Series B
   date: 2025-04
-  amount_m: 45
+  amount_m: 45.0
   lead_investors:
   - Altimeter Capital
   source: https://www.finsmes.com/2025/04/livekit-raises-45m-in-series-b-at-a-345m-valuation.html
 - stage: Series C
   date: 2026-01
-  amount_m: 100
+  amount_m: 100.0
   lead_investors:
   - Index Ventures
   source: https://blog.livekit.io/livekit-series-c/

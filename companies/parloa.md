@@ -9,19 +9,18 @@ status: active
 funding_rounds:
 - stage: Series C
   date: 2025-05
-  amount_m: 120
-  valuation_m: 1000
+  amount_m: 120.0
+  valuation_m: 1000.0
   lead_investors:
   - Durable Capital
   - Altimeter
   - General Catalyst
 - stage: Series D
   date: '2026'
-  amount_m: 350
-  valuation_m: 3000
+  amount_m: 350.0
+  valuation_m: 3000.0
   lead_investors:
   - Lightspeed
-latest_valuation: 3000
 last_updated: 2026-03-21
 confidence: medium
 linkedin: https://www.linkedin.com/company/parloa
@@ -41,6 +40,7 @@ founders:
   background: Co-founded Future of Voice. Deep focus on voice technologies.
   origin: German
 linkedin_verified: true
+latest_valuation_m: 3000.0
 ---
 
 # Parloa

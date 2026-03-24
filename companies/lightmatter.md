@@ -1,11 +1,9 @@
 ---
 company: Lightmatter
-legal_name: Lightmatter, Inc.
 founded: 2017
 headquarters: Boston, Massachusetts, USA
 sector: AI Hardware / Photonic Interconnects
 stage: Series D (Late-stage private)
-latest_valuation: $4.4 billion (Series D, October 2024)
 total_funding: ~$850 million (across 9 rounds)
 employees: ~315 (as of February 2026; estimate)
 website: https://lightmatter.co
@@ -36,20 +34,20 @@ funding_rounds:
   source: https://tracxn.com/d/companies/lightmatter/
 - stage: Series A
   date: 2019
-  amount_m: 33
+  amount_m: 33.0
   lead_investors:
   - GV (Google Ventures)
   source: https://tracxn.com/d/companies/lightmatter/
 - stage: Series B
   date: 2021-05
-  amount_m: 113
+  amount_m: 113.0
   lead_investors:
   - Viking Global Investors
   - SIP Global Partners
   source: https://tracxn.com/d/companies/lightmatter/
 - stage: Series C
   date: 2023-05
-  amount_m: 154
+  amount_m: 154.0
   lead_investors:
   - Viking Global
   - GV
@@ -57,15 +55,16 @@ funding_rounds:
   notes: Initial $154M in May 2023, extended to ~$155M in December 2023.
 - stage: Series D
   date: 2024-10
-  amount_m: 400
+  amount_m: 400.0
   lead_investors:
   - T. Rowe Price
   - Fidelity
   source: https://www.crunchbase.com/organization/lightmatter-inc
-data_notes: Total ~$850M across rounds. Early rounds now broken out. Sum of disclosed rounds ~$700M; remainder includes
-  smaller undisclosed early rounds and extensions.
+data_notes: Total ~$850M across rounds. Early rounds now broken out. Sum of disclosed rounds ~$700M; remainder includes smaller
+  undisclosed early rounds and extensions.
 name: Lightmatter
 linkedin_verified: true
+status: active
 ---
 
 # Lightmatter

@@ -1,6 +1,5 @@
 ---
 name: Nexthop AI
-slug: nexthop-ai
 sector: AI / Networking Infrastructure / Data Center Hardware
 founded: 2024
 headquarters: Santa Clara, California
@@ -17,15 +16,15 @@ confidence: high
 funding_rounds:
 - stage: Series A
   date: 2025-03
-  amount_m: 110
+  amount_m: 110.0
   lead_investors:
   - Lightspeed Venture Partners
   - Kleiner Perkins
   source: https://news.crunchbase.com/ai/infrastructure-nexthop-venture-funding-lightspeed/
 - stage: Series B
   date: 2026-03
-  amount_m: 500
-  valuation_m: 4200
+  amount_m: 500.0
+  valuation_m: 4200.0
   lead_investors:
   - Lightspeed Venture Partners
   - Andreessen Horowitz

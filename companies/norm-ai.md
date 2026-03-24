@@ -1,6 +1,5 @@
 ---
 company_name: Norm AI
-legal_name: Norm AI Inc.
 website: https://www.norm.ai
 sector: Regulatory Compliance AI / RegTech
 founded: 2023
@@ -9,7 +8,6 @@ founders:
 - name: John Nay
   role: CEO & Founder
   origin: American
-latest_valuation: Undisclosed (estimated several hundred million)
 total_funding_raised: ~$140M+
 employee_count_estimate: ~100 (uncertain)
 status: Private
@@ -24,20 +22,20 @@ funding_rounds:
   source: https://www.norm.ai/post/norm-emerges-from-stealth
 - stage: Series A
   date: 2024-06
-  amount_m: 27
+  amount_m: 27.0
   lead_investors:
   - Coatue
   source: https://www.norm.ai/post/norm-ai-raises-27-million-series-a
 - stage: Series B
   date: 2025-03
-  amount_m: 48
+  amount_m: 48.0
   lead_investors:
   - Coatue
   - Craft Ventures
   source: https://www.prnewswire.com/news-releases/norm-ai-secures-48-million/
 - stage: Series C
   date: 2025-11
-  amount_m: 53
+  amount_m: 53.0
   lead_investors:
   - Blackstone
   source: https://www.prnewswire.com/news-releases/norm-ai-announces-50-million-blackstone-investment/

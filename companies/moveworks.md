@@ -1,16 +1,12 @@
 ---
 company: Moveworks
-legal_name: Moveworks, Inc.
 website: https://www.moveworks.com
-domain: moveworks.com
 sector: Enterprise AI / Agentic AI Copilot & Employee Support
 founded: 2016
 headquarters: Mountain View, California
 ceo: Bhavin Shah
 employees_approx: ~500 (pre-acquisition estimate)
-latest_valuation: $2.1B (Series C, June 2021)
 acquisition_price: $2.85B (ServiceNow, cash + stock)
-total_funding: ~$315M
 arr: $100M+ (late 2024, per company disclosure)
 status: Acquired by ServiceNow (completed December 15, 2025)
 last_updated: 2026-03-20
@@ -21,23 +17,23 @@ confidence_note: Funding totals and round details are cross-referenced across Cr
 funding_rounds:
 - stage: Series A
   date: 2019-04
-  amount_m: 30
+  amount_m: 30.0
   lead_investors:
   - Lightspeed Venture Partners
   - Bain Capital Ventures
   source: https://research.contrary.com/company/moveworks
 - stage: Series B
   date: 2019-11
-  amount_m: 75
-  valuation_m: 390
+  amount_m: 75.0
+  valuation_m: 390.0
   lead_investors:
   - Iconiq Growth
   - Kleiner Perkins
   source: https://tracxn.com/d/companies/moveworks/
 - stage: Series C
   date: 2021-06
-  amount_m: 200
-  valuation_m: 2100
+  amount_m: 200.0
+  valuation_m: 2100.0
   lead_investors:
   - Tiger Global
   - Alkeon Capital
@@ -56,18 +52,17 @@ founders:
   origin: Indian-American
 - name: Vaibhav Nivargi
   role: Co-Founder & CTO
-  background: ''
   origin: Indian
 - name: Varun Singh
   role: Co-Founder & President
-  background: ''
   origin: Indian
 - name: Jiang Chen
   role: Co-Founder & CTO of AI
-  background: ''
   origin: Chinese
 name: Moveworks
 linkedin_verified: true
+total_raised_m: 315.0
+latest_valuation_m: 2100.0
 ---
 
 # Moveworks -- Agentic AI Copilot for Enterprise Employee Support

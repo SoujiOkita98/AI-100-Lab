@@ -1,20 +1,18 @@
 ---
 company: NuMind
-legal_name: NuMind, Inc.
 founded: 2022
 headquarters: San Francisco, CA
 website: https://www.numind.ai
 sector: AI Infrastructure / NLP / Custom Models
 stage: Seed
-latest_valuation: Undisclosed
-total_funding: ~$3.5M
 headcount_estimate: ~10-15
 status: Private
 yc_batch: S22
 founders:
 - name: Etienne Bernard
   role: Co-Founder & CEO
-  background: Former Head of Machine Learning at Wolfram Research, where he led ML capabilities for Mathematica and the Wolfram Language; deep expertise in making ML accessible to non-experts
+  background: Former Head of Machine Learning at Wolfram Research, where he led ML capabilities for Mathematica and the Wolfram
+    Language; deep expertise in making ML accessible to non-experts
   origin: French
 - name: Samuel Bernard
   role: Co-Founder
@@ -30,15 +28,17 @@ funding_rounds:
   source: https://www.ycombinator.com/companies/numind
 - stage: Seed
   date: 2023-03
-  amount_m: 3
+  amount_m: 3.0
   lead_investors:
   - Flybridge
   source: https://pulse2.com/numind-raises-3-million-to-create-custom-nlp-models-powered-with-llms/
-one_liner: Platform for creating custom NLP models powered by LLMs -- 10x faster than traditional approaches, no ML expertise required
+one_liner: Platform for creating custom NLP models powered by LLMs -- 10x faster than traditional approaches, no ML expertise
+  required
 website_verified: true
 linkedin: https://www.linkedin.com/company/numind-ai
 crunchbase: https://www.crunchbase.com/organization/numind
 name: NuMind
+total_raised_m: 3.5
 ---
 
 # NuMind

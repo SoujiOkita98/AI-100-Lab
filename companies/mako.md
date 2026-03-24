@@ -28,7 +28,6 @@ founders:
   origin: Egyptian
 - name: Lukasz Dudziak
   role: Co-Founder
-  background: ''
   origin: Polish
 linkedin: https://www.linkedin.com/company/mako/
 linkedin_verified: true

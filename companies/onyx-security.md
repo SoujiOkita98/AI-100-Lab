@@ -16,8 +16,7 @@ latest_valuation_m: null
 funding_rounds:
 - stage: Series A
   date: 2026-03
-  amount_m: 35
-  valuation_m: null
+  amount_m: 35.0
   lead_investors:
   - Conviction
   source: https://www.securityweek.com/onyx-security-launches-with-40-million-in-funding/
@@ -25,12 +24,10 @@ funding_rounds:
     across Israel, US, and Canada. Already used by several Fortune 500 companies.
 - stage: Seed
   date: 2024-06
-  amount_m: 5
-  valuation_m: null
+  amount_m: 5.0
   lead_investors:
   - Cyberstarts
   source: https://www.calcalistech.com/ctechnews/article/hjmra11x911g
-  notes: null
 founders:
 - name: Maxim Bar Kogan
   role: Co-founder

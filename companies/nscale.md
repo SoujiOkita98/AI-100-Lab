@@ -1,6 +1,5 @@
 ---
 name: Nscale
-slug: nscale
 sector: AI / GPU Cloud Infrastructure / Data Centers
 founded: 2024
 headquarters: London, United Kingdom
@@ -17,33 +16,33 @@ confidence: high
 funding_rounds:
 - stage: Seed
   date: 2023-12
-  amount_m: 30
+  amount_m: 30.0
   lead_investors:
   - Sandton Capital Partners
   source: https://www.crunchbase.com/funding_round/nscale-seed--da7acc80
 - stage: Series A
   date: 2024-12
-  amount_m: 155
+  amount_m: 155.0
   lead_investors:
   - Sandton Capital Partners
   source: https://www.nscale.com/press-releases/ai-hyperscaler-nscale-secures-usd-155-million-in-series-a
 - stage: Series B
   date: 2025-09
-  amount_m: 1100
+  amount_m: 1100.0
   lead_investors:
   - Aker ASA
   source: https://www.nscale.com/press-releases/nscale-series-b
   notes: Largest Series B in European history at announcement.
 - stage: Pre-Series C SAFE
   date: 2025-10
-  amount_m: 433
+  amount_m: 433.0
   lead_investors:
   - Existing shareholders
   source: https://www.nscale.com/press-releases/nscale-pre-series-c-safe
 - stage: Series C
   date: 2026-03
-  amount_m: 2000
-  valuation_m: 14600
+  amount_m: 2000.0
+  valuation_m: 14600.0
   lead_investors:
   - Aker ASA
   - 8090 Industries

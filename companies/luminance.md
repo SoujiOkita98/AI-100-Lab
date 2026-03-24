@@ -1,14 +1,11 @@
 ---
 name: Luminance
-legal_name: Luminance Technologies Ltd.
 founded: 2015
 headquarters: London, UK (with U.S. operations)
 website: https://www.luminance.com
 product: Legal-Grade AI platform for contract review, negotiation, and legal workflow automation
 sector: AI / Legal Tech / Document Intelligence
 stage: Series C
-latest_valuation: Not publicly disclosed (estimated $500M-$1B range)
-total_funding: ~$165M
 status: Active, Private
 founders:
 - name: Adam Guthrie
@@ -34,21 +31,21 @@ key_investors:
 funding_rounds:
 - stage: Series A
   date: 2016-12
-  amount_m: 10
-  valuation_m: 50
+  amount_m: 10.0
+  valuation_m: 50.0
   lead_investors:
   - Talis Capital
   - Invoke Capital
   source: https://tracxn.com/d/companies/luminance-ai/
 - stage: Series B
   date: 2024-04
-  amount_m: 40
+  amount_m: 40.0
   lead_investors:
   - March Capital
   source: https://www.luminance.com/press/luminance-raises-40-million/
 - stage: Series C
   date: 2025-02
-  amount_m: 75
+  amount_m: 75.0
   lead_investors:
   - Point72 Private Investments
   source: https://www.luminance.com/press/luminance-raises-75-million/
@@ -59,6 +56,7 @@ linkedin: https://www.linkedin.com/company/luminancetech
 crunchbase: https://www.crunchbase.com/organization/luminance
 crunchbase_verified: true
 linkedin_verified: true
+total_raised_m: 165.0
 ---
 
 # Luminance

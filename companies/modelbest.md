@@ -1,6 +1,5 @@
 ---
 name: ModelBest
-legal_name: ModelBest Inc. (面壁智能)
 website: https://modelbest.cn
 sector: On-Device AI / Small Language Models
 founded: 2022
@@ -8,22 +7,17 @@ headquarters: Haidian District, Beijing, China
 founders:
 - name: Li Dahai (李大海)
   role: Co-founder & CEO
-  nationality: Chinese (mainland)
-  education:
-  - Tsinghua University (affiliated)
-  notable: Led the company's commercial strategy and partnerships with automotive/device OEMs
+  background: Tsinghua University (affiliated) Led the company's commercial strategy and partnerships with automotive/device
+    OEMs
   origin: Chinese
 - name: Liu Zhiyuan (刘知远)
   role: Co-founder & Chief Scientist
-  nationality: Chinese (mainland)
-  education:
-  - Tsinghua University, tenured Associate Professor, Department of Computer Science
-  notable: One of China's most prominent NLP researchers. Led the OpenBMB (Open Lab for Big Model Base) open-source initiative
-    at Tsinghua. The academic backbone behind the CPM (Chinese Pre-trained Models) series that predates the ChatGPT era.
+  background: Tsinghua University, tenured Associate Professor, Department of Computer Science One of China's most prominent
+    NLP researchers. Led the OpenBMB (Open Lab for Big Model Base) open-source initiative at Tsinghua. The academic backbone
+    behind the CPM (Chinese Pre-trained Models) series that predates the ChatGPT era.
   origin: Chinese
 team_size_estimate: ~100-200 (estimate)
 stage: Series B+ (multiple rounds totaling hundreds of millions of RMB)
-total_funding: Hundreds of millions of RMB across 3+ rounds (~$50-100M estimated)
 estimated_valuation: Not publicly disclosed; likely $300-500M range given investor caliber
 estimated_arr_2026: Not disclosed
 tags:
@@ -55,6 +49,7 @@ funding_rounds:
 data_notes: Funding data not fully disclosed. Raised hundreds of millions of RMB across multiple rounds (~$50-100M estimated).
   Exact amounts not publicly confirmed.
 linkedin_verified: true
+status: active
 ---
 
 # ModelBest (面壁智能)

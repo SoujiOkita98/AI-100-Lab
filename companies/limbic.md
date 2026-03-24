@@ -9,7 +9,7 @@ status: active
 funding_rounds:
 - stage: Series A
   date: 2024-03
-  amount_m: 14
+  amount_m: 14.0
   lead_investors:
   - Khosla Ventures
 founders:
@@ -19,7 +19,6 @@ founders:
   origin: British
 - name: Sebastiaan de Vries
   role: Co-Founder
-  background: ''
   origin: Dutch
 last_updated: 2026-03-21
 confidence: medium

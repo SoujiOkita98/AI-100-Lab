@@ -6,8 +6,6 @@ headquarters: Beijing, China
 founder_ceo: Cao Xudong
 sector: Autonomous Driving / AI Software
 stage: Pre-IPO (Hong Kong IPO filing, March 2026)
-reported_valuation_usd: ~$6B (2025 funding round)
-total_funding_usd: ~$1.42B
 headcount: ~1,500+ (estimated)
 key_products:
 - Momenta Mpilot (L2+ ADAS system)
@@ -26,13 +24,13 @@ confidence_note: Funding total from Tracxn/Crunchbase. Valuation from Bloomberg 
 funding_rounds:
 - stage: Seed
   date: '2016'
-  amount_m: 5
+  amount_m: 5.0
   lead_investors:
   - Blue Lake Capital
   source: https://en.wikipedia.org/wiki/Momenta
 - stage: Series A
   date: '2016'
-  amount_m: 5
+  amount_m: 5.0
   lead_investors:
   - Blue Lake Capital
   - Sinovation Ventures
@@ -40,15 +38,15 @@ funding_rounds:
   source: https://tracxn.com/d/companies/momenta/
 - stage: Series B1
   date: 2017-07
-  amount_m: 46
+  amount_m: 46.0
   lead_investors:
   - NIO Capital
   - Daimler Group
   source: https://www.momenta.ai/en/article/14.html
 - stage: Series C
   date: 2021-03
-  amount_m: 500
-  valuation_m: 1000
+  amount_m: 500.0
+  valuation_m: 1000.0
   lead_investors:
   - SAIC Motor
   - Toyota
@@ -58,7 +56,7 @@ funding_rounds:
   source: https://www.momenta.ai/en/article/67.html
 - stage: Series C+
   date: 2021-11
-  amount_m: 500
+  amount_m: 500.0
   lead_investors:
   - SAIC Motor
   - General Motors
@@ -83,6 +81,9 @@ founders:
   background: Alumni of Microsoft Research Asia
   origin: Chinese
 linkedin_verified: true
+total_raised_m: 1420.0
+latest_valuation_m: 6000.0
+status: active
 ---
 
 # Momenta

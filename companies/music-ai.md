@@ -1,8 +1,6 @@
 ---
 name: Music AI (Moises)
-slug: music-ai
 website: https://music.ai
-domain: music.ai
 founded: 2019
 headquarters: Salt Lake City, UT
 sector: AI / Music Technology / Audio
@@ -12,7 +10,8 @@ status: Private
 founders:
 - name: Geraldo Ramos
   role: Co-Founder & CEO
-  background: Originally from Northeast Brazil. Started first tech company at 16, sold it at 26. Moved to NY in 2012 for business development.
+  background: Originally from Northeast Brazil. Started first tech company at 16, sold it at 26. Moved to NY in 2012 for business
+    development.
 - name: Eddie Hsu
   role: Co-Founder & COO
   background: Operational leadership; co-founded Moises alongside Ramos and Almeida.
@@ -21,21 +20,22 @@ founders:
   background: Design leadership; co-founded Moises with Ramos and Hsu.
 last_updated: 2026-03-23
 confidence: high
-one_liner: AI-powered music platform with 50M+ users worldwide offering stem separation, chord recognition, and music transcription tools, winning Apple iPad App of the Year 2024
-data_notes: 'Company operates as Music AI with flagship product Moises. Charlie Puth joined as Chief Music Officer.'
+one_liner: AI-powered music platform with 50M+ users worldwide offering stem separation, chord recognition, and music transcription
+  tools, winning Apple iPad App of the Year 2024
+data_notes: Company operates as Music AI with flagship product Moises. Charlie Puth joined as Chief Music Officer.
 crunchbase: https://www.crunchbase.com/organization/moises
 linkedin: https://www.linkedin.com/company/moises-ai
 total_raised_m: 50.2
 funding_rounds:
 - stage: Seed
   date: '2022'
-  amount_m: 8.65
+  amount_m: 8.7
   lead_investors:
   - monashees
   source: https://moises.ai/blog/press-releases/moises-raises-8-65-million/
 - stage: Series A
   date: 2025-01
-  amount_m: 40
+  amount_m: 40.0
   lead_investors:
   - Connect Ventures
   - monashees

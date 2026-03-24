@@ -9,23 +9,22 @@ status: active
 funding_rounds:
 - stage: Series B
   date: 2025-05
-  amount_m: 80
+  amount_m: 80.0
   lead_investors:
   - ICONIQ
   - General Catalyst
 - stage: Series C
   date: 2025-10
-  amount_m: 150
-  valuation_m: 1800
+  amount_m: 150.0
+  valuation_m: 1800.0
   lead_investors:
   - Bessemer
 - stage: Series D
   date: 2026-03
-  amount_m: 550
-  valuation_m: 5550
+  amount_m: 550.0
+  valuation_m: 5550.0
   lead_investors:
   - Accel
-latest_valuation: 5550
 last_updated: 2026-03-21
 confidence: medium
 linkedin: https://www.linkedin.com/company/wearelegora
@@ -45,6 +44,7 @@ founders:
   background: Swedish co-founder.
   origin: Swedish
 linkedin_verified: true
+latest_valuation_m: 5550.0
 ---
 
 # Legora

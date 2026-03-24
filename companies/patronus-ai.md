@@ -3,8 +3,6 @@ name: Patronus AI
 website: https://www.patronus.ai
 one_liner: Automated AI evaluation and security platform that detects LLM mistakes at scale, enabling enterprises to deploy
   AI products safely in regulated industries
-slug: patronus-ai
-domain: AI Evaluation, Safety Testing & LLM Reliability
 founded: 2023
 headquarters: San Francisco, CA (registered address in Dublin, CA)
 founders:
@@ -20,28 +18,29 @@ founders:
     of Chicago CS graduate
   origin: Chinese-American
 team_size: ~34 employees (estimated as of late 2025)
-total_funding: ~$40M
 funding_rounds:
-- round: Seed
+- stage: Seed
   date: September 2023
-  amount: $3M
-  lead: Lightspeed Venture Partners
-  participants:
+  amount_m: 3.0
+  lead_investors:
+  - Lightspeed Venture Partners
+  other_investors:
   - Factorial Capital
   - Amjad Masad (Replit CEO)
   - Gokul Rajaram
-- round: Series A
+- stage: Series A
   date: May 2024
-  amount: $17M
-  lead: Notable Capital
-  participants:
+  amount_m: 17.0
+  lead_investors:
+  - Notable Capital
+  other_investors:
   - Lightspeed Venture Partners
   - Datadog
   - Factorial Capital
   - Gokul Rajaram
-- round: Additional equity (SEC filing)
+- stage: Additional equity (SEC filing)
   date: ~2024
-  amount: ~$20.5M
+  amount_m: 20.5
   notes: SEC exempt offering filing; may represent Series A extension or follow-on round
 latest_round: Series A (May 2024)
 key_investors:
@@ -56,6 +55,7 @@ crunchbase: https://www.crunchbase.com/organization/patronus-ai
 crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/patronus-ai/
 linkedin_verified: true
+total_raised_m: 40.0
 ---
 
 # Patronus AI

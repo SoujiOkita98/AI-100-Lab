@@ -5,7 +5,6 @@ sector: AI Productivity / Meeting Transcription
 founded: 2016
 headquarters: Mountain View, California
 website: https://otter.ai
-latest_valuation: Undisclosed (last raised Series B in 2021)
 total_funding: ~$70M
 arr: $100M (March 2025)
 users: 25M+ (2025)
@@ -34,19 +33,19 @@ total_raised_m: 70
 funding_rounds:
 - stage: Seed
   date: 2016-09
-  amount_m: 3
+  amount_m: 3.0
   lead_investors:
   - Undisclosed
   source: https://www.crunchbase.com/organization/otter-ai
 - stage: Series A
   date: 2017-11
-  amount_m: 10
+  amount_m: 10.0
   lead_investors:
   - Draper Associates
   source: https://www.crunchbase.com/organization/otter-ai
 - stage: Series B
   date: 2021-02
-  amount_m: 50
+  amount_m: 50.0
   lead_investors:
   - Spectrum Equity
   source: https://www.crunchbase.com/organization/otter-ai

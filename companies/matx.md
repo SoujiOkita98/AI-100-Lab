@@ -1,11 +1,9 @@
 ---
 company: MatX
-legal_name: MatX Inc.
 founded: '2022'
 headquarters: San Francisco Bay Area, California, USA
 sector: AI Hardware / Semiconductors (LLM Training)
 stage: Growth (Series B)
-latest_valuation: Undisclosed (~$2-3B estimated based on round size)
 total_funding: ~$600 million
 employees: ~50 (estimate; small team)
 website: https://matx.com
@@ -29,13 +27,13 @@ total_raised_m: 600
 funding_rounds:
 - stage: Series A
   date: '2024'
-  amount_m: 100
+  amount_m: 100.0
   lead_investors:
   - Spark Capital
   source: https://www.crunchbase.com/organization/matx
 - stage: Series B
   date: 2026-02
-  amount_m: 500
+  amount_m: 500.0
   lead_investors:
   - Jane Street
   - Situational Awareness
@@ -43,6 +41,7 @@ funding_rounds:
 linkedin: https://www.linkedin.com/company/matx/
 name: MatX
 linkedin_verified: true
+status: active
 ---
 
 # MatX

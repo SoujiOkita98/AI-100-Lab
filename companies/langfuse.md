@@ -1,13 +1,10 @@
 ---
 company: Langfuse
-legal_name: Langfuse GmbH
 founded: 2022
 headquarters: Berlin, Germany
 website: https://langfuse.com
 sector: AI Infrastructure / LLM Observability
 stage: Seed
-latest_valuation: Undisclosed
-total_funding: ~$4.5M
 headcount_estimate: ~7-10
 status: Private
 yc_batch: W23
@@ -34,7 +31,7 @@ funding_rounds:
   source: https://langfuse.com/blog/announcing-our-seed-round
 - stage: Seed
   date: 2023-11
-  amount_m: 4
+  amount_m: 4.0
   lead_investors:
   - Lightspeed Venture Partners
   source: https://langfuse.com/blog/announcing-our-seed-round
@@ -44,6 +41,7 @@ twitter: '@langaborai'
 linkedin: https://www.linkedin.com/company/langfuse
 crunchbase: https://www.crunchbase.com/organization/finto-acba
 name: Langfuse
+total_raised_m: 4.5
 ---
 
 # Langfuse

@@ -20,14 +20,13 @@ founders:
 funding_rounds:
 - stage: Seed
   date: 2026-01
-  amount_m: 252
-  valuation_m: 850
+  amount_m: 252.0
+  valuation_m: 850.0
   lead_investors:
   - OpenAI
   - Bain Capital
   - Interface Fund
   source: https://www.bloomberg.com/news/articles/2026-01-15/altman-s-merge-raises-252-million-to-link-brains-and-computers
-latest_valuation: 850
 last_updated: 2026-03-21
 confidence: medium
 data_notes: 'Needs verification: website, source_urls, headquarters. Profile may be incomplete.'
@@ -39,6 +38,7 @@ crunchbase_verified: true
 total_raised_m: 252.0
 linkedin: https://www.linkedin.com/company/merge-labs/
 linkedin_verified: true
+latest_valuation_m: 850.0
 ---
 
 # Merge Labs

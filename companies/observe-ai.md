@@ -5,9 +5,7 @@ founded: 2017
 headquarters: San Francisco / Redwood City, CA
 sector: AI for Contact Centers / Conversational Intelligence
 stage: Series C
-total_funding: ~$214M
 latest_round: $125M Series C (April 2022)
-valuation: ~$304M (reported July 2020; Series C valuation not publicly disclosed)
 employee_count: ~404 (as of Jan 2026)
 founders:
 - name: Swapnil Jain
@@ -44,25 +42,25 @@ last_updated: 2026-03-20
 funding_rounds:
 - stage: Series A
   date: 2018-08
-  amount_m: 8
+  amount_m: 8.0
   lead_investors:
   - Nexus Venture Partners
   source: https://tracxn.com/d/companies/observe.ai/
 - stage: Series A Extension
   date: 2019-12
-  amount_m: 26
+  amount_m: 26.0
   lead_investors:
   - Menlo Ventures
   source: https://tracxn.com/d/companies/observe.ai/
 - stage: Series B
   date: 2020-09
-  amount_m: 54
+  amount_m: 54.0
   lead_investors:
   - Menlo Ventures
   source: https://www.crunchbase.com/funding_round/observe-ai-series-b--c5de2f0d
 - stage: Series C
   date: 2022-04
-  amount_m: 125
+  amount_m: 125.0
   lead_investors:
   - SoftBank Vision Fund 2
   source: https://techcrunch.com/2022/04/12/observe-ai-raises-125m/
@@ -73,6 +71,9 @@ crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/observe-ai/
 name: Observe.AI
 linkedin_verified: true
+total_raised_m: 214.0
+latest_valuation_m: 304.0
+status: active
 ---
 
 # Observe.AI

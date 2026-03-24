@@ -1,7 +1,6 @@
 ---
 name: Monarch Tractor
 founded: 2017
-incorporated_country: USA
 sector: Agricultural Robotics / Autonomous Vehicles
 employee_count_approx: ~200
 status: Private
@@ -10,47 +9,36 @@ last_updated: 2026-03-20
 founders:
 - name: Praveen Penmetsa
   role: Co-founder & CEO
-  background: 'Autonomy and mobility engineer. Has led Monarch from founding through to commercial production and global deployment
+  background: Autonomy and mobility engineer. Has led Monarch from founding through to commercial production and global deployment
     of autonomous electric tractors.
-
-    '
   origin: Indian-American
 - name: Mark Schwager
   role: Co-founder & President
-  background: 'Former Tesla Gigafactory chief. Brings manufacturing scale-up expertise from Tesla''s battery and vehicle production
+  background: Former Tesla Gigafactory chief. Brings manufacturing scale-up expertise from Tesla's battery and vehicle production
     operations.
-
-    '
   origin: American
 - name: Zachary Omohundro
   role: Co-founder & CTO
-  background: 'Robotics PhD from Carnegie Mellon University. Leads Monarch''s autonomous driving and AI technology development.
-
-    '
+  background: Robotics PhD from Carnegie Mellon University. Leads Monarch's autonomous driving and AI technology development.
   origin: American
 - name: Carlo Mondavi
   role: Co-founder & Chief Farming Officer
-  background: 'Member of the Napa Valley Mondavi winery family. Sustainability- focused vintner who provides real-world agricultural
+  background: Member of the Napa Valley Mondavi winery family. Sustainability- focused vintner who provides real-world agricultural
     expertise and was an early testing partner for autonomous tractors in vineyards.
-
-    '
   origin: Italian-American
 funding_rounds:
 - stage: Series A
   date: ~2020
-  amount: $20M
-  valuation: Unknown
-  lead_investors: []
-  other_investors: []
+  amount_m: 20.0
+  valuation_m: null
   source: https://www.crunchbase.com/organization/monarch-tractors
   notes: 'Early round to develop prototype autonomous electric tractor.
 
     '
 - stage: Series B
   date: 2022-01
-  amount: $61M
-  valuation: Unknown
-  lead_investors: []
+  amount_m: 61.0
+  valuation_m: null
   other_investors:
   - CNH Industrial
   source: https://aibusiness.com/verticals/autonomous-smart-tractor-firm-monarch-secures-61m-in-funding
@@ -60,8 +48,8 @@ funding_rounds:
     '
 - stage: Series C
   date: 2024
-  amount: $133M
-  valuation: Unknown
+  amount_m: 133.0
+  valuation_m: null
   lead_investors:
   - Astanor Ventures
   - Foxconn Co-GP Fund
@@ -74,7 +62,6 @@ funding_rounds:
     signals potential manufacturing scale-up partnership.
 
     '
-total_known_funding: ~$200M+
 one_liner: Monarch Tractor designs and manufactures fully electric, autonomous ("driver-optional") smart tractors for the
   agricultural sector
 website_verified: true
@@ -83,6 +70,7 @@ crunchbase_verified: true
 headquarters: Livermore, California, USA
 linkedin: https://www.linkedin.com/company/monarch-tractor/
 linkedin_verified: true
+total_raised_m: 200.0
 ---
 
 # Monarch Tractor

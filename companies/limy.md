@@ -7,7 +7,7 @@ status: active
 funding_rounds:
 - stage: Seed
   date: 2026-01
-  amount_m: 10
+  amount_m: 10.0
   lead_investors:
   - Flybridge
   - a16z speedrun
@@ -23,7 +23,6 @@ founders:
   origin: Israeli
 - name: Ori Riechman
   role: Co-Founder & CTO
-  background: ''
   origin: Israeli
 last_updated: 2026-03-21
 confidence: medium

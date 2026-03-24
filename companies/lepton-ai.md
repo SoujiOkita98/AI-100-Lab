@@ -1,6 +1,5 @@
 ---
 name: Lepton AI
-legal_name: Lepton AI, Inc.
 founded: 2023
 headquarters: San Francisco, CA (later Redmond, WA post-acquisition)
 website: https://lepton.ai
@@ -28,7 +27,7 @@ total_raised_m: 11
 funding_rounds:
 - stage: Angel
   date: '2023'
-  amount_m: 11
+  amount_m: 11.0
   lead_investors:
   - Undisclosed
   source: https://www.crunchbase.com/organization/lepton-ai

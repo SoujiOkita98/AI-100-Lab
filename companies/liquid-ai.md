@@ -1,14 +1,11 @@
 ---
 name: Liquid AI
-legal_name: Liquid AI Inc.
 founded: 2023
 headquarters: Cambridge, Massachusetts, USA
 origin: MIT CSAIL spinout
 sector: Artificial Intelligence / Foundation Models
 subsector: Alternative AI Architectures (non-transformer)
 stage: Series A
-total_funding: $297M (approx.)
-latest_valuation: $2B-$2.35B (Dec 2024)
 unicorn_status: true
 unicorn_year: 2024
 employee_count_approx: ~88 (2025 est.)
@@ -39,7 +36,7 @@ funding_rounds:
 - stage: Seed
   date: 2023-12
   amount_m: 37.5
-  valuation_m: 303
+  valuation_m: 303.0
   lead_investors:
   - OSS Capital
   - PagsGroup
@@ -47,8 +44,8 @@ funding_rounds:
   source: https://siliconangle.com/2023/12/06/liquid-ai-raises-37-6m/
 - stage: Series A
   date: 2024-12
-  amount_m: 250
-  valuation_m: 2300
+  amount_m: 250.0
+  valuation_m: 2300.0
   lead_investors:
   - AMD Ventures
   source: https://www.liquid.ai/blog/we-raised-250m
@@ -59,6 +56,7 @@ linkedin: https://www.linkedin.com/company/liquid-ai-inc
 crunchbase: https://www.crunchbase.com/organization/liquid-ai
 crunchbase_verified: true
 linkedin_verified: true
+total_raised_m: 297.0
 ---
 
 # Liquid AI

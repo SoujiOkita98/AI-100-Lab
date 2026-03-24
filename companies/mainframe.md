@@ -14,7 +14,7 @@ founders:
 funding_rounds:
 - stage: Pre-Seed
   date: '2024'
-  amount_m: 1.25
+  amount_m: 1.2
   lead_investors:
   - Undisclosed
   source: https://www.crunchbase.com/organization/mainframe-3cbf

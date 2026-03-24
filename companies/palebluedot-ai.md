@@ -7,7 +7,7 @@ status: active
 funding_rounds:
 - stage: Series B
   date: 2026-01
-  amount_m: 150
+  amount_m: 150.0
 last_updated: 2026-03-21
 confidence: medium
 data_notes: 'Needs verification: website, founders, source_urls, headquarters. Profile may be incomplete.'
@@ -20,11 +20,9 @@ total_raised_m: 150.0
 founders:
 - name: Jonathan Zhu
   role: Co-Founder
-  background: ''
   origin: Chinese
 - name: Shaodong Huang
   role: Co-Founder
-  background: ''
   origin: Chinese
 linkedin: https://www.linkedin.com/company/palebluedot-ai/
 linkedin_verified: true

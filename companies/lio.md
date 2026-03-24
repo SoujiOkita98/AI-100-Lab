@@ -9,21 +9,18 @@ status: active
 funding_rounds:
 - stage: Series A
   date: 2026-03
-  amount_m: 30
+  amount_m: 30.0
   lead_investors:
   - Andreessen Horowitz
 founders:
 - name: Vladimir Keil
   role: Co-Founder & CEO
-  background: ''
   origin: German
 - name: Lukas Heinzmann
   role: Co-Founder
-  background: ''
   origin: German
 - name: Till Wagner
   role: Co-Founder & COO
-  background: ''
   origin: German
 last_updated: 2026-03-21
 confidence: medium

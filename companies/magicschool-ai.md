@@ -5,7 +5,6 @@ sector: AI Education / EdTech
 founded: 2023
 headquarters: Denver, Colorado
 website: https://www.magicschool.ai
-latest_valuation: Undisclosed (Series B, February 2025)
 total_funding: ~$67M
 users: 7M+ educators (2026)
 employees: ~100-200 (scaling to 200 by end of 2025)
@@ -29,19 +28,19 @@ total_raised_m: 67
 funding_rounds:
 - stage: Pre-Seed / Seed
   date: '2023'
-  amount_m: 7
+  amount_m: 7.0
   lead_investors:
   - Undisclosed
   source: https://www.crunchbase.com/organization/magicschool-ai
 - stage: Series A
   date: 2024-07
-  amount_m: 15
+  amount_m: 15.0
   lead_investors:
   - Bain Capital Ventures
   source: https://www.crunchbase.com/organization/magicschool-ai
 - stage: Series B
   date: 2025-02
-  amount_m: 45
+  amount_m: 45.0
   lead_investors:
   - Valor Equity Partners
   source: https://www.crunchbase.com/organization/magicschool-ai

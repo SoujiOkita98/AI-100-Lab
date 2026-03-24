@@ -5,8 +5,6 @@ founded: 2023
 headquarters: Cambridge, MA
 ceo: Geoffrey von Maltzahn
 employees: ~100+ (estimated)
-latest_valuation: $1.3B (Series A extension, Oct 2025)
-total_funding: $550M
 stage: Series A
 status: Private
 website: https://lila.ai
@@ -14,7 +12,7 @@ last_updated: 2026-03-20
 funding_rounds:
 - stage: Seed
   date: 2025-03
-  amount_m: 200
+  amount_m: 200.0
   lead_investors:
   - Flagship Pioneering
   - General Catalyst
@@ -22,14 +20,14 @@ funding_rounds:
   source: https://www.crunchbase.com/funding_round/lila-sciences-seed--a9351039
 - stage: Series A (First Close)
   date: 2025-09
-  amount_m: 235
+  amount_m: 235.0
   lead_investors:
   - Braidwell
   - Collective Global
   source: https://www.lila.ai/news/announcing-the-close-of-our-series-a
 - stage: Series A (Second Close)
   date: 2025-10
-  amount_m: 115
+  amount_m: 115.0
   lead_investors:
   - NVentures (Nvidia)
   - In-Q-Tel
@@ -51,6 +49,8 @@ crunchbase: https://www.crunchbase.com/organization/lila-sciences
 crunchbase_verified: true
 name: Lila Sciences
 linkedin_verified: true
+total_raised_m: 550.0
+latest_valuation_m: 1300.0
 ---
 
 # Lila Sciences

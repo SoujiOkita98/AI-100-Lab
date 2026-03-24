@@ -1,6 +1,5 @@
 ---
 name: Magic
-legal_name: Magic AI, Inc.
 website: https://magic.dev
 founded: 2022
 headquarters: San Francisco, CA
@@ -20,7 +19,6 @@ founders:
   origin: German
 sector: AI / Developer Tools / Code Generation
 stage: Series C
-total_funding_usd: ~466M
 latest_valuation_usd: ~1.5B (reported target, July 2024; unconfirmed final valuation)
 employees: ~97 (as of January 2026)
 status: Active, Pre-revenue or very early revenue
@@ -34,19 +32,19 @@ funding_rounds:
   source: https://www.crunchbase.com/organization/magic-83fe
 - stage: Series A
   date: 2023-02
-  amount_m: 23
+  amount_m: 23.0
   lead_investors:
   - CapitalG
   source: https://news.crunchbase.com/ai/coding-venture-funding-magic-codeium/
 - stage: Series B
   date: 2024-02
-  amount_m: 117
+  amount_m: 117.0
   lead_investors:
   - NFDG Ventures
   source: https://news.crunchbase.com/ai/coding-venture-funding-magic-codeium/
 - stage: Series C
   date: 2024-08
-  amount_m: 320
+  amount_m: 320.0
   lead_investors:
   - Eric Schmidt
   - Sequoia
@@ -58,6 +56,7 @@ linkedin: https://www.linkedin.com/company/magicailabs
 crunchbase: https://www.crunchbase.com/organization/magic
 crunchbase_verified: true
 linkedin_verified: true
+total_raised_m: 466.0
 ---
 
 # Magic -- AI Software Engineer with Ultra-Long Context

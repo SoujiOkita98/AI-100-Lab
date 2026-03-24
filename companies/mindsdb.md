@@ -23,13 +23,13 @@ funding_rounds:
   source: https://www.crunchbase.com/organization/mindsdb
 - stage: Seed
   date: 2019-12
-  amount_m: 1
+  amount_m: 1.0
   lead_investors:
   - null
   source: https://www.crunchbase.com/organization/mindsdb
 - stage: Seed
   date: 2020-04
-  amount_m: 3
+  amount_m: 3.0
   lead_investors:
   - OpenOcean
   source: https://www.crunchbase.com/organization/mindsdb
@@ -41,13 +41,12 @@ funding_rounds:
   source: https://mindsdb.com/newsroom/mindsdb-raises-16-5m-from-benchmark-to-put-machine-learning-into-more-applications
 - stage: Series B
   date: 2023
-  amount_m: 25
+  amount_m: 25.0
   lead_investors:
   - Mayfield
   source: https://mindsdb.com/newsroom/mindsdb-raises-25-million-led-by-mayfield-to-supercharge-developers-with-its-cloud-for-serving-artificial-intelligence-logic
 - stage: Strategic
   date: 2023-08
-  amount_m: null
   lead_investors:
   - NVentures (NVIDIA)
   source: https://mindsdb.com/newsroom/mindsdb-secures-funding-from-nvidia-to-make-ai-more-accessible-to-all-businesses

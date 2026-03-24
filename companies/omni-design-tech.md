@@ -8,7 +8,7 @@ status: active
 funding_rounds:
 - stage: Series A
   date: 2025-09
-  amount_m: 35
+  amount_m: 35.0
   lead_investors:
   - CDIB-TEN Capital
 last_updated: 2026-03-21
@@ -26,11 +26,9 @@ founders:
   origin: Indian
 - name: Sid Dutta
   role: Co-Founder & VP
-  background: ''
   origin: Indian
 - name: Hyun H Boo
   role: Co-Founder & Director
-  background: ''
   origin: Korean
 linkedin: https://www.linkedin.com/company/omni-design-technologies/
 linkedin_verified: true

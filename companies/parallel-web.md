@@ -14,13 +14,12 @@ founders:
 funding_rounds:
 - stage: Series A
   date: 2025-11
-  amount_m: 100
-  valuation_m: 740
+  amount_m: 100.0
+  valuation_m: 740.0
   lead_investors:
   - Kleiner Perkins
   - Index Ventures
   source: https://technologymagazine.com/news/inside-ex-twitter-ceos-us-100m-funding-for-ai-startup
-latest_valuation: 740
 last_updated: 2026-03-21
 confidence: medium
 data_notes: 'Needs verification: source_urls, headquarters. Profile may be incomplete.'
@@ -30,6 +29,7 @@ crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/parallel-web
 total_raised_m: 100.0
 linkedin_verified: true
+latest_valuation_m: 740.0
 ---
 
 # Parallel Web Systems

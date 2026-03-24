@@ -8,7 +8,6 @@ founder_ceo: Zhang Jianzhong (James Zhang)
 sector: GPU Chips / AI Accelerators
 stage: Public (IPO December 5, 2025, Shanghai STAR Market)
 ipo_raised_usd: ~$1B+
-total_funding_usd: ~$600M+ (pre-IPO)
 revenue_h1_2025_rmb: 701.8M RMB
 net_loss_h1_2025_rmb: 271M RMB
 headcount: ~1,500+ (estimated)
@@ -26,7 +25,7 @@ confidence_note: Financial data from SSE IPO filings. Performance claims for Hua
 funding_rounds:
 - stage: Series A
   date: 2021-11
-  amount_m: 313
+  amount_m: 313.0
   lead_investors:
   - 5Y Capital
   - Shanghai Guosheng Capital
@@ -34,7 +33,7 @@ funding_rounds:
   notes: ~2B CNY equivalent.
 - stage: Series B
   date: 2022-12
-  amount_m: 215
+  amount_m: 215.0
   lead_investors:
   - China Mobile Digital New Economy Fund
   - Hexie Health Insurance
@@ -42,7 +41,7 @@ funding_rounds:
   notes: ~1.5B CNY equivalent.
 - stage: IPO
   date: 2025-11
-  amount_m: 1100
+  amount_m: 1100.0
   lead_investors:
   - Public Market (Shanghai STAR Market, 688795)
   source: https://www.cnbc.com/2025/12/05/china-nvidia-moore-threads-trading-debut-1-billion-listing-ipo-shanghai-gpu-enflame-biren.html
@@ -57,6 +56,8 @@ founders:
   background: Former global VP and GM of Nvidia's Chinese branch; 14 years at Nvidia
   origin: Chinese
 linkedin_verified: true
+total_raised_m: 600.0
+status: active
 ---
 
 # Moore Threads

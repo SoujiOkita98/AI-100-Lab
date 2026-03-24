@@ -6,7 +6,7 @@ status: active
 funding_rounds:
 - stage: Seed
   date: 2025-10
-  amount_m: 6.25
+  amount_m: 6.2
   lead_investors:
   - Endiya Partners
   - Kalaari Capital
@@ -24,11 +24,9 @@ total_raised_m: 6.25
 founders:
 - name: Keshava Murthy
   role: Co-Founder & CEO
-  background: ''
   origin: Indian
 - name: Harsh Sahu
   role: Co-Founder & CTO
-  background: ''
   origin: Indian
 linkedin_verified: true
 ---

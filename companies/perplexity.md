@@ -1,6 +1,5 @@
 ---
 name: Perplexity AI
-legal_name: Perplexity AI, Inc.
 founded: '2022'
 incorporated: Delaware, USA
 headquarters: 115 Sansome Street, Suite 900, San Francisco, CA
@@ -9,7 +8,6 @@ sector: AI-Powered Search / Information Retrieval
 stage: Late-stage (Series E+)
 latest_valuation_usd: 21210000000
 latest_valuation_date: 2026-Q1
-total_funding_usd: ~1_500_000_000
 employee_count: ~1,500
 annual_recurring_revenue_usd: ~200_000_000
 arr_date: 2026-02
@@ -30,49 +28,47 @@ funding_rounds:
 - stage: Series B
   date: 2024-01
   amount_m: 73.6
-  valuation_m: 520
+  valuation_m: 520.0
   lead_investors:
   - IVP
   source: https://www.perplexity.ai/hub/blog/perplexity-raises-series-b-funding-round
 - stage: Series C
   date: 2024-04
   amount_m: 62.7
-  valuation_m: 1000
+  valuation_m: 1000.0
   lead_investors:
   - Daniel Gross
   source: https://www.lw.com/en/news/2024/04/latham-watkins-advises-perplexity-ai-in-us62-7-million-series-b-funding-round
 - stage: Series C Extension
   date: 2024-06
-  amount_m: 250
-  valuation_m: 3000
+  amount_m: 250.0
+  valuation_m: 3000.0
   lead_investors:
   - SoftBank Vision Fund 2
   source: https://finance.yahoo.com/news/softbank-back-ai-startup-perplexity-040725933.html
 - stage: Series D
   date: 2024-12
-  amount_m: 500
-  valuation_m: 9000
+  amount_m: 500.0
+  valuation_m: 9000.0
   lead_investors:
   - IVP
   source: https://www.bloomberg.com/news/articles/2024-12-18/ai-startup-perplexity-closes-funding-round-at-9-billion-value
 - stage: Series E
   date: 2025-06
-  amount_m: 500
-  valuation_m: 14000
+  amount_m: 500.0
+  valuation_m: 14000.0
   lead_investors:
   - Accel
   source: https://www.cnbc.com/2025/05/12/perplexity-funding-round-comet.html
 - stage: Series E Extension
   date: 2025-07
-  amount_m: 100
-  valuation_m: 18000
-  lead_investors: []
+  amount_m: 100.0
+  valuation_m: 18000.0
   source: https://www.pymnts.com/artificial-intelligence-2/2025/perplexity-ai-hits-18-billion-valuation-in-latest-funding-round/
 - stage: Late-Stage Round
   date: 2025-09
-  amount_m: 200
-  valuation_m: 20000
-  lead_investors: []
+  amount_m: 200.0
+  valuation_m: 20000.0
   source: https://techcrunch.com/2025/09/10/perplexity-reportedly-raised-200m-at-20b-valuation/
 one_liner: Perplexity AI is an AI-powered "answer engine" that combines large language models with real-time web search to
   deliver cited, conversational answers to user queries
@@ -99,6 +95,7 @@ founders:
   background: Founding team member at Databricks
   origin: American
 linkedin_verified: true
+total_raised_m: 1500.0
 ---
 
 # Perplexity AI

@@ -25,7 +25,6 @@ sector: Artificial Intelligence — Foundation Models, Generative AI (Video, Tex
 status: Public (Hong Kong IPO, January 9, 2026)
 ipo_raised: ~$619M USD
 market_cap_at_debut: ~$13.7B USD (after 109% first-day surge)
-latest_valuation: ~$13.7B+ USD (as of early 2026; stock has risen ~5x since IPO)
 total_funding_raised: ~$1.15B USD (pre-IPO) + $619M IPO
 tags:
 - China Six AI Tigers
@@ -45,6 +44,7 @@ crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/minimax-ai
 total_raised_m: 1150.0
 linkedin_verified: true
+funding_rounds: []
 ---
 
 # MiniMax

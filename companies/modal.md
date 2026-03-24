@@ -17,8 +17,6 @@ founders:
     achieve this); competitive crossword solver
   origin: Indian-American
 employees: ~118 (as of Feb 2026)
-total_funding: ~$111M (through Series B)
-latest_valuation: $1.1B (Series B, Sep 2025); in talks for ~$2.5B (Series C, Feb 2026)
 key_investors:
 - Lux Capital (led Series B)
 - Redpoint Ventures (led Series A)
@@ -36,20 +34,20 @@ confidence: high on funding/founders; moderate on revenue/valuation talks
 funding_rounds:
 - stage: Seed
   date: '2022'
-  amount_m: 7
+  amount_m: 7.0
   lead_investors:
   - Amplify Partners
   source: https://modal.com/blog/general-availability-and-series-a-press-release
 - stage: Series A
   date: 2023-10
-  amount_m: 16
+  amount_m: 16.0
   lead_investors:
   - Redpoint Ventures
   source: https://techcrunch.com/2023/10/10/modal-labs-lands-16m/
 - stage: Series B
   date: 2025-07
-  amount_m: 87
-  valuation_m: 1100
+  amount_m: 87.0
+  valuation_m: 1100.0
   lead_investors:
   - Lux Capital
   source: https://modal.com/blog/announcing-our-series-b
@@ -61,6 +59,8 @@ crunchbase_verified: true
 twitter: '@modal_labs'
 name: Modal (Modal Labs, Inc.)
 linkedin_verified: true
+total_raised_m: 111.0
+status: active
 ---
 
 # Modal — Serverless Cloud for AI/ML
