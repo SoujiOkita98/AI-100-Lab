@@ -10,6 +10,7 @@ funding_rounds:
 - stage: Series B
   date: 2026-02
   amount_m: 150
+  source: https://www.prnewswire.com/news-releases/ai-lab-goodfire-raises-150m-at-1-25b-valuation-to-design-models-with-interpretability-302680120.html
 founders:
 - name: Eric Ho
   role: Co-Founder & CEO

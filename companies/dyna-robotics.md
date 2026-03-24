@@ -27,6 +27,7 @@ funding_rounds:
   lead_investors:
   - CRV
   - First Round Capital
+  source: https://www.prnewswire.com/news-releases/dyna-robotics-raises-23-5-million-to-commercialize-embodied-ai-with-low-cost-robots-302410263.html
 - stage: Series A
   date: 2025-09
   amount_m: 120
@@ -34,6 +35,7 @@ funding_rounds:
   - Robostrategy
   - CRV
   - First Round Capital
+  source: https://www.bloomberg.com/news/articles/2025-09-15/dyna-robotics-raises-120-million-in-funding-from-nvidia-amazon
 linkedin: https://www.linkedin.com/company/dyna-robotics
 linkedin_verified: false
 confidence: high

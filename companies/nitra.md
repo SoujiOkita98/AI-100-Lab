@@ -28,6 +28,7 @@ funding_rounds:
 - stage: Series B
   date: 2026-03
   amount_m: 50
+  source: https://fortune.com/2026/03/10/tim-hwang-nitra-funding-ai-healthcare-platform/
 last_updated: 2026-03-23
 confidence: high
 twitter: '@NitraFinance'

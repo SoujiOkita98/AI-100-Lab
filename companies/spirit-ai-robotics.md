@@ -9,11 +9,13 @@ funding_rounds:
 - stage: Pre-A
   date: 2025-03
   amount_m: 73
+  source: https://theaiinsider.tech/2026/02/24/chinese-robotics-company-spirit-ai-raises-290m-in-back-to-back-funding-rounds/
 - stage: Pre-A+
   date: 2025-07
   amount_m: 83
   lead_investors:
   - JD.com
+  source: https://www.spirit-ai.com/en/news/12
 last_updated: 2026-03-21
 confidence: medium
 founders:

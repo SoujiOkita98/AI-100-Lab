@@ -13,6 +13,7 @@ funding_rounds:
   valuation_m: 1150.0
   lead_investors:
   - Coatue
+  source: https://techcrunch.com/2026/03/12/humanoid-robotics-maker-sunday-reaches-1-15b-valuation-to-build-household-robots/
 last_updated: 2026-03-21
 confidence: medium
 founders:

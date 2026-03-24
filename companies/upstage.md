@@ -31,6 +31,7 @@ funding_rounds:
   - Korea Development Bank (KDB)
   - Amazon
   - AMD
+  source: https://www.prnewswire.com/news-releases/upstage-completes-45m-series-b-bridge-to-accelerate-enterprise-grade-genai-and-global-expansion-302534044.html
 founders:
 - name: Sung Kim (Seong-Hoon Kim)
   role: Co-Founder & CEO

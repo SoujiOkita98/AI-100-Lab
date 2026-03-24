@@ -10,6 +10,7 @@ funding_rounds:
   lead_investors:
   - Khosla Ventures
   - Lightspeed
+  source: https://www.prnewswire.com/news-releases/distyl-ai-raises-175-million-at-1-8-billion-valuation-to-help-global-enterprises-become-ai-native-302564270.html
 last_updated: 2026-03-21
 confidence: medium
 founders:

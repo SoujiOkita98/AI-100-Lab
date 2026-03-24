@@ -12,9 +12,11 @@ funding_rounds:
   amount_m: 40.0
   lead_investors:
   - M12
+  source: https://www.businesswire.com/news/home/20240711885904/en/Armada-Announces-%2440M-in-Strategic-Funding-Round-Led-by-M12
 - stage: Growth
   date: 2025-07
   amount_m: 131.0
+  source: https://www.prnewswire.com/news-releases/armada-announces-131m-strategic-funding-round-launch-of-megawatt-scale-modular-ai-data-centers-to-accelerate-american-energy-and-ai-dominance-302513137.html
 founders:
 - name: Dan Wright
   role: Co-Founder & CEO

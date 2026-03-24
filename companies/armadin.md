@@ -12,6 +12,7 @@ funding_rounds:
   - GV
   - Kleiner Perkins
   - In-Q-Tel
+  source: https://techcrunch.com/2026/03/10/mandiants-founder-just-raised-190m-for-his-autonomous-ai-agent-security-startup/
 founders:
 - name: Kevin Mandia
   role: Founder & CEO

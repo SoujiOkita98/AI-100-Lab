@@ -8,6 +8,7 @@ funding_rounds:
 - stage: Series B
   date: 2026-01
   amount_m: 150.0
+  source: https://www.prnewswire.com/news-releases/palebluedot-ai-raises-150m-series-b-to-scale-global-ai-compute-infrastructure-302672782.html
 last_updated: 2026-03-21
 confidence: medium
 data_notes: 'Needs verification: website, founders, source_urls, headquarters. Profile may be incomplete.'
