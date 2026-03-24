@@ -9,8 +9,10 @@ one_liner: Clinician-led AI platform automating prior authorization and administ
 status: active
 total_raised_m: 64
 founders:
-- Abdel Mahmoud (Co-Founder)
-- Zahid Mahmood (Co-Founder)
+- name: Abdel Mahmoud
+  role: Co-Founder
+- name: Zahid Mahmood
+  role: Co-Founder
 funding_rounds:
 - stage: Seed
   date: 2023-09

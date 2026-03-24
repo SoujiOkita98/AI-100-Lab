@@ -5,11 +5,13 @@ founded: 2022
 headquarters: London, UK
 website: https://www.recraft.ai
 sector: AI / Image Generation / Design Tools
-one_liner: AI image generation platform that topped ELO benchmarks against DALL-E and Midjourney, focused on brand-controlled design for professionals.
+one_liner: AI image generation platform that topped ELO benchmarks against DALL-E and Midjourney, focused on brand-controlled
+  design for professionals.
 status: active
 total_raised_m: 42
 founders:
-- Anna Veronika Dorogush (Founder & CEO)
+- name: Anna Veronika Dorogush
+  role: Founder & CEO
 funding_rounds:
 - stage: Series A
   date: 2024

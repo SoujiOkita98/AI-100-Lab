@@ -13,8 +13,10 @@ employee_count: ~190 (as of January 2026)
 ceo: Prem Akkaraju (appointed June 2024)
 executive_chairman: Sean Parker
 founders:
-- Emad Mostaque (resigned March 2024)
-- Cyrus Hodes
+- name: Emad Mostaque
+  role: resigned March 2024
+- name: Cyrus Hodes
+  role: Co-founder
 research_profile_date: 2026-03-20
 one_liner: Stability AI is the company behind Stable Diffusion, one of the most widely adopted open-source text-to-image generative
   AI models

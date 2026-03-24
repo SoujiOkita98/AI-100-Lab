@@ -5,12 +5,15 @@ founded: 2020
 headquarters: London, UK
 website: https://www.instill.tech
 sector: AI Infrastructure / Data Pipelines
-one_liner: Open-source AI and data infrastructure platform providing no/low-code pipelines for extracting insights from unstructured data (text, images, audio, video).
+one_liner: Open-source AI and data infrastructure platform providing no/low-code pipelines for extracting insights from unstructured
+  data (text, images, audio, video).
 status: active
 total_raised_m: 3.7
 founders:
-- Ping-Lin Chang (Co-Founder & CEO)
-- Xiaofei Du (Co-Founder & COO)
+- name: Ping-Lin Chang
+  role: Co-Founder & CEO
+- name: Xiaofei Du
+  role: Co-Founder & COO
 funding_rounds:
 - stage: Pre-Seed
   date: 2021-10

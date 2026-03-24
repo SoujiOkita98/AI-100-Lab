@@ -4,13 +4,17 @@ founded: '2019'
 headquarters: Austin, TX
 website: https://www.webai.com/
 sector: Artificial Intelligence / Distributed AI / Sovereign AI
-one_liner: webAI is a sovereign AI platform enabling enterprises to build and run AI models on localized infrastructure without cloud dependency, valued at $2.5B after its latest funding round.
+one_liner: webAI is a sovereign AI platform enabling enterprises to build and run AI models on localized infrastructure without
+  cloud dependency, valued at $2.5B after its latest funding round.
 status: Active
 total_raised_m: 60.0
 founders:
-- David Stout (Co-Founder)
-- Tyler Mauer (Co-Founder)
-- Ethan Baird (Co-Founder)
+- name: David Stout
+  role: Co-Founder
+- name: Tyler Mauer
+  role: Co-Founder
+- name: Ethan Baird
+  role: Co-Founder
 funding_rounds:
 - stage: Series A
   date: 2024-09
@@ -30,7 +34,8 @@ funding_rounds:
   source: https://siliconangle.com/2026/01/13/sovereign-ai-unicorn-webais-value-soars-2-5b-double-digit-funding-round/
 linkedin: https://www.linkedin.com/company/webai
 linkedin_verified: false
-confidence: Medium — Series A confirmed; Series A extension amount described only as "high double-digit" millions, not precisely disclosed. Valuation jump from $700M to $2.5B is notable.
+confidence: Medium — Series A confirmed; Series A extension amount described only as "high double-digit" millions, not precisely
+  disclosed. Valuation jump from $700M to $2.5B is notable.
 last_updated: 2026-03-23
 ---
 

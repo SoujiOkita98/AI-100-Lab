@@ -9,7 +9,8 @@ status: Private (IPO planned for 2026)
 latest_valuation_approx: ~$14.6B (March 2026)
 total_funding_approx: ~$2.85B+
 founders:
-- Josh Payne (CEO & Founder)
+- name: Josh Payne
+  role: CEO & Founder
 employees_approx: unknown
 research_date: 2026-03-20
 confidence: high

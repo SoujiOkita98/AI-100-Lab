@@ -8,8 +8,10 @@ status: Private (IPO expected H2 2026)
 latest_valuation: ~$11.5B implied (as of early 2026; up from $6.88B post-Series E)
 total_funding: ~$2.44B across 10+ rounds
 founders:
-- Stephen Balaban (CEO)
-- Michael Balaban (CTO)
+- name: Stephen Balaban
+  role: CEO
+- name: Michael Balaban
+  role: CTO
 employees_approx: ~300-500 (estimate; exact figure uncertain)
 research_date: 2026-03-20
 confidence: medium-high

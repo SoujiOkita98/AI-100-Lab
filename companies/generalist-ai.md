@@ -3,15 +3,19 @@ name: Generalist AI
 company: Generalist AI
 founded: 2024
 headquarters: San Francisco, CA, USA
-website: "https://www.generalist.ai"
+website: https://www.generalist.ai
 sector: Robotics / AI / Embodied Intelligence
-one_liner: AI robotics company building general-purpose robots using embodied intelligence, founded by ex-Google DeepMind researchers behind RT-2 and PaLM-E.
+one_liner: AI robotics company building general-purpose robots using embodied intelligence, founded by ex-Google DeepMind
+  researchers behind RT-2 and PaLM-E.
 status: active
 total_raised_m: 140
 founders:
-- Andy Zeng (Co-Founder)
-- Pete Florence (Co-Founder)
-- Andrew Barry (Co-Founder)
+- name: Andy Zeng
+  role: Co-Founder
+- name: Pete Florence
+  role: Co-Founder
+- name: Andrew Barry
+  role: Co-Founder
 funding_rounds:
 - stage: Seed
   date: 2025-03

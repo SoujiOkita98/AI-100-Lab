@@ -6,10 +6,14 @@ headquarters: Washington, D.C., USA
 sector: Defense AI / National Security
 current_ceo: Ben FitzGerald
 founders:
-- Chris Lynch
-- Nicole Camarillo
-- Oliver Lewis
-- Chase Kimball
+- name: Chris Lynch
+  role: Co-founder
+- name: Nicole Camarillo
+  role: Co-founder
+- name: Oliver Lewis
+  role: Co-founder
+- name: Chase Kimball
+  role: Co-founder
 total_funding: $224M (estimated)
 latest_valuation: $1B (as of September 2021)
 latest_round: Series B

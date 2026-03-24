@@ -9,8 +9,10 @@ one_liner: Developer platform providing tool integrations and skills layer for A
 status: active
 total_raised_m: 29
 founders:
-- Soham Ganatra (Co-Founder)
-- Karan Vaidya (Co-Founder)
+- name: Soham Ganatra
+  role: Co-Founder
+- name: Karan Vaidya
+  role: Co-Founder
 funding_rounds:
 - stage: Seed
   date: 2024

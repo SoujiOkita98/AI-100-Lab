@@ -5,12 +5,15 @@ founded: 2019
 headquarters: Des Moines, IA, USA
 website: https://roboflow.com
 sector: AI / Computer Vision
-one_liner: End-to-end computer vision platform for building, training, and deploying visual AI models from raw image and video data.
+one_liner: End-to-end computer vision platform for building, training, and deploying visual AI models from raw image and video
+  data.
 status: active
 total_raised_m: 64
 founders:
-- Joseph Nelson (Co-Founder & CEO)
-- Brad Dwyer (Co-Founder & CTO)
+- name: Joseph Nelson
+  role: Co-Founder & CEO
+- name: Brad Dwyer
+  role: Co-Founder & CTO
 funding_rounds:
 - stage: Seed
   date: 2021-01

@@ -5,12 +5,15 @@ founded: 2017
 headquarters: San Francisco, CA, USA
 website: https://mindsdb.com
 sector: AI / Database & ML Platform
-one_liner: Open-source AI platform that brings machine learning capabilities directly into databases, enabling developers to build AI applications with SQL.
+one_liner: Open-source AI platform that brings machine learning capabilities directly into databases, enabling developers
+  to build AI applications with SQL.
 status: active
 total_raised_m: 54
 founders:
-- Jorge Torres (Co-Founder & CEO)
-- Adam Carrigan (Co-Founder & COO)
+- name: Jorge Torres
+  role: Co-Founder & CEO
+- name: Adam Carrigan
+  role: Co-Founder & COO
 funding_rounds:
 - stage: Seed
   date: 2017-12

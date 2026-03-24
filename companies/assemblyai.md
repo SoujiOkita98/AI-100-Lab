@@ -5,11 +5,13 @@ founded: 2017
 headquarters: San Francisco, CA, USA
 website: https://www.assemblyai.com
 sector: AI / Speech-to-Text
-one_liner: AI speech recognition and understanding platform building research-grade models for transcription, summarization, and audio intelligence.
+one_liner: AI speech recognition and understanding platform building research-grade models for transcription, summarization,
+  and audio intelligence.
 status: active
 total_raised_m: 115
 founders:
-- Dylan Fox (Founder & CEO)
+- name: Dylan Fox
+  role: Founder & CEO
 funding_rounds:
 - stage: Seed
   date: 2017

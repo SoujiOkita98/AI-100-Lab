@@ -10,8 +10,10 @@ status: active
 total_raised_m: 83
 latest_valuation_m: 500
 founders:
-- Diego Rodriguez (Co-Founder)
-- Victor Perez (Co-Founder)
+- name: Diego Rodriguez
+  role: Co-Founder
+- name: Victor Perez
+  role: Co-Founder
 funding_rounds:
 - stage: Pre-Seed/Seed
   date: 2023

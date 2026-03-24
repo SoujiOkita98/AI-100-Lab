@@ -4,11 +4,13 @@ founded: '2025'
 headquarters: Austin, TX
 website: https://www.veris.ai/
 sector: Artificial Intelligence / AI Agent Training / Enterprise AI
-one_liner: Veris AI provides a simulation-based training platform that lets enterprises safely train and test AI agents through high-fidelity simulated experiences before deployment.
+one_liner: Veris AI provides a simulation-based training platform that lets enterprises safely train and test AI agents through
+  high-fidelity simulated experiences before deployment.
 status: Active
 total_raised_m: 8.5
 founders:
-- Mehdi Jamei (CEO & Founder)
+- name: Mehdi Jamei
+  role: CEO & Founder
 funding_rounds:
 - stage: Seed
   date: 2025-06

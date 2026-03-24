@@ -5,13 +5,17 @@ founded: 2019
 headquarters: San Francisco, CA, USA
 website: https://hex.tech
 sector: AI / Data Science & Analytics
-one_liner: AI-powered collaborative data science and analytics workspace for building models, running analyses, and sharing insights.
+one_liner: AI-powered collaborative data science and analytics workspace for building models, running analyses, and sharing
+  insights.
 status: active
 total_raised_m: 172
 founders:
-- Barry McCardel (Co-Founder & CEO)
-- Caitlin Colgrove (Co-Founder & CTO)
-- Glen Takahashi (Co-Founder & Chief Architect)
+- name: Barry McCardel
+  role: Co-Founder & CEO
+- name: Caitlin Colgrove
+  role: Co-Founder & CTO
+- name: Glen Takahashi
+  role: Co-Founder & Chief Architect
 funding_rounds:
 - stage: Seed
   date: 2020

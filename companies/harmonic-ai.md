@@ -5,13 +5,16 @@ founded: 2023
 headquarters: Palo Alto, CA, USA
 website: https://harmonic.fun
 sector: AI / Mathematical Reasoning / Formal Verification
-one_liner: AI company building mathematical superintelligence through formal reasoning engines that produce verifiable proofs, co-founded by Robinhood CEO Vlad Tenev.
+one_liner: AI company building mathematical superintelligence through formal reasoning engines that produce verifiable proofs,
+  co-founded by Robinhood CEO Vlad Tenev.
 status: active
 total_raised_m: 295
 latest_valuation_m: 1450
 founders:
-- Tudor Achim (Co-Founder & CEO)
-- Vlad Tenev (Co-Founder & Executive Chairman)
+- name: Tudor Achim
+  role: Co-Founder & CEO
+- name: Vlad Tenev
+  role: Co-Founder & Executive Chairman
 funding_rounds:
 - stage: Series A
   date: 2024-09

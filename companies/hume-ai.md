@@ -5,12 +5,15 @@ founded: 2021
 headquarters: New York, NY, USA
 website: https://www.hume.ai
 sector: AI / Emotion AI / Voice AI
-one_liner: Empathic AI company building models that understand and respond to human emotional expression across voice, face, and language.
+one_liner: Empathic AI company building models that understand and respond to human emotional expression across voice, face,
+  and language.
 status: active
 total_raised_m: 81
 founders:
-- Alan Cowen (CEO & Chief Scientist)
-- Janet Ho (COO)
+- name: Alan Cowen
+  role: CEO & Chief Scientist
+- name: Janet Ho
+  role: COO
 funding_rounds:
 - stage: Seed
   date: 2022

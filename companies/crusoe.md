@@ -9,8 +9,10 @@ status: Private
 latest_valuation_approx: ~$10B+ (October 2025)
 total_funding_approx: ~$3.4B+ (equity + debt)
 founders:
-- Chase Lochmiller (CEO)
-- Cully Cavness (President & COO)
+- name: Chase Lochmiller
+  role: CEO
+- name: Cully Cavness
+  role: President & COO
 employees_approx: ~500+ (estimate; exact figure uncertain)
 research_date: 2026-03-20
 confidence: high
@@ -78,9 +80,9 @@ linkedin: https://www.linkedin.com/company/crusoe
 crunchbase: https://www.crunchbase.com/organization/crusoe
 crunchbase_verified: true
 total_raised_m: 4140
-data_notes: Total ~$4.14B across equity + debt. Equity rounds sum to ~$2.49B. Remainder is debt financing including
-  $300M (Feb 2026) and multiple earlier debt rounds. Crusoe also secured $11.6B in project-level financing (not included)
-  for its Abilene TX data center (OpenAI).
+data_notes: Total ~$4.14B across equity + debt. Equity rounds sum to ~$2.49B. Remainder is debt financing including $300M
+  (Feb 2026) and multiple earlier debt rounds. Crusoe also secured $11.6B in project-level financing (not included) for its
+  Abilene TX data center (OpenAI).
 linkedin_verified: true
 ---
 

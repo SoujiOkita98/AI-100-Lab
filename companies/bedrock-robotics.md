@@ -5,15 +5,20 @@ founded: 2024
 headquarters: San Francisco, CA, USA
 website: https://bedrockrobotics.com
 sector: Robotics / Autonomous Construction / AI
-one_liner: Autonomous construction robotics company building self-driving kits for heavy equipment, founded by ex-Waymo engineers with $350M raised.
+one_liner: Autonomous construction robotics company building self-driving kits for heavy equipment, founded by ex-Waymo engineers
+  with $350M raised.
 status: active
 total_raised_m: 350
 latest_valuation_m: 1750
 founders:
-- Boris Sofman (Co-Founder & CEO)
-- Kevin Peterson (Co-Founder & CTO)
-- Ajay Gummalla (Co-Founder & VP Engineering)
-- Tom Eliaz (Co-Founder & VP Engineering)
+- name: Boris Sofman
+  role: Co-Founder & CEO
+- name: Kevin Peterson
+  role: Co-Founder & CTO
+- name: Ajay Gummalla
+  role: Co-Founder & VP Engineering
+- name: Tom Eliaz
+  role: Co-Founder & VP Engineering
 funding_rounds:
 - stage: Seed
   date: 2024

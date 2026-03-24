@@ -11,7 +11,8 @@ status: Public (NASDAQ, resumed trading October 2024)
 latest_valuation_approx: ~$25B+ market cap (March 2026, approximate)
 total_funding_approx: ~$4.5B+ (equity + convertible bonds, excludes Yandex-era capital)
 founders:
-- Arkady Volozh (CEO & Co-Founder, originally of Yandex)
+- name: Arkady Volozh
+  role: CEO & Co-Founder, originally of Yandex
 employees_approx: ~2,000+ (estimate; exact figure uncertain)
 research_date: 2026-03-20
 confidence: high

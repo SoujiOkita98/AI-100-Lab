@@ -5,11 +5,13 @@ founded: 2011
 headquarters: Minneapolis, MN, USA
 website: https://flywheel.io
 sector: AI / Medical Imaging
-one_liner: AI-powered medical imaging data management platform for research, clinical trials, and AI model development in healthcare.
+one_liner: AI-powered medical imaging data management platform for research, clinical trials, and AI model development in
+  healthcare.
 status: active
 total_raised_m: 94
 founders:
-- Invenshure (founding entity)
+- name: Invenshure
+  role: founding entity
 funding_rounds:
 - stage: Series C
   date: 2021

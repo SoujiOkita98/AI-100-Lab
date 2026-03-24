@@ -4,12 +4,15 @@ founded: '2017'
 headquarters: Brooklyn, NY
 website: https://air.inc/
 sector: Artificial Intelligence / Creative Operations / Digital Asset Management
-one_liner: Air is an AI-powered creative operations platform and system of record for visual content, using image recognition and automation to help 2,500+ brands manage 200M+ images and videos.
+one_liner: Air is an AI-powered creative operations platform and system of record for visual content, using image recognition
+  and automation to help 2,500+ brands manage 200M+ images and videos.
 status: Active
 total_raised_m: 77.0
 founders:
-- Shane Hegde (CEO)
-- Tyler Strand (Co-Founder)
+- name: Shane Hegde
+  role: CEO
+- name: Tyler Strand
+  role: Co-Founder
 funding_rounds:
 - stage: Seed
   date: '2020'
@@ -25,7 +28,8 @@ funding_rounds:
   source: https://www.alleywatch.com/2025/01/air-creative-ops-platform-system-of-record-collaboratiive-workspace-shane-hegde/
 linkedin: https://www.linkedin.com/company/airhq
 linkedin_verified: false
-confidence: Medium — Series B confirmed by AlleyWatch; total funding of ~$77M reported by Tracxn across 7 rounds, but not all individual rounds are publicly detailed.
+confidence: Medium — Series B confirmed by AlleyWatch; total funding of ~$77M reported by Tracxn across 7 rounds, but not
+  all individual rounds are publicly detailed.
 last_updated: 2026-03-23
 ---
 

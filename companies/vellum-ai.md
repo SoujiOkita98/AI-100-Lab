@@ -9,9 +9,12 @@ one_liner: End-to-end AI development platform for building, evaluating, and depl
 status: active
 total_raised_m: 25
 founders:
-- Noa Flaherty (Co-Founder)
-- Sidd Seethepalli (Co-Founder)
-- Akash Sharma (Co-Founder)
+- name: Noa Flaherty
+  role: Co-Founder
+- name: Sidd Seethepalli
+  role: Co-Founder
+- name: Akash Sharma
+  role: Co-Founder
 funding_rounds:
 - stage: Seed
   date: 2023-07

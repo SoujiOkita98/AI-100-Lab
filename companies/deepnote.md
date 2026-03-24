@@ -5,14 +5,19 @@ founded: 2019
 headquarters: San Francisco, CA, USA
 website: https://deepnote.com
 sector: AI / Data Science / Notebooks
-one_liner: Collaborative AI-powered data science notebook platform for teams, combining code, SQL, visualization, and AI assistance in a single workspace.
+one_liner: Collaborative AI-powered data science notebook platform for teams, combining code, SQL, visualization, and AI assistance
+  in a single workspace.
 status: active
 total_raised_m: 24
 founders:
-- Jakub Jurovych (Founder & CEO)
-- Filip Stollar
-- Jan Matas
-- Jirka Lhotka
+- name: Jakub Jurovych
+  role: Founder & CEO
+- name: Filip Stollar
+  role: Co-founder
+- name: Jan Matas
+  role: Co-founder
+- name: Jirka Lhotka
+  role: Co-founder
 funding_rounds:
 - stage: Seed
   date: 2020

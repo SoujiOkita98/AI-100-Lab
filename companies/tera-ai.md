@@ -4,11 +4,13 @@ founded: '2023'
 headquarters: San Francisco, CA
 website: https://www.tera.ai/
 sector: Artificial Intelligence / Robotics / Visual Navigation
-one_liner: Tera AI develops a platform-agnostic spatial reasoning system that enables any robot to navigate its environment using only its own camera — no additional sensors, maps, or infrastructure required.
+one_liner: Tera AI develops a platform-agnostic spatial reasoning system that enables any robot to navigate its environment
+  using only its own camera — no additional sensors, maps, or infrastructure required.
 status: Active
 total_raised_m: 7.8
 founders:
-- Tony Zhang (Founder & CEO)
+- name: Tony Zhang
+  role: Founder & CEO
 funding_rounds:
 - stage: Seed
   date: 2025-03

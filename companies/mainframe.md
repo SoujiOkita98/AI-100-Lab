@@ -4,11 +4,13 @@ founded: '2024'
 headquarters: San Francisco, CA
 website: https://mainfra.me/
 sector: Artificial Intelligence / Generative AI / Productivity
-one_liner: Mainframe builds Cobot, a proactive AI assistant that anticipates user needs and automates daily tasks, founded by the creator of Diagram (acquired by Figma).
+one_liner: Mainframe builds Cobot, a proactive AI assistant that anticipates user needs and automates daily tasks, founded
+  by the creator of Diagram (acquired by Figma).
 status: Active
 total_raised_m: 6.75
 founders:
-- Jordan Singer (CEO)
+- name: Jordan Singer
+  role: CEO
 funding_rounds:
 - stage: Pre-Seed
   date: '2024'
@@ -25,7 +27,8 @@ funding_rounds:
   source: https://alleywatch.com/2024/12/mainframe-proactive-ai-assistant-generative-productivity-collaboration-platform-anticipatory-automation-jordan-singer/
 linkedin: https://www.linkedin.com/company/mainframeinc
 linkedin_verified: false
-confidence: Medium — seed round confirmed by AlleyWatch and multiple sources. Pre-seed details sparse. Early-stage company with product (Cobot) in development.
+confidence: Medium — seed round confirmed by AlleyWatch and multiple sources. Pre-seed details sparse. Early-stage company
+  with product (Cobot) in development.
 last_updated: 2026-03-23
 ---
 

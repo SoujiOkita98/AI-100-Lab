@@ -5,12 +5,15 @@ founded: 2021
 headquarters: Oakland, CA, USA
 website: https://www.chargerobotics.com
 sector: Robotics / Solar Energy / Construction Automation
-one_liner: Robotics company automating solar farm construction with autonomous machines that assemble and install solar-tracking hardware.
+one_liner: Robotics company automating solar farm construction with autonomous machines that assemble and install solar-tracking
+  hardware.
 status: active
 total_raised_m: 39
 founders:
-- Banks Hunter (Co-Founder & CEO)
-- Max Justicz (Co-Founder)
+- name: Banks Hunter
+  role: Co-Founder & CEO
+- name: Max Justicz
+  role: Co-Founder
 funding_rounds:
 - stage: Seed
   date: 2021

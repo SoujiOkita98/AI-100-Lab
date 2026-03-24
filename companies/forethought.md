@@ -9,8 +9,10 @@ one_liner: AI-native multi-agent platform for enterprise customer support, autom
 status: acquired
 total_raised_m: 115
 founders:
-- Deon Nicholas (Co-Founder & Executive Chairman)
-- Sami Ghoche (Co-Founder & CEO)
+- name: Deon Nicholas
+  role: Co-Founder & Executive Chairman
+- name: Sami Ghoche
+  role: Co-Founder & CEO
 funding_rounds:
 - stage: Seed
   date: 2018

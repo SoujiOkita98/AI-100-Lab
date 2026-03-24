@@ -9,8 +9,10 @@ one_liner: Open-source real-time communication platform powering voice AI, video
 status: active
 total_raised_m: 183
 founders:
-- Russ d'Sa (Co-Founder & CEO)
-- David Zhao (Co-Founder & CTO)
+- name: Russ d'Sa
+  role: Co-Founder & CEO
+- name: David Zhao
+  role: Co-Founder & CTO
 funding_rounds:
 - stage: Seed
   date: 2021

@@ -9,7 +9,8 @@ status: Private
 latest_valuation_approx: ~$4.2B (March 2026)
 total_funding_approx: ~$610M
 founders:
-- Anshul Sadana (CEO & Founder)
+- name: Anshul Sadana
+  role: CEO & Founder
 employees_approx: unknown
 research_date: 2026-03-20
 confidence: high

@@ -9,9 +9,12 @@ one_liner: AI-powered composable CDP and marketing decisioning platform that syn
 status: active
 total_raised_m: 172
 founders:
-- Tejas Manohar (Co-Founder & Co-CEO)
-- Kashish Gupta (Co-Founder & Co-CEO)
-- Josh Curl (Co-Founder & CTO)
+- name: Tejas Manohar
+  role: Co-Founder & Co-CEO
+- name: Kashish Gupta
+  role: Co-Founder & Co-CEO
+- name: Josh Curl
+  role: Co-Founder & CTO
 funding_rounds:
 - stage: Seed
   date: 2020

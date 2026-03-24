@@ -5,12 +5,15 @@ founded: 2022
 headquarters: Sydney, Australia
 website: https://www.brainfishai.com
 sector: AI / Customer Experience / Knowledge Base
-one_liner: AI-powered ambient knowledge base that delivers personalized product knowledge to customers and agents, auto-updating from user interactions.
+one_liner: AI-powered ambient knowledge base that delivers personalized product knowledge to customers and agents, auto-updating
+  from user interactions.
 status: active
 total_raised_m: 10
 founders:
-- Daniel Kimber (Co-Founder)
-- Ajain Vivek (Co-Founder)
+- name: Daniel Kimber
+  role: Co-Founder
+- name: Ajain Vivek
+  role: Co-Founder
 funding_rounds:
 - stage: Seed
   date: 2024-05

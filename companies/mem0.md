@@ -9,8 +9,10 @@ one_liner: AI memory layer providing persistent, adaptive memory for LLM applica
 status: active
 total_raised_m: 24
 founders:
-- Taranjeet Singh (Co-Founder & CEO)
-- Deshraj Yadav (Co-Founder & CTO)
+- name: Taranjeet Singh
+  role: Co-Founder & CEO
+- name: Deshraj Yadav
+  role: Co-Founder & CTO
 funding_rounds:
 - stage: Seed
   date: 2024

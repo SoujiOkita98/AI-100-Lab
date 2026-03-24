@@ -9,8 +9,10 @@ one_liner: AI-powered revenue intelligence platform analyzing sales conversation
 status: active
 total_raised_m: 584
 founders:
-- Amit Bendov (Co-Founder & CEO)
-- Eilon Reshef (Co-Founder & CPO)
+- name: Amit Bendov
+  role: Co-Founder & CEO
+- name: Eilon Reshef
+  role: Co-Founder & CPO
 funding_rounds:
 - stage: Seed
   date: 2016

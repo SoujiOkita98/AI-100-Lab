@@ -11,9 +11,12 @@ ipo_price: $40.00
 market_cap_approx: ~$38-42B (as of March 2026)
 stock_price_approx: ~$79 (as of March 20, 2026)
 founders:
-- Michael Intrator (CEO)
-- Brian Venturo (CTO)
-- Brannin McBee (Chief Strategy Officer)
+- name: Michael Intrator
+  role: CEO
+- name: Brian Venturo
+  role: CTO
+- name: Brannin McBee
+  role: Chief Strategy Officer
 employees_approx: ~1,500+ (estimate; exact figure uncertain)
 research_date: 2026-03-20
 confidence: high

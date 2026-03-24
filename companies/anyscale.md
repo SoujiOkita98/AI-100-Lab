@@ -9,10 +9,14 @@ one_liner: AI infrastructure company behind the Ray open-source framework for sc
 status: active
 total_raised_m: 281
 founders:
-- Robert Nishihara (Co-Founder)
-- Philipp Moritz (Co-Founder)
-- Ion Stoica (Co-Founder)
-- Michael I. Jordan (Co-Founder)
+- name: Robert Nishihara
+  role: Co-Founder
+- name: Philipp Moritz
+  role: Co-Founder
+- name: Ion Stoica
+  role: Co-Founder
+- name: Michael I. Jordan
+  role: Co-Founder
 funding_rounds:
 - stage: Series A
   date: 2019-12

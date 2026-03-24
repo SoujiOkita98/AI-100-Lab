@@ -9,8 +9,10 @@ one_liner: AI-powered creative studio for video creation, editing, and social me
 status: active
 total_raised_m: 100
 founders:
-- Gaurav Misra (Co-Founder & CEO)
-- Dwight Churchill (Co-Founder & COO)
+- name: Gaurav Misra
+  role: Co-Founder & CEO
+- name: Dwight Churchill
+  role: Co-Founder & COO
 funding_rounds:
 - stage: Series A
   date: 2022

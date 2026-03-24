@@ -4,12 +4,15 @@ founded: '2021'
 headquarters: Cambridge, MA
 website: https://www.stack-ai.com/
 sector: Artificial Intelligence / No-Code AI Platform / Enterprise AI Agents
-one_liner: Stack AI is a no-code platform for building and deploying enterprise AI agents, founded by MIT PhDs to help companies integrate their data with LLMs at scale.
+one_liner: Stack AI is a no-code platform for building and deploying enterprise AI agents, founded by MIT PhDs to help companies
+  integrate their data with LLMs at scale.
 status: Active
 total_raised_m: 19.0
 founders:
-- Antoni Rosinol (Co-Founder)
-- Bernardo Aceituno (Co-Founder)
+- name: Antoni Rosinol
+  role: Co-Founder
+- name: Bernardo Aceituno
+  role: Co-Founder
 funding_rounds:
 - stage: Seed
   date: '2023'

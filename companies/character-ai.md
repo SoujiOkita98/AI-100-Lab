@@ -13,8 +13,10 @@ employees: ~259 (as of February 2026)
 monthly_active_users: ~20M (late 2025); peak was ~28M (mid-2024)
 ceo: Karandeep Anand (appointed June 2025)
 founders:
-- Noam Shazeer (departed to Google, August 2024)
-- Daniel De Freitas (departed to Google, August 2024)
+- name: Noam Shazeer
+  role: departed to Google, August 2024
+- name: Daniel De Freitas
+  role: departed to Google, August 2024
 key_investors:
 - Andreessen Horowitz (a16z)
 status: Operating independently, but hollowed out by Google talent deal; facing major legal and regulatory headwinds

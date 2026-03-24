@@ -4,12 +4,15 @@ founded: '2023'
 headquarters: Jersey City, NJ
 website: https://www.sola.ai/
 sector: Artificial Intelligence / Agentic Process Automation / Enterprise AI
-one_liner: Sola is an AI-native agentic process automation platform that automates back-office workflows for Fortune 100 enterprises, AmLaw 100 firms, and healthcare/logistics leaders — without code or consultants.
+one_liner: Sola is an AI-native agentic process automation platform that automates back-office workflows for Fortune 100 enterprises,
+  AmLaw 100 firms, and healthcare/logistics leaders — without code or consultants.
 status: Active
 total_raised_m: 21.0
 founders:
-- Jessica Wu (CEO)
-- Neil Deshmukh (Co-Founder)
+- name: Jessica Wu
+  role: CEO
+- name: Neil Deshmukh
+  role: Co-Founder
 funding_rounds:
 - stage: Seed
   date: '2024'

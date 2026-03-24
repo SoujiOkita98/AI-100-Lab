@@ -13,11 +13,16 @@ tags:
 - real-time-inference
 - SSM
 founders:
-- Karan Goel (CEO)
-- Albert Gu (Chief Scientist)
-- Arjun Desai
-- Brandon Yang
-- Chris Ré (Stanford Professor, co-founder)
+- name: Karan Goel
+  role: CEO
+- name: Albert Gu
+  role: Chief Scientist
+- name: Arjun Desai
+  role: Co-founder
+- name: Brandon Yang
+  role: Co-founder
+- name: Chris Ré
+  role: Stanford Professor, co-founder
 headcount: ~91 (as of Feb 2026)
 total_funding: ~$91M
 latest_round: Series A ($64M, March 2025)

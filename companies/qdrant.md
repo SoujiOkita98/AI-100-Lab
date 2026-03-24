@@ -5,12 +5,15 @@ founded: 2021
 headquarters: Berlin, Germany
 website: https://qdrant.tech
 sector: AI / Vector Database
-one_liner: Open-source Rust-built vector search engine providing composable vector search infrastructure for production AI systems.
+one_liner: Open-source Rust-built vector search engine providing composable vector search infrastructure for production AI
+  systems.
 status: active
 total_raised_m: 88
 founders:
-- Andre Zayarni (Co-Founder & CEO)
-- Andrey Vasnetsov (Co-Founder & CTO)
+- name: Andre Zayarni
+  role: Co-Founder & CEO
+- name: Andrey Vasnetsov
+  role: Co-Founder & CTO
 funding_rounds:
 - stage: Seed
   date: 2022

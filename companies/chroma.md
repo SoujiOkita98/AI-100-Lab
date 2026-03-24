@@ -9,8 +9,10 @@ one_liner: Open-source AI-native embedding database for building LLM application
 status: active
 total_raised_m: 20
 founders:
-- Jeff Huber (Co-Founder & CEO)
-- Anton Troynikov (Co-Founder)
+- name: Jeff Huber
+  role: Co-Founder & CEO
+- name: Anton Troynikov
+  role: Co-Founder
 funding_rounds:
 - stage: Pre-Seed
   date: 2022-05

@@ -5,13 +5,16 @@ founded: 2022
 headquarters: San Francisco, CA, USA
 website: https://www.recall.ai
 sector: AI / Meeting Intelligence / Developer API
-one_liner: Universal meeting bot API providing recordings, transcripts, and metadata from Zoom, Teams, Meet, and other platforms for AI-powered conversation intelligence.
+one_liner: Universal meeting bot API providing recordings, transcripts, and metadata from Zoom, Teams, Meet, and other platforms
+  for AI-powered conversation intelligence.
 status: active
 total_raised_m: 51
 latest_valuation_m: 250
 founders:
-- David Gu (Co-Founder & CEO)
-- Amanda Zhu (Co-Founder & COO)
+- name: David Gu
+  role: Co-Founder & CEO
+- name: Amanda Zhu
+  role: Co-Founder & COO
 funding_rounds:
 - stage: Seed
   date: 2022
@@ -31,7 +34,8 @@ funding_rounds:
   lead_investors:
   - Bessemer Venture Partners
   source: https://www.recall.ai/blog/recall-ai-series-b-the-api-for-meeting-recording
-  notes: Participants include HubSpot Ventures, Salesforce Ventures, Ridge Ventures, YC, RTP Ventures. Angels include Paul Graham, Solomon Hykes, Michael Siebel, Eoghan McCabe.
+  notes: Participants include HubSpot Ventures, Salesforce Ventures, Ridge Ventures, YC, RTP Ventures. Angels include Paul
+    Graham, Solomon Hykes, Michael Siebel, Eoghan McCabe.
 confidence: high
 last_updated: 2026-03-23
 linkedin: https://www.linkedin.com/company/recall-ai

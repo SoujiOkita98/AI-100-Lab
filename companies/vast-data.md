@@ -8,10 +8,14 @@ status: Private
 latest_valuation: ~$30B (Series F, March 2026)
 total_funding: ~$1.38B
 founders:
-- Renen Hallak (CEO)
-- Shachar Fienblit (Chief R&D Officer)
-- Jeff Denworth (Co-founder, VP Products)
-- Alon Horev (CTO)
+- name: Renen Hallak
+  role: CEO
+- name: Shachar Fienblit
+  role: Chief R&D Officer
+- name: Jeff Denworth
+  role: Co-founder, VP Products
+- name: Alon Horev
+  role: CTO
 employees_approx: ~500-1,000 (estimate; exact figure uncertain)
 research_date: 2026-03-20
 confidence: high

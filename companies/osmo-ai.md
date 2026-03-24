@@ -5,11 +5,13 @@ founded: 2022
 headquarters: New York, NY, USA
 website: https://www.osmo.ai
 sector: AI / Olfaction / Biotechnology
-one_liner: AI company digitizing the sense of smell, spun out of Google Brain, building olfactory intelligence for fragrance, healthcare, and public safety.
+one_liner: AI company digitizing the sense of smell, spun out of Google Brain, building olfactory intelligence for fragrance,
+  healthcare, and public safety.
 status: active
 total_raised_m: 135
 founders:
-- Alex Wiltschko (Founder & CEO)
+- name: Alex Wiltschko
+  role: Founder & CEO
 funding_rounds:
 - stage: Series A
   date: 2023-01
@@ -18,7 +20,8 @@ funding_rounds:
   - Lux Capital
   - GV (Google Ventures)
   source: https://research.contrary.com/company/osmo
-  notes: Participants included Arena Holdings, Moore Strategic Ventures, Two Sigma Ventures, Amazon Alexa Fund, Exor Ventures, Bill & Melinda Gates Foundation, Henry Kravis, Jeff Dean.
+  notes: Participants included Arena Holdings, Moore Strategic Ventures, Two Sigma Ventures, Amazon Alexa Fund, Exor Ventures,
+    Bill & Melinda Gates Foundation, Henry Kravis, Jeff Dean.
 - stage: Series B
   date: 2026-02
   amount_m: 70

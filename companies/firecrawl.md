@@ -9,9 +9,12 @@ one_liner: Developer-first web data API that makes web content accessible and us
 status: active
 total_raised_m: 16
 founders:
-- Caleb Peffer (Co-Founder & CEO)
-- Eric Ciarla (Co-Founder)
-- Nicolas Silberstein Camara (Co-Founder)
+- name: Caleb Peffer
+  role: Co-Founder & CEO
+- name: Eric Ciarla
+  role: Co-Founder
+- name: Nicolas Silberstein Camara
+  role: Co-Founder
 funding_rounds:
 - stage: Seed
   date: 2024

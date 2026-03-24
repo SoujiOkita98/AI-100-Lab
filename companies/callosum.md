@@ -9,8 +9,10 @@ status: Private
 latest_valuation_approx: unknown (seed stage)
 total_funding_approx: ~$10.25M (seed)
 founders:
-- Danyal Akarca (Co-Founder)
-- Jascha Achterberg (Co-Founder)
+- name: Danyal Akarca
+  role: Co-Founder
+- name: Jascha Achterberg
+  role: Co-Founder
 employees_approx: unknown (likely small, <30)
 research_date: 2026-03-20
 confidence: medium

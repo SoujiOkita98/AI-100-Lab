@@ -4,11 +4,13 @@ founded: '2022'
 headquarters: New York, NY
 website: https://www.stainless.com/
 sector: Artificial Intelligence / Developer Tools / API SDK Generation
-one_liner: Stainless uses AI to automatically generate and maintain SDKs for APIs, powering the official client libraries for OpenAI, Anthropic, Meta, and other major AI companies.
+one_liner: Stainless uses AI to automatically generate and maintain SDKs for APIs, powering the official client libraries
+  for OpenAI, Anthropic, Meta, and other major AI companies.
 status: Active
 total_raised_m: 35.0
 founders:
-- Alex Rattray (Founder & CEO)
+- name: Alex Rattray
+  role: Founder & CEO
 funding_rounds:
 - stage: Seed
   date: '2023'

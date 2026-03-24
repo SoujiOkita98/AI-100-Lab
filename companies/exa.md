@@ -9,8 +9,10 @@ status: Private
 latest_valuation_approx: ~$700M (September 2025)
 total_funding_approx: ~$111M
 founders:
-- Will Bryk (CEO)
-- Jeff Wang (Co-Founder)
+- name: Will Bryk
+  role: CEO
+- name: Jeff Wang
+  role: Co-Founder
 employees_approx: unknown (likely <100)
 research_date: 2026-03-20
 confidence: high

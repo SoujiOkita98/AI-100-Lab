@@ -9,7 +9,8 @@ status: Private
 latest_valuation_approx: ~$3.5B (October 2024)
 total_funding_approx: ~$662M (equity + credit)
 founders:
-- David Aninowsky (Founder)
+- name: David Aninowsky
+  role: Founder
 ceo: J.J. Kardwell
 employees_approx: ~500+ (estimate; exact figure uncertain)
 research_date: 2026-03-20

@@ -4,13 +4,17 @@ founded: '2020'
 headquarters: San Francisco, CA
 website: https://www.warmly.ai/
 sector: Artificial Intelligence / Sales Intelligence / Revenue Operations
-one_liner: Warmly is an AI-powered autonomous sales platform that identifies warm leads visiting your website and auto-engages them through AI-driven email, chat, and orchestration.
+one_liner: Warmly is an AI-powered autonomous sales platform that identifies warm leads visiting your website and auto-engages
+  them through AI-driven email, chat, and orchestration.
 status: Active
 total_raised_m: 22.0
 founders:
-- Max Greenwald (CEO)
-- Carina Boo (Co-Founder)
-- Alan Zhao (Co-Founder)
+- name: Max Greenwald
+  role: CEO
+- name: Carina Boo
+  role: Co-Founder
+- name: Alan Zhao
+  role: Co-Founder
 funding_rounds:
 - stage: Seed
   date: '2021'
@@ -33,7 +37,8 @@ funding_rounds:
   source: https://rtp.vc/warmly-raises-6m-seriesa-extension/
 linkedin: https://www.linkedin.com/company/warmly-ai
 linkedin_verified: false
-confidence: High — funding rounds confirmed by company blog, RTP Global, and multiple press sources. $3M ARR and 300+ customers reported.
+confidence: High — funding rounds confirmed by company blog, RTP Global, and multiple press sources. $3M ARR and 300+ customers
+  reported.
 last_updated: 2026-03-23
 ---
 

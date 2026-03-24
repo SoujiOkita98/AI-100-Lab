@@ -4,13 +4,17 @@ founded: '2024'
 headquarters: San Francisco, CA
 website: https://thirddimension.ai/
 sector: Artificial Intelligence / Generative AI / 3D Content Generation
-one_liner: Third Dimension AI uses generative AI to create large-scale, usable 3D environments from text and images — serving gaming, film, autonomous vehicles, and defense.
+one_liner: Third Dimension AI uses generative AI to create large-scale, usable 3D environments from text and images — serving
+  gaming, film, autonomous vehicles, and defense.
 status: Active
 total_raised_m: 7.0
 founders:
-- Tolga Kart (CEO)
-- Piotr Sokolski (Co-Founder)
-- Soner Ozgun Pelvan (Co-Founder)
+- name: Tolga Kart
+  role: CEO
+- name: Piotr Sokolski
+  role: Co-Founder
+- name: Soner Ozgun Pelvan
+  role: Co-Founder
 funding_rounds:
 - stage: Seed
   date: 2024-10

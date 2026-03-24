@@ -4,12 +4,15 @@ founded: '2025'
 headquarters: San Francisco, CA
 website: https://moonlakeai.com/
 sector: Artificial Intelligence / Generative AI / Interactive Simulation
-one_liner: Moonlake AI is an AI research lab building multimodal reasoning models that let anyone vibe-code interactive worlds, simulations, and games in minutes.
+one_liner: Moonlake AI is an AI research lab building multimodal reasoning models that let anyone vibe-code interactive worlds,
+  simulations, and games in minutes.
 status: Active
 total_raised_m: 28.0
 founders:
-- Fan-Yun Sun (Co-Founder)
-- Sharon Lee (Co-Founder)
+- name: Fan-Yun Sun
+  role: Co-Founder
+- name: Sharon Lee
+  role: Co-Founder
 funding_rounds:
 - stage: Seed
   date: 2025-10
@@ -21,7 +24,8 @@ funding_rounds:
   source: https://www.webwire.com/ViewPressRel.asp?aId=344520
 linkedin: https://www.linkedin.com/company/moonlake-ai
 linkedin_verified: false
-confidence: High — funding confirmed by WebWire, TechCrunch, NVIDIA, and multiple sources. Notable angel investors include Jeff Dean, Steve Chen, Naval Ravikant, Ian Goodfellow.
+confidence: High — funding confirmed by WebWire, TechCrunch, NVIDIA, and multiple sources. Notable angel investors include
+  Jeff Dean, Steve Chen, Naval Ravikant, Ian Goodfellow.
 last_updated: 2026-03-23
 ---
 

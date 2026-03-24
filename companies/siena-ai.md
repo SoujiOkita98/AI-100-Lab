@@ -9,8 +9,10 @@ one_liner: Autonomous AI customer service platform delivering empathic, human-li
 status: active
 total_raised_m: 11
 founders:
-- Andrei Negrau (Co-Founder & CEO)
-- Lisa Popovici (Co-Founder & CMO)
+- name: Andrei Negrau
+  role: Co-Founder & CEO
+- name: Lisa Popovici
+  role: Co-Founder & CMO
 funding_rounds:
 - stage: Pre-Seed
   date: 2022-09

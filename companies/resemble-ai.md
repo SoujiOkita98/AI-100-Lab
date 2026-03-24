@@ -9,8 +9,10 @@ one_liner: AI platform for enterprise-grade voice generation and real-time deepf
 status: active
 total_raised_m: 25
 founders:
-- Zohaib Ahmed (Co-Founder & CEO)
-- Saqib Muhammad (Co-Founder)
+- name: Zohaib Ahmed
+  role: Co-Founder & CEO
+- name: Saqib Muhammad
+  role: Co-Founder
 funding_rounds:
 - stage: Seed
   date: 2020

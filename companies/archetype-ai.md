@@ -5,15 +5,21 @@ founded: 2023
 headquarters: Palo Alto, CA, USA
 website: https://www.archetypeai.io
 sector: AI / Physical World AI / Sensor Intelligence
-one_liner: Physical AI company building foundation models that understand real-world sensor data to power autonomous physical agents.
+one_liner: Physical AI company building foundation models that understand real-world sensor data to power autonomous physical
+  agents.
 status: active
 total_raised_m: 48
 founders:
-- Ivan Poupyrev (CEO)
-- Leonardo Giusti
-- Jaime Lien
-- Brandon Barbello
-- Nick Gillian
+- name: Ivan Poupyrev
+  role: CEO
+- name: Leonardo Giusti
+  role: Co-founder
+- name: Jaime Lien
+  role: Co-founder
+- name: Brandon Barbello
+  role: Co-founder
+- name: Nick Gillian
+  role: Co-founder
 funding_rounds:
 - stage: Seed
   date: 2024-04

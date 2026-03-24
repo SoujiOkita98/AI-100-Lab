@@ -9,8 +9,10 @@ one_liner: Voice AI developer platform providing infrastructure for building, te
 status: active
 total_raised_m: 22
 founders:
-- Jordan Dearsley (Co-Founder & CEO)
-- Nikhil Gupta (Co-Founder & CTO)
+- name: Jordan Dearsley
+  role: Co-Founder & CEO
+- name: Nikhil Gupta
+  role: Co-Founder & CTO
 funding_rounds:
 - stage: Seed
   date: 2023

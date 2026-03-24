@@ -5,12 +5,15 @@ founded: 2024
 headquarters: London, UK
 website: https://www.humannative.ai
 sector: AI / Data Marketplace / AI Training Data
-one_liner: AI data marketplace facilitating secure licensing of rights-cleared data for AI model training through standardized agreements.
+one_liner: AI data marketplace facilitating secure licensing of rights-cleared data for AI model training through standardized
+  agreements.
 status: acquired
 total_raised_m: 3.6
 founders:
-- James Smith (Co-Founder)
-- Jack Galilee (Co-Founder)
+- name: James Smith
+  role: Co-Founder
+- name: Jack Galilee
+  role: Co-Founder
 funding_rounds:
 - stage: Seed
   date: 2024-06
@@ -24,7 +27,8 @@ last_updated: 2026-03-23
 linkedin: https://www.linkedin.com/company/human-native-ai
 linkedin_verified: false
 crunchbase: https://www.crunchbase.com/organization/human-native-ai
-notes: Company was subsequently acquired. Not strictly an "AI agents" company -- builds a data licensing marketplace for AI training.
+notes: Company was subsequently acquired. Not strictly an "AI agents" company -- builds a data licensing marketplace for AI
+  training.
 ---
 
 # Human Native AI
