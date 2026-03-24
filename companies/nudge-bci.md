@@ -19,6 +19,7 @@ funding_rounds:
   lead_investors:
   - Thrive Capital
   - Greenoaks
+  source: https://www.nudge.com/blog/series-a/
 last_updated: 2026-03-21
 confidence: medium
 data_notes: 'Needs verification: website, source_urls. Profile may be incomplete.'

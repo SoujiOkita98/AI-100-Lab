@@ -13,6 +13,7 @@ funding_rounds:
   lead_investors:
   - Renault Group
   - Bpifrance
+  source: https://www.globenewswire.com/news-release/2025/06/11/3097632/0/en/Wandercraft-announces-Series-D-Round-bringing-75M-in-total-funding-secured-for-global-acceleration-of-AI-powered-robotics.html
 founders:
 - name: Matthieu Masselin
   role: Co-Founder & CEO

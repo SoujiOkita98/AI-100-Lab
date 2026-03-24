@@ -12,6 +12,7 @@ funding_rounds:
   lead_investors:
   - CMB International
   - China Asset Management
+  source: https://pandaily.com/deep-robotics-secures-over-usd-70-million-in-series-c-funding-to-advance-system-level-embodied-intelligence
 founders:
 - name: Zhu Qiuguo
   role: CEO

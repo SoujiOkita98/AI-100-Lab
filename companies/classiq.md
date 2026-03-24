@@ -13,6 +13,7 @@ funding_rounds:
   amount_m: 110
   lead_investors:
   - Samsung NEXT
+  source: https://www.classiq.io/insights/classiq-raises-110m-in-largest-ever-quantum-software-funding-round
 founders:
 - name: Nir Minerbi
   role: Co-Founder & CEO

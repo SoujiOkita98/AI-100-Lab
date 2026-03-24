@@ -10,6 +10,7 @@ funding_rounds:
   amount_m: 100
   lead_investors:
   - Bain Capital Venture
+  source: https://www.businesswire.com/news/home/20250217135636/en/Dream-the-First-AI-Company-for-National-Cybersecurity-Raises-%24100M-to-Defend-Nations-and-Critical-Infrastructure
 founders:
 - name: Shalev Hulio
   role: Co-Founder & CEO

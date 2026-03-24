@@ -29,6 +29,7 @@ funding_rounds:
   lead_investors:
   - Scale Venture Partners
   - Northzone
+  source: https://www.businesswire.com/news/home/20251107988263/en/GC-AI-Raises-$60-Million-Series-B-to-Give-Every-Company-a-Legal-Advantage
 linkedin: https://www.linkedin.com/company/gc-ai
 linkedin_verified: false
 confidence: high

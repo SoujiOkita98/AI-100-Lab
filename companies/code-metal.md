@@ -10,6 +10,7 @@ funding_rounds:
   amount_m: 125
   lead_investors:
   - Salesforce Ventures
+  source: https://www.businesswire.com/news/home/20260219267824/en/Code-Metal-Secures-$125M-Series-B-at-$1.25B-Valuation-to-Bridge-the-Trust-Gap-in-AI-Code-Generation
 last_updated: 2026-03-21
 confidence: medium
 data_notes: 'Needs verification: website, founders, source_urls, headquarters. Profile may be incomplete.'

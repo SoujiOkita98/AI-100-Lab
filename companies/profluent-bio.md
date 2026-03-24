@@ -10,11 +10,13 @@ funding_rounds:
   amount_m: 35
   lead_investors:
   - Spark Capital
+  source: https://www.businesswire.com/news/home/20240321410207/en/Profluent-Secures-$35M-in-Additional-Funding-and-Key-Industry-Experts-to-Scale-Foundational-AI-Models-for-Biomedicine-and-Tackle-First-Vertical-in-Gene-Editing
 - stage: Series B
   date: 2025-11
   amount_m: 106
   lead_investors:
   - Jeff Bezos
+  source: https://www.businesswire.com/news/home/20251119356889/en/Profluent-Raises-$106M-to-Scale-Frontier-AI-Models-for-Programmable-Biology
 last_updated: 2026-03-21
 confidence: medium
 linkedin: https://www.linkedin.com/company/profluent-bio

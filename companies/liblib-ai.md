@@ -12,6 +12,7 @@ funding_rounds:
   lead_investors:
   - HongShan (Sequoia China)
   - CMC Capital
+  source: https://pandaily.com/130-million-liblib-ai-secures-china-s-largest-ai-application-funding-round-to-date
 founders:
 - name: Chen Mian
   role: Founder & CEO

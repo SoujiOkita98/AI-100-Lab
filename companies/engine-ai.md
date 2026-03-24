@@ -12,6 +12,7 @@ funding_rounds:
   lead_investors:
   - Xpeng (Rockets Capital)
   - JD.com
+  source: https://therobotreport.com/engineai-raises-nearly-140m-developing-legged-humanoid-robots/
 founders:
 - name: Zhao Tongyang
   role: Founder & CEO

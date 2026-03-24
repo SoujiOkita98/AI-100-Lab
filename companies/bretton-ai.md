@@ -16,6 +16,7 @@ funding_rounds:
   amount_m: 75
   lead_investors:
   - Sapphire Ventures
+  source: https://www.businesswire.com/news/home/20260209387593/en/Bretton-AI-Raises-$75M-Series-B-Rebrands-from-Greenlite-AI-to-Build-the-AI-Standard-for-Financial-Crime
 founders:
 - name: Will Lawrence
   role: Co-Founder & CEO

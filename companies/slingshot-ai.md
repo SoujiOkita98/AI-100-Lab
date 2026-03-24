@@ -16,6 +16,7 @@ funding_rounds:
   lead_investors:
   - Radical Ventures
   - Forerunner
+  source: https://www.statnews.com/2025/07/22/slingshot-new-investors-generative-ai-mental-health-therapy-chatbot-called-ash/
 last_updated: 2026-03-21
 confidence: medium
 founders:

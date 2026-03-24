@@ -14,6 +14,7 @@ funding_rounds:
   - NVIDIA
   - Siemens
   - Microsoft
+  source: https://www.neuralconcept.com/post/neural-concept-closes-100m-funding-round-led-by-growth-equity-at-goldman-sachs-alternatives-to-scale-ai-native-engineering
 last_updated: 2026-03-21
 confidence: medium
 crunchbase: https://www.crunchbase.com/organization/neural-concept

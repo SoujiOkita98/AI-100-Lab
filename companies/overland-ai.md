@@ -16,11 +16,13 @@ funding_rounds:
   amount_m: 32
   lead_investors:
   - 8VC
+  source: https://www.overland.ai/news/overland-ai-raises-100-million-to-scale-ground-autonomy-with-u-s-armed-forces
 - stage: Series B
   date: 2026-02
   amount_m: 100
   lead_investors:
   - 8VC
+  source: https://www.globenewswire.com/news-release/2026/02/03/3231434/0/en/Overland-AI-Raises-100-Million-to-Scale-Ground-Autonomy-with-U-S-Armed-Forces.html
 last_updated: 2026-03-21
 confidence: medium
 data_notes: 'Needs verification: source_urls, headquarters. Profile may be incomplete.'

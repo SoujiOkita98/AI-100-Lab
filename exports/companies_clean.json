@@ -188,7 +188,7 @@
     "business_model": null,
     "key_customers": null,
     "team_china_profile": null,
-    "confidence": "unknown",
+    "confidence": "high",
     "last_updated": "2026-03-20",
     "founders": [
       {
@@ -331,8 +331,8 @@
     "business_model": null,
     "key_customers": null,
     "team_china_profile": null,
-    "confidence": "unknown",
-    "last_updated": null,
+    "confidence": "high",
+    "last_updated": "2026-03-24",
     "founders": [
       {
         "company_slug": "7ai",
@@ -458,7 +458,7 @@
     "business_model": null,
     "key_customers": null,
     "team_china_profile": null,
-    "confidence": "unknown",
+    "confidence": "high",
     "last_updated": "2026-03-20",
     "founders": [
       {
@@ -612,8 +612,8 @@
     "business_model": null,
     "key_customers": null,
     "team_china_profile": null,
-    "confidence": "unknown",
-    "last_updated": null,
+    "confidence": "high",
+    "last_updated": "2026-03-24",
     "founders": [
       {
         "company_slug": "abridge",
@@ -965,7 +965,7 @@
     "key_customers": null,
     "team_china_profile": null,
     "confidence": "high",
-    "last_updated": null,
+    "last_updated": "2026-03-24",
     "founders": [
       {
         "company_slug": "adept-ai",
@@ -1356,7 +1356,7 @@
     "business_model": null,
     "key_customers": null,
     "team_china_profile": null,
-    "confidence": "unknown",
+    "confidence": "high",
     "last_updated": "2026-03-20",
     "founders": [
       {
@@ -1407,8 +1407,8 @@
     "business_model": null,
     "key_customers": null,
     "team_china_profile": null,
-    "confidence": "unknown",
-    "last_updated": null,
+    "confidence": "high",
+    "last_updated": "2026-03-24",
     "founders": [
       {
         "company_slug": "agility-robotics",
@@ -1582,7 +1582,7 @@
         "valuation_m": 1400.0,
         "lead_investors": "Baidu; CRRC",
         "other_investors": "",
-        "source": "",
+        "source": "https://www.yicaiglobal.com/news/chinas-ai-robotics-raises-usd145-million-for-model-development-product-upgrades",
         "notes": ""
       }
     ],
@@ -2540,8 +2540,8 @@
     "business_model": null,
     "key_customers": null,
     "team_china_profile": null,
-    "confidence": "unknown",
-    "last_updated": null,
+    "confidence": "high",
+    "last_updated": "2026-03-24",
     "founders": [
       {
         "company_slug": "ambience-healthcare",
@@ -2664,7 +2664,7 @@
         "valuation_m": null,
         "lead_investors": "Andreessen Horowitz",
         "other_investors": "",
-        "source": "",
+        "source": "https://a16z.com/announcement/investing-in-ambient-ai/",
         "notes": ""
       }
     ],
@@ -3064,7 +3064,7 @@
         "valuation_m": null,
         "lead_investors": "Atomico; Index Ventures",
         "other_investors": "",
-        "source": "",
+        "source": "https://fortune.com/2025/12/17/exclusive-palantir-alums-aiming-to-streamline-patent-filings-with-ai-secure-20-million-in-series-a-venture-funding/",
         "notes": ""
       }
     ],
@@ -3086,8 +3086,8 @@
     "business_model": null,
     "key_customers": null,
     "team_china_profile": null,
-    "confidence": "unknown",
-    "last_updated": null,
+    "confidence": "high",
+    "last_updated": "2026-03-24",
     "founders": [
       {
         "company_slug": "anomalo",
@@ -3462,7 +3462,7 @@
         "valuation_m": null,
         "lead_investors": "Jane Street Capital",
         "other_investors": "",
-        "source": "",
+        "source": "https://www.prnewswire.com/news-releases/jane-street-leads-antithesiss-105m-series-a-to-make-deterministic-simulation-testing-the-new-standard-302631076.html",
         "notes": ""
       }
     ],
@@ -3573,7 +3573,7 @@
     "business_model": null,
     "key_customers": null,
     "team_china_profile": null,
-    "confidence": "unknown",
+    "confidence": "high",
     "last_updated": "2026-03-20",
     "founders": [
       {
@@ -3863,7 +3863,7 @@
     "business_model": null,
     "key_customers": null,
     "team_china_profile": null,
-    "confidence": "unknown",
+    "confidence": "high",
     "last_updated": "2026-03-20",
     "founders": [
       {
@@ -3967,8 +3967,8 @@
     "business_model": null,
     "key_customers": null,
     "team_china_profile": null,
-    "confidence": "unknown",
-    "last_updated": null,
+    "confidence": "high",
+    "last_updated": "2026-03-24",
     "founders": [
       {
         "company_slug": "appzen",
@@ -4358,7 +4358,7 @@
     "business_model": null,
     "key_customers": null,
     "team_china_profile": null,
-    "confidence": "unknown",
+    "confidence": "medium",
     "last_updated": "2026-03-20",
     "founders": [
       {
@@ -4405,7 +4405,7 @@
     "business_model": null,
     "key_customers": null,
     "team_china_profile": null,
-    "confidence": "unknown",
+    "confidence": "high",
     "last_updated": "2026-03-20",
     "founders": [
       {
@@ -4518,7 +4518,7 @@
         "valuation_m": null,
         "lead_investors": "M12",
         "other_investors": "",
-        "source": "",
+        "source": "https://www.businesswire.com/news/home/20240711885904/en/Armada-Announces-%2440M-in-Strategic-Funding-Round-Led-by-M12",
         "notes": ""
       },
       {
@@ -4529,7 +4529,7 @@
         "valuation_m": null,
         "lead_investors": "",
         "other_investors": "",
-        "source": "",
+        "source": "https://www.prnewswire.com/news-releases/armada-announces-131m-strategic-funding-round-launch-of-megawatt-scale-modular-ai-data-centers-to-accelerate-american-energy-and-ai-dominance-302513137.html",
         "notes": ""
       }
     ],
@@ -4596,7 +4596,7 @@
         "valuation_m": null,
         "lead_investors": "Accel; GV; Kleiner Perkins; In-Q-Tel",
         "other_investors": "",
-        "source": "",
+        "source": "https://techcrunch.com/2026/03/10/mandiants-founder-just-raised-190m-for-his-autonomous-ai-agent-security-startup/",
         "notes": ""
       }
     ],
@@ -4647,7 +4647,7 @@
         "valuation_m": null,
         "lead_investors": "First Spark Ventures",
         "other_investors": "",
-        "source": "",
+        "source": "https://techfundingnews.com/ai-defence-technology-arondite-raises-12m/",
         "notes": ""
       }
     ],
@@ -5045,7 +5045,7 @@
         "valuation_m": null,
         "lead_investors": "East X Ventures; Sure Valley Ventures",
         "other_investors": "",
-        "source": "",
+        "source": "https://www.eu-startups.com/2025/10/astut-an-oxford-university-spin-out-lands-e1-8-million-round-for-transparent-reasoning-based-ai/",
         "notes": ""
       }
     ],
@@ -5067,7 +5067,7 @@
     "business_model": null,
     "key_customers": null,
     "team_china_profile": null,
-    "confidence": "unknown",
+    "confidence": "high",
     "last_updated": "2026-03-23",
     "founders": [
       {
@@ -5129,8 +5129,8 @@
     "business_model": null,
     "key_customers": null,
     "team_china_profile": null,
-    "confidence": "unknown",
-    "last_updated": null,
+    "confidence": "high",
+    "last_updated": "2026-03-24",
     "founders": [
       {
         "company_slug": "atlan",
@@ -5316,7 +5316,7 @@
         "valuation_m": null,
         "lead_investors": "Radical Ventures; Threshold Ventures",
         "other_investors": "",
-        "source": "",
+        "source": "https://www.prnewswire.com/news-releases/attuned-intelligence-raises-13m-to-transform-hospital-call-centers-with-supervised-ai-302576027.html",
         "notes": ""
       }
     ],
@@ -5428,7 +5428,7 @@
         "valuation_m": null,
         "lead_investors": "Accel",
         "other_investors": "",
-        "source": "",
+        "source": "https://inc42.com/buzz/ai-health-companion-startup-august-ai-nets-3-mn-from-accel-claypond/",
         "notes": ""
       }
     ],
@@ -5479,7 +5479,7 @@
         "valuation_m": null,
         "lead_investors": "5Y Capital; Qiming Venture Partners",
         "other_investors": "",
-        "source": "",
+        "source": "https://www.cooley.com/news/coverage/2025/2025-11-10-aureka-biotechnologies-secures-series-a-funding",
         "notes": ""
       }
     ],
@@ -5501,7 +5501,7 @@
     "business_model": null,
     "key_customers": null,
     "team_china_profile": null,
-    "confidence": "unknown",
+    "confidence": "high",
     "last_updated": "2026-03-23",
     "founders": [
       {
@@ -5689,7 +5689,7 @@
         "valuation_m": null,
         "lead_investors": "Uber; Nebius Group",
         "other_investors": "",
-        "source": "",
+        "source": "https://nebius.com/newsroom/avride-secures-strategic-investment-and-other-commitments-of-up-to-375-million-backed-by-uber-and-nebius",
         "notes": ""
       }
     ],
@@ -5824,7 +5824,7 @@
         "valuation_m": null,
         "lead_investors": "Greylock; Bessemer",
         "other_investors": "",
-        "source": "",
+        "source": "https://www.businesswire.com/news/home/20260311880123/en/Axiamatic-Launches-With-$54M-from-Greylock-and-Bessemer-to-End-the-Era-of-Failed-Enterprise-Transformations",
         "notes": ""
       }
     ],
@@ -6012,7 +6012,7 @@
         "valuation_m": null,
         "lead_investors": "",
         "other_investors": "",
-        "source": "",
+        "source": "https://ayarlabs.com/news/ayar-labs-raises-130-million-in-series-c-funding/",
         "notes": ""
       }
     ],
@@ -6055,7 +6055,7 @@
         "valuation_m": null,
         "lead_investors": "COTU Ventures",
         "other_investors": "",
-        "source": "",
+        "source": "https://www.wamda.com/2025/09/aydi-raises-7-5-million-seed-launch-ai-agronomy-assistant",
         "notes": ""
       }
     ],
@@ -6106,7 +6106,7 @@
         "valuation_m": null,
         "lead_investors": "Andreessen Horowitz; NEA",
         "other_investors": "",
-        "source": "",
+        "source": "https://techcrunch.com/2024/12/19/backed-by-a16z-and-nea-backflip-raises-30m-series-a-to-turn-text-into-ai-generated-designs/",
         "notes": ""
       }
     ],
@@ -6128,7 +6128,7 @@
     "business_model": null,
     "key_customers": null,
     "team_china_profile": null,
-    "confidence": "unknown",
+    "confidence": "high",
     "last_updated": "2026-03-20",
     "founders": [
       {
@@ -6244,7 +6244,7 @@
     "business_model": null,
     "key_customers": null,
     "team_china_profile": null,
-    "confidence": "unknown",
+    "confidence": "high",
     "last_updated": "2026-03-20",
     "founders": [
       {
@@ -6358,7 +6358,7 @@
     "business_model": null,
     "key_customers": null,
     "team_china_profile": null,
-    "confidence": "unknown",
+    "confidence": "high",
     "last_updated": "2026-03-20",
     "founders": [
       {
@@ -6611,7 +6611,7 @@
         "valuation_m": null,
         "lead_investors": "",
         "other_investors": "",
-        "source": "",
+        "source": "https://techcrunch.com/2024/02/20/bioptimus-raises-35-million-seed-round-to-develop-ai-foundational-model-focused-on-biology/",
         "notes": ""
       }
     ],
@@ -6684,7 +6684,7 @@
     "business_model": null,
     "key_customers": null,
     "team_china_profile": null,
-    "confidence": "unknown",
+    "confidence": "high",
     "last_updated": "2026-03-23",
     "founders": [
       {
@@ -6727,7 +6727,7 @@
     "business_model": null,
     "key_customers": null,
     "team_china_profile": null,
-    "confidence": "unknown",
+    "confidence": "high",
     "last_updated": "2026-03-20",
     "founders": [
       {
@@ -6848,7 +6848,7 @@
         "valuation_m": null,
         "lead_investors": "Andreessen Horowitz",
         "other_investors": "",
-        "source": "",
+        "source": "https://a16z.com/announcement/investing-in-black-forest-labs/",
         "notes": ""
       },
       {
@@ -6859,7 +6859,7 @@
         "valuation_m": 3250.0,
         "lead_investors": "General Catalyst",
         "other_investors": "",
-        "source": "",
+        "source": "https://techcrunch.com/2025/12/01/black-forest-labs-raises-300m-at-3-25b-valuation/",
         "notes": ""
       }
     ],
@@ -7142,7 +7142,7 @@
         "valuation_m": null,
         "lead_investors": "",
         "other_investors": "",
-        "source": "",
+        "source": "https://www.finsmes.com/2025/04/blue-water-autonomy-raises-14m-in-seed-funding.html",
         "notes": ""
       },
       {
@@ -7153,7 +7153,7 @@
         "valuation_m": null,
         "lead_investors": "GV; Eclipse Ventures",
         "other_investors": "",
-        "source": "",
+        "source": "https://www.prnewswire.com/news-releases/blue-water-autonomy-announces-50-million-series-a-led-by-gv-to-strengthen-us-maritime-power-with-autonomous-unmanned-ships-302538277.html",
         "notes": ""
       }
     ],
@@ -7212,7 +7212,7 @@
         "valuation_m": null,
         "lead_investors": "Creandum",
         "other_investors": "",
-        "source": "",
+        "source": "https://techcrunch.com/2025/01/14/boardy-ai-raises-8m-seed-round-months-after-closing-pre-seed/",
         "notes": ""
       }
     ],
@@ -7509,7 +7509,7 @@
         "valuation_m": 800.0,
         "lead_investors": "ICONIQ",
         "other_investors": "",
-        "source": "",
+        "source": "https://www.braintrust.dev/blog/announcing-series-b",
         "notes": ""
       }
     ],
@@ -7571,7 +7571,7 @@
         "valuation_m": null,
         "lead_investors": "Sapphire Ventures",
         "other_investors": "",
-        "source": "",
+        "source": "https://www.businesswire.com/news/home/20260209387593/en/Bretton-AI-Raises-$75M-Series-B-Rebrands-from-Greenlite-AI-to-Build-the-AI-Standard-for-Financial-Crime",
         "notes": ""
       }
     ],
@@ -7679,7 +7679,7 @@
     "business_model": null,
     "key_customers": null,
     "team_china_profile": null,
-    "confidence": "unknown",
+    "confidence": "high",
     "last_updated": "2026-03-20",
     "founders": [
       {
@@ -7795,7 +7795,7 @@
     "business_model": null,
     "key_customers": "",
     "team_china_profile": null,
-    "confidence": "unknown",
+    "confidence": "high",
     "last_updated": "2026-03-20",
     "founders": [
       {
@@ -7883,7 +7883,7 @@
         "valuation_m": null,
         "lead_investors": "Uncork Capital",
         "other_investors": "",
-        "source": "",
+        "source": "https://www.globenewswire.com/news-release/2025/12/09/3202554/0/en/Buildcheck-Raises-5-9M-to-Launch-AI-Powered-Construction-Design-Review-Platform.html",
         "notes": ""
       }
     ],
@@ -8117,7 +8117,7 @@
     "key_customers": null,
     "team_china_profile": null,
     "confidence": "medium",
-    "last_updated": "2026-03-20",
+    "last_updated": "2026-03-24",
     "founders": [
       {
         "company_slug": "callosum",
@@ -8136,7 +8136,19 @@
         "prior": ""
       }
     ],
-    "funding_rounds": [],
+    "funding_rounds": [
+      {
+        "company_slug": "callosum",
+        "stage": "Seed",
+        "date": "2026-02",
+        "amount_m": 10.2,
+        "valuation_m": null,
+        "lead_investors": "Plural",
+        "other_investors": "",
+        "source": "https://fortune.com/2026/02/26/startup-callosum-cambridge-trained-neuroscientists-raises-10-million-venture-funding-orchestrate-ai-workloads-different-chips/",
+        "notes": ""
+      }
+    ],
     "top_investors": []
   },
   {
@@ -8279,7 +8291,7 @@
     "business_model": null,
     "key_customers": null,
     "team_china_profile": null,
-    "confidence": "unknown",
+    "confidence": "high",
     "last_updated": "2026-03-20",
     "founders": [
       {
@@ -8527,7 +8539,7 @@
     "business_model": null,
     "key_customers": null,
     "team_china_profile": null,
-    "confidence": "unknown",
+    "confidence": "high",
     "last_updated": "2026-03-20",
     "founders": [
       {
@@ -8813,7 +8825,7 @@
     "business_model": null,
     "key_customers": null,
     "team_china_profile": null,
-    "confidence": "unknown",
+    "confidence": "high",
     "last_updated": "2026-03-20",
     "founders": [
       {
@@ -8976,7 +8988,7 @@
     "business_model": null,
     "key_customers": null,
     "team_china_profile": null,
-    "confidence": "unknown",
+    "confidence": "high",
     "last_updated": "2026-03-20",
     "founders": [
       {
@@ -9216,7 +9228,7 @@
     "business_model": null,
     "key_customers": null,
     "team_china_profile": null,
-    "confidence": "unknown",
+    "confidence": "high",
     "last_updated": "2026-03-20",
     "founders": [
       {
@@ -9353,7 +9365,7 @@
     "business_model": null,
     "key_customers": null,
     "team_china_profile": null,
-    "confidence": "unknown",
+    "confidence": "high",
     "last_updated": "2026-03-20",
     "founders": [
       {
@@ -9444,7 +9456,7 @@
         "valuation_m": null,
         "lead_investors": "Founderful",
         "other_investors": "",
-        "source": "",
+        "source": "https://www.globenewswire.com/news-release/2025/10/21/3170031/0/en/Chipmind-launches-from-stealth-with-2-5m-for-its-AI-agents-to-speed-chip-making.html",
         "notes": ""
       }
     ],
@@ -9557,7 +9569,7 @@
         "valuation_m": null,
         "lead_investors": "Atomico",
         "other_investors": "",
-        "source": "",
+        "source": "https://www.finsmes.com/2025/10/claimsorted-raises-13-3m-in-seed-funding.html",
         "notes": ""
       }
     ],
@@ -9686,7 +9698,7 @@
         "valuation_m": null,
         "lead_investors": "Samsung NEXT",
         "other_investors": "",
-        "source": "",
+        "source": "https://www.classiq.io/insights/classiq-raises-110m-in-largest-ever-quantum-software-funding-round",
         "notes": ""
       }
     ],
@@ -9747,8 +9759,8 @@
     "business_model": null,
     "key_customers": null,
     "team_china_profile": null,
-    "confidence": "unknown",
-    "last_updated": null,
+    "confidence": "high",
+    "last_updated": "2026-03-24",
     "founders": [
       {
         "company_slug": "cleanlab",
@@ -9919,7 +9931,7 @@
         "valuation_m": null,
         "lead_investors": "Salesforce Ventures",
         "other_investors": "",
-        "source": "",
+        "source": "https://www.businesswire.com/news/home/20260219267824/en/Code-Metal-Secures-$125M-Series-B-at-$1.25B-Valuation-to-Bridge-the-Trust-Gap-in-AI-Code-Generation",
         "notes": ""
       }
     ],
@@ -10055,7 +10067,7 @@
         "valuation_m": null,
         "lead_investors": "Greylock",
         "other_investors": "",
-        "source": "",
+        "source": "https://www.businesswire.com/news/home/20250714138382/en/Cogent-Security-Launches-From-Stealth-With-$11M-From-Greylock-Partners-to-Transform-Vulnerability-Management-With-Agentic-AI",
         "notes": ""
       },
       {
@@ -10066,7 +10078,7 @@
         "valuation_m": null,
         "lead_investors": "Bain Capital Ventures",
         "other_investors": "",
-        "source": "",
+        "source": "https://www.prnewswire.com/news-releases/cogent-security-raises-42m-series-a-to-arm-security-teams-with-autonomous-ai-agents-302691566.html",
         "notes": ""
       }
     ],
@@ -10109,7 +10121,7 @@
         "valuation_m": null,
         "lead_investors": "Nexus Venture Partners",
         "other_investors": "",
-        "source": "",
+        "source": "https://www.businesswire.com/news/home/20250205676677/en/Cognida.ai-Secures-$15-Million-Series-A-from-Nexus-Venture-Partners-to-Redefine-Enterprise-AI-Adoption",
         "notes": ""
       }
     ],
@@ -10131,8 +10143,8 @@
     "business_model": null,
     "key_customers": null,
     "team_china_profile": null,
-    "confidence": "unknown",
-    "last_updated": null,
+    "confidence": "high",
+    "last_updated": "2026-03-24",
     "founders": [
       {
         "company_slug": "cognition-ai",
@@ -10232,8 +10244,8 @@
     "business_model": null,
     "key_customers": null,
     "team_china_profile": null,
-    "confidence": "unknown",
-    "last_updated": null,
+    "confidence": "high",
+    "last_updated": "2026-03-24",
     "founders": [
       {
         "company_slug": "cohere",
@@ -10521,7 +10533,7 @@
     "business_model": null,
     "key_customers": null,
     "team_china_profile": null,
-    "confidence": "unknown",
+    "confidence": "high",
     "last_updated": "2026-03-20",
     "founders": [
       {
@@ -10750,8 +10762,8 @@
     "business_model": null,
     "key_customers": null,
     "team_china_profile": null,
-    "confidence": "unknown",
-    "last_updated": null,
+    "confidence": "high",
+    "last_updated": "2026-03-24",
     "founders": [
       {
         "company_slug": "copy-ai",
@@ -10893,7 +10905,7 @@
     "key_customers": null,
     "team_china_profile": null,
     "confidence": "high",
-    "last_updated": "2026-03-20",
+    "last_updated": "2026-03-24",
     "founders": [
       {
         "company_slug": "coreweave",
@@ -11032,7 +11044,7 @@
         "valuation_m": null,
         "lead_investors": "M Ventures; Bosch Ventures",
         "other_investors": "",
-        "source": "",
+        "source": "https://www.prnewswire.com/news-releases/corvic-ai-raises-12m-in-seed-funding-to-pioneer-ai-cognitive-infrastructure-for-enterprise-intelligence-302428206.html",
         "notes": ""
       }
     ],
@@ -11054,7 +11066,7 @@
     "business_model": null,
     "key_customers": null,
     "team_china_profile": null,
-    "confidence": "unknown",
+    "confidence": "high",
     "last_updated": "2026-03-20",
     "founders": [
       {
@@ -11196,8 +11208,8 @@
     "business_model": "B2B robotics AI -- licenses the Covariant Brain software to warehouse and fulfillment center operators to automate pick-and-place operations. Deployed with integration partners like KNAPP.",
     "key_customers": "50+ customers and partners (as of 2024); KNAPP (5+ year partnership); Industries: apparel, health & beauty, grocery, pharmaceuticals",
     "team_china_profile": null,
-    "confidence": "unknown",
-    "last_updated": null,
+    "confidence": "high",
+    "last_updated": "2026-03-24",
     "founders": [
       {
         "company_slug": "covariant",
@@ -11355,7 +11367,7 @@
         "valuation_m": null,
         "lead_investors": "Salesforce Ventures",
         "other_investors": "",
-        "source": "",
+        "source": "https://www.covecta.io/post/covecta-raises-6-5-million-to-redefine-how-financial-services-teams-operate",
         "notes": ""
       }
     ],
@@ -11547,7 +11559,7 @@
     "business_model": null,
     "key_customers": null,
     "team_china_profile": null,
-    "confidence": "unknown",
+    "confidence": "high",
     "last_updated": "2026-03-23",
     "founders": [
       {
@@ -11609,7 +11621,7 @@
     "business_model": null,
     "key_customers": null,
     "team_china_profile": null,
-    "confidence": "unknown",
+    "confidence": "high",
     "last_updated": "2026-03-20",
     "founders": [
       {
@@ -11674,7 +11686,7 @@
     "business_model": null,
     "key_customers": null,
     "team_china_profile": null,
-    "confidence": "unknown",
+    "confidence": "high",
     "last_updated": "2026-03-20",
     "founders": [
       {
@@ -11810,7 +11822,7 @@
     "key_customers": null,
     "team_china_profile": null,
     "confidence": "high",
-    "last_updated": "2026-03-20",
+    "last_updated": "2026-03-24",
     "founders": [
       {
         "company_slug": "crusoe",
@@ -11937,8 +11949,8 @@
     "business_model": null,
     "key_customers": null,
     "team_china_profile": null,
-    "confidence": "unknown",
-    "last_updated": null,
+    "confidence": "high",
+    "last_updated": "2026-03-24",
     "founders": [
       {
         "company_slug": "cuspai",
@@ -12228,7 +12240,7 @@
     "business_model": null,
     "key_customers": null,
     "team_china_profile": null,
-    "confidence": "unknown",
+    "confidence": "high",
     "last_updated": "2026-03-20",
     "founders": [
       {
@@ -12301,8 +12313,8 @@
     "business_model": null,
     "key_customers": null,
     "team_china_profile": null,
-    "confidence": "unknown",
-    "last_updated": null,
+    "confidence": "high",
+    "last_updated": "2026-03-24",
     "founders": [
       {
         "company_slug": "databricks",
@@ -12513,7 +12525,7 @@
     "business_model": null,
     "key_customers": "",
     "team_china_profile": null,
-    "confidence": "unknown",
+    "confidence": "high",
     "last_updated": "2026-03-20",
     "founders": [
       {
@@ -12575,7 +12587,7 @@
     "business_model": null,
     "key_customers": null,
     "team_china_profile": null,
-    "confidence": "unknown",
+    "confidence": "high",
     "last_updated": "2026-03-20",
     "founders": [
       {
@@ -12776,7 +12788,7 @@
     "business_model": null,
     "key_customers": "",
     "team_china_profile": null,
-    "confidence": "unknown",
+    "confidence": "high",
     "last_updated": "2026-03-20",
     "founders": [
       {
@@ -12889,7 +12901,7 @@
     "key_customers": null,
     "team_china_profile": null,
     "confidence": "high (well-funded, widely covered; some revenue/headcount figures are estimates)",
-    "last_updated": "2026-03-20",
+    "last_updated": "2026-03-24",
     "founders": [
       {
         "company_slug": "decagon",
@@ -13012,7 +13024,7 @@
         "valuation_m": null,
         "lead_investors": "CMB International; China Asset Management",
         "other_investors": "",
-        "source": "",
+        "source": "https://pandaily.com/deep-robotics-secures-over-usd-70-million-in-series-c-funding-to-advance-system-level-embodied-intelligence",
         "notes": ""
       }
     ],
@@ -13239,7 +13251,7 @@
     "business_model": "Freemium SaaS (tiered subscriptions + API usage fees)",
     "key_customers": null,
     "team_china_profile": null,
-    "confidence": "unknown",
+    "confidence": "high",
     "last_updated": "2026-03-20",
     "founders": [
       {
@@ -13398,7 +13410,7 @@
     "business_model": null,
     "key_customers": null,
     "team_china_profile": null,
-    "confidence": "unknown",
+    "confidence": "high",
     "last_updated": "2026-03-20",
     "founders": [
       {
@@ -13462,7 +13474,7 @@
         "valuation_m": null,
         "lead_investors": "Andreessen Horowitz",
         "other_investors": "",
-        "source": "",
+        "source": "https://fortune.com/2026/03/19/andreessen-horowitz-ai-startups-deeptune-series-a/",
         "notes": ""
       }
     ],
@@ -13535,7 +13547,7 @@
     "business_model": null,
     "key_customers": null,
     "team_china_profile": null,
-    "confidence": "unknown",
+    "confidence": "high",
     "last_updated": "2026-03-20",
     "founders": [
       {
@@ -13638,7 +13650,7 @@
         "valuation_m": null,
         "lead_investors": "Index Ventures; CapitalG",
         "other_investors": "",
-        "source": "",
+        "source": "https://techcrunch.com/2024/11/28/ai-agent-startup-dev-agents-has-raised-a-massive-56m-seed-round-at-a-500m-valuation/",
         "notes": ""
       }
     ],
@@ -13660,7 +13672,7 @@
     "business_model": null,
     "key_customers": null,
     "team_china_profile": null,
-    "confidence": "unknown",
+    "confidence": "high",
     "last_updated": "2026-03-20",
     "founders": [
       {
@@ -13810,7 +13822,7 @@
         "valuation_m": null,
         "lead_investors": "Khosla Ventures; Lightspeed",
         "other_investors": "",
-        "source": "",
+        "source": "https://www.prnewswire.com/news-releases/distyl-ai-raises-175-million-at-1-8-billion-valuation-to-help-global-enterprises-become-ai-native-302564270.html",
         "notes": ""
       }
     ],
@@ -13920,7 +13932,7 @@
         "valuation_m": null,
         "lead_investors": "Bain Capital Venture",
         "other_investors": "",
-        "source": "",
+        "source": "https://www.businesswire.com/news/home/20250217135636/en/Dream-the-First-AI-Company-for-National-Cybersecurity-Raises-%24100M-to-Defend-Nations-and-Critical-Infrastructure",
         "notes": ""
       }
     ],
@@ -13971,7 +13983,7 @@
         "valuation_m": null,
         "lead_investors": "Lightspeed; Khosla Ventures; GV",
         "other_investors": "",
-        "source": "",
+        "source": "https://www.prnewswire.com/news-releases/dualentry-raises-a-90-million-series-a-from-lightspeed-venture-partners-khosla-ventures-and-gv-google-ventures-302573366.html",
         "notes": ""
       }
     ],
@@ -14030,7 +14042,7 @@
         "valuation_m": null,
         "lead_investors": "CRV; First Round Capital",
         "other_investors": "",
-        "source": "",
+        "source": "https://www.prnewswire.com/news-releases/dyna-robotics-raises-23-5-million-to-commercialize-embodied-ai-with-low-cost-robots-302410263.html",
         "notes": ""
       },
       {
@@ -14041,7 +14053,7 @@
         "valuation_m": null,
         "lead_investors": "Robostrategy; CRV; First Round Capital",
         "other_investors": "",
-        "source": "",
+        "source": "https://www.bloomberg.com/news/articles/2025-09-15/dyna-robotics-raises-120-million-in-funding-from-nvidia-amazon",
         "notes": ""
       }
     ],
@@ -14143,7 +14155,7 @@
         "valuation_m": null,
         "lead_investors": "Sequoia; 8VC; A*",
         "other_investors": "",
-        "source": "",
+        "source": "https://techcrunch.com/2026/03/18/two-palantir-veterans-just-came-out-of-stealth-with-30-million-and-a-sequoia-stamp-of-approval/",
         "notes": ""
       }
     ],
@@ -14216,8 +14228,8 @@
     "business_model": null,
     "key_customers": null,
     "team_china_profile": null,
-    "confidence": "unknown",
-    "last_updated": null,
+    "confidence": "high",
+    "last_updated": "2026-03-24",
     "founders": [
       {
         "company_slug": "elevenlabs",
@@ -14311,7 +14323,7 @@
     "business_model": null,
     "key_customers": null,
     "team_china_profile": null,
-    "confidence": "unknown",
+    "confidence": "high",
     "last_updated": "2026-03-20",
     "founders": [
       {
@@ -14557,7 +14569,7 @@
     "business_model": null,
     "key_customers": "",
     "team_china_profile": null,
-    "confidence": "unknown",
+    "confidence": "high",
     "last_updated": "2026-03-20",
     "founders": [
       {
@@ -14667,7 +14679,7 @@
         "valuation_m": null,
         "lead_investors": "NEA",
         "other_investors": "",
-        "source": "",
+        "source": "https://techcrunch.com/2025/02/13/encharge-raises-100m-to-accelerate-ai-using-analog-chips/",
         "notes": ""
       }
     ],
@@ -14799,7 +14811,7 @@
     "business_model": null,
     "key_customers": null,
     "team_china_profile": null,
-    "confidence": "unknown",
+    "confidence": "high",
     "last_updated": "2026-03-20",
     "founders": [
       {
@@ -14926,7 +14938,7 @@
         "valuation_m": null,
         "lead_investors": "Xpeng (Rockets Capital); JD.com",
         "other_investors": "",
-        "source": "",
+        "source": "https://therobotreport.com/engineai-raises-nearly-140m-developing-legged-humanoid-robots/",
         "notes": ""
       }
     ],
@@ -14948,8 +14960,8 @@
     "business_model": null,
     "key_customers": null,
     "team_china_profile": null,
-    "confidence": "unknown",
-    "last_updated": null,
+    "confidence": "high",
+    "last_updated": "2026-03-24",
     "founders": [
       {
         "company_slug": "entalpic",
@@ -15075,7 +15087,7 @@
         "valuation_m": null,
         "lead_investors": "Felicis",
         "other_investors": "",
-        "source": "",
+        "source": "https://techcrunch.com/2026/02/10/former-github-ceo-raises-record-60m-dev-tool-seed-round-at-300m-valuation/",
         "notes": ""
       }
     ],
@@ -15553,7 +15565,7 @@
     "business_model": null,
     "key_customers": null,
     "team_china_profile": null,
-    "confidence": "unknown",
+    "confidence": "high",
     "last_updated": "2026-03-20",
     "founders": [
       {
@@ -15730,7 +15742,7 @@
         "valuation_m": null,
         "lead_investors": "Coatue; Andreessen Horowitz",
         "other_investors": "",
-        "source": "",
+        "source": "https://www.prnewswire.com/news-releases/eve-raises-103-million-at-1-billion-valuation-to-help-plaintiff-firms-deliver-justice-through-ai-transformation-302570807.html",
         "notes": ""
       }
     ],
@@ -15752,7 +15764,7 @@
     "business_model": null,
     "key_customers": null,
     "team_china_profile": null,
-    "confidence": "unknown",
+    "confidence": "high",
     "last_updated": "2026-03-20",
     "founders": [
       {
@@ -15950,7 +15962,7 @@
     "key_customers": null,
     "team_china_profile": null,
     "confidence": "high",
-    "last_updated": "2026-03-20",
+    "last_updated": "2026-03-24",
     "founders": [
       {
         "company_slug": "exa",
@@ -16051,7 +16063,7 @@
         "valuation_m": null,
         "lead_investors": "Greylock",
         "other_investors": "",
-        "source": "",
+        "source": "https://www.businesswire.com/news/home/20250728415715/en/Fable-Security-Launches-With-$31M-to-Stop-Risky-Human-Behavior",
         "notes": ""
       },
       {
@@ -16062,7 +16074,7 @@
         "valuation_m": null,
         "lead_investors": "Redpoint Ventures",
         "other_investors": "",
-        "source": "",
+        "source": "https://www.businesswire.com/news/home/20250728415715/en/Fable-Security-Launches-With-$31M-to-Stop-Risky-Human-Behavior",
         "notes": ""
       }
     ],
@@ -16193,7 +16205,7 @@
         "valuation_m": null,
         "lead_investors": "Andreessen Horowitz",
         "other_investors": "",
-        "source": "",
+        "source": "https://www.businesswire.com/news/home/20250731234742/en/fal-Raises-$125M-in-Series-C-Led-by-Meritech-with-Salesforce-Ventures-Shopify-Ventures-and-Google-AI-Futures-Fund-Joining-to-Power-the-Next-Decade-of-Generative-Media",
         "notes": ""
       },
       {
@@ -16204,7 +16216,7 @@
         "valuation_m": 4500.0,
         "lead_investors": "Sequoia",
         "other_investors": "",
-        "source": "",
+        "source": "https://techcrunch.com/2025/12/09/fal-nabs-140m-in-fresh-funding-led-by-sequoia-tripling-valuation-to-4-5b/",
         "notes": ""
       }
     ],
@@ -16277,7 +16289,7 @@
     "business_model": null,
     "key_customers": null,
     "team_china_profile": null,
-    "confidence": "unknown",
+    "confidence": "high",
     "last_updated": "2026-03-20",
     "founders": [
       {
@@ -16382,8 +16394,8 @@
     "business_model": null,
     "key_customers": null,
     "team_china_profile": null,
-    "confidence": "unknown",
-    "last_updated": null,
+    "confidence": "high",
+    "last_updated": "2026-03-24",
     "founders": [
       {
         "company_slug": "figure-ai",
@@ -16724,7 +16736,7 @@
     "business_model": null,
     "key_customers": null,
     "team_china_profile": null,
-    "confidence": "unknown",
+    "confidence": "high",
     "last_updated": "2026-03-20",
     "founders": [
       {
@@ -17027,7 +17039,7 @@
         "valuation_m": null,
         "lead_investors": "DST Global; Nvidia NVentures; Prosus",
         "other_investors": "",
-        "source": "",
+        "source": "https://news.crunchbase.com/venture/robotic-brain-building-startup-flexion-raise/",
         "notes": ""
       }
     ],
@@ -17214,7 +17226,7 @@
     "business_model": null,
     "key_customers": null,
     "team_china_profile": null,
-    "confidence": "unknown",
+    "confidence": "high",
     "last_updated": "2026-03-20",
     "founders": [
       {
@@ -17276,7 +17288,7 @@
     "business_model": null,
     "key_customers": null,
     "team_china_profile": null,
-    "confidence": "unknown",
+    "confidence": "high",
     "last_updated": "2026-03-20",
     "founders": [
       {
@@ -17346,7 +17358,7 @@
     "business_model": null,
     "key_customers": null,
     "team_china_profile": null,
-    "confidence": "unknown",
+    "confidence": "high",
     "last_updated": "2026-03-20",
     "founders": [
       {
@@ -17400,7 +17412,7 @@
     "business_model": null,
     "key_customers": null,
     "team_china_profile": null,
-    "confidence": "unknown",
+    "confidence": "high",
     "last_updated": "2026-03-20",
     "founders": [
       {
@@ -17594,69 +17606,7 @@
         "valuation_m": null,
         "lead_investors": "Korea Development Bank",
         "other_investors": "",
-        "source": "",
-        "notes": ""
-      }
-    ],
-    "top_investors": []
-  },
-  {
-    "slug": "further-ai",
-    "name": "FurtherAI",
-    "status": "active",
-    "founded_year": "2023",
-    "hq": "San Francisco, CA",
-    "website": "https://www.furtherai.com",
-    "sector": "AI Insurance / Vertical AI",
-    "one_liner": "AI workforce for insurance -- automates underwriting, claims, and compliance workflows. YC-backed. One of the largest Series A rounds in insurance AI.",
-    "total_raised_m": 30.0,
-    "latest_valuation_m": null,
-    "employees": null,
-    "revenue_signals": null,
-    "business_model": null,
-    "key_customers": null,
-    "team_china_profile": null,
-    "confidence": "high",
-    "last_updated": "2026-03-23",
-    "founders": [
-      {
-        "company_slug": "further-ai",
-        "name": "Aman Gour",
-        "role": "Co-Founder & CEO",
-        "background": "Second-time founder with decade of experience in workflow automation. Previously scaled a company to $1M+ ARR. Former PM at Microsoft.",
-        "origin": "Indian (inferred)",
-        "prior": ""
-      },
-      {
-        "company_slug": "further-ai",
-        "name": "Sashank Gondala",
-        "role": "Co-Founder & CTO",
-        "background": "MS in machine learning from Georgia Tech. Former language modelling scientist at Apple (Siri team), building speech recognition models.",
-        "origin": "Indian (inferred)",
-        "prior": ""
-      }
-    ],
-    "funding_rounds": [
-      {
-        "company_slug": "further-ai",
-        "stage": "Seed",
-        "date": 2024,
-        "amount_m": 5.0,
-        "valuation_m": null,
-        "lead_investors": "",
-        "other_investors": "",
-        "source": "",
-        "notes": ""
-      },
-      {
-        "company_slug": "further-ai",
-        "stage": "Series A",
-        "date": "2025-10",
-        "amount_m": 25.0,
-        "valuation_m": null,
-        "lead_investors": "Andreessen Horowitz",
-        "other_investors": "",
-        "source": "",
+        "source": "https://www.businesswire.com/news/home/20250730613509/en/FuriosaAI-Closes-$125M-Investment-Round-to-Scale-Production-of-Next-Gen-AI-Inference-Chip",
         "notes": ""
       }
     ],
@@ -17678,7 +17628,7 @@
     "business_model": null,
     "key_customers": null,
     "team_china_profile": null,
-    "confidence": "unknown",
+    "confidence": "high",
     "last_updated": "2026-03-20",
     "founders": [
       {
@@ -17810,7 +17760,7 @@
     "business_model": null,
     "key_customers": null,
     "team_china_profile": null,
-    "confidence": "unknown",
+    "confidence": "high",
     "last_updated": "2026-03-20",
     "founders": [
       {
@@ -17996,7 +17946,7 @@
         "valuation_m": null,
         "lead_investors": "BITKRAFT Ventures",
         "other_investors": "",
-        "source": "",
+        "source": "https://europeangaming.eu/portal/latest-news/2025/08/05/188530/gameramp-raises-5-4m-pre-seed-round-led-by-bitkraft-ventures/",
         "notes": ""
       }
     ],
@@ -18018,7 +17968,7 @@
     "business_model": null,
     "key_customers": null,
     "team_china_profile": null,
-    "confidence": "unknown",
+    "confidence": "high",
     "last_updated": "2026-03-20",
     "founders": [
       {
@@ -18139,7 +18089,7 @@
         "valuation_m": null,
         "lead_investors": "Scale Venture Partners; Northzone",
         "other_investors": "",
-        "source": "",
+        "source": "https://www.businesswire.com/news/home/20251107988263/en/GC-AI-Raises-$60-Million-Series-B-to-Give-Every-Company-a-Legal-Advantage",
         "notes": ""
       }
     ],
@@ -18314,7 +18264,7 @@
     "business_model": null,
     "key_customers": null,
     "team_china_profile": null,
-    "confidence": "unknown",
+    "confidence": "high",
     "last_updated": "2026-03-20",
     "founders": [
       {
@@ -18467,7 +18417,7 @@
         "valuation_m": null,
         "lead_investors": "Lanchi Ventures",
         "other_investors": "",
-        "source": "",
+        "source": "https://www.thesaasnews.com/news/genspark-secures-60-million-in-seed-round",
         "notes": ""
       },
       {
@@ -18478,7 +18428,7 @@
         "valuation_m": 1250.0,
         "lead_investors": "Emergence Capital",
         "other_investors": "",
-        "source": "",
+        "source": "https://www.businesswire.com/news/home/20251120036880/en/Genspark-Raises-$275M-Series-B-Launches-AI-Workspace-to-Put-Busywork-on-Autopilot",
         "notes": ""
       }
     ],
@@ -18562,7 +18512,7 @@
     "business_model": null,
     "key_customers": null,
     "team_china_profile": null,
-    "confidence": "unknown",
+    "confidence": "high",
     "last_updated": "2026-03-20",
     "founders": [
       {
@@ -18838,7 +18788,7 @@
         "valuation_m": null,
         "lead_investors": "",
         "other_investors": "",
-        "source": "",
+        "source": "https://www.prnewswire.com/news-releases/ai-lab-goodfire-raises-150m-at-1-25b-valuation-to-design-models-with-interpretability-302680120.html",
         "notes": ""
       }
     ],
@@ -18881,7 +18831,7 @@
         "valuation_m": null,
         "lead_investors": "47th Street Partners",
         "other_investors": "",
-        "source": "",
+        "source": "https://www.geekwire.com/2025/seattle-area-startup-govstream-ai-raises-3-6m-to-improve-city-permitting-processes-using-ai/",
         "notes": ""
       }
     ],
@@ -18959,7 +18909,7 @@
         "valuation_m": null,
         "lead_investors": "",
         "other_investors": "",
-        "source": "",
+        "source": "https://www.finsmes.com/2025/03/gradial-raises-13m-in-series-a-funding.html",
         "notes": ""
       },
       {
@@ -18970,7 +18920,7 @@
         "valuation_m": null,
         "lead_investors": "VMG Partners",
         "other_investors": "",
-        "source": "",
+        "source": "https://www.prnewswire.com/news-releases/gradial-raises-35-million-to-redefine-enterprise-marketing-through-ai-agents-302631055.html",
         "notes": ""
       }
     ],
@@ -19059,7 +19009,7 @@
     "business_model": null,
     "key_customers": null,
     "team_china_profile": null,
-    "confidence": "unknown",
+    "confidence": "high",
     "last_updated": "2026-03-20",
     "founders": [
       {
@@ -19132,7 +19082,7 @@
     "business_model": null,
     "key_customers": null,
     "team_china_profile": null,
-    "confidence": "unknown",
+    "confidence": "medium",
     "last_updated": "2026-03-20",
     "founders": [
       {
@@ -19593,8 +19543,8 @@
     "business_model": null,
     "key_customers": null,
     "team_china_profile": null,
-    "confidence": "unknown",
-    "last_updated": null,
+    "confidence": "high",
+    "last_updated": "2026-03-24",
     "founders": [
       {
         "company_slug": "h-company",
@@ -19679,7 +19629,7 @@
     "business_model": null,
     "key_customers": null,
     "team_china_profile": null,
-    "confidence": "unknown",
+    "confidence": "high",
     "last_updated": "2026-03-20",
     "founders": [
       {
@@ -19881,8 +19831,8 @@
     "business_model": null,
     "key_customers": null,
     "team_china_profile": null,
-    "confidence": "unknown",
-    "last_updated": null,
+    "confidence": "high",
+    "last_updated": "2026-03-24",
     "founders": [
       {
         "company_slug": "happyrobot",
@@ -20025,7 +19975,7 @@
         "valuation_m": 1400.0,
         "lead_investors": "Dassault Aviation; FirstMark",
         "other_investors": "",
-        "source": "",
+        "source": "https://techcrunch.com/2026/01/12/harmattan-ai-raises-200m-series-b-led-by-dassault-aviation-becomes-defense-unicorn/",
         "notes": ""
       }
     ],
@@ -20235,7 +20185,7 @@
     "business_model": null,
     "key_customers": "",
     "team_china_profile": null,
-    "confidence": "unknown",
+    "confidence": "high",
     "last_updated": "2026-03-20",
     "founders": [
       {
@@ -20286,7 +20236,7 @@
     "business_model": null,
     "key_customers": null,
     "team_china_profile": null,
-    "confidence": "unknown",
+    "confidence": "high",
     "last_updated": "2026-03-20",
     "founders": [
       {
@@ -20403,7 +20353,7 @@
     "business_model": null,
     "key_customers": null,
     "team_china_profile": null,
-    "confidence": "unknown",
+    "confidence": "high",
     "last_updated": "2026-03-20",
     "founders": [
       {
@@ -20487,7 +20437,7 @@
     "business_model": null,
     "key_customers": null,
     "team_china_profile": null,
-    "confidence": "unknown",
+    "confidence": "high",
     "last_updated": "2026-03-20",
     "founders": [
       {
@@ -20684,7 +20634,7 @@
     "business_model": null,
     "key_customers": null,
     "team_china_profile": null,
-    "confidence": "unknown",
+    "confidence": "high",
     "last_updated": "2026-03-23",
     "founders": [
       {
@@ -21199,7 +21149,7 @@
     "business_model": null,
     "key_customers": null,
     "team_china_profile": null,
-    "confidence": "unknown",
+    "confidence": "high",
     "last_updated": "2026-03-20",
     "founders": [
       {
@@ -21402,8 +21352,8 @@
     "business_model": null,
     "key_customers": null,
     "team_china_profile": null,
-    "confidence": "unknown",
-    "last_updated": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-24",
     "founders": [
       {
         "company_slug": "hugging-face",
@@ -21750,7 +21700,7 @@
     "business_model": null,
     "key_customers": null,
     "team_china_profile": null,
-    "confidence": "unknown",
+    "confidence": "high",
     "last_updated": "2026-03-20",
     "founders": [
       {
@@ -22132,7 +22082,7 @@
     "business_model": null,
     "key_customers": null,
     "team_china_profile": null,
-    "confidence": "unknown",
+    "confidence": "high",
     "last_updated": "2026-03-20",
     "founders": [
       {
@@ -22202,7 +22152,7 @@
     "business_model": null,
     "key_customers": null,
     "team_china_profile": null,
-    "confidence": "unknown",
+    "confidence": "high",
     "last_updated": "2026-03-20",
     "founders": [
       {
@@ -22457,7 +22407,7 @@
         "valuation_m": 500.0,
         "lead_investors": "M12",
         "other_investors": "",
-        "source": "",
+        "source": "https://techcrunch.com/2023/08/02/inworld-a-generative-ai-platform-for-creating-npcs-lands-fresh-investment/",
         "notes": ""
       }
     ],
@@ -22479,7 +22429,7 @@
     "business_model": null,
     "key_customers": null,
     "team_china_profile": null,
-    "confidence": "unknown",
+    "confidence": "medium",
     "last_updated": "2026-03-20",
     "founders": [
       {
@@ -22626,7 +22576,7 @@
     "business_model": null,
     "key_customers": null,
     "team_china_profile": null,
-    "confidence": "unknown",
+    "confidence": "high",
     "last_updated": "2026-03-20",
     "founders": [
       {
@@ -22822,7 +22772,7 @@
     "business_model": null,
     "key_customers": null,
     "team_china_profile": null,
-    "confidence": "unknown",
+    "confidence": "high",
     "last_updated": "2026-03-20",
     "founders": [
       {
@@ -23155,7 +23105,7 @@
         "valuation_m": null,
         "lead_investors": "NEA; a16z American Dynamism",
         "other_investors": "",
-        "source": "",
+        "source": "https://www.globenewswire.com/news-release/2025/10/30/3177523/0/en/Kaizen-raises-21-million-to-re-build-government-s-digital-front-door.html",
         "notes": ""
       }
     ],
@@ -23177,8 +23127,8 @@
     "business_model": null,
     "key_customers": null,
     "team_china_profile": null,
-    "confidence": "unknown",
-    "last_updated": null,
+    "confidence": "high",
+    "last_updated": "2026-03-24",
     "founders": [
       {
         "company_slug": "kalshi",
@@ -23385,7 +23335,7 @@
         "valuation_m": null,
         "lead_investors": "Kleiner Perkins",
         "other_investors": "",
-        "source": "",
+        "source": "https://techcrunch.com/2025/09/17/kleiner-perkins-backed-voice-ai-startup-keplar-aims-to-replace-traditional-market-research/",
         "notes": ""
       }
     ],
@@ -23517,7 +23467,7 @@
         "valuation_m": null,
         "lead_investors": "Cota Capital; General Catalyst",
         "other_investors": "",
-        "source": "",
+        "source": "https://www.businesswire.com/news/home/20251210195261/en/Kilo-Raises-$8-Million-to-Bring-Kilo-Speed-to-Agentic-Engineering",
         "notes": ""
       }
     ],
@@ -23681,7 +23631,7 @@
         "valuation_m": null,
         "lead_investors": "Techstars",
         "other_investors": "",
-        "source": "",
+        "source": "https://www.techstars.com/newsroom/fall-2025-techstars-san-diego-sdsu",
         "notes": ""
       }
     ],
@@ -23703,7 +23653,7 @@
     "business_model": null,
     "key_customers": null,
     "team_china_profile": null,
-    "confidence": "unknown",
+    "confidence": "high",
     "last_updated": "2026-03-23",
     "founders": [
       {
@@ -23754,7 +23704,7 @@
     "business_model": null,
     "key_customers": null,
     "team_china_profile": null,
-    "confidence": "unknown",
+    "confidence": "high",
     "last_updated": "2026-03-20",
     "founders": [
       {
@@ -24200,7 +24150,7 @@
     "key_customers": null,
     "team_china_profile": null,
     "confidence": "medium-high",
-    "last_updated": "2026-03-20",
+    "last_updated": "2026-03-24",
     "founders": [
       {
         "company_slug": "lambda",
@@ -24322,7 +24272,7 @@
     "business_model": null,
     "key_customers": null,
     "team_china_profile": null,
-    "confidence": "unknown",
+    "confidence": "high",
     "last_updated": "2026-03-20",
     "founders": [
       {
@@ -24387,7 +24337,7 @@
     "business_model": null,
     "key_customers": null,
     "team_china_profile": null,
-    "confidence": "unknown",
+    "confidence": "high",
     "last_updated": "2026-03-23",
     "founders": [
       {
@@ -24486,7 +24436,7 @@
         "valuation_m": null,
         "lead_investors": "Spark Capital; Transformation Capital",
         "other_investors": "",
-        "source": "",
+        "source": "https://latenthealth.com/press/latent-emerges-as-clinical-ai-leader-raising-80m-to-close-the-gap-between-diagnosis-and-treatment",
         "notes": ""
       }
     ],
@@ -24639,7 +24589,7 @@
         "valuation_m": null,
         "lead_investors": "PayPal Ventures; M13",
         "other_investors": "",
-        "source": "",
+        "source": "https://siliconangle.com/2025/07/30/legion-raises-38m-automate-soc-workflows-browser-native-ai/",
         "notes": ""
       }
     ],
@@ -24690,7 +24640,7 @@
         "valuation_m": null,
         "lead_investors": "ICONIQ; General Catalyst",
         "other_investors": "",
-        "source": "",
+        "source": "https://www.businesswire.com/news/home/20250521743643/en/Legora-Attracts-$80-Million-Series-B-Funding-as-Top-Global-Law-Firms-and-Legal-Teams-Rush-to-Adopt-Its-Collaborative-AI",
         "notes": ""
       },
       {
@@ -24701,7 +24651,7 @@
         "valuation_m": 1800.0,
         "lead_investors": "Bessemer",
         "other_investors": "",
-        "source": "",
+        "source": "https://www.businesswire.com/news/home/20251030974157/en/Legora-Raises-$150-Million-Series-C-to-Accelerate-Global-Rollout-of-Its-AI-Platform-for-Legal-Professionals",
         "notes": ""
       },
       {
@@ -24712,7 +24662,7 @@
         "valuation_m": 5550.0,
         "lead_investors": "Accel",
         "other_investors": "",
-        "source": "",
+        "source": "https://news.crunchbase.com/venture/unicorn-legal-tech-ai-startup-legora-triples-valuation/",
         "notes": ""
       }
     ],
@@ -24828,7 +24778,7 @@
     "business_model": null,
     "key_customers": null,
     "team_china_profile": null,
-    "confidence": "unknown",
+    "confidence": "high",
     "last_updated": "2026-03-20",
     "founders": [
       {
@@ -25010,7 +24960,7 @@
         "valuation_m": null,
         "lead_investors": "HongShan (Sequoia China); CMC Capital",
         "other_investors": "",
-        "source": "",
+        "source": "https://pandaily.com/130-million-liblib-ai-secures-china-s-largest-ai-application-funding-round-to-date",
         "notes": ""
       }
     ],
@@ -25032,7 +24982,7 @@
     "business_model": null,
     "key_customers": null,
     "team_china_profile": null,
-    "confidence": "unknown",
+    "confidence": "high",
     "last_updated": "2026-03-20",
     "founders": [
       {
@@ -25235,7 +25185,7 @@
     "business_model": null,
     "key_customers": null,
     "team_china_profile": null,
-    "confidence": "unknown",
+    "confidence": "high",
     "last_updated": "2026-03-20",
     "founders": [
       {
@@ -25388,7 +25338,7 @@
         "valuation_m": null,
         "lead_investors": "BITKRAFT Ventures; Riot Games",
         "other_investors": "",
-        "source": "",
+        "source": "https://www.businesswire.com/news/home/20250311632975/en/Liminal-Raises-$5.8M-in-Seed-Funding-Backed-by-BITKRAFT-Riot-Games-and-OTK-Media-Group",
         "notes": ""
       }
     ],
@@ -25439,7 +25389,7 @@
         "valuation_m": null,
         "lead_investors": "Alibaba; JD.com",
         "other_investors": "",
-        "source": "",
+        "source": "https://kr-asia.com/limx-dynamics-raises-series-b-funding-to-push-embodied-robots-into-real-world-use",
         "notes": ""
       }
     ],
@@ -25557,7 +25507,7 @@
         "valuation_m": null,
         "lead_investors": "Andreessen Horowitz",
         "other_investors": "",
-        "source": "",
+        "source": "https://techcrunch.com/2026/03/05/lio-ai-series-a-a16z-30m-raise-automate-enterprise-procurement/",
         "notes": ""
       }
     ],
@@ -26018,7 +25968,7 @@
         "valuation_m": null,
         "lead_investors": "Khosla Ventures",
         "other_investors": "",
-        "source": "",
+        "source": "https://www.businesswire.com/news/home/20250415846205/en/Loti-AI-Announces-$16.2M-Series-A-Funding-Round-Led-By-Khosla-Ventures",
         "notes": ""
       }
     ],
@@ -26040,7 +25990,7 @@
     "business_model": null,
     "key_customers": null,
     "team_china_profile": null,
-    "confidence": "unknown",
+    "confidence": "high",
     "last_updated": "2026-03-20",
     "founders": [
       {
@@ -26124,8 +26074,8 @@
     "business_model": null,
     "key_customers": null,
     "team_china_profile": null,
-    "confidence": "unknown",
-    "last_updated": "2026-03-20",
+    "confidence": "high",
+    "last_updated": "2026-03-24",
     "founders": [
       {
         "company_slug": "luma-ai",
@@ -26391,8 +26341,8 @@
     "business_model": null,
     "key_customers": null,
     "team_china_profile": null,
-    "confidence": "unknown",
-    "last_updated": null,
+    "confidence": "high",
+    "last_updated": "2026-03-24",
     "founders": [
       {
         "company_slug": "luminance",
@@ -26480,7 +26430,7 @@
     "business_model": null,
     "key_customers": null,
     "team_china_profile": null,
-    "confidence": "unknown",
+    "confidence": "high",
     "last_updated": "2026-03-20",
     "founders": [
       {
@@ -26564,7 +26514,7 @@
     "business_model": null,
     "key_customers": null,
     "team_china_profile": null,
-    "confidence": "unknown",
+    "confidence": "high",
     "last_updated": "2026-03-20",
     "founders": [
       {
@@ -27056,7 +27006,7 @@
     "business_model": null,
     "key_customers": null,
     "team_china_profile": null,
-    "confidence": "unknown",
+    "confidence": "high",
     "last_updated": "2026-03-20",
     "founders": [
       {
@@ -27446,7 +27396,7 @@
     "business_model": null,
     "key_customers": null,
     "team_china_profile": null,
-    "confidence": "unknown",
+    "confidence": "high",
     "last_updated": "2026-03-20",
     "founders": [
       {
@@ -27537,7 +27487,7 @@
         "valuation_m": null,
         "lead_investors": "Dell Technologies Capital",
         "other_investors": "",
-        "source": "",
+        "source": "https://www.businesswire.com/news/home/20250305208576/en/MaxIQ-Secures-$7.8M-in-Seed-Funding-to-Reimagine-the-Customer-Journey-for-B2B-SaaS-Platforms",
         "notes": ""
       }
     ],
@@ -27621,7 +27571,7 @@
     "business_model": null,
     "key_customers": "OpenAI; Anthropic; Meta; Google DeepMind (reported)",
     "team_china_profile": null,
-    "confidence": "unknown",
+    "confidence": "high",
     "last_updated": "2026-03-20",
     "founders": [
       {
@@ -27801,7 +27751,7 @@
         "valuation_m": null,
         "lead_investors": "Public Market (STAR Market)",
         "other_investors": "",
-        "source": "",
+        "source": "https://www.scmp.com/business/china-business/article/3336690/metax-soars-frenzied-debut-traders-snap-second-chinese-gpu-maker-go-public",
         "notes": ""
       }
     ],
@@ -27823,7 +27773,7 @@
     "business_model": null,
     "key_customers": null,
     "team_china_profile": null,
-    "confidence": "unknown",
+    "confidence": "medium",
     "last_updated": "2026-03-20",
     "founders": [
       {
@@ -28116,7 +28066,7 @@
     "business_model": null,
     "key_customers": null,
     "team_china_profile": null,
-    "confidence": "unknown",
+    "confidence": "medium",
     "last_updated": "2026-03-20",
     "founders": [
       {
@@ -28171,7 +28121,7 @@
     "business_model": null,
     "key_customers": null,
     "team_china_profile": null,
-    "confidence": "unknown",
+    "confidence": "high",
     "last_updated": "2026-03-23",
     "founders": [
       {
@@ -28306,7 +28256,7 @@
     "business_model": "Open-core SaaS (API + enterprise subscriptions + consumer product)",
     "key_customers": null,
     "team_china_profile": null,
-    "confidence": "unknown",
+    "confidence": "high",
     "last_updated": "2026-03-20",
     "founders": [
       {
@@ -28506,7 +28456,7 @@
         "valuation_m": null,
         "lead_investors": "Y Combinator; LocalGlobe",
         "other_investors": "",
-        "source": "",
+        "source": "https://tech.eu/2025/02/07/model-ml-emerges-from-stealth-with-12m-funding/",
         "notes": ""
       }
     ],
@@ -28528,7 +28478,7 @@
     "business_model": null,
     "key_customers": null,
     "team_china_profile": null,
-    "confidence": "unknown",
+    "confidence": "high",
     "last_updated": "2026-03-20",
     "founders": [
       {
@@ -28619,7 +28569,7 @@
         "valuation_m": null,
         "lead_investors": "General Catalyst; GV",
         "other_investors": "",
-        "source": "",
+        "source": "https://techcrunch.com/2023/08/24/modular-raises-100m-for-ai-dev-tools/",
         "notes": ""
       }
     ],
@@ -28641,7 +28591,7 @@
     "business_model": null,
     "key_customers": null,
     "team_china_profile": null,
-    "confidence": "unknown",
+    "confidence": "high",
     "last_updated": "2026-03-20",
     "founders": [
       {
@@ -28736,7 +28686,7 @@
     "business_model": null,
     "key_customers": null,
     "team_china_profile": null,
-    "confidence": "unknown",
+    "confidence": "high",
     "last_updated": "2026-03-20",
     "founders": [
       {
@@ -28847,8 +28797,8 @@
     "business_model": null,
     "key_customers": null,
     "team_china_profile": null,
-    "confidence": "unknown",
-    "last_updated": null,
+    "confidence": "high",
+    "last_updated": "2026-03-24",
     "founders": [
       {
         "company_slug": "monte-carlo-data",
@@ -29035,7 +28985,7 @@
         "valuation_m": null,
         "lead_investors": "HongShan (Sequoia China); ZhenFund",
         "other_investors": "",
-        "source": "",
+        "source": "https://techcrunch.com/2024/02/21/moonshot-ai-funding-china/",
         "notes": ""
       },
       {
@@ -29046,7 +28996,7 @@
         "valuation_m": null,
         "lead_investors": "HongShan; ZhenFund",
         "other_investors": "",
-        "source": "",
+        "source": "https://techcrunch.com/2024/02/21/moonshot-ai-funding-china/",
         "notes": ""
       },
       {
@@ -29057,7 +29007,7 @@
         "valuation_m": 2500.0,
         "lead_investors": "Alibaba; HongShan",
         "other_investors": "",
-        "source": "",
+        "source": "https://techcrunch.com/2024/02/21/moonshot-ai-funding-china/",
         "notes": ""
       },
       {
@@ -29068,7 +29018,7 @@
         "valuation_m": 3300.0,
         "lead_investors": "Tencent; Gaorong Capital",
         "other_investors": "",
-        "source": "",
+        "source": "https://technode.com/2024/12/11/moonshot-ai-3-billion-valuation-overshadowed-by-legal-dispute-with-5-key-investors/",
         "notes": ""
       },
       {
@@ -29079,7 +29029,7 @@
         "valuation_m": 4300.0,
         "lead_investors": "IDG Capital; Alibaba; Tencent",
         "other_investors": "",
-        "source": "",
+        "source": "https://www.caproasia.com/2026/03/15/china-ai-startup-moonshot-ai-to-raise-1-billion-at-18-billion-valuation-raised-500-million-in-series-c-funding-at-4-3-billion-valuation-in-2025-december-founded-in-2023-by-yang-zhilin-investors/",
         "notes": ""
       },
       {
@@ -29090,7 +29040,7 @@
         "valuation_m": 10000.0,
         "lead_investors": "Alibaba; Tencent",
         "other_investors": "",
-        "source": "",
+        "source": "https://www.bloomberg.com/news/articles/2026-02-17/china-ai-startup-moonshot-seeks-10-billion-value-in-new-funding",
         "notes": ""
       }
     ],
@@ -29112,7 +29062,7 @@
     "business_model": null,
     "key_customers": null,
     "team_china_profile": null,
-    "confidence": "unknown",
+    "confidence": "high",
     "last_updated": "2026-03-20",
     "founders": [
       {
@@ -29190,7 +29140,7 @@
     "business_model": null,
     "key_customers": null,
     "team_china_profile": null,
-    "confidence": "unknown",
+    "confidence": "high",
     "last_updated": "2026-03-20",
     "founders": [
       {
@@ -29284,7 +29234,7 @@
         "valuation_m": null,
         "lead_investors": "CapitalG; Redpoint Ventures",
         "other_investors": "",
-        "source": "https://techcrunch.com/",
+        "source": "https://techcrunch.com/2025/01/30/ex-autodesk-execs-snag-46m-to-build-the-next-gen-of-architecture-design/",
         "notes": ""
       }
     ],
@@ -29306,7 +29256,7 @@
     "business_model": null,
     "key_customers": null,
     "team_china_profile": null,
-    "confidence": "unknown",
+    "confidence": "high",
     "last_updated": "2026-03-20",
     "founders": [
       {
@@ -29440,7 +29390,7 @@
         "valuation_m": null,
         "lead_investors": "Balderton Capital",
         "other_investors": "",
-        "source": "",
+        "source": "https://www.musicbusinessworldwide.com/music-tech-startup-mozart-ai-raises-6m-in-oversubscribed-seed-round-led-by-balderton-capital/",
         "notes": ""
       }
     ],
@@ -29603,65 +29553,6 @@
     "top_investors": []
   },
   {
-    "slug": "music-ai-moises",
-    "name": "Music AI (Moises)",
-    "status": "active",
-    "founded_year": "2020",
-    "hq": "Salt Lake City, UT",
-    "website": "https://music.ai",
-    "sector": "AI Music / Audio Platform",
-    "one_liner": "B2B/B2C AI audio platform \u2014 Moises.ai app with 50M users for stem separation. B2B API for licensing-friendly AI audio.",
-    "total_raised_m": 40.0,
-    "latest_valuation_m": null,
-    "employees": null,
-    "revenue_signals": null,
-    "business_model": null,
-    "key_customers": null,
-    "team_china_profile": null,
-    "confidence": "medium",
-    "last_updated": "2026-03-21",
-    "founders": [
-      {
-        "company_slug": "music-ai-moises",
-        "name": "Geraldo Ramos",
-        "role": "Co-Founder & CEO",
-        "background": "Serial entrepreneur from NE Brazil; started first tech company at 16; founded HackHands (acquired by Pluralsight 2015)",
-        "origin": "Brazilian",
-        "prior": ""
-      },
-      {
-        "company_slug": "music-ai-moises",
-        "name": "Eddie Hsu",
-        "role": "Co-Founder & COO",
-        "background": "Originally from NE Brazil",
-        "origin": "Brazilian",
-        "prior": ""
-      },
-      {
-        "company_slug": "music-ai-moises",
-        "name": "Jardson Almeida",
-        "role": "Co-Founder & CDO",
-        "background": "Originally from NE Brazil",
-        "origin": "Brazilian",
-        "prior": ""
-      }
-    ],
-    "funding_rounds": [
-      {
-        "company_slug": "music-ai-moises",
-        "stage": "Series A",
-        "date": "2025-01",
-        "amount_m": 40.0,
-        "valuation_m": null,
-        "lead_investors": "Connect Ventures (CAA + NEA); monashees",
-        "other_investors": "",
-        "source": "",
-        "notes": ""
-      }
-    ],
-    "top_investors": []
-  },
-  {
     "slug": "music-ai",
     "name": "Music AI (Moises)",
     "status": "Private",
@@ -29776,7 +29667,7 @@
         "valuation_m": null,
         "lead_investors": "",
         "other_investors": "",
-        "source": "",
+        "source": "https://www.bloomberg.com/news/articles/2025-12-17/ai-chip-startup-mythic-raises-125-million-in-bid-to-take-on-nvidia",
         "notes": ""
       }
     ],
@@ -29827,7 +29718,7 @@
         "valuation_m": null,
         "lead_investors": "Avenir Growth Capital",
         "other_investors": "",
-        "source": "",
+        "source": "https://fortune.com/2026/01/15/mytra-raises-120-million-series-c-scale-supply-chain-robotics/",
         "notes": ""
       }
     ],
@@ -29870,7 +29761,7 @@
         "valuation_m": null,
         "lead_investors": "Accel; Meritech; Redpoint; Sequoia",
         "other_investors": "",
-        "source": "",
+        "source": "https://blog.n8n.io/series-c/",
         "notes": ""
       }
     ],
@@ -29944,7 +29835,7 @@
     "key_customers": null,
     "team_china_profile": null,
     "confidence": "high",
-    "last_updated": "2026-03-20",
+    "last_updated": "2026-03-24",
     "founders": [
       {
         "company_slug": "nebius",
@@ -30073,7 +29964,7 @@
     "business_model": null,
     "key_customers": null,
     "team_china_profile": null,
-    "confidence": "unknown",
+    "confidence": "high",
     "last_updated": "2026-03-20",
     "founders": [
       {
@@ -30157,7 +30048,7 @@
     "business_model": null,
     "key_customers": null,
     "team_china_profile": null,
-    "confidence": "unknown",
+    "confidence": "high",
     "last_updated": "2026-03-20",
     "founders": [
       {
@@ -30280,7 +30171,7 @@
         "valuation_m": null,
         "lead_investors": "NVIDIA; Siemens; Microsoft",
         "other_investors": "",
-        "source": "",
+        "source": "https://www.neuralconcept.com/post/neural-concept-closes-100m-funding-round-led-by-growth-equity-at-goldman-sachs-alternatives-to-scale-ai-native-engineering",
         "notes": ""
       }
     ],
@@ -30302,7 +30193,7 @@
     "business_model": null,
     "key_customers": null,
     "team_china_profile": null,
-    "confidence": "unknown",
+    "confidence": "high",
     "last_updated": "2026-03-20",
     "founders": [
       {
@@ -30464,7 +30355,7 @@
     "key_customers": null,
     "team_china_profile": null,
     "confidence": "high",
-    "last_updated": "2026-03-20",
+    "last_updated": "2026-03-24",
     "founders": [
       {
         "company_slug": "nexthop-ai",
@@ -30678,7 +30569,7 @@
         "valuation_m": null,
         "lead_investors": "",
         "other_investors": "",
-        "source": "",
+        "source": "https://fortune.com/2026/03/10/tim-hwang-nitra-funding-ai-healthcare-platform/",
         "notes": ""
       }
     ],
@@ -30780,7 +30671,7 @@
         "valuation_m": null,
         "lead_investors": "DCVC",
         "other_investors": "",
-        "source": "",
+        "source": "https://www.dcvc.com/companies/noetik/",
         "notes": ""
       },
       {
@@ -30791,7 +30682,7 @@
         "valuation_m": null,
         "lead_investors": "DCVC",
         "other_investors": "",
-        "source": "",
+        "source": "https://www.businesswire.com/news/home/20240829428359/en/Noetik-Secures-$40-Million-Series-A-Financing-to-Advance-Precision-Cancer-Therapies",
         "notes": ""
       }
     ],
@@ -30934,7 +30825,7 @@
     "business_model": null,
     "key_customers": null,
     "team_china_profile": null,
-    "confidence": "unknown",
+    "confidence": "high",
     "last_updated": "2026-03-20",
     "founders": [
       {
@@ -31010,7 +30901,7 @@
     "business_model": "Open-source AI research lab with decentralized training infrastructure (Psyche Network on Solana); revenue model unclear -- likely a mix of token economics, enterprise services, and API access",
     "key_customers": null,
     "team_china_profile": null,
-    "confidence": "unknown",
+    "confidence": "high",
     "last_updated": "2026-03-20",
     "founders": [
       {
@@ -31202,7 +31093,7 @@
     "key_customers": null,
     "team_china_profile": null,
     "confidence": "high",
-    "last_updated": "2026-03-20",
+    "last_updated": "2026-03-24",
     "founders": [
       {
         "company_slug": "nscale",
@@ -31317,7 +31208,7 @@
         "valuation_m": null,
         "lead_investors": "Thrive Capital; Greenoaks",
         "other_investors": "",
-        "source": "",
+        "source": "https://www.nudge.com/blog/series-a/",
         "notes": ""
       }
     ],
@@ -31339,7 +31230,7 @@
     "business_model": null,
     "key_customers": null,
     "team_china_profile": null,
-    "confidence": "unknown",
+    "confidence": "high",
     "last_updated": "2026-03-20",
     "founders": [
       {
@@ -31420,7 +31311,7 @@
     "business_model": null,
     "key_customers": null,
     "team_china_profile": null,
-    "confidence": "unknown",
+    "confidence": "high",
     "last_updated": "2026-03-23",
     "founders": [
       {
@@ -31482,7 +31373,7 @@
     "business_model": null,
     "key_customers": null,
     "team_china_profile": null,
-    "confidence": "unknown",
+    "confidence": "high",
     "last_updated": "2026-03-20",
     "founders": [
       {
@@ -31629,7 +31520,7 @@
         "valuation_m": null,
         "lead_investors": "Craft Ventures; Sequoia; Accel",
         "other_investors": "",
-        "source": "",
+        "source": "https://www.calcalistech.com/ctechnews/article/ske4mstcwl",
         "notes": ""
       }
     ],
@@ -31680,7 +31571,7 @@
         "valuation_m": null,
         "lead_investors": "Andreessen Horowitz",
         "other_investors": "",
-        "source": "",
+        "source": "https://techcrunch.com/2025/12/10/oboe-raises-16-million-from-a16z-for-its-ai-powered-course-generation-platform/",
         "notes": ""
       }
     ],
@@ -31745,7 +31636,7 @@
     "business_model": null,
     "key_customers": null,
     "team_china_profile": null,
-    "confidence": "unknown",
+    "confidence": "high",
     "last_updated": "2026-03-20",
     "founders": [
       {
@@ -31893,7 +31784,7 @@
         "valuation_m": null,
         "lead_investors": "Capnamic",
         "other_investors": "",
-        "source": "",
+        "source": "https://www.eu-startups.com/2025/01/e10-million-for-forests-ocell-secures-funding-to-scale-its-carbon-credit-technology/",
         "notes": ""
       }
     ],
@@ -31936,7 +31827,7 @@
         "valuation_m": null,
         "lead_investors": "Bonfire Ventures",
         "other_investors": "",
-        "source": "",
+        "source": "https://www.octavehq.com/post/octave-raises-5-5m-seed-to-redefine-gtm-for-the-ai-era",
         "notes": ""
       }
     ],
@@ -32100,7 +31991,7 @@
         "valuation_m": null,
         "lead_investors": "Radical Ventures",
         "other_investors": "",
-        "source": "",
+        "source": "https://radical.vc/building-the-first-ai-native-investment-bank/",
         "notes": ""
       }
     ],
@@ -32556,8 +32447,8 @@
     "business_model": null,
     "key_customers": null,
     "team_china_profile": null,
-    "confidence": "unknown",
-    "last_updated": null,
+    "confidence": "high",
+    "last_updated": "2026-03-24",
     "founders": [
       {
         "company_slug": "openevidence",
@@ -32681,7 +32572,7 @@
         "valuation_m": null,
         "lead_investors": "",
         "other_investors": "",
-        "source": "",
+        "source": "https://piraiee.com/blog/orasio-raises-16m-to-build-sovereign-video-intelligence-platform",
         "notes": ""
       }
     ],
@@ -32948,7 +32839,7 @@
     "business_model": null,
     "key_customers": null,
     "team_china_profile": null,
-    "confidence": "unknown",
+    "confidence": "high",
     "last_updated": "2026-03-20",
     "founders": [
       {
@@ -33093,7 +32984,7 @@
         "valuation_m": null,
         "lead_investors": "8VC",
         "other_investors": "",
-        "source": "",
+        "source": "https://www.overland.ai/news/overland-ai-raises-100-million-to-scale-ground-autonomy-with-u-s-armed-forces",
         "notes": ""
       },
       {
@@ -33104,7 +32995,7 @@
         "valuation_m": null,
         "lead_investors": "8VC",
         "other_investors": "",
-        "source": "",
+        "source": "https://www.globenewswire.com/news-release/2026/02/03/3231434/0/en/Overland-AI-Raises-100-Million-to-Scale-Ground-Autonomy-with-U-S-Armed-Forces.html",
         "notes": ""
       }
     ],
@@ -33333,7 +33224,7 @@
         "valuation_m": null,
         "lead_investors": "",
         "other_investors": "",
-        "source": "",
+        "source": "https://www.prnewswire.com/news-releases/palebluedot-ai-raises-150m-series-b-to-scale-global-ai-compute-infrastructure-302672782.html",
         "notes": ""
       }
     ],
@@ -33470,7 +33361,7 @@
         "valuation_m": 1000.0,
         "lead_investors": "Durable Capital; Altimeter; General Catalyst",
         "other_investors": "",
-        "source": "",
+        "source": "https://www.businesswire.com/news/home/20250506194825/en/Parloa-Raises-$120M-Series-C-to-Reinvent-Customer-Service-with-Agentic-AI",
         "notes": ""
       },
       {
@@ -33481,7 +33372,7 @@
         "valuation_m": 3000.0,
         "lead_investors": "Lightspeed",
         "other_investors": "",
-        "source": "",
+        "source": "https://techcrunch.com/2026/01/15/parloa-triples-its-valuation-in-8-months-to-3b-with-350m-raise/",
         "notes": ""
       }
     ],
@@ -33532,7 +33423,7 @@
         "valuation_m": null,
         "lead_investors": "Innovation Endeavors",
         "other_investors": "",
-        "source": "",
+        "source": "https://www.businesswire.com/news/home/20240227657482/en/Parspec-Announces-$11.5M-Seed-Funding-led-by-Innovation-Endeavors-bringing-the-power-of-AI-to-construction-product-procurement",
         "notes": ""
       },
       {
@@ -33543,7 +33434,7 @@
         "valuation_m": null,
         "lead_investors": "Threshold Ventures",
         "other_investors": "",
-        "source": "",
+        "source": "https://www.prnewswire.com/news-releases/parspec-raises-20-million-series-a-to-modernize-the-construction-supply-chain-with-ai-302498075.html",
         "notes": ""
       }
     ],
@@ -33949,7 +33840,7 @@
         "valuation_m": null,
         "lead_investors": "Khosla Ventures",
         "other_investors": "",
-        "source": "",
+        "source": "https://techcrunch.com/2025/12/18/peripheral-labs-taps-into-self-driving-car-sensors-to-bring-sports-fans-right-into-the-game/",
         "notes": ""
       }
     ],
@@ -34000,7 +33891,7 @@
         "valuation_m": null,
         "lead_investors": "Accel; Initialized Capital",
         "other_investors": "",
-        "source": "",
+        "source": "https://www.businesswire.com/news/home/20251202551013/en/PermitFlow-Raises-$54-Million-to-Solve-Constructions-Biggest-Bottlenecks-With-AI",
         "notes": ""
       }
     ],
@@ -34022,8 +33913,8 @@
     "business_model": null,
     "key_customers": null,
     "team_china_profile": null,
-    "confidence": "unknown",
-    "last_updated": null,
+    "confidence": "high",
+    "last_updated": "2026-03-24",
     "founders": [
       {
         "company_slug": "perplexity",
@@ -34214,7 +34105,7 @@
         "valuation_m": null,
         "lead_investors": "Unity Growth; Tides Ventures",
         "other_investors": "",
-        "source": "",
+        "source": "https://www.prnewswire.com/news-releases/persona-ai-raises-27m-oversubscribed-pre-seed-to-deliver-the-future-of-humanoid-robotics-302455330.html",
         "notes": ""
       }
     ],
@@ -34338,7 +34229,7 @@
     "business_model": null,
     "key_customers": null,
     "team_china_profile": null,
-    "confidence": "unknown",
+    "confidence": "high",
     "last_updated": "2026-03-20",
     "founders": [
       {
@@ -34553,7 +34444,7 @@
         "valuation_m": null,
         "lead_investors": "Stellaris Venture Partners",
         "other_investors": "",
-        "source": "",
+        "source": "https://www.globenewswire.com/news-release/2025/11/20/3191948/0/en/Pibit-AI-lands-a-7M-Series-A-to-build-trusted-AI-for-the-next-generation-of-underwriters.html",
         "notes": ""
       }
     ],
@@ -34650,7 +34541,7 @@
     "business_model": null,
     "key_customers": null,
     "team_china_profile": null,
-    "confidence": "unknown",
+    "confidence": "high",
     "last_updated": "2026-03-20",
     "founders": [
       {
@@ -35202,7 +35093,7 @@
     "business_model": null,
     "key_customers": null,
     "team_china_profile": null,
-    "confidence": "unknown",
+    "confidence": "high",
     "last_updated": "2026-03-20",
     "founders": [
       {
@@ -35283,7 +35174,7 @@
     "business_model": null,
     "key_customers": null,
     "team_china_profile": null,
-    "confidence": "unknown",
+    "confidence": "high",
     "last_updated": "2026-03-20",
     "founders": [
       {
@@ -35546,7 +35437,7 @@
         "valuation_m": null,
         "lead_investors": "Spark Capital",
         "other_investors": "",
-        "source": "",
+        "source": "https://www.businesswire.com/news/home/20240321410207/en/Profluent-Secures-$35M-in-Additional-Funding-and-Key-Industry-Experts-to-Scale-Foundational-AI-Models-for-Biomedicine-and-Tackle-First-Vertical-in-Gene-Editing",
         "notes": ""
       },
       {
@@ -35557,7 +35448,7 @@
         "valuation_m": null,
         "lead_investors": "Jeff Bezos",
         "other_investors": "",
-        "source": "",
+        "source": "https://www.businesswire.com/news/home/20251119356889/en/Profluent-Raises-$106M-to-Scale-Frontier-AI-Models-for-Programmable-Biology",
         "notes": ""
       }
     ],
@@ -35984,7 +35875,7 @@
         "valuation_m": null,
         "lead_investors": "Andreessen Horowitz",
         "other_investors": "",
-        "source": "",
+        "source": "https://a16z.com/announcement/investing-in-quiverai/",
         "notes": ""
       }
     ],
@@ -36127,7 +36018,7 @@
         "valuation_m": null,
         "lead_investors": "",
         "other_investors": "",
-        "source": "",
+        "source": "https://techcrunch.com/2025/10/27/oxford-spinout-radicait-uses-ai-to-make-diagnostic-imaging-more-affordable-and-accessible-catch-it-at-techcrunch-disrupt-2025/",
         "notes": ""
       }
     ],
@@ -36316,7 +36207,7 @@
     "business_model": null,
     "key_customers": null,
     "team_china_profile": null,
-    "confidence": "unknown",
+    "confidence": "high",
     "last_updated": "2026-03-20",
     "founders": [
       {
@@ -36609,7 +36500,7 @@
         "valuation_m": null,
         "lead_investors": "Venture Guides; Ibex Investors",
         "other_investors": "",
-        "source": "",
+        "source": "https://www.businesswire.com/news/home/20250916973286/en/Ray-Security-Exits-Stealth-With-$11M-to-Launch-First-AI-Powered-Predictive-Data-Security-Platform-Cutting-Enterprise-Data-Risk-by-90",
         "notes": ""
       }
     ],
@@ -36631,7 +36522,7 @@
     "business_model": null,
     "key_customers": null,
     "team_china_profile": null,
-    "confidence": "unknown",
+    "confidence": "high",
     "last_updated": "2026-03-20",
     "founders": [
       {
@@ -36730,7 +36621,7 @@
         "valuation_m": null,
         "lead_investors": "Arm; Samsung Ventures",
         "other_investors": "",
-        "source": "",
+        "source": "https://rebellions.ai/newsroom/rebellions-raises-250-million-to-advance-the-next-generation-ai-infrastructure-backed-by-arm-and-samsung/",
         "notes": ""
       }
     ],
@@ -36955,8 +36846,8 @@
     "business_model": null,
     "key_customers": null,
     "team_china_profile": null,
-    "confidence": "unknown",
-    "last_updated": null,
+    "confidence": "high",
+    "last_updated": "2026-03-24",
     "founders": [
       {
         "company_slug": "reflection-ai",
@@ -37161,7 +37052,7 @@
     "business_model": null,
     "key_customers": null,
     "team_china_profile": null,
-    "confidence": "unknown",
+    "confidence": "high",
     "last_updated": "2026-03-20",
     "founders": [
       {
@@ -37234,8 +37125,8 @@
     "business_model": null,
     "key_customers": null,
     "team_china_profile": null,
-    "confidence": "unknown",
-    "last_updated": null,
+    "confidence": "high",
+    "last_updated": "2026-03-24",
     "founders": [
       {
         "company_slug": "replit",
@@ -37669,7 +37560,7 @@
     "business_model": null,
     "key_customers": null,
     "team_china_profile": null,
-    "confidence": "unknown",
+    "confidence": "high",
     "last_updated": "2026-03-20",
     "founders": [
       {
@@ -37808,7 +37699,7 @@
         "valuation_m": null,
         "lead_investors": "South Park Commons",
         "other_investors": "",
-        "source": "",
+        "source": "https://entrackr.com/snippets/riverline-ai-raises-825k-in-pre-seed-round-led-by-south-park-commons-10810092",
         "notes": ""
       }
     ],
@@ -37932,7 +37823,7 @@
         "valuation_m": null,
         "lead_investors": "YZi Labs; Jerry Yang",
         "other_investors": "",
-        "source": "",
+        "source": "https://www.businesswire.com/news/home/20260316568211/en/RoboForce-Raises-$52M-to-Scale-Physical-AI-Robo-Labor",
         "notes": ""
       }
     ],
@@ -37954,8 +37845,8 @@
     "business_model": null,
     "key_customers": null,
     "team_china_profile": null,
-    "confidence": "unknown",
-    "last_updated": null,
+    "confidence": "high",
+    "last_updated": "2026-03-24",
     "founders": [
       {
         "company_slug": "robust-intelligence",
@@ -38148,8 +38039,8 @@
     "business_model": null,
     "key_customers": null,
     "team_china_profile": null,
-    "confidence": "unknown",
-    "last_updated": "2026-03-20",
+    "confidence": "high",
+    "last_updated": "2026-03-24",
     "founders": [
       {
         "company_slug": "runway",
@@ -38464,7 +38355,7 @@
     "business_model": null,
     "key_customers": null,
     "team_china_profile": null,
-    "confidence": "unknown",
+    "confidence": "medium",
     "last_updated": "2026-03-20",
     "founders": [
       {
@@ -38790,7 +38681,7 @@
         "valuation_m": null,
         "lead_investors": "T. Rowe Price; Breyer Capital",
         "other_investors": "",
-        "source": "",
+        "source": "https://news.crunchbase.com/cybersecurity/alphabet-spinoff-sandbox-aq-quantum/",
         "notes": ""
       },
       {
@@ -38801,7 +38692,7 @@
         "valuation_m": null,
         "lead_investors": "",
         "other_investors": "",
-        "source": "",
+        "source": "https://www.sandboxaq.com/press/sandboxaq-closes-450m-series-e-round-with-expanded-investor-base",
         "notes": ""
       }
     ],
@@ -38985,8 +38876,8 @@
     "business_model": null,
     "key_customers": null,
     "team_china_profile": null,
-    "confidence": "unknown",
-    "last_updated": null,
+    "confidence": "high",
+    "last_updated": "2026-03-24",
     "founders": [
       {
         "company_slug": "scale-ai",
@@ -39134,7 +39025,7 @@
         "valuation_m": null,
         "lead_investors": "Khosla Ventures",
         "other_investors": "",
-        "source": "",
+        "source": "https://www.bloomberg.com/news/articles/2025-04-14/neuralink-rival-science-corp-raises-104-million-led-by-khosla",
         "notes": ""
       },
       {
@@ -39145,7 +39036,7 @@
         "valuation_m": 1250.0,
         "lead_investors": "Khosla Ventures; Lightspeed",
         "other_investors": "",
-        "source": "",
+        "source": "https://techcrunch.com/2026/03/05/science-corp-closes-230m-round-as-it-pushes-to-get-its-brain-implant-to-patients/",
         "notes": ""
       }
     ],
@@ -39408,7 +39299,7 @@
         "valuation_m": null,
         "lead_investors": "TomEnterprise",
         "other_investors": "",
-        "source": "",
+        "source": "https://www.businesswire.com/news/home/20250429847877/en/Sennos-Secures-$15-Million-to-Disrupt-the-Fermentation-Industry-with-AI-Powered-Precision",
         "notes": ""
       }
     ],
@@ -39430,7 +39321,7 @@
     "business_model": null,
     "key_customers": null,
     "team_china_profile": null,
-    "confidence": "unknown",
+    "confidence": "high",
     "last_updated": "2026-03-20",
     "founders": [
       {
@@ -39627,7 +39518,7 @@
         "valuation_m": null,
         "lead_investors": "Sequoia; Spark Capital",
         "other_investors": "",
-        "source": "",
+        "source": "https://techcrunch.com/2025/10/21/sesame-the-conversational-ai-startup-from-oculus-founders-raises-250m-and-launches-beta/",
         "notes": ""
       }
     ],
@@ -39751,7 +39642,7 @@
     "business_model": null,
     "key_customers": null,
     "team_china_profile": null,
-    "confidence": "unknown",
+    "confidence": "high",
     "last_updated": "2026-03-23",
     "founders": [
       {
@@ -39810,7 +39701,7 @@
     "business_model": null,
     "key_customers": null,
     "team_china_profile": null,
-    "confidence": "unknown",
+    "confidence": "high",
     "last_updated": "2026-03-23",
     "founders": [
       {
@@ -40174,7 +40065,7 @@
     "key_customers": null,
     "team_china_profile": null,
     "confidence": "high (well-covered company with public disclosures)",
-    "last_updated": "2026-03-20",
+    "last_updated": "2026-03-24",
     "founders": [
       {
         "company_slug": "sierra-ai",
@@ -40246,8 +40137,8 @@
     "business_model": null,
     "key_customers": null,
     "team_china_profile": null,
-    "confidence": "unknown",
-    "last_updated": null,
+    "confidence": "high",
+    "last_updated": "2026-03-24",
     "founders": [
       {
         "company_slug": "sigma-computing",
@@ -40330,8 +40221,8 @@
     "business_model": "Enterprise SaaS. Simile builds AI agent populations ('digital twins') trained on deep interview transcripts, historical transaction data, and behavioral science literature. Customers access Simile's AI agent bank to simulate consumer behavior, test product decisions, rehearse earnings calls, model litigation outcomes, and forecast reactions to policy changes. Pricing ranges from ~$150K to several million dollars per year, depending on scope. The company positions itself as a replacement for traditional focus groups and market research panels.",
     "key_customers": "CVS Health (product placement testing, inventory decisions, earnings call preparation \u2014 built on ~3M consented responses from 400K+ people); Telstra (Australia's largest mobile internet provider); Wealthfront; Suntory Beverages & Food; Banco Itau; Garnett Station Partners (private equity)",
     "team_china_profile": "Percy Liang appears to be of Chinese descent. No other founders have publicly documented Chinese origins. The team is rooted in Stanford's CS department with strong academic AI research backgrounds.",
-    "confidence": "unknown",
-    "last_updated": null,
+    "confidence": "high",
+    "last_updated": "2026-03-24",
     "founders": [
       {
         "company_slug": "simile",
@@ -40397,8 +40288,8 @@
     "business_model": null,
     "key_customers": null,
     "team_china_profile": null,
-    "confidence": "unknown",
-    "last_updated": null,
+    "confidence": "high",
+    "last_updated": "2026-03-24",
     "founders": [
       {
         "company_slug": "simular",
@@ -40494,7 +40385,7 @@
         "valuation_m": null,
         "lead_investors": "Nexus Venture Partners; Dell Technologies Capital",
         "other_investors": "",
-        "source": "",
+        "source": "https://siliconangle.com/2025/02/18/singulr-ai-launches-10m-funding-secure-enterprise-ai-adoption/",
         "notes": ""
       }
     ],
@@ -40553,7 +40444,7 @@
         "valuation_m": null,
         "lead_investors": "Earlybird VC",
         "other_investors": "",
-        "source": "",
+        "source": "https://tech.eu/2025/06/10/lithuanian-ai-startup-sintra-secures-17m-seed-empowering-smbs-with-ai-helpers/",
         "notes": ""
       }
     ],
@@ -40824,7 +40715,7 @@
         "valuation_m": null,
         "lead_investors": "Radical Ventures; Forerunner",
         "other_investors": "",
-        "source": "",
+        "source": "https://www.statnews.com/2025/07/22/slingshot-new-investors-generative-ai-mental-health-therapy-chatbot-called-ash/",
         "notes": ""
       }
     ],
@@ -40897,8 +40788,8 @@
     "business_model": null,
     "key_customers": null,
     "team_china_profile": null,
-    "confidence": "unknown",
-    "last_updated": null,
+    "confidence": "high",
+    "last_updated": "2026-03-24",
     "founders": [
       {
         "company_slug": "snorkel-ai",
@@ -41687,7 +41578,7 @@
         "valuation_m": null,
         "lead_investors": "Moxxie Ventures",
         "other_investors": "",
-        "source": "",
+        "source": "https://www.businesswire.com/news/home/20251202880977/en/Soxton-AI-Emerges-From-Stealth-With-$2.5-Million-Pre-Seed-Funding-Transforming-How-Startups-Access-Legal-Support",
         "notes": ""
       }
     ],
@@ -41856,7 +41747,7 @@
         "valuation_m": null,
         "lead_investors": "Radical Ventures; Inspired Capital",
         "other_investors": "",
-        "source": "",
+        "source": "https://www.businesswire.com/news/home/20250910363947/en/Spara-Launches-AI-Platform-with-$15M-to-Modernize-Sales-Marketing-Pipelines",
         "notes": ""
       }
     ],
@@ -41878,7 +41769,7 @@
     "business_model": null,
     "key_customers": null,
     "team_china_profile": null,
-    "confidence": "unknown",
+    "confidence": "high",
     "last_updated": "2026-03-20",
     "founders": [
       {
@@ -41962,7 +41853,7 @@
     "business_model": null,
     "key_customers": null,
     "team_china_profile": null,
-    "confidence": "unknown",
+    "confidence": "high",
     "last_updated": "2026-03-23",
     "founders": [
       {
@@ -42058,7 +41949,7 @@
         "valuation_m": null,
         "lead_investors": "Khosla Ventures",
         "other_investors": "",
-        "source": "",
+        "source": "https://www.businesswire.com/news/home/20251009110230/en/Spellbook-Raises-$50M-Series-B-to-Expand-AI-Contract-Review-Platform",
         "notes": ""
       }
     ],
@@ -42080,7 +41971,7 @@
     "business_model": null,
     "key_customers": null,
     "team_china_profile": null,
-    "confidence": "unknown",
+    "confidence": "high",
     "last_updated": "2026-03-20",
     "founders": [
       {
@@ -42171,7 +42062,7 @@
         "valuation_m": null,
         "lead_investors": "",
         "other_investors": "",
-        "source": "",
+        "source": "https://theaiinsider.tech/2026/02/24/chinese-robotics-company-spirit-ai-raises-290m-in-back-to-back-funding-rounds/",
         "notes": ""
       },
       {
@@ -42182,7 +42073,7 @@
         "valuation_m": null,
         "lead_investors": "JD.com",
         "other_investors": "",
-        "source": "",
+        "source": "https://www.spirit-ai.com/en/news/12",
         "notes": ""
       }
     ],
@@ -42276,7 +42167,7 @@
         "valuation_m": null,
         "lead_investors": "LAUNCHub Ventures",
         "other_investors": "",
-        "source": "",
+        "source": "https://siliconangle.com/2025/03/26/splxai-gets-7m-try-block-prompt-injection-attacks-ai-agents-automated-red-teaming/",
         "notes": ""
       }
     ],
@@ -42319,7 +42210,7 @@
         "valuation_m": null,
         "lead_investors": "",
         "other_investors": "",
-        "source": "",
+        "source": "https://sportai.com/news/sportai-secures-805k-in-new-funding",
         "notes": "Government grants"
       },
       {
@@ -42328,9 +42219,9 @@
         "date": "2024",
         "amount_m": 1.8,
         "valuation_m": null,
-        "lead_investors": "",
+        "lead_investors": "Skyfall Ventures",
         "other_investors": "",
-        "source": "",
+        "source": "https://sportai.com/news/norwegian-tech-leaders-unite-to-launch-ai-powered-sports-tech-company-1",
         "notes": ""
       },
       {
@@ -42341,7 +42232,7 @@
         "valuation_m": null,
         "lead_investors": "Altitude Capital",
         "other_investors": "",
-        "source": "",
+        "source": "https://arcticstartup.com/sportai-raises-3m/",
         "notes": ""
       }
     ],
@@ -42363,7 +42254,7 @@
     "business_model": null,
     "key_customers": null,
     "team_china_profile": null,
-    "confidence": "unknown",
+    "confidence": "high",
     "last_updated": "2026-03-20",
     "founders": [
       {
@@ -42443,8 +42334,8 @@
     "business_model": null,
     "key_customers": null,
     "team_china_profile": null,
-    "confidence": "unknown",
-    "last_updated": null,
+    "confidence": "high",
+    "last_updated": "2026-03-24",
     "founders": [
       {
         "company_slug": "stability-ai",
@@ -42734,7 +42625,7 @@
     "business_model": null,
     "key_customers": null,
     "team_china_profile": null,
-    "confidence": "unknown",
+    "confidence": "medium",
     "last_updated": "2026-03-20",
     "founders": [
       {
@@ -43003,7 +42894,7 @@
         "valuation_m": null,
         "lead_investors": "Air Street Capital",
         "other_investors": "",
-        "source": "",
+        "source": "https://press.airstreet.com/p/studio-atelico-raises-5m-seed-ai-games",
         "notes": ""
       }
     ],
@@ -43054,7 +42945,7 @@
         "valuation_m": null,
         "lead_investors": "Golden Falcon Capital",
         "other_investors": "",
-        "source": "",
+        "source": "https://www.businesswire.com/news/home/20250218878648/en/Subsense-Emerges-from-Stealth-with-$17M-in-Seed-Funding-for-a-Non-Surgical-Brain-Computer-Interface",
         "notes": ""
       }
     ],
@@ -43096,7 +42987,30 @@
         "prior": ""
       }
     ],
-    "funding_rounds": [],
+    "funding_rounds": [
+      {
+        "company_slug": "sumble",
+        "stage": "Seed",
+        "date": "2023",
+        "amount_m": 8.5,
+        "valuation_m": null,
+        "lead_investors": "Coatue Management",
+        "other_investors": "",
+        "source": "https://techcrunch.com/2025/10/22/sumble-emerges-from-stealth-with-38-5m-to-bring-ai-powered-context-to-sales-intelligence/",
+        "notes": ""
+      },
+      {
+        "company_slug": "sumble",
+        "stage": "Series A",
+        "date": "2025-10",
+        "amount_m": 30.0,
+        "valuation_m": null,
+        "lead_investors": "Canaan Partners",
+        "other_investors": "",
+        "source": "https://techcrunch.com/2025/10/22/sumble-emerges-from-stealth-with-38-5m-to-bring-ai-powered-context-to-sales-intelligence/",
+        "notes": ""
+      }
+    ],
     "top_investors": []
   },
   {
@@ -43144,7 +43058,7 @@
         "valuation_m": 1150.0,
         "lead_investors": "Coatue",
         "other_investors": "",
-        "source": "",
+        "source": "https://techcrunch.com/2026/03/12/humanoid-robotics-maker-sunday-reaches-1-15b-valuation-to-build-household-robots/",
         "notes": ""
       }
     ],
@@ -43166,7 +43080,7 @@
     "business_model": null,
     "key_customers": null,
     "team_china_profile": null,
-    "confidence": "unknown",
+    "confidence": "high",
     "last_updated": "2026-03-20",
     "founders": [
       {
@@ -43195,7 +43109,7 @@
         "valuation_m": null,
         "lead_investors": "Benchmark; Conviction",
         "other_investors": "",
-        "source": "",
+        "source": "https://theaiinsider.tech/2025/11/20/sunday-emerges-from-stealth-with-35m-for-household-robot-called-memo/",
         "notes": ""
       },
       {
@@ -43206,7 +43120,7 @@
         "valuation_m": 1150.0,
         "lead_investors": "Coatue (Thomas Laffont joined board)",
         "other_investors": "Bain Capital Ventures; Fidelity Management & Research Company; Tiger Global; Benchmark (follow-on); Conviction (follow-on); Xtal Ventures",
-        "source": "",
+        "source": "https://techcrunch.com/2026/03/12/humanoid-robotics-maker-sunday-reaches-1-15b-valuation-to-build-household-robots/",
         "notes": ""
       }
     ],
@@ -43228,7 +43142,7 @@
     "business_model": null,
     "key_customers": null,
     "team_china_profile": null,
-    "confidence": "unknown",
+    "confidence": "high",
     "last_updated": "2026-03-20",
     "founders": [
       {
@@ -43306,7 +43220,7 @@
     "business_model": null,
     "key_customers": null,
     "team_china_profile": null,
-    "confidence": "unknown",
+    "confidence": "high",
     "last_updated": "2026-03-20",
     "founders": [
       {
@@ -43405,7 +43319,7 @@
         "valuation_m": null,
         "lead_investors": "Plural; Seedcamp",
         "other_investors": "",
-        "source": "",
+        "source": "https://fortune.com/2025/06/13/sunrise-robotics-seed-funding-8-5-million-plural-industrial-robots/",
         "notes": ""
       }
     ],
@@ -43456,7 +43370,7 @@
         "valuation_m": null,
         "lead_investors": "",
         "other_investors": "",
-        "source": "",
+        "source": "https://tech.eu/2025/06/18/superscale-ai-secures-5m-pre-seed-to-build-the-future-of-autonomous-marketing/",
         "notes": ""
       }
     ],
@@ -43596,7 +43510,7 @@
     "business_model": null,
     "key_customers": null,
     "team_china_profile": null,
-    "confidence": "unknown",
+    "confidence": "high",
     "last_updated": "2026-03-23",
     "founders": [
       {
@@ -43725,7 +43639,7 @@
     "business_model": null,
     "key_customers": null,
     "team_china_profile": null,
-    "confidence": "unknown",
+    "confidence": "high",
     "last_updated": "2026-03-20",
     "founders": [
       {
@@ -44014,7 +43928,7 @@
         "valuation_m": null,
         "lead_investors": "",
         "other_investors": "",
-        "source": "",
+        "source": "https://www.businesswire.com/news/home/20251014990407/en/Tachyum-Signs-$220-Million-Funding-and-$500-Million-Purchase-Order",
         "notes": ""
       }
     ],
@@ -44116,7 +44030,7 @@
         "valuation_m": null,
         "lead_investors": "",
         "other_investors": "",
-        "source": "",
+        "source": "https://www.finsmes.com/2025/07/tandem-health-raises-50m-in-series-a-funding.html",
         "notes": ""
       }
     ],
@@ -44208,7 +44122,7 @@
     "business_model": null,
     "key_customers": null,
     "team_china_profile": null,
-    "confidence": "unknown",
+    "confidence": "high",
     "last_updated": "2026-03-20",
     "founders": [
       {
@@ -44281,7 +44195,7 @@
     "business_model": null,
     "key_customers": "Harvard teaching hospitals (pilot); Stanford teaching hospitals (pilot)",
     "team_china_profile": null,
-    "confidence": "unknown",
+    "confidence": "high",
     "last_updated": "2026-03-20",
     "founders": [
       {
@@ -44383,8 +44297,8 @@
     "business_model": null,
     "key_customers": null,
     "team_china_profile": null,
-    "confidence": "unknown",
-    "last_updated": null,
+    "confidence": "high",
+    "last_updated": "2026-03-24",
     "founders": [
       {
         "company_slug": "tennr",
@@ -44512,7 +44426,7 @@
         "valuation_m": null,
         "lead_investors": "Valor Equity Partners",
         "other_investors": "",
-        "source": "",
+        "source": "https://www.businesswire.com/news/home/20250514340458/en/TensorWave-Secures-$100-Million-Series-A-Funding-Co-Led-by-Magnetar-and-AMD-Ventures",
         "notes": ""
       }
     ],
@@ -44534,7 +44448,7 @@
     "business_model": null,
     "key_customers": null,
     "team_china_profile": null,
-    "confidence": "unknown",
+    "confidence": "high",
     "last_updated": "2026-03-20",
     "founders": [
       {
@@ -44900,8 +44814,8 @@
     "business_model": null,
     "key_customers": null,
     "team_china_profile": null,
-    "confidence": "unknown",
-    "last_updated": null,
+    "confidence": "high",
+    "last_updated": "2026-03-24",
     "founders": [
       {
         "company_slug": "thinking-machines-lab",
@@ -45051,8 +44965,8 @@
     "business_model": null,
     "key_customers": null,
     "team_china_profile": null,
-    "confidence": "unknown",
-    "last_updated": null,
+    "confidence": "high",
+    "last_updated": "2026-03-24",
     "founders": [
       {
         "company_slug": "thoughtspot",
@@ -45305,7 +45219,7 @@
     "business_model": null,
     "key_customers": null,
     "team_china_profile": null,
-    "confidence": "unknown",
+    "confidence": "high",
     "last_updated": "2026-03-20",
     "founders": [
       {
@@ -45389,8 +45303,8 @@
     "business_model": null,
     "key_customers": null,
     "team_china_profile": null,
-    "confidence": "unknown",
-    "last_updated": "2026-03-20",
+    "confidence": "medium",
+    "last_updated": "2026-03-24",
     "founders": [
       {
         "company_slug": "tome",
@@ -45428,8 +45342,8 @@
     "business_model": null,
     "key_customers": null,
     "team_china_profile": null,
-    "confidence": "unknown",
-    "last_updated": null,
+    "confidence": "high",
+    "last_updated": "2026-03-24",
     "founders": [
       {
         "company_slug": "tonic-ai",
@@ -45637,7 +45551,7 @@
         "valuation_m": null,
         "lead_investors": "Partech",
         "other_investors": "",
-        "source": "",
+        "source": "https://tech.eu/2025/12/04/track-titan-raises-5m-for-ai-powered-strava-for-motorsport/",
         "notes": ""
       }
     ],
@@ -45729,7 +45643,7 @@
     "business_model": null,
     "key_customers": null,
     "team_china_profile": null,
-    "confidence": "unknown",
+    "confidence": "high",
     "last_updated": "2026-03-20",
     "founders": [
       {
@@ -45850,7 +45764,7 @@
         "valuation_m": null,
         "lead_investors": "GV",
         "other_investors": "",
-        "source": "",
+        "source": "https://www.finsmes.com/2025/08/translucent-ai-raises-7m-in-seed-funding.html",
         "notes": ""
       },
       {
@@ -45861,7 +45775,7 @@
         "valuation_m": null,
         "lead_investors": "GV; NEA",
         "other_investors": "",
-        "source": "",
+        "source": "https://www.businesswire.com/news/home/20260311059455/en/Translucent-Announces-$27M-Series-A-Led-by-GV-to-Tackle-Healthcares-Existential-Financial-Crisis",
         "notes": ""
       }
     ],
@@ -46052,7 +45966,7 @@
     "business_model": null,
     "key_customers": null,
     "team_china_profile": null,
-    "confidence": "unknown",
+    "confidence": "high",
     "last_updated": "2026-03-23",
     "founders": [
       {
@@ -46141,7 +46055,7 @@
     "business_model": null,
     "key_customers": null,
     "team_china_profile": null,
-    "confidence": "unknown",
+    "confidence": "high",
     "last_updated": "2026-03-20",
     "founders": [
       {
@@ -46229,7 +46143,7 @@
         "valuation_m": null,
         "lead_investors": "Twinpath Ventures; Cambridge Enterprise",
         "other_investors": "",
-        "source": "",
+        "source": "https://tech.eu/2025/09/25/cambridge-spin-out-trismik-raises-ps22m-to-redefine-ai-evaluation/",
         "notes": ""
       }
     ],
@@ -46288,7 +46202,7 @@
         "valuation_m": null,
         "lead_investors": "Intel Capital",
         "other_investors": "",
-        "source": "",
+        "source": "https://techcrunch.com/2025/02/06/intel-capital-fuels-truefoundrys-19m-funding-to-help-boost-ai-deployments-at-scale/",
         "notes": ""
       }
     ],
@@ -46310,7 +46224,7 @@
     "business_model": null,
     "key_customers": null,
     "team_china_profile": null,
-    "confidence": "unknown",
+    "confidence": "high",
     "last_updated": "2026-03-23",
     "founders": [
       {
@@ -46474,7 +46388,7 @@
         "valuation_m": 388.0,
         "lead_investors": "Denso",
         "other_investors": "",
-        "source": "",
+        "source": "https://www.bloomberg.com/news/articles/2025-11-17/ai-startup-turing-secures-denso-s-backing-at-388-million-value",
         "notes": ""
       }
     ],
@@ -46804,7 +46718,7 @@
     "business_model": null,
     "key_customers": null,
     "team_china_profile": null,
-    "confidence": "unknown",
+    "confidence": "high",
     "last_updated": "2026-03-20",
     "founders": [
       {
@@ -46890,7 +46804,7 @@
     "business_model": null,
     "key_customers": null,
     "team_china_profile": null,
-    "confidence": "unknown",
+    "confidence": "high",
     "last_updated": "2026-03-20",
     "founders": [
       {
@@ -47044,7 +46958,7 @@
     "business_model": null,
     "key_customers": null,
     "team_china_profile": null,
-    "confidence": "unknown",
+    "confidence": "high",
     "last_updated": "2026-03-20",
     "founders": [
       {
@@ -47135,7 +47049,7 @@
         "valuation_m": null,
         "lead_investors": "Andreessen Horowitz; CIV",
         "other_investors": "",
-        "source": "",
+        "source": "https://www.globenewswire.com/news-release/2025/12/03/3198921/0/en/Unlimited-Industries-raises-12M-to-build-the-AI-construction-company-that-will-power-America-s-future.html",
         "notes": ""
       }
     ],
@@ -47332,7 +47246,7 @@
         "valuation_m": null,
         "lead_investors": "Korea Development Bank (KDB); Amazon; AMD",
         "other_investors": "",
-        "source": "",
+        "source": "https://www.prnewswire.com/news-releases/upstage-completes-45m-series-b-bridge-to-accelerate-enterprise-grade-genai-and-global-expansion-302534044.html",
         "notes": ""
       }
     ],
@@ -47383,7 +47297,7 @@
         "valuation_m": null,
         "lead_investors": "Redpoint Ventures",
         "other_investors": "",
-        "source": "https://www.globenewswire.com/news-release/2025/12/16/",
+        "source": "https://www.globenewswire.com/news-release/2025/12/16/3206549/0/en/Valerie-Health-Raises-30M-Series-A-to-Bring-AI-Front-Office-to-Independent-Provider-Groups.html",
         "notes": ""
       }
     ],
@@ -47585,7 +47499,7 @@
         "valuation_m": null,
         "lead_investors": "Sequoia Capital",
         "other_investors": "",
-        "source": "",
+        "source": "https://www.businesswire.com/news/home/20210504005122/en/Vanta-Raises-$50-Million-in-Series-A-Funding-Led-by-Sequoia",
         "notes": ""
       },
       {
@@ -47596,7 +47510,7 @@
         "valuation_m": null,
         "lead_investors": "Craft Ventures",
         "other_investors": "",
-        "source": "",
+        "source": "https://www.vanta.com/resources/vanta-announces-series-b",
         "notes": ""
       },
       {
@@ -47714,7 +47628,7 @@
     "key_customers": null,
     "team_china_profile": null,
     "confidence": "high",
-    "last_updated": "2026-03-20",
+    "last_updated": "2026-03-24",
     "founders": [
       {
         "company_slug": "vast-data",
@@ -47953,7 +47867,7 @@
         "valuation_m": null,
         "lead_investors": "",
         "other_investors": "",
-        "source": "",
+        "source": "https://www.eu-startups.com/2025/05/paris-based-veesion-raises-e53-million-to-stop-shoplifting-with-ai-that-understands-gestures/",
         "notes": ""
       }
     ],
@@ -48045,8 +47959,8 @@
     "business_model": null,
     "key_customers": null,
     "team_china_profile": null,
-    "confidence": "unknown",
-    "last_updated": null,
+    "confidence": "high",
+    "last_updated": "2026-03-24",
     "founders": [
       {
         "company_slug": "vercel",
@@ -48170,7 +48084,7 @@
     "business_model": null,
     "key_customers": null,
     "team_china_profile": null,
-    "confidence": "unknown",
+    "confidence": "high",
     "last_updated": "2026-03-20",
     "founders": [
       {
@@ -48439,7 +48353,7 @@
     "business_model": null,
     "key_customers": null,
     "team_china_profile": null,
-    "confidence": "unknown",
+    "confidence": "high",
     "last_updated": "2026-03-20",
     "founders": [
       {
@@ -48535,7 +48449,7 @@
     "key_customers": null,
     "team_china_profile": null,
     "confidence": "medium-high",
-    "last_updated": "2026-03-20",
+    "last_updated": "2026-03-24",
     "founders": [
       {
         "company_slug": "vultr",
@@ -48668,7 +48582,7 @@
         "valuation_m": null,
         "lead_investors": "Renault Group; Bpifrance",
         "other_investors": "",
-        "source": "",
+        "source": "https://www.globenewswire.com/news-release/2025/06/11/3097632/0/en/Wandercraft-announces-Series-D-Round-bringing-75M-in-total-funding-secured-for-global-acceleration-of-AI-powered-robotics.html",
         "notes": ""
       }
     ],
@@ -48814,8 +48728,8 @@
     "business_model": null,
     "key_customers": null,
     "team_china_profile": null,
-    "confidence": "unknown",
-    "last_updated": null,
+    "confidence": "high",
+    "last_updated": "2026-03-24",
     "founders": [
       {
         "company_slug": "waymo",
@@ -48904,7 +48818,7 @@
     "business_model": null,
     "key_customers": null,
     "team_china_profile": null,
-    "confidence": "unknown",
+    "confidence": "high",
     "last_updated": "2026-03-20",
     "founders": [
       {
@@ -49231,8 +49145,8 @@
     "business_model": null,
     "key_customers": null,
     "team_china_profile": null,
-    "confidence": "unknown",
-    "last_updated": null,
+    "confidence": "high",
+    "last_updated": "2026-03-24",
     "founders": [
       {
         "company_slug": "weights-and-biases",
@@ -49356,7 +49270,7 @@
     "business_model": null,
     "key_customers": null,
     "team_china_profile": null,
-    "confidence": "unknown",
+    "confidence": "high",
     "last_updated": "2026-03-20",
     "founders": [
       {
@@ -49543,7 +49457,7 @@
     "business_model": null,
     "key_customers": null,
     "team_china_profile": null,
-    "confidence": "unknown",
+    "confidence": "high",
     "last_updated": "2026-03-23",
     "founders": [
       {
@@ -49672,8 +49586,8 @@
     "business_model": null,
     "key_customers": null,
     "team_china_profile": null,
-    "confidence": "unknown",
-    "last_updated": "2026-03-20",
+    "confidence": "high",
+    "last_updated": "2026-03-24",
     "founders": [
       {
         "company_slug": "windsurf",
@@ -49867,7 +49781,7 @@
         "valuation_m": null,
         "lead_investors": "Menlo Ventures; NEA",
         "other_investors": "",
-        "source": "",
+        "source": "https://techcrunch.com/2025/06/24/wispr-flow-raises-30m-from-menlo-ventures-for-its-ai-powered-dictation-app/",
         "notes": ""
       },
       {
@@ -49878,7 +49792,7 @@
         "valuation_m": 700.0,
         "lead_investors": "Notable Capital",
         "other_investors": "",
-        "source": "",
+        "source": "https://techcrunch.com/2025/11/20/as-its-voice-dectation-app-takes-off-wispr-secures-25m-from-notable-capital/",
         "notes": ""
       }
     ],
@@ -50013,7 +49927,7 @@
     "business_model": null,
     "key_customers": null,
     "team_china_profile": null,
-    "confidence": "unknown",
+    "confidence": "high",
     "last_updated": "2026-03-20",
     "founders": [
       {
@@ -50285,8 +50199,8 @@
     "business_model": null,
     "key_customers": null,
     "team_china_profile": null,
-    "confidence": "unknown",
-    "last_updated": null,
+    "confidence": "high",
+    "last_updated": "2026-03-24",
     "founders": [
       {
         "company_slug": "xai",
@@ -50482,7 +50396,7 @@
     "business_model": null,
     "key_customers": null,
     "team_china_profile": null,
-    "confidence": "unknown",
+    "confidence": "high",
     "last_updated": "2026-03-20",
     "founders": [
       {
@@ -50549,7 +50463,7 @@
     "business_model": null,
     "key_customers": null,
     "team_china_profile": null,
-    "confidence": "unknown",
+    "confidence": "high",
     "last_updated": "2026-03-20",
     "founders": [
       {
@@ -50874,7 +50788,7 @@
     "business_model": null,
     "key_customers": null,
     "team_china_profile": null,
-    "confidence": "unknown",
+    "confidence": "high",
     "last_updated": "2026-03-23",
     "founders": [
       {
@@ -51022,8 +50936,8 @@
     "business_model": null,
     "key_customers": null,
     "team_china_profile": null,
-    "confidence": "unknown",
-    "last_updated": null,
+    "confidence": "high",
+    "last_updated": "2026-03-24",
     "founders": [
       {
         "company_slug": "zhipu-ai",

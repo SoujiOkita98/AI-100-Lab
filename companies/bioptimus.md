@@ -10,6 +10,7 @@ funding_rounds:
 - stage: Seed
   date: '2024'
   amount_m: 67
+  source: https://techcrunch.com/2024/02/20/bioptimus-raises-35-million-seed-round-to-develop-ai-foundational-model-focused-on-biology/
 last_updated: 2026-03-21
 confidence: medium
 crunchbase: https://www.crunchbase.com/organization/bioptimus

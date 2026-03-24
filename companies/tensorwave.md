@@ -11,6 +11,7 @@ funding_rounds:
   amount_m: 100
   lead_investors:
   - Valor Equity Partners
+  source: https://www.businesswire.com/news/home/20250514340458/en/TensorWave-Secures-$100-Million-Series-A-Funding-Co-Led-by-Magnetar-and-AMD-Ventures
 founders:
 - name: Darrick Horton
   role: CEO

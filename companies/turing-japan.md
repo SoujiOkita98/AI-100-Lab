@@ -13,6 +13,7 @@ funding_rounds:
   valuation_m: 388.0
   lead_investors:
   - Denso
+  source: https://www.bloomberg.com/news/articles/2025-11-17/ai-startup-turing-secures-denso-s-backing-at-388-million-value
 founders:
 - name: Issei Yamamoto
   role: Co-Founder & CEO

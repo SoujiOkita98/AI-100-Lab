@@ -10,6 +10,7 @@ funding_rounds:
   amount_m: 74
   lead_investors:
   - Andreessen Horowitz
+  source: https://a16z.com/announcement/investing-in-ambient-ai/
 founders:
 - name: Shikhar Shrestha
   role: Co-Founder & CEO

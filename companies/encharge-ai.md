@@ -11,6 +11,7 @@ funding_rounds:
   amount_m: 100.0
   lead_investors:
   - NEA
+  source: https://techcrunch.com/2025/02/13/encharge-raises-100m-to-accelerate-ai-using-analog-chips/
 founders:
 - name: Naveen Verma
   role: Co-Founder & CEO

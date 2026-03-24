@@ -30,12 +30,14 @@ funding_rounds:
   lead_investors:
   - Menlo Ventures
   - NEA
+  source: https://techcrunch.com/2025/06/24/wispr-flow-raises-30m-from-menlo-ventures-for-its-ai-powered-dictation-app/
 - stage: Series A Extension
   date: 2025-11
   amount_m: 25.0
   valuation_m: 700.0
   lead_investors:
   - Notable Capital
+  source: https://techcrunch.com/2025/11/20/as-its-voice-dectation-app-takes-off-wispr-secures-25m-from-notable-capital/
 last_updated: 2026-03-21
 confidence: medium
 website_verified: true

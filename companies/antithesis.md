@@ -10,6 +10,7 @@ funding_rounds:
   amount_m: 105
   lead_investors:
   - Jane Street Capital
+  source: https://www.prnewswire.com/news-releases/jane-street-leads-antithesiss-105m-series-a-to-make-deterministic-simulation-testing-the-new-standard-302631076.html
 founders:
 - name: Will Wilson
   role: Co-Founder & CEO

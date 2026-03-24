@@ -12,6 +12,7 @@ funding_rounds:
   - Lightspeed
   - Khosla Ventures
   - GV
+  source: https://www.prnewswire.com/news-releases/dualentry-raises-a-90-million-series-a-from-lightspeed-venture-partners-khosla-ventures-and-gv-google-ventures-302573366.html
 founders:
 - name: Santiago Nestares
   role: Co-Founder & CEO

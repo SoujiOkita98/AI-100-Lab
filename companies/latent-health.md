@@ -11,6 +11,7 @@ funding_rounds:
   lead_investors:
   - Spark Capital
   - Transformation Capital
+  source: https://latenthealth.com/press/latent-emerges-as-clinical-ai-leader-raising-80m-to-close-the-gap-between-diagnosis-and-treatment
 founders:
 - name: Sriram Somasundaram
   role: Co-Founder & Co-CEO

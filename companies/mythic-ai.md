@@ -8,6 +8,7 @@ funding_rounds:
 - stage: Venture Round
   date: 2025-12
   amount_m: 125.0
+  source: https://www.bloomberg.com/news/articles/2025-12-17/ai-chip-startup-mythic-raises-125-million-in-bid-to-take-on-nvidia
 last_updated: 2026-03-21
 confidence: medium
 data_notes: 'Needs verification: website, founders, source_urls, headquarters. Profile may be incomplete.'

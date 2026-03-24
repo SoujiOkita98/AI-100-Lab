@@ -27,6 +27,7 @@ funding_rounds:
   valuation_m: 800
   lead_investors:
   - ICONIQ
+  source: https://www.braintrust.dev/blog/announcing-series-b
 last_updated: 2026-03-21
 confidence: medium
 website: https://braintrust.dev

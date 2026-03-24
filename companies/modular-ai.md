@@ -19,6 +19,7 @@ funding_rounds:
   lead_investors:
   - General Catalyst
   - GV
+  source: https://techcrunch.com/2023/08/24/modular-raises-100m-for-ai-dev-tools/
 last_updated: 2026-03-21
 confidence: medium
 data_notes: 'Needs verification: website, source_urls, headquarters. Profile may be incomplete.'

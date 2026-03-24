@@ -11,6 +11,7 @@ funding_rounds:
 - stage: Series C
   date: '2022'
   amount_m: 130
+  source: https://ayarlabs.com/news/ayar-labs-raises-130-million-in-series-c-funding/
 founders:
 - name: Mark Wade
   role: Co-Founder & CEO (appointed CEO Dec 2023, formerly CTO)

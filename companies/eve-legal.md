@@ -11,6 +11,7 @@ funding_rounds:
   lead_investors:
   - Coatue
   - Andreessen Horowitz
+  source: https://www.prnewswire.com/news-releases/eve-raises-103-million-at-1-billion-valuation-to-help-plaintiff-firms-deliver-justice-through-ai-transformation-302570807.html
 founders:
 - name: Jay Madheswaran
   role: Co-Founder & CEO

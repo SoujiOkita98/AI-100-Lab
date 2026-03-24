@@ -17,6 +17,7 @@ funding_rounds:
   lead_investors:
   - Baidu
   - CRRC
+  source: https://www.yicaiglobal.com/news/chinas-ai-robotics-raises-usd145-million-for-model-development-product-upgrades
 last_updated: 2026-03-21
 confidence: medium
 data_notes: 'Needs verification: website, source_urls. Profile may be incomplete.'

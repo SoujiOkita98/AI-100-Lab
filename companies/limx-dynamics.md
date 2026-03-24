@@ -12,6 +12,7 @@ funding_rounds:
   lead_investors:
   - Alibaba
   - JD.com
+  source: https://kr-asia.com/limx-dynamics-raises-series-b-funding-to-push-embodied-robots-into-real-world-use
 founders:
 - name: Wei Zhang
   role: Co-Founder & CEO

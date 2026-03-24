@@ -11,6 +11,7 @@ funding_rounds:
   amount_m: 125
   lead_investors:
   - Korea Development Bank
+  source: https://www.businesswire.com/news/home/20250730613509/en/FuriosaAI-Closes-$125M-Investment-Round-to-Scale-Production-of-Next-Gen-AI-Inference-Chip
 founders:
 - name: June Paik
   role: Founder & CEO
