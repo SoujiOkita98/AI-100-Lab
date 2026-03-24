@@ -384,6 +384,65 @@
     ]
   },
   {
+    "slug": "a0-dev",
+    "name": "a0.dev",
+    "status": "Active",
+    "founded_year": "2024",
+    "hq": "San Francisco, CA",
+    "website": "https://a0.dev",
+    "sector": "AI Developer Tools / Mobile App Development",
+    "one_liner": "AI-powered platform that generates full React Native mobile apps from prompts in seconds",
+    "total_raised_m": 0.5,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "Medium",
+    "last_updated": "2026-03-23",
+    "founders": [
+      {
+        "company_slug": "a0-dev",
+        "name": "Ayomide Omolewa",
+        "role": "Co-Founder",
+        "background": "",
+        "origin": "",
+        "prior": ""
+      },
+      {
+        "company_slug": "a0-dev",
+        "name": "Seth Setse",
+        "role": "Co-Founder",
+        "background": "",
+        "origin": "",
+        "prior": ""
+      },
+      {
+        "company_slug": "a0-dev",
+        "name": "Bradley Lafond",
+        "role": "Co-Founder",
+        "background": "",
+        "origin": "",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "a0-dev",
+        "stage": "Pre-Seed",
+        "date": "2025-01",
+        "amount_m": 0.5,
+        "valuation_m": null,
+        "lead_investors": "Y Combinator",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
     "slug": "aaru",
     "name": "Aaru",
     "status": "active",
@@ -1113,6 +1172,83 @@
         "amount_m": 9.0,
         "valuation_m": null,
         "lead_investors": "Concentric",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
+    "slug": "afterquery",
+    "name": "AfterQuery",
+    "status": "Active",
+    "founded_year": "2024",
+    "hq": "San Francisco, CA",
+    "website": "https://afterquery.com",
+    "sector": "AI Data Analytics",
+    "one_liner": "AI-powered data analytics platform for business intelligence and decision-making",
+    "total_raised_m": 0.5,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "Low",
+    "last_updated": "2026-03-23",
+    "founders": [],
+    "funding_rounds": [
+      {
+        "company_slug": "afterquery",
+        "stage": "Seed",
+        "date": "2025-03",
+        "amount_m": 0.5,
+        "valuation_m": null,
+        "lead_investors": "Y Combinator",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
+    "slug": "agentin-ai",
+    "name": "Agentin AI",
+    "status": "Active",
+    "founded_year": "2024",
+    "hq": "San Francisco, CA",
+    "website": "https://agentin.ai",
+    "sector": "AI Agents / Enterprise Automation",
+    "one_liner": "AI agents with reinforcement learning that learn and adapt from failures to automate enterprise software processes",
+    "total_raised_m": 0.5,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "Medium",
+    "last_updated": "2026-03-23",
+    "founders": [
+      {
+        "company_slug": "agentin-ai",
+        "name": "Sankeerth Rao Karingula",
+        "role": "Founder",
+        "background": "Ex-Google Research Scientist",
+        "origin": "",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "agentin-ai",
+        "stage": "Seed",
+        "date": "2025-03",
+        "amount_m": 0.5,
+        "valuation_m": null,
+        "lead_investors": "Y Combinator",
         "other_investors": "",
         "source": "",
         "notes": ""
@@ -3863,6 +3999,57 @@
     ]
   },
   {
+    "slug": "apriora",
+    "name": "Apriora",
+    "status": "Active",
+    "founded_year": "2023",
+    "hq": "San Francisco, CA",
+    "website": "https://apriora.ai",
+    "sector": "AI Recruiting / HR Tech",
+    "one_liner": "AI interviewer that screens job candidates through live video conversations with personalized follow-up questions",
+    "total_raised_m": 3.3,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "High",
+    "last_updated": "2026-03-23",
+    "founders": [
+      {
+        "company_slug": "apriora",
+        "name": "Aaron Wang",
+        "role": "Co-Founder",
+        "background": "Quant finance, Facebook AI",
+        "origin": "",
+        "prior": ""
+      },
+      {
+        "company_slug": "apriora",
+        "name": "John Rytel",
+        "role": "Co-Founder",
+        "background": "",
+        "origin": "",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "apriora",
+        "stage": "Seed",
+        "date": "2024-06",
+        "amount_m": 2.8,
+        "valuation_m": null,
+        "lead_investors": "1984 Ventures",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
     "slug": "arago-photonics",
     "name": "Arago Photonics",
     "status": "active",
@@ -4503,6 +4690,57 @@
     "top_investors": []
   },
   {
+    "slug": "arva-ai",
+    "name": "Arva AI",
+    "status": "Active",
+    "founded_year": "2024",
+    "hq": "San Francisco, CA",
+    "website": "https://arva.ai",
+    "sector": "AI Compliance / FinTech",
+    "one_liner": "AI agents for instant global KYB/KYC onboarding and AML compliance operations",
+    "total_raised_m": 3.5,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "Medium",
+    "last_updated": "2026-03-23",
+    "founders": [
+      {
+        "company_slug": "arva-ai",
+        "name": "Rhim Shah",
+        "role": "Co-Founder",
+        "background": "",
+        "origin": "",
+        "prior": ""
+      },
+      {
+        "company_slug": "arva-ai",
+        "name": "Oliver Wales",
+        "role": "Co-Founder",
+        "background": "",
+        "origin": "",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "arva-ai",
+        "stage": "Seed",
+        "date": "2025-01",
+        "amount_m": 3.0,
+        "valuation_m": null,
+        "lead_investors": "Undisclosed",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
     "slug": "assembled",
     "name": "Assembled",
     "status": "Series B",
@@ -4754,6 +4992,68 @@
         "lead_investors": "East X Ventures; Sure Valley Ventures",
         "other_investors": "",
         "source": "",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
+    "slug": "athina-ai",
+    "name": "Athina AI",
+    "status": "Private",
+    "founded_year": "2023",
+    "hq": "San Francisco, CA",
+    "website": "https://www.athina.ai",
+    "sector": "AI Infrastructure / LLM Evaluation",
+    "one_liner": "End-to-end platform for prototyping, experimenting, evaluating, and monitoring production-grade AI pipelines",
+    "total_raised_m": 3.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "unknown",
+    "last_updated": "2026-03-23",
+    "founders": [
+      {
+        "company_slug": "athina-ai",
+        "name": "Shiv Sakhuja",
+        "role": "Co-Founder & CEO",
+        "background": "Software engineering and AI/ML background; previously at enterprise tech companies",
+        "origin": "Indian-American",
+        "prior": ""
+      },
+      {
+        "company_slug": "athina-ai",
+        "name": "Akshat Gupta",
+        "role": "Co-Founder",
+        "background": "Engineering background",
+        "origin": "Indian-American",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "athina-ai",
+        "stage": "Pre-Seed",
+        "date": "2023-04",
+        "amount_m": 0.5,
+        "valuation_m": null,
+        "lead_investors": "Y Combinator",
+        "other_investors": "",
+        "source": "https://www.crunchbase.com/organization/magikinvest",
+        "notes": ""
+      },
+      {
+        "company_slug": "athina-ai",
+        "stage": "Seed",
+        "date": "2024-11",
+        "amount_m": 3.0,
+        "valuation_m": null,
+        "lead_investors": "Undisclosed",
+        "other_investors": "",
+        "source": "https://www.trysignalbase.com/news/funding/announcing-athina-ai's-seed-round-2.96m-raised-to-empower-llm-developers-in-ai-prototype-and-production-monitoring",
         "notes": ""
       }
     ],
@@ -5126,6 +5426,57 @@
         "lead_investors": "5Y Capital; Qiming Venture Partners",
         "other_investors": "",
         "source": "",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
+    "slug": "automat-ai",
+    "name": "Automat",
+    "status": "Private",
+    "founded_year": "2023",
+    "hq": "San Francisco, CA",
+    "website": "https://automat.ai",
+    "sector": "AI / Automation / RPA",
+    "one_liner": "AI-enabled RPA platform that turns video recordings and descriptions into automated software workflows using ChatGPT and computer vision",
+    "total_raised_m": 1.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "unknown",
+    "last_updated": "2026-03-23",
+    "founders": [
+      {
+        "company_slug": "automat-ai",
+        "name": "Lucas Ochoa",
+        "role": "Co-Founder",
+        "background": "Previously at Google; left to build AI-powered automation full-time",
+        "origin": "American",
+        "prior": ""
+      },
+      {
+        "company_slug": "automat-ai",
+        "name": "Gautam Bose",
+        "role": "Co-Founder",
+        "background": "Previously at Google; left to build AI-powered automation full-time",
+        "origin": "American",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "automat-ai",
+        "stage": "Pre-Seed",
+        "date": "2023-03",
+        "amount_m": 0.5,
+        "valuation_m": null,
+        "lead_investors": "Y Combinator",
+        "other_investors": "",
+        "source": "https://www.crunchbase.com/organization/lasso-d885",
         "notes": ""
       }
     ],
@@ -5775,6 +6126,57 @@
     "top_investors": []
   },
   {
+    "slug": "basepilot",
+    "name": "Basepilot",
+    "status": "Active",
+    "founded_year": "2023",
+    "hq": "San Francisco, CA",
+    "website": "https://basepilot.com",
+    "sector": "AI Automation / Browser-Based Workflows",
+    "one_liner": "AI coworkers that automate repetitive browser-based tasks through demonstration learning",
+    "total_raised_m": 0.5,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "Medium",
+    "last_updated": "2026-03-23",
+    "founders": [
+      {
+        "company_slug": "basepilot",
+        "name": "Pascal Wieler",
+        "role": "Co-Founder",
+        "background": "Carnegie Mellon robotics, Mercedes-Benz Research",
+        "origin": "",
+        "prior": ""
+      },
+      {
+        "company_slug": "basepilot",
+        "name": "Ken Hendricks",
+        "role": "Co-Founder",
+        "background": "Led fintech product to 3M users",
+        "origin": "",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "basepilot",
+        "stage": "Seed",
+        "date": "2024-03",
+        "amount_m": 0.5,
+        "valuation_m": null,
+        "lead_investors": "Y Combinator",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
     "slug": "baseten",
     "name": "Baseten",
     "status": "Private",
@@ -6209,6 +6611,49 @@
         "lead_investors": "Accel",
         "other_investors": "",
         "source": "",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
+    "slug": "birch-biosciences",
+    "name": "Birch Biosciences",
+    "status": "Private",
+    "founded_year": "2022",
+    "hq": "Portland, OR",
+    "website": "https://www.birchbiosciences.com",
+    "sector": "AI / Biotech / Climate / Enzyme Engineering",
+    "one_liner": "Uses generative AI and enzyme engineering to develop novel biological solutions for plastic recycling",
+    "total_raised_m": 2.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "unknown",
+    "last_updated": "2026-03-23",
+    "founders": [
+      {
+        "company_slug": "birch-biosciences",
+        "name": "Morgan Vague",
+        "role": "Co-Founder & CEO",
+        "background": "Microbiologist and enzyme engineer; research background in plastic-degrading bacteria and enzymes; PhD-level expertise in synthetic biology",
+        "origin": "American",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "birch-biosciences",
+        "stage": "Pre-Seed",
+        "date": "2022-09",
+        "amount_m": 0.5,
+        "valuation_m": null,
+        "lead_investors": "Y Combinator",
+        "other_investors": "",
+        "source": "https://www.ycombinator.com/companies/birch-biosciences",
         "notes": ""
       }
     ],
@@ -7607,6 +8052,40 @@
       }
     ],
     "funding_rounds": [],
+    "top_investors": []
+  },
+  {
+    "slug": "calltree-ai",
+    "name": "Calltree AI",
+    "status": "Active",
+    "founded_year": "2024",
+    "hq": "San Francisco, CA",
+    "website": "https://calltree.ai",
+    "sector": "AI Voice Agents / Enterprise Customer Support",
+    "one_liner": "Enterprise-grade AI support reps for call centers that use internal enterprise tools like CRM and dashboards",
+    "total_raised_m": 0.5,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "Low",
+    "last_updated": "2026-03-23",
+    "founders": [],
+    "funding_rounds": [
+      {
+        "company_slug": "calltree-ai",
+        "stage": "Seed",
+        "date": "2025-03",
+        "amount_m": 0.5,
+        "valuation_m": null,
+        "lead_investors": "Y Combinator",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
+      }
+    ],
     "top_investors": []
   },
   {
@@ -10946,6 +11425,68 @@
         "other_investors": "",
         "source": "https://www.cradle.bio/blog/series-b",
         "notes": "Index Ventures and Kindred Capital participated. Brought total raised to over $100M."
+      }
+    ],
+    "top_investors": []
+  },
+  {
+    "slug": "credal-ai",
+    "name": "Credal.ai",
+    "status": "Private",
+    "founded_year": "2022",
+    "hq": "New York, NY",
+    "website": "https://www.credal.ai",
+    "sector": "AI Security / Enterprise AI",
+    "one_liner": "Secure AI agent platform that connects enterprise data to LLMs with built-in governance and compliance",
+    "total_raised_m": 5.3,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "unknown",
+    "last_updated": "2026-03-23",
+    "founders": [
+      {
+        "company_slug": "credal-ai",
+        "name": "Ravin Thambapillai",
+        "role": "Co-Founder & CEO",
+        "background": "7 years at Palantir building AI systems for financial institutions, life sciences, and public health; previously at Google, THG (IPO), and GoCardless (unicorn)",
+        "origin": "British",
+        "prior": ""
+      },
+      {
+        "company_slug": "credal-ai",
+        "name": "Jack Fischer",
+        "role": "Co-Founder",
+        "background": "Tech lead at Palantir applying AI in air travel, healthcare, and US defense; led Palantir's first cash-generative Life Sciences project; previously at H1",
+        "origin": "American",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "credal-ai",
+        "stage": "Pre-Seed",
+        "date": "2023-04",
+        "amount_m": 0.5,
+        "valuation_m": null,
+        "lead_investors": "Y Combinator",
+        "other_investors": "",
+        "source": "https://www.crunchbase.com/organization/credal-ai",
+        "notes": ""
+      },
+      {
+        "company_slug": "credal-ai",
+        "stage": "Seed",
+        "date": "2023-10",
+        "amount_m": 4.8,
+        "valuation_m": null,
+        "lead_investors": "Spark Capital",
+        "other_investors": "",
+        "source": "https://techcrunch.com/2023/10/26/credal-aims-to-connect-company-data-to-llms-securely/",
+        "notes": ""
       }
     ],
     "top_investors": []
@@ -15855,6 +16396,57 @@
     "top_investors": []
   },
   {
+    "slug": "final-round-ai",
+    "name": "Final Round AI",
+    "status": "Private",
+    "founded_year": "2023",
+    "hq": "San Francisco, CA",
+    "website": "https://www.finalroundai.com",
+    "sector": "AI / HR Tech / Interview Preparation",
+    "one_liner": "AI-powered interview preparation and job search platform offering real-time interview coaching (Interview Copilot), mock interviews, and resume optimization to help job seekers land roles faster",
+    "total_raised_m": 6.9,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "high",
+    "last_updated": "2026-03-23",
+    "founders": [
+      {
+        "company_slug": "final-round-ai",
+        "name": "Michael Guan",
+        "role": "Co-Founder & CEO",
+        "background": "Yale University. Former CTO at CYNK; previously in product marketing at Starburst Data (supported $250M Series D).",
+        "origin": "Unknown",
+        "prior": ""
+      },
+      {
+        "company_slug": "final-round-ai",
+        "name": "Jay Ma",
+        "role": "Co-Founder & CTO",
+        "background": "University of Illinois at Urbana-Champaign. Former ML engineer at Pinterest, Meta, and AMD. Reverse-engineered LinkedIn while in college.",
+        "origin": "Unknown",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "final-round-ai",
+        "stage": "Seed",
+        "date": "2025-01-30",
+        "amount_m": 6.9,
+        "valuation_m": null,
+        "lead_investors": "Uncork Capital",
+        "other_investors": "HF0; Linear Capital; Ritual Capital; Mento VC; AltaIR Capital; Alumni Ventures; Goodwater Capital; Hico Ventures; Soma Capital; iSeed Ventures; Level One Partners; Sky9 Capital",
+        "source": "https://www.prnewswire.com/news-releases/final-round-ai-secures-6-88m-in-oversubscribed-seed-funding-to-transform-the-job-search-journey-302363088.html",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
     "slug": "finster-ai",
     "name": "Finster AI",
     "status": "active",
@@ -19098,6 +19690,40 @@
     "top_investors": []
   },
   {
+    "slug": "hamming",
+    "name": "Hamming",
+    "status": "Active",
+    "founded_year": "2024",
+    "hq": "San Francisco, CA",
+    "website": "https://hamming.ai",
+    "sector": "AI Testing / Voice Agent QA",
+    "one_liner": "Automated testing platform for voice agents and conversational AI applications",
+    "total_raised_m": 0.5,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "Low",
+    "last_updated": "2026-03-23",
+    "founders": [],
+    "funding_rounds": [
+      {
+        "company_slug": "hamming",
+        "stage": "Seed",
+        "date": "2024-09",
+        "amount_m": 0.5,
+        "valuation_m": null,
+        "lead_investors": "Y Combinator",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
     "slug": "happyrobot",
     "name": "HappyRobot",
     "status": "Active, Private",
@@ -19896,6 +20522,76 @@
         "other_investors": "",
         "source": "https://techcrunch.com/2025/10/05/heidi-health-raises-65m-series-b-led-by-steve-cohens-point72/",
         "notes": "Blackbird, Headline, Latitude (Phoenix Court growth fund) also participated."
+      }
+    ],
+    "top_investors": []
+  },
+  {
+    "slug": "helicone",
+    "name": "Helicone",
+    "status": "Acquired by Mintlify (Mar 2026)",
+    "founded_year": "2023",
+    "hq": "San Francisco, CA",
+    "website": "https://www.helicone.ai",
+    "sector": "AI Infrastructure / LLM Observability",
+    "one_liner": "Open-source LLM observability platform and AI gateway providing monitoring, evaluation, and experimentation with one line of code",
+    "total_raised_m": 5.0,
+    "latest_valuation_m": 25.0,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "unknown",
+    "last_updated": "2026-03-23",
+    "founders": [
+      {
+        "company_slug": "helicone",
+        "name": "Justin Torre",
+        "role": "Co-Founder",
+        "background": "Software engineering background; AI infrastructure experience",
+        "origin": "American",
+        "prior": ""
+      },
+      {
+        "company_slug": "helicone",
+        "name": "Scott Nguyen",
+        "role": "Co-Founder",
+        "background": "Software engineering background",
+        "origin": "American",
+        "prior": ""
+      },
+      {
+        "company_slug": "helicone",
+        "name": "Cole Gottdank",
+        "role": "Co-Founder",
+        "background": "Software engineering background",
+        "origin": "American",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "helicone",
+        "stage": "Pre-Seed",
+        "date": "2023-04",
+        "amount_m": 0.5,
+        "valuation_m": null,
+        "lead_investors": "Y Combinator",
+        "other_investors": "",
+        "source": "https://www.crunchbase.com/organization/helicone",
+        "notes": ""
+      },
+      {
+        "company_slug": "helicone",
+        "stage": "Seed",
+        "date": "2024-09",
+        "amount_m": 5.0,
+        "valuation_m": 25.0,
+        "lead_investors": "Y Combinator",
+        "other_investors": "",
+        "source": "https://salestools.io/en/report/helicone-5m-seed",
+        "notes": ""
       }
     ],
     "top_investors": []
@@ -22101,6 +22797,76 @@
     "top_investors": []
   },
   {
+    "slug": "k-scale-labs",
+    "name": "K-Scale Labs",
+    "status": "Active",
+    "founded_year": "2024",
+    "hq": "San Francisco, CA",
+    "website": "https://www.kscale.dev",
+    "sector": "Robotics / Open-Source Hardware",
+    "one_liner": "Open-source humanoid robots buildable with 3D printers for under $10,000",
+    "total_raised_m": 6.8,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "High",
+    "last_updated": "2026-03-23",
+    "founders": [
+      {
+        "company_slug": "k-scale-labs",
+        "name": "Benjamin Bolte",
+        "role": "Co-Founder",
+        "background": "Tesla, Meta robotics",
+        "origin": "",
+        "prior": ""
+      },
+      {
+        "company_slug": "k-scale-labs",
+        "name": "Matthew Freed",
+        "role": "Co-Founder",
+        "background": "Lockheed Martin, General Dynamics",
+        "origin": "",
+        "prior": ""
+      },
+      {
+        "company_slug": "k-scale-labs",
+        "name": "Pawel Budzianowski",
+        "role": "Co-Founder",
+        "background": "PhD Cambridge, ML researcher",
+        "origin": "",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "k-scale-labs",
+        "stage": "Seed",
+        "date": "2024-02",
+        "amount_m": 4.0,
+        "valuation_m": null,
+        "lead_investors": "Fellows Fund",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
+      },
+      {
+        "company_slug": "k-scale-labs",
+        "stage": "Angel",
+        "date": "2024-04",
+        "amount_m": 0.2,
+        "valuation_m": null,
+        "lead_investors": "Nat Friedman; Daniel Gross",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
     "slug": "kaaj",
     "name": "Kaaj",
     "status": "active",
@@ -22780,6 +23546,57 @@
     "top_investors": []
   },
   {
+    "slug": "knowtex",
+    "name": "Knowtex",
+    "status": "Private",
+    "founded_year": "2022",
+    "hq": "San Francisco, CA",
+    "website": "https://www.knowtex.ai",
+    "sector": "AI / Healthcare / Clinical AI",
+    "one_liner": "AI-powered ambient clinical documentation and charge capture that makes doctors 2x more efficient",
+    "total_raised_m": 2.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "unknown",
+    "last_updated": "2026-03-23",
+    "founders": [
+      {
+        "company_slug": "knowtex",
+        "name": "Caroline Zhang",
+        "role": "Co-Founder & CEO",
+        "background": "Stanford CS (AI concentration) and Economics; previously at Schmidt Futures (AI research/policy), Morgan Stanley (investment banking), and Salk Institute (biomedical research); worked as medical scribe",
+        "origin": "American",
+        "prior": ""
+      },
+      {
+        "company_slug": "knowtex",
+        "name": "Jocelyn Kang",
+        "role": "Co-Founder & CTO",
+        "background": "Stanford CS + Linguistics/Psychology (Summa Cum Laude, Phi Beta Kappa); founding product team member at Learn to Win; previously worked on AI/ML teams at multiple startups; worked as medical scribe",
+        "origin": "American",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "knowtex",
+        "stage": "Pre-Seed",
+        "date": "2022-09",
+        "amount_m": 0.5,
+        "valuation_m": null,
+        "lead_investors": "Y Combinator",
+        "other_investors": "",
+        "source": "https://www.ycombinator.com/companies/knowtex",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
     "slug": "knowunity",
     "name": "Knowunity",
     "status": "Private",
@@ -23413,6 +24230,76 @@
     "top_investors": []
   },
   {
+    "slug": "langfuse",
+    "name": "Langfuse",
+    "status": "Private",
+    "founded_year": "2022",
+    "hq": "Berlin, Germany",
+    "website": "https://langfuse.com",
+    "sector": "AI Infrastructure / LLM Observability",
+    "one_liner": "Open-source LLM engineering platform for observability, evaluation, prompt management, and analytics",
+    "total_raised_m": 4.5,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "unknown",
+    "last_updated": "2026-03-23",
+    "founders": [
+      {
+        "company_slug": "langfuse",
+        "name": "Marc Klingen",
+        "role": "CEO",
+        "background": "Previously at McKinsey and Roland Berger; technical background in software engineering",
+        "origin": "German",
+        "prior": ""
+      },
+      {
+        "company_slug": "langfuse",
+        "name": "Max Deichmann",
+        "role": "Co-Founder",
+        "background": "Previously at BCG and in startup operations",
+        "origin": "German",
+        "prior": ""
+      },
+      {
+        "company_slug": "langfuse",
+        "name": "Clemens Rawert",
+        "role": "Co-Founder",
+        "background": "Previously at McKinsey; software engineering background",
+        "origin": "German",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "langfuse",
+        "stage": "Pre-Seed",
+        "date": "2023-04",
+        "amount_m": 0.5,
+        "valuation_m": null,
+        "lead_investors": "Y Combinator",
+        "other_investors": "",
+        "source": "https://langfuse.com/blog/announcing-our-seed-round",
+        "notes": ""
+      },
+      {
+        "company_slug": "langfuse",
+        "stage": "Seed",
+        "date": "2023-11",
+        "amount_m": 4.0,
+        "valuation_m": null,
+        "lead_investors": "Lightspeed Venture Partners",
+        "other_investors": "",
+        "source": "https://langfuse.com/blog/announcing-our-seed-round",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
     "slug": "latent-health",
     "name": "Latent Health",
     "status": "active",
@@ -23501,6 +24388,49 @@
         "lead_investors": "Radical Ventures; Sofinnova Partners",
         "other_investors": "",
         "source": "https://techcrunch.com/2025/02/12/founded-by-deepmind-alumnus-latent-labs-launches-with-50m/",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
+    "slug": "leaping-ai",
+    "name": "Leaping AI",
+    "status": "Active",
+    "founded_year": "2023",
+    "hq": "Berlin, Germany / San Francisco, CA",
+    "website": "https://leapingai.com",
+    "sector": "AI Voice Agents / Customer Service",
+    "one_liner": "Voice AI agents that automate complex call center operations with human-like conversations",
+    "total_raised_m": 5.2,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "High",
+    "last_updated": "2026-03-23",
+    "founders": [
+      {
+        "company_slug": "leaping-ai",
+        "name": "Kevin Wu",
+        "role": "CEO & Co-Founder",
+        "background": "",
+        "origin": "",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "leaping-ai",
+        "stage": "Seed",
+        "date": "2025-06",
+        "amount_m": 4.7,
+        "valuation_m": null,
+        "lead_investors": "Nexus Venture Partners",
+        "other_investors": "",
+        "source": "",
         "notes": ""
       }
     ],
@@ -25593,6 +26523,57 @@
     "top_investors": []
   },
   {
+    "slug": "maihem",
+    "name": "MAIHEM",
+    "status": "Active",
+    "founded_year": "2023",
+    "hq": "San Francisco, CA",
+    "website": "https://maihem.ai",
+    "sector": "AI Testing & Quality Assurance",
+    "one_liner": "AI agents that continuously test and quality-assure conversational AI applications",
+    "total_raised_m": 1.8,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "Medium",
+    "last_updated": "2026-03-23",
+    "founders": [
+      {
+        "company_slug": "maihem",
+        "name": "Max Ahrens",
+        "role": "CEO & Co-Founder",
+        "background": "PhD/Postdoc NLP Oxford, McKinsey",
+        "origin": "",
+        "prior": ""
+      },
+      {
+        "company_slug": "maihem",
+        "name": "Eduardo Candela",
+        "role": "CTO & Co-Founder",
+        "background": "PhD AI Safety Imperial College, MSc MIT, Tesla",
+        "origin": "",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "maihem",
+        "stage": "Seed",
+        "date": "2024-01",
+        "amount_m": 1.8,
+        "valuation_m": null,
+        "lead_investors": "Y Combinator",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
     "slug": "mainframe",
     "name": "Mainframe",
     "status": "Active",
@@ -26059,6 +27040,40 @@
     "top_investors": []
   },
   {
+    "slug": "marr-labs",
+    "name": "Marr Labs",
+    "status": "Active",
+    "founded_year": "2023",
+    "hq": "San Francisco, CA",
+    "website": "https://marrlabs.com",
+    "sector": "AI Voice Agents / Customer Service",
+    "one_liner": "Voice agents that perform phone-based tasks like scheduling and customer service, indistinguishable from humans",
+    "total_raised_m": 0.5,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "Low",
+    "last_updated": "2026-03-23",
+    "founders": [],
+    "funding_rounds": [
+      {
+        "company_slug": "marr-labs",
+        "stage": "Seed",
+        "date": "2024-03",
+        "amount_m": 0.5,
+        "valuation_m": null,
+        "lead_investors": "Y Combinator",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
     "slug": "marvelx",
     "name": "MarvelX",
     "status": "active",
@@ -26094,6 +27109,65 @@
         "amount_m": 6.0,
         "valuation_m": null,
         "lead_investors": "EQT Ventures",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
+    "slug": "mastra",
+    "name": "Mastra",
+    "status": "Active",
+    "founded_year": "2024",
+    "hq": "San Francisco, CA",
+    "website": "https://mastra.ai",
+    "sector": "AI Developer Tools / Agent Framework",
+    "one_liner": "Open-source TypeScript framework for building AI agents, from the team behind Gatsby",
+    "total_raised_m": 13.5,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "High",
+    "last_updated": "2026-03-23",
+    "founders": [
+      {
+        "company_slug": "mastra",
+        "name": "Abhi Aiyer",
+        "role": "Co-Founder",
+        "background": "",
+        "origin": "",
+        "prior": ""
+      },
+      {
+        "company_slug": "mastra",
+        "name": "Sam Bhagwat",
+        "role": "Co-Founder",
+        "background": "",
+        "origin": "",
+        "prior": ""
+      },
+      {
+        "company_slug": "mastra",
+        "name": "Shane Thomas",
+        "role": "Co-Founder",
+        "background": "",
+        "origin": "",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "mastra",
+        "stage": "Seed",
+        "date": "2025-03",
+        "amount_m": 13.0,
+        "valuation_m": null,
+        "lead_investors": "Y Combinator; Gradient Ventures",
         "other_investors": "",
         "source": "",
         "notes": ""
@@ -26918,6 +27992,79 @@
       }
     ],
     "funding_rounds": [],
+    "top_investors": []
+  },
+  {
+    "slug": "mintlify",
+    "name": "Mintlify",
+    "status": "Private",
+    "founded_year": "2021",
+    "hq": "San Francisco, CA",
+    "website": "https://www.mintlify.com",
+    "sector": "AI / Developer Tools / Documentation",
+    "one_liner": "AI-powered intelligent knowledge platform for creating, maintaining, and searching developer documentation",
+    "total_raised_m": 21.7,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "unknown",
+    "last_updated": "2026-03-23",
+    "founders": [
+      {
+        "company_slug": "mintlify",
+        "name": "Han Wang",
+        "role": "Co-Founder & CEO",
+        "background": "Software engineer by trade; previously worked on developer tools and infrastructure",
+        "origin": "American",
+        "prior": ""
+      },
+      {
+        "company_slug": "mintlify",
+        "name": "Hahnbee Lee",
+        "role": "Co-Founder",
+        "background": "Software engineer by trade; experience in developer tools and product development",
+        "origin": "Korean-American",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "mintlify",
+        "stage": "Pre-Seed",
+        "date": "2022-01",
+        "amount_m": 0.5,
+        "valuation_m": null,
+        "lead_investors": "Y Combinator",
+        "other_investors": "",
+        "source": "https://www.mintlify.com/blog/ycombinator",
+        "notes": ""
+      },
+      {
+        "company_slug": "mintlify",
+        "stage": "Seed",
+        "date": "2022-05",
+        "amount_m": 2.8,
+        "valuation_m": null,
+        "lead_investors": "Bain Capital Ventures",
+        "other_investors": "",
+        "source": "https://coreviewsystems.com/mintlify-a-y-combinator-startup-secured-2-8-million-in-a-seed-funding/",
+        "notes": ""
+      },
+      {
+        "company_slug": "mintlify",
+        "stage": "Series A",
+        "date": "2024-09",
+        "amount_m": 18.0,
+        "valuation_m": null,
+        "lead_investors": "Andreessen Horowitz (a16z)",
+        "other_investors": "",
+        "source": "https://www.mintlify.com/blog/series-a",
+        "notes": ""
+      }
+    ],
     "top_investors": []
   },
   {
@@ -29836,6 +30983,49 @@
     "top_investors": []
   },
   {
+    "slug": "nozomio",
+    "name": "Nozomio",
+    "status": "Active",
+    "founded_year": "2025",
+    "hq": "San Francisco, CA",
+    "website": "https://nozomio.com",
+    "sector": "AI Developer Tools / AI Coding Agents",
+    "one_liner": "AI-powered context layer that provides coding agents with up-to-date knowledge from libraries and documentation",
+    "total_raised_m": 6.7,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "High",
+    "last_updated": "2026-03-23",
+    "founders": [
+      {
+        "company_slug": "nozomio",
+        "name": "Arlan Rakhmetzhanov",
+        "role": "Founder & CEO",
+        "background": "18-year-old dropout from Kazakhstan",
+        "origin": "",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "nozomio",
+        "stage": "Seed",
+        "date": "2025-09",
+        "amount_m": 6.2,
+        "valuation_m": null,
+        "lead_investors": "CRV",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
     "slug": "nscale",
     "name": "Nscale",
     "status": "Private (IPO planned for 2026)",
@@ -30049,6 +31239,68 @@
         "lead_investors": "Founders Fund",
         "other_investors": "",
         "source": "https://www.crunchbase.com/organization/numeric",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
+    "slug": "numind",
+    "name": "NuMind",
+    "status": "Private",
+    "founded_year": "2022",
+    "hq": "San Francisco, CA",
+    "website": "https://www.numind.ai",
+    "sector": "AI Infrastructure / NLP / Custom Models",
+    "one_liner": "Platform for creating custom NLP models powered by LLMs -- 10x faster than traditional approaches, no ML expertise required",
+    "total_raised_m": 3.5,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "unknown",
+    "last_updated": "2026-03-23",
+    "founders": [
+      {
+        "company_slug": "numind",
+        "name": "Etienne Bernard",
+        "role": "Co-Founder & CEO",
+        "background": "Former Head of Machine Learning at Wolfram Research, where he led ML capabilities for Mathematica and the Wolfram Language; deep expertise in making ML accessible to non-experts",
+        "origin": "French",
+        "prior": ""
+      },
+      {
+        "company_slug": "numind",
+        "name": "Samuel Bernard",
+        "role": "Co-Founder",
+        "background": "Co-founded Make.org, a civic tech platform; background in technology and social impact",
+        "origin": "French",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "numind",
+        "stage": "Pre-Seed",
+        "date": "2022-09",
+        "amount_m": 0.5,
+        "valuation_m": null,
+        "lead_investors": "Y Combinator",
+        "other_investors": "",
+        "source": "https://www.ycombinator.com/companies/numind",
+        "notes": ""
+      },
+      {
+        "company_slug": "numind",
+        "stage": "Seed",
+        "date": "2023-03",
+        "amount_m": 3.0,
+        "valuation_m": null,
+        "lead_investors": "Flybridge",
+        "other_investors": "",
+        "source": "https://pulse2.com/numind-raises-3-million-to-create-custom-nlp-models-powered-with-llms/",
         "notes": ""
       }
     ],
@@ -30537,6 +31789,57 @@
     "top_investors": []
   },
   {
+    "slug": "octolane-ai",
+    "name": "Octolane AI",
+    "status": "Active",
+    "founded_year": "2023",
+    "hq": "San Francisco, CA",
+    "website": "https://octolane.com",
+    "sector": "AI Sales Intelligence / CRM",
+    "one_liner": "Self-driving AI CRM that automates sales actions and manual CRM updates",
+    "total_raised_m": 5.7,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "Medium",
+    "last_updated": "2026-03-23",
+    "founders": [
+      {
+        "company_slug": "octolane-ai",
+        "name": "One Chowdhury",
+        "role": "Co-Founder",
+        "background": "",
+        "origin": "",
+        "prior": ""
+      },
+      {
+        "company_slug": "octolane-ai",
+        "name": "Md Abdul Halim Rafi",
+        "role": "Co-Founder & CTO",
+        "background": "",
+        "origin": "",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "octolane-ai",
+        "stage": "Seed",
+        "date": "2024-06",
+        "amount_m": 2.6,
+        "valuation_m": null,
+        "lead_investors": "Undisclosed",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
     "slug": "octonomy",
     "name": "Octonomy",
     "status": "active",
@@ -30789,6 +32092,40 @@
         "lead_investors": "TLV Partners; Grove Ventures",
         "other_investors": "",
         "source": "https://techcrunch.com/2025/10/27/israeli-intelligence-vets-raise-20m/",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
+    "slug": "onlook",
+    "name": "Onlook",
+    "status": "Active",
+    "founded_year": "2024",
+    "hq": "San Francisco, CA",
+    "website": "https://onlook.dev",
+    "sector": "AI Developer Tools / Design-to-Code",
+    "one_liner": "Open-source visual editor for React apps that lets designers and developers collaborate in real time",
+    "total_raised_m": 0.5,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "Low",
+    "last_updated": "2026-03-23",
+    "founders": [],
+    "funding_rounds": [
+      {
+        "company_slug": "onlook",
+        "stage": "Seed",
+        "date": "2025-03",
+        "amount_m": 0.5,
+        "valuation_m": null,
+        "lead_investors": "Y Combinator",
+        "other_investors": "",
+        "source": "",
         "notes": ""
       }
     ],
@@ -32120,6 +33457,40 @@
     ]
   },
   {
+    "slug": "pave-robotics",
+    "name": "Pave Robotics",
+    "status": "Active",
+    "founded_year": "2024",
+    "hq": "San Francisco, CA",
+    "website": "https://paverobotics.com",
+    "sector": "Robotics / Construction",
+    "one_liner": "Autonomous robots for construction and infrastructure tasks",
+    "total_raised_m": 0.5,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "Low",
+    "last_updated": "2026-03-23",
+    "founders": [],
+    "funding_rounds": [
+      {
+        "company_slug": "pave-robotics",
+        "stage": "Seed",
+        "date": "2025-03",
+        "amount_m": 0.5,
+        "valuation_m": null,
+        "lead_investors": "Y Combinator",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
     "slug": "paxton-ai",
     "name": "Paxton",
     "status": "active",
@@ -32993,6 +34364,40 @@
         "amount_m": 7.0,
         "valuation_m": null,
         "lead_investors": "Stellaris Venture Partners",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
+    "slug": "pickle",
+    "name": "Pickle",
+    "status": "Active",
+    "founded_year": "2024",
+    "hq": "San Francisco, CA",
+    "website": "https://pickle.ai",
+    "sector": "AI Video / Real-Time Lip-Sync",
+    "one_liner": "AI that clones an ideal version of yourself for video calls, lip-syncing to your voice in real time",
+    "total_raised_m": 0.5,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "Low",
+    "last_updated": "2026-03-23",
+    "founders": [],
+    "funding_rounds": [
+      {
+        "company_slug": "pickle",
+        "stage": "Seed",
+        "date": "2025-03",
+        "amount_m": 0.5,
+        "valuation_m": null,
+        "lead_investors": "Y Combinator",
         "other_investors": "",
         "source": "",
         "notes": ""
@@ -35902,6 +37307,40 @@
     "top_investors": []
   },
   {
+    "slug": "revise-robotics",
+    "name": "Revise Robotics",
+    "status": "Active",
+    "founded_year": "2024",
+    "hq": "San Francisco, CA",
+    "website": "https://reviserobotics.com",
+    "sector": "Robotics / AI",
+    "one_liner": "AI-powered robotics company from YC W25 batch",
+    "total_raised_m": 0.5,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "Low",
+    "last_updated": "2026-03-23",
+    "founders": [],
+    "funding_rounds": [
+      {
+        "company_slug": "revise-robotics",
+        "stage": "Seed",
+        "date": "2025-03",
+        "amount_m": 0.5,
+        "valuation_m": null,
+        "lead_investors": "Y Combinator",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
     "slug": "rhino-federated",
     "name": "Rhino Federated Computing",
     "status": "active",
@@ -38057,6 +39496,138 @@
     "top_investors": []
   },
   {
+    "slug": "shadeform",
+    "name": "Shadeform",
+    "status": "Private",
+    "founded_year": "2023",
+    "hq": "San Francisco, CA",
+    "website": "https://shadeform.com",
+    "sector": "AI Infrastructure / GPU Cloud",
+    "one_liner": "GPU cloud marketplace aggregating compute supply from 20+ cloud providers with a unified API",
+    "total_raised_m": 1.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "unknown",
+    "last_updated": "2026-03-23",
+    "founders": [
+      {
+        "company_slug": "shadeform",
+        "name": "Ed Goode",
+        "role": "Co-Founder",
+        "background": "Previously built and operated cloud infrastructure at AWS; experience as infrastructure customer at Robinhood",
+        "origin": "American",
+        "prior": ""
+      },
+      {
+        "company_slug": "shadeform",
+        "name": "Ronald Ding",
+        "role": "Co-Founder",
+        "background": "Previously worked on cloud infrastructure at Azure; experience as infrastructure customer at Capital One",
+        "origin": "American",
+        "prior": ""
+      },
+      {
+        "company_slug": "shadeform",
+        "name": "Zach",
+        "role": "Co-Founder",
+        "background": "Cloud infrastructure engineering background",
+        "origin": "American",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "shadeform",
+        "stage": "Pre-Seed",
+        "date": "2023-09",
+        "amount_m": 0.5,
+        "valuation_m": null,
+        "lead_investors": "Y Combinator; Soma Capital",
+        "other_investors": "",
+        "source": "https://www.crunchbase.com/organization/shadeform-ai",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
+    "slug": "shaped",
+    "name": "Shaped",
+    "status": "Private",
+    "founded_year": "2021",
+    "hq": "New York, NY",
+    "website": "https://www.shaped.ai",
+    "sector": "AI Infrastructure / Recommendations & Search",
+    "one_liner": "Real-time retrieval and recommendation engine for search, feeds, and AI agents, powered by ML",
+    "total_raised_m": 10.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "unknown",
+    "last_updated": "2026-03-23",
+    "founders": [
+      {
+        "company_slug": "shaped",
+        "name": "Tullie Murrell",
+        "role": "Co-Founder & CEO",
+        "background": "Previously at Meta/Facebook AI Research where he created PyTorchVideo and worked on video-centric AI; deep expertise in recommendation systems and retrieval",
+        "origin": "Australian",
+        "prior": ""
+      },
+      {
+        "company_slug": "shaped",
+        "name": "Daniel Camilleri",
+        "role": "Co-Founder & CPO",
+        "background": "Previously at Uber and Afterpay; product and engineering experience in marketplace and fintech platforms",
+        "origin": "Australian",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "shaped",
+        "stage": "Pre-Seed",
+        "date": "2022-04",
+        "amount_m": 0.5,
+        "valuation_m": null,
+        "lead_investors": "Y Combinator",
+        "other_investors": "",
+        "source": "https://www.shaped.ai/blog/ycombinator",
+        "notes": ""
+      },
+      {
+        "company_slug": "shaped",
+        "stage": "Seed",
+        "date": "2023-01",
+        "amount_m": 1.9,
+        "valuation_m": null,
+        "lead_investors": "Liquid 2 Ventures",
+        "other_investors": "",
+        "source": "https://www.shaped.ai/blog/1-9m-funding-round",
+        "notes": ""
+      },
+      {
+        "company_slug": "shaped",
+        "stage": "Series A",
+        "date": "2024-07",
+        "amount_m": 8.0,
+        "valuation_m": null,
+        "lead_investors": "Madrona Ventures",
+        "other_investors": "",
+        "source": "https://techcrunch.com/2024/07/17/shaped-raises-8m-series-a-and-launches-its-self-serve-recommendations-and-search-service/",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
     "slug": "shenshu",
     "name": "Shenshu Technology",
     "status": "active",
@@ -39698,6 +41269,40 @@
     "top_investors": []
   },
   {
+    "slug": "sonauto",
+    "name": "Sonauto",
+    "status": "Active",
+    "founded_year": "2023",
+    "hq": "San Francisco, CA",
+    "website": "https://sonauto.ai",
+    "sector": "AI Music / Creative Tools",
+    "one_liner": "AI music editor that creates full-length songs from prompts, lyrics, or melodies",
+    "total_raised_m": 0.5,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "Low",
+    "last_updated": "2026-03-23",
+    "founders": [],
+    "funding_rounds": [
+      {
+        "company_slug": "sonauto",
+        "stage": "Seed",
+        "date": "2024-03",
+        "amount_m": 0.5,
+        "valuation_m": null,
+        "lead_investors": "Y Combinator",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
     "slug": "sourcegraph",
     "name": "Sourcegraph",
     "status": "Private (Series D)",
@@ -40079,6 +41684,65 @@
         "lead_investors": "Accel",
         "other_investors": "",
         "source": "https://www.speak.com/blog/series-c",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
+    "slug": "speedy-brand",
+    "name": "SpeedyBrand",
+    "status": "Private",
+    "founded_year": "2023",
+    "hq": "San Francisco, CA",
+    "website": "https://speedybrand.io",
+    "sector": "AI / Marketing / SEO",
+    "one_liner": "AI-powered SEO content marketing platform that generates optimized blog posts and social media content for SMBs",
+    "total_raised_m": 2.5,
+    "latest_valuation_m": 15.0,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "unknown",
+    "last_updated": "2026-03-23",
+    "founders": [
+      {
+        "company_slug": "speedy-brand",
+        "name": "Ayush Jasuja",
+        "role": "Co-Founder",
+        "background": "AI engineer; previously worked at Apple on AI/ML products",
+        "origin": "Indian-American",
+        "prior": ""
+      },
+      {
+        "company_slug": "speedy-brand",
+        "name": "Jatin Mehta",
+        "role": "Co-Founder",
+        "background": "AI engineer; previously worked at Microsoft on AI products",
+        "origin": "Indian-American",
+        "prior": ""
+      },
+      {
+        "company_slug": "speedy-brand",
+        "name": "Ranti Dev Sharma",
+        "role": "Co-Founder",
+        "background": "AI engineer; previously worked at Nextdoor and Salesforce on AI/ML products",
+        "origin": "Indian-American",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "speedy-brand",
+        "stage": "Seed",
+        "date": "2023-07",
+        "amount_m": 2.5,
+        "valuation_m": 15.0,
+        "lead_investors": "GV (Google Ventures); Y Combinator",
+        "other_investors": "",
+        "source": "https://www.businesswire.com/news/home/20230713281212/en/SpeedyBrand-Secures-$2.5M-in-Funding-Led-by-Google-Ventures-and-Y-Combinator",
         "notes": ""
       }
     ],
@@ -41660,6 +43324,102 @@
         "lead_investors": "In talks with Andreessen Horowitz, Warburg Pincus, TPG",
         "other_investors": "",
         "source": "https://www.bloomberg.com/news/articles/2025-07-30/scale-rival-surge-ai-in-talks-for-funding-at-25-billion-value",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
+    "slug": "sweep-ai",
+    "name": "Sweep",
+    "status": "Private",
+    "founded_year": "2023",
+    "hq": "San Francisco, CA",
+    "website": "https://sweep.dev",
+    "sector": "AI / Developer Tools / Code Assistant",
+    "one_liner": "AI coding assistant for JetBrains IDEs that automates code generation, bug fixes, and developer workflows",
+    "total_raised_m": 2.5,
+    "latest_valuation_m": 25.0,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "unknown",
+    "last_updated": "2026-03-23",
+    "founders": [
+      {
+        "company_slug": "sweep-ai",
+        "name": "William Zeng",
+        "role": "Co-Founder",
+        "background": "Youngest senior ML engineer at Roblox; deep experience in machine learning and AI-powered code generation",
+        "origin": "American",
+        "prior": ""
+      },
+      {
+        "company_slug": "sweep-ai",
+        "name": "Kevin Lu",
+        "role": "Co-Founder",
+        "background": "Top student in Math/CS at University of Waterloo; strong academic background in AI and computer science",
+        "origin": "Canadian",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "sweep-ai",
+        "stage": "Pre-Seed",
+        "date": "2023-06",
+        "amount_m": 0.5,
+        "valuation_m": null,
+        "lead_investors": "Y Combinator",
+        "other_investors": "",
+        "source": "https://www.ycombinator.com/companies/sweep",
+        "notes": ""
+      },
+      {
+        "company_slug": "sweep-ai",
+        "stage": "Seed",
+        "date": "2023-11",
+        "amount_m": 2.0,
+        "valuation_m": 25.0,
+        "lead_investors": "Goat Capital",
+        "other_investors": "",
+        "source": "https://techcrunch.com/2023/11/02/sweep-aims-to-automate-basic-dev-tasks-using-large-language-models/",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
+    "slug": "sync-labs",
+    "name": "Sync Labs",
+    "status": "Active",
+    "founded_year": "2023",
+    "hq": "San Francisco, CA",
+    "website": "https://synclabs.so",
+    "sector": "AI Video / Lip-Sync Technology",
+    "one_liner": "API enabling real-time lip-syncing for video subjects across any language",
+    "total_raised_m": 0.5,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "Low",
+    "last_updated": "2026-03-23",
+    "founders": [],
+    "funding_rounds": [
+      {
+        "company_slug": "sync-labs",
+        "stage": "Seed",
+        "date": "2024-03",
+        "amount_m": 0.5,
+        "valuation_m": null,
+        "lead_investors": "Y Combinator",
+        "other_investors": "",
+        "source": "",
         "notes": ""
       }
     ],
@@ -43942,6 +45702,129 @@
     "top_investors": []
   },
   {
+    "slug": "trellis",
+    "name": "Trellis",
+    "status": "Active",
+    "founded_year": "2023",
+    "hq": "San Francisco, CA",
+    "website": "https://runtrellis.com",
+    "sector": "AI Data Infrastructure",
+    "one_liner": "AI platform that transforms unstructured data into SQL-queryable tables using natural language schema definitions",
+    "total_raised_m": 0.5,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "Low",
+    "last_updated": "2026-03-23",
+    "founders": [],
+    "funding_rounds": [
+      {
+        "company_slug": "trellis",
+        "stage": "Seed",
+        "date": "2024-03",
+        "amount_m": 0.5,
+        "valuation_m": null,
+        "lead_investors": "Y Combinator",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
+    "slug": "trigger-dev",
+    "name": "Trigger.dev",
+    "status": "Private",
+    "founded_year": "2022",
+    "hq": "London, UK",
+    "website": "https://trigger.dev",
+    "sector": "AI Infrastructure / Developer Tools",
+    "one_liner": "Developer platform for building and deploying fully-managed AI agents and workflows with production-grade reliability",
+    "total_raised_m": 19.5,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "unknown",
+    "last_updated": "2026-03-23",
+    "founders": [
+      {
+        "company_slug": "trigger-dev",
+        "name": "Matt Aitken",
+        "role": "Co-Founder & CEO",
+        "background": "Created two iPad apps that won Apple's iPad App of the Year; previously built JSON Hero (open-source JSON viewer used by 35K+ developers/month); serial startup founder",
+        "origin": "British",
+        "prior": ""
+      },
+      {
+        "company_slug": "trigger-dev",
+        "name": "Eric Allam",
+        "role": "Co-Founder & CTO",
+        "background": "Co-founded CodeSchool.com (acquired 2015), an early code learning platform; previously built JSON Hero",
+        "origin": "British",
+        "prior": ""
+      },
+      {
+        "company_slug": "trigger-dev",
+        "name": "James Ritchie",
+        "role": "Co-Founder",
+        "background": "Director at Tiny Matter (design and development agency); MA in Communication from University of the Arts London",
+        "origin": "British",
+        "prior": ""
+      },
+      {
+        "company_slug": "trigger-dev",
+        "name": "Daniel Patel",
+        "role": "Co-Founder",
+        "background": "Software engineering",
+        "origin": "British",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "trigger-dev",
+        "stage": "Pre-Seed",
+        "date": "2023-04",
+        "amount_m": 0.5,
+        "valuation_m": null,
+        "lead_investors": "Y Combinator",
+        "other_investors": "",
+        "source": "https://www.ycombinator.com/companies/trigger-dev",
+        "notes": ""
+      },
+      {
+        "company_slug": "trigger-dev",
+        "stage": "Seed",
+        "date": "2023-08",
+        "amount_m": 3.0,
+        "valuation_m": null,
+        "lead_investors": "Undisclosed",
+        "other_investors": "",
+        "source": "https://www.crunchbase.com/organization/trigger-dev",
+        "notes": ""
+      },
+      {
+        "company_slug": "trigger-dev",
+        "stage": "Series A",
+        "date": "2025-03",
+        "amount_m": 16.0,
+        "valuation_m": null,
+        "lead_investors": "Standard Capital",
+        "other_investors": "",
+        "source": "https://trigger.dev/blog/series-a",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
     "slug": "tripo-ai",
     "name": "Tripo AI",
     "status": "Series A",
@@ -44107,6 +45990,124 @@
         "amount_m": 19.0,
         "valuation_m": null,
         "lead_investors": "Intel Capital",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
+    "slug": "truewind",
+    "name": "Truewind",
+    "status": "Private",
+    "founded_year": "2022",
+    "hq": "San Francisco, CA",
+    "website": "https://www.truewind.ai",
+    "sector": "AI / Fintech / Accounting",
+    "one_liner": "AI-powered digital accountant that automates bookkeeping and month-end close for startups and accounting firms",
+    "total_raised_m": 17.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "unknown",
+    "last_updated": "2026-03-23",
+    "founders": [
+      {
+        "company_slug": "truewind",
+        "name": "Alex Lee",
+        "role": "Co-Founder & CEO",
+        "background": "Previously at Plaid and JP Morgan; expertise in fintech and financial infrastructure",
+        "origin": "American",
+        "prior": ""
+      },
+      {
+        "company_slug": "truewind",
+        "name": "Tennison Chan",
+        "role": "Co-Founder",
+        "background": "Software engineering background; previously worked at tech companies in the Bay Area",
+        "origin": "American",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "truewind",
+        "stage": "Pre-Seed",
+        "date": "2023-04",
+        "amount_m": 0.5,
+        "valuation_m": null,
+        "lead_investors": "Y Combinator",
+        "other_investors": "",
+        "source": "https://www.truewind.ai/resources/seed-round-announcement",
+        "notes": ""
+      },
+      {
+        "company_slug": "truewind",
+        "stage": "Seed",
+        "date": "2023-09",
+        "amount_m": 3.0,
+        "valuation_m": null,
+        "lead_investors": "Fin Capital",
+        "other_investors": "",
+        "source": "https://www.axios.com/pro/fintech-deals/2023/09/18/ai-accounting-startup-truewind-3-million-seed",
+        "notes": ""
+      },
+      {
+        "company_slug": "truewind",
+        "stage": "Seed Extension",
+        "date": "2024-01",
+        "amount_m": 1.0,
+        "valuation_m": null,
+        "lead_investors": "Thomson Reuters Ventures",
+        "other_investors": "",
+        "source": "https://www.axios.com/pro/fintech-deals/2024/01/19/thomson-reuters-accounting-ai-truewind",
+        "notes": ""
+      },
+      {
+        "company_slug": "truewind",
+        "stage": "Series A",
+        "date": "2024-12",
+        "amount_m": 13.0,
+        "valuation_m": null,
+        "lead_investors": "Rho Capital; Thomson Reuters Ventures",
+        "other_investors": "",
+        "source": "https://www.axios.com/pro/fintech-deals/2024/12/11/accounting-ai-truewind-13-million",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
+    "slug": "truffle-ai",
+    "name": "Truffle AI",
+    "status": "Active",
+    "founded_year": "2024",
+    "hq": "San Francisco, CA",
+    "website": "https://truffle.bot",
+    "sector": "AI Agent Platform / Workflow Automation",
+    "one_liner": "AI agent development platform enabling businesses to build, customize, and deploy AI agents to automate workflows",
+    "total_raised_m": 0.5,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "Medium",
+    "last_updated": "2026-03-23",
+    "founders": [],
+    "funding_rounds": [
+      {
+        "company_slug": "truffle-ai",
+        "stage": "Seed",
+        "date": "2025-03",
+        "amount_m": 0.5,
+        "valuation_m": null,
+        "lead_investors": "Y Combinator",
         "other_investors": "",
         "source": "",
         "notes": ""
@@ -44517,6 +46518,49 @@
         "lead_investors": "Andreessen Horowitz; Lightspeed Venture Partners",
         "other_investors": "",
         "source": "https://techcrunch.com/2025/12/09/unconventional-ai-confirms-its-massive-475m-seed-round/",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
+    "slug": "undermind",
+    "name": "Undermind",
+    "status": "Active",
+    "founded_year": "2024",
+    "hq": "San Francisco, CA",
+    "website": "https://undermind.ai",
+    "sector": "AI Research Tools / Scientific Search",
+    "one_liner": "AI agent that reads and analyzes hundreds of academic papers to discover relevant scientific research",
+    "total_raised_m": 0.5,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "Medium",
+    "last_updated": "2026-03-23",
+    "founders": [
+      {
+        "company_slug": "undermind",
+        "name": "Thomas Hartke",
+        "role": "Co-Founder",
+        "background": "PhD quantum physics, MIT",
+        "origin": "",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "undermind",
+        "stage": "Seed",
+        "date": "2024-09",
+        "amount_m": 0.5,
+        "valuation_m": null,
+        "lead_investors": "Y Combinator",
+        "other_investors": "",
+        "source": "",
         "notes": ""
       }
     ],
@@ -47176,6 +49220,68 @@
     "top_investors": []
   },
   {
+    "slug": "whitelab-genomics",
+    "name": "WhiteLab Genomics",
+    "status": "Private",
+    "founded_year": "2019",
+    "hq": "Paris, France",
+    "website": "https://whitelabgx.com",
+    "sector": "AI / Biotech / Genomics",
+    "one_liner": "AI platform for accelerating the design of gene and cell therapies through predictive simulations",
+    "total_raised_m": 10.2,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "unknown",
+    "last_updated": "2026-03-23",
+    "founders": [
+      {
+        "company_slug": "whitelab-genomics",
+        "name": "David Del Bourgo",
+        "role": "Co-Founder & CEO",
+        "background": "Biotech and life sciences executive; expertise in genomic medicine and computational biology",
+        "origin": "French",
+        "prior": ""
+      },
+      {
+        "company_slug": "whitelab-genomics",
+        "name": "Julien Cottineau",
+        "role": "Co-Founder",
+        "background": "Technology and software development; experience in scientific computing platforms",
+        "origin": "French",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "whitelab-genomics",
+        "stage": "Pre-Seed",
+        "date": "2022-01",
+        "amount_m": 0.5,
+        "valuation_m": null,
+        "lead_investors": "Y Combinator",
+        "other_investors": "",
+        "source": "https://www.ycombinator.com/companies/whitelab-genomics",
+        "notes": ""
+      },
+      {
+        "company_slug": "whitelab-genomics",
+        "stage": "Series A",
+        "date": "2022-09",
+        "amount_m": 10.1,
+        "valuation_m": null,
+        "lead_investors": "Omnes Capital; Debiopharm",
+        "other_investors": "",
+        "source": "https://www.labiotech.eu/trends-news/whitelab-genomics-ai-powered-genomic-therapies-platform/",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
     "slug": "windborne",
     "name": "WindBorne Systems",
     "status": "active",
@@ -48224,6 +50330,40 @@
     "top_investors": []
   },
   {
+    "slug": "yoneda-labs",
+    "name": "Yoneda Labs",
+    "status": "Active",
+    "founded_year": "2023",
+    "hq": "San Francisco, CA",
+    "website": "https://yonedalabs.com",
+    "sector": "AI for Chemistry / Drug Discovery",
+    "one_liner": "Foundation model for chemists that predicts experimental outcomes and optimizes chemical reactions",
+    "total_raised_m": 4.5,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "Medium",
+    "last_updated": "2026-03-23",
+    "founders": [],
+    "funding_rounds": [
+      {
+        "company_slug": "yoneda-labs",
+        "stage": "Seed",
+        "date": "2024-05",
+        "amount_m": 4.0,
+        "valuation_m": null,
+        "lead_investors": "Undisclosed",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
     "slug": "you-com",
     "name": "You.com",
     "status": "active",
@@ -48308,6 +50448,60 @@
     "top_investors": []
   },
   {
+    "slug": "yuma-ai",
+    "name": "Yuma AI",
+    "status": "Private",
+    "founded_year": "2023",
+    "hq": "San Francisco, CA",
+    "website": "https://yuma.ai",
+    "sector": "AI / E-commerce / Customer Support",
+    "one_liner": "AI support and sales agent platform for e-commerce brands on Shopify, automating customer interactions at scale",
+    "total_raised_m": 5.5,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "unknown",
+    "last_updated": "2026-03-23",
+    "founders": [
+      {
+        "company_slug": "yuma-ai",
+        "name": "Guillaume Luccisano",
+        "role": "Co-Founder & CEO",
+        "background": "Serial entrepreneur; previously founded Flat.io (music technology); deep experience in AI and product development",
+        "origin": "French",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "yuma-ai",
+        "stage": "Pre-Seed",
+        "date": "2023-04",
+        "amount_m": 0.5,
+        "valuation_m": null,
+        "lead_investors": "Y Combinator",
+        "other_investors": "",
+        "source": "https://www.ycombinator.com/companies/yuma-ai",
+        "notes": ""
+      },
+      {
+        "company_slug": "yuma-ai",
+        "stage": "Seed",
+        "date": "2024-11",
+        "amount_m": 5.0,
+        "valuation_m": null,
+        "lead_investors": "Gradient Ventures (Google)",
+        "other_investors": "",
+        "source": "https://yuma.ai/blogs/yuma-ai-raises-5-million-to-transform-e-commerce-customer-support-with-advanced-ai-agents",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
     "slug": "yutori",
     "name": "Yutori",
     "status": "active",
@@ -48343,6 +50537,57 @@
         "amount_m": 15.0,
         "valuation_m": null,
         "lead_investors": "Radical Ventures; Felicis; Elad Gil; Fei-Fei Li; Jeff Dean",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
+    "slug": "zeroentropy",
+    "name": "ZeroEntropy",
+    "status": "Active",
+    "founded_year": "2024",
+    "hq": "San Francisco, CA",
+    "website": "https://www.zeroentropy.dev",
+    "sector": "AI Infrastructure / Search & Retrieval",
+    "one_liner": "AI-powered search and retrieval infrastructure using a proprietary re-ranker for next-gen RAG systems",
+    "total_raised_m": 4.7,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "High",
+    "last_updated": "2026-03-23",
+    "founders": [
+      {
+        "company_slug": "zeroentropy",
+        "name": "Ghita Houir Alami",
+        "role": "CEO & Co-Founder",
+        "background": "",
+        "origin": "",
+        "prior": ""
+      },
+      {
+        "company_slug": "zeroentropy",
+        "name": "Nicholas Pipitone",
+        "role": "CTO & Co-Founder",
+        "background": "",
+        "origin": "",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "zeroentropy",
+        "stage": "Seed",
+        "date": "2025-07",
+        "amount_m": 4.2,
+        "valuation_m": null,
+        "lead_investors": "Initialized Capital",
         "other_investors": "",
         "source": "",
         "notes": ""
