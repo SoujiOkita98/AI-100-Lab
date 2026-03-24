@@ -12,6 +12,7 @@ funding_rounds:
   amount_m: 6
   lead_investors:
   - Balderton Capital
+  source: https://www.musicbusinessworldwide.com/music-tech-startup-mozart-ai-raises-6m-in-oversubscribed-seed-round-led-by-balderton-capital/
 last_updated: 2026-03-21
 confidence: medium
 data_notes: 'Needs verification: founders, source_urls. Profile may be incomplete.'

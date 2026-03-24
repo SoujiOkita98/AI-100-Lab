@@ -18,9 +18,11 @@ funding_rounds:
   lead_investors:
   - T. Rowe Price
   - Breyer Capital
+  source: https://news.crunchbase.com/cybersecurity/alphabet-spinoff-sandbox-aq-quantum/
 - stage: Series E
   date: 2025-04
   amount_m: 450
+  source: https://www.sandboxaq.com/press/sandboxaq-closes-450m-series-e-round-with-expanded-investor-base
 last_updated: 2026-03-21
 confidence: medium
 website_verified: true

@@ -12,6 +12,7 @@ funding_rounds:
   lead_investors:
   - Accel
   - Initialized Capital
+  source: https://www.businesswire.com/news/home/20251202551013/en/PermitFlow-Raises-$54-Million-to-Solve-Constructions-Biggest-Bottlenecks-With-AI
 last_updated: 2026-03-21
 confidence: medium
 linkedin: https://www.linkedin.com/company/permitflow

@@ -10,6 +10,7 @@ funding_rounds:
 - stage: Pre-Seed
   date: 2025-06
   amount_m: 5
+  source: https://tech.eu/2025/06/18/superscale-ai-secures-5m-pre-seed-to-build-the-future-of-autonomous-marketing/
 last_updated: 2026-03-21
 confidence: medium
 crunchbase: https://www.crunchbase.com/organization/superscale-ai

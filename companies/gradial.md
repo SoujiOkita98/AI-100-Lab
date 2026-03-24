@@ -21,11 +21,13 @@ funding_rounds:
 - stage: Series A
   date: 2025-04
   amount_m: 13
+  source: https://www.finsmes.com/2025/03/gradial-raises-13m-in-series-a-funding.html
 - stage: Series B
   date: 2025-12
   amount_m: 35
   lead_investors:
   - VMG Partners
+  source: https://www.prnewswire.com/news-releases/gradial-raises-35-million-to-redefine-enterprise-marketing-through-ai-agents-302631055.html
 founders:
 - name: Doug Tallmadge
   role: Co-Founder & CEO

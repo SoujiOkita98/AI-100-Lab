@@ -13,6 +13,7 @@ funding_rounds:
   lead_investors:
   - Venture Guides
   - Ibex Investors
+  source: https://www.businesswire.com/news/home/20250916973286/en/Ray-Security-Exits-Stealth-With-$11M-to-Launch-First-AI-Powered-Predictive-Data-Security-Platform-Cutting-Enterprise-Data-Risk-by-90
 last_updated: 2026-03-21
 confidence: medium
 total_raised_m: 11.0

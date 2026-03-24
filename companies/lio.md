@@ -12,6 +12,7 @@ funding_rounds:
   amount_m: 30.0
   lead_investors:
   - Andreessen Horowitz
+  source: https://techcrunch.com/2026/03/05/lio-ai-series-a-a16z-30m-raise-automate-enterprise-procurement/
 founders:
 - name: Vladimir Keil
   role: Co-Founder & CEO

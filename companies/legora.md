@@ -13,18 +13,21 @@ funding_rounds:
   lead_investors:
   - ICONIQ
   - General Catalyst
+  source: https://www.businesswire.com/news/home/20250521743643/en/Legora-Attracts-$80-Million-Series-B-Funding-as-Top-Global-Law-Firms-and-Legal-Teams-Rush-to-Adopt-Its-Collaborative-AI
 - stage: Series C
   date: 2025-10
   amount_m: 150.0
   valuation_m: 1800.0
   lead_investors:
   - Bessemer
+  source: https://www.businesswire.com/news/home/20251030974157/en/Legora-Raises-$150-Million-Series-C-to-Accelerate-Global-Rollout-of-Its-AI-Platform-for-Legal-Professionals
 - stage: Series D
   date: 2026-03
   amount_m: 550.0
   valuation_m: 5550.0
   lead_investors:
   - Accel
+  source: https://news.crunchbase.com/venture/unicorn-legal-tech-ai-startup-legora-triples-valuation/
 last_updated: 2026-03-21
 confidence: medium
 linkedin: https://www.linkedin.com/company/wearelegora

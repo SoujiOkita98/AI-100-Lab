@@ -11,6 +11,7 @@ funding_rounds:
   amount_m: 19
   lead_investors:
   - Intel Capital
+  source: https://techcrunch.com/2025/02/06/intel-capital-fuels-truefoundrys-19m-funding-to-help-boost-ai-deployments-at-scale/
 founders:
 - name: Nikunj Bajaj
   role: Co-Founder & CEO

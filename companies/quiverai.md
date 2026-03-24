@@ -10,6 +10,7 @@ funding_rounds:
   amount_m: 8.3
   lead_investors:
   - Andreessen Horowitz
+  source: https://a16z.com/announcement/investing-in-quiverai/
 last_updated: 2026-03-21
 confidence: medium
 website: https://quiver.ai

@@ -14,6 +14,7 @@ funding_rounds:
   valuation_m: 500.0
   lead_investors:
   - M12
+  source: https://techcrunch.com/2023/08/02/inworld-a-generative-ai-platform-for-creating-npcs-lands-fresh-investment/
 last_updated: 2026-03-21
 confidence: medium
 twitter: '@inworld_ai'

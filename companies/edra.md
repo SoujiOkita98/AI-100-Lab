@@ -14,6 +14,7 @@ funding_rounds:
   - Sequoia
   - 8VC
   - A*
+  source: https://techcrunch.com/2026/03/18/two-palantir-veterans-just-came-out-of-stealth-with-30-million-and-a-sequoia-stamp-of-approval/
 founders:
 - name: Eugen Alpeza
   role: Co-Founder & CEO

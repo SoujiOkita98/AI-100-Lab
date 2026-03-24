@@ -11,6 +11,7 @@ funding_rounds:
 - stage: Pre-seed
   date: 2025-10
   amount_m: 1.7
+  source: https://techcrunch.com/2025/10/27/oxford-spinout-radicait-uses-ai-to-make-diagnostic-imaging-more-affordable-and-accessible-catch-it-at-techcrunch-disrupt-2025/
 last_updated: 2026-03-21
 confidence: medium
 total_raised_m: 1.7

@@ -11,6 +11,7 @@ funding_rounds:
   amount_m: 2.5
   lead_investors:
   - Founderful
+  source: https://www.globenewswire.com/news-release/2025/10/21/3170031/0/en/Chipmind-launches-from-stealth-with-2-5m-for-its-AI-agents-to-speed-chip-making.html
 founders:
 - name: Harald Kröll
   role: Co-Founder & CEO

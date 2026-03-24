@@ -15,12 +15,14 @@ funding_rounds:
   - Durable Capital
   - Altimeter
   - General Catalyst
+  source: https://www.businesswire.com/news/home/20250506194825/en/Parloa-Raises-$120M-Series-C-to-Reinvent-Customer-Service-with-Agentic-AI
 - stage: Series D
   date: '2026'
   amount_m: 350.0
   valuation_m: 3000.0
   lead_investors:
   - Lightspeed
+  source: https://techcrunch.com/2026/01/15/parloa-triples-its-valuation-in-8-months-to-3b-with-350m-raise/
 last_updated: 2026-03-21
 confidence: medium
 linkedin: https://www.linkedin.com/company/parloa

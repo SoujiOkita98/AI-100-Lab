@@ -12,6 +12,7 @@ funding_rounds:
   amount_m: 5.9
   lead_investors:
   - Uncork Capital
+  source: https://www.globenewswire.com/news-release/2025/12/09/3202554/0/en/Buildcheck-Raises-5-9M-to-Launch-AI-Powered-Construction-Design-Review-Platform.html
 founders:
 - name: Alexander Michalatos
   role: Co-Founder & CEO

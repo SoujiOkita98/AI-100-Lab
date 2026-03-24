@@ -10,6 +10,7 @@ funding_rounds:
 - stage: Series B
   date: 2025-05
   amount_m: 59
+  source: https://www.eu-startups.com/2025/05/paris-based-veesion-raises-e53-million-to-stop-shoplifting-with-ai-that-understands-gestures/
 founders:
 - name: Thibault David
   role: Co-Founder & CEO

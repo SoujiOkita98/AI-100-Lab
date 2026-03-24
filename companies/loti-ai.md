@@ -10,6 +10,7 @@ funding_rounds:
   amount_m: 16.2
   lead_investors:
   - Khosla Ventures
+  source: https://www.businesswire.com/news/home/20250415846205/en/Loti-AI-Announces-$16.2M-Series-A-Funding-Round-Led-By-Khosla-Ventures
 founders:
 - name: Luke Arrigoni
   role: Co-Founder & CEO

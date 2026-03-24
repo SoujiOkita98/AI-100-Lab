@@ -9,6 +9,7 @@ funding_rounds:
   amount_m: 15
   lead_investors:
   - TomEnterprise
+  source: https://www.businesswire.com/news/home/20250429847877/en/Sennos-Secures-$15-Million-to-Disrupt-the-Fermentation-Industry-with-AI-Powered-Precision
 last_updated: 2026-03-21
 confidence: medium
 founders:

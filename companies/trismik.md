@@ -14,6 +14,7 @@ funding_rounds:
   lead_investors:
   - Twinpath Ventures
   - Cambridge Enterprise
+  source: https://tech.eu/2025/09/25/cambridge-spin-out-trismik-raises-ps22m-to-redefine-ai-evaluation/
 founders:
 - name: Rebekka Mikkola
   role: Co-Founder & CEO

@@ -14,6 +14,7 @@ funding_rounds:
   amount_m: 2.5
   lead_investors:
   - Moxxie Ventures
+  source: https://www.businesswire.com/news/home/20251202880977/en/Soxton-AI-Emerges-From-Stealth-With-$2.5-Million-Pre-Seed-Funding-Transforming-How-Startups-Access-Legal-Support
 last_updated: 2026-03-21
 confidence: medium
 data_notes: 'Needs verification: website, source_urls, headquarters. Profile may be incomplete.'

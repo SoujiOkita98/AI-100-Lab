@@ -10,11 +10,13 @@ funding_rounds:
   amount_m: 14
   lead_investors:
   - DCVC
+  source: https://www.dcvc.com/companies/noetik/
 - stage: Series A
   date: '2024'
   amount_m: 40
   lead_investors:
   - DCVC
+  source: https://www.businesswire.com/news/home/20240829428359/en/Noetik-Secures-$40-Million-Series-A-Financing-to-Advance-Precision-Cancer-Therapies
 last_updated: 2026-03-21
 confidence: medium
 linkedin: https://www.linkedin.com/company/noetik-inc

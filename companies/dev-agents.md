@@ -16,6 +16,7 @@ funding_rounds:
   lead_investors:
   - Index Ventures
   - CapitalG
+  source: https://techcrunch.com/2024/11/28/ai-agent-startup-dev-agents-has-raised-a-massive-56m-seed-round-at-a-500m-valuation/
 last_updated: 2026-03-21
 confidence: medium
 data_notes: 'Needs verification: website, source_urls, headquarters. Profile may be incomplete.'

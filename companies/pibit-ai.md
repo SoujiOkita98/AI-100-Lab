@@ -12,6 +12,7 @@ funding_rounds:
   amount_m: 7.0
   lead_investors:
   - Stellaris Venture Partners
+  source: https://www.globenewswire.com/news-release/2025/11/20/3191948/0/en/Pibit-AI-lands-a-7M-Series-A-to-build-trusted-AI-for-the-next-generation-of-underwriters.html
 last_updated: 2026-03-21
 confidence: medium
 crunchbase: https://www.crunchbase.com/organization/pibit-ai

@@ -11,6 +11,7 @@ funding_rounds:
   lead_investors:
   - Radical Ventures
   - Threshold Ventures
+  source: https://www.prnewswire.com/news-releases/attuned-intelligence-raises-13m-to-transform-hospital-call-centers-with-supervised-ai-302576027.html
 founders:
 - name: Domenic Donato
   role: Co-Founder & CEO

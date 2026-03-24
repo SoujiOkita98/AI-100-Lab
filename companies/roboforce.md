@@ -14,6 +14,7 @@ funding_rounds:
   lead_investors:
   - YZi Labs
   - Jerry Yang
+  source: https://www.businesswire.com/news/home/20260316568211/en/RoboForce-Raises-$52M-to-Scale-Physical-AI-Robo-Labor
 last_updated: 2026-03-21
 confidence: medium
 total_raised_m: 67.0

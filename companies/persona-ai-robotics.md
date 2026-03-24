@@ -14,6 +14,7 @@ funding_rounds:
   lead_investors:
   - Unity Growth
   - Tides Ventures
+  source: https://www.prnewswire.com/news-releases/persona-ai-raises-27m-oversubscribed-pre-seed-to-deliver-the-future-of-humanoid-robotics-302455330.html
 last_updated: 2026-03-21
 confidence: medium
 total_raised_m: 27.0

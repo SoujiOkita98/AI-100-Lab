@@ -16,6 +16,7 @@ funding_rounds:
   amount_m: 100
   lead_investors:
   - Khosla Ventures
+  source: https://www.bloomberg.com/news/articles/2025-04-14/neuralink-rival-science-corp-raises-104-million-led-by-khosla
 - stage: Series C
   date: '2026'
   amount_m: 230
@@ -23,6 +24,7 @@ funding_rounds:
   lead_investors:
   - Khosla Ventures
   - Lightspeed
+  source: https://techcrunch.com/2026/03/05/science-corp-closes-230m-round-as-it-pushes-to-get-its-brain-implant-to-patients/
 last_updated: 2026-03-21
 confidence: medium
 data_notes: 'Needs verification: website, source_urls, headquarters. Profile may be incomplete.'

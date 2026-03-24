@@ -9,6 +9,7 @@ funding_rounds:
   amount_m: 13.3
   lead_investors:
   - Atomico
+  source: https://www.finsmes.com/2025/10/claimsorted-raises-13-3m-in-seed-funding.html
 last_updated: 2026-03-21
 confidence: medium
 data_notes: 'Needs verification: website, founders, source_urls, headquarters. Profile may be incomplete.'

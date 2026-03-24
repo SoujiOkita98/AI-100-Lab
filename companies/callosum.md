@@ -31,7 +31,13 @@ crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/go-callosum
 total_raised_m: 10.25
 linkedin_verified: true
-funding_rounds: []
+funding_rounds:
+- stage: Seed
+  date: 2026-02
+  amount_m: 10.25
+  lead_investors:
+  - Plural
+  source: https://fortune.com/2026/02/26/startup-callosum-cambridge-trained-neuroscientists-raises-10-million-venture-funding-orchestrate-ai-workloads-different-chips/
 last_updated: '2026-03-24'
 ---
 

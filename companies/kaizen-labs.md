@@ -11,6 +11,7 @@ funding_rounds:
   lead_investors:
   - NEA
   - a16z American Dynamism
+  source: https://www.globenewswire.com/news-release/2025/10/30/3177523/0/en/Kaizen-raises-21-million-to-re-build-government-s-digital-front-door.html
 founders:
 - name: Nikhil Reddy
   role: Co-Founder & CEO

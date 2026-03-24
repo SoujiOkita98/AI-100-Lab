@@ -10,6 +10,7 @@ funding_rounds:
   amount_m: 3.6
   lead_investors:
   - Khosla Ventures
+  source: https://techcrunch.com/2025/12/18/peripheral-labs-taps-into-self-driving-car-sensors-to-bring-sports-fans-right-into-the-game/
 last_updated: 2026-03-21
 confidence: medium
 data_notes: 'Needs verification: website, founders, source_urls, headquarters. Profile may be incomplete.'

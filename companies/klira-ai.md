@@ -13,6 +13,7 @@ funding_rounds:
   amount_m: 0.4
   lead_investors:
   - Techstars
+  source: https://www.techstars.com/newsroom/fall-2025-techstars-san-diego-sdsu
 founders:
 - name: Eduardo de la Garza
   role: Co-Founder & CEO

@@ -13,6 +13,7 @@ funding_rounds:
   amount_m: 6.5
   lead_investors:
   - Salesforce Ventures
+  source: https://www.covecta.io/post/covecta-raises-6-5-million-to-redefine-how-financial-services-teams-operate
 last_updated: 2026-03-21
 confidence: medium
 twitter: '@covecta'

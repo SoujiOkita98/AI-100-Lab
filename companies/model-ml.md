@@ -10,6 +10,7 @@ funding_rounds:
   lead_investors:
   - Y Combinator
   - LocalGlobe
+  source: https://tech.eu/2025/02/07/model-ml-emerges-from-stealth-with-12m-funding/
 last_updated: 2026-03-21
 confidence: medium
 data_notes: 'Needs verification: website, founders, source_urls, headquarters. Profile may be incomplete.'

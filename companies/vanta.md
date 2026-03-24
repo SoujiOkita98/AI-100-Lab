@@ -35,11 +35,13 @@ funding_rounds:
   amount_m: 50
   lead_investors:
   - Sequoia Capital
+  source: https://www.businesswire.com/news/home/20210504005122/en/Vanta-Raises-$50-Million-in-Series-A-Funding-Led-by-Sequoia
 - stage: Series B
   date: '2022'
   amount_m: 110
   lead_investors:
   - Craft Ventures
+  source: https://www.vanta.com/resources/vanta-announces-series-b
 - stage: Series B Extension
   date: '2022'
   amount_m: 40

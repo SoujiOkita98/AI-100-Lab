@@ -11,6 +11,7 @@ funding_rounds:
   amount_m: 17
   lead_investors:
   - Earlybird VC
+  source: https://tech.eu/2025/06/10/lithuanian-ai-startup-sintra-secures-17m-seed-empowering-smbs-with-ai-helpers/
 last_updated: 2026-03-21
 confidence: medium
 founders:

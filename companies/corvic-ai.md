@@ -14,6 +14,7 @@ funding_rounds:
   lead_investors:
   - M Ventures
   - Bosch Ventures
+  source: https://www.prnewswire.com/news-releases/corvic-ai-raises-12m-in-seed-funding-to-pioneer-ai-cognitive-infrastructure-for-enterprise-intelligence-302428206.html
 last_updated: 2026-03-21
 confidence: medium
 crunchbase: https://www.crunchbase.com/organization/corvic-ai

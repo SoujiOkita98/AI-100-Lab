@@ -12,6 +12,7 @@ funding_rounds:
   lead_investors:
   - Sequoia
   - Spark Capital
+  source: https://techcrunch.com/2025/10/21/sesame-the-conversational-ai-startup-from-oculus-founders-raises-250m-and-launches-beta/
 last_updated: 2026-03-21
 confidence: medium
 founders:

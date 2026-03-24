@@ -11,6 +11,7 @@ funding_rounds:
   lead_investors:
   - Andreessen Horowitz
   - NEA
+  source: https://techcrunch.com/2024/12/19/backed-by-a16z-and-nea-backflip-raises-30m-series-a-to-turn-text-into-ai-generated-designs/
 founders:
 - name: Greg Mark
   role: Co-Founder & CEO

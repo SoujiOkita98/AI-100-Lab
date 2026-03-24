@@ -15,6 +15,7 @@ funding_rounds:
   amount_m: 5
   lead_investors:
   - Accel
+  source: https://inc42.com/buzz/ai-health-companion-startup-august-ai-nets-3-mn-from-accel-claypond/
 last_updated: 2026-03-21
 confidence: medium
 data_notes: 'Needs verification: website, source_urls, headquarters. Profile may be incomplete.'

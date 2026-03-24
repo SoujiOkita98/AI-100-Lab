@@ -10,7 +10,7 @@ funding_rounds:
   amount_m: 30
   lead_investors:
   - Redpoint Ventures
-  source: https://www.globenewswire.com/news-release/2025/12/16/
+  source: https://www.globenewswire.com/news-release/2025/12/16/3206549/0/en/Valerie-Health-Raises-30M-Series-A-to-Bring-AI-Front-Office-to-Independent-Provider-Groups.html
 founders:
 - name: Peter Shalek
   role: Co-Founder & CEO

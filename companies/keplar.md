@@ -9,6 +9,7 @@ funding_rounds:
   amount_m: 3.4
   lead_investors:
   - Kleiner Perkins
+  source: https://techcrunch.com/2025/09/17/kleiner-perkins-backed-voice-ai-startup-keplar-aims-to-replace-traditional-market-research/
 founders:
 - name: Dhruv Guliani
   role: Co-Founder & CEO

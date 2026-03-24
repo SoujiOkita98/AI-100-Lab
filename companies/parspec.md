@@ -10,11 +10,13 @@ funding_rounds:
   amount_m: 11.5
   lead_investors:
   - Innovation Endeavors
+  source: https://www.businesswire.com/news/home/20240227657482/en/Parspec-Announces-$11.5M-Seed-Funding-led-by-Innovation-Endeavors-bringing-the-power-of-AI-to-construction-product-procurement
 - stage: Series A
   date: '2025'
   amount_m: 20
   lead_investors:
   - Threshold Ventures
+  source: https://www.prnewswire.com/news-releases/parspec-raises-20-million-series-a-to-modernize-the-construction-supply-chain-with-ai-302498075.html
 last_updated: 2026-03-21
 confidence: medium
 headquarters: San Mateo, CA

@@ -9,6 +9,7 @@ funding_rounds:
   amount_m: 17
   lead_investors:
   - Golden Falcon Capital
+  source: https://www.businesswire.com/news/home/20250218878648/en/Subsense-Emerges-from-Stealth-with-$17M-in-Seed-Funding-for-a-Non-Surgical-Brain-Computer-Interface
 last_updated: 2026-03-21
 confidence: medium
 founders:

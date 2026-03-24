@@ -21,6 +21,7 @@ funding_rounds:
   lead_investors:
   - Plural
   - Seedcamp
+  source: https://fortune.com/2025/06/13/sunrise-robotics-seed-funding-8-5-million-plural-industrial-robots/
 last_updated: 2026-03-21
 confidence: medium
 data_notes: 'Needs verification: website, source_urls. Profile may be incomplete.'

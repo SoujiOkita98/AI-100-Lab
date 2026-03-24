@@ -14,6 +14,7 @@ funding_rounds:
   lead_investors:
   - East X Ventures
   - Sure Valley Ventures
+  source: https://www.eu-startups.com/2025/10/astut-an-oxford-university-spin-out-lands-e1-8-million-round-for-transparent-reasoning-based-ai/
 founders:
 - name: Pete Grindrod
   role: Founder & CEO

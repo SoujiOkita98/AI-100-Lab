@@ -10,6 +10,7 @@ funding_rounds:
   amount_m: 5
   lead_investors:
   - Air Street Capital
+  source: https://press.airstreet.com/p/studio-atelico-raises-5m-seed-ai-games
 last_updated: 2026-03-21
 confidence: medium
 founders:

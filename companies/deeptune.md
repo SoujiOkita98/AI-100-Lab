@@ -10,6 +10,7 @@ funding_rounds:
   amount_m: 43
   lead_investors:
   - Andreessen Horowitz
+  source: https://fortune.com/2026/03/19/andreessen-horowitz-ai-startups-deeptune-series-a/
 founders:
 - name: Tim Lupo
   role: CEO

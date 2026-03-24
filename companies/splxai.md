@@ -9,6 +9,7 @@ funding_rounds:
   amount_m: 7
   lead_investors:
   - LAUNCHub Ventures
+  source: https://siliconangle.com/2025/03/26/splxai-gets-7m-try-block-prompt-injection-attacks-ai-agents-automated-red-teaming/
 last_updated: 2026-03-21
 confidence: medium
 founders:

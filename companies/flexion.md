@@ -15,6 +15,7 @@ funding_rounds:
   - DST Global
   - Nvidia NVentures
   - Prosus
+  source: https://news.crunchbase.com/venture/robotic-brain-building-startup-flexion-raise/
 founders:
 - name: Nikita Rudin
   role: Co-Founder & CEO

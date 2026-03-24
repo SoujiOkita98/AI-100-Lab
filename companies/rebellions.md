@@ -12,6 +12,7 @@ funding_rounds:
   lead_investors:
   - Arm
   - Samsung Ventures
+  source: https://rebellions.ai/newsroom/rebellions-raises-250-million-to-advance-the-next-generation-ai-infrastructure-backed-by-arm-and-samsung/
 last_updated: 2026-03-21
 confidence: medium
 data_notes: 'Needs verification: website, founders, source_urls. Profile may be incomplete.'

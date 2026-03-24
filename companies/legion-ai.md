@@ -10,6 +10,7 @@ funding_rounds:
   lead_investors:
   - PayPal Ventures
   - M13
+  source: https://siliconangle.com/2025/07/30/legion-raises-38m-automate-soc-workflows-browser-native-ai/
 founders:
 - name: Ely Abramovitch
   role: Co-Founder & CEO

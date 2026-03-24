@@ -13,12 +13,14 @@ funding_rounds:
   amount_m: 7
   lead_investors:
   - GV
+  source: https://www.finsmes.com/2025/08/translucent-ai-raises-7m-in-seed-funding.html
 - stage: Series A
   date: 2026-03
   amount_m: 27
   lead_investors:
   - GV
   - NEA
+  source: https://www.businesswire.com/news/home/20260311059455/en/Translucent-Announces-$27M-Series-A-Led-by-GV-to-Tackle-Healthcares-Existential-Financial-Crisis
 founders:
 - name: Jack O'Hara
   role: Founder & CEO

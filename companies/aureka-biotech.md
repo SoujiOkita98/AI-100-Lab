@@ -12,6 +12,7 @@ funding_rounds:
   lead_investors:
   - 5Y Capital
   - Qiming Venture Partners
+  source: https://www.cooley.com/news/coverage/2025/2025-11-10-aureka-biotechnologies-secures-series-a-funding
 founders:
 - name: Weian Zhao
   role: Co-Founder & CEO

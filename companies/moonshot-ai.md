@@ -32,12 +32,14 @@ funding_rounds:
   lead_investors:
   - HongShan (Sequoia China)
   - ZhenFund
+  source: https://techcrunch.com/2024/02/21/moonshot-ai-funding-china/
 - stage: Series A
   date: 2023-12
   amount_m: 200
   lead_investors:
   - HongShan
   - ZhenFund
+  source: https://techcrunch.com/2024/02/21/moonshot-ai-funding-china/
 - stage: Series B
   date: 2024-02
   amount_m: 1000
@@ -45,6 +47,7 @@ funding_rounds:
   lead_investors:
   - Alibaba
   - HongShan
+  source: https://techcrunch.com/2024/02/21/moonshot-ai-funding-china/
 - stage: Follow-on
   date: 2024-08
   amount_m: 300
@@ -52,6 +55,7 @@ funding_rounds:
   lead_investors:
   - Tencent
   - Gaorong Capital
+  source: https://technode.com/2024/12/11/moonshot-ai-3-billion-valuation-overshadowed-by-legal-dispute-with-5-key-investors/
 - stage: Series C
   date: 2025-12
   amount_m: 500
@@ -60,6 +64,7 @@ funding_rounds:
   - IDG Capital
   - Alibaba
   - Tencent
+  source: https://www.caproasia.com/2026/03/15/china-ai-startup-moonshot-ai-to-raise-1-billion-at-18-billion-valuation-raised-500-million-in-series-c-funding-at-4-3-billion-valuation-in-2025-december-founded-in-2023-by-yang-zhilin-investors/
 - stage: Series D
   date: 2026-02
   amount_m: 700
@@ -67,6 +72,7 @@ funding_rounds:
   lead_investors:
   - Alibaba
   - Tencent
+  source: https://www.bloomberg.com/news/articles/2026-02-17/china-ai-startup-moonshot-seeks-10-billion-value-in-new-funding
 confidence: medium
 last_updated: 2026-03-23
 linkedin: https://www.linkedin.com/company/moonshot-ai/

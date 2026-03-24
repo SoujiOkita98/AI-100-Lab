@@ -11,7 +11,7 @@ funding_rounds:
   lead_investors:
   - CapitalG
   - Redpoint Ventures
-  source: https://techcrunch.com/
+  source: https://techcrunch.com/2025/01/30/ex-autodesk-execs-snag-46m-to-build-the-next-gen-of-architecture-design/
 last_updated: 2026-03-21
 confidence: medium
 data_notes: 'Needs verification: website, founders, source_urls, headquarters. Profile may be incomplete.'

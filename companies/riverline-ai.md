@@ -22,6 +22,7 @@ funding_rounds:
   amount_m: 0.8
   lead_investors:
   - South Park Commons
+  source: https://entrackr.com/snippets/riverline-ai-raises-825k-in-pre-seed-round-led-by-south-park-commons-10810092
 last_updated: 2026-03-21
 confidence: medium
 website_verified: true

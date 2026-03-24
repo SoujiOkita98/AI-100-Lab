@@ -10,6 +10,7 @@ funding_rounds:
 - stage: Seed
   date: '2025'
   amount_m: 15
+  source: https://piraiee.com/blog/orasio-raises-16m-to-build-sovereign-video-intelligence-platform
 last_updated: 2026-03-21
 confidence: medium
 crunchbase: https://www.crunchbase.com/organization/orasio

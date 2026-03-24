@@ -9,6 +9,7 @@ funding_rounds:
   amount_m: 7.8
   lead_investors:
   - Dell Technologies Capital
+  source: https://www.businesswire.com/news/home/20250305208576/en/MaxIQ-Secures-$7.8M-in-Seed-Funding-to-Reimagine-the-Customer-Journey-for-B2B-SaaS-Platforms
 last_updated: 2026-03-21
 confidence: medium
 data_notes: 'Needs verification: website, founders, source_urls, headquarters. Profile may be incomplete.'

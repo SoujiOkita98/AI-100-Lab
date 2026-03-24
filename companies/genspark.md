@@ -10,12 +10,14 @@ funding_rounds:
   amount_m: 60.0
   lead_investors:
   - Lanchi Ventures
+  source: https://www.thesaasnews.com/news/genspark-secures-60-million-in-seed-round
 - stage: Series B
   date: 2025-11
   amount_m: 275.0
   valuation_m: 1250.0
   lead_investors:
   - Emergence Capital
+  source: https://www.businesswire.com/news/home/20251120036880/en/Genspark-Raises-$275M-Series-B-Launches-AI-Workspace-to-Put-Busywork-on-Autopilot
 founders:
 - name: Eric Jing
   role: Co-Founder & CEO

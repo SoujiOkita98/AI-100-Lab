@@ -14,6 +14,7 @@ funding_rounds:
   lead_investors:
   - Dassault Aviation
   - FirstMark
+  source: https://techcrunch.com/2026/01/12/harmattan-ai-raises-200m-series-b-led-by-dassault-aviation-becomes-defense-unicorn/
 founders:
 - name: Mouad M'Ghari
   role: Co-Founder & CEO

@@ -11,12 +11,14 @@ funding_rounds:
 - stage: Seed
   date: 2025-04
   amount_m: 14
+  source: https://www.finsmes.com/2025/04/blue-water-autonomy-raises-14m-in-seed-funding.html
 - stage: Series A
   date: 2025-08
   amount_m: 50
   lead_investors:
   - GV
   - Eclipse Ventures
+  source: https://www.prnewswire.com/news-releases/blue-water-autonomy-announces-50-million-series-a-led-by-gv-to-strengthen-us-maritime-power-with-autonomous-unmanned-ships-302538277.html
 last_updated: 2026-03-21
 confidence: medium
 twitter: '@BlueWaterShips'

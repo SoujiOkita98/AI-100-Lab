@@ -28,7 +28,19 @@ crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/sumble
 total_raised_m: 38.5
 linkedin_verified: true
-funding_rounds: []
+funding_rounds:
+- stage: Seed
+  date: '2023'
+  amount_m: 8.5
+  lead_investors:
+  - Coatue Management
+  source: https://techcrunch.com/2025/10/22/sumble-emerges-from-stealth-with-38-5m-to-bring-ai-powered-context-to-sales-intelligence/
+- stage: Series A
+  date: 2025-10
+  amount_m: 30
+  lead_investors:
+  - Canaan Partners
+  source: https://techcrunch.com/2025/10/22/sumble-emerges-from-stealth-with-38-5m-to-bring-ai-powered-context-to-sales-intelligence/
 ---
 
 # Sumble

@@ -9,6 +9,7 @@ funding_rounds:
   amount_m: 5.4
   lead_investors:
   - BITKRAFT Ventures
+  source: https://europeangaming.eu/portal/latest-news/2025/08/05/188530/gameramp-raises-5-4m-pre-seed-round-led-by-bitkraft-ventures/
 founders:
 - name: Vivek Ramachandran
   role: Co-Founder & CEO

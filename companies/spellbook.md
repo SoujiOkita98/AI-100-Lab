@@ -12,6 +12,7 @@ funding_rounds:
   amount_m: 50
   lead_investors:
   - Khosla Ventures
+  source: https://www.businesswire.com/news/home/20251009110230/en/Spellbook-Raises-$50M-Series-B-to-Expand-AI-Contract-Review-Platform
 last_updated: 2026-03-21
 confidence: medium
 founders:

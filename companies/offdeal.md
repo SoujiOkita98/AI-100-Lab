@@ -10,6 +10,7 @@ funding_rounds:
   amount_m: 12
   lead_investors:
   - Radical Ventures
+  source: https://radical.vc/building-the-first-ai-native-investment-bank/
 last_updated: 2026-03-21
 confidence: medium
 headquarters: New York, NY

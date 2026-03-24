@@ -11,6 +11,7 @@ funding_rounds:
   lead_investors:
   - Uber
   - Nebius Group
+  source: https://nebius.com/newsroom/avride-secures-strategic-investment-and-other-commitments-of-up-to-375-million-backed-by-uber-and-nebius
 last_updated: 2026-03-21
 confidence: medium
 data_notes: 'Needs verification: website, founders, source_urls, headquarters. Profile may be incomplete.'

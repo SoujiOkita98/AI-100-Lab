@@ -10,6 +10,7 @@ funding_rounds:
   lead_investors:
   - BITKRAFT Ventures
   - Riot Games
+  source: https://www.businesswire.com/news/home/20250311632975/en/Liminal-Raises-$5.8M-in-Seed-Funding-Backed-by-BITKRAFT-Riot-Games-and-OTK-Media-Group
 founders:
 - name: Brendan Mulligan
   role: Founder & CEO

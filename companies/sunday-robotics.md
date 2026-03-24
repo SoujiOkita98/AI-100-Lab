@@ -31,12 +31,14 @@ funding_rounds:
   lead_investors:
   - Benchmark
   - Conviction
+  source: https://theaiinsider.tech/2025/11/20/sunday-emerges-from-stealth-with-35m-for-household-robot-called-memo/
 - stage: Series B
   date: March 12, 2026
   amount_m: 165.0
   valuation_m: 1150.0
   lead_investors:
   - Coatue (Thomas Laffont joined board)
+  source: https://techcrunch.com/2026/03/12/humanoid-robotics-maker-sunday-reaches-1-15b-valuation-to-build-household-robots/
   other_investors:
   - Bain Capital Ventures
   - Fidelity Management & Research Company

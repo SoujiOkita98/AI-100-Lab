@@ -9,6 +9,7 @@ funding_rounds:
 - stage: Series C
   date: '2025'
   amount_m: 220
+  source: https://www.businesswire.com/news/home/20251014990407/en/Tachyum-Signs-$220-Million-Funding-and-$500-Million-Purchase-Order
 founders:
 - name: Radoslav Danilak
   role: CEO

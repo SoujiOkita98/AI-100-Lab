@@ -11,6 +11,7 @@ funding_rounds:
   lead_investors:
   - Andreessen Horowitz
   - CIV
+  source: https://www.globenewswire.com/news-release/2025/12/03/3198921/0/en/Unlimited-Industries-raises-12M-to-build-the-AI-construction-company-that-will-power-America-s-future.html
 founders:
 - name: Alex Modon
   role: Co-Founder & CEO

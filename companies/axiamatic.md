@@ -20,6 +20,7 @@ funding_rounds:
   lead_investors:
   - Greylock
   - Bessemer
+  source: https://www.businesswire.com/news/home/20260311880123/en/Axiamatic-Launches-With-$54M-from-Greylock-and-Bessemer-to-End-the-Era-of-Failed-Enterprise-Transformations
 last_updated: 2026-03-21
 confidence: medium
 website: https://axiamatic.com

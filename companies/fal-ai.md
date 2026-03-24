@@ -13,12 +13,14 @@ funding_rounds:
   amount_m: 125
   lead_investors:
   - Andreessen Horowitz
+  source: https://www.businesswire.com/news/home/20250731234742/en/fal-Raises-$125M-in-Series-C-Led-by-Meritech-with-Salesforce-Ventures-Shopify-Ventures-and-Google-AI-Futures-Fund-Joining-to-Power-the-Next-Decade-of-Generative-Media
 - stage: Series D
   date: 2025-12
   amount_m: 140
   valuation_m: 4500
   lead_investors:
   - Sequoia
+  source: https://techcrunch.com/2025/12/09/fal-nabs-140m-in-fresh-funding-led-by-sequoia-tripling-valuation-to-4-5b/
 founders:
 - name: Burkay Gur
   role: Co-Founder & CEO

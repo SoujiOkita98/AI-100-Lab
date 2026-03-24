@@ -12,6 +12,7 @@ funding_rounds:
   lead_investors:
   - Radical Ventures
   - Inspired Capital
+  source: https://www.businesswire.com/news/home/20250910363947/en/Spara-Launches-AI-Platform-with-$15M-to-Modernize-Sales-Marketing-Pipelines
 last_updated: 2026-03-21
 confidence: medium
 website: https://www.spara.co

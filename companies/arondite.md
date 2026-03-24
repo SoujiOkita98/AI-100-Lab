@@ -9,6 +9,7 @@ funding_rounds:
   amount_m: 12
   lead_investors:
   - First Spark Ventures
+  source: https://techfundingnews.com/ai-defence-technology-arondite-raises-12m/
 founders:
 - name: Will Blyth
   role: Co-Founder & CEO

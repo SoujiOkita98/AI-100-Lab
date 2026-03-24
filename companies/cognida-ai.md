@@ -11,6 +11,7 @@ funding_rounds:
   amount_m: 15
   lead_investors:
   - Nexus Venture Partners
+  source: https://www.businesswire.com/news/home/20250205676677/en/Cognida.ai-Secures-$15-Million-Series-A-from-Nexus-Venture-Partners-to-Redefine-Enterprise-AI-Adoption
 founders:
 - name: Feroze Mohammed
   role: CEO

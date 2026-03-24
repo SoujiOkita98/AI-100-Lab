@@ -12,6 +12,7 @@ funding_rounds:
   amount_m: 11
   lead_investors:
   - Capnamic
+  source: https://www.eu-startups.com/2025/01/e10-million-for-forests-ocell-secures-funding-to-scale-its-carbon-credit-technology/
 last_updated: 2026-03-21
 confidence: medium
 data_notes: 'Needs verification: website, founders, source_urls. Profile may be incomplete.'

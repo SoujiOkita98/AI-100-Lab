@@ -12,6 +12,7 @@ funding_rounds:
   lead_investors:
   - Atomico
   - Index Ventures
+  source: https://fortune.com/2025/12/17/exclusive-palantir-alums-aiming-to-streamline-patent-filings-with-ai-secure-20-million-in-series-a-venture-funding/
 founders:
 - name: Tamar Gomez
   role: Co-Founder & CEO

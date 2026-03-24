@@ -10,11 +10,13 @@ funding_rounds:
   amount_m: 6.5
   lead_investors:
   - Greylock
+  source: https://www.businesswire.com/news/home/20250728415715/en/Fable-Security-Launches-With-$31M-to-Stop-Risky-Human-Behavior
 - stage: Series A
   date: 2025-07
   amount_m: 24.5
   lead_investors:
   - Redpoint Ventures
+  source: https://www.businesswire.com/news/home/20250728415715/en/Fable-Security-Launches-With-$31M-to-Stop-Risky-Human-Behavior
 founders:
 - name: Nicole Jiang
   role: Co-Founder & CEO

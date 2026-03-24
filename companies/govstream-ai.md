@@ -9,6 +9,7 @@ funding_rounds:
   amount_m: 3.6
   lead_investors:
   - 47th Street Partners
+  source: https://www.geekwire.com/2025/seattle-area-startup-govstream-ai-raises-3-6m-to-improve-city-permitting-processes-using-ai/
 founders:
 - name: Safouen Rabah
   role: Founder & CEO

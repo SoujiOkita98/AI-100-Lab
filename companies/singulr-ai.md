@@ -10,6 +10,7 @@ funding_rounds:
   lead_investors:
   - Nexus Venture Partners
   - Dell Technologies Capital
+  source: https://siliconangle.com/2025/02/18/singulr-ai-launches-10m-funding-secure-enterprise-ai-adoption/
 last_updated: 2026-03-21
 confidence: medium
 founders:

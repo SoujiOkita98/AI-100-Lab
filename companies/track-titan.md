@@ -12,6 +12,7 @@ funding_rounds:
   amount_m: 5
   lead_investors:
   - Partech
+  source: https://tech.eu/2025/12/04/track-titan-raises-5m-for-ai-powered-strava-for-motorsport/
 founders:
 - name: Max Teichert
   role: Co-Founder & CEO

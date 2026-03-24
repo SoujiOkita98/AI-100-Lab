@@ -10,6 +10,7 @@ funding_rounds:
 - stage: Series A
   date: '2025'
   amount_m: 50
+  source: https://www.finsmes.com/2025/07/tandem-health-raises-50m-in-series-a-funding.html
 founders:
 - name: Lukas Saari
   role: CEO

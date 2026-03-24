@@ -15,6 +15,7 @@ funding_rounds:
   - Meritech
   - Redpoint
   - Sequoia
+  source: https://blog.n8n.io/series-c/
 last_updated: 2026-03-21
 confidence: medium
 data_notes: 'Needs verification: founders, source_urls. Profile may be incomplete.'

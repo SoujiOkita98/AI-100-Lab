@@ -9,6 +9,7 @@ funding_rounds:
   amount_m: 7.5
   lead_investors:
   - COTU Ventures
+  source: https://www.wamda.com/2025/09/aydi-raises-7-5-million-seed-launch-ai-agronomy-assistant
 founders:
 - name: Hassan Fayed
   role: Founder & CEO

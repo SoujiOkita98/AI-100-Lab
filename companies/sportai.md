@@ -15,14 +15,19 @@ funding_rounds:
   date: '2024'
   amount_m: 0.8
   notes: Government grants
+  source: https://sportai.com/news/sportai-secures-805k-in-new-funding
 - stage: Seed
   date: '2024'
   amount_m: 1.8
+  lead_investors:
+  - Skyfall Ventures
+  source: https://sportai.com/news/norwegian-tech-leaders-unite-to-launch-ai-powered-sports-tech-company-1
 - stage: Seed
   date: 2025-11
   amount_m: 3
   lead_investors:
   - Altitude Capital
+  source: https://arcticstartup.com/sportai-raises-3m/
 last_updated: 2026-03-21
 confidence: medium
 website_verified: true

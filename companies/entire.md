@@ -9,6 +9,7 @@ funding_rounds:
   amount_m: 60
   lead_investors:
   - Felicis
+  source: https://techcrunch.com/2026/02/10/former-github-ceo-raises-record-60m-dev-tool-seed-round-at-300m-valuation/
 founders:
 - name: Thomas Dohmke
   role: Founder & CEO

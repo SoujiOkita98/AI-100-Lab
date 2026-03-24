@@ -17,6 +17,7 @@ funding_rounds:
   amount_m: 596
   lead_investors:
   - Public Market (STAR Market)
+  source: https://www.scmp.com/business/china-business/article/3336690/metax-soars-frenzied-debut-traders-snap-second-chinese-gpu-maker-go-public
 last_updated: 2026-03-21
 confidence: medium
 data_notes: 'Needs verification: website, source_urls. Profile may be incomplete.'

@@ -9,6 +9,7 @@ funding_rounds:
   amount_m: 8.0
   lead_investors:
   - Creandum
+  source: https://techcrunch.com/2025/01/14/boardy-ai-raises-8m-seed-round-months-after-closing-pre-seed/
 founders:
 - name: Andrew D'Souza
   role: Co-Founder & CEO

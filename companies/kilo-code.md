@@ -20,6 +20,7 @@ funding_rounds:
   lead_investors:
   - Cota Capital
   - General Catalyst
+  source: https://www.businesswire.com/news/home/20251210195261/en/Kilo-Raises-$8-Million-to-Bring-Kilo-Speed-to-Agentic-Engineering
 last_updated: 2026-03-21
 confidence: medium
 website_verified: true

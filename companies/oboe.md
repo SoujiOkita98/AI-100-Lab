@@ -9,6 +9,7 @@ funding_rounds:
   amount_m: 16
   lead_investors:
   - Andreessen Horowitz
+  source: https://techcrunch.com/2025/12/10/oboe-raises-16-million-from-a16z-for-its-ai-powered-course-generation-platform/
 last_updated: 2026-03-21
 confidence: medium
 data_notes: 'Needs verification: website, founders, source_urls, headquarters. Profile may be incomplete.'

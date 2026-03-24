@@ -12,12 +12,14 @@ funding_rounds:
   amount_m: 31.0
   lead_investors:
   - Andreessen Horowitz
+  source: https://a16z.com/announcement/investing-in-black-forest-labs/
 - stage: Series B
   date: 2025-12
   amount_m: 300.0
   valuation_m: 3250.0
   lead_investors:
   - General Catalyst
+  source: https://techcrunch.com/2025/12/01/black-forest-labs-raises-300m-at-3-25b-valuation/
 last_updated: 2026-03-21
 confidence: medium
 linkedin: https://www.linkedin.com/company/bflai

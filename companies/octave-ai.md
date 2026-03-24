@@ -9,6 +9,7 @@ funding_rounds:
   amount_m: 5.5
   lead_investors:
   - Bonfire Ventures
+  source: https://www.octavehq.com/post/octave-raises-5-5m-seed-to-redefine-gtm-for-the-ai-era
 last_updated: 2026-03-21
 confidence: medium
 data_notes: 'Needs verification: website, founders, source_urls, headquarters. Profile may be incomplete.'

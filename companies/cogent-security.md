@@ -10,11 +10,13 @@ funding_rounds:
   amount_m: 11
   lead_investors:
   - Greylock
+  source: https://www.businesswire.com/news/home/20250714138382/en/Cogent-Security-Launches-From-Stealth-With-$11M-From-Greylock-Partners-to-Transform-Vulnerability-Management-With-Agentic-AI
 - stage: Series A
   date: 2026-02
   amount_m: 42
   lead_investors:
   - Bain Capital Ventures
+  source: https://www.prnewswire.com/news-releases/cogent-security-raises-42m-series-a-to-arm-security-teams-with-autonomous-ai-agents-302691566.html
 founders:
 - name: Vineet Edupuganti
   role: CEO
