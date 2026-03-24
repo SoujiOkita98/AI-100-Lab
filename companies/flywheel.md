@@ -9,8 +9,18 @@ one_liner: AI-powered medical imaging data management platform for research, cli
 status: active
 total_raised_m: 94
 founders:
-- name: Invenshure
-  role: founding entity
+- name: Troy Kopischke
+  role: Co-Founder & Board Chair
+  background: Serial tech entrepreneur. Co-CEO, co-founder, and managing partner of Invenshure (venture catalyst for tech/biotech companies built on novel IP from top scientists). Former President and CFO at Steady State Imaging (commercialization strategy led to sale to GE Healthcare 2011).
+  origin: American
+- name: Brian Wandell
+  role: Co-Founder & Scientific Advisor
+  background: Director of the Center for Cognitive and Neurobiological Imaging at Stanford University. Developed MRI image capture, organization, and curation system that became Flywheel. Partnered with Invenshure in 2015 to commercialize.
+  origin: American
+- name: Gunnar Schaefer
+  role: Co-Founder & CTO
+  background: Stanford researcher who partnered with Wandell to develop the medical imaging data management system. Technical architect of Flywheel's platform for organizing and sharing neuroimaging data.
+  origin: American
 funding_rounds:
 - stage: Series C
   date: 2021

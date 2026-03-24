@@ -6,12 +6,15 @@ headquarters: San Francisco, CA
 founders:
 - name: Parker Gilbert
   role: Co-Founder & CEO
+  background: VP of Finance and Operations at Hearth, where he built the finance organization from the ground up. The experience of manual month-end close work directly inspired Numeric. Leads CEO, strategy, and go-to-market functions.
   origin: American
 - name: Andrew Bihl
   role: Co-Founder & CTO
+  background: Worked at Segment and BlackRock, where he developed expertise in stitching together complex, messy data sources into consumable products. Leads CTO, engineering, and data infrastructure at Numeric.
   origin: American
 - name: Anthony Alvernaz
   role: Co-Founder & CPO
+  background: Worked at Segment and BlackRock alongside Andrew Bihl, gaining deep experience in data integration and product development. Leads CPO, product strategy, and design at Numeric.
   origin: American
 arr_estimate: Undisclosed
 employee_count_estimate: ~50-80 (estimated)

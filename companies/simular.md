@@ -10,10 +10,12 @@ stage: Series A (latest round Dec 2025)
 status: Active, Private
 founders:
 - name: Ang Li
-  role: CEO
+  role: CEO & Co-Founder
+  background: PhD in Computer Science from University of Maryland College Park (2017), specializing in representation learning for linguistic and visual information. ACM ICPC World Finals participant twice (49th in 2009 for Nanjing University, 39th in 2013 for UMD). Led applied research programs at Google DeepMind (2017-2021) in evolutionary neural networks and lifelong learning. Principal Scientist at Apollo/Baidu Autonomous Driving (2021-2023), developing continual learning platforms for self-driving cars. Co-founded Simular in 2023 at South Park Commons.
   origin: Chinese-American
 - name: Jiachen Yang
   role: Co-founder
+  background: Co-founded Simular with Ang Li. Research background in AI. Further career details limited in public sources.
   origin: Chinese
 key_investors:
 - Felicis Ventures — Series A lead

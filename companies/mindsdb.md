@@ -11,8 +11,12 @@ total_raised_m: 54
 founders:
 - name: Jorge Torres
   role: Co-Founder & CEO
+  background: MS in Information Systems from Australian National University (ML focus). Cambridge graduate. Ex-management consultant at Deloitte. Second dev at CouchSurfing (scaled to 4M users). Senior Engineer at Skillshare. CTO at Real Life Analytics. Visiting scholar at UC Berkeley (ML automation). Worked with Aneesh Chopra (first US government CTO).
+  origin: Latin American
 - name: Adam Carrigan
   role: Co-Founder & COO
+  background: Australian National University and University of Queensland graduate. Management Consultant at Deloitte. Dissertation at University of Cambridge on NLP for equity pricing prediction. Co-released initial MindsDB code in 2018 inspired by Iain M. Banks' Culture series.
+  origin: Australian
 funding_rounds:
 - stage: Seed
   date: 2017-12

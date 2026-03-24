@@ -10,12 +10,15 @@ president: Daniel Levy
 founders:
 - name: Ilya Sutskever
   role: Co-founder; CEO (since July 2025)
+  background: Born in Russia, grew up in Israel, moved to Canada. BSc Mathematics from Open University of Israel. MSc and PhD in Machine Learning under Geoffrey Hinton at University of Toronto. Postdoc with Andrew Ng at Stanford. Co-founded and was Chief Scientist at OpenAI (2015-2024). Research Scientist at Google Brain (2012-2015) working on sequence-to-sequence learning. Key contributor to AlexNet (2012). One of the most cited researchers in deep learning history. Left OpenAI in May 2024 to co-found SSI.
   origin: Russian-Israeli-Canadian
 - name: Daniel Gross
   role: Co-founder; former CEO (departed July 2025)
+  background: Israeli-born entrepreneur and investor. Founded Cue (acquired by Apple in 2013). Partner at Y Combinator. Led AI/ML initiatives at Apple after Cue acquisition. Co-founded Pioneer (talent search platform) with Nat Friedman. Co-founded NFDG Ventures with Nat Friedman. Prolific angel investor in AI companies. Departed SSI as CEO in July 2025.
   origin: Israeli-American
 - name: Daniel Levy
   role: Co-founder; President
+  background: Former member of technical staff at OpenAI. Worked closely with Ilya Sutskever at OpenAI. Transitioned to President of SSI. Leads day-to-day operations and research direction.
   origin: American
 employees: ~18
 stage: Pre-product / Deep R&D

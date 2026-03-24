@@ -6,6 +6,7 @@ headquarters: New York, NY
 founders:
 - name: John Nay
   role: CEO & Founder
+  background: PhD from Vanderbilt University (AI research funded by NSF and Office of Naval Research). Postdoc at NYU. Fellow at Stanford CodeX researching AI alignment via legal informatics. Adjunct Professor at NYU School of Law (created first AI course). Co-founder & Chairman of Brooklyn Investment Group (AI-powered investment software). Decade of AI-law research.
   origin: American
 employee_count_estimate: ~100 (uncertain)
 status: Private

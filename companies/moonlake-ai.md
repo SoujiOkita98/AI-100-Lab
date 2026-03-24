@@ -11,8 +11,12 @@ total_raised_m: 28.0
 founders:
 - name: Fan-Yun Sun
   role: Co-Founder
+  background: PhD in Computer Science from Stanford. Researcher at NVIDIA on Learning & Perception Research Team and Metropolis Deep Learning (Omniverse). Worked on large-scale 3D world generation for AI training and foundation models.
+  origin: Taiwanese
 - name: Sharon Lee
   role: Co-Founder
+  background: CS PhD focused on generative AI and computer graphics, blending diffusion models with 3D engines. Built models that reason about space and interactivity. Co-founded Moonlake AI at Stanford AI Lab.
+  origin: American
 funding_rounds:
 - stage: Seed
   date: 2025-10

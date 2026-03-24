@@ -10,10 +10,12 @@ stage: Series B (latest round Oct 2025)
 status: Active, Private
 founders:
 - name: Misha Laskin
-  role: CEO
+  role: CEO & Co-Founder
+  background: BA Physics and Literature from Yale. PhD in theoretical many-body quantum physics from University of Chicago. After PhD, founded an inventory prediction company. Inspired by AlphaGo paper, pivoted to AI research. Postdoc at UC Berkeley working on reinforcement learning. Senior Research Scientist at Google DeepMind where he led reward modeling efforts for the Gemini project. Made key contributions in reinforcement learning across Berkeley and DeepMind.
   origin: Russian-Canadian
 - name: Ioannis Antonoglou
   role: Co-founder
+  background: Long-tenured researcher at Google DeepMind. Made significant contributions to AlphaGo, AlphaZero, and the Gemini project. Deep expertise in reinforcement learning and game-playing AI systems. Co-founded Reflection AI with Laskin to pursue research on superintelligent systems capable of autonomous action.
   origin: Greek
 key_investors:
 - Sequoia Capital

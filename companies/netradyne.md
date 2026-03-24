@@ -10,10 +10,12 @@ last_updated: 2026-03-20
 founders:
 - name: Avneesh Agrawal
   role: Co-Founder & CEO
-  origin: India (Stanford University; former President, Qualcomm India & South Asia)
+  background: MS and PhD in Electrical Engineering from Stanford University. President of Qualcomm India & South Asia (2005-2015), SVP of Technology and Global Head of Corporate R&D at Qualcomm. 200+ US patents. Netradyne is his first entrepreneurial venture.
+  origin: Indian (Stanford University; former President, Qualcomm India & South Asia)
 - name: David Julian
   role: Co-Founder & CTO
-  origin: United States (former Qualcomm engineer)
+  background: PhD-level electrical engineer from Stanford University. Principal Engineer at Qualcomm for 12 years, secured 100+ US patents. Co-founded Mountain View Analytics before Netradyne. Second entrepreneurial venture.
+  origin: American
 funding_rounds:
 - stage: Series A
   date: 2016-06

@@ -11,7 +11,9 @@ funding_rounds:
   - New Wheel Capital
 founders:
 - name: Ian Barkley
-  role: CEO
+  role: Founder & CEO
+  background: 15+ years of senior leadership in Product Management for B2B/B2B2C SaaS. BS in Fine Art/Communications from University of Utah. Serial startup launcher with multiple M&A exits. Former Head of Enterprise Solutions at Simeon Cloud. Co-founder, operator, and investor in venture-backed SaaS companies.
+  origin: American
 last_updated: 2026-03-21
 confidence: medium
 data_notes: 'Needs verification: website, founders, source_urls, headquarters. Profile may be incomplete.'

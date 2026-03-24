@@ -9,16 +9,20 @@ employee_count: ~404 (as of Jan 2026)
 founders:
 - name: Swapnil Jain
   role: Co-Founder & CEO
-  origin: Vidisha, Madhya Pradesh, India
+  background: From Vidisha, a tier-4/5 town in Madhya Pradesh. BTech Computer Science from IIT Delhi. Software Engineer at Twitter in San Francisco (~3 years), rising to Technical Team Lead. Twitter's first employee based in India; helped open Twitter's India office and spearheaded first India-based engineering teams. Left Twitter to co-found Observe.AI in 2017. YC W18.
+  origin: Indian
 - name: Jithendra Vepa
   role: Co-Founder & CTO / Chief Scientist
-  origin: India (Andhra Pradesh region, based on Andhra University education)
+  background: 18+ years in speech technology. BE Electrical and Electronics Engineering from Andhra University. MSc(Engg.) Signal Processing from Indian Institute of Science (IISc, Bangalore). PhD in Speech Synthesis and Speech Signal Processing from University of Edinburgh. Research roles at Rhetorical Systems (UK), IDIAP Research Institute (Switzerland), Philips Research, Samsung R&D India (Senior Principal Engineer, built speech technology team). Senior Member of IEEE. Deep expertise in ASR and speech processing forms Observe.AI's technical backbone.
+  origin: Indian
 - name: Akash Singh
   role: Co-Founder, Head of Engineering
-  origin: India
+  background: IIT Delhi graduate. Experience in high-tech and startup environments. Manages the engineering team from Bengaluru, India.
+  origin: Indian
 - name: Sharath Keshava Narayana
   role: Co-Founder & CRO
-  origin: India
+  background: Second-time entrepreneur with 14+ years experience building and managing global sales teams. Prior experience at Unbxd, AWS, and Akamai. Leads go-to-market functions at Observe.AI.
+  origin: Indian
 key_investors:
 - SoftBank Vision Fund 2 (led Series C)
 - Menlo Ventures (led Series B)

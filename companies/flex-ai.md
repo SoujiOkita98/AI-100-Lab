@@ -14,9 +14,11 @@ employee_count_approx: 45
 founders:
 - name: Brijesh Tripathi
   role: Co-founder & CEO
+  background: Veteran chip and systems architect. Senior design engineer at NVIDIA (early career). Senior engineering roles at Apple. Senior engineering at Tesla (reported to Elon Musk). Engineering leadership at Zoox. GM & Chief Architect for AI and Supercompute Platforms at Intel, previously VP & CTO of Client Computing Group.
   origin: Indian
 - name: Dali Kilani
   role: Co-founder & CTO
+  background: Technical roles at NVIDIA. Engineering at Zynga. Consulting at Boston Consulting Group. CTO at Lifen (French healthtech startup, digital infrastructure for healthcare). Brings software and platform-building lens complementing Tripathi's hardware expertise.
   origin: Tunisian-French
 last_updated: 2026-03-20
 confidence: high

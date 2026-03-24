@@ -10,6 +10,8 @@ total_funding_approx: ~$610M
 founders:
 - name: Anshul Sadana
   role: CEO & Founder
+  background: Former COO of Arista Networks for 17 years -- led company from early days through IPO to $100B market leader. Oversaw product roadmap, hardware design, supply chain, global sales, customer engineering, and support. Before Arista, spent 8 years at Cisco. Nexthop designs switches from the ground up for AI traffic patterns.
+  origin: Indian-American
 employees_approx: unknown
 research_date: 2026-03-20
 confidence: high
