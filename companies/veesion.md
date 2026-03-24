@@ -7,9 +7,25 @@ sector: AI Retail / Gesture Recognition
 one_liner: Gesture-recognition AI for retail theft prevention in physical stores. GDPR-compliant.
 status: active
 funding_rounds:
+- stage: Seed
+  date: 2018-07
+  amount_m: null
+  lead_investors:
+  - Founders Future
+  source: https://www.crunchbase.com/funding_round/veesion-seed--c51f0b89
+- stage: Series A
+  date: 2022-03
+  amount_m: 11.0
+  lead_investors:
+  - Odyssée Venture
+  - Verve Ventures
+  source: https://www.verve.vc/blog/veesion-raises-eur-10-million-series-a/
 - stage: Series B
   date: 2025-05
   amount_m: 59
+  lead_investors:
+  - White Star Capital
+  - Red River West
   source: https://www.eu-startups.com/2025/05/paris-based-veesion-raises-e53-million-to-stop-shoplifting-with-ai-that-understands-gestures/
 founders:
 - name: Thibault David
@@ -30,7 +46,7 @@ crunchbase: https://www.crunchbase.com/organization/veesion
 crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/veesionsas
 twitter: '@_veesion'
-total_raised_m: 59.0
+total_raised_m: 70.0
 linkedin_verified: true
 ---
 

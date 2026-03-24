@@ -19,22 +19,30 @@ founders:
   origin: American
 funding_rounds:
 - stage: Seed
-  date: '2020'
-  amount_m: 4.5
+  date: 2020-02
+  amount_m: 6.0
   lead_investors:
-  - Undisclosed
+  - Lerer Hippeau
   source: https://www.alleywatch.com/2020/02/air-visual-media-collaboration-platform-shane-hegde/
+- stage: Series A
+  date: 2020-09
+  amount_m: 12.0
+  lead_investors:
+  - Tiger Global
+  source: https://www.finsmes.com/2020/09/air-raises-12m-in-series-a-funding.html
+  notes: Also Lerer Hippeau, WndrCo, Slack Ventures, Red Sea Ventures, Advancit Capital.
 - stage: Series B
   date: 2025-01
   amount_m: 35.0
   lead_investors:
   - Avenir Growth Capital
   source: https://www.alleywatch.com/2025/01/air-creative-ops-platform-system-of-record-collaboratiive-workspace-shane-hegde/
+  notes: Also Tiger Global, Headline Ventures, Lerer Hippeau, WndrCo, Slack Ventures, Designer Fund.
 linkedin: https://www.linkedin.com/company/airhq
 linkedin_verified: false
 confidence: Medium — Series B confirmed by AlleyWatch; total funding of ~$77M reported by Tracxn across 7 rounds, but not
   all individual rounds are publicly detailed.
-last_updated: 2026-03-23
+last_updated: 2026-03-24
 ---
 
 # Air

@@ -13,24 +13,27 @@ logo: null
 total_raised_m: 277
 latest_valuation_m: null
 funding_rounds:
-- stage: Series B
-  date: 2018-06
+- stage: Series A
+  date: 2018-09
+  amount_m: null
   lead_investors:
-  - Undisclosed
+  - Kiko Ventures (IP Group)
+  - Parkwalk Advisors
   source: https://www.crunchbase.com/organization/oxbotica-ltd
-  notes: First disclosed round. Amount undisclosed.
-- stage: Series B (extension)
+  notes: First institutional round. Kiko Ventures was first institutional investor.
+- stage: Series B
   date: 2021-01
   amount_m: 47.0
   lead_investors:
   - Undisclosed
   source: https://en.wikipedia.org/wiki/Oxa
 - stage: Series C
-  date: 2023-10
+  date: 2023-01
+  amount_m: 140.0
   lead_investors:
-  - Undisclosed
-  source: https://www.crunchbase.com/organization/oxbotica-ltd
-  notes: Amount undisclosed.
+  - Aioi Nissay Dowa Insurance
+  - Eneos Innovation Partners
+  source: https://techcrunch.com/2023/01/10/oxbotica-raises-140m-more-as-its-b2b-autonomous-vehicle-platform-gains-ground/
 - stage: Series D (first close)
   date: 2026-03
   amount_m: 103.0

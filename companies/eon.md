@@ -24,6 +24,30 @@ founders:
   background: AWS alumnus; oversees business operations from New York
   origin: Israeli
 funding_rounds:
+- stage: Seed
+  date: 2024-01
+  amount_m: 20
+  lead_investors:
+  - Sequoia Capital
+  source: https://techcrunch.com/2024/10/01/eon-emerges-from-stealth-with-127m-to-bring-a-fresh-approach-to-back-up-cloud-infrastructure/
+- stage: Series A
+  date: 2024-08
+  amount_m: 30
+  lead_investors:
+  - Lightspeed Venture Partners
+  source: https://techcrunch.com/2024/10/01/eon-emerges-from-stealth-with-127m-to-bring-a-fresh-approach-to-back-up-cloud-infrastructure/
+- stage: Series B
+  date: 2024-10
+  amount_m: 77
+  lead_investors:
+  - Greenoaks
+  source: https://techcrunch.com/2024/10/01/eon-emerges-from-stealth-with-127m-to-bring-a-fresh-approach-to-back-up-cloud-infrastructure/
+- stage: Series C
+  date: 2024-11
+  amount_m: 70
+  lead_investors:
+  - BOND
+  source: https://siliconangle.com/2024/11/27/eon-raises-another-70m-1-4b-valuation-cloud-backup-platform/
 - stage: Series D
   date: 2025-12
   amount_m: 300

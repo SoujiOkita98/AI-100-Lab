@@ -21,6 +21,26 @@ founders:
   background: Co-founded Pony.ai; world-class competitive programmer (ACM ICPC)
   origin: Chinese
 funding_rounds:
+- stage: Seed
+  date: 2017-03
+  amount_m: null
+  lead_investors:
+  - IDG Capital
+  - Sequoia China (HongShan)
+  source: https://www.crunchbase.com/organization/pony-ai
+- stage: Series A
+  date: 2018-01
+  amount_m: 112
+  lead_investors:
+  - Morningside Venture Capital
+  - Legend Capital
+  source: https://www.vcnewsdaily.com/pony.ai/venture-capital-funding/pbxnmcrsvl
+- stage: Series B
+  date: 2020-02
+  amount_m: 462
+  lead_investors:
+  - Toyota Motor
+  source: https://www.globenewswire.com/news-release/2020/02/26/1990586/0/en/Pony-ai-Raises-400-Million-from-Toyota-to-Accelerate-Autonomous-Driving-Development.html
 - stage: Series C
   date: 2021-11
   amount_m: 100

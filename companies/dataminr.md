@@ -63,19 +63,19 @@ funding_rounds:
   - IVP
   source: https://www.crunchbase.com/organization/dataminr
 - stage: Series D
-  date: 2015-02
+  date: 2015-03
+  amount_m: 130.0
   lead_investors:
   - Fidelity Investments
   - Goldman Sachs
   source: https://www.crunchbase.com/organization/dataminr
-  notes: Amount undisclosed.
 - stage: Series E
-  date: 2018-05
+  date: 2018-06
+  amount_m: 391.6
   lead_investors:
   - Vulcan Capital
   - Moore Strategic Ventures
   source: https://www.crunchbase.com/organization/dataminr
-  notes: Amount undisclosed.
 - stage: Series F
   date: 2021-03
   amount_m: 475.0

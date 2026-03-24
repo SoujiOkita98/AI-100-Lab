@@ -25,16 +25,25 @@ funding_rounds:
   - NEA
   - Pantera Capital
   source: https://fortune.com/2026/03/10/tim-hwang-nitra-funding-ai-healthcare-platform/
+- stage: Venture Debt
+  date: 2025-12
+  amount_m: 20.0
+  lead_investors:
+  - Avenue Capital Group
+  source: https://www.prnewswire.com/news-releases/nitra-raises-187-million-as-ai-native-platform-for-healthcare-practices-surpasses-1-billion-in-processing-volume-302708918.html
+  notes: Venture debt facility.
 - stage: Series B
   date: 2026-03
-  amount_m: 50
+  amount_m: 50.0
+  lead_investors:
+  - Undisclosed
   source: https://fortune.com/2026/03/10/tim-hwang-nitra-funding-ai-healthcare-platform/
 last_updated: 2026-03-23
 confidence: high
 twitter: '@NitraFinance'
 total_raised_m: 187
 data_notes: Total $187M includes equity (~$90M across seed/A/B) plus $20M venture debt (Avenue Capital) and $95M warehouse
-  credit facility.
+  credit facility (Treville Capital Group / Encina Lender Finance). Total capital raised incl. facilities is ~$205M.
 founders:
 - name: Jonathan Chen
   role: CEO

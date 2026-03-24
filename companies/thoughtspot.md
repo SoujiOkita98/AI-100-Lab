@@ -51,9 +51,10 @@ funding_rounds:
   source: https://tracxn.com/d/companies/thoughtspot/__j0eT_Leq8_wjW3vvd9FqpizTJQ8ZdOcLZdd38ouF0fs/funding-and-investors
 - stage: Series D
   date: 2018-05
+  amount_m: 145.0
   lead_investors:
   - Sapphire Ventures
-  source: https://tracxn.com/d/companies/thoughtspot/__j0eT_Leq8_wjW3vvd9FqpizTJQ8ZdOcLZdd38ouF0fs/funding-and-investors
+  source: https://www.thoughtspot.com/press-releases/thoughtspot-raises-145m-oversubscribed-series-d-funding-enterprise-adoption-search-ai-driven
 - stage: Series E
   date: 2019-08
   amount_m: 248.0

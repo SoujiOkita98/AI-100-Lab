@@ -29,6 +29,13 @@ key_investors:
 - National Grid Partners
 - Invoke Capital (Mike Lynch)
 funding_rounds:
+- stage: Seed
+  date: 2016-09
+  amount_m: 3.0
+  lead_investors:
+  - Invoke Capital
+  source: https://tracxn.com/d/companies/luminance-ai/
+  notes: Seed funding from Mike Lynch's Invoke Capital.
 - stage: Series A
   date: 2016-12
   amount_m: 10.0
@@ -37,6 +44,16 @@ funding_rounds:
   - Talis Capital
   - Invoke Capital
   source: https://tracxn.com/d/companies/luminance-ai/
+- stage: Venture Round
+  date: 2019-02
+  amount_m: 10.0
+  valuation_m: 100.0
+  lead_investors:
+  - Invoke Capital
+  - Talis Capital
+  - Slaughter and May
+  source: https://www.luminance.com/news/press/20180207_funding.html
+  notes: Follow-on from existing investors at $100M valuation.
 - stage: Series B
   date: 2024-04
   amount_m: 40.0

@@ -24,6 +24,30 @@ founders:
   background: Entrepreneur First alumnus
   origin: French
 funding_rounds:
+- stage: Seed
+  date: 2015-06
+  amount_m: 1.9
+  lead_investors:
+  - Zetta Venture Partners
+  source: https://www.crunchbase.com/funding_round/tractable-seed--d41488e5
+- stage: Series A
+  date: 2017-01
+  amount_m: 8.0
+  lead_investors:
+  - Ignition Partners
+  source: https://www.crunchbase.com/organization/tractable
+- stage: Series B
+  date: 2018-07
+  amount_m: 25.0
+  lead_investors:
+  - Insight Partners
+  source: https://www.crunchbase.com/funding_round/tractable-series-b--ab64613d
+- stage: Series C
+  date: 2020-02
+  amount_m: 25.0
+  lead_investors:
+  - Georgian
+  source: https://techcrunch.com/2020/02/27/tractable-claims-25m-to-sell-damage-assessing-ais-to-more-insurance-giants/
 - stage: Series D
   date: 2021-06
   amount_m: 60

@@ -22,11 +22,13 @@ founders:
   origin: American
 funding_rounds:
 - stage: Seed
-  date: 2020
+  date: 2020-12
+  amount_m: 2.1
   lead_investors:
-  - Y Combinator
   - Afore Capital
-  source: https://www.crunchbase.com/organization/hightouch
+  - Slack Fund
+  source: https://techcrunch.com/2020/12/16/hightouch-raises-2-1m-to-help-businesses-get-more-value-from-their-data-warehouses/
+  notes: Y Combinator batch. Raised at YC demo day but disclosed later.
 - stage: Series A
   date: 2021
   amount_m: 12.0
@@ -62,7 +64,7 @@ Hightouch is an AI-powered composable customer data platform (CDP) and marketing
 
 | Round    | Date     | Amount | Lead Investor(s)   |
 |----------|----------|--------|---------------------|
-| Seed     | 2020     | --     | Y Combinator, Afore Capital |
+| Seed     | Dec 2020 | $2.1M  | Afore Capital, Slack Fund   |
 | Series A | 2021     | $12M   | Amplify Partners   |
 | Series B | Jul 2023 | $38M   | ICONIQ Growth      |
 | Series C | Feb 2025 | $80M   | Sapphire Ventures  |

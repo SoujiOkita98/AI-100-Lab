@@ -27,7 +27,14 @@ funding_rounds:
   lead_investors:
   - Sequoia Capital
   source: https://venturebeat.com/ai/langchain-lands-25m-round/
-- stage: Series B
+- stage: Series B (tranche 1)
+  date: 2025-07
+  amount_m: 100.0
+  valuation_m: 1100.0
+  lead_investors:
+  - IVP
+  source: https://techcrunch.com/2025/07/08/langchain-is-about-to-become-a-unicorn-sources-say/
+- stage: Series B (tranche 2)
   date: 2025-10
   amount_m: 125.0
   valuation_m: 1250.0

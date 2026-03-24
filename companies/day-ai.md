@@ -25,9 +25,21 @@ website_verified: true
 crunchbase: https://www.crunchbase.com/organization/day-ai
 crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/day-ai
-total_raised_m: 28.0
+total_raised_m: 24.0
 linkedin_verified: true
-funding_rounds: []
+funding_rounds:
+- stage: Seed
+  date: 2024-06
+  amount_m: 4
+  lead_investors:
+  - Sequoia Capital
+  source: https://www.day.ai/resources/day-ai-raises-4m-from-sequoia-capital-to-reimagine-crm-for-the-ai-age
+- stage: Series A
+  date: 2026-02
+  amount_m: 20
+  lead_investors:
+  - Sequoia Capital
+  source: https://www.upstartsmedia.com/p/day-ai-sequoia-ai-crm
 ---
 
 # Day AI

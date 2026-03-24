@@ -16,14 +16,19 @@ founders:
 funding_rounds:
 - stage: Seed
   date: 2017
+  amount_m: 7.0
   lead_investors:
   - Y Combinator
+  - Daniel Gross
   source: https://www.crunchbase.com/organization/assemblyai
+  notes: Approximate amount. YC batch plus angel investors.
 - stage: Series A
   date: 2022-03
+  amount_m: 28.0
   lead_investors:
   - Accel
-  source: https://www.crunchbase.com/organization/assemblyai
+  source: https://www.assemblyai.com/blog/series-a-announcement
+  notes: Also Y Combinator, John & Patrick Collison (Stripe), Nat Friedman (GitHub), Daniel Gross.
 - stage: Series B
   date: 2022-07
   amount_m: 30.0
@@ -53,8 +58,8 @@ AssemblyAI is an AI company focused on speech recognition and audio intelligence
 
 | Round    | Date     | Amount | Lead Investor(s) |
 |----------|----------|--------|-------------------|
-| Seed     | 2017     | --     | Y Combinator      |
-| Series A | Mar 2022 | --     | Accel             |
+| Seed     | 2017     | ~$7M   | Y Combinator, Daniel Gross |
+| Series A | Mar 2022 | $28M   | Accel             |
 | Series B | Jul 2022 | $30M   | Insight Partners   |
 | Series C | Dec 2023 | $50M   | Accel             |
 

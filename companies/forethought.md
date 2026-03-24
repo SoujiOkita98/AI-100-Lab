@@ -19,14 +19,24 @@ founders:
 funding_rounds:
 - stage: Seed
   date: 2018
+  amount_m: 0.65
   lead_investors:
   - Village Global
   source: https://www.crunchbase.com/organization/forethought-7dc2
 - stage: Series A
-  date: 2019
+  date: 2018-12
+  amount_m: 9.0
   lead_investors:
   - NEA
-  source: https://www.crunchbase.com/organization/forethought-7dc2
+  source: https://www.finsmes.com/2018/12/forethought-secures-9m-in-series-a-funding.html
+  notes: Also K9 Ventures, Village Global.
+- stage: Series B
+  date: 2020-10
+  amount_m: 17.0
+  lead_investors:
+  - NEA
+  source: https://www.finsmes.com/2020/11/forethought-raises-17m-in-series-b-funding.html
+  notes: Also Sound Ventures (Ashton Kutcher), Neo, Geodesic Capital, Operator Collective.
 - stage: Series C
   date: 2021-12
   amount_m: 65.0
@@ -56,8 +66,9 @@ Forethought is an AI-native platform for enterprise customer support, built on a
 
 | Round    | Date     | Amount | Lead Investor(s)           |
 |----------|----------|--------|----------------------------|
-| Seed     | 2018     | --     | Village Global             |
-| Series A | 2019     | --     | NEA                        |
+| Seed     | 2018     | $0.65M | Village Global             |
+| Series A | Dec 2018 | $9M    | NEA                        |
+| Series B | Oct 2020 | $17M   | NEA                        |
 | Series C | Dec 2021 | $65M   | STEADFAST Capital Ventures |
 | Series D | May 2025 | $25M   | Blue Cloud Ventures        |
 

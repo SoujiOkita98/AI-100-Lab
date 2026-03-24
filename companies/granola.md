@@ -42,6 +42,12 @@ funding_rounds:
   lead_investors:
   - NFDG (Nat Friedman / Daniel Gross)
   source: https://techcrunch.com/2025/05/14/ai-note-taking-app-granola-raises-43m/
+- stage: Series C
+  date: 2025-11
+  amount_m: 60.0
+  lead_investors:
+  - Sixth Street Growth
+  source: https://www.crunchbase.com/organization/granola
 one_liner: Granola is an AI-powered notepad that combines a user's typed notes with automatic meeting transcription to produce
   enhanced, structured meeting notes
 website_verified: true

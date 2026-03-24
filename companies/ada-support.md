@@ -20,6 +20,24 @@ founders:
   background: Co-founded Ada; product and technology leader
   origin: Canadian
 funding_rounds:
+- stage: Seed
+  date: 2016-11
+  amount_m: null
+  lead_investors:
+  - Undisclosed
+  source: https://www.crunchbase.com/organization/ada-support
+- stage: Series A
+  date: 2018-12
+  amount_m: null
+  lead_investors:
+  - FirstMark
+  source: https://www.crunchbase.com/organization/ada-support
+- stage: Series B
+  date: 2020-03
+  amount_m: 44.0
+  lead_investors:
+  - Accel
+  source: https://techcrunch.com/2020/03/19/ada-raises-44m-series-b-to-improve-its-chatbot-customer-service-platform/
 - stage: Series C
   date: 2021-05
   amount_m: 130.0

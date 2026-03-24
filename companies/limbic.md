@@ -7,6 +7,13 @@ one_liner: AI mental health chatbot deployed across 33% of UK NHS Talking Therap
   device.
 status: active
 funding_rounds:
+- stage: Seed
+  date: 2018-01
+  amount_m: 0.7
+  lead_investors:
+  - 7percent Ventures
+  - AI Seed
+  source: https://www.crunchbase.com/organization/limbic-aa9e
 - stage: Series A
   date: 2024-03
   amount_m: 14.0
@@ -28,7 +35,7 @@ website_verified: true
 crunchbase: https://www.crunchbase.com/organization/limbic
 crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/limbic-ai
-total_raised_m: 14.0
+total_raised_m: 14.7
 linkedin_verified: true
 ---
 

@@ -23,15 +23,19 @@ founders:
   origin: American
 funding_rounds:
 - stage: Seed
-  date: 2020
+  date: 2020-07
+  amount_m: 5.5
   lead_investors:
-  - null
-  source: https://www.crunchbase.com/organization/hex-technologies-inc
+  - Amplify Partners
+  source: https://money.yahoo.com/hex-lands-5-5m-seed-143000737.html
+  notes: Also BoxGroup, XYZ, Data Community Fund, Operator Collective.
 - stage: Series A
-  date: 2021
+  date: 2021-10
+  amount_m: 16.0
   lead_investors:
-  - Andreessen Horowitz
-  source: https://www.crunchbase.com/organization/hex-technologies-inc
+  - Amplify Partners
+  source: https://hex.tech/blog/series-a/
+  notes: Also a16z, Snowflake Ventures.
 - stage: Series B
   date: 2022-03
   amount_m: 52.0
@@ -61,8 +65,8 @@ Hex is an AI-powered collaborative data science and analytics workspace that ena
 
 | Round    | Date     | Amount | Lead Investor(s)      |
 |----------|----------|--------|-----------------------|
-| Seed     | 2020     | --     | --                    |
-| Series A | 2021     | --     | Andreessen Horowitz   |
+| Seed     | Jul 2020 | $5.5M  | Amplify Partners      |
+| Series A | Oct 2021 | $16M   | Amplify Partners      |
 | Series B | Mar 2022 | $52M   | Andreessen Horowitz   |
 | Series C | May 2025 | $70M   | Avra                  |
 

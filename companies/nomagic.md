@@ -24,9 +24,25 @@ founders:
   background: Entrepreneurial background
   origin: French
 funding_rounds:
+- stage: Seed
+  date: 2020-02
+  amount_m: 8.6
+  lead_investors:
+  - Khosla Ventures
+  source: https://techcrunch.com/2020/02/04/nomagic-a-startup-out-of-poland-picks-up-8-6m-for-its-pick-and-place-warehouse-robots/
+  notes: Also DN Capital, Capnamic Ventures, Manta Ray.
+- stage: Series A
+  date: 2022-05
+  amount_m: 22.0
+  lead_investors:
+  - Khosla Ventures
+  - Almaz Capital
+  - European Investment Bank
+  source: https://techcrunch.com/2022/05/24/nomagic-picks-up-22m-for-its-e-commerce-warehouse-picking-robots/
+  notes: Also DN Capital, Capnamic Ventures, Manta Ray.
 - stage: Series B
   date: 2025-02
-  amount_m: 44
+  amount_m: 44.0
   lead_investors:
   - EBRD Venture Capital
   source: https://techcrunch.com/2025/02/26/nomagic-picks-up-44m-for-its-ai-powered-robotic-arms/

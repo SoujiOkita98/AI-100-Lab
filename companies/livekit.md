@@ -25,9 +25,11 @@ funding_rounds:
   source: https://www.crunchbase.com/organization/livekit
 - stage: Series A
   date: 2022-09
+  amount_m: 22.0
   lead_investors:
-  - null
-  source: https://www.crunchbase.com/organization/livekit
+  - Altimeter Capital
+  source: https://blog.livekit.io/livekit-series-a/
+  notes: Also Redpoint Ventures, Jeff Dean, Elad Gil, Aravind Srinivas, Guillermo Rauch.
 - stage: Series B
   date: 2025-04
   amount_m: 45.0
@@ -58,7 +60,7 @@ LiveKit is an open-source real-time communication platform and SDK for building 
 | Round    | Date     | Amount | Lead Investor(s)    |
 |----------|----------|--------|---------------------|
 | Seed     | 2021     | $7M    | Redpoint Ventures   |
-| Series A | Sep 2022 | --     | --                  |
+| Series A | Sep 2022 | $22M   | Altimeter Capital   |
 | Series B | Apr 2025 | $45M   | Altimeter Capital   |
 | Series C | Jan 2026 | $100M  | Index Ventures      |
 

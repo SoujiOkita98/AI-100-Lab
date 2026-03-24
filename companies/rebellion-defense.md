@@ -33,7 +33,7 @@ founders:
 latest_round: Series B
 employee_count: ~40 (as of February 2026; down from peak of ~200+)
 status: Active but significantly downsized; pivoted to mission engineering focus
-last_updated: '2026-03-20'
+last_updated: '2026-03-24'
 funding_rounds:
 - stage: Seed
   date: 2019-01
@@ -41,6 +41,14 @@ funding_rounds:
   lead_investors:
   - Venrock
   source: https://tracxn.com/d/companies/rebellion-defense/
+- stage: Series A
+  date: 2020-06
+  amount_m: 62.7
+  lead_investors:
+  - Founders Fund
+  - Kleiner Perkins
+  source: https://www.crunchbase.com/organization/rebellion-defense
+  notes: Investors include Eric Schmidt, Founders Fund, Kleiner Perkins, Innovation Endeavors, Lupa Systems, Venrock.
 - stage: Series B
   date: 2021-09
   amount_m: 150.0

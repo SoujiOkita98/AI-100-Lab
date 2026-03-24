@@ -24,12 +24,31 @@ founders:
   background: University of Cambridge dialogue systems group
   origin: Taiwanese-British
 funding_rounds:
+- stage: Seed
+  date: 2017-01
+  amount_m: 2.4
+  lead_investors:
+  - Undisclosed
+  source: https://www.crunchbase.com/funding_round/poly-ai-seed--5342ea64
+- stage: Series A
+  date: 2019-03
+  amount_m: 12.0
+  lead_investors:
+  - Point72 Ventures
+  source: https://techcrunch.com/2019/03/08/polyai/
+- stage: Series B
+  date: 2022-09
+  amount_m: 40.0
+  lead_investors:
+  - Georgian
+  source: https://poly.ai/blog/polyai-raises-40m-series-b-to-help-put-superhuman-voice-assistants-behind-every-customer-service-line/
 - stage: Series C
   date: 2024-05
   amount_m: 50
   lead_investors:
-  - NVIDIA
+  - Hedosophia
   - Khosla Ventures
+  - NVIDIA
   source: https://sifted.eu/articles/polyai-series-d-86m
 - stage: Series D
   date: 2025-12

@@ -24,6 +24,30 @@ linkedin: https://www.linkedin.com/company/fractal-analytics
 total_raised_m: 685
 latest_valuation_m: 3500
 funding_rounds:
+- stage: Series A
+  date: 2013-06
+  amount_m: 25.0
+  lead_investors:
+  - TA Associates
+  source: https://www.crunchbase.com/organization/fractal-analytics
+- stage: Series B
+  date: 2014-08
+  amount_m: null
+  lead_investors:
+  - Aimia
+  source: https://www.crunchbase.com/organization/fractal-analytics
+- stage: Series C
+  date: 2016-05
+  amount_m: null
+  lead_investors:
+  - Khazanah Nasional
+  source: https://www.crunchbase.com/organization/fractal-analytics
+- stage: Series D
+  date: 2019-01
+  amount_m: 200.0
+  lead_investors:
+  - Apax Partners
+  source: https://www.crunchbase.com/organization/fractal-analytics
 - stage: Series E
   date: 2022-01
   amount_m: 360.0

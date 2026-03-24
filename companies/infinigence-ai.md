@@ -14,13 +14,22 @@ logo: null
 total_raised_m: 210
 latest_valuation_m: null
 funding_rounds:
-- stage: Seed
-  date: 2023-12
+- stage: Pre-Seed
+  date: 2023-05
   lead_investors:
   - HongShan
   - Baidu
   source: https://tracxn.com/d/companies/infinigence/
-  notes: First funding round. Amount undisclosed. Founded May 2023.
+  notes: Initial funding at founding (May 2023). Amount undisclosed.
+- stage: Seed
+  date: 2023-12
+  amount_m: 70.0
+  lead_investors:
+  - HongShan
+  - Baidu
+  - Zhipu AI
+  source: https://tracxn.com/d/companies/infinigence/
+  notes: Estimated ~$70M across pre-seed and seed rounds combined (~500M yuan). Also Sequoia China.
 - stage: Series A
   date: 2024-09
   amount_m: 70.0

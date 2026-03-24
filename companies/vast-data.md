@@ -33,6 +33,14 @@ employees_approx: ~500-1,000 (estimate; exact figure uncertain)
 research_date: 2026-03-20
 confidence: high
 funding_rounds:
+- stage: Seed
+  date: 2016-01
+  amount_m: 15.0
+  lead_investors:
+  - 83North
+  - Norwest Venture Partners
+  - New York Venture Partners
+  source: https://www.crunchbase.com/funding_round/vast-data-series-a--fa5709f4
 - stage: Series A
   date: 2018-03
   amount_m: 25.0
