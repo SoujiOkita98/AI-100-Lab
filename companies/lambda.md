@@ -5,7 +5,6 @@ founded: 2012
 headquarters: San Francisco, California
 website: https://lambda.ai
 status: Private (IPO expected H2 2026)
-total_funding: ~$2.44B across 10+ rounds
 founders:
 - name: Stephen Balaban
   role: CEO

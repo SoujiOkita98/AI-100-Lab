@@ -1,6 +1,5 @@
 ---
 name: Hightouch
-company: Hightouch
 founded: 2019
 headquarters: San Francisco, CA, USA
 website: https://hightouch.com

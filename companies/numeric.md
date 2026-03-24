@@ -1,5 +1,4 @@
 ---
-company_name: Numeric
 website: https://www.numeric.io
 sector: AI for Accounting / Financial Close
 founded: 2020
@@ -14,7 +13,6 @@ founders:
 - name: Anthony Alvernaz
   role: Co-Founder & CPO
   origin: American
-total_funding_raised: $89M
 arr_estimate: Undisclosed
 employee_count_estimate: ~50-80 (estimated)
 status: Private

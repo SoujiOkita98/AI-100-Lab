@@ -1,5 +1,4 @@
 ---
-company_name: Jump
 website: https://jump.ai
 sector: AI for Financial Advisory
 founded: 2023
@@ -14,7 +13,6 @@ founders:
 - name: Adam Kirk
   role: Co-Founder
   origin: American
-total_funding_raised: $105M
 arr_estimate: Undisclosed
 employee_count_estimate: ~50-100 (estimated)
 status: Private

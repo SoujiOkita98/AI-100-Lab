@@ -1,5 +1,4 @@
 ---
-company_name: Safe Superintelligence Inc.
 ticker: SSI (private)
 website: https://ssi.inc
 founded: June
@@ -21,7 +20,6 @@ founders:
 employees: ~18
 stage: Pre-product / Deep R&D
 sector: Artificial Intelligence / AGI Safety
-total_funding_raised: ~$3 billion
 key_investors:
 - Greenoaks Capital (led Series B)
 - Andreessen Horowitz (a16z)

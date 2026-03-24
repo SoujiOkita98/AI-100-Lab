@@ -1,5 +1,4 @@
 ---
-company: Trigger.dev
 founded: 2022
 headquarters: London, UK
 website: https://trigger.dev

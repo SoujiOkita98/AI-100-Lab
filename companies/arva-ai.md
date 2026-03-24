@@ -20,14 +20,6 @@ funding_rounds:
   - Undisclosed
 notable_investors:
 - Y Combinator
-tags:
-- ai-compliance
-- fintech
-- kyb
-- kyc
-- aml
-- ai-agents
-- yc-s24
 yc_batch: S24
 linkedin: https://www.linkedin.com/company/arva-ai
 confidence: Medium

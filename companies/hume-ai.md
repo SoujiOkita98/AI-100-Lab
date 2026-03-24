@@ -1,6 +1,5 @@
 ---
 name: Hume AI
-company: Hume AI
 founded: 2021
 headquarters: New York, NY, USA
 website: https://www.hume.ai

@@ -7,12 +7,6 @@ ceo: Jiang Daxin (姜大昕)
 chairman: Yin Qi (印奇) — appointed January 2026
 employees: ~400 (as of early 2026)
 sector: Foundation Models / Multimodal AI
-tags:
-- generative-ai
-- foundation-models
-- multimodal
-- on-device-ai
-- china-ai-tigers
 status: Private (Hong Kong IPO reportedly planned for 2026)
 valuation_estimate: '>20 billion RMB (~$2.8B); exact post-B+ figure unconfirmed'
 total_funding_estimate: ~$1B+ across all rounds (exact cumulative total uncertain)

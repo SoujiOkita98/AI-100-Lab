@@ -1,5 +1,4 @@
 ---
-company: Nuro
 founded: 2016
 headquarters: Mountain View, California
 website: https://www.nuro.ai

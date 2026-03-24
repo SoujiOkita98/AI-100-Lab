@@ -1,5 +1,4 @@
 ---
-company: Langfuse
 founded: 2022
 headquarters: Berlin, Germany
 website: https://langfuse.com

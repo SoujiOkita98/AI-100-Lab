@@ -1,6 +1,5 @@
 ---
 name: Instill AI
-company: Instill AI
 founded: 2020
 headquarters: London, UK
 website: https://www.instill.tech

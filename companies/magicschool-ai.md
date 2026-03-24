@@ -5,7 +5,6 @@ sector: AI Education / EdTech
 founded: 2023
 headquarters: Denver, Colorado
 website: https://www.magicschool.ai
-total_funding: ~$67M
 users: 7M+ educators (2026)
 employees: ~100-200 (scaling to 200 by end of 2025)
 status: Private

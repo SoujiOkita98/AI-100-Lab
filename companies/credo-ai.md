@@ -1,12 +1,10 @@
 ---
-company: Credo AI
 website: https://www.credo.ai
 sector: AI Governance / Responsible AI Platform
 founded: 2020
 headquarters: San Francisco, California
 ceo: Navrina Singh
 employees_approx: 100+
-total_funding: Undisclosed (Series A+ stage)
 status: Private
 last_updated: 2026-03-20
 founders:
@@ -14,14 +12,6 @@ founders:
   role: Founder & CEO
   origin: India (Bachelor's in Electronics & Telecommunication Engineering from India; MS ECE from University of Wisconsin-Madison;
     MBA from USC Marshall)
-tags:
-- ai-governance
-- responsible-ai
-- enterprise-saas
-- regulatory-compliance
-- indian-founder
-- ex-microsoft
-- ex-qualcomm
 one_liner: Credo AI is an AI governance SaaS platform that helps enterprises minimize AI-related risk by ensuring their AI
   systems are fair, compliant, secure, auditable, and human-centered
 crunchbase: https://www.crunchbase.com/organization/credo-ai

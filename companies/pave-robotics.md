@@ -8,14 +8,15 @@ one_liner: Autonomous robots for construction and infrastructure tasks
 status: Active
 total_raised_m: 0.5
 founders:
-  - name: "Josh Kelly"
-    role: "Co-Founder"
-    background: "Stanford grad; head of engineering for Mark Rober's YouTube team; previously at Zipline and NASA JPL (Mechatronics)"
-    origin: "United States"
-  - name: "Mason Landon Smith"
-    role: "Co-Founder"
-    background: "Rhode Island School of Design grad; founding product designer at Crunch Labs (Mark Rober); multiple award-winning products"
-    origin: "United States"
+- name: Josh Kelly
+  role: Co-Founder
+  background: Stanford grad; head of engineering for Mark Rober's YouTube team; previously at Zipline and NASA JPL (Mechatronics)
+  origin: United States
+- name: Mason Landon Smith
+  role: Co-Founder
+  background: Rhode Island School of Design grad; founding product designer at Crunch Labs (Mark Rober); multiple award-winning
+    products
+  origin: United States
 funding_rounds:
 - stage: Seed
   date: 2025-03
@@ -24,12 +25,6 @@ funding_rounds:
   - Y Combinator
 notable_investors:
 - Y Combinator
-tags:
-- robotics
-- construction
-- autonomous
-- infrastructure
-- yc-w25
 yc_batch: W25
 linkedin: https://www.linkedin.com/company/pave-robotics
 confidence: Low

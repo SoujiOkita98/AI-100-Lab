@@ -73,7 +73,6 @@ founders:
   origin: German (based on name; uncertain)
 sector: AI / Foundation Models / Consumer AI
 employee_count: ~1,000+ (estimates; exact figure undisclosed)
-total_funding: ~$45B (across all rounds)
 funding_rounds:
 - stage: Series A (Seed/Initial)
   date: 2023-11

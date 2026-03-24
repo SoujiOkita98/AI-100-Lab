@@ -1,5 +1,4 @@
 ---
-company_name: EvenUp
 website: https://www.evenuplaw.com
 one_liner: AI platform for personal injury law firms that automates demand letter drafting, medical bill summarization, and
   case workflow optimization
@@ -16,7 +15,6 @@ founders:
 - name: Raymond Mieszaniec
   role: COO & Co-Founder
   origin: American
-total_funding_raised: ~$385M
 employee_count_estimate: ~300 (uncertain)
 status: Private
 last_updated: 2026-03-20

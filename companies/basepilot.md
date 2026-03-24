@@ -22,12 +22,6 @@ funding_rounds:
   - Y Combinator
 notable_investors:
 - Y Combinator
-tags:
-- ai-automation
-- browser-automation
-- rpa
-- ai-agents
-- yc-w24
 yc_batch: W24
 linkedin: https://www.linkedin.com/company/basepilot
 confidence: Medium

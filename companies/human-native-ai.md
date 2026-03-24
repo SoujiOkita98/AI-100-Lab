@@ -1,6 +1,5 @@
 ---
 name: Human Native AI
-company: Human Native AI
 founded: 2024
 headquarters: London, UK
 website: https://www.humannative.ai

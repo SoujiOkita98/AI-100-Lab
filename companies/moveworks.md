@@ -1,5 +1,4 @@
 ---
-company: Moveworks
 website: https://www.moveworks.com
 sector: Enterprise AI / Agentic AI Copilot & Employee Support
 founded: 2016

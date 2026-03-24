@@ -1,5 +1,4 @@
 ---
-company_name: Cosine
 founded: 2022
 headquarters: London, United Kingdom
 sector: AI-Powered Developer Tools
@@ -8,7 +7,6 @@ website: https://cosine.sh
 one_liner: Human reasoning lab building Genie, an autonomous AI software engineer that can branch, implement, test, and submit
   pull requests from task assignments
 status: Private (Seed)
-total_funding: ~$2.5M
 employee_count: ~32 (January 2026)
 key_investors:
 - Uphonest Capital

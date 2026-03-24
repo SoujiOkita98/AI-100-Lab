@@ -1,10 +1,8 @@
 ---
-company: MatX
 founded: '2022'
 headquarters: San Francisco Bay Area, California, USA
 sector: AI Hardware / Semiconductors (LLM Training)
 stage: Growth (Series B)
-total_funding: ~$600 million
 employees: ~50 (estimate; small team)
 website: https://matx.com
 last_updated: 2026-03-20

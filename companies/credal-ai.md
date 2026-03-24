@@ -1,5 +1,4 @@
 ---
-company: Credal.ai
 founded: 2022
 headquarters: New York, NY
 website: https://www.credal.ai

@@ -14,15 +14,8 @@ founders:
   role: Co-Founder & CTO
   origin: Swedish
 employees: ~146 (as of March 2026)
-total_funding: ~$567M across four rounds
 arr: $400M (as of February/March 2026)
 status: Private
-tags:
-- vibe-coding
-- ai-app-builder
-- no-code
-- full-stack
-- european-ai
 last_updated: 2026-03-20
 one_liner: Lovable is a Swedish AI-powered "vibe coding" platform that turns natural-language prompts into fully functional,
   full-stack web applications

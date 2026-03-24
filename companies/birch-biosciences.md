@@ -1,5 +1,4 @@
 ---
-company: Birch Biosciences
 founded: 2022
 headquarters: Portland, OR
 website: https://www.birchbiosciences.com

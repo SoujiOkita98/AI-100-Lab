@@ -1,12 +1,10 @@
 ---
-company_name: CodeRabbit
 founded: 2023
 headquarters: San Jose, CA
 sector: AI-Powered Developer Tools
 sub_sector: AI Code Review / Code Quality
 website: https://www.coderabbit.ai
 status: Private (Series B)
-total_funding: $88M
 employee_count: ~24 (2025)
 key_investors:
 - Scale Venture Partners

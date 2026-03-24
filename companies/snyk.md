@@ -1,5 +1,4 @@
 ---
-company_name: Snyk
 founded: 2015
 headquarters: Boston, MA (US HQ); Tel Aviv, Israel (R&D HQ)
 sector: AI-Powered Developer Tools

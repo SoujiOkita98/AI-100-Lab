@@ -1,12 +1,10 @@
 ---
-company_name: Graphite
 founded: 2020
 headquarters: San Francisco, CA
 sector: AI-Powered Developer Tools
 sub_sector: AI Code Review / Developer Workflow
 website: https://graphite.com
 status: Acquired by Cursor (Anysphere) -- December 2025
-total_funding: ~$81M
 employee_count: Undisclosed (estimated 40-80)
 key_investors:
 - Accel

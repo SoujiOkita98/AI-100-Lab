@@ -1,6 +1,5 @@
 ---
 name: Flywheel
-company: Flywheel.io
 founded: 2011
 headquarters: Minneapolis, MN, USA
 website: https://flywheel.io

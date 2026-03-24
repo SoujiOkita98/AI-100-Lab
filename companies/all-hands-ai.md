@@ -1,12 +1,10 @@
 ---
-company_name: All Hands AI (OpenHands)
 founded: 2024
 headquarters: Somerville, MA
 sector: AI-Powered Developer Tools
 sub_sector: Open-Source AI Coding Agents
 website: https://openhands.dev
 status: Private (Series A)
-total_funding: $23.8M
 employee_count: Undisclosed (estimated 15-30)
 key_investors:
 - Madrona

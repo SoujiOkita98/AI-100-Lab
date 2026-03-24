@@ -8,14 +8,14 @@ one_liner: Open-source visual editor for React apps that lets designers and deve
 status: Active
 total_raised_m: 0.5
 founders:
-  - name: "Daniel Farrell"
-    role: "Co-Founder (Design & Growth)"
-    background: "Designer for over a decade; first 100 employee at Bird; former Head of Growth; ex-DIMO, Defy Marketing"
-    origin: "United States"
-  - name: "Kiet Ho"
-    role: "Co-Founder (Engineering)"
-    background: "Ex-Amazon; maintained design system at ServiceNow"
-    origin: "Vietnam"
+- name: Daniel Farrell
+  role: Co-Founder (Design & Growth)
+  background: Designer for over a decade; first 100 employee at Bird; former Head of Growth; ex-DIMO, Defy Marketing
+  origin: United States
+- name: Kiet Ho
+  role: Co-Founder (Engineering)
+  background: Ex-Amazon; maintained design system at ServiceNow
+  origin: Vietnam
 funding_rounds:
 - stage: Seed
   date: 2025-03
@@ -24,13 +24,6 @@ funding_rounds:
   - Y Combinator
 notable_investors:
 - Y Combinator
-tags:
-- ai-developer-tools
-- design-to-code
-- open-source
-- react
-- visual-editor
-- yc-w25
 yc_batch: W25
 linkedin: https://www.linkedin.com/company/onlook-dev
 confidence: Low

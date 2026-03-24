@@ -9,12 +9,6 @@ employees_approx: 30
 latest_valuation_usd: 300000000
 latest_valuation_date: 2023-02-22
 status: Pivoted to Lightfield (private); Tome brand acquired by AngelList
-tags:
-- generative-ai
-- presentations
-- sales-intelligence
-- crm
-- pivot
 research_date: 2026-03-20
 one_liner: Tome was an AI-native storytelling and presentation platform founded in 2020 by former Meta executives Keith Peiris
   and Henri Liriani

@@ -1,5 +1,4 @@
 ---
-company: Netradyne
 website: https://www.netradyne.com
 sector: AI for Fleet Safety / Computer Vision & Edge AI
 founded: 2015
@@ -15,13 +14,6 @@ founders:
 - name: David Julian
   role: Co-Founder & CTO
   origin: United States (former Qualcomm engineer)
-tags:
-- computer-vision
-- edge-ai
-- fleet-safety
-- indian-founder
-- ex-qualcomm
-- stanford
 funding_rounds:
 - stage: Series A
   date: 2016-06

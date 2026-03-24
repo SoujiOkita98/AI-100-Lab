@@ -20,12 +20,6 @@ notable_investors:
 - Nexus Venture Partners
 - Y Combinator
 - Paul Graham
-tags:
-- voice-ai
-- call-center
-- customer-service
-- ai-agents
-- yc-w25
 yc_batch: W25
 linkedin: https://www.linkedin.com/company/leaping-ai
 confidence: High

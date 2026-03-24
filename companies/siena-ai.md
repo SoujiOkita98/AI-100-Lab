@@ -1,6 +1,5 @@
 ---
 name: Siena AI
-company: Siena AI
 founded: 2022
 headquarters: San Francisco, CA, USA
 website: https://www.siena.cx

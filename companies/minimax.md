@@ -25,15 +25,6 @@ sector: Artificial Intelligence — Foundation Models, Generative AI (Video, Tex
 status: Public (Hong Kong IPO, January 9, 2026)
 ipo_raised: ~$619M USD
 market_cap_at_debut: ~$13.7B USD (after 109% first-day surge)
-total_funding_raised: ~$1.15B USD (pre-IPO) + $619M IPO
-tags:
-- China Six AI Tigers
-- generative AI
-- video generation
-- foundation models
-- consumer AI
-- AI companions
-- multimodal AI
 last_updated: 2026-03-20
 one_liner: MiniMax is one of China's "Six AI Tigers" — the cohort of leading Chinese AI startups that emerged in the post-ChatGPT
   era (alongside Zhipu AI, Moonshot AI / Kimi, Baichuan, 01.AI, and StepFun)

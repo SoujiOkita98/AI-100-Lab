@@ -1,5 +1,4 @@
 ---
-company_name: Brightwave
 website: https://www.brightwave.io
 one_liner: AI-powered investment research platform that synthesizes thousands of pages of financial documents into actionable
   insights for investment professionals
@@ -13,7 +12,6 @@ founders:
 - name: Brandon Kotara
   role: Co-Founder & CTO
   origin: American
-total_funding_raised: $21M
 arr_estimate: Undisclosed (reported 4x revenue growth in four months post-seed; no public ARR figure)
 employee_count_estimate: ~22 (as of Jan 2026, per Tracxn)
 status: Private

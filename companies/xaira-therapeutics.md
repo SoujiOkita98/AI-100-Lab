@@ -1,5 +1,4 @@
 ---
-company: Xaira Therapeutics
 sector: Biotech AI / Drug Discovery
 founded: 2024
 headquarters: San Francisco Bay Area, CA

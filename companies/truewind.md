@@ -1,5 +1,4 @@
 ---
-company: Truewind
 founded: 2022
 headquarters: San Francisco, CA
 website: https://www.truewind.ai

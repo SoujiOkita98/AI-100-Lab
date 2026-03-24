@@ -1,6 +1,5 @@
 ---
 name: Deepnote
-company: Deepnote
 founded: 2019
 headquarters: San Francisco, CA, USA
 website: https://deepnote.com

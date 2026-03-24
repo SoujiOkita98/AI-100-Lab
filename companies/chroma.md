@@ -1,6 +1,5 @@
 ---
 name: Chroma
-company: Chroma
 founded: 2022
 headquarters: San Francisco, CA, USA
 website: https://www.trychroma.com

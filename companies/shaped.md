@@ -1,5 +1,4 @@
 ---
-company: Shaped
 founded: 2021
 headquarters: New York, NY
 website: https://www.shaped.ai

@@ -1,5 +1,4 @@
 ---
-company: Sweep
 founded: 2023
 headquarters: San Francisco, CA
 website: https://sweep.dev

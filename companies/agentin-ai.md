@@ -19,12 +19,6 @@ funding_rounds:
   - Y Combinator
 notable_investors:
 - Y Combinator
-tags:
-- ai-agents
-- enterprise
-- reinforcement-learning
-- automation
-- yc-w25
 yc_batch: W25
 linkedin: https://www.linkedin.com/company/agentin-ai
 confidence: Medium

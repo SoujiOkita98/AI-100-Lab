@@ -195,7 +195,7 @@
         "company_slug": "1x-technologies",
         "name": "Bernt Oivind Bornich",
         "role": "Founder & CEO",
-        "background": "Norwegian roboticist. Studied at University of Oslo. Described as a \"science nerd, roboticist, and jack-of-all-trades.\" Has led the company from its 2014 founding through rebranding and pivot to consumer humanoids.\n",
+        "background": "Norwegian roboticist. Studied at University of Oslo. Described as a \"science nerd, roboticist, and jack-of-all-trades.\" Has led the company from its 2014 founding through rebranding and pivot to consumer humanoids.",
         "origin": "Norwegian",
         "prior": ""
       },
@@ -1343,7 +1343,7 @@
   {
     "slug": "agibot",
     "name": "AgiBot (Zhiyuan Robotics)",
-    "status": "Pre-IPO (Hong Kong IPO expected Q3 2026)",
+    "status": "active",
     "founded_year": "2023",
     "hq": "Shanghai, China",
     "website": "https://www.agibot.com",
@@ -1414,7 +1414,7 @@
         "company_slug": "agility-robotics",
         "name": "Jonathan Hurst",
         "role": "Co-Founder & Chief Robot Officer",
-        "background": "B.S. in Mechanical Engineering, M.S. and Ph.D. in Robotics, all from Carnegie Mellon University. Professor at Oregon State University, where he co-founded the OSU Robotics Institute and ran the Dynamic Robotics Laboratory. His academic research on physics-based legged locomotion formed the scientific foundation for Cassie and Digit. Transitioned from CTO to Chief Robot Officer in April 2023 to focus on R&D roadmap, industrial design, and innovation pipeline. Remains on OSU faculty.\n",
+        "background": "B.S. in Mechanical Engineering, M.S. and Ph.D. in Robotics, all from Carnegie Mellon University. Professor at Oregon State University, where he co-founded the OSU Robotics Institute and ran the Dynamic Robotics Laboratory. His academic research on physics-based legged locomotion formed the scientific foundation for Cassie and Digit. Transitioned from CTO to Chief Robot Officer in April 2023 to focus on R&D roadmap, industrial design, and innovation pipeline. Remains on OSU faculty.",
         "origin": "American",
         "prior": ""
       },
@@ -1422,7 +1422,7 @@
         "company_slug": "agility-robotics",
         "name": "Damion Shelton",
         "role": "Co-Founder & Chairman of the Board (formerly CEO, then President, then Chief Engagement Officer)",
-        "background": "Ph.D. in Robotics from Carnegie Mellon University, where he met Hurst. Served as CEO from founding through March 2024, then transitioned to President, and later to Chief Engagement Officer (December 2024), focusing on commercial and investor engagement. Now serves as Chairman.\n",
+        "background": "Ph.D. in Robotics from Carnegie Mellon University, where he met Hurst. Served as CEO from founding through March 2024, then transitioned to President, and later to Chief Engagement Officer (December 2024), focusing on commercial and investor engagement. Now serves as Chairman.",
         "origin": "American",
         "prior": ""
       },
@@ -1430,7 +1430,7 @@
         "company_slug": "agility-robotics",
         "name": "Mikhail Jones",
         "role": "Co-Founder & VP of Software",
-        "background": "Was Jonathan Hurst's graduate student at Oregon State University. Leads software development for Digit.\n",
+        "background": "Was Jonathan Hurst's graduate student at Oregon State University. Leads software development for Digit.",
         "origin": "[not publicly detailed]",
         "prior": ""
       }
@@ -2153,20 +2153,16 @@
         "company_slug": "aleph-alpha",
         "name": "Jonas Andrulis",
         "role": "Founder; Chairman of Advisory Board (as of Jan 2026; stepped down as CEO Oct 2025)",
-        "background": [
-          "Industrial Engineering, Karlsruhe Institute of Technology (KIT), specialization in AI and modeling"
-        ],
-        "origin": "",
+        "background": "Industrial Engineering, Karlsruhe Institute of Technology (KIT), specialization in AI and modeling Apple, Special Projects Group - Senior AI R&D Manager (multiple years in California); Pallas Ludens - Founder & CEO (machine learning / computer vision startup)",
+        "origin": "German",
         "prior": ""
       },
       {
         "company_slug": "aleph-alpha",
         "name": "Samuel Weinbach",
         "role": "Co-Founder; Co-Chief Research Officer",
-        "background": [
-          "Unknown (details not publicly available)"
-        ],
-        "origin": "",
+        "background": "Unknown (details not publicly available) Deloitte - AI Expert",
+        "origin": "German (unconfirmed)",
         "prior": ""
       }
     ],
@@ -2175,7 +2171,7 @@
         "company_slug": "aleph-alpha",
         "stage": "Seed",
         "date": 2020,
-        "amount_m": null,
+        "amount_m": 5.8,
         "valuation_m": null,
         "lead_investors": "",
         "other_investors": "",
@@ -3044,7 +3040,7 @@
   {
     "slug": "anomalo",
     "name": "Anomalo",
-    "status": "Growth",
+    "status": "active",
     "founded_year": "2018",
     "hq": "San Francisco, California, USA",
     "website": "https://www.anomalo.com",
@@ -3821,7 +3817,7 @@
   {
     "slug": "apptronik",
     "name": "Apptronik",
-    "status": "unknown",
+    "status": "active",
     "founded_year": "2016",
     "hq": "Austin, Texas",
     "website": "https://apptronik.com",
@@ -4768,7 +4764,7 @@
   {
     "slug": "assembled",
     "name": "Assembled",
-    "status": "Series B",
+    "status": "active",
     "founded_year": "2018",
     "hq": "San Francisco, CA",
     "website": "https://www.assembled.com",
@@ -5087,7 +5083,7 @@
   {
     "slug": "atlan",
     "name": "Atlan",
-    "status": "Growth",
+    "status": "active",
     "founded_year": "2018",
     "hq": "New York, New York, USA",
     "website": "https://atlan.com",
@@ -6086,7 +6082,7 @@
   {
     "slug": "baichuan-intelligence",
     "name": "Baichuan Intelligence",
-    "status": "Series A (mega-round)",
+    "status": "active",
     "founded_year": "Apri",
     "hq": "Haidian District, Beijing, China",
     "website": "https://www.baichuan-ai.com",
@@ -6106,9 +6102,7 @@
         "company_slug": "baichuan-intelligence",
         "name": "Wang Xiaochuan (\u738b\u5c0f\u5ddd)",
         "role": "Founder & CEO",
-        "background": [
-          "Tsinghua University, Computer Science (entered via national informatics olympiad)"
-        ],
+        "background": "Tsinghua University, Computer Science (entered via national informatics olympiad) Former CEO of Sogou (China's second-largest search engine), which was acquired by Tencent in 2021 for ~$3.5B. Built Sogou from a Sohu subsidiary into a publicly traded company (NYSE). One of China's most prominent tech entrepreneurs, often called a \"first-generation internet veteran.\"",
         "origin": "Chinese",
         "prior": ""
       }
@@ -6687,7 +6681,7 @@
   {
     "slug": "biren-technology",
     "name": "Biren Technology",
-    "status": "Public (IPO January 2, 2026, HKEX)",
+    "status": "active",
     "founded_year": "2019",
     "hq": "Shanghai, China",
     "website": "https://www.birentech.com",
@@ -6841,11 +6835,11 @@
   {
     "slug": "bland-ai",
     "name": "Bland AI",
-    "status": "unknown",
+    "status": "active",
     "founded_year": "2023",
     "hq": "San Francisco, CA",
     "website": "https://www.bland.ai",
-    "sector": null,
+    "sector": "AI voice; enterprise AI; AI agents",
     "one_liner": "Enterprise platform for automating phone calls with AI voice agents that sound human, handling both inbound and outbound calls at scale",
     "total_raised_m": 65.0,
     "latest_valuation_m": null,
@@ -7215,7 +7209,7 @@
   {
     "slug": "bolt",
     "name": "Bolt.new (StackBlitz)",
-    "status": "Series B",
+    "status": "active",
     "founded_year": "2017",
     "hq": "San Francisco, CA",
     "website": "https://bolt.new",
@@ -7722,7 +7716,7 @@
   {
     "slug": "browser-use",
     "name": "Browser Use",
-    "status": "Seed",
+    "status": "active",
     "founded_year": "2024",
     "hq": "Zurich, Switzerland / San Francisco, CA",
     "website": "https://browser-use.com",
@@ -8206,7 +8200,7 @@
   {
     "slug": "cambricon",
     "name": "Cambricon Technologies",
-    "status": "Public (IPO July 2020, Shanghai STAR Market)",
+    "status": "active",
     "founded_year": "2016",
     "hq": "Beijing, China",
     "website": "https://www.cambricon.com",
@@ -8740,7 +8734,7 @@
   {
     "slug": "cerebras",
     "name": "Cerebras Systems",
-    "status": "Pre-IPO (targeting Q2 2026 IPO)",
+    "status": "active",
     "founded_year": "2015",
     "hq": "Sunnyvale, California, USA",
     "website": "https://www.cerebras.ai",
@@ -10179,7 +10173,7 @@
         "company_slug": "cohere",
         "name": "Aidan Gomez",
         "role": "Co-founder & CEO",
-        "background": "Canadian (grew up in Brighton, Ontario). Co-author of the seminal 2017 \"Attention Is All You Need\" transformer paper while a 20-year-old intern at Google Brain. BSc in Computer Science and Mathematics from the University of Toronto. PhD in Computer Science from the University of Oxford (granted 2024; paused studies to launch Cohere). Named to TIME 100/AI list (2023). Elected to Rivian board (April 2025).\n",
+        "background": "Canadian (grew up in Brighton, Ontario). Co-author of the seminal 2017 \"Attention Is All You Need\" transformer paper while a 20-year-old intern at Google Brain. BSc in Computer Science and Mathematics from the University of Toronto. PhD in Computer Science from the University of Oxford (granted 2024; paused studies to launch Cohere). Named to TIME 100/AI list (2023). Elected to Rivian board (April 2025).",
         "origin": "Canadian",
         "prior": ""
       },
@@ -10187,7 +10181,7 @@
         "company_slug": "cohere",
         "name": "Ivan Zhang",
         "role": "Co-founder",
-        "background": "Canadian, son of immigrants (likely Chinese-Canadian based on Asian Hustle Network feature, though not explicitly confirmed). Attended Richmond Hill High School in Ontario. BSc in Computer Science from the University of Toronto (2014-2016, did not complete full degree). Previously founded FOR.ai (now Cohere Labs), worked in biotech and MLOps.\n",
+        "background": "Canadian, son of immigrants (likely Chinese-Canadian based on Asian Hustle Network feature, though not explicitly confirmed). Attended Richmond Hill High School in Ontario. BSc in Computer Science from the University of Toronto (2014-2016, did not complete full degree). Previously founded FOR.ai (now Cohere Labs), worked in biotech and MLOps.",
         "origin": "Canadian (Chinese heritage, unconfirmed)",
         "prior": ""
       },
@@ -10195,7 +10189,7 @@
         "company_slug": "cohere",
         "name": "Nick Frosst",
         "role": "Co-founder",
-        "background": "Canadian. BSc in Computer Science from the University of Toronto. Former machine learning researcher at Google Brain under Geoffrey Hinton. Also the frontman of indie rock band Good Kid, which has achieved significant commercial success. Named to Maclean's 2023 AI Power List alongside co-founders.\n",
+        "background": "Canadian. BSc in Computer Science from the University of Toronto. Former machine learning researcher at Google Brain under Geoffrey Hinton. Also the frontman of indie rock band Good Kid, which has achieved significant commercial success. Named to Maclean's 2023 AI Power List alongside co-founders.",
         "origin": "Canadian",
         "prior": ""
       }
@@ -10681,7 +10675,7 @@
     "founded_year": "2020",
     "hq": "Remote-first (Memphis, TN origin)",
     "website": "https://www.copy.ai",
-    "sector": null,
+    "sector": "AI marketing; generative AI; enterprise AI",
     "one_liner": "Copy.ai is a generative AI platform that evolved from an AI copywriting tool into a full-stack \"GTM AI\" (Go-To-Market AI) platform for sales, marketing, and revenue operations teams",
     "total_raised_m": 19.8,
     "latest_valuation_m": null,
@@ -11001,7 +10995,7 @@
         "company_slug": "corvus-robotics",
         "name": "Jackie Wu",
         "role": "Co-founder & CEO",
-        "background": "MIT alumnus. Leads Corvus from concept through Y Combinator (S18 batch) to commercial deployment of autonomous warehouse inventory drones.\n",
+        "background": "MIT alumnus. Leads Corvus from concept through Y Combinator (S18 batch) to commercial deployment of autonomous warehouse inventory drones.",
         "origin": "Chinese-American",
         "prior": ""
       },
@@ -11009,7 +11003,7 @@
         "company_slug": "corvus-robotics",
         "name": "Mohammed Kabir",
         "role": "Co-founder",
-        "background": "MIT alumnus. Brings deep technical expertise in autonomous systems and computer vision.\n",
+        "background": "MIT alumnus. Brings deep technical expertise in autonomous systems and computer vision.",
         "origin": "South Asian",
         "prior": ""
       },
@@ -12155,7 +12149,7 @@
   {
     "slug": "d-matrix",
     "name": "d-Matrix",
-    "status": "Growth (Series C)",
+    "status": "active",
     "founded_year": "2019",
     "hq": "Santa Clara, California, USA",
     "website": "https://www.d-matrix.ai",
@@ -12228,7 +12222,7 @@
   {
     "slug": "databricks",
     "name": "Databricks",
-    "status": "Late-stage / Pre-IPO",
+    "status": "active",
     "founded_year": "2013",
     "hq": "San Francisco, California, USA",
     "website": "https://www.databricks.com",
@@ -12440,7 +12434,7 @@
   {
     "slug": "datacurve",
     "name": "Datacurve",
-    "status": "Series A",
+    "status": "active",
     "founded_year": "2024",
     "hq": "San Francisco, CA",
     "website": "https://datacurve.ai",
@@ -12460,7 +12454,7 @@
         "company_slug": "datacurve",
         "name": "Serena Ge",
         "role": "Co-Founder",
-        "background": "Former ML engineer intern at Cohere",
+        "background": "Former ML engineer intern at Cohere University of Waterloo (CS)",
         "origin": "Chinese-American",
         "prior": ""
       },
@@ -12468,7 +12462,7 @@
         "company_slug": "datacurve",
         "name": "Charley Lee",
         "role": "Co-Founder",
-        "background": "Former intern at Google; AI research on multi-modal RL and browser-use agents",
+        "background": "Former intern at Google; AI research on multi-modal RL and browser-use agents University of Waterloo (CS)",
         "origin": "Chinese-American or Korean-American",
         "prior": ""
       }
@@ -12703,7 +12697,7 @@
   {
     "slug": "david-ai",
     "name": "David AI",
-    "status": "Series B",
+    "status": "active",
     "founded_year": "2024",
     "hq": "San Francisco, CA",
     "website": "https://www.withdavid.ai",
@@ -12835,7 +12829,7 @@
         "company_slug": "decagon",
         "name": "Jesse Zhang",
         "role": "Co-Founder & CEO",
-        "background": "B.S. Computer Science from Harvard University. Interned at Citadel, Google, Hudson River Trading, Intel, and Kensho. Founded Lowkey, a social gaming startup backed by Y Combinator and a16z, which was acquired by Niantic (maker of Pokemon GO) in 2021 in a mid-eight-figure transaction. Worked on the Social team at Niantic post-acquisition. Forbes 30 Under 30 (AI list). Grew up in Boulder, Colorado.\n",
+        "background": "B.S. Computer Science from Harvard University. Interned at Citadel, Google, Hudson River Trading, Intel, and Kensho. Founded Lowkey, a social gaming startup backed by Y Combinator and a16z, which was acquired by Niantic (maker of Pokemon GO) in 2021 in a mid-eight-figure transaction. Worked on the Social team at Niantic post-acquisition. Forbes 30 Under 30 (AI list). Grew up in Boulder, Colorado.",
         "origin": "Chinese-American",
         "prior": ""
       },
@@ -12843,7 +12837,7 @@
         "company_slug": "decagon",
         "name": "Ashwin Sreenivas",
         "role": "Co-Founder & CTO",
-        "background": "B.S. and M.S. in Computer Science from Stanford University. Worked as Deployment Strategist at Palantir Technologies. Co-founded Helia (AI startup acquired by Scale AI in December 2020), where he served as CTO. Deep expertise in AI/ML infrastructure and enterprise deployments.\n",
+        "background": "B.S. and M.S. in Computer Science from Stanford University. Worked as Deployment Strategist at Palantir Technologies. Co-founded Helia (AI startup acquired by Scale AI in December 2020), where he served as CTO. Deep expertise in AI/ML infrastructure and enterprise deployments.",
         "origin": "Indian-American",
         "prior": ""
       }
@@ -13173,7 +13167,7 @@
     "sector": "Artificial Intelligence",
     "one_liner": "DeepL is a German AI company specializing in machine translation and language AI tools, headquartered in Cologne, Germany",
     "total_raised_m": 415.0,
-    "latest_valuation_m": 2000.0,
+    "latest_valuation_m": null,
     "employees": null,
     "revenue_signals": null,
     "business_model": "Freemium SaaS (tiered subscriptions + API usage fees)",
@@ -13186,9 +13180,7 @@
         "company_slug": "deepl",
         "name": "Jaroslaw (Jarek) Kutylowski",
         "role": "CEO (since 2019; previously CTO)",
-        "background": [
-          "PhD in Computer Science (emphasis on mathematics) -- institution not publicly confirmed"
-        ],
+        "background": "PhD in Computer Science (emphasis on mathematics) -- institution not publicly confirmed CTO, Linguee (2012-2017)",
         "origin": "Polish",
         "prior": ""
       },
@@ -13196,9 +13188,7 @@
         "company_slug": "deepl",
         "name": "Gereon Frahling",
         "role": "Former Head of Research (departed ~2019)",
-        "background": [
-          "PhD (field unconfirmed)"
-        ],
+        "background": "PhD (field unconfirmed) Founder & CEO, Linguee (2009-2017); Research Scientist, Google",
         "origin": "German",
         "prior": ""
       },
@@ -13206,7 +13196,7 @@
         "company_slug": "deepl",
         "name": "Leonard Fink",
         "role": "Co-founder (current role unclear)",
-        "background": "",
+        "background": "Co-developed Linguee with Gereon Frahling",
         "origin": "American",
         "prior": ""
       }
@@ -13329,14 +13319,14 @@
   {
     "slug": "deepseek",
     "name": "DeepSeek",
-    "status": "Growth (self-funded via parent hedge fund; one reported Series C)",
+    "status": "active",
     "founded_year": "2023",
     "hq": "Hangzhou, Zhejiang, China",
     "website": "https://www.deepseek.com",
     "sector": "Foundation Models / Large Language Models",
     "one_liner": "DeepSeek is a Chinese AI research lab that builds open-weight large language models",
     "total_raised_m": 1100.0,
-    "latest_valuation_m": null,
+    "latest_valuation_m": 3400.0,
     "employees": "150-200",
     "revenue_signals": null,
     "business_model": null,
@@ -14147,7 +14137,7 @@
   {
     "slug": "elevenlabs",
     "name": "ElevenLabs",
-    "status": "unknown",
+    "status": "active",
     "founded_year": "2022",
     "hq": "New York, NY (with offices in London and Warsaw)",
     "website": "https://elevenlabs.io",
@@ -14488,7 +14478,7 @@
   {
     "slug": "emergent",
     "name": "Emergent",
-    "status": "Series B",
+    "status": "active",
     "founded_year": "2024",
     "hq": "San Francisco, CA (R&D center in Bengaluru, India)",
     "website": "https://emergent.sh",
@@ -14508,7 +14498,7 @@
         "company_slug": "emergent",
         "name": "Mukund Jha",
         "role": "CEO",
-        "background": "Former Co-Founder/CTO at Dunzo; worked at Google",
+        "background": "Former Co-Founder/CTO at Dunzo; worked at Google Columbia University (Engineering)",
         "origin": "Indian",
         "prior": ""
       },
@@ -14516,7 +14506,7 @@
         "company_slug": "emergent",
         "name": "Madhav Jha",
         "role": "CTO",
-        "background": "Von Neumann postdoctoral fellow at Sandia National Labs; founding member of Amazon SageMaker research team",
+        "background": "Von Neumann postdoctoral fellow at Sandia National Labs; founding member of Amazon SageMaker research team PhD in Theoretical Computer Science, Penn State University",
         "origin": "Indian",
         "prior": ""
       }
@@ -14730,7 +14720,7 @@
   {
     "slug": "enflame-technology",
     "name": "Enflame Technology",
-    "status": "Pre-IPO (entered IPO inquiry stage on Shanghai STAR Market, Feb 2026)",
+    "status": "active",
     "founded_year": "2018",
     "hq": "Shanghai, China",
     "website": "https://www.enflame-tech.com",
@@ -15484,7 +15474,7 @@
   {
     "slug": "etched",
     "name": "Etched",
-    "status": "Growth (Series B)",
+    "status": "active",
     "founded_year": "2022",
     "hq": "Cupertino, California, USA",
     "website": "https://etched.com",
@@ -16228,7 +16218,7 @@
         "company_slug": "field-ai",
         "name": "Ali Agha",
         "role": "Founder & CEO",
-        "background": "Spent nearly a decade at NASA's Jet Propulsion Laboratory (JPL) specializing in robotics autonomy and physical AI. Led teams that competed in the DARPA Subterranean Challenge. Built FieldAI's core technology around enabling robots to operate autonomously without GPS, maps, or pre-programmed routes.\n",
+        "background": "Spent nearly a decade at NASA's Jet Propulsion Laboratory (JPL) specializing in robotics autonomy and physical AI. Led teams that competed in the DARPA Subterranean Challenge. Built FieldAI's core technology around enabling robots to operate autonomously without GPS, maps, or pre-programmed routes.",
         "origin": "Iranian-American",
         "prior": ""
       }
@@ -16333,7 +16323,7 @@
         "company_slug": "figure-ai",
         "name": "Brett Adcock",
         "role": "Founder & CEO",
-        "background": "American, raised on a family farm near Moweaqua, Illinois. BS from University of Florida (2008). Serial entrepreneur: founded Vettery (hiring marketplace, acquired by Adecco Group ~2018), co-founded Archer Aviation (eVTOL, NYSE: ACHR, IPO 2021). Named to TIME100 AI list (2024). Also founded Cover (AI school-security startup, 2023) and Hark (independent AI lab, self-funded $100M, late 2025). Remains CEO of both Figure and Hark.\n",
+        "background": "American, raised on a family farm near Moweaqua, Illinois. BS from University of Florida (2008). Serial entrepreneur: founded Vettery (hiring marketplace, acquired by Adecco Group ~2018), co-founded Archer Aviation (eVTOL, NYSE: ACHR, IPO 2021). Named to TIME100 AI list (2024). Also founded Cover (AI school-security startup, 2023) and Hark (independent AI lab, self-funded $100M, late 2025). Remains CEO of both Figure and Hark.",
         "origin": "American (white, rural Illinois)",
         "prior": ""
       }
@@ -16854,7 +16844,7 @@
   {
     "slug": "flex-ai",
     "name": "FlexAI",
-    "status": "Seed",
+    "status": "active",
     "founded_year": "2023",
     "hq": "Paris, France",
     "website": "https://www.flex.ai",
@@ -17211,7 +17201,7 @@
         "company_slug": "forsight-robotics",
         "name": "Prof. Moshe Shoham",
         "role": "Co-founder",
-        "background": "Professor at the Technion - Israel Institute of Technology. Pioneer in medical robotics, previously co-founded Mazor Robotics (acquired by Medtronic for $1.64B in 2018). One of the most accomplished surgical robotics entrepreneurs globally.\n",
+        "background": "Professor at the Technion - Israel Institute of Technology. Pioneer in medical robotics, previously co-founded Mazor Robotics (acquired by Medtronic for $1.64B in 2018). One of the most accomplished surgical robotics entrepreneurs globally.",
         "origin": "Israeli",
         "prior": ""
       },
@@ -17219,7 +17209,7 @@
         "company_slug": "forsight-robotics",
         "name": "Dr. Daniel Glozman",
         "role": "Co-founder & CEO",
-        "background": "Medical robotics expert with deep experience in surgical systems development. Leads ForSight's commercialization and clinical trial strategy.\n",
+        "background": "Medical robotics expert with deep experience in surgical systems development. Leads ForSight's commercialization and clinical trial strategy.",
         "origin": "Israeli",
         "prior": ""
       },
@@ -17281,7 +17271,7 @@
         "company_slug": "fourier-intelligence",
         "name": "Alex Gu (Gu Jie)",
         "role": "Founder & CEO",
-        "background": "Graduated from Shanghai Jiao Tong University. Previously a sales executive at National Instruments. Founded Fourier in 2015 with a focus on rehabilitation robotics before pivoting to general-purpose humanoid robots. Has led the company through nine funding rounds.\n",
+        "background": "Graduated from Shanghai Jiao Tong University. Previously a sales executive at National Instruments. Founded Fourier in 2015 with a focus on rehabilitation robotics before pivoting to general-purpose humanoid robots. Has led the company through nine funding rounds.",
         "origin": "Chinese",
         "prior": ""
       }
@@ -17725,7 +17715,7 @@
   {
     "slug": "galbot",
     "name": "Galbot (Galaxy General Robotics)",
-    "status": "Series B+ (late-stage private)",
+    "status": "active",
     "founded_year": "2023",
     "hq": "Beijing, China",
     "website": "https://www.galbot.com",
@@ -17821,7 +17811,7 @@
         "company_slug": "galileo-ai",
         "name": "Vikram Chatterji",
         "role": "Co-Founder & CEO",
-        "background": "Google AI (Product Management, BERT/Transformers), Google Pay India, Android",
+        "background": "Google AI (Product Management, BERT/Transformers), Google Pay India, Android MS Computer Science, Carnegie Mellon University",
         "origin": "Indian-American",
         "prior": ""
       },
@@ -17829,7 +17819,7 @@
         "company_slug": "galileo-ai",
         "name": "Atindriyo Sanyal",
         "role": "Co-Founder & CTO",
-        "background": "Uber AI (Engineering Lead, Michelangelo feature store), Apple (early Siri engineer)",
+        "background": "Uber AI (Engineering Lead, Michelangelo feature store), Apple (early Siri engineer) MS Computer Science, UCLA; BE Computer Science, Pune Institute of Computer Technology",
         "origin": "Indian-American",
         "prior": ""
       },
@@ -17837,7 +17827,7 @@
         "company_slug": "galileo-ai",
         "name": "Yash Sheth",
         "role": "Co-Founder & COO",
-        "background": "Google (Tech Lead & Manager, Speech Recognizer platform, 9 years; scaled speech recognition 800x across 20+ products)",
+        "background": "Google (Tech Lead & Manager, Speech Recognizer platform, 9 years; scaled speech recognition 800x across 20+ products) MS Computer Science, UC Irvine",
         "origin": "Indian-American",
         "prior": ""
       }
@@ -17953,7 +17943,7 @@
         "company_slug": "gather-ai",
         "name": "Sankalp Arora",
         "role": "Co-founder & CEO",
-        "background": "PhD from Carnegie Mellon University's Robotics Institute. Co-built one of the first autonomous helicopters, tested at FBI training grounds in Quantico. Led Gather AI from CMU spinout to commercial warehouse drone platform.\n",
+        "background": "PhD from Carnegie Mellon University's Robotics Institute. Co-built one of the first autonomous helicopters, tested at FBI training grounds in Quantico. Led Gather AI from CMU spinout to commercial warehouse drone platform.",
         "origin": "Indian-American",
         "prior": ""
       },
@@ -17961,7 +17951,7 @@
         "company_slug": "gather-ai",
         "name": "Daniel Maturana",
         "role": "Co-founder & CTO",
-        "background": "PhD from Carnegie Mellon University's Robotics Institute. Expert in computer vision and 3D perception for autonomous systems.\n",
+        "background": "PhD from Carnegie Mellon University's Robotics Institute. Expert in computer vision and 3D perception for autonomous systems.",
         "origin": "Chilean-American",
         "prior": ""
       },
@@ -17969,7 +17959,7 @@
         "company_slug": "gather-ai",
         "name": "Geetesh Dubey",
         "role": "Co-founder",
-        "background": "PhD student at Carnegie Mellon University. Co-developed the autonomous helicopter technology that preceded Gather AI.\n",
+        "background": "PhD student at Carnegie Mellon University. Co-developed the autonomous helicopter technology that preceded Gather AI.",
         "origin": "Indian",
         "prior": ""
       }
@@ -19036,7 +19026,7 @@
   {
     "slug": "graphcore",
     "name": "Graphcore",
-    "status": "Acquired (SoftBank, July 2024)",
+    "status": "active",
     "founded_year": "2016",
     "hq": "Bristol, United Kingdom",
     "website": "https://www.graphcore.ai",
@@ -20139,7 +20129,7 @@
   {
     "slug": "harper",
     "name": "Harper",
-    "status": "Series A",
+    "status": "active",
     "founded_year": "2024",
     "hq": "San Francisco, CA",
     "website": "https://www.harperinsure.com",
@@ -23339,7 +23329,7 @@
         "company_slug": "keychain",
         "name": "Umang Dua",
         "role": "Co-Founder",
-        "background": null,
+        "background": "",
         "origin": "",
         "prior": ""
       },
@@ -23347,7 +23337,7 @@
         "company_slug": "keychain",
         "name": "Jordan Weitz",
         "role": "Co-Founder",
-        "background": null,
+        "background": "",
         "origin": "",
         "prior": ""
       }
@@ -23951,7 +23941,7 @@
         "company_slug": "kyutai",
         "name": "Xavier Niel",
         "role": "Co-founder & Primary Backer",
-        "background": "",
+        "background": "Founder of Iliad Group / Free (telecom); Founder of Station F",
         "origin": "French",
         "prior": ""
       },
@@ -23959,7 +23949,7 @@
         "company_slug": "kyutai",
         "name": "Rodolphe Saade",
         "role": "Co-founder & Backer",
-        "background": "",
+        "background": "CEO of CMA CGM Group (shipping & logistics)",
         "origin": "French",
         "prior": ""
       },
@@ -23967,7 +23957,7 @@
         "company_slug": "kyutai",
         "name": "Eric Schmidt",
         "role": "Co-founder & Backer",
-        "background": "",
+        "background": "Former CEO & Chairman of Google; Schmidt Futures",
         "origin": "American",
         "prior": ""
       }
@@ -23980,7 +23970,7 @@
         "amount_m": 0.0,
         "valuation_m": null,
         "lead_investors": "",
-        "other_investors": "",
+        "other_investors": "Xavier Niel / Iliad Group (~EUR100M); Rodolphe Saade / CMA CGM Group (~EUR100M); Eric Schmidt / Schmidt Futures; Other unnamed donors",
         "source": "https://techcrunch.com/2023/11/17/kyutai-is-an-french-ai-research-lab-with-a-330-million-budget-that-will-make-everything-open-source/",
         "notes": ""
       }
@@ -24928,7 +24918,7 @@
   {
     "slug": "lightmatter",
     "name": "Lightmatter",
-    "status": "Series D (Late-stage private)",
+    "status": "active",
     "founded_year": "2017",
     "hq": "Boston, Massachusetts, USA",
     "website": "https://lightmatter.co",
@@ -26952,7 +26942,7 @@
   {
     "slug": "manus-ai",
     "name": "Manus AI",
-    "status": "Acquired by Meta",
+    "status": "active",
     "founded_year": "2022",
     "hq": "Singapore (relocated from Beijing in May 2025)",
     "website": "https://manus.im",
@@ -26972,9 +26962,7 @@
         "company_slug": "manus-ai",
         "name": "Xiao Hong (\u8427\u5f18)",
         "role": "Co-founder & CEO",
-        "background": [
-          "Details not widely reported; first startup launched in 2016, one year after graduation"
-        ],
+        "background": "Details not widely reported; first startup launched in 2016, one year after graduation Founded first startup in 2016 building creator tools for WeChat. Founded Butterfly Effect in 2022, which launched Monica (a browser extension AI assistant) before pivoting to Manus.",
         "origin": "Chinese",
         "prior": ""
       },
@@ -26982,9 +26970,7 @@
         "company_slug": "manus-ai",
         "name": "Ji Yichao (\u5b63\u9038\u8d85), known as \"Peak\"",
         "role": "Co-founder & Chief Scientist",
-        "background": [
-          "Beijing Information Science and Technology University (dropped out)"
-        ],
+        "background": "Beijing Information Science and Technology University (dropped out) Built \"Mammoth Browser\" (\u731b\u72b8\u6d4f\u89c8\u5668) at age 17, which became the most downloaded third-party iPhone browser in China. Later built Magi, a knowledge search engine. Named to MIT Technology Review's Innovators Under 35 (2025). Age ~32.",
         "origin": "Chinese",
         "prior": ""
       },
@@ -26992,9 +26978,7 @@
         "company_slug": "manus-ai",
         "name": "Zhang Tao (\u5f20\u6d9b)",
         "role": "Co-founder & CPO (Product)",
-        "background": [
-          "Chongqing University of Posts and Telecommunications"
-        ],
+        "background": "Chongqing University of Posts and Telecommunications Former Head of Global Product at ByteDance (2022-2023). Previously product manager at Tencent. Directed the Manus launch video.",
         "origin": "Chinese",
         "prior": ""
       }
@@ -27045,7 +27029,7 @@
         "company_slug": "marqvision",
         "name": "DK Lee",
         "role": "Co-Founder & CBO",
-        "background": null,
+        "background": "",
         "origin": "",
         "prior": ""
       }
@@ -27348,7 +27332,7 @@
   {
     "slug": "matx",
     "name": "MatX",
-    "status": "Growth (Series B)",
+    "status": "active",
     "founded_year": "2022",
     "hq": "San Francisco Bay Area, California, USA",
     "website": "https://matx.com",
@@ -27523,7 +27507,7 @@
   {
     "slug": "mercor",
     "name": "Mercor",
-    "status": "Series C",
+    "status": "active",
     "founded_year": "2023",
     "hq": "San Francisco, CA",
     "website": "https://mercor.com",
@@ -27725,7 +27709,7 @@
   {
     "slug": "midjourney",
     "name": "Midjourney",
-    "status": "unknown",
+    "status": "active",
     "founded_year": "2021",
     "hq": "San Francisco, California",
     "website": "https://www.midjourney.com",
@@ -28215,7 +28199,7 @@
     "sector": "Artificial Intelligence",
     "one_liner": "French AI company building open-weight and proprietary frontier LLMs with enterprise customization, agent orchestration, and multilingual capabilities",
     "total_raised_m": 3170.0,
-    "latest_valuation_m": 13800.0,
+    "latest_valuation_m": null,
     "employees": null,
     "revenue_signals": null,
     "business_model": "Open-core SaaS (API + enterprise subscriptions + consumer product)",
@@ -28228,12 +28212,7 @@
         "company_slug": "mistral-ai",
         "name": "Arthur Mensch",
         "role": "CEO",
-        "background": [
-          "Ecole Polytechnique (2011)",
-          "Telecom Paris",
-          "MSc Mathematics, Vision, Learning - Universite Paris-Saclay",
-          "PhD Machine Learning - Universite Paris-Saclay"
-        ],
+        "background": "Ecole Polytechnique (2011); Telecom Paris; MSc Mathematics, Vision, Learning - Universite Paris-Saclay; PhD Machine Learning - Universite Paris-Saclay DeepMind (Google) - ~3 years",
         "origin": "French",
         "prior": ""
       },
@@ -28241,10 +28220,7 @@
         "company_slug": "mistral-ai",
         "name": "Guillaume Lample",
         "role": "Chief Scientist",
-        "background": [
-          "Ecole Polytechnique",
-          "Carnegie Mellon University"
-        ],
+        "background": "Ecole Polytechnique; Carnegie Mellon University Meta AI (FAIR) - 2014-2023; co-creator of LLaMA",
         "origin": "French",
         "prior": ""
       },
@@ -28252,9 +28228,7 @@
         "company_slug": "mistral-ai",
         "name": "Timothee Lacroix",
         "role": "CTO",
-        "background": [
-          "Ecole Normale Superieure"
-        ],
+        "background": "Ecole Normale Superieure Meta AI (FAIR) - 2014-2023",
         "origin": "French",
         "prior": ""
       }
@@ -28310,7 +28284,7 @@
   {
     "slug": "modal",
     "name": "Modal (Modal Labs, Inc.)",
-    "status": "Growth (Series B closed; Series C reportedly in talks)",
+    "status": "active",
     "founded_year": "2021",
     "hq": "New York, NY",
     "website": "https://modal.com",
@@ -28440,7 +28414,7 @@
   {
     "slug": "modelbest",
     "name": "ModelBest",
-    "status": "Series B+ (multiple rounds totaling hundreds of millions of RMB)",
+    "status": "active",
     "founded_year": "2022",
     "hq": "Haidian District, Beijing, China",
     "website": "https://modelbest.cn",
@@ -28460,9 +28434,7 @@
         "company_slug": "modelbest",
         "name": "Li Dahai (\u674e\u5927\u6d77)",
         "role": "Co-founder & CEO",
-        "background": [
-          "Tsinghua University (affiliated)"
-        ],
+        "background": "Tsinghua University (affiliated) Led the company's commercial strategy and partnerships with automotive/device OEMs",
         "origin": "Chinese",
         "prior": ""
       },
@@ -28470,9 +28442,7 @@
         "company_slug": "modelbest",
         "name": "Liu Zhiyuan (\u5218\u77e5\u8fdc)",
         "role": "Co-founder & Chief Scientist",
-        "background": [
-          "Tsinghua University, tenured Associate Professor, Department of Computer Science"
-        ],
+        "background": "Tsinghua University, tenured Associate Professor, Department of Computer Science One of China's most prominent NLP researchers. Led the OpenBMB (Open Lab for Big Model Base) open-source initiative at Tsinghua. The academic backbone behind the CPM (Chinese Pre-trained Models) series that predates the ChatGPT era.",
         "origin": "Chinese",
         "prior": ""
       }
@@ -28557,14 +28527,14 @@
   {
     "slug": "momenta",
     "name": "Momenta",
-    "status": "Pre-IPO (Hong Kong IPO filing, March 2026)",
+    "status": "active",
     "founded_year": "2016",
     "hq": "Beijing, China",
     "website": "https://www.momenta.ai",
     "sector": "Autonomous Driving / AI Software",
     "one_liner": "Momenta is a Beijing-based autonomous driving company that develops AI software for self-driving vehicles, spanning both L2+ driver-assistance systems (ADAS) and full L4 autonomous driving",
     "total_raised_m": 1420.0,
-    "latest_valuation_m": 1000.0,
+    "latest_valuation_m": 6000.0,
     "employees": "1500+ (estimated)",
     "revenue_signals": null,
     "business_model": null,
@@ -28672,7 +28642,7 @@
         "company_slug": "monarch-tractor",
         "name": "Praveen Penmetsa",
         "role": "Co-founder & CEO",
-        "background": "Autonomy and mobility engineer. Has led Monarch from founding through to commercial production and global deployment of autonomous electric tractors.\n",
+        "background": "Autonomy and mobility engineer. Has led Monarch from founding through to commercial production and global deployment of autonomous electric tractors.",
         "origin": "Indian-American",
         "prior": ""
       },
@@ -28680,7 +28650,7 @@
         "company_slug": "monarch-tractor",
         "name": "Mark Schwager",
         "role": "Co-founder & President",
-        "background": "Former Tesla Gigafactory chief. Brings manufacturing scale-up expertise from Tesla's battery and vehicle production operations.\n",
+        "background": "Former Tesla Gigafactory chief. Brings manufacturing scale-up expertise from Tesla's battery and vehicle production operations.",
         "origin": "American",
         "prior": ""
       },
@@ -28688,7 +28658,7 @@
         "company_slug": "monarch-tractor",
         "name": "Zachary Omohundro",
         "role": "Co-founder & CTO",
-        "background": "Robotics PhD from Carnegie Mellon University. Leads Monarch's autonomous driving and AI technology development.\n",
+        "background": "Robotics PhD from Carnegie Mellon University. Leads Monarch's autonomous driving and AI technology development.",
         "origin": "American",
         "prior": ""
       },
@@ -28696,7 +28666,7 @@
         "company_slug": "monarch-tractor",
         "name": "Carlo Mondavi",
         "role": "Co-founder & Chief Farming Officer",
-        "background": "Member of the Napa Valley Mondavi winery family. Sustainability- focused vintner who provides real-world agricultural expertise and was an early testing partner for autonomous tractors in vineyards.\n",
+        "background": "Member of the Napa Valley Mondavi winery family. Sustainability- focused vintner who provides real-world agricultural expertise and was an early testing partner for autonomous tractors in vineyards.",
         "origin": "Italian-American",
         "prior": ""
       }
@@ -28741,7 +28711,7 @@
   {
     "slug": "monte-carlo-data",
     "name": "Monte Carlo",
-    "status": "Late-stage / Growth",
+    "status": "active",
     "founded_year": "2019",
     "hq": "San Francisco, California, USA",
     "website": "https://www.montecarlodata.com",
@@ -29006,7 +28976,7 @@
   {
     "slug": "moonvalley",
     "name": "Moonvalley",
-    "status": "Seed Extension (as of July 2025)",
+    "status": "active",
     "founded_year": "2023",
     "hq": "Toronto, Canada",
     "website": "https://www.moonvalley.com",
@@ -29084,7 +29054,7 @@
   {
     "slug": "moore-threads",
     "name": "Moore Threads",
-    "status": "Public (IPO December 5, 2025, Shanghai STAR Market)",
+    "status": "active",
     "founded_year": "2020",
     "hq": "Beijing, China",
     "website": "https://www.mthreads.com",
@@ -30071,7 +30041,7 @@
         "company_slug": "neura-robotics",
         "name": "David Reger",
         "role": "Co-founder & CEO",
-        "background": "German entrepreneur and robotics engineer. Previously founded other technology ventures. Leads NEURA's vision for cognitive robots that can perceive, learn, and interact naturally with humans.\n",
+        "background": "German entrepreneur and robotics engineer. Previously founded other technology ventures. Leads NEURA's vision for cognitive robots that can perceive, learn, and interact naturally with humans.",
         "origin": "German",
         "prior": ""
       },
@@ -30911,7 +30881,7 @@
     "sector": "Artificial Intelligence",
     "one_liner": "Nous Research is an open-source AI research lab founded in 2022 by a small group of researchers who met on Discord and Twitter",
     "total_raised_m": null,
-    "latest_valuation_m": 1000.0,
+    "latest_valuation_m": null,
     "employees": null,
     "revenue_signals": null,
     "business_model": "Open-source AI research lab with decentralized training infrastructure (Psyche Network on Solana); revenue model unclear -- likely a mix of token economics, enterprise services, and API access",
@@ -30924,10 +30894,7 @@
         "company_slug": "nous-research",
         "name": "Jeffrey Quesnelle",
         "role": "CEO & Co-Founder",
-        "background": [
-          "BS Computer Science, Oakland University",
-          "MS Computer Science, University of Michigan"
-        ],
+        "background": "BS Computer Science, Oakland University; MS Computer Science, University of Michigan Director of Software Development, Intrepid Control Systems (2017-2022) -- in-vehicle networking, autonomous driving protocols; Principal Engineer / MEV Engineer, Eden Network (blockchain/crypto)",
         "origin": "American",
         "prior": ""
       },
@@ -30935,9 +30902,7 @@
         "company_slug": "nous-research",
         "name": "Karan Malhotra",
         "role": "Head of Behavior & Co-Founder",
-        "background": [
-          "BA Philosophy and Religion, Emory University"
-        ],
+        "background": "BA Philosophy and Religion, Emory University Details not widely documented; described as \"crypto native\"",
         "origin": "Indian-American",
         "prior": ""
       },
@@ -30945,9 +30910,7 @@
         "company_slug": "nous-research",
         "name": "Teknium",
         "role": "Head of Post-Training & Co-Founder",
-        "background": [
-          "Not publicly disclosed"
-        ],
+        "background": "Not publicly disclosed Prolific open-source LLM contributor (extensive GitHub history in fine-tuning and dataset curation); Maintains anonymity; sometimes referred to as \"Ryan Teknium\"",
         "origin": "Unknown (pseudonym)",
         "prior": ""
       },
@@ -30955,9 +30918,7 @@
         "company_slug": "nous-research",
         "name": "Shivani Mitra",
         "role": "Co-Founder",
-        "background": [
-          "Not publicly disclosed"
-        ],
+        "background": "Not publicly disclosed Not widely documented",
         "origin": "Indian-American",
         "prior": ""
       }
@@ -31385,7 +31346,7 @@
   {
     "slug": "nuro",
     "name": "Nuro",
-    "status": "Late Stage (Series E)",
+    "status": "active",
     "founded_year": "2016",
     "hq": "Mountain View, California",
     "website": "https://www.nuro.ai",
@@ -31405,10 +31366,7 @@
         "company_slug": "nuro",
         "name": "Jiajun Zhu (JZ)",
         "role": "Co-Founder & Co-CEO",
-        "background": [
-          "BS Computer Science, Fudan University (Shanghai, China)",
-          "MS Computer Science, University of Virginia"
-        ],
+        "background": "BS Computer Science, Fudan University (Shanghai, China); MS Computer Science, University of Virginia",
         "origin": "China",
         "prior": ""
       },
@@ -31416,10 +31374,7 @@
         "company_slug": "nuro",
         "name": "Dave Ferguson",
         "role": "Co-Founder & Co-CEO",
-        "background": [
-          "BS Computer Science & Mathematics, University of Otago (New Zealand)",
-          "MS & PhD Robotics, Carnegie Mellon University"
-        ],
+        "background": "BS Computer Science & Mathematics, University of Otago (New Zealand); MS & PhD Robotics, Carnegie Mellon University",
         "origin": "New Zealand",
         "prior": ""
       }
@@ -31654,7 +31609,7 @@
   {
     "slug": "observe-ai",
     "name": "Observe.AI",
-    "status": "Series C",
+    "status": "active",
     "founded_year": "2017",
     "hq": "San Francisco / Redwood City, CA",
     "website": "https://www.observe.ai",
@@ -32281,7 +32236,7 @@
         "lead_investors": "Cyberstarts",
         "other_investors": "",
         "source": "https://www.calcalistech.com/ctechnews/article/hjmra11x911g",
-        "notes": null
+        "notes": ""
       }
     ],
     "top_investors": []
@@ -32795,7 +32750,7 @@
         "lead_investors": "Norwest Venture Partners",
         "other_investors": "",
         "source": "https://techcrunch.com/2023/11/01/procurement-management-software-startup-oro-labs-lands-34m-investment/",
-        "notes": null
+        "notes": ""
       }
     ],
     "top_investors": []
@@ -33478,7 +33433,7 @@
     "founded_year": "2023",
     "hq": "San Francisco, CA (registered address in Dublin, CA)",
     "website": "https://www.patronus.ai",
-    "sector": null,
+    "sector": "AI safety; LLM evaluation",
     "one_liner": "Automated AI evaluation and security platform that detects LLM mistakes at scale, enabling enterprises to deploy AI products safely in regulated industries",
     "total_raised_m": 40.0,
     "latest_valuation_m": null,
@@ -33515,7 +33470,7 @@
         "amount_m": 3.0,
         "valuation_m": null,
         "lead_investors": "Lightspeed Venture Partners",
-        "other_investors": "",
+        "other_investors": "Factorial Capital; Amjad Masad (Replit CEO); Gokul Rajaram",
         "source": "",
         "notes": ""
       },
@@ -33526,7 +33481,7 @@
         "amount_m": 17.0,
         "valuation_m": null,
         "lead_investors": "Notable Capital",
-        "other_investors": "",
+        "other_investors": "Lightspeed Venture Partners; Datadog; Factorial Capital; Gokul Rajaram",
         "source": "",
         "notes": ""
       },
@@ -34559,7 +34514,7 @@
   {
     "slug": "pika",
     "name": "Pika",
-    "status": "Series B",
+    "status": "active",
     "founded_year": "Apri",
     "hq": "Palo Alto, CA (office at 2700 W El Camino Real, Mountain View, CA 94040)",
     "website": "https://pika.art",
@@ -34579,10 +34534,7 @@
         "company_slug": "pika",
         "name": "Demi Guo (Guo Wenjing / \u90ed\u6587\u666f)",
         "role": "Co-founder & CEO",
-        "background": [
-          "Harvard University, BA Mathematics & MS Computer Science",
-          "Stanford University, PhD (Computer Science) \u2014 dropped out April 2023"
-        ],
+        "background": "Harvard University, BA Mathematics & MS Computer Science; Stanford University, PhD (Computer Science) \u2014 dropped out April 2023 Silver medalist, 2015 International Olympiad in Informatics; advised by Ron Fedkiw and Chris Manning at Stanford",
         "origin": "Chinese-American",
         "prior": ""
       },
@@ -34590,10 +34542,7 @@
         "company_slug": "pika",
         "name": "Chenlin Meng (\u5b5f\u8fb0\u7433)",
         "role": "Co-founder & CTO",
-        "background": [
-          "Stanford University, BA Mathematics (undergraduate)",
-          "Stanford University, PhD Computer Science \u2014 dropped out April 2023"
-        ],
+        "background": "Stanford University, BA Mathematics (undergraduate); Stanford University, PhD Computer Science \u2014 dropped out April 2023 Co-author of DDIM paper (foundational to Stable Diffusion, DALL-E 2, Imagen); mentored by Stefano Ermon; 30+ papers in 3 years; experience at Google Brain and Stability AI",
         "origin": "Chinese",
         "prior": ""
       }
@@ -35019,7 +34968,7 @@
     "founded_year": "2023",
     "hq": "Paris, France (legal HQ in US; ~80% of team in Europe)",
     "website": "https://poolside.ai",
-    "sector": null,
+    "sector": "AI developer tools; foundation models; code generation",
     "one_liner": "Poolside is building purpose-built foundation models for software engineering",
     "total_raised_m": 626.0,
     "latest_valuation_m": 12000.0,
@@ -35117,7 +35066,7 @@
   {
     "slug": "positron-ai",
     "name": "Positron AI",
-    "status": "Growth (Series B)",
+    "status": "active",
     "founded_year": "2023",
     "hq": "Austin, Texas, USA",
     "website": "https://www.positron.ai",
@@ -36092,7 +36041,7 @@
         "company_slug": "radical-ai",
         "name": "Jorge Colindres",
         "role": "Co-Founder & President",
-        "background": null,
+        "background": "",
         "origin": "",
         "prior": ""
       },
@@ -36231,7 +36180,7 @@
   {
     "slug": "rain-ai",
     "name": "Rain AI",
-    "status": "Late Seed / Series A (troubled)",
+    "status": "active",
     "founded_year": "2017",
     "hq": "San Francisco, California, USA",
     "website": "https://rain.ai",
@@ -37197,7 +37146,7 @@
         "date": "2016-10",
         "amount_m": 0.6,
         "valuation_m": 6.0,
-        "lead_investors": "",
+        "lead_investors": "Bloomberg Beta",
         "other_investors": "",
         "source": "https://research.contrary.com/company/replit",
         "notes": ""
@@ -37208,7 +37157,7 @@
         "date": "2018-01",
         "amount_m": 0.1,
         "valuation_m": null,
-        "lead_investors": "",
+        "lead_investors": "Y Combinator",
         "other_investors": "",
         "source": "https://blog.replit.com/yc",
         "notes": ""
@@ -37219,7 +37168,7 @@
         "date": "2018-10",
         "amount_m": 4.5,
         "valuation_m": null,
-        "lead_investors": "",
+        "lead_investors": "Andreessen Horowitz",
         "other_investors": "",
         "source": "https://blog.replit.com/a16z",
         "notes": ""
@@ -37230,7 +37179,7 @@
         "date": "2021-02-18",
         "amount_m": 20.0,
         "valuation_m": null,
-        "lead_investors": "",
+        "lead_investors": "A.Capital Ventures",
         "other_investors": "",
         "source": "https://tracxn.com/d/companies/replit/__PUWtoWCDA1Qjxd1rE0XG7GgDNdav8DNlaP_1EkZUh3A/funding-and-investors",
         "notes": ""
@@ -37241,10 +37190,10 @@
         "date": "2021-12-10",
         "amount_m": 80.0,
         "valuation_m": null,
-        "lead_investors": "",
+        "lead_investors": "Coatue",
         "other_investors": "",
         "source": "https://tracxn.com/d/companies/replit/__PUWtoWCDA1Qjxd1rE0XG7GgDNdav8DNlaP_1EkZUh3A/funding-and-investors",
-        "notes": ""
+        "notes": "Additional investors: Volt Capital, Fifth Down Capital"
       },
       {
         "company_slug": "replit",
@@ -37252,10 +37201,10 @@
         "date": "2023-04-25",
         "amount_m": 97.4,
         "valuation_m": 1160.0,
-        "lead_investors": "",
+        "lead_investors": "Andreessen Horowitz (Growth Fund)",
         "other_investors": "",
         "source": "https://blog.replit.com/b-extension",
-        "notes": ""
+        "notes": "Other investors: Khosla Ventures, Coatue, SV Angel, Y Combinator, Bloomberg Beta, Naval Ravikant, ARK Ventures, Hamilton Helmer. Included conversion of Wefunder community SAFEs."
       },
       {
         "company_slug": "replit",
@@ -37263,10 +37212,10 @@
         "date": "2025-09",
         "amount_m": 250.0,
         "valuation_m": 3000.0,
-        "lead_investors": "",
+        "lead_investors": "Prysm Capital",
         "other_investors": "",
         "source": "https://replit.com/news/funding-announcement",
-        "notes": ""
+        "notes": "Other investors: Amex Ventures, Google AI Futures Fund, Andreessen Horowitz, Y Combinator"
       },
       {
         "company_slug": "replit",
@@ -37274,10 +37223,10 @@
         "date": "2026-03",
         "amount_m": 400.0,
         "valuation_m": 9000.0,
-        "lead_investors": "",
+        "lead_investors": "Georgian Partners",
         "other_investors": "",
         "source": "https://theaiinsider.tech/2026/03/16/replit-raises-400m-to-expand-ai-coding-platform-at-9b-valuation/",
-        "notes": ""
+        "notes": "Other investors: G Squared, Prysm Capital, Coatue, a16z, Craft Ventures, Y Combinator, Accenture Ventures, Okta Ventures, Databricks Ventures. Angel investors include Shaquille O'Neal and Jared Leto."
       }
     ],
     "top_investors": []
@@ -37584,7 +37533,7 @@
   {
     "slug": "rhoda-ai",
     "name": "Rhoda AI",
-    "status": "Series A",
+    "status": "active",
     "founded_year": "~202",
     "hq": "Menlo Park, CA (unconfirmed; inferred from Stanford ties and investor base)",
     "website": "https://www.rhoda.ai",
@@ -37889,7 +37838,7 @@
         "company_slug": "robust-intelligence",
         "name": "Yaron Singer",
         "role": "CEO & Co-Founder",
-        "background": "Tenured Professor of Computer Science & Applied Mathematics at Harvard (Gordon McKay Professor). Israeli-born. PhD from UC Berkeley. Previously researcher at Google AI and consulting researcher at Microsoft. Now VP of AI & Engineering at Cisco Security / Foundation AI.\n",
+        "background": "Tenured Professor of Computer Science & Applied Mathematics at Harvard (Gordon McKay Professor). Israeli-born. PhD from UC Berkeley. Previously researcher at Google AI and consulting researcher at Microsoft. Now VP of AI & Engineering at Cisco Security / Foundation AI.",
         "origin": "Israeli-American",
         "prior": ""
       },
@@ -37897,7 +37846,7 @@
         "company_slug": "robust-intelligence",
         "name": "Kojin Oshiba",
         "role": "Co-Founder",
-        "background": "BA in Computer Science & Statistics from Harvard. Grew up in Japan. Previously ML engineer at QuantCo; co-founded its Japan branch. Published at ICML and NeurIPS. Forbes 30 Under 30 in Enterprise Technology (2024). Now leads AI organization at Cisco post-acquisition.\n",
+        "background": "BA in Computer Science & Statistics from Harvard. Grew up in Japan. Previously ML engineer at QuantCo; co-founded its Japan branch. Published at ICML and NeurIPS. Forbes 30 Under 30 in Enterprise Technology (2024). Now leads AI organization at Cisco post-acquisition.",
         "origin": "Japanese-American",
         "prior": ""
       }
@@ -38188,7 +38137,7 @@
   {
     "slug": "sakana-ai",
     "name": "Sakana AI",
-    "status": "Series B",
+    "status": "active",
     "founded_year": "2023",
     "hq": "Tokyo, Japan",
     "website": "https://sakana.ai",
@@ -38379,7 +38328,7 @@
   {
     "slug": "sambanova",
     "name": "SambaNova Systems",
-    "status": "Late-stage Private",
+    "status": "active",
     "founded_year": "2017",
     "hq": "Palo Alto, California, USA",
     "website": "https://sambanova.ai",
@@ -38920,7 +38869,7 @@
         "company_slug": "scale-ai",
         "name": "Alexandr Wang",
         "role": "Co-founder & former CEO (departed June 2025 to Meta)",
-        "background": "Born 1997 in Los Alamos, NM to Chinese immigrant parents who were physicists at Los Alamos National Laboratory. Math and coding prodigy. Attended MIT briefly, worked at Quora and Hudson River Trading. Dropped out of MIT at 19 to co-found Scale AI. Became world's youngest self-made billionaire in 2022 at age 25. Now serves as Chief AI Officer at Meta, leading Meta Superintelligence Labs.\n",
+        "background": "Born 1997 in Los Alamos, NM to Chinese immigrant parents who were physicists at Los Alamos National Laboratory. Math and coding prodigy. Attended MIT briefly, worked at Quora and Hudson River Trading. Dropped out of MIT at 19 to co-found Scale AI. Became world's youngest self-made billionaire in 2022 at age 25. Now serves as Chief AI Officer at Meta, leading Meta Superintelligence Labs.",
         "origin": "Chinese-American",
         "prior": ""
       },
@@ -38928,7 +38877,7 @@
         "company_slug": "scale-ai",
         "name": "Lucy Guo",
         "role": "Co-founder (departed 2018)",
-        "background": "Studied CS and human-computer interaction at Carnegie Mellon. Thiel Fellow (2014). Worked at Facebook, Quora, and Snapchat. Left Scale AI in 2018 over strategic disagreements, retaining ~5% stake. Founded Backend Capital (VC) and Passes (creator platform). Became a billionaire on paper after Meta's 2025 investment.\n",
+        "background": "Studied CS and human-computer interaction at Carnegie Mellon. Thiel Fellow (2014). Worked at Facebook, Quora, and Snapchat. Left Scale AI in 2018 over strategic disagreements, retaining ~5% stake. Founded Backend Capital (VC) and Passes (creator platform). Became a billionaire on paper after Meta's 2025 investment.",
         "origin": "Chinese-American",
         "prior": ""
       }
@@ -39345,7 +39294,7 @@
   {
     "slug": "sensetime",
     "name": "SenseTime",
-    "status": "Public (IPO December 2021, HKEX)",
+    "status": "active",
     "founded_year": "2014",
     "hq": "Hong Kong, China",
     "website": "https://www.sensetime.com",
@@ -40108,7 +40057,7 @@
         "company_slug": "sierra-ai",
         "name": "Bret Taylor",
         "role": "Co-Founder & CEO",
-        "background": "Co-created Google Maps at Google (2003-2007). Founded FriendFeed (acquired by Facebook 2009). CTO of Facebook (created the Like button). Founded Quip (acquired by Salesforce for ~$750M). Co-CEO of Salesforce (2021-2023). Chairman of the Board of OpenAI.\n",
+        "background": "Co-created Google Maps at Google (2003-2007). Founded FriendFeed (acquired by Facebook 2009). CTO of Facebook (created the Like button). Founded Quip (acquired by Salesforce for ~$750M). Co-CEO of Salesforce (2021-2023). Chairman of the Board of OpenAI.",
         "origin": "American",
         "prior": ""
       },
@@ -40116,7 +40065,7 @@
         "company_slug": "sierra-ai",
         "name": "Clay Bavor",
         "role": "Co-Founder & President",
-        "background": "18 years at Google. Led Gmail and Google Drive product/design teams. Led Google Workspace. Started and led Google AR/VR, Project Starline, and Google Lens. Most recently led Google Labs.\n",
+        "background": "18 years at Google. Led Gmail and Google Drive product/design teams. Led Google Workspace. Started and led Google AR/VR, Project Starline, and Google Lens. Most recently led Google Labs.",
         "origin": "American",
         "prior": ""
       }
@@ -40161,7 +40110,7 @@
   {
     "slug": "sigma-computing",
     "name": "Sigma Computing",
-    "status": "Late-stage / Growth",
+    "status": "active",
     "founded_year": "2014",
     "hq": "San Francisco, California, USA",
     "website": "https://www.sigmacomputing.com",
@@ -41431,7 +41380,7 @@
         "lead_investors": "Accel",
         "other_investors": "",
         "source": "https://fortune.com/2026/02/25/exclusive-solveai-eight-months-raises-50-million-ai-coding-tool-race/",
-        "notes": null
+        "notes": ""
       }
     ],
     "top_investors": []
@@ -43132,7 +43081,7 @@
         "date": "March 12, 2026",
         "amount_m": 165.0,
         "valuation_m": 1150.0,
-        "lead_investors": "",
+        "lead_investors": "Coatue (Thomas Laffont joined board)",
         "other_investors": "Bain Capital Ventures; Fidelity Management & Research Company; Tiger Global; Benchmark (follow-on); Conviction (follow-on); Xtal Ventures",
         "source": "",
         "notes": ""
@@ -43221,7 +43170,7 @@
   {
     "slug": "sunrise-ai",
     "name": "Sunrise",
-    "status": "Series A+ (raised $431M+ in under 12 months)",
+    "status": "active",
     "founded_year": "Late",
     "hq": "China (likely Shanghai/Shenzhen, aligned with SenseTime)",
     "website": "https://Not publicly confirmed",
@@ -43241,9 +43190,7 @@
         "company_slug": "sunrise-ai",
         "name": "Xu Bing (\u5f90\u51b0)",
         "role": "Chairman",
-        "background": [
-          "Details not widely reported"
-        ],
+        "background": "Details not widely reported Co-founded SenseTime in 2014 alongside Tang Xiao'ou. Served as SenseTime's executive director and co-founder.",
         "origin": "Chinese",
         "prior": ""
       },
@@ -43251,9 +43198,7 @@
         "company_slug": "sunrise-ai",
         "name": "Wang Zhan (\u738b\u6e5b)",
         "role": "Co-CEO",
-        "background": [
-          "Details not widely reported"
-        ],
+        "background": "Details not widely reported Former Vice President at Baidu; architect of Baidu's Phoenix Nest (\u51e4\u5de2) advertising system, one of the most profitable ad platforms in China.",
         "origin": "Chinese",
         "prior": ""
       },
@@ -43261,9 +43206,7 @@
         "company_slug": "sunrise-ai",
         "name": "Wang Yong (\u738b\u52c7)",
         "role": "Co-CEO",
-        "background": [
-          "Details not widely reported"
-        ],
+        "background": "Details not widely reported Veteran of AMD and Baidu's Kunlun chip unit. Joined SenseTime in 2020 to head its semiconductor/chip division. Deep hardware engineering background spanning US and Chinese chip development.",
         "origin": "Chinese",
         "prior": ""
       }
@@ -44202,7 +44145,7 @@
   {
     "slug": "taxo",
     "name": "Taxo",
-    "status": "Seed",
+    "status": "active",
     "founded_year": "2024",
     "hq": "United States",
     "website": "https://taxo.ai",
@@ -44455,7 +44398,7 @@
   {
     "slug": "tenstorrent",
     "name": "Tenstorrent",
-    "status": "Growth (Series D+)",
+    "status": "active",
     "founded_year": "2016",
     "hq": "Toronto, Ontario, Canada (with offices in Austin, TX and Santa Clara, CA)",
     "website": "https://tenstorrent.com",
@@ -44972,7 +44915,7 @@
   {
     "slug": "thoughtspot",
     "name": "ThoughtSpot",
-    "status": "Late-stage / Growth",
+    "status": "active",
     "founded_year": "2012",
     "hq": "Mountain View, California, USA",
     "website": "https://www.thoughtspot.com",
@@ -45349,7 +45292,7 @@
   {
     "slug": "tonic-ai",
     "name": "Tonic.ai",
-    "status": "Growth",
+    "status": "active",
     "founded_year": "2018",
     "hq": "San Francisco, California, USA",
     "website": "https://www.tonic.ai",
@@ -46062,7 +46005,7 @@
   {
     "slug": "tripo-ai",
     "name": "Tripo AI",
-    "status": "Series A",
+    "status": "active",
     "founded_year": "Marc",
     "hq": "Beijing, China (with global user base, 90% outside China)",
     "website": "https://www.tripo3d.ai",
@@ -46082,9 +46025,7 @@
         "company_slug": "tripo-ai",
         "name": "Simon Song",
         "role": "Co-founder",
-        "background": [
-          "Details not widely reported"
-        ],
+        "background": "Details not widely reported Previously co-founded MiniMax, one of China's AI Tigers, which IPO'd on the Hong Kong Stock Exchange in January 2026. Serial AI entrepreneur.",
         "origin": "Chinese",
         "prior": ""
       },
@@ -46092,9 +46033,7 @@
         "company_slug": "tripo-ai",
         "name": "Guoli Su",
         "role": "Co-founder",
-        "background": [
-          "Tsinghua University (affiliated with Tsinghua research team)"
-        ],
+        "background": "Tsinghua University (affiliated with Tsinghua research team) Research background in 3D reconstruction and generative AI",
         "origin": "Chinese",
         "prior": ""
       }
@@ -46421,7 +46360,7 @@
   {
     "slug": "turing",
     "name": "Turing",
-    "status": "unknown",
+    "status": "active",
     "founded_year": "2018",
     "hq": "Palo Alto, California, USA",
     "website": "https://www.turing.com",
@@ -46441,10 +46380,7 @@
         "company_slug": "turing",
         "name": "Jonathan Siddharth",
         "role": "CEO & Co-Founder",
-        "background": [
-          "B.E. Computer Science & Engineering, SVCE, Anna University, Chennai (2005)",
-          "M.S. Computer Science, Stanford University (2007)"
-        ],
+        "background": "B.E. Computer Science & Engineering, SVCE, Anna University, Chennai (2005); M.S. Computer Science, Stanford University (2007)",
         "origin": "Chennai, Tamil Nadu, India",
         "prior": ""
       },
@@ -46452,10 +46388,7 @@
         "company_slug": "turing",
         "name": "Vijay Krishnan",
         "role": "CTO & Co-Founder",
-        "background": [
-          "B.Tech, IIT Bombay",
-          "M.S. Computer Science, Stanford University"
-        ],
+        "background": "B.Tech, IIT Bombay; M.S. Computer Science, Stanford University",
         "origin": "India",
         "prior": ""
       }
@@ -46735,7 +46668,7 @@
   {
     "slug": "unconventional-ai",
     "name": "Unconventional AI",
-    "status": "Seed",
+    "status": "active",
     "founded_year": "2025",
     "hq": "San Francisco, CA (some sources report San Diego, CA)",
     "website": "https://unconv.ai",
@@ -46975,14 +46908,14 @@
   {
     "slug": "unitree-robotics",
     "name": "Unitree Robotics",
-    "status": "Pre-IPO (filed for Shanghai STAR board IPO, March 2026)",
+    "status": "active",
     "founded_year": "2016",
     "hq": "Hangzhou, Zhejiang, China",
     "website": "https://www.unitree.com",
     "sector": "Robotics / Humanoid and Quadruped Robots",
     "one_liner": "Unitree Robotics is China's leading manufacturer of legged robots, producing both quadruped robot dogs and humanoid robots",
     "total_raised_m": 155.0,
-    "latest_valuation_m": 1650.0,
+    "latest_valuation_m": 7000.0,
     "employees": "500+ (estimated)",
     "revenue_signals": null,
     "business_model": null,
@@ -47976,7 +47909,7 @@
   {
     "slug": "vercel",
     "name": "Vercel",
-    "status": "Late-stage (Series F)",
+    "status": "active",
     "founded_year": "2015",
     "hq": "San Francisco, CA",
     "website": "https://vercel.com",
@@ -48835,11 +48768,11 @@
   {
     "slug": "wayve",
     "name": "Wayve",
-    "status": "Series D",
+    "status": "active",
     "founded_year": "2017",
     "hq": "London, United Kingdom",
     "website": "https://wayve.ai",
-    "sector": null,
+    "sector": "autonomous driving; robotics; foundation models",
     "one_liner": "Wayve is a London-based autonomous driving company building end-to-end AI systems that learn to drive from data and experience, without relying on hand-coded rules or high-definition maps",
     "total_raised_m": 2500.0,
     "latest_valuation_m": 8600.0,
@@ -49182,7 +49115,7 @@
         "company_slug": "weights-and-biases",
         "name": "Lukas Biewald",
         "role": "Co-founder & CEO",
-        "background": "Born 1981 in Boston, MA. Attended Cambridge Rindge and Latin School. Earned both BS and MS in Computer Science from Stanford University. Worked at Yahoo as an engineer on machine translations and led the Search Relevance Team for Yahoo Japan. Joined Powerset as Senior Scientist (acquired by Microsoft in 2008). Co-founded CrowdFlower (later renamed Figure Eight), a human-in-the-loop ML data labeling platform, which was acquired by Appen in 2019 for ~$300M. Had a stint at OpenAI where he observed firsthand the poor state of ML experiment tooling, inspiring W&B. Inc Magazine Top 30 Entrepreneurs Under 30 (2010).\n",
+        "background": "Born 1981 in Boston, MA. Attended Cambridge Rindge and Latin School. Earned both BS and MS in Computer Science from Stanford University. Worked at Yahoo as an engineer on machine translations and led the Search Relevance Team for Yahoo Japan. Joined Powerset as Senior Scientist (acquired by Microsoft in 2008). Co-founded CrowdFlower (later renamed Figure Eight), a human-in-the-loop ML data labeling platform, which was acquired by Appen in 2019 for ~$300M. Had a stint at OpenAI where he observed firsthand the poor state of ML experiment tooling, inspiring W&B. Inc Magazine Top 30 Entrepreneurs Under 30 (2010).",
         "origin": "American",
         "prior": ""
       },
@@ -49190,7 +49123,7 @@
         "company_slug": "weights-and-biases",
         "name": "Chris Van Pelt",
         "role": "Co-founder & CISO",
-        "background": "Co-founded CrowdFlower/Figure Eight with Biewald, spending nearly a decade building it. Transitioned to Weights & Biases in 2017 as co-founder. Currently serves as Chief Information Security Officer (CISO). Inc Magazine Top 30 Entrepreneurs Under 30 (2010, alongside Biewald).\n",
+        "background": "Co-founded CrowdFlower/Figure Eight with Biewald, spending nearly a decade building it. Transitioned to Weights & Biases in 2017 as co-founder. Currently serves as Chief Information Security Officer (CISO). Inc Magazine Top 30 Entrepreneurs Under 30 (2010, alongside Biewald).",
         "origin": "American",
         "prior": ""
       },
@@ -49198,7 +49131,7 @@
         "company_slug": "weights-and-biases",
         "name": "Shawn Lewis",
         "role": "Co-founder & CTO",
-        "background": "Studied at Virginia Tech (2002-2006). Worked as Software Engineer at the Naval Research Laboratory (2004-2006), then as Senior Software Engineer at Google (2006-2010). Founded Beep Networks (2012-2017). Described as a Y Combinator alum. Known for building an OpenAI o1-based AI programming agent that achieved state-of-the-art results on SWE-Bench-Verified (64.6% resolution rate).\n",
+        "background": "Studied at Virginia Tech (2002-2006). Worked as Software Engineer at the Naval Research Laboratory (2004-2006), then as Senior Software Engineer at Google (2006-2010). Founded Beep Networks (2012-2017). Described as a Y Combinator alum. Known for building an OpenAI o1-based AI programming agent that achieved state-of-the-art results on SWE-Bench-Verified (64.6% resolution rate).",
         "origin": "American",
         "prior": ""
       }
@@ -49287,7 +49220,7 @@
   {
     "slug": "weka",
     "name": "WEKA",
-    "status": "Late-stage private (Pre-IPO)",
+    "status": "active",
     "founded_year": "2013",
     "hq": "Campbell, California, USA",
     "website": "https://www.weka.io",
@@ -50236,7 +50169,7 @@
         "company_slug": "xai",
         "name": "Elon Musk",
         "role": "Founder & CEO",
-        "background": "Born 1971 in Pretoria, South Africa. Moved to Canada at 17, then to the US. Co-founded Zip2, X.com (merged into PayPal), founded SpaceX (2002), co-founded Tesla (2003), co-founded OpenAI (2015, departed board 2018). Acquired Twitter/X in 2022. One of the wealthiest people in history. Co-founded xAI in 2023 to build AI that \"understands the true nature of the universe.\"\n",
+        "background": "Born 1971 in Pretoria, South Africa. Moved to Canada at 17, then to the US. Co-founded Zip2, X.com (merged into PayPal), founded SpaceX (2002), co-founded Tesla (2003), co-founded OpenAI (2015, departed board 2018). Acquired Twitter/X in 2022. One of the wealthiest people in history. Co-founded xAI in 2023 to build AI that \"understands the true nature of the universe.\"",
         "origin": "South African (Afrikaner descent, naturalized Canadian then US citizen)",
         "prior": ""
       },
@@ -50244,7 +50177,7 @@
         "company_slug": "xai",
         "name": "Igor Babuschkin",
         "role": "Co-founder & Chief Engineer (departed August 2025)",
-        "background": "Born to Russian immigrant parents in Germany. Raised and educated in Germany. Master's in Physics from Technical University of Dortmund. Joined DeepMind as Research Engineer in 2017, later worked at OpenAI. Served as xAI's chief engineer. Departed August 2025 to found Babuschkin Ventures. Purchased a GBP 60M London penthouse in early 2026.\n",
+        "background": "Born to Russian immigrant parents in Germany. Raised and educated in Germany. Master's in Physics from Technical University of Dortmund. Joined DeepMind as Research Engineer in 2017, later worked at OpenAI. Served as xAI's chief engineer. Departed August 2025 to found Babuschkin Ventures. Purchased a GBP 60M London penthouse in early 2026.",
         "origin": "Russian-German",
         "prior": ""
       },
@@ -50252,7 +50185,7 @@
         "company_slug": "xai",
         "name": "Greg Yang",
         "role": "Co-founder (departed January 2026)",
-        "background": "Born in Hunan Province, China. Moved through Guangzhou, Beijing, then Houston, TX for middle/high school. BA in Mathematics from Harvard (2018), where his thesis won the Hoopes Prize and earned honorable mention for the Frank and Brennie Morgan Prize. Worked at Microsoft Research on neural network scaling theory (muP/muTransfer). Departed xAI in January 2026 citing health reasons.\n",
+        "background": "Born in Hunan Province, China. Moved through Guangzhou, Beijing, then Houston, TX for middle/high school. BA in Mathematics from Harvard (2018), where his thesis won the Hoopes Prize and earned honorable mention for the Frank and Brennie Morgan Prize. Worked at Microsoft Research on neural network scaling theory (muP/muTransfer). Departed xAI in January 2026 citing health reasons.",
         "origin": "Chinese (raised partly in US)",
         "prior": ""
       },
@@ -50260,7 +50193,7 @@
         "company_slug": "xai",
         "name": "Christian Szegedy",
         "role": "Co-founder (departed February 2025)",
-        "background": "Hungarian mathematician and computer scientist. Studied Mathematics and CS at Eotvos Lorand University (Budapest), Master's from University of Bonn, PhD from University of Bonn (1998-2005). Spent years at Google where he co-authored the foundational Inception neural network architecture (GoogLeNet). Left xAI in February 2025 to pursue AI for mathematics.\n",
+        "background": "Hungarian mathematician and computer scientist. Studied Mathematics and CS at Eotvos Lorand University (Budapest), Master's from University of Bonn, PhD from University of Bonn (1998-2005). Spent years at Google where he co-authored the foundational Inception neural network architecture (GoogLeNet). Left xAI in February 2025 to pursue AI for mathematics.",
         "origin": "Hungarian",
         "prior": ""
       },
@@ -50268,7 +50201,7 @@
         "company_slug": "xai",
         "name": "Yuhuai (Tony) Wu",
         "role": "Co-founder; led reasoning team (departed February 2026)",
-        "background": "Chinese-born AI researcher. PhD from University of Toronto. Previously at Google Brain and OpenAI. Led xAI's reasoning team and was one of the most operationally central co-founders. Departed in February 2026 after the SpaceX acquisition.\n",
+        "background": "Chinese-born AI researcher. PhD from University of Toronto. Previously at Google Brain and OpenAI. Led xAI's reasoning team and was one of the most operationally central co-founders. Departed in February 2026 after the SpaceX acquisition.",
         "origin": "Chinese-Canadian",
         "prior": ""
       },
@@ -50276,7 +50209,7 @@
         "company_slug": "xai",
         "name": "Jimmy Ba",
         "role": "Co-founder (departed February 2026)",
-        "background": "Canadian machine learning researcher. Undergraduate and PhD at University of Toronto (PhD 2018 under Geoffrey Hinton). Associate professor of CS at University of Toronto. Co-authored the influential Layer Normalization paper and Adam optimizer. Sloan Research Fellow. Departed xAI in February 2026 after the SpaceX acquisition.\n",
+        "background": "Canadian machine learning researcher. Undergraduate and PhD at University of Toronto (PhD 2018 under Geoffrey Hinton). Associate professor of CS at University of Toronto. Co-authored the influential Layer Normalization paper and Adam optimizer. Sloan Research Fellow. Departed xAI in February 2026 after the SpaceX acquisition.",
         "origin": "Chinese-Canadian",
         "prior": ""
       },
@@ -50284,7 +50217,7 @@
         "company_slug": "xai",
         "name": "Toby Pohlen",
         "role": "Co-founder (departed ~February 2026)",
-        "background": "Based in London. Master's in CS from RWTH Aachen University (Germany). Worked at Google DeepMind as a research engineer for over six years before co-founding xAI. Departed around February 2026.\n",
+        "background": "Based in London. Master's in CS from RWTH Aachen University (Germany). Worked at Google DeepMind as a research engineer for over six years before co-founding xAI. Departed around February 2026.",
         "origin": "German",
         "prior": ""
       },
@@ -50292,7 +50225,7 @@
         "company_slug": "xai",
         "name": "Kyle Kosic",
         "role": "Co-founder (departed; exact date uncertain)",
-        "background": "Previously at OpenAI. Limited public information available on personal background. One of the earlier departures from the founding team.\n",
+        "background": "Previously at OpenAI. Limited public information available on personal background. One of the earlier departures from the founding team.",
         "origin": "Uncertain (American, based on available information)",
         "prior": ""
       },
@@ -50300,7 +50233,7 @@
         "company_slug": "xai",
         "name": "Guodong Zhang",
         "role": "Co-founder; led Imagine team (departed ~March 2026)",
-        "background": "Led xAI's image generation (\"Imagine\") team. Previously at Google Brain/DeepMind. Departed around March 2026 during the broader co-founder exodus.\n",
+        "background": "Led xAI's image generation (\"Imagine\") team. Previously at Google Brain/DeepMind. Departed around March 2026 during the broader co-founder exodus.",
         "origin": "Chinese (based on available information)",
         "prior": ""
       },
@@ -50308,7 +50241,7 @@
         "company_slug": "xai",
         "name": "Zihang Dai",
         "role": "Co-founder (departed ~early 2026)",
-        "background": "Previously at Google Brain, known for work on Transformer-XL. Departed xAI in early 2026.\n",
+        "background": "Previously at Google Brain, known for work on Transformer-XL. Departed xAI in early 2026.",
         "origin": "Chinese (based on available information)",
         "prior": ""
       },
@@ -50316,7 +50249,7 @@
         "company_slug": "xai",
         "name": "Ross Nordeen",
         "role": "Co-founder (still at xAI as of March 2026)",
-        "background": "American technology professional. Worked nearly four years at Tesla as a technical program manager focused on supercomputing and ML infrastructure before co-founding xAI. One of only two co-founders remaining as of March 2026.\n",
+        "background": "American technology professional. Worked nearly four years at Tesla as a technical program manager focused on supercomputing and ML infrastructure before co-founding xAI. One of only two co-founders remaining as of March 2026.",
         "origin": "American",
         "prior": ""
       },
@@ -50324,7 +50257,7 @@
         "company_slug": "xai",
         "name": "Manuel Kroiss",
         "role": "Co-founder (still at xAI as of March 2026)",
-        "background": "Limited public information available. One of only two co-founders remaining as of March 2026.\n",
+        "background": "Limited public information available. One of only two co-founders remaining as of March 2026.",
         "origin": "German (based on name; uncertain)",
         "prior": ""
       }
@@ -50875,11 +50808,11 @@
   {
     "slug": "zhipu-ai",
     "name": "Zhipu AI (Z.ai / Knowledge Atlas Technology)",
-    "status": "Public (IPO January 8, 2026)",
+    "status": "active",
     "founded_year": "2019",
     "hq": "Beijing, China (Tsinghua University Science Park)",
     "website": "https://www.zhipuai.cn/en",
-    "sector": null,
+    "sector": "foundation models; enterprise AI",
     "one_liner": "Chinese AI foundation model company (Tsinghua spinout) building the GLM series of large language models, publicly listed on HKEX.",
     "total_raised_m": 1500.0,
     "latest_valuation_m": 2800.0,

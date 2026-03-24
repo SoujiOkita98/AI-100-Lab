@@ -1,5 +1,4 @@
 ---
-company: Moonvalley
 founded: 2023
 headquarters: Toronto, Canada
 additional_offices:

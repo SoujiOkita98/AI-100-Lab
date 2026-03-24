@@ -9,14 +9,6 @@ employees_approx: 200
 latest_valuation_usd: 4000000000
 latest_valuation_date: 2025-11-19
 status: Private
-tags:
-- generative-ai
-- video-generation
-- 3d-generation
-- creative-tools
-- foundation-models
-- multimodal-ai
-- agentic-ai
 research_date: 2026-03-20
 funding_rounds:
 - stage: Seed

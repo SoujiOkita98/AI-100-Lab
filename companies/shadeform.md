@@ -1,5 +1,4 @@
 ---
-company: Shadeform
 founded: 2023
 headquarters: San Francisco, CA
 website: https://shadeform.com

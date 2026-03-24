@@ -1,5 +1,4 @@
 ---
-company: Chai Discovery
 sector: Biotech AI / Molecular Discovery
 founded: 2024
 headquarters: San Francisco, CA

@@ -1,5 +1,4 @@
 ---
-company: Unstructured (Unstructured Technologies, Inc.)
 website: https://unstructured.io
 founded: July
 headquarters: Rocklin, California (Sacramento metro area)
@@ -7,7 +6,6 @@ sector: AI Infrastructure / Data ETL & Preprocessing
 one_liner: Enterprise ETL platform that transforms complex unstructured data (PDFs, images, HTML) into clean, AI-ready structured
   formats for GenAI pipelines.
 stage: Series B
-total_funding: ~$65M
 latest_round: Series B ($40M, March 2024)
 employees_est: ~84-150 (as of late 2025)
 revenue_est: ~$7.7M (estimated, unconfirmed)

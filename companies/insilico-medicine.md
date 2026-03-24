@@ -1,5 +1,4 @@
 ---
-company: Insilico Medicine
 ticker: 03696.HK (HKEX)
 status: Public (IPO December 30, 2025)
 founded: 2014

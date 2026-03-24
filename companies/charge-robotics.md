@@ -1,6 +1,5 @@
 ---
 name: Charge Robotics
-company: Charge Robotics
 founded: 2021
 headquarters: Oakland, CA, USA
 website: https://www.chargerobotics.com

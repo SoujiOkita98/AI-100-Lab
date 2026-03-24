@@ -8,14 +8,15 @@ one_liner: AI platform that transforms unstructured data into SQL-queryable tabl
 status: Active
 total_raised_m: 0.5
 founders:
-  - name: "Mac Klinkachorn"
-    role: "CEO"
-    background: "Stanford AI Lab; built LLM infra at Cresta and Moveworks processing terabytes of chat logs and voice calls"
-    origin: "Thailand"
-  - name: "Jacky Lin"
-    role: "Co-Founder"
-    background: "Stanford AI Lab; taught hundreds of Stanford grad students to build/train/deploy AI models; previously at Meta, World Bank, Wayfair"
-    origin: "United States"
+- name: Mac Klinkachorn
+  role: CEO
+  background: Stanford AI Lab; built LLM infra at Cresta and Moveworks processing terabytes of chat logs and voice calls
+  origin: Thailand
+- name: Jacky Lin
+  role: Co-Founder
+  background: Stanford AI Lab; taught hundreds of Stanford grad students to build/train/deploy AI models; previously at Meta,
+    World Bank, Wayfair
+  origin: United States
 funding_rounds:
 - stage: Seed
   date: 2024-03
@@ -24,12 +25,6 @@ funding_rounds:
   - Y Combinator
 notable_investors:
 - Y Combinator
-tags:
-- ai-data
-- data-infrastructure
-- unstructured-data
-- nlp
-- yc-w24
 yc_batch: W24
 linkedin: https://www.linkedin.com/company/runtrellis
 confidence: Low

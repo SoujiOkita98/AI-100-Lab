@@ -1,5 +1,4 @@
 ---
-company: Freenome
 sector: Healthcare AI / Cancer Diagnostics
 founded: 2014
 headquarters: South San Francisco, CA

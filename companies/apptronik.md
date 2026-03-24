@@ -1,5 +1,4 @@
 ---
-company: Apptronik
 founded: 2016
 headquarters: Austin, Texas
 ceo: Jeff Cardenas

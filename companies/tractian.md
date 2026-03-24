@@ -1,5 +1,4 @@
 ---
-company_name: Tractian
 website: https://tractian.com
 sector: Manufacturing AI / Industrial AI
 founded: 2019
@@ -14,7 +13,6 @@ founders:
 - name: Leonardo Vieira
   role: Co-Founder
   origin: Brazilian
-total_funding_raised: ~$180M+
 employee_count_estimate: ~500 (uncertain)
 status: Private
 last_updated: 2026-03-20

@@ -1,5 +1,4 @@
 ---
-company: Writer
 formerly: Qordoba
 founded: '2020'
 headquarters: San Francisco, CA

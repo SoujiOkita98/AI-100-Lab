@@ -1,5 +1,4 @@
 ---
-company_name: Nevis
 website: https://www.neviswealth.com
 sector: AI for Wealth Management
 founded: 2024
@@ -14,7 +13,6 @@ founders:
 - name: Ivan Chalov
   role: Co-Founder & COO
   origin: Russian
-total_funding_raised: $40M
 arr_estimate: Undisclosed
 employee_count_estimate: ~20-40 (estimated, early-stage)
 status: Private

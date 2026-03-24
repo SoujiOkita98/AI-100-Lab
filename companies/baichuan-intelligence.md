@@ -18,13 +18,6 @@ team_size_estimate: ~400 (as of early 2025, before layoffs/restructuring)
 stage: Series A (mega-round)
 estimated_valuation: ~$2.7B (20 billion RMB, post-Series A)
 estimated_arr_2026: Unknown (projected order signing of 1-2 billion RMB for 2025)
-tags:
-- foundation-models
-- medical-ai
-- generative-ai
-- china-ai-tiger
-- chinese-founders
-- open-source-models
 last_updated: 2026-03-20
 funding_rounds:
 - stage: Angel

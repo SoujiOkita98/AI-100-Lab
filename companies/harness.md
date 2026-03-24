@@ -1,5 +1,4 @@
 ---
-company_name: Harness
 founded: 2017
 headquarters: San Francisco, CA
 sector: AI-Powered Developer Tools

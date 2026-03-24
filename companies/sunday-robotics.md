@@ -1,5 +1,4 @@
 ---
-company_name: Sunday
 website: https://www.sunday.ai
 sector: Consumer Robotics / Household Automation
 product: Memo (autonomous household robot)

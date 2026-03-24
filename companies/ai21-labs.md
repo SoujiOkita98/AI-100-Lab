@@ -38,14 +38,6 @@ key_investors:
 - SCB10X
 - b2venture
 - Ahren
-tags:
-- foundation-models
-- enterprise-ai
-- israeli-ai
-- hybrid-architecture
-- SSM-transformer
-- RAG
-- agentic-ai
 last_updated: 2026-03-20
 confidence: medium-high
 one_liner: AI21 Labs is an Israeli AI company founded in November 2017 that develops proprietary large language models and

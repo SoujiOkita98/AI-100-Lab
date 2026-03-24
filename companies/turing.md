@@ -13,19 +13,11 @@ founders:
   role: CTO & Co-Founder
   background: B.Tech, IIT Bombay; M.S. Computer Science, Stanford University
   origin: India
-total_funding: ~$247 million
 latest_round: Series E ($111M, March 2025)
 annual_revenue_runrate: ~$300 million (as of early 2025)
 profitable: true (since ~2024)
 employees: ~5,000-6,300 (estimates vary; rapid growth through 2025-2026)
 sector: AI / Developer Platform / LLM Training Infrastructure
-tags:
-- ai-services
-- llm-training
-- developer-marketplace
-- enterprise-ai
-- indian-founders
-- stanford-mafia
 last_updated: 2026-03-20
 confidence: high
 one_liner: Turing began as an AI-powered platform for vetting and matching remote software developers with companies

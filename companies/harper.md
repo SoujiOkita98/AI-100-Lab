@@ -1,5 +1,4 @@
 ---
-company: Harper
 founded: 2024
 headquarters: San Francisco, CA
 website: https://www.harperinsure.com
@@ -7,7 +6,6 @@ one_liner: AI-native commercial insurance brokerage that automates carrier match
   for small and mid-sized businesses
 sector: AI Applications / InsurTech
 stage: Series A
-total_funding: ~$47M
 founders:
 - name: Dakotah Rice
   role: CEO
@@ -23,13 +21,6 @@ notable_investors:
 - Peak XV Partners (formerly Sequoia India)
 - Lobster Capital
 key_customers: []
-tags:
-- insurance
-- insurtech
-- ai-brokerage
-- commercial-insurance
-- smb
-- yc-w25
 yc_batch: W25
 last_updated: 2026-03-20
 website_verified: true

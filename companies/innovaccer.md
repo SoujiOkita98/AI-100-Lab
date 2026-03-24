@@ -1,5 +1,4 @@
 ---
-company: Innovaccer
 website: https://innovaccer.com
 one_liner: Agentic AI cloud for healthcare that unifies clinical, operational, and financial data to power autonomous workflows
   across health systems and payers
@@ -20,12 +19,6 @@ founders:
 - name: Sandeep Gupta
   role: Co-Founder
   origin: India
-tags:
-- healthcare-ai
-- data-platform
-- enterprise-saas
-- indian-founders
-- iit-kharagpur
 funding_rounds:
 - stage: Series A
   date: 2016-07

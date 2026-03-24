@@ -1,6 +1,5 @@
 ---
 name: Generalist AI
-company: Generalist AI
 founded: 2024
 headquarters: San Francisco, CA, USA
 website: https://www.generalist.ai

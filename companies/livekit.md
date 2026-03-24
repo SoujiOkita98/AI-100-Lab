@@ -1,6 +1,5 @@
 ---
 name: LiveKit
-company: LiveKit
 founded: 2021
 headquarters: San Francisco, CA, USA
 website: https://livekit.io

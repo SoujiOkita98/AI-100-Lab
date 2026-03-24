@@ -1,5 +1,4 @@
 ---
-company: Copy.ai
 website: https://www.copy.ai
 founded: 2020
 headquarters: Remote-first (Memphis, TN origin)
@@ -12,7 +11,6 @@ founders:
   origin: Chinese-American
 category: AI-native GTM / Sales & Marketing Automation
 status: Acquired by Fullcast (October 15, 2025)
-total_funding: ~$19.8M
 last_round: $3M Convertible Note (November 2023, led by K5 Global Technology)
 key_investors:
 - Wing Venture Capital (Series A lead)
@@ -57,6 +55,10 @@ funding_rounds:
   source: https://www.crunchbase.com/organization/copy-ai
 name: Copy.ai
 linkedin_verified: true
+sector:
+- AI marketing
+- generative AI
+- enterprise AI
 ---
 
 # Copy.ai

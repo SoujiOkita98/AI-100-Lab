@@ -1,5 +1,4 @@
 ---
-company: Poolside
 founded: 2023
 headquarters: Paris, France (legal HQ in US; ~80% of team in Europe)
 website: https://poolside.ai
@@ -41,6 +40,10 @@ name: Poolside
 linkedin_verified: true
 latest_valuation_m: 12000.0
 funding_rounds: []
+sector:
+- AI developer tools
+- foundation models
+- code generation
 ---
 
 # Poolside

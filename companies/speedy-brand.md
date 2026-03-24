@@ -1,5 +1,4 @@
 ---
-company: SpeedyBrand
 founded: 2023
 headquarters: San Francisco, CA
 website: https://speedybrand.io

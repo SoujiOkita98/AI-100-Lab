@@ -68,7 +68,7 @@ airops,Seed,2023,7.0,,Wing Venture Capital,,https://www.airops.com/blog/announci
 airops,Series B,2025-11,40.0,,Greylock,,https://www.businesswire.com/news/home/20251110823725/en/AirOps-Raises-$40M-to-Redefine-How-Brands-Compete-in-the-Era-of-AI-Search,
 aiuc,Seed,2025-07,15.0,,Nat Friedman (NFDG); Emergence Capital,,https://fortune.com/2025/07/23/ai-agent-insurance-startup-aiuc-stealth-15-million-seed-nat-friedman/,
 albatross-ai,Seed,2025-11,12.5,,MMC Ventures,,,
-aleph-alpha,Seed,2020,,,,,https://www.clay.com/dossier/aleph-alpha-funding,Early-stage funding to begin LLM development.
+aleph-alpha,Seed,2020,5.8,,,,https://www.clay.com/dossier/aleph-alpha-funding,Early-stage funding to begin LLM development.
 aleph-alpha,Series A,2021,25.0,,Earlybird Venture Capital,,https://en.wikipedia.org/wiki/Aleph_Alpha,
 aleph-alpha,Series B,2023-11,500.0,,Schwarz Group; Innovation Park AI (IPAI),,https://sifted.eu/articles/ai-startup-aleph-alpha-raises-500m,Only ~110M EUR was equity; rest was research grants and order commitments.
 aleph-fpa,Seed,2020,,,Khosla Ventures; Picus Capital; Y Combinator,,https://www.getaleph.com/blog/series-b,Amount undisclosed. Part of combined $16.7M seed+A.
@@ -798,7 +798,7 @@ krea-ai,Series A,2024,33.0,,Andreessen Horowitz,,https://www.crunchbase.com/orga
 krea-ai,Series B,2025-04,47.0,,Bain Capital Ventures,,https://techcrunch.com/2025/04/07/kreas-founders-snubbed-postgrad-grants-from-the-king-of-spain-to-build-their-ai-startup-now-its-valued-at-500m/,
 krutrim,Series A,2024-01,50.0,,Matrix Partners India,,https://techcrunch.com/2025/02/04/softbank-backed-billionaire-to-invest-230m-in-indian-ai-startup-krutrim/,
 krutrim,Founder Investment,2025-02,230.0,,Bhavish Aggarwal (family office),,https://techcrunch.com/2025/02/04/softbank-backed-billionaire-to-invest-230m-in-indian-ai-startup-krutrim/,
-kyutai,Initial Endowment,2023-11,0.0,,,,https://techcrunch.com/2023/11/17/kyutai-is-an-french-ai-research-lab-with-a-330-million-budget-that-will-make-everything-open-source/,
+kyutai,Initial Endowment,2023-11,0.0,,,Xavier Niel / Iliad Group (~EUR100M); Rodolphe Saade / CMA CGM Group (~EUR100M); Eric Schmidt / Schmidt Futures; Other unnamed donors,https://techcrunch.com/2023/11/17/kyutai-is-an-french-ai-research-lab-with-a-330-million-budget-that-will-make-everything-open-source/,
 labelbox,Seed,2018-07,3.9,,First Round Capital; Kleiner Perkins,,https://tracxn.com/d/companies/labelbox/,
 labelbox,Series A,2019-01,10.0,,Gradient Ventures,,https://labelbox.com/blog/labelbox-series-a/,
 labelbox,Series B,2020-02,25.0,,Andreessen Horowitz,,https://labelbox.com/blog/series-b-announcement/,
@@ -1097,8 +1097,8 @@ parloa,Series C,2025-05,120.0,1000.0,Durable Capital; Altimeter; General Catalys
 parloa,Series D,2026,350.0,3000.0,Lightspeed,,,
 parspec,Seed,2024-02,11.5,,Innovation Endeavors,,,
 parspec,Series A,2025,20.0,,Threshold Ventures,,,
-patronus-ai,Seed,September 2023,3.0,,Lightspeed Venture Partners,,,
-patronus-ai,Series A,May 2024,17.0,,Notable Capital,,,
+patronus-ai,Seed,September 2023,3.0,,Lightspeed Venture Partners,Factorial Capital; Amjad Masad (Replit CEO); Gokul Rajaram,,
+patronus-ai,Series A,May 2024,17.0,,Notable Capital,Lightspeed Venture Partners; Datadog; Factorial Capital; Gokul Rajaram,,
 patronus-ai,Additional equity (SEC filing),~2024,20.5,,,,,SEC exempt offering filing; may represent Series A extension or follow-on round
 pave-robotics,Seed,2025-03,0.5,,Y Combinator,,,
 paxton-ai,Series A,2025-01,22.0,,Unusual Ventures,,,
@@ -1206,14 +1206,14 @@ reka-ai,Series B,2025-07,110.0,1000.0,Nvidia; Snowflake,,https://siliconangle.co
 replicate,Seed,2020,2.5,,Y Combinator,,https://www.crunchbase.com/organization/replicate,
 replicate,Series A,2022-12,17.8,,a16z,,https://www.crunchbase.com/organization/replicate,
 replicate,Series B,2023-12,40.0,,a16z,,https://www.crunchbase.com/organization/replicate,
-replit,Pre-Seed,2016-10,0.6,6.0,,,https://research.contrary.com/company/replit,
-replit,Y Combinator (W18),2018-01,0.1,,,,https://blog.replit.com/yc,
-replit,Seed,2018-10,4.5,,,,https://blog.replit.com/a16z,
-replit,Series A,2021-02-18,20.0,,,,https://tracxn.com/d/companies/replit/__PUWtoWCDA1Qjxd1rE0XG7GgDNdav8DNlaP_1EkZUh3A/funding-and-investors,
-replit,Series B,2021-12-10,80.0,,,,https://tracxn.com/d/companies/replit/__PUWtoWCDA1Qjxd1rE0XG7GgDNdav8DNlaP_1EkZUh3A/funding-and-investors,
-replit,Series B Extension,2023-04-25,97.4,1160.0,,,https://blog.replit.com/b-extension,
-replit,Series C,2025-09,250.0,3000.0,,,https://replit.com/news/funding-announcement,
-replit,Series D,2026-03,400.0,9000.0,,,https://theaiinsider.tech/2026/03/16/replit-raises-400m-to-expand-ai-coding-platform-at-9b-valuation/,
+replit,Pre-Seed,2016-10,0.6,6.0,Bloomberg Beta,,https://research.contrary.com/company/replit,
+replit,Y Combinator (W18),2018-01,0.1,,Y Combinator,,https://blog.replit.com/yc,
+replit,Seed,2018-10,4.5,,Andreessen Horowitz,,https://blog.replit.com/a16z,
+replit,Series A,2021-02-18,20.0,,A.Capital Ventures,,https://tracxn.com/d/companies/replit/__PUWtoWCDA1Qjxd1rE0XG7GgDNdav8DNlaP_1EkZUh3A/funding-and-investors,
+replit,Series B,2021-12-10,80.0,,Coatue,,https://tracxn.com/d/companies/replit/__PUWtoWCDA1Qjxd1rE0XG7GgDNdav8DNlaP_1EkZUh3A/funding-and-investors,"Additional investors: Volt Capital, Fifth Down Capital"
+replit,Series B Extension,2023-04-25,97.4,1160.0,Andreessen Horowitz (Growth Fund),,https://blog.replit.com/b-extension,"Other investors: Khosla Ventures, Coatue, SV Angel, Y Combinator, Bloomberg Beta, Naval Ravikant, ARK Ventures, Hamilton Helmer. Included conversion of Wefunder community SAFEs."
+replit,Series C,2025-09,250.0,3000.0,Prysm Capital,,https://replit.com/news/funding-announcement,"Other investors: Amex Ventures, Google AI Futures Fund, Andreessen Horowitz, Y Combinator"
+replit,Series D,2026-03,400.0,9000.0,Georgian Partners,,https://theaiinsider.tech/2026/03/16/replit-raises-400m-to-expand-ai-coding-platform-at-9b-valuation/,"Other investors: G Squared, Prysm Capital, Coatue, a16z, Craft Ventures, Y Combinator, Accenture Ventures, Okta Ventures, Databricks Ventures. Angel investors include Shaquille O'Neal and Jared Leto."
 rerun,Seed,2025-03,17.0,,,,https://tech.eu/,
 resemble-ai,Seed,2020,,,None,,https://www.crunchbase.com/organization/resemble-ai,
 resemble-ai,Series A,2023-07,8.0,,Javelin Venture Partners,,https://techcrunch.com/2023/07/12/voice-cloning-platform-resemble-ai-lands-8m/,
@@ -1409,7 +1409,7 @@ studio-atelico,Seed,2025-08,5.0,,Air Street Capital,,,
 subsense,Seed,2025-02,17.0,,Golden Falcon Capital,,,
 sunday-household,Series B,2026-03,165.0,1150.0,Coatue,,,
 sunday-robotics,Seed / Series A (emerged from stealth),November 2025,35.0,,Benchmark; Conviction,,,
-sunday-robotics,Series B,"March 12, 2026",165.0,1150.0,,Bain Capital Ventures; Fidelity Management & Research Company; Tiger Global; Benchmark (follow-on); Conviction (follow-on); Xtal Ventures,,
+sunday-robotics,Series B,"March 12, 2026",165.0,1150.0,Coatue (Thomas Laffont joined board),Bain Capital Ventures; Fidelity Management & Research Company; Tiger Global; Benchmark (follow-on); Conviction (follow-on); Xtal Ventures,,
 suno,Series B,2024-05,125.0,500.0,Lightspeed Venture Partners,,https://www.waterandmusic.com/suno-funding-historic-shift-music-tech-investment/,
 suno,Series C,2025-11,250.0,2450.0,Menlo Ventures,,https://techcrunch.com/2025/11/19/legally-embattled-ai-music-startup-suno-raises-at-2-45b-valuation/,
 sunrise-ai,Strategic Round,2024-07,139.0,,Huaxu Capital (Sany Group); 4Paradigm; Yoozoo Interactive,,https://www.dealstreetasia.com/stories/sunrise-new-round-449979,SenseTime AI chip spinoff. ~1B CNY first tranche.

@@ -20,14 +20,6 @@ team_size_estimate: ~100-200 (estimate)
 stage: Series B+ (multiple rounds totaling hundreds of millions of RMB)
 estimated_valuation: Not publicly disclosed; likely $300-500M range given investor caliber
 estimated_arr_2026: Not disclosed
-tags:
-- on-device-ai
-- small-language-models
-- edge-ai
-- open-source-models
-- tsinghua-spinout
-- chinese-founders
-- automotive-ai
 last_updated: 2026-03-20
 one_liner: 'ModelBest is a Tsinghua University spinout that has carved out a distinctive niche in China''s AI landscape: building
   high-performance small language models optimized for on-device deployment'

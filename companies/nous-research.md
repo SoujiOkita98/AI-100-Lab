@@ -1,5 +1,4 @@
 ---
-company_name: Nous Research
 website: https://nousresearch.com
 headquarters: New York, NY
 additional_offices: []

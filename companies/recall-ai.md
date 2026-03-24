@@ -1,6 +1,5 @@
 ---
 name: Recall.ai
-company: Recall.ai
 founded: 2022
 headquarters: San Francisco, CA, USA
 website: https://www.recall.ai

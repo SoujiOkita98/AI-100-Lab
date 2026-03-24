@@ -1,6 +1,5 @@
 ---
 name: Brainfish
-company: Brainfish
 founded: 2022
 headquarters: Sydney, Australia
 website: https://www.brainfishai.com

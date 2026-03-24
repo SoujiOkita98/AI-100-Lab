@@ -1,5 +1,4 @@
 ---
-company: Snorkel AI
 founded: 2019
 headquarters: Palo Alto, CA
 ceo: Alex Ratner

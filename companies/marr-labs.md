@@ -8,14 +8,14 @@ one_liner: Voice agents that perform phone-based tasks like scheduling and custo
 status: Active
 total_raised_m: 0.5
 founders:
-  - name: "Han Shu"
-    role: "Co-Founder"
-    background: "Co-created Vlingo, the speech tech that powered Siri and Samsung's S-Voice (acquired for $225M)"
-    origin: "China"
-  - name: "Dave Grannan"
-    role: "Co-Founder"
-    background: "Co-created Vlingo (acquired for $225M); serial entrepreneur in speech technology"
-    origin: "United States"
+- name: Han Shu
+  role: Co-Founder
+  background: Co-created Vlingo, the speech tech that powered Siri and Samsung's S-Voice (acquired for $225M)
+  origin: China
+- name: Dave Grannan
+  role: Co-Founder
+  background: Co-created Vlingo (acquired for $225M); serial entrepreneur in speech technology
+  origin: United States
 funding_rounds:
 - stage: Seed
   date: 2024-03
@@ -24,12 +24,6 @@ funding_rounds:
   - Y Combinator
 notable_investors:
 - Y Combinator
-tags:
-- voice-ai
-- ai-agents
-- customer-service
-- phone-automation
-- yc-w24
 yc_batch: W24
 linkedin: https://www.linkedin.com/company/marr-labs
 confidence: Low

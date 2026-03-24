@@ -1,5 +1,4 @@
 ---
-company_name: Hadrius
 website: https://www.hadrius.com
 one_liner: AI-native compliance platform for SEC and FINRA-regulated financial firms, automating marketing review, trade monitoring,
   and communications archiving
@@ -16,7 +15,6 @@ founders:
 - name: Allen Calderwood
   role: Co-Founder
   origin: American
-total_funding_raised: $28.8M
 arr_estimate: Undisclosed
 employee_count_estimate: ~50 (as of Jan 2026, per Tracxn)
 status: Private

@@ -1,5 +1,4 @@
 ---
-company: Emergent
 founded: 2024
 headquarters: San Francisco, CA (R&D center in Bengaluru, India)
 website: https://emergent.sh
@@ -25,13 +24,6 @@ notable_investors:
 - Together AI
 - Prosus
 key_customers: []
-tags:
-- vibe-coding
-- ai-app-builder
-- no-code
-- consumer-ai
-- yc-s24
-- india-founded
 yc_batch: S24
 last_updated: 2026-03-20
 funding_rounds:

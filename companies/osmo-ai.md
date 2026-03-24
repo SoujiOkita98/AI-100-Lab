@@ -1,6 +1,5 @@
 ---
 name: Osmo
-company: Osmo
 founded: 2022
 headquarters: New York, NY, USA
 website: https://www.osmo.ai

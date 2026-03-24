@@ -13,17 +13,9 @@ founders:
   role: CTO & Co-Founder
   origin: Chinese-American
 stage: Series B
-total_funding_raised: ~$135M
 estimated_arr: ~$40M (March 2025)
 team_size: ~35 (as of early 2025)
 sector: AI-Powered Development Tools / Vibe Coding
-tags:
-- ai-coding
-- browser-ide
-- webassembly
-- no-code
-- developer-tools
-- vibe-coding
 last_updated: 2026-03-20
 confidence: high on funding and founder data; moderate on 2026 revenue and team size
 funding_rounds:

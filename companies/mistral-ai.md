@@ -1,5 +1,4 @@
 ---
-company_name: Mistral AI
 website: https://mistral.ai
 one_liner: French AI company building open-weight and proprietary frontier LLMs with enterprise customization, agent orchestration,
   and multilingual capabilities

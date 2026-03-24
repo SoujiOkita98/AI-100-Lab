@@ -1,5 +1,4 @@
 ---
-company: Knowtex
 founded: 2022
 headquarters: San Francisco, CA
 website: https://www.knowtex.ai

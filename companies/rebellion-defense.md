@@ -17,14 +17,6 @@ founders:
 latest_round: Series B
 employee_count: ~40 (as of February 2026; down from peak of ~200+)
 status: Active but significantly downsized; pivoted to mission engineering focus
-tags:
-- defense
-- national-security
-- AI
-- military
-- government
-- sensor-fusion
-- JADC2
 last_updated: '2026-03-20'
 funding_rounds:
 - stage: Seed

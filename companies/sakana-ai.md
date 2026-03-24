@@ -1,5 +1,4 @@
 ---
-company: Sakana AI
 founded: 2023
 headquarters: Tokyo, Japan
 founders:
@@ -22,13 +21,6 @@ stage: Series B
 latest_valuation_usd: 2.65B
 employees: ~138 (as of Feb 2026)
 sector: Artificial Intelligence / Foundation Models
-tags:
-- nature-inspired-ai
-- evolutionary-algorithms
-- model-merging
-- japan-ai
-- enterprise-ai
-- edge-ai
 last_updated: 2026-03-20
 confidence: high
 funding_rounds:

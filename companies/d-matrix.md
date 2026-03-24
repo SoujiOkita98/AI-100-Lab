@@ -1,10 +1,8 @@
 ---
-company: d-Matrix
 founded: 2019
 headquarters: Santa Clara, California, USA
 sector: AI Hardware / Semiconductors (In-Memory Compute)
 stage: Growth (Series C)
-total_funding: ~$450 million
 employees: ~200 (estimate)
 website: https://www.d-matrix.ai
 last_updated: 2026-03-20

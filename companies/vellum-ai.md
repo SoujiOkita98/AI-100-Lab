@@ -1,6 +1,5 @@
 ---
 name: Vellum
-company: Vellum
 founded: 2023
 headquarters: New York, NY, USA
 website: https://www.vellum.ai

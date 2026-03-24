@@ -1,5 +1,4 @@
 ---
-company: Descript
 sector: AI Video & Audio Editing
 founded: 2017
 headquarters: San Francisco, CA

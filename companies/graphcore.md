@@ -1,5 +1,4 @@
 ---
-company: Graphcore
 founded: 2016
 headquarters: Bristol, United Kingdom
 sector: AI Hardware / Semiconductors (IPU Architecture)

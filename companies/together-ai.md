@@ -1,5 +1,4 @@
 ---
-company: Together AI
 founded: June
 headquarters: San Francisco, CA
 sector: AI Infrastructure / Cloud
@@ -8,13 +7,6 @@ website: https://www.together.ai
 estimated_annual_revenue: ~$300M ARR (Sep 2025 est.)
 employee_count_approx: ~200 (est. late 2025)
 status: Private
-tags:
-- open-source AI
-- inference
-- GPU cloud
-- FlashAttention
-- LLM infrastructure
-- model training
 last_updated: 2026-03-20
 funding_rounds:
 - stage: Seed

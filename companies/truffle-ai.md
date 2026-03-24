@@ -8,14 +8,15 @@ one_liner: AI agent development platform enabling businesses to build, customize
 status: Active
 total_raised_m: 0.5
 founders:
-  - name: "Rahul Karajgikar"
-    role: "Co-Founder"
-    background: "Published research at NeurIPS 2022 and WACV '23 (with Meta); built AI products for face recognition and health estimation at Hyperverge"
-    origin: "India"
-  - name: "Shaunak Srivastava"
-    role: "Co-Founder"
-    background: "Published research at NeurIPS 2022 and WACV '23 (with Meta); built AI products at Hyperverge"
-    origin: "India"
+- name: Rahul Karajgikar
+  role: Co-Founder
+  background: Published research at NeurIPS 2022 and WACV '23 (with Meta); built AI products for face recognition and health
+    estimation at Hyperverge
+  origin: India
+- name: Shaunak Srivastava
+  role: Co-Founder
+  background: Published research at NeurIPS 2022 and WACV '23 (with Meta); built AI products at Hyperverge
+  origin: India
 funding_rounds:
 - stage: Seed
   date: 2025-03
@@ -24,12 +25,6 @@ funding_rounds:
   - Y Combinator
 notable_investors:
 - Y Combinator
-tags:
-- ai-agents
-- workflow-automation
-- open-source
-- developer-tools
-- yc-w25
 yc_batch: W25
 linkedin: https://www.linkedin.com/company/truffle-ai
 confidence: Medium

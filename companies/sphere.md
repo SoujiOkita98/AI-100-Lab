@@ -1,5 +1,4 @@
 ---
-company_name: Sphere
 website: https://www.getsphere.com
 sector: AI for Tax Compliance
 founded: 2023
@@ -11,7 +10,6 @@ founders:
 - name: Adrian Sarstedt
   role: Co-Founder
   origin: German
-total_funding_raised: ~$24M (estimated seed + Series A)
 arr_estimate: Undisclosed
 employee_count_estimate: ~20-40 (estimated)
 status: Private

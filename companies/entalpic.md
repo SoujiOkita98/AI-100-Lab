@@ -6,7 +6,6 @@ website: https://entalpic.ai
 product: Generative AI platform for materials discovery and industrial chemistry decarbonization
 sector: AI / Materials Science / Chemistry / Climate Tech
 stage: Seed
-total_funding: ~$9.3M (EUR 8.5M)
 status: Active, Private
 founders:
 - name: Mathieu Galtier

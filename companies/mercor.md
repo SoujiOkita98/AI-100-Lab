@@ -1,5 +1,4 @@
 ---
-company: Mercor
 founded: 2023
 headquarters: San Francisco, CA
 sector: AI Infrastructure / Human-in-the-Loop AI Training
@@ -29,13 +28,6 @@ key_customers:
 - Anthropic
 - Meta
 - Google DeepMind (reported)
-tags:
-- ai-training
-- rlhf
-- data-labeling
-- human-feedback
-- recruiting
-- thiel-fellows
 last_updated: 2026-03-20
 funding_rounds:
 - stage: Seed

@@ -8,14 +8,15 @@ one_liner: AI-powered robotics company from YC W25 batch
 status: Active
 total_raised_m: 0.5
 founders:
-  - name: "Rupesh Jeyaram"
-    role: "CEO"
-    background: "Caltech BS 2020; Wharton MBA 2024"
-    origin: "India"
-  - name: "Antonio Monreal"
-    role: "CTO"
-    background: "Caltech BS in Electrical Engineering (2016-2020); self-taught English and calculus on a refurbished laptop; full ride to Caltech"
-    origin: "Mexico"
+- name: Rupesh Jeyaram
+  role: CEO
+  background: Caltech BS 2020; Wharton MBA 2024
+  origin: India
+- name: Antonio Monreal
+  role: CTO
+  background: Caltech BS in Electrical Engineering (2016-2020); self-taught English and calculus on a refurbished laptop;
+    full ride to Caltech
+  origin: Mexico
 funding_rounds:
 - stage: Seed
   date: 2025-03
@@ -24,10 +25,6 @@ funding_rounds:
   - Y Combinator
 notable_investors:
 - Y Combinator
-tags:
-- robotics
-- ai
-- yc-w25
 yc_batch: W25
 linkedin: https://www.linkedin.com/company/revise-robotics
 confidence: Low

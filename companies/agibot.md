@@ -17,7 +17,6 @@ founders:
   origin: Chinese (inferred from name)
 sector: Humanoid Robotics / Embodied AI
 stage: Pre-IPO (Hong Kong IPO expected Q3 2026)
-total_funding_usd: ~$84M+ disclosed (8+ rounds in 2 years)
 revenue_2025_target_usd: ~$142M (1B RMB target)
 robots_shipped_2025: ~5,168 (global leader in humanoid shipments)
 headcount: ~1,000+ (estimated)

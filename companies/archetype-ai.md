@@ -1,6 +1,5 @@
 ---
 name: Archetype AI
-company: Archetype AI
 founded: 2023
 headquarters: Palo Alto, CA, USA
 website: https://www.archetypeai.io

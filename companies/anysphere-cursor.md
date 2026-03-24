@@ -1,5 +1,4 @@
 ---
-company_name: Anysphere
 product_name: Cursor
 founded: 2022
 headquarters: San Francisco, CA

@@ -1,12 +1,10 @@
 ---
-company_name: Tabnine
 founded: 2013
 headquarters: Tel Aviv, Israel
 sector: AI-Powered Developer Tools
 sub_sector: AI Coding Assistants / Enterprise Code Completion
 website: https://www.tabnine.com
 status: Private
-total_funding: ~$67-102M (sources vary)
 employee_count: ~72-84 (2025 estimates)
 key_investors:
 - Qualcomm Ventures

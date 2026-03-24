@@ -1,6 +1,5 @@
 ---
 name: Vapi
-company: Vapi
 founded: 2020
 headquarters: San Francisco, CA, USA
 website: https://vapi.ai

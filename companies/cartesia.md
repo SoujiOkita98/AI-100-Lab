@@ -1,16 +1,8 @@
 ---
-company: Cartesia
 website: https://cartesia.ai
 founded: 2023
 headquarters: San Francisco, CA, USA
 sector: AI Infrastructure / Voice AI / Edge AI
-tags:
-- state-space-models
-- voice-AI
-- text-to-speech
-- edge-AI
-- real-time-inference
-- SSM
 founders:
 - name: Karan Goel
   role: CEO
@@ -23,7 +15,6 @@ founders:
 - name: Chris Ré
   role: Stanford Professor, co-founder
 headcount: ~91 (as of Feb 2026)
-total_funding: ~$91M
 latest_round: Series A ($64M, March 2025)
 lead_investors:
 - Kleiner Perkins

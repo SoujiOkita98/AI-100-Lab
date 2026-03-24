@@ -1,5 +1,4 @@
 ---
-company_name: Basis
 website: https://www.getbasis.ai
 one_liner: AI agents for accounting firms that automate financial statement preparation, tax filing, and expense tracking
   with long-horizon task execution
@@ -13,7 +12,6 @@ founders:
 - name: Mitchell Troyanovsky
   role: Co-Founder
   origin: American (Slavic heritage)
-total_funding_raised: $138M
 arr_estimate: Undisclosed
 employee_count_estimate: ~50-100 (estimated based on growth stage)
 status: Private

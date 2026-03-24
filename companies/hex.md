@@ -1,6 +1,5 @@
 ---
 name: Hex
-company: Hex Technologies
 founded: 2019
 headquarters: San Francisco, CA, USA
 website: https://hex.tech

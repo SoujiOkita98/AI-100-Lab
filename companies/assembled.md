@@ -5,7 +5,6 @@ headquarters: San Francisco, CA
 website: https://www.assembled.com
 sector: AI-Powered Support Operations / Workforce Management
 stage: Series B
-total_funding_raised: $70.7M
 latest_round: Series B ($51M, May 2022)
 valuation_estimate: Not publicly disclosed; Series B represented >5x valuation increase over Series A
 founders:

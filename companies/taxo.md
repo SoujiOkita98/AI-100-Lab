@@ -1,10 +1,8 @@
 ---
-company: Taxo
 founded: 2024
 headquarters: United States
 sector: AI Applications / Healthcare
 stage: Seed
-total_funding: ~$5M
 founders:
 - name: Dr. Ahmed Kerwan
   role: CEO
@@ -19,12 +17,6 @@ notable_investors:
 key_customers:
 - Harvard teaching hospitals (pilot)
 - Stanford teaching hospitals (pilot)
-tags:
-- healthcare-ai
-- claims-processing
-- medical-billing
-- reasoning-engine
-- yc-s24
 yc_batch: S24
 last_updated: 2026-03-20
 one_liner: Taxo is a healthcare AI company building what it describes as the world's fastest and most accurate AI reasoning

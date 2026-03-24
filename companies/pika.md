@@ -21,14 +21,6 @@ team_size_estimate: ~48 (as of 2024)
 stage: Series B
 estimated_valuation: ~$470M (post-Series B, June 2024); ~$900M (estimated early 2026, unconfirmed)
 estimated_arr_2026: $85M+ (estimate; sources vary)
-tags:
-- generative-ai
-- video-generation
-- text-to-video
-- image-to-video
-- consumer-ai
-- chinese-founders
-- stanford-spinout
 last_updated: 2026-03-20
 funding_rounds:
 - stage: Series A

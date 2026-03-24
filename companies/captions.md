@@ -1,6 +1,5 @@
 ---
 name: Captions
-company: Captions (Mirage)
 founded: 2021
 headquarters: New York, NY, USA
 website: https://www.captions.ai

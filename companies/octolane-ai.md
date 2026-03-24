@@ -20,12 +20,6 @@ funding_rounds:
   - Undisclosed
 notable_investors:
 - Y Combinator
-tags:
-- ai-sales
-- crm
-- sales-intelligence
-- automation
-- yc-w24
 yc_batch: W24
 linkedin: https://www.linkedin.com/company/octolane-ai
 confidence: Medium

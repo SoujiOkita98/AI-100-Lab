@@ -1,6 +1,5 @@
 ---
 name: Forethought
-company: Forethought
 founded: 2018
 headquarters: San Francisco, CA, USA
 website: https://forethought.ai

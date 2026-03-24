@@ -24,16 +24,8 @@ founders:
   origin: Chinese
 team_size_estimate: ~50-100 (pre-acquisition)
 stage: Acquired by Meta
-total_funding: ~$75M (pre-acquisition)
 estimated_valuation: ~$500M (April 2025); acquired by Meta for ~$2.5B-$3B (December 2025)
 estimated_arr_2026: $100M ARR reached in ~8 months post-launch (by late 2025)
-tags:
-- ai-agents
-- generative-ai
-- consumer-ai
-- chinese-founders
-- singapore-hq
-- acquired-by-meta
 last_updated: 2026-03-20
 one_liner: Manus AI is an AI agent platform that burst onto the scene in March 2025, quickly becoming one of the most talked-about
   AI products globally

@@ -1,5 +1,4 @@
 ---
-company: Jasper
 former_names:
 - Conversion.ai (2021)
 - Jarvis.ai (2021, renamed after Disney cease-and-desist)

@@ -7,7 +7,6 @@ headquarters: Paris, France
 website: https://www.photoroom.com
 one_liner: AI-powered photo editing app and listing studio enabling e-commerce sellers to create professional product images
   with instant background removal and generative AI
-total_funding: ~$75M
 arr: ~$94M (end of 2024)
 employees: ~80
 status: Private

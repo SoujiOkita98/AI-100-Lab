@@ -1,5 +1,4 @@
 ---
-company: Observe.AI
 website: https://www.observe.ai
 founded: 2017
 headquarters: San Francisco / Redwood City, CA
@@ -31,13 +30,6 @@ key_investors:
 - Emergent Ventures
 - Steadview Capital
 - Y Combinator (W18)
-tags:
-- contact-center
-- conversational-intelligence
-- voice-ai
-- agentic-ai
-- enterprise-saas
-- indian-founders
 last_updated: 2026-03-20
 funding_rounds:
 - stage: Series A

@@ -8,14 +8,15 @@ one_liner: Automated testing platform for voice agents and conversational AI app
 status: Active
 total_raised_m: 0.5
 founders:
-  - name: "Sumanyu Sharma"
-    role: "CEO"
-    background: "Former Head of Data at Citizen; Senior Staff Data Scientist at Tesla where he grew AI-powered sales to hundreds of millions in revenue/year"
-    origin: "India"
-  - name: "Marius Buleandra"
-    role: "CTO"
-    background: "Former data infrastructure lead at Anduril; founding engineer at Spell (MLOps startup acquired by Reddit)"
-    origin: "Romania"
+- name: Sumanyu Sharma
+  role: CEO
+  background: Former Head of Data at Citizen; Senior Staff Data Scientist at Tesla where he grew AI-powered sales to hundreds
+    of millions in revenue/year
+  origin: India
+- name: Marius Buleandra
+  role: CTO
+  background: Former data infrastructure lead at Anduril; founding engineer at Spell (MLOps startup acquired by Reddit)
+  origin: Romania
 funding_rounds:
 - stage: Seed
   date: 2024-09
@@ -24,12 +25,6 @@ funding_rounds:
   - Y Combinator
 notable_investors:
 - Y Combinator
-tags:
-- ai-testing
-- voice-agents
-- qa
-- conversational-ai
-- yc-s24
 yc_batch: S24
 linkedin: https://www.linkedin.com/company/hamming-ai
 confidence: Low

@@ -1,6 +1,5 @@
 ---
 name: AssemblyAI
-company: AssemblyAI
 founded: 2017
 headquarters: San Francisco, CA, USA
 website: https://www.assemblyai.com

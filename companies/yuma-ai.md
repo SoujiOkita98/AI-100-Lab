@@ -1,5 +1,4 @@
 ---
-company: Yuma AI
 founded: 2023
 headquarters: San Francisco, CA
 website: https://yuma.ai

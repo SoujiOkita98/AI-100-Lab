@@ -1,5 +1,4 @@
 ---
-company_name: Harvey AI
 website: https://www.harvey.ai
 sector: Legal AI / Professional Services AI
 founded: '2022'
@@ -11,7 +10,6 @@ founders:
 - name: Gabriel Pereyra
   role: President & Co-Founder
   origin: Latin American
-total_funding_raised: ~$1.2B
 arr_estimate: ~$195M (end of 2025)
 employee_count_estimate: ~1,000 (uncertain; not independently confirmed)
 status: Private

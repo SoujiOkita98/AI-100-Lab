@@ -10,7 +10,6 @@ other_offices:
 - Bangalore, India
 sector: AI Infrastructure / GPU Cloud Compute
 stage: Seed
-total_funding_usd: ~30,500,000
 employee_count_approx: 45
 founders:
 - name: Brijesh Tripathi

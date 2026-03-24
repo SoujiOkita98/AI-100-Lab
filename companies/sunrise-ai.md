@@ -24,14 +24,6 @@ team_size_estimate: Not disclosed
 stage: Series A+ (raised $431M+ in under 12 months)
 estimated_valuation: Not publicly confirmed (likely multi-billion dollar given funding scale)
 estimated_arr_2026: Not disclosed
-tags:
-- ai-chips
-- gpu-development
-- semiconductor
-- sensetime-spinoff
-- chinese-founders
-- hardware
-- china-chip-independence
 last_updated: 2026-03-20
 funding_rounds:
 - stage: Strategic Round

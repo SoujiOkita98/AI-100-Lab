@@ -1,5 +1,4 @@
 ---
-company: Imbue
 former_name: Generally Intelligent
 founded: 2020
 headquarters: San Francisco, CA
@@ -15,12 +14,6 @@ founders:
   origin: American
 team_size: ~20-30 (estimated; sources vary from 15-50)
 status: Active
-tags:
-- AI agents
-- reasoning
-- foundation models
-- coding agents
-- unicorn
 last_updated: 2026-03-20
 funding_rounds:
 - stage: Series A

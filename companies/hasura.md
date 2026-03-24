@@ -1,5 +1,4 @@
 ---
-company: Hasura
 website: https://hasura.io
 sector: AI Data Infrastructure / API & Data Access Platform
 founded: 2013
@@ -15,15 +14,6 @@ founders:
 - name: Rajoshi Ghosh
   role: Co-Founder & COO
   origin: India
-tags:
-- data-infrastructure
-- api-platform
-- ai-data-access
-- open-source
-- enterprise-saas
-- indian-founders
-- iit-madras
-- unicorn
 funding_rounds:
 - stage: Seed
   date: 2017-08

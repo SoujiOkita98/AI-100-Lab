@@ -1,5 +1,4 @@
 ---
-company: LangChain
 founded: Janu
 headquarters: San Francisco, CA
 website: https://www.langchain.com

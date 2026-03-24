@@ -7,7 +7,6 @@ website: https://www.simular.ai
 product: Simular Agent (autonomous computer-use agent for Mac and Windows)
 sector: AI / Autonomous Agents / Computer Use / Desktop Automation
 stage: Series A (latest round Dec 2025)
-total_funding: $27M
 status: Active, Private
 founders:
 - name: Ang Li

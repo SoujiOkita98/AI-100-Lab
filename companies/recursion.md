@@ -1,5 +1,4 @@
 ---
-company: Recursion Pharmaceuticals, Inc.
 ticker: RXRX (NASDAQ)
 status: Public (IPO April 2021)
 founded: 2013

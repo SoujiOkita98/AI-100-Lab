@@ -1,5 +1,4 @@
 ---
-company: Helicone
 founded: 2023
 headquarters: San Francisco, CA
 website: https://www.helicone.ai

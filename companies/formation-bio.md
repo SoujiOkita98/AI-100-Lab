@@ -1,5 +1,4 @@
 ---
-company: Formation Bio
 sector: Biotech AI / AI-Native Pharma
 founded: 2016
 headquarters: New York, NY

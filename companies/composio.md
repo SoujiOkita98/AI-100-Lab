@@ -1,6 +1,5 @@
 ---
 name: Composio
-company: Composio
 founded: 2023
 headquarters: San Francisco, CA, USA
 website: https://composio.dev

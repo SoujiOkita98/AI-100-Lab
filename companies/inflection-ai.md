@@ -1,5 +1,4 @@
 ---
-company_name: Inflection AI
 founded: 2022
 headquarters: Palo Alto, CA
 website: https://inflection.ai
@@ -21,14 +20,6 @@ founders:
   background: Co-founder of LinkedIn; General Partner at Greylock Partners
   origin: American
 sector: Artificial Intelligence / Enterprise AI
-tags:
-- generative-ai
-- enterprise-ai
-- LLM
-- chatbot
-- emotional-ai
-- on-premise-ai
-total_funding_raised: ~$1.52B (across 2 primary rounds, pre-Microsoft deal)
 employee_count: ~62 (post-Microsoft exodus; approximate as of late 2024)
 key_models:
 - Pi

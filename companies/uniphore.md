@@ -1,5 +1,4 @@
 ---
-company: Uniphore
 website: https://www.uniphore.com
 one_liner: Enterprise conversational AI and business automation platform for contact centers, sales, and back-office workflows.
 sector: Enterprise AI / Conversational AI & Business Automation
@@ -16,12 +15,6 @@ founders:
 - name: Ravi Saraogi
   role: Co-Founder & President (APAC)
   origin: India
-tags:
-- conversational-ai
-- enterprise-saas
-- contact-center
-- indian-founders
-- iit-madras
 funding_rounds:
 - stage: Series C
   date: 2019-08

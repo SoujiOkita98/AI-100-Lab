@@ -56,6 +56,9 @@ crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/patronus-ai/
 linkedin_verified: true
 total_raised_m: 40.0
+sector:
+- AI safety
+- LLM evaluation
 ---
 
 # Patronus AI

@@ -98,6 +98,9 @@ linkedin: https://www.linkedin.com/company/zhipuai
 linkedin_verified: true
 total_raised_m: 1500.0
 status: active
+sector:
+- foundation models
+- enterprise AI
 ---
 
 # Zhipu AI (Z.ai) -- Company Profile

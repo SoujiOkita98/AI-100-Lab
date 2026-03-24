@@ -1,6 +1,5 @@
 ---
 name: Anyscale
-company: Anyscale
 founded: 2019
 headquarters: San Francisco, CA, USA
 website: https://www.anyscale.com

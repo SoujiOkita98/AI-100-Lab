@@ -24,12 +24,6 @@ notable_investors:
 - Y Combinator
 - Paul Graham
 - Thomas Wolf (Hugging Face)
-tags:
-- ai-coding
-- developer-tools
-- ai-agents
-- context-layer
-- yc-s25
 yc_batch: S25
 linkedin: https://www.linkedin.com/company/nozomio
 confidence: High

@@ -24,12 +24,6 @@ notable_investors:
 - Transpose Platform
 - 22 Ventures
 - a16z Scout
-tags:
-- ai-infrastructure
-- search
-- rag
-- retrieval
-- yc-w25
 yc_batch: W25
 linkedin: https://www.linkedin.com/company/zeroentropy-inc
 confidence: High

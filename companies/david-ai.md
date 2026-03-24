@@ -1,10 +1,8 @@
 ---
-company: David AI
 founded: 2024
 headquarters: San Francisco, CA
 sector: AI Infrastructure / Audio Data
 stage: Series B
-total_funding: ~$80M
 founders:
 - name: Tomer Cohen
   role: CEO
@@ -25,12 +23,6 @@ notable_investors:
 - SV Angel
 - Liquid2 Ventures
 key_customers: []
-tags:
-- audio-data
-- speech-ai
-- data-infrastructure
-- conversational-ai
-- yc-s24
 yc_batch: S24
 last_updated: 2026-03-20
 one_liner: David AI is the world's first dedicated audio data research lab, building the data layer for next-generation audio

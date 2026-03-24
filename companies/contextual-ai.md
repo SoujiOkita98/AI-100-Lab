@@ -1,5 +1,4 @@
 ---
-company: Contextual AI
 founded: 2023
 headquarters: Mountain View, California
 sector: Enterprise AI / RAG Infrastructure

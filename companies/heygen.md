@@ -1,5 +1,4 @@
 ---
-company: HeyGen
 former_names:
 - Surreal (2020-2022, Shenzhen era)
 - Movio (2022-2023, early LA era)
@@ -16,7 +15,6 @@ founders:
 website: https://www.heygen.com
 status: Private
 headcount_estimate: 157-192
-total_funding: ~$65.6M-$74.6M
 last_valuation: $500M (June 2024)
 arr_estimate: ~$100M (late 2025)
 key_investors:

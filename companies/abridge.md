@@ -1,5 +1,4 @@
 ---
-company: Abridge
 sector: AI Medical Documentation / Ambient Clinical Intelligence
 founded: 2018
 headquarters: Pittsburgh, PA (with San Francisco presence)

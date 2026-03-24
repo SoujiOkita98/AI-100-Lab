@@ -1,10 +1,8 @@
 ---
-company: Positron AI
 founded: 2023
 headquarters: Austin, Texas, USA
 sector: AI Hardware / Semiconductors (Inference)
 stage: Growth (Series B)
-total_funding: ~$305 million
 employees: ~50-100 (estimate)
 website: https://www.positron.ai
 last_updated: 2026-03-20

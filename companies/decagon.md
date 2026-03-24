@@ -1,5 +1,4 @@
 ---
-company: Decagon AI, Inc.
 brand_name: Decagon
 website: https://decagon.ai
 founded: Augu

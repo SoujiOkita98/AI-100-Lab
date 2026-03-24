@@ -1,5 +1,4 @@
 ---
-company_name: Cresta
 website: https://cresta.com
 sector: Contact Center AI / Customer Experience AI
 founded: 2018
@@ -14,7 +13,6 @@ founders:
 - name: Tim Shi
   role: Co-Founder
   origin: Chinese-American
-total_funding_raised: ~$282M
 employee_count_estimate: ~300 (uncertain)
 status: Private
 last_updated: 2026-03-20

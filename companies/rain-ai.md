@@ -1,10 +1,8 @@
 ---
-company: Rain AI
 founded: 2017
 headquarters: San Francisco, California, USA
 sector: AI Hardware / Semiconductors (Neuromorphic / In-Memory Compute)
 stage: Late Seed / Series A (troubled)
-total_funding: ~$146 million
 employees: ~50 (estimate)
 website: https://rain.ai
 last_updated: 2026-03-20

@@ -1,6 +1,5 @@
 ---
 name: Roboflow
-company: Roboflow
 founded: 2019
 headquarters: Des Moines, IA, USA
 website: https://roboflow.com

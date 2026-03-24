@@ -10,7 +10,6 @@ cofounders:
 - Naoyuki Kanezawa
 sector: Developer Tools / Frontend Cloud / AI Code Generation
 stage: Late-stage (Series F)
-total_funding: ~$863M across 6 rounds
 latest_round: Series F ($300M, September 2025)
 annual_recurring_revenue: $200M (May 2025)
 employees: ~875 (early 2026)

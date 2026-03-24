@@ -1,5 +1,4 @@
 ---
-company: Wayve
 other_offices:
 - Vancouver, Canada
 - San Francisco / Silicon Valley, USA
@@ -72,6 +71,10 @@ linkedin_verified: true
 total_raised_m: 2500.0
 latest_valuation_m: 8600.0
 status: active
+sector:
+- autonomous driving
+- robotics
+- foundation models
 ---
 
 # Wayve

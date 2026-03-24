@@ -1,6 +1,5 @@
 ---
 name: Qdrant
-company: Qdrant
 founded: 2021
 headquarters: Berlin, Germany
 website: https://qdrant.tech

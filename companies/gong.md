@@ -1,6 +1,5 @@
 ---
 name: Gong
-company: Gong
 founded: 2015
 headquarters: San Francisco, CA, USA
 website: https://www.gong.io

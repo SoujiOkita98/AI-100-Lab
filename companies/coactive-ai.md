@@ -1,5 +1,4 @@
 ---
-company_name: Coactive AI
 founded: 2021
 headquarters: San Jose, California
 additional_offices:
@@ -8,7 +7,6 @@ additional_offices:
 employees: ~66 (as of late 2025)
 sector: Enterprise AI / Multimodal AI / Visual Content Intelligence
 stage: Series B
-total_funding: $44M
 website: https://www.coactive.ai
 one_liner: Enterprise AI platform that transforms unstructured visual data (images and video) into searchable, insight-rich
   information for media and retail companies

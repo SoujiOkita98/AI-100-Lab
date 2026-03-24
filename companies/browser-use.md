@@ -1,10 +1,8 @@
 ---
-company: Browser Use
 founded: 2024
 headquarters: Zurich, Switzerland / San Francisco, CA
 sector: AI Infrastructure / Agentic AI Tooling
 stage: Seed
-total_funding: ~$17M
 founders:
 - name: Magnus Muller
   role: Co-Founder
@@ -24,13 +22,6 @@ notable_investors:
 - SV Angel
 - Pioneer Fund
 key_customers: []
-tags:
-- ai-agents
-- open-source
-- web-automation
-- browser-automation
-- agentic-ai
-- yc-w25
 yc_batch: W25
 last_updated: 2026-03-20
 one_liner: Browser Use is the leading open-source framework for enabling AI agents to control web browsers

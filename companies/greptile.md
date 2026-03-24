@@ -1,12 +1,10 @@
 ---
-company_name: Greptile
 founded: 2023
 headquarters: San Francisco, CA
 sector: AI-Powered Developer Tools
 sub_sector: AI Code Review / Code Validation
 website: https://www.greptile.com
 status: Private (Series A)
-total_funding: ~$29M
 employee_count: ~10-15 (estimated, 2025)
 key_investors:
 - Benchmark Capital

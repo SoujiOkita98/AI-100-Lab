@@ -1,5 +1,4 @@
 ---
-company: Hippocratic AI
 sector: Healthcare AI / Agentic AI
 founded: 2023
 headquarters: Palo Alto, CA

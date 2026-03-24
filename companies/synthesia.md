@@ -1,5 +1,4 @@
 ---
-company: Synthesia
 website: https://www.synthesia.io
 founded: 2017
 headquarters: London, UK (20 Triton Street)

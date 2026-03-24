@@ -1,6 +1,5 @@
 ---
 name: Resemble AI
-company: Resemble AI
 founded: 2019
 headquarters: Santa Clara, CA, USA
 website: https://www.resemble.ai

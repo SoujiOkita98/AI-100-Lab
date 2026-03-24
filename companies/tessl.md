@@ -1,5 +1,4 @@
 ---
-company_name: Tessl
 founded: 2024
 headquarters: London, United Kingdom
 sector: AI-Powered Developer Tools

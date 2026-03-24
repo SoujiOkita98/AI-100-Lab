@@ -1,12 +1,10 @@
 ---
-company: Midjourney
 sector: AI Image & Video Generation
 founded: 2021
 headquarters: San Francisco, California
 founder: David Holz
 ceo: David Holz
 funding_status: Bootstrapped / Self-funded
-total_funding_raised: $0
 estimated_valuation: ~$5-7B (private market estimates, 2025-2026; some sources cite ~$600M — wide uncertainty)
 estimated_revenue: ~$500M ARR (2025); projected $500-600M ARR (2026)
 employees: ~107-163 (2025 estimates vary by source; projected 250-300 by late 2026)

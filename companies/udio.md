@@ -1,5 +1,4 @@
 ---
-company: Udio
 legal_entity: Uncharted Labs, Inc.
 website: https://www.udio.com
 sector: AI Music Generation

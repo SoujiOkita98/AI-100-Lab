@@ -1,5 +1,4 @@
 ---
-company: DevRev
 website: https://devrev.ai
 sector: Enterprise AI / AI-Native CRM & Developer Platform
 founded: 2020
@@ -15,14 +14,6 @@ founders:
 - name: Manoj Agarwal
   role: Co-Founder & CTO
   origin: India (former SVP of Engineering at Nutanix)
-tags:
-- ai-native-crm
-- developer-tools
-- agentic-ai
-- enterprise-saas
-- indian-founders
-- iit-kanpur
-- serial-entrepreneur
 funding_rounds:
 - stage: Seed
   date: 2021-07

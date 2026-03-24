@@ -1,5 +1,4 @@
 ---
-company_name: Galileo
 website: https://www.rungalileo.io
 category: AI Evaluation & Observability
 subcategory: LLM Testing, Monitoring, Guardrails, Agent Reliability
@@ -22,7 +21,6 @@ founders:
   background: Google (Tech Lead & Manager, Speech Recognizer platform, 9 years; scaled speech recognition 800x across 20+
     products) MS Computer Science, UC Irvine
   origin: Indian-American
-total_funding: $68M
 latest_round: Series B
 latest_round_date: 2024-10-15
 status: Private

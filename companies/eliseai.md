@@ -1,5 +1,4 @@
 ---
-company_name: EliseAI
 website: https://eliseai.com
 sector: Real Estate AI / Healthcare AI
 founded: 2017
@@ -11,7 +10,6 @@ founders:
 - name: Stoyan (Tony) Stoyanov
   role: CTO & Co-Founder
   origin: Bulgarian
-total_funding_raised: ~$392M
 arr_estimate: ~$100M+ (2025)
 employee_count_estimate: ~200
 status: Private

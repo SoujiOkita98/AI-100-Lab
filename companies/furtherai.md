@@ -1,5 +1,4 @@
 ---
-company_name: FurtherAI
 website: https://www.furtherai.com
 sector: Insurance AI
 founded: 2023
@@ -11,7 +10,6 @@ founders:
 - name: Sashank Gondala
   role: CTO & Co-Founder
   origin: Indian
-total_funding_raised: ~$30M
 employee_count_estimate: ~50 (uncertain)
 status: Private
 last_updated: 2026-03-20

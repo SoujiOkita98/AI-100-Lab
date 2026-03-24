@@ -22,12 +22,6 @@ funding_rounds:
   - Y Combinator
 notable_investors:
 - Y Combinator
-tags:
-- ai-developer-tools
-- mobile-development
-- react-native
-- code-generation
-- yc-w25
 yc_batch: W25
 linkedin: https://www.linkedin.com/company/a0-dev
 confidence: Medium

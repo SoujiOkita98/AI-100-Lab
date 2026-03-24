@@ -1,6 +1,5 @@
 ---
 name: Recraft
-company: Recraft
 founded: 2022
 headquarters: London, UK
 website: https://www.recraft.ai

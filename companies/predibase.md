@@ -1,12 +1,10 @@
 ---
-company: Predibase
 website: https://predibase.com
 sector: AI/ML Infrastructure / Fine-Tuning & Serving Open-Source Models
 founded: 2021
 headquarters: San Francisco, California
 ceo: Devvret Rishi
 employees_approx: 50-100
-total_funding: ~$28M+
 status: Acquired (Rubrik, June 2025)
 last_updated: 2026-03-20
 founders:
@@ -19,14 +17,6 @@ founders:
 - name: Travis Addair
   role: Co-Founder & CTO
   origin: United States (former Uber ML Platform lead)
-tags:
-- ml-infrastructure
-- fine-tuning
-- open-source-llm
-- enterprise-ai
-- indian-american-founder
-- ex-google
-- acquired
 one_liner: Predibase was an AI infrastructure company that enabled software engineers to fine-tune and serve open-source AI
   models across cloud environments
 crunchbase: https://www.crunchbase.com/organization/predibase

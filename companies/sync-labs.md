@@ -8,22 +8,23 @@ one_liner: API enabling real-time lip-syncing for video subjects across any lang
 status: Active
 total_raised_m: 0.5
 founders:
-  - name: "Prady Modukuru"
-    role: "CEO"
-    background: "Co-creator of wav2lip (8.7k+ GitHub stars); raised $5.5M seed led by GV; won AI grant from Nat Friedman and Daniel Gross"
-    origin: "India"
-  - name: "Rudrabha Mukhopadhyay"
-    role: "CTO"
-    background: "Co-creator of wav2lip; researcher in lip-sync and speech-driven facial animation"
-    origin: "India"
-  - name: "Prajwal K R"
-    role: "Chief Scientist"
-    background: "Co-creator of wav2lip; researcher in audio-visual speech synthesis"
-    origin: "India"
-  - name: "Pavan Reddy"
-    role: "COO"
-    background: "Co-creator of wav2lip; operations and business development"
-    origin: "India"
+- name: Prady Modukuru
+  role: CEO
+  background: Co-creator of wav2lip (8.7k+ GitHub stars); raised $5.5M seed led by GV; won AI grant from Nat Friedman and
+    Daniel Gross
+  origin: India
+- name: Rudrabha Mukhopadhyay
+  role: CTO
+  background: Co-creator of wav2lip; researcher in lip-sync and speech-driven facial animation
+  origin: India
+- name: Prajwal K R
+  role: Chief Scientist
+  background: Co-creator of wav2lip; researcher in audio-visual speech synthesis
+  origin: India
+- name: Pavan Reddy
+  role: COO
+  background: Co-creator of wav2lip; operations and business development
+  origin: India
 funding_rounds:
 - stage: Seed
   date: 2024-03
@@ -32,13 +33,6 @@ funding_rounds:
   - Y Combinator
 notable_investors:
 - Y Combinator
-tags:
-- ai-video
-- lip-sync
-- api
-- multilingual
-- content-creation
-- yc-w24
 yc_batch: W24
 linkedin: https://www.linkedin.com/company/synclabs
 confidence: Low

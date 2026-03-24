@@ -42,12 +42,6 @@ funding:
   - Databricks
   - Jeff Bezos (personal investment)
   founder_investment: $10M from Naveen Rao at same terms
-tags:
-- neuromorphic-computing
-- analog-chips
-- ai-hardware
-- energy-efficiency
-- semiconductor
 last_updated: '2026-03-20'
 funding_rounds:
 - stage: Seed

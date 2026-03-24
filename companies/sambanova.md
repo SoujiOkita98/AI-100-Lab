@@ -1,5 +1,4 @@
 ---
-company: SambaNova Systems
 founded: 2017
 headquarters: Palo Alto, California, USA
 sector: AI Hardware / AI Infrastructure (Full-Stack)

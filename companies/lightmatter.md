@@ -1,10 +1,8 @@
 ---
-company: Lightmatter
 founded: 2017
 headquarters: Boston, Massachusetts, USA
 sector: AI Hardware / Photonic Interconnects
 stage: Series D (Late-stage private)
-total_funding: ~$850 million (across 9 rounds)
 employees: ~315 (as of February 2026; estimate)
 website: https://lightmatter.co
 last_updated: 2026-03-20

@@ -1,6 +1,5 @@
 ---
 name: Anterior
-company: Anterior
 founded: 2022
 headquarters: New York, NY, USA
 website: https://www.anterior.com

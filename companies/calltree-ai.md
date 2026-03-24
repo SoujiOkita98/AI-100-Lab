@@ -8,14 +8,16 @@ one_liner: Enterprise-grade AI support reps for call centers that use internal e
 status: Active
 total_raised_m: 0.5
 founders:
-  - name: "Kun Qian"
-    role: "CEO"
-    background: "Former product leader at AWS focused on contact center solutions; built and scaled product lines to tens of millions in ARR"
-    origin: "China"
-  - name: "Robertson Taylor"
-    role: "CTO"
-    background: "Specializes in multimodal search for video and audio; helped companies like Walmart and Etsy fine-tune embedding models"
-    origin: "United States"
+- name: Kun Qian
+  role: CEO
+  background: Former product leader at AWS focused on contact center solutions; built and scaled product lines to tens of
+    millions in ARR
+  origin: China
+- name: Robertson Taylor
+  role: CTO
+  background: Specializes in multimodal search for video and audio; helped companies like Walmart and Etsy fine-tune embedding
+    models
+  origin: United States
 funding_rounds:
 - stage: Seed
   date: 2025-03
@@ -24,13 +26,6 @@ funding_rounds:
   - Y Combinator
 notable_investors:
 - Y Combinator
-tags:
-- voice-ai
-- call-center
-- enterprise
-- customer-support
-- ai-agents
-- yc-w25
 yc_batch: W25
 linkedin: https://www.linkedin.com/company/calltree-ai
 confidence: Low

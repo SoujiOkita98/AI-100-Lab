@@ -1,6 +1,5 @@
 ---
 name: Bedrock Robotics
-company: Bedrock Robotics
 founded: 2024
 headquarters: San Francisco, CA, USA
 website: https://bedrockrobotics.com

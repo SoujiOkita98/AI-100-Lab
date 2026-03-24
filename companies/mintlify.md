@@ -1,5 +1,4 @@
 ---
-company: Mintlify
 founded: 2021
 headquarters: San Francisco, CA
 website: https://www.mintlify.com

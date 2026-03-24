@@ -1,5 +1,4 @@
 ---
-company: Labelbox
 founded: '2018'
 headquarters: San Francisco, CA (510 Treat Ave, San Francisco, CA 94110)
 sector: AI Infrastructure / Data Labeling & Training

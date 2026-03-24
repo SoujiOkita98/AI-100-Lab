@@ -1,12 +1,10 @@
 ---
-company_name: Stability AI
 founded: 2019
 headquarters: London, United Kingdom
 website: https://stability.ai
 sector: Generative AI / Image, Video, Audio, 3D Synthesis
 flagship_product: Stable Diffusion
 status: Active, private
-total_funding: ~$181M–$225M (figures vary by source)
 employee_count: ~190 (as of January 2026)
 ceo: Prem Akkaraju (appointed June 2024)
 executive_chairman: Sean Parker

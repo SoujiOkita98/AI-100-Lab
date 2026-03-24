@@ -5,7 +5,6 @@ headquarters: San Francisco, CA (later Redmond, WA post-acquisition)
 website: https://lepton.ai
 sector: AI Infrastructure / GPU Cloud
 status: Acquired by NVIDIA (2025)
-total_funding: ~$11M (angel round)
 acquisition_price: Several hundred million dollars (undisclosed exact)
 employee_count: ~20 (at time of acquisition)
 founders:

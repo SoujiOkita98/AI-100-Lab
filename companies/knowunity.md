@@ -5,7 +5,6 @@ sector: AI Education / Student Learning Platform
 founded: 2020
 headquarters: Berlin, Germany
 website: https://knowunity.com
-total_funding: ~EUR45M (~$50M)
 users: 20M+ across 15 countries
 employees: ~80-100 (estimate)
 status: Private

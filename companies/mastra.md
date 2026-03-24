@@ -29,13 +29,6 @@ notable_investors:
 - Guillermo Rauch (Vercel)
 - Amjad Masad (Replit)
 - Balaji Srinivasan
-tags:
-- ai-agents
-- open-source
-- developer-tools
-- typescript
-- framework
-- yc-w25
 yc_batch: W25
 linkedin: https://www.linkedin.com/company/mastra-ai
 confidence: High

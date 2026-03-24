@@ -1,12 +1,10 @@
 ---
-company_name: Qodo
 founded: 2022
 headquarters: Tel Aviv, Israel
 sector: AI-Powered Developer Tools
 sub_sector: AI Code Testing & Quality Assurance
 website: https://www.qodo.ai
 status: Private (Series A)
-total_funding: ~$50M
 employee_count: ~100 (2025)
 key_investors:
 - Susa Ventures

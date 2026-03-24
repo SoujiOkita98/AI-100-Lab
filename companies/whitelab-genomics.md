@@ -1,5 +1,4 @@
 ---
-company: WhiteLab Genomics
 founded: 2019
 headquarters: Paris, France
 website: https://whitelabgx.com

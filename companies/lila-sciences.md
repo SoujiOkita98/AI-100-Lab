@@ -1,5 +1,4 @@
 ---
-company: Lila Sciences
 sector: Biotech AI / Autonomous Scientific Discovery
 founded: 2023
 headquarters: Cambridge, MA

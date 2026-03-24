@@ -1,5 +1,4 @@
 ---
-company: Modal (Modal Labs, Inc.)
 sector: AI Infrastructure / Cloud Computing
 stage: Growth (Series B closed; Series C reportedly in talks)
 founded: 2021

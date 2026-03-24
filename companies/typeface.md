@@ -1,5 +1,4 @@
 ---
-company: Typeface
 website: https://www.typeface.ai
 sector: Enterprise AI / Generative AI for Marketing & Content
 founded: 'May '
@@ -9,13 +8,6 @@ ceo: Abhay Parasnis
 employees: ~250-266 (as of early 2026)
 stage: Series C
 status: Private
-tags:
-- generative-ai
-- enterprise
-- content-generation
-- marketing-ai
-- agentic-ai
-- brand-safety
 founders:
 - name: Abhay Parasnis
   role: Founder & CEO

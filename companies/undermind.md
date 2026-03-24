@@ -19,12 +19,6 @@ funding_rounds:
   - Y Combinator
 notable_investors:
 - Y Combinator
-tags:
-- ai-research
-- scientific-search
-- academic
-- ai-agents
-- yc-s24
 yc_batch: S24
 linkedin: https://www.linkedin.com/company/undermind-ai
 confidence: Medium

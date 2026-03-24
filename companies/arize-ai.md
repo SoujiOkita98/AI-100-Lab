@@ -1,5 +1,4 @@
 ---
-company: Arize AI
 sector: AI/ML Observability & Evaluation Platform
 founded: 2020
 website: https://arize.com
@@ -15,15 +14,6 @@ founders:
 - name: Jason Lopatecki
   role: Co-Founder & CEO
   origin: United States
-tags:
-- ml-observability
-- ai-evaluation
-- ai-agents
-- enterprise-saas
-- indian-american-founder
-- ex-uber
-- ex-apple
-- yc-alumni
 funding_rounds:
 - stage: Seed
   date: 2020-02

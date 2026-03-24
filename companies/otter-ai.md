@@ -5,7 +5,6 @@ sector: AI Productivity / Meeting Transcription
 founded: 2016
 headquarters: Mountain View, California
 website: https://otter.ai
-total_funding: ~$70M
 arr: $100M (March 2025)
 users: 25M+ (2025)
 employees: <200

@@ -1,11 +1,9 @@
 ---
-company: Dataminr
 website: https://www.dataminr.com
 founded: 2009-04-01
 headquarters: New York, NY
 sector: AI / Real-Time Threat & Event Detection
 stage: Late-stage private (Pre-IPO)
-total_funding: ~$1.2B-$1.5B across 13+ rounds
 latest_round: Series F extension — $100M convertible from Fortress Investment Group (April 2025)
 annual_recurring_revenue: ~$200M-$222M (as of late 2024)
 employees: ~800

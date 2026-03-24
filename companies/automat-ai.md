@@ -1,5 +1,4 @@
 ---
-company: Automat (fka Lasso)
 founded: 2023
 headquarters: San Francisco, CA
 website: https://automat.ai

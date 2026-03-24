@@ -1,10 +1,8 @@
 ---
-company: Datacurve
 founded: 2024
 headquarters: San Francisco, CA
 sector: AI Infrastructure / Training Data
 stage: Series A
-total_funding: ~$18M
 founders:
 - name: Serena Ge
   role: Co-Founder
@@ -21,12 +19,6 @@ notable_investors:
 - Homebrew
 - Balaji Srinivasan (Seed investor, former Coinbase CTO)
 key_customers: []
-tags:
-- ai-training-data
-- coding-data
-- llm-training
-- data-labeling
-- yc-w24
 yc_batch: W24
 last_updated: 2026-03-20
 one_liner: Datacurve provides premium, curated coding data for training and evaluating large language models

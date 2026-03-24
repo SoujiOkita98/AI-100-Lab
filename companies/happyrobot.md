@@ -6,7 +6,6 @@ website: https://www.happyrobot.ai
 product: AI agents for logistics and supply chain operations
 sector: AI / Logistics / Agentic AI
 stage: Series B
-total_funding: ~$62M
 status: Active, Private
 founders:
 - name: Pablo Palafox

@@ -1,6 +1,5 @@
 ---
 name: Firecrawl
-company: Firecrawl
 founded: 2024
 headquarters: San Francisco, CA, USA
 website: https://www.firecrawl.dev

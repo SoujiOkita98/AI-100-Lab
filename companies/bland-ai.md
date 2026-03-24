@@ -1,5 +1,4 @@
 ---
-company: Bland AI
 website: https://www.bland.ai
 founded: 2023
 headquarters: San Francisco, CA
@@ -11,7 +10,6 @@ founders:
   role: Co-Founder & COO
   origin: Iranian-American
 headcount_estimate: 65-107 (sources vary; Y Combinator reports 65, PitchBook reports 107)
-total_funding: $65M (across 3 rounds)
 latest_round: Series B - $40M (January 2025)
 lead_investors:
 - Emergence Capital (Series B)
@@ -54,6 +52,10 @@ funding_rounds:
 name: Bland AI
 linkedin_verified: true
 status: active
+sector:
+- AI voice
+- enterprise AI
+- AI agents
 ---
 
 # Bland AI

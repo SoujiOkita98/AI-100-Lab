@@ -5,7 +5,6 @@ headquarters: Menlo Park, California
 website: https://character.ai
 sector: Consumer AI / Conversational AI
 stage: Post-Series A (complicated by Google licensing deal)
-total_funding_raised: ~$193M (plus ~$2.7B in Google licensing/buyout payments)
 revenue_estimate: $32.2M (2024 actual); ~$50M projected for 2025
 employees: ~259 (as of February 2026)
 monthly_active_users: ~20M (late 2025); peak was ~28M (mid-2024)

@@ -1,5 +1,4 @@
 ---
-company_name: Sourcegraph
 founded: 2013
 headquarters: San Francisco, CA
 sector: AI-Powered Developer Tools

@@ -1,6 +1,5 @@
 ---
 name: Harmonic
-company: Harmonic
 founded: 2023
 headquarters: Palo Alto, CA, USA
 website: https://harmonic.fun

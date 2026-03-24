@@ -1,5 +1,4 @@
 ---
-company: Baseten
 founded: 2019
 headquarters: San Francisco, CA
 sector: AI Infrastructure / Cloud
@@ -8,14 +7,6 @@ website: https://www.baseten.co
 estimated_annual_revenue: ~$15.8M (2025 est.; see note below)
 employee_count_approx: ~150-190 (est. 2025-2026)
 status: Private
-tags:
-- AI inference
-- model serving
-- GPU infrastructure
-- open-source tooling
-- Truss
-- LLM infrastructure
-- model training
 founders:
 - name: Tuhin Srivastava
   role: Co-Founder & CEO

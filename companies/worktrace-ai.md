@@ -5,7 +5,6 @@ headquarters: San Francisco, CA
 website: https://www.worktrace.ai
 sector: AI Workflow Automation / Enterprise AI Agents
 status: Private (Seed)
-total_funding: ~$9-20M (seed round; reports vary)
 employee_count: ~30
 founders:
 - name: Angela Jiang

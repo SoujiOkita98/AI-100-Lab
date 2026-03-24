@@ -1,5 +1,4 @@
 ---
-company: Genesis Therapeutics
 sector: Biotech AI / Drug Discovery
 founded: 2019
 headquarters: Burlingame, CA

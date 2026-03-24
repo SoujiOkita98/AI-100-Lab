@@ -1,5 +1,4 @@
 ---
-company_name: DeepL
 website: https://www.deepl.com
 additional_offices:
 - London, UK

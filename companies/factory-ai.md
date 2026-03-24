@@ -1,12 +1,10 @@
 ---
-company_name: Factory
 founded: 2023
 headquarters: San Francisco, CA
 sector: AI-Powered Developer Tools
 sub_sector: Autonomous Software Development Agents
 website: https://factory.ai
 status: Private (Series B)
-total_funding: $70M
 employee_count: Undisclosed (estimated 30-60)
 key_investors:
 - NEA

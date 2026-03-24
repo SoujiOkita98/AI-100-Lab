@@ -8,14 +8,16 @@ one_liner: AI music editor that creates full-length songs from prompts, lyrics, 
 status: Active
 total_raised_m: 0.5
 founders:
-  - name: "Ryan Tremblay"
-    role: "Co-Founder"
-    background: "Cornell CS & History grad; spent 1.5 years researching music AI in collaboration with HarmonAI (Stability AI) and open-source researchers"
-    origin: "United States"
-  - name: "Hayden Housen"
-    role: "Co-Founder"
-    background: "Published at NeurIPS; authored one of the first open-source transformer summarization libraries; youngest ML engineer intern at unicorn Ada at age 18"
-    origin: "Canada"
+- name: Ryan Tremblay
+  role: Co-Founder
+  background: Cornell CS & History grad; spent 1.5 years researching music AI in collaboration with HarmonAI (Stability AI)
+    and open-source researchers
+  origin: United States
+- name: Hayden Housen
+  role: Co-Founder
+  background: Published at NeurIPS; authored one of the first open-source transformer summarization libraries; youngest ML
+    engineer intern at unicorn Ada at age 18
+  origin: Canada
 funding_rounds:
 - stage: Seed
   date: 2024-03
@@ -24,12 +26,6 @@ funding_rounds:
   - Y Combinator
 notable_investors:
 - Y Combinator
-tags:
-- ai-music
-- generative-ai
-- creative-tools
-- content-creation
-- yc-w24
 yc_batch: W24
 linkedin: https://www.linkedin.com/company/sonauto
 confidence: Low

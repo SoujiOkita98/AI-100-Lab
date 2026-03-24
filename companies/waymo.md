@@ -7,7 +7,6 @@ website: https://waymo.com
 product: Autonomous ride-hailing service (robotaxi) and autonomous driving technology
 sector: AI / Autonomous Vehicles / Robotics / Transportation
 stage: Late-stage (external funding round, Feb 2026)
-total_funding: $16B+ (latest round alone; total from Alphabet significantly more)
 status: Active, Subsidiary of Alphabet
 founders:
 - name: Sebastian Thrun

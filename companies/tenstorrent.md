@@ -1,10 +1,8 @@
 ---
-company: Tenstorrent
 founded: 2016
 headquarters: Toronto, Ontario, Canada (with offices in Austin, TX and Santa Clara, CA)
 sector: AI Hardware / Semiconductors / RISC-V IP Licensing
 stage: Growth (Series D+)
-total_funding: ~$1.18 billion (across 10 rounds)
 employees: ~400+ (estimate)
 website: https://tenstorrent.com
 founders:

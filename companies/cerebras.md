@@ -1,11 +1,8 @@
 ---
-company: Cerebras Systems
 founded: 2015
 headquarters: Sunnyvale, California, USA
 sector: AI Hardware / Semiconductors
 stage: Pre-IPO (targeting Q2 2026 IPO)
-latest_valuation: $23 billion (Series H, February 2026)
-total_funding: ~$4.3 billion (across 8 rounds)
 employees: ~500 (estimate; exact figure uncertain)
 website: https://www.cerebras.ai
 ticker_pending: CBRS (Nasdaq, planned)

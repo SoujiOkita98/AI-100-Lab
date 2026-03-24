@@ -1,5 +1,4 @@
 ---
-company_name: Hebbia
 website: https://www.hebbia.com
 sector: Enterprise AI / Knowledge Work (Finance, Legal, Government)
 founded: '2020'
@@ -8,7 +7,6 @@ founders:
 - name: George Sivulka
   role: Founder & CEO
   origin: American
-total_funding_raised: ~$161M
 arr_estimate: ~$25M (Sep 2025 estimate; see notes below)
 employee_count_estimate: ~140 (as of Jan 2026)
 status: Private

@@ -1,5 +1,4 @@
 ---
-company: Glean
 website: https://www.glean.com
 sector: Enterprise AI / AI-Powered Workplace Search & Agents
 founded: 2019

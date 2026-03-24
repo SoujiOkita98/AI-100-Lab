@@ -1,5 +1,4 @@
 ---
-company: Viz.ai
 one_liner: AI-powered care coordination platform with 50+ FDA-cleared algorithms that accelerate diagnosis and treatment across
   1,700+ hospitals.
 sector: Healthcare AI / Clinical Decision Support
@@ -7,7 +6,6 @@ founded: 2016
 headquarters: San Francisco, CA
 ceo: Chris Mansi, MD
 employees: ~325 (estimated, 2024)
-total_funding: ~$252M-$289M (sources vary)
 stage: Series D
 status: Private (unicorn)
 website: https://www.viz.ai

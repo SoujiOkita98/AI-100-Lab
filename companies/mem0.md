@@ -1,6 +1,5 @@
 ---
 name: Mem0
-company: Mem0
 founded: 2023
 headquarters: San Francisco, CA, USA
 website: https://mem0.ai

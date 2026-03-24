@@ -1,5 +1,4 @@
 ---
-company_name: Essential AI
 founded: 2023
 headquarters: San Francisco, CA
 website: https://www.essential.ai

@@ -23,12 +23,6 @@ key_investors:
 - Greenoaks
 revenue_arr: $82M ARR (July 2025)
 users: 1M+ developers; 350+ enterprise customers
-tags:
-- ai-coding
-- developer-tools
-- ide
-- acqui-hire
-- pivoted
 research_date: 2026-03-20
 funding_rounds:
 - stage: Series A

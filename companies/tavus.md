@@ -1,5 +1,4 @@
 ---
-company: Tavus
 website: https://www.tavus.io
 founded: 2021
 headquarters: San Francisco, CA
@@ -15,14 +14,7 @@ founders:
   origin: American
 employees: ~40
 sector: AI Video / Human Computing
-tags:
-- generative-ai
-- digital-avatars
-- conversational-ai
-- developer-platform
-- real-time-video
 yc_batch: S21
-total_funding: $64.2M
 latest_round: Series B
 latest_round_date: 2025-11-12
 latest_round_amount: $40M

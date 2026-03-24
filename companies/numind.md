@@ -1,5 +1,4 @@
 ---
-company: NuMind
 founded: 2022
 headquarters: San Francisco, CA
 website: https://www.numind.ai

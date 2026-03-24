@@ -1,5 +1,4 @@
 ---
-company: Adept AI
 founded: 2022
 headquarters: San Francisco, CA
 sector: AI Agents / Enterprise Automation

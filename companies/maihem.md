@@ -26,12 +26,6 @@ notable_investors:
 - 2100 Ventures
 - Accel
 - Andreessen Horowitz
-tags:
-- ai-testing
-- quality-assurance
-- conversational-ai
-- ai-safety
-- yc-w24
 yc_batch: W24
 linkedin: https://www.linkedin.com/company/maihem
 confidence: Medium

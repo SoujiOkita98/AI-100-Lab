@@ -1,5 +1,4 @@
 ---
-company: Replicate
 website: https://replicate.com
 founded: 2019
 headquarters: San Francisco, CA
@@ -14,20 +13,12 @@ founders:
   origin: Swedish
 yc_batch: W20
 status: Acquired by Cloudflare (announced November 17, 2025)
-total_funding: ~$58M
 last_valuation: $350M (post-Series B, Dec 2023)
 acquisition_price: $350M-$550M (estimated; terms not officially disclosed)
 employees: ~36 (pre-acquisition)
 users: 3.7M+ developers; 30,000+ paying customers (as of late 2023)
 revenue: $5.3M reported for 2024; 'tens of millions' by late 2025 per YC profile
 sector: AI Infrastructure / MLOps / Developer Tools
-tags:
-- AI
-- open-source
-- developer-tools
-- cloud-API
-- inference
-- MLOps
 last_updated: 2026-03-20
 one_liner: Cloud API platform that lets developers run open-source ML models with a single API call, eliminating the need
   to manage GPUs or infrastructure

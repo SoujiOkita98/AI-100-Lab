@@ -34,13 +34,6 @@ notable_investors:
 - Y Combinator
 - Nat Friedman
 - Daniel Gross
-tags:
-- robotics
-- humanoid-robots
-- open-source
-- 3d-printing
-- hardware
-- yc-w24
 yc_batch: W24
 linkedin: https://www.linkedin.com/company/kscale-labs
 confidence: High

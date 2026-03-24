@@ -1,5 +1,4 @@
 ---
-company: Charm Therapeutics
 sector: Biotech AI / Drug Discovery
 founded: 2021
 headquarters: London, UK

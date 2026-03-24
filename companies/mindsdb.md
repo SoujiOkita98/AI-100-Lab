@@ -1,6 +1,5 @@
 ---
 name: MindsDB
-company: MindsDB
 founded: 2017
 headquarters: San Francisco, CA, USA
 website: https://mindsdb.com

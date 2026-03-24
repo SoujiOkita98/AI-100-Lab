@@ -1,5 +1,4 @@
 ---
-company_name: Augment Code
 founded: 2022
 headquarters: Palo Alto, CA
 sector: AI-Powered Developer Tools

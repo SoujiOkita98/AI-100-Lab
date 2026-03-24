@@ -1,5 +1,4 @@
 ---
-company_name: Hugging Face
 founded: 2016
 headquarters: New York, NY, USA
 sector: Artificial Intelligence / Open-Source ML Platform

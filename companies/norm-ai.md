@@ -1,5 +1,4 @@
 ---
-company_name: Norm AI
 website: https://www.norm.ai
 sector: Regulatory Compliance AI / RegTech
 founded: 2023
@@ -8,7 +7,6 @@ founders:
 - name: John Nay
   role: CEO & Founder
   origin: American
-total_funding_raised: ~$140M+
 employee_count_estimate: ~100 (uncertain)
 status: Private
 last_updated: 2026-03-20

@@ -1,5 +1,4 @@
 ---
-company: WEKA
 founded: 2013
 headquarters: Campbell, California, USA
 sector: AI Data Infrastructure / High-Performance Storage

@@ -1,5 +1,4 @@
 ---
-company: Sanctuary AI
 founded: 2018
 headquarters: Vancouver, British Columbia, Canada
 address: 201 - 1825 Quebec Street, Vancouver, BC
@@ -74,12 +73,6 @@ competitors:
 - 1X Technologies
 - Apptronik (Apollo)
 - Boston Dynamics
-tags:
-- humanoid-robots
-- general-purpose-AI
-- embodied-AI
-- labor-automation
-- Canadian-AI
 last_updated: 2026-03-20
 confidence: Moderate — leadership transition and fundraise status post-mid-2025 are uncertain
 website_verified: true

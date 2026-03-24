@@ -5,7 +5,6 @@ headquarters: San Francisco, CA (originally Cambridge, MA)
 status: Acquired by Cisco (October 2024)
 acquisition_price_reported: ~$400M (unofficial; Cisco did not publicly confirm)
 sector: AI Security & Validation
-total_funding: ~$44M
 latest_round: Series B ($30M, December 2021)
 key_investors:
 - Tiger Global Management (Series B lead)

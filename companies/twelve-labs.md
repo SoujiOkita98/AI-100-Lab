@@ -1,19 +1,10 @@
 ---
-company: Twelve Labs
 website: https://www.twelvelabs.io
 sector: Multimodal AI / Video Understanding
 founded: 2021
 headquarters: San Francisco, CA (660 4th Street)
 headcount_estimate: ~73 (as of 2025-2026)
-total_funding: ~$107M across 5 rounds
 status: Private, growth-stage
-tags:
-- multimodal-ai
-- video-understanding
-- foundation-models
-- API-platform
-- computer-vision
-- NLP
 last_updated: 2026-03-20
 confidence: medium-high
 one_liner: Twelve Labs builds foundation models purpose-built for video understanding

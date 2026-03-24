@@ -1,5 +1,4 @@
 ---
-company: Fireworks AI
 founded: 2022
 headquarters: Redwood City, CA
 sector: AI Infrastructure
@@ -8,15 +7,6 @@ website: https://fireworks.ai
 estimated_annual_revenue: ~$130M ARR (May 2025 est., per Sacra)
 employee_count_approx: ~166 (Jan 2026)
 status: Private
-tags:
-- AI inference
-- compound AI
-- open-source models
-- PyTorch
-- LLM serving
-- fine-tuning
-- enterprise AI
-- model deployment
 last_updated: 2026-03-20
 funding_rounds:
 - stage: Series A

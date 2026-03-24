@@ -1,10 +1,8 @@
 ---
-company: Etched
 founded: 2022
 headquarters: Cupertino, California, USA
 sector: AI Hardware / Semiconductors (Inference ASICs)
 stage: Growth (Series B)
-total_funding: ~$625 million
 employees: ~50-100 (estimate)
 website: https://etched.com
 founders:

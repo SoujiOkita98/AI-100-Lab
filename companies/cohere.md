@@ -118,15 +118,6 @@ funding_rounds:
   - Nexxus Capital Management
   - AMD
   source: https://betakit.com/coheres-valuation-hits-7-billion-usd-following-100-million-round-extension/
-tags:
-- enterprise-ai
-- llm
-- nlp
-- transformer
-- canadian-ai
-- agentic-ai
-- data-sovereignty
-- rag
 one_liner: Cohere is a Toronto-headquartered enterprise AI company that builds large language models (LLMs) and AI platforms
   for business use
 linkedin: https://www.linkedin.com/company/cohere-ai

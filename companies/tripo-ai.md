@@ -17,17 +17,8 @@ founders:
   origin: Chinese
 team_size_estimate: ~50-100 (estimate)
 stage: Series A
-total_funding: ~$50M+
 estimated_valuation: Not publicly confirmed (likely $200-400M range)
 estimated_arr_2026: ~$12M ARR (as of late 2025)
-tags:
-- 3d-generation
-- generative-ai
-- text-to-3d
-- image-to-3d
-- gaming-ai
-- chinese-founders
-- tsinghua-affiliated
 last_updated: 2026-03-20
 one_liner: Tripo AI is an AI-powered platform for generating high-quality 3D models from text prompts or images in seconds
 website_verified: true

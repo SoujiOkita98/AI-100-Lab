@@ -24,12 +24,6 @@ notable_investors:
 - Y Combinator
 - HOF Capital
 - Pioneer Fund
-tags:
-- ai-recruiting
-- hr-tech
-- ai-interviewer
-- hiring
-- yc-w24
 yc_batch: W24
 linkedin: https://www.linkedin.com/company/apriora
 confidence: High
