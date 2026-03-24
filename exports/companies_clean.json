@@ -65,6 +65,49 @@
     ]
   },
   {
+    "slug": "10x-science",
+    "name": "10x Science",
+    "status": "active",
+    "founded_year": "2025",
+    "hq": "San Francisco, CA, USA",
+    "website": "https://10xscience.com",
+    "sector": "AI / Biotech / Protein Science",
+    "one_liner": "AI-native platform for next-generation protein characterization using frontier models with deep memory.",
+    "total_raised_m": 0.5,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-24",
+    "founders": [
+      {
+        "company_slug": "10x-science",
+        "name": "Unknown",
+        "role": "Co-Founder & CEO",
+        "background": "Computational biology and AI background.",
+        "origin": "Unknown",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "10x-science",
+        "stage": "Pre-Seed / YC",
+        "date": "2026-01",
+        "amount_m": 0.5,
+        "valuation_m": null,
+        "lead_investors": "Y Combinator",
+        "other_investors": "",
+        "source": "https://www.ycombinator.com/companies/10x-science",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
     "slug": "11x",
     "name": "11x",
     "status": "Private",
@@ -268,6 +311,57 @@
         "other_investors": "Unknown",
         "source": "https://techstartups.com/2025/09/24/norways-1x-raising-1b-at-10b-valuation-to-bring-humanoid-robot-neo-into-homes/",
         "notes": "UNCERTAINTY: The Information and other outlets reported in Sep 2025 that 1X was in talks to raise up to $1B. As of March 2026, I could not independently confirm this round closed or identify the final investors. Do not treat this as confirmed.\n"
+      }
+    ],
+    "top_investors": []
+  },
+  {
+    "slug": "21st",
+    "name": "21st (21st.dev)",
+    "status": "active",
+    "founded_year": "2024",
+    "hq": "San Francisco, CA, USA",
+    "website": "https://21st.dev",
+    "sector": "AI Infrastructure / Developer Tools",
+    "one_liner": "Orchestration layer and React component registry for building AI agent applications, with 1.4M developers.",
+    "total_raised_m": 0.5,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-24",
+    "founders": [
+      {
+        "company_slug": "21st",
+        "name": "Serafim Korablev",
+        "role": "Co-Founder & CEO",
+        "background": "Full-stack developer. Built multiple developer tools and open-source projects.",
+        "origin": "Russian",
+        "prior": ""
+      },
+      {
+        "company_slug": "21st",
+        "name": "Dmitry Slepov",
+        "role": "Co-Founder & CTO",
+        "background": "Software engineer with experience in frontend infrastructure and design systems.",
+        "origin": "Russian",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "21st",
+        "stage": "Pre-Seed / YC",
+        "date": "2026-01",
+        "amount_m": 0.5,
+        "valuation_m": null,
+        "lead_investors": "Y Combinator",
+        "other_investors": "",
+        "source": "https://www.ycombinator.com/companies/21st",
+        "notes": ""
       }
     ],
     "top_investors": []
@@ -592,6 +686,49 @@
         "other_investors": "",
         "source": "https://abnormal.ai/about/news/series-d-5b-valuation",
         "notes": "Greylock, Menlo Ventures, Insight Partners, and CrowdStrike Falcon Fund participated. Announced alongside crossing $200M ARR."
+      }
+    ],
+    "top_investors": []
+  },
+  {
+    "slug": "above-security",
+    "name": "Above Security",
+    "status": "active",
+    "founded_year": "2025",
+    "hq": "Tel Aviv, Israel",
+    "website": "https://www.above.security",
+    "sector": "cybersecurity; AI security; cloud security",
+    "one_liner": "Eight-month-old Israeli cybersecurity startup that raised $43M Series A with just 10 employees, building AI-native security operations for cloud environments.",
+    "total_raised_m": 43.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "low",
+    "last_updated": "2026-03-24",
+    "founders": [
+      {
+        "company_slug": "above-security",
+        "name": "undisclosed",
+        "role": "CEO",
+        "background": "Israeli cybersecurity veteran.",
+        "origin": "Israeli",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "above-security",
+        "stage": "Series A",
+        "date": "2026-03",
+        "amount_m": 43.0,
+        "valuation_m": null,
+        "lead_investors": "Merlin Ventures; Ballistic Ventures; Norwest Venture Partners",
+        "other_investors": "",
+        "source": "https://www.calcalistech.com/ctechnews/article/sjrecjr5wx",
+        "notes": "Raised with just 10 employees at eight months old."
       }
     ],
     "top_investors": []
@@ -2828,6 +2965,57 @@
     "top_investors": []
   },
   {
+    "slug": "altur",
+    "name": "Altur",
+    "status": "active",
+    "founded_year": "2025",
+    "hq": "San Francisco, CA",
+    "website": "https://altur.io",
+    "sector": "AI Voice / Debt Collection",
+    "one_liner": "Voice AI agents for debt collection. YC S25.",
+    "total_raised_m": 2.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "low",
+    "last_updated": "2026-03-24",
+    "founders": [
+      {
+        "company_slug": "altur",
+        "name": "Luis Olave",
+        "role": "Co-Founder",
+        "background": "YC S25 batch.",
+        "origin": "Latin American (inferred from name)",
+        "prior": ""
+      },
+      {
+        "company_slug": "altur",
+        "name": "Pedro Fernandez",
+        "role": "Co-Founder",
+        "background": "YC S25 batch.",
+        "origin": "Latin American (inferred from name)",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "altur",
+        "stage": "Seed",
+        "date": "2025-09",
+        "amount_m": 2.0,
+        "valuation_m": null,
+        "lead_investors": "Y Combinator",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
     "slug": "ambience-healthcare",
     "name": "Ambience Healthcare",
     "status": "Active, Private",
@@ -4510,6 +4698,49 @@
     ]
   },
   {
+    "slug": "april-ai",
+    "name": "April",
+    "status": "active",
+    "founded_year": "2025",
+    "hq": "San Francisco, CA",
+    "website": "https://tryapril.com",
+    "sector": "AI Productivity / Voice Assistant",
+    "one_liner": "Voice AI executive assistant for email and calendar management. YC S25.",
+    "total_raised_m": 2.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "low",
+    "last_updated": "2026-03-24",
+    "founders": [
+      {
+        "company_slug": "april-ai",
+        "name": "Unknown",
+        "role": "Co-Founder",
+        "background": "YC S25 batch.",
+        "origin": "Unknown",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "april-ai",
+        "stage": "Seed",
+        "date": "2025-09",
+        "amount_m": 2.0,
+        "valuation_m": null,
+        "lead_investors": "Y Combinator",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
     "slug": "apriora",
     "name": "Apriora",
     "status": "Active",
@@ -4794,6 +5025,49 @@
         "lead_investors": "IAG Capital Partners; Hitachi Ventures",
         "other_investors": "",
         "source": "https://www.businesswire.com/news/home/20251120000333/en/Archetype-AI-Raises-$35M-to-Scale-Deployment-of-Physical-Agents-to-Solve-Real-World-Problems",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
+    "slug": "arcline",
+    "name": "Arcline",
+    "status": "active",
+    "founded_year": "2025",
+    "hq": "San Francisco, CA, USA",
+    "website": "https://arcline.ai",
+    "sector": "AI / Legal",
+    "one_liner": "AI-native legal services for startups with elite lawyers and same-day turnaround, where AI does 80% of the work.",
+    "total_raised_m": 0.5,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-24",
+    "founders": [
+      {
+        "company_slug": "arcline",
+        "name": "Unknown",
+        "role": "Co-Founder & CEO",
+        "background": "Legal and AI background.",
+        "origin": "Unknown",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "arcline",
+        "stage": "Pre-Seed / YC",
+        "date": "2026-01",
+        "amount_m": 0.5,
+        "valuation_m": null,
+        "lead_investors": "Y Combinator",
+        "other_investors": "",
+        "source": "https://www.ycombinator.com/companies/arcline",
         "notes": ""
       }
     ],
@@ -5246,6 +5520,49 @@
         "lead_investors": "Undisclosed",
         "other_investors": "",
         "source": "",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
+    "slug": "asimov-robotics",
+    "name": "Asimov",
+    "status": "active",
+    "founded_year": "2025",
+    "hq": "San Francisco, CA, USA",
+    "website": "https://asimov.ai",
+    "sector": "AI / Robotics / Data",
+    "one_liner": "Internet-scale marketplace for robot training data, enabling robotics companies to source and share manipulation data.",
+    "total_raised_m": 0.5,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-24",
+    "founders": [
+      {
+        "company_slug": "asimov-robotics",
+        "name": "Unknown",
+        "role": "Co-Founder & CEO",
+        "background": "Robotics and data platform background.",
+        "origin": "Unknown",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "asimov-robotics",
+        "stage": "Pre-Seed / YC",
+        "date": "2026-01",
+        "amount_m": 0.5,
+        "valuation_m": null,
+        "lead_investors": "Y Combinator",
+        "other_investors": "",
+        "source": "https://www.ycombinator.com/companies/asimov",
         "notes": ""
       }
     ],
@@ -6183,6 +6500,100 @@
     "top_investors": []
   },
   {
+    "slug": "autumn-billing",
+    "name": "Autumn",
+    "status": "active",
+    "founded_year": "2025",
+    "hq": "San Francisco, CA",
+    "website": "https://useautumn.com",
+    "sector": "AI Infrastructure / Billing",
+    "one_liner": "Open-source billing infrastructure simplifying Stripe integration for AI startups. YC S25.",
+    "total_raised_m": 2.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "low",
+    "last_updated": "2026-03-24",
+    "founders": [
+      {
+        "company_slug": "autumn-billing",
+        "name": "Unknown",
+        "role": "Co-Founder",
+        "background": "YC S25 batch.",
+        "origin": "Unknown",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "autumn-billing",
+        "stage": "Seed",
+        "date": "2025-09",
+        "amount_m": 2.0,
+        "valuation_m": null,
+        "lead_investors": "Y Combinator",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
+    "slug": "avelis-health",
+    "name": "Avelis Health",
+    "status": "active",
+    "founded_year": "2025",
+    "hq": "San Francisco, CA",
+    "website": "https://avelishealth.com",
+    "sector": "AI Healthcare / Claims Auditing",
+    "one_liner": "AI auditing of medical claims for self-insured employers. YC S25.",
+    "total_raised_m": 2.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "low",
+    "last_updated": "2026-03-24",
+    "founders": [
+      {
+        "company_slug": "avelis-health",
+        "name": "Angel Onuoha",
+        "role": "Co-Founder",
+        "background": "YC S25 batch.",
+        "origin": "Nigerian (inferred from name)",
+        "prior": ""
+      },
+      {
+        "company_slug": "avelis-health",
+        "name": "Ahmad Shehu",
+        "role": "Co-Founder",
+        "background": "YC S25 batch.",
+        "origin": "Nigerian (inferred from name)",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "avelis-health",
+        "stage": "Seed",
+        "date": "2025-09",
+        "amount_m": 2.0,
+        "valuation_m": null,
+        "lead_investors": "Y Combinator",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
     "slug": "avride",
     "name": "Avride",
     "status": "active",
@@ -6410,6 +6821,79 @@
         "other_investors": "",
         "source": "https://siliconangle.com/2026/03/12/verifiable-ai-startup-axiom-raises-200m-prove-ai-generated-code-safe-use/",
         "notes": "Existing investors Madrona, Greycroft, B Capital, Toyota Ventures, and Triatomic Capital also participated. Valuation jumped 5x from seed in under 6 months."
+      }
+    ],
+    "top_investors": []
+  },
+  {
+    "slug": "axiom-math",
+    "name": "Axiom Math",
+    "status": "active",
+    "founded_year": "2024",
+    "hq": "San Francisco, CA",
+    "website": "https://axiom.ai",
+    "sector": "AI safety; formal verification; developer tools",
+    "one_liner": "AI startup building systems that generate formally verified code using mathematical proofs, ensuring AI-generated software is provably correct.",
+    "total_raised_m": 264.0,
+    "latest_valuation_m": 1600.0,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "high",
+    "last_updated": "2026-03-24",
+    "founders": [
+      {
+        "company_slug": "axiom-math",
+        "name": "Carina Hong",
+        "role": "CEO & Founder",
+        "background": "Morgan Prize winner, Rhodes Scholar, Stanford PhD dropout. Pioneer in applying formal verification to AI-generated code.",
+        "origin": "American",
+        "prior": ""
+      },
+      {
+        "company_slug": "axiom-math",
+        "name": "Shubho Sengupta",
+        "role": "CTO",
+        "background": "Led Meta's AI supercluster and CrypTen secure ML project.",
+        "origin": "Indian-American",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "axiom-math",
+        "stage": "Seed",
+        "date": "2025-06",
+        "amount_m": 50.0,
+        "valuation_m": 300.0,
+        "lead_investors": "Spark Capital",
+        "other_investors": "",
+        "source": "https://techstartups.com/2025/06/04/stanford-math-phd-students-ai-startup-axiom-raises-50m-at-300-million-valuation/",
+        "notes": ""
+      },
+      {
+        "company_slug": "axiom-math",
+        "stage": "Seed (extension)",
+        "date": "2025-10",
+        "amount_m": 14.0,
+        "valuation_m": null,
+        "lead_investors": "Greycroft",
+        "other_investors": "",
+        "source": "https://siliconangle.com/2025/10/02/ai-startup-axiom-gets-64m-develop-new-knowledge-advanced-mathematics/",
+        "notes": "Brought total seed to $64M. Axiom's deterministic AI achieved a perfect score on the Putnam Competition in December 2025."
+      },
+      {
+        "company_slug": "axiom-math",
+        "stage": "Series A",
+        "date": "2026-03",
+        "amount_m": 200.0,
+        "valuation_m": 1600.0,
+        "lead_investors": "Menlo Ventures",
+        "other_investors": "",
+        "source": "https://siliconangle.com/2026/03/12/verifiable-ai-startup-axiom-raises-200m-prove-ai-generated-code-safe-use/",
+        "notes": "Joined by Madrona, Greycroft, B Capital and Toyota Ventures."
       }
     ],
     "top_investors": []
@@ -6940,6 +7424,60 @@
         "lead_investors": "Accel; GV",
         "other_investors": "",
         "source": "https://www.bloomberg.com/news/articles/2026-02-24/",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
+    "slug": "beacon-health",
+    "name": "Beacon Health",
+    "status": "active",
+    "founded_year": "2025",
+    "hq": "San Francisco, CA, USA",
+    "website": "https://beaconhealth.ai",
+    "sector": "AI / Healthcare",
+    "one_liner": "AI agents for primary care that automate clinical workflows and patient management.",
+    "total_raised_m": 5.9,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-24",
+    "founders": [
+      {
+        "company_slug": "beacon-health",
+        "name": "Unknown",
+        "role": "Co-Founder & CEO",
+        "background": "Healthcare and AI background.",
+        "origin": "Unknown",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "beacon-health",
+        "stage": "Seed",
+        "date": 2025,
+        "amount_m": 5.4,
+        "valuation_m": null,
+        "lead_investors": "Accel",
+        "other_investors": "",
+        "source": "https://www.thevccorner.com/p/yc-w26-batch-complete-company-database",
+        "notes": ""
+      },
+      {
+        "company_slug": "beacon-health",
+        "stage": "YC W26",
+        "date": "2026-01",
+        "amount_m": 0.5,
+        "valuation_m": null,
+        "lead_investors": "Y Combinator",
+        "other_investors": "",
+        "source": "https://www.ycombinator.com/companies/beacon-health",
         "notes": ""
       }
     ],
@@ -7620,6 +8158,57 @@
     "top_investors": []
   },
   {
+    "slug": "blue-voice",
+    "name": "Blue",
+    "status": "active",
+    "founded_year": "2025",
+    "hq": "San Francisco, CA",
+    "website": "https://heyblue.com",
+    "sector": "AI Consumer / Voice Assistant",
+    "one_liner": "The first voice assistant that can control every app on your iPhone. YC S25.",
+    "total_raised_m": 2.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "low",
+    "last_updated": "2026-03-24",
+    "founders": [
+      {
+        "company_slug": "blue-voice",
+        "name": "Omar Abdelaziz",
+        "role": "Co-Founder",
+        "background": "YC S25 batch.",
+        "origin": "Egyptian (inferred from name)",
+        "prior": ""
+      },
+      {
+        "company_slug": "blue-voice",
+        "name": "Farhan Hossain",
+        "role": "Co-Founder",
+        "background": "YC S25 batch.",
+        "origin": "Bangladeshi (inferred from name)",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "blue-voice",
+        "stage": "Seed",
+        "date": "2025-09",
+        "amount_m": 2.0,
+        "valuation_m": null,
+        "lead_investors": "Y Combinator",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
     "slug": "blue-water-autonomy",
     "name": "Blue Water Autonomy",
     "status": "active",
@@ -7913,6 +8502,57 @@
         "lead_investors": "Third Prime; Kolon Group",
         "other_investors": "",
         "source": "https://techcrunch.com/2025/11/17/bone-ai-raises-funding/",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
+    "slug": "bootloop",
+    "name": "BootLoop",
+    "status": "active",
+    "founded_year": "2025",
+    "hq": "San Francisco, CA",
+    "website": "https://bootloop.ai",
+    "sector": "AI DevTools / Firmware",
+    "one_liner": "Firmware in minutes, not months \u2014 tested on real hardware. YC S25.",
+    "total_raised_m": 2.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "low",
+    "last_updated": "2026-03-24",
+    "founders": [
+      {
+        "company_slug": "bootloop",
+        "name": "Noah Pacik-Nelson",
+        "role": "Co-Founder",
+        "background": "YC S25 batch.",
+        "origin": "Unknown",
+        "prior": ""
+      },
+      {
+        "company_slug": "bootloop",
+        "name": "Chris Markus",
+        "role": "Co-Founder",
+        "background": "YC S25 batch.",
+        "origin": "Unknown",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "bootloop",
+        "stage": "Seed",
+        "date": "2025-09",
+        "amount_m": 2.0,
+        "valuation_m": null,
+        "lead_investors": "Y Combinator",
+        "other_investors": "",
+        "source": "",
         "notes": ""
       }
     ],
@@ -9222,6 +9862,49 @@
     "top_investors": []
   },
   {
+    "slug": "cardinal-ai",
+    "name": "Cardinal",
+    "status": "active",
+    "founded_year": "2025",
+    "hq": "San Francisco, CA, USA",
+    "website": "https://cardinal.ai",
+    "sector": "AI / Sales & Marketing",
+    "one_liner": "AI platform for precision outbound sales, with 40+ YC companies as paying customers.",
+    "total_raised_m": 0.5,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-24",
+    "founders": [
+      {
+        "company_slug": "cardinal-ai",
+        "name": "Unknown",
+        "role": "Co-Founder & CEO",
+        "background": "2x YC alumni. Sales technology background.",
+        "origin": "Unknown",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "cardinal-ai",
+        "stage": "Pre-Seed / YC",
+        "date": "2026-01",
+        "amount_m": 0.5,
+        "valuation_m": null,
+        "lead_investors": "Y Combinator",
+        "other_investors": "",
+        "source": "https://www.ycombinator.com/companies/cardinal",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
     "slug": "carefam",
     "name": "Carefam",
     "status": "active",
@@ -9268,6 +9951,65 @@
         "other_investors": "",
         "source": "https://www.calcalistech.com/ctechnews/article/h1hd004eq11g",
         "notes": "Emerged from stealth in March 2026. Earlier round backed by Emerge. Platform shows 900% growth in one year with hundreds of US healthcare providers already onboard."
+      }
+    ],
+    "top_investors": []
+  },
+  {
+    "slug": "careswift",
+    "name": "CareSwift",
+    "status": "active",
+    "founded_year": "2025",
+    "hq": "San Francisco, CA",
+    "website": "https://careswift.ai",
+    "sector": "AI Healthcare / EMS",
+    "one_liner": "AI scribe for ambulance reports. YC S25.",
+    "total_raised_m": 2.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "low",
+    "last_updated": "2026-03-24",
+    "founders": [
+      {
+        "company_slug": "careswift",
+        "name": "Brian Weigand",
+        "role": "Co-Founder",
+        "background": "YC S25 batch.",
+        "origin": "Unknown",
+        "prior": ""
+      },
+      {
+        "company_slug": "careswift",
+        "name": "Jonathan Zero",
+        "role": "Co-Founder",
+        "background": "YC S25 batch.",
+        "origin": "Unknown",
+        "prior": ""
+      },
+      {
+        "company_slug": "careswift",
+        "name": "John Paul Mussalli",
+        "role": "Co-Founder",
+        "background": "YC S25 batch.",
+        "origin": "Unknown",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "careswift",
+        "stage": "Seed",
+        "date": "2025-09",
+        "amount_m": 2.0,
+        "valuation_m": null,
+        "lead_investors": "Y Combinator",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
       }
     ],
     "top_investors": []
@@ -9416,6 +10158,92 @@
         "other_investors": "",
         "source": "https://www.prnewswire.com/news-releases/ai-native-loan-origination-platform-casca-raises-29-million-to-replace-legacy-lending-302533000.html",
         "notes": "Participation from major bank customers including Live Oak Bank, Huntington National Bank, and Bankwell, plus Y Combinator and Peterson Ventures. Bank customers investing in the company signals strong product-market fit."
+      }
+    ],
+    "top_investors": []
+  },
+  {
+    "slug": "cascade-ai",
+    "name": "Cascade",
+    "status": "active",
+    "founded_year": "2025",
+    "hq": "San Francisco, CA, USA",
+    "website": "https://cascade.ai",
+    "sector": "AI Safety / Agent Security",
+    "one_liner": "Making autonomous AI intelligence safe and reliable with guardrails and governance for AI agents.",
+    "total_raised_m": 0.5,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-24",
+    "founders": [
+      {
+        "company_slug": "cascade-ai",
+        "name": "Unknown",
+        "role": "Co-Founder & CEO",
+        "background": "AI safety and security background.",
+        "origin": "Unknown",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "cascade-ai",
+        "stage": "Pre-Seed / YC",
+        "date": "2026-01",
+        "amount_m": 0.5,
+        "valuation_m": null,
+        "lead_investors": "Y Combinator",
+        "other_investors": "",
+        "source": "https://www.ycombinator.com/companies/cascade",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
+    "slug": "castari",
+    "name": "Castari",
+    "status": "active",
+    "founded_year": "2025",
+    "hq": "San Francisco, CA, USA",
+    "website": "https://castari.dev",
+    "sector": "AI Infrastructure / Agent Deployment",
+    "one_liner": "Deploy AI agents in secure, autoscaling sandboxes with one command, with tool/MCP connectors and observability.",
+    "total_raised_m": 0.5,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-24",
+    "founders": [
+      {
+        "company_slug": "castari",
+        "name": "Unknown",
+        "role": "Co-Founder & CEO",
+        "background": "Cloud infrastructure and AI background.",
+        "origin": "Unknown",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "castari",
+        "stage": "Pre-Seed / YC",
+        "date": "2026-01",
+        "amount_m": 0.5,
+        "valuation_m": null,
+        "lead_investors": "Y Combinator",
+        "other_investors": "",
+        "source": "https://www.ycombinator.com/companies/castari",
+        "notes": ""
       }
     ],
     "top_investors": []
@@ -9829,6 +10657,49 @@
         "lead_investors": "Tiger Global",
         "other_investors": "",
         "source": "https://www.cerebras.ai/press-release/cerebras-systems-raises-usd1-billion-series-h",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
+    "slug": "certus-ai",
+    "name": "Certus AI",
+    "status": "active",
+    "founded_year": "2025",
+    "hq": "San Francisco, CA",
+    "website": "https://certus-ai.com",
+    "sector": "AI Voice / Restaurant",
+    "one_liner": "Replacing the restaurant phone line with voice AI. YC S25.",
+    "total_raised_m": 2.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "low",
+    "last_updated": "2026-03-24",
+    "founders": [
+      {
+        "company_slug": "certus-ai",
+        "name": "Gurveer Singh",
+        "role": "Founder",
+        "background": "YC S25 batch.",
+        "origin": "Indian (inferred from name)",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "certus-ai",
+        "stage": "Seed",
+        "date": "2025-09",
+        "amount_m": 2.0,
+        "valuation_m": null,
+        "lead_investors": "Y Combinator",
+        "other_investors": "",
+        "source": "",
         "notes": ""
       }
     ],
@@ -10557,6 +11428,49 @@
     "top_investors": []
   },
   {
+    "slug": "clam",
+    "name": "Clam",
+    "status": "active",
+    "founded_year": "2025",
+    "hq": "San Francisco, CA, USA",
+    "website": "https://clam.dev",
+    "sector": "AI Security / Agent Infrastructure",
+    "one_liner": "Enterprise-grade security for broad-access AI agents, solving identity, access control, and audit for agents.",
+    "total_raised_m": 0.5,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-24",
+    "founders": [
+      {
+        "company_slug": "clam",
+        "name": "Unknown",
+        "role": "Co-Founder & CEO",
+        "background": "Enterprise security and AI background.",
+        "origin": "Unknown",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "clam",
+        "stage": "Pre-Seed / YC",
+        "date": "2026-01",
+        "amount_m": 0.5,
+        "valuation_m": null,
+        "lead_investors": "Y Combinator",
+        "other_investors": "",
+        "source": "https://www.ycombinator.com/companies/clam",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
     "slug": "clarify-ai",
     "name": "Clarify",
     "status": "active",
@@ -10849,6 +11763,65 @@
     "top_investors": []
   },
   {
+    "slug": "clodo",
+    "name": "Clodo",
+    "status": "active",
+    "founded_year": "2025",
+    "hq": "San Francisco, CA",
+    "website": "https://clodo.ai",
+    "sector": "AI Real Estate",
+    "one_liner": "The AI real estate agent. YC S25.",
+    "total_raised_m": 2.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "low",
+    "last_updated": "2026-03-24",
+    "founders": [
+      {
+        "company_slug": "clodo",
+        "name": "Sid Rajaram",
+        "role": "Co-Founder",
+        "background": "YC S25 batch.",
+        "origin": "Indian (inferred from name)",
+        "prior": ""
+      },
+      {
+        "company_slug": "clodo",
+        "name": "Arnav Verma",
+        "role": "Co-Founder",
+        "background": "YC S25 batch.",
+        "origin": "Indian (inferred from name)",
+        "prior": ""
+      },
+      {
+        "company_slug": "clodo",
+        "name": "Rithvik Chuppala",
+        "role": "Co-Founder",
+        "background": "YC S25 batch.",
+        "origin": "Indian (inferred from name)",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "clodo",
+        "stage": "Seed",
+        "date": "2025-09",
+        "amount_m": 2.0,
+        "valuation_m": null,
+        "lead_investors": "Y Combinator",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
     "slug": "coactive-ai",
     "name": "Coactive AI",
     "status": "Active, Private",
@@ -10916,6 +11889,65 @@
         "lead_investors": "Cherryrock Capital; Emerson Collective",
         "other_investors": "",
         "source": "https://www.coactive.ai/blog/series-b",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
+    "slug": "cocreate-ai",
+    "name": "CoCreate",
+    "status": "active",
+    "founded_year": "2025",
+    "hq": "San Francisco, CA",
+    "website": "https://cocreate.so",
+    "sector": "AI Video / Post-Production",
+    "one_liner": "AI-native video production software automating post-production. YC S25.",
+    "total_raised_m": 2.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "low",
+    "last_updated": "2026-03-24",
+    "founders": [
+      {
+        "company_slug": "cocreate-ai",
+        "name": "Nicki Farag",
+        "role": "Co-Founder",
+        "background": "YC S25 batch.",
+        "origin": "Unknown",
+        "prior": ""
+      },
+      {
+        "company_slug": "cocreate-ai",
+        "name": "Tamish Pulappadi",
+        "role": "Co-Founder",
+        "background": "YC S25 batch.",
+        "origin": "Indian (inferred from name)",
+        "prior": ""
+      },
+      {
+        "company_slug": "cocreate-ai",
+        "name": "Dan Roe",
+        "role": "Co-Founder",
+        "background": "YC S25 batch.",
+        "origin": "Unknown",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "cocreate-ai",
+        "stage": "Seed",
+        "date": "2025-09",
+        "amount_m": 2.0,
+        "valuation_m": null,
+        "lead_investors": "Y Combinator",
+        "other_investors": "",
+        "source": "",
         "notes": ""
       }
     ],
@@ -11473,6 +12505,57 @@
     "top_investors": []
   },
   {
+    "slug": "comena",
+    "name": "Comena",
+    "status": "active",
+    "founded_year": "2025",
+    "hq": "San Francisco, CA",
+    "website": "https://comena.ai",
+    "sector": "AI Supply Chain / Order Automation",
+    "one_liner": "AI agents for distributors and manufacturers to automate order entry. YC S25.",
+    "total_raised_m": 2.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "low",
+    "last_updated": "2026-03-24",
+    "founders": [
+      {
+        "company_slug": "comena",
+        "name": "Jiehua Wu",
+        "role": "Co-Founder",
+        "background": "YC S25 batch.",
+        "origin": "Chinese (inferred from name)",
+        "prior": ""
+      },
+      {
+        "company_slug": "comena",
+        "name": "Almo Sutedjo",
+        "role": "Co-Founder",
+        "background": "YC S25 batch.",
+        "origin": "Indonesian (inferred from name)",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "comena",
+        "stage": "Seed",
+        "date": "2025-09",
+        "amount_m": 2.0,
+        "valuation_m": null,
+        "lead_investors": "Y Combinator",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
     "slug": "composio",
     "name": "Composio",
     "status": "active",
@@ -11869,6 +12952,57 @@
         "amount_m": 25.0,
         "valuation_m": null,
         "lead_investors": "Bessemer Venture Partners",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
+    "slug": "convexia",
+    "name": "Convexia",
+    "status": "active",
+    "founded_year": "2025",
+    "hq": "San Francisco, CA",
+    "website": "https://convexia.bio",
+    "sector": "AI Drug Discovery / Pharma",
+    "one_liner": "The world's first AI-maximalist pharma company. YC S25.",
+    "total_raised_m": 2.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "low",
+    "last_updated": "2026-03-24",
+    "founders": [
+      {
+        "company_slug": "convexia",
+        "name": "Ayaan Parikh",
+        "role": "Co-Founder",
+        "background": "YC S25 batch.",
+        "origin": "Indian (inferred from name)",
+        "prior": ""
+      },
+      {
+        "company_slug": "convexia",
+        "name": "David Lozano",
+        "role": "Co-Founder",
+        "background": "YC S25 batch.",
+        "origin": "Hispanic (inferred from name)",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "convexia",
+        "stage": "Seed",
+        "date": "2025-09",
+        "amount_m": 2.0,
+        "valuation_m": null,
+        "lead_investors": "Y Combinator",
         "other_investors": "",
         "source": "",
         "notes": ""
@@ -13376,24 +14510,24 @@
         "company_slug": "cykel",
         "name": "Jonathan Bixby",
         "role": "Co-Founder",
-        "background": "",
-        "origin": "",
+        "background": "Serial entrepreneur and angel investor; raised over $500M in VC and created $3B+ in market cap across startups in healthcare, gaming, and fintech; founder/investor in Argo Blockchain, Guild Esports, and Cellular Goods (all LSE-listed); CEO of Strangeloop Networks (sold to Radware, 2013); UBC alumnus",
+        "origin": "Canada",
         "prior": ""
       },
       {
         "company_slug": "cykel",
         "name": "Ewan Collinge",
         "role": "Co-Founder & CEO",
-        "background": "",
-        "origin": "",
+        "background": "Entrepreneur and technologist; founded Crowdform, a venture studio (UK, Brazil, Canada, Singapore) that built products for 75+ startups and companies like Shell, Sony, and Red Bull; two successful exits including Ora Technology PLC and Kondor AI PLC; BA in PPE from University of Manchester",
+        "origin": "United Kingdom",
         "prior": ""
       },
       {
         "company_slug": "cykel",
         "name": "Leo Mercier",
         "role": "Co-Founder",
-        "background": "",
-        "origin": "",
+        "background": "Entrepreneur and technologist; technical lead at Crowdform building products for startups and global brands; led product development for 20+ ventures including Helix Payments, Ora Technology PLC, and MetaKit; built global engineering teams across financial exchanges, marketplaces, gaming, and AI",
+        "origin": "United Kingdom",
         "prior": ""
       }
     ],
@@ -13559,16 +14693,16 @@
         "company_slug": "dart",
         "name": "Milad Malek",
         "role": "Co-Founder",
-        "background": "",
-        "origin": "",
+        "background": "BS in Physics from Stanford; former Senior Ventures Associate at Plug and Play Ventures (2018-2021) leading the Smart Cities vertical focused on energy and sustainability",
+        "origin": "United States",
         "prior": ""
       },
       {
         "company_slug": "dart",
         "name": "Zack Swafford",
         "role": "Co-Founder",
-        "background": "",
-        "origin": "",
+        "background": "BS and MS in Computer Science (AI specialization) from Stanford; first engineer at Plenty (indoor farming), later led software engineering there; co-founded Atch; AI/ML/CV consulting; taught at Stanford; investor at Plug and Play Ventures",
+        "origin": "United States",
         "prior": ""
       }
     ],
@@ -14046,16 +15180,16 @@
         "company_slug": "datapeople",
         "name": "Amit Bhatia",
         "role": "Co-Founder",
-        "background": "",
-        "origin": "",
+        "background": "B.A.Sc. in Computer Engineering from Nanyang Technological University; MBA in Finance from UCLA; former Executive Director at Morgan Stanley (media investment banking); Citigroup Management Associate; early career in software engineering at Infineon and NCS Group in Singapore",
+        "origin": "India / Singapore",
         "prior": ""
       },
       {
         "company_slug": "datapeople",
         "name": "Phillip Reyland",
         "role": "Co-Founder",
-        "background": "",
-        "origin": "",
+        "background": "Founded and led The Byte Dept as Managing Director; co-founded TapRecruit; bootstrapped Datapeople for several years while building proprietary recruiting language analytics, analyzing job postings from 40,000+ companies",
+        "origin": "United States",
         "prior": ""
       }
     ],
@@ -14429,6 +15563,49 @@
     "top_investors": []
   },
   {
+    "slug": "dedalus-labs",
+    "name": "Dedalus Labs",
+    "status": "active",
+    "founded_year": "2025",
+    "hq": "San Francisco, CA",
+    "website": "https://dedaluslabs.com",
+    "sector": "AI Infrastructure / Agent Deployment",
+    "one_liner": "Vercel for AI agents \u2014 automates infrastructure for building and deploying AI agents. YC S25.",
+    "total_raised_m": 2.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "low",
+    "last_updated": "2026-03-24",
+    "founders": [
+      {
+        "company_slug": "dedalus-labs",
+        "name": "Unknown",
+        "role": "Co-Founder",
+        "background": "YC S25 batch.",
+        "origin": "Unknown",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "dedalus-labs",
+        "stage": "Seed",
+        "date": "2025-09",
+        "amount_m": 2.0,
+        "valuation_m": null,
+        "lead_investors": "Y Combinator",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
     "slug": "deep-robotics",
     "name": "DEEP Robotics",
     "status": "active",
@@ -14474,6 +15651,49 @@
         "lead_investors": "CMB International; China Asset Management",
         "other_investors": "",
         "source": "https://pandaily.com/deep-robotics-secures-over-usd-70-million-in-series-c-funding-to-advance-system-level-embodied-intelligence",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
+    "slug": "deepaware-ai",
+    "name": "DeepAware AI",
+    "status": "active",
+    "founded_year": "2025",
+    "hq": "San Francisco, CA",
+    "website": "https://deepawareai.com",
+    "sector": "AI Infrastructure / Data Center Optimization",
+    "one_liner": "Help AI data centers unlock more compute and become more efficient. YC S25.",
+    "total_raised_m": 2.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "low",
+    "last_updated": "2026-03-24",
+    "founders": [
+      {
+        "company_slug": "deepaware-ai",
+        "name": "Unknown",
+        "role": "Co-Founder",
+        "background": "YC S25 batch.",
+        "origin": "Unknown",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "deepaware-ai",
+        "stage": "Seed",
+        "date": "2025-09",
+        "amount_m": 2.0,
+        "valuation_m": null,
+        "lead_investors": "Y Combinator",
+        "other_investors": "",
+        "source": "",
         "notes": ""
       }
     ],
@@ -15114,6 +16334,49 @@
     ]
   },
   {
+    "slug": "design-arena",
+    "name": "Design Arena",
+    "status": "active",
+    "founded_year": "2025",
+    "hq": "San Francisco, CA",
+    "website": "https://designarena.ai",
+    "sector": "AI Design / Benchmarking",
+    "one_liner": "Crowdsourced head-to-head AI benchmark for aesthetics and design quality. YC S25.",
+    "total_raised_m": 2.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "low",
+    "last_updated": "2026-03-24",
+    "founders": [
+      {
+        "company_slug": "design-arena",
+        "name": "Unknown",
+        "role": "Co-Founder",
+        "background": "YC S25 batch.",
+        "origin": "Unknown",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "design-arena",
+        "stage": "Seed",
+        "date": "2025-09",
+        "amount_m": 2.0,
+        "valuation_m": null,
+        "lead_investors": "Y Combinator",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
     "slug": "dev-agents",
     "name": "/dev/agents",
     "status": "active",
@@ -15241,24 +16504,24 @@
         "company_slug": "diesel-labs",
         "name": "Anjali Midha",
         "role": "Co-Founder & CEO",
-        "background": "",
-        "origin": "",
+        "background": "MBA from MIT Sloan; BA from Tufts University; former Global Media & Agency Research Director at Twitter (joined via Bluefin Labs acquisition); VP Professional Services & Analytics at Bluefin Labs (MIT Media Lab spin-out pioneering Social TV analytics)",
+        "origin": "United States",
         "prior": ""
       },
       {
         "company_slug": "diesel-labs",
         "name": "Michael Fleischman",
         "role": "Co-Founder",
-        "background": "",
-        "origin": "",
+        "background": "PhD in Computer Science from MIT; co-founded Bluefin Labs (social TV analytics, acquired by Twitter); currently CTO and Co-Founder at OpenSpace (construction AI); expertise in AI, NLP, and machine learning",
+        "origin": "United States",
         "prior": ""
       },
       {
         "company_slug": "diesel-labs",
         "name": "Russell Stevens",
         "role": "Co-Founder",
-        "background": "",
-        "origin": "",
+        "background": "BA in Government from Dartmouth College; Master of Public Policy from Harvard Kennedy School; Head of Programs at MIT Center for Constructive Communication; Managing Partner at Saddle River Group; co-founded Cortico; former Partner at Ss+k marketing agency",
+        "origin": "United States",
         "prior": ""
       }
     ],
@@ -15451,6 +16714,68 @@
         "other_investors": "",
         "source": "https://www.globenewswire.com/news-release/2026/02/03/3231154/0/en/Ditto-raises-9-2M-to-replace-swiping-with-real-dates-for-college-students.html",
         "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
+    "slug": "doctronic",
+    "name": "Doctronic",
+    "status": "active",
+    "founded_year": "2023",
+    "hq": "New York, NY",
+    "website": "https://www.doctronic.com",
+    "sector": "AI healthcare; telehealth; autonomous medicine",
+    "one_liner": "AI doctor platform that autonomously triages patients and, in a U.S. first, legally renews prescriptions for chronic conditions without a human physician.",
+    "total_raised_m": 65.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": "Consumer telehealth -- $39 per visit. AI chatbot triages patients before transferring to clinician for diagnosis and treatment.",
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "high",
+    "last_updated": "2026-03-24",
+    "founders": [
+      {
+        "company_slug": "doctronic",
+        "name": "Matt Pavelle",
+        "role": "Co-Founder & CEO",
+        "background": "Repeat founder. Carnegie Mellon computer science graduate.",
+        "origin": "American",
+        "prior": ""
+      },
+      {
+        "company_slug": "doctronic",
+        "name": "Dr. Adam Oskowitz",
+        "role": "Co-Founder",
+        "background": "Medical doctor providing clinical oversight for the platform.",
+        "origin": "American",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "doctronic",
+        "stage": "Series A",
+        "date": "2025-06",
+        "amount_m": 20.0,
+        "valuation_m": null,
+        "lead_investors": "Union Square Ventures",
+        "other_investors": "",
+        "source": "https://www.finsmes.com/2026/03/doctronic-raises-40m-in-series-b-funding.html",
+        "notes": ""
+      },
+      {
+        "company_slug": "doctronic",
+        "stage": "Series B",
+        "date": "2026-03",
+        "amount_m": 40.0,
+        "valuation_m": null,
+        "lead_investors": "Abstract; Lightspeed Venture Partners",
+        "other_investors": "",
+        "source": "https://www.statnews.com/2026/03/23/ai-doctor-startup-doctronic-raises-40-million/",
+        "notes": "Participation from Seven Stars, Union Square Ventures, Tusk Ventures, and Mantis. Three rounds in under a year."
       }
     ],
     "top_investors": []
@@ -16457,6 +17782,57 @@
     "top_investors": []
   },
   {
+    "slug": "embedder",
+    "name": "Embedder",
+    "status": "active",
+    "founded_year": "2025",
+    "hq": "San Francisco, CA",
+    "website": "https://embedder.dev",
+    "sector": "AI DevTools / Embedded Software",
+    "one_liner": "Claude Code for embedded software and firmware. YC S25.",
+    "total_raised_m": 2.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "low",
+    "last_updated": "2026-03-24",
+    "founders": [
+      {
+        "company_slug": "embedder",
+        "name": "Ethan Gibbs",
+        "role": "Co-Founder",
+        "background": "YC S25 batch.",
+        "origin": "Unknown",
+        "prior": ""
+      },
+      {
+        "company_slug": "embedder",
+        "name": "Bob Wei",
+        "role": "Co-Founder",
+        "background": "YC S25 batch.",
+        "origin": "Chinese-American (inferred from name)",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "embedder",
+        "stage": "Seed",
+        "date": "2025-09",
+        "amount_m": 2.0,
+        "valuation_m": null,
+        "lead_investors": "Y Combinator",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
     "slug": "emerald-ai",
     "name": "Emerald AI",
     "status": "active",
@@ -16912,17 +18288,17 @@
       {
         "company_slug": "ensemble",
         "name": "Alex Reneau",
-        "role": "Co-Founder",
-        "background": "",
-        "origin": "",
+        "role": "Co-Founder & CEO",
+        "background": "PhD research at Northwestern University on programmable feature engineering for time series modeling; published multiple papers defining the field; research directly informed Ensemble's \"Dark Matter\" technology",
+        "origin": "United States",
         "prior": ""
       },
       {
         "company_slug": "ensemble",
         "name": "Zach Albertson",
-        "role": "Co-Founder",
-        "background": "",
-        "origin": "",
+        "role": "Co-Founder & COO",
+        "background": "Northwestern University; AI/ML consulting experience where he saw firsthand the challenges enterprises face implementing machine learning; practical background in data science and traditional ML",
+        "origin": "United States",
         "prior": ""
       }
     ],
@@ -17141,6 +18517,49 @@
     "top_investors": []
   },
   {
+    "slug": "envariant",
+    "name": "Envariant",
+    "status": "active",
+    "founded_year": "2025",
+    "hq": "San Francisco, CA, USA",
+    "website": "https://envariant.ai",
+    "sector": "AI Infrastructure / Interpretability",
+    "one_liner": "Interpretability and reasoning infrastructure for foundation models, making AI decisions explainable and verifiable.",
+    "total_raised_m": 0.5,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-24",
+    "founders": [
+      {
+        "company_slug": "envariant",
+        "name": "Unknown",
+        "role": "Co-Founder & CEO",
+        "background": "ML research and interpretability background.",
+        "origin": "Unknown",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "envariant",
+        "stage": "Pre-Seed / YC",
+        "date": "2026-01",
+        "amount_m": 0.5,
+        "valuation_m": null,
+        "lead_investors": "Y Combinator",
+        "other_investors": "",
+        "source": "https://www.ycombinator.com/companies/envariant",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
     "slug": "enveda",
     "name": "Enveda Biosciences",
     "status": "Private",
@@ -17322,6 +18741,49 @@
         "lead_investors": "Elad Gil (Gil Capital)",
         "other_investors": "",
         "source": "https://www.calcalistech.com/ctechnews/article/ryelst2wwe",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
+    "slug": "eos-ai",
+    "name": "Eos AI",
+    "status": "active",
+    "founded_year": "2025",
+    "hq": "San Francisco, CA, USA",
+    "website": "https://eos.ai",
+    "sector": "AI / Healthcare",
+    "one_liner": "The autonomous operating system for healthcare, using AI agents to manage clinical and administrative workflows.",
+    "total_raised_m": 0.5,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-24",
+    "founders": [
+      {
+        "company_slug": "eos-ai",
+        "name": "Unknown",
+        "role": "Co-Founder & CEO",
+        "background": "Healthcare technology and AI background.",
+        "origin": "Unknown",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "eos-ai",
+        "stage": "Pre-Seed / YC",
+        "date": "2026-01",
+        "amount_m": 0.5,
+        "valuation_m": null,
+        "lead_investors": "Y Combinator",
+        "other_investors": "",
+        "source": "https://www.ycombinator.com/companies/eos-ai",
         "notes": ""
       }
     ],
@@ -18092,16 +19554,16 @@
         "company_slug": "evident",
         "name": "Elena Samuylova",
         "role": "Co-Founder & CEO",
-        "background": "",
-        "origin": "",
+        "background": "7+ years helping large enterprises deploy ML systems; Co-Founder and CPO at Mechanica AI (industrial AI startup); led business development at Yandex Data Factory (enterprise AI division of Yandex); Graduate School of Management, St. Petersburg State University and Vienna University of Economics; named in \"50 Women in Product Europe\" (2018)",
+        "origin": "Russia",
         "prior": ""
       },
       {
         "company_slug": "evident",
         "name": "Emeli Dral",
         "role": "Co-Founder & CTO",
-        "background": "",
-        "origin": "",
+        "background": "BS and MS in Applied Mathematics from Peoples' Friendship University of Russia; MS in Computer Science from Yandex School of Data Analysis; Chief Data Scientist at Yandex Data Factory; co-founded Mechanica AI; co-author of most popular Russian-language ML course on Coursera (100K+ students); 50+ real-world ML projects",
+        "origin": "Russia",
         "prior": ""
       }
     ],
@@ -18518,6 +19980,49 @@
     "top_investors": []
   },
   {
+    "slug": "fenrock",
+    "name": "Fenrock AI",
+    "status": "active",
+    "founded_year": "2025",
+    "hq": "London, UK",
+    "website": "https://fenrock.ai",
+    "sector": "AI / Financial Crime Compliance",
+    "one_liner": "AI agents for financial crime compliance, helping banks and fintechs process 10x compliance workload per analyst.",
+    "total_raised_m": 0.5,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-24",
+    "founders": [
+      {
+        "company_slug": "fenrock",
+        "name": "Unknown",
+        "role": "Co-Founder & CEO",
+        "background": "Financial compliance and AI background.",
+        "origin": "Unknown",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "fenrock",
+        "stage": "Pre-Seed / YC",
+        "date": "2026-01",
+        "amount_m": 0.5,
+        "valuation_m": null,
+        "lead_investors": "Y Combinator",
+        "other_investors": "",
+        "source": "https://www.ycombinator.com/companies/fenrock-ai-yc-w26",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
     "slug": "field-ai",
     "name": "FieldAI",
     "status": "Private",
@@ -18836,6 +20341,65 @@
         "amount_m": 15.0,
         "valuation_m": null,
         "lead_investors": "Peak XV; FinTech Collective; Hoxton Ventures",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
+    "slug": "finto",
+    "name": "Finto",
+    "status": "active",
+    "founded_year": "2025",
+    "hq": "Germany",
+    "website": "https://finto.de",
+    "sector": "AI Accounting / Enterprise Finance",
+    "one_liner": "AI accounting for enterprise finance teams. YC S25.",
+    "total_raised_m": 2.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "low",
+    "last_updated": "2026-03-24",
+    "founders": [
+      {
+        "company_slug": "finto",
+        "name": "Jonas Morgner",
+        "role": "Co-Founder",
+        "background": "YC S25 batch.",
+        "origin": "German (inferred from name)",
+        "prior": ""
+      },
+      {
+        "company_slug": "finto",
+        "name": "Linus Boehm",
+        "role": "Co-Founder",
+        "background": "YC S25 batch.",
+        "origin": "German (inferred from name)",
+        "prior": ""
+      },
+      {
+        "company_slug": "finto",
+        "name": "Lorenz Neuner",
+        "role": "Co-Founder",
+        "background": "YC S25 batch.",
+        "origin": "German (inferred from name)",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "finto",
+        "stage": "Seed",
+        "date": "2025-09",
+        "amount_m": 2.0,
+        "valuation_m": null,
+        "lead_investors": "Y Combinator",
         "other_investors": "",
         "source": "",
         "notes": ""
@@ -19343,6 +20907,57 @@
     "top_investors": []
   },
   {
+    "slug": "floot",
+    "name": "Floot",
+    "status": "active",
+    "founded_year": "2025",
+    "hq": "San Francisco, CA",
+    "website": "https://floot.com",
+    "sector": "AI DevTools / Vibe Coding",
+    "one_liner": "Vibecoding platform for non-coders who build serious apps. YC S25.",
+    "total_raised_m": 2.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "low",
+    "last_updated": "2026-03-24",
+    "founders": [
+      {
+        "company_slug": "floot",
+        "name": "Yujian Yao",
+        "role": "Co-Founder",
+        "background": "YC S25 batch.",
+        "origin": "Chinese (inferred from name)",
+        "prior": ""
+      },
+      {
+        "company_slug": "floot",
+        "name": "Edward Look",
+        "role": "Co-Founder",
+        "background": "YC S25 batch.",
+        "origin": "Unknown",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "floot",
+        "stage": "Seed",
+        "date": "2025-09",
+        "amount_m": 2.0,
+        "valuation_m": null,
+        "lead_investors": "Y Combinator",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
     "slug": "flywheel",
     "name": "Flywheel",
     "status": "active",
@@ -19651,6 +21266,57 @@
     "top_investors": []
   },
   {
+    "slug": "forterra",
+    "name": "Forterra",
+    "status": "active",
+    "founded_year": "2002",
+    "hq": "Clarksburg, MD",
+    "website": "https://www.forterra.com",
+    "sector": "defense tech; autonomous vehicles; robotics",
+    "one_liner": "Developer of autonomous ground vehicle systems for military and defense applications, enabling vehicles to operate independently or in coordinated swarm formations.",
+    "total_raised_m": 400.0,
+    "latest_valuation_m": 1000.0,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-24",
+    "founders": [
+      {
+        "company_slug": "forterra",
+        "name": "Alberto Lacaze",
+        "role": "Co-Founder",
+        "background": "Long career in autonomous systems and robotics for defense.",
+        "origin": "American",
+        "prior": ""
+      },
+      {
+        "company_slug": "forterra",
+        "name": "Karl Murphy",
+        "role": "Co-Founder",
+        "background": "Defense robotics and autonomy expert.",
+        "origin": "American",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "forterra",
+        "stage": "Series C",
+        "date": "2026-01",
+        "amount_m": 238.0,
+        "valuation_m": 1000.0,
+        "lead_investors": "Moore Strategic Ventures",
+        "other_investors": "",
+        "source": "https://www.forterra.com/posts/forterra-closes-238-million-series-c-cementing-leadership-in-autonomy-and-interoperable-systems",
+        "notes": "Participation from Salesforce Ventures, Franklin Templeton, Balyasny, 645 Ventures, Hanwha, 9Yards Capital, NightDragon. Existing backers XYZ Venture Capital, Hedosophia, Enlightenment Capital."
+      }
+    ],
+    "top_investors": []
+  },
+  {
     "slug": "fourier-intelligence",
     "name": "Fourier Intelligence",
     "status": "Private",
@@ -19919,6 +21585,57 @@
         "lead_investors": "Roche; T. Rowe Price; Fidelity Investments",
         "other_investors": "",
         "source": "https://tracxn.com/d/companies/freenome/__QnCE7TdOftOC9FKD2-6WRJMdfjXf1zQYXZJDOE3VCBg/funding-and-investors",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
+    "slug": "freya-voice-ai",
+    "name": "Freya Voice A.I.",
+    "status": "active",
+    "founded_year": "2025",
+    "hq": "Europe",
+    "website": "https://freyavoice.ai",
+    "sector": "AI Voice / Enterprise",
+    "one_liner": "Voice AI for European enterprises. YC S25.",
+    "total_raised_m": 2.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "low",
+    "last_updated": "2026-03-24",
+    "founders": [
+      {
+        "company_slug": "freya-voice-ai",
+        "name": "Tomas Nepala",
+        "role": "Co-Founder",
+        "background": "YC S25 batch.",
+        "origin": "European (inferred from name)",
+        "prior": ""
+      },
+      {
+        "company_slug": "freya-voice-ai",
+        "name": "Ahmet Tunga Bayrak",
+        "role": "Co-Founder",
+        "background": "YC S25 batch.",
+        "origin": "Turkish (inferred from name)",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "freya-voice-ai",
+        "stage": "Seed",
+        "date": "2025-09",
+        "amount_m": 2.0,
+        "valuation_m": null,
+        "lead_investors": "Y Combinator",
+        "other_investors": "",
+        "source": "",
         "notes": ""
       }
     ],
@@ -20634,6 +22351,49 @@
     "top_investors": []
   },
   {
+    "slug": "general-legal",
+    "name": "General Legal",
+    "status": "active",
+    "founded_year": "2025",
+    "hq": "San Francisco, CA, USA",
+    "website": "https://generallegal.com",
+    "sector": "AI / Legal",
+    "one_liner": "AI-native law firm for growth-stage companies with same-day turnaround on legal work.",
+    "total_raised_m": 0.5,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-24",
+    "founders": [
+      {
+        "company_slug": "general-legal",
+        "name": "Unknown",
+        "role": "Co-Founder & CEO",
+        "background": "Legal and AI background.",
+        "origin": "Unknown",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "general-legal",
+        "stage": "Pre-Seed / YC",
+        "date": "2026-01",
+        "amount_m": 0.5,
+        "valuation_m": null,
+        "lead_investors": "Y Combinator",
+        "other_investors": "",
+        "source": "https://www.ycombinator.com/companies/general-legal",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
     "slug": "generalist-ai",
     "name": "Generalist AI",
     "status": "active",
@@ -20930,6 +22690,92 @@
     "top_investors": []
   },
   {
+    "slug": "getasap-asia",
+    "name": "Getasap Asia",
+    "status": "active",
+    "founded_year": "2022",
+    "hq": "Southeast Asia",
+    "website": "https://getasap.asia",
+    "sector": "AI Supply Chain / Distribution",
+    "one_liner": "Tech-enabled supply distribution delivering to Southeast Asian retailers within 8 hours. YC S25.",
+    "total_raised_m": 5.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-24",
+    "founders": [
+      {
+        "company_slug": "getasap-asia",
+        "name": "Raghav Arora",
+        "role": "Founder",
+        "background": "Founded at age 14. YC S25 batch. Among highest valuations in the batch.",
+        "origin": "Indian (inferred from name)",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "getasap-asia",
+        "stage": "Seed",
+        "date": "2025-09",
+        "amount_m": 5.0,
+        "valuation_m": null,
+        "lead_investors": "General Catalyst; Y Combinator",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
+    "slug": "ghosteye",
+    "name": "GhostEye",
+    "status": "active",
+    "founded_year": "2025",
+    "hq": "San Francisco, CA",
+    "website": "https://ghosteye.ai",
+    "sector": "AI Security / Offensive Security",
+    "one_liner": "The offensive security team that never sleeps. YC S25.",
+    "total_raised_m": 2.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "low",
+    "last_updated": "2026-03-24",
+    "founders": [
+      {
+        "company_slug": "ghosteye",
+        "name": "Unknown",
+        "role": "Co-Founder",
+        "background": "YC S25 batch.",
+        "origin": "Unknown",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "ghosteye",
+        "stage": "Seed",
+        "date": "2025-09",
+        "amount_m": 2.0,
+        "valuation_m": null,
+        "lead_investors": "Y Combinator",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
     "slug": "gigaml",
     "name": "GigaML",
     "status": "Private",
@@ -21108,6 +22954,49 @@
         "lead_investors": "Wellington Management",
         "other_investors": "",
         "source": "https://www.glean.com/blog/glean-series-f-announcement",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
+    "slug": "golpo-ai",
+    "name": "Golpo",
+    "status": "active",
+    "founded_year": "2025",
+    "hq": "San Francisco, CA",
+    "website": "https://golpoai.com",
+    "sector": "AI Video / Content Generation",
+    "one_liner": "AI-generated explainer videos. YC S25.",
+    "total_raised_m": 2.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "low",
+    "last_updated": "2026-03-24",
+    "founders": [
+      {
+        "company_slug": "golpo-ai",
+        "name": "Unknown",
+        "role": "Co-Founder",
+        "background": "YC S25 batch.",
+        "origin": "Unknown",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "golpo-ai",
+        "stage": "Seed",
+        "date": "2025-09",
+        "amount_m": 2.0,
+        "valuation_m": null,
+        "lead_investors": "Y Combinator",
+        "other_investors": "",
+        "source": "",
         "notes": ""
       }
     ],
@@ -22479,6 +24368,49 @@
     "top_investors": []
   },
   {
+    "slug": "halluminate",
+    "name": "Halluminate",
+    "status": "active",
+    "founded_year": "2025",
+    "hq": "San Francisco, CA",
+    "website": "https://halluminate.ai",
+    "sector": "AI Training / Synthetic Data",
+    "one_liner": "Simulating the internet to train computer use AI models. YC S25.",
+    "total_raised_m": 2.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "low",
+    "last_updated": "2026-03-24",
+    "founders": [
+      {
+        "company_slug": "halluminate",
+        "name": "Unknown",
+        "role": "Co-Founder",
+        "background": "YC S25 batch.",
+        "origin": "Unknown",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "halluminate",
+        "stage": "Seed",
+        "date": "2025-09",
+        "amount_m": 2.0,
+        "valuation_m": null,
+        "lead_investors": "Y Combinator",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
     "slug": "hamming",
     "name": "Hamming",
     "status": "Active",
@@ -23619,6 +25551,100 @@
     "top_investors": []
   },
   {
+    "slug": "hera-video",
+    "name": "Hera.video",
+    "status": "active",
+    "founded_year": "2025",
+    "hq": "San Francisco, CA",
+    "website": "https://hera.video",
+    "sector": "AI Design / Motion Graphics",
+    "one_liner": "AI motion designer. YC S25.",
+    "total_raised_m": 2.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "low",
+    "last_updated": "2026-03-24",
+    "founders": [
+      {
+        "company_slug": "hera-video",
+        "name": "Peter Tribelhorn",
+        "role": "Co-Founder",
+        "background": "YC S25 batch.",
+        "origin": "Unknown",
+        "prior": ""
+      },
+      {
+        "company_slug": "hera-video",
+        "name": "Chia-Lun Wu",
+        "role": "Co-Founder",
+        "background": "YC S25 batch.",
+        "origin": "Taiwanese (inferred from name)",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "hera-video",
+        "stage": "Seed",
+        "date": "2025-09",
+        "amount_m": 2.0,
+        "valuation_m": null,
+        "lead_investors": "Y Combinator",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
+    "slug": "hex-security",
+    "name": "Hex Security",
+    "status": "active",
+    "founded_year": "2025",
+    "hq": "San Francisco, CA, USA",
+    "website": "https://hexsecurity.ai",
+    "sector": "AI / Cybersecurity",
+    "one_liner": "Agentic offensive security at scale, using AI agents to autonomously identify and test security vulnerabilities.",
+    "total_raised_m": 0.5,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-24",
+    "founders": [
+      {
+        "company_slug": "hex-security",
+        "name": "Unknown",
+        "role": "Co-Founder & CEO",
+        "background": "Cybersecurity and AI background.",
+        "origin": "Unknown",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "hex-security",
+        "stage": "Pre-Seed / YC",
+        "date": "2026-01",
+        "amount_m": 0.5,
+        "valuation_m": null,
+        "lead_investors": "Y Combinator",
+        "other_investors": "",
+        "source": "https://www.ycombinator.com/companies/hex-security",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
     "slug": "hex",
     "name": "Hex",
     "status": "active",
@@ -24041,8 +26067,8 @@
         "company_slug": "hivemind",
         "name": "Ali Elzeiny",
         "role": "Founder",
-        "background": "",
-        "origin": "",
+        "background": "UC Berkeley and PhD in Engineering from UC Irvine; ex-TikTok engineer; previously founded RocketDevs, a platform connecting software engineers in underserved regions with remote tech jobs",
+        "origin": "United States (Egyptian heritage)",
         "prior": ""
       }
     ],
@@ -24463,6 +26489,49 @@
     "top_investors": []
   },
   {
+    "slug": "hyprnote",
+    "name": "Hyprnote",
+    "status": "active",
+    "founded_year": "2025",
+    "hq": "San Francisco, CA",
+    "website": "https://hyprnote.com",
+    "sector": "AI Productivity / Meeting Notes",
+    "one_liner": "Open-source AI notetaker for the enterprise. YC S25.",
+    "total_raised_m": 2.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "low",
+    "last_updated": "2026-03-24",
+    "founders": [
+      {
+        "company_slug": "hyprnote",
+        "name": "Unknown",
+        "role": "Co-Founder",
+        "background": "YC S25 batch.",
+        "origin": "Unknown",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "hyprnote",
+        "stage": "Seed",
+        "date": "2025-09",
+        "amount_m": 2.0,
+        "valuation_m": null,
+        "lead_investors": "Y Combinator",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
     "slug": "iconic-gaming",
     "name": "Iconic (Gaming AI)",
     "status": "active",
@@ -24750,6 +26819,57 @@
         "lead_investors": "Menlo Ventures; Mayfield; Innovation Endeavors; Microsoft M12; NVentures; Andrej Karpathy; Andrew Ng",
         "other_investors": "",
         "source": "https://techcrunch.com/2025/11/06/inception-raises-50-million-to-build-diffusion-models-for-code-and-text/",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
+    "slug": "induction-labs",
+    "name": "Induction Labs",
+    "status": "active",
+    "founded_year": "2025",
+    "hq": "San Francisco, CA",
+    "website": "https://inductionlabs.com",
+    "sector": "AI Models / Computer Use",
+    "one_liner": "Training the best computer use models in the world. YC S25.",
+    "total_raised_m": 2.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "low",
+    "last_updated": "2026-03-24",
+    "founders": [
+      {
+        "company_slug": "induction-labs",
+        "name": "Jonathan Li",
+        "role": "Co-Founder",
+        "background": "YC S25 batch.",
+        "origin": "Chinese-American (inferred from name)",
+        "prior": ""
+      },
+      {
+        "company_slug": "induction-labs",
+        "name": "Jeffrey Li",
+        "role": "Co-Founder",
+        "background": "YC S25 batch.",
+        "origin": "Chinese-American (inferred from name)",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "induction-labs",
+        "stage": "Seed",
+        "date": "2025-09",
+        "amount_m": 2.0,
+        "valuation_m": null,
+        "lead_investors": "Y Combinator",
+        "other_investors": "",
+        "source": "",
         "notes": ""
       }
     ],
@@ -25246,6 +27366,60 @@
     "top_investors": []
   },
   {
+    "slug": "interloom",
+    "name": "Interloom",
+    "status": "active",
+    "founded_year": "2023",
+    "hq": "Munich, Germany",
+    "website": "https://www.interloom.ai",
+    "sector": "agentic AI; enterprise operations; knowledge management",
+    "one_liner": "Munich-based enterprise AI platform that captures tacit operational knowledge from support records, tickets, and transcripts to build permanent memory for AI agents.",
+    "total_raised_m": 19.5,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": "Enterprise SaaS. Ingests operational records (support emails, service tickets, call transcripts, work orders) and builds a continuously updated \"context graph\" of how problems are actually resolved.",
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "high",
+    "last_updated": "2026-03-24",
+    "founders": [
+      {
+        "company_slug": "interloom",
+        "name": "Fabian Jakobi",
+        "role": "CEO & Founder",
+        "background": "Serial entrepreneur. Previously founded Boxplot, which was acquired by Hyperscience in 2021. Hyperscience specializes in AI software for extracting data from unstructured documents.",
+        "origin": "German",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "interloom",
+        "stage": "Seed (initial)",
+        "date": "2024-03",
+        "amount_m": 3.0,
+        "valuation_m": null,
+        "lead_investors": "Air Street Capital",
+        "other_investors": "",
+        "source": "https://www.finsmes.com/2026/03/interloom-technologies-raises-16-5m-in-seed-funding.html",
+        "notes": ""
+      },
+      {
+        "company_slug": "interloom",
+        "stage": "Seed (extension)",
+        "date": "2026-03",
+        "amount_m": 16.5,
+        "valuation_m": null,
+        "lead_investors": "DN Capital",
+        "other_investors": "",
+        "source": "https://fortune.com/2026/03/23/interloom-ai-agents-raises-16-million-venture-funding/",
+        "notes": "Participation from Bek Ventures and existing investor Air Street Capital. Approximately EUR 14.2M."
+      }
+    ],
+    "top_investors": []
+  },
+  {
     "slug": "inworld-ai",
     "name": "Inworld AI",
     "status": "active",
@@ -25327,32 +27501,32 @@
         "company_slug": "iris",
         "name": "Anita Brede",
         "role": "Co-Founder & CEO",
-        "background": "",
-        "origin": "",
+        "background": "Serial entrepreneur with 4 previous startups in Silicon Valley, Sweden, and Norway; Singularity University Graduate Studies (2015); Master's in Entrepreneurship and Business Design from Chalmers University of Technology; TEDx speaker; 500 Startups and TechCrunch Disrupt Startup Battlefield alumna; named Inspiring Fifty Nordic most inspiring women in tech",
+        "origin": "Norway",
         "prior": ""
       },
       {
         "company_slug": "iris",
         "name": "Jacobo Elosua",
-        "role": "Co-Founder",
-        "background": "",
-        "origin": "",
+        "role": "Co-Founder, CFO & COO",
+        "background": "Three degrees in Economics, Business, and Law; nearly 10 years at UBS Investment Bank as Executive Director specializing in Media & Technology M&A; co-founded i.ngen.io; co-founded and chairs Civio (Spain's leading transparency non-profit)",
+        "origin": "Spain",
         "prior": ""
       },
       {
         "company_slug": "iris",
         "name": "Maria Ritola",
         "role": "Co-Founder",
-        "background": "",
-        "origin": "",
+        "background": "Master's in Economics from Aalto University School of Business; Singularity University at NASA Ames Research Center (2015); researcher at Demos Helsinki; founded Peloton Club (resource-smart businesses in Scandinavia); named Young Person of the Year in Finland and among most influential women in tech by Nordic Business Insider",
+        "origin": "Finland",
         "prior": ""
       },
       {
         "company_slug": "iris",
         "name": "Victor Botev",
-        "role": "Co-Founder",
-        "background": "",
-        "origin": "",
+        "role": "Co-Founder & CTO",
+        "background": "BS in Software Engineering and MS in AI and Computer Systems from Sofia University; MS from Chalmers University of Technology; AI researcher with 15+ years applied technical experience; former research engineer at Chalmers; prior roles at CPAC Systems, Pinexo, and Skrill",
+        "origin": "Bulgaria",
         "prior": ""
       }
     ],
@@ -26180,6 +28354,57 @@
     "top_investors": []
   },
   {
+    "slug": "kalinda-ai",
+    "name": "Kalinda AI",
+    "status": "active",
+    "founded_year": "2025",
+    "hq": "San Francisco, CA",
+    "website": "https://kalinda.ai",
+    "sector": "AI Legal / Research",
+    "one_liner": "Deep research for class action law firms. YC S25.",
+    "total_raised_m": 2.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "low",
+    "last_updated": "2026-03-24",
+    "founders": [
+      {
+        "company_slug": "kalinda-ai",
+        "name": "Sayan Bhatia",
+        "role": "Co-Founder",
+        "background": "YC S25 batch.",
+        "origin": "Indian (inferred from name)",
+        "prior": ""
+      },
+      {
+        "company_slug": "kalinda-ai",
+        "name": "Sohil Bhatia",
+        "role": "Co-Founder",
+        "background": "YC S25 batch.",
+        "origin": "Indian (inferred from name)",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "kalinda-ai",
+        "stage": "Seed",
+        "date": "2025-09",
+        "amount_m": 2.0,
+        "valuation_m": null,
+        "lead_investors": "Y Combinator",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
     "slug": "kalshi",
     "name": "Kalshi",
     "status": "Active, Private",
@@ -26431,17 +28656,17 @@
       {
         "company_slug": "kernel",
         "name": "Anders Krohn",
-        "role": "Co-Founder",
-        "background": "",
-        "origin": "",
+        "role": "Co-Founder & CEO",
+        "background": "BA in Economics & Management (Hons) from University of Oxford; studied at 5 universities on 3 continents; previously CEO and Co-Founder of Aula Education (helped universities bring learning online); Co-Founder and MD of Ublend",
+        "origin": "Denmark",
         "prior": ""
       },
       {
         "company_slug": "kernel",
         "name": "Marcus Henglein",
         "role": "Co-Founder",
-        "background": "",
-        "origin": "",
+        "background": "Bachelor's in Philosophy; previously CEO and Co-Founder of Aula Education alongside Krohn; Co-Founder and MD of Ublend; co-founded Project Access; former consultant at Boston Consulting Group; military service in Light Reconnaissance for Forsvaret (Norwegian Armed Forces)",
+        "origin": "Norway",
         "prior": ""
       }
     ],
@@ -26506,42 +28731,42 @@
     "founders": [
       {
         "company_slug": "kerno",
-        "name": "Sean M.",
+        "name": "Sean Madigan",
         "role": "Co-Founder & CEO",
-        "background": "",
-        "origin": "",
+        "background": "Engineering background; former EMEA Director at Secure Code Warrior (raised $100M+, scaled ARR from $0 to $15M); entrepreneur focused on developer tools and security",
+        "origin": "Ireland",
         "prior": ""
       },
       {
         "company_slug": "kerno",
         "name": "Vladimir Romanov",
         "role": "Co-Founder",
-        "background": "",
-        "origin": "",
+        "background": "B.Eng in Electrical Engineering; MBA from McGill University; automation and engineering manager at Procter & Gamble, Kraft Heinz, and Post Holdings; founded SolisPLC (industrial automation education platform)",
+        "origin": "Canada",
         "prior": ""
       },
       {
         "company_slug": "kerno",
         "name": "Karim Traiaia",
-        "role": "Co-Founder",
-        "background": "",
-        "origin": "",
+        "role": "Co-Founder & CPO",
+        "background": "BCom in Entrepreneurship and Strategic Management from McGill University; previous roles at SolisPLC, Memgraph, Techstars, and Startup Basecamp; Li Ka Shing Summer Program scholar",
+        "origin": "Canada",
         "prior": ""
       },
       {
         "company_slug": "kerno",
         "name": "Anibal Ambertin",
         "role": "Co-Founder",
-        "background": "",
-        "origin": "",
+        "background": "Software engineer with extensive backend and infrastructure experience",
+        "origin": "Argentina",
         "prior": ""
       },
       {
         "company_slug": "kerno",
         "name": "Maximiliano De Lorenzo",
-        "role": "Co-Founder",
-        "background": "",
-        "origin": "",
+        "role": "Co-Founder & Tech Lead",
+        "background": "Degree in Informatics (Ingenieria en Informatica) from Universidad Nacional de La Matanza; previous experience at So Energy; London-based engineer",
+        "origin": "Argentina",
         "prior": ""
       }
     ],
@@ -26639,6 +28864,49 @@
         "lead_investors": "W23 Global",
         "other_investors": "",
         "source": "https://www.foodnavigator-usa.com/Article/2025/11/18/keychain-raises-10m-to-speed-private-label-launches/",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
+    "slug": "keystone-ai",
+    "name": "Keystone",
+    "status": "active",
+    "founded_year": "2025",
+    "hq": "San Francisco, CA",
+    "website": "https://withkeystone.com",
+    "sector": "AI DevTools / Bug Detection",
+    "one_liner": "AI engineer that finds and fixes bugs in production. YC S25.",
+    "total_raised_m": 2.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-24",
+    "founders": [
+      {
+        "company_slug": "keystone-ai",
+        "name": "Pablo Hansen",
+        "role": "Founder",
+        "background": "Master's degree in AI at age 19. Founded Keystone at 20. YC S25 batch.",
+        "origin": "Unknown",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "keystone-ai",
+        "stage": "Seed",
+        "date": "2025-09",
+        "amount_m": 2.0,
+        "valuation_m": null,
+        "lead_investors": "Y Combinator",
+        "other_investors": "",
+        "source": "",
         "notes": ""
       }
     ],
@@ -29289,6 +31557,57 @@
     "top_investors": []
   },
   {
+    "slug": "louiza-labs",
+    "name": "Louiza Labs",
+    "status": "active",
+    "founded_year": "2025",
+    "hq": "San Francisco, CA",
+    "website": "https://louiza.ai",
+    "sector": "AI Healthcare / Synthetic Data",
+    "one_liner": "Simulated human biology and synthetic medical datasets. YC S25.",
+    "total_raised_m": 2.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "low",
+    "last_updated": "2026-03-24",
+    "founders": [
+      {
+        "company_slug": "louiza-labs",
+        "name": "Larissa Tyagi",
+        "role": "Co-Founder",
+        "background": "YC S25 batch.",
+        "origin": "Unknown",
+        "prior": ""
+      },
+      {
+        "company_slug": "louiza-labs",
+        "name": "Georgia Witchel",
+        "role": "Co-Founder",
+        "background": "YC S25 batch.",
+        "origin": "Unknown",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "louiza-labs",
+        "stage": "Seed",
+        "date": "2025-09",
+        "amount_m": 2.0,
+        "valuation_m": null,
+        "lead_investors": "Y Combinator",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
     "slug": "lovable",
     "name": "Lovable",
     "status": "Private",
@@ -29640,6 +31959,49 @@
     "top_investors": []
   },
   {
+    "slug": "luminal-ai",
+    "name": "Luminal",
+    "status": "active",
+    "founded_year": "2025",
+    "hq": "San Francisco, CA",
+    "website": "https://luminalai.com",
+    "sector": "AI Infrastructure / Hardware Optimization",
+    "one_liner": "Making AI run fast on any hardware. YC S25.",
+    "total_raised_m": 2.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "low",
+    "last_updated": "2026-03-24",
+    "founders": [
+      {
+        "company_slug": "luminal-ai",
+        "name": "Unknown",
+        "role": "Co-Founder",
+        "background": "YC S25 batch.",
+        "origin": "Unknown",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "luminal-ai",
+        "stage": "Seed",
+        "date": "2025-09",
+        "amount_m": 2.0,
+        "valuation_m": null,
+        "lead_investors": "Y Combinator",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
     "slug": "luminance",
     "name": "Luminance",
     "status": "Active, Private",
@@ -29749,6 +32111,65 @@
       "National Grid Partners",
       "Invoke Capital (Mike Lynch)"
     ]
+  },
+  {
+    "slug": "lyte",
+    "name": "Lyte",
+    "status": "active",
+    "founded_year": "2024",
+    "hq": "Mountain View, CA",
+    "website": "https://www.lyte.ai",
+    "sector": "robotics; perception systems; physical AI",
+    "one_liner": "Robotics perception startup founded by three ex-Apple Face ID architects, building integrated 4D sensing and visual intelligence for physical AI platforms.",
+    "total_raised_m": 107.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "high",
+    "last_updated": "2026-03-24",
+    "founders": [
+      {
+        "company_slug": "lyte",
+        "name": "Alexander Shpunt",
+        "role": "CEO & Co-Founder",
+        "background": "Co-founded and served as CTO of PrimeSense (acquired by Apple in 2013 for ~$350M). Key architect of Apple's depth-sensing platform including Face ID. Led depth sensing at Apple for a decade.",
+        "origin": "Israeli",
+        "prior": ""
+      },
+      {
+        "company_slug": "lyte",
+        "name": "Arman Hajati",
+        "role": "Co-Founder",
+        "background": "Former Apple engineer, key architect behind Apple's depth-sensing and perception technologies.",
+        "origin": "American",
+        "prior": ""
+      },
+      {
+        "company_slug": "lyte",
+        "name": "Yuval Gerson",
+        "role": "Co-Founder",
+        "background": "Former Apple engineer, key architect behind Apple's depth-sensing and perception technologies.",
+        "origin": "Israeli",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "lyte",
+        "stage": "Seed (aggregate)",
+        "date": "2026-01",
+        "amount_m": 107.0,
+        "valuation_m": null,
+        "lead_investors": "Avigdor Willenz group; Fidelity Management & Research Company",
+        "other_investors": "",
+        "source": "https://www.businesswire.com/news/home/20260105818373/en/Lyte-Emerges-From-Stealth-With-$107-Million-to-Build-the-Perception-Foundation-for-Physical-AI",
+        "notes": "Also backed by Atreides Management, Exor Ventures, Key1 Capital, and Venture Tech Alliance."
+      }
+    ],
+    "top_investors": []
   },
   {
     "slug": "magic",
@@ -31519,6 +33940,57 @@
     "top_investors": []
   },
   {
+    "slug": "minimal-ai",
+    "name": "Minimal AI",
+    "status": "active",
+    "founded_year": "2025",
+    "hq": "San Francisco, CA",
+    "website": "https://gominimal.ai",
+    "sector": "AI Customer Support / E-commerce",
+    "one_liner": "AI customer support teams for e-commerce. YC S25.",
+    "total_raised_m": 2.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "low",
+    "last_updated": "2026-03-24",
+    "founders": [
+      {
+        "company_slug": "minimal-ai",
+        "name": "Niek Hogenboom",
+        "role": "Co-Founder",
+        "background": "YC S25 batch.",
+        "origin": "Dutch (inferred from name)",
+        "prior": ""
+      },
+      {
+        "company_slug": "minimal-ai",
+        "name": "Titus Ex",
+        "role": "Co-Founder",
+        "background": "YC S25 batch.",
+        "origin": "Dutch (inferred from name)",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "minimal-ai",
+        "stage": "Seed",
+        "date": "2025-09",
+        "amount_m": 2.0,
+        "valuation_m": null,
+        "lead_investors": "Y Combinator",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
     "slug": "minimax",
     "name": "MiniMax (MiniMax Group Inc.)",
     "status": "Public (Hong Kong IPO, January 9, 2026)",
@@ -31796,6 +34268,49 @@
         "other_investors": "Nvidia; DST Global; Andreessen Horowitz; Bpifrance; General Catalyst; Index Ventures; Lightspeed Venture Partners",
         "source": "https://www.cnbc.com/2025/09/09/ai-firm-mistral-valued-at-14-billion-as-asml-takes-major-stake.html",
         "notes": "ASML CFO Roger Dassen gained seat on Mistral's Strategic Committee. Strategic partnership beyond financial investment. More than doubled prior valuation.\n"
+      }
+    ],
+    "top_investors": []
+  },
+  {
+    "slug": "moda",
+    "name": "Moda",
+    "status": "active",
+    "founded_year": "2025",
+    "hq": "San Francisco, CA, USA",
+    "website": "https://moda.ai",
+    "sector": "AI Infrastructure / Product Analytics",
+    "one_liner": "Product analytics for AI-powered products, helping teams understand how users interact with AI features.",
+    "total_raised_m": 0.5,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-24",
+    "founders": [
+      {
+        "company_slug": "moda",
+        "name": "Unknown",
+        "role": "Co-Founder & CEO",
+        "background": "Product analytics and AI background.",
+        "origin": "Unknown",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "moda",
+        "stage": "Pre-Seed / YC",
+        "date": "2026-01",
+        "amount_m": 0.5,
+        "valuation_m": null,
+        "lead_investors": "Y Combinator",
+        "other_investors": "",
+        "source": "https://www.ycombinator.com/companies/moda",
+        "notes": ""
       }
     ],
     "top_investors": []
@@ -32156,6 +34671,84 @@
         "other_investors": "",
         "source": "https://techcrunch.com/2021/11/05/momenta-500-million/",
         "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
+    "slug": "monaco",
+    "name": "Monaco",
+    "status": "active",
+    "founded_year": "2025",
+    "hq": "San Francisco, CA",
+    "website": "https://www.monaco.ai",
+    "sector": "AI sales; CRM; enterprise software",
+    "one_liner": "AI-native sales platform built by ex-Founders Fund VCs and former Apollo/Clari execs, aiming to replace Salesforce for seed and Series A startups.",
+    "total_raised_m": 35.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": "AI-native CRM and sales intelligence platform targeting early-stage startups. Includes CRM system and ZoomInfo-like prospecting database.",
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "high",
+    "last_updated": "2026-03-24",
+    "founders": [
+      {
+        "company_slug": "monaco",
+        "name": "Sam Blond",
+        "role": "Co-Founder",
+        "background": "Former VC at Founders Fund. Previously Head of Sales at Brex. Deep sales leadership experience.",
+        "origin": "American",
+        "prior": ""
+      },
+      {
+        "company_slug": "monaco",
+        "name": "Brian Blond",
+        "role": "Co-Founder",
+        "background": "Ex-sales professional turned VC. Sam's brother.",
+        "origin": "American",
+        "prior": ""
+      },
+      {
+        "company_slug": "monaco",
+        "name": "Abishek Viswanathan",
+        "role": "Co-Founder",
+        "background": "Previously CPO at Apollo and Qualtrics. Product leader in enterprise software.",
+        "origin": "Indian-American",
+        "prior": ""
+      },
+      {
+        "company_slug": "monaco",
+        "name": "Malay Desai",
+        "role": "Co-Founder",
+        "background": "Formerly SVP of Engineering at Clari. Deep engineering experience in revenue intelligence.",
+        "origin": "Indian-American",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "monaco",
+        "stage": "Seed",
+        "date": "2025-09",
+        "amount_m": 10.0,
+        "valuation_m": null,
+        "lead_investors": "Founders Fund",
+        "other_investors": "",
+        "source": "https://techcrunch.com/2026/02/11/former-founders-fund-vc-sam-blond-launches-ai-sales-startup-to-upend-salesforce/",
+        "notes": ""
+      },
+      {
+        "company_slug": "monaco",
+        "stage": "Series A",
+        "date": "2026-02",
+        "amount_m": 25.0,
+        "valuation_m": null,
+        "lead_investors": "Founders Fund",
+        "other_investors": "",
+        "source": "https://techcrunch.com/2026/02/11/former-founders-fund-vc-sam-blond-launches-ai-sales-startup-to-upend-salesforce/",
+        "notes": "Human Capital also participated. Emerged from stealth February 11, 2026."
       }
     ],
     "top_investors": []
@@ -33423,6 +36016,92 @@
     "top_investors": []
   },
   {
+    "slug": "native-security",
+    "name": "Native",
+    "status": "active",
+    "founded_year": "2025",
+    "hq": "Tel Aviv, Israel",
+    "website": "https://www.native.security",
+    "sector": "cybersecurity; cloud security; multi-cloud",
+    "one_liner": "Cloud security policy platform founded by AWS veterans, simplifying security management across multi-cloud environments with AI-driven policy automation.",
+    "total_raised_m": 31.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "low",
+    "last_updated": "2026-03-24",
+    "founders": [
+      {
+        "company_slug": "native-security",
+        "name": "undisclosed",
+        "role": "CEO",
+        "background": "Former AWS engineer/leader.",
+        "origin": "Israeli",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "native-security",
+        "stage": "Series A",
+        "date": "2026-03",
+        "amount_m": 31.0,
+        "valuation_m": null,
+        "lead_investors": "Ballistic Ventures",
+        "other_investors": "",
+        "source": "https://www.calcalistech.com/ctechnews/article/sjcumyv9wg",
+        "notes": "Founded by AWS veterans."
+      }
+    ],
+    "top_investors": []
+  },
+  {
+    "slug": "ndea",
+    "name": "Ndea",
+    "status": "active",
+    "founded_year": "2025",
+    "hq": "San Francisco, CA, USA",
+    "website": "https://ndea.ai",
+    "sector": "AI Research / AGI",
+    "one_liner": "Building AGI that can innovate -- pursuing artificial general intelligence with a focus on creative problem-solving.",
+    "total_raised_m": 0.5,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-24",
+    "founders": [
+      {
+        "company_slug": "ndea",
+        "name": "Unknown",
+        "role": "Co-Founder & CEO",
+        "background": "AI research background.",
+        "origin": "Unknown",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "ndea",
+        "stage": "Pre-Seed / YC",
+        "date": "2026-01",
+        "amount_m": 0.5,
+        "valuation_m": null,
+        "lead_investors": "Y Combinator",
+        "other_investors": "",
+        "source": "https://www.ycombinator.com/companies/ndea",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
     "slug": "nebius",
     "name": "Nebius Group",
     "status": "Public (NASDAQ, resumed trading October 2024)",
@@ -34191,6 +36870,57 @@
     "top_investors": []
   },
   {
+    "slug": "niv-ai",
+    "name": "Niv-AI",
+    "status": "active",
+    "founded_year": "2025",
+    "hq": "Tel Aviv, Israel",
+    "website": "https://www.niv.ai",
+    "sector": "AI infrastructure; data center optimization; GPU management",
+    "one_liner": "Israeli startup developing sensor-driven systems to measure and manage GPU power consumption at millisecond precision, unlocking up to 30% of stranded data center capacity.",
+    "total_raised_m": 12.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "high",
+    "last_updated": "2026-03-24",
+    "founders": [
+      {
+        "company_slug": "niv-ai",
+        "name": "Tomer Timor",
+        "role": "CEO & Co-Founder",
+        "background": "Veteran of Israel's elite intelligence and technology units.",
+        "origin": "Israeli",
+        "prior": ""
+      },
+      {
+        "company_slug": "niv-ai",
+        "name": "Edward Kizis",
+        "role": "CTO & Co-Founder",
+        "background": "Veteran of Israel's elite intelligence and technology units.",
+        "origin": "Israeli",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "niv-ai",
+        "stage": "Seed",
+        "date": "2026-03",
+        "amount_m": 12.0,
+        "valuation_m": null,
+        "lead_investors": "Glilot Capital; Grove Ventures",
+        "other_investors": "",
+        "source": "https://techcrunch.com/2026/03/17/niv-ai-exits-stealth-to-wring-more-power-performance-out-of-gpus/",
+        "notes": "Also backed by Arc VC, Encoded VC, Leap Forward, and Aurora."
+      }
+    ],
+    "top_investors": []
+  },
+  {
     "slug": "noda-ai",
     "name": "NODA AI",
     "status": "active",
@@ -34517,6 +37247,57 @@
         "lead_investors": "Blackstone",
         "other_investors": "",
         "source": "https://www.prnewswire.com/news-releases/norm-ai-announces-50-million-blackstone-investment/",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
+    "slug": "notte-labs",
+    "name": "Notte Labs",
+    "status": "active",
+    "founded_year": "2025",
+    "hq": "San Francisco, CA",
+    "website": "https://notte.cc",
+    "sector": "AI Agents / Enterprise Web",
+    "one_liner": "Reliable web agents for enterprise. YC S25.",
+    "total_raised_m": 2.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "low",
+    "last_updated": "2026-03-24",
+    "founders": [
+      {
+        "company_slug": "notte-labs",
+        "name": "Andrea Pinto",
+        "role": "Co-Founder",
+        "background": "YC S25 batch.",
+        "origin": "Italian (inferred from name)",
+        "prior": ""
+      },
+      {
+        "company_slug": "notte-labs",
+        "name": "Lucas Giordano",
+        "role": "Co-Founder",
+        "background": "YC S25 batch.",
+        "origin": "Italian/Argentine (inferred from name)",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "notte-labs",
+        "stage": "Seed",
+        "date": "2025-09",
+        "amount_m": 2.0,
+        "valuation_m": null,
+        "lead_investors": "Y Combinator",
+        "other_investors": "",
+        "source": "",
         "notes": ""
       }
     ],
@@ -35635,6 +38416,49 @@
     "top_investors": []
   },
   {
+    "slug": "okibi",
+    "name": "Okibi",
+    "status": "active",
+    "founded_year": "2025",
+    "hq": "San Francisco, CA",
+    "website": "https://okibi.ai",
+    "sector": "AI Agents / No-Code Builder",
+    "one_liner": "Build AI coworkers using natural language \u2014 Lovable for agents. YC S25.",
+    "total_raised_m": 2.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "low",
+    "last_updated": "2026-03-24",
+    "founders": [
+      {
+        "company_slug": "okibi",
+        "name": "Unknown",
+        "role": "Co-Founder",
+        "background": "YC S25 batch.",
+        "origin": "Unknown",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "okibi",
+        "stage": "Seed",
+        "date": "2025-09",
+        "amount_m": 2.0,
+        "valuation_m": null,
+        "lead_investors": "Y Combinator",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
     "slug": "olix-computing",
     "name": "Olix Computing",
     "status": "active",
@@ -35673,6 +38497,49 @@
         "other_investors": "",
         "source": "https://techfundingnews.com/olix-220m-unicorn-photonic-ai-chips-inference/",
         "notes": "Previously raised $30M from Plural, Vertex Ventures, LocalGlobe, and Entrepreneurs First. Originally founded as Flux Computing in March 2024, rebranded to Olix Computing in January 2026. Plans to deliver first products by 2027."
+      }
+    ],
+    "top_investors": []
+  },
+  {
+    "slug": "omnara",
+    "name": "Omnara",
+    "status": "active",
+    "founded_year": "2025",
+    "hq": "San Francisco, CA",
+    "website": "https://omnara.com",
+    "sector": "AI Agents / Orchestration",
+    "one_liner": "The command center for AI agents \u2014 run Claude Code and Codex from anywhere. YC S25.",
+    "total_raised_m": 2.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "low",
+    "last_updated": "2026-03-24",
+    "founders": [
+      {
+        "company_slug": "omnara",
+        "name": "Kartik S.",
+        "role": "Founder",
+        "background": "YC S25 batch.",
+        "origin": "Indian (inferred from name)",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "omnara",
+        "stage": "Seed",
+        "date": "2025-09",
+        "amount_m": 2.0,
+        "valuation_m": null,
+        "lead_investors": "Y Combinator",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
       }
     ],
     "top_investors": []
@@ -35731,6 +38598,49 @@
         "lead_investors": "CDIB-TEN Capital",
         "other_investors": "",
         "source": "",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
+    "slug": "one-robot",
+    "name": "One Robot",
+    "status": "active",
+    "founded_year": "2025",
+    "hq": "San Francisco, CA, USA",
+    "website": "https://onerobot.ai",
+    "sector": "AI / Robotics / World Models",
+    "one_liner": "World models for VLA (Vision-Language-Action) evaluations and training for robotics.",
+    "total_raised_m": 0.5,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-24",
+    "founders": [
+      {
+        "company_slug": "one-robot",
+        "name": "Unknown",
+        "role": "Co-Founder & CEO",
+        "background": "Robotics and ML research background.",
+        "origin": "Unknown",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "one-robot",
+        "stage": "Pre-Seed / YC",
+        "date": "2026-01",
+        "amount_m": 0.5,
+        "valuation_m": null,
+        "lead_investors": "Y Combinator",
+        "other_investors": "",
+        "source": "https://www.ycombinator.com/companies/one-robot",
         "notes": ""
       }
     ],
@@ -36208,6 +39118,65 @@
     ]
   },
   {
+    "slug": "opennote",
+    "name": "Opennote",
+    "status": "active",
+    "founded_year": "2025",
+    "hq": "San Francisco, CA",
+    "website": "https://opennote.com",
+    "sector": "AI Education / Tutoring",
+    "one_liner": "The AI tutor that lives in your notes. YC S25.",
+    "total_raised_m": 2.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "low",
+    "last_updated": "2026-03-24",
+    "founders": [
+      {
+        "company_slug": "opennote",
+        "name": "Rishi Srihari",
+        "role": "Co-Founder",
+        "background": "YC S25 batch.",
+        "origin": "Indian (inferred from name)",
+        "prior": ""
+      },
+      {
+        "company_slug": "opennote",
+        "name": "Abhi Arya",
+        "role": "Co-Founder",
+        "background": "YC S25 batch.",
+        "origin": "Indian (inferred from name)",
+        "prior": ""
+      },
+      {
+        "company_slug": "opennote",
+        "name": "Vedant Vyas",
+        "role": "Co-Founder",
+        "background": "YC S25 batch.",
+        "origin": "Indian (inferred from name)",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "opennote",
+        "stage": "Seed",
+        "date": "2025-09",
+        "amount_m": 2.0,
+        "valuation_m": null,
+        "lead_investors": "Y Combinator",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
     "slug": "orasio",
     "name": "Orasio",
     "status": "active",
@@ -36382,6 +39351,49 @@
         "lead_investors": "Intel Capital; Team8",
         "other_investors": "",
         "source": "https://www.securityweek.com/orchid-security-banks-hefty-36m-seed-round/",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
+    "slug": "origami-robotics",
+    "name": "Origami Robotics",
+    "status": "active",
+    "founded_year": "2025",
+    "hq": "San Francisco, CA, USA",
+    "website": "https://origamirobotics.com",
+    "sector": "AI / Robotics",
+    "one_liner": "Building the \"Manipulate Anything Robot\" -- general-purpose robotic manipulation using AI.",
+    "total_raised_m": 0.5,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-24",
+    "founders": [
+      {
+        "company_slug": "origami-robotics",
+        "name": "Unknown",
+        "role": "Co-Founder & CEO",
+        "background": "Robotics and AI background.",
+        "origin": "Unknown",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "origami-robotics",
+        "stage": "Pre-Seed / YC",
+        "date": "2026-01",
+        "amount_m": 0.5,
+        "valuation_m": null,
+        "lead_investors": "Y Combinator",
+        "other_investors": "",
+        "source": "https://www.ycombinator.com/companies/origami-robotics",
         "notes": ""
       }
     ],
@@ -36935,6 +39947,159 @@
         "lead_investors": "",
         "other_investors": "",
         "source": "https://www.prnewswire.com/news-releases/palebluedot-ai-raises-150m-series-b-to-scale-global-ai-compute-infrastructure-302672782.html",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
+    "slug": "pally",
+    "name": "Pally",
+    "status": "active",
+    "founded_year": "2025",
+    "hq": "San Francisco, CA",
+    "website": "https://pally.com",
+    "sector": "AI Productivity / CRM",
+    "one_liner": "Intelligent unified inbox and personal CRM. YC S25.",
+    "total_raised_m": 2.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "low",
+    "last_updated": "2026-03-24",
+    "founders": [
+      {
+        "company_slug": "pally",
+        "name": "Haz Hubble",
+        "role": "Co-Founder",
+        "background": "YC S25 batch.",
+        "origin": "Unknown",
+        "prior": ""
+      },
+      {
+        "company_slug": "pally",
+        "name": "Wyatt Lansford",
+        "role": "Co-Founder",
+        "background": "YC S25 batch.",
+        "origin": "Unknown",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "pally",
+        "stage": "Seed",
+        "date": "2025-09",
+        "amount_m": 2.0,
+        "valuation_m": null,
+        "lead_investors": "Y Combinator",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
+    "slug": "paloma-ai",
+    "name": "Paloma",
+    "status": "active",
+    "founded_year": "2025",
+    "hq": "San Francisco, CA",
+    "website": "https://getpaloma.ai",
+    "sector": "AI CRM / Post-Sales",
+    "one_liner": "AI-native CRM putting post-sales operations on autopilot. YC S25.",
+    "total_raised_m": 2.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "low",
+    "last_updated": "2026-03-24",
+    "founders": [
+      {
+        "company_slug": "paloma-ai",
+        "name": "Maria Zhang",
+        "role": "Co-Founder",
+        "background": "YC S25 batch.",
+        "origin": "Chinese (inferred from name)",
+        "prior": ""
+      },
+      {
+        "company_slug": "paloma-ai",
+        "name": "Alex Avnit",
+        "role": "Co-Founder",
+        "background": "YC S25 batch.",
+        "origin": "Unknown",
+        "prior": ""
+      },
+      {
+        "company_slug": "paloma-ai",
+        "name": "Kaiwen Song",
+        "role": "Co-Founder",
+        "background": "YC S25 batch.",
+        "origin": "Chinese (inferred from name)",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "paloma-ai",
+        "stage": "Seed",
+        "date": "2025-09",
+        "amount_m": 2.0,
+        "valuation_m": null,
+        "lead_investors": "Y Combinator",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
+    "slug": "parachute-ai",
+    "name": "Parachute",
+    "status": "active",
+    "founded_year": "2025",
+    "hq": "San Francisco, CA",
+    "website": "https://parachute-ai.com",
+    "sector": "AI Healthcare / Clinical AI Safety",
+    "one_liner": "Infrastructure for hospitals to monitor and deploy clinical AI. YC S25.",
+    "total_raised_m": 2.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "low",
+    "last_updated": "2026-03-24",
+    "founders": [
+      {
+        "company_slug": "parachute-ai",
+        "name": "Elmo Taddeo",
+        "role": "Founder",
+        "background": "YC S25 batch.",
+        "origin": "Italian (inferred from name)",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "parachute-ai",
+        "stage": "Seed",
+        "date": "2025-09",
+        "amount_m": 2.0,
+        "valuation_m": null,
+        "lead_investors": "Y Combinator",
+        "other_investors": "",
+        "source": "",
         "notes": ""
       }
     ],
@@ -37525,6 +40690,49 @@
     "top_investors": []
   },
   {
+    "slug": "perfectly",
+    "name": "Perfectly",
+    "status": "active",
+    "founded_year": "2025",
+    "hq": "San Francisco, CA, USA",
+    "website": "https://perfectly.ai",
+    "sector": "AI / HR & Recruiting",
+    "one_liner": "AI-native recruiting operating system that automates the full hiring workflow.",
+    "total_raised_m": 0.5,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-24",
+    "founders": [
+      {
+        "company_slug": "perfectly",
+        "name": "Unknown",
+        "role": "Co-Founder & CEO",
+        "background": "HR tech and AI background.",
+        "origin": "Unknown",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "perfectly",
+        "stage": "Pre-Seed / YC",
+        "date": "2026-01",
+        "amount_m": 0.5,
+        "valuation_m": null,
+        "lead_investors": "Y Combinator",
+        "other_investors": "",
+        "source": "https://www.ycombinator.com/companies/perfectly",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
     "slug": "periodic-labs",
     "name": "Periodic Labs",
     "status": "active",
@@ -37827,6 +41035,57 @@
         "lead_investors": "",
         "other_investors": "",
         "source": "https://techcrunch.com/2025/09/10/perplexity-reportedly-raised-200m-at-20b-valuation/",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
+    "slug": "perseus-defense",
+    "name": "Perseus Defense",
+    "status": "active",
+    "founded_year": "2025",
+    "hq": "San Francisco, CA",
+    "website": "https://perseusdefense.com",
+    "sector": "Defense / Counter-Drone AI",
+    "one_liner": "Counter-drone defense technology with guided micro-missiles for U.S. military. YC S25.",
+    "total_raised_m": 2.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-24",
+    "founders": [
+      {
+        "company_slug": "perseus-defense",
+        "name": "Dr. Jason Cornelius",
+        "role": "Co-Founder",
+        "background": "PhD. YC S25 batch.",
+        "origin": "Unknown",
+        "prior": ""
+      },
+      {
+        "company_slug": "perseus-defense",
+        "name": "Steve Messinger",
+        "role": "Co-Founder",
+        "background": "YC S25 batch.",
+        "origin": "Unknown",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "perseus-defense",
+        "stage": "Seed",
+        "date": "2025-09",
+        "amount_m": 2.0,
+        "valuation_m": null,
+        "lead_investors": "Y Combinator",
+        "other_investors": "",
+        "source": "",
         "notes": ""
       }
     ],
@@ -38433,6 +41692,92 @@
     "top_investors": []
   },
   {
+    "slug": "pingo-ai",
+    "name": "Pingo",
+    "status": "active",
+    "founded_year": "2025",
+    "hq": "San Francisco, CA",
+    "website": "https://pingo.ai",
+    "sector": "AI Education / Language Learning",
+    "one_liner": "AI tutor for conversational language learning with native-speaker simulation. YC S25.",
+    "total_raised_m": 2.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-24",
+    "founders": [
+      {
+        "company_slug": "pingo-ai",
+        "name": "Unknown",
+        "role": "Co-Founder",
+        "background": "YC S25 batch.",
+        "origin": "Unknown",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "pingo-ai",
+        "stage": "Seed",
+        "date": "2025-09",
+        "amount_m": 2.0,
+        "valuation_m": null,
+        "lead_investors": "Y Combinator",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
+    "slug": "piris-labs",
+    "name": "Piris Labs",
+    "status": "active",
+    "founded_year": "2025",
+    "hq": "San Francisco, CA, USA",
+    "website": "https://piris.ai",
+    "sector": "AI Infrastructure / Inference",
+    "one_liner": "Inference at light speed -- building next-generation AI inference infrastructure for ultra-low latency.",
+    "total_raised_m": 0.5,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-24",
+    "founders": [
+      {
+        "company_slug": "piris-labs",
+        "name": "Unknown",
+        "role": "Co-Founder & CEO",
+        "background": "AI inference optimization and systems background.",
+        "origin": "Unknown",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "piris-labs",
+        "stage": "Pre-Seed / YC",
+        "date": "2026-01",
+        "amount_m": 0.5,
+        "valuation_m": null,
+        "lead_investors": "Y Combinator",
+        "other_investors": "",
+        "source": "https://www.ycombinator.com/companies/piris-labs",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
     "slug": "plain",
     "name": "Plain",
     "status": "Private",
@@ -38489,6 +41834,92 @@
         "lead_investors": "Battery Ventures",
         "other_investors": "",
         "source": "https://www.plain.com/blog/we-ve-raised-a-15m-series-a",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
+    "slug": "pocket-ai",
+    "name": "Pocket",
+    "status": "active",
+    "founded_year": "2025",
+    "hq": "San Francisco, CA, USA",
+    "website": "https://pocket.ai",
+    "sector": "AI Hardware / Productivity",
+    "one_liner": "AI-powered note-taking device and app that captures thoughts and conversations for professionals.",
+    "total_raised_m": 5.4,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-24",
+    "founders": [
+      {
+        "company_slug": "pocket-ai",
+        "name": "Unknown",
+        "role": "Co-Founder & CEO",
+        "background": "Hardware and AI product background.",
+        "origin": "Unknown",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "pocket-ai",
+        "stage": "Seed",
+        "date": 2025,
+        "amount_m": 5.4,
+        "valuation_m": null,
+        "lead_investors": "Unknown",
+        "other_investors": "",
+        "source": "https://www.ycombinator.com/companies/pocket",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
+    "slug": "pollinate",
+    "name": "Pollinate",
+    "status": "active",
+    "founded_year": "2025",
+    "hq": "San Francisco, CA, USA",
+    "website": "https://pollinate.ai",
+    "sector": "AI / Supply Chain",
+    "one_liner": "AI agents for the supply chain, automating procurement, logistics, and vendor management workflows.",
+    "total_raised_m": 0.5,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-24",
+    "founders": [
+      {
+        "company_slug": "pollinate",
+        "name": "Unknown",
+        "role": "Co-Founder & CEO",
+        "background": "Supply chain and AI background.",
+        "origin": "Unknown",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "pollinate",
+        "stage": "Pre-Seed / YC",
+        "date": "2026-01",
+        "amount_m": 0.5,
+        "valuation_m": null,
+        "lead_investors": "Y Combinator",
+        "other_investors": "",
+        "source": "https://www.ycombinator.com/companies/pollinate",
         "notes": ""
       }
     ],
@@ -38710,6 +42141,49 @@
         "lead_investors": "Allegis Capital",
         "other_investors": "",
         "source": "https://venturebeat.com/business/polygraf-ai-closes-95m-funding/",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
+    "slug": "polymath-labs",
+    "name": "Polymath Labs",
+    "status": "active",
+    "founded_year": "2025",
+    "hq": "San Francisco, CA, USA",
+    "website": "https://polymathlabs.ai",
+    "sector": "AI Research / Reinforcement Learning",
+    "one_liner": "Long-horizon reinforcement learning research lab building agents that can plan and execute over extended time periods.",
+    "total_raised_m": 0.5,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-24",
+    "founders": [
+      {
+        "company_slug": "polymath-labs",
+        "name": "Unknown",
+        "role": "Co-Founder & CEO",
+        "background": "RL research and AI background.",
+        "origin": "Unknown",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "polymath-labs",
+        "stage": "Pre-Seed / YC",
+        "date": "2026-01",
+        "amount_m": 0.5,
+        "valuation_m": null,
+        "lead_investors": "Y Combinator",
+        "other_investors": "",
+        "source": "https://www.ycombinator.com/companies/polymath-labs",
         "notes": ""
       }
     ],
@@ -39372,6 +42846,57 @@
         "other_investors": "",
         "source": "",
         "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
+    "slug": "proxima",
+    "name": "Proxima",
+    "status": "active",
+    "founded_year": "2023",
+    "hq": "New York, NY",
+    "website": "https://www.proximatx.com",
+    "sector": "AI drug discovery; biotech; computational biology",
+    "one_liner": "AI biotech startup using machine learning to design proximity-based drugs that control protein-protein interactions, spun out from Roivant Sciences.",
+    "total_raised_m": 80.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": "Platform partnerships with major pharma (J&J, BMS, Blueprint/Sanofi) plus proprietary pipeline. First programs expected in clinical trials in 2026.",
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "high",
+    "last_updated": "2026-03-24",
+    "founders": [
+      {
+        "company_slug": "proxima",
+        "name": "Zachary Carpenter",
+        "role": "CEO & Co-Founder",
+        "background": "Led computational drug discovery efforts at Roivant Sciences before spinning out Proxima.",
+        "origin": "American",
+        "prior": ""
+      },
+      {
+        "company_slug": "proxima",
+        "name": "Luca Naef",
+        "role": "CTO & Co-Founder",
+        "background": "AI and computational chemistry expert, previously at Roivant.",
+        "origin": "European",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "proxima",
+        "stage": "Seed",
+        "date": "2026-01",
+        "amount_m": 80.0,
+        "valuation_m": null,
+        "lead_investors": "DCVC",
+        "other_investors": "",
+        "source": "https://www.businesswire.com/news/home/20260113074220/en/Proxima-Raises-$80-Million-Led-by-DCVC-to-Power-the-Next-Generation-of-Proximity-Based-Medicines",
+        "notes": "Also backed by NVentures (Nvidia), Roivant Sciences, Braidwell LP, AIX Ventures, Yosemite, Magnetic Ventures, Alexandria Venture Investments, Modi Ventures."
       }
     ],
     "top_investors": []
@@ -40386,6 +43911,57 @@
     "top_investors": []
   },
   {
+    "slug": "realroots",
+    "name": "RealRoots",
+    "status": "active",
+    "founded_year": "2025",
+    "hq": "San Francisco, CA",
+    "website": "https://therealroots.com",
+    "sector": "AI Consumer / Social",
+    "one_liner": "AI social app connecting women through organized social experiences. YC S25.",
+    "total_raised_m": 2.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-24",
+    "founders": [
+      {
+        "company_slug": "realroots",
+        "name": "Dorothy Li",
+        "role": "Co-Founder",
+        "background": "YC S25 batch.",
+        "origin": "Chinese-American (inferred from name)",
+        "prior": ""
+      },
+      {
+        "company_slug": "realroots",
+        "name": "Tara Kappel",
+        "role": "Co-Founder",
+        "background": "YC S25 batch.",
+        "origin": "Unknown",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "realroots",
+        "stage": "Seed",
+        "date": "2025-09",
+        "amount_m": 2.0,
+        "valuation_m": null,
+        "lead_investors": "Y Combinator",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
     "slug": "rebellion-defense",
     "name": "Rebellion Defense",
     "status": "Active but significantly downsized; pivoted to mission engineering focus",
@@ -40922,6 +44498,49 @@
         "other_investors": "",
         "source": "https://siliconangle.com/2025/07/22/multimodal-ai-startup-reka-ai-raises-110m-1b-valuation/",
         "notes": "Reached unicorn status. Snowflake had previously explored acquiring Reka for $1B+ in May 2024, but talks broke down. The two companies instead pursued a strategic investment relationship."
+      }
+    ],
+    "top_investors": []
+  },
+  {
+    "slug": "remy-ai",
+    "name": "Remy.Ai",
+    "status": "active",
+    "founded_year": "2025",
+    "hq": "San Francisco, CA, USA",
+    "website": "https://remy.ai",
+    "sector": "AI / Robotics / Warehouse Automation",
+    "one_liner": "Automating dexterous tasks in warehouses with AI-powered robotic manipulation.",
+    "total_raised_m": 0.5,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-24",
+    "founders": [
+      {
+        "company_slug": "remy-ai",
+        "name": "Unknown",
+        "role": "Co-Founder & CEO",
+        "background": "Robotics and warehouse automation background.",
+        "origin": "Unknown",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "remy-ai",
+        "stage": "Pre-Seed / YC",
+        "date": "2026-01",
+        "amount_m": 0.5,
+        "valuation_m": null,
+        "lead_investors": "Y Combinator",
+        "other_investors": "",
+        "source": "https://www.ycombinator.com/companies/remy-ai",
+        "notes": ""
       }
     ],
     "top_investors": []
@@ -41607,6 +45226,65 @@
     "top_investors": []
   },
   {
+    "slug": "risely-ai",
+    "name": "Risely AI",
+    "status": "active",
+    "founded_year": "2025",
+    "hq": "San Francisco, CA",
+    "website": "https://risely.ai",
+    "sector": "AI Education / University Administration",
+    "one_liner": "AI agents that automate administrative work across college campuses. YC S25.",
+    "total_raised_m": 2.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "low",
+    "last_updated": "2026-03-24",
+    "founders": [
+      {
+        "company_slug": "risely-ai",
+        "name": "Shahryar Abbasi",
+        "role": "Co-Founder",
+        "background": "YC S25 batch.",
+        "origin": "Pakistani (inferred from name)",
+        "prior": ""
+      },
+      {
+        "company_slug": "risely-ai",
+        "name": "Danial Asif",
+        "role": "Co-Founder",
+        "background": "YC S25 batch.",
+        "origin": "Pakistani (inferred from name)",
+        "prior": ""
+      },
+      {
+        "company_slug": "risely-ai",
+        "name": "Sadia Saifuddin",
+        "role": "Co-Founder",
+        "background": "YC S25 batch.",
+        "origin": "Pakistani (inferred from name)",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "risely-ai",
+        "stage": "Seed",
+        "date": "2025-09",
+        "amount_m": 2.0,
+        "valuation_m": null,
+        "lead_investors": "Y Combinator",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
     "slug": "riverline-ai",
     "name": "Riverline AI",
     "status": "active",
@@ -41863,6 +45541,100 @@
     ]
   },
   {
+    "slug": "rowflow",
+    "name": "RowFlow",
+    "status": "active",
+    "founded_year": "2025",
+    "hq": "San Francisco, CA",
+    "website": "https://rowflow.ai",
+    "sector": "AI Productivity / Forms",
+    "one_liner": "Replacing forms with AI conversations. YC S25.",
+    "total_raised_m": 2.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "low",
+    "last_updated": "2026-03-24",
+    "founders": [
+      {
+        "company_slug": "rowflow",
+        "name": "Jack Bubes",
+        "role": "Co-Founder",
+        "background": "YC S25 batch.",
+        "origin": "Unknown",
+        "prior": ""
+      },
+      {
+        "company_slug": "rowflow",
+        "name": "Alec Olesky",
+        "role": "Co-Founder",
+        "background": "YC S25 batch.",
+        "origin": "Unknown",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "rowflow",
+        "stage": "Seed",
+        "date": "2025-09",
+        "amount_m": 2.0,
+        "valuation_m": null,
+        "lead_investors": "Y Combinator",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
+    "slug": "rubric",
+    "name": "Rubric",
+    "status": "active",
+    "founded_year": "2025",
+    "hq": "San Francisco, CA, USA",
+    "website": "https://rubric.ai",
+    "sector": "AI / ML Research & Post-Training",
+    "one_liner": "Post-training research and product lab focused on improving AI model alignment and capabilities after initial training.",
+    "total_raised_m": 0.5,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-24",
+    "founders": [
+      {
+        "company_slug": "rubric",
+        "name": "Unknown",
+        "role": "Co-Founder & CEO",
+        "background": "ML research and post-training background.",
+        "origin": "Unknown",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "rubric",
+        "stage": "Pre-Seed / YC",
+        "date": "2026-01",
+        "amount_m": 0.5,
+        "valuation_m": null,
+        "lead_investors": "Y Combinator",
+        "other_investors": "",
+        "source": "https://www.ycombinator.com/companies/rubric",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
     "slug": "rune",
     "name": "Rune Technologies",
     "status": "Private",
@@ -41971,6 +45743,57 @@
         "other_investors": "",
         "source": "",
         "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
+    "slug": "runsybil",
+    "name": "RunSybil",
+    "status": "active",
+    "founded_year": "2023",
+    "hq": "San Francisco, CA",
+    "website": "https://www.runsybil.com",
+    "sector": "cybersecurity; AI agents; offensive security",
+    "one_liner": "AI-native offensive security platform that uses autonomous agents to continuously hack company software and find real vulnerabilities, founded by OpenAI's first security hire and Meta's red team lead.",
+    "total_raised_m": 40.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": "Cursor; Turbopuffer; Notion; Baseten; Thinking Machines Lab; Multiple Fortune 500 companies (unnamed); Major financial institutions (unnamed)",
+    "team_china_profile": null,
+    "confidence": "high",
+    "last_updated": "2026-03-24",
+    "founders": [
+      {
+        "company_slug": "runsybil",
+        "name": "Ari Herbert-Voss",
+        "role": "Co-Founder",
+        "background": "Joined OpenAI in 2019 as its first security research hire. Unique intersection of frontier AI development and offensive security.",
+        "origin": "American",
+        "prior": ""
+      },
+      {
+        "company_slug": "runsybil",
+        "name": "Vlad Ionescu",
+        "role": "Co-Founder",
+        "background": "Previously led offensive security red teams at Meta. Expert in penetration testing and vulnerability discovery.",
+        "origin": "Romanian-American",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "runsybil",
+        "stage": "Series A",
+        "date": "2026-03",
+        "amount_m": 40.0,
+        "valuation_m": null,
+        "lead_investors": "Khosla Ventures",
+        "other_investors": "",
+        "source": "https://fortune.com/2026/03/18/exclusive-ai-cybersecurity-startup-runsybil-founded-by-openais-first-security-hire-raises-40-million-led-by-khosla-ventures/",
+        "notes": "Participation from S32, Anthropic's Anthology Fund, Menlo Ventures, Conviction, and Elad Gil. Angels include Nikesh Arora, Jeff Dean, and leaders from OpenAI, Palo Alto Networks, Stripe, and Google."
       }
     ],
     "top_investors": []
@@ -42297,6 +46120,49 @@
         "lead_investors": "Morpheus Ventures; CoreWeave",
         "other_investors": "",
         "source": "",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
+    "slug": "salus-ai",
+    "name": "Salus",
+    "status": "active",
+    "founded_year": "2025",
+    "hq": "San Francisco, CA, USA",
+    "website": "https://salus.ai",
+    "sector": "AI Safety / Agent Guardrails",
+    "one_liner": "Guardrails to validate AI agent actions before they execute, preventing harmful or unintended behaviors.",
+    "total_raised_m": 0.5,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-24",
+    "founders": [
+      {
+        "company_slug": "salus-ai",
+        "name": "Unknown",
+        "role": "Co-Founder & CEO",
+        "background": "AI safety and software engineering background.",
+        "origin": "Unknown",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "salus-ai",
+        "stage": "Pre-Seed / YC",
+        "date": "2026-01",
+        "amount_m": 0.5,
+        "valuation_m": null,
+        "lead_investors": "Y Combinator",
+        "other_investors": "",
+        "source": "https://www.ycombinator.com/companies/salus",
         "notes": ""
       }
     ],
@@ -43254,6 +47120,49 @@
     "top_investors": []
   },
   {
+    "slug": "seeing-systems",
+    "name": "Seeing Systems",
+    "status": "active",
+    "founded_year": "2025",
+    "hq": "San Francisco, CA, USA",
+    "website": "https://seeingsystems.ai",
+    "sector": "AI / Defense / Drones",
+    "one_liner": "AI drone systems for defence, enabling autonomous aerial surveillance and reconnaissance.",
+    "total_raised_m": 0.5,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-24",
+    "founders": [
+      {
+        "company_slug": "seeing-systems",
+        "name": "Unknown",
+        "role": "Co-Founder & CEO",
+        "background": "Defense technology and AI background.",
+        "origin": "Unknown",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "seeing-systems",
+        "stage": "Pre-Seed / YC",
+        "date": "2026-01",
+        "amount_m": 0.5,
+        "valuation_m": null,
+        "lead_investors": "Y Combinator",
+        "other_investors": "",
+        "source": "https://www.ycombinator.com/companies/seeing-systems",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
     "slug": "semgrep",
     "name": "Semgrep",
     "status": "Private (Series D)",
@@ -43521,6 +47430,49 @@
     "top_investors": []
   },
   {
+    "slug": "sentrial",
+    "name": "Sentrial",
+    "status": "active",
+    "founded_year": "2025",
+    "hq": "San Francisco, CA, USA",
+    "website": "https://sentrial.ai",
+    "sector": "AI Infrastructure / Monitoring",
+    "one_liner": "Production monitoring for AI products, providing observability into AI model performance in real-world deployment.",
+    "total_raised_m": 0.5,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-24",
+    "founders": [
+      {
+        "company_slug": "sentrial",
+        "name": "Unknown",
+        "role": "Co-Founder & CEO",
+        "background": "MLOps and observability background.",
+        "origin": "Unknown",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "sentrial",
+        "stage": "Pre-Seed / YC",
+        "date": "2026-01",
+        "amount_m": 0.5,
+        "valuation_m": null,
+        "lead_investors": "Y Combinator",
+        "other_investors": "",
+        "source": "https://www.ycombinator.com/companies/sentrial",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
     "slug": "serval",
     "name": "Serval",
     "status": "active",
@@ -43566,6 +47518,49 @@
         "lead_investors": "Redpoint Ventures; First Round; General Catalyst",
         "other_investors": "",
         "source": "",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
+    "slug": "servo7",
+    "name": "Servo7",
+    "status": "active",
+    "founded_year": "2025",
+    "hq": "San Francisco, CA, USA",
+    "website": "https://servo7.com",
+    "sector": "AI / Robotics / Logistics",
+    "one_liner": "Autonomous warehouse robots for logistics and fulfillment operations.",
+    "total_raised_m": 0.5,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-24",
+    "founders": [
+      {
+        "company_slug": "servo7",
+        "name": "Unknown",
+        "role": "Co-Founder & CEO",
+        "background": "Robotics and logistics background.",
+        "origin": "Unknown",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "servo7",
+        "stage": "Pre-Seed / YC",
+        "date": "2026-01",
+        "amount_m": 0.5,
+        "valuation_m": null,
+        "lead_investors": "Y Combinator",
+        "other_investors": "",
+        "source": "https://www.ycombinator.com/companies/servo7",
         "notes": ""
       }
     ],
@@ -44852,6 +48847,65 @@
     "top_investors": []
   },
   {
+    "slug": "slashy-ai",
+    "name": "Slashy AI",
+    "status": "active",
+    "founded_year": "2025",
+    "hq": "San Francisco, CA",
+    "website": "https://slashy.ai",
+    "sector": "AI Productivity / Workflow Automation",
+    "one_liner": "AI-native ops layer for business workflows. YC S25.",
+    "total_raised_m": 2.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "low",
+    "last_updated": "2026-03-24",
+    "founders": [
+      {
+        "company_slug": "slashy-ai",
+        "name": "Harsha Gaddipati",
+        "role": "Co-Founder",
+        "background": "YC S25 batch.",
+        "origin": "Indian (inferred from name)",
+        "prior": ""
+      },
+      {
+        "company_slug": "slashy-ai",
+        "name": "Pranjali Awasthi",
+        "role": "Co-Founder",
+        "background": "YC S25 batch.",
+        "origin": "Indian (inferred from name)",
+        "prior": ""
+      },
+      {
+        "company_slug": "slashy-ai",
+        "name": "Dhruv Roongta",
+        "role": "Co-Founder",
+        "background": "YC S25 batch.",
+        "origin": "Indian (inferred from name)",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "slashy-ai",
+        "stage": "Seed",
+        "date": "2025-09",
+        "amount_m": 2.0,
+        "valuation_m": null,
+        "lead_investors": "Y Combinator",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
     "slug": "slingshot-ai",
     "name": "Slingshot AI",
     "status": "active",
@@ -45250,6 +49304,57 @@
     ]
   },
   {
+    "slug": "socratix",
+    "name": "Socratix",
+    "status": "active",
+    "founded_year": "2025",
+    "hq": "San Francisco, CA",
+    "website": "https://getsocratix.ai",
+    "sector": "AI Fraud Detection / Risk",
+    "one_liner": "AI coworkers for fraud and risk teams. YC S25.",
+    "total_raised_m": 2.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "low",
+    "last_updated": "2026-03-24",
+    "founders": [
+      {
+        "company_slug": "socratix",
+        "name": "Riya Jagetia",
+        "role": "Co-Founder",
+        "background": "YC S25 batch.",
+        "origin": "Indian (inferred from name)",
+        "prior": ""
+      },
+      {
+        "company_slug": "socratix",
+        "name": "Satya Vasanth Reddy",
+        "role": "Co-Founder",
+        "background": "YC S25 batch.",
+        "origin": "Indian (inferred from name)",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "socratix",
+        "stage": "Seed",
+        "date": "2025-09",
+        "amount_m": 2.0,
+        "valuation_m": null,
+        "lead_investors": "Y Combinator",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
     "slug": "sola-ai",
     "name": "Sola",
     "status": "Active",
@@ -45406,6 +49511,57 @@
     "top_investors": []
   },
   {
+    "slug": "soley-therapeutics",
+    "name": "Soley Therapeutics",
+    "status": "active",
+    "founded_year": "2020",
+    "hq": "San Francisco, CA",
+    "website": "https://soleytherapeutics.com",
+    "sector": "AI drug discovery; biotech; oncology",
+    "one_liner": "AI-enabled drug discovery company using cells as biological sensors to uncover first-in-class oncology medicines, deploying full-stack AI on Oracle/Nvidia infrastructure.",
+    "total_raised_m": 200.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": "Proprietary pipeline focused on oncology. Uses cell stress sensing platform to discover first-in-class drugs.",
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-24",
+    "founders": [
+      {
+        "company_slug": "soley-therapeutics",
+        "name": "Dr. Yerem Yeghiazarians",
+        "role": "Co-Founder",
+        "background": "UCSF cardiologist and stem cell pioneer. Over a decade of research on cellular stress biology.",
+        "origin": "Armenian-American",
+        "prior": ""
+      },
+      {
+        "company_slug": "soley-therapeutics",
+        "name": "Dr. Kurosh Ameri",
+        "role": "Co-Founder",
+        "background": "Cancer biologist at UCSF who defined the field of tumor anoxia (oxygen deprivation in tumors).",
+        "origin": "Iranian-American",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "soley-therapeutics",
+        "stage": "Series C",
+        "date": "2026-01",
+        "amount_m": 200.0,
+        "valuation_m": null,
+        "lead_investors": "undisclosed",
+        "other_investors": "",
+        "source": "https://soleytherapeutics.com/soley-therapeutics-announces-200-million-series-c-financing-to-propel-lead-oncology-programs-into-the-clinic-and-scale-its-cell-stress-sensing-platform/",
+        "notes": "Funds earmarked for two oncology drugs entering the clinic. Lead AML asset targeting IND filing in 2026. Second solid tumor asset in IND-enabling studies."
+      }
+    ],
+    "top_investors": []
+  },
+  {
     "slug": "solidroad",
     "name": "Solidroad",
     "status": "active",
@@ -45460,6 +49616,49 @@
         "amount_m": 6.5,
         "valuation_m": null,
         "lead_investors": "First Round Capital",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
+    "slug": "solva-technology",
+    "name": "Solva Technology",
+    "status": "active",
+    "founded_year": "2025",
+    "hq": "San Francisco, CA",
+    "website": "https://solvatechnology.com",
+    "sector": "AI Insurance / Claims Automation",
+    "one_liner": "AI-powered insurance claims automation reducing adjuster workload. YC S25.",
+    "total_raised_m": 2.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-24",
+    "founders": [
+      {
+        "company_slug": "solva-technology",
+        "name": "Unknown",
+        "role": "Co-Founder",
+        "background": "YC S25 batch.",
+        "origin": "Unknown",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "solva-technology",
+        "stage": "Seed",
+        "date": "2025-09",
+        "amount_m": 2.0,
+        "valuation_m": null,
+        "lead_investors": "Y Combinator",
         "other_investors": "",
         "source": "",
         "notes": ""
@@ -46689,6 +50888,57 @@
         "amount_m": 20.0,
         "valuation_m": null,
         "lead_investors": "GV",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
+    "slug": "stagewise",
+    "name": "Stagewise",
+    "status": "active",
+    "founded_year": "2025",
+    "hq": "San Francisco, CA",
+    "website": "https://stagewise.io",
+    "sector": "AI DevTools / Frontend Coding",
+    "one_liner": "Frontend coding agent for real codebases. YC S25.",
+    "total_raised_m": 2.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "low",
+    "last_updated": "2026-03-24",
+    "founders": [
+      {
+        "company_slug": "stagewise",
+        "name": "Glenn Toews",
+        "role": "Co-Founder",
+        "background": "YC S25 batch.",
+        "origin": "German (inferred from name)",
+        "prior": ""
+      },
+      {
+        "company_slug": "stagewise",
+        "name": "Julian Gottze",
+        "role": "Co-Founder",
+        "background": "YC S25 batch.",
+        "origin": "German (inferred from name)",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "stagewise",
+        "stage": "Seed",
+        "date": "2025-09",
+        "amount_m": 2.0,
+        "valuation_m": null,
+        "lead_investors": "Y Combinator",
         "other_investors": "",
         "source": "",
         "notes": ""
@@ -47938,6 +52188,60 @@
     "top_investors": []
   },
   {
+    "slug": "synthetic-sciences",
+    "name": "Synthetic Sciences",
+    "status": "active",
+    "founded_year": "2025",
+    "hq": "San Francisco, CA, USA",
+    "website": "https://syntheticsciences.com",
+    "sector": "AI / Scientific Research",
+    "one_liner": "AI co-scientists that run research end-to-end, described as \"Claude Code for Science.\"",
+    "total_raised_m": 1.9,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-24",
+    "founders": [
+      {
+        "company_slug": "synthetic-sciences",
+        "name": "Unknown",
+        "role": "Co-Founder & CEO",
+        "background": "Scientific research and AI background.",
+        "origin": "Unknown",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "synthetic-sciences",
+        "stage": "Pre-Seed",
+        "date": 2025,
+        "amount_m": 1.4,
+        "valuation_m": null,
+        "lead_investors": "Unknown",
+        "other_investors": "",
+        "source": "https://www.thevccorner.com/p/yc-w26-batch-complete-company-database",
+        "notes": ""
+      },
+      {
+        "company_slug": "synthetic-sciences",
+        "stage": "YC W26",
+        "date": "2026-01",
+        "amount_m": 0.5,
+        "valuation_m": null,
+        "lead_investors": "Y Combinator",
+        "other_investors": "",
+        "source": "https://www.ycombinator.com/companies/synthetic-sciences",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
     "slug": "synthflow",
     "name": "Synthflow",
     "status": "active",
@@ -48415,6 +52719,57 @@
     "top_investors": []
   },
   {
+    "slug": "tecto",
+    "name": "Tecto",
+    "status": "active",
+    "founded_year": "2025",
+    "hq": "San Francisco, CA",
+    "website": "https://tecto.ai",
+    "sector": "AI Agents / HR & Monitoring",
+    "one_liner": "Recruit and monitor AI employees. YC S25.",
+    "total_raised_m": 2.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "low",
+    "last_updated": "2026-03-24",
+    "founders": [
+      {
+        "company_slug": "tecto",
+        "name": "Niosha Afsharikia",
+        "role": "Co-Founder",
+        "background": "YC S25 batch.",
+        "origin": "Iranian (inferred from name)",
+        "prior": ""
+      },
+      {
+        "company_slug": "tecto",
+        "name": "Roksana Baleshzar",
+        "role": "Co-Founder",
+        "background": "YC S25 batch.",
+        "origin": "Iranian (inferred from name)",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "tecto",
+        "stage": "Seed",
+        "date": "2025-09",
+        "amount_m": 2.0,
+        "valuation_m": null,
+        "lead_investors": "Y Combinator",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
     "slug": "tenex-ai",
     "name": "Tenex AI",
     "status": "active",
@@ -48564,6 +52919,49 @@
       "Foundation Capital",
       "Frank Slootman (former Snowflake CEO)"
     ]
+  },
+  {
+    "slug": "tensol",
+    "name": "Tensol",
+    "status": "active",
+    "founded_year": "2025",
+    "hq": "San Francisco, CA, USA",
+    "website": "https://tensol.ai",
+    "sector": "AI Infrastructure / Multi-Agent Systems",
+    "one_liner": "Multi-agent systems orchestration platform for coordinating complex AI agent workflows.",
+    "total_raised_m": 0.5,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-24",
+    "founders": [
+      {
+        "company_slug": "tensol",
+        "name": "Unknown",
+        "role": "Co-Founder & CEO",
+        "background": "Distributed systems and AI background.",
+        "origin": "Unknown",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "tensol",
+        "stage": "Pre-Seed / YC",
+        "date": "2026-01",
+        "amount_m": 0.5,
+        "valuation_m": null,
+        "lead_investors": "Y Combinator",
+        "other_investors": "",
+        "source": "https://www.ycombinator.com/companies/tensol",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
   },
   {
     "slug": "tensorwave",
@@ -48819,6 +53217,87 @@
     "top_investors": []
   },
   {
+    "slug": "teradar",
+    "name": "TeraDAR",
+    "status": "active",
+    "founded_year": "2021",
+    "hq": "Cambridge, MA",
+    "website": "https://teradar.com",
+    "sector": "autonomous vehicles; sensing technology; defense tech",
+    "one_liner": "Developer of the world's first solid-state terahertz vision sensors for autonomous systems, offering 4D imaging that works in all weather and lighting conditions.",
+    "total_raised_m": 150.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "high",
+    "last_updated": "2026-03-24",
+    "founders": [
+      {
+        "company_slug": "teradar",
+        "name": "Matt Carey",
+        "role": "CEO & Co-Founder",
+        "background": "Entrepreneur in sensing and deep tech. Discussions with Gregory Charvat about terahertz imaging possibilities led to founding TeraDAR.",
+        "origin": "American",
+        "prior": ""
+      },
+      {
+        "company_slug": "teradar",
+        "name": "Gregory Charvat",
+        "role": "Co-Founder",
+        "background": "CTO of spatial intelligence company Humatics. Expert in radar and sensing systems.",
+        "origin": "American",
+        "prior": ""
+      },
+      {
+        "company_slug": "teradar",
+        "name": "Nick Saiz",
+        "role": "Co-Founder",
+        "background": "World-class terahertz chip design expertise. Leads silicon development.",
+        "origin": "American",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "teradar",
+        "stage": "Seed",
+        "date": "2021-06",
+        "amount_m": 5.0,
+        "valuation_m": null,
+        "lead_investors": "The Engine (MIT)",
+        "other_investors": "",
+        "source": "https://techcrunch.com/2025/11/12/teradar-exits-stealth-with-an-all-weather-sensor-for-autonomy-and-150m-in-funding/",
+        "notes": "Incubated at MIT's The Engine nonprofit incubator."
+      },
+      {
+        "company_slug": "teradar",
+        "stage": "Series B (Tranche 1)",
+        "date": "2025-11",
+        "amount_m": 72.0,
+        "valuation_m": null,
+        "lead_investors": "Capricorn Investment Group",
+        "other_investors": "",
+        "source": "https://techcrunch.com/2025/11/12/teradar-exits-stealth-with-an-all-weather-sensor-for-autonomy-and-150m-in-funding/",
+        "notes": "Also backed by Lockheed Martin Ventures, IBEX Investors, and VXI Capital."
+      },
+      {
+        "company_slug": "teradar",
+        "stage": "Series B (Tranche 2)",
+        "date": "2026-01",
+        "amount_m": 85.0,
+        "valuation_m": null,
+        "lead_investors": "VXI Capital",
+        "other_investors": "",
+        "source": "https://www.techbuzz.ai/articles/stealth-startup-teradar-raises-150m-for-revolutionary-sensor-tech",
+        "notes": "Performance milestone-based tranche. Total Series B of approximately $157M including both tranches."
+      }
+    ],
+    "top_investors": []
+  },
+  {
     "slug": "terray-therapeutics",
     "name": "Terray Therapeutics",
     "status": "active",
@@ -48864,6 +53343,57 @@
         "lead_investors": "Bedford Ridge; NVentures",
         "other_investors": "",
         "source": "https://techcrunch.com/",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
+    "slug": "tesora",
+    "name": "Tesora",
+    "status": "active",
+    "founded_year": "2025",
+    "hq": "San Francisco, CA",
+    "website": "https://tesora.ai",
+    "sector": "AI Manufacturing / Operations",
+    "one_liner": "Digital employees for manufacturing operations. YC S25.",
+    "total_raised_m": 2.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "low",
+    "last_updated": "2026-03-24",
+    "founders": [
+      {
+        "company_slug": "tesora",
+        "name": "Vivek Rao",
+        "role": "Co-Founder",
+        "background": "YC S25 batch.",
+        "origin": "Indian (inferred from name)",
+        "prior": ""
+      },
+      {
+        "company_slug": "tesora",
+        "name": "Federico Reyes Gomez",
+        "role": "Co-Founder",
+        "background": "YC S25 batch.",
+        "origin": "Latin American (inferred from name)",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "tesora",
+        "stage": "Seed",
+        "date": "2025-09",
+        "amount_m": 2.0,
+        "valuation_m": null,
+        "lead_investors": "Y Combinator",
+        "other_investors": "",
+        "source": "",
         "notes": ""
       }
     ],
@@ -51357,6 +55887,57 @@
     "top_investors": []
   },
   {
+    "slug": "uplift-ai",
+    "name": "Uplift AI",
+    "status": "active",
+    "founded_year": "2025",
+    "hq": "San Francisco, CA",
+    "website": "https://upliftai.org",
+    "sector": "AI Voice / Language Models",
+    "one_liner": "Foundational voice models for regional and under-served languages. YC S25.",
+    "total_raised_m": 2.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "low",
+    "last_updated": "2026-03-24",
+    "founders": [
+      {
+        "company_slug": "uplift-ai",
+        "name": "Hammad Malik",
+        "role": "Co-Founder",
+        "background": "YC S25 batch.",
+        "origin": "Pakistani (inferred from name)",
+        "prior": ""
+      },
+      {
+        "company_slug": "uplift-ai",
+        "name": "Muhammad Bin Sabir",
+        "role": "Co-Founder",
+        "background": "YC S25 batch.",
+        "origin": "Pakistani (inferred from name)",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "uplift-ai",
+        "stage": "Seed",
+        "date": "2025-09",
+        "amount_m": 2.0,
+        "valuation_m": null,
+        "lead_investors": "Y Combinator",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
     "slug": "upscale-ai",
     "name": "Upscale AI",
     "status": "active",
@@ -52143,6 +56724,68 @@
     "top_investors": []
   },
   {
+    "slug": "vega-security",
+    "name": "Vega Security",
+    "status": "active",
+    "founded_year": "2024",
+    "hq": "Tel Aviv, Israel",
+    "website": "https://www.vega.security",
+    "sector": "cybersecurity; AI security; cloud security",
+    "one_liner": "AI-native security operations platform that detects threats directly where enterprise data resides -- cloud services, data lakes, and distributed storage -- instead of centralizing data into traditional SIEMs.",
+    "total_raised_m": 185.0,
+    "latest_valuation_m": 700.0,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": "Instacart; Multiple Fortune 500 companies; Major banking and healthcare organizations",
+    "team_china_profile": null,
+    "confidence": "high",
+    "last_updated": "2026-03-24",
+    "founders": [
+      {
+        "company_slug": "vega-security",
+        "name": "Shay Sandler",
+        "role": "CEO & Co-Founder",
+        "background": "Veteran of Unit 8200 (Israeli military intelligence). Early employee at Granulate, which was acquired by Intel.",
+        "origin": "Israeli",
+        "prior": ""
+      },
+      {
+        "company_slug": "vega-security",
+        "name": "Eli Rozen",
+        "role": "CTO & Co-Founder",
+        "background": "Veteran of Unit 8200. Early employee at Granulate (acquired by Intel).",
+        "origin": "Israeli",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "vega-security",
+        "stage": "Series A",
+        "date": "2025-09",
+        "amount_m": 65.0,
+        "valuation_m": null,
+        "lead_investors": "Accel",
+        "other_investors": "",
+        "source": "https://www.calcalistech.com/ctechnews/article/5ux1km13g",
+        "notes": ""
+      },
+      {
+        "company_slug": "vega-security",
+        "stage": "Series B",
+        "date": "2026-02",
+        "amount_m": 120.0,
+        "valuation_m": 700.0,
+        "lead_investors": "Accel",
+        "other_investors": "",
+        "source": "https://techcrunch.com/2026/02/10/vega-raises-120m-series-b-to-rethink-how-enterprises-detect-cyber-threats/",
+        "notes": "Participation from Cyberstarts, Redpoint, and CRV. Just five months after Series A. Nearly doubled valuation."
+      }
+    ],
+    "top_investors": []
+  },
+  {
     "slug": "vellum-ai",
     "name": "Vellum",
     "status": "active",
@@ -52454,6 +57097,65 @@
     "top_investors": []
   },
   {
+    "slug": "veritus",
+    "name": "Veritus",
+    "status": "active",
+    "founded_year": "2025",
+    "hq": "San Francisco, CA",
+    "website": "https://veritusagent.ai",
+    "sector": "AI Fintech / Lending",
+    "one_liner": "AI agents for the consumer lending industry. YC S25.",
+    "total_raised_m": 2.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "low",
+    "last_updated": "2026-03-24",
+    "founders": [
+      {
+        "company_slug": "veritus",
+        "name": "Joshua March",
+        "role": "Co-Founder",
+        "background": "YC S25 batch.",
+        "origin": "Unknown",
+        "prior": ""
+      },
+      {
+        "company_slug": "veritus",
+        "name": "Joey Stein",
+        "role": "Co-Founder",
+        "background": "YC S25 batch.",
+        "origin": "Unknown",
+        "prior": ""
+      },
+      {
+        "company_slug": "veritus",
+        "name": "David Schlesinger",
+        "role": "Co-Founder",
+        "background": "YC S25 batch.",
+        "origin": "Unknown",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "veritus",
+        "stage": "Seed",
+        "date": "2025-09",
+        "amount_m": 2.0,
+        "valuation_m": null,
+        "lead_investors": "Y Combinator",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
     "slug": "vertical-compute",
     "name": "Vertical Compute",
     "status": "active",
@@ -52556,6 +57258,119 @@
     "top_investors": []
   },
   {
+    "slug": "vibeflow",
+    "name": "VibeFlow",
+    "status": "active",
+    "founded_year": "2025",
+    "hq": "San Francisco, CA",
+    "website": "https://vibeflow.ai",
+    "sector": "AI DevTools / No-Code App Builder",
+    "one_liner": "Shopify for SaaS \u2014 web app generator with visual editable workflows. YC S25.",
+    "total_raised_m": 2.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "low",
+    "last_updated": "2026-03-24",
+    "founders": [
+      {
+        "company_slug": "vibeflow",
+        "name": "Elia Saquand",
+        "role": "Co-Founder",
+        "background": "YC S25 batch.",
+        "origin": "Unknown",
+        "prior": ""
+      },
+      {
+        "company_slug": "vibeflow",
+        "name": "Alessia Paccagnella",
+        "role": "Co-Founder",
+        "background": "YC S25 batch.",
+        "origin": "Italian (inferred from name)",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "vibeflow",
+        "stage": "Seed",
+        "date": "2025-09",
+        "amount_m": 2.0,
+        "valuation_m": null,
+        "lead_investors": "Y Combinator",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
+    "slug": "video-rebirth",
+    "name": "Video Rebirth",
+    "status": "active",
+    "founded_year": "2024",
+    "hq": "Singapore",
+    "website": "https://www.videorebirth.ai",
+    "sector": "AI video generation; generative AI; creative tools",
+    "one_liner": "Singapore-based AI video startup building industrial-grade video generation with physics-native attention and dual DiT architecture, backed by AMD Ventures and Hyundai.",
+    "total_raised_m": 80.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-24",
+    "founders": [
+      {
+        "company_slug": "video-rebirth",
+        "name": "Dr. Wei Liu",
+        "role": "CEO & Founder",
+        "background": "Former Tencent Distinguished Scientist. IEEE Fellow. Deep expertise in computer vision and video generation.",
+        "origin": "Chinese",
+        "prior": ""
+      },
+      {
+        "company_slug": "video-rebirth",
+        "name": "Dan Kong",
+        "role": "COO & Co-Founder",
+        "background": "Previously an AI investor at Abu Dhabi's G42 investment arm. Business and strategy background.",
+        "origin": "Chinese",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "video-rebirth",
+        "stage": "Series A",
+        "date": "2025-11",
+        "amount_m": 50.0,
+        "valuation_m": null,
+        "lead_investors": "undisclosed",
+        "other_investors": "",
+        "source": "https://www.prnewswire.com/news-releases/video-rebirth-secures-80-million-to-build-the-worlds-first-industrial-grade-ai-engine-302716670.html",
+        "notes": ""
+      },
+      {
+        "company_slug": "video-rebirth",
+        "stage": "Series A (extension)",
+        "date": "2026-03",
+        "amount_m": 30.0,
+        "valuation_m": null,
+        "lead_investors": "AMD Ventures",
+        "other_investors": "",
+        "source": "https://www.prnewswire.com/news-releases/video-rebirth-secures-80-million-to-build-the-worlds-first-industrial-grade-ai-engine-302716670.html",
+        "notes": "Hyundai also participated. Brings total to $80M."
+      }
+    ],
+    "top_investors": []
+  },
+  {
     "slug": "vinci-semi",
     "name": "Vinci (Semiconductor)",
     "status": "active",
@@ -52601,6 +57416,49 @@
         "lead_investors": "Eclipse; Xora Innovation; Khosla Ventures",
         "other_investors": "",
         "source": "",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
+    "slug": "visibl-semiconductors",
+    "name": "Visibl Semiconductors",
+    "status": "active",
+    "founded_year": "2025",
+    "hq": "San Francisco, CA, USA",
+    "website": "https://visibl.ai",
+    "sector": "AI / Semiconductor Design",
+    "one_liner": "The AI IDE for chip design, bringing AI-native development tools to hardware engineering.",
+    "total_raised_m": 0.5,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-24",
+    "founders": [
+      {
+        "company_slug": "visibl-semiconductors",
+        "name": "Unknown",
+        "role": "Co-Founder & CEO",
+        "background": "Semiconductor design and AI background.",
+        "origin": "Unknown",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "visibl-semiconductors",
+        "stage": "Pre-Seed / YC",
+        "date": "2026-01",
+        "amount_m": 0.5,
+        "valuation_m": null,
+        "lead_investors": "Y Combinator",
+        "other_investors": "",
+        "source": "https://www.ycombinator.com/companies/visibl-semiconductors",
         "notes": ""
       }
     ],
@@ -52696,6 +57554,65 @@
         "lead_investors": "Tiger Global",
         "other_investors": "",
         "source": "https://www.crunchbase.com/organization/viz-ai",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
+    "slug": "vulcan-technologies",
+    "name": "Vulcan Technologies",
+    "status": "active",
+    "founded_year": "2025",
+    "hq": "San Francisco, CA",
+    "website": "https://vulcan-tech.com",
+    "sector": "AI Legal / Regulatory Compliance",
+    "one_liner": "AI regulatory drafting and compliance automation. YC S25.",
+    "total_raised_m": 2.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "low",
+    "last_updated": "2026-03-24",
+    "founders": [
+      {
+        "company_slug": "vulcan-technologies",
+        "name": "Tanner Jones",
+        "role": "Co-Founder",
+        "background": "YC S25 batch.",
+        "origin": "Unknown",
+        "prior": ""
+      },
+      {
+        "company_slug": "vulcan-technologies",
+        "name": "Chris Minge",
+        "role": "Co-Founder",
+        "background": "YC S25 batch.",
+        "origin": "Unknown",
+        "prior": ""
+      },
+      {
+        "company_slug": "vulcan-technologies",
+        "name": "Nathaniel Branscum",
+        "role": "Co-Founder",
+        "background": "YC S25 batch.",
+        "origin": "Unknown",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "vulcan-technologies",
+        "stage": "Seed",
+        "date": "2025-09",
+        "amount_m": 2.0,
+        "valuation_m": null,
+        "lead_investors": "Y Combinator",
+        "other_investors": "",
+        "source": "",
         "notes": ""
       }
     ],
@@ -53393,6 +58310,49 @@
         "lead_investors": "Time Ventures (Marc Benioff); Atreides Management; Forerunner Ventures",
         "other_investors": "",
         "source": "https://siliconangle.com/2026/01/13/sovereign-ai-unicorn-webais-value-soars-2-5b-double-digit-funding-round/",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
+    "slug": "wedge-health",
+    "name": "Wedge",
+    "status": "active",
+    "founded_year": "2025",
+    "hq": "San Francisco, CA",
+    "website": "https://wedge.health",
+    "sector": "AI Healthcare / Agent Infrastructure",
+    "one_liner": "Palantir for healthcare AI agents. YC S25.",
+    "total_raised_m": 2.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "low",
+    "last_updated": "2026-03-24",
+    "founders": [
+      {
+        "company_slug": "wedge-health",
+        "name": "Unknown",
+        "role": "Co-Founder",
+        "background": "YC S25 batch.",
+        "origin": "Unknown",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "wedge-health",
+        "stage": "Seed",
+        "date": "2025-09",
+        "amount_m": 2.0,
+        "valuation_m": null,
+        "lead_investors": "Y Combinator",
+        "other_investors": "",
+        "source": "",
         "notes": ""
       }
     ],
@@ -55134,6 +60094,49 @@
         "other_investors": "",
         "source": "",
         "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
+    "slug": "zainar",
+    "name": "ZaiNar",
+    "status": "active",
+    "founded_year": "2017",
+    "hq": "Belmont, CA",
+    "website": "https://zainartech.com",
+    "sector": "physical AI; wireless sensing; location intelligence",
+    "one_liner": "Physical AI platform that transforms existing 5G and WiFi networks into comprehensive spatial sensing systems, achieving sub-meter accuracy without GPS, cameras, or heavy compute.",
+    "total_raised_m": 100.0,
+    "latest_valuation_m": 1000.0,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-24",
+    "founders": [
+      {
+        "company_slug": "zainar",
+        "name": "Daniel Jacker",
+        "role": "CEO & Co-Founder",
+        "background": "Background in wireless technology and sensing systems. Built ZaiNar in stealth for nine years.",
+        "origin": "American",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "zainar",
+        "stage": "Aggregate funding",
+        "date": "2026-02",
+        "amount_m": 100.0,
+        "valuation_m": 1000.0,
+        "lead_investors": "Steve Jurvetson",
+        "other_investors": "",
+        "source": "https://zainartech.com/news/funding",
+        "notes": "Emerged from nine years of stealth on February 19, 2026. Over $450M in contracts and MOUs secured."
       }
     ],
     "top_investors": []
