@@ -127,6 +127,8 @@ crunchbase_verified: true
 total_raised_m: 1540.0
 headquarters: Toronto, Ontario, Canada
 linkedin_verified: true
+confidence: high
+last_updated: '2026-03-24'
 ---
 
 # Cohere

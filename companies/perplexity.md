@@ -96,6 +96,8 @@ founders:
   origin: American
 linkedin_verified: true
 total_raised_m: 1500.0
+confidence: high
+last_updated: '2026-03-24'
 ---
 
 # Perplexity AI

@@ -26,6 +26,7 @@ website_verified: true
 linkedin: https://www.linkedin.com/company/birchbiosciences
 name: Birch Biosciences
 total_raised_m: 2.0
+confidence: high
 ---
 
 # Birch Biosciences

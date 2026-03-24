@@ -11,11 +11,13 @@ status: Active, Private
 founders:
 - name: Charles Kantor
   role: Co-founder (stepped down as CEO Jun 2025, remains shareholder)
-  background: Former Stanford University computational mathematics researcher. Co-founded H Company while at Stanford. Replaced as CEO by Gautier Cloix (former Palantir executive) in June 2025.
+  background: Former Stanford University computational mathematics researcher. Co-founded H Company while at Stanford. Replaced
+    as CEO by Gautier Cloix (former Palantir executive) in June 2025.
   origin: American
 - name: Laurent Sifre
   role: Co-founder & CTO
-  background: Former Principal Scientist at Google DeepMind. Contributed to AlphaGo, AlphaFold, and AlphaStar. Worked on Google's Gemini and Gemma models. Deep expertise in large-scale AI training.
+  background: Former Principal Scientist at Google DeepMind. Contributed to AlphaGo, AlphaFold, and AlphaStar. Worked on Google's
+    Gemini and Gemma models. Deep expertise in large-scale AI training.
   origin: French
 - name: Daan Wierstra
   role: Co-founder (departed Aug 2024)
@@ -56,6 +58,8 @@ crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/h-company-ai
 linkedin_verified: true
 total_raised_m: 220.0
+confidence: high
+last_updated: '2026-03-24'
 ---
 
 # H Company

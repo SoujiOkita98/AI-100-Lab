@@ -45,6 +45,7 @@ name: LangChain
 linkedin_verified: true
 total_raised_m: 260.0
 latest_valuation_m: 1250.0
+confidence: high
 ---
 
 # LangChain

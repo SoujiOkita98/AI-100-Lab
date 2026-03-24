@@ -47,6 +47,7 @@ name: Xaira Therapeutics
 linkedin_verified: true
 total_raised_m: 1000.0
 latest_valuation_m: 4000.0
+confidence: high
 ---
 
 # Xaira Therapeutics

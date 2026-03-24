@@ -11,7 +11,11 @@ status: Active, Private
 founders:
 - name: Ang Li
   role: CEO & Co-Founder
-  background: PhD in Computer Science from University of Maryland College Park (2017), specializing in representation learning for linguistic and visual information. ACM ICPC World Finals participant twice (49th in 2009 for Nanjing University, 39th in 2013 for UMD). Led applied research programs at Google DeepMind (2017-2021) in evolutionary neural networks and lifelong learning. Principal Scientist at Apollo/Baidu Autonomous Driving (2021-2023), developing continual learning platforms for self-driving cars. Co-founded Simular in 2023 at South Park Commons.
+  background: PhD in Computer Science from University of Maryland College Park (2017), specializing in representation learning
+    for linguistic and visual information. ACM ICPC World Finals participant twice (49th in 2009 for Nanjing University, 39th
+    in 2013 for UMD). Led applied research programs at Google DeepMind (2017-2021) in evolutionary neural networks and lifelong
+    learning. Principal Scientist at Apollo/Baidu Autonomous Driving (2021-2023), developing continual learning platforms
+    for self-driving cars. Co-founded Simular in 2023 at South Park Commons.
   origin: Chinese-American
 - name: Jiachen Yang
   role: Co-founder
@@ -44,6 +48,8 @@ funding_rounds:
   source: https://techcrunch.com/2025/12/02/simular-releases-mac-os-ai-agent-raises-21-5m-from-felicis-with-windows-coming-soon/
 linkedin: https://www.linkedin.com/company/simular/
 linkedin_verified: true
+confidence: high
+last_updated: '2026-03-24'
 ---
 
 # Simular

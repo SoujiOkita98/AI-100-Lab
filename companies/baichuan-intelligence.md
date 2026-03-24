@@ -48,6 +48,7 @@ linkedin: https://www.linkedin.com/company/baichuan-intelligence/
 linkedin_verified: true
 total_raised_m: 1040.0
 status: active
+confidence: high
 ---
 
 # Baichuan Intelligence

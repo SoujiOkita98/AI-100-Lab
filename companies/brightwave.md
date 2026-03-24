@@ -9,11 +9,14 @@ founders:
 - name: Mike Conover
   role: Co-Founder & CEO
   origin: American
-  background: "PhD complexity science. 15+ years building AI systems. Established open-source LLM practice at Databricks (led creation of Dolly, first instruction-tuned open-source LLM). Former Director of Financial ML at Workday. Former engineering lead for LinkedIn homepage relevance."
+  background: PhD complexity science. 15+ years building AI systems. Established open-source LLM practice at Databricks (led
+    creation of Dolly, first instruction-tuned open-source LLM). Former Director of Financial ML at Workday. Former engineering
+    lead for LinkedIn homepage relevance.
 - name: Brandon Kotara
   role: Co-Founder & CTO
   origin: American
-  background: "Former CTO of LedgerX (federally-regulated derivatives exchange and clearinghouse). Technical expertise in financial infrastructure and trading systems."
+  background: Former CTO of LedgerX (federally-regulated derivatives exchange and clearinghouse). Technical expertise in financial
+    infrastructure and trading systems.
 arr_estimate: Undisclosed (reported 4x revenue growth in four months post-seed; no public ARR figure)
 employee_count_estimate: ~22 (as of Jan 2026, per Tracxn)
 status: Private
@@ -38,6 +41,7 @@ funding_rounds:
   source: https://www.businesswire.com/news/home/20241029778071/en/
 name: Brightwave
 linkedin_verified: true
+confidence: high
 ---
 
 # Brightwave -- Company Profile

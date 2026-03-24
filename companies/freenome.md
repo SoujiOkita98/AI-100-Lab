@@ -74,6 +74,7 @@ name: Freenome
 linkedin_verified: true
 total_raised_m: 1350.0
 latest_valuation_m: 1500.0
+confidence: high
 ---
 
 # Freenome

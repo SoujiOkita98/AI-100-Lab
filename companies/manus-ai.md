@@ -44,6 +44,7 @@ funding_rounds:
 data_notes: Acquired by Meta for ~$2.5-3B in December 2025.
 linkedin_verified: true
 status: active
+confidence: high
 ---
 
 # Manus AI

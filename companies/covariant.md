@@ -106,6 +106,8 @@ crunchbase: https://www.crunchbase.com/organization/covariant
 crunchbase_verified: true
 headquarters: Emeryville, CA
 linkedin_verified: true
+confidence: high
+last_updated: '2026-03-24'
 ---
 
 ## Overview

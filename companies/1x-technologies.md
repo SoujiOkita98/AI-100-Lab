@@ -90,6 +90,7 @@ crunchbase: https://www.crunchbase.com/organization/1x-technologies
 crunchbase_verified: true
 headquarters: Palo Alto, California, USA
 linkedin_verified: true
+confidence: high
 ---
 
 # 1X Technologies

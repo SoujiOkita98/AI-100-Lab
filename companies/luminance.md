@@ -57,6 +57,8 @@ crunchbase: https://www.crunchbase.com/organization/luminance
 crunchbase_verified: true
 linkedin_verified: true
 total_raised_m: 165.0
+confidence: high
+last_updated: '2026-03-24'
 ---
 
 # Luminance

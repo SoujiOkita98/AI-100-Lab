@@ -71,6 +71,7 @@ name: WEKA
 linkedin_verified: true
 total_raised_m: 375.0
 status: active
+confidence: high
 ---
 
 # WEKA

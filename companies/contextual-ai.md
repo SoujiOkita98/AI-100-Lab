@@ -43,6 +43,7 @@ crunchbase_verified: true
 total_raised_m: 100.0
 name: Contextual AI
 linkedin_verified: true
+confidence: high
 ---
 
 # Contextual AI

@@ -82,6 +82,7 @@ linkedin: https://www.linkedin.com/company/enflame
 linkedin_verified: true
 total_raised_m: 1390.0
 status: active
+confidence: high
 ---
 
 # Enflame Technology

@@ -11,27 +11,39 @@ status: Active, Private (Public Benefit Corporation)
 founders:
 - name: Mira Murati
   role: CEO
-  background: Born in Vlore, Albania. Studied Mechanical Engineering at Dartmouth College. Worked at Goldman Sachs, then Zodiac Aerospace and Leap Motion. VP of Engineering at Tesla on the Model X. Joined OpenAI in 2018; became CTO in 2022. Briefly served as interim CEO of OpenAI during Sam Altman's temporary departure (November 2023). Left OpenAI in September 2024 to found Thinking Machines Lab. Led OpenAI through its most critical growth phase (ChatGPT, GPT-4, DALL-E).
+  background: Born in Vlore, Albania. Studied Mechanical Engineering at Dartmouth College. Worked at Goldman Sachs, then Zodiac
+    Aerospace and Leap Motion. VP of Engineering at Tesla on the Model X. Joined OpenAI in 2018; became CTO in 2022. Briefly
+    served as interim CEO of OpenAI during Sam Altman's temporary departure (November 2023). Left OpenAI in September 2024
+    to found Thinking Machines Lab. Led OpenAI through its most critical growth phase (ChatGPT, GPT-4, DALL-E).
   origin: Albanian-American
 - name: John Schulman
   role: Co-founder
-  background: PhD from UC Berkeley under Pieter Abbeel. Co-founder of OpenAI (2015). Created Proximal Policy Optimization (PPO), one of the most widely used RL algorithms. Led the RLHF work that made ChatGPT possible. Left OpenAI in August 2024 to join Anthropic, then departed to co-found Thinking Machines Lab.
+  background: PhD from UC Berkeley under Pieter Abbeel. Co-founder of OpenAI (2015). Created Proximal Policy Optimization
+    (PPO), one of the most widely used RL algorithms. Led the RLHF work that made ChatGPT possible. Left OpenAI in August
+    2024 to join Anthropic, then departed to co-found Thinking Machines Lab.
   origin: American
 - name: Barrett Zoph
   role: Co-founder
-  background: PhD from University of Southern California. Former research scientist at Google Brain where he pioneered Neural Architecture Search (NAS). Joined OpenAI as Research Lead. Led GPT-4 post-training. Left OpenAI in 2024 to co-found Thinking Machines Lab.
+  background: PhD from University of Southern California. Former research scientist at Google Brain where he pioneered Neural
+    Architecture Search (NAS). Joined OpenAI as Research Lead. Led GPT-4 post-training. Left OpenAI in 2024 to co-found Thinking
+    Machines Lab.
   origin: American
 - name: Lilian Weng
   role: Co-founder
-  background: PhD from University of Michigan. Former Head of Safety Systems at OpenAI. Well-known for her influential technical blog (lilianweng.github.io) covering deep learning, RL, and LLM topics. Left OpenAI in 2024 to co-found Thinking Machines Lab.
+  background: PhD from University of Michigan. Former Head of Safety Systems at OpenAI. Well-known for her influential technical
+    blog (lilianweng.github.io) covering deep learning, RL, and LLM topics. Left OpenAI in 2024 to co-found Thinking Machines
+    Lab.
   origin: Chinese-American
 - name: Andrew Tulloch
   role: Co-founder
-  background: Former engineering leader at OpenAI focused on infrastructure and systems. Previously at Facebook AI Research (FAIR). Deep expertise in ML infrastructure and high-performance computing. Left OpenAI to co-found Thinking Machines Lab.
+  background: Former engineering leader at OpenAI focused on infrastructure and systems. Previously at Facebook AI Research
+    (FAIR). Deep expertise in ML infrastructure and high-performance computing. Left OpenAI to co-found Thinking Machines
+    Lab.
   origin: Australian
 - name: Luke Metz
   role: Co-founder
-  background: Former research scientist at OpenAI and Google Brain. PhD research focused on meta-learning and learned optimizers. Left OpenAI to co-found Thinking Machines Lab.
+  background: Former research scientist at OpenAI and Google Brain. PhD research focused on meta-learning and learned optimizers.
+    Left OpenAI to co-found Thinking Machines Lab.
   origin: American
 key_investors:
 - Andreessen Horowitz (a16z) — lead
@@ -60,6 +72,8 @@ crunchbase: https://www.crunchbase.com/organization/thinking-machines-lab
 crunchbase_verified: true
 linkedin_verified: true
 total_raised_m: 2000.0
+confidence: high
+last_updated: '2026-03-24'
 ---
 
 # Thinking Machines Lab

@@ -50,6 +50,7 @@ crunchbase: https://www.crunchbase.com/organization/granola
 crunchbase_verified: true
 linkedin_verified: true
 total_raised_m: 125.0
+confidence: high
 ---
 
 # Granola -- AI Meeting Notes

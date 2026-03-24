@@ -69,6 +69,7 @@ linkedin_verified: true
 total_raised_m: 492.0
 latest_valuation_m: 10000.0
 status: active
+confidence: high
 ---
 
 # Mercor

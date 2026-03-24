@@ -68,6 +68,7 @@ funding_rounds:
   source: https://www.cnbc.com/2025/11/13/cursor-ai-startup-funding-round-valuation.html
 name: Anysphere
 linkedin_verified: true
+confidence: high
 ---
 
 # Anysphere (Cursor)

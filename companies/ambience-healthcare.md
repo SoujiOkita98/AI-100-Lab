@@ -11,11 +11,14 @@ founders:
 - name: Mike Ng
   role: Co-Founder / President & Chairman
   origin: Chinese-American
-  background: "BCom Finance University of Sydney, MBA MIT Sloan. Former PE Associate at Calera Capital, IB Analyst at Morgan Stanley. Co-founded Remedy Health. Inspired to enter healthcare after back fracture and misdiagnosis in 2012."
+  background: BCom Finance University of Sydney, MBA MIT Sloan. Former PE Associate at Calera Capital, IB Analyst at Morgan
+    Stanley. Co-founded Remedy Health. Inspired to enter healthcare after back fracture and misdiagnosis in 2012.
 - name: Nikhil Buduma
   role: Co-Founder / CEO (promoted Sep 2025, formerly Chief Scientist)
   origin: Indian-American
-  background: "MIT. Authored 'Fundamentals of Deep Learning' (O'Reilly), first widely-adopted textbook on modern AI. Two-time gold medalist International Biology Olympiad. Managed drug discovery lab at San Jose State at age 16. Co-founded Lean On Me (national nonprofit) and Remedy Medical. Becker's Rising Stars Under 40."
+  background: MIT. Authored 'Fundamentals of Deep Learning' (O'Reilly), first widely-adopted textbook on modern AI. Two-time
+    gold medalist International Biology Olympiad. Managed drug discovery lab at San Jose State at age 16. Co-founded Lean
+    On Me (national nonprofit) and Remedy Medical. Becker's Rising Stars Under 40.
 key_investors:
 - Oak HC/FT (co-lead, Series C)
 - Andreessen Horowitz (a16z) (co-lead, Series C)
@@ -67,6 +70,8 @@ linkedin: https://www.linkedin.com/company/ambiencehealthcare
 linkedin_verified: true
 total_raised_m: 345.0
 latest_valuation_m: 1250.0
+confidence: high
+last_updated: '2026-03-24'
 ---
 
 # Ambience Healthcare

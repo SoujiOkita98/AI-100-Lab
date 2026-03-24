@@ -10,15 +10,19 @@ last_updated: 2026-03-20
 founders:
 - name: Devvret Rishi
   role: Co-Founder & CEO
-  background: Harvard CS graduate. Former Google Product Manager for Vertex AI and Kaggle. Led product strategy for Google's ML platform services before co-founding Predibase to democratize ML fine-tuning.
+  background: Harvard CS graduate. Former Google Product Manager for Vertex AI and Kaggle. Led product strategy for Google's
+    ML platform services before co-founding Predibase to democratize ML fine-tuning.
   origin: Indian-American
 - name: Piero Molino
   role: Co-Founder & Chief Science Officer
-  background: Creator of Ludwig, the open-source declarative ML framework. Former researcher at Uber AI Labs. PhD in AI/NLP. Published researcher in deep learning and NLP. Ludwig became the technical foundation of Predibase's fine-tuning platform.
+  background: Creator of Ludwig, the open-source declarative ML framework. Former researcher at Uber AI Labs. PhD in AI/NLP.
+    Published researcher in deep learning and NLP. Ludwig became the technical foundation of Predibase's fine-tuning platform.
   origin: Italian
 - name: Travis Addair
   role: Co-Founder & CTO
-  background: Former Uber ML Platform lead, where he built and managed the distributed ML training infrastructure at scale. Led the engineering team at Predibase focused on efficient fine-tuning and serving of open-source LLMs. Deep expertise in distributed systems and ML infrastructure.
+  background: Former Uber ML Platform lead, where he built and managed the distributed ML training infrastructure at scale.
+    Led the engineering team at Predibase focused on efficient fine-tuning and serving of open-source LLMs. Deep expertise
+    in distributed systems and ML infrastructure.
   origin: American
 one_liner: Predibase was an AI infrastructure company that enabled software engineers to fine-tune and serve open-source AI
   models across cloud environments
@@ -42,6 +46,7 @@ data_notes: Acquired by Rubrik in June 2025 for estimated $100-500M.
 linkedin: https://www.linkedin.com/company/predibase/
 name: Predibase
 linkedin_verified: true
+confidence: high
 ---
 
 # Predibase -- Fine-Tuning & Serving Open-Source AI Models (Acquired by Rubrik)

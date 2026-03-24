@@ -48,6 +48,7 @@ linkedin: https://www.linkedin.com/company/fourier-intelligence-co.-ltd.
 headquarters: Shanghai, China
 linkedin_verified: true
 total_raised_m: 200.0
+confidence: high
 ---
 
 # Fourier Intelligence

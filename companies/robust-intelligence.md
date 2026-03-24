@@ -58,6 +58,8 @@ funding_rounds:
   source: https://www.crunchbase.com/organization/robust-intelligence
 linkedin: https://www.linkedin.com/company/robust-intelligence/
 linkedin_verified: true
+confidence: high
+last_updated: '2026-03-24'
 ---
 
 # Robust Intelligence

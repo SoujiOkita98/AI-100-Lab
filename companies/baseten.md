@@ -73,6 +73,7 @@ name: Baseten
 linkedin_verified: true
 total_raised_m: 585.0
 latest_valuation_m: 5000.0
+confidence: high
 ---
 
 # Baseten

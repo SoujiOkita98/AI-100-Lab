@@ -8,15 +8,23 @@ current_ceo: Ben FitzGerald
 founders:
 - name: Chris Lynch
   role: Co-founder
-  background: Serial entrepreneur from Seattle. Attended University of Cincinnati Carl H. Lindner College of Business. Hired by SecDef Ash Carter in 2015 to found the Defense Digital Service (DDS), a Pentagon "SWAT team of hackers" that ran bug bounty programs and helped launch the JEDI cloud program. Left DDS in April 2019 to found Rebellion Defense. Previously founded venture-backed startups and led engineering teams at enterprise companies.
+  background: Serial entrepreneur from Seattle. Attended University of Cincinnati Carl H. Lindner College of Business. Hired
+    by SecDef Ash Carter in 2015 to found the Defense Digital Service (DDS), a Pentagon "SWAT team of hackers" that ran bug
+    bounty programs and helped launch the JEDI cloud program. Left DDS in April 2019 to found Rebellion Defense. Previously
+    founded venture-backed startups and led engineering teams at enterprise companies.
   origin: American
 - name: Nicole Camarillo
   role: Co-founder
-  background: Spent 20 years as a Federal employee supporting Department of the Navy, Department of Defense, and DISA. Served as Chief Strategist for U.S. Army Cyber Command. At Rebellion Defense, served as Chief Talent and Operations Officer.
+  background: Spent 20 years as a Federal employee supporting Department of the Navy, Department of Defense, and DISA. Served
+    as Chief Strategist for U.S. Army Cyber Command. At Rebellion Defense, served as Chief Talent and Operations Officer.
   origin: American
 - name: Oliver Lewis
   role: Co-founder
-  background: Former Deputy Director of the Digital, Data and Technology profession in the British civil service. UK Ministry of Defence intelligence officer, policy advisor, and strategy advisor with two deployments to Afghanistan as a civilian intelligence officer embedded in the British Army. Started government business for metaverse technology unicorn Improbable. Affiliated with University of Oxford's Changing Character of War Centre for a decade. Non-resident senior visiting fellow at USC Center on Public Diplomacy.
+  background: Former Deputy Director of the Digital, Data and Technology profession in the British civil service. UK Ministry
+    of Defence intelligence officer, policy advisor, and strategy advisor with two deployments to Afghanistan as a civilian
+    intelligence officer embedded in the British Army. Started government business for metaverse technology unicorn Improbable.
+    Affiliated with University of Oxford's Changing Character of War Centre for a decade. Non-resident senior visiting fellow
+    at USC Center on Public Diplomacy.
   origin: British
 - name: Chase Kimball
   role: Co-founder
@@ -48,6 +56,7 @@ linkedin: https://www.linkedin.com/company/rebellion-defense/
 linkedin_verified: true
 total_raised_m: 224.0
 latest_valuation_m: 1000.0
+confidence: high
 ---
 
 # Rebellion Defense

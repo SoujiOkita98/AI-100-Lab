@@ -6,11 +6,13 @@ founders:
 - name: Paul Yacoubian
   role: Co-Founder & CEO
   origin: Armenian-American
-  background: "BA Economics Rhodes College. Former CPA at CBIZ. Former CFO of stealth long-short hedge fund (SaaS, semiconductor, industrial sectors). General Partner at ESO Fund (2016-2020). Scaled and sold CirQuest Labs to PE firm."
+  background: BA Economics Rhodes College. Former CPA at CBIZ. Former CFO of stealth long-short hedge fund (SaaS, semiconductor,
+    industrial sectors). General Partner at ESO Fund (2016-2020). Scaled and sold CirQuest Labs to PE firm.
 - name: Chris Lu
   role: Co-Founder & CTO
   origin: Chinese-American
-  background: "BS CS Washington University in St. Louis. Former GP & Head of Engineering at ESO Fund (2014-2020). Met Yacoubian at ESO Fund; they worked together 5 years before co-founding Copy.ai."
+  background: BS CS Washington University in St. Louis. Former GP & Head of Engineering at ESO Fund (2014-2020). Met Yacoubian
+    at ESO Fund; they worked together 5 years before co-founding Copy.ai.
 category: AI-native GTM / Sales & Marketing Automation
 status: Acquired by Fullcast (October 15, 2025)
 last_round: $3M Convertible Note (November 2023, led by K5 Global Technology)
@@ -61,6 +63,8 @@ sector:
 - AI marketing
 - generative AI
 - enterprise AI
+confidence: high
+last_updated: '2026-03-24'
 ---
 
 # Copy.ai

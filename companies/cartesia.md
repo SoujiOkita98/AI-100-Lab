@@ -6,23 +6,26 @@ sector: AI Infrastructure / Voice AI / Edge AI
 founders:
 - name: Karan Goel
   role: CEO
-  background: "BTech IIT Delhi, MS Carnegie Mellon, PhD CS Stanford (advised by Chris Ré). Co-invented State Space Models (SSMs) at Stanford AI Lab."
+  background: BTech IIT Delhi, MS Carnegie Mellon, PhD CS Stanford (advised by Chris Ré). Co-invented State Space Models (SSMs)
+    at Stanford AI Lab.
   origin: Indian-American
 - name: Albert Gu
   role: Chief Scientist
-  background: "PhD CS Stanford (AI Lab). Co-invented State Space Models (SSMs) including S4 and Mamba architectures. Now Assistant Professor at Carnegie Mellon."
+  background: PhD CS Stanford (AI Lab). Co-invented State Space Models (SSMs) including S4 and Mamba architectures. Now Assistant
+    Professor at Carnegie Mellon.
   origin: American
 - name: Arjun Desai
   role: Co-founder
-  background: "Stanford AI Lab PhD student. Co-developed SSM research with Goel and Gu."
+  background: Stanford AI Lab PhD student. Co-developed SSM research with Goel and Gu.
   origin: Indian-American
 - name: Brandon Yang
   role: Co-founder
-  background: "Stanford AI Lab researcher. Part of the SSM research group."
+  background: Stanford AI Lab researcher. Part of the SSM research group.
   origin: American
 - name: Chris Ré
   role: Stanford Professor, co-founder
-  background: "Professor of CS at Stanford. MacArthur Fellow. Advisor to Goel and Gu. Co-founded multiple AI companies including Snorkel AI. Pioneer in data-centric AI and foundation model architectures."
+  background: Professor of CS at Stanford. MacArthur Fellow. Advisor to Goel and Gu. Co-founded multiple AI companies including
+    Snorkel AI. Pioneer in data-centric AI and foundation model architectures.
   origin: American
 headcount: ~91 (as of Feb 2026)
 latest_round: Series A ($64M, March 2025)
@@ -53,6 +56,7 @@ funding_rounds:
   source: https://www.crunchbase.com/organization/cartesia
 name: Cartesia
 linkedin_verified: true
+confidence: high
 ---
 
 # Cartesia

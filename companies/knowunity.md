@@ -56,6 +56,7 @@ funding_rounds:
   - XAnge
   source: https://www.crunchbase.com/organization/knowunity
 linkedin_verified: true
+confidence: high
 ---
 
 # Knowunity -- AI Learning Platform for Students

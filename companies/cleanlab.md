@@ -45,6 +45,8 @@ funding_rounds:
   source: https://www.crunchbase.com/organization/cleanlab
 name: Cleanlab
 linkedin_verified: true
+confidence: high
+last_updated: '2026-03-24'
 ---
 
 # Cleanlab

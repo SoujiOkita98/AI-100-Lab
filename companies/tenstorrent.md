@@ -56,6 +56,7 @@ funding_rounds:
 name: Tenstorrent
 linkedin_verified: true
 status: active
+confidence: high
 ---
 
 # Tenstorrent

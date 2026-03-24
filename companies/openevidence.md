@@ -64,6 +64,8 @@ twitter: '@EvidenceOpen'
 linkedin_verified: true
 total_raised_m: 700.0
 latest_valuation_m: 12000.0
+confidence: high
+last_updated: '2026-03-24'
 ---
 
 # OpenEvidence

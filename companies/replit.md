@@ -19,7 +19,10 @@ business_customers: 750_000+
 founders:
 - name: Amjad Masad
   role: CEO & Co-Founder
-  background: Born and raised in Amman, Jordan, with Palestinian heritage. BSc Computer Science from Princess Sumaya University for Technology (Jordan, 2005-2010). Founding engineer at Codecademy (2011-2013). Software engineer and tech lead on JavaScript infrastructure team at Facebook (2013-2016). Created JSRepl in 2011, the open-source precursor to Replit. Turned down a $1B acquisition offer in 2019. YC W18.
+  background: Born and raised in Amman, Jordan, with Palestinian heritage. BSc Computer Science from Princess Sumaya University
+    for Technology (Jordan, 2005-2010). Founding engineer at Codecademy (2011-2013). Software engineer and tech lead on JavaScript
+    infrastructure team at Facebook (2013-2016). Created JSRepl in 2011, the open-source precursor to Replit. Turned down
+    a $1B acquisition offer in 2019. YC W18.
   origin: Jordanian-American
 - name: Faris Masad
   role: Co-Founder
@@ -27,7 +30,8 @@ founders:
   origin: Jordanian-American
 - name: Haya Odeh
   role: Co-Founder (Design)
-  background: Amjad's wife. Focused on user-friendly design to make the platform accessible to non-developers and professionals. Detailed background not well-documented publicly.
+  background: Amjad's wife. Focused on user-friendly design to make the platform accessible to non-developers and professionals.
+    Detailed background not well-documented publicly.
   origin: Palestinian-American
 funding_rounds:
 - stage: Pre-Seed
@@ -97,6 +101,8 @@ crunchbase_verified: true
 linkedin_verified: true
 total_raised_m: 872.0
 latest_valuation_m: 9000.0
+confidence: high
+last_updated: '2026-03-24'
 ---
 
 # Replit

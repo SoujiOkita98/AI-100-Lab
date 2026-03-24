@@ -58,6 +58,7 @@ linkedin: https://www.linkedin.com/company/neura-robotics
 headquarters: Metzingen, Germany
 linkedin_verified: true
 total_raised_m: 281.0
+confidence: high
 ---
 
 # NEURA Robotics

@@ -35,6 +35,7 @@ linkedin: https://www.linkedin.com/company/shadeformai
 crunchbase: https://www.crunchbase.com/organization/shadeform-ai
 name: Shadeform
 total_raised_m: 1.0
+confidence: high
 ---
 
 # Shadeform

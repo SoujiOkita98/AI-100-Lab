@@ -37,6 +37,8 @@ name: Hugging Face
 linkedin_verified: true
 latest_valuation_m: 4500.0
 funding_rounds: []
+confidence: medium
+last_updated: '2026-03-24'
 ---
 
 # Hugging Face

@@ -13,15 +13,19 @@ founders:
 - name: Anastasios Nikolas Angelopoulos
   role: CEO
   origin: Greek-American
-  background: "PhD EECS UC Berkeley (advised by Michael I. Jordan and Jitendra Malik). Postdoc at UC Berkeley with Ion Stoica. Research focus on trustworthy AI, conformal prediction, and reliable ML. Co-created Chatbot Arena as PhD side project in 2023."
+  background: PhD EECS UC Berkeley (advised by Michael I. Jordan and Jitendra Malik). Postdoc at UC Berkeley with Ion Stoica.
+    Research focus on trustworthy AI, conformal prediction, and reliable ML. Co-created Chatbot Arena as PhD side project
+    in 2023.
 - name: Wei-Lin Chiang
   role: CTO
   origin: Taiwanese-American
-  background: "BS & MS National Taiwan University, PhD candidate EECS UC Berkeley (SkyLab, advised by Ion Stoica). Research internships at Google, Amazon, Alibaba, Microsoft. Co-created Chatbot Arena as PhD side project in 2023."
+  background: BS & MS National Taiwan University, PhD candidate EECS UC Berkeley (SkyLab, advised by Ion Stoica). Research
+    internships at Google, Amazon, Alibaba, Microsoft. Co-created Chatbot Arena as PhD side project in 2023.
 - name: Ion Stoica
   role: Co-founder & Advisor
   origin: Romanian-American
-  background: "MS EE/CS Polytechnic University of Bucharest, PhD ECE Carnegie Mellon. Professor of CS at UC Berkeley (Xu Bao Chancellor's Chair). Co-founded Databricks, Conviva, and Anyscale."
+  background: MS EE/CS Polytechnic University of Bucharest, PhD ECE Carnegie Mellon. Professor of CS at UC Berkeley (Xu Bao
+    Chancellor's Chair). Co-founded Databricks, Conviva, and Anyscale.
 funding:
   total_raised: $250M
   latest_round: Series A
@@ -69,6 +73,7 @@ sector:
 - model leaderboards
 - enterprise AI
 funding_rounds: []
+confidence: medium
 ---
 
 # Arena

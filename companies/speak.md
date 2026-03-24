@@ -56,6 +56,7 @@ founders:
 linkedin_verified: true
 total_raised_m: 162.0
 latest_valuation_m: 1000.0
+confidence: high
 ---
 
 # Speak -- AI Language Learning

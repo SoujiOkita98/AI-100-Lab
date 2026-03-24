@@ -88,6 +88,7 @@ linkedin_verified: true
 total_raised_m: 935.0
 latest_valuation_m: 5500.0
 status: active
+confidence: high
 ---
 
 # Apptronik

@@ -31,6 +31,7 @@ website_verified: true
 linkedin: https://www.linkedin.com/company/knowtexai
 name: Knowtex
 total_raised_m: 2.0
+confidence: high
 ---
 
 # Knowtex

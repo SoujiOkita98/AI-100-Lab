@@ -57,6 +57,7 @@ name: David AI
 linkedin_verified: true
 latest_valuation_m: 500.0
 status: active
+confidence: high
 ---
 
 # David AI

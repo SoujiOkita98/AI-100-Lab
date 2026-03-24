@@ -11,11 +11,13 @@ founders:
 - name: Dheeraj Pandey
   role: Co-Founder & CEO
   origin: Indian
-  background: "BS CS&E IIT Kanpur (1997), MS CS UT Austin. Co-founded Nutanix (2009, IPO 2016 on Nasdaq, served as CEO until 2020). Former Senior Manager Software Development at Oracle. Adobe board member."
+  background: BS CS&E IIT Kanpur (1997), MS CS UT Austin. Co-founded Nutanix (2009, IPO 2016 on Nasdaq, served as CEO until
+    2020). Former Senior Manager Software Development at Oracle. Adobe board member.
 - name: Manoj Agarwal
   role: Co-Founder & CTO
   origin: Indian
-  background: "Former SVP of Engineering at Nutanix. Deep enterprise infrastructure and engineering leadership experience. Co-founded DevRev with Pandey in 2020."
+  background: Former SVP of Engineering at Nutanix. Deep enterprise infrastructure and engineering leadership experience.
+    Co-founded DevRev with Pandey in 2020.
 funding_rounds:
 - stage: Seed
   date: 2021-07
@@ -40,6 +42,7 @@ name: DevRev
 linkedin_verified: true
 total_raised_m: 158.0
 latest_valuation_m: 1150.0
+confidence: high
 ---
 
 # DevRev -- AI-Native CRM & Developer Platform

@@ -57,6 +57,7 @@ sector:
 - computational-biology
 - biotech
 funding_rounds: []
+confidence: medium
 ---
 
 # Isomorphic Labs

@@ -105,6 +105,8 @@ linkedin: https://www.linkedin.com/company/wandb/
 linkedin_verified: true
 total_raised_m: 250.0
 latest_valuation_m: 1250.0
+confidence: high
+last_updated: '2026-03-24'
 ---
 
 # Weights & Biases (W&B)

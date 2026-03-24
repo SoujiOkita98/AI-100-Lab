@@ -43,6 +43,7 @@ founders:
 total_raised_m: 1200.0
 linkedin_verified: true
 funding_rounds: []
+confidence: medium
 ---
 
 # StepFun (阶跃星辰)

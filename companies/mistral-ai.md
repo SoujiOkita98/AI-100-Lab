@@ -116,6 +116,7 @@ crunchbase_verified: true
 name: Mistral AI
 linkedin_verified: true
 total_raised_m: 3170.0
+confidence: high
 ---
 
 # Mistral AI

@@ -67,6 +67,7 @@ crunchbase_verified: true
 headquarters: Pittsburgh, Pennsylvania, USA
 linkedin_verified: true
 total_raised_m: 74.0
+confidence: high
 ---
 
 # Gather AI

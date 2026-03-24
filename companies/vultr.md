@@ -10,7 +10,11 @@ total_funding_approx: ~$662M (equity + credit)
 founders:
 - name: David Aninowsky
   role: Founder & Executive Chairman
-  background: Born and raised in New Jersey. Attended NJIT (New Jersey Institute of Technology) studying computer science but left to focus on his hosting company started in high school. Worked in managed infrastructure since 1996; one of the first employees at Datapipe. First venture was a virtual/shared hosting company in mid-1990s. Oversaw operational strategies and business development at GameServers.com for 17+ years. Founded Vultr in 2014 leveraging 20+ years of hosting/managed services experience.
+  background: Born and raised in New Jersey. Attended NJIT (New Jersey Institute of Technology) studying computer science
+    but left to focus on his hosting company started in high school. Worked in managed infrastructure since 1996; one of the
+    first employees at Datapipe. First venture was a virtual/shared hosting company in mid-1990s. Oversaw operational strategies
+    and business development at GameServers.com for 17+ years. Founded Vultr in 2014 leveraging 20+ years of hosting/managed
+    services experience.
   origin: American
 ceo: J.J. Kardwell
 employees_approx: ~500+ (estimate; exact figure uncertain)
@@ -39,6 +43,7 @@ crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/vultr
 total_raised_m: 662.0
 linkedin_verified: true
+last_updated: '2026-03-24'
 ---
 
 # Vultr

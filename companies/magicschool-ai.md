@@ -44,6 +44,7 @@ funding_rounds:
   - Valor Equity Partners
   source: https://www.crunchbase.com/organization/magicschool-ai
 linkedin_verified: true
+confidence: high
 ---
 
 # MagicSchool AI -- AI Tools for Educators

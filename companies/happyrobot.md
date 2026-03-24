@@ -54,6 +54,8 @@ funding_rounds:
   source: https://www.pymnts.com/news/investment-tracker/2025/happyrobot-raises-44-million-dollars-ai-supply-chain-workers/
 linkedin_verified: true
 latest_valuation_m: 500.0
+confidence: high
+last_updated: '2026-03-24'
 ---
 
 # HappyRobot

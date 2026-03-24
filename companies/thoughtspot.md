@@ -89,6 +89,8 @@ linkedin: https://www.linkedin.com/company/thoughtspot
 linkedin_verified: true
 total_raised_m: 809.0
 status: active
+confidence: high
+last_updated: '2026-03-24'
 ---
 
 # ThoughtSpot

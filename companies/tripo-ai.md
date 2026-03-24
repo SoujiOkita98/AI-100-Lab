@@ -36,6 +36,7 @@ funding_rounds:
 data_notes: Total ~$50M+ across multiple rounds. Individual round details not fully disclosed.
 linkedin_verified: true
 status: active
+confidence: high
 ---
 
 # Tripo AI

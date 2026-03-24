@@ -64,6 +64,8 @@ founders:
   role: Co-Founder
   origin: Italian
 linkedin_verified: true
+confidence: high
+last_updated: '2026-03-24'
 ---
 
 # Luma AI

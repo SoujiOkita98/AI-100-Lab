@@ -6,11 +6,14 @@ headquarters: San Francisco, CA
 founders:
 - name: Nicholas Rudder
   role: Co-Founder & CEO
-  background: Originally from Sydney, Australia. Background in finance at Macquarie Bank and PwC. Previously founded ScholarSite, an educational marketplace where he repeatedly encountered global tax compliance pain points. Pivoted ScholarSite into Sphere to build AI-native tax compliance. Based in San Francisco.
+  background: Originally from Sydney, Australia. Background in finance at Macquarie Bank and PwC. Previously founded ScholarSite,
+    an educational marketplace where he repeatedly encountered global tax compliance pain points. Pivoted ScholarSite into
+    Sphere to build AI-native tax compliance. Based in San Francisco.
   origin: Australian
 - name: Adrian Sarstedt
   role: Co-Founder (departed)
-  background: Co-founded Sphere with Nicholas Rudder. Technical co-founder who served as CTO. Built initial product. Has since departed the company. Further details limited in public sources.
+  background: Co-founded Sphere with Nicholas Rudder. Technical co-founder who served as CTO. Built initial product. Has since
+    departed the company. Further details limited in public sources.
   origin: German
 arr_estimate: Undisclosed
 employee_count_estimate: ~20-40 (estimated)
@@ -38,6 +41,7 @@ funding_rounds:
 linkedin: https://www.linkedin.com/company/sphere/
 name: Sphere
 linkedin_verified: true
+confidence: high
 ---
 
 # Sphere -- Company Profile

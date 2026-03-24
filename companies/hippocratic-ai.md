@@ -65,6 +65,7 @@ name: Hippocratic AI
 linkedin_verified: true
 total_raised_m: 404.0
 latest_valuation_m: 3500.0
+confidence: high
 ---
 
 # Hippocratic AI

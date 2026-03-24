@@ -43,6 +43,7 @@ linkedin: https://www.linkedin.com/company/shaped-ai
 crunchbase: https://www.crunchbase.com/organization/shaped-2177
 name: Shaped
 total_raised_m: 10.0
+confidence: high
 ---
 
 # Shaped

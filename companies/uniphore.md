@@ -11,11 +11,17 @@ last_updated: 2026-03-20
 founders:
 - name: Umesh Sachdev
   role: Co-Founder & CEO
-  background: Alumnus of Jaypee Institute of Information Technology. Incubated Uniphore at IIT Madras in 2008 with a vision to bridge the gap between humans and machines using AI. Recognized as 'Innovator Under 35' by MIT Tech Review, '40 under 40 Bright Young Business Leaders' by Economic Times, and 'Next Generation Leader' by Time Magazine. Enterprise AI pioneer bringing knowledge AI, generative AI, and emotion AI into a single platform.
+  background: Alumnus of Jaypee Institute of Information Technology. Incubated Uniphore at IIT Madras in 2008 with a vision
+    to bridge the gap between humans and machines using AI. Recognized as 'Innovator Under 35' by MIT Tech Review, '40 under
+    40 Bright Young Business Leaders' by Economic Times, and 'Next Generation Leader' by Time Magazine. Enterprise AI pioneer
+    bringing knowledge AI, generative AI, and emotion AI into a single platform.
   origin: Indian
 - name: Ravi Saraogi
   role: Co-Founder & President (APAC)
-  background: Alumnus of Jaypee Institute of Information Technology. Co-founded Uniphore in 2008 with Umesh Sachdev at IIT Madras. Leads Sales and Delivery for Uniphore across APAC. Vast experience in directing technology teams in mobile theft security, wireless network development, and mobile learning applications. Honored with Innovation Leadership Award at Asia Innovation Excellence Awards.
+  background: Alumnus of Jaypee Institute of Information Technology. Co-founded Uniphore in 2008 with Umesh Sachdev at IIT
+    Madras. Leads Sales and Delivery for Uniphore across APAC. Vast experience in directing technology teams in mobile theft
+    security, wireless network development, and mobile learning applications. Honored with Innovation Leadership Award at
+    Asia Innovation Excellence Awards.
   origin: Indian
 funding_rounds:
 - stage: Series C
@@ -54,6 +60,7 @@ name: Uniphore
 linkedin_verified: true
 total_raised_m: 961.0
 latest_valuation_m: 2500.0
+confidence: high
 ---
 
 # Uniphore -- Enterprise Conversational AI & Business Automation

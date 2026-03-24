@@ -61,6 +61,7 @@ data_notes: Total ~$252-289M (sources vary). Unicorn status at $1.2B valuation (
 name: Viz.ai
 linkedin_verified: true
 latest_valuation_m: 1200.0
+confidence: high
 ---
 
 # Viz.ai

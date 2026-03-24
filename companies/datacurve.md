@@ -45,6 +45,7 @@ name: Datacurve
 linkedin_verified: true
 latest_valuation_m: 150.0
 status: active
+confidence: high
 ---
 
 # Datacurve

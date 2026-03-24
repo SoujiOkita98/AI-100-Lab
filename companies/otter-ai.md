@@ -50,6 +50,7 @@ funding_rounds:
   source: https://www.crunchbase.com/organization/otter-ai
 linkedin: https://www.linkedin.com/company/otter-ai/
 linkedin_verified: true
+confidence: high
 ---
 
 # Otter.ai -- AI Meeting Transcription & Productivity

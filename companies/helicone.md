@@ -43,6 +43,7 @@ crunchbase: https://www.crunchbase.com/organization/helicone
 name: Helicone
 total_raised_m: 5.0
 latest_valuation_m: 25.0
+confidence: high
 ---
 
 # Helicone

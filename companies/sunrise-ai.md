@@ -55,6 +55,7 @@ linkedin: https://www.linkedin.com/company/sunrise/
 linkedin_verified: true
 total_raised_m: 431.0
 status: active
+confidence: high
 ---
 
 # Sunrise (SenseTime AI Chip Spinoff)

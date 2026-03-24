@@ -14,15 +14,24 @@ crunchbase_verified: true
 founders:
 - name: Gordon Wilson
   role: Co-Founder & Executive Advisor (former CEO 2017-2023)
-  background: BS in Statistics and Mathematics from University of Florida. Previously worked in political campaigning and nonprofit sector. President at UF Data Science and Informatics. Childhood fascination with science fiction and entrepreneurial parents inspired founding Rain Neuromorphics. Was founding CEO for 6 years before transitioning to Executive Advisor role in 2023. YC 2018 batch.
+  background: BS in Statistics and Mathematics from University of Florida. Previously worked in political campaigning and
+    nonprofit sector. President at UF Data Science and Informatics. Childhood fascination with science fiction and entrepreneurial
+    parents inspired founding Rain Neuromorphics. Was founding CEO for 6 years before transitioning to Executive Advisor role
+    in 2023. YC 2018 batch.
   origin: American
 - name: Jack Kendall
   role: Co-Founder & CTO
-  background: Attended University of Florida. Worked at University of Florida as part of the Nino Research Group. Left Meta to become Lead Physical researcher. Inventor and interdisciplinary researcher with interests in physics, neuroscience, and computing. Devoted past 10+ years to understanding how the brain works. Research focuses on deep learning, neuroscience, materials science, circuit and network theory. Working to close the 1,000,000x efficiency gap between human brains and current processors.
+  background: Attended University of Florida. Worked at University of Florida as part of the Nino Research Group. Left Meta
+    to become Lead Physical researcher. Inventor and interdisciplinary researcher with interests in physics, neuroscience,
+    and computing. Devoted past 10+ years to understanding how the brain works. Research focuses on deep learning, neuroscience,
+    materials science, circuit and network theory. Working to close the 1,000,000x efficiency gap between human brains and
+    current processors.
   origin: American
 - name: Juan Claudio Nino
   role: Co-Founder
-  background: Professor at University of Florida leading the Nino Research Group focused on materials science and computational physics. Academic researcher whose lab work on neuromorphic materials provided foundational science for Rain AI's chip design. Co-founded Rain Neuromorphics in 2017.
+  background: Professor at University of Florida leading the Nino Research Group focused on materials science and computational
+    physics. Academic researcher whose lab work on neuromorphic materials provided foundational science for Rain AI's chip
+    design. Co-founded Rain Neuromorphics in 2017.
   origin: Hispanic-American
 total_raised_m: 146
 funding_rounds:
@@ -63,6 +72,7 @@ linkedin: https://www.linkedin.com/company/rain-neuromorphics/
 name: Rain AI
 linkedin_verified: true
 status: active
+confidence: high
 ---
 
 # Rain AI

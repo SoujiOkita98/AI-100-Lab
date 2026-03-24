@@ -97,6 +97,8 @@ linkedin_verified: true
 total_raised_m: 791.0
 latest_valuation_m: 11000.0
 status: active
+confidence: high
+last_updated: '2026-03-24'
 ---
 
 # ElevenLabs

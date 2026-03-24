@@ -94,6 +94,8 @@ total_raised_m: 27100
 data_notes: Total raised updated to $27.1B (cumulative all rounds). Previous $16B figure was the Feb 2026 Series D round only.
 linkedin_verified: true
 latest_valuation_m: 126000.0
+confidence: high
+last_updated: '2026-03-24'
 ---
 
 # Waymo

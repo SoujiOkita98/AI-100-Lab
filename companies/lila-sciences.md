@@ -50,6 +50,7 @@ name: Lila Sciences
 linkedin_verified: true
 total_raised_m: 550.0
 latest_valuation_m: 1300.0
+confidence: high
 ---
 
 # Lila Sciences

@@ -42,6 +42,7 @@ linkedin: https://www.linkedin.com/company/mintlify
 crunchbase: https://www.crunchbase.com/organization/mintlify
 name: Mintlify
 total_raised_m: 21.7
+confidence: high
 ---
 
 # Mintlify

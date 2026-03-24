@@ -75,6 +75,8 @@ linkedin: https://www.linkedin.com/company/monte-carlo/
 linkedin_verified: true
 total_raised_m: 236.0
 status: active
+confidence: high
+last_updated: '2026-03-24'
 ---
 
 # Monte Carlo

@@ -6,15 +6,19 @@ headquarters: Atlanta, GA (originally Sao Paulo, Brazil)
 founders:
 - name: Igor Marinelli
   role: CEO & Co-Founder
-  background: Engineering graduate from UC Berkeley. Son of migrants and factory workers from Brazil and Italy. Grew up watching his father's struggles as a maintenance technician, which inspired his passion for industrial tech. Started building inventory systems as a teenager. Featured in Forbes Manufacturing and Industry Under 30 list.
+  background: Engineering graduate from UC Berkeley. Son of migrants and factory workers from Brazil and Italy. Grew up watching
+    his father's struggles as a maintenance technician, which inspired his passion for industrial tech. Started building inventory
+    systems as a teenager. Featured in Forbes Manufacturing and Industry Under 30 list.
   origin: Brazilian-Italian
 - name: Gabriel Lameirinhas
   role: Co-CEO & Co-Founder
-  background: Engineering background. Co-founded Tractian in 2019 with Igor Marinelli and Leonardo Vieira. Raised around manufacturing plants from a young age. Shares co-CEO responsibilities with Marinelli, bringing engineering and technical leadership.
+  background: Engineering background. Co-founded Tractian in 2019 with Igor Marinelli and Leonardo Vieira. Raised around manufacturing
+    plants from a young age. Shares co-CEO responsibilities with Marinelli, bringing engineering and technical leadership.
   origin: Brazilian
 - name: Leonardo Vieira
   role: Co-Founder
-  background: Co-founded Tractian in 2019. Raised around manufacturing plants. Engineering background focused on industrial technology and AI-powered predictive maintenance. Further career details limited in public sources.
+  background: Co-founded Tractian in 2019. Raised around manufacturing plants. Engineering background focused on industrial
+    technology and AI-powered predictive maintenance. Further career details limited in public sources.
   origin: Brazilian
 employee_count_estimate: ~500 (uncertain)
 status: Private
@@ -55,6 +59,7 @@ total_raised_m: 183.2
 name: Tractian
 linkedin_verified: true
 latest_valuation_m: 720.0
+confidence: high
 ---
 
 # Tractian -- Company Profile

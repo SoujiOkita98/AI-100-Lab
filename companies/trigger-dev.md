@@ -51,6 +51,7 @@ linkedin: https://www.linkedin.com/company/trigger-dev
 crunchbase: https://www.crunchbase.com/organization/trigger-dev
 name: Trigger.dev
 total_raised_m: 19.5
+confidence: high
 ---
 
 # Trigger.dev

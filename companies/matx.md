@@ -40,6 +40,7 @@ linkedin: https://www.linkedin.com/company/matx/
 name: MatX
 linkedin_verified: true
 status: active
+confidence: high
 ---
 
 # MatX

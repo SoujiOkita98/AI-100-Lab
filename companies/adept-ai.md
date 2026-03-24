@@ -48,6 +48,7 @@ crunchbase_verified: true
 name: Adept AI
 linkedin_verified: true
 total_raised_m: 415.0
+last_updated: '2026-03-24'
 ---
 
 # Adept AI

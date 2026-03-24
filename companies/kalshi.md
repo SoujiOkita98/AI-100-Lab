@@ -86,6 +86,8 @@ crunchbase_verified: true
 linkedin_verified: true
 total_raised_m: 1000.0
 latest_valuation_m: 22000.0
+confidence: high
+last_updated: '2026-03-24'
 ---
 
 # Kalshi

@@ -11,7 +11,9 @@ founders:
 - name: Navrina Singh
   role: Founder & CEO
   origin: Indian-American
-  background: "BS Electronics & Telecom Engineering (India), MS ECE University of Wisconsin-Madison, MBA USC Marshall. 12+ years at Qualcomm (led ImpaQt incubator, founded QWISE women's initiative). 18+ years combined at Microsoft and Qualcomm. Member US National AI Advisory Committee (NAIAC). WEF Young Global Leader, former Mozilla Foundation board member."
+  background: BS Electronics & Telecom Engineering (India), MS ECE University of Wisconsin-Madison, MBA USC Marshall. 12+
+    years at Qualcomm (led ImpaQt incubator, founded QWISE women's initiative). 18+ years combined at Microsoft and Qualcomm.
+    Member US National AI Advisory Committee (NAIAC). WEF Young Global Leader, former Mozilla Foundation board member.
 one_liner: Credo AI is an AI governance SaaS platform that helps enterprises minimize AI-related risk by ensuring their AI
   systems are fair, compliant, secure, auditable, and human-centered
 crunchbase: https://www.crunchbase.com/organization/credo-ai
@@ -41,6 +43,7 @@ funding_rounds:
 name: Credo AI
 linkedin_verified: true
 latest_valuation_m: 101.0
+confidence: high
 ---
 
 # Credo AI -- AI Governance & Responsible AI Platform

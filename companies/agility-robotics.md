@@ -120,6 +120,8 @@ sector:
 - hardware
 - deep-tech
 - bipedal-locomotion
+confidence: high
+last_updated: '2026-03-24'
 ---
 
 # Agility Robotics

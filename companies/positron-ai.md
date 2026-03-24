@@ -49,6 +49,7 @@ linkedin: https://www.linkedin.com/company/positronai/
 name: Positron AI
 linkedin_verified: true
 status: active
+confidence: high
 ---
 
 # Positron AI

@@ -38,6 +38,7 @@ linkedin: https://www.linkedin.com/company/credal-ai
 crunchbase: https://www.crunchbase.com/organization/credal-ai
 name: Credal.ai
 total_raised_m: 5.3
+confidence: high
 ---
 
 # Credal.ai

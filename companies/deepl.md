@@ -65,6 +65,7 @@ twitter: '@DeepLcom'
 name: DeepL
 linkedin_verified: true
 total_raised_m: 415.0
+confidence: high
 ---
 
 # DeepL

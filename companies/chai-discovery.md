@@ -59,6 +59,7 @@ name: Chai Discovery
 linkedin_verified: true
 total_raised_m: 225.0
 latest_valuation_m: 1300.0
+confidence: high
 ---
 
 # Chai Discovery

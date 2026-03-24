@@ -41,6 +41,7 @@ linkedin: https://www.linkedin.com/company/langfuse
 crunchbase: https://www.crunchbase.com/organization/finto-acba
 name: Langfuse
 total_raised_m: 4.5
+confidence: high
 ---
 
 # Langfuse

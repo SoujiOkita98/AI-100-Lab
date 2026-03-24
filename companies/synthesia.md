@@ -84,6 +84,7 @@ sector:
 - enterprise-saas
 - deeptech
 - european-ai
+confidence: high
 ---
 
 # Synthesia

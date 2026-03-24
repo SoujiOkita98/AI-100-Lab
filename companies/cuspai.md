@@ -62,6 +62,8 @@ twitter: '@cusp_ai'
 linkedin_verified: true
 total_raised_m: 130.0
 latest_valuation_m: 520.0
+confidence: high
+last_updated: '2026-03-24'
 ---
 
 # CuspAI

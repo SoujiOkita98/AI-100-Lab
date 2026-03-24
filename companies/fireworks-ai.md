@@ -54,6 +54,7 @@ name: Fireworks AI
 linkedin_verified: true
 total_raised_m: 331.0
 latest_valuation_m: 4000.0
+confidence: high
 ---
 
 # Fireworks AI

@@ -75,6 +75,8 @@ crunchbase: https://www.crunchbase.com/organization/runway
 crunchbase_verified: true
 total_raised_m: 860.0
 linkedin_verified: true
+confidence: high
+last_updated: '2026-03-24'
 ---
 
 # Runway

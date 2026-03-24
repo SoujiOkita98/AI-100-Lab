@@ -11,11 +11,14 @@ founders:
 - name: Aparna Dhinakaran
   role: Co-Founder & Chief Product Officer
   origin: Indian-American (born in Chennai; parents immigrated to US when she was 6 months old)
-  background: "BS EECS UC Berkeley (published research with Berkeley AI Research group). On leave from PhD in Computer Vision at Cornell. Former ML engineer at Uber (built Michelangelo ML platform), Apple, and TubeMogul (acquired by Adobe). Founded MonitorML (YC-backed). Forbes 30 Under 30."
+  background: BS EECS UC Berkeley (published research with Berkeley AI Research group). On leave from PhD in Computer Vision
+    at Cornell. Former ML engineer at Uber (built Michelangelo ML platform), Apple, and TubeMogul (acquired by Adobe). Founded
+    MonitorML (YC-backed). Forbes 30 Under 30.
 - name: Jason Lopatecki
   role: Co-Founder & CEO
   origin: American
-  background: "BS EECS UC Berkeley. Co-founded TubeMogul (scaled to IPO, acquired by Adobe) as Chief Innovation Officer. Deep expertise in big data architectures, programmatic advertising, and distributed systems."
+  background: BS EECS UC Berkeley. Co-founded TubeMogul (scaled to IPO, acquired by Adobe) as Chief Innovation Officer. Deep
+    expertise in big data architectures, programmatic advertising, and distributed systems.
 funding_rounds:
 - stage: Seed
   date: 2020-02
@@ -49,6 +52,7 @@ crunchbase_verified: true
 name: Arize AI
 linkedin_verified: true
 total_raised_m: 131.0
+confidence: high
 ---
 
 # Arize AI -- AI/ML Observability & Evaluation Platform

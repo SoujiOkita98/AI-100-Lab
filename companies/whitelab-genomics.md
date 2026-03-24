@@ -37,6 +37,7 @@ linkedin: https://www.linkedin.com/company/whitelab-genomics
 crunchbase: https://www.crunchbase.com/organization/whitelab-genomics
 name: WhiteLab Genomics
 total_raised_m: 10.2
+confidence: high
 ---
 
 # WhiteLab Genomics

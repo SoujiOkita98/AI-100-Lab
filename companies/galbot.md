@@ -58,6 +58,7 @@ linkedin_verified: true
 total_raised_m: 363.0
 latest_valuation_m: 3000.0
 status: active
+confidence: high
 ---
 
 # Galbot (Galaxy General Robotics)

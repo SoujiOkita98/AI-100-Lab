@@ -6,15 +6,19 @@ headquarters: New York, NY
 founders:
 - name: Mark Swan
   role: Co-Founder & CEO
-  background: Grew up in Aberdeen, Scotland. Former investor at Generation Investment Management (Al Gore's firm). Lead Strategy & Operations Manager at Revolut (led product operations, data, and strategy teams for user growth and retention). All three co-founders met at Revolut.
+  background: Grew up in Aberdeen, Scotland. Former investor at Generation Investment Management (Al Gore's firm). Lead Strategy
+    & Operations Manager at Revolut (led product operations, data, and strategy teams for user growth and retention). All
+    three co-founders met at Revolut.
   origin: Scottish
 - name: Philipp Burda
   role: Co-Founder & CPO
-  background: Former Partner and Head of GenAI product initiatives at Revolut. Rose through ranks as head of fincrime, then head of data science for retail product at Revolut. Three years of overlap with co-founders at Revolut.
+  background: Former Partner and Head of GenAI product initiatives at Revolut. Rose through ranks as head of fincrime, then
+    head of data science for retail product at Revolut. Three years of overlap with co-founders at Revolut.
   origin: German
 - name: Ivan Chalov
   role: Co-Founder & COO
-  background: Former General Manager of Retail Business at Revolut. Rose from data scientist to GM during tenure. Three years of overlap with Swan and Burda at Revolut before co-founding Nevis.
+  background: Former General Manager of Retail Business at Revolut. Rose from data scientist to GM during tenure. Three years
+    of overlap with Swan and Burda at Revolut before co-founding Nevis.
   origin: Russian
 arr_estimate: Undisclosed
 employee_count_estimate: ~20-40 (estimated, early-stage)
@@ -39,6 +43,7 @@ linkedin: https://www.linkedin.com/company/nevis/
 name: Nevis
 linkedin_verified: true
 latest_valuation_m: 200.0
+confidence: high
 ---
 
 # Nevis -- Company Profile

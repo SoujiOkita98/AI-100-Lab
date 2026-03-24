@@ -38,7 +38,8 @@ funding_rounds:
   other_investors:
   - CNH Industrial
   source: https://www.crunchbase.com/funding_round/monarch-tractors-series-b--8b69a1c5
-  notes: Strategic investment from CNH Industrial (Case IH, New Holland) validated the platform and provided agricultural distribution channels.
+  notes: Strategic investment from CNH Industrial (Case IH, New Holland) validated the platform and provided agricultural
+    distribution channels.
 - stage: Series C
   date: 2024-07
   amount_m: 133.0
@@ -75,6 +76,7 @@ headquarters: Livermore, California, USA
 linkedin: https://www.linkedin.com/company/monarch-tractor/
 linkedin_verified: true
 total_raised_m: 220.0
+confidence: high
 ---
 
 # Monarch Tractor

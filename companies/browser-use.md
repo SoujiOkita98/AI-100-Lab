@@ -42,6 +42,7 @@ funding_rounds:
 name: Browser Use
 linkedin_verified: true
 status: active
+confidence: high
 ---
 
 # Browser Use

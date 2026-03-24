@@ -52,6 +52,7 @@ headquarters: Yokneam Illit, Israel (relocating to Caesarea)
 linkedin: https://www.linkedin.com/company/forsight-robotics/
 linkedin_verified: true
 total_raised_m: 195.0
+confidence: high
 ---
 
 # ForSight Robotics

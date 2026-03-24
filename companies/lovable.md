@@ -9,11 +9,15 @@ sector: AI / Developer Tools / Vibe Coding
 founders:
 - name: Anton Osika
   role: Co-Founder & CEO
-  background: Studied Industrial Economics at KTH Royal Institute of Technology (completed at double speed). Worked in particle physics at CERN. First technical hire at Ampfield, founding engineer at Sana (Enterprise AI). Co-founded Depict.ai (CTO). Created GPT Engineer (one of fastest-growing GitHub repos). Europe's youngest self-made billionaire at 26.
+  background: Studied Industrial Economics at KTH Royal Institute of Technology (completed at double speed). Worked in particle
+    physics at CERN. First technical hire at Ampfield, founding engineer at Sana (Enterprise AI). Co-founded Depict.ai (CTO).
+    Created GPT Engineer (one of fastest-growing GitHub repos). Europe's youngest self-made billionaire at 26.
   origin: Swedish
 - name: Fabian Hedin
   role: Co-Founder & CTO
-  background: BS in Industrial Engineering and Management from KTH (2021). Built proptech firm TenFAST. Developed the computer interface used by physicist Stephen Hawking. Collaborated with former SpaceX engineers on wheelchair technology. Front-end engineering lead at Depict (2022-2023).
+  background: BS in Industrial Engineering and Management from KTH (2021). Built proptech firm TenFAST. Developed the computer
+    interface used by physicist Stephen Hawking. Collaborated with former SpaceX engineers on wheelchair technology. Front-end
+    engineering lead at Depict (2022-2023).
   origin: Swedish
 employees: ~146 (as of March 2026)
 arr: $400M (as of February/March 2026)
@@ -54,6 +58,7 @@ funding_rounds:
   source: https://www.crunchbase.com/organization/lovable
 linkedin_verified: true
 latest_valuation_m: 6600.0
+confidence: high
 ---
 
 # Lovable

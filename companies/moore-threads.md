@@ -58,6 +58,7 @@ founders:
 linkedin_verified: true
 total_raised_m: 600.0
 status: active
+confidence: high
 ---
 
 # Moore Threads

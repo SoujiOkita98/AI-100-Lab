@@ -62,6 +62,8 @@ linkedin: https://www.linkedin.com/company/tonicai/
 linkedin_verified: true
 total_raised_m: 45.0
 status: active
+confidence: high
+last_updated: '2026-03-24'
 ---
 
 # Tonic.ai

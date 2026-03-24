@@ -10,11 +10,15 @@ employee_count: ~20 (at time of acquisition)
 founders:
 - name: Yangqing Jia (Jia Yangqing)
   role: Co-Founder & CEO
-  background: PhD in EECS from UC Berkeley, BS from Tsinghua University. Creator of Caffe deep learning framework. Founding engineer and Director of Facebook AI infrastructure. VP of Big Data and AI at Alibaba. Contributed to ONNX and PyTorch. Lepton acquired by NVIDIA.
+  background: PhD in EECS from UC Berkeley, BS from Tsinghua University. Creator of Caffe deep learning framework. Founding
+    engineer and Director of Facebook AI infrastructure. VP of Big Data and AI at Alibaba. Contributed to ONNX and PyTorch.
+    Lepton acquired by NVIDIA.
   origin: Chinese (Tsinghua undergrad, UC Berkeley PhD)
 - name: Bai Junjie
   role: Co-Founder
-  background: MS in Computational Science and Engineering and BS in Mathematics from Technical University of Munich. Former Director of AI Platform at Alibaba. Technical Lead at Facebook AI. Quantitative Strategist at KCG Holdings. Helped develop PyTorch.
+  background: MS in Computational Science and Engineering and BS in Mathematics from Technical University of Munich. Former
+    Director of AI Platform at Alibaba. Technical Lead at Facebook AI. Quantitative Strategist at KCG Holdings. Helped develop
+    PyTorch.
   origin: Chinese
 last_updated: 2026-03-20
 one_liner: Lepton AI was a GPU cloud infrastructure startup founded by Yangqing Jia, one of the most influential Chinese-born
@@ -33,6 +37,7 @@ funding_rounds:
   - Undisclosed
   source: https://www.crunchbase.com/organization/lepton-ai
 linkedin_verified: true
+confidence: high
 ---
 
 # Lepton AI

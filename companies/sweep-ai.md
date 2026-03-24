@@ -38,6 +38,7 @@ crunchbase: https://www.crunchbase.com/organization/sweep-ai
 name: Sweep
 total_raised_m: 2.5
 latest_valuation_m: 25.0
+confidence: high
 ---
 
 # Sweep

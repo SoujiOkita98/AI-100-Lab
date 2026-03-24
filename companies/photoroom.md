@@ -50,6 +50,7 @@ funding_rounds:
 linkedin: https://www.linkedin.com/company/photoroom/
 linkedin_verified: true
 latest_valuation_m: 500.0
+confidence: high
 ---
 
 # Photoroom -- AI Photo Editing

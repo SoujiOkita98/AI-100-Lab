@@ -54,6 +54,7 @@ name: Sierra Technologies, Inc.
 linkedin_verified: true
 total_raised_m: 635.0
 latest_valuation_m: 10000.0
+last_updated: '2026-03-24'
 ---
 
 # Sierra AI

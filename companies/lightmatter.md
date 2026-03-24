@@ -63,6 +63,7 @@ data_notes: Total ~$850M across rounds. Early rounds now broken out. Sum of disc
 name: Lightmatter
 linkedin_verified: true
 status: active
+confidence: high
 ---
 
 # Lightmatter

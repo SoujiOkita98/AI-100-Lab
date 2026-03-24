@@ -96,6 +96,8 @@ sector:
 - general-purpose-robot
 - hardware
 - deep-tech
+confidence: high
+last_updated: '2026-03-24'
 ---
 
 # Figure AI

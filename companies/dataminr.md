@@ -10,15 +10,17 @@ employees: ~800
 founders:
 - name: Ted Bailey
   role: CEO & Chairman
-  background: "BA Yale University (focus on impact of disruptive technologies). Pioneered real-time AI for event detection from public data. WEF Tech Pioneer. Business Insider 40 Under 40."
+  background: BA Yale University (focus on impact of disruptive technologies). Pioneered real-time AI for event detection
+    from public data. WEF Tech Pioneer. Business Insider 40 Under 40.
   origin: American
 - name: Jeff Kinsey
   role: CTO
-  background: "BS CS Yale University. Former technical consultant building analytics tools for research institutions and enterprises. Designed and built core components of Dataminr's AI platform since 2009."
+  background: BS CS Yale University. Former technical consultant building analytics tools for research institutions and enterprises.
+    Designed and built core components of Dataminr's AI platform since 2009.
   origin: American
 - name: Sam Hendel
   role: co-founder; no longer in operating role
-  background: "Yale University. Co-founded Dataminr with Bailey and Kinsey as Yale roommates."
+  background: Yale University. Co-founded Dataminr with Bailey and Kinsey as Yale roommates.
   origin: American
 status: Active, pre-IPO
 last_updated: 2026-03-20
@@ -99,6 +101,7 @@ data_notes: Total ~$1.24B across 13+ rounds. Seed ($2M), Series B ($16.5M), Seri
 name: Dataminr
 linkedin_verified: true
 latest_valuation_m: 4100.0
+confidence: high
 ---
 
 # Dataminr

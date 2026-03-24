@@ -44,6 +44,7 @@ crunchbase_verified: true
 name: Jasper
 linkedin_verified: true
 total_raised_m: 131.0
+confidence: high
 ---
 
 # Jasper -- AI Marketing Platform

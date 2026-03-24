@@ -7,11 +7,13 @@ founders:
 - name: Minna Song
   role: CEO & Co-Founder
   origin: Korean-American
-  background: "CS degree from MIT. Former intern at Microsoft and MIT Lincoln Laboratory. Discovered real estate communication inefficiencies while working as admin assistant at NYC residential real estate firm. Met Stoyanov at Cambridge."
+  background: CS degree from MIT. Former intern at Microsoft and MIT Lincoln Laboratory. Discovered real estate communication
+    inefficiencies while working as admin assistant at NYC residential real estate firm. Met Stoyanov at Cambridge.
 - name: Stoyan (Tony) Stoyanov
   role: CTO & Co-Founder
   origin: Bulgarian
-  background: "CS degree from University of Cambridge. Met Minna Song while both were undergraduates at Cambridge. Co-founded EliseAI in 2017 to automate tenant communication."
+  background: CS degree from University of Cambridge. Met Minna Song while both were undergraduates at Cambridge. Co-founded
+    EliseAI in 2017 to automate tenant communication.
 arr_estimate: ~$100M+ (2025)
 employee_count_estimate: ~200
 status: Private
@@ -63,6 +65,7 @@ total_raised_m: 391.9
 name: EliseAI
 linkedin_verified: true
 latest_valuation_m: 2200.0
+confidence: high
 ---
 
 # EliseAI -- Company Profile

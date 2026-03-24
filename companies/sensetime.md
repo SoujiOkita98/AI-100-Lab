@@ -98,6 +98,7 @@ linkedin: https://www.linkedin.com/company/sensetime-group-limited
 linkedin_verified: true
 total_raised_m: 5200.0
 status: active
+confidence: high
 ---
 
 # SenseTime

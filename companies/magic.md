@@ -57,6 +57,7 @@ crunchbase: https://www.crunchbase.com/organization/magic
 crunchbase_verified: true
 linkedin_verified: true
 total_raised_m: 466.0
+confidence: high
 ---
 
 # Magic -- AI Software Engineer with Ultra-Long Context

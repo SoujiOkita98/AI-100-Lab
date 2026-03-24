@@ -29,6 +29,7 @@ name: Graphcore
 linkedin_verified: true
 status: active
 funding_rounds: []
+confidence: medium
 ---
 
 # Graphcore

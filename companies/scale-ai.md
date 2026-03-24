@@ -99,6 +99,8 @@ crunchbase_verified: true
 linkedin_verified: true
 total_raised_m: 15900.0
 latest_valuation_m: 29000.0
+confidence: high
+last_updated: '2026-03-24'
 ---
 
 # Scale AI

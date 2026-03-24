@@ -87,6 +87,8 @@ funding_rounds:
 linkedin_verified: true
 latest_valuation_m: 9300.0
 status: active
+confidence: high
+last_updated: '2026-03-24'
 ---
 
 # Vercel

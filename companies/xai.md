@@ -171,6 +171,8 @@ data_notes: SpaceX acquired xAI in Feb 2026 at combined $1.25T valuation. Last s
   E at $20B raise). No longer independent.
 linkedin_verified: true
 latest_valuation_m: 250000.0
+confidence: high
+last_updated: '2026-03-24'
 ---
 
 # xAI

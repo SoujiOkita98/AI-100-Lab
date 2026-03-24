@@ -46,6 +46,7 @@ crunchbase_verified: true
 linkedin_verified: true
 total_raised_m: 135.0
 status: active
+confidence: high
 ---
 
 # Pika

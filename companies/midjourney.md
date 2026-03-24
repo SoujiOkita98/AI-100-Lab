@@ -29,6 +29,7 @@ linkedin: https://www.linkedin.com/company/midjourney-inc/
 name: Midjourney
 linkedin_verified: true
 status: active
+confidence: medium
 ---
 
 # Midjourney

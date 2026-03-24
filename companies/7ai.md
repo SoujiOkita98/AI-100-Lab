@@ -12,11 +12,12 @@ founders:
 - name: Lior Div
   role: CEO
   origin: Israeli
-  background: "IDF Unit 8200 veteran. Co-founded Cybereason (raised $700M+, valued at $3.5B+). Serial cybersecurity entrepreneur."
+  background: IDF Unit 8200 veteran. Co-founded Cybereason (raised $700M+, valued at $3.5B+). Serial cybersecurity entrepreneur.
 - name: Yonatan Striem-Amit
   role: CTO
   origin: Israeli
-  background: "IDF Unit 8200 veteran. Co-founded Cybereason as CTO. Deep expertise in cybersecurity platforms and endpoint detection."
+  background: IDF Unit 8200 veteran. Co-founded Cybereason as CTO. Deep expertise in cybersecurity platforms and endpoint
+    detection.
 key_investors:
 - Index Ventures — Series A lead
 - Greylock Partners — Seed lead
@@ -48,6 +49,8 @@ crunchbase_verified: true
 linkedin_verified: true
 total_raised_m: 166.0
 latest_valuation_m: 700.0
+confidence: high
+last_updated: '2026-03-24'
 ---
 
 # 7AI

@@ -28,6 +28,8 @@ linkedin: https://www.linkedin.com/company/magical-tome
 total_raised_m: 81.0
 linkedin_verified: true
 funding_rounds: []
+confidence: medium
+last_updated: '2026-03-24'
 ---
 
 # Tome

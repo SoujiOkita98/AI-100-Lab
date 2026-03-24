@@ -84,6 +84,7 @@ linkedin_verified: true
 total_raised_m: 1420.0
 latest_valuation_m: 6000.0
 status: active
+confidence: high
 ---
 
 # Momenta

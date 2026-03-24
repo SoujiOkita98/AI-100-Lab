@@ -68,6 +68,7 @@ name: Decagon AI, Inc.
 linkedin_verified: true
 total_raised_m: 481.0
 latest_valuation_m: 4500.0
+last_updated: '2026-03-24'
 ---
 
 # Decagon

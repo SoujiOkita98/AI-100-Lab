@@ -49,6 +49,7 @@ linkedin: https://www.linkedin.com/company/truewindai
 crunchbase: https://www.crunchbase.com/organization/truewind-69f1
 name: Truewind
 total_raised_m: 17.0
+confidence: high
 ---
 
 # Truewind

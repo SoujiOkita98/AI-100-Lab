@@ -50,6 +50,7 @@ founders:
 name: Moonvalley
 linkedin_verified: true
 status: active
+confidence: high
 ---
 
 # Moonvalley

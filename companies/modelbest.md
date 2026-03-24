@@ -42,6 +42,7 @@ data_notes: Funding data not fully disclosed. Raised hundreds of millions of RMB
   Exact amounts not publicly confirmed.
 linkedin_verified: true
 status: active
+confidence: high
 ---
 
 # ModelBest (面壁智能)

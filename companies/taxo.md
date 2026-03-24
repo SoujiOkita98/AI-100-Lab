@@ -39,6 +39,7 @@ linkedin: https://www.linkedin.com/company/taxo/
 name: Taxo
 linkedin_verified: true
 status: active
+confidence: high
 ---
 
 # Taxo

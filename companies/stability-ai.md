@@ -11,11 +11,18 @@ executive_chairman: Sean Parker
 founders:
 - name: Emad Mostaque
   role: Co-Founder (resigned March 2024)
-  background: Born April 1983 to a Bengali Muslim family in Jordan; migrated to UK at age 7. MA in Mathematics and Computer Science from University of Oxford. Spent 13 years working at various UK hedge funds. Founded Symmitree in 2019 (failed tech-for-poverty startup). Co-founded Stability AI in late 2020. Funded compute for training Stable Diffusion (released August 2022). Resigned March 2024, stating "you can't beat centralized AI with more centralized AI." Faced allegations of misleading investors about his role in developing Stable Diffusion.
+  background: Born April 1983 to a Bengali Muslim family in Jordan; migrated to UK at age 7. MA in Mathematics and Computer
+    Science from University of Oxford. Spent 13 years working at various UK hedge funds. Founded Symmitree in 2019 (failed
+    tech-for-poverty startup). Co-founded Stability AI in late 2020. Funded compute for training Stable Diffusion (released
+    August 2022). Resigned March 2024, stating "you can't beat centralized AI with more centralized AI." Faced allegations
+    of misleading investors about his role in developing Stable Diffusion.
   origin: British-Bangladeshi
 - name: Cyrus Hodes
   role: Co-Founder
-  background: Educated at Sciences Po Paris; MPA from Harvard Kennedy School. AI program director at Harvard Kennedy School. Co-founded The Future Society (AI governance nonprofit). Advised UAE Minister of AI. Founded AIGC Chain (blockchain-AI startup). International AI strategist and governance expert. Filed lawsuit in July 2023 alleging he was defrauded into selling his 15% co-founder stake for $100.
+  background: Educated at Sciences Po Paris; MPA from Harvard Kennedy School. AI program director at Harvard Kennedy School.
+    Co-founded The Future Society (AI governance nonprofit). Advised UAE Minister of AI. Founded AIGC Chain (blockchain-AI
+    startup). International AI strategist and governance expert. Filed lawsuit in July 2023 alleging he was defrauded into
+    selling his 15% co-founder stake for $100.
   origin: French
 research_profile_date: 2026-03-20
 one_liner: Stability AI is the company behind Stable Diffusion, one of the most widely adopted open-source text-to-image generative
@@ -51,6 +58,8 @@ funding_rounds:
 data_notes: Total ~$181-225M (sources vary). June 2024 round was a recapitalization at ~$1B valuation under new CEO Prem Akkaraju.
 name: Stability AI
 linkedin_verified: true
+confidence: high
+last_updated: '2026-03-24'
 ---
 
 # Stability AI -- Company Profile

@@ -50,6 +50,7 @@ headquarters: Mountain View, California, USA
 linkedin: https://www.linkedin.com/company/corvus-robotics/
 linkedin_verified: true
 total_raised_m: 28.0
+confidence: high
 ---
 
 # Corvus Robotics

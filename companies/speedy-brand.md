@@ -37,6 +37,7 @@ crunchbase: https://www.crunchbase.com/organization/speedy-brand
 name: SpeedyBrand
 total_raised_m: 2.5
 latest_valuation_m: 15.0
+confidence: high
 ---
 
 # SpeedyBrand

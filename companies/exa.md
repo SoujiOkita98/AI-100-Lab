@@ -10,11 +10,13 @@ total_funding_approx: ~$111M
 founders:
 - name: Will Bryk
   role: CEO
-  background: "CS & Physics Harvard. Led Harvard robotics club. One of the first engineers at Cresta (built real-time AI products). Published author on history of civilization. YC S21."
+  background: CS & Physics Harvard. Led Harvard robotics club. One of the first engineers at Cresta (built real-time AI products).
+    Published author on history of civilization. YC S21.
   origin: American
 - name: Jeff Wang
   role: Co-Founder
-  background: "CS & Philosophy Harvard. 3 years building data and web infrastructure at Plaid. Harvard roommate of Will Bryk. Ran GPU cluster in his dorm room."
+  background: CS & Philosophy Harvard. 3 years building data and web infrastructure at Plaid. Harvard roommate of Will Bryk.
+    Ran GPU cluster in his dorm room.
   origin: American
 employees_approx: unknown (likely <100)
 research_date: 2026-03-20
@@ -47,6 +49,7 @@ crunchbase: https://www.crunchbase.com/organization/exa
 crunchbase_verified: true
 total_raised_m: 107.0
 linkedin_verified: true
+last_updated: '2026-03-24'
 ---
 
 # Exa

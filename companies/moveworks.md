@@ -62,6 +62,7 @@ name: Moveworks
 linkedin_verified: true
 total_raised_m: 315.0
 latest_valuation_m: 2100.0
+confidence: high
 ---
 
 # Moveworks -- Agentic AI Copilot for Enterprise Employee Support

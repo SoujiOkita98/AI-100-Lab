@@ -53,6 +53,7 @@ headquarters: Irvine, California, USA
 linkedin: https://www.linkedin.com/company/fieldai/
 linkedin_verified: true
 total_raised_m: 405.0
+confidence: high
 ---
 
 # FieldAI

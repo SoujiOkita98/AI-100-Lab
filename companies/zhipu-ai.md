@@ -101,6 +101,8 @@ status: active
 sector:
 - foundation models
 - enterprise AI
+confidence: high
+last_updated: '2026-03-24'
 ---
 
 # Zhipu AI (Z.ai) -- Company Profile

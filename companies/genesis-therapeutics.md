@@ -44,6 +44,7 @@ crunchbase_verified: true
 name: Genesis Therapeutics
 linkedin_verified: true
 total_raised_m: 327.0
+confidence: high
 ---
 
 # Genesis Therapeutics

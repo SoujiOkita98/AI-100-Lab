@@ -12,15 +12,17 @@ founders:
 - name: Scott Wu
   role: CEO
   origin: Chinese-American
-  background: "3x IOI gold medalist, MathCounts national champion. Attended Harvard (dropped out). Born 1997 in Louisiana to Chinese immigrant family. Previously co-founded Lunchclub."
+  background: 3x IOI gold medalist, MathCounts national champion. Attended Harvard (dropped out). Born 1997 in Louisiana to
+    Chinese immigrant family. Previously co-founded Lunchclub.
 - name: Steven Hao
   role: CTO
   origin: Chinese-American
-  background: "IOI gold medalist (2014). MIT (Math & CS). One of earliest engineers at Scale AI."
+  background: IOI gold medalist (2014). MIT (Math & CS). One of earliest engineers at Scale AI.
 - name: Walden Yan
   role: CPO
   origin: Chinese-American
-  background: "IOI gold medalist (2020, 19th out of ~400). Harvard (dropped out). Thiel Fellow. 1,000+ hours training in competitive programming."
+  background: IOI gold medalist (2020, 19th out of ~400). Harvard (dropped out). Thiel Fellow. 1,000+ hours training in competitive
+    programming.
 key_investors:
 - Founders Fund (Peter Thiel)
 - 8VC (Joe Lonsdale)
@@ -68,6 +70,8 @@ crunchbase_verified: true
 linkedin_verified: true
 total_raised_m: 696.0
 latest_valuation_m: 10200.0
+confidence: high
+last_updated: '2026-03-24'
 ---
 
 # Cognition AI

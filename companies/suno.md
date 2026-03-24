@@ -54,6 +54,7 @@ founders:
 linkedin_verified: true
 total_raised_m: 375.0
 latest_valuation_m: 2450.0
+confidence: high
 ---
 
 # Suno — AI Music Generation

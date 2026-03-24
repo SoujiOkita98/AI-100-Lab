@@ -15,15 +15,23 @@ employee_count: 500+ (estimate)
 founders:
 - name: Jian Ma (Ma Jian)
   role: Co-Founder & CEO
-  background: PhD in Physics from Zhejiang University (2012). Postdoctoral associate at MIT (2012-2014). Visiting scholar at RIKEN (Japan) and Chinese University of Hong Kong. Extensive research in quantum information, quantum computing, and numerical simulation. Named MIT Technology Review "Innovator Under 35" (China). Named Best CEO in China for AI New Drug Discovery. Co-founded XtalPi at MIT in 2014.
+  background: PhD in Physics from Zhejiang University (2012). Postdoctoral associate at MIT (2012-2014). Visiting scholar
+    at RIKEN (Japan) and Chinese University of Hong Kong. Extensive research in quantum information, quantum computing, and
+    numerical simulation. Named MIT Technology Review "Innovator Under 35" (China). Named Best CEO in China for AI New Drug
+    Discovery. Co-founded XtalPi at MIT in 2014.
   origin: Chinese
 - name: Wen Shuhao
   role: Co-Founder & Chairman
-  background: PhD in Physical Chemistry from Chinese Academy of Sciences. Postdoctoral research at UC Riverside and MIT (quantum chemistry fellow, 2013-2015). Published 36 papers with 2,900+ citations. Youngest member and sole mainland China representative on MIT Visiting Committee's Chemistry Division (149-year-old advisory body). Co-founded XtalPi at MIT in 2014 with quantum physics and AI-based drug discovery approach.
+  background: PhD in Physical Chemistry from Chinese Academy of Sciences. Postdoctoral research at UC Riverside and MIT (quantum
+    chemistry fellow, 2013-2015). Published 36 papers with 2,900+ citations. Youngest member and sole mainland China representative
+    on MIT Visiting Committee's Chemistry Division (149-year-old advisory body). Co-founded XtalPi at MIT in 2014 with quantum
+    physics and AI-based drug discovery approach.
   origin: Chinese
 - name: Lai Lipeng
   role: Co-Founder
-  background: Postdoctoral fellow at MIT. Quantum physicist specializing in computational physics. Co-founded XtalPi at MIT in 2014 alongside Ma Jian and Wen Shuhao. Part of the original group of quantum physicists who developed XtalPi's AI-powered molecular property prediction platform.
+  background: Postdoctoral fellow at MIT. Quantum physicist specializing in computational physics. Co-founded XtalPi at MIT
+    in 2014 alongside Ma Jian and Wen Shuhao. Part of the original group of quantum physicists who developed XtalPi's AI-powered
+    molecular property prediction platform.
   origin: Chinese
 key_investors:
 - SoftBank Vision Fund
@@ -42,42 +50,43 @@ funding_rounds:
   - Renren
   source: https://www.crunchbase.com/organization/xtalpi
 - stage: Series A
-  date: '2015-11'
+  date: 2015-11
   amount_m: 5.0
   lead_investors:
   - Tencent
   source: https://www.crunchbase.com/funding_round/xtalpi-series-a--b8d87a79
 - stage: Series A (extension)
-  date: '2016-01'
+  date: 2016-01
   amount_m: 1.2
   lead_investors:
   - Undisclosed
   source: https://www.crunchbase.com/funding_round/xtalpi-series-a--5cdc1988
 - stage: Series B
-  date: '2018-01'
+  date: 2018-01
   amount_m: 15.0
   lead_investors:
   - Undisclosed
   source: https://www.crunchbase.com/funding_round/xtalpi-series-b--e0594bbe
 - stage: Series B (extension)
-  date: '2018-10'
+  date: 2018-10
   amount_m: 46.0
   lead_investors:
   - Sequoia Capital China
   source: https://www.crunchbase.com/funding_round/xtalpi-series-b--40b1faaa
 - stage: Series C
-  date: '2020-09'
+  date: 2020-09
   amount_m: 319.0
   lead_investors:
   - SoftBank Vision Fund
   source: https://techcrunch.com/2020/09/28/xtalpi-lands-massive-319m-softbank-led-round-c-to-continue-its-high-tech-drug-discovery/
 - stage: Series D
-  date: '2021-08'
+  date: 2021-08
   amount_m: 400.0
   lead_investors:
   - SoftBank Vision Fund
   source: https://globalventuring.com/corporate/xtalpi-executes-400m-series-d-round/
   notes: Total pre-IPO private funding ~$786M across 7 rounds
+confidence: high
 ---
 
 # XtalPi

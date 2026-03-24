@@ -38,6 +38,7 @@ linkedin: https://www.linkedin.com/company/numind-ai
 crunchbase: https://www.crunchbase.com/organization/numind
 name: NuMind
 total_raised_m: 3.5
+confidence: high
 ---
 
 # NuMind

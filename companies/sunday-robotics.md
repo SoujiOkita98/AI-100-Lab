@@ -56,6 +56,7 @@ name: Sunday
 linkedin_verified: true
 total_raised_m: 200.0
 latest_valuation_m: 1150.0
+confidence: high
 ---
 
 # Sunday Robotics

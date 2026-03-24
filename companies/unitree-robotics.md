@@ -54,6 +54,7 @@ linkedin_verified: true
 total_raised_m: 155.0
 latest_valuation_m: 7000.0
 status: active
+confidence: high
 ---
 
 # Unitree Robotics

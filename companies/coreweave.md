@@ -13,15 +13,17 @@ stock_price_approx: ~$79 (as of March 20, 2026)
 founders:
 - name: Michael Intrator
   role: CEO
-  background: "Former CEO of Hudson Ridge Asset Management (natural gas futures trading). Started CoreWeave (originally Atlantic Crypto) in 2017 as ethereum mining operation with GPUs. Pivoted to AI cloud infrastructure in 2019."
+  background: Former CEO of Hudson Ridge Asset Management (natural gas futures trading). Started CoreWeave (originally Atlantic
+    Crypto) in 2017 as ethereum mining operation with GPUs. Pivoted to AI cloud infrastructure in 2019.
   origin: American
 - name: Brian Venturo
   role: Chief Strategy Officer
-  background: "Former portfolio manager at Hudson Ridge Asset Management (energy industry hedge fund). Built ML models for energy investment picks. Co-started ethereum mining in grandfather's garage in New Jersey."
+  background: Former portfolio manager at Hudson Ridge Asset Management (energy industry hedge fund). Built ML models for
+    energy investment picks. Co-started ethereum mining in grandfather's garage in New Jersey.
   origin: American
 - name: Brannin McBee
   role: Chief Development Officer
-  background: "Former commodities trader. Co-founded Atlantic Crypto Corp (later CoreWeave) with Intrator and Venturo in 2017."
+  background: Former commodities trader. Co-founded Atlantic Crypto Corp (later CoreWeave) with Intrator and Venturo in 2017.
   origin: American
 employees_approx: ~1,500+ (estimate; exact figure uncertain)
 research_date: 2026-03-20
@@ -66,6 +68,7 @@ funding_rounds:
   source: https://www.prnewswire.com/news-releases/coreweave-secures-1-1-billion-in-series-c-funding-to-drive-the-next-generation-of-cloud-computing-for-the-future-of-ai-302133328.html
 data_notes: IPO'd March 28, 2025 on NASDAQ (CRWV). Pre-IPO equity ~$2.4B. Also raised $12B+ in debt financing.
 linkedin_verified: true
+last_updated: '2026-03-24'
 ---
 
 # CoreWeave (CRWV)

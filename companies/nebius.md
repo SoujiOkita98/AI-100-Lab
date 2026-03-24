@@ -12,7 +12,10 @@ total_funding_approx: ~$4.5B+ (equity + convertible bonds, excludes Yandex-era c
 founders:
 - name: Arkady Volozh
   role: CEO & Co-Founder, originally of Yandex
-  background: Born in Guryev, Kazakh SSR (now Atyrau, Kazakhstan). Applied mathematics degree from Gubkin Russian State University. Serial entrepreneur since 1989 (CompTek, Arkadia Company). Co-founded Yandex in 1997, built it into Russia's dominant search engine. Led Yandex as CEO until restructuring. Pivoted non-Russian Yandex assets into Nebius Group (2024). Renounced Russian citizenship (2026).
+  background: Born in Guryev, Kazakh SSR (now Atyrau, Kazakhstan). Applied mathematics degree from Gubkin Russian State University.
+    Serial entrepreneur since 1989 (CompTek, Arkadia Company). Co-founded Yandex in 1997, built it into Russia's dominant
+    search engine. Led Yandex as CEO until restructuring. Pivoted non-Russian Yandex assets into Nebius Group (2024). Renounced
+    Russian citizenship (2026).
   origin: Kazakhstani-Israeli (born Soviet Kazakhstan, Russian-Jewish family)
 employees_approx: ~2,000+ (estimate; exact figure uncertain)
 research_date: 2026-03-20
@@ -54,6 +57,7 @@ crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/nebius
 total_raised_m: 7450.0
 linkedin_verified: true
+last_updated: '2026-03-24'
 ---
 
 # Nebius Group (NBIS)

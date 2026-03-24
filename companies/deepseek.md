@@ -47,6 +47,7 @@ linkedin_verified: true
 total_raised_m: 1100.0
 latest_valuation_m: 3400.0
 status: active
+confidence: high
 ---
 
 # DeepSeek

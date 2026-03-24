@@ -66,6 +66,7 @@ twitter: '@unconvAI'
 total_raised_m: 475.0
 linkedin_verified: true
 status: active
+confidence: high
 ---
 
 # Unconventional AI

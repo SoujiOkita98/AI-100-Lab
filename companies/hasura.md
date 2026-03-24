@@ -10,11 +10,14 @@ last_updated: 2026-03-20
 founders:
 - name: Tanmai Gopal
   role: Co-Founder & CEO
-  background: Integrated Dual Degree in Computer Science from IIT Madras. 11+ years building Hasura. Turned down offers from major corporates and academic labs to co-found the company.
+  background: Integrated Dual Degree in Computer Science from IIT Madras. 11+ years building Hasura. Turned down offers from
+    major corporates and academic labs to co-found the company.
   origin: Indian (IIT Madras alumnus)
 - name: Rajoshi Ghosh
   role: Co-Founder & COO
-  background: Alumna of National University of Singapore and Stanford GSB Ignite Program. World Economic Forum Global Shaper. Founded 5 additional startups. Started career as published bioinformatics researcher in genomics at Genome Institute of Singapore.
+  background: Alumna of National University of Singapore and Stanford GSB Ignite Program. World Economic Forum Global Shaper.
+    Founded 5 additional startups. Started career as published bioinformatics researcher in genomics at Genome Institute of
+    Singapore.
   origin: Indian
 funding_rounds:
 - stage: Seed
@@ -50,6 +53,7 @@ name: Hasura
 linkedin_verified: true
 total_raised_m: 239.0
 latest_valuation_m: 1000.0
+confidence: high
 ---
 
 # Hasura -- AI Data Infrastructure & API Platform

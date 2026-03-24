@@ -47,6 +47,7 @@ name: Formation Bio
 linkedin_verified: true
 total_raised_m: 608.0
 latest_valuation_m: 1700.0
+confidence: high
 ---
 
 # Formation Bio

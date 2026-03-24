@@ -45,6 +45,7 @@ funding_rounds:
   source: https://www.crunchbase.com/organization/agibot
 linkedin_verified: true
 status: active
+confidence: high
 ---
 
 # AgiBot (Zhiyuan Robotics)

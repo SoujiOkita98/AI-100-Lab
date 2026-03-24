@@ -41,6 +41,7 @@ crunchbase_verified: true
 name: Charm Therapeutics
 linkedin_verified: true
 total_raised_m: 150.0
+confidence: high
 ---
 
 # Charm Therapeutics

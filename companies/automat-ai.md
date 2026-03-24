@@ -31,6 +31,7 @@ linkedin: https://www.linkedin.com/company/automat-ai
 crunchbase: https://www.crunchbase.com/organization/lasso-d885
 name: Automat
 total_raised_m: 1.0
+confidence: high
 ---
 
 # Automat (fka Lasso)

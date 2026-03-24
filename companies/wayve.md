@@ -75,6 +75,7 @@ sector:
 - autonomous driving
 - robotics
 - foundation models
+confidence: high
 ---
 
 # Wayve

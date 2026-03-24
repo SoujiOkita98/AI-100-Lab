@@ -47,6 +47,7 @@ funding_rounds:
 name: d-Matrix
 linkedin_verified: true
 status: active
+confidence: high
 ---
 
 # d-Matrix

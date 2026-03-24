@@ -35,6 +35,7 @@ name: SambaNova Systems
 linkedin_verified: true
 status: active
 funding_rounds: []
+confidence: medium
 ---
 
 # SambaNova Systems

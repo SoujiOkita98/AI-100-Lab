@@ -50,6 +50,7 @@ funding_rounds:
 name: Etched
 linkedin_verified: true
 status: active
+confidence: high
 ---
 
 # Etched

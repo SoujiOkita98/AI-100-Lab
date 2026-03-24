@@ -42,6 +42,8 @@ funding_rounds:
   source: https://www.cathaycapital.com/entalpic-raises-e8-5-million-to-pioneer-ai-solutions-for-decarbonizing-industrial-chemistry/
 linkedin: https://www.linkedin.com/company/entalpic/
 linkedin_verified: true
+confidence: high
+last_updated: '2026-03-24'
 ---
 
 # Entalpic

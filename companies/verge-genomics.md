@@ -9,7 +9,11 @@ employee_count: ~80 (estimate)
 founders:
 - name: Alice Zhang
   role: Co-Founder & CEO
-  background: BA Molecular Biology from Princeton University. Seven years of systems biology research at National Cancer Institute, Lewis-Sigler Institute for Integrative Genomics at Princeton, and UCLA. Attended UCLA-Caltech Medical Scientist Training Program (neuroscience doctorate) before leaving to start Verge in 2015. Father was a 1978 Democracy Wall Movement activist in China who received political asylum in the US. Forbes 30 Under 30 (2017), Fortune 40 Under 40 (2022), Fierce Biotech Fiercest Women in Life Sciences (2022). Paul & Daisy Soros Fellow.
+  background: BA Molecular Biology from Princeton University. Seven years of systems biology research at National Cancer Institute,
+    Lewis-Sigler Institute for Integrative Genomics at Princeton, and UCLA. Attended UCLA-Caltech Medical Scientist Training
+    Program (neuroscience doctorate) before leaving to start Verge in 2015. Father was a 1978 Democracy Wall Movement activist
+    in China who received political asylum in the US. Forbes 30 Under 30 (2017), Fortune 40 Under 40 (2022), Fierce Biotech
+    Fiercest Women in Life Sciences (2022). Paul & Daisy Soros Fellow.
   origin: Chinese-American
 key_investors:
 - a16z
@@ -47,6 +51,7 @@ crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/verge-genomics
 linkedin_verified: true
 total_raised_m: 148.0
+confidence: high
 ---
 
 # Verge Genomics

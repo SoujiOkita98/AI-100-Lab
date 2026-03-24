@@ -82,6 +82,8 @@ name: Snorkel AI
 linkedin_verified: true
 total_raised_m: 238.0
 latest_valuation_m: 1300.0
+confidence: high
+last_updated: '2026-03-24'
 ---
 
 # Snorkel AI

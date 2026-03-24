@@ -6,15 +6,17 @@ founders:
 - name: Shiv Rao (Shivdev Rao, MD)
   role: CEO & Co-Founder
   origin: Indian-American
-  background: "BA History Carnegie Mellon (2001). Practicing cardiologist at UPMC. Led UPMC provider-facing investment portfolio (2013-2019). TIME 100 Most Influential in AI (2024). Founded Abridge to solve physician 'pajama time' documentation burden."
+  background: BA History Carnegie Mellon (2001). Practicing cardiologist at UPMC. Led UPMC provider-facing investment portfolio
+    (2013-2019). TIME 100 Most Influential in AI (2024). Founded Abridge to solve physician 'pajama time' documentation burden.
 - name: Sandeep Konam
   role: Co-Founder & CTO
   origin: Indian-American
-  background: "MS Robotics Carnegie Mellon (2017). Oversees technical vision and product development at Abridge."
+  background: MS Robotics Carnegie Mellon (2017). Oversees technical vision and product development at Abridge.
 - name: Florian Metze
   role: Co-Founder (departed 2019)
   origin: German
-  background: "Former Associate Research Professor at CMU Language Technologies Institute. Now Research Scientist Manager at Meta."
+  background: Former Associate Research Professor at CMU Language Technologies Institute. Now Research Scientist Manager at
+    Meta.
 last_round: Series E — $300M (June 2025)
 key_investors:
 - Andreessen Horowitz (a16z)
@@ -89,6 +91,8 @@ name: Abridge
 linkedin_verified: true
 total_raised_m: 750.0
 latest_valuation_m: 5300.0
+confidence: high
+last_updated: '2026-03-24'
 ---
 
 # Abridge

@@ -60,6 +60,7 @@ data_notes: Pre-IPO funding ~$100M+; IPO raised ~$369M. Series B amount not publ
   of $560M in 2025.
 linkedin_verified: true
 status: active
+confidence: high
 ---
 
 # Cambricon Technologies

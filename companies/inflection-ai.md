@@ -62,6 +62,7 @@ total_raised_m: 1525.0
 name: Inflection AI
 linkedin_verified: true
 latest_valuation_m: 4000.0
+confidence: high
 ---
 
 # Inflection AI

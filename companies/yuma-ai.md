@@ -32,6 +32,7 @@ linkedin: https://www.linkedin.com/company/yuma-ai
 crunchbase: https://www.crunchbase.com/organization/yuma-c2b6
 name: Yuma AI
 total_raised_m: 5.5
+confidence: high
 ---
 
 # Yuma AI

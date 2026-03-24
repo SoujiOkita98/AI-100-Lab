@@ -62,6 +62,7 @@ name: Descript
 linkedin_verified: true
 total_raised_m: 100.0
 latest_valuation_m: 550.0
+confidence: high
 ---
 
 # Descript

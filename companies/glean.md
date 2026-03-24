@@ -84,6 +84,7 @@ name: Glean
 linkedin_verified: true
 total_raised_m: 765.0
 latest_valuation_m: 7200.0
+confidence: high
 ---
 
 # Glean -- AI-Powered Enterprise Search & Work AI Platform

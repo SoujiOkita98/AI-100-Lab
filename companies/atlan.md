@@ -65,6 +65,8 @@ linkedin: https://www.linkedin.com/company/atlan-hq
 linkedin_verified: true
 total_raised_m: 206.0
 status: active
+confidence: high
+last_updated: '2026-03-24'
 ---
 
 # Atlan

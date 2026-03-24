@@ -36,6 +36,7 @@ linkedin: https://www.linkedin.com/company/athina-ai
 crunchbase: https://www.crunchbase.com/organization/magikinvest
 name: Athina AI
 total_raised_m: 3.0
+confidence: high
 ---
 
 # Athina AI

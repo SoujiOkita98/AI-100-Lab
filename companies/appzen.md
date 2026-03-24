@@ -12,11 +12,13 @@ founders:
 - name: Anant Kale
   role: Co-founder & CEO
   origin: Indian
-  background: "BEng, MBA Finance University of Mumbai. Former VP Applications at Fujitsu America (strategy, product management). 15+ years in enterprise software development."
+  background: BEng, MBA Finance University of Mumbai. Former VP Applications at Fujitsu America (strategy, product management).
+    15+ years in enterprise software development.
 - name: Kunal Verma
   role: Co-founder & CTO
   origin: Indian
-  background: "PhD CS University of Georgia (semantic technologies). Former team lead at Accenture Technology Labs. Published 50+ papers, holds 7 patents in AI/semantic technologies."
+  background: PhD CS University of Georgia (semantic technologies). Former team lead at Accenture Technology Labs. Published
+    50+ papers, holds 7 patents in AI/semantic technologies.
 key_investors:
 - Riverwood Capital — Series D lead
 - Lightspeed Venture Partners
@@ -64,6 +66,8 @@ crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/appzen
 linkedin_verified: true
 total_raised_m: 290.0
+confidence: high
+last_updated: '2026-03-24'
 ---
 
 # AppZen
