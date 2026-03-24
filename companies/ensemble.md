@@ -4,9 +4,13 @@ headquarters: San Francisco, CA, United States
 website: https://www.ensemble.ai/
 founders:
 - name: Alex Reneau
-  role: Co-Founder
+  role: Co-Founder & CEO
+  background: PhD research at Northwestern University on programmable feature engineering for time series modeling; published multiple papers defining the field; research directly informed Ensemble's "Dark Matter" technology
+  origin: United States
 - name: Zach Albertson
-  role: Co-Founder
+  role: Co-Founder & COO
+  background: Northwestern University; AI/ML consulting experience where he saw firsthand the challenges enterprises face implementing machine learning; practical background in data science and traditional ML
+  origin: United States
 sector: AI Infrastructure / Data Quality / Machine Learning / Enterprise AI
 stage: Seed
 key_investors:
@@ -41,8 +45,8 @@ Ensemble is a San Francisco-based AI startup founded in 2023 that addresses data
 
 ## Founders
 
-- **Alex Reneau** - Co-Founder
-- **Zach Albertson** - Co-Founder
+- **Alex Reneau** - Co-Founder & CEO. PhD research at Northwestern on programmable feature engineering for time series; published foundational papers in the field. Origin: United States.
+- **Zach Albertson** - Co-Founder & COO. Northwestern University; AI/ML consulting background with hands-on enterprise implementation experience. Origin: United States.
 
 The founders are pioneering a novel approach to data representation using an "objective function" that automatically generates features for tabular data, enabling better model performance and decision-making.
 

@@ -4,9 +4,13 @@ headquarters: London, United Kingdom
 website: https://www.kernel.ai/
 founders:
 - name: Anders Krohn
-  role: Co-Founder
+  role: Co-Founder & CEO
+  background: BA in Economics & Management (Hons) from University of Oxford; studied at 5 universities on 3 continents; previously CEO and Co-Founder of Aula Education (helped universities bring learning online); Co-Founder and MD of Ublend
+  origin: Denmark
 - name: Marcus Henglein
   role: Co-Founder
+  background: Bachelor's in Philosophy; previously CEO and Co-Founder of Aula Education alongside Krohn; Co-Founder and MD of Ublend; co-founded Project Access; former consultant at Boston Consulting Group; military service in Light Reconnaissance for Forsvaret (Norwegian Armed Forces)
+  origin: Norway
 sector: AI / Revenue Operations / Data Quality / Enterprise CRM
 stage: Series A
 key_investors:
@@ -50,8 +54,8 @@ Kernel is a London-based AI startup founded in 2023 that builds custom AI agents
 
 ## Founders
 
-- **Anders Krohn** - Co-Founder
-- **Marcus Henglein** - Co-Founder
+- **Anders Krohn** - Co-Founder & CEO. BA Economics & Management (Oxford); previously co-founded Aula Education and Ublend. Origin: Denmark.
+- **Marcus Henglein** - Co-Founder. Philosophy degree; co-founded Aula Education and Ublend with Krohn; former BCG consultant; co-founded Project Access. Origin: Norway.
 
 ## Product
 

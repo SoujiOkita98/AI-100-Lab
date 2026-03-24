@@ -5,10 +5,16 @@ website: https://diesellabs.com/
 founders:
 - name: Anjali Midha
   role: Co-Founder & CEO
+  background: MBA from MIT Sloan; BA from Tufts University; former Global Media & Agency Research Director at Twitter (joined via Bluefin Labs acquisition); VP Professional Services & Analytics at Bluefin Labs (MIT Media Lab spin-out pioneering Social TV analytics)
+  origin: United States
 - name: Michael Fleischman
   role: Co-Founder
+  background: PhD in Computer Science from MIT; co-founded Bluefin Labs (social TV analytics, acquired by Twitter); currently CTO and Co-Founder at OpenSpace (construction AI); expertise in AI, NLP, and machine learning
+  origin: United States
 - name: Russell Stevens
   role: Co-Founder
+  background: BA in Government from Dartmouth College; Master of Public Policy from Harvard Kennedy School; Head of Programs at MIT Center for Constructive Communication; Managing Partner at Saddle River Group; co-founded Cortico; former Partner at Ss+k marketing agency
+  origin: United States
 sector: AI / Marketing Analytics / Content Intelligence / Consumer Insights
 stage: Seed
 key_investors:
@@ -50,9 +56,9 @@ Diesel Labs is a Cambridge, Massachusetts-based content intelligence company fou
 
 ## Founders
 
-- **Anjali Midha** - Co-Founder & CEO
-- **Michael Fleischman** - Co-Founder
-- **Russell Stevens** - Co-Founder
+- **Anjali Midha** - Co-Founder & CEO. MBA from MIT Sloan, BA from Tufts; former Global Media Research Director at Twitter (via Bluefin Labs acquisition); VP at Bluefin Labs. Origin: United States.
+- **Michael Fleischman** - Co-Founder. PhD in CS from MIT; co-founded Bluefin Labs; now CTO at OpenSpace; AI/NLP expert. Origin: United States.
+- **Russell Stevens** - Co-Founder. Dartmouth (Government), Harvard Kennedy School (MPP); Head of Programs at MIT Center for Constructive Communication; co-founded Cortico. Origin: United States.
 
 ## Product
 

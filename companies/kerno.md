@@ -3,16 +3,26 @@ founded: '2022'
 headquarters: Dublin, Ireland
 website: https://www.kerno.io/
 founders:
-- name: Sean M.
+- name: Sean Madigan
   role: Co-Founder & CEO
+  background: Engineering background; former EMEA Director at Secure Code Warrior (raised $100M+, scaled ARR from $0 to $15M); entrepreneur focused on developer tools and security
+  origin: Ireland
 - name: Vladimir Romanov
   role: Co-Founder
+  background: B.Eng in Electrical Engineering; MBA from McGill University; automation and engineering manager at Procter & Gamble, Kraft Heinz, and Post Holdings; founded SolisPLC (industrial automation education platform)
+  origin: Canada
 - name: Karim Traiaia
-  role: Co-Founder
+  role: Co-Founder & CPO
+  background: BCom in Entrepreneurship and Strategic Management from McGill University; previous roles at SolisPLC, Memgraph, Techstars, and Startup Basecamp; Li Ka Shing Summer Program scholar
+  origin: Canada
 - name: Anibal Ambertin
   role: Co-Founder
+  background: Software engineer with extensive backend and infrastructure experience
+  origin: Argentina
 - name: Maximiliano De Lorenzo
-  role: Co-Founder
+  role: Co-Founder & Tech Lead
+  background: Degree in Informatics (Ingenieria en Informatica) from Universidad Nacional de La Matanza; previous experience at So Energy; London-based engineer
+  origin: Argentina
 sector: AI / Developer Tools / Code Validation / Testing Automation
 stage: Seed
 key_investors:
@@ -45,11 +55,11 @@ Kerno is a Dublin, Ireland-based startup founded in 2022 that builds an AI-power
 
 ## Founders
 
-- **Sean M.** - Co-Founder & CEO
-- **Vladimir Romanov** - Co-Founder
-- **Karim Traiaia** - Co-Founder
-- **Anibal Ambertin** - Co-Founder
-- **Maximiliano De Lorenzo** - Co-Founder
+- **Sean Madigan** - Co-Founder & CEO. Former EMEA Director at Secure Code Warrior ($100M+ raised, ARR $0 to $15M). Origin: Ireland.
+- **Vladimir Romanov** - Co-Founder. B.Eng Electrical Engineering, MBA McGill; automation manager at P&G, Kraft Heinz; founded SolisPLC. Origin: Canada.
+- **Karim Traiaia** - Co-Founder & CPO. BCom from McGill (Entrepreneurship & Strategy); prior roles at SolisPLC, Memgraph, Techstars. Origin: Canada.
+- **Anibal Ambertin** - Co-Founder. Software engineer with backend and infrastructure expertise. Origin: Argentina.
+- **Maximiliano De Lorenzo** - Co-Founder & Tech Lead. Informatics degree from Universidad Nacional de La Matanza; former So Energy. Origin: Argentina.
 
 ## Product
 

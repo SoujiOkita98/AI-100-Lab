@@ -5,6 +5,8 @@ website: https://gethivemind.ai/
 founders:
 - name: Ali Elzeiny
   role: Founder
+  background: UC Berkeley and PhD in Engineering from UC Irvine; ex-TikTok engineer; previously founded RocketDevs, a platform connecting software engineers in underserved regions with remote tech jobs
+  origin: United States (Egyptian heritage)
 sector: AI / HR Tech / Recruiting / Hiring Automation
 stage: Pre-Seed / Bootstrapped
 key_investors: []
@@ -28,7 +30,7 @@ Hivemind is an early-stage AI hiring platform that uses AI recruiting software t
 
 ## Founder
 
-- **Ali Elzeiny** - Founder
+- **Ali Elzeiny** - Founder. UC Berkeley, PhD Engineering from UC Irvine; ex-TikTok engineer; previously founded RocketDevs. Origin: United States (Egyptian heritage).
 
 ## Product
 

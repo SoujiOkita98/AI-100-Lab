@@ -5,8 +5,12 @@ website: https://www.evidentlyai.com/
 founders:
 - name: Elena Samuylova
   role: Co-Founder & CEO
+  background: 7+ years helping large enterprises deploy ML systems; Co-Founder and CPO at Mechanica AI (industrial AI startup); led business development at Yandex Data Factory (enterprise AI division of Yandex); Graduate School of Management, St. Petersburg State University and Vienna University of Economics; named in "50 Women in Product Europe" (2018)
+  origin: Russia
 - name: Emeli Dral
   role: Co-Founder & CTO
+  background: BS and MS in Applied Mathematics from Peoples' Friendship University of Russia; MS in Computer Science from Yandex School of Data Analysis; Chief Data Scientist at Yandex Data Factory; co-founded Mechanica AI; co-author of most popular Russian-language ML course on Coursera (100K+ students); 50+ real-world ML projects
+  origin: Russia
 sector: AI Infrastructure / MLOps / Model Monitoring / LLM Observability
 stage: Series A
 key_investors:
@@ -51,8 +55,8 @@ Evidently AI is a London-based startup that builds an open-source framework for 
 
 ## Founders
 
-- **Elena Samuylova** - Co-Founder & CEO
-- **Emeli Dral** - Co-Founder & CTO
+- **Elena Samuylova** - Co-Founder & CEO. 7+ years deploying enterprise ML; co-founded Mechanica AI; led BD at Yandex Data Factory; St. Petersburg State University & Vienna University of Economics. Origin: Russia.
+- **Emeli Dral** - Co-Founder & CTO. Applied Math (PFUR), CS (Yandex School of Data Analysis); Chief Data Scientist at Yandex Data Factory; co-founded Mechanica AI; co-authored top Russian ML Coursera course (100K+ students). Origin: Russia.
 
 ## Product
 
