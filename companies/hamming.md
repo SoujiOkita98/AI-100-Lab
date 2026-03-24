@@ -12,7 +12,7 @@ founders:
   role: CEO
   background: Former Head of Data at Citizen; Senior Staff Data Scientist at Tesla where he grew AI-powered sales to hundreds
     of millions in revenue/year
-  origin: India
+  origin: Indian
 - name: Marius Buleandra
   role: CTO
   background: Former data infrastructure lead at Anduril; founding engineer at Spell (MLOps startup acquired by Reddit)

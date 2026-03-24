@@ -11,11 +11,11 @@ founders:
 - name: Han Shu
   role: Co-Founder
   background: Co-created Vlingo, the speech tech that powered Siri and Samsung's S-Voice (acquired for $225M)
-  origin: China
+  origin: Chinese
 - name: Dave Grannan
   role: Co-Founder
   background: Co-created Vlingo (acquired for $225M); serial entrepreneur in speech technology
-  origin: United States
+  origin: American
 funding_rounds:
 - stage: Seed
   date: 2024-03

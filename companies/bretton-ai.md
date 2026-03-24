@@ -21,11 +21,11 @@ founders:
 - name: Will Lawrence
   role: Co-Founder & CEO
   background: Former product lead for Facebook's AML platform. Built core compliance infrastructure at Paxos. YC alum.
-  origin: American (inferred from name)
+  origin: American
 - name: Alex Jin
   role: Co-Founder & CTO
   background: Technical co-founder.
-  origin: Chinese-American (inferred from name)
+  origin: Chinese-American
 last_updated: 2026-03-21
 confidence: medium
 linkedin: https://www.linkedin.com/company/bretton-ai

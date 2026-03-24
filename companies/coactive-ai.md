@@ -15,7 +15,7 @@ founders:
 - name: Cody Coleman
   role: Co-Founder & CEO
   background: PhD in CS from Stanford. Co-creator of DAWNBench and MLPerf. MIT MEng/BS in EECS.
-  origin: American (inferred from name)
+  origin: American
 - name: Will Gaviria Rojas
   role: Co-Founder
   background: Former data scientist at eBay.

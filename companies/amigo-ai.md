@@ -4,7 +4,8 @@ founded: 2023
 headquarters: New York, NY
 website: https://www.amigo.ai
 sector: AI Healthcare / Clinical Agents
-one_liner: AI clinical agent platform for healthcare organizations -- digital residency model trains agents across millions of simulated patient scenarios before live deployment.
+one_liner: AI clinical agent platform for healthcare organizations -- digital residency model trains agents across millions
+  of simulated patient scenarios before live deployment.
 status: active
 total_raised_m: 17.0
 founders:
@@ -15,7 +16,7 @@ founders:
 - name: John Xing
   role: Co-Founder & CTO
   background: Technical co-founder.
-  origin: Chinese-American (inferred)
+  origin: Chinese-American
 funding_rounds:
 - stage: Seed
   date: 2024

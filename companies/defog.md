@@ -7,16 +7,19 @@ sector: AI / Data Analytics / Text-to-SQL
 stage: Seed
 total_funding_estimated: ~$2.7M
 status: Private
-one_liner: Open-source LLM platform that converts natural language questions into SQL queries for enterprise data analysis, with on-premise deployment and fine-tuning capabilities
+one_liner: Open-source LLM platform that converts natural language questions into SQL queries for enterprise data analysis,
+  with on-premise deployment and fine-tuning capabilities
 founders:
 - name: Medha Basu
   role: Co-Founder
-  background: Former journalist/editor turned content marketing entrepreneur. Grew an enterprise content marketing firm from $0 to 7-figure annual revenue. Built a digital media startup for governments in Asia focused on tech in public service delivery.
+  background: Former journalist/editor turned content marketing entrepreneur. Grew an enterprise content marketing firm from
+    $0 to 7-figure annual revenue. Built a digital media startup for governments in Asia focused on tech in public service
+    delivery.
   origin: Singaporean/Indian (inferred)
 - name: Rishabh Srivastava
   role: Co-Founder
   background: Technical co-founder with machine learning expertise. Y Combinator W23 alumnus.
-  origin: Indian (inferred from name)
+  origin: Indian
 last_updated: 2026-03-24
 confidence: medium
 crunchbase: https://www.crunchbase.com/organization/defog

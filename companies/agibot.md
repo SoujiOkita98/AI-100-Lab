@@ -10,11 +10,11 @@ founders:
 - name: Deng Taihua
   role: Co-Founder, CEO & Chairman
   background: Founded AgiBot in 2023 in Shanghai.
-  origin: Chinese (inferred from name)
+  origin: Chinese
 - name: Peng Zhihui
   role: Co-Founder & CTO
   background: Prominent Chinese robotics/AI engineer. Well-known tech influencer in China.
-  origin: Chinese (inferred from name)
+  origin: Chinese
 sector: Humanoid Robotics / Embodied AI
 stage: Pre-IPO (Hong Kong IPO expected Q3 2026)
 revenue_2025_target_usd: ~$142M (1B RMB target)

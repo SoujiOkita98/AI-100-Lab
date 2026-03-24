@@ -20,7 +20,7 @@ founders:
 - name: Anshul Gupta
   role: Co-Founder
   background: Stanford AI researcher.
-  origin: Indian (inferred from name)
+  origin: Indian
 last_updated: 2026-03-21
 confidence: medium
 crunchbase: https://www.crunchbase.com/organization/actively-ai

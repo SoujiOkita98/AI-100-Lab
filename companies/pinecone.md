@@ -43,8 +43,7 @@ founders:
     Director of Research at AWS and Head of Amazon AI Labs (built parts of SageMaker, Kinesis, QuickSight, Rekognition, Personalize,
     Forecast, and other services). Before AWS, Senior Research Director at Yahoo and Head of Yahoo's Research Lab in New York.
     Deep expertise in large-scale vector search, streaming algorithms, and machine learning infrastructure.
-  origin: Israeli. Educated at Tel Aviv University before moving to the US for his PhD at Yale. Founded Pinecone after seeing
-    that no packaged vector search solution existed for teams without Amazon/Yahoo-scale engineering resources.
+  origin: American
 team_china_profile: No known Chinese-origin founders. The founding team is Israeli-American. No significant public China connections.
 notable_hires:
 - Ash Ashutosh - CEO (September 2025). Three-time founder (Serano Systems, AppIQ, Actifio). Former CTO of HP's Storage division,

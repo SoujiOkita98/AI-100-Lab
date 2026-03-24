@@ -20,7 +20,7 @@ founders:
 - name: Brandon Wang
   role: Co-Founder & CTO
   background: Thiel Fellow. Previously founded a consumer underwriting business.
-  origin: Chinese-American (inferred from name)
+  origin: Chinese-American
 - name: Rajiv Dattani
   role: Co-Founder
   background: Former McKinsey partner (global insurance). Former COO of METR (AI safety research non-profit).

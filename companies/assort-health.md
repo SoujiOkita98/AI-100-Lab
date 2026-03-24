@@ -9,44 +9,50 @@ sector:
 - patient engagement
 - voice AI
 - healthcare operations
-one_liner: Agentic AI platform for patient phone calls, scheduling, and engagement, handling 42M+ patient interactions and cutting hold times from 11 minutes to 1 minute.
+one_liner: Agentic AI platform for patient phone calls, scheduling, and engagement, handling 42M+ patient interactions and
+  cutting hold times from 11 minutes to 1 minute.
 logo: ''
 total_raised_m: 102
-latest_valuation_m:
+latest_valuation_m: null
 funding_rounds:
 - stage: Seed
   date: 2023-01
   amount_m: 3.5
-  valuation_m:
+  valuation_m: null
   lead_investors: []
   source: https://www.assorthealth.com/blog/assort-health-secures-3-5-million-to-scale-first-generative-ai-for-healthcare-call-centers
   notes: Initial funding to build generative AI for healthcare call centers.
 - stage: Series A
   date: 2025-04
   amount_m: 26
-  valuation_m:
+  valuation_m: null
   lead_investors: []
   source: https://www.assorthealth.com/blog/assort-health-secures-26-million-in-funding-to-expand-specialty-specific-generative-ai-platform-for-managing-patient-phone-calls
   notes: Funding to expand specialty-specific generative AI platform for managing patient phone calls.
 - stage: Series B
   date: 2025-08
   amount_m: 76
-  valuation_m:
+  valuation_m: null
   lead_investors:
   - Lightspeed Venture Partners
   source: https://techcrunch.com/2025/08/26/assort-health-nabs-50m-to-automate-patient-phone-calls-sources-say/
-  notes: Led by Lightspeed. Participation from Felicis, First Round Capital, Chemistry, A* Capital, Liquid2, Quiet Capital. Some sources report the round as $50M; total raised reached $102M.
+  notes: Led by Lightspeed. Participation from Felicis, First Round Capital, Chemistry, A* Capital, Liquid2, Quiet Capital.
+    Some sources report the round as $50M; total raised reached $102M.
 founders:
 - name: Jeff Liu
   role: Co-Founder & CEO
-  background: Healthcare AI entrepreneur. Built Assort Health from the insight that healthcare call centers are overwhelmed and patients face unacceptable wait times.
-  origin: American (Chinese descent -- inferred)
+  background: Healthcare AI entrepreneur. Built Assort Health from the insight that healthcare call centers are overwhelmed
+    and patients face unacceptable wait times.
+  origin: Chinese-American
 - name: Jon Wang
   role: Co-Founder & CTO
   background: Technical co-founder leading AI and engineering. Built the voice AI and agentic systems powering the platform.
-  origin: American (Chinese descent -- inferred)
-team_composition: Technical founding team with deep healthcare AI focus. The company has scaled rapidly from seed to Series B in under three years.
-business_model: Enterprise SaaS for healthcare providers. Assort Health deploys AI agents (voice, text, email, web) that handle patient phone calls, scheduling, prescription refills, and administrative tasks. Healthcare practices pay subscription fees based on usage/volume. The platform integrates with existing EHR systems and handles specialty-specific workflows.
+  origin: Chinese-American
+team_composition: Technical founding team with deep healthcare AI focus. The company has scaled rapidly from seed to Series
+  B in under three years.
+business_model: Enterprise SaaS for healthcare providers. Assort Health deploys AI agents (voice, text, email, web) that handle
+  patient phone calls, scheduling, prescription refills, and administrative tasks. Healthcare practices pay subscription fees
+  based on usage/volume. The platform integrates with existing EHR systems and handles specialty-specific workflows.
 products_and_models:
 - 'Voice AI agents: Handle inbound patient phone calls, reducing hold times from 11 minutes to 1 minute.'
 - 'Multi-channel AI: Text, email, and web-based AI agents for patient engagement.'
@@ -56,7 +62,8 @@ customers_and_partnerships:
 - Healthcare providers handling 42M+ patient interactions
 - Named to Forbes Cloud 100 (2025) alongside OpenAI and Anthropic
 - Lightspeed Venture Partners (strategic investor)
-revenue_signals: 42M+ patient interactions processed. Forbes Cloud 100 recognition. Rapid funding trajectory ($3.5M to $102M in under 3 years) suggests strong revenue growth. Specific ARR figures not publicly disclosed.
+revenue_signals: 42M+ patient interactions processed. Forbes Cloud 100 recognition. Rapid funding trajectory ($3.5M to $102M
+  in under 3 years) suggests strong revenue growth. Specific ARR figures not publicly disclosed.
 competitors:
 - Hyro (healthcare conversational AI)
 - Notable Health (AI-powered healthcare automation)
@@ -71,7 +78,9 @@ sources:
 - https://www.healthcareittoday.com/2025/11/03/assort-health-secures-102-million-to-scale-nations-first-agentic-ai-platform-that-solves-longstanding-frustrations-tied-to-patient-access-and-experience/
 last_updated: 2026-03-24
 confidence: medium-high
-confidence_notes: Funding totals confirmed via PR Newswire press release ($102M total). Individual round amounts cross-referenced but some discrepancies exist between TechCrunch ($50M Series B) and company total ($102M implies $76M in later rounds minus earlier amounts). Founder backgrounds less publicly documented than some other companies. Valuation not publicly disclosed.
+confidence_notes: Funding totals confirmed via PR Newswire press release ($102M total). Individual round amounts cross-referenced
+  but some discrepancies exist between TechCrunch ($50M Series B) and company total ($102M implies $76M in later rounds minus
+  earlier amounts). Founder backgrounds less publicly documented than some other companies. Valuation not publicly disclosed.
 website_verified: true
 twitter: '@assorthealth'
 linkedin: https://www.linkedin.com/company/assort-health

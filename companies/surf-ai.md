@@ -27,23 +27,23 @@ founders:
   role: CEO & Co-founder
   background: Co-founded FireLayers (acquired by Proofpoint), later held senior management positions at Proofpoint. Veteran
     Israeli cybersecurity entrepreneur.
-  origin: Israeli.
+  origin: Israeli
 - name: Elad Horn
   role: Co-founder
   background: Experienced Israeli cybersecurity executive.
-  origin: Israeli.
+  origin: Israeli
 - name: Roie Cohen Duwek
   role: Co-founder
   background: Israeli cybersecurity sector veteran.
-  origin: Israeli.
+  origin: Israeli
 - name: Avner Gideoni
   role: Co-founder
   background: Israeli cybersecurity sector veteran.
-  origin: Israeli.
+  origin: Israeli
 - name: Brenton Gumucio
   role: Co-founder
   background: Cybersecurity executive.
-  origin: American (inferred).
+  origin: American
 confidence: high
 last_updated: 2026-03-23
 linkedin: https://www.linkedin.com/company/surf-ai/

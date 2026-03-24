@@ -9,30 +9,32 @@ sector:
 - IoT
 - privacy-first sensing
 - building analytics
-one_liner: Privacy-first AI people sensing platform using body heat sensors to make buildings smarter, safer, and more energy efficient.
+one_liner: Privacy-first AI people sensing platform using body heat sensors to make buildings smarter, safer, and more energy
+  efficient.
 logo: ''
 total_raised_m: 68
-latest_valuation_m:
+latest_valuation_m: null
 funding_rounds:
 - stage: Seed
   date: 2019-01
   amount_m: 10
-  valuation_m:
+  valuation_m: null
   lead_investors: []
   source: https://www.crunchbase.com/organization/butlr-0e8d
   notes: Initial funding post-MIT Media Lab spinout. Exact amount approximate based on total raised minus Series A and B.
 - stage: Series A
   date: 2022-07
   amount_m: 20
-  valuation_m:
+  valuation_m: null
   lead_investors:
   - Tiger Global
   source: https://techcrunch.com/2022/07/26/butlr-lands-new-cash-to-put-people-detecting-sensors-in-the-office/
-  notes: Participation from Carrier Global Corporation (strategic), Ray Stata, Primetime Partners, E14, Unionlabs, Hyperplane, Tectonic Ventures.
+  notes: Participation from Carrier Global Corporation (strategic), Ray Stata, Primetime Partners, E14, Unionlabs, Hyperplane,
+    Tectonic Ventures.
 - stage: Series B
   date: 2024-01
   amount_m: 38
-  valuation_m:
+  valuation_m: null
   lead_investors:
   - Foundry
   source: https://www.butlr.com/news/butlr-secures-38m-in-series-b-funding
@@ -40,14 +42,21 @@ funding_rounds:
 founders:
 - name: Honghao Deng
   role: Co-Founder & CEO
-  background: Forbes 30 Under 30. Former researcher at City Science Group, MIT Media Lab. Developed privacy-preserving sensing technology during graduate research. Wikipedia page documents his background in human-computer interaction and smart environments.
+  background: Forbes 30 Under 30. Former researcher at City Science Group, MIT Media Lab. Developed privacy-preserving sensing
+    technology during graduate research. Wikipedia page documents his background in human-computer interaction and smart environments.
   origin: Chinese
 - name: Jiani Zeng
   role: Co-Founder
-  background: Forbes 30 Under 30. Met Deng at MIT Media Lab. Named to Inc. 2025 Female Founders 500 list. Leads design philosophy and has driven triple-digit growth, global expansion, and the Series B funding round.
-  origin: Chinese (inferred)
-team_composition: Both founders emerged from MIT Media Lab with deep expertise in human-computer interaction, sensing technology, and privacy-preserving AI. The combination of technical innovation and design thinking is central to the company's product differentiation.
-business_model: Hardware + SaaS. Butlr sells privacy-first thermal sensors (Heatic hardware) and a cloud-based analytics platform (SaaS subscription). The sensors detect body heat anonymously -- no cameras, no personally identifiable information -- and the AI platform provides real-time occupancy analytics, space utilization insights, and building optimization recommendations. Revenue comes from sensor hardware sales plus recurring platform subscriptions.
+  background: Forbes 30 Under 30. Met Deng at MIT Media Lab. Named to Inc. 2025 Female Founders 500 list. Leads design philosophy
+    and has driven triple-digit growth, global expansion, and the Series B funding round.
+  origin: Chinese
+team_composition: Both founders emerged from MIT Media Lab with deep expertise in human-computer interaction, sensing technology,
+  and privacy-preserving AI. The combination of technical innovation and design thinking is central to the company's product
+  differentiation.
+business_model: Hardware + SaaS. Butlr sells privacy-first thermal sensors (Heatic hardware) and a cloud-based analytics platform
+  (SaaS subscription). The sensors detect body heat anonymously -- no cameras, no personally identifiable information -- and
+  the AI platform provides real-time occupancy analytics, space utilization insights, and building optimization recommendations.
+  Revenue comes from sensor hardware sales plus recurring platform subscriptions.
 products_and_models:
 - 'Heatic 2: Next-generation people sensing hardware using thermal/body heat detection. No cameras, fully anonymous.'
 - 'Butlr Analytics Platform: Cloud-based dashboard for real-time occupancy data, space utilization, and building optimization.'
@@ -58,7 +67,8 @@ customers_and_partnerships:
 - Carrier Global Corporation (strategic investor and partner)
 - Qualcomm Ventures (investor, involved in Heatic 2 launch)
 - Enterprise customers across workplace, retail, hospitality, and healthcare
-revenue_signals: Triple-digit growth reported. Global expansion underway. The Series B at $38M from Foundry suggests meaningful revenue traction. Specific ARR figures not publicly disclosed.
+revenue_signals: Triple-digit growth reported. Global expansion underway. The Series B at $38M from Foundry suggests meaningful
+  revenue traction. Specific ARR figures not publicly disclosed.
 competitors:
 - Density (occupancy analytics)
 - VergeSense (workplace sensors)
@@ -74,7 +84,8 @@ sources:
 - https://www.crunchbase.com/organization/butlr-0e8d
 last_updated: 2026-03-24
 confidence: medium-high
-confidence_notes: Series A and B amounts confirmed via TechCrunch and company website. Seed amount is approximate. Founder backgrounds confirmed via MIT News, Wikipedia, and Inc. Valuation not publicly disclosed. Revenue details sparse.
+confidence_notes: Series A and B amounts confirmed via TechCrunch and company website. Seed amount is approximate. Founder
+  backgrounds confirmed via MIT News, Wikipedia, and Inc. Valuation not publicly disclosed. Revenue details sparse.
 website_verified: true
 twitter: '@butlrtech'
 linkedin: https://www.linkedin.com/company/butlr

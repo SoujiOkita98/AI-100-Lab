@@ -19,7 +19,7 @@ founders:
 - name: Vikesh Khanna
   role: Co-Founder & CTO
   background: Stanford CS graduate. Previously at Dropbox (large-scale data infrastructure).
-  origin: Indian (inferred from name)
+  origin: Indian
 last_updated: 2026-03-21
 confidence: medium
 data_notes: 'Needs verification: website, founders, source_urls, headquarters. Profile may be incomplete.'

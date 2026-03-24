@@ -4,18 +4,19 @@ founded: 2023
 headquarters: San Francisco, CA
 website: https://alex.com
 sector: AI Recruiting / Voice AI
-one_liner: AI recruiter that conducts autonomous video and phone interviews for candidate screening. YC-backed, serving Fortune 100 companies.
+one_liner: AI recruiter that conducts autonomous video and phone interviews for candidate screening. YC-backed, serving Fortune
+  100 companies.
 status: active
 total_raised_m: 20.0
 founders:
 - name: Aaron Wang
   role: Co-Founder & CEO
   background: Former Facebook engineer, ex-quant at hedge fund.
-  origin: Chinese-American (inferred)
+  origin: Chinese-American
 - name: John Rytel
   role: Co-Founder
   background: Brown University dropout. Technical co-founder.
-  origin: American (inferred)
+  origin: American
 funding_rounds:
 - stage: Seed
   date: 2024

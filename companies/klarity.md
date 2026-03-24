@@ -7,11 +7,13 @@ sector: AI / Document Review / Legal Tech / Revenue Operations
 stage: Series B
 total_funding_estimated: ~$90M
 status: Private
-one_liner: AI-powered document review platform that automates contract analysis and revenue operations workflows, achieving 85%+ pass-through rates on document processing
+one_liner: AI-powered document review platform that automates contract analysis and revenue operations workflows, achieving
+  85%+ pass-through rates on document processing
 founders:
 - name: Andrew Antos
   role: Co-Founder & CEO
-  background: Harvard Law School graduate. Former Biglaw experience. Met co-founder Nischal Nadhamuni in MIT class 15.390 (New Enterprises) in 2017.
+  background: Harvard Law School graduate. Former Biglaw experience. Met co-founder Nischal Nadhamuni in MIT class 15.390
+    (New Enterprises) in 2017.
   origin: American
 - name: Nischal Nadhamuni
   role: Co-Founder & CTO
@@ -20,7 +22,7 @@ founders:
 - name: Logan Ford
   role: Co-Founder
   background: Technical co-founder.
-  origin: American (inferred)
+  origin: American
 last_updated: 2026-03-24
 confidence: high
 crunchbase: https://www.crunchbase.com/organization/klarity

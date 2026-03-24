@@ -7,16 +7,19 @@ sector: AI / Sales Coaching / Revenue Enablement
 stage: Series A
 total_funding_estimated: ~$18M
 status: Private
-one_liner: AI-powered sales coaching and role-play platform that enables scalable, realistic practice sessions for enterprise sales teams using conversational AI
+one_liner: AI-powered sales coaching and role-play platform that enables scalable, realistic practice sessions for enterprise
+  sales teams using conversational AI
 founders:
 - name: Sriharsha Guduguntla
   role: Co-Founder
-  background: Former Salesforce engineer, contributed to conversational AI systems behind Salesforce Einstein. Longtime friends with co-founder Atul Raghunathan.
-  origin: Indian (inferred from name)
+  background: Former Salesforce engineer, contributed to conversational AI systems behind Salesforce Einstein. Longtime friends
+    with co-founder Atul Raghunathan.
+  origin: Indian
 - name: Atul Raghunathan
   role: Co-Founder
-  background: Former Meta Ads engineer, worked on machine learning models that defined ideal market profiles for billions of ads daily.
-  origin: Indian (inferred from name)
+  background: Former Meta Ads engineer, worked on machine learning models that defined ideal market profiles for billions
+    of ads daily.
+  origin: Indian
 last_updated: 2026-03-24
 confidence: high
 crunchbase: https://www.crunchbase.com/organization/hyperbound-fc9e

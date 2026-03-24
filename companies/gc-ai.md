@@ -4,14 +4,16 @@ founded: 2023
 headquarters: San Francisco, CA
 website: https://gc.ai
 sector: AI Legal / In-House Counsel
-one_liner: AI platform for in-house legal teams -- contract review, document drafting, and legal request management. Grew from $1M to $10M+ ARR in under a year. $555M valuation.
+one_liner: AI platform for in-house legal teams -- contract review, document drafting, and legal request management. Grew
+  from $1M to $10M+ ARR in under a year. $555M valuation.
 status: active
 total_raised_m: 73.0
 founders:
 - name: Cecilia Ziniti
   role: Co-Founder & CEO
-  background: Three-time General Counsel and 15+ year in-house lawyer at companies including Amazon and Replit. Named to Inc. Female Founders 500.
-  origin: American (inferred)
+  background: Three-time General Counsel and 15+ year in-house lawyer at companies including Amazon and Replit. Named to Inc.
+    Female Founders 500.
+  origin: American
 - name: Bardia Pourvakil
   role: Co-Founder & CTO
   background: AI engineer. Technical co-founder.

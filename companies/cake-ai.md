@@ -4,18 +4,20 @@ founded: 2022
 headquarters: New York, NY
 website: https://www.cake.ai
 sector: AI Infrastructure / Open Source
-one_liner: Managed open-source AI infrastructure platform for mid-market companies. Backed by Google's Gradient fund. Turns cutting-edge open-source AI into production-ready infrastructure.
+one_liner: Managed open-source AI infrastructure platform for mid-market companies. Backed by Google's Gradient fund. Turns
+  cutting-edge open-source AI into production-ready infrastructure.
 status: active
 total_raised_m: 13.0
 founders:
 - name: Misha Herscu
   role: Co-Founder & CEO
-  background: Previously founded McCoy Medical Technologies (ML for radiology, sold to TeraRecon 2017). Former operator-in-residence at Primary Venture Partners.
-  origin: American (inferred)
+  background: Previously founded McCoy Medical Technologies (ML for radiology, sold to TeraRecon 2017). Former operator-in-residence
+    at Primary Venture Partners.
+  origin: American
 - name: Skyler Thomas
   role: Co-Founder & CTO
   background: Technical co-founder. Engineering leadership.
-  origin: American (inferred)
+  origin: American
 funding_rounds:
 - stage: Pre-Seed
   date: 2023

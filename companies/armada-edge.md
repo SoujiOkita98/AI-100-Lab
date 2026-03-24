@@ -21,10 +21,10 @@ founders:
 - name: Dan Wright
   role: Co-Founder & CEO
   background: Former CEO of DataRobot. Former COO of AppDynamics (through $3.7B Cisco acquisition).
-  origin: American (inferred from name)
+  origin: American
 - name: Jon Runyan
   role: Co-Founder & COO
-  origin: American (inferred from name)
+  origin: American
 last_updated: 2026-03-21
 confidence: medium
 twitter: '@armada_ai'

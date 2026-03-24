@@ -9,7 +9,8 @@ sector:
 - web automation
 - developer tools
 - cloud infrastructure
-one_liner: Cloud browser infrastructure enabling AI agents and developers to interact with the web through headless browsers, powering 50M+ browser sessions.
+one_liner: Cloud browser infrastructure enabling AI agents and developers to interact with the web through headless browsers,
+  powering 50M+ browser sessions.
 logo: ''
 total_raised_m: 67.5
 latest_valuation_m: 300
@@ -17,7 +18,7 @@ funding_rounds:
 - stage: Seed
   date: 2024-06
   amount_m: 6.5
-  valuation_m:
+  valuation_m: null
   lead_investors:
   - Kleiner Perkins
   - Basecase Capital
@@ -26,7 +27,7 @@ funding_rounds:
 - stage: Series A
   date: 2024-10
   amount_m: 21
-  valuation_m:
+  valuation_m: null
   lead_investors:
   - CRV
   - Kleiner Perkins
@@ -39,24 +40,36 @@ funding_rounds:
   lead_investors:
   - Notable Capital
   source: https://www.browserbase.com/blog/series-b-and-beyond
-  notes: Led by Notable Capital, with continued support from CRV and Kleiner Perkins. Nearly 4x the Series A valuation. 20,000+ developers and 1,000+ companies on platform.
+  notes: Led by Notable Capital, with continued support from CRV and Kleiner Perkins. Nearly 4x the Series A valuation. 20,000+
+    developers and 1,000+ companies on platform.
 founders:
 - name: Paul Klein IV
   role: Founder & CEO (solo founder)
-  background: Former CTO and co-founder of StreamClub (virtual event platform acquired by Mux in 2021). Spent three years as a software engineer at Twilio during its IPO era. After acquisition, served as Director of Self-Service and Engineering Manager at Mux. 3x founder. Applied to 500+ investors before closing seed round.
-  origin: American (uncertain)
-team_composition: Solo founder with strong technical background in developer tools and infrastructure. Paul Klein's experience at Twilio (developer-first API company) and Mux (video infrastructure) is directly applicable to building browser infrastructure for developers and AI agents. Company has grown to nearly 50 employees.
-business_model: Usage-based cloud infrastructure. Browserbase provides headless browser sessions as a service, charged by compute usage (browser sessions, minutes, etc.). Developers and AI agents connect to Browserbase's cloud browsers to perform web tasks -- scraping, form filling, testing, and autonomous web navigation. The model scales with the number of AI agents deployed.
+  background: Former CTO and co-founder of StreamClub (virtual event platform acquired by Mux in 2021). Spent three years
+    as a software engineer at Twilio during its IPO era. After acquisition, served as Director of Self-Service and Engineering
+    Manager at Mux. 3x founder. Applied to 500+ investors before closing seed round.
+  origin: American
+team_composition: Solo founder with strong technical background in developer tools and infrastructure. Paul Klein's experience
+  at Twilio (developer-first API company) and Mux (video infrastructure) is directly applicable to building browser infrastructure
+  for developers and AI agents. Company has grown to nearly 50 employees.
+business_model: Usage-based cloud infrastructure. Browserbase provides headless browser sessions as a service, charged by
+  compute usage (browser sessions, minutes, etc.). Developers and AI agents connect to Browserbase's cloud browsers to perform
+  web tasks -- scraping, form filling, testing, and autonomous web navigation. The model scales with the number of AI agents
+  deployed.
 products_and_models:
 - 'Cloud browser sessions: Managed headless browser infrastructure for AI agents and developers. 50M+ sessions served.'
-- 'Director: No-code web automation tool launched with Series B. Allows non-technical users to build browser automations using plain English.'
+- 'Director: No-code web automation tool launched with Series B. Allows non-technical users to build browser automations using
+  plain English.'
 - 'Stagehand: Open-source web automation framework.'
 - 'API and SDKs: Developer tools for integrating browser capabilities into AI agent workflows.'
 customers_and_partnerships:
 - 1,000+ companies
 - 20,000+ developers
-- Angel investors include Twilio CEO Jeff Lawson, Vercel founder Guillermo Rauch, Stripe co-founder Patrick Collison, and founders of Okta, WorkOS, Stitch
-revenue_signals: 50M+ browser sessions in 2025. 1,000+ companies and 20,000+ developers. Usage-based model means revenue scales directly with AI agent adoption. Rapid funding trajectory (seed to $300M valuation in under 16 months) suggests strong revenue growth.
+- Angel investors include Twilio CEO Jeff Lawson, Vercel founder Guillermo Rauch, Stripe co-founder Patrick Collison, and
+  founders of Okta, WorkOS, Stitch
+revenue_signals: 50M+ browser sessions in 2025. 1,000+ companies and 20,000+ developers. Usage-based model means revenue scales
+  directly with AI agent adoption. Rapid funding trajectory (seed to $300M valuation in under 16 months) suggests strong revenue
+  growth.
 competitors:
 - Playwright (open source, Microsoft)
 - Puppeteer (open source, Google)
@@ -72,7 +85,9 @@ sources:
 - https://www.crunchbase.com/organization/browserbase
 last_updated: 2026-03-24
 confidence: high
-confidence_notes: All funding rounds well-sourced from Crunchbase, company blog, PR Newswire. Founder background confirmed via Contrary Research, The Org, and Solofounders interview. $300M valuation at Series B confirmed by multiple outlets. Solo founder status is notable and well-documented.
+confidence_notes: All funding rounds well-sourced from Crunchbase, company blog, PR Newswire. Founder background confirmed
+  via Contrary Research, The Org, and Solofounders interview. $300M valuation at Series B confirmed by multiple outlets. Solo
+  founder status is notable and well-documented.
 website_verified: true
 twitter: '@browseraboringse'
 linkedin: https://www.linkedin.com/company/browserbase

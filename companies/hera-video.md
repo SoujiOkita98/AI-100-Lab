@@ -14,11 +14,11 @@ founders:
 - name: Peter Tribelhorn
   role: Co-Founder
   background: YC S25 batch.
-  origin: Unknown
+  origin: ''
 - name: Chia-Lun Wu
   role: Co-Founder
   background: YC S25 batch.
-  origin: Taiwanese (inferred from name)
+  origin: Taiwanese
 last_updated: 2026-03-24
 confidence: low
 data_notes: 'Needs verification: funding amount.'

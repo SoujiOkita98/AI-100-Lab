@@ -11,11 +11,11 @@ founders:
 - name: Laksh Aithani
   role: Co-Founder & former CEO (stepped down April 2025)
   background: Previously worked on ML platform at Exscientia.
-  origin: Indian (inferred from name)
+  origin: Indian
 - name: David Baker
   role: Co-Founder
   background: Head of the Institute of Protein Design at University of Washington. 2024 Nobel Prize in Chemistry laureate.
-  origin: American (inferred from name)
+  origin: American
 last_updated: 2026-03-20
 funding_rounds:
 - stage: Series A

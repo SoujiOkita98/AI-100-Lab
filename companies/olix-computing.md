@@ -28,7 +28,7 @@ founders:
   role: CEO
   background: 25-year-old founder who also leads CoMind, a brain-monitoring startup he started as a teenager that has raised
     $100M. Founded Flux Corp Ltd in March 2024.
-  origin: British.
+  origin: British
 confidence: high
 last_updated: 2026-03-23
 linkedin: https://www.linkedin.com/company/olix-computing/

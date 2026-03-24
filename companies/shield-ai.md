@@ -72,13 +72,13 @@ founders:
   background: 'Former U.S. Navy SEAL Officer. Two combat tours in Afghanistan plus deployments in Asia-Pacific. Graduated
     from the U.S. Naval Academy; MBA from Harvard Business School. Named to TIME100 AI list (2025). His frontline military
     experience shaped the company''s mission: building AI that protects warfighters.'
-  origin: Asian American (Taiwanese descent)
+  origin: Taiwanese-American
 - name: Ryan Tseng
   role: Co-Founder & President (formerly CEO until May 2025)
   background: Serial entrepreneur and engineer. BSEE in Electrical Engineering from University of Florida. MBA from MIT Sloan.
     Previously founded WiPower Inc. (wireless charging company acquired by Qualcomm in 2010), then served as Technical Lead
     for Wireless Power at Qualcomm. Led Shield AI as CEO for its first decade before transitioning to President in 2025.
-  origin: Asian American (Taiwanese descent)
+  origin: Taiwanese-American
 - name: Andrew Reiter
   role: Co-Founder & CTO
   background: Computer vision and robotics engineer. Previously worked on computer vision applications at Draper Laboratory

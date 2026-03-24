@@ -12,19 +12,19 @@ founders:
   role: CEO
   background: Co-creator of wav2lip (8.7k+ GitHub stars); raised $5.5M seed led by GV; won AI grant from Nat Friedman and
     Daniel Gross
-  origin: India
+  origin: Indian
 - name: Rudrabha Mukhopadhyay
   role: CTO
   background: Co-creator of wav2lip; researcher in lip-sync and speech-driven facial animation
-  origin: India
+  origin: Indian
 - name: Prajwal K R
   role: Chief Scientist
   background: Co-creator of wav2lip; researcher in audio-visual speech synthesis
-  origin: India
+  origin: Indian
 - name: Pavan Reddy
   role: COO
   background: Co-creator of wav2lip; operations and business development
-  origin: India
+  origin: Indian
 funding_rounds:
 - stage: Seed
   date: 2024-03

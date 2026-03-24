@@ -12,12 +12,12 @@ founders:
   role: CEO
   background: Former product leader at AWS focused on contact center solutions; built and scaled product lines to tens of
     millions in ARR
-  origin: China
+  origin: Chinese
 - name: Robertson Taylor
   role: CTO
   background: Specializes in multimodal search for video and audio; helped companies like Walmart and Etsy fine-tune embedding
     models
-  origin: United States
+  origin: American
 funding_rounds:
 - stage: Seed
   date: 2025-03

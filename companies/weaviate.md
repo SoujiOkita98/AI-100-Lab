@@ -57,20 +57,18 @@ founders:
     Ran a strategic design and software consultancy called Kubrickology (named after Stanley Kubrick). Started the Weaviate
     open-source project in March 2016. Shut down Kubrickology to co-found SeMI Technologies (later renamed Weaviate). Also
     an angel investor.
-  origin: Dutch. Born in Bergen op Zoom, Netherlands. Studied in the Netherlands and US. An unusual founder profile -- trained
-    as a musician who self-taught programming from adolescence. His work sits at the intersection of language, music, and
-    digital infrastructure.
+  origin: American
 - name: Etienne Dilocker
   role: Co-Founder & CTO
   background: Deep-tech background focused on distributed systems and cloud technology. Expertise in Golang, database development,
     cloud-native technology, and performance programming. Former freelance software engineer. Managing Director at Dilocker
     Software Engineering & Consulting GmbH. Current research interests include auto-scaling databases and new vector-index
     types for resource-efficient vector search at scale.
-  origin: German. Based in Mannheim, Germany.
+  origin: German. Based in Mannheim, Germany
 - name: Micha Verhagen
   role: Co-Founder
   background: Limited public information available. Co-founded SeMI Technologies in 2019 alongside Van Luijt and Dilocker.
-  origin: Dutch (uncertain -- based on name and Amsterdam founding).
+  origin: American
 team_china_profile: No known Chinese-origin founders. The founding team is Dutch and German. No significant public China connections.
 notable_hires: []
 business_model: 'Open-core SaaS. The core Weaviate vector database is open-source (BSD-3 license) and free to self-host. Revenue

@@ -51,15 +51,15 @@ founders:
 - name: Xia Lixue
   role: CEO & Co-founder
   background: Student of Tsinghua University professor Wang Yu. Previously focused on AI computing infrastructure.
-  origin: Chinese.
+  origin: Chinese
 - name: Wang Yu
   role: Co-founder & Advisor
   background: Professor in Tsinghua University's Electronic Engineering department. Academic leader in AI computing research.
-  origin: Chinese.
+  origin: Chinese
 - name: Dai Guohao
   role: Chief Scientist
   background: Student of Tsinghua University professor Wang Yu. AI computing researcher.
-  origin: Chinese.
+  origin: Chinese
 confidence: medium
 last_updated: 2026-03-23
 linkedin: https://www.linkedin.com/company/infinigence-ai/

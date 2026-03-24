@@ -5,16 +5,21 @@ website: https://diesellabs.com/
 founders:
 - name: Anjali Midha
   role: Co-Founder & CEO
-  background: MBA from MIT Sloan; BA from Tufts University; former Global Media & Agency Research Director at Twitter (joined via Bluefin Labs acquisition); VP Professional Services & Analytics at Bluefin Labs (MIT Media Lab spin-out pioneering Social TV analytics)
-  origin: United States
+  background: MBA from MIT Sloan; BA from Tufts University; former Global Media & Agency Research Director at Twitter (joined
+    via Bluefin Labs acquisition); VP Professional Services & Analytics at Bluefin Labs (MIT Media Lab spin-out pioneering
+    Social TV analytics)
+  origin: American
 - name: Michael Fleischman
   role: Co-Founder
-  background: PhD in Computer Science from MIT; co-founded Bluefin Labs (social TV analytics, acquired by Twitter); currently CTO and Co-Founder at OpenSpace (construction AI); expertise in AI, NLP, and machine learning
-  origin: United States
+  background: PhD in Computer Science from MIT; co-founded Bluefin Labs (social TV analytics, acquired by Twitter); currently
+    CTO and Co-Founder at OpenSpace (construction AI); expertise in AI, NLP, and machine learning
+  origin: American
 - name: Russell Stevens
   role: Co-Founder
-  background: BA in Government from Dartmouth College; Master of Public Policy from Harvard Kennedy School; Head of Programs at MIT Center for Constructive Communication; Managing Partner at Saddle River Group; co-founded Cortico; former Partner at Ss+k marketing agency
-  origin: United States
+  background: BA in Government from Dartmouth College; Master of Public Policy from Harvard Kennedy School; Head of Programs
+    at MIT Center for Constructive Communication; Managing Partner at Saddle River Group; co-founded Cortico; former Partner
+    at Ss+k marketing agency
+  origin: American
 sector: AI / Marketing Analytics / Content Intelligence / Consumer Insights
 stage: Seed
 key_investors:
@@ -39,7 +44,8 @@ funding_rounds:
   lead_investors:
   - National Science Foundation
   source: https://tracxn.com/d/companies/diesellabs
-one_liner: Diesel Labs blends generative AI with big-data analysis of 2.2B+ daily social signals to create synthetic focus groups and consumer intelligence for marketing teams
+one_liner: Diesel Labs blends generative AI with big-data analysis of 2.2B+ daily social signals to create synthetic focus
+  groups and consumer intelligence for marketing teams
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/diesel-labs
 crunchbase_verified: true

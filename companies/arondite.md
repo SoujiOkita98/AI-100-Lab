@@ -14,7 +14,7 @@ founders:
 - name: Will Blyth
   role: Co-Founder & CEO
   background: Former British Army Officer. Previously at Palantir and Helsing (AI defence).
-  origin: British (inferred from name and military background)
+  origin: British
 - name: Rob Underhill
   role: Co-Founder & CTO
   background: Former lead engineer at BAE Systems. Founding engineer at Garrison Technology.

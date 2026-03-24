@@ -12,12 +12,15 @@ latest_valuation_m: 250
 founders:
 - name: David Gu
   role: Co-Founder & CEO
-  background: Bachelor of Software Engineering from University of Waterloo. Previously Software Engineer at Wish (2019). Y Combinator W20 alum. Built Perfect Recall (general-purpose AI meeting assistant) before pivoting to Recall.ai after discovering the infrastructure needed for conversational AI applications was incredibly difficult to build.
-  origin: Canadian-Chinese
+  background: Bachelor of Software Engineering from University of Waterloo. Previously Software Engineer at Wish (2019). Y
+    Combinator W20 alum. Built Perfect Recall (general-purpose AI meeting assistant) before pivoting to Recall.ai after discovering
+    the infrastructure needed for conversational AI applications was incredibly difficult to build.
+  origin: Chinese-Canadian
 - name: Amanda Zhu
   role: Co-Founder & COO
-  background: Attended University of Waterloo. Co-built Perfect Recall with David Gu before pivoting to Recall.ai. Described as technically gifted and tenacious. Handles operations and business side of Recall.ai.
-  origin: Canadian-Chinese
+  background: Attended University of Waterloo. Co-built Perfect Recall with David Gu before pivoting to Recall.ai. Described
+    as technically gifted and tenacious. Handles operations and business side of Recall.ai.
+  origin: Chinese-Canadian
 funding_rounds:
 - stage: Seed
   date: 2022

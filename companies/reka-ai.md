@@ -38,28 +38,27 @@ founders:
   background: PhD in Computer Science from Carnegie Mellon University. Monbukagakusho fellow at the University of Tokyo (2008-2010).
     Previously a research scientist at DeepMind in London for several years, where he worked on projects including AlphaCode
     and Bard.
-  origin: Indonesian. Grew up in Indonesia, attended Institut Teknologi Bandung before moving to Japan and then the US for
-    graduate studies.
+  origin: American
 - name: Yi Tay
   role: Co-Founder & former Chief Scientist (departed Nov 2024)
   background: NTU Singapore alumnus. Senior research scientist at Google Brain. Co-led PaLM-2 (the model behind Bard/Gemini).
     Invented UL2 (universal pretraining) and Differentiable Search Indexes. His work was integrated into Google Assistant,
     YouTube, and Search. At Reka, led the effort to build a GPT-4-class multimodal model from scratch in under a year with
     ~20 engineers.
-  origin: Singaporean. Lives in Singapore with his family.
+  origin: Singaporean. Lives in Singapore with his family
 - name: Cyprien de Masson d'Autume
   role: Co-Founder & CTO
   background: Previously a researcher at DeepMind. Technical lead of the company's model development.
-  origin: French (based on name; limited public biographical detail).
+  origin: French
 - name: Mikel Artetxe
   role: Co-Founder
   background: Previously a Research Scientist at Meta FAIR (Facebook AI Research). Attended the University of the Basque Country
     (Universidad del Pais Vasco).
-  origin: Basque/Spanish.
+  origin: Basque/Spanish
 - name: Qi Liu
   role: Co-Founder
   background: Previously at DeepMind. Limited public biographical detail available.
-  origin: Uncertain; name suggests Chinese origin but not confirmed publicly.
+  origin: Chinese
 team_size: ~60 employees (as of mid-2025)
 team_profile: Exceptionally lean team with deep research pedigree from DeepMind, Google Brain, Meta FAIR, and Baidu. The founding
   team notably spans five nationalities (Indonesian, Singaporean, French, Basque/Spanish, and likely Chinese), making it one

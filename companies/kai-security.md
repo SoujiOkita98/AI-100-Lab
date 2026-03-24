@@ -26,12 +26,12 @@ founders:
 - name: Galina Antova
   role: CEO & Co-founder
   background: Previously co-founded Claroty, the $3 billion industrial cybersecurity leader. Deep expertise in OT/ICS security.
-  origin: Bulgarian. Based in the United States.
+  origin: Bulgarian. Based in the United States
 - name: Damiano Bolzoni
   role: CTO & Co-founder
   background: PhD-level AI researcher. Co-founded SecurityMatters, an OT cybersecurity company later acquired by Forescout
     Technologies.
-  origin: Italian.
+  origin: Italian
 confidence: high
 last_updated: 2026-03-23
 linkedin: https://www.linkedin.com/company/kai-security/

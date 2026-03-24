@@ -33,7 +33,7 @@ founders:
   role: CEO & Founder
   background: Spent eight years at Palantir working with complex enterprise software before founding SolveAI in July 2025.
     Built company to 12-person team (with hires from Palantir, ElevenLabs, Meta) before emerging from stealth.
-  origin: British (inferred, London-based).
+  origin: British (inferred, London-based)
 confidence: high
 last_updated: 2026-03-23
 linkedin: https://www.linkedin.com/company/solveai/

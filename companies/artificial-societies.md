@@ -15,7 +15,7 @@ founders:
 - name: James K He
   role: Co-Founder & CEO
   background: Cambridge psychologist and data scientist. Led seminal paper studying how 33,000 AI chatbots interact.
-  origin: Chinese/British (inferred from name and Cambridge background)
+  origin: Chinese-British
 - name: Patrick Sharpe
   role: Co-Founder
   background: Applied behavioural scientist with years of experience helping F500 enterprises conduct market research.

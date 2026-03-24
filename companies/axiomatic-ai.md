@@ -27,20 +27,20 @@ founders:
 - name: Dirk Englund
   role: Co-founder
   background: MIT Professor of Electrical Engineering and Computer Science. Expert in quantum photonics and nanophotonics.
-  origin: American (inferred).
+  origin: American
 - name: Frank Koppens
   role: Co-founder
   background: Professor at the Institute of Photonic Sciences (ICFO) in Barcelona. Leading researcher in photonics and 2D
     materials.
-  origin: Dutch (inferred).
+  origin: Dutch (inferred)
 - name: Joyce Poon
   role: Co-founder
   background: Professor of Electrical and Computer Engineering at the University of Toronto. Expert in silicon photonics.
-  origin: Canadian (inferred).
+  origin: Canadian (inferred)
 - name: Marin Soljacic
   role: Co-founder
   background: Professor of Physics at MIT and MacArthur Fellow. Pioneer in photonic crystals and wireless power transfer.
-  origin: Croatian-American.
+  origin: Croatian-American
 confidence: high
 last_updated: 2026-03-23
 linkedin: https://www.linkedin.com/company/axiomatic-ai/

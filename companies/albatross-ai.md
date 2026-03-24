@@ -28,7 +28,7 @@ founders:
   role: Co-Founder & CEO
   background: PhD in applied physics from Imperial College London. MBA from U of Chicago Booth. Previously led ML and recommendation
     platforms at Amazon Music.
-  origin: American/European (inferred from name and education)
+  origin: American
 - name: Matteo Ruffini
   role: Co-Founder
   background: PhD. Previously at Amazon.

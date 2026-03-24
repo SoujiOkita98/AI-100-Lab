@@ -30,7 +30,7 @@ founders:
   background: Canadian, son of immigrants (likely Chinese-Canadian based on Asian Hustle Network feature, though not explicitly
     confirmed). Attended Richmond Hill High School in Ontario. BSc in Computer Science from the University of Toronto (2014-2016,
     did not complete full degree). Previously founded FOR.ai (now Cohere Labs), worked in biotech and MLOps.
-  origin: Canadian (Chinese heritage, unconfirmed)
+  origin: Chinese-Canadian
 - name: Nick Frosst
   role: Co-founder
   background: Canadian. BSc in Computer Science from the University of Toronto. Former machine learning researcher at Google

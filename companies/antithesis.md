@@ -15,11 +15,11 @@ founders:
 - name: Will Wilson
   role: Co-Founder & CEO
   background: Previously at FoundationDB (deterministic simulation testing), Apple, and Google (distributed systems).
-  origin: American (inferred from name)
+  origin: American
 - name: Dave Scherer
   role: Co-Founder
   background: Co-founded FoundationDB in 2009, served as its principal architect.
-  origin: American (inferred from name)
+  origin: American
 last_updated: 2026-03-21
 confidence: medium
 data_notes: 'Needs verification: website, founders, source_urls, headquarters. Profile may be incomplete.'

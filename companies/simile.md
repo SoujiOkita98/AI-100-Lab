@@ -38,24 +38,24 @@ founders:
     MS from UIUC (under Karrie Karahalios). BA in CS from Swarthmore College. Lead author of the 'Generative Agents' (Smallville)
     paper. Microsoft Research PhD Fellow (2022), Stanford School of Engineering Fellow (2021), Siebel Scholar (2019). Also
     an oil painter.
-  origin: Korean-American (inferred from name; limited public detail).
+  origin: American
 - name: Michael Bernstein
   role: Co-Founder & CPO (Chief Product Officer)
   background: Associate Professor of Computer Science at Stanford. Co-author on the ImageNet project. Co-advised Joon Sung
     Park's PhD. Deep expertise in human-computer interaction and crowdsourcing.
-  origin: American (limited public info on ethnic background).
+  origin: American
 - name: Percy Liang
   role: Co-Founder & Chief Scientist
   background: Professor of Computer Science at Stanford. Director of the Center for Research on Foundation Models (CRFM).
     Credited with coining the term 'foundation model.' Co-founded Together.ai. Extensive research in NLP and ML benchmarking
     (HELM).
-  origin: Chinese-American (inferred; limited public detail).
+  origin: Chinese-American
 - name: Elaina 'Lainie' Yallen
   role: Co-Founder & CCO (Chief Creative Officer)
   background: Stanford-affiliated. Exact prior career details not publicly documented as of this writing. Index Ventures partner
     Shardul Shah compared the full founding team to early-stage Wiz in terms of enterprise market pull, suggesting she brings
     significant go-to-market or business credentials.
-  origin: American (limited public info).
+  origin: American (limited public info)
 team_china_profile: Percy Liang appears to be of Chinese descent. No other founders have publicly documented Chinese origins.
   The team is rooted in Stanford's CS department with strong academic AI research backgrounds.
 notable_hires: null

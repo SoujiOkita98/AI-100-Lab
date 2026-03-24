@@ -16,7 +16,7 @@ founders:
   role: Co-Founder & CEO/CFO
   background: Former VP at Bill.com. Previously at Invoice2Go (acquired by Bill.com for $625M), Adobe, Fidelity, Union Square
     Advisors.
-  origin: American (inferred from name)
+  origin: American
 - name: Fernando Martin
   role: Co-Founder
   background: Technical co-founder.

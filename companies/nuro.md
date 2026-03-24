@@ -11,7 +11,7 @@ founders:
 - name: Jiajun Zhu (JZ)
   role: Co-Founder & Co-CEO
   background: BS Computer Science, Fudan University (Shanghai, China); MS Computer Science, University of Virginia
-  origin: China
+  origin: Chinese
 - name: Dave Ferguson
   role: Co-Founder & Co-CEO
   background: BS Computer Science & Mathematics, University of Otago (New Zealand); MS & PhD Robotics, Carnegie Mellon University

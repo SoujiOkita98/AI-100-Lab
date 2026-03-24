@@ -42,7 +42,7 @@ founders:
 - name: Han Ji-hyeong
   role: CEO
   background: Former Hyundai Motor Group engineer. Left Hyundai with three colleagues to found Autonomous A2Z in 2018.
-  origin: Korean.
+  origin: Korean
 confidence: high
 last_updated: 2026-03-23
 linkedin: https://www.linkedin.com/company/autonomous-a2z/

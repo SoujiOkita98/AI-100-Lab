@@ -94,7 +94,7 @@ founders:
 - name: Sam Altman
   role: CEO (since 2019; co-chair 2015-2019)
   background: Dropped out of Stanford. Co-founded Loopt (acquired for $43.4M). President of Y Combinator 2014-2019.
-  origin: Jewish American (born Chicago, raised St. Louis, MO)
+  origin: American
 - name: Greg Brockman
   role: President (formerly CTO)
   background: Dropped out of MIT. Joined Stripe as its 3rd hire, became CTO. Helped scale Stripe globally.

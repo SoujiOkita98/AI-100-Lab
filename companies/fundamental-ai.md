@@ -29,15 +29,15 @@ founders:
 - name: Jeremy Fraenkel
   role: CEO & Co-Founder
   background: Former DeepMind researcher. Details on specific DeepMind projects limited in public sources.
-  origin: American (limited public information).
+  origin: American (limited public information)
 - name: Gabriel Suissa
   role: Co-Founder
   background: Former DeepMind researcher. Technical co-founder.
-  origin: Israeli.
+  origin: Israeli
 - name: Annie Lamont
   role: Co-Founder
   background: Co-founder. Additional background details limited in public sources.
-  origin: Limited public information.
+  origin: Limited public information
 team_china_profile: No known Chinese-origin founders. The founding team includes former DeepMind researchers with American
   and Israeli backgrounds.
 business_model: Enterprise SaaS. Nexus is a 'large tabular model' (LTM) -- a new category distinct from LLMs. It is deterministic

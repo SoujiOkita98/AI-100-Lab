@@ -4,18 +4,19 @@ founded: 2024
 headquarters: New York, NY
 website: https://faunarobotics.com
 sector: AI Robotics / Humanoid
-one_liner: Modular humanoid robotics platform designed for safe operation in shared human spaces. Debut robot Sprout features compliant locomotion and whole-body teleoperation. Founded by ex-CTRL-labs and ex-DeepMind team.
+one_liner: Modular humanoid robotics platform designed for safe operation in shared human spaces. Debut robot Sprout features
+  compliant locomotion and whole-body teleoperation. Founded by ex-CTRL-labs and ex-DeepMind team.
 status: active
 total_raised_m: 30.0
 founders:
 - name: Rob Cochran
   role: Co-Founder & CEO
   background: Former CTRL-labs (acquired by Facebook/Meta in 2019). Wearable neurotech experience.
-  origin: American (inferred)
+  origin: American
 - name: Josh Merel
   role: Co-Founder & CTO
   background: Former DeepMind research scientist. Neuroscience and robotics research.
-  origin: American (inferred)
+  origin: American
 funding_rounds:
 - stage: Seed
   date: 2025-04

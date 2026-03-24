@@ -11,15 +11,15 @@ founders:
 - name: David Luan
   role: Co-Founder & former CEO (now at Amazon)
   background: Led Google's large model program. Former head of engineering at OpenAI.
-  origin: Chinese-American (inferred from name)
+  origin: Chinese-American
 - name: Ashish Vaswani
   role: Co-Founder & former Chief Scientist (left for Essential AI)
   background: Co-author of the Transformer paper ('Attention Is All You Need'). Former Google Brain researcher.
-  origin: Indian (inferred from name)
+  origin: Indian
 - name: Niki Parmar
   role: Co-Founder & former CTO (left for Essential AI)
   background: Co-author of the Transformer paper. Former Google Brain researcher.
-  origin: Indian (inferred from name)
+  origin: Indian
 profile_created: 2026-03-20
 confidence: high
 funding_rounds:

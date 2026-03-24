@@ -18,7 +18,7 @@ founders:
   role: Co-Founder & CEO
   background: Former tenured professor at UC Irvine. Trained at Harvard Medical School, MIT, McMaster University, and Shandong
     University.
-  origin: Chinese (inferred from name and education)
+  origin: Chinese
 - name: Alon Wellner
   role: Co-Founder & VP Biology
   background: Biology and antibody design expertise.

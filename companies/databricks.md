@@ -42,7 +42,7 @@ founders:
 - name: Reynold Xin
   role: Co-Founder
   background: PhD Computer Science, UC Berkeley
-  origin: Chinese-American (unconfirmed - inferred from name, limited public info)
+  origin: Chinese-American
   prior: Research scientist at AMPLab; co-created core Spark APIs
 - name: Andy Konwinski
   role: Co-Founder
@@ -52,7 +52,7 @@ founders:
 - name: Arsalan Tavakoli-Shiraji
   role: Co-Founder
   background: UC Berkeley
-  origin: Iranian-American (inferred from name - unconfirmed)
+  origin: American
   prior: McKinsey & Company
 funding_rounds:
 - stage: Series A

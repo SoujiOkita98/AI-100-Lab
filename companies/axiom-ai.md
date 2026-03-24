@@ -36,7 +36,7 @@ founders:
   role: CEO & Founder
   background: 25-year-old Stanford University PhD student in mathematics. MIT graduate. Described as a 'math wizard.' Research
     focus on formal verification and mathematical proof systems.
-  origin: American (of Asian descent, based on name and limited public info).
+  origin: American
 team_china_profile: Founder Carina Hong appears to be of Asian descent but limited public information on specific ethnic background.
   Stanford and MIT educated.
 business_model: Enterprise SaaS / developer tools. Axiom's 'Verified AI' approach combines formal mathematics and AI to prove

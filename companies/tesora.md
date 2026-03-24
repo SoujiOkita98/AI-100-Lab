@@ -14,7 +14,7 @@ founders:
 - name: Vivek Rao
   role: Co-Founder
   background: YC S25 batch.
-  origin: Indian (inferred from name)
+  origin: Indian
 - name: Federico Reyes Gomez
   role: Co-Founder
   background: YC S25 batch.

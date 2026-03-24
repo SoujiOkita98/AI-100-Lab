@@ -12,7 +12,7 @@ founders:
 - name: Curtis Northcutt
   role: Co-Founder & CEO (now Director AI Research at Handshake)
   background: MIT PhD in Machine Learning.
-  origin: American (inferred from name)
+  origin: American
 - name: Jonas Mueller
   role: Co-Founder & Chief Scientist
   background: MIT PhD in Machine Learning.

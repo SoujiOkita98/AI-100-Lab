@@ -17,7 +17,7 @@ funding_rounds:
 - stage: Seed
   date: 2021-12
   amount_m: 5
-  valuation_m:
+  valuation_m: null
   lead_investors:
   - Amplify Partners
   source: https://www.crunchbase.com/organization/chainguard
@@ -25,7 +25,7 @@ funding_rounds:
 - stage: Series A
   date: 2022-06
   amount_m: 50
-  valuation_m:
+  valuation_m: null
   lead_investors:
   - Sequoia Capital
   source: https://www.chainguard.dev/unchained/chainguard-raises-50m-in-series-a-to-make-software-supply-chain-secure-by-default-introduces-secure-container-base-images
@@ -33,7 +33,7 @@ funding_rounds:
 - stage: Series B
   date: 2023-11
   amount_m: 61
-  valuation_m:
+  valuation_m: null
   lead_investors:
   - Spark Capital
   source: https://www.chainguard.dev/unchained/chainguard-raises-61-million-series-b-round-as-enterprises-move-to-fortify-open-source-software
@@ -56,20 +56,22 @@ funding_rounds:
   - Kleiner Perkins
   - IVP
   source: https://news.crunchbase.com/cybersecurity/startup-chainguard-raise-venture-unicorn-kleiner/
-  notes: New investors Salesforce Ventures, Datadog Ventures plus all existing investors participated. Valuation tripled from $1.1B to $3.5B in under a year.
+  notes: New investors Salesforce Ventures, Datadog Ventures plus all existing investors participated. Valuation tripled from
+    $1.1B to $3.5B in under a year.
 founders:
 - name: Dan Lorenc
   role: Co-Founder & CEO
-  background: Former Microsoft and Google engineer. Deep expertise in open-source security, contributed to Kubernetes, Sigstore, and Distroless projects. BS in Mechanical Engineering from MIT.
+  background: Former Microsoft and Google engineer. Deep expertise in open-source security, contributed to Kubernetes, Sigstore,
+    and Distroless projects. BS in Mechanical Engineering from MIT.
   origin: American
 - name: Kim Lewandowski
   role: Co-Founder & CPO
   background: Former Google product manager. Leads product vision and development of open-source security solutions at Chainguard.
-  origin: American (uncertain)
+  origin: American
 - name: Matt Moore
   role: Co-Founder & CTO
   background: Technical co-founder leading engineering. Previously at Google.
-  origin: Uncertain
+  origin: ''
 - name: Ville Aikas
   role: Co-Founder & Distinguished Engineer
   background: Previously at Google. Core contributor to Kubernetes ecosystem.
@@ -77,9 +79,12 @@ founders:
 - name: Scott Nichols
   role: Co-Founder
   background: Previously at Google. Open-source contributor.
-  origin: Uncertain
-team_composition: The founding team comes from Google's open-source and Kubernetes ecosystem, bringing deep expertise in container security, software supply chain integrity, and cloud-native infrastructure.
-business_model: Enterprise SaaS. Chainguard Images provides hardened, minimal container images with zero known CVEs as a subscription product. The company also offers Chainguard Libraries for secure open-source language packages. Revenue model is per-image or platform subscription pricing for enterprises. ARR grew 7x to $40M in FY2025, targeting $100M+ ARR before end of FY2026.
+  origin: ''
+team_composition: The founding team comes from Google's open-source and Kubernetes ecosystem, bringing deep expertise in container
+  security, software supply chain integrity, and cloud-native infrastructure.
+business_model: Enterprise SaaS. Chainguard Images provides hardened, minimal container images with zero known CVEs as a subscription
+  product. The company also offers Chainguard Libraries for secure open-source language packages. Revenue model is per-image
+  or platform subscription pricing for enterprises. ARR grew 7x to $40M in FY2025, targeting $100M+ ARR before end of FY2026.
 products_and_models:
 - 'Chainguard Images: Hardened, minimal container base images with zero known CVEs for production workloads.'
 - 'Chainguard Libraries: Secure open-source language packages (Java, Python, etc.) for enterprise development.'
@@ -87,7 +92,8 @@ products_and_models:
 customers_and_partnerships:
 - Member of Coalition for Secure AI alongside OpenAI, Google, Anthropic.
 - Enterprise customers across Fortune 500 (specific names undisclosed).
-revenue_signals: ARR grew 7x to $40M in FY2025. Company targets $100M+ ARR before end of FY2026. Profitable growth trajectory with strong enterprise adoption.
+revenue_signals: ARR grew 7x to $40M in FY2025. Company targets $100M+ ARR before end of FY2026. Profitable growth trajectory
+  with strong enterprise adoption.
 competitors:
 - Docker (container image registry and security)
 - Snyk (developer security platform)
@@ -103,7 +109,9 @@ sources:
 - https://www.crunchbase.com/organization/chainguard
 last_updated: 2026-03-24
 confidence: high
-confidence_notes: Funding amounts and rounds well-sourced across Crunchbase, GeekWire, Fortune, and company blog. Founder backgrounds cross-referenced. ARR figures sourced from multiple outlets. Series A amount reported as $50M on company blog; some sources vary slightly.
+confidence_notes: Funding amounts and rounds well-sourced across Crunchbase, GeekWire, Fortune, and company blog. Founder
+  backgrounds cross-referenced. ARR figures sourced from multiple outlets. Series A amount reported as $50M on company blog;
+  some sources vary slightly.
 website_verified: true
 twitter: '@chaaboringuard'
 linkedin: https://www.linkedin.com/company/chainguard-dev

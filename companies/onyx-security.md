@@ -32,12 +32,12 @@ founders:
 - name: Maxim Bar Kogan
   role: Co-founder
   background: Cybersecurity leader and experienced technology executive. Served in Unit 8200 of the IDF (Israel Defense Forces).
-  origin: Israeli.
+  origin: Israeli
 - name: Gil Elbaz
   role: Co-founder
   background: Veteran AI researcher, previously reporting to the CTO of Nvidia. Former member of one of the IDF's AI research
     units.
-  origin: Israeli.
+  origin: Israeli
 confidence: high
 last_updated: 2026-03-23
 linkedin: https://www.linkedin.com/company/onyx-security/

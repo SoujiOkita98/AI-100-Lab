@@ -12,7 +12,7 @@ founders:
 - name: Vijay Krishnan
   role: CTO & Co-Founder
   background: B.Tech, IIT Bombay; M.S. Computer Science, Stanford University
-  origin: India
+  origin: Indian
 latest_round: Series E ($111M, March 2025)
 annual_revenue_runrate: ~$300 million (as of early 2025)
 profitable: true (since ~2024)

@@ -14,11 +14,11 @@ founders:
 - name: Ethan Gibbs
   role: Co-Founder
   background: YC S25 batch.
-  origin: Unknown
+  origin: ''
 - name: Bob Wei
   role: Co-Founder
   background: YC S25 batch.
-  origin: Chinese-American (inferred from name)
+  origin: Chinese-American
 last_updated: 2026-03-24
 confidence: low
 data_notes: 'Needs verification: funding amount.'

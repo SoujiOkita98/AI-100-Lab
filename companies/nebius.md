@@ -16,7 +16,7 @@ founders:
     Serial entrepreneur since 1989 (CompTek, Arkadia Company). Co-founded Yandex in 1997, built it into Russia's dominant
     search engine. Led Yandex as CEO until restructuring. Pivoted non-Russian Yandex assets into Nebius Group (2024). Renounced
     Russian citizenship (2026).
-  origin: Kazakhstani-Israeli (born Soviet Kazakhstan, Russian-Jewish family)
+  origin: Israeli
 employees_approx: ~2,000+ (estimate; exact figure uncertain)
 research_date: 2026-03-20
 confidence: high

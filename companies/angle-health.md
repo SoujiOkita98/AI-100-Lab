@@ -33,11 +33,11 @@ founders:
 - name: Ty Wang
   role: Co-Founder & CEO
   background: Former Palantir deployment team. Y Combinator W20.
-  origin: Chinese-American (inferred from name)
+  origin: Chinese-American
 - name: Anirban Gangopadhyay
   role: Co-Founder & CTO
   background: Former Palantir machine learning team.
-  origin: Indian (inferred from name)
+  origin: Indian
 last_updated: 2026-03-21
 confidence: medium
 twitter: '@angle_health'

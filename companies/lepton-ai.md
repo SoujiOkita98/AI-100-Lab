@@ -13,7 +13,7 @@ founders:
   background: PhD in EECS from UC Berkeley, BS from Tsinghua University. Creator of Caffe deep learning framework. Founding
     engineer and Director of Facebook AI infrastructure. VP of Big Data and AI at Alibaba. Contributed to ONNX and PyTorch.
     Lepton acquired by NVIDIA.
-  origin: Chinese (Tsinghua undergrad, UC Berkeley PhD)
+  origin: Chinese
 - name: Bai Junjie
   role: Co-Founder
   background: MS in Computational Science and Engineering and BS in Mathematics from Technical University of Munich. Former

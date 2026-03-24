@@ -12,7 +12,7 @@ founders:
     PayPal), founded SpaceX (2002), co-founded Tesla (2003), co-founded OpenAI (2015, departed board 2018). Acquired Twitter/X
     in 2022. One of the wealthiest people in history. Co-founded xAI in 2023 to build AI that "understands the true nature
     of the universe."
-  origin: South African (Afrikaner descent, naturalized Canadian then US citizen)
+  origin: American
 - name: Igor Babuschkin
   role: Co-founder & Chief Engineer (departed August 2025)
   background: Born to Russian immigrant parents in Germany. Raised and educated in Germany. Master's in Physics from Technical
@@ -25,7 +25,7 @@ founders:
     in Mathematics from Harvard (2018), where his thesis won the Hoopes Prize and earned honorable mention for the Frank and
     Brennie Morgan Prize. Worked at Microsoft Research on neural network scaling theory (muP/muTransfer). Departed xAI in
     January 2026 citing health reasons.
-  origin: Chinese (raised partly in US)
+  origin: Chinese
 - name: Christian Szegedy
   role: Co-founder (departed February 2025)
   background: Hungarian mathematician and computer scientist. Studied Mathematics and CS at Eotvos Lorand University (Budapest),
@@ -52,16 +52,16 @@ founders:
   role: Co-founder (departed; exact date uncertain)
   background: Previously at OpenAI. Limited public information available on personal background. One of the earlier departures
     from the founding team.
-  origin: Uncertain (American, based on available information)
+  origin: American
 - name: Guodong Zhang
   role: Co-founder; led Imagine team (departed ~March 2026)
   background: Led xAI's image generation ("Imagine") team. Previously at Google Brain/DeepMind. Departed around March 2026
     during the broader co-founder exodus.
-  origin: Chinese (based on available information)
+  origin: Chinese
 - name: Zihang Dai
   role: Co-founder (departed ~early 2026)
   background: Previously at Google Brain, known for work on Transformer-XL. Departed xAI in early 2026.
-  origin: Chinese (based on available information)
+  origin: Chinese
 - name: Ross Nordeen
   role: Co-founder (still at xAI as of March 2026)
   background: American technology professional. Worked nearly four years at Tesla as a technical program manager focused on

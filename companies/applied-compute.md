@@ -9,7 +9,8 @@ sector:
 - AI agents
 - fine-tuning
 - specific intelligence
-one_liner: Ex-OpenAI researchers building custom enterprise AI models and autonomous agents trained on proprietary datasets, moving beyond generic AI to specific intelligence.
+one_liner: Ex-OpenAI researchers building custom enterprise AI models and autonomous agents trained on proprietary datasets,
+  moving beyond generic AI to specific intelligence.
 logo: ''
 total_raised_m: 100
 latest_valuation_m: 700
@@ -29,22 +30,30 @@ funding_rounds:
   lead_investors:
   - Benchmark
   source: https://siliconangle.com/2025/10/30/former-openai-researchers-launch-applied-compute-80m-funding/
-  notes: Benchmark led again, with participation from Sequoia Capital, Lux Capital, Hanabi Ventures, Neo, Definition Capital. Angels include Elad Gil, Victor Lazarte, Omri Casspi.
+  notes: Benchmark led again, with participation from Sequoia Capital, Lux Capital, Hanabi Ventures, Neo, Definition Capital.
+    Angels include Elad Gil, Victor Lazarte, Omri Casspi.
 founders:
 - name: Yash Patil
   role: Co-Founder & CEO
-  background: Former OpenAI researcher who worked on the Codex programming assistant. Leads business strategy and customer relationships.
+  background: Former OpenAI researcher who worked on the Codex programming assistant. Leads business strategy and customer
+    relationships.
   origin: Indian-American (inferred)
 - name: Rhythm Garg
   role: Co-Founder
-  background: Former OpenAI researcher who helped build ChatGPT's o1 reasoning model. Deep expertise in reasoning systems and model training.
+  background: Former OpenAI researcher who helped build ChatGPT's o1 reasoning model. Deep expertise in reasoning systems
+    and model training.
   origin: Indian-American (inferred)
 - name: Linden Li
   role: Co-Founder
-  background: Former OpenAI researcher who worked on AI training infrastructure. Expertise in compute optimization and model training at scale.
-  origin: American (Chinese descent -- inferred)
-team_composition: All three founders come from OpenAI, bringing first-hand experience building some of the most impactful AI systems (Codex, o1 reasoning, training infrastructure). This pedigree attracts top talent and enterprise credibility.
-business_model: Embedded enterprise AI consulting and deployment. Applied Compute embeds engineers directly with enterprise teams to fine-tune models on proprietary data and deploy autonomous AI agents for specific workflows. This is a high-touch, premium model -- more bespoke than API-as-a-service, targeting companies that need intelligence trained on their own data rather than generic models.
+  background: Former OpenAI researcher who worked on AI training infrastructure. Expertise in compute optimization and model
+    training at scale.
+  origin: Chinese-American
+team_composition: All three founders come from OpenAI, bringing first-hand experience building some of the most impactful
+  AI systems (Codex, o1 reasoning, training infrastructure). This pedigree attracts top talent and enterprise credibility.
+business_model: Embedded enterprise AI consulting and deployment. Applied Compute embeds engineers directly with enterprise
+  teams to fine-tune models on proprietary data and deploy autonomous AI agents for specific workflows. This is a high-touch,
+  premium model -- more bespoke than API-as-a-service, targeting companies that need intelligence trained on their own data
+  rather than generic models.
 products_and_models:
 - 'Custom enterprise AI models: Fine-tuned on proprietary datasets for specific business workflows.'
 - 'Autonomous AI agents: Task-specific agents trained on enterprise data that can operate autonomously.'
@@ -52,7 +61,8 @@ products_and_models:
 customers_and_partnerships:
 - Enterprise customers (specific names not publicly disclosed)
 - Benchmark, Sequoia Capital (strategic investors)
-revenue_signals: In talks to raise at $1.3B valuation as of January 2026, suggesting rapid revenue growth. The high-touch embedded engineering model likely generates significant per-customer revenue. Company is only 6 months old as of late 2025.
+revenue_signals: In talks to raise at $1.3B valuation as of January 2026, suggesting rapid revenue growth. The high-touch
+  embedded engineering model likely generates significant per-customer revenue. Company is only 6 months old as of late 2025.
 competitors:
 - Scale AI (data labeling and AI deployment)
 - Palantir (enterprise AI platform)
@@ -67,7 +77,9 @@ sources:
 - https://www.startuphub.ai/ai-news/funding-round/2025/applied-computes-agent-workforce-targets-niche-ai/
 last_updated: 2026-03-24
 confidence: medium-high
-confidence_notes: Funding rounds well-sourced from SiliconANGLE, Upstarts Media, TechCrunch. Founder OpenAI backgrounds confirmed across multiple sources. Total raised is $100M ($20M + $80M). The $1.3B valuation discussions are reported by The Information and Tech Startups but not confirmed as closed. Company is very young (founded May 2025).
+confidence_notes: Funding rounds well-sourced from SiliconANGLE, Upstarts Media, TechCrunch. Founder OpenAI backgrounds confirmed
+  across multiple sources. Total raised is $100M ($20M + $80M). The $1.3B valuation discussions are reported by The Information
+  and Tech Startups but not confirmed as closed. Company is very young (founded May 2025).
 website_verified: true
 twitter: '@appliedcompute'
 linkedin: https://www.linkedin.com/company/applied-compute

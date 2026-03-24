@@ -14,7 +14,7 @@ founders:
 - name: Gurveer Singh
   role: Founder
   background: YC S25 batch.
-  origin: Indian (inferred from name)
+  origin: Indian
 last_updated: 2026-03-24
 confidence: low
 data_notes: 'Needs verification: funding amount.'

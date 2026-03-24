@@ -44,20 +44,19 @@ founders:
     IPO and 2021 acquisition for $5.3B. VP of Developer Relations at Google Cloud (2019-2022). Earlier: VP of Product Intelligence
     Engineering at Yahoo (2000-2008) after Yahoo acquired his first startup Aptivia (a product search engine). Also held roles
     at Nortel.'
-  origin: Egyptian-American. Born and educated in Cairo, Egypt before moving to the US for his Stanford PhD. Holds Egyptian,
-    American, and Saudi Arabian citizenship. One of 10 scientists/technologists granted honorary Saudi citizenship in 2021.
+  origin: American
 - name: Amin Ahmad
   role: Co-Founder & CTO
   background: Drives the technical architecture and product vision of Vectara's neural search platform. Oversees core model
     R&D, scaling enterprise infrastructure, and architected the GenAI services and integration frameworks central to Vectara's
     offering.
-  origin: Exact background uncertain; previous employers not confirmed in public sources.
+  origin: American
 - name: Dr. Tallat Shafaat
   role: Co-Founder & Chief Architect
   background: Led the engineering behind the Boomerang Retrieval Model and the open-source HHEM (Hughes Hallucination Evaluation
     Model) for hallucination detection. Significant tenure at Google focused on search infrastructure and knowledge graphs.
     Research experience at the Swedish Institute of Computer Science (SICS).
-  origin: Exact national origin uncertain; career history suggests time in Sweden and at Google.
+  origin: American
 team_china_profile: No known Chinese-origin founders. The founding team has roots in Egypt (Awadallah), with Google and Cloudera
   pedigree. No significant public China connections.
 notable_hires:

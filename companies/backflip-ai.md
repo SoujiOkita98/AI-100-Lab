@@ -17,7 +17,7 @@ founders:
   role: Co-Founder & CEO
   background: Co-founded Markforged in 2013 (industrial 3D printing, SPAC'd at $2.1B peak valuation). Built Eiger cloud CAD
     platform used by 50K+ engineers.
-  origin: American (inferred from name)
+  origin: American
 - name: David Benhaim
   role: Co-Founder & CTO
   background: Co-founded Markforged. Deep expertise in 3D printing and CAD systems.

@@ -5,12 +5,15 @@ website: https://www.dartai.com/
 founders:
 - name: Milad Malek
   role: Co-Founder
-  background: BS in Physics from Stanford; former Senior Ventures Associate at Plug and Play Ventures (2018-2021) leading the Smart Cities vertical focused on energy and sustainability
-  origin: United States
+  background: BS in Physics from Stanford; former Senior Ventures Associate at Plug and Play Ventures (2018-2021) leading
+    the Smart Cities vertical focused on energy and sustainability
+  origin: American
 - name: Zack Swafford
   role: Co-Founder
-  background: BS and MS in Computer Science (AI specialization) from Stanford; first engineer at Plenty (indoor farming), later led software engineering there; co-founded Atch; AI/ML/CV consulting; taught at Stanford; investor at Plug and Play Ventures
-  origin: United States
+  background: BS and MS in Computer Science (AI specialization) from Stanford; first engineer at Plenty (indoor farming),
+    later led software engineering there; co-founded Atch; AI/ML/CV consulting; taught at Stanford; investor at Plug and Play
+    Ventures
+  origin: American
 sector: AI / Productivity / Project Management
 stage: Seed
 key_investors:
@@ -27,7 +30,8 @@ funding_rounds:
   lead_investors:
   - Y Combinator
   source: https://www.crunchbase.com/organization/dart-08b6
-one_liner: Dart is an AI-native project management tool that uses conversational AI to automate task creation, roadmap planning, and reporting
+one_liner: Dart is an AI-native project management tool that uses conversational AI to automate task creation, roadmap planning,
+  and reporting
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/dart-08b6
 crunchbase_verified: true

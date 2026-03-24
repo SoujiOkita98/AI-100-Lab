@@ -15,7 +15,7 @@ founders:
 - name: Raghav Arora
   role: Founder
   background: Founded at age 14. YC S25 batch. Among highest valuations in the batch.
-  origin: Indian (inferred from name)
+  origin: Indian
 last_updated: 2026-03-24
 confidence: medium
 data_notes: 'Needs verification: funding amount, exact founding date. Millions in revenue. Led by General Catalyst.'

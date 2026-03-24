@@ -11,15 +11,15 @@ founders:
   role: Co-Founder & CEO
   background: Previously co-founded SeaMicro (sold to AMD for $334M). Stanford BA Economics/PoliSci, Stanford MBA. Former
     VP at Force10 Networks (sold to Dell for $800M).
-  origin: American (inferred from name)
+  origin: American
 - name: Gary Lauterbach
   role: Co-Founder
   background: Co-founded SeaMicro with Feldman.
-  origin: American (inferred from name)
+  origin: American
 - name: Sean Lie
   role: Co-Founder
   background: Previously at SeaMicro.
-  origin: Chinese-American (inferred from name)
+  origin: Chinese-American
 - name: Jean-Philippe Fricker
   role: Co-Founder
   background: Previously at SeaMicro.
@@ -27,7 +27,7 @@ founders:
 - name: Michael James
   role: Co-Founder
   background: Previously at SeaMicro.
-  origin: American (inferred from name)
+  origin: American
 last_updated: 2026-03-20
 one_liner: Cerebras Systems is an AI semiconductor company that designs and manufactures the world's largest computer chips
   -- Wafer-Scale Engines (WSE) -- purpose-built for AI training and inference

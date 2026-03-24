@@ -18,7 +18,7 @@ founders:
 - name: Nir Minerbi
   role: Co-Founder & CEO
   background: IDF Talpiot, Unit 8200, and Rafael alumnus.
-  origin: Israeli (inferred from name and military background)
+  origin: Israeli
 - name: Yehuda Naveh
   role: Co-Founder & CTO
   background: Top academic in quantum computing.

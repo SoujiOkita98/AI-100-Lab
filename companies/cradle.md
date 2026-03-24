@@ -47,24 +47,24 @@ founders:
     at Google Research & Machine Intelligence. Co-lead of a Google X project; worked on Google Maps and Android. Previously
     co-founded Open State Foundation (government transparency nonprofit), which won Time Magazine Top Website 2012 and European
     Public Sector Award.
-  origin: Dutch.
+  origin: Dutch
 - name: Jelle Prins
   role: Co-Founder & CPO
   background: Joined Uber in 2009 as one of the first employees in Europe. Later launched a mobile agency (clients included
     Booking.com). Returned to Uber for a seven-year stint helping scale the company globally. Brings product and design expertise.
-  origin: Dutch.
+  origin: Dutch
 - name: Eli Bixby
   role: Co-Founder & CTO
   background: Former Google Brain engineer. Brought deep machine learning expertise to the founding team.
-  origin: American (unconfirmed — limited public info).
+  origin: American (unconfirmed — limited public info)
 - name: Elise de Reus
   role: Co-Founder
   background: PhD. Previously at Zymergen and DSM, specializing in high-throughput experimentation and bioprocess development.
-  origin: Dutch.
+  origin: Dutch
 - name: Harmen van Rossum
   role: Co-Founder
   background: Previously at Zymergen and DSM. Runs Cradle's wet lab in Amsterdam. Expertise in high-throughput experimentation.
-  origin: Dutch.
+  origin: Dutch
 team_profile: The founding team is distinctive for combining elite tech product/ML backgrounds (Google, Google Brain, Uber)
   with deep biotech wet-lab expertise (Zymergen, DSM). Four of five founders are Dutch. As of early 2026 the company has ~107
   employees, roughly double its headcount from a year prior. Team members have backgrounds at Google, DeepMind, Novartis,

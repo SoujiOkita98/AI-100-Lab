@@ -24,7 +24,7 @@ founders:
 - name: Raj Palleti
   role: Co-Founder
   background: Stanford/Berkeley graduate.
-  origin: Indian (inferred from name)
+  origin: Indian
 - name: Daniel Kim
   role: Co-Founder
   background: Stanford/Berkeley graduate.

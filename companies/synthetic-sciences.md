@@ -10,8 +10,8 @@ total_raised_m: 1.9
 founders:
 - name: Unknown
   role: Co-Founder & CEO
-  background: "Scientific research and AI background."
-  origin: Unknown
+  background: Scientific research and AI background.
+  origin: ''
 funding_rounds:
 - stage: Pre-Seed
   date: 2025
@@ -30,9 +30,9 @@ notable_investors:
 - Y Combinator
 confidence: medium
 last_updated: 2026-03-24
-linkedin: ""
+linkedin: ''
 linkedin_verified: false
-crunchbase: ""
+crunchbase: ''
 ---
 
 # Synthetic Sciences

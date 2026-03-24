@@ -16,7 +16,7 @@ founders:
   role: Co-Founder
   background: Stanford AI Lab; taught hundreds of Stanford grad students to build/train/deploy AI models; previously at Meta,
     World Bank, Wayfair
-  origin: United States
+  origin: American
 funding_rounds:
 - stage: Seed
   date: 2024-03

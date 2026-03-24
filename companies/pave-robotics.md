@@ -11,12 +11,12 @@ founders:
 - name: Josh Kelly
   role: Co-Founder
   background: Stanford grad; head of engineering for Mark Rober's YouTube team; previously at Zipline and NASA JPL (Mechatronics)
-  origin: United States
+  origin: American
 - name: Mason Landon Smith
   role: Co-Founder
   background: Rhode Island School of Design grad; founding product designer at Crunch Labs (Mark Rober); multiple award-winning
     products
-  origin: United States
+  origin: American
 funding_rounds:
 - stage: Seed
   date: 2025-03

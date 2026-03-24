@@ -5,12 +5,14 @@ website: https://www.ensemble.ai/
 founders:
 - name: Alex Reneau
   role: Co-Founder & CEO
-  background: PhD research at Northwestern University on programmable feature engineering for time series modeling; published multiple papers defining the field; research directly informed Ensemble's "Dark Matter" technology
-  origin: United States
+  background: PhD research at Northwestern University on programmable feature engineering for time series modeling; published
+    multiple papers defining the field; research directly informed Ensemble's "Dark Matter" technology
+  origin: American
 - name: Zach Albertson
   role: Co-Founder & COO
-  background: Northwestern University; AI/ML consulting experience where he saw firsthand the challenges enterprises face implementing machine learning; practical background in data science and traditional ML
-  origin: United States
+  background: Northwestern University; AI/ML consulting experience where he saw firsthand the challenges enterprises face
+    implementing machine learning; practical background in data science and traditional ML
+  origin: American
 sector: AI Infrastructure / Data Quality / Machine Learning / Enterprise AI
 stage: Seed
 key_investors:
@@ -28,7 +30,8 @@ funding_rounds:
   lead_investors:
   - Salesforce Ventures
   source: https://venturebeat.com/ai/ensemble-raises-3-3m-to-bring-dark-matter-tech-to-enterprise-ai
-one_liner: Ensemble improves AI model performance through its proprietary "Dark Matter" data enrichment technology that creates richer data representations for predictive tasks
+one_liner: Ensemble improves AI model performance through its proprietary "Dark Matter" data enrichment technology that creates
+  richer data representations for predictive tasks
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/ensemble-ai
 crunchbase_verified: true

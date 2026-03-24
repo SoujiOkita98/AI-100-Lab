@@ -4,18 +4,19 @@ founded: 2024
 headquarters: San Francisco, CA
 website: https://www.arcade.dev
 sector: AI Infrastructure / Agent Auth
-one_liner: AI agent authentication and integration platform -- enables AI agents to securely take real-world actions on behalf of users. Founded by ex-Okta exec and ex-Redis engineer.
+one_liner: AI agent authentication and integration platform -- enables AI agents to securely take real-world actions on behalf
+  of users. Founded by ex-Okta exec and ex-Redis engineer.
 status: active
 total_raised_m: 12.0
 founders:
 - name: Alex Salazar
   role: Co-Founder & CEO
   background: Former Okta executive.
-  origin: American (inferred)
+  origin: American
 - name: Sam Partee
   role: Co-Founder & CTO
   background: Former Redis engineer.
-  origin: American (inferred)
+  origin: American
 funding_rounds:
 - stage: Seed
   date: 2025-03

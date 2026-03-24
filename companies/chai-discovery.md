@@ -12,7 +12,7 @@ founders:
   role: Co-Founder & CEO
   background: Pioneered frontier AI at OpenAI and Meta (co-led ESM1 transformer protein-language model). Former AI division
     lead at Absci.
-  origin: American (inferred from name)
+  origin: American
 - name: Jack Dent
   role: Co-Founder
   background: Former engineering and product leader at Stripe.
@@ -20,7 +20,7 @@ founders:
 - name: Matthew McPartlon
   role: Co-Founder
   background: AI researcher. Previously at Absci working on de novo antibody design.
-  origin: American (inferred from name)
+  origin: American
 - name: Jacques Boitreaud
   role: Co-Founder
   background: AI researcher.

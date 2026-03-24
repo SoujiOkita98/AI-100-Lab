@@ -16,7 +16,7 @@ founders:
 - name: Nicholas Paine
   role: Co-Founder & CTO
   background: UT Austin robotics researcher.
-  origin: American (inferred from name)
+  origin: American
 - name: Luis Sentis
   role: Co-Founder & Scientific Advisor
   background: Professor at UT Austin, Human Centered Robotics Lab.
@@ -24,7 +24,7 @@ founders:
 - name: Bill Welch
   role: Co-Founder & Mentor
   background: Retired Air Force General.
-  origin: American (inferred from name)
+  origin: American
 employees: ~264-300 (as of late 2025; rapidly growing)
 sector: Humanoid Robotics / AI
 flagship_product: Apollo (general-purpose humanoid robot)

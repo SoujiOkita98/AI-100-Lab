@@ -31,13 +31,12 @@ founders:
   role: Chairman
   background: Turing Award winner (2018) for pioneering work on convolutional neural networks. Former VP and Chief AI Scientist
     at Meta (2013-2025). PhD from Sorbonne. Professor at NYU. Invented LeNet, foundational to modern deep learning.
-  origin: French. Born in Paris. Educated at ESIEE and Sorbonne. Moved to the US in the 1980s, held positions at Bell Labs
-    and NYU.
+  origin: American
 - name: Alex LeBrun
   role: CEO
   background: Former Meta engineer. Founded Nabla, a digital health AI company (now chairman of Nabla). Serial entrepreneur
     with deep experience in NLP and conversational AI.
-  origin: French.
+  origin: French
 team_china_profile: No known Chinese-origin founders. The founding team is French with strong academic and industry ties in
   the US and Europe.
 business_model: Research lab stage. Building world models based on JEPA (Joint Embedding Predictive Architecture), an alternative

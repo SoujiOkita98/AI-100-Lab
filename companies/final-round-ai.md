@@ -15,12 +15,12 @@ founders:
   role: Co-Founder & CEO
   background: Yale University. Former CTO at CYNK; previously in product marketing at Starburst Data (supported $250M Series
     D).
-  origin: Unknown
+  origin: ''
 - name: Jay Ma
   role: Co-Founder & CTO
   background: University of Illinois at Urbana-Champaign. Former ML engineer at Pinterest, Meta, and AMD. Reverse-engineered
     LinkedIn while in college.
-  origin: Unknown
+  origin: ''
 funding_rounds:
 - stage: Seed
   date: 2025-01-30

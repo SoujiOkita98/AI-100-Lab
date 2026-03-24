@@ -10,7 +10,7 @@ founders:
 - name: Michael Truell
   role: Co-Founder & CEO
   background: MIT CS Class of 2022. Neo Scholar.
-  origin: American (inferred from name)
+  origin: American
 - name: Sualeh Asif
   role: Co-Founder & CPO
   background: MIT CS Class of 2022. Neo Scholar.

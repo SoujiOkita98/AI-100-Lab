@@ -16,11 +16,11 @@ founders:
 - name: Spencer Mateega
   role: Co-Founder
   background: Award-winning researcher; interned at Meta (SWE), Google (SWE), Morgan Stanley (IB), Silver Lake (PE)
-  origin: United States
+  origin: American
 - name: Danny Tang
   role: Co-Founder
   background: Won international Microsoft AI competition; worked at Morgan Stanley (IB), BDT & MSD Partners; Wharton student
-  origin: United States
+  origin: American
 funding_rounds:
 - stage: Seed
   date: 2025-03

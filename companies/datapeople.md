@@ -5,12 +5,15 @@ website: https://datapeople.io/
 founders:
 - name: Amit Bhatia
   role: Co-Founder
-  background: B.A.Sc. in Computer Engineering from Nanyang Technological University; MBA in Finance from UCLA; former Executive Director at Morgan Stanley (media investment banking); Citigroup Management Associate; early career in software engineering at Infineon and NCS Group in Singapore
+  background: B.A.Sc. in Computer Engineering from Nanyang Technological University; MBA in Finance from UCLA; former Executive
+    Director at Morgan Stanley (media investment banking); Citigroup Management Associate; early career in software engineering
+    at Infineon and NCS Group in Singapore
   origin: India / Singapore
 - name: Phillip Reyland
   role: Co-Founder
-  background: Founded and led The Byte Dept as Managing Director; co-founded TapRecruit; bootstrapped Datapeople for several years while building proprietary recruiting language analytics, analyzing job postings from 40,000+ companies
-  origin: United States
+  background: Founded and led The Byte Dept as Managing Director; co-founded TapRecruit; bootstrapped Datapeople for several
+    years while building proprietary recruiting language analytics, analyzing job postings from 40,000+ companies
+  origin: American
 sector: AI / HR Tech / Recruiting Analytics / Job Description Optimization
 stage: Acquired
 key_investors:
@@ -38,7 +41,8 @@ funding_rounds:
   - GreatPoint Ventures
   - New Markets Venture Partners
   source: https://datapeople.io/blog/announcing-datapeoples-13-million-series-a/
-one_liner: Datapeople uses AI-powered recruiting analytics to help hiring teams write clearer, more effective, and more compliant job postings
+one_liner: Datapeople uses AI-powered recruiting analytics to help hiring teams write clearer, more effective, and more compliant
+  job postings
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/Datapeople
 crunchbase_verified: true

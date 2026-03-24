@@ -11,7 +11,7 @@ founders:
 - name: Rupesh Jeyaram
   role: CEO
   background: Caltech BS 2020; Wharton MBA 2024
-  origin: India
+  origin: Indian
 - name: Antonio Monreal
   role: CTO
   background: Caltech BS in Electrical Engineering (2016-2020); self-taught English and calculus on a refurbished laptop;

@@ -34,17 +34,17 @@ founders:
   background: Networking industry veteran since the 1980s. Helped create Point-to-Point Protocol (PPP), a key part of TCP/IP.
     Co-founded Lightera Networks (sold to Ciena for $500M+, 1999). Co-founded Infinera (IPO'd, later sold to Nokia for $2.3B
     in 2025).
-  origin: American.
+  origin: American
 - name: Omar Hassen
   role: Chief Product Officer & Co-Founder
   background: Deep networking chip design experience. Previously held senior roles at Broadcom, Marvell, and International
     Rectifier managing chip design divisions.
-  origin: Limited public information.
+  origin: Limited public information
 - name: Mike Capuano
   role: Chief Business Development & Marketing Officer & Co-Founder
   background: Most recently SVP of Business Development at Ventana Systems (RISC-V server chips). Background in semiconductor
     business development.
-  origin: American.
+  origin: American
 team_china_profile: No known Chinese-origin founders. The founding team has deep roots in US networking and semiconductor
   industries.
 business_model: Hardware + software infrastructure. Eridu is building custom networking silicon (chips) and a high-radix switching

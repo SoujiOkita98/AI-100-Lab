@@ -46,32 +46,28 @@ founders:
     of Stanford's Human-Centered AI Institute (HAI). Directed Stanford AI Lab (SAIL) from 2013-2018. Served briefly as VP/Chief
     Scientist of AI/ML at Google Cloud (2017-2018, on sabbatical from Stanford). Author of the memoir 'The Worlds I See' (2023).
     Remains on the Stanford faculty.
-  origin: Born in Beijing, China (1976). Grew up in Chengdu, Sichuan. Father (Kuang Ying) was a secondary school teacher;
-    mother (Li Sun) worked in a computer department at a chemical factory. Emigrated to the United States at age 16, joining
-    her father in Parsippany, New Jersey. Arrived with her family with reportedly less than $20. Worked at her family's dry-cleaning
-    shop and in restaurants while attending Parsippany High School. Received a full scholarship to Princeton -- a Paul & Daisy
-    Soros Fellow (fellowship for New Americans). Naturalized U.S. citizen.
+  origin: Chinese-American
 - name: Justin Johnson
   role: Co-Founder
   background: PhD from Stanford (2012-2018), advised by Fei-Fei Li in the Stanford Vision Lab. Assistant Professor of Computer
     Science at University of Michigan (2019-2024). Research Scientist at Facebook/Meta (2018-2023). Known for pioneering work
     on neural style transfer (the original 'artistic style transfer' papers), visual question answering, and other core computer
     vision advances. Taught one of the most popular deep learning courses (EECS 498/598) at Michigan.
-  origin: American (limited public information on ethnic background).
+  origin: American
 - name: Ben Mildenhall
   role: Co-Founder
   background: Co-creator of NeRF (Neural Radiance Fields), published at ECCV 2020 (Oral, Best Paper Honorable Mention) --
     one of the most cited computer vision papers of recent years, which spawned an entire subfield in 3D reconstruction and
     novel view synthesis. PhD from UC Berkeley (2020, advised by Ren Ng, Hertz Fellow). BS in Computer Science (Honors) and
     Mathematics from Stanford (2015). Research Scientist at Google Research (2021-2023) in David Salesin's group.
-  origin: American (limited public information on ethnic background).
+  origin: American
 - name: Christoph Lassner
   role: Co-Founder
   background: Created Pulsar, an efficient sphere-based differentiable renderer that became the rendering backend for PyTorch3D
     and laid theoretical groundwork for Gaussian Splatting -- another transformative 3D rendering technique. Previously led
     research teams at Meta Reality Labs Research (working on 3D reconstruction and neural rendering) and at Epic Games. Earlier
     at Bodylabs, a body-scanning startup acquired by Amazon.
-  origin: German (based on academic trajectory through German institutions; limited public detail).
+  origin: American
 team_china_profile: CEO and lead founder Fei-Fei Li was born in Beijing, raised in Chengdu, and immigrated to the U.S. at
   16. She is arguably the most prominent mainland Chinese-born figure in the global AI research community. Her immigration
   story -- from working at a family dry-cleaning shop to becoming a Stanford professor and creating ImageNet -- is a canonical

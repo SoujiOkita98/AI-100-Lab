@@ -28,25 +28,25 @@ founders:
   role: Co-Founder
   background: Former Anthropic researcher. Worked on reinforcement learning and post-training of Claude 3.5 through Claude
     4.5.
-  origin: American.
+  origin: American
 - name: Georges Harik
   role: Co-Founder
   background: Google's seventh employee. Helped build Google's first advertising systems. Veteran Silicon Valley operator
     and investor.
-  origin: Lebanese-American.
+  origin: Lebanese-American
 - name: Eric Zelikman
   role: Co-Founder
   background: Former xAI researcher. Helped develop the Grok chatbot.
-  origin: American.
+  origin: American
 - name: Yuchen He
   role: Co-Founder
   background: Former xAI researcher. Helped develop the Grok chatbot.
-  origin: Chinese-American (based on name; limited public info).
+  origin: Chinese-American
 - name: Noah Goodman
   role: Co-Founder
   background: Stanford professor of psychology and computer science. Expert in computational cognitive science and probabilistic
     programming.
-  origin: American.
+  origin: American
 team_china_profile: One co-founder (Yuchen He) appears to be of Chinese origin based on name, though limited public information
   is available. He was previously at xAI.
 business_model: Pre-revenue research lab. Philosophy centers on AI that works with humans rather than replacing them. Models

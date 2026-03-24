@@ -12,15 +12,19 @@ status: Private
 founders:
 - name: David Paffenholz
   role: Co-Founder & CEO
-  background: BA Economics from Harvard University (graduated in 3 years). Attended International School of Dusseldorf. Previously Summer Analyst at Fifth Wall, intern at NEA, international expansion at Snap Inc., Founders Associate at Moonfare. Was 22 when he co-founded Juicebox.
+  background: BA Economics from Harvard University (graduated in 3 years). Attended International School of Dusseldorf. Previously
+    Summer Analyst at Fifth Wall, intern at NEA, international expansion at Snap Inc., Founders Associate at Moonfare. Was
+    22 when he co-founded Juicebox.
   origin: German (grew up in Dusseldorf, Germany)
 - name: Ishan Gupta
   role: Co-Founder & CTO
-  background: BA Computer Science from Dartmouth College. Previously Software Engineer at BlueLearn, Research Assistant at Harcourt Butler Technical University (AI and Computer Vision). Was 19 when he co-founded Juicebox.
-  origin: Indian (attended Seth Anandram Jaipuria School in Kanpur, India)
+  background: BA Computer Science from Dartmouth College. Previously Software Engineer at BlueLearn, Research Assistant at
+    Harcourt Butler Technical University (AI and Computer Vision). Was 19 when he co-founded Juicebox.
+  origin: Indian
 last_updated: 2026-03-24
 confidence: high
-one_liner: AI-powered people search engine (PeopleGPT) that uses natural language queries to find and rank candidates from 800M+ profiles across 30+ data sources for recruiting and talent sourcing
+one_liner: AI-powered people search engine (PeopleGPT) that uses natural language queries to find and rank candidates from
+  800M+ profiles across 30+ data sources for recruiting and talent sourcing
 data_notes: Seed round date not precisely confirmed; reported as previously unannounced at time of Series A disclosure.
 crunchbase: https://www.crunchbase.com/organization/juicebox-7e6b
 crunchbase_verified: true

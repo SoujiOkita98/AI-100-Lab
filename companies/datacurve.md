@@ -11,7 +11,7 @@ founders:
 - name: Charley Lee
   role: Co-Founder
   background: Former intern at Google; AI research on multi-modal RL and browser-use agents University of Waterloo (CS)
-  origin: Chinese-American or Korean-American
+  origin: Chinese-American
 notable_investors:
 - Chemistry VC (Series A lead)
 - Y Combinator

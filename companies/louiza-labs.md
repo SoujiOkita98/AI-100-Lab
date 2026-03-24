@@ -14,11 +14,11 @@ founders:
 - name: Larissa Tyagi
   role: Co-Founder
   background: YC S25 batch.
-  origin: Unknown
+  origin: ''
 - name: Georgia Witchel
   role: Co-Founder
   background: YC S25 batch.
-  origin: Unknown
+  origin: ''
 last_updated: 2026-03-24
 confidence: low
 data_notes: 'Needs verification: funding amount.'

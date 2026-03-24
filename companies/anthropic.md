@@ -108,38 +108,37 @@ founders:
   role: CEO
   background: PhD in biophysics from Princeton. VP of Research at OpenAI, where he led development of GPT-2 and GPT-3 and
     co-invented RLHF. Previously at Baidu and Google.
-  origin: Italian-American and Jewish-American. Father (Riccardo Amodei) from Massa Marittima, Tuscany; mother (Elena Engel)
-    Jewish-American from Chicago. Grew up in San Francisco.
+  origin: American
 - name: Daniela Amodei
   role: President
   background: BA in English Literature from UC Santa Cruz. Early employee at Stripe (2013). VP of Safety & Policy at OpenAI.
     Background in global health and politics before tech.
-  origin: Italian-American and Jewish-American (same family as Dario).
+  origin: American
 - name: Tom Brown
   role: Co-Founder
   background: M.Eng. in Computer Science and Brain & Cognitive Sciences from MIT. Led GPT-3 engineering at OpenAI. Previously
     at Google Brain. Co-founded YC-backed startup Grouper.
-  origin: American (limited public info on ethnic background).
+  origin: American
 - name: Jack Clark
   role: Co-Founder, Head of Policy
   background: Attended University of East Anglia. Former tech journalist at Bloomberg BusinessWeek and The Register. Policy
     Director at OpenAI.
-  origin: American. Educated partly in the UK.
+  origin: American. Educated partly in the UK
 - name: Jared Kaplan
   role: Co-Founder, Chief Science Officer
   background: PhD in physics from Harvard (advised by Nima Arkani-Hamed). Associate professor of physics at Johns Hopkins.
     Co-authored the landmark 'Scaling Laws for Neural Language Models' paper at OpenAI.
-  origin: American.
+  origin: American
 - name: Sam McCandlish
   role: Co-Founder, Chief Architect
   background: PhD in Theoretical Physics from Stanford. Math and Physics from Brandeis. Postdoctoral fellow at Boston University.
     Research team lead at OpenAI, instrumental in GPT-3 development.
-  origin: American.
+  origin: American
 - name: Christopher Olah
   role: Co-Founder, Research Director
   background: Canadian. Left university at 18 without a degree. Thiel Fellow. Pioneered neural network interpretability research
     at Google Brain and OpenAI. Created influential blog (colah.github.io) on understanding neural networks.
-  origin: Canadian.
+  origin: Canadian
 team_china_profile: No known Chinese-origin founders. The team is predominantly American/Canadian with strong academic physics
   and ML research backgrounds. No significant public China connections.
 notable_hires:

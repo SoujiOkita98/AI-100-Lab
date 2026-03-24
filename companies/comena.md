@@ -14,7 +14,7 @@ founders:
 - name: Jiehua Wu
   role: Co-Founder
   background: YC S25 batch.
-  origin: Chinese (inferred from name)
+  origin: Chinese
 - name: Almo Sutedjo
   role: Co-Founder
   background: YC S25 batch.

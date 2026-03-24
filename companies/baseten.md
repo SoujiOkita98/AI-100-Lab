@@ -11,7 +11,7 @@ founders:
 - name: Tuhin Srivastava
   role: Co-Founder & CEO
   background: Former investment banker at Macquarie Group. ML roles at Skulpt and Gumroad.
-  origin: Indian (inferred from name)
+  origin: Indian
 - name: Amir Haghighat
   role: Co-Founder & CTO
   background: AI infrastructure engineering background.

@@ -80,13 +80,12 @@ founders:
   background: Studied mathematics and computer science at NYU's Courant Institute under Yann LeCun. First undergraduate to
     complete PhD-restricted CS courses. Created Google's TPU (Tensor Processing Unit) as a 20% project. Joined Google X's
     Rapid Eval Team to incubate new Alphabet bets. Recruited 8 of the 10 original TPU engineers to join Groq.
-  origin: American. Reportedly did not finish high school via traditional path (described in some sources as a 'high school
-    dropout').
+  origin: American
 - name: Douglas Wightman
   role: Co-Founder
   background: Entrepreneur and former engineer at Google X. Co-founded Groq with Ross in 2016. Limited additional public information
     available.
-  origin: American (limited public info).
+  origin: American (limited public info)
 team_china_profile: No known Chinese-origin founders. Founding team originates from Google's TPU project. No significant public
   China connections.
 notable_hires:

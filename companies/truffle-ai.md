@@ -12,11 +12,11 @@ founders:
   role: Co-Founder
   background: Published research at NeurIPS 2022 and WACV '23 (with Meta); built AI products for face recognition and health
     estimation at Hyperverge
-  origin: India
+  origin: Indian
 - name: Shaunak Srivastava
   role: Co-Founder
   background: Published research at NeurIPS 2022 and WACV '23 (with Meta); built AI products at Hyperverge
-  origin: India
+  origin: Indian
 funding_rounds:
 - stage: Seed
   date: 2025-03

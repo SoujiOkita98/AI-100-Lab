@@ -11,7 +11,7 @@ founders:
 - name: Daniel Farrell
   role: Co-Founder (Design & Growth)
   background: Designer for over a decade; first 100 employee at Bird; former Head of Growth; ex-DIMO, Defy Marketing
-  origin: United States
+  origin: American
 - name: Kiet Ho
   role: Co-Founder (Engineering)
   background: Ex-Amazon; maintained design system at ServiceNow

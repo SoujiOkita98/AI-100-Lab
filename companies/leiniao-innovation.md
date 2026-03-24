@@ -26,7 +26,7 @@ founders:
   role: CEO & Founder
   background: Technology executive with expertise in AR/VR and consumer electronics. Built Leiniao into the global leader
     in AR glasses sales.
-  origin: Chinese.
+  origin: Chinese
 confidence: medium
 last_updated: 2026-03-23
 linkedin: https://www.linkedin.com/company/leiniao-innovation/

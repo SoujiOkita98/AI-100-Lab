@@ -33,11 +33,11 @@ founders:
   role: CEO & Co-Founder
   background: Previously founded Approve.com, a platform for automated payment management for businesses, which was acquired
     by Tipalti in 2021. Serial Israeli entrepreneur.
-  origin: Israeli.
+  origin: Israeli
 - name: Roey Lalazar
   role: CTO & Co-Founder
   background: Previously founded Kaps, an AI-based localization platform. Technical co-founder with deep AI/ML expertise.
-  origin: Israeli.
+  origin: Israeli
 team_china_profile: No known Chinese-origin founders. Both founders are Israeli.
 business_model: 'Enterprise SaaS. AI agent platform for customer service, deployed across telecom, finance, healthcare, and
   manufacturing verticals. Key differentiator is the ''hyper-local'' deployment model: Wonderful embeds deployment teams directly

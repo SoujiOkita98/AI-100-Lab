@@ -14,7 +14,7 @@ founders:
 - name: Unknown
   role: Co-Founder
   background: YC S25 batch.
-  origin: Unknown
+  origin: ''
 last_updated: 2026-03-24
 confidence: medium
 data_notes: 'Needs verification: founders, funding amount. $245K ARR within 10 weeks post-launch.'

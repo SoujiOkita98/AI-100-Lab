@@ -59,14 +59,14 @@ founders:
     Bloomspot (online-to-offline advertising, sold to JP Morgan ~2010), then AdStack (ML-powered ad tech, acquired by TellApart
     2013). TellApart was acquired by Twitter in 2015. At Twitter (2015-2018), led product management and ML teams for the
     advertising business.'
-  origin: American.
+  origin: American
 - name: Sanjay Jeyakumar
   role: CTO & Co-Founder
   background: BS in EECS from UC Berkeley. MS in Computer Science from Stanford University. Worked at Oracle (2003-2005),
     PARC intern (2002), then Google (2005-2009) on next-gen Search and Android launch. Founding engineer and architect at
     TellApart (2009-2015), building personalization systems for large retailers. At Twitter (2015-2018), served as systems
     architect for distributed data processing and ML systems powering the ads business.
-  origin: Indian-American.
+  origin: Indian-American
 team_china_profile: No known Chinese-origin founders. The founding team is American/Indian-American with strong ML and ad-tech
   backgrounds from Twitter/TellApart. No significant public China connections.
 notable_hires:

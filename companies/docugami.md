@@ -7,28 +7,31 @@ sector: AI / Document Engineering / Enterprise Software
 stage: Seed
 total_funding_estimated: ~$13.2M
 status: Private
-one_liner: AI document engineering platform that transforms unstructured business documents into structured, analyzable data using NLP, image recognition, and declarative markup
+one_liner: AI document engineering platform that transforms unstructured business documents into structured, analyzable data
+  using NLP, image recognition, and declarative markup
 founders:
 - name: Jean Paoli
   role: Co-Founder & CEO
-  background: Co-creator of the XML 1.0 standard (W3C). Created Microsoft InfoPath and modern Office file formats. Former President of Microsoft Open Technologies (open-source subsidiary). Spent 10 years at INRIA (French CS research institute) before joining Microsoft. Departed Microsoft in late 2017 to found Docugami.
+  background: Co-creator of the XML 1.0 standard (W3C). Created Microsoft InfoPath and modern Office file formats. Former
+    President of Microsoft Open Technologies (open-source subsidiary). Spent 10 years at INRIA (French CS research institute)
+    before joining Microsoft. Departed Microsoft in late 2017 to found Docugami.
   origin: French
 - name: Mike Palmer
   role: Co-Founder
   background: Senior engineering leader from Microsoft.
-  origin: American (inferred)
+  origin: American
 - name: Andrew Begun
   role: Co-Founder
   background: Senior engineering leader from Microsoft.
-  origin: American (inferred)
+  origin: American
 - name: Taqi Jaffri
   role: Co-Founder
   background: Senior engineering leader from Microsoft.
-  origin: American (inferred)
+  origin: American
 - name: Martin Sawicki
   role: Co-Founder
   background: Senior engineering leader from Microsoft.
-  origin: American (inferred)
+  origin: American
 last_updated: 2026-03-24
 confidence: medium
 crunchbase: https://www.crunchbase.com/organization/docugami

@@ -81,7 +81,7 @@ founders:
   background: Founded Oculus VR at age 19; sold to Facebook for $2.3B in 2014. Self-taught hardware engineer; attended community
     college and CSU Long Beach (did not graduate). Built VR headset prototypes starting at age 16. Forbes net worth ~$3.5B
     (Feb 2026).
-  origin: White American (English ancestry), born in Long Beach, CA
+  origin: American
 - name: Brian Schimpf
   role: Co-Founder & CEO
   background: Former Director of Engineering at Palantir Technologies. Founded Cornell University's autonomous vehicle research

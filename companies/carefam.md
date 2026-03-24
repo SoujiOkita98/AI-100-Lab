@@ -26,11 +26,11 @@ founders:
 - name: Matan Hoffmann
   role: CEO & Co-founder
   background: Former IDF Special Forces. Healthcare technology entrepreneur.
-  origin: Israeli.
+  origin: Israeli
 - name: Eyal Shulman
   role: CTO & Co-founder
   background: Former Unit 8200 (IDF elite intelligence and cybersecurity division). Engineering and cybersecurity background.
-  origin: Israeli.
+  origin: Israeli
 confidence: high
 last_updated: 2026-03-23
 linkedin: https://www.linkedin.com/company/carefam/

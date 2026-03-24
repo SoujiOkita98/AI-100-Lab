@@ -11,11 +11,11 @@ founders:
 - name: Chen Tianshi
   role: Co-Founder & CEO
   background: Chinese Academy of Sciences researcher. Pioneer in AI chip architecture.
-  origin: Chinese (inferred from name)
+  origin: Chinese
 - name: Chen Yunji
   role: Co-Founder
   background: Chinese Academy of Sciences researcher. Brother of Chen Tianshi.
-  origin: Chinese (inferred from name)
+  origin: Chinese
 sector: AI Chips / Semiconductors
 stage: Public (IPO July 2020, Shanghai STAR Market)
 market_cap_usd: ~$81B (peak, Sep 2025)

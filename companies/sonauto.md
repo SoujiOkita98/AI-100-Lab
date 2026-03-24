@@ -12,7 +12,7 @@ founders:
   role: Co-Founder
   background: Cornell CS & History grad; spent 1.5 years researching music AI in collaboration with HarmonAI (Stability AI)
     and open-source researchers
-  origin: United States
+  origin: American
 - name: Hayden Housen
   role: Co-Founder
   background: Published at NeurIPS; authored one of the first open-source transformer summarization libraries; youngest ML

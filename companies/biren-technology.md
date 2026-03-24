@@ -11,11 +11,11 @@ founders:
 - name: Zhang Wen
   role: Co-Founder
   background: Former president of SenseTime.
-  origin: Chinese (inferred from name)
+  origin: Chinese
 - name: Jiao Guofang
   role: Co-Founder
   background: Former Huawei executive.
-  origin: Chinese (inferred from name)
+  origin: Chinese
 sector: AI Chips / GPU Accelerators
 stage: Public (IPO January 2, 2026, HKEX)
 ipo_raised_hkd: HK$5.58B (~$717M)

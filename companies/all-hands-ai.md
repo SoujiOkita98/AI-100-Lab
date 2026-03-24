@@ -23,7 +23,7 @@ founders:
 - name: Robert Brennan
   role: Co-Founder & CEO
   background: Previously at Google (document summarization). Executive roles at multiple ML/infrastructure startups.
-  origin: American (inferred from name)
+  origin: American
 - name: Graham Neubig
   role: Co-Founder & Chief Scientist
   background: Associate Professor at Carnegie Mellon University. Expert in NLP and language agents.
@@ -31,7 +31,7 @@ founders:
 - name: Xingyao Wang
   role: Co-Founder & Chief AI Officer
   background: PhD student at University of Illinois Urbana-Champaign. Research on interactive language agents.
-  origin: Chinese (inferred from name)
+  origin: Chinese
 last_updated: 2026-03-20
 confidence: high
 one_liner: All Hands AI is the company behind OpenHands (formerly OpenDevin), one of the most popular open-source AI coding

@@ -14,7 +14,7 @@ founders:
 - name: Elia Saquand
   role: Co-Founder
   background: YC S25 batch.
-  origin: Unknown
+  origin: ''
 - name: Alessia Paccagnella
   role: Co-Founder
   background: YC S25 batch.

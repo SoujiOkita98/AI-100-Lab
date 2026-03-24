@@ -9,30 +9,41 @@ sector:
 - agent payments
 - financial infrastructure
 - crypto/blockchain
-one_liner: Building the first AI-native financial institution designed to serve autonomous AI agents, enabling machine-to-machine payments and financial services.
+one_liner: Building the first AI-native financial institution designed to serve autonomous AI agents, enabling machine-to-machine
+  payments and financial services.
 logo: ''
 total_raised_m: 18
-latest_valuation_m:
+latest_valuation_m: null
 funding_rounds:
 - stage: Seed
   date: 2025-05
   amount_m: 18
-  valuation_m:
+  valuation_m: null
   lead_investors:
   - a16z crypto
   source: https://www.businesswire.com/news/home/20250520361792/en/Circle-Co-Founder-Sean-Neville-Takes-Catena-Labs-Out-of-Stealth-with-Plans-to-Build-the-First-AI-Native-Financial-Institution
-  notes: Emerged from stealth May 2025. Participation from Breyer Capital, Circle Ventures, Coinbase Ventures, CoinFund, Pillar VC, Stanford Engineering VF. Angels include Tom Brady, Bradley Horowitz, Hamel Husain, Kevin Lin, Sam Palmisano, Balaji Srinivasan.
+  notes: Emerged from stealth May 2025. Participation from Breyer Capital, Circle Ventures, Coinbase Ventures, CoinFund, Pillar
+    VC, Stanford Engineering VF. Angels include Tom Brady, Bradley Horowitz, Hamel Husain, Kevin Lin, Sam Palmisano, Balaji
+    Srinivasan.
 founders:
 - name: Sean Neville
   role: Co-Founder & CEO
-  background: Co-Founder of Circle, where he helped build USDC into the world's second-largest stablecoin. Deep expertise in regulated financial infrastructure, digital payments, and stablecoin economics. One of the architects of the stablecoin ecosystem.
+  background: Co-Founder of Circle, where he helped build USDC into the world's second-largest stablecoin. Deep expertise
+    in regulated financial infrastructure, digital payments, and stablecoin economics. One of the architects of the stablecoin
+    ecosystem.
   origin: American
 - name: Matt Venables
   role: Co-Founder
-  background: Circle alumni who helped build USDC. Brings experience in financial product development and regulatory compliance in digital payments.
-  origin: American (uncertain)
-team_composition: Both founders are Circle veterans who built USDC, giving them unmatched credibility in regulated digital financial infrastructure. Their experience navigating financial regulation is critical for building a licensed AI-native financial institution.
-business_model: Regulated financial institution for AI agents. Catena is pursuing financial institution licensing to offer banking, payments, and financial services specifically designed for autonomous AI agents. The business model involves transaction fees on agent-to-agent and agent-to-human payments, potentially using stablecoins as the settlement layer. The company has open-sourced the Agent Commerce Kit (ACK) for AI agent identity and payments to build ecosystem adoption.
+  background: Circle alumni who helped build USDC. Brings experience in financial product development and regulatory compliance
+    in digital payments.
+  origin: American
+team_composition: Both founders are Circle veterans who built USDC, giving them unmatched credibility in regulated digital
+  financial infrastructure. Their experience navigating financial regulation is critical for building a licensed AI-native
+  financial institution.
+business_model: Regulated financial institution for AI agents. Catena is pursuing financial institution licensing to offer
+  banking, payments, and financial services specifically designed for autonomous AI agents. The business model involves transaction
+  fees on agent-to-agent and agent-to-human payments, potentially using stablecoins as the settlement layer. The company has
+  open-sourced the Agent Commerce Kit (ACK) for AI agent identity and payments to build ecosystem adoption.
 products_and_models:
 - 'Agent Commerce Kit (ACK): Open-source protocols for AI agent identity and payments.'
 - 'AI-native financial institution: Pursuing regulatory licensing to offer banking and payment services for AI agents.'
@@ -42,7 +53,9 @@ customers_and_partnerships:
 - Circle Ventures (strategic investor, USDC ecosystem)
 - Coinbase Ventures (strategic investor, crypto infrastructure)
 - a16z crypto (lead investor, Web3 ecosystem)
-revenue_signals: Pre-revenue. Company emerged from stealth in May 2025 and is pursuing financial institution licensing. The revenue opportunity depends on the growth of the AI agent economy and the need for agent-to-agent financial services. No disclosed customers or revenue yet.
+revenue_signals: Pre-revenue. Company emerged from stealth in May 2025 and is pursuing financial institution licensing. The
+  revenue opportunity depends on the growth of the AI agent economy and the need for agent-to-agent financial services. No
+  disclosed customers or revenue yet.
 competitors:
 - Stripe (payments infrastructure, expanding to AI)
 - PayPal (digital payments)
@@ -57,7 +70,9 @@ sources:
 - https://blockeden.xyz/blog/2025/10/28/catena-labs-building-the-first-ai-native-financial-institution/
 last_updated: 2026-03-24
 confidence: medium
-confidence_notes: Seed round well-sourced from BusinessWire press release, PYMNTS, CoinTelegraph. Founder backgrounds confirmed as Circle co-founders. Company is early stage with no disclosed revenue or customers. Financial institution licensing status unclear. The thesis depends on AI agent economy growth, which is still speculative.
+confidence_notes: Seed round well-sourced from BusinessWire press release, PYMNTS, CoinTelegraph. Founder backgrounds confirmed
+  as Circle co-founders. Company is early stage with no disclosed revenue or customers. Financial institution licensing status
+  unclear. The thesis depends on AI agent economy growth, which is still speculative.
 website_verified: true
 twitter: '@catenalabs'
 linkedin: https://www.linkedin.com/company/catena-labs

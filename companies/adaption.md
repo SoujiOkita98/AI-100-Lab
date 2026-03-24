@@ -9,7 +9,8 @@ sector:
 - enterprise AI
 - AI infrastructure
 - efficient AI
-one_liner: Ex-Cohere founders building AI models that adapt in real time to tasks without fine-tuning, challenging the 'bigger model = better' paradigm with efficient, adaptive inference.
+one_liner: Ex-Cohere founders building AI models that adapt in real time to tasks without fine-tuning, challenging the 'bigger
+  model = better' paradigm with efficient, adaptive inference.
 logo: ''
 total_raised_m: 50
 latest_valuation_m: 1000
@@ -21,18 +22,27 @@ funding_rounds:
   lead_investors:
   - Emergence Capital Partners
   source: https://fortune.com/2026/02/04/adaption-labs-50-million-seed-funding-emergence-captial-sara-hooker-sudip-roy-ai-models-that-learn-on-the-fly/
-  notes: Participation from Mozilla Ventures, Fifty Years, Threshold Ventures, Alpha Intelligence Capital, E14 Fund, Neo. Born-unicorn status at $1B valuation on seed round.
+  notes: Participation from Mozilla Ventures, Fifty Years, Threshold Ventures, Alpha Intelligence Capital, E14 Fund, Neo.
+    Born-unicorn status at $1B valuation on seed round.
 founders:
 - name: Sara Hooker
   role: Co-Founder & CEO
-  background: Former VP of Research at Cohere. Previously part of Google DeepMind. Leading AI researcher known for work on model efficiency, interpretability, and the "lottery ticket hypothesis." Recognized as one of the most influential researchers in efficient AI.
-  origin: American (uncertain)
+  background: Former VP of Research at Cohere. Previously part of Google DeepMind. Leading AI researcher known for work on
+    model efficiency, interpretability, and the "lottery ticket hypothesis." Recognized as one of the most influential researchers
+    in efficient AI.
+  origin: American
 - name: Sudip Roy
   role: Co-Founder
-  background: Former head of inference computing at Cohere. Led the infrastructure that makes large language models efficient to deploy in production. Deep expertise in model serving, latency optimization, and compute economics.
+  background: Former head of inference computing at Cohere. Led the infrastructure that makes large language models efficient
+    to deploy in production. Deep expertise in model serving, latency optimization, and compute economics.
   origin: Indian-American (inferred)
-team_composition: The founding team combines research leadership in AI efficiency (Hooker) with deep infrastructure expertise in production inference systems (Roy). Both come from Cohere, giving them first-hand experience with the cost and latency challenges of deploying large models at enterprise scale.
-business_model: AI infrastructure/platform. Adaption is building systems that adapt to tasks at inference time using gradient-free learning, adapters, and dynamic decoding -- eliminating the need for constant fine-tuning, prompt rewrites, or runaway compute bills. The business model likely involves selling adaptive AI infrastructure or models to enterprises seeking better economics for production AI deployments.
+team_composition: The founding team combines research leadership in AI efficiency (Hooker) with deep infrastructure expertise
+  in production inference systems (Roy). Both come from Cohere, giving them first-hand experience with the cost and latency
+  challenges of deploying large models at enterprise scale.
+business_model: AI infrastructure/platform. Adaption is building systems that adapt to tasks at inference time using gradient-free
+  learning, adapters, and dynamic decoding -- eliminating the need for constant fine-tuning, prompt rewrites, or runaway compute
+  bills. The business model likely involves selling adaptive AI infrastructure or models to enterprises seeking better economics
+  for production AI deployments.
 products_and_models:
 - 'Adaptive inference systems: Models that learn and adjust in real time without fine-tuning or retraining.'
 - 'Gradient-free learning: Techniques for task adaptation without backpropagation.'
@@ -41,7 +51,8 @@ products_and_models:
 customers_and_partnerships:
 - Not yet publicly disclosed (company is very early stage)
 - Mozilla Ventures (strategic investor focused on open/responsible AI)
-revenue_signals: Pre-revenue. Company announced seed funding in February 2026 and is in early product development. The $1B valuation reflects team quality, research thesis, and market potential rather than current revenue.
+revenue_signals: Pre-revenue. Company announced seed funding in February 2026 and is in early product development. The $1B
+  valuation reflects team quality, research thesis, and market potential rather than current revenue.
 competitors:
 - Cohere (enterprise LLMs, founders' former employer)
 - Fireworks AI (fast inference)
@@ -56,7 +67,9 @@ sources:
 - https://www.founderland.ai/articles/adaption-raises-50m-seed-to-build-ai-that-learns-on-the-fly-mldtuco6
 last_updated: 2026-03-24
 confidence: medium
-confidence_notes: Seed round and valuation well-sourced from Fortune, Pulse2, BetaKit, and Yahoo Finance. Founder backgrounds confirmed across multiple outlets. Company is very early stage (seed round February 2026), so product details and customers are minimal. Technical approach described at high level but specific products not yet launched.
+confidence_notes: Seed round and valuation well-sourced from Fortune, Pulse2, BetaKit, and Yahoo Finance. Founder backgrounds
+  confirmed across multiple outlets. Company is very early stage (seed round February 2026), so product details and customers
+  are minimal. Technical approach described at high level but specific products not yet launched.
 website_verified: true
 twitter: '@adaptionlabs'
 linkedin: https://www.linkedin.com/company/adaption-labs

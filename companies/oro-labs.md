@@ -33,15 +33,15 @@ founders:
 - name: Sudhir Bhojwani
   role: CEO & Co-founder
   background: Enterprise software executive with deep expertise in procurement technology.
-  origin: Indian.
+  origin: Indian
 - name: Lalitha Rajagopalan
   role: Co-founder
   background: Enterprise technology executive focused on procurement automation.
-  origin: Indian.
+  origin: Indian
 - name: Yuan Tung
   role: Co-founder
   background: Enterprise technology executive.
-  origin: Chinese.
+  origin: Chinese
 confidence: high
 last_updated: 2026-03-23
 linkedin: https://www.linkedin.com/company/oro-labs/

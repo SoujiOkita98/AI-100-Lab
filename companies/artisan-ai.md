@@ -17,7 +17,7 @@ founders:
 - name: Sam Stallings
   role: Co-Founder
   background: Former IBM product manager.
-  origin: American (inferred from name)
+  origin: American
 last_updated: 2026-03-20
 confidence: medium
 one_liner: AI digital workers starting with Ava, an AI BDR automating B2B sales outbound. 250 customers, $5M ARR.

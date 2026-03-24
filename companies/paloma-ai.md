@@ -14,15 +14,15 @@ founders:
 - name: Maria Zhang
   role: Co-Founder
   background: YC S25 batch.
-  origin: Chinese (inferred from name)
+  origin: Chinese
 - name: Alex Avnit
   role: Co-Founder
   background: YC S25 batch.
-  origin: Unknown
+  origin: ''
 - name: Kaiwen Song
   role: Co-Founder
   background: YC S25 batch.
-  origin: Chinese (inferred from name)
+  origin: Chinese
 last_updated: 2026-03-24
 confidence: low
 data_notes: 'Needs verification: funding amount, website.'

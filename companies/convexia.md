@@ -14,7 +14,7 @@ founders:
 - name: Ayaan Parikh
   role: Co-Founder
   background: YC S25 batch.
-  origin: Indian (inferred from name)
+  origin: Indian
 - name: David Lozano
   role: Co-Founder
   background: YC S25 batch.

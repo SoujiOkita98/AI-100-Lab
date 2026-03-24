@@ -4,14 +4,15 @@ founded: 2025
 headquarters: San Francisco, CA, USA
 website: https://asimov.ai
 sector: AI / Robotics / Data
-one_liner: Internet-scale marketplace for robot training data, enabling robotics companies to source and share manipulation data.
+one_liner: Internet-scale marketplace for robot training data, enabling robotics companies to source and share manipulation
+  data.
 status: active
 total_raised_m: 0.5
 founders:
 - name: Unknown
   role: Co-Founder & CEO
-  background: "Robotics and data platform background."
-  origin: Unknown
+  background: Robotics and data platform background.
+  origin: ''
 funding_rounds:
 - stage: Pre-Seed / YC
   date: 2026-01
@@ -24,9 +25,9 @@ notable_investors:
 - Y Combinator
 confidence: medium
 last_updated: 2026-03-24
-linkedin: ""
+linkedin: ''
 linkedin_verified: false
-crunchbase: ""
+crunchbase: ''
 ---
 
 # Asimov

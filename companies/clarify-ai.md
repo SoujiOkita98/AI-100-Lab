@@ -4,14 +4,15 @@ founded: 2024
 headquarters: Seattle, WA
 website: https://www.clarify.ai
 sector: AI CRM / Sales Automation
-one_liner: AI-native autonomous CRM that manages customer engagement from first touch to closed deal. Takes on Salesforce with agentic automation. Co-founders previously built Iteratively (acquired by Amplitude).
+one_liner: AI-native autonomous CRM that manages customer engagement from first touch to closed deal. Takes on Salesforce
+  with agentic automation. Co-founders previously built Iteratively (acquired by Amplitude).
 status: active
 total_raised_m: 22.5
 founders:
 - name: Patrick Thompson
   role: Co-Founder & CEO
   background: Previously co-founded Iteratively (acquired by Amplitude in 2021).
-  origin: American (inferred)
+  origin: American
 - name: Ondrej Hrebicek
   role: Co-Founder & CTO
   background: Former CTO of Iteratively (acquired by Amplitude in 2021).
@@ -19,7 +20,7 @@ founders:
 - name: Austin Hay
   role: Co-Founder
   background: Former Iteratively customer turned co-founder. Go-to-market and sales expertise.
-  origin: American (inferred)
+  origin: American
 funding_rounds:
 - stage: Seed
   date: 2024

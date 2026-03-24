@@ -9,15 +9,16 @@ sector:
 - social engineering prevention
 - security awareness training
 - enterprise security
-one_liner: AI-powered cybersecurity platform defending enterprises against deepfakes, AI-generated vishing, smishing, and social engineering attacks.
+one_liner: AI-powered cybersecurity platform defending enterprises against deepfakes, AI-generated vishing, smishing, and
+  social engineering attacks.
 logo: ''
 total_raised_m: 146.5
-latest_valuation_m:
+latest_valuation_m: null
 funding_rounds:
 - stage: Seed
   date: 2024-01
   amount_m: 12
-  valuation_m:
+  valuation_m: null
   lead_investors:
   - Abstract Ventures
   source: https://www.crunchbase.com/organization/adaptive-security
@@ -25,16 +26,17 @@ funding_rounds:
 - stage: Series A
   date: 2025-04
   amount_m: 43
-  valuation_m:
+  valuation_m: null
   lead_investors:
   - Andreessen Horowitz (a16z)
   - OpenAI Startup Fund
   source: https://www.prnewswire.com/news-releases/adaptive-security-raises-43m-a16z-120000880.html
-  notes: OpenAI's first and only cybersecurity investment. Additional participation from Abstract Ventures, Eniac Ventures, CrossBeam Ventures, K5, and executives from Google, Workday, Shopify, Plaid, Paxos.
+  notes: OpenAI's first and only cybersecurity investment. Additional participation from Abstract Ventures, Eniac Ventures,
+    CrossBeam Ventures, K5, and executives from Google, Workday, Shopify, Plaid, Paxos.
 - stage: Series A Extension
   date: 2025-09
   amount_m: 12
-  valuation_m:
+  valuation_m: null
   lead_investors:
   - OpenAI Startup Fund
   source: https://www.adaptivesecurity.com/blog/openai-increases-investment
@@ -42,22 +44,29 @@ funding_rounds:
 - stage: Series B
   date: 2025-12
   amount_m: 81
-  valuation_m:
+  valuation_m: null
   lead_investors:
   - Bain Capital Ventures
   source: https://www.prnewswire.com/news-releases/adaptive-security-raises-81-million-series-b-to-stop-ai-powered-cyber-threats-302643174.html
-  notes: Participation from NVentures (NVIDIA), OpenAI Startup Fund, a16z, Abstract Ventures, Capital One Ventures, Citi Ventures. Third financing in one year.
+  notes: Participation from NVentures (NVIDIA), OpenAI Startup Fund, a16z, Abstract Ventures, Capital One Ventures, Citi Ventures.
+    Third financing in one year.
 founders:
 - name: Brian Long
   role: Co-Founder & CEO
-  background: Serial entrepreneur. Previously co-founded and grew Attentive to $500M in annual revenue. Recognized the threat of AI-enabled impersonation early and pivoted to build AI defenses.
+  background: Serial entrepreneur. Previously co-founded and grew Attentive to $500M in annual revenue. Recognized the threat
+    of AI-enabled impersonation early and pivoted to build AI defenses.
   origin: American
 - name: Andrew Jones
   role: Co-Founder
-  background: Serial entrepreneur. Previously co-founded Attentive with Brian Long, scaling it to $500M ARR. Brings deep enterprise sales and product experience.
-  origin: American (uncertain)
-team_composition: The founding duo previously built Attentive into a major enterprise software company ($500M ARR), giving them rare experience in scaling enterprise security products. The investor backing from OpenAI and a16z signals strong technical validation.
-business_model: Enterprise SaaS. Adaptive provides AI-powered security awareness and defense tools that simulate and detect deepfake attacks (voice, video, email). Enterprises subscribe to the platform for employee training, real-time threat detection, and social engineering defense. The company reports a world-class NPS score of 94.
+  background: Serial entrepreneur. Previously co-founded Attentive with Brian Long, scaling it to $500M ARR. Brings deep enterprise
+    sales and product experience.
+  origin: American
+team_composition: The founding duo previously built Attentive into a major enterprise software company ($500M ARR), giving
+  them rare experience in scaling enterprise security products. The investor backing from OpenAI and a16z signals strong technical
+  validation.
+business_model: Enterprise SaaS. Adaptive provides AI-powered security awareness and defense tools that simulate and detect
+  deepfake attacks (voice, video, email). Enterprises subscribe to the platform for employee training, real-time threat detection,
+  and social engineering defense. The company reports a world-class NPS score of 94.
 products_and_models:
 - 'AI deepfake simulation: Creates realistic AI-generated deepfake scenarios for employee training and awareness.'
 - 'Vishing defense: Protects against AI-powered voice phishing attacks over phone calls.'
@@ -71,7 +80,9 @@ customers_and_partnerships:
 - BMC
 - OpenAI (investor and strategic partner)
 - NVIDIA (investor via NVentures)
-revenue_signals: 500+ enterprise customers within 12 months of launch. Three funding rounds in a single year totaling $136M+ suggests very strong growth metrics. The founders' track record of building Attentive to $500M ARR adds credibility to revenue scaling.
+revenue_signals: 500+ enterprise customers within 12 months of launch. Three funding rounds in a single year totaling $136M+
+  suggests very strong growth metrics. The founders' track record of building Attentive to $500M ARR adds credibility to revenue
+  scaling.
 competitors:
 - KnowBe4 (security awareness training)
 - Proofpoint (email security)
@@ -87,7 +98,9 @@ sources:
 - https://www.biometricupdate.com/202512/new-series-b-round-brings-adaptives-total-capital-raised-to-146-5-million
 last_updated: 2026-03-24
 confidence: high
-confidence_notes: Funding rounds well-sourced from company press releases, PR Newswire, SecurityWeek. Total raised is $146.5M per Biometric Update (slightly higher than initial $136M estimate, likely due to small earlier rounds). Founder backgrounds confirmed across multiple sources. Valuation figures not publicly disclosed for individual rounds.
+confidence_notes: Funding rounds well-sourced from company press releases, PR Newswire, SecurityWeek. Total raised is $146.5M
+  per Biometric Update (slightly higher than initial $136M estimate, likely due to small earlier rounds). Founder backgrounds
+  confirmed across multiple sources. Valuation figures not publicly disclosed for individual rounds.
 website_verified: true
 twitter: '@adaptaboringsec'
 linkedin: https://www.linkedin.com/company/adaptive-security

@@ -9,39 +9,50 @@ sector:
 - vibe coding
 - consumer software
 - personal computing
-one_liner: AI-native no-code platform enabling anyone to build custom apps using natural language, reinventing personal computing for non-programmers.
+one_liner: AI-native no-code platform enabling anyone to build custom apps using natural language, reinventing personal computing
+  for non-programmers.
 logo: ''
 total_raised_m: 7
-latest_valuation_m:
+latest_valuation_m: null
 funding_rounds:
 - stage: Seed
   date: 2025-04
   amount_m: 7
-  valuation_m:
+  valuation_m: null
   lead_investors:
   - Pebblebed
   source: https://www.prnewswire.com/news-releases/ai-native-startup-adaptive-announces-7-million-seed-round-and-new-platform-enabling-anyone-to-build-custom-apps-302434629.html
-  notes: Led by Pebblebed (founded by Keith Adams, former Chief Architect at Slack and Facebook). Participation from Conviction Partners, Jake Paul's Anti Fund, Radical Ventures, and David Baszucki (Roblox founder and CEO).
+  notes: Led by Pebblebed (founded by Keith Adams, former Chief Architect at Slack and Facebook). Participation from Conviction
+    Partners, Jake Paul's Anti Fund, Radical Ventures, and David Baszucki (Roblox founder and CEO).
 founders:
 - name: Dennis Xu
   role: Co-Founder & CEO
-  background: Repeat tech startup founder. Previously co-founded Mem, the AI note-taking app that was one of OpenAI's earliest venture investments. Self-described non-programmer, which informs the company's mission to make software creation accessible to everyone.
-  origin: American (Chinese descent -- inferred)
+  background: Repeat tech startup founder. Previously co-founded Mem, the AI note-taking app that was one of OpenAI's earliest
+    venture investments. Self-described non-programmer, which informs the company's mission to make software creation accessible
+    to everyone.
+  origin: Chinese-American
 - name: Mike Soylu
   role: Co-Founder & President
   background: Co-founded Adaptive Computer alongside Dennis Xu. Handles business operations and partnerships.
   origin: American (Turkish descent -- inferred from name)
-team_composition: The founding team brings previous startup experience (Xu from Mem/OpenAI ecosystem) and a non-programmer CEO's perspective on making software creation accessible. The lead investor Pebblebed (Keith Adams, ex-Slack/Facebook chief architect) provides deep technical mentorship.
-business_model: Consumer and SMB SaaS. Adaptive Computer (now operating as Emergent) provides a browser-based platform where non-programmers create full-featured applications by describing what they want in natural language. The platform generates working apps with database management, user authentication, and AI features. Revenue likely comes from subscription tiers for individuals and businesses, with usage-based components for AI compute.
+team_composition: The founding team brings previous startup experience (Xu from Mem/OpenAI ecosystem) and a non-programmer
+  CEO's perspective on making software creation accessible. The lead investor Pebblebed (Keith Adams, ex-Slack/Facebook chief
+  architect) provides deep technical mentorship.
+business_model: Consumer and SMB SaaS. Adaptive Computer (now operating as Emergent) provides a browser-based platform where
+  non-programmers create full-featured applications by describing what they want in natural language. The platform generates
+  working apps with database management, user authentication, and AI features. Revenue likely comes from subscription tiers
+  for individuals and businesses, with usage-based components for AI compute.
 products_and_models:
 - 'Emergent platform: Browser-based conversation-to-code platform that transforms natural language into production-ready applications.'
-- 'Interconnected app ecosystem: Apps created on the platform share data and integrate with each other, creating a personal software ecosystem.'
+- 'Interconnected app ecosystem: Apps created on the platform share data and integrate with each other, creating a personal
+  software ecosystem.'
 - 'AI-powered features: Built-in AI capabilities in generated apps (chatbots, content generation, data analysis).'
 customers_and_partnerships:
 - Currently in alpha/early access
 - David Baszucki (Roblox CEO, investor and advisor)
 - Pebblebed / Keith Adams (strategic investor/mentor)
-revenue_signals: Very early stage. Platform was in alpha at time of seed announcement (April 2025). No disclosed revenue or significant user base. The $7M seed is for product development and initial market traction.
+revenue_signals: Very early stage. Platform was in alpha at time of seed announcement (April 2025). No disclosed revenue or
+  significant user base. The $7M seed is for product development and initial market traction.
 competitors:
 - Lovable (AI app builder)
 - Bolt.new (AI web app generator)
@@ -55,7 +66,10 @@ sources:
 - https://www.crunchbase.com/funding_round/adaptive-8f90-seed--fa1322a4
 last_updated: 2026-03-24
 confidence: medium
-confidence_notes: Seed round well-sourced from PR Newswire and TechCrunch. Founder backgrounds confirmed. Note that the company launched as "Adaptive Computer" but now operates under the brand "Emergent" (emergent.sh). This is a different company from the Emergent founded by Mukund and Madhav Jha that raised $23M from Lightspeed. Product is very early stage (alpha). Revenue and customer details are minimal.
+confidence_notes: Seed round well-sourced from PR Newswire and TechCrunch. Founder backgrounds confirmed. Note that the company
+  launched as "Adaptive Computer" but now operates under the brand "Emergent" (emergent.sh). This is a different company from
+  the Emergent founded by Mukund and Madhav Jha that raised $23M from Lightspeed. Product is very early stage (alpha). Revenue
+  and customer details are minimal.
 website_verified: true
 twitter: '@adaptivecompute'
 linkedin: https://www.linkedin.com/company/emergentlabs

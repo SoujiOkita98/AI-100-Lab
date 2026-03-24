@@ -14,15 +14,15 @@ founders:
 - name: Joshua March
   role: Co-Founder
   background: YC S25 batch.
-  origin: Unknown
+  origin: ''
 - name: Joey Stein
   role: Co-Founder
   background: YC S25 batch.
-  origin: Unknown
+  origin: ''
 - name: David Schlesinger
   role: Co-Founder
   background: YC S25 batch.
-  origin: Unknown
+  origin: ''
 last_updated: 2026-03-24
 confidence: low
 data_notes: 'Needs verification: funding amount.'

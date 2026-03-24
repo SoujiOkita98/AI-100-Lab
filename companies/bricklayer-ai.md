@@ -15,7 +15,7 @@ founders:
 - name: Adam Vincent
   role: Founder & CEO
   background: Previous founder of ThreatConnect (cybersecurity intelligence and automation).
-  origin: American (inferred from name)
+  origin: American
 last_updated: 2026-03-21
 confidence: medium
 data_notes: 'Needs verification: website, founders, source_urls, headquarters. Profile may be incomplete.'
