@@ -9,107 +9,102 @@ status: 'Acquired by CoreWeave (Nasdaq: CRWV) - acquisition completed May 5, 202
 founders:
 - name: Lukas Biewald
   role: Co-founder & CEO
-  background: 'Born 1981 in Boston, MA. Attended Cambridge Rindge and Latin School. Earned both BS and MS in Computer Science
+  background: Born 1981 in Boston, MA. Attended Cambridge Rindge and Latin School. Earned both BS and MS in Computer Science
     from Stanford University. Worked at Yahoo as an engineer on machine translations and led the Search Relevance Team for
     Yahoo Japan. Joined Powerset as Senior Scientist (acquired by Microsoft in 2008). Co-founded CrowdFlower (later renamed
     Figure Eight), a human-in-the-loop ML data labeling platform, which was acquired by Appen in 2019 for ~$300M. Had a stint
     at OpenAI where he observed firsthand the poor state of ML experiment tooling, inspiring W&B. Inc Magazine Top 30 Entrepreneurs
     Under 30 (2010).
-
-    '
   origin: American
 - name: Chris Van Pelt
   role: Co-founder & CISO
-  background: 'Co-founded CrowdFlower/Figure Eight with Biewald, spending nearly a decade building it. Transitioned to Weights
+  background: Co-founded CrowdFlower/Figure Eight with Biewald, spending nearly a decade building it. Transitioned to Weights
     & Biases in 2017 as co-founder. Currently serves as Chief Information Security Officer (CISO). Inc Magazine Top 30 Entrepreneurs
     Under 30 (2010, alongside Biewald).
-
-    '
   origin: American
 - name: Shawn Lewis
   role: Co-founder & CTO
-  background: 'Studied at Virginia Tech (2002-2006). Worked as Software Engineer at the Naval Research Laboratory (2004-2006),
+  background: Studied at Virginia Tech (2002-2006). Worked as Software Engineer at the Naval Research Laboratory (2004-2006),
     then as Senior Software Engineer at Google (2006-2010). Founded Beep Networks (2012-2017). Described as a Y Combinator
     alum. Known for building an OpenAI o1-based AI programming agent that achieved state-of-the-art results on SWE-Bench-Verified
     (64.6% resolution rate).
-
-    '
   origin: American
 employee_count: ~300-310 (as of early 2026)
-latest_valuation: $1.25B (August 2023, pre-acquisition)
 acquisition_price: ~$1.7B (reported; not officially disclosed)
-total_funding: ~$250M
 funding_rounds:
-- round: Series A
+- stage: Series A
   date: 2018-05-31
-  amount: $5M
+  amount_m: 5.0
+  valuation_m: null
   lead_investors:
   - Trinity Ventures
   - Bloomberg Beta
-  valuation: Undisclosed
   source: https://techcrunch.com/2018/05/31/weights-biases-raises-5m-to-build-development-tools-for-machine-learning/
   notes: First institutional round. Trinity Ventures GP Daniel Scholnick joined the board.
-- round: Series B1
+- stage: Series B1
   date: 2019-05-30
-  amount: $15M
+  amount_m: 15.0
+  valuation_m: null
   lead_investors:
   - Coatue Management
-  valuation: Undisclosed
   source: https://techcrunch.com/2019/05/30/machine-learning-startup-weights-biases-raises-15m/
   notes: Sometimes grouped with the 2021 Series B as a single series.
-- round: Series B2
+- stage: Series B2
   date: 2021-02-01
-  amount: $45M
+  amount_m: 45.0
+  valuation_m: null
   lead_investors:
   - Insight Partners
-  valuation: Undisclosed
   source: https://techcrunch.com/2021/02/01/weights-and-biases-series-b/
   notes: 'Continued support from Coatue, Trinity Ventures, and Bloomberg Beta. Total raised to date reached ~$65M.
 
     '
-- round: Series C
+- stage: Series C
   date: 2021-10-13
-  amount: $135M
+  amount_m: 135.0
+  valuation_m: 1000.0
   lead_investors:
   - Felicis Ventures
   - BOND
-  valuation: $1B (unicorn status)
   source: https://techcrunch.com/2021/10/13/weights-biases-raises-new-capital-as-developer-tools-remain-a-venture-focus-ml-matures/
   notes: 'Insight Partners and Coatue also participated. Brought total raised to ~$200M. Over 100,000 ML practitioners using
     the platform at time of raise.
 
     '
-- round: Corporate Round
+- stage: Corporate Round
   date: 2022-05-17
-  amount: Undisclosed
-  lead_investors: Undisclosed
-  valuation: Undisclosed
+  amount_m: null
+  valuation_m: null
+  lead_investors:
+  - Undisclosed
   source: https://www.crunchbase.com/funding_round/weights-biases-corporate-round--852ba88f
   notes: Limited public information available on this round.
-- round: Venture Round (sometimes called Series C extension)
+- stage: Venture Round (sometimes called Series C extension)
   date: 2023-08-09
-  amount: $50M
+  amount_m: 50.0
+  valuation_m: 1250.0
   lead_investors:
   - Daniel Gross
   - Nat Friedman
-  valuation: $1.25B
   source: https://techcrunch.com/2023/08/09/weights-biases-who-counts-openai-as-a-customer-lands-50m/
   notes: 'Sapphire Ventures participated as a new investor. Existing investors Coatue, Insight Partners, Felicis, BOND, and
     Bloomberg Beta also participated. User base had grown from 100K to 700K+ since Series C. W&B Prompts (LLMOps tool) announced
     alongside the round.
 
     '
-- round: Acquisition by CoreWeave
+- stage: Acquisition by CoreWeave
   date: 2025-03-04 (announced) / 2025-05-05 (completed)
-  amount_m: 1700
+  amount_m: 1700.0
+  valuation_m: 1700.0
   lead_investors:
   - CoreWeave
-  valuation_m: 1700
   source: https://techcrunch.com/2025/03/04/coreweave-acquires-ai-developer-platform-weights-biases/
   notes: Evercore and Morgan Stanley advised CoreWeave. Qatalyst Partners advised W&B. Davis Polk & Wardwell (CoreWeave legal);
     Orrick, Herrington & Sutcliffe (W&B legal).
 linkedin: https://www.linkedin.com/company/wandb/
 linkedin_verified: true
+total_raised_m: 250.0
+latest_valuation_m: 1250.0
 ---
 
 # Weights & Biases (W&B)

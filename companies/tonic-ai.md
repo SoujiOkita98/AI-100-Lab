@@ -1,6 +1,5 @@
 ---
 name: Tonic.ai
-legal_name: Tonic AI, Inc.
 founded: 2018
 headquarters: San Francisco, California, USA
 website: https://www.tonic.ai
@@ -8,40 +7,39 @@ sector: Synthetic Data & Data Privacy
 stage: Growth
 latest_valuation_usd: null
 latest_valuation_date: null
-total_funding_usd: ~45_000_000
 employee_count_approx: 108
 employee_count_date: 2025
 ipo_status: Private
 founders:
 - name: Ian Coe
   role: Co-Founder & CEO
-  prior: Palantir Technologies (early commercial division member); Tableau
   origin: American
+  prior: Palantir Technologies (early commercial division member); Tableau
 - name: Karl Hanson
   role: Co-Founder & CPO
-  prior: Palantir Technologies
   origin: American
+  prior: Palantir Technologies
 - name: Andrew Colombi
   role: Co-Founder & CTO
-  prior: Palantir Technologies
   origin: American
+  prior: Palantir Technologies
 - name: Adam Kamor
   role: Co-Founder & Head of Engineering
-  education: PhD Physics, Georgia Institute of Technology
-  prior: Microsoft; Kabbage; Tableau
+  background: PhD Physics, Georgia Institute of Technology
   origin: American
+  prior: Microsoft; Kabbage; Tableau
 funding_rounds:
-- round: Series A
+- stage: Series A
   date: 2020-12
-  amount_usd: 8000000
+  amount_m: 8.0
   lead_investors:
   - Bloomberg Beta
   other_investors:
   - Heavybit
   source: https://tracxn.com/d/companies/tonic.ai/__aH4sk1uBlJJqPKKpDrBUg4A62BmZKPwLerMcy3ZPhMs/funding-and-investors
-- round: Series B
+- stage: Series B
   date: 2021-09
-  amount_usd: 35000000
+  amount_m: 35.0
   lead_investors:
   - Insight Partners
   other_investors:
@@ -62,6 +60,8 @@ crunchbase: https://www.crunchbase.com/organization/tonic-ai
 crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/tonicai/
 linkedin_verified: true
+total_raised_m: 45.0
+status: active
 ---
 
 # Tonic.ai

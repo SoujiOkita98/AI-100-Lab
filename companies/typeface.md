@@ -1,15 +1,12 @@
 ---
 company: Typeface
 website: https://www.typeface.ai
-domain: typeface.ai
 sector: Enterprise AI / Generative AI for Marketing & Content
 founded: 'May '
 headquarters: Palo Alto, California
 founder: Abhay Parasnis
 ceo: Abhay Parasnis
 employees: ~250-266 (as of early 2026)
-total_funding: ~$305M
-latest_valuation: $1B (as of Series B, June 2023; likely higher post-Series C)
 stage: Series C
 status: Private
 tags:
@@ -30,22 +27,21 @@ confidence: high
 funding_rounds:
 - stage: Series A
   date: 2023-02
-  amount_m: 65
+  amount_m: 65.0
   lead_investors:
   - Lightspeed Venture Partners
   - Menlo Ventures
   source: https://news.crunchbase.com/ai-robotics/venture-funding-ai-startup-typeface/
 - stage: Series B
   date: 2023-06
-  amount_m: 100
-  valuation_m: 1000
+  amount_m: 100.0
+  valuation_m: 1000.0
   lead_investors:
   - Salesforce Ventures
   source: https://techcrunch.com/2023/06/29/typeface-which-is-building-generative-ai-for-brands-raises-100m/
 - stage: Series C
   date: '2024'
-  amount_m: 100
-  lead_investors: []
+  amount_m: 100.0
   source: https://salestools.io/report/typeface-100m-series-c-2024
 one_liner: Enterprise AI platform for brand-consistent, multi-channel marketing content generation and orchestration
 data_notes: 'Needs verification: website, founders. Profile may be incomplete.'
@@ -55,6 +51,8 @@ linkedin: https://www.linkedin.com/company/typefaceai
 twitter: '@typefaceai'
 name: Typeface
 linkedin_verified: true
+total_raised_m: 305.0
+latest_valuation_m: 1000.0
 ---
 
 # Typeface

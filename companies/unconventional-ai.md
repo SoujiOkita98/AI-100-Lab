@@ -1,6 +1,5 @@
 ---
 name: Unconventional AI
-legal_name: Unconventional, Inc.
 website: https://unconv.ai
 founded: '2025'
 headquarters: San Francisco, CA (some sources report San Diego, CA)
@@ -53,8 +52,8 @@ last_updated: '2026-03-20'
 funding_rounds:
 - stage: Seed
   date: 2025-12
-  amount_m: 475
-  valuation_m: 4500
+  amount_m: 475.0
+  valuation_m: 4500.0
   lead_investors:
   - Andreessen Horowitz
   - Lightspeed Venture Partners
@@ -72,6 +71,7 @@ crunchbase_verified: true
 twitter: '@unconvAI'
 total_raised_m: 475.0
 linkedin_verified: true
+status: active
 ---
 
 # Unconventional AI

@@ -1,6 +1,5 @@
 ---
 company: Writer
-legal_name: Writer, Inc.
 formerly: Qordoba
 founded: '2020'
 headquarters: San Francisco, CA
@@ -8,8 +7,6 @@ website: https://writer.com
 sector: Enterprise AI / Generative AI
 category: Full-stack enterprise AI platform (proprietary LLMs + application layer)
 stage: Growth (Series C)
-valuation: $1.9B (as of November 2024)
-total_funding: ~$369M
 status: Private, Unicorn
 founders:
 - name: May Habib
@@ -24,27 +21,27 @@ confidence: high
 funding_rounds:
 - stage: Seed
   date: '2020'
-  amount_m: 5
+  amount_m: 5.0
   lead_investors:
   - Aspect Ventures
   source: https://research.contrary.com/company/writer
 - stage: Series A
   date: '2021'
-  amount_m: 21
+  amount_m: 21.0
   lead_investors:
   - Insight Partners
   source: https://research.contrary.com/company/writer
 - stage: Series B
   date: 2023-09
-  amount_m: 100
-  valuation_m: 500
+  amount_m: 100.0
+  valuation_m: 500.0
   lead_investors:
   - ICONIQ Growth
   source: https://writer.com/blog/series-b-funding-writer/
 - stage: Series C
   date: 2024-11
-  amount_m: 200
-  valuation_m: 1900
+  amount_m: 200.0
+  valuation_m: 1900.0
   lead_investors:
   - ICONIQ Growth
   - Premji Invest
@@ -59,6 +56,8 @@ crunchbase_verified: true
 twitter: '@Get_Writer'
 name: Writer
 linkedin_verified: true
+total_raised_m: 369.0
+latest_valuation_m: 1900.0
 ---
 
 # Writer — Enterprise AI Platform

@@ -1,23 +1,18 @@
 ---
 name: Turing
-legal_name: Turing Enterprises Inc.
 website: https://www.turing.com
 founded: 2018
 headquarters: Palo Alto, California, USA
 founders:
 - name: Jonathan Siddharth
   role: CEO & Co-Founder
+  background: B.E. Computer Science & Engineering, SVCE, Anna University, Chennai (2005); M.S. Computer Science, Stanford
+    University (2007)
   origin: Chennai, Tamil Nadu, India
-  education:
-  - B.E. Computer Science & Engineering, SVCE, Anna University, Chennai (2005)
-  - M.S. Computer Science, Stanford University (2007)
 - name: Vijay Krishnan
   role: CTO & Co-Founder
+  background: B.Tech, IIT Bombay; M.S. Computer Science, Stanford University
   origin: India
-  education:
-  - B.Tech, IIT Bombay
-  - M.S. Computer Science, Stanford University
-valuation: $2.2 billion (as of March 2025)
 total_funding: ~$247 million
 latest_round: Series E ($111M, March 2025)
 annual_revenue_runrate: ~$300 million (as of early 2025)
@@ -42,18 +37,19 @@ total_raised_m: 247
 funding_rounds:
 - stage: Seed through Series D
   date: 2018-2023
-  amount_m: 136
+  amount_m: 136.0
   lead_investors:
   - Foundation Capital
   - WndrCo
   source: https://www.crunchbase.com/organization/turing
 - stage: Series E
   date: 2025-03
-  amount_m: 111
+  amount_m: 111.0
   lead_investors:
   - Spark Capital
   source: https://www.crunchbase.com/organization/turing
 linkedin_verified: true
+status: active
 ---
 
 # Turing

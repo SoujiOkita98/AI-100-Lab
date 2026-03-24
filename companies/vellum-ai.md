@@ -18,13 +18,12 @@ founders:
 funding_rounds:
 - stage: Seed
   date: 2023-07
-  amount_m: 5
-  lead_investors: []
+  amount_m: 5.0
   source: https://techcrunch.com/2023/07/11/prompt-engineering-startup-vellum-ai/
   notes: Y Combinator batch company.
 - stage: Series A
   date: 2025-07
-  amount_m: 20
+  amount_m: 20.0
   lead_investors:
   - Leaders Fund
   source: https://www.businesswire.com/news/home/20250710009580/en/Vellum-Raises-$20M-Series-A-to-Bring-Rigor-Speed-and-Reliability-to-Enterprise-AI-Development

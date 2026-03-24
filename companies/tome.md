@@ -1,8 +1,6 @@
 ---
 name: Tome
-legal_name: Tome, Inc.
 website: https://tome.app
-domain: tome.app
 sector: AI Presentations / Sales Intelligence (pivoted)
 founded: 2020
 headquarters: San Francisco, CA
@@ -35,6 +33,7 @@ crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/magical-tome
 total_raised_m: 81.0
 linkedin_verified: true
+funding_rounds: []
 ---
 
 # Tome

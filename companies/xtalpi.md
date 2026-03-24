@@ -1,6 +1,5 @@
 ---
 name: XtalPi
-legal_name: XtalPi Inc.
 founded: 2014
 headquarters: Cambridge, MA (US operations) / Shenzhen, China (global HQ)
 website: https://en.xtalpi.com
@@ -32,6 +31,7 @@ key_investors:
 last_updated: 2026-03-20
 linkedin: https://www.linkedin.com/company/xtalpi/
 linkedin_verified: true
+funding_rounds: []
 ---
 
 # XtalPi

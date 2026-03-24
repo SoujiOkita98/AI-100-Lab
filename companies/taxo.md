@@ -1,16 +1,14 @@
 ---
 company: Taxo
-legal_name: Taxo Inc.
 founded: 2024
 headquarters: United States
 sector: AI Applications / Healthcare
 stage: Seed
-latest_valuation: Undisclosed
 total_funding: ~$5M
 founders:
 - name: Dr. Ahmed Kerwan
   role: CEO
-  education: Harvard (affiliated); medical background
+  background: Harvard (affiliated); medical background
   origin: Arab/Egyptian
 notable_investors:
 - Y Combinator
@@ -39,7 +37,7 @@ total_raised_m: 5
 funding_rounds:
 - stage: Seed
   date: 2025-03
-  amount_m: 5
+  amount_m: 5.0
   lead_investors:
   - Y Combinator
   - General Catalyst
@@ -48,6 +46,7 @@ funding_rounds:
 linkedin: https://www.linkedin.com/company/taxo/
 name: Taxo
 linkedin_verified: true
+status: active
 ---
 
 # Taxo

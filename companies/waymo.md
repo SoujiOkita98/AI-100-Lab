@@ -1,6 +1,5 @@
 ---
 name: Waymo
-legal_name: Waymo LLC
 founded: '2009'
 headquarters: Mountain View, CA
 parent_company: Alphabet Inc.
@@ -8,7 +7,6 @@ website: https://waymo.com
 product: Autonomous ride-hailing service (robotaxi) and autonomous driving technology
 sector: AI / Autonomous Vehicles / Robotics / Transportation
 stage: Late-stage (external funding round, Feb 2026)
-latest_valuation: $126B (Feb 2026)
 total_funding: $16B+ (latest round alone; total from Alphabet significantly more)
 status: Active, Subsidiary of Alphabet
 founders:
@@ -34,7 +32,7 @@ key_investors:
 funding_rounds:
 - stage: Series A
   date: 2020-03
-  amount_m: 3200
+  amount_m: 3200.0
   lead_investors:
   - Alphabet
   - Silver Lake
@@ -47,7 +45,7 @@ funding_rounds:
   notes: Initially $2.25B, expanded to $3.2B by July 2020.
 - stage: Series B
   date: 2021-06
-  amount_m: 2500
+  amount_m: 2500.0
   lead_investors:
   - Alphabet
   - Andreessen Horowitz
@@ -58,8 +56,8 @@ funding_rounds:
   source: https://www.cnbc.com/2021/06/16/alphabets-waymo-raises-2point5-billion-in-new-investment-round.html
 - stage: Series C
   date: 2024-10
-  amount_m: 5600
-  valuation_m: 45000
+  amount_m: 5600.0
+  valuation_m: 45000.0
   lead_investors:
   - Alphabet
   - Andreessen Horowitz
@@ -70,8 +68,8 @@ funding_rounds:
   source: https://techcrunch.com/2024/11/05/waymos-latest-funding-round-boosts-it-to-45b-valuation/
 - stage: Series D
   date: 2026-02
-  amount_m: 16000
-  valuation_m: 126000
+  amount_m: 16000.0
+  valuation_m: 126000.0
   lead_investors:
   - Alphabet (~$13B)
   - Dragoneer
@@ -96,6 +94,7 @@ crunchbase_verified: true
 total_raised_m: 27100
 data_notes: Total raised updated to $27.1B (cumulative all rounds). Previous $16B figure was the Feb 2026 Series D round only.
 linkedin_verified: true
+latest_valuation_m: 126000.0
 ---
 
 # Waymo

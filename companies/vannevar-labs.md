@@ -14,22 +14,18 @@ latest_valuation_m: null
 funding_rounds:
 - stage: Seed
   date: 2019-01
-  amount_m: null
-  valuation_m: null
   lead_investors:
   - Costanoa Ventures
   source: https://research.contrary.com/company/vannevar-labs
 - stage: Series A
   date: 2021-01
-  amount_m: 12
-  valuation_m: null
+  amount_m: 12.0
   lead_investors:
   - Costanoa Ventures
   source: https://www.crunchbase.com/organization/vannevar-labs
 - stage: Series B
   date: 2023-01
-  amount_m: 75
-  valuation_m: null
+  amount_m: 75.0
   lead_investors:
   - Felicis Ventures
   source: https://siliconangle.com/2023/01/19/defense-technology-startup-vannevar-labs-raises-75m-funding/

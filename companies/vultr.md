@@ -1,6 +1,5 @@
 ---
 name: Vultr
-slug: vultr
 sector: AI / GPU Cloud Infrastructure
 founded: 2014
 headquarters: Fort Lauderdale, Florida
@@ -18,15 +17,15 @@ confidence: medium-high
 funding_rounds:
 - stage: Debt / Credit Facility
   date: 2024-06
-  amount_m: 329
+  amount_m: 329.0
   lead_investors:
   - Goldman Sachs
   - Citi
   source: https://www.datacenterdynamics.com/en/news/vultr-secures-329m-in-credit-financing/
 - stage: Growth Equity
   date: 2024-12
-  amount_m: 333
-  valuation_m: 3500
+  amount_m: 333.0
+  valuation_m: 3500.0
   lead_investors:
   - AMD Ventures
   - LuminArx Capital

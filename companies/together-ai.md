@@ -1,13 +1,10 @@
 ---
 company: Together AI
-legal_name: Together Computer Inc.
 founded: June
 headquarters: San Francisco, CA
 sector: AI Infrastructure / Cloud
 subsector: Open-Source AI Inference, Training & Fine-Tuning
 website: https://www.together.ai
-total_funding: ~$534M
-latest_valuation: $3.3B (Feb 2025)
 estimated_annual_revenue: ~$300M ARR (Sep 2025 est.)
 employee_count_approx: ~200 (est. late 2025)
 status: Private
@@ -22,7 +19,7 @@ last_updated: 2026-03-20
 funding_rounds:
 - stage: Seed
   date: 2023-05
-  amount_m: 20
+  amount_m: 20.0
   lead_investors:
   - Lux Capital
   source: https://www.together.ai/blog/series-a
@@ -35,15 +32,15 @@ funding_rounds:
   source: https://techcrunch.com/2023/11/29/together-lands-102-5m-investment-to-grow-its-cloud-for-training-generative-ai/
 - stage: Series A Extension
   date: 2024-03
-  amount_m: 106
-  valuation_m: 1250
+  amount_m: 106.0
+  valuation_m: 1250.0
   lead_investors:
   - Salesforce Ventures
   source: https://news.crunchbase.com/cloud/together-ai-valuation-jump-general-catalyst-nvda/
 - stage: Series B
   date: 2025-02
-  amount_m: 305
-  valuation_m: 3300
+  amount_m: 305.0
+  valuation_m: 3300.0
   lead_investors:
   - General Catalyst
   - Prosperity7 Ventures
@@ -68,6 +65,8 @@ crunchbase: https://www.crunchbase.com/organization/together-ai
 crunchbase_verified: true
 name: Together AI
 linkedin_verified: true
+total_raised_m: 534.0
+latest_valuation_m: 3300.0
 ---
 
 # Together AI

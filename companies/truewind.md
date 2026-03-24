@@ -1,13 +1,10 @@
 ---
 company: Truewind
-legal_name: Truewind, Inc.
 founded: 2022
 headquarters: San Francisco, CA
 website: https://www.truewind.ai
 sector: AI / Fintech / Accounting
 stage: Series A
-latest_valuation: Undisclosed
-total_funding: ~$17M
 headcount_estimate: ~20-30
 status: Private
 yc_batch: W23
@@ -30,19 +27,19 @@ funding_rounds:
   source: https://www.truewind.ai/resources/seed-round-announcement
 - stage: Seed
   date: 2023-09
-  amount_m: 3
+  amount_m: 3.0
   lead_investors:
   - Fin Capital
   source: https://www.axios.com/pro/fintech-deals/2023/09/18/ai-accounting-startup-truewind-3-million-seed
 - stage: Seed Extension
   date: 2024-01
-  amount_m: 1
+  amount_m: 1.0
   lead_investors:
   - Thomson Reuters Ventures
   source: https://www.axios.com/pro/fintech-deals/2024/01/19/thomson-reuters-accounting-ai-truewind
 - stage: Series A
   date: 2024-12
-  amount_m: 13
+  amount_m: 13.0
   lead_investors:
   - Rho Capital
   - Thomson Reuters Ventures
@@ -52,6 +49,7 @@ website_verified: true
 linkedin: https://www.linkedin.com/company/truewindai
 crunchbase: https://www.crunchbase.com/organization/truewind-69f1
 name: Truewind
+total_raised_m: 17.0
 ---
 
 # Truewind

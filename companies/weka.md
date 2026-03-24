@@ -1,12 +1,9 @@
 ---
 company: WEKA
-legal_name: WekaIO Inc.
 founded: 2013
 headquarters: Campbell, California, USA
 sector: AI Data Infrastructure / High-Performance Storage
 stage: Late-stage private (Pre-IPO)
-latest_valuation: $1.6 billion (Series E, May 2024)
-total_funding: ~$375M (reported range $372M-$415M depending on source)
 employees: ~533 (as of January 2026)
 website: https://www.weka.io
 founders:
@@ -29,12 +26,11 @@ last_updated: 2026-03-20
 funding_rounds:
 - stage: Series A
   date: 2014-01
-  amount_m: 10
-  lead_investors: []
+  amount_m: 10.0
   source: https://www.crunchbase.com/organization/weka-io
 - stage: Series B
   date: 2016-06
-  amount_m: 22
+  amount_m: 22.0
   lead_investors:
   - Norwest Venture Partners
   - Qualcomm Ventures
@@ -47,21 +43,21 @@ funding_rounds:
   source: https://www.weka.io/
 - stage: Series D (tranche 1)
   date: 2022-01
-  amount_m: 73
+  amount_m: 73.0
   lead_investors:
   - Hitachi Ventures
   source: https://www.calcalistech.com/
 - stage: Series D (tranche 2)
   date: 2022-11
-  amount_m: 135
-  valuation_m: 750
+  amount_m: 135.0
+  valuation_m: 750.0
   lead_investors:
   - Generation Investment Management
   source: https://techcrunch.com/2022/11/15/weka-announces-135m-investment/
 - stage: Series E
   date: 2024-05
-  amount_m: 140
-  valuation_m: 1600
+  amount_m: 140.0
+  valuation_m: 1600.0
   lead_investors:
   - Valor Equity Partners
   source: https://www.weka.io/
@@ -74,6 +70,8 @@ crunchbase_verified: true
 twitter: '@WekaIO'
 name: WEKA
 linkedin_verified: true
+total_raised_m: 375.0
+status: active
 ---
 
 # WEKA

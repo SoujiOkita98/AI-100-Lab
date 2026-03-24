@@ -1,13 +1,10 @@
 ---
 company: WhiteLab Genomics
-legal_name: WhiteLab Genomics SAS
 founded: 2019
 headquarters: Paris, France
 website: https://whitelabgx.com
 sector: AI / Biotech / Genomics
 stage: Series A
-latest_valuation: Undisclosed
-total_funding: ~$10.2M
 headcount_estimate: ~20-30
 status: Private
 yc_batch: W22
@@ -40,6 +37,7 @@ website_verified: true
 linkedin: https://www.linkedin.com/company/whitelab-genomics
 crunchbase: https://www.crunchbase.com/organization/whitelab-genomics
 name: WhiteLab Genomics
+total_raised_m: 10.2
 ---
 
 # WhiteLab Genomics

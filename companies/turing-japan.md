@@ -9,11 +9,10 @@ status: active
 funding_rounds:
 - stage: Series A
   date: 2025-11
-  amount_m: 100
-  valuation_m: 388
+  amount_m: 100.0
+  valuation_m: 388.0
   lead_investors:
   - Denso
-latest_valuation: 388
 founders:
 - name: Issei Yamamoto
   role: Co-Founder & CEO
@@ -31,6 +30,7 @@ crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/turing-motors
 total_raised_m: 100.0
 linkedin_verified: true
+latest_valuation_m: 388.0
 ---
 
 # Turing Inc (Japan)

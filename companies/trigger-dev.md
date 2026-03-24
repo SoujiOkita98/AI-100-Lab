@@ -1,20 +1,18 @@
 ---
 company: Trigger.dev
-legal_name: Trigger.dev Ltd.
 founded: 2022
 headquarters: London, UK
 website: https://trigger.dev
 sector: AI Infrastructure / Developer Tools
 stage: Series A
-latest_valuation: Undisclosed
-total_funding: ~$19.5M
 headcount_estimate: ~15-25
 status: Private
 yc_batch: W23
 founders:
 - name: Matt Aitken
   role: Co-Founder & CEO
-  background: Created two iPad apps that won Apple's iPad App of the Year; previously built JSON Hero (open-source JSON viewer used by 35K+ developers/month); serial startup founder
+  background: Created two iPad apps that won Apple's iPad App of the Year; previously built JSON Hero (open-source JSON viewer
+    used by 35K+ developers/month); serial startup founder
   origin: British
 - name: Eric Allam
   role: Co-Founder & CTO
@@ -38,13 +36,13 @@ funding_rounds:
   source: https://www.ycombinator.com/companies/trigger-dev
 - stage: Seed
   date: 2023-08
-  amount_m: 3
+  amount_m: 3.0
   lead_investors:
   - Undisclosed
   source: https://www.crunchbase.com/organization/trigger-dev
 - stage: Series A
   date: 2025-03
-  amount_m: 16
+  amount_m: 16.0
   lead_investors:
   - Standard Capital
   source: https://trigger.dev/blog/series-a
@@ -53,6 +51,7 @@ website_verified: true
 linkedin: https://www.linkedin.com/company/trigger-dev
 crunchbase: https://www.crunchbase.com/organization/trigger-dev
 name: Trigger.dev
+total_raised_m: 19.5
 ---
 
 # Trigger.dev

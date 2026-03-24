@@ -2,7 +2,6 @@
 company: Udio
 legal_entity: Uncharted Labs, Inc.
 website: https://www.udio.com
-domain: udio.com
 sector: AI Music Generation
 founded: Dece
 headquarters: New York, NY, USA
@@ -57,7 +56,7 @@ total_raised_m: 10
 funding_rounds:
 - stage: Seed
   date: '2024'
-  amount_m: 10
+  amount_m: 10.0
   lead_investors:
   - Andreessen Horowitz
   source: https://www.crunchbase.com/organization/udio

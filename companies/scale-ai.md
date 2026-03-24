@@ -24,8 +24,6 @@ employee_count: ~1,000 full-time (estimates vary; up to ~6,000 including contrac
 funding_rounds:
 - stage: Seed
   date: 2016
-  amount_m: null
-  valuation_m: null
   lead_investors:
   - Y Combinator
   source: https://tracxn.com/d/companies/scaleai/__iQC-P6zm6-YIchaMdt_UtWRoQNAzQYgkyxD99e8U-cI/funding-and-investors
@@ -33,14 +31,12 @@ funding_rounds:
 - stage: Series A
   date: 2017-05
   amount_m: 4.5
-  valuation_m: null
   lead_investors:
   - Accel
   source: https://wellfound.com/company/scale-ai/funding
 - stage: Series B
   date: 2018
   amount_m: 18.0
-  valuation_m: null
   lead_investors:
   - Index Ventures
   source: https://www.indexventures.com/perspectives/scale-announces-18-million-in-series-b-funding-led-by-index-ventures/

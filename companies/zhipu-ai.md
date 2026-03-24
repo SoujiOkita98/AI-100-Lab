@@ -12,7 +12,6 @@ ipo_date: '2026-01-08'
 ipo_exchange: Hong Kong Stock Exchange
 ipo_raised_usd: ~$558M
 valuation_at_ipo_usd: ~$6.5B
-total_funding_usd: ~$1.5B (pre-IPO cumulative)
 revenue_2024_rmb: 312.4M RMB
 revenue_h1_2025_rmb: 190.9M RMB (~$27M USD, +325% YoY)
 net_loss_h1_2025_rmb: 2.36B RMB (~$330M)
@@ -45,8 +44,7 @@ confidence_notes: Employee count is estimated; all financial figures sourced fro
 funding_rounds:
 - stage: Angel
   date: '2021'
-  amount_m: 15
-  lead_investors: []
+  amount_m: 15.0
   source: https://pro.pandaily.com/p/zhipu-ais-rise-from-tsinghua-lab
 - stage: Series B
   date: 2022-09
@@ -56,8 +54,8 @@ funding_rounds:
   source: https://tracxn.com/d/companies/zhipu/
 - stage: Series B Extension
   date: 2023-07
-  amount_m: 350
-  valuation_m: 2800
+  amount_m: 350.0
+  valuation_m: 2800.0
   lead_investors:
   - Alibaba
   - Tencent
@@ -68,13 +66,13 @@ funding_rounds:
   source: https://www.caproasia.com/2025/04/15/china-artificial-intelligence-startup-zhipu-ai-pre-files-for-ipo-raised-1-4-billion-in-funding-since-founding-2023-valuation-at-2-8-billion-investors-include-alibaba-ant-group-tencent-meituan/
 - stage: Strategic Round
   date: 2024-05
-  amount_m: 400
+  amount_m: 400.0
   lead_investors:
   - Prosperity7 Ventures (Saudi Aramco)
   source: https://www.caproasia.com/2025/12/19/china-artificial-intelligence-startup-zhipu-ai-plans-hong-kong-in-2026-after-pre-filing-for-ipo-in-2025-april-raised-1-5-billion-in-funding-since-founding-2023-valuation-at-2-8-billion-investors/
 - stage: Series D
   date: 2024-12
-  amount_m: 412
+  amount_m: 412.0
   lead_investors:
   - Beijing AI Industry Investment Fund
   - Legend Capital
@@ -83,13 +81,13 @@ funding_rounds:
   source: https://technode.com/2024/12/17/ai-unicorn-zhipu-raises-412-million-in-new-funding-round/
 - stage: Strategic Round
   date: 2025-03
-  amount_m: 140
+  amount_m: 140.0
   lead_investors:
   - Hangzhou Industry Investment Group
   source: https://technode.com/2025/03/03/chinese-ai-startup-zhipu-secures-over-140-million-in-new-strategic-funding/
 - stage: Strategic Round
   date: 2025-07
-  amount_m: 140
+  amount_m: 140.0
   lead_investors:
   - Shanghai State Funds
   source: https://www.caixinglobal.com/2025-07-03/chinas-zhipu-ai-secures-140-million-investment-from-shanghai-state-funds-amid-ipo-push-102337464.html
@@ -98,6 +96,8 @@ crunchbase: https://www.crunchbase.com/organization/zhipu-ai
 crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/zhipuai
 linkedin_verified: true
+total_raised_m: 1500.0
+status: active
 ---
 
 # Zhipu AI (Z.ai) -- Company Profile

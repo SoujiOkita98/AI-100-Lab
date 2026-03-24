@@ -10,15 +10,12 @@ founders:
 - name: Varun Mohan
   role: Co-founder & CEO
   background: MIT (MEng CS, BS EECS, minor in Math); former Tech Lead Manager at Nuro (autonomous vehicles, 2018-2021)
-  current: Google DeepMind (as of July 2025)
   origin: Indian-American
 - name: Douglas Chen
   role: Co-founder
   background: MIT graduate; former engineer at Meta (Oculus Quest VR tooling)
-  current: Google DeepMind (as of July 2025)
   origin: Chinese-American
 sector: AI Developer Tools / AI Code Editor
-total_funding: ~$243M
 last_valuation: $1.25B (Series C, August 2024)
 key_investors:
 - General Catalyst
@@ -36,21 +33,21 @@ research_date: 2026-03-20
 funding_rounds:
 - stage: Series A
   date: 2022-04
-  amount_m: 25
+  amount_m: 25.0
   lead_investors:
   - Greenoaks Capital
   source: https://www.crunchbase.com/funding_round/codeium-series-a--435f976f
 - stage: Series B
   date: 2024-01
-  amount_m: 65
-  valuation_m: 500
+  amount_m: 65.0
+  valuation_m: 500.0
   lead_investors:
   - Kleiner Perkins
   source: https://www.crunchbase.com/funding_round/windsurf-codeium-series-b--fcfa64ac
 - stage: Series C
   date: 2024-09
-  amount_m: 150
-  valuation_m: 1250
+  amount_m: 150.0
+  valuation_m: 1250.0
   lead_investors:
   - General Catalyst
   source: https://www.crunchbase.com/funding_round/windsurf-codeium-series-c--4876a9bd
@@ -63,6 +60,7 @@ linkedin: https://www.linkedin.com/company/codeiumdev
 crunchbase: https://www.crunchbase.com/organization/windsurf
 crunchbase_verified: true
 linkedin_verified: true
+total_raised_m: 243.0
 ---
 
 # Windsurf (formerly Codeium / Exafunction)

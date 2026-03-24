@@ -1,7 +1,5 @@
 ---
 company: Wayve
-legal_name: Wayve Technologies Ltd.
-domain: Autonomous Driving / Embodied AI
 other_offices:
 - Vancouver, Canada
 - San Francisco / Silicon Valley, USA
@@ -11,52 +9,50 @@ founded: 2017
 founders:
 - name: Alex Kendall
   role: Co-Founder & CEO
+  background: PhD in Deep Learning, Computer Vision & Robotics, University of Cambridge (Trinity College)
   origin: New Zealand
-  education: PhD in Deep Learning, Computer Vision & Robotics, University of Cambridge (Trinity College)
 - name: Amar Shah
   role: Co-Founder (departed 2020)
-  education: PhD in Machine Learning, University of Cambridge (supervised by Zoubin Ghahramani & Yoshua Bengio)
-  prior: Quantitative Strategist, Goldman Sachs
+  background: PhD in Machine Learning, University of Cambridge (supervised by Zoubin Ghahramani & Yoshua Bengio)
   origin: Indian-British
+  prior: Quantitative Strategist, Goldman Sachs
 website: https://wayve.ai
 headcount_estimate: ~833 (Jan 2026)
-valuation: $8.6B (post-money, Feb 2026)
-total_funding: ~$2.5B
 stage: Series D
 last_updated: 2026-03-20
 funding_rounds:
 - stage: Seed
   date: 2017-09
-  amount_m: 2.15
+  amount_m: 2.1
   lead_investors:
   - Compound
   - Firstminute Capital
   source: https://tracxn.com/d/companies/wayve/__go5_Z58BAb4tRQ9srOvG14MIffdlqtv-Xbv6nI1E3eg/funding-and-investors
 - stage: Series A
   date: 2019-11
-  amount_m: 20
+  amount_m: 20.0
   lead_investors:
   - Eclipse Ventures
   source: https://en.wikipedia.org/wiki/Wayve
 - stage: Series B
   date: 2022-01
-  amount_m: 200
+  amount_m: 200.0
   lead_investors:
   - Eclipse Ventures
   source: https://en.wikipedia.org/wiki/Wayve
   notes: Also included D1 Capital, Moore Strategic Ventures, Linse Capital, Microsoft, Virgin Group.
 - stage: Series C
   date: 2024-05
-  amount_m: 1050
-  valuation_m: 2500
+  amount_m: 1050.0
+  valuation_m: 2500.0
   lead_investors:
   - SoftBank Vision Fund 2
   source: https://techcrunch.com/2024/05/06/wayve-raises-1-billion-led-by-softbank-to-take-self-driving-to-cars-and-robots/
   notes: Also included Nvidia, Microsoft, Eclipse Ventures.
 - stage: Series D
   date: 2026-02
-  amount_m: 1200
-  valuation_m: 8600
+  amount_m: 1200.0
+  valuation_m: 8600.0
   lead_investors:
   - Eclipse Ventures
   - Balderton Capital
@@ -73,6 +69,9 @@ twitter: '@wayve_ai'
 headquarters: London, United Kingdom
 name: Wayve
 linkedin_verified: true
+total_raised_m: 2500.0
+latest_valuation_m: 8600.0
+status: active
 ---
 
 # Wayve

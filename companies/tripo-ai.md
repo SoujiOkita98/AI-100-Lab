@@ -1,6 +1,5 @@
 ---
 name: Tripo AI
-legal_name: VAST (Beijing) Technology Co., Ltd.
 website: https://www.tripo3d.ai
 sector: AI 3D Generation / Generative AI
 founded: Marc
@@ -8,18 +7,13 @@ headquarters: Beijing, China (with global user base, 90% outside China)
 founders:
 - name: Simon Song
   role: Co-founder
-  nationality: Chinese (mainland)
-  education:
-  - Details not widely reported
-  notable: Previously co-founded MiniMax, one of China's AI Tigers, which IPO'd on the Hong Kong Stock Exchange in January
-    2026. Serial AI entrepreneur.
+  background: Details not widely reported Previously co-founded MiniMax, one of China's AI Tigers, which IPO'd on the Hong
+    Kong Stock Exchange in January 2026. Serial AI entrepreneur.
   origin: Chinese
 - name: Guoli Su
   role: Co-founder
-  nationality: Chinese (mainland)
-  education:
-  - Tsinghua University (affiliated with Tsinghua research team)
-  notable: Research background in 3D reconstruction and generative AI
+  background: Tsinghua University (affiliated with Tsinghua research team) Research background in 3D reconstruction and generative
+    AI
   origin: Chinese
 team_size_estimate: ~50-100 (estimate)
 stage: Series A
@@ -44,12 +38,13 @@ total_raised_m: 50
 funding_rounds:
 - stage: Multiple rounds
   date: 2023-2025
-  amount_m: 50
+  amount_m: 50.0
   lead_investors:
   - Undisclosed
   source: https://www.crunchbase.com/organization/tripo-ai
 data_notes: Total ~$50M+ across multiple rounds. Individual round details not fully disclosed.
 linkedin_verified: true
+status: active
 ---
 
 # Tripo AI

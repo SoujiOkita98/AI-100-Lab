@@ -17,15 +17,13 @@ funding_rounds:
 - stage: Seed
   date: 2020-08
   amount_m: 1.6
-  valuation_m: null
   lead_investors:
   - Zetta Venture Partners
   source: https://www.prnewswire.com/news-releases/semi-technologies-16m-series-a-round-highlights-a-new-wave-of-ai-first-database-tech-301486766.html
   notes: ING Ventures also participated. Raised under the original company name SeMI Technologies.
 - stage: Series A
   date: 2022-02
-  amount_m: 16
-  valuation_m: null
+  amount_m: 16.0
   lead_investors:
   - New Enterprise Associates (NEA)
   - Cortical Ventures
@@ -34,8 +32,7 @@ funding_rounds:
     SeMI Technologies.
 - stage: Series B
   date: 2023-04
-  amount_m: 50
-  valuation_m: null
+  amount_m: 50.0
   lead_investors:
   - Index Ventures
   source: https://www.prnewswire.com/news-releases/weaviate-raises-50-million-series-b-funding-to-meet-soaring-demand-for-ai-native-vector-database-technology-301803296.html
@@ -43,8 +40,8 @@ funding_rounds:
     also joined. Company had rebranded from SeMI Technologies to Weaviate by this point.
 - stage: Series C
   date: 2025-10
-  amount_m: 50
-  valuation_m: 200
+  amount_m: 50.0
+  valuation_m: 200.0
   lead_investors:
   - Battery Ventures
   - Zetta Venture Partners

@@ -1,6 +1,5 @@
 ---
 name: Thinking Machines Lab
-legal_name: Thinking Machines Lab, PBC
 founded: '2025'
 headquarters: San Francisco, CA
 headcount: ~30+ (as of mid-2025)
@@ -8,33 +7,25 @@ website: https://thinkingmachines.ai
 product: Tinker (API for fine-tuning language models)
 sector: AI / Frontier Models / Model Customization
 stage: Seed (latest round Jul 2025)
-latest_valuation: $12B (Jul 2025); reportedly in talks at ~$50B (Nov 2025)
-total_funding: ~$2B
 status: Active, Private (Public Benefit Corporation)
 founders:
 - name: Mira Murati
   role: CEO
-  ethnicity: Albanian American
   origin: Albanian-American
 - name: John Schulman
   role: Co-founder
-  ethnicity: White American
   origin: American
 - name: Barrett Zoph
   role: Co-founder
-  ethnicity: White American
   origin: American
 - name: Lilian Weng
   role: Co-founder
-  ethnicity: Chinese American
   origin: Chinese-American
 - name: Andrew Tulloch
   role: Co-founder
-  ethnicity: White (Australian)
   origin: Australian
 - name: Luke Metz
   role: Co-founder
-  ethnicity: White American
   origin: American
 key_investors:
 - Andreessen Horowitz (a16z) — lead
@@ -48,8 +39,8 @@ key_investors:
 funding_rounds:
 - stage: Seed
   date: 2025-07
-  amount_m: 2000
-  valuation_m: 12000
+  amount_m: 2000.0
+  valuation_m: 12000.0
   lead_investors:
   - Andreessen Horowitz
   source: https://techcrunch.com/2025/07/15/mira-muratis-thinking-machines-lab-is-worth-12b-in-seed-round/
@@ -62,6 +53,7 @@ linkedin: https://www.linkedin.com/company/thinkingmachinesai
 crunchbase: https://www.crunchbase.com/organization/thinking-machines-lab
 crunchbase_verified: true
 linkedin_verified: true
+total_raised_m: 2000.0
 ---
 
 # Thinking Machines Lab

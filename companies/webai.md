@@ -19,14 +19,13 @@ funding_rounds:
 - stage: Series A
   date: 2024-09
   amount_m: 60.0
-  valuation_m: 700
+  valuation_m: 700.0
   lead_investors:
   - Undisclosed
   source: https://www.thesaasnews.com/news/webai-raises-60-million-in-series-a
 - stage: Series A Extension
   date: 2026-01
-  amount_m: null
-  valuation_m: 2500
+  valuation_m: 2500.0
   lead_investors:
   - Time Ventures (Marc Benioff)
   - Atreides Management

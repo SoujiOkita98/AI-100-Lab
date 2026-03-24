@@ -15,16 +15,15 @@ latest_valuation_m: 2000
 funding_rounds:
 - stage: Series A
   date: 2025-11
-  amount_m: 100
-  valuation_m: null
+  amount_m: 100.0
   lead_investors:
   - Index Ventures
   source: https://techcrunch.com/2025/11/11/wonderful-raised-100m-series-a-to-put-ai-agents-on-the-front-lines-of-customer-service/
   notes: Bessemer Venture Partners, IVP, and Vine Ventures also participated.
 - stage: Series B
   date: 2026-03
-  amount_m: 150
-  valuation_m: 2000
+  amount_m: 150.0
+  valuation_m: 2000.0
   lead_investors:
   - Insight Partners
   source: https://techcrunch.com/2026/03/12/wonderful-raises-150m-series-b-at-2b-valuation/

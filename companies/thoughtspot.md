@@ -1,6 +1,5 @@
 ---
 name: ThoughtSpot
-legal_name: ThoughtSpot, Inc.
 founded: 2012
 headquarters: Mountain View, California, USA
 website: https://www.thoughtspot.com
@@ -10,7 +9,6 @@ one_liner: AI-powered analytics platform that lets business users query data and
 stage: Late-stage / Growth
 latest_valuation_usd: 4200000000
 latest_valuation_date: 2021-11
-total_funding_usd: ~809_000_000
 revenue_run_rate_usd: ~318_000_000
 revenue_run_rate_date: 2024
 employee_count_approx: 800
@@ -20,47 +18,46 @@ ipo_status: Private
 founders:
 - name: Ajeet Singh
   role: Co-Founder & Executive Chairman
+  background: IIT Delhi; MBA, Stanford Graduate School of Business (inferred from career trajectory)
   origin: Indian
-  education: IIT Delhi; MBA, Stanford Graduate School of Business (inferred from career trajectory)
   prior: Co-Founder and CEO of Nutanix (board member); Oracle
 - name: Amit Prakash
   role: Co-Founder & CTO
+  background: IIT Bombay; PhD, UC Berkeley (inferred)
   origin: Indian
-  education: IIT Bombay; PhD, UC Berkeley (inferred)
   prior: Google (Search Infrastructure)
 key_executives:
 - name: Ketan Karkhanis
   role: CEO (appointed September 2024)
   prior: EVP & GM of Sales Cloud, Salesforce
 funding_rounds:
-- round: Series A
+- stage: Series A
   date: 2012
-  amount_usd: 10700000
+  amount_m: 10.7
   lead_investors:
   - Lightspeed Venture Partners
   source: https://tracxn.com/d/companies/thoughtspot/__j0eT_Leq8_wjW3vvd9FqpizTJQ8ZdOcLZdd38ouF0fs/funding-and-investors
-- round: Series B
+- stage: Series B
   date: 2014
-  amount_usd: 30000000
+  amount_m: 30.0
   lead_investors:
   - Khosla Ventures
   source: https://tracxn.com/d/companies/thoughtspot/__j0eT_Leq8_wjW3vvd9FqpizTJQ8ZdOcLZdd38ouF0fs/funding-and-investors
-- round: Series C
+- stage: Series C
   date: 2016-05
-  amount_usd: 50000000
+  amount_m: 50.0
   lead_investors:
   - General Catalyst
   source: https://tracxn.com/d/companies/thoughtspot/__j0eT_Leq8_wjW3vvd9FqpizTJQ8ZdOcLZdd38ouF0fs/funding-and-investors
-- round: Series D
+- stage: Series D
   date: 2018-05
-  amount_usd: null
   lead_investors:
   - Sapphire Ventures
   source: https://tracxn.com/d/companies/thoughtspot/__j0eT_Leq8_wjW3vvd9FqpizTJQ8ZdOcLZdd38ouF0fs/funding-and-investors
-- round: Series E
+- stage: Series E
   date: 2019-08
-  amount_usd: 248000000
-  valuation_usd: 1950000000
+  amount_m: 248.0
+  valuation_m: 1950.0
   lead_investors:
   - Lightspeed Venture Partners
   other_investors:
@@ -69,10 +66,10 @@ funding_rounds:
   - Sapphire Ventures
   - Capital One Ventures
   source: https://www.thoughtspot.com/press-releases/thoughtspot-raises-248m-195b-valuation-transform-enterprises-search-ai-driven-analytics
-- round: Series F
+- stage: Series F
   date: 2021-11
-  amount_usd: 100000000
-  valuation_usd: 4200000000
+  amount_m: 100.0
+  valuation_m: 4200.0
   lead_investors:
   - March Capital
   other_investors:
@@ -90,6 +87,8 @@ crunchbase: https://www.crunchbase.com/organization/thoughtspot
 crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/thoughtspot
 linkedin_verified: true
+total_raised_m: 809.0
+status: active
 ---
 
 # ThoughtSpot

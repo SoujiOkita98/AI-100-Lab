@@ -1,13 +1,10 @@
 ---
 company: Yuma AI
-legal_name: Yuma AI, Inc.
 founded: 2023
 headquarters: San Francisco, CA
 website: https://yuma.ai
 sector: AI / E-commerce / Customer Support
 stage: Seed
-latest_valuation: Undisclosed
-total_funding: ~$5.5M
 headcount_estimate: ~15-25
 status: Private
 yc_batch: W23
@@ -26,7 +23,7 @@ funding_rounds:
   source: https://www.ycombinator.com/companies/yuma-ai
 - stage: Seed
   date: 2024-11
-  amount_m: 5
+  amount_m: 5.0
   lead_investors:
   - Gradient Ventures (Google)
   source: https://yuma.ai/blogs/yuma-ai-raises-5-million-to-transform-e-commerce-customer-support-with-advanced-ai-agents
@@ -35,6 +32,7 @@ website_verified: true
 linkedin: https://www.linkedin.com/company/yuma-ai
 crunchbase: https://www.crunchbase.com/organization/yuma-c2b6
 name: Yuma AI
+total_raised_m: 5.5
 ---
 
 # Yuma AI

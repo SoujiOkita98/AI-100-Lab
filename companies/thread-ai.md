@@ -1,8 +1,6 @@
 ---
 name: Thread AI
-slug: thread-ai
 website: https://www.thread.dev
-domain: thread.dev
 founded: 2023
 headquarters: New York, NY
 sector: AI / Enterprise AI Infrastructure / Workflows
@@ -18,21 +16,22 @@ founders:
   background: Former Foundry Head of AI/ML Engineering at Palantir. Led Palantir's modeling and AI/ML products group.
 last_updated: 2026-03-23
 confidence: high
-one_liner: Composable AI infrastructure platform helping enterprises design, deploy, and scale AI-powered workflows through its core platform Lemma, founded by former Palantir AI leaders
-data_notes: 'Not to be confused with Thread (MSP service desk company). Thread AI focuses on enterprise AI infrastructure.'
+one_liner: Composable AI infrastructure platform helping enterprises design, deploy, and scale AI-powered workflows through
+  its core platform Lemma, founded by former Palantir AI leaders
+data_notes: Not to be confused with Thread (MSP service desk company). Thread AI focuses on enterprise AI infrastructure.
 crunchbase: https://www.crunchbase.com/organization/thread-ai-8b33
 linkedin: https://www.linkedin.com/company/thread-ai
 total_raised_m: 26
 funding_rounds:
 - stage: Seed
   date: 2024-10
-  amount_m: 6
+  amount_m: 6.0
   lead_investors:
   - Index Ventures
   source: https://www.indexventures.com/perspectives/thread-ai-emerges-from-stealth-to-help-enterprises-design-implement-and-manage-ai-workflows/
 - stage: Series A
   date: 2025-06
-  amount_m: 20
+  amount_m: 20.0
   lead_investors:
   - Greycroft
   source: https://fortune.com/2025/06/05/thread-ai-startup-palantir-infrastructure-series-a/

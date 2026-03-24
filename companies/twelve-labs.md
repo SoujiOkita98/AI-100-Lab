@@ -1,14 +1,11 @@
 ---
 company: Twelve Labs
-legal_name: Twelve Labs, Inc.
 website: https://www.twelvelabs.io
-domain: twelvelabs.io
 sector: Multimodal AI / Video Understanding
 founded: 2021
 headquarters: San Francisco, CA (660 4th Street)
 headcount_estimate: ~73 (as of 2025-2026)
 total_funding: ~$107M across 5 rounds
-latest_valuation: ~$300M (Series B, mid-2024; unconfirmed for later rounds)
 status: Private, growth-stage
 tags:
 - multimodal-ai
@@ -49,21 +46,21 @@ total_raised_m: 107
 funding_rounds:
 - stage: Seed
   date: '2022'
-  amount_m: 12
+  amount_m: 12.0
   lead_investors:
   - Index Ventures
   - Radical Ventures
   source: https://www.crunchbase.com/organization/twelve-labs
 - stage: Series A
   date: 2024-06
-  amount_m: 50
+  amount_m: 50.0
   lead_investors:
   - NEA
   - NVIDIA NVentures
   source: https://www.crunchbase.com/organization/twelve-labs
 - stage: Series B
   date: 2024-07
-  amount_m: 42
+  amount_m: 42.0
   lead_investors:
   - NEA
   - NVIDIA
@@ -71,6 +68,7 @@ funding_rounds:
 linkedin: https://www.linkedin.com/company/twelve-labs/
 name: Twelve Labs
 linkedin_verified: true
+latest_valuation_m: 300.0
 ---
 
 # Twelve Labs

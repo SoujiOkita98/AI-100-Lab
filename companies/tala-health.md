@@ -7,12 +7,11 @@ status: active
 funding_rounds:
 - stage: Seed
   date: 2025-11
-  amount_m: 100
-  valuation_m: 1200
+  amount_m: 100.0
+  valuation_m: 1200.0
   lead_investors:
   - Sofreh Capital
   source: https://fortune.com/2025/11/04/tala-health-raises-100-million-seed-round/
-latest_valuation: 1200
 last_updated: 2026-03-21
 confidence: medium
 founders:
@@ -29,6 +28,7 @@ crunchbase_verified: true
 total_raised_m: 100.0
 linkedin: https://www.linkedin.com/company/tala-health/
 linkedin_verified: true
+latest_valuation_m: 1200.0
 ---
 
 # Tala Health

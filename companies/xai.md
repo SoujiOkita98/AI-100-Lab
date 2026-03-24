@@ -8,179 +8,154 @@ current_ceo: Elon Musk
 founders:
 - name: Elon Musk
   role: Founder & CEO
-  background: 'Born 1971 in Pretoria, South Africa. Moved to Canada at 17, then to the US. Co-founded Zip2, X.com (merged
-    into PayPal), founded SpaceX (2002), co-founded Tesla (2003), co-founded OpenAI (2015, departed board 2018). Acquired
-    Twitter/X in 2022. One of the wealthiest people in history. Co-founded xAI in 2023 to build AI that "understands the true
-    nature of the universe."
-
-    '
+  background: Born 1971 in Pretoria, South Africa. Moved to Canada at 17, then to the US. Co-founded Zip2, X.com (merged into
+    PayPal), founded SpaceX (2002), co-founded Tesla (2003), co-founded OpenAI (2015, departed board 2018). Acquired Twitter/X
+    in 2022. One of the wealthiest people in history. Co-founded xAI in 2023 to build AI that "understands the true nature
+    of the universe."
   origin: South African (Afrikaner descent, naturalized Canadian then US citizen)
 - name: Igor Babuschkin
   role: Co-founder & Chief Engineer (departed August 2025)
-  background: 'Born to Russian immigrant parents in Germany. Raised and educated in Germany. Master''s in Physics from Technical
-    University of Dortmund. Joined DeepMind as Research Engineer in 2017, later worked at OpenAI. Served as xAI''s chief engineer.
+  background: Born to Russian immigrant parents in Germany. Raised and educated in Germany. Master's in Physics from Technical
+    University of Dortmund. Joined DeepMind as Research Engineer in 2017, later worked at OpenAI. Served as xAI's chief engineer.
     Departed August 2025 to found Babuschkin Ventures. Purchased a GBP 60M London penthouse in early 2026.
-
-    '
   origin: Russian-German
 - name: Greg Yang
   role: Co-founder (departed January 2026)
-  background: 'Born in Hunan Province, China. Moved through Guangzhou, Beijing, then Houston, TX for middle/high school. BA
+  background: Born in Hunan Province, China. Moved through Guangzhou, Beijing, then Houston, TX for middle/high school. BA
     in Mathematics from Harvard (2018), where his thesis won the Hoopes Prize and earned honorable mention for the Frank and
     Brennie Morgan Prize. Worked at Microsoft Research on neural network scaling theory (muP/muTransfer). Departed xAI in
     January 2026 citing health reasons.
-
-    '
   origin: Chinese (raised partly in US)
 - name: Christian Szegedy
   role: Co-founder (departed February 2025)
-  background: 'Hungarian mathematician and computer scientist. Studied Mathematics and CS at Eotvos Lorand University (Budapest),
-    Master''s from University of Bonn, PhD from University of Bonn (1998-2005). Spent years at Google where he co-authored
+  background: Hungarian mathematician and computer scientist. Studied Mathematics and CS at Eotvos Lorand University (Budapest),
+    Master's from University of Bonn, PhD from University of Bonn (1998-2005). Spent years at Google where he co-authored
     the foundational Inception neural network architecture (GoogLeNet). Left xAI in February 2025 to pursue AI for mathematics.
-
-    '
   origin: Hungarian
 - name: Yuhuai (Tony) Wu
   role: Co-founder; led reasoning team (departed February 2026)
-  background: 'Chinese-born AI researcher. PhD from University of Toronto. Previously at Google Brain and OpenAI. Led xAI''s
+  background: Chinese-born AI researcher. PhD from University of Toronto. Previously at Google Brain and OpenAI. Led xAI's
     reasoning team and was one of the most operationally central co-founders. Departed in February 2026 after the SpaceX acquisition.
-
-    '
   origin: Chinese-Canadian
 - name: Jimmy Ba
   role: Co-founder (departed February 2026)
-  background: 'Canadian machine learning researcher. Undergraduate and PhD at University of Toronto (PhD 2018 under Geoffrey
+  background: Canadian machine learning researcher. Undergraduate and PhD at University of Toronto (PhD 2018 under Geoffrey
     Hinton). Associate professor of CS at University of Toronto. Co-authored the influential Layer Normalization paper and
     Adam optimizer. Sloan Research Fellow. Departed xAI in February 2026 after the SpaceX acquisition.
-
-    '
   origin: Chinese-Canadian
 - name: Toby Pohlen
   role: Co-founder (departed ~February 2026)
-  background: 'Based in London. Master''s in CS from RWTH Aachen University (Germany). Worked at Google DeepMind as a research
+  background: Based in London. Master's in CS from RWTH Aachen University (Germany). Worked at Google DeepMind as a research
     engineer for over six years before co-founding xAI. Departed around February 2026.
-
-    '
   origin: German
 - name: Kyle Kosic
   role: Co-founder (departed; exact date uncertain)
-  background: 'Previously at OpenAI. Limited public information available on personal background. One of the earlier departures
+  background: Previously at OpenAI. Limited public information available on personal background. One of the earlier departures
     from the founding team.
-
-    '
   origin: Uncertain (American, based on available information)
 - name: Guodong Zhang
   role: Co-founder; led Imagine team (departed ~March 2026)
-  background: 'Led xAI''s image generation ("Imagine") team. Previously at Google Brain/DeepMind. Departed around March 2026
+  background: Led xAI's image generation ("Imagine") team. Previously at Google Brain/DeepMind. Departed around March 2026
     during the broader co-founder exodus.
-
-    '
   origin: Chinese (based on available information)
 - name: Zihang Dai
   role: Co-founder (departed ~early 2026)
-  background: 'Previously at Google Brain, known for work on Transformer-XL. Departed xAI in early 2026.
-
-    '
+  background: Previously at Google Brain, known for work on Transformer-XL. Departed xAI in early 2026.
   origin: Chinese (based on available information)
 - name: Ross Nordeen
   role: Co-founder (still at xAI as of March 2026)
-  background: 'American technology professional. Worked nearly four years at Tesla as a technical program manager focused
-    on supercomputing and ML infrastructure before co-founding xAI. One of only two co-founders remaining as of March 2026.
-
-    '
+  background: American technology professional. Worked nearly four years at Tesla as a technical program manager focused on
+    supercomputing and ML infrastructure before co-founding xAI. One of only two co-founders remaining as of March 2026.
   origin: American
 - name: Manuel Kroiss
   role: Co-founder (still at xAI as of March 2026)
-  background: 'Limited public information available. One of only two co-founders remaining as of March 2026.
-
-    '
+  background: Limited public information available. One of only two co-founders remaining as of March 2026.
   origin: German (based on name; uncertain)
 sector: AI / Foundation Models / Consumer AI
 employee_count: ~1,000+ (estimates; exact figure undisclosed)
-latest_valuation: $250B (February 2026, SpaceX merger)
 total_funding: ~$45B (across all rounds)
 funding_rounds:
-- round: Series A (Seed/Initial)
+- stage: Series A (Seed/Initial)
   date: 2023-11
-  amount: $134.7M (of a $1B target)
+  amount_m: 134.7
+  valuation_m: null
   lead_investors:
   - Undisclosed
-  valuation: Undisclosed
   source: https://en.wikipedia.org/wiki/XAI_(company)
   notes: 'Disclosed via SEC filing in December 2023. Investors not formally announced. Reports suggest early backers included
     Valor Equity Partners and other Musk-aligned investors. Musk stated at the time xAI was "not seeking funding right now."
 
     '
-- round: Series B
+- stage: Series B
   date: 2024-05-26
-  amount: $6B
+  amount_m: 6000.0
+  valuation_m: 24000.0
   lead_investors:
   - Valor Equity Partners
   - Andreessen Horowitz
   - Sequoia Capital
-  valuation: $24B (post-money)
   source: https://techcrunch.com/2024/05/26/elon-musks-xai-raises-6b-from-valor-a16z-and-sequoia/
   notes: 'Pre-money valuation of $18B. Other investors included Vy Capital, Fidelity Management & Research Company, Prince
     Alwaleed Bin Talal, and Kingdom Holding Company. Funds used to bring Grok to market and build GPU infrastructure.
 
     '
-- round: Series C
+- stage: Series C
   date: 2024-12-23
-  amount: $6B
+  amount_m: 6000.0
+  valuation_m: 45000.0
   lead_investors:
   - Andreessen Horowitz
   - Sequoia Capital
   - BlackRock
-  valuation: $45B (post-money; some sources say $50B)
   source: https://x.ai/news/series-c
   notes: 'Investors included a16z, BlackRock, Fidelity, Kingdom Holdings (~$400M), Lightspeed, MGX, Morgan Stanley, OIA, QIA,
     Sequoia, Valor Equity Partners, Vy Capital, NVIDIA, and AMD. Only investors from prior rounds were permitted to participate.
     Brought total raised to ~$12B.
 
     '
-- round: Series D (Debt + Equity)
+- stage: Series D (Debt + Equity)
   date: 2025-07-01
-  amount: $10B ($5B debt + $5B equity)
+  amount_m: 10000.0
+  valuation_m: null
   lead_investors:
   - Morgan Stanley (debt)
   - Kingdom Holdings / PIF (equity)
-  valuation: ~$75B-$150B (estimates vary widely)
   source: https://www.cnbc.com/2025/07/01/elon-musk-xai-raises-10-billion-in-debt-and-equity.html
   notes: 'The debt offering was oversubscribed. Saudi Arabia''s PIF acquired ~$800M stake via Kingdom Holdings. SpaceX contributed
     $2B in equity. Funds directed toward Colossus supercomputer expansion in Memphis.
 
     '
-- round: Series D Extension / Secondary
+- stage: Series D Extension / Secondary
   date: 2025-09
-  amount: $10B (equity)
+  amount_m: 10000.0
+  valuation_m: 200000.0
   lead_investors:
   - Undisclosed institutional investors
-  valuation: $200B
   source: https://www.cnbc.com/2025/09/19/musks-xai-10-billion-at-200-billion-valuation.html
   notes: 'Valuation quadrupled in under 3 months from the July round. Some sources count this as a separate round; others
     view it as an extension. The speed of valuation increase from ~$75-150B to $200B raised eyebrows. Exact designation uncertain.
 
     '
-- round: Series E
+- stage: Series E
   date: 2026-01-06
-  amount: $20B (upsized from initial $15B target)
+  amount_m: 20000.0
+  valuation_m: 230000.0
   lead_investors:
   - Valor Equity Partners
   - NVIDIA
   - Fidelity
-  valuation: $230B
   source: https://www.cnbc.com/2026/01/06/elon-musk-xai-raises-20-billion-from-nvidia-cisco-investors.html
   notes: 'Investors included NVIDIA (~$2B), Cisco Investments, Valor Equity Partners, StepStone Group, Fidelity, Qatar Investment
     Authority, MGX (Abu Dhabi), Baron Capital Group, and Tesla (~$2B). Initially targeted $15B but upsized due to demand.
     Largest single private funding round at time of close.
 
     '
-- round: SpaceX Acquisition (all-stock merger)
+- stage: SpaceX Acquisition (all-stock merger)
   date: 2026-02-02
-  amount: N/A (share exchange)
+  amount_m: null
+  valuation_m: null
   lead_investors:
   - SpaceX
-  valuation: $250B (xAI); $1.25T combined entity
   source: https://fortune.com/2026/02/02/elon-musk-spacex-xai-ipo-trillion/
   notes: 'Structured as all-stock acquisition: 1 xAI share = 0.1433 SpaceX shares (xAI at $75.46/share, SpaceX at $526.59/share).
     Largest merger of all time by combined valuation. Announced ahead of anticipated SpaceX IPO. Musk cited plans to build
@@ -196,6 +171,7 @@ total_raised_m: 32000
 data_notes: SpaceX acquired xAI in Feb 2026 at combined $1.25T valuation. Last standalone valuation was ~$250B (Jan 2026 Series
   E at $20B raise). No longer independent.
 linkedin_verified: true
+latest_valuation_m: 250000.0
 ---
 
 # xAI

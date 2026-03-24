@@ -1,13 +1,10 @@
 ---
 name: Verge Genomics
-legal_name: Verge Genomics, Inc.
 founded: 2015
 headquarters: South San Francisco, CA
 website: https://www.vergegenomics.com
 sector: AI Drug Discovery / Neuroscience
 status: Private (Clinical Stage)
-total_funding: ~$148M
-latest_valuation: Undisclosed
 employee_count: ~80 (estimate)
 founders:
 - name: Alice Zhang
@@ -25,19 +22,19 @@ last_updated: 2026-03-20
 funding_rounds:
 - stage: Series A
   date: '2018'
-  amount_m: 32
+  amount_m: 32.0
   lead_investors:
   - DFJ
   source: https://www.vergegenomics.com/news-blog/verge-genomics-announces-32-million-series-a
 - stage: Series B
   date: 2021-12
-  amount_m: 98
+  amount_m: 98.0
   lead_investors:
   - BlackRock
   source: https://www.vergegenomics.com/news-blog/verge-genomics-secures-98-million
 - stage: Corporate
   date: 2023-09
-  amount_m: 42
+  amount_m: 42.0
   lead_investors:
   - AstraZeneca / Alexion
   source: https://www.globenewswire.com/news-release/2023/09/08/2739994/0/en/
@@ -48,6 +45,7 @@ crunchbase: https://www.crunchbase.com/organization/verge-genomics
 crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/verge-genomics
 linkedin_verified: true
+total_raised_m: 148.0
 ---
 
 # Verge Genomics

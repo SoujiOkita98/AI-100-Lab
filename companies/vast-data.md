@@ -5,8 +5,6 @@ founded: 2016
 headquarters: New York, NY (R&D center in Tel Aviv, Israel)
 website: https://www.vastdata.com
 status: Private
-latest_valuation: ~$30B (Series F, March 2026)
-total_funding: ~$1.38B
 founders:
 - name: Renen Hallak
   role: CEO
@@ -22,13 +20,12 @@ confidence: high
 funding_rounds:
 - stage: Series A
   date: 2018-03
-  amount_m: 25
-  lead_investors: []
+  amount_m: 25.0
   source: https://www.crunchbase.com/funding_round/vast-data-series-a--ac86d6f8
 - stage: Series B
   date: 2019-02
-  amount_m: 40
-  valuation_m: 400
+  amount_m: 40.0
+  valuation_m: 400.0
   lead_investors:
   - Goldman Sachs
   - 83North
@@ -37,27 +34,25 @@ funding_rounds:
   source: https://news.crunchbase.com/venture/vast-data-secures-100m-for-storage-triples-valuation-to-1-2b/
 - stage: Series C
   date: 2020-04
-  amount_m: 100
-  valuation_m: 1200
-  lead_investors: []
+  amount_m: 100.0
+  valuation_m: 1200.0
   source: https://news.crunchbase.com/venture/vast-data-secures-100m-for-storage-triples-valuation-to-1-2b/
 - stage: Series D
   date: 2021-05
-  amount_m: 83
-  valuation_m: 3700
-  lead_investors: []
+  amount_m: 83.0
+  valuation_m: 3700.0
   source: https://www.crunchbase.com/funding_round/vast-data-series-d--d8e5307b
 - stage: Series E
   date: 2023-12
-  amount_m: 118
-  valuation_m: 9100
+  amount_m: 118.0
+  valuation_m: 9100.0
   lead_investors:
   - Fidelity Management & Research
   source: https://www.vastdata.com/press-releases/vast-series-e-funding-triples-valuation
 - stage: Series F
   date: 2026-03
-  amount_m: 500
-  valuation_m: 30000
+  amount_m: 500.0
+  valuation_m: 30000.0
   lead_investors:
   - Nvidia
   - CapitalG (Alphabet)
@@ -71,6 +66,8 @@ crunchbase: https://www.crunchbase.com/organization/vast-data
 crunchbase_verified: true
 twitter: '@VAST_Data'
 linkedin_verified: true
+total_raised_m: 1380.0
+latest_valuation_m: 30000.0
 ---
 
 # VAST Data

@@ -1,16 +1,12 @@
 ---
 company: Uniphore
-legal_name: Uniphore Software Systems Inc.
 website: https://www.uniphore.com
-domain: uniphore.com
 one_liner: Enterprise conversational AI and business automation platform for contact centers, sales, and back-office workflows.
 sector: Enterprise AI / Conversational AI & Business Automation
 founded: 2008
 headquarters: Palo Alto, California (originally incubated at IIT Madras, India)
 ceo: Umesh Sachdev
 employees_approx: 1500+
-latest_valuation: $2.5B (Series F, October 2025)
-total_funding: ~$961M
 status: Private
 last_updated: 2026-03-20
 founders:
@@ -29,27 +25,27 @@ tags:
 funding_rounds:
 - stage: Series C
   date: 2019-08
-  amount_m: 51
+  amount_m: 51.0
   lead_investors:
   - March Capital Partners
   source: https://www.businesswire.com/news/home/20190813005334/en/Uniphore-Momentum-Raises-51-Million-Series-Funding
 - stage: Series D
   date: 2021-03
-  amount_m: 140
+  amount_m: 140.0
   lead_investors:
   - Sorenson Capital
   source: https://www.businesswire.com/news/home/20210331005484/en/Uniphore-Raises-140-Million-in-Series-D-Funding-as-Demand-Skyrockets-for-Enterprise-AI-and-Automation-Solutions
 - stage: Series E
   date: 2022-02
-  amount_m: 400
-  valuation_m: 2500
+  amount_m: 400.0
+  valuation_m: 2500.0
   lead_investors:
   - NEA
   source: https://www.crunchbase.com/funding_round/uniphore-series-e--159ea3e5
 - stage: Series F
   date: 2025-10
-  amount_m: 260
-  valuation_m: 2500
+  amount_m: 260.0
+  valuation_m: 2500.0
   lead_investors:
   - NVIDIA
   - AMD
@@ -61,6 +57,8 @@ crunchbase: https://www.crunchbase.com/organization/uniphore
 crunchbase_verified: true
 name: Uniphore
 linkedin_verified: true
+total_raised_m: 961.0
+latest_valuation_m: 2500.0
 ---
 
 # Uniphore -- Enterprise Conversational AI & Business Automation

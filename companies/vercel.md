@@ -1,6 +1,5 @@
 ---
 name: Vercel
-legal_name: Vercel Inc.
 former_name: ZEIT
 founded: 2015
 headquarters: San Francisco, CA
@@ -11,7 +10,6 @@ cofounders:
 - Naoyuki Kanezawa
 sector: Developer Tools / Frontend Cloud / AI Code Generation
 stage: Late-stage (Series F)
-latest_valuation: $9.3B (September 2025)
 total_funding: ~$863M across 6 rounds
 latest_round: Series F ($300M, September 2025)
 annual_recurring_revenue: $200M (May 2025)
@@ -53,41 +51,43 @@ funding_rounds:
   source: https://www.crunchbase.com/organization/vercel
 - stage: Series A
   date: 2020-04
-  amount_m: 21
+  amount_m: 21.0
   lead_investors:
   - Accel
   source: https://www.crunchbase.com/organization/vercel
 - stage: Series B
   date: 2020-12
-  amount_m: 40
+  amount_m: 40.0
   lead_investors:
   - GV
   source: https://www.crunchbase.com/organization/vercel
 - stage: Series C
   date: 2021-06
-  amount_m: 102
+  amount_m: 102.0
   lead_investors:
   - Bedrock Capital
   source: https://www.crunchbase.com/organization/vercel
 - stage: Series D
   date: 2021-11
-  amount_m: 150
+  amount_m: 150.0
   lead_investors:
   - GIC
   source: https://www.crunchbase.com/organization/vercel
 - stage: Series E
   date: 2024-05
-  amount_m: 250
+  amount_m: 250.0
   lead_investors:
   - Accel
   source: https://www.crunchbase.com/organization/vercel
 - stage: Series F
   date: 2025-09
-  amount_m: 300
+  amount_m: 300.0
   lead_investors:
   - Undisclosed
   source: https://www.crunchbase.com/organization/vercel
 linkedin_verified: true
+latest_valuation_m: 9300.0
+status: active
 ---
 
 # Vercel

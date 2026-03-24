@@ -26,7 +26,6 @@ total_funding: $64.2M
 latest_round: Series B
 latest_round_date: 2025-11-12
 latest_round_amount: $40M
-valuation: undisclosed
 status: Private
 last_updated: 2026-03-20
 one_liner: AI research lab building "human computing" -- real-time, emotionally intelligent AI humans that see, hear, speak,
@@ -44,13 +43,13 @@ funding_rounds:
   source: https://www.crunchbase.com/organization/tavus
 - stage: Series A
   date: '2024'
-  amount_m: 18
+  amount_m: 18.0
   lead_investors:
   - Benchmark
   source: https://www.crunchbase.com/organization/tavus
 - stage: Series B
   date: 2025-11
-  amount_m: 40
+  amount_m: 40.0
   lead_investors:
   - Menlo Ventures
   source: https://www.crunchbase.com/organization/tavus

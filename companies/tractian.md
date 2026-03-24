@@ -1,6 +1,5 @@
 ---
 company_name: Tractian
-legal_name: Tractian Technologies Inc.
 website: https://tractian.com
 sector: Manufacturing AI / Industrial AI
 founded: 2019
@@ -15,7 +14,6 @@ founders:
 - name: Leonardo Vieira
   role: Co-Founder
   origin: Brazilian
-latest_valuation: ~$720M (Dec 2024)
 total_funding_raised: ~$180M+
 employee_count_estimate: ~500 (uncertain)
 status: Private
@@ -24,25 +22,25 @@ funding_rounds:
 - stage: Seed
   date: 2021-06
   amount_m: 3.2
-  valuation_m: 15
+  valuation_m: 15.0
   lead_investors:
   - DGF Investimentos
   source: https://tractian.com/en/blog/tractian-raises-3-2-million-round
 - stage: Series A
   date: 2022-05
-  amount_m: 15
+  amount_m: 15.0
   lead_investors:
   - Next47
   source: https://techcrunch.com/2022/05/17/2314910/
 - stage: Series B
   date: 2023-08
-  amount_m: 45
+  amount_m: 45.0
   lead_investors:
   - General Catalyst
   source: https://tractian.com/en/blog/tractians-raises-45m-in-series-b
 - stage: Series C
   date: 2024-11
-  amount_m: 120
+  amount_m: 120.0
   lead_investors:
   - Sapphire Ventures
   source: https://news.crunchbase.com/venture/sapphire-led-raise-manufacturing-ai-startup-tractian/
@@ -55,6 +53,7 @@ linkedin: https://www.linkedin.com/company/get-tractian
 total_raised_m: 183.2
 name: Tractian
 linkedin_verified: true
+latest_valuation_m: 720.0
 ---
 
 # Tractian -- Company Profile

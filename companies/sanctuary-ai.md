@@ -37,7 +37,6 @@ funding_rounds:
   date: ''
 - stage: Series A
   date: 2022-03
-  amount_m: null
   lead_investors:
   - Magna International
   other_investors:

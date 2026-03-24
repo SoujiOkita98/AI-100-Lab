@@ -6,8 +6,6 @@ headquarters: Hangzhou, Zhejiang, China
 founder_ceo: Wang Xingxing
 sector: Robotics / Humanoid and Quadruped Robots
 stage: Pre-IPO (filed for Shanghai STAR board IPO, March 2026)
-reported_valuation_usd: ~$7B (targeted IPO valuation)
-total_funding_usd: ~$155M (pre-IPO)
 revenue_2025_usd: ~$140M (1B+ RMB, profitable since 2020)
 headcount: ~500+ (estimated)
 key_products:
@@ -29,7 +27,7 @@ confidence_note: Financial figures from press reports and company statements to 
 funding_rounds:
 - stage: Series B
   date: 2024-02
-  amount_m: 139
+  amount_m: 139.0
   lead_investors:
   - Source Code Capital
   - Goldstone Investment
@@ -37,8 +35,8 @@ funding_rounds:
   source: https://www.dealstreetasia.com/stories/unitree-robotics-funding-384816
 - stage: Series C
   date: 2025-06
-  amount_m: 96
-  valuation_m: 1650
+  amount_m: 96.0
+  valuation_m: 1650.0
   lead_investors:
   - China Mobile Capital
   - Tencent
@@ -53,6 +51,9 @@ crunchbase: https://www.crunchbase.com/organization/unitree-robotics
 crunchbase_verified: true
 twitter: '@UnitreeRobotics'
 linkedin_verified: true
+total_raised_m: 155.0
+latest_valuation_m: 7000.0
+status: active
 ---
 
 # Unitree Robotics

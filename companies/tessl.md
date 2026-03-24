@@ -1,14 +1,11 @@
 ---
 company_name: Tessl
-legal_name: Tessl Ltd.
 founded: 2024
 headquarters: London, United Kingdom
 sector: AI-Powered Developer Tools
 sub_sector: Autonomous Software Development / Spec-Driven Development
 website: https://tessl.io
 status: Private (Series A)
-valuation: ~$750M (post-money, November 2024)
-total_funding: $125M
 employee_count: ~21-50 (2024-2025)
 key_investors:
 - Index Ventures
@@ -22,15 +19,15 @@ confidence: high
 funding_rounds:
 - stage: Seed
   date: 2024-04
-  amount_m: 25
+  amount_m: 25.0
   lead_investors:
   - boldstart ventures
   - GV
   source: https://tessl.io/blog/announcing-our-series-a
 - stage: Series A
   date: 2024-11
-  amount_m: 100
-  valuation_m: 750
+  amount_m: 100.0
+  valuation_m: 750.0
   lead_investors:
   - Index Ventures
   source: https://techcrunch.com/2024/11/14/tessl-raises-125m/
@@ -47,6 +44,8 @@ crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/tessl/
 name: Tessl
 linkedin_verified: true
+total_raised_m: 125.0
+latest_valuation_m: 750.0
 ---
 
 # Tessl

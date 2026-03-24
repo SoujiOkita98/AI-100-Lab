@@ -1,11 +1,9 @@
 ---
 company: Tenstorrent
-legal_name: Tenstorrent Inc.
 founded: 2016
 headquarters: Toronto, Ontario, Canada (with offices in Austin, TX and Santa Clara, CA)
 sector: AI Hardware / Semiconductors / RISC-V IP Licensing
 stage: Growth (Series D+)
-latest_valuation: $3.2 billion (2025 round led by Fidelity)
 total_funding: ~$1.18 billion (across 10 rounds)
 employees: ~400+ (estimate)
 website: https://tenstorrent.com
@@ -33,32 +31,33 @@ total_raised_m: 1180
 funding_rounds:
 - stage: Early rounds
   date: 2016-2020
-  amount_m: 87
+  amount_m: 87.0
   lead_investors:
   - Real Ventures
   - Eclipse Ventures
   source: https://www.crunchbase.com/organization/tenstorrent
 - stage: Series C
   date: 2021-05
-  amount_m: 200
+  amount_m: 200.0
   lead_investors:
   - Fidelity
   source: https://www.crunchbase.com/organization/tenstorrent
 - stage: Series D
   date: 2024-12
-  amount_m: 693
+  amount_m: 693.0
   lead_investors:
   - Samsung Securities
   - AFW Partners
   source: https://www.crunchbase.com/organization/tenstorrent
 - stage: Follow-on
   date: '2025'
-  amount_m: 200
+  amount_m: 200.0
   lead_investors:
   - Fidelity
   source: https://www.crunchbase.com/organization/tenstorrent
 name: Tenstorrent
 linkedin_verified: true
+status: active
 ---
 
 # Tenstorrent

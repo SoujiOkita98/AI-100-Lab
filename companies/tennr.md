@@ -1,14 +1,11 @@
 ---
 name: Tennr
-legal_name: Tennr Inc.
 founded: 2021
 headquarters: New York, NY
 website: https://www.tennr.com
 product: AI-powered healthcare document processing and patient referral automation
 sector: AI / Healthcare / Document Automation
 stage: Series C
-latest_valuation: $605M (Jun 2025)
-total_funding: ~$156M+
 status: Active, Private
 founders:
 - name: Tyler Hoffman
@@ -28,26 +25,26 @@ key_investors:
 funding_rounds:
 - stage: Seed
   date: 2023-01
-  amount_m: 3.25
+  amount_m: 3.2
   lead_investors:
   - Y Combinator
   source: https://www.crunchbase.com/organization/tennr
 - stage: Series A
   date: 2024-03
-  amount_m: 18
+  amount_m: 18.0
   lead_investors:
   - Andreessen Horowitz
   source: https://techstartups.com/2024/03/26/healthtech-startup-tennr-raises-18m/
 - stage: Series B
   date: 2024-10
-  amount_m: 37
+  amount_m: 37.0
   lead_investors:
   - Lightspeed Venture Partners
   source: https://www.fiercehealthcare.com/health-tech/tennr-clinches-101m/
 - stage: Series C
   date: 2025-06
-  amount_m: 101
-  valuation_m: 605
+  amount_m: 101.0
+  valuation_m: 605.0
   lead_investors:
   - IVP
   source: https://fortune.com/2025/06/18/tennr-health-tech-ai-patient-referral/
@@ -58,6 +55,8 @@ crunchbase: https://www.crunchbase.com/organization/tennr
 crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/tennr/
 linkedin_verified: true
+total_raised_m: 156.0
+latest_valuation_m: 605.0
 ---
 
 # Tennr

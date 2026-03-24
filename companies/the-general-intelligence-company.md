@@ -1,8 +1,6 @@
 ---
 name: The General Intelligence Company
-slug: the-general-intelligence-company
 website: https://www.generalintelligencecompany.com
-domain: generalintelligencecompany.com
 founded: 2024
 headquarters: New York, NY
 sector: AI / AGI / Business Automation
@@ -12,21 +10,24 @@ status: Private
 founders:
 - name: Andrew Pignanelli
   role: Co-Founder & CEO
-  background: Originally from Salt Lake City, now based in New York. Previously built Velvet, a retrieval-augmented intelligence system for private equity firms.
+  background: Originally from Salt Lake City, now based in New York. Previously built Velvet, a retrieval-augmented intelligence
+    system for private equity firms.
 - name: Abhishyant Khar
   role: Co-Founder
   background: Technical co-founder working on autonomous AI agent systems.
 last_updated: 2026-03-23
 confidence: high
-one_liner: Applied AI lab building Cofounder, an AI chief-of-staff platform that enables one-person billion-dollar companies by fully automating business operations with autonomous agents
-data_notes: 'Working toward demonstrating a software company entirely run by agents by 2026. Pre-seed from Compound/Acrew, seed led by USV.'
+one_liner: Applied AI lab building Cofounder, an AI chief-of-staff platform that enables one-person billion-dollar companies
+  by fully automating business operations with autonomous agents
+data_notes: Working toward demonstrating a software company entirely run by agents by 2026. Pre-seed from Compound/Acrew,
+  seed led by USV.
 crunchbase: https://www.crunchbase.com/organization/agi-b598
 linkedin: https://www.linkedin.com/company/the-general-intelligence-company
 total_raised_m: 10.7
 funding_rounds:
 - stage: Pre-Seed
   date: 2025-04
-  amount_m: 2
+  amount_m: 2.0
   lead_investors:
   - Compound
   - Acrew Capital

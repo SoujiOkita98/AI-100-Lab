@@ -7,7 +7,6 @@ founded: 2016
 headquarters: San Francisco, CA
 ceo: Chris Mansi, MD
 employees: ~325 (estimated, 2024)
-latest_valuation: $1.2B (Series D, Apr 2022)
 total_funding: ~$252M-$289M (sources vary)
 stage: Series D
 status: Private (unicorn)
@@ -31,38 +30,39 @@ total_raised_m: 252
 funding_rounds:
 - stage: Seed
   date: '2017'
-  amount_m: 7
+  amount_m: 7.0
   lead_investors:
   - Lightspeed Venture Partners
   source: https://www.crunchbase.com/organization/viz-ai
 - stage: Series A
   date: '2019'
-  amount_m: 21
+  amount_m: 21.0
   lead_investors:
   - GV
   - CRV
   source: https://www.crunchbase.com/organization/viz-ai
 - stage: Series B
   date: '2020'
-  amount_m: 29
+  amount_m: 29.0
   lead_investors:
   - Scale Venture Partners
   source: https://www.crunchbase.com/organization/viz-ai
 - stage: Series C
   date: '2021'
-  amount_m: 71
+  amount_m: 71.0
   lead_investors:
   - Insight Partners
   source: https://www.crunchbase.com/organization/viz-ai
 - stage: Series D
   date: 2022-04
-  amount_m: 100
+  amount_m: 100.0
   lead_investors:
   - Tiger Global
   source: https://www.crunchbase.com/organization/viz-ai
 data_notes: Total ~$252-289M (sources vary). Unicorn status at $1.2B valuation (Series D).
 name: Viz.ai
 linkedin_verified: true
+latest_valuation_m: 1200.0
 ---
 
 # Viz.ai

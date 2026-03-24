@@ -5,8 +5,6 @@ founded: 2024
 headquarters: San Francisco Bay Area, CA
 ceo: Marc Tessier-Lavigne
 employees: ~100+ (estimated)
-latest_valuation: $4B (Series A, Apr 2024)
-total_funding: $1B
 stage: Series A
 status: Private
 website: https://xaira.com
@@ -14,7 +12,7 @@ last_updated: 2026-03-20
 funding_rounds:
 - stage: Series A
   date: 2024-04
-  amount_m: 1000
+  amount_m: 1000.0
   lead_investors:
   - ARCH Venture Partners
   - Foresite Capital
@@ -48,6 +46,8 @@ crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/xaira-therapeutics
 name: Xaira Therapeutics
 linkedin_verified: true
+total_raised_m: 1000.0
+latest_valuation_m: 4000.0
 ---
 
 # Xaira Therapeutics

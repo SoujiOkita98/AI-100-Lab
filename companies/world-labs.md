@@ -16,8 +16,8 @@ latest_valuation_m: 5000
 funding_rounds:
 - stage: Seed / Series A
   date: 2024-09
-  amount_m: 230
-  valuation_m: 1000
+  amount_m: 230.0
+  valuation_m: 1000.0
   lead_investors:
   - Andreessen Horowitz
   - NEA
@@ -28,8 +28,8 @@ funding_rounds:
     Reid Hoffman, Eric Schmidt, and Ashton Kutcher.
 - stage: Series B
   date: 2026-02
-  amount_m: 1000
-  valuation_m: ~5000
+  amount_m: 1000.0
+  valuation_m: 5000.0
   lead_investors:
   - Andreessen Horowitz
   - Autodesk

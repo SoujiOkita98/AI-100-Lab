@@ -6,7 +6,7 @@ status: active
 funding_rounds:
 - stage: Seed
   date: 2024-01
-  amount_m: 3.28
+  amount_m: 3.3
 - stage: Seed
   date: 2025-06
   amount_m: 6.5

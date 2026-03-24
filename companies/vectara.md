@@ -17,15 +17,12 @@ latest_valuation_m: null
 funding_rounds:
 - stage: Seed
   date: 2022-10
-  amount_m: 20
-  valuation_m: null
-  lead_investors: []
+  amount_m: 20.0
   source: https://tracxn.com/d/companies/vectara/__B2HorZ0b9oeKtrr4S1EDjqD-0h8QipBkMx5sL3VtgNk/funding-and-investors
   notes: Initial seed round as Vectara launched out of stealth.
 - stage: Seed (extension)
   date: 2023-05
   amount_m: 28.5
-  valuation_m: null
   lead_investors:
   - Race Capital
   source: https://tracxn.com/d/companies/vectara/__B2HorZ0b9oeKtrr4S1EDjqD-0h8QipBkMx5sL3VtgNk/funding-and-investors
@@ -33,8 +30,7 @@ funding_rounds:
     Equity, Mack Ventures.
 - stage: Series A
   date: 2024-07
-  amount_m: 25
-  valuation_m: null
+  amount_m: 25.0
   lead_investors:
   - FPV Ventures
   - Race Capital
