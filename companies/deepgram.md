@@ -9,28 +9,27 @@ status: active
 funding_rounds:
 - stage: Seed
   date: 2016-03
-  amount_m: null
   lead_investors:
   - Y Combinator
   source: https://www.crunchbase.com/organization/deepgram
   notes: Amount undisclosed.
 - stage: Series A
   date: 2020
-  amount_m: 12
+  amount_m: 12.0
   lead_investors:
   - Wing VC
   source: https://deepgram.com/learn/deepgram-series-a
   notes: Participation from NVIDIA, Y Combinator, Compound, SAP.iO.
 - stage: Series B
   date: 2022
-  amount_m: 72
+  amount_m: 72.0
   lead_investors:
   - Madrona
   - Alkeon
   source: https://deepgram.com/learn/deepgram-72-million-series-b-defines-future-of-AI-speech-understanding
 - stage: Series C
   date: 2026-01
-  amount_m: 130
+  amount_m: 130.0
   lead_investors:
   - AVP
   source: https://techcrunch.com/2026/01/13/deepgram-raises-130m-at-1-3b-valuation-and-buys-a-yc-ai-startup/

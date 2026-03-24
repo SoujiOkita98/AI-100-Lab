@@ -1,11 +1,9 @@
 ---
 company: David AI
-legal_name: David AI Inc.
 founded: 2024
 headquarters: San Francisco, CA
 sector: AI Infrastructure / Audio Data
 stage: Series B
-latest_valuation: ~$500M (October 2025)
 total_funding: ~$80M
 founders:
 - name: Tomer Cohen
@@ -46,25 +44,27 @@ total_raised_m: 80
 funding_rounds:
 - stage: Seed
   date: 2025-01
-  amount_m: 5
+  amount_m: 5.0
   lead_investors:
   - First Round Capital
   source: https://www.crunchbase.com/organization/david-ai
 - stage: Series A
   date: 2025-05
-  amount_m: 25
+  amount_m: 25.0
   lead_investors:
   - Alt Capital
   - Amplify Partners
   source: https://www.crunchbase.com/organization/david-ai
 - stage: Series B
   date: 2025-10
-  amount_m: 50
+  amount_m: 50.0
   lead_investors:
   - Meritech Capital
   source: https://www.crunchbase.com/organization/david-ai
 name: David AI
 linkedin_verified: true
+latest_valuation_m: 500.0
+status: active
 ---
 
 # David AI

@@ -1,15 +1,11 @@
 ---
 company: DevRev
-legal_name: DevRev Inc.
 website: https://devrev.ai
-domain: devrev.ai
 sector: Enterprise AI / AI-Native CRM & Developer Platform
 founded: 2020
 headquarters: Palo Alto, California
 ceo: Dheeraj Pandey
 employees_approx: 500+
-latest_valuation: $1.15B (Series A, July 2024)
-total_funding: ~$158M
 status: Private
 last_updated: 2026-03-20
 founders:
@@ -30,15 +26,15 @@ tags:
 funding_rounds:
 - stage: Seed
   date: 2021-07
-  amount_m: 50
+  amount_m: 50.0
   lead_investors:
   - Khosla Ventures
   - Mayfield Fund
   source: https://devrev.ai/blog/devrev-launches-with-dollar50-million-in-seed-funding
 - stage: Series A
   date: 2024-07
-  amount_m: 100
-  valuation_m: 1150
+  amount_m: 100.0
+  valuation_m: 1150.0
   lead_investors:
   - Khosla Ventures
   - Mayfield Fund
@@ -49,6 +45,8 @@ crunchbase: https://www.crunchbase.com/organization/devrev
 crunchbase_verified: true
 name: DevRev
 linkedin_verified: true
+total_raised_m: 158.0
+latest_valuation_m: 1150.0
 ---
 
 # DevRev -- AI-Native CRM & Developer Platform

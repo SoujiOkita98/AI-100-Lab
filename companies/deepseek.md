@@ -14,8 +14,6 @@ founder_ceo: Liang Wenfeng
 parent_company: High-Flyer (Hangzhou High-Flyer Capital Management)
 sector: Foundation Models / Large Language Models
 stage: Growth (self-funded via parent hedge fund; one reported Series C)
-reported_valuation_usd: ~3.4B
-total_funding_usd: ~1.1B
 headcount: ~150-200
 key_models:
 - DeepSeek-V2 (2024)
@@ -33,7 +31,7 @@ confidence_note: Financial figures (valuation, revenue, funding) come from press
 funding_rounds:
 - stage: Internal / Proprietary Funding
   date: 2023-07
-  amount_m: 1100
+  amount_m: 1100.0
   lead_investors:
   - High-Flyer Quantitative Investment (Liang Wenfeng)
   source: https://techcrunch.com/2025/03/10/deepseek-isnt-taking-vc-money-yet-here-are-3-reasons-why/
@@ -46,6 +44,9 @@ twitter: '@deepseek_ai'
 crunchbase: https://www.crunchbase.com/organization/deepseek
 crunchbase_verified: true
 linkedin_verified: true
+total_raised_m: 1100.0
+latest_valuation_m: 3400.0
+status: active
 ---
 
 # DeepSeek

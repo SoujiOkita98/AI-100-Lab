@@ -1,16 +1,10 @@
 ---
 company_name: DeepL
-legal_name: DeepL SE
-slug: deepl
 website: https://www.deepl.com
-domain: deepl.com
-hq_city: Cologne
-hq_country: Germany
 additional_offices:
 - London, UK
 - New York, NY, USA (unconfirmed -- likely US presence given IPO plans)
 founded: '2017'
-incorporated_country: Germany
 sector: Artificial Intelligence
 sub_sector: Machine Translation / Language AI
 business_model: Freemium SaaS (tiered subscriptions + API usage fees)
@@ -20,42 +14,26 @@ revenue_estimate: ~$185M (end of 2024); 2025/2026 figures not publicly disclosed
 founders:
 - name: Jaroslaw (Jarek) Kutylowski
   role: CEO (since 2019; previously CTO)
-  nationality: Polish (raised in Germany)
-  education:
-  - PhD in Computer Science (emphasis on mathematics) -- institution not publicly confirmed
-  prior_experience:
-  - CTO, Linguee (2012-2017)
-  source: https://www.porta-polonica.de/en/atlas-of-remembrance-places/grounded-visionary-deepl-founder-jaroslaw-kutylowski
+  background: PhD in Computer Science (emphasis on mathematics) -- institution not publicly confirmed CTO, Linguee (2012-2017)
   origin: Polish
 - name: Gereon Frahling
   role: Former Head of Research (departed ~2019)
-  nationality: German
-  education:
-  - PhD (field unconfirmed)
-  prior_experience:
-  - Founder & CEO, Linguee (2009-2017)
-  - Research Scientist, Google
-  notes: Originally founded Linguee in 2009; left DeepL circa 2019. Now a professor and AI researcher.
-  source: https://www.linkedin.com/in/gereon-frahling-2b092082/
+  background: PhD (field unconfirmed) Founder & CEO, Linguee (2009-2017); Research Scientist, Google
   origin: German
 - name: Leonard Fink
   role: Co-founder (current role unclear)
-  nationality: German (unconfirmed)
-  prior_experience:
-  - Co-developed Linguee with Gereon Frahling
-  notes: Very little public information available on Fink's current involvement.
-  source: https://tracxn.com/d/companies/deepl/__mTFDDSjOlFbUE5DY_w1NWY3gI5ttRRBOXtV7p6GCqJE/founders-and-board-of-directors
+  background: Co-developed Linguee with Gereon Frahling
   origin: American
 funding_rounds:
 - stage: Seed / Early (details sparse)
   date: ~2017-2018
-  amount_usd: undisclosed
-  notes: Initial backing from Benchmark and btov Partners.
+  amount_m: null
   source: https://tracxn.com/d/companies/deepl/__mTFDDSjOlFbUE5DY_w1NWY3gI5ttRRBOXtV7p6GCqJE/funding-and-investors
+  notes: Initial backing from Benchmark and btov Partners.
 - stage: Series B (sometimes reported as Series A)
   date: 2023-01
-  amount_usd: ~$100M
-  valuation_usd: ~$1B (unicorn status)
+  amount_m: 0.0
+  valuation_m: 0.0
   lead_investors:
   - IVP
   other_investors:
@@ -65,8 +43,8 @@ funding_rounds:
   source: https://techcrunch.com/2023/01/11/deepl-the-ai-based-language-translator-raises-over-100m-at-a-1b-valuation/
 - stage: Series C (sometimes reported as Series B)
   date: 2024-05-22
-  amount_usd: $300M
-  valuation_usd: $2B
+  amount_m: 0.0
+  valuation_m: 0.0
   lead_investors:
   - Index Ventures
   other_investors:
@@ -75,9 +53,8 @@ funding_rounds:
   - IVP (existing)
   - Atomico (existing)
   - WiL (existing)
-  notes: Doubled valuation in ~16 months. Earmarked for B2B expansion and product development.
   source: https://techcrunch.com/2024/05/22/deepl-the-ai-language-translation-startup-nabs-300m-on-a-2b-valuation-to-focus-on-b2b-growth/
-total_funding_usd: ~$415M (across all rounds, per Tracxn)
+  notes: Doubled valuation in ~16 months. Earmarked for B2B expansion and product development.
 last_updated: 2026-03-20
 one_liner: DeepL is a German AI company specializing in machine translation and language AI tools, headquartered in Cologne,
   Germany
@@ -89,6 +66,7 @@ crunchbase_verified: true
 twitter: '@DeepLcom'
 name: DeepL
 linkedin_verified: true
+total_raised_m: 415.0
 ---
 
 # DeepL

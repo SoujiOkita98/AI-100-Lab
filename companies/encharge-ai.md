@@ -8,7 +8,7 @@ status: active
 funding_rounds:
 - stage: Series B
   date: 2025-02
-  amount_m: 100
+  amount_m: 100.0
   lead_investors:
   - NEA
 founders:
@@ -19,11 +19,9 @@ founders:
   origin: Indian-American
 - name: Felix Xiaochuan Lin
   role: Co-Founder
-  background: ''
   origin: Chinese
 - name: Zizhen Zhong
   role: Co-Founder
-  background: ''
   origin: Chinese
 last_updated: 2026-03-21
 confidence: medium

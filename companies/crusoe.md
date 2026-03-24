@@ -1,6 +1,5 @@
 ---
 name: Crusoe
-slug: crusoe
 sector: AI / GPU Cloud Infrastructure / Data Centers
 founded: 2018
 headquarters: Denver, Colorado
@@ -27,48 +26,47 @@ funding_rounds:
   source: https://tsginvest.com/crusoe-energy/
 - stage: Series A
   date: 2019-12
-  amount_m: 30
+  amount_m: 30.0
   lead_investors:
   - Bain Capital Ventures
   source: https://tracxn.com/d/companies/crusoe/
 - stage: Series B
   date: 2021-04
-  amount_m: 128
+  amount_m: 128.0
   lead_investors:
   - Valor Equity Partners
   source: https://www.crusoe.ai/resources/newsroom/crusoe-series-b
 - stage: Series C
   date: 2022-04
-  amount_m: 350
-  valuation_m: 1750
+  amount_m: 350.0
+  valuation_m: 1750.0
   lead_investors:
   - G2 Venture Partners
   source: https://news.crunchbase.com/venture/biggest-funding-rounds-ai-biotech-crusoe-insider/
 - stage: Series D
   date: 2024-12
-  amount_m: 600
-  valuation_m: 2800
+  amount_m: 600.0
+  valuation_m: 2800.0
   lead_investors:
   - Founders Fund
   source: https://www.crusoe.ai/resources/newsroom/crusoe-closes-series-d-funding
 - stage: Series E
   date: 2025-10
-  amount_m: 1375
-  valuation_m: 10000
+  amount_m: 1375.0
+  valuation_m: 10000.0
   lead_investors:
   - Valor Equity Partners
   - Mubadala Capital
   source: https://www.crusoe.ai/resources/newsroom/crusoe-announces-series-e-funding
 - stage: Debt Round
   date: 2025-03
-  amount_m: null
   lead_investors:
   - ORIX
   source: https://tracxn.com/d/companies/crusoe/
   notes: Conventional debt round. Amount undisclosed.
 - stage: Debt Round
   date: 2026-02
-  amount_m: 300
+  amount_m: 300.0
   lead_investors:
   - Undisclosed
   source: https://tracxn.com/d/companies/crusoe/

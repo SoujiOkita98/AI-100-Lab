@@ -16,25 +16,23 @@ founders:
 funding_rounds:
 - stage: Seed
   date: 2018
-  amount_m: null
   lead_investors:
   - Village Global
   source: https://www.crunchbase.com/organization/forethought-7dc2
 - stage: Series A
   date: 2019
-  amount_m: null
   lead_investors:
   - NEA
   source: https://www.crunchbase.com/organization/forethought-7dc2
 - stage: Series C
   date: 2021-12
-  amount_m: 65
+  amount_m: 65.0
   lead_investors:
   - STEADFAST Capital Ventures
   source: https://forethought.ai/blog/forethought-raises-65-million-series-c
 - stage: Series D
   date: 2025-05
-  amount_m: 25
+  amount_m: 25.0
   lead_investors:
   - Blue Cloud Ventures
   source: https://www.businesswire.com/news/home/20250513210776/en/

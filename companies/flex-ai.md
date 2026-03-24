@@ -1,6 +1,5 @@
 ---
 name: FlexAI
-legal_name: FlexAI SAS
 website: https://www.flex.ai
 one_liner: Universal AI compute platform that abstracts heterogeneous hardware architectures, enabling developers to train
   models faster and cheaper than traditional GPU clusters
@@ -35,6 +34,7 @@ funding_rounds:
   - Undisclosed
   source: https://www.crunchbase.com/organization/flex-ai
 linkedin_verified: true
+status: active
 ---
 
 # FlexAI

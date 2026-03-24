@@ -15,15 +15,12 @@ latest_valuation_m: null
 funding_rounds:
 - stage: Seed
   date: 2024
-  amount_m: 30
-  valuation_m: null
-  lead_investors: null
+  amount_m: 30.0
   source: https://techcrunch.com/2026/03/10/ai-network-startup-eridu-emerges-from-stealth-with-hefty-200m-series-a/
   notes: Pre-stealth seed funding.
 - stage: Series A
   date: 2026-03
-  amount_m: 200
-  valuation_m: null
+  amount_m: 200.0
   lead_investors:
   - Socratic Partners
   - John Doerr

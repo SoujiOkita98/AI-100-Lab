@@ -1,6 +1,5 @@
 ---
 name: Exa
-slug: exa
 sector: AI / Search Infrastructure / Data Retrieval
 founded: 2021
 headquarters: San Francisco, California
@@ -19,20 +18,20 @@ confidence: high
 funding_rounds:
 - stage: Seed
   date: '2022'
-  amount_m: 5
+  amount_m: 5.0
   lead_investors:
   - Y Combinator
   source: https://techcrunch.com/2024/07/16/exa-raises-17m/
 - stage: Series A
   date: 2024-07
-  amount_m: 17
+  amount_m: 17.0
   lead_investors:
   - Lightspeed Venture Partners
   source: https://exa.ai/blog/series-a
 - stage: Series B
   date: 2025-09
-  amount_m: 85
-  valuation_m: 700
+  amount_m: 85.0
+  valuation_m: 700.0
   lead_investors:
   - Benchmark
   source: https://exa.ai/blog/announcing-series-b

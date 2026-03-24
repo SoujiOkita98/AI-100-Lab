@@ -1,14 +1,11 @@
 ---
 name: CuspAI
-legal_name: CuspAI Ltd.
 founded: '2024'
 headquarters: Cambridge, UK
 website: https://www.cusp.ai
 product: AI-powered materials discovery platform ("search engine for new materials")
 sector: AI / Materials Science / Climate Tech
 stage: Series A
-latest_valuation: ~$520M (Sep 2025)
-total_funding: ~$130M
 status: Active, Private
 founders:
 - name: Dr. Chad Edwards
@@ -43,14 +40,14 @@ advisors:
 funding_rounds:
 - stage: Seed
   date: 2024-06
-  amount_m: 30
+  amount_m: 30.0
   lead_investors:
   - Hoxton Ventures
   source: https://www.crunchbase.com/funding_round/cuspai-seed--228e6690
 - stage: Series A
   date: 2025-09
-  amount_m: 100
-  valuation_m: 520
+  amount_m: 100.0
+  valuation_m: 520.0
   lead_investors:
   - NEA
   - Temasek
@@ -63,6 +60,8 @@ crunchbase: https://www.crunchbase.com/organization/cuspai
 crunchbase_verified: true
 twitter: '@cusp_ai'
 linkedin_verified: true
+total_raised_m: 130.0
+latest_valuation_m: 520.0
 ---
 
 # CuspAI

@@ -17,7 +17,6 @@ co_founders:
 - Zhang Yalin
 sector: AI Chips / Deep Learning Accelerators
 stage: Pre-IPO (entered IPO inquiry stage on Shanghai STAR Market, Feb 2026)
-total_funding_usd: ~$1.39B
 headcount: ~1,000+ (estimated)
 key_products:
 - CloudBlazer T20 (training chip)
@@ -37,7 +36,7 @@ funding_rounds:
   source: https://equalocean.com/analysis/201812171163
 - stage: Pre-Series A
   date: 2018-08
-  amount_m: 48
+  amount_m: 48.0
   lead_investors:
   - Tencent
   - ZhenFund
@@ -52,13 +51,13 @@ funding_rounds:
   source: https://www.crunchbase.com/funding_round/suiyuan-technology-series-a--bb5d4f43
 - stage: Series B
   date: 2020-05
-  amount_m: 99
+  amount_m: 99.0
   lead_investors:
   - SummitView Capital
   source: https://www.jumpstartmag.com/tencent-backed-ai-startup-enflame-bags-us100m-series-b/
 - stage: Series C
   date: 2021-01
-  amount_m: 278
+  amount_m: 278.0
   lead_investors:
   - Primavera Capital
   - CITIC Private Equity
@@ -67,7 +66,7 @@ funding_rounds:
   source: https://siliconangle.com/2023/09/28/chinese-ai-chipmaker-enflame-raises-237m-series-d-funding-round/
 - stage: Series D
   date: 2023-09
-  amount_m: 274
+  amount_m: 274.0
   lead_investors:
   - Tencent
   - Meitu
@@ -81,6 +80,8 @@ crunchbase: https://www.crunchbase.com/organization/enflame-technology
 crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/enflame
 linkedin_verified: true
+total_raised_m: 1390.0
+status: active
 ---
 
 # Enflame Technology

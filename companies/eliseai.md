@@ -1,6 +1,5 @@
 ---
 company_name: EliseAI
-legal_name: EliseAI Inc.
 website: https://eliseai.com
 sector: Real Estate AI / Healthcare AI
 founded: 2017
@@ -12,7 +11,6 @@ founders:
 - name: Stoyan (Tony) Stoyanov
   role: CTO & Co-Founder
   origin: Bulgarian
-latest_valuation: $2.2B (Aug 2025)
 total_funding_raised: ~$392M
 arr_estimate: ~$100M+ (2025)
 employee_count_estimate: ~200
@@ -21,8 +19,7 @@ last_updated: 2026-03-20
 funding_rounds:
 - stage: Seed
   date: 2019-03
-  amount_m: 1.93
-  lead_investors: []
+  amount_m: 1.9
   source: https://tracxn.com/d/companies/eliseai/
 - stage: Series A
   date: 2020-04
@@ -39,20 +36,20 @@ funding_rounds:
   source: https://aimgroup.com/2021/12/07/proptech-meetelise-secures-23-5-million-in-series-b-funding/
 - stage: Series C
   date: 2023-06
-  amount_m: 35
+  amount_m: 35.0
   lead_investors:
   - Point72 Private Investments
   source: https://www.businesswire.com/news/home/20230607005164/en/
 - stage: Series D
   date: 2024-08
-  amount_m: 75
+  amount_m: 75.0
   lead_investors:
   - Sapphire Ventures
   source: https://www.crunchbase.com/funding_round/meetelise-series-d--70cd4b5c
 - stage: Series E
   date: 2025-08
-  amount_m: 250
-  valuation_m: 2200
+  amount_m: 250.0
+  valuation_m: 2200.0
   lead_investors:
   - Andreessen Horowitz
   source: https://eliseai.com/blog/eliseai-raises-250m-series-e
@@ -65,6 +62,7 @@ crunchbase_verified: true
 total_raised_m: 391.9
 name: EliseAI
 linkedin_verified: true
+latest_valuation_m: 2200.0
 ---
 
 # EliseAI -- Company Profile

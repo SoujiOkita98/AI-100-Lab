@@ -7,7 +7,7 @@ status: active
 funding_rounds:
 - stage: Series B
   date: '2025'
-  amount_m: 103
+  amount_m: 103.0
   lead_investors:
   - Coatue
   - Andreessen Horowitz
@@ -19,11 +19,9 @@ founders:
 - name: Matt
   role: Co-Founder & CPO
   background: Founding engineer at Rubrik. Decade of experience building AI products.
-  origin: ''
 - name: David
   role: Co-Founder & Head of Engineering
   background: 10+ years in AI and machine learning.
-  origin: ''
 last_updated: 2026-03-21
 confidence: medium
 data_notes: 'Needs verification: website, founders, source_urls, headquarters. Profile may be incomplete.'

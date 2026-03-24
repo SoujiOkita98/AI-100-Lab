@@ -16,7 +16,7 @@ founders:
 funding_rounds:
 - stage: Seed (SEC Form D)
   date: 2026-03
-  amount_m: 0.325
+  amount_m: 0.3
 last_updated: 2026-03-21
 confidence: medium
 data_notes: 'Needs verification: website, source_urls. Profile may be incomplete.'

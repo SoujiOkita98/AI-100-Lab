@@ -12,9 +12,7 @@ founders:
 ceo: Laura Burkhauser
 ceo_since: August 2025
 employees: ~188 (as of February 2026)
-total_funding: ~$100M
 latest_round: Series C ($50M, November 2022)
-latest_valuation: ~$550M (reported at Series C, unconfirmed by company)
 key_investors:
 - OpenAI Startup Fund (Series C lead)
 - Andreessen Horowitz (Seed onward)
@@ -30,28 +28,28 @@ confidence_notes: Revenue figures beyond the $55M disclosed by Mason are third-p
 funding_rounds:
 - stage: Seed
   date: 2017-12
-  amount_m: 5
+  amount_m: 5.0
   lead_investors:
   - Andreessen Horowitz
   source: https://www.crunchbase.com/organization/descript
 - stage: Series A
   date: 2019-09
-  amount_m: 15
+  amount_m: 15.0
   lead_investors:
   - Andreessen Horowitz
   - Redpoint Ventures
   source: https://www.crunchbase.com/organization/descript
 - stage: Series B
   date: 2021-02
-  amount_m: 30
-  valuation_m: 260
+  amount_m: 30.0
+  valuation_m: 260.0
   lead_investors:
   - Spark Capital
   source: https://vcnewsdaily.com/descript/venture-capital-funding/jqrtqtzdvp
 - stage: Series C
   date: 2022-11
-  amount_m: 50
-  valuation_m: 550
+  amount_m: 50.0
+  valuation_m: 550.0
   lead_investors:
   - OpenAI Startup Fund
   source: https://techcrunch.com/2022/11/15/ai-powered-media-editing-app-descript/
@@ -63,6 +61,8 @@ crunchbase: https://www.crunchbase.com/organization/descript
 crunchbase_verified: true
 name: Descript
 linkedin_verified: true
+total_raised_m: 100.0
+latest_valuation_m: 550.0
 ---
 
 # Descript

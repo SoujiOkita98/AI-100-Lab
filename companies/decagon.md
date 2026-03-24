@@ -7,24 +7,18 @@ headquarters: San Francisco, CA
 founders:
 - name: Jesse Zhang
   role: Co-Founder & CEO
-  background: 'B.S. Computer Science from Harvard University. Interned at Citadel, Google, Hudson River Trading, Intel, and
+  background: B.S. Computer Science from Harvard University. Interned at Citadel, Google, Hudson River Trading, Intel, and
     Kensho. Founded Lowkey, a social gaming startup backed by Y Combinator and a16z, which was acquired by Niantic (maker
     of Pokemon GO) in 2021 in a mid-eight-figure transaction. Worked on the Social team at Niantic post-acquisition. Forbes
     30 Under 30 (AI list). Grew up in Boulder, Colorado.
-
-    '
   origin: Chinese-American
 - name: Ashwin Sreenivas
   role: Co-Founder & CTO
-  background: 'B.S. and M.S. in Computer Science from Stanford University. Worked as Deployment Strategist at Palantir Technologies.
+  background: B.S. and M.S. in Computer Science from Stanford University. Worked as Deployment Strategist at Palantir Technologies.
     Co-founded Helia (AI startup acquired by Scale AI in December 2020), where he served as CTO. Deep expertise in AI/ML infrastructure
     and enterprise deployments.
-
-    '
   origin: Indian-American
 sector: Enterprise AI / Conversational AI / AI Customer Support Agents
-total_funding: ~$481M
-latest_valuation: $4.5B (January 2026)
 latest_arr: ~$35M+ annualized (October 2025 estimate; exact current figure undisclosed)
 employee_count: ~50-100 (estimate as of early 2026; exact figure not publicly confirmed)
 status: Private
@@ -33,34 +27,34 @@ confidence: high (well-funded, widely covered; some revenue/headcount figures ar
 funding_rounds:
 - stage: Seed
   date: 2024-06
-  amount_m: 5
+  amount_m: 5.0
   lead_investors:
   - Andreessen Horowitz
   source: https://www.globenewswire.com/news-release/2024/06/18/2900447/0/en/
 - stage: Series A
   date: 2024-06
-  amount_m: 30
+  amount_m: 30.0
   lead_investors:
   - Accel
   source: https://decagon.ai/resources/series-a
 - stage: Series B
   date: 2024-10
-  amount_m: 65
+  amount_m: 65.0
   lead_investors:
   - Bain Capital Ventures
   source: https://decagon.ai/resources/series-b
 - stage: Series C
   date: 2025-06
-  amount_m: 131
-  valuation_m: 1500
+  amount_m: 131.0
+  valuation_m: 1500.0
   lead_investors:
   - Accel
   - Andreessen Horowitz
   source: https://www.businesswire.com/news/home/20250623894798/en/
 - stage: Series D
   date: 2026-01
-  amount_m: 250
-  valuation_m: 4500
+  amount_m: 250.0
+  valuation_m: 4500.0
   lead_investors:
   - Coatue Management
   - Index Ventures
@@ -73,6 +67,8 @@ crunchbase_verified: true
 twitter: '@DecagonAI'
 name: Decagon AI, Inc.
 linkedin_verified: true
+total_raised_m: 481.0
+latest_valuation_m: 4500.0
 ---
 
 # Decagon

@@ -1,22 +1,18 @@
 ---
 company: Datacurve
-legal_name: Datacurve Inc.
 founded: 2024
 headquarters: San Francisco, CA
 sector: AI Infrastructure / Training Data
 stage: Series A
-latest_valuation: ~$150M (October 2025)
 total_funding: ~$18M
 founders:
 - name: Serena Ge
   role: Co-Founder
-  education: University of Waterloo (CS)
-  background: Former ML engineer intern at Cohere
+  background: Former ML engineer intern at Cohere University of Waterloo (CS)
   origin: Chinese-American
 - name: Charley Lee
   role: Co-Founder
-  education: University of Waterloo (CS)
-  background: Former intern at Google; AI research on multi-modal RL and browser-use agents
+  background: Former intern at Google; AI research on multi-modal RL and browser-use agents University of Waterloo (CS)
   origin: Chinese-American or Korean-American
 notable_investors:
 - Chemistry VC (Series A lead)
@@ -49,12 +45,14 @@ funding_rounds:
   source: https://www.crunchbase.com/organization/datacurve
 - stage: Series A
   date: 2025-10
-  amount_m: 15
+  amount_m: 15.0
   lead_investors:
   - Chemistry VC
   source: https://www.crunchbase.com/organization/datacurve
 name: Datacurve
 linkedin_verified: true
+latest_valuation_m: 150.0
+status: active
 ---
 
 # Datacurve

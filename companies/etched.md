@@ -1,11 +1,9 @@
 ---
 company: Etched
-legal_name: Etched Inc.
 founded: 2022
 headquarters: Cupertino, California, USA
 sector: AI Hardware / Semiconductors (Inference ASICs)
 stage: Growth (Series B)
-latest_valuation: $5 billion (Series B, January 2026)
 total_funding: ~$625 million
 employees: ~50-100 (estimate)
 website: https://etched.com
@@ -34,25 +32,26 @@ total_raised_m: 625
 funding_rounds:
 - stage: Seed
   date: 2023-03
-  amount_m: 5.36
+  amount_m: 5.4
   lead_investors:
   - Primary Venture Partners
   source: https://www.crunchbase.com/organization/etched
 - stage: Series A
   date: 2024-06
-  amount_m: 120
+  amount_m: 120.0
   lead_investors:
   - Peter Thiel
   - Primary VC
   source: https://www.crunchbase.com/organization/etched
 - stage: Series B
   date: 2026-01
-  amount_m: 500
+  amount_m: 500.0
   lead_investors:
   - Stripes
   source: https://www.crunchbase.com/organization/etched
 name: Etched
 linkedin_verified: true
+status: active
 ---
 
 # Etched

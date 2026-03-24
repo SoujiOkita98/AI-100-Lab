@@ -51,15 +51,12 @@ key_people:
 funding_rounds:
 - stage: Seed / Early Grants
   date: 2015–2017
-  amount_m: null
-  valuation_m: null
   lead_investors:
   - ONAMI (Oregon Nanoscience and Microtechnologies Institute)
   source: https://onami.us/onami-success-stories/agility-robotics
 - stage: Series A
   date: '2018'
   amount_m: 8.0
-  valuation_m: null
   lead_investors:
   - Playground Global
   other_investors:
@@ -69,7 +66,6 @@ funding_rounds:
 - stage: Series B
   date: 2022-04
   amount_m: 150.0
-  valuation_m: null
   lead_investors:
   - DCVC
   - Playground Global
@@ -89,7 +85,6 @@ funding_rounds:
 - stage: Series C
   date: 2025-03
   amount_m: 400.0
-  valuation_m: null
   lead_investors:
   - WP Global Partners
   other_investors:
@@ -107,8 +102,6 @@ funding_rounds:
     '
 - stage: Undisclosed Round
   date: 2025-09
-  amount_m: null
-  valuation_m: null
   lead_investors:
   - '[not disclosed]'
   source: https://tracxn.com/d/companies/agilityrobotics/__zWyvO8soXb6xhR16FWzvRmbHXslWot5BI_JRbmtdaF0/funding-and-investors

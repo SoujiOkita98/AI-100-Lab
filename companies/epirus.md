@@ -13,34 +13,27 @@ latest_valuation_m: 1350
 funding_rounds:
 - stage: Seed
   date: 2019-01
-  amount_m: null
-  valuation_m: null
-  lead_investors: []
   source: https://research.contrary.com/company/epirus
 - stage: Series A
   date: 2020-06
   amount_m: 6.5
-  valuation_m: null
-  lead_investors: []
   source: https://research.contrary.com/company/epirus
 - stage: Series B
   date: 2021-06
-  amount_m: 70
-  valuation_m: null
+  amount_m: 70.0
   lead_investors:
   - 8VC
   source: https://www.epirusinc.com/press-releases/epirus-inc-raises-70m-in-series-b-funding-advancing-directed-energy-for-defense-and-commercial-applications
 - stage: Series C
   date: 2022-02
-  amount_m: 200
-  valuation_m: 1350
+  amount_m: 200.0
+  valuation_m: 1350.0
   lead_investors:
   - 8VC
   source: https://techstartups.com/2022/02/15/directed-energy-weapon-tech-startup-epirus-gets-200m-cash-infusion-develop-drone-zapping-weapons-u-s-military-now-valued-1-35-billion/
 - stage: Series D
   date: 2025-03
-  amount_m: 250
-  valuation_m: null
+  amount_m: 250.0
   lead_investors:
   - 8VC
   - Washington Harbour Partners

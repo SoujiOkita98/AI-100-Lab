@@ -7,13 +7,12 @@ status: active
 funding_rounds:
 - stage: Seed
   date: 2026-03
-  amount_m: 12
-  valuation_m: 100
+  amount_m: 12.0
+  valuation_m: 100.0
   lead_investors:
   - Long Journey Ventures
   - Soma Capital
   source: https://techcrunch.com/2026/03/18/this-startup-wants-to-make-enterprise-software-look-more-like-a-prompt/
-latest_valuation: 100
 founders:
 - name: Josh Sirota
   role: Co-Founder & CEO
@@ -39,6 +38,7 @@ crunchbase: https://www.crunchbase.com/organization/eragon-ai
 crunchbase_verified: true
 total_raised_m: 12.0
 linkedin_verified: true
+latest_valuation_m: 100.0
 ---
 
 # Eragon

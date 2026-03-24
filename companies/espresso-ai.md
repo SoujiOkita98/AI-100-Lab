@@ -1,8 +1,6 @@
 ---
 name: Espresso AI
-slug: espresso-ai
 website: https://espresso.ai
-domain: espresso.ai
 founded: 2023
 headquarters: New York, NY
 sector: AI / Cloud Cost Optimization / Data Infrastructure
@@ -24,15 +22,16 @@ founders:
   background: Technical co-founder.
 last_updated: 2026-03-23
 confidence: high
-one_liner: AI-powered SQL query optimization platform that reduces cloud data warehouse costs by up to 80% using generative AI, starting with Snowflake workloads
-data_notes: 'Seed includes pre-seed led by FirstMark and seed led by Daniel Gross and Nat Friedman.'
+one_liner: AI-powered SQL query optimization platform that reduces cloud data warehouse costs by up to 80% using generative
+  AI, starting with Snowflake workloads
+data_notes: Seed includes pre-seed led by FirstMark and seed led by Daniel Gross and Nat Friedman.
 crunchbase: https://www.crunchbase.com/organization/espresso-ai
 linkedin: https://www.linkedin.com/company/espresso-ai
 total_raised_m: 11
 funding_rounds:
 - stage: Seed
   date: 2024-05
-  amount_m: 11
+  amount_m: 11.0
   lead_investors:
   - Daniel Gross
   - Nat Friedman

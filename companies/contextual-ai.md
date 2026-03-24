@@ -1,6 +1,5 @@
 ---
 company: Contextual AI
-legal_name: Contextual AI Inc.
 founded: 2023
 headquarters: Mountain View, California
 sector: Enterprise AI / RAG Infrastructure
@@ -15,13 +14,13 @@ confidence_notes: Funding figures confirmed across Crunchbase, Tracxn, and press
 funding_rounds:
 - stage: Seed
   date: 2023-06
-  amount_m: 20
+  amount_m: 20.0
   lead_investors:
   - Bain Capital Ventures
   source: https://contextual.ai/blog/announcing-our-20m-seed-round
 - stage: Series A
   date: 2024-08
-  amount_m: 80
+  amount_m: 80.0
   lead_investors:
   - Greycroft
   - Bain Capital Ventures

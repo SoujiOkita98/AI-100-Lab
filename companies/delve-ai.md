@@ -7,12 +7,11 @@ status: active
 funding_rounds:
 - stage: Series A
   date: 2025-07
-  amount_m: 32
-  valuation_m: 300
+  amount_m: 32.0
+  valuation_m: 300.0
   lead_investors:
   - Insight Partners
   source: https://techcrunch.com/2025/07/22/21-year-old-mit-dropouts-raise-32m/
-latest_valuation: 300
 founders:
 - name: Karun Kaushik
   role: Co-Founder & CEO
@@ -33,6 +32,7 @@ crunchbase: https://www.crunchbase.com/organization/delve-ai
 crunchbase_verified: true
 total_raised_m: 32.0
 linkedin_verified: true
+latest_valuation_m: 300.0
 ---
 
 # Delve

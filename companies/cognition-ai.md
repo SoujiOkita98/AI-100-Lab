@@ -1,6 +1,5 @@
 ---
 name: Cognition AI (Cognition Labs)
-legal_name: Cognition AI, Inc.
 founded: '2023'
 headquarters: San Francisco, CA
 headcount: ~286 (as of Feb 2026)
@@ -8,21 +7,16 @@ website: https://cognition.ai
 product: Devin (autonomous AI software engineer) + Windsurf (AI-powered IDE, acquired Jul 2025)
 sector: AI / Developer Tools / Autonomous Coding Agents
 stage: Series C (latest round Sep 2025)
-latest_valuation: $10.2B (Sep 2025)
-total_funding: ~$696M+ (primary capital raised)
 status: Active, Private
 founders:
 - name: Scott Wu
   role: CEO
-  ethnicity: Chinese American
   origin: Chinese-American
 - name: Steven Hao
   role: CTO
-  ethnicity: Chinese American (unconfirmed — likely based on name/background)
   origin: Chinese-American
 - name: Walden Yan
   role: CPO
-  ethnicity: Chinese American
   origin: Chinese-American
 key_investors:
 - Founders Fund (Peter Thiel)
@@ -36,28 +30,28 @@ key_investors:
 funding_rounds:
 - stage: Series A
   date: 2024-03
-  amount_m: 21
+  amount_m: 21.0
   lead_investors:
   - Founders Fund
   source: https://www.crunchbase.com/funding_round/cognition-5bd7-series-a--b1a3ceba
 - stage: Series A Extension
   date: 2024-04
-  amount_m: 175
-  valuation_m: 2000
+  amount_m: 175.0
+  valuation_m: 2000.0
   lead_investors:
   - Founders Fund
   source: https://www.maginative.com/article/cognition-ai-raises-175m-at-2b-valuation-one-month-after-series-a/
 - stage: Series B
   date: 2025-03
-  amount_m: 100
-  valuation_m: 4000
+  amount_m: 100.0
+  valuation_m: 4000.0
   lead_investors:
   - 8VC
   source: https://www.bloomberg.com/news/articles/2025-03-18/cognition-ai-hits-4-billion-valuation-in-deal-led-by-lonsdale-s-firm
 - stage: Series C
   date: 2025-08
-  amount_m: 500
-  valuation_m: 9800
+  amount_m: 500.0
+  valuation_m: 9800.0
   lead_investors:
   - Founders Fund
   source: https://www.builtinsf.com/articles/cognition-raises-500m-9b-valuation-20250818
@@ -69,6 +63,8 @@ linkedin: https://www.linkedin.com/company/cognition-ai-labs
 crunchbase: https://www.crunchbase.com/organization/cognition-ai
 crunchbase_verified: true
 linkedin_verified: true
+total_raised_m: 696.0
+latest_valuation_m: 10200.0
 ---
 
 # Cognition AI

@@ -20,7 +20,6 @@ funding_rounds:
 - stage: Seed
   date: 2022-11
   amount_m: 5.5
-  valuation_m: null
   lead_investors:
   - Index Ventures
   source: https://www.cradle.bio/blog/cradle-raises-5m
@@ -28,8 +27,7 @@ funding_rounds:
     of Twist Bioscience).
 - stage: Series A
   date: 2023-11
-  amount_m: 24
-  valuation_m: null
+  amount_m: 24.0
   lead_investors:
   - Index Ventures
   source: https://www.indexventures.com/perspectives/biotech-startup-cradle-raises-24m-and-signs-partnerships-with-industry-leaders/
@@ -37,8 +35,7 @@ funding_rounds:
     (former CEO of Thomson Reuters, Lead Director at Merck).
 - stage: Series B
   date: 2024-11
-  amount_m: 73
-  valuation_m: null
+  amount_m: 73.0
   lead_investors:
   - IVP (Institutional Venture Partners)
   source: https://www.cradle.bio/blog/series-b

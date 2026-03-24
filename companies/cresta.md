@@ -1,6 +1,5 @@
 ---
 company_name: Cresta
-legal_name: Cresta Intelligence Inc.
 website: https://cresta.com
 sector: Contact Center AI / Customer Experience AI
 founded: 2018
@@ -15,7 +14,6 @@ founders:
 - name: Tim Shi
   role: Co-Founder
   origin: Chinese-American
-latest_valuation: ~$1.6B (Mar 2022, likely higher post-Series D)
 total_funding_raised: ~$282M
 employee_count_estimate: ~300 (uncertain)
 status: Private
@@ -23,26 +21,26 @@ last_updated: 2026-03-20
 funding_rounds:
 - stage: Series A
   date: 2020-02
-  amount_m: 15
+  amount_m: 15.0
   lead_investors:
   - Greylock Partners
   source: https://www.businesswire.com/news/home/20200203005562/en/
 - stage: Series B
   date: 2021-03
-  amount_m: 50
+  amount_m: 50.0
   lead_investors:
   - Sequoia Capital
   source: https://www.cbinsights.com/research/cresta-series-b-funding/
 - stage: Series C
   date: 2022-03
-  amount_m: 80
-  valuation_m: 1600
+  amount_m: 80.0
+  valuation_m: 1600.0
   lead_investors:
   - Tiger Global
   source: https://www.prnewswire.com/news-releases/cresta-raises-series-c/
 - stage: Series D
   date: 2024-11
-  amount_m: 125
+  amount_m: 125.0
   lead_investors:
   - Qatar Investment Authority
   - World Innovation Lab
@@ -56,6 +54,7 @@ crunchbase_verified: true
 total_raised_m: 270.0
 name: Cresta
 linkedin_verified: true
+latest_valuation_m: 1600.0
 ---
 
 # Cresta -- Company Profile

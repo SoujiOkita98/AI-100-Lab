@@ -1,6 +1,5 @@
 ---
 company_name: EvenUp
-legal_name: EvenUp Inc.
 website: https://www.evenuplaw.com
 one_liner: AI platform for personal injury law firms that automates demand letter drafting, medical bill summarization, and
   case workflow optimization
@@ -17,7 +16,6 @@ founders:
 - name: Raymond Mieszaniec
   role: COO & Co-Founder
   origin: American
-latest_valuation: $2B+ (Oct 2025)
 total_funding_raised: ~$385M
 employee_count_estimate: ~300 (uncertain)
 status: Private
@@ -31,21 +29,21 @@ funding_rounds:
   source: https://www.evenuplaw.com/blog/evenup-series-b
 - stage: Series C
   date: 2023-12
-  amount_m: 35
+  amount_m: 35.0
   lead_investors:
   - Lightspeed Venture Partners
   source: https://medium.com/@Connected_Dots/
 - stage: Series D
   date: 2024-10
-  amount_m: 135
-  valuation_m: 1000
+  amount_m: 135.0
+  valuation_m: 1000.0
   lead_investors:
   - Bain Capital Ventures
   source: https://news.crunchbase.com/venture/ai-legal-tech-evenup-unicorn-bain/
 - stage: Series E
   date: 2025-10
-  amount_m: 150
-  valuation_m: 2000
+  amount_m: 150.0
+  valuation_m: 2000.0
   lead_investors:
   - Bessemer Venture Partners
   source: https://www.evenuplaw.com/blog/evenup-2b-valuation/
@@ -57,6 +55,7 @@ twitter: '@evenuplaw'
 total_raised_m: 370.5
 name: EvenUp
 linkedin_verified: true
+latest_valuation_m: 2000.0
 ---
 
 # EvenUp -- Company Profile

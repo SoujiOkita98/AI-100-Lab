@@ -1,11 +1,9 @@
 ---
 company: d-Matrix
-legal_name: d-Matrix Corp.
 founded: 2019
 headquarters: Santa Clara, California, USA
 sector: AI Hardware / Semiconductors (In-Memory Compute)
 stage: Growth (Series C)
-latest_valuation: $2 billion (Series C, November 2025)
 total_funding: ~$450 million
 employees: ~200 (estimate)
 website: https://www.d-matrix.ai
@@ -30,19 +28,19 @@ total_raised_m: 450
 funding_rounds:
 - stage: Series A
   date: '2021'
-  amount_m: 65
+  amount_m: 65.0
   lead_investors:
   - Undisclosed
   source: https://www.crunchbase.com/organization/d-matrix
 - stage: Series B
   date: 2023-09
-  amount_m: 110
+  amount_m: 110.0
   lead_investors:
   - Temasek
   source: https://www.crunchbase.com/organization/d-matrix
 - stage: Series C
   date: 2025-11
-  amount_m: 275
+  amount_m: 275.0
   lead_investors:
   - Bullhound Capital
   - Triatomic Capital
@@ -50,6 +48,7 @@ funding_rounds:
   source: https://www.crunchbase.com/organization/d-matrix
 name: d-Matrix
 linkedin_verified: true
+status: active
 ---
 
 # d-Matrix

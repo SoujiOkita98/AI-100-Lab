@@ -1,13 +1,11 @@
 ---
 company_name: CodeRabbit
-legal_name: CodeRabbit Inc.
 founded: 2023
 headquarters: San Jose, CA
 sector: AI-Powered Developer Tools
 sub_sector: AI Code Review / Code Quality
 website: https://www.coderabbit.ai
 status: Private (Series B)
-valuation: ~$550M (post-money, September 2025)
 total_funding: $88M
 employee_count: ~24 (2025)
 key_investors:
@@ -36,24 +34,25 @@ total_raised_m: 88
 funding_rounds:
 - stage: Seed
   date: '2023'
-  amount_m: 12
+  amount_m: 12.0
   lead_investors:
   - CRV
   source: https://www.crunchbase.com/organization/coderabbit
 - stage: Series A
   date: 2024-08
-  amount_m: 16
+  amount_m: 16.0
   lead_investors:
   - CRV
   source: https://www.crunchbase.com/organization/coderabbit
 - stage: Series B
   date: 2025-09
-  amount_m: 60
+  amount_m: 60.0
   lead_investors:
   - Scale Venture Partners
   source: https://www.crunchbase.com/organization/coderabbit
 name: CodeRabbit
 linkedin_verified: true
+latest_valuation_m: 550.0
 ---
 
 # CodeRabbit

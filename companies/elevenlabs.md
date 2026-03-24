@@ -15,14 +15,12 @@ founders:
     (image detection); grew up in Warsaw, Poland
   origin: Polish
 employee_count: ~736 (as of Feb 2026)
-latest_valuation: $11B (Feb 2026)
-total_funding: ~$791M
 ipo_status: Aiming to be IPO-ready within 2-3 years (per Bloomberg, March 2026)
 funding_rounds:
 - stage: Pre-Seed
   date: 2023-01
-  amount: $2M
-  valuation: Undisclosed
+  amount_m: 2.0
+  valuation_m: null
   lead_investors:
   - Credo Ventures
   other_investors:
@@ -30,8 +28,8 @@ funding_rounds:
   source: https://tracxn.com/d/companies/elevenlabs/__Tvkv2vcQvT5RiO80KqXicawZyFtA-r7-J533YWuiDrM/funding-and-investors
 - stage: Series A
   date: 2023-06
-  amount: $19M
-  valuation: ~$100M
+  amount_m: 19.0
+  valuation_m: 100.0
   lead_investors:
   - Andreessen Horowitz
   - Nat Friedman
@@ -46,8 +44,8 @@ funding_rounds:
   source: https://elevenlabs.io/blog/elevenlabs-launches-new-generative-voice-ai-products-and-announces-19m-series-a-round-led-by-nat-friedman-daniel-gross-and-andreessen-horowitz
 - stage: Series B
   date: 2024-01
-  amount: $80M
-  valuation: $1.1B
+  amount_m: 80.0
+  valuation_m: 1100.0
   lead_investors:
   - Andreessen Horowitz
   - Nat Friedman
@@ -61,8 +59,8 @@ funding_rounds:
   source: https://techcrunch.com/2024/01/22/voice-cloning-startup-elevenlabs-lands-80m-achieves-unicorn-status/
 - stage: Series C
   date: 2025-01
-  amount: $180M
-  valuation: $3.3B
+  amount_m: 180.0
+  valuation_m: 3300.0
   lead_investors:
   - Andreessen Horowitz
   - ICONIQ Growth
@@ -78,8 +76,8 @@ funding_rounds:
   source: https://elevenlabs.io/blog/series-c
 - stage: Series D
   date: 2026-02
-  amount: $500M
-  valuation: $11B
+  amount_m: 500.0
+  valuation_m: 11000.0
   lead_investors:
   - Sequoia Capital
   other_investors:
@@ -97,6 +95,9 @@ twitter: '@ElevenLabs'
 crunchbase: https://www.crunchbase.com/organization/elevenlabs
 crunchbase_verified: true
 linkedin_verified: true
+total_raised_m: 791.0
+latest_valuation_m: 11000.0
+status: active
 ---
 
 # ElevenLabs

@@ -1,12 +1,9 @@
 ---
 name: Day AI
-slug: day-ai
-domain: day.ai
 founded: 2023
 headquarters: Sacramento, CA
 sector: AI / CRM / Sales Automation
 stage: Series A
-latest_valuation: Undisclosed
 total_funding_estimated: ~$24M
 revenue_arr: Undisclosed (early-stage)
 employees: Undisclosed (small team)
@@ -30,6 +27,7 @@ crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/day-ai
 total_raised_m: 28.0
 linkedin_verified: true
+funding_rounds: []
 ---
 
 # Day AI

@@ -1,8 +1,6 @@
 ---
 name: DeepJudge
-slug: deepjudge
 website: https://www.deepjudge.ai
-domain: deepjudge.ai
 founded: 2021
 headquarters: Zurich, Switzerland
 sector: AI / Legal Tech / Enterprise Search
@@ -12,17 +10,21 @@ status: Private
 founders:
 - name: Paulina Grnarova
   role: Co-Founder & CEO
-  background: Former Google Brain team. PhD in generative AI from ETH Zurich. Master's in CS from EPF Lausanne. Forbes 30 Under 30. Digital Shaper of Switzerland (3x).
+  background: Former Google Brain team. PhD in generative AI from ETH Zurich. Master's in CS from EPF Lausanne. Forbes 30
+    Under 30. Digital Shaper of Switzerland (3x).
 - name: Kevin Roth
   role: Co-Founder & COO
-  background: Former Google Brain (Berlin) and Microsoft Research (Cambridge). PhD in machine learning from ETH Zurich. ETH Medal in Physics.
+  background: Former Google Brain (Berlin) and Microsoft Research (Cambridge). PhD in machine learning from ETH Zurich. ETH
+    Medal in Physics.
 - name: Yannic Kilcher
   role: Co-Founder & CTO
-  background: Former Google AI Language. Runs the largest YouTube channel on ML research. Led development of OpenAssistant. PhD from ETH Zurich.
+  background: Former Google AI Language. Runs the largest YouTube channel on ML research. Led development of OpenAssistant.
+    PhD from ETH Zurich.
 last_updated: 2026-03-23
 confidence: high
-one_liner: AI-powered knowledge platform for law firms that connects document management systems, email, intranet, and client portals to retrieval-augmented AI agents for instant legal knowledge access
-data_notes: 'Swiss company founded by ex-Google/ETH Zurich PhDs. Strong enterprise traction with top law firms.'
+one_liner: AI-powered knowledge platform for law firms that connects document management systems, email, intranet, and client
+  portals to retrieval-augmented AI agents for instant legal knowledge access
+data_notes: Swiss company founded by ex-Google/ETH Zurich PhDs. Strong enterprise traction with top law firms.
 crunchbase: https://www.crunchbase.com/organization/deepjudge
 linkedin: https://www.linkedin.com/company/deepjudge
 total_raised_m: 52

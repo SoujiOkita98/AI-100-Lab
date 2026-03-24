@@ -1,8 +1,6 @@
 ---
 name: Conduct
-slug: conduct-ai
 website: https://www.conduct.tech
-domain: conduct.tech
 founded: 2024
 headquarters: London, UK
 sector: AI / Enterprise Software / ERP Modernization
@@ -21,15 +19,16 @@ founders:
   background: Former Palantir engineer with technical leadership experience.
 last_updated: 2026-03-23
 confidence: high
-one_liner: AI-powered platform that enables enterprises to engage directly with their legacy ERP environments, using AI agents to modernize and automate complex business operations
-data_notes: 'Founded by ex-Palantir engineers. Focuses on ERP modernization, not HR specifically.'
+one_liner: AI-powered platform that enables enterprises to engage directly with their legacy ERP environments, using AI agents
+  to modernize and automate complex business operations
+data_notes: Founded by ex-Palantir engineers. Focuses on ERP modernization, not HR specifically.
 crunchbase: https://www.crunchbase.com/organization/conduct
 linkedin: https://www.linkedin.com/company/conduct-ai
 total_raised_m: 12
 funding_rounds:
 - stage: Seed
   date: 2025-09
-  amount_m: 12
+  amount_m: 12.0
   lead_investors:
   - Creandum
   source: https://tech.eu/2025/09/18/conduct-emerges-from-stealth-to-transform-legacy-it-with-ai-agents/

@@ -9,18 +9,16 @@ status: active
 funding_rounds:
 - stage: Seed
   date: 2025-12
-  amount_m: 5
+  amount_m: 5.0
   lead_investors:
   - StageOne Ventures
   - Wix Ventures
 founders:
 - name: Nir Weingarten
   role: Co-Founder & CEO
-  background: ''
   origin: Israeli
 - name: Omer Hacohen
   role: Co-Founder & CTO
-  background: ''
   origin: Israeli
 last_updated: 2026-03-21
 confidence: medium

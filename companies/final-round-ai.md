@@ -1,29 +1,30 @@
 ---
 name: Final Round AI
-slug: final-round-ai
 website: https://www.finalroundai.com
-domain: finalroundai.com
 founded: 2023
 headquarters: San Francisco, CA
 sector: AI / HR Tech / Interview Preparation
 stage: Seed
 total_funding_estimated: ~$6.88M
 status: Private
-one_liner: AI-powered interview preparation and job search platform offering real-time interview coaching (Interview Copilot), mock interviews, and resume optimization to help job seekers land roles faster
+one_liner: AI-powered interview preparation and job search platform offering real-time interview coaching (Interview Copilot),
+  mock interviews, and resume optimization to help job seekers land roles faster
 total_raised_m: 6.88
 founders:
 - name: Michael Guan
   role: Co-Founder & CEO
-  background: Yale University. Former CTO at CYNK; previously in product marketing at Starburst Data (supported $250M Series D).
+  background: Yale University. Former CTO at CYNK; previously in product marketing at Starburst Data (supported $250M Series
+    D).
   origin: Unknown
 - name: Jay Ma
   role: Co-Founder & CTO
-  background: University of Illinois at Urbana-Champaign. Former ML engineer at Pinterest, Meta, and AMD. Reverse-engineered LinkedIn while in college.
+  background: University of Illinois at Urbana-Champaign. Former ML engineer at Pinterest, Meta, and AMD. Reverse-engineered
+    LinkedIn while in college.
   origin: Unknown
 funding_rounds:
 - stage: Seed
   date: 2025-01-30
-  amount_m: 6.88
+  amount_m: 6.9
   lead_investors:
   - Uncork Capital
   other_investors:
@@ -46,7 +47,8 @@ linkedin: https://www.linkedin.com/company/finalroundai
 linkedin_verified: true
 confidence: high
 last_updated: 2026-03-23
-data_notes: Only one known funding round (Seed). No pre-seed round publicly disclosed. About page mentions $8M total funding which may include undisclosed earlier capital or the scholarship fund.
+data_notes: Only one known funding round (Seed). No pre-seed round publicly disclosed. About page mentions $8M total funding
+  which may include undisclosed earlier capital or the scholarship fund.
 ---
 
 # Final Round AI

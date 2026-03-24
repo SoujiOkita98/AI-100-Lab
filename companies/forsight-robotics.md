@@ -1,7 +1,6 @@
 ---
 name: ForSight Robotics
 founded: 2018
-incorporated_country: Israel
 sector: Surgical Robotics / Medical AI
 employee_count_approx: ~110
 status: Private
@@ -10,18 +9,14 @@ last_updated: 2026-03-20
 founders:
 - name: Prof. Moshe Shoham
   role: Co-founder
-  background: 'Professor at the Technion - Israel Institute of Technology. Pioneer in medical robotics, previously co-founded
+  background: Professor at the Technion - Israel Institute of Technology. Pioneer in medical robotics, previously co-founded
     Mazor Robotics (acquired by Medtronic for $1.64B in 2018). One of the most accomplished surgical robotics entrepreneurs
     globally.
-
-    '
   origin: Israeli
 - name: Dr. Daniel Glozman
   role: Co-founder & CEO
-  background: 'Medical robotics expert with deep experience in surgical systems development. Leads ForSight''s commercialization
+  background: Medical robotics expert with deep experience in surgical systems development. Leads ForSight's commercialization
     and clinical trial strategy.
-
-    '
   origin: Israeli
 - name: Dr. Joseph Nathan
   role: Co-founder
@@ -29,18 +24,16 @@ founders:
 funding_rounds:
 - stage: Series A
   date: ~2022
-  amount: $70M (estimated total pre-Series B)
-  valuation: Unknown
-  lead_investors: []
-  other_investors: []
+  amount_m: 70.0
+  valuation_m: null
   source: https://www.crunchbase.com/organization/forsight-robotics
   notes: 'Early rounds to develop the ORYOM ophthalmic surgical robotics platform.
 
     '
 - stage: Series B
   date: 2025-06-24
-  amount: $125M
-  valuation: Unknown
+  amount_m: 125.0
+  valuation_m: null
   lead_investors:
   - Eclipse
   other_investors:
@@ -52,7 +45,6 @@ funding_rounds:
     a notable individual investor -- a strong endorsement from the godfather of surgical robotics.
 
     '
-total_known_funding: ~$195M
 one_liner: ForSight Robotics is an Israeli surgical robotics company developing the world's first robotic surgery platform
   specifically designed for cataract and ophthalmic (eye) surgery
 website_verified: true
@@ -61,6 +53,7 @@ crunchbase_verified: true
 headquarters: Yokneam Illit, Israel (relocating to Caesarea)
 linkedin: https://www.linkedin.com/company/forsight-robotics/
 linkedin_verified: true
+total_raised_m: 195.0
 ---
 
 # ForSight Robotics

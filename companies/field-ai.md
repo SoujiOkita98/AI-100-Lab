@@ -1,7 +1,6 @@
 ---
 name: FieldAI
 founded: 2016
-incorporated_country: USA
 sector: Embodied AI / Autonomous Robotics Software
 employee_count_approx: ~200
 status: Private
@@ -10,18 +9,15 @@ last_updated: 2026-03-20
 founders:
 - name: Ali Agha
   role: Founder & CEO
-  background: 'Spent nearly a decade at NASA''s Jet Propulsion Laboratory (JPL) specializing in robotics autonomy and physical
-    AI. Led teams that competed in the DARPA Subterranean Challenge. Built FieldAI''s core technology around enabling robots
+  background: Spent nearly a decade at NASA's Jet Propulsion Laboratory (JPL) specializing in robotics autonomy and physical
+    AI. Led teams that competed in the DARPA Subterranean Challenge. Built FieldAI's core technology around enabling robots
     to operate autonomously without GPS, maps, or pre-programmed routes.
-
-    '
   origin: Iranian-American
 funding_rounds:
 - stage: Earlier Rounds
   date: ~2024 (late)
-  amount: $91M
-  valuation: Unknown
-  lead_investors: []
+  amount_m: 91.0
+  valuation_m: null
   other_investors:
   - Gates Frontier
   - Samsung
@@ -33,8 +29,8 @@ funding_rounds:
     '
 - stage: Growth Round
   date: 2025-08-20
-  amount: $314M
-  valuation: ~$2B post-money
+  amount_m: 314.0
+  valuation_m: null
   lead_investors:
   - Bezos Expeditions
   - Prysm Capital
@@ -50,7 +46,6 @@ funding_rounds:
   notes: 'Brought total raised to over $405M. Backed by Bezos, Gates, and NVIDIA. Valuation close to $2 billion.
 
     '
-total_known_funding: ~$405M
 one_liner: FieldAI builds embodiment-agnostic autonomy software -- what the company calls "Field Foundation Models" (FFMs)
   -- that serve as a universal AI brain for mobile robots
 website_verified: true
@@ -59,6 +54,7 @@ crunchbase_verified: true
 headquarters: Irvine, California, USA
 linkedin: https://www.linkedin.com/company/fieldai/
 linkedin_verified: true
+total_raised_m: 405.0
 ---
 
 # FieldAI

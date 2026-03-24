@@ -1,6 +1,5 @@
 ---
 company_name: Continue
-legal_name: Continue Dev, Inc.
 founded: 2023
 headquarters: San Francisco, CA
 sector: AI-Powered Developer Tools
@@ -9,7 +8,6 @@ website: https://www.continue.dev
 one_liner: Open-source AI coding assistant for VS Code and JetBrains that provides source-controlled AI checks on every pull
   request to enforce team conventions
 status: Private (Seed)
-valuation: Undisclosed
 total_funding: ~$5.6M
 employee_count: ~10 (estimated, 2025)
 key_investors:
@@ -41,7 +39,7 @@ funding_rounds:
   source: https://www.crunchbase.com/organization/continue
 - stage: Seed
   date: 2025-02
-  amount_m: 3
+  amount_m: 3.0
   lead_investors:
   - Heavybit
   source: https://www.crunchbase.com/organization/continue

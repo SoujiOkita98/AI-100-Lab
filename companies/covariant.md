@@ -15,38 +15,34 @@ latest_valuation_m: 625
 funding_rounds:
 - stage: Seed
   date: 2017-11
-  amount_m: 7
-  valuation_m: null
+  amount_m: 7.0
   lead_investors:
   - Amplify Partners
   source: https://en.wikipedia.org/wiki/Covariant_(company)
   notes: Founded as Embodied Intelligence. Renamed to Covariant in 2019.
 - stage: Series A
   date: 2019-05
-  amount_m: 20
-  valuation_m: null
+  amount_m: 20.0
   lead_investors:
   - Index Ventures
   source: https://en.wikipedia.org/wiki/Covariant_(company)
 - stage: Series B
   date: 2020-05
-  amount_m: 40
-  valuation_m: null
+  amount_m: 40.0
   lead_investors:
   - Index Ventures
   source: https://covariant.ai/covariant-raises-usd40-million-in-series-b-funding-to-bring-ai-robotics-to-new-industries/
 - stage: Series C
   date: 2021-07
-  amount_m: 80
-  valuation_m: null
+  amount_m: 80.0
   lead_investors:
   - Index Ventures
   source: https://techcrunch.com/2021/07/27/robotic-ai-firm-covariant-raises-another-80-million/
   notes: Amplify Partners and Radical Ventures also participated.
 - stage: Series C extension
   date: 2023-04
-  amount_m: 75
-  valuation_m: 625
+  amount_m: 75.0
+  valuation_m: 625.0
   lead_investors:
   - Radical Ventures
   - Index Ventures
@@ -55,8 +51,7 @@ funding_rounds:
     funding to $222M. Valuation of $625M reported in whistleblower filings.
 - stage: Amazon reverse acquihire
   date: 2024-08
-  amount_m: 400
-  valuation_m: null
+  amount_m: 400.0
   lead_investors:
   - Amazon
   source: https://www.washingtonpost.com/technology/2025/01/18/amazon-antitrust-ai-whistleblower/

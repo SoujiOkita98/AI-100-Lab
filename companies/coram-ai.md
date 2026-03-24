@@ -9,7 +9,7 @@ status: active
 funding_rounds:
 - stage: Pre-Seed / Seed
   date: 2023-08
-  amount_m: 5.25
+  amount_m: 5.2
   lead_investors:
   - Battery Ventures
   - 8VC

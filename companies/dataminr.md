@@ -5,7 +5,6 @@ founded: 2009-04-01
 headquarters: New York, NY
 sector: AI / Real-Time Threat & Event Detection
 stage: Late-stage private (Pre-IPO)
-latest_valuation: ~$4.1B (Series F, 2021; secondary market estimates $3.8B-$4.3B as of early 2026)
 total_funding: ~$1.2B-$1.5B across 13+ rounds
 latest_round: Series F extension — $100M convertible from Fortress Investment Group (April 2025)
 annual_recurring_revenue: ~$200M-$222M (as of late 2024)
@@ -29,20 +28,18 @@ total_raised_m: 1240
 funding_rounds:
 - stage: Seed
   date: 2009-10
-  amount_m: 2
+  amount_m: 2.0
   lead_investors:
   - Undisclosed
   source: https://www.crunchbase.com/organization/dataminr
   notes: $1.98M seed round.
 - stage: Venture Round
   date: 2010-08
-  amount_m: null
   lead_investors:
   - Undisclosed
   source: https://www.crunchbase.com/organization/dataminr
 - stage: Series A
   date: 2011
-  amount_m: null
   lead_investors:
   - BoxGroup
   source: https://www.crunchbase.com/organization/dataminr
@@ -55,13 +52,12 @@ funding_rounds:
   source: https://www.crunchbase.com/organization/dataminr
 - stage: Series C
   date: 2013-06
-  amount_m: 34
+  amount_m: 34.0
   lead_investors:
   - IVP
   source: https://www.crunchbase.com/organization/dataminr
 - stage: Series D
   date: 2015-02
-  amount_m: null
   lead_investors:
   - Fidelity Investments
   - Goldman Sachs
@@ -69,7 +65,6 @@ funding_rounds:
   notes: Amount undisclosed.
 - stage: Series E
   date: 2018-05
-  amount_m: null
   lead_investors:
   - Vulcan Capital
   - Moore Strategic Ventures
@@ -77,21 +72,21 @@ funding_rounds:
   notes: Amount undisclosed.
 - stage: Series F
   date: 2021-03
-  amount_m: 475
+  amount_m: 475.0
   lead_investors:
   - Eldridge
   - Valor Equity Partners
   source: https://www.dataminr.com/press/dataminr-announces-475m-financing-round/
 - stage: Convertible
   date: 2025-03
-  amount_m: 85
+  amount_m: 85.0
   lead_investors:
   - NightDragon
   - HSBC
   source: https://www.crunchbase.com/organization/dataminr
 - stage: Series F Extension
   date: 2025-04
-  amount_m: 100
+  amount_m: 100.0
   lead_investors:
   - Fortress Investment Group
   source: https://www.crunchbase.com/organization/dataminr
@@ -99,6 +94,7 @@ data_notes: Total ~$1.24B across 13+ rounds. Seed ($2M), Series B ($16.5M), Seri
   amounts remain undisclosed.
 name: Dataminr
 linkedin_verified: true
+latest_valuation_m: 4100.0
 ---
 
 # Dataminr

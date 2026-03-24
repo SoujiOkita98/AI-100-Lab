@@ -28,8 +28,6 @@ founders:
 funding_rounds:
 - stage: Seed / Early
   date: ~2021-05
-  amount_m: null
-  valuation_m: null
   lead_investors:
   - Valinor
   other_investors:
@@ -43,7 +41,6 @@ funding_rounds:
 - stage: Series A2
   date: 2023-03
   amount_m: 23.5
-  valuation_m: null
   lead_investors:
   - OpenAI Startup Fund
   other_investors:
@@ -59,7 +56,6 @@ funding_rounds:
 - stage: Series B
   date: 2024-01-11
   amount_m: 100.0
-  valuation_m: null
   lead_investors:
   - EQT Ventures
   other_investors:
@@ -74,7 +70,6 @@ funding_rounds:
     '
 - stage: Series C (UNCONFIRMED)
   date: ~2025-09 (reported target)
-  amount_m: null
   valuation_m: 10000.0
   lead_investors:
   - Unknown

@@ -1,6 +1,5 @@
 ---
 company_name: Essential AI
-legal_name: Essential AI Labs Inc.
 founded: 2023
 headquarters: San Francisco, CA
 website: https://www.essential.ai
@@ -8,8 +7,6 @@ one_liner: Enterprise AI platform built by Transformer co-inventors that automat
   large language models
 sector: Enterprise AI / AI Automation
 stage: Series B
-latest_valuation: ~$1B (unicorn status)
-total_funding: ~$240M
 founders:
 - name: Ashish Vaswani
   role: Co-Founder & CEO
@@ -44,8 +41,8 @@ funding_rounds:
   source: https://www.businesswire.com/news/home/20231211867788/en/
 - stage: Series B
   date: 2025-08
-  amount_m: 175
-  valuation_m: 1000
+  amount_m: 175.0
+  valuation_m: 1000.0
   lead_investors:
   - Lightspeed Venture Partners
   source: https://salestools.io/en/report/essential-ai-175m-series-b
@@ -56,6 +53,8 @@ crunchbase_verified: true
 twitter: '@essential_ai'
 name: Essential AI
 linkedin_verified: true
+total_raised_m: 240.0
+latest_valuation_m: 1000.0
 ---
 
 # Essential AI

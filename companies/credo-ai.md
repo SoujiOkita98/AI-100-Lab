@@ -1,14 +1,11 @@
 ---
 company: Credo AI
-legal_name: Credo AI Inc.
 website: https://www.credo.ai
-domain: credo.ai
 sector: AI Governance / Responsible AI Platform
 founded: 2020
 headquarters: San Francisco, California
 ceo: Navrina Singh
 employees_approx: 100+
-latest_valuation: ~$101M (as of July 2024, per Bloomberg)
 total_funding: Undisclosed (Series A+ stage)
 status: Private
 last_updated: 2026-03-20
@@ -46,13 +43,14 @@ funding_rounds:
   source: https://www.credo.ai/news/credo-ai-announces-12-8-million-series-a-funding-round-for-responsible-ai
 - stage: Series A-II
   date: 2024-07
-  amount_m: 21
+  amount_m: 21.0
   lead_investors:
   - CrimsoNox Capital
   - Mozilla Ventures
   source: https://www.credo.ai/blog/accelerating-global-growth-and-innovation-in-ai-governance-with-21-million-in-new-capital
 name: Credo AI
 linkedin_verified: true
+latest_valuation_m: 101.0
 ---
 
 # Credo AI -- AI Governance & Responsible AI Platform

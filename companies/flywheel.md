@@ -15,13 +15,12 @@ founders:
 funding_rounds:
 - stage: Series C
   date: 2021
-  amount_m: null
   lead_investors:
   - null
   source: https://www.crunchbase.com/organization/flywheel-exchange
 - stage: Series D
   date: 2023-06
-  amount_m: 54
+  amount_m: 54.0
   lead_investors:
   - Novalis LifeSciences
   - NVentures (NVIDIA)

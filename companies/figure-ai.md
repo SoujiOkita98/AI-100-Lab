@@ -1,15 +1,11 @@
 ---
 name: Figure AI
-legal_name: Figure AI, Inc.
-slug: figure-ai
-domain: Humanoid Robotics / Embodied AI
 founded: '2022'
 headquarters: Sunnyvale, California, USA
 website: https://www.figure.ai
 status: Private
 employees_approx: ~479 (as of January 2026)
 total_funding_approx: ~$1.9B
-latest_valuation: $39B (post-money, September 2025)
 latest_round: Series C
 founders:
 - name: Brett Adcock
@@ -17,9 +13,7 @@ founders:
   background: 'American, raised on a family farm near Moweaqua, Illinois. BS from University of Florida (2008). Serial entrepreneur:
     founded Vettery (hiring marketplace, acquired by Adecco Group ~2018), co-founded Archer Aviation (eVTOL, NYSE: ACHR, IPO
     2021). Named to TIME100 AI list (2024). Also founded Cover (AI school-security startup, 2023) and Hark (independent AI
-    lab, self-funded $100M, late 2025). Remains CEO of both Figure and Hark.
-
-    '
+    lab, self-funded $100M, late 2025). Remains CEO of both Figure and Hark.'
   origin: American (white, rural Illinois)
 key_people:
 - name: Jerry Pratt (former)
@@ -33,22 +27,22 @@ key_people:
 funding_rounds:
 - stage: Seed
   date: '2022'
-  amount: ~$100M (founder self-funded)
-  valuation: '[not disclosed]'
+  amount_m: 100.0
+  valuation_m: null
   lead_investors:
   - Brett Adcock (personal capital)
   source: https://en.wikipedia.org/wiki/Figure_AI
 - stage: Series A
   date: 2023-05
-  amount: $70M
-  valuation: ~$500M (pre-money est.)
+  amount_m: 70.0
+  valuation_m: 500.0
   lead_investors:
   - Parkway Venture Capital
   source: https://sacra.com/c/figure-ai/
 - stage: Series B
   date: 2024-02
-  amount: $675M
-  valuation: $2.6B (post-money)
+  amount_m: 675.0
+  valuation_m: 2600.0
   lead_investors:
   - Microsoft
   - Jeff Bezos (Bezos Expeditions)
@@ -60,15 +54,15 @@ funding_rounds:
   - Align Ventures
   - ARK Invest
   - Amazon (Industrial Innovation Fund)
+  source: https://www.prnewswire.com/news-releases/figure-raises-675m-at-2-6b-valuation-and-signs-collaboration-agreement-with-openai-302074897.html
   notes: 'Coincided with OpenAI collaboration agreement for next-gen AI models for humanoid robots. Figure also secured Microsoft
     Azure for AI infrastructure.
 
     '
-  source: https://www.prnewswire.com/news-releases/figure-raises-675m-at-2-6b-valuation-and-signs-collaboration-agreement-with-openai-302074897.html
 - stage: Series C
   date: 2025-09
-  amount: '>$1B'
-  valuation: $39B (post-money)
+  amount_m: 1000.0
+  valuation_m: 39000.0
   lead_investors:
   - Parkway Venture Capital
   other_investors:
@@ -83,17 +77,10 @@ funding_rounds:
   - T-Mobile Ventures
   - Qualcomm Ventures
   - Arcapita
+  source: https://www.figure.ai/news/series-c
   notes: '15x valuation jump in ~18 months (from $2.6B to $39B). Largest humanoid-robotics round at the time.
 
     '
-  source: https://www.figure.ai/news/series-c
-tags:
-- humanoid-robotics
-- embodied-ai
-- manufacturing-automation
-- general-purpose-robot
-- hardware
-- deep-tech
 one_liner: Figure AI is building general-purpose humanoid robots for commercial labor markets, starting with manufacturing
   and logistics, with an eventual path to consumer/home deployment
 website_verified: true
@@ -102,6 +89,14 @@ twitter: '@Figure_robot'
 crunchbase: https://www.crunchbase.com/organization/figure-ai
 crunchbase_verified: true
 linkedin_verified: true
+latest_valuation_m: 39000.0
+sector:
+- humanoid-robotics
+- embodied-ai
+- manufacturing-automation
+- general-purpose-robot
+- hardware
+- deep-tech
 ---
 
 # Figure AI

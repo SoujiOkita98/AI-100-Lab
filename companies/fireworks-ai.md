@@ -1,13 +1,10 @@
 ---
 company: Fireworks AI
-legal_name: Fireworks AI, Inc.
 founded: 2022
 headquarters: Redwood City, CA
 sector: AI Infrastructure
 subsector: Generative AI Inference & Model Deployment
 website: https://fireworks.ai
-total_funding: ~$331M
-latest_valuation: $4B (Oct 2025, Series C)
 estimated_annual_revenue: ~$130M ARR (May 2025 est., per Sacra)
 employee_count_approx: ~166 (Jan 2026)
 status: Private
@@ -24,21 +21,21 @@ last_updated: 2026-03-20
 funding_rounds:
 - stage: Series A
   date: 2024-03
-  amount_m: 25
+  amount_m: 25.0
   lead_investors:
   - Benchmark
   source: https://www.thesaasnews.com/news/fireworks-ai-secures-25-million-in-series-a
 - stage: Series B
   date: 2024-07
-  amount_m: 52
-  valuation_m: 552
+  amount_m: 52.0
+  valuation_m: 552.0
   lead_investors:
   - Sequoia Capital
   source: https://fireworks.ai/blog/fireworks-ai-series-b-compound-ai
 - stage: Series C
   date: 2025-10
-  amount_m: 250
-  valuation_m: 4000
+  amount_m: 250.0
+  valuation_m: 4000.0
   lead_investors:
   - Lightspeed Venture Partners
   - Index Ventures
@@ -65,6 +62,8 @@ founders:
   origin: Ukrainian
 name: Fireworks AI
 linkedin_verified: true
+total_raised_m: 331.0
+latest_valuation_m: 4000.0
 ---
 
 # Fireworks AI

@@ -13,12 +13,11 @@ founders:
 funding_rounds:
 - stage: Series A
   date: 2025-09
-  amount_m: 35
-  valuation_m: 350
+  amount_m: 35.0
+  valuation_m: 350.0
   lead_investors:
   - Founders Fund
   - Sequoia Capital
-latest_valuation: 350
 last_updated: 2026-03-21
 confidence: medium
 data_notes: 'Needs verification: website, source_urls. Profile may be incomplete.'
@@ -29,6 +28,7 @@ crunchbase: https://www.crunchbase.com/organization/enter-legal-brazil
 crunchbase_verified: true
 total_raised_m: 35.0
 linkedin_verified: true
+latest_valuation_m: 350.0
 ---
 
 # Enter (Legal AI Brazil)

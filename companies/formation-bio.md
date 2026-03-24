@@ -15,8 +15,6 @@ founders:
   origin: Chinese
 ceo: Benjamine Liu
 employees: ~200-300 (estimated)
-latest_valuation: $1.7B+ (Series D, May 2024)
-total_funding: $608M
 stage: Series D
 status: Private
 website: https://formationbio.com
@@ -24,8 +22,8 @@ last_updated: 2026-03-20
 funding_rounds:
 - stage: Series C
   date: 2021-09
-  amount_m: 156
-  valuation_m: 1000
+  amount_m: 156.0
+  valuation_m: 1000.0
   lead_investors:
   - S32
   - Casdin Capital
@@ -33,7 +31,7 @@ funding_rounds:
   source: https://tracxn.com/d/companies/formation-bio/
 - stage: Series D
   date: 2024-06
-  amount_m: 372
+  amount_m: 372.0
   lead_investors:
   - Andreessen Horowitz
   - Sanofi
@@ -48,6 +46,8 @@ crunchbase_verified: true
 twitter: '@formationbio'
 name: Formation Bio
 linkedin_verified: true
+total_raised_m: 608.0
+latest_valuation_m: 1700.0
 ---
 
 # Formation Bio

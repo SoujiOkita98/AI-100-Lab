@@ -1,8 +1,6 @@
 ---
 name: Cohere
-legal_name: Cohere Inc.
 website: https://cohere.com
-domain: cohere.com
 founded: 2019
 incorporated: Canada
 other_offices:
@@ -22,28 +20,22 @@ arr_date: 2025-12-31
 founders:
 - name: Aidan Gomez
   role: Co-founder & CEO
-  background: 'Canadian (grew up in Brighton, Ontario). Co-author of the seminal 2017 "Attention Is All You Need" transformer
+  background: Canadian (grew up in Brighton, Ontario). Co-author of the seminal 2017 "Attention Is All You Need" transformer
     paper while a 20-year-old intern at Google Brain. BSc in Computer Science and Mathematics from the University of Toronto.
     PhD in Computer Science from the University of Oxford (granted 2024; paused studies to launch Cohere). Named to TIME 100/AI
     list (2023). Elected to Rivian board (April 2025).
-
-    '
   origin: Canadian
 - name: Ivan Zhang
   role: Co-founder
-  background: 'Canadian, son of immigrants (likely Chinese-Canadian based on Asian Hustle Network feature, though not explicitly
+  background: Canadian, son of immigrants (likely Chinese-Canadian based on Asian Hustle Network feature, though not explicitly
     confirmed). Attended Richmond Hill High School in Ontario. BSc in Computer Science from the University of Toronto (2014-2016,
     did not complete full degree). Previously founded FOR.ai (now Cohere Labs), worked in biotech and MLOps.
-
-    '
   origin: Canadian (Chinese heritage, unconfirmed)
 - name: Nick Frosst
   role: Co-founder
-  background: 'Canadian. BSc in Computer Science from the University of Toronto. Former machine learning researcher at Google
+  background: Canadian. BSc in Computer Science from the University of Toronto. Former machine learning researcher at Google
     Brain under Geoffrey Hinton. Also the frontman of indie rock band Good Kid, which has achieved significant commercial
-    success. Named to Maclean''s 2023 AI Power List alongside co-founders.
-
-    '
+    success. Named to Maclean's 2023 AI Power List alongside co-founders.
   origin: Canadian
 key_people:
 - name: Joelle Pineau
@@ -53,25 +45,18 @@ key_people:
   role: Chief Financial Officer (joined Aug 2025)
   previous: Acting CFO at Uber during its IPO
 funding_rounds:
-- round: Series A
+- stage: Series A
   date: 2021-09-07
-  amount_usd: 40000000
-  valuation_usd: null
+  amount_m: 40.0
   lead_investors:
   - Index Ventures
   other_investors:
   - Radical Ventures
   - Section 32 (S32)
-  angel_investors:
-  - Geoffrey Hinton
-  - Fei-Fei Li
-  - Pieter Abbeel
-  - Raquel Urtasun
   source: https://en.wikipedia.org/wiki/Cohere
-- round: Series B
+- stage: Series B
   date: 2022-02-16
-  amount_usd: 125000000
-  valuation_usd: null
+  amount_m: 125.0
   lead_investors:
   - Tiger Global Management
   other_investors:
@@ -79,10 +64,10 @@ funding_rounds:
   - Index Ventures
   - Section 32
   source: https://betakit.com/cohere-closes-125-million-usd-series-b-round-led-by-tiger-global/
-- round: Series C
+- stage: Series C
   date: 2023-06-01
-  amount_usd: 270000000
-  valuation_usd: 2200000000
+  amount_m: 270.0
+  valuation_m: 2200.0
   lead_investors:
   - Inovia Capital
   other_investors:
@@ -96,10 +81,10 @@ funding_rounds:
   - Thomvest Ventures
   - Index Ventures
   source: https://en.wikipedia.org/wiki/Cohere
-- round: Series D
+- stage: Series D
   date: 2024-07-22
-  amount_usd: 500000000
-  valuation_usd: 5500000000
+  amount_m: 500.0
+  valuation_m: 5500.0
   lead_investors:
   - PSP Investments
   other_investors:
@@ -110,10 +95,10 @@ funding_rounds:
   - AMD Ventures
   - Export Development Canada (EDC)
   source: https://betakit.com/cohere-series-d-tops-out-at-500-million-raised-at-5-5-billion-valuation/
-- round: Series E
+- stage: Series E
   date: 2025-08-14
-  amount_usd: 500000000
-  valuation_usd: 6800000000
+  amount_m: 500.0
+  valuation_m: 6800.0
   lead_investors:
   - Radical Ventures
   - Inovia Capital
@@ -124,11 +109,10 @@ funding_rounds:
   - Salesforce Ventures
   - HOOPP (Healthcare of Ontario Pension Plan)
   source: https://cohere.com/blog/august-2025-funding-round
-- round: Series E Extension
+- stage: Series E Extension
   date: 2025-09-24
-  amount_usd: 100000000
-  valuation_usd: 7000000000
-  lead_investors: []
+  amount_m: 100.0
+  valuation_m: 7000.0
   other_investors:
   - BDC (Business Development Bank of Canada)
   - Nexxus Capital Management

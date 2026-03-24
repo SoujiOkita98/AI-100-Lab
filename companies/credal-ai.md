@@ -1,24 +1,23 @@
 ---
 company: Credal.ai
-legal_name: Credal AI Corporation
 founded: 2022
 headquarters: New York, NY
 website: https://www.credal.ai
 sector: AI Security / Enterprise AI
 stage: Seed
-latest_valuation: Undisclosed
-total_funding: ~$5.3M
 headcount_estimate: ~15-25
 status: Private
 yc_batch: W23
 founders:
 - name: Ravin Thambapillai
   role: Co-Founder & CEO
-  background: 7 years at Palantir building AI systems for financial institutions, life sciences, and public health; previously at Google, THG (IPO), and GoCardless (unicorn)
+  background: 7 years at Palantir building AI systems for financial institutions, life sciences, and public health; previously
+    at Google, THG (IPO), and GoCardless (unicorn)
   origin: British
 - name: Jack Fischer
   role: Co-Founder
-  background: Tech lead at Palantir applying AI in air travel, healthcare, and US defense; led Palantir's first cash-generative Life Sciences project; previously at H1
+  background: Tech lead at Palantir applying AI in air travel, healthcare, and US defense; led Palantir's first cash-generative
+    Life Sciences project; previously at H1
   origin: American
 last_updated: 2026-03-23
 funding_rounds:
@@ -39,6 +38,7 @@ website_verified: true
 linkedin: https://www.linkedin.com/company/credal-ai
 crunchbase: https://www.crunchbase.com/organization/credal-ai
 name: Credal.ai
+total_raised_m: 5.3
 ---
 
 # Credal.ai

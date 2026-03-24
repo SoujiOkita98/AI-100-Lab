@@ -1,13 +1,11 @@
 ---
 company_name: Factory
-legal_name: Factory AI, Inc.
 founded: 2023
 headquarters: San Francisco, CA
 sector: AI-Powered Developer Tools
 sub_sector: Autonomous Software Development Agents
 website: https://factory.ai
 status: Private (Series B)
-valuation: ~$300M (post-money, September 2025)
 total_funding: $70M
 employee_count: Undisclosed (estimated 30-60)
 key_investors:
@@ -38,25 +36,26 @@ total_raised_m: 70
 funding_rounds:
 - stage: Seed
   date: '2023'
-  amount_m: 5
+  amount_m: 5.0
   lead_investors:
   - Undisclosed
   source: https://www.crunchbase.com/organization/factory-ai
 - stage: Series A
   date: '2024'
-  amount_m: 15
+  amount_m: 15.0
   lead_investors:
   - Sequoia Capital
   source: https://www.crunchbase.com/organization/factory-ai
 - stage: Series B
   date: 2025-09
-  amount_m: 50
+  amount_m: 50.0
   lead_investors:
   - NEA
   source: https://www.crunchbase.com/organization/factory-ai
 linkedin: https://www.linkedin.com/company/factory-ai/
 name: Factory
 linkedin_verified: true
+latest_valuation_m: 300.0
 ---
 
 # Factory

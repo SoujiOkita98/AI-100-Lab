@@ -1,6 +1,5 @@
 ---
 company: Emergent
-legal_name: Emergent Labs Inc.
 founded: 2024
 headquarters: San Francisco, CA (R&D center in Bengaluru, India)
 website: https://emergent.sh
@@ -8,18 +7,15 @@ one_liner: AI app builder that turns plain-language ideas into production-ready,
   coding
 sector: AI Applications / Vibe Coding
 stage: Series B
-latest_valuation: $300M (January 2026)
-total_funding: ~$100M
 founders:
 - name: Mukund Jha
   role: CEO
-  education: Columbia University (Engineering)
-  background: Former Co-Founder/CTO at Dunzo; worked at Google
+  background: Former Co-Founder/CTO at Dunzo; worked at Google Columbia University (Engineering)
   origin: Indian
 - name: Madhav Jha
   role: CTO
-  education: PhD in Theoretical Computer Science, Penn State University
-  background: Von Neumann postdoctoral fellow at Sandia National Labs; founding member of Amazon SageMaker research team
+  background: Von Neumann postdoctoral fellow at Sandia National Labs; founding member of Amazon SageMaker research team PhD
+    in Theoretical Computer Science, Penn State University
   origin: Indian
 notable_investors:
 - Lightspeed Venture Partners (Series A lead)
@@ -41,22 +37,22 @@ last_updated: 2026-03-20
 funding_rounds:
 - stage: Seed
   date: 2025-07
-  amount_m: 7
+  amount_m: 7.0
   lead_investors:
   - Y Combinator
   - Together Fund
   source: https://techcrunch.com/2025/09/24/emergent-raises-23m/
 - stage: Series A
   date: 2025-09
-  amount_m: 23
-  valuation_m: 100
+  amount_m: 23.0
+  valuation_m: 100.0
   lead_investors:
   - Lightspeed Venture Partners
   source: https://techcrunch.com/2025/09/24/emergent-raises-23m/
 - stage: Series B
   date: 2026-01
-  amount_m: 70
-  valuation_m: 300
+  amount_m: 70.0
+  valuation_m: 300.0
   lead_investors:
   - Khosla Ventures
   - SoftBank Vision Fund 2
@@ -67,6 +63,9 @@ crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/emergent/
 name: Emergent
 linkedin_verified: true
+total_raised_m: 100.0
+latest_valuation_m: 300.0
+status: active
 ---
 
 # Emergent

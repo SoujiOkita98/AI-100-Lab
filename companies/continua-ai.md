@@ -1,8 +1,6 @@
 ---
 name: Continua AI
-slug: continua-ai
 website: https://continua.ai
-domain: continua.ai
 founded: 2023
 headquarters: New York, NY
 sector: AI / Social AI / Productivity
@@ -12,18 +10,20 @@ status: Private
 founders:
 - name: David Petrou
   role: Founder & CEO
-  background: Former Google Distinguished Engineer. Helped start Google Goggles. Extensive career at Google in computer vision and AI.
+  background: Former Google Distinguished Engineer. Helped start Google Goggles. Extensive career at Google in computer vision
+    and AI.
 last_updated: 2026-03-23
 confidence: high
-one_liner: Social AI platform that brings always-on AI agents into group chats on SMS, iMessage, and Discord to enhance collaboration, set reminders, launch polls, and manage plans
-data_notes: 'Seed round led by GV with Bessemer participation. Announced Aug 2025.'
+one_liner: Social AI platform that brings always-on AI agents into group chats on SMS, iMessage, and Discord to enhance collaboration,
+  set reminders, launch polls, and manage plans
+data_notes: Seed round led by GV with Bessemer participation. Announced Aug 2025.
 crunchbase: https://www.crunchbase.com/organization/continua-190c
 linkedin: https://www.linkedin.com/company/continua-ai
 total_raised_m: 8
 funding_rounds:
 - stage: Seed
   date: 2025-08
-  amount_m: 8
+  amount_m: 8.0
   lead_investors:
   - GV
   source: https://techcrunch.com/2025/08/12/google-vet-raises-8m-for-continua-to-bring-ai-agents-to-group-chats/

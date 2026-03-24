@@ -7,7 +7,7 @@ status: active
 funding_rounds:
 - stage: Series A
   date: '2025'
-  amount_m: 90
+  amount_m: 90.0
   lead_investors:
   - Lightspeed
   - Khosla Ventures
@@ -20,7 +20,6 @@ founders:
   origin: Latin American
 - name: Benedict Dohmen
   role: Co-Founder
-  background: ''
   origin: German
 last_updated: 2026-03-21
 confidence: medium
