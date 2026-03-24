@@ -14,12 +14,11 @@ founders:
 funding_rounds:
 - stage: Seed
   date: 2026-02
-  amount_m: 1000
-  valuation_m: 4000
+  amount_m: 1000.0
+  valuation_m: 4000.0
   lead_investors:
   - Sequoia Capital
   source: https://siliconangle.com/2026/02/18/new-ai-startup-ineffable-intelligence-reportedly-raising-1b-funding-round/
-latest_valuation: 4000
 last_updated: 2026-03-21
 confidence: medium
 website: https://ineffable.limited
@@ -30,6 +29,7 @@ crunchbase_verified: true
 total_raised_m: 1000.0
 linkedin: https://www.linkedin.com/company/ineffable-intelligence/
 linkedin_verified: true
+latest_valuation_m: 4000.0
 ---
 
 # Ineffable Intelligence

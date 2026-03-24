@@ -19,25 +19,23 @@ founders:
 funding_rounds:
 - stage: Seed
   date: 2020
-  amount_m: null
   lead_investors:
   - null
   source: https://www.crunchbase.com/organization/hex-technologies-inc
 - stage: Series A
   date: 2021
-  amount_m: null
   lead_investors:
   - Andreessen Horowitz
   source: https://www.crunchbase.com/organization/hex-technologies-inc
 - stage: Series B
   date: 2022-03
-  amount_m: 52
+  amount_m: 52.0
   lead_investors:
   - Andreessen Horowitz
   source: https://www.crunchbase.com/organization/hex-technologies-inc
 - stage: Series C
   date: 2025-05
-  amount_m: 70
+  amount_m: 70.0
   lead_investors:
   - Avra
   source: https://www.businesswire.com/news/home/20250528505112/en/

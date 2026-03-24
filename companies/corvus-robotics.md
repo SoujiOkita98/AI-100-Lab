@@ -25,8 +25,6 @@ founders:
 funding_rounds:
 - stage: Seed
   date: ~2018
-  amount_m: null
-  valuation_m: null
   other_investors:
   - Y Combinator
   source: https://www.ycombinator.com/companies/corvus-robotics
@@ -36,7 +34,6 @@ funding_rounds:
 - stage: Series A
   date: 2024-09-16
   amount_m: 18.0
-  valuation_m: null
   lead_investors:
   - Spero Ventures
   - S2G Investments

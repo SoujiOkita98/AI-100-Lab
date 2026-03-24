@@ -1,8 +1,6 @@
 ---
 name: GigaML
-slug: gigaml
 website: https://gigaml.com
-domain: gigaml.com
 founded: 2023
 headquarters: San Francisco, CA
 sector: AI / Enterprise AI / Customer Support Automation
@@ -18,8 +16,9 @@ founders:
   background: Y Combinator alumni. Technical co-founder.
 last_updated: 2026-03-23
 confidence: high
-one_liner: AI operations platform for enterprises that builds AI support agents for customer service and operations automation, enabling on-premises LLM deployment with data privacy
-data_notes: 'Originally focused on LLM deployment/optimization, pivoted to enterprise AI support agents. YC alumni.'
+one_liner: AI operations platform for enterprises that builds AI support agents for customer service and operations automation,
+  enabling on-premises LLM deployment with data privacy
+data_notes: Originally focused on LLM deployment/optimization, pivoted to enterprise AI support agents. YC alumni.
 crunchbase: https://www.crunchbase.com/organization/giga-ml
 linkedin: https://www.linkedin.com/company/gigaml
 total_raised_m: 64.6
@@ -32,7 +31,7 @@ funding_rounds:
   source: https://www.newsfilecorp.com/release/184305/Giga-ML-Secures-3.6M-Seed-Funding-to-Revolutionize-Enterprise-Deployment-of-Large-Language-Models
 - stage: Series A
   date: 2025-11
-  amount_m: 61
+  amount_m: 61.0
   lead_investors:
   - Redpoint Ventures
   source: https://www.todayin-ai.com/p/gigaml

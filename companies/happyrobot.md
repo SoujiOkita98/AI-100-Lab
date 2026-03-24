@@ -1,13 +1,11 @@
 ---
 name: HappyRobot
-legal_name: HappyRobot AI Inc.
 founded: 2023
 headquarters: San Francisco, CA
 website: https://www.happyrobot.ai
 product: AI agents for logistics and supply chain operations
 sector: AI / Logistics / Agentic AI
 stage: Series B
-latest_valuation: ~$500M (estimated, 2025)
 total_funding: ~$62M
 status: Active, Private
 founders:
@@ -51,11 +49,12 @@ funding_rounds:
   source: https://www.prnewswire.com/news-releases/happyrobot-raises-15-6-million-series-a-funding-led-by-a16z-to-transform-logistics-with-agentic-ai-302322662.html
 - stage: Series B
   date: '2025'
-  amount_m: 44
+  amount_m: 44.0
   lead_investors:
   - Base10 Partners
   source: https://www.pymnts.com/news/investment-tracker/2025/happyrobot-raises-44-million-dollars-ai-supply-chain-workers/
 linkedin_verified: true
+latest_valuation_m: 500.0
 ---
 
 # HappyRobot

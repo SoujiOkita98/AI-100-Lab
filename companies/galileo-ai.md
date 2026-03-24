@@ -1,8 +1,6 @@
 ---
 company_name: Galileo
-legal_name: Galileo Technologies, Inc.
 website: https://www.rungalileo.io
-domain: galileo.ai
 category: AI Evaluation & Observability
 subcategory: LLM Testing, Monitoring, Guardrails, Agent Reliability
 founded: 2021
@@ -11,31 +9,23 @@ employees_approx: 153
 founders:
 - name: Vikram Chatterji
   role: Co-Founder & CEO
-  background: Google AI (Product Management, BERT/Transformers), Google Pay India, Android
-  education: MS Computer Science, Carnegie Mellon University
+  background: Google AI (Product Management, BERT/Transformers), Google Pay India, Android MS Computer Science, Carnegie Mellon
+    University
   origin: Indian-American
 - name: Atindriyo Sanyal
   role: Co-Founder & CTO
-  background: Uber AI (Engineering Lead, Michelangelo feature store), Apple (early Siri engineer)
-  education: MS Computer Science, UCLA; BE Computer Science, Pune Institute of Computer Technology
+  background: Uber AI (Engineering Lead, Michelangelo feature store), Apple (early Siri engineer) MS Computer Science, UCLA;
+    BE Computer Science, Pune Institute of Computer Technology
   origin: Indian-American
 - name: Yash Sheth
   role: Co-Founder & COO
   background: Google (Tech Lead & Manager, Speech Recognizer platform, 9 years; scaled speech recognition 800x across 20+
-    products)
-  education: MS Computer Science, UC Irvine
+    products) MS Computer Science, UC Irvine
   origin: Indian-American
 total_funding: $68M
 latest_round: Series B
 latest_round_date: 2024-10-15
 status: Private
-tags:
-- llm-evaluation
-- ai-observability
-- guardrails
-- agent-reliability
-- enterprise-ai
-- mlops
 last_updated: 2026-03-20
 confidence: high
 one_liner: Galileo is an AI evaluation and observability platform that helps enterprises build, test, monitor, and secure
@@ -52,19 +42,26 @@ funding_rounds:
   source: https://www.crunchbase.com/organization/galileo-ai
 - stage: Series A
   date: '2023'
-  amount_m: 18
+  amount_m: 18.0
   lead_investors:
   - Battery Ventures
   source: https://www.crunchbase.com/organization/galileo-ai
 - stage: Series B
   date: 2024-10
-  amount_m: 45
+  amount_m: 45.0
   lead_investors:
   - Scale Venture Partners
   source: https://www.crunchbase.com/organization/galileo-ai
 linkedin: https://www.linkedin.com/company/galileo-ai/
 name: Galileo
 linkedin_verified: true
+sector:
+- llm-evaluation
+- ai-observability
+- guardrails
+- agent-reliability
+- enterprise-ai
+- mlops
 ---
 
 # Galileo

@@ -1,6 +1,5 @@
 ---
 company_name: FurtherAI
-legal_name: FurtherAI Inc.
 website: https://www.furtherai.com
 sector: Insurance AI
 founded: 2023
@@ -12,7 +11,6 @@ founders:
 - name: Sashank Gondala
   role: CTO & Co-Founder
   origin: Indian
-latest_valuation: Undisclosed (Series A stage)
 total_funding_raised: ~$30M
 employee_count_estimate: ~50 (uncertain)
 status: Private
@@ -26,13 +24,13 @@ total_raised_m: 30
 funding_rounds:
 - stage: Seed
   date: '2024'
-  amount_m: 5
+  amount_m: 5.0
   lead_investors:
   - Y Combinator
   source: https://www.ycombinator.com/companies/furtherai
 - stage: Series A
   date: '2025'
-  amount_m: 25
+  amount_m: 25.0
   lead_investors:
   - Andreessen Horowitz
   source: https://www.furtherai.com/blog/%20furtherai-announces-25m-series-a-from-andreessen-horowitz-to-transform-insurance-workflows-with-ai-automating-busywork

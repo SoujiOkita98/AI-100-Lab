@@ -11,8 +11,6 @@ founders:
   origin: American
 ceo: Evan Feinberg
 employees: ~100-150 (estimated)
-latest_valuation: Undisclosed (Series B extension, Nov 2024)
-total_funding: $327M
 stage: Series B
 status: Private
 website: https://genesistherapeutics.ai
@@ -27,13 +25,13 @@ funding_rounds:
   source: https://www.crunchbase.com/funding_round/genesis-therapeutics-seed--46543729
 - stage: Series A
   date: 2020-12
-  amount_m: 52
+  amount_m: 52.0
   lead_investors:
   - Rock Springs Capital
   source: https://www.businesswire.com/news/home/20201202005297/en/
 - stage: Series B
   date: 2023-08
-  amount_m: 200
+  amount_m: 200.0
   lead_investors:
   - Andreessen Horowitz Bio+Health
   - Fidelity
@@ -46,6 +44,7 @@ crunchbase: https://www.crunchbase.com/organization/genesis-therapeutics
 crunchbase_verified: true
 name: Genesis Therapeutics
 linkedin_verified: true
+total_raised_m: 327.0
 ---
 
 # Genesis Therapeutics

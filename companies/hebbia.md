@@ -1,6 +1,5 @@
 ---
 company_name: Hebbia
-legal_name: Hebbia Inc.
 website: https://www.hebbia.com
 sector: Enterprise AI / Knowledge Work (Finance, Legal, Government)
 founded: '2020'
@@ -9,7 +8,6 @@ founders:
 - name: George Sivulka
   role: Founder & CEO
   origin: American
-latest_valuation: ~$700M (Series B, July 2024)
 total_funding_raised: ~$161M
 arr_estimate: ~$25M (Sep 2025 estimate; see notes below)
 employee_count_estimate: ~140 (as of Jan 2026)
@@ -18,14 +16,14 @@ last_updated: 2026-03-20
 funding_rounds:
 - stage: Series A
   date: 2022-09
-  amount_m: 30
+  amount_m: 30.0
   lead_investors:
   - Index Ventures
   source: https://techcrunch.com/2022/09/07/hebbia-raises-30m/
 - stage: Series B
   date: 2024-07
-  amount_m: 130
-  valuation_m: 700
+  amount_m: 130.0
+  valuation_m: 700.0
   lead_investors:
   - Andreessen Horowitz
   source: https://news.crunchbase.com/ai/ai-hebbia-venture-a16z-gv-thiel/
@@ -37,6 +35,7 @@ crunchbase_verified: true
 total_raised_m: 160.0
 name: Hebbia
 linkedin_verified: true
+latest_valuation_m: 700.0
 ---
 
 # Hebbia -- Company Profile

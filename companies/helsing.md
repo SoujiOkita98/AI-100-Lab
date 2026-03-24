@@ -13,31 +13,29 @@ latest_valuation_m: 13200
 funding_rounds:
 - stage: Seed
   date: 2021-12
-  amount_m: 110
-  valuation_m: null
+  amount_m: 110.0
   lead_investors:
   - Prima Materia
   - Spotify's Daniel Ek
   source: https://helsing.ai/newsroom/helsing-raises-eur600m-to-invest-in-european-technological-sovereignty
 - stage: Series A
   date: 2023-03
-  amount_m: 223
-  valuation_m: null
+  amount_m: 223.0
   lead_investors:
   - General Catalyst
   - Accel
   source: https://en.wikipedia.org/wiki/Helsing_(company)
 - stage: Series C
   date: 2024-07
-  amount_m: 489
-  valuation_m: 5400
+  amount_m: 489.0
+  valuation_m: 5400.0
   lead_investors:
   - General Catalyst
   source: https://sacra.com/c/helsing/
 - stage: Series D
   date: 2025-06
-  amount_m: 694
-  valuation_m: 13200
+  amount_m: 694.0
+  valuation_m: 13200.0
   lead_investors:
   - Prima Materia
   source: https://tech.eu/2025/06/17/helsing-raises-600-million-elevating-valuation-to-eur12bn/

@@ -20,7 +20,6 @@ funding_rounds:
 - stage: Pre-Seed
   date: 2023-01
   amount_m: 2.0
-  valuation_m: null
   lead_investors:
   - Credo Ventures
   other_investors:

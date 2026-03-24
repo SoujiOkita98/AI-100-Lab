@@ -9,14 +9,14 @@ status: active
 funding_rounds:
 - stage: Seed
   date: 2021-08
-  amount_m: 5
+  amount_m: 5.0
   lead_investors:
   - Blackbird Ventures
   source: https://sacra.com/c/heidi-health/
   notes: Originally launched as Oscer.
 - stage: Series A
   date: 2023-10
-  amount_m: 10
+  amount_m: 10.0
   lead_investors:
   - Undisclosed
   source: https://sacra.com/c/heidi-health/
@@ -29,13 +29,12 @@ funding_rounds:
   notes: A$27M (~$16.6M USD) top-up to original Series A.
 - stage: Series B
   date: 2025-10
-  amount_m: 65
-  valuation_m: 465
+  amount_m: 65.0
+  valuation_m: 465.0
   lead_investors:
   - Point72 Private Investments
   source: https://techcrunch.com/2025/10/05/heidi-health-raises-65m-series-b-led-by-steve-cohens-point72/
   notes: Blackbird, Headline, Latitude (Phoenix Court growth fund) also participated.
-latest_valuation: 465
 founders:
 - name: Thomas Kelly
   role: Co-Founder & CEO
@@ -43,11 +42,9 @@ founders:
   origin: Australian
 - name: Yu Liu
   role: Co-Founder & CTO
-  background: ''
   origin: Chinese-Australian
 - name: Waleed Mussa
   role: Co-Founder & CFO
-  background: ''
   origin: Middle Eastern-Australian
 last_updated: 2026-03-21
 confidence: medium
@@ -59,6 +56,7 @@ crunchbase_verified: true
 twitter: '@tryheidi'
 total_raised_m: 100.0
 linkedin_verified: true
+latest_valuation_m: 465.0
 ---
 
 # Heidi Health

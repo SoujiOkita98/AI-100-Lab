@@ -6,8 +6,6 @@ headquarters: San Francisco, CA
 website: https://imbue.com
 sector: AI Agents / Reasoning / Foundation Models
 stage: Series B
-total_funding: ~$232M
-valuation: $1B (as of September 2023)
 founders:
 - name: Kanjun Qiu
   role: CEO
@@ -27,20 +25,20 @@ last_updated: 2026-03-20
 funding_rounds:
 - stage: Series A
   date: 2022-10
-  amount_m: 20
+  amount_m: 20.0
   lead_investors:
   - Astera Institute
   source: https://tracxn.com/d/companies/imbue/
 - stage: Series B
   date: 2023-09
-  amount_m: 200
-  valuation_m: 1000
+  amount_m: 200.0
+  valuation_m: 1000.0
   lead_investors:
   - Astera Institute
   source: https://techcrunch.com/2023/09/07/imbue-raises-200m/
 - stage: Series B Extension
   date: 2023-10
-  amount_m: 12
+  amount_m: 12.0
   lead_investors:
   - Alexa Fund
   - Eric Schmidt
@@ -54,6 +52,8 @@ crunchbase_verified: true
 twitter: '@imbue_ai'
 name: Imbue
 linkedin_verified: true
+total_raised_m: 232.0
+latest_valuation_m: 1000.0
 ---
 
 # Imbue

@@ -16,7 +16,6 @@ latest_valuation_m: null
 funding_rounds:
 - stage: Seed
   date: 2023-12
-  amount_m: null
   lead_investors:
   - HongShan
   - Baidu
@@ -24,7 +23,7 @@ funding_rounds:
   notes: First funding round. Amount undisclosed. Founded May 2023.
 - stage: Series A
   date: 2024-09
-  amount_m: 70
+  amount_m: 70.0
   lead_investors:
   - Social Security Fund Zhongguancun
   - Qiming Venture Partners
@@ -33,8 +32,7 @@ funding_rounds:
   notes: ~500 million yuan ($70.2M). Strategic investors include Lenovo Capital and Xiaomi.
 - stage: Series A+
   date: 2025-11
-  amount_m: 70
-  valuation_m: null
+  amount_m: 70.0
   lead_investors:
   - Zhuhai Technology Group
   - Futeng Capital

@@ -17,7 +17,6 @@ funding_rounds:
 - stage: Earlier Rounds
   date: ~2024 (late)
   amount_m: 91.0
-  valuation_m: null
   other_investors:
   - Gates Frontier
   - Samsung
@@ -30,7 +29,6 @@ funding_rounds:
 - stage: Growth Round
   date: 2025-08-20
   amount_m: 314.0
-  valuation_m: null
   lead_investors:
   - Bezos Expeditions
   - Prysm Capital

@@ -1,8 +1,6 @@
 ---
 name: Juna AI
-slug: juna-ai
 website: https://www.juna.ai
-domain: juna.ai
 founded: 2023
 headquarters: Berlin, Germany
 sector: AI / Industrial AI / Energy Optimization
@@ -12,14 +10,17 @@ status: Private
 founders:
 - name: Matthias Auf der Mauer
   role: Co-Founder & CEO
-  background: Previously founded AiSight (predictive machine maintenance), sold to Swiss smart sensor company Sensirion in 2021.
+  background: Previously founded AiSight (predictive machine maintenance), sold to Swiss smart sensor company Sensirion in
+    2021.
 - name: Christian von Hardenberg
   role: Co-Founder & CTO
-  background: Former CTO of Rocket Internet and Delivery Hero. Scaled engineering teams of 2,500+ people and launched 50+ internet companies.
+  background: Former CTO of Rocket Internet and Delivery Hero. Scaled engineering teams of 2,500+ people and launched 50+
+    internet companies.
 last_updated: 2026-03-23
 confidence: high
-one_liner: AI-powered platform that transforms manufacturing facilities into intelligent, self-learning systems for autonomous process control, higher margins, and lower carbon footprint
-data_notes: 'Seed led by Kleiner Perkins with John Doerr as angel investor. Strong industrial AI focus.'
+one_liner: AI-powered platform that transforms manufacturing facilities into intelligent, self-learning systems for autonomous
+  process control, higher margins, and lower carbon footprint
+data_notes: Seed led by Kleiner Perkins with John Doerr as angel investor. Strong industrial AI focus.
 crunchbase: https://www.crunchbase.com/organization/juna-ai
 linkedin: https://www.linkedin.com/company/juna-ai
 total_raised_m: 7.5

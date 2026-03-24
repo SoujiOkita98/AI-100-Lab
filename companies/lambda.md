@@ -5,7 +5,6 @@ founded: 2012
 headquarters: San Francisco, California
 website: https://lambda.ai
 status: Private (IPO expected H2 2026)
-latest_valuation: ~$11.5B implied (as of early 2026; up from $6.88B post-Series E)
 total_funding: ~$2.44B across 10+ rounds
 founders:
 - name: Stephen Balaban
@@ -30,19 +29,19 @@ funding_rounds:
   source: https://www.crunchbase.com/organization/lambda
 - stage: Series C
   date: '2023'
-  amount_m: 320
+  amount_m: 320.0
   lead_investors:
   - Thomas Tull
   source: https://www.crunchbase.com/organization/lambda
 - stage: Series D
   date: '2024'
-  amount_m: 800
+  amount_m: 800.0
   lead_investors:
   - SK Telecom
   source: https://www.crunchbase.com/organization/lambda
 - stage: Series E
   date: '2025'
-  amount_m: 1200
+  amount_m: 1200.0
   lead_investors:
   - Undisclosed
   source: https://www.crunchbase.com/organization/lambda

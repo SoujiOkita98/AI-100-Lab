@@ -1,6 +1,5 @@
 ---
 company_name: Inflection AI
-legal_name: Inflection AI, Inc.
 founded: 2022
 headquarters: Palo Alto, CA
 website: https://inflection.ai
@@ -30,7 +29,6 @@ tags:
 - emotional-ai
 - on-premise-ai
 total_funding_raised: ~$1.52B (across 2 primary rounds, pre-Microsoft deal)
-latest_valuation: ~$4B (as of June 2023 Series E; post-Microsoft-deal valuation unclear)
 employee_count: ~62 (post-Microsoft exodus; approximate as of late 2024)
 key_models:
 - Pi
@@ -45,7 +43,7 @@ confidence_note: Some financial details (exact licensing fee, current valuation,
 funding_rounds:
 - stage: Venture Round
   date: 2022-05
-  amount_m: 225
+  amount_m: 225.0
   lead_investors:
   - Greylock
   - Microsoft
@@ -53,8 +51,8 @@ funding_rounds:
   source: https://siliconangle.com/2022/05/13/newly-launched-ai-startup-inflection-ai-raises-225m-funding/
 - stage: Series B
   date: 2023-06
-  amount_m: 1300
-  valuation_m: 4000
+  amount_m: 1300.0
+  valuation_m: 4000.0
   lead_investors:
   - Microsoft
   - Nvidia
@@ -72,6 +70,7 @@ twitter: '@inflectionAI'
 total_raised_m: 1525.0
 name: Inflection AI
 linkedin_verified: true
+latest_valuation_m: 4000.0
 ---
 
 # Inflection AI

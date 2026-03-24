@@ -1,17 +1,13 @@
 ---
 company: Innovaccer
-legal_name: Innovaccer Inc.
 website: https://innovaccer.com
 one_liner: Agentic AI cloud for healthcare that unifies clinical, operational, and financial data to power autonomous workflows
   across health systems and payers
-domain: innovaccer.com
 sector: Healthcare AI / Health Data Platform
 founded: 2014
 headquarters: San Francisco, California
 ceo: Abhinav Shashank
 employees_approx: 1500+
-latest_valuation: $3.45B (Series F, January 2025)
-total_funding: ~$675M
 status: Private
 last_updated: 2026-03-20
 founders:
@@ -39,41 +35,41 @@ funding_rounds:
   source: https://websets.exa.ai/websets/directory/innovaccer-funding
 - stage: Series B
   date: 2018-05
-  amount_m: 25
+  amount_m: 25.0
   lead_investors:
   - WestBridge Capital
   source: https://news.crunchbase.com/startups/innovaccer-raises-70m-to-collect-and-consolidate-health-data/
 - stage: Series B Extension
   date: 2019-01
-  amount_m: 11
+  amount_m: 11.0
   lead_investors:
   - M12 (Microsoft Ventures)
   source: https://websets.exa.ai/websets/directory/innovaccer-funding
 - stage: Series C
   date: 2020-02
-  amount_m: 70
+  amount_m: 70.0
   lead_investors:
   - Tiger Global
   source: https://news.crunchbase.com/startups/innovaccer-raises-70m-to-collect-and-consolidate-health-data/
 - stage: Series D
   date: 2021-02
-  amount_m: 105
-  valuation_m: 1000
+  amount_m: 105.0
+  valuation_m: 1000.0
   lead_investors:
   - Tiger Global
   source: https://www.fiercehealthcare.com/tech/big-data-startup-innovaccer-nabs-150m-catapults-to-3-2b-valuation
 - stage: Series E
   date: 2021-12
-  amount_m: 150
-  valuation_m: 3200
+  amount_m: 150.0
+  valuation_m: 3200.0
   lead_investors:
   - Mubadala Capital
   - Schonfeld Strategic Advisors
   source: https://www.mobihealthnews.com/news/innovaccer-scores-150m-healthcarecom-closes-180m-round-and-more-digital-health-fundings
 - stage: Series F
   date: 2025-01
-  amount_m: 275
-  valuation_m: 3450
+  amount_m: 275.0
+  valuation_m: 3450.0
   lead_investors:
   - B Capital Group
   - Kaiser Permanente
@@ -83,6 +79,8 @@ crunchbase: https://www.crunchbase.com/organization/innovaccer
 crunchbase_verified: true
 name: Innovaccer
 linkedin_verified: true
+total_raised_m: 675.0
+latest_valuation_m: 3450.0
 ---
 
 # Innovaccer -- Healthcare AI & Data Platform

@@ -28,7 +28,6 @@ funding_rounds:
 - stage: Seed
   date: '2022'
   amount_m: 100.0
-  valuation_m: null
   lead_investors:
   - Brett Adcock (personal capital)
   source: https://en.wikipedia.org/wiki/Figure_AI

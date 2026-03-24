@@ -16,8 +16,6 @@ founders:
 funding_rounds:
 - stage: Series D
   date: ~2023
-  amount_m: null
-  valuation_m: null
   lead_investors:
   - SoftBank Vision Fund II
   other_investors:
@@ -28,8 +26,6 @@ funding_rounds:
     '
 - stage: Series E
   date: 2025-01-07
-  amount_m: null
-  valuation_m: null
   lead_investors:
   - Guoxin Investment
   - Pudong Venture Capital

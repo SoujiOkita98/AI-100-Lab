@@ -18,26 +18,25 @@ founders:
 funding_rounds:
 - stage: Seed
   date: 2020
-  amount_m: null
   lead_investors:
   - Y Combinator
   - Afore Capital
   source: https://www.crunchbase.com/organization/hightouch
 - stage: Series A
   date: 2021
-  amount_m: 12
+  amount_m: 12.0
   lead_investors:
   - Amplify Partners
   source: https://www.crunchbase.com/organization/hightouch
 - stage: Series B
   date: 2023-07
-  amount_m: 38
+  amount_m: 38.0
   lead_investors:
   - ICONIQ Growth
   source: https://hightouch.com/blog/funding-announcment-customer-360-toolkit
 - stage: Series C
   date: 2025-02
-  amount_m: 80
+  amount_m: 80.0
   lead_investors:
   - Sapphire Ventures
   source: https://hightouch.com/blog/hightouch-funding-series-c

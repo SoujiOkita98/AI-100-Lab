@@ -18,8 +18,6 @@ founders:
   origin: American
 ceo: Mike Nolan
 employees: ~400-500 (estimated)
-latest_valuation: $1.5B (estimated, Series D era)
-total_funding: $1.35B
 stage: Pre-IPO (SPAC announced Dec 2025)
 status: Private (going public via SPAC in 2026)
 website: https://freenome.com
@@ -35,33 +33,33 @@ funding_rounds:
   source: https://techcrunch.com/2017/03/01/in-liquid-biopsy-race-freenome-lands-65-million-led-by-andreessen-horowitz/
 - stage: Series A
   date: 2017-03
-  amount_m: 65
+  amount_m: 65.0
   lead_investors:
   - Andreessen Horowitz
   source: https://www.businesswire.com/news/home/20170301005927/en/Freenome-Announces-65-Million-in-Series-A-Funding-Led-by-Andreessen-Horowitz
 - stage: Series B
   date: 2019-06
-  amount_m: 160
+  amount_m: 160.0
   lead_investors:
   - RA Capital Management
   - Polaris Partners
   source: https://www.freenome.com/newsroom/freenome-closes-160-million-series-b-financing-to-advance-its-multiomics-blood-testing-platform-for-early-cancer-detection/
 - stage: Series C
   date: 2020-08
-  amount_m: 270
+  amount_m: 270.0
   lead_investors:
   - Sands Capital
   source: https://news.crunchbase.com/venture/freenome-secures-270m-series-c-to-research-cancer-detecting-blood-tests/
 - stage: Series D
   date: 2021-11
-  amount_m: 300
+  amount_m: 300.0
   lead_investors:
   - Perceptive Advisors
   source: https://www.crunchbase.com/funding_round/freenome-series-d--57c96f4d
 - stage: Series E
   date: 2024-02
-  amount_m: 254
-  valuation_m: 2170
+  amount_m: 254.0
+  valuation_m: 2170.0
   lead_investors:
   - Roche
   - T. Rowe Price
@@ -75,6 +73,8 @@ crunchbase: https://www.crunchbase.com/organization/freenome
 crunchbase_verified: true
 name: Freenome
 linkedin_verified: true
+total_raised_m: 1350.0
+latest_valuation_m: 1500.0
 ---
 
 # Freenome

@@ -1,6 +1,5 @@
 ---
 company_name: Hadrius
-legal_name: Hadrius, Inc.
 website: https://www.hadrius.com
 one_liner: AI-native compliance platform for SEC and FINRA-regulated financial firms, automating marketing review, trade monitoring,
   and communications archiving
@@ -17,7 +16,6 @@ founders:
 - name: Allen Calderwood
   role: Co-Founder
   origin: American
-latest_valuation: Undisclosed
 total_funding_raised: $28.8M
 arr_estimate: Undisclosed
 employee_count_estimate: ~50 (as of Jan 2026, per Tracxn)
@@ -30,7 +28,7 @@ total_raised_m: 28.8
 funding_rounds:
 - stage: Seed
   date: 2023-09
-  amount_m: 2
+  amount_m: 2.0
   lead_investors:
   - Y Combinator
   source: https://www.prnewswire.com/news-releases/yc-backed-hadrius-raises-2m-seed-round-to-power-sec-compliance-using-ai-301918190.html

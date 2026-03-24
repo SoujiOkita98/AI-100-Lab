@@ -10,11 +10,10 @@ status: active
 funding_rounds:
 - stage: Series B
   date: 2023-08
-  amount_m: 56
-  valuation_m: 500
+  amount_m: 56.0
+  valuation_m: 500.0
   lead_investors:
   - M12
-latest_valuation: 500
 last_updated: 2026-03-21
 confidence: medium
 twitter: '@inworld_ai'
@@ -34,6 +33,7 @@ founders:
   origin: Russian
 linkedin: https://www.linkedin.com/company/inworld-ai/
 linkedin_verified: true
+latest_valuation_m: 500.0
 ---
 
 # Inworld AI

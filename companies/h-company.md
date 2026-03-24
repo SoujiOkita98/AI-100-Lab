@@ -1,6 +1,5 @@
 ---
 name: H Company
-legal_name: H Company SAS
 founded: 2023
 headquarters: Paris, France (with offices in London and New York)
 headcount: ~201 (as of 2025)
@@ -8,29 +7,22 @@ website: https://hcompany.ai
 product: Runner H (autonomous agent API), Holo-1 (vision model), Tester H (QA agent)
 sector: AI / Autonomous Agents / Enterprise Automation
 stage: Seed (latest round May 2024)
-latest_valuation: Undisclosed (est. $2B+ based on seed size)
-total_funding: $220M
 status: Active, Private
 founders:
 - name: Charles Kantor
   role: Co-founder
-  ethnicity: French
   origin: American
 - name: Laurent Sifre
   role: Co-founder
-  ethnicity: French
   origin: French
 - name: Daan Wierstra
   role: Co-founder (departed Aug 2024)
-  ethnicity: Dutch
   origin: Dutch
 - name: Karl Tuyls
   role: Co-founder (departed Aug 2024)
-  ethnicity: Belgian/Dutch
   origin: Belgian
 - name: Julien Perolat
   role: Co-founder (departed Aug 2024)
-  ethnicity: French
   origin: French
 key_investors:
 - Accel
@@ -46,7 +38,7 @@ key_investors:
 funding_rounds:
 - stage: Seed
   date: 2024-05
-  amount_m: 220
+  amount_m: 220.0
   lead_investors:
   - Eric Schmidt
   - Amazon
@@ -58,6 +50,7 @@ crunchbase: https://www.crunchbase.com/organization/h-company
 crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/h-company-ai
 linkedin_verified: true
+total_raised_m: 220.0
 ---
 
 # H Company

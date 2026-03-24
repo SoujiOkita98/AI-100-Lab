@@ -27,7 +27,6 @@ founders:
 funding_rounds:
 - stage: Seed / Early (details sparse)
   date: ~2017-2018
-  amount_m: null
   source: https://tracxn.com/d/companies/deepl/__mTFDDSjOlFbUE5DY_w1NWY3gI5ttRRBOXtV7p6GCqJE/funding-and-investors
   notes: Initial backing from Benchmark and btov Partners.
 - stage: Series B (sometimes reported as Series A)

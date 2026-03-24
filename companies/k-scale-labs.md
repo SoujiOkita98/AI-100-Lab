@@ -20,12 +20,12 @@ founders:
 funding_rounds:
 - stage: Seed
   date: 2024-02
-  amount_m: 4
+  amount_m: 4.0
   lead_investors:
   - Fellows Fund
 - stage: Angel
   date: 2024-04
-  amount_m: 0.25
+  amount_m: 0.2
   lead_investors:
   - Nat Friedman
   - Daniel Gross

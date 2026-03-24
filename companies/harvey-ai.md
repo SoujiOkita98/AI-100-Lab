@@ -1,6 +1,5 @@
 ---
 company_name: Harvey AI
-legal_name: Harvey Inc.
 website: https://www.harvey.ai
 sector: Legal AI / Professional Services AI
 founded: '2022'
@@ -12,7 +11,6 @@ founders:
 - name: Gabriel Pereyra
   role: President & Co-Founder
   origin: Latin American
-latest_valuation: $11B (reported, Feb 2026)
 total_funding_raised: ~$1.2B
 arr_estimate: ~$195M (end of 2025)
 employee_count_estimate: ~1,000 (uncertain; not independently confirmed)
@@ -21,50 +19,50 @@ last_updated: 2026-03-20
 funding_rounds:
 - stage: Seed
   date: 2022-11
-  amount_m: 5
+  amount_m: 5.0
   lead_investors:
   - OpenAI Startup Fund
   source: https://www.thesaasnews.com/news/harvey-raises-5-million-in-funding
 - stage: Series A
   date: 2023-04
-  amount_m: 21
+  amount_m: 21.0
   lead_investors:
   - Sequoia Capital
   source: https://legaltechnology.com/2023/04/27/investment-harvey-raises-21m-series-a-and-dori-comes-out-of-stealth-mode-with-2m-seed-raise/
 - stage: Series B
   date: 2023-12
-  amount_m: 80
-  valuation_m: 715
+  amount_m: 80.0
+  valuation_m: 715.0
   lead_investors:
   - Elad Gil
   - Kleiner Perkins
   source: https://www.harvey.ai/blog/series-b
 - stage: Series C
   date: 2024-07
-  amount_m: 100
-  valuation_m: 1500
+  amount_m: 100.0
+  valuation_m: 1500.0
   lead_investors:
   - GV
   source: https://techcrunch.com/2024/07/23/openai-backed-legaltech-startup-harvey-raises-100m/
 - stage: Series D
   date: 2025-02
-  amount_m: 300
-  valuation_m: 3000
+  amount_m: 300.0
+  valuation_m: 3000.0
   lead_investors:
   - Sequoia Capital
   source: https://fortune.com/2025/02/12/legal-ai-startup-harvey-300-million-series-d-funding-3-billion-valuation-sequoia/
 - stage: Series E
   date: 2025-06
-  amount_m: 300
-  valuation_m: 5000
+  amount_m: 300.0
+  valuation_m: 5000.0
   lead_investors:
   - Kleiner Perkins
   - Coatue
   source: https://www.harvey.ai/blog/harvey-raises-series-e
 - stage: Series F
   date: 2025-12
-  amount_m: 160
-  valuation_m: 8000
+  amount_m: 160.0
+  valuation_m: 8000.0
   lead_investors:
   - Andreessen Horowitz
   source: https://www.harvey.ai/blog/andreessen-horowitz-leads-dollar160m-investment-in-harvey
@@ -77,6 +75,7 @@ crunchbase_verified: true
 total_raised_m: 966.0
 name: Harvey AI
 linkedin_verified: true
+latest_valuation_m: 11000.0
 ---
 
 # Harvey AI -- Company Profile

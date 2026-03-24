@@ -16,43 +16,41 @@ founders:
 funding_rounds:
 - stage: Seed
   date: 2016
-  amount_m: null
   lead_investors:
   - Norwest Venture Partners
   source: https://www.crunchbase.com/organization/gong-io
 - stage: Series A
   date: 2017
-  amount_m: null
   lead_investors:
   - Norwest Venture Partners
   source: https://www.crunchbase.com/organization/gong-io
 - stage: Series A1
   date: 2018
-  amount_m: 20
+  amount_m: 20.0
   lead_investors:
   - Norwest Venture Partners
   source: https://www.gong.io/press/gong-io-raises-20-million-in-series-a1-funding-to-transform-sales-conversations
 - stage: Series B
   date: 2019
-  amount_m: 40
+  amount_m: 40.0
   lead_investors:
   - Battery Ventures
   source: https://www.gong.io/press/gong-io-raises-40-million-to-transform-sales-with-ai
 - stage: Series C
   date: 2019
-  amount_m: 65
+  amount_m: 65.0
   lead_investors:
   - Sequoia Capital
   source: https://www.crunchbase.com/organization/gong-io
 - stage: Series D
   date: 2020-08
-  amount_m: 200
+  amount_m: 200.0
   lead_investors:
   - Coatue
   source: https://www.gong.io/press/gong-raises-200-million-in-series-d-funding
 - stage: Series E
   date: 2021-06
-  amount_m: 250
+  amount_m: 250.0
   lead_investors:
   - Franklin Templeton
   source: https://www.gong.io/press/gong-raises-250-million-in-series-e-funding-at-7-25-billion-valuation

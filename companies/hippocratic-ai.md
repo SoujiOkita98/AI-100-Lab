@@ -11,8 +11,6 @@ founders:
   origin: Indian-American
 ceo: Munjal Shah
 employees: ~200-260 (estimates vary by source; ~211 as of Dec 2025)
-latest_valuation: $3.5B (Series C, Nov 2025)
-total_funding: $404M
 stage: Series C
 status: Private
 website: https://hippocraticai.com
@@ -20,42 +18,41 @@ last_updated: 2026-03-20
 funding_rounds:
 - stage: Seed
   date: 2023-05
-  amount_m: 50
+  amount_m: 50.0
   lead_investors:
   - General Catalyst
   - Andreessen Horowitz
   source: https://www.globenewswire.com/en/news-release/2023/05/16/2670039/0/en/
 - stage: Seed Extension
   date: 2023-07
-  amount_m: 15
+  amount_m: 15.0
   lead_investors:
   - General Catalyst
   - Andreessen Horowitz
   source: https://hippocraticai.com/press/
 - stage: Series A
   date: 2024-03
-  amount_m: 53
-  valuation_m: 500
+  amount_m: 53.0
+  valuation_m: 500.0
   lead_investors:
   - Premji Invest
   - General Catalyst
   source: https://www.globenewswire.com/news-release/2024/03/18/2848237/0/en/
 - stage: Series A Extension
   date: 2024-09
-  amount_m: 17
+  amount_m: 17.0
   lead_investors:
   - NVentures (NVIDIA)
   source: https://vator.tv/news/2024-09-20-hippocratic-ai-adds-17m-to-its-series-a-funding-partners-with-nvidia
 - stage: Series B
   date: 2025-01
-  amount_m: 141
-  valuation_m: 1640
-  lead_investors: []
+  amount_m: 141.0
+  valuation_m: 1640.0
   source: https://www.fiercehealthcare.com/ai-and-machine-learning/hippocratic-ai-banks-141m-series-b-hits-unicorn-status-it-rolls-out-ai
 - stage: Series C
   date: 2025-11
-  amount_m: 126
-  valuation_m: 3500
+  amount_m: 126.0
+  valuation_m: 3500.0
   lead_investors:
   - Avenir Growth
   source: https://hippocraticai.com/hippocratic-ai-announces-series-c-funding-126-million/
@@ -67,6 +64,8 @@ crunchbase: https://www.crunchbase.com/organization/hippocratic-ai
 crunchbase_verified: true
 name: Hippocratic AI
 linkedin_verified: true
+total_raised_m: 404.0
+latest_valuation_m: 3500.0
 ---
 
 # Hippocratic AI

@@ -1,7 +1,6 @@
 ---
 name: Gather AI
 founded: 2017
-incorporated_country: USA
 other_offices: []
 sector: Warehouse Automation / Autonomous Drones
 employee_count_approx: ~60
@@ -11,40 +10,32 @@ last_updated: 2026-03-20
 founders:
 - name: Sankalp Arora
   role: Co-founder & CEO
-  background: 'PhD from Carnegie Mellon University''s Robotics Institute. Co-built one of the first autonomous helicopters,
+  background: PhD from Carnegie Mellon University's Robotics Institute. Co-built one of the first autonomous helicopters,
     tested at FBI training grounds in Quantico. Led Gather AI from CMU spinout to commercial warehouse drone platform.
-
-    '
   origin: Indian-American
 - name: Daniel Maturana
   role: Co-founder & CTO
-  background: 'PhD from Carnegie Mellon University''s Robotics Institute. Expert in computer vision and 3D perception for
-    autonomous systems.
-
-    '
+  background: PhD from Carnegie Mellon University's Robotics Institute. Expert in computer vision and 3D perception for autonomous
+    systems.
   origin: Chilean-American
 - name: Geetesh Dubey
   role: Co-founder
-  background: 'PhD student at Carnegie Mellon University. Co-developed the autonomous helicopter technology that preceded
-    Gather AI.
-
-    '
+  background: PhD student at Carnegie Mellon University. Co-developed the autonomous helicopter technology that preceded Gather
+    AI.
   origin: Indian
 funding_rounds:
 - stage: Seed
   date: ~2019
-  amount: Undisclosed
-  valuation: Unknown
-  lead_investors: []
-  other_investors: []
+  amount_m: null
+  valuation_m: null
   source: https://www.gather.ai
   notes: 'Early stage funding after spinning out of CMU Robotics Institute.
 
     '
 - stage: Series A-1
   date: 2024-03
-  amount: $17M
-  valuation: ~$72M (reported)
+  amount_m: 17.0
+  valuation_m: 72.0
   lead_investors:
   - Bain Capital Ventures
   other_investors:
@@ -58,8 +49,8 @@ funding_rounds:
     '
 - stage: Series B
   date: 2026-02-09
-  amount: $40M
-  valuation: Unknown
+  amount_m: 40.0
+  valuation_m: null
   lead_investors:
   - Smith Point Capital (Keith Block, former Salesforce co-CEO)
   other_investors:
@@ -70,7 +61,6 @@ funding_rounds:
   notes: 'Brought total funding to $74M. Led by Keith Block''s VC firm, signaling enterprise SaaS credibility for the platform.
 
     '
-total_known_funding: ~$74M
 one_liner: Gather AI is a Pittsburgh-based physical AI company that uses autonomous drones and AI-powered cameras to monitor
   warehouse inventory in real time
 website_verified: true
@@ -79,6 +69,7 @@ crunchbase: https://www.crunchbase.com/organization/gather-ai
 crunchbase_verified: true
 headquarters: Pittsburgh, Pennsylvania, USA
 linkedin_verified: true
+total_raised_m: 74.0
 ---
 
 # Gather AI

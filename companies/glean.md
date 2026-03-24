@@ -1,15 +1,11 @@
 ---
 company: Glean
-legal_name: Glean Technologies, Inc.
 website: https://www.glean.com
-domain: glean.com
 sector: Enterprise AI / AI-Powered Workplace Search & Agents
 founded: 2019
 headquarters: Palo Alto, California
 ceo: Arvind Jain
 employees_approx: 850+
-latest_valuation: $7.2B (Series F, June 2025)
-total_funding: ~$765M
 arr: $200M (as of December 2025)
 status: Private
 founders:
@@ -44,37 +40,37 @@ funding_rounds:
   source: https://tracxn.com/d/companies/glean/
 - stage: Series B
   date: 2021-03
-  amount_m: 40
+  amount_m: 40.0
   lead_investors:
   - General Catalyst
   source: https://en.wikipedia.org/wiki/Glean_Technologies
 - stage: Series C
   date: 2022-05
-  amount_m: 100
-  valuation_m: 1000
+  amount_m: 100.0
+  valuation_m: 1000.0
   lead_investors:
   - Sequoia Capital
   source: https://tracxn.com/d/companies/glean/
 - stage: Series D
   date: 2024-02
-  amount_m: 200
-  valuation_m: 2200
+  amount_m: 200.0
+  valuation_m: 2200.0
   lead_investors:
   - Kleiner Perkins
   - Lightspeed Venture Partners
   source: https://www.glean.com/blog/glean-series-d
 - stage: Series E
   date: 2024-09
-  amount_m: 260
-  valuation_m: 4600
+  amount_m: 260.0
+  valuation_m: 4600.0
   lead_investors:
   - Altimeter
   - DST Global
   source: https://www.glean.com/blog/glean-series-e-prompting-launch
 - stage: Series F
   date: 2025-06
-  amount_m: 150
-  valuation_m: 7200
+  amount_m: 150.0
+  valuation_m: 7200.0
   lead_investors:
   - Wellington Management
   source: https://www.glean.com/blog/glean-series-f-announcement
@@ -87,6 +83,8 @@ crunchbase: https://www.crunchbase.com/organization/glean
 crunchbase_verified: true
 name: Glean
 linkedin_verified: true
+total_raised_m: 765.0
+latest_valuation_m: 7200.0
 ---
 
 # Glean -- AI-Powered Enterprise Search & Work AI Platform

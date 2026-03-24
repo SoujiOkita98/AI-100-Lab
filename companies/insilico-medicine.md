@@ -24,6 +24,7 @@ crunchbase_verified: true
 total_raised_m: 1000.0
 name: Insilico Medicine
 linkedin_verified: true
+funding_rounds: []
 ---
 
 # Insilico Medicine

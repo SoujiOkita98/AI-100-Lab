@@ -1,13 +1,11 @@
 ---
 company_name: Greptile
-legal_name: Greptile Inc.
 founded: 2023
 headquarters: San Francisco, CA
 sector: AI-Powered Developer Tools
 sub_sector: AI Code Review / Code Validation
 website: https://www.greptile.com
 status: Private (Series A)
-valuation: ~$180M (post-money, September 2025)
 total_funding: ~$29M
 employee_count: ~10-15 (estimated, 2025)
 key_investors:
@@ -40,19 +38,20 @@ total_raised_m: 29
 funding_rounds:
 - stage: Seed
   date: '2024'
-  amount_m: 4
+  amount_m: 4.0
   lead_investors:
   - Initialized Capital
   source: https://www.crunchbase.com/organization/greptile
 - stage: Series A
   date: 2025-09
-  amount_m: 25
+  amount_m: 25.0
   lead_investors:
   - Benchmark Capital
   source: https://www.crunchbase.com/organization/greptile
 linkedin: https://www.linkedin.com/company/greptile/
 name: Greptile
 linkedin_verified: true
+latest_valuation_m: 180.0
 ---
 
 # Greptile

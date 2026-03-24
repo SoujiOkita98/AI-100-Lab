@@ -3,12 +3,8 @@ name: Kyutai
 website: https://kyutai.org
 one_liner: French open-science AI research lab focused on voice and audio AI, backed by Xavier Niel, Rodolphe Saade, and Eric
   Schmidt
-domain: kyutai.org
-headquarters: "Paris, France"
-hq_city: Paris
-hq_country: France
+headquarters: Paris, France
 founded: '2023'
-incorporated_country: France
 sector: Artificial Intelligence
 sub_sector: Foundation Models / Voice AI / Audio AI
 business_model: Nonprofit research lab (open-source models)
@@ -17,26 +13,15 @@ headcount_estimate: ~50
 founders:
 - name: Xavier Niel
   role: Co-founder & Primary Backer
-  nationality: French
-  prior_experience:
-  - Founder of Iliad Group / Free (telecom)
-  - Founder of Station F
-  source: https://techcrunch.com/2023/11/17/kyutai-is-an-french-ai-research-lab-with-a-330-million-budget-that-will-make-everything-open-source/
+  background: Founder of Iliad Group / Free (telecom); Founder of Station F
   origin: French
 - name: Rodolphe Saade
   role: Co-founder & Backer
-  nationality: French
-  prior_experience:
-  - CEO of CMA CGM Group (shipping & logistics)
-  source: https://techcrunch.com/2023/11/17/kyutai-is-an-french-ai-research-lab-with-a-330-million-budget-that-will-make-everything-open-source/
+  background: CEO of CMA CGM Group (shipping & logistics)
   origin: French
 - name: Eric Schmidt
   role: Co-founder & Backer
-  nationality: American
-  prior_experience:
-  - Former CEO & Chairman of Google
-  - Schmidt Futures
-  source: https://techcrunch.com/2023/11/17/kyutai-is-an-french-ai-research-lab-with-a-330-million-budget-that-will-make-everything-open-source/
+  background: Former CEO & Chairman of Google; Schmidt Futures
   origin: American
 key_leadership:
 - name: Patrick Perez
@@ -71,9 +56,8 @@ scientific_advisory_board:
 funding_rounds:
 - stage: Initial Endowment
   date: 2023-11
-  amount_eur: 300M
-  amount_usd: ~330M
-  contributors:
+  amount_m: 0.0
+  other_investors:
   - Xavier Niel / Iliad Group (~EUR100M)
   - Rodolphe Saade / CMA CGM Group (~EUR100M)
   - Eric Schmidt / Schmidt Futures

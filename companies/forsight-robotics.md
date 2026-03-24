@@ -25,7 +25,6 @@ funding_rounds:
 - stage: Series A
   date: ~2022
   amount_m: 70.0
-  valuation_m: null
   source: https://www.crunchbase.com/organization/forsight-robotics
   notes: 'Early rounds to develop the ORYOM ophthalmic surgical robotics platform.
 
@@ -33,7 +32,6 @@ funding_rounds:
 - stage: Series B
   date: 2025-06-24
   amount_m: 125.0
-  valuation_m: null
   lead_investors:
   - Eclipse
   other_investors:

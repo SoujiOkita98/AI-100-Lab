@@ -1,15 +1,11 @@
 ---
 company: Hasura
-legal_name: Hasura Inc.
 website: https://hasura.io
-domain: hasura.io
 sector: AI Data Infrastructure / API & Data Access Platform
 founded: 2013
 headquarters: San Francisco, California
 ceo: Tanmai Gopal
 employees_approx: 300+
-latest_valuation: $1.0B (Series C, February 2022)
-total_funding: ~$239M
 status: Private
 last_updated: 2026-03-20
 founders:
@@ -31,7 +27,7 @@ tags:
 funding_rounds:
 - stage: Seed
   date: 2017-08
-  amount_m: 1.62
+  amount_m: 1.6
   lead_investors:
   - Nexus Venture Partners
   source: https://www.crunchbase.com/organization/hasura
@@ -43,14 +39,14 @@ funding_rounds:
   source: https://www.businesswire.com/news/home/20200226005289/en/
 - stage: Series B
   date: 2020-09
-  amount_m: 25
+  amount_m: 25.0
   lead_investors:
   - Lightspeed Venture Partners
   source: https://www.crunchbase.com/funding_round/hasura-series-b--e79fe875
 - stage: Series C
   date: 2022-02
-  amount_m: 100
-  valuation_m: 1000
+  amount_m: 100.0
+  valuation_m: 1000.0
   lead_investors:
   - Greenoaks Capital
   source: https://techcrunch.com/2022/02/22/graphql-developer-platform-hasura-raises-100m-series-c/
@@ -60,6 +56,8 @@ crunchbase: https://www.crunchbase.com/organization/hasura
 crunchbase_verified: true
 name: Hasura
 linkedin_verified: true
+total_raised_m: 239.0
+latest_valuation_m: 1000.0
 ---
 
 # Hasura -- AI Data Infrastructure & API Platform

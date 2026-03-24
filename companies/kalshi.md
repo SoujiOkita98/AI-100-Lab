@@ -1,14 +1,11 @@
 ---
 name: Kalshi
-legal_name: Kalshi Inc.
 founded: 2018
 headquarters: New York, NY (Manhattan)
 website: https://kalshi.com
 product: Regulated prediction market platform for trading contracts on real-world outcomes
 sector: AI / Fintech / Prediction Markets
 stage: Series E (and beyond)
-latest_valuation: $22B (Mar 2026)
-total_funding: $1B+ (latest round alone; total significantly more)
 status: Active, Private
 founders:
 - name: Tarek Mansour
@@ -33,48 +30,48 @@ key_investors:
 funding_rounds:
 - stage: Pre-Seed
   date: 2019-01
-  amount_m: 0.15
+  amount_m: 0.1
   lead_investors:
   - Y Combinator
   source: https://www.crunchbase.com/funding_round/kalshi-pre-seed--fadc971d
 - stage: Series A
   date: 2021-02
-  amount_m: 30
+  amount_m: 30.0
   lead_investors:
   - Sequoia Capital
   source: https://techcrunch.com/2025/12/02/kalshi-raises-1b-at-11b-valuation-doubling-value-in-under-two-months/
 - stage: Series B
   date: '2022'
-  amount_m: 30
+  amount_m: 30.0
   lead_investors:
   - Andreessen Horowitz
   source: https://tracxn.com/d/companies/kalshi/
 - stage: Series C
   date: 2025-06
-  amount_m: 185
-  valuation_m: 2000
+  amount_m: 185.0
+  valuation_m: 2000.0
   lead_investors:
   - Paradigm
   source: https://compworth.com/news/2025/06/26/kalshi-raises-185-million-in-series-c-round-hits-2-billion-valuation
 - stage: Series D
   date: 2025-10
-  amount_m: 300
-  valuation_m: 5000
+  amount_m: 300.0
+  valuation_m: 5000.0
   lead_investors:
   - Andreessen Horowitz
   - Sequoia Capital
   source: https://news.kalshi.com/p/kalshi-hits-5-billion-valuation-amid-international-expansion
 - stage: Series E
   date: 2025-12
-  amount_m: 1000
-  valuation_m: 11000
+  amount_m: 1000.0
+  valuation_m: 11000.0
   lead_investors:
   - Paradigm
   source: https://news.crunchbase.com/fintech/kalshi-raises-funding-predictions-market-paradigm/
 - stage: Series F
   date: 2026-03
-  amount_m: 1000
-  valuation_m: 22000
+  amount_m: 1000.0
+  valuation_m: 22000.0
   lead_investors:
   - Coatue Management
   source: https://www.theblock.co/post/394498/kalshi-raises-over-1-billion-at-22-billion-valuation-in-ongoing-coatue-led-round-reports
@@ -87,6 +84,8 @@ linkedin: https://www.linkedin.com/company/kalshi
 crunchbase: https://www.crunchbase.com/organization/kalshi
 crunchbase_verified: true
 linkedin_verified: true
+total_raised_m: 1000.0
+latest_valuation_m: 22000.0
 ---
 
 # Kalshi

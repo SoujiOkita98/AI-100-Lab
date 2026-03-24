@@ -1,13 +1,10 @@
 ---
 company: LangChain
-legal_name: LangChain, Inc.
 founded: Janu
 headquarters: San Francisco, CA
 website: https://www.langchain.com
 sector: AI Infrastructure / Developer Tools
 stage: Series B
-latest_valuation: $1.25B (unicorn)
-total_funding: ~$260M
 headcount_estimate: ~200-230 (as of early 2026; sources vary)
 status: Private
 founders:
@@ -20,21 +17,21 @@ last_updated: 2026-03-20
 funding_rounds:
 - stage: Seed
   date: 2023-04
-  amount_m: 10
+  amount_m: 10.0
   lead_investors:
   - Benchmark
   source: https://latenode.com/blog/langchain-funding-valuation-2025
 - stage: Series A
   date: 2024-02
-  amount_m: 25
-  valuation_m: 200
+  amount_m: 25.0
+  valuation_m: 200.0
   lead_investors:
   - Sequoia Capital
   source: https://venturebeat.com/ai/langchain-lands-25m-round/
 - stage: Series B
   date: 2025-10
-  amount_m: 125
-  valuation_m: 1250
+  amount_m: 125.0
+  valuation_m: 1250.0
   lead_investors:
   - IVP
   source: https://techcrunch.com/2025/10/21/open-source-agentic-startup-langchain-hits-1-25b-valuation/
@@ -47,6 +44,8 @@ crunchbase: https://www.crunchbase.com/organization/langchain
 crunchbase_verified: true
 name: LangChain
 linkedin_verified: true
+total_raised_m: 260.0
+latest_valuation_m: 1250.0
 ---
 
 # LangChain

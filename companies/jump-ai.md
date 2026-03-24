@@ -1,6 +1,5 @@
 ---
 company_name: Jump
-legal_name: Jump Technology, Inc.
 website: https://jump.ai
 sector: AI for Financial Advisory
 founded: 2023
@@ -15,7 +14,6 @@ founders:
 - name: Adam Kirk
   role: Co-Founder
   origin: American
-latest_valuation: Undisclosed
 total_funding_raised: $105M
 arr_estimate: Undisclosed
 employee_count_estimate: ~50-100 (estimated)
@@ -30,13 +28,13 @@ funding_rounds:
   source: https://jump.ai/press/
 - stage: Series A
   date: 2025-02
-  amount_m: 20
+  amount_m: 20.0
   lead_investors:
   - Battery Ventures
   source: https://jump.ai/press/
 - stage: Series B
   date: '2025'
-  amount_m: 80
+  amount_m: 80.0
   lead_investors:
   - Insight Partners
   source: https://www.superbcrew.com/jump-raises-80-million/

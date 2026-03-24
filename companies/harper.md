@@ -1,6 +1,5 @@
 ---
 company: Harper
-legal_name: Harper Inc.
 founded: 2024
 headquarters: San Francisco, CA
 website: https://www.harperinsure.com
@@ -8,7 +7,6 @@ one_liner: AI-native commercial insurance brokerage that automates carrier match
   for small and mid-sized businesses
 sector: AI Applications / InsurTech
 stage: Series A
-latest_valuation: Undisclosed
 total_funding: ~$47M
 founders:
 - name: Dakotah Rice
@@ -42,12 +40,13 @@ total_raised_m: 47
 funding_rounds:
 - stage: Seed + Series A
   date: 2024-2025
-  amount_m: 47
+  amount_m: 47.0
   lead_investors:
   - Emergence Capital
   source: https://www.crunchbase.com/organization/harper
 name: Harper
 linkedin_verified: true
+status: active
 ---
 
 # Harper

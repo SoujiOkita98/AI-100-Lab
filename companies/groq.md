@@ -16,24 +16,23 @@ nvidia_deal_value_m: 20000
 funding_rounds:
 - stage: Series A
   date: 2016-12
-  amount_m: 10
-  valuation_m: 30
+  amount_m: 10.0
+  valuation_m: 30.0
   lead_investors:
   - Social Capital (Chamath Palihapitiya)
   source: https://techcrunch.com/2018/09/05/secretive-semiconductor-startup-groq-raises-52m-from-social-capital/
   notes: Very early bet by Chamath. The company was highly secretive at this stage.
 - stage: Series B
   date: 2018-09
-  amount_m: 52
-  valuation_m: null
+  amount_m: 52.0
   lead_investors:
   - Social Capital (Chamath Palihapitiya)
   source: https://techcrunch.com/2018/09/05/secretive-semiconductor-startup-groq-raises-52m-from-social-capital/
   notes: Raised $52.3M of a planned $60M round. Social Capital continued as lead.
 - stage: Series C
   date: 2021-04
-  amount_m: 300
-  valuation_m: 1000
+  amount_m: 300.0
+  valuation_m: 1000.0
   lead_investors:
   - Tiger Global Management
   - D1 Capital Partners
@@ -42,8 +41,8 @@ funding_rounds:
     here.
 - stage: Series D
   date: 2024-08
-  amount_m: 640
-  valuation_m: 2800
+  amount_m: 640.0
+  valuation_m: 2800.0
   lead_investors:
   - BlackRock Private Equity Partners
   source: https://groq.com/newsroom/groq-raises-640m-to-meet-soaring-demand-for-fast-ai-inference
@@ -51,8 +50,8 @@ funding_rounds:
     earmarked for scaling GroqCloud and deploying 100K+ additional LPUs.
 - stage: Series E
   date: 2025-09
-  amount_m: 750
-  valuation_m: 6900
+  amount_m: 750.0
+  valuation_m: 6900.0
   lead_investors:
   - Disruptive
   source: https://groq.com/newsroom/groq-raises-750-million-as-inference-demand-surges
@@ -60,8 +59,7 @@ funding_rounds:
     More than doubled the Series D valuation.
 - stage: Saudi Arabia / HUMAIN commitment
   date: 2025-02
-  amount_m: 1500
-  valuation_m: null
+  amount_m: 1500.0
   lead_investors:
   - Kingdom of Saudi Arabia (PIF / HUMAIN)
   source: https://groq.com/blog/saudi-arabia-announces-1-5-billion-expansion-to-fuel-ai-powered-economy-with-groq
@@ -69,8 +67,7 @@ funding_rounds:
     Groq became key tech provider for HUMAIN, Saudi's state-owned AI entity.
 - stage: Nvidia licensing / acqui-hire
   date: 2025-12
-  amount_m: 20000
-  valuation_m: null
+  amount_m: 20000.0
   lead_investors:
   - Nvidia
   source: https://www.cnbc.com/2025/12/24/nvidia-buying-ai-chip-startup-groq-for-about-20-billion-biggest-deal.html

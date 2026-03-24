@@ -17,8 +17,6 @@ founders:
 funding_rounds:
 - stage: Pre-Seed
   date: 2021-10
-  amount_m: null
-  lead_investors: []
   source: https://www.crunchbase.com/organization/instill-ai
 - stage: Seed
   date: 2023-02

@@ -1,10 +1,8 @@
 ---
 company: HeyGen
-legal_name: HeyGen, Inc.
 former_names:
 - Surreal (2020-2022, Shenzhen era)
 - Movio (2022-2023, early LA era)
-domain: AI Video Generation / Digital Avatars
 founded: Dece
 headquarters: Los Angeles, California, USA
 previous_headquarters: Shenzhen, China (2020-2022)
@@ -26,13 +24,6 @@ key_investors:
 - Thrive Capital
 - Conviction (Sarah Guo)
 - Bond Capital
-tags:
-- generative-ai
-- video-generation
-- digital-avatars
-- translation
-- enterprise-saas
-- chinese-founders
 competitors:
 - Synthesia
 - D-ID
@@ -56,13 +47,20 @@ funding_rounds:
   source: https://www.crunchbase.com/organization/heygen
 - stage: Series A
   date: 2024-06
-  amount_m: 60
+  amount_m: 60.0
   lead_investors:
   - Benchmark
   source: https://www.crunchbase.com/organization/heygen
 data_notes: Total ~$65.6-74.6M across multiple rounds. Exact seed amount undisclosed.
 name: HeyGen
 linkedin_verified: true
+sector:
+- generative-ai
+- video-generation
+- digital-avatars
+- translation
+- enterprise-saas
+- chinese-founders
 ---
 
 # HeyGen

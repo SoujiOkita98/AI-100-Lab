@@ -1,6 +1,5 @@
 ---
 company: Jasper
-legal_name: Jasper AI, Inc.
 former_names:
 - Conversion.ai (2021)
 - Jarvis.ai (2021, renamed after Disney cease-and-desist)
@@ -11,7 +10,6 @@ sector: AI-powered marketing / content generation
 stage: Series A (unicorn)
 valuation_peak: $1.5B (October 2022)
 valuation_current: ~$1.2B (estimated, post-2023 internal markdown of ~20%)
-total_funding: ~$131M
 employee_count_approx: 150-250 (uncertain; see notes below)
 status: Active, pivoted to enterprise AI-agent marketing platform
 founders:
@@ -33,8 +31,8 @@ last_updated: 2026-03-20
 funding_rounds:
 - stage: Series A
   date: 2022-10
-  amount_m: 125
-  valuation_m: 1500
+  amount_m: 125.0
+  valuation_m: 1500.0
   lead_investors:
   - Insight Partners
   source: https://www.jasper.ai/blog/jasper-announces-125m-series-a-funding
@@ -46,6 +44,7 @@ crunchbase: https://www.crunchbase.com/organization/jasper
 crunchbase_verified: true
 name: Jasper
 linkedin_verified: true
+total_raised_m: 131.0
 ---
 
 # Jasper -- AI Marketing Platform

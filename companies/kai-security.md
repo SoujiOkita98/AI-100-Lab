@@ -16,8 +16,7 @@ latest_valuation_m: null
 funding_rounds:
 - stage: Series A
   date: 2026-03
-  amount_m: 125
-  valuation_m: null
+  amount_m: 125.0
   lead_investors:
   - Evolution Equity Partners
   source: https://www.securityweek.com/kai-emerges-from-stealth-with-125m-in-funding-for-ai-platform-bridging-it-and-ot-security/

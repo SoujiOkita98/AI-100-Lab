@@ -7,16 +7,15 @@ status: active
 funding_rounds:
 - stage: Seed
   date: '2024'
-  amount_m: 60
+  amount_m: 60.0
   lead_investors:
   - Lanchi Ventures
 - stage: Series B
   date: 2025-11
-  amount_m: 275
-  valuation_m: 1250
+  amount_m: 275.0
+  valuation_m: 1250.0
   lead_investors:
   - Emergence Capital
-latest_valuation: 1250
 founders:
 - name: Eric Jing
   role: Co-Founder & CEO
@@ -42,6 +41,7 @@ crunchbase_verified: true
 twitter: '@genspark_ai'
 total_raised_m: 335.0
 linkedin_verified: true
+latest_valuation_m: 1250.0
 ---
 
 # Genspark

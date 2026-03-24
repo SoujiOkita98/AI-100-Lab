@@ -1,8 +1,6 @@
 ---
 name: Gumloop
-slug: gumloop
 website: https://www.gumloop.com
-domain: gumloop.com
 founded: 2023
 headquarters: San Francisco, CA (originally Vancouver, BC)
 sector: AI / Workflow Automation / No-Code
@@ -19,7 +17,8 @@ founders:
 - name: Rahul Behal
   role: Co-Founder
   background: Former machine learning engineer at Amazon. McGill University classmate of Max Brodeur-Urbas.
-one_liner: No-code AI automation platform enabling non-technical employees to build and deploy AI agents for multi-step workflows across Slack, Teams, and email
+one_liner: No-code AI automation platform enabling non-technical employees to build and deploy AI agents for multi-step workflows
+  across Slack, Teams, and email
 funding_rounds:
 - stage: Seed
   date: 2024-07
@@ -29,13 +28,13 @@ funding_rounds:
   source: https://www.gumloop.com/blog/seed-round
 - stage: Series A
   date: 2025-01
-  amount_m: 17
+  amount_m: 17.0
   lead_investors:
   - Nexus Venture Partners
   source: https://www.gumloop.com/blog/gumloops-17m-series-a
 - stage: Series B
   date: 2026-03
-  amount_m: 50
+  amount_m: 50.0
   lead_investors:
   - Benchmark
   source: https://techcrunch.com/2026/03/12/gumloop-lands-50m-from-benchmark-to-turn-every-employee-into-an-ai-agent-builder/

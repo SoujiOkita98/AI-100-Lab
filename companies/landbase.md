@@ -1,12 +1,9 @@
 ---
 name: Landbase
-slug: landbase
-domain: landbase.com
 founded: 2023
 headquarters: San Francisco, CA
 sector: AI / GTM Automation / Revenue Operations
 stage: Series A
-latest_valuation: Undisclosed
 total_funding_estimated: ~$42.5M
 revenue_arr: Undisclosed (825% revenue growth reported, 2025)
 employees: ~50 (estimated)
@@ -30,6 +27,7 @@ crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/landbase
 total_raised_m: 42.5
 linkedin_verified: true
+funding_rounds: []
 ---
 
 # Landbase

@@ -6,14 +6,12 @@ status: active
 funding_rounds:
 - stage: Seed
   date: 2025-09
-  amount_m: 10
+  amount_m: 10.0
   lead_investors:
   - New Wheel Capital
 founders:
 - name: Ian Barkley
   role: CEO
-  background: ''
-  origin: ''
 last_updated: 2026-03-21
 confidence: medium
 data_notes: 'Needs verification: website, founders, source_urls, headquarters. Profile may be incomplete.'

@@ -1,6 +1,5 @@
 ---
 company: Graphcore
-legal_name: Graphcore Ltd. (wholly owned subsidiary of SoftBank Group Corp.)
 founded: 2016
 headquarters: Bristol, United Kingdom
 sector: AI Hardware / Semiconductors (IPU Architecture)
@@ -29,6 +28,8 @@ linkedin: https://www.linkedin.com/company/graphcore
 total_raised_m: 720.0
 name: Graphcore
 linkedin_verified: true
+status: active
+funding_rounds: []
 ---
 
 # Graphcore

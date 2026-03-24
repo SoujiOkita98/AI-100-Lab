@@ -10,7 +10,7 @@ status: active
 funding_rounds:
 - stage: Pre-seed
   date: '2025'
-  amount_m: 0.445
+  amount_m: 0.4
   lead_investors:
   - Techstars
 founders:

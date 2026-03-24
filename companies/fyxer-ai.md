@@ -1,8 +1,6 @@
 ---
 name: Fyxer AI
-slug: fyxer-ai
 website: https://www.fyxer.com
-domain: fyxer.com
 founded: 2024
 headquarters: London, UK
 sector: AI / Productivity / Email Assistant
@@ -22,7 +20,8 @@ founders:
   background: Co-founded Fyxer with the Hollingsworth brothers.
 last_updated: 2026-03-23
 confidence: high
-one_liner: AI executive assistant that organizes inboxes, drafts emails, and creates meeting notes, growing from $1M to $17M ARR in just eight months
+one_liner: AI executive assistant that organizes inboxes, drafts emails, and creates meeting notes, growing from $1M to $17M
+  ARR in just eight months
 data_notes: 'Exceptional revenue growth trajectory. Ranked #9 on Sifted Top AI Startups in Europe.'
 crunchbase: https://www.crunchbase.com/organization/fyxer
 linkedin: https://www.linkedin.com/company/fyxer-ai
@@ -30,13 +29,13 @@ total_raised_m: 40
 funding_rounds:
 - stage: Series A
   date: 2025-03
-  amount_m: 10
+  amount_m: 10.0
   lead_investors:
   - 20VC
   source: https://www.finsmes.com/2025/03/fyxer-ai-raises-10m-in-funding.html
 - stage: Series B
   date: 2025-09
-  amount_m: 30
+  amount_m: 30.0
   lead_investors:
   - Madrona
   source: https://www.fyxer.com/blog/series-b-statement

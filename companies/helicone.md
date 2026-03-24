@@ -1,13 +1,10 @@
 ---
 company: Helicone
-legal_name: Helicone, Inc.
 founded: 2023
 headquarters: San Francisco, CA
 website: https://www.helicone.ai
 sector: AI Infrastructure / LLM Observability
 stage: Seed (Acquired)
-latest_valuation: ~$25M (at seed)
-total_funding: ~$5M
 headcount_estimate: ~5-10
 status: Acquired by Mintlify (Mar 2026)
 yc_batch: W23
@@ -34,16 +31,19 @@ funding_rounds:
   source: https://www.crunchbase.com/organization/helicone
 - stage: Seed
   date: 2024-09
-  amount_m: 5
-  valuation_m: 25
+  amount_m: 5.0
+  valuation_m: 25.0
   lead_investors:
   - Y Combinator
   source: https://salestools.io/en/report/helicone-5m-seed
-one_liner: Open-source LLM observability platform and AI gateway providing monitoring, evaluation, and experimentation with one line of code
+one_liner: Open-source LLM observability platform and AI gateway providing monitoring, evaluation, and experimentation with
+  one line of code
 website_verified: true
 linkedin: https://www.linkedin.com/company/helicone
 crunchbase: https://www.crunchbase.com/organization/helicone
 name: Helicone
+total_raised_m: 5.0
+latest_valuation_m: 25.0
 ---
 
 # Helicone

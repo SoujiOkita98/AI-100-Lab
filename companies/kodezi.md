@@ -1,13 +1,11 @@
 ---
 company_name: Kodezi
-legal_name: Kodezi Inc.
 founded: 2019
 headquarters: San Francisco, CA (originally Orlando, FL)
 sector: AI-Powered Developer Tools
 sub_sector: AI Code Debugging / Autonomous Code Maintenance
 website: https://kodezi.com
 status: Private (Seed)
-valuation: Undisclosed
 total_funding: ~$2M
 employee_count: ~9 (estimated, 2025)
 key_investors:

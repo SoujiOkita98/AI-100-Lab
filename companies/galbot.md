@@ -11,8 +11,6 @@ founders:
 founder_ceo: He Wang (Peking University Professor)
 sector: Humanoid Robotics / Embodied AI
 stage: Series B+ (late-stage private)
-reported_valuation_usd: ~$3B (Dec 2025)
-total_funding_usd: ~$363M+
 headcount: ~500+ (estimated)
 key_products:
 - Galbot G1 (mobile manipulation humanoid)
@@ -24,28 +22,27 @@ confidence_note: Valuation and funding figures from press reports (Caproasia, SC
 funding_rounds:
 - stage: Angel
   date: '2023'
-  amount_m: 97
-  lead_investors: []
+  amount_m: 97.0
   source: https://www.therobotreport.com/galbot-picks-up-153m-commercialize-g1-semi-humanoid/
 - stage: Series A
   date: 2025-06
-  amount_m: 153
-  valuation_m: 1000
+  amount_m: 153.0
+  valuation_m: 1000.0
   lead_investors:
   - CATL / Puquan Capital
   - Beijing Robotics Industry Fund
   source: https://technode.com/2025/06/25/galbot/
 - stage: Series B
   date: 2025-12
-  amount_m: 300
-  valuation_m: 3000
+  amount_m: 300.0
+  valuation_m: 3000.0
   lead_investors:
   - China Mobile Fund
   - CATL
   source: https://roboticsandautomationnews.com/2025/12/20/
 - stage: Series C
   date: 2026-03
-  amount_m: 363
+  amount_m: 363.0
   lead_investors:
   - National AI Industry Investment Fund
   - Bank of China
@@ -58,6 +55,9 @@ linkedin: https://www.linkedin.com/company/galbot-robotics
 crunchbase: https://www.crunchbase.com/organization/galbot
 crunchbase_verified: true
 linkedin_verified: true
+total_raised_m: 363.0
+latest_valuation_m: 3000.0
+status: active
 ---
 
 # Galbot (Galaxy General Robotics)

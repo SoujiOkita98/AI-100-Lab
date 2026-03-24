@@ -1,13 +1,11 @@
 ---
 company_name: Graphite
-legal_name: Graphite Software, Inc.
 founded: 2020
 headquarters: San Francisco, CA
 sector: AI-Powered Developer Tools
 sub_sector: AI Code Review / Developer Workflow
 website: https://graphite.com
 status: Acquired by Cursor (Anysphere) -- December 2025
-valuation: Undisclosed (acquisition); ~$550M+ implied (post-Series B trajectory)
 total_funding: ~$81M
 employee_count: Undisclosed (estimated 40-80)
 key_investors:
@@ -43,13 +41,13 @@ total_raised_m: 81
 funding_rounds:
 - stage: Seed / Series A
   date: 2021-2023
-  amount_m: 29
+  amount_m: 29.0
   lead_investors:
   - Various
   source: https://www.crunchbase.com/organization/graphite
 - stage: Series B
   date: 2025-03
-  amount_m: 52
+  amount_m: 52.0
   lead_investors:
   - Accel
   source: https://www.crunchbase.com/organization/graphite

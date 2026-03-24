@@ -1,7 +1,5 @@
 ---
 name: Isomorphic Labs
-slug: isomorphic-labs
-domain: AI Drug Discovery / Computational Biology
 founded: 2021
 incorporated: '2021-02-24'
 announced: '2021-11-04'
@@ -43,13 +41,6 @@ pharma_partnerships:
   focus: multi-modality (small molecules, biologics, peptides, molecular glues)
 core_technology: IsoDDE (Isomorphic Drug Design Engine), built on and beyond AlphaFold
 status: Pre-clinical; IND-enabling studies underway; first clinical trials targeted late 2026
-tags:
-- ai-drug-discovery
-- alphabet
-- deepmind
-- alphafold
-- computational-biology
-- biotech
 last_updated: 2026-03-20
 one_liner: Isomorphic Labs is an Alphabet subsidiary spun out of Google DeepMind to apply frontier AI to drug discovery
 website_verified: true
@@ -58,6 +49,14 @@ crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/isomorphic-labs
 total_raised_m: 600.0
 linkedin_verified: true
+sector:
+- ai-drug-discovery
+- alphabet
+- deepmind
+- alphafold
+- computational-biology
+- biotech
+funding_rounds: []
 ---
 
 # Isomorphic Labs

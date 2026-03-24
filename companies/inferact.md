@@ -23,15 +23,14 @@ founders:
 funding_rounds:
 - stage: Seed
   date: 2026-01
-  amount_m: 150
-  valuation_m: 800
+  amount_m: 150.0
+  valuation_m: 800.0
   lead_investors:
   - Andreessen Horowitz
   - Lightspeed Venture Partners
   - Sequoia
   - ZhenFund
   source: https://techcrunch.com/2026/01/22/inference-startup-inferact-lands-150m-to-commercialize-vllm/
-latest_valuation: 800
 last_updated: 2026-03-21
 confidence: medium
 data_notes: 'Needs verification: website, source_urls. Profile may be incomplete.'
@@ -42,6 +41,7 @@ crunchbase_verified: true
 total_raised_m: 150.0
 linkedin: https://www.linkedin.com/company/inferact/
 linkedin_verified: true
+latest_valuation_m: 800.0
 ---
 
 # Inferact

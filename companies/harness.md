@@ -1,6 +1,5 @@
 ---
 company_name: Harness
-legal_name: Harness Inc.
 founded: 2017
 headquarters: San Francisco, CA
 sector: AI-Powered Developer Tools
@@ -9,8 +8,6 @@ website: https://www.harness.io
 one_liner: AI-native software delivery platform that automates CI/CD, testing, security, and cloud cost optimization across
   the entire DevOps lifecycle
 status: Private (Series E)
-valuation: ~$5.5B (post-money, December 2025)
-total_funding: ~$654M
 employee_count: ~1,000+ (estimated, 2025)
 key_investors:
 - Goldman Sachs
@@ -27,43 +24,43 @@ confidence: high
 funding_rounds:
 - stage: Series A
   date: 2017-10
-  amount_m: 20
+  amount_m: 20.0
   lead_investors:
   - BIG Labs
   - Menlo Ventures
   source: https://tracxn.com/d/companies/harness/
 - stage: Series B
   date: 2019-04
-  amount_m: 60
+  amount_m: 60.0
   lead_investors:
   - Google Ventures
   - IVP
   source: https://tracxn.com/d/companies/harness/
 - stage: Series C
   date: 2021-01
-  amount_m: 85
-  valuation_m: 1600
+  amount_m: 85.0
+  valuation_m: 1600.0
   lead_investors:
   - Alkeon Capital
   source: https://www.crunchbase.com/funding_round/harness-512d-series-c--10e8b860
 - stage: Series D
   date: 2022-04
-  amount_m: 230
-  valuation_m: 3700
+  amount_m: 230.0
+  valuation_m: 3700.0
   lead_investors:
   - Norwest Venture Partners
   source: https://www.harness.io/blog/harness-valuation-soars-to-3-7-billion-with-230-million-in-series-d-funding
 - stage: Debt Financing
   date: 2024-05
-  amount_m: 150
+  amount_m: 150.0
   lead_investors:
   - Silicon Valley Bank
   - Hercules Capital
   source: https://techcrunch.com/2024/05/14/after-surpassing-100m-in-arr-harness-labs-grabs-a-150m-line-of-credit/
 - stage: Series E
   date: 2025-12
-  amount_m: 240
-  valuation_m: 5500
+  amount_m: 240.0
+  valuation_m: 5500.0
   lead_investors:
   - Goldman Sachs Alternatives
   source: https://techcrunch.com/2025/12/11/harness-hits-5-5b-valuation-with-240m-to-automate-ais-after-code-gap/
@@ -83,6 +80,8 @@ founders:
   origin: Indian
 name: Harness
 linkedin_verified: true
+total_raised_m: 654.0
+latest_valuation_m: 5500.0
 ---
 
 # Harness

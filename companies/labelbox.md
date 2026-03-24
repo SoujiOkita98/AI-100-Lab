@@ -1,6 +1,5 @@
 ---
 company: Labelbox
-legal_name: Labelbox, Inc.
 founded: '2018'
 headquarters: San Francisco, CA (510 Treat Ave, San Francisco, CA 94110)
 sector: AI Infrastructure / Data Labeling & Training
@@ -19,9 +18,7 @@ founders:
   role: Co-founder
   background: Software developer; early work in medical diagnostic imaging tools
   origin: American
-total_funding: ~$189M
 latest_round: Series D ($110M, Jan 2022)
-latest_valuation: ~$1B (estimated at Series D)
 key_investors:
 - SoftBank Vision Fund 2 (led Series D)
 - Andreessen Horowitz
@@ -46,25 +43,25 @@ funding_rounds:
   source: https://tracxn.com/d/companies/labelbox/
 - stage: Series A
   date: 2019-01
-  amount_m: 10
+  amount_m: 10.0
   lead_investors:
   - Gradient Ventures
   source: https://labelbox.com/blog/labelbox-series-a/
 - stage: Series B
   date: 2020-02
-  amount_m: 25
+  amount_m: 25.0
   lead_investors:
   - Andreessen Horowitz
   source: https://labelbox.com/blog/series-b-announcement/
 - stage: Series C
   date: 2021-02
-  amount_m: 40
+  amount_m: 40.0
   lead_investors:
   - B Capital Group
   source: https://www.globenewswire.com/news-release/2021/02/12/2175106/0/en/
 - stage: Series D
   date: 2022-01
-  amount_m: 110
+  amount_m: 110.0
   lead_investors:
   - SoftBank Vision Fund
   source: https://www.crunchbase.com/organization/labelbox
@@ -76,6 +73,8 @@ crunchbase: https://www.crunchbase.com/organization/labelbox
 crunchbase_verified: true
 name: Labelbox
 linkedin_verified: true
+total_raised_m: 189.0
+latest_valuation_m: 1000.0
 ---
 
 # Labelbox

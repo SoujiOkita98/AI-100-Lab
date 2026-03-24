@@ -5,8 +5,6 @@ sector: AI Productivity / Meeting Notes
 founded: 2023
 headquarters: London, United Kingdom
 website: https://www.granola.ai
-latest_valuation: ~$1B (targeting, early 2026); $250M confirmed (May 2025)
-total_funding: ~$125M+
 arr: ~$22M (fiscal year 2024)
 employees: ~30-50 (estimate)
 status: Private
@@ -26,21 +24,21 @@ confidence_notes: Series B ($43M at $250M) well-sourced via TechCrunch and Busin
 funding_rounds:
 - stage: Seed
   date: 2023-05
-  amount_m: 4.25
+  amount_m: 4.2
   lead_investors:
   - Lightspeed Venture Partners
   - betaworks
   source: https://www.granola.ai/blog/series-a
 - stage: Series A
   date: 2024-10
-  amount_m: 20
+  amount_m: 20.0
   lead_investors:
   - Spark Capital
   source: https://www.granola.ai/blog/series-a
 - stage: Series B
   date: 2025-05
-  amount_m: 43
-  valuation_m: 250
+  amount_m: 43.0
+  valuation_m: 250.0
   lead_investors:
   - NFDG (Nat Friedman / Daniel Gross)
   source: https://techcrunch.com/2025/05/14/ai-note-taking-app-granola-raises-43m/
@@ -51,6 +49,7 @@ linkedin: https://www.linkedin.com/company/meetgranola
 crunchbase: https://www.crunchbase.com/organization/granola
 crunchbase_verified: true
 linkedin_verified: true
+total_raised_m: 125.0
 ---
 
 # Granola -- AI Meeting Notes

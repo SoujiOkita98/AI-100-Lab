@@ -1,24 +1,23 @@
 ---
 company: Knowtex
-legal_name: Knowtex, Inc.
 founded: 2022
 headquarters: San Francisco, CA
 website: https://www.knowtex.ai
 sector: AI / Healthcare / Clinical AI
 stage: Seed
-latest_valuation: Undisclosed
-total_funding: ~$2M (estimated, excl. VA contract)
 headcount_estimate: ~15-25
 status: Private
 yc_batch: S22
 founders:
 - name: Caroline Zhang
   role: Co-Founder & CEO
-  background: Stanford CS (AI concentration) and Economics; previously at Schmidt Futures (AI research/policy), Morgan Stanley (investment banking), and Salk Institute (biomedical research); worked as medical scribe
+  background: Stanford CS (AI concentration) and Economics; previously at Schmidt Futures (AI research/policy), Morgan Stanley
+    (investment banking), and Salk Institute (biomedical research); worked as medical scribe
   origin: American
 - name: Jocelyn Kang
   role: Co-Founder & CTO
-  background: Stanford CS + Linguistics/Psychology (Summa Cum Laude, Phi Beta Kappa); founding product team member at Learn to Win; previously worked on AI/ML teams at multiple startups; worked as medical scribe
+  background: Stanford CS + Linguistics/Psychology (Summa Cum Laude, Phi Beta Kappa); founding product team member at Learn
+    to Win; previously worked on AI/ML teams at multiple startups; worked as medical scribe
   origin: American
 last_updated: 2026-03-23
 funding_rounds:
@@ -32,6 +31,7 @@ one_liner: AI-powered ambient clinical documentation and charge capture that mak
 website_verified: true
 linkedin: https://www.linkedin.com/company/knowtexai
 name: Knowtex
+total_raised_m: 2.0
 ---
 
 # Knowtex

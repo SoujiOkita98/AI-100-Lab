@@ -5,7 +5,6 @@ sector: AI Education / Student Learning Platform
 founded: 2020
 headquarters: Berlin, Germany
 website: https://knowunity.com
-latest_valuation: ~EUR150M (~$165M) (June 2025)
 total_funding: ~EUR45M (~$50M)
 users: 20M+ across 15 countries
 employees: ~80-100 (estimate)
@@ -47,13 +46,13 @@ funding_rounds:
   source: https://www.crunchbase.com/organization/knowunity
 - stage: Series A
   date: 2022-05
-  amount_m: 11
+  amount_m: 11.0
   lead_investors:
   - Undisclosed
   source: https://www.crunchbase.com/organization/knowunity
 - stage: Series B
   date: 2025-06
-  amount_m: 30
+  amount_m: 30.0
   lead_investors:
   - XAnge
   source: https://www.crunchbase.com/organization/knowunity

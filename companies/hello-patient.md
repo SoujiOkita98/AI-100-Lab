@@ -8,11 +8,10 @@ funding_rounds:
 - stage: Series A
   date: 2025-09
   amount_m: 22.5
-  valuation_m: 100
+  valuation_m: 100.0
   lead_investors:
   - Scale Venture Partners
   source: https://www.businesswire.com/news/home/20250904242038/en/
-latest_valuation: 100
 founders:
 - name: Alex Cohen
   role: Co-Founder & CEO
@@ -20,7 +19,6 @@ founders:
   origin: American
 - name: Nicholas DeRobertis
   role: Co-Founder & CTO
-  background: ''
   origin: American
 last_updated: 2026-03-21
 confidence: medium
@@ -33,6 +31,7 @@ crunchbase: https://www.crunchbase.com/organization/hello-patient
 crunchbase_verified: true
 total_raised_m: 22.5
 linkedin_verified: true
+latest_valuation_m: 100.0
 ---
 
 # Hello Patient

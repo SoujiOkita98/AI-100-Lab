@@ -1,7 +1,5 @@
 ---
 company_name: Hugging Face
-legal_name: Hugging Face, Inc.
-domain: huggingface.co
 founded: 2016
 headquarters: New York, NY, USA
 sector: Artificial Intelligence / Open-Source ML Platform
@@ -30,7 +28,6 @@ founders:
   origin: French
 one_liner: The open-source AI platform — 500K+ models, 100K+ datasets. Where the ML community collaborates.
 website: https://huggingface.co
-latest_valuation: 4500
 website_verified: true
 linkedin: https://www.linkedin.com/company/huggingface
 crunchbase: https://www.crunchbase.com/organization/hugging-face
@@ -39,6 +36,8 @@ twitter: '@huggingface'
 total_raised_m: 400.0
 name: Hugging Face
 linkedin_verified: true
+latest_valuation_m: 4500.0
+funding_rounds: []
 ---
 
 # Hugging Face
