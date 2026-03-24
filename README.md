@@ -1,6 +1,6 @@
 # AI-100-Lab
 
-**A research-grade database of 750+ AI and robotics startups worldwide — funding rounds, founder profiles, investor networks, and origin analysis.**
+**A research-grade database of 767 AI and robotics startups worldwide — funding rounds, founder profiles, investor networks, and origin analysis.**
 
 Built with research-grade rigor: every claim is sourced, uncertainty is marked explicitly, and quality takes precedence over completeness.
 
@@ -12,10 +12,8 @@ Built with research-grade rigor: every claim is sourced, uncertainty is marked e
 |--------|------:|
 | Companies | 767 |
 | Funding rounds | 1,635 |
-| Founders tracked | 1,737 |
-| 2025 seed rounds | 180+ |
-| 2026 seed rounds | 30+ |
-| Countries covered | 20+ |
+| Founders tracked | 1,770 |
+| Countries covered | 25+ |
 
 ## Data Quality
 
@@ -23,19 +21,26 @@ Built with research-grade rigor: every claim is sourced, uncertainty is marked e
 |-------|:--------:|-------|
 | Company name | 100% | |
 | Founded year | 100% | |
+| Website URL | 100% | Verified via HTTP request |
+| HQ location | 100% | City + country |
+| One-liner description | 100% | |
 | Sector/category | 98% | Multi-tag taxonomy |
-| Website URL | 96% | Verified via HTTP request |
-| HQ location | 95% | City + country |
-| One-liner description | 97% | Auto-extracted from narrative body where available |
-| Total funding raised | 94% | In millions USD, normalized across currencies |
-| Round amount | 97% | Per-round detail for 1,045 rounds |
-| Lead investors | 92% | Per-round |
-| Founder profiles | 100% | Name, role, background, origin — 1,426 founders |
-| Source URL | 73% | Traceable to original reporting |
-| Founder background | 66% | Education, prior companies, notable experience |
-| LinkedIn | 100% | 615 verified company page URLs |
-| Latest valuation | 32% | Sparse for seed/early stage (market reality) |
-| Revenue signals | 8% | Only where publicly disclosed |
+| Total funding raised | 99%+ | In millions USD, normalized across currencies |
+| Founder names | 100% | 1,770 founders with verified names |
+| Founder background | 78% | Education, prior companies, notable experience |
+| LinkedIn | 100% | All 767 verified via HTTP |
+| Round amount | 88% | Per-round detail for 1,635 rounds |
+| Lead investors | 94% | Per-round |
+| Source URL | 79% | Traceable to original reporting |
+| Latest valuation | 4% | Most startups don't disclose (market reality) |
+| Revenue signals | 3% | Only where publicly disclosed |
+
+### Honest Caveats
+
+- **Founder "background" is 78%, not 100%.** All 767 companies have founder names and roles, but 167 have name+role only — no education or work history.
+- **Valuation data is very sparse.** Only 35 companies have a recorded valuation. This is normal — seed and early-stage companies rarely disclose.
+- **Funding totals may undercount earlier rounds.** A random validation of 20 companies found only 8-9 had fully correct totals. We back-filled 121 missing rounds but gaps likely remain.
+- **Coverage is biased toward English-language media.** China (40), Japan (3), India (8) are underrepresented relative to their AI ecosystems.
 
 ---
 
@@ -90,8 +95,6 @@ funding_rounds:
     lead_investors: ["Jaan Tallinn", "Dustin Moskovitz"]
     source: "https://..."
 
-team_china_profile: "No known Chinese-origin founders."
-revenue_signals: "$19B annualized revenue as of March 2026."
 confidence: high
 last_updated: 2026-03-20
 ---
@@ -104,69 +107,42 @@ Anthropic is an AI safety company and one of the three leading frontier model la
 
 ---
 
-## Taxonomy & Tags
-
-### Sector Categories
-
-Companies are tagged with one or more sectors from this taxonomy:
-
-| Category | Examples | Count |
-|----------|---------|------:|
-| **Foundation Models** | OpenAI, Anthropic, Mistral, DeepSeek, xAI | 30+ |
-| **AI Infrastructure / Cloud** | Baseten, Together AI, Lambda, CoreWeave, Nscale | 25+ |
-| **AI Chips / Semiconductors** | Etched, Cerebras, d-Matrix, Groq, Celestial AI | 25+ |
-| **AI-Powered Developer Tools** | Cursor/Anysphere, Augment Code, Windsurf, Cognition AI | 20+ |
-| **AI Agents / Automation** | Sierra, /dev/agents, LangChain, Braintrust, CrewAI | 20+ |
-| **AI Healthcare / Biotech** | Hippocratic AI, Abridge, OpenEvidence, Rad AI | 25+ |
-| **AI Cybersecurity** | 7AI, Sola Security, Cylake, Tenzai, Oasis Security | 15+ |
-| **Humanoid Robotics** | Figure AI, 1X Technologies, Apptronik, AgiBot, Unitree | 15+ |
-| **AI Drug Discovery** | Xaira, Chai Discovery, Insilico Medicine, XtalPi | 12+ |
-| **AI Voice / Audio** | ElevenLabs, Deepgram, Gradium, Wispr AI | 10+ |
-| **AI Video / Media** | Runway, Pika, Luma AI, Synthesia, Fal, Higgsfield | 10+ |
-| **AI Legal** | Harvey AI, Luminance, Paxton, Eudia, Spellbook | 8+ |
-| **AI Finance / Fintech** | Kalshi, Samaya AI, Basis, Numeric | 8+ |
-| **AI Defense / GovTech** | Anduril, Shield AI, Overland AI, NODA AI, Pryzm | 10+ |
-| **AI for Science** | Periodic Labs, CuspAI, Lila Sciences, WindBorne | 8+ |
-| **AI EdTech** | MagicSchool AI, Brisk Teaching, Oboe | 5+ |
-| **AI Gaming** | General Intuition, Sett, Studio Atelico, Iconic | 5+ |
-| **AI Climate / Energy** | Emerald AI, OCELL, Tibo Energy | 5+ |
-
-### Founder Origin Tags
-
-Founder ethnicity/national origin is tracked where publicly known or inferable from names and backgrounds. Top categories:
-
-| Origin | Founders |
-|--------|--------:|
-| American | 178 |
-| Indian-American | 42 |
-| Israeli | 41 |
-| Chinese-American | 35 |
-| Chinese | 26 |
-| German | 22 |
-| Indian | 21 |
-| French | 19 |
-| British | 18 |
-| Dutch | 11 |
-| Canadian | 8 |
-| Swedish | 7 |
-
-### Geographic Coverage
+## Geographic Coverage
 
 | Region | Companies |
 |--------|----------:|
-| California, US | 192 |
-| New York, US | 28 |
-| Other US | 17 |
-| China | 31 |
-| United Kingdom | 27 |
-| Israel | 15 |
-| France | 10 |
-| Germany | 6 |
-| Canada | 6 |
-| South Korea | 3 |
-| Australia | 3 |
-| India | 2 |
-| Other (20+ countries) | 52 |
+| California, US | 370 |
+| New York, US | 73 |
+| Other US | 50 |
+| United Kingdom | 53 |
+| China / Hong Kong | 40 |
+| Israel | 39 |
+| Germany | 21 |
+| France | 18 |
+| Canada | 12 |
+| India | 8 |
+| South Korea | 6 |
+| Japan | 3 |
+| Other (20+ countries) | 74 |
+
+## Top Founder Origins
+
+| Origin | Founders |
+|--------|--------:|
+| American | 262 |
+| Israeli | 116 |
+| Indian-American | 89 |
+| Chinese | 81 |
+| Indian | 77 |
+| Chinese-American | 58 |
+| French | 54 |
+| German | 46 |
+| British | 37 |
+| Canadian | 20 |
+| Korean | 17 |
+| Dutch | 16 |
+| Swedish | 14 |
+| Iranian-American | 13 |
 
 ---
 
@@ -178,17 +154,16 @@ This database was built through systematic multi-source research, not a single d
 
 | Source | Method | What It Captures |
 |--------|--------|-----------------|
-| **VC Portfolio Pages** | Browser automation (browser-use CLI) scraping a16z, Index Ventures, Khosla Ventures, Greylock, General Catalyst, Accel, Felicis, Bessemer, NEA, Thrive, Coatue, Tiger Global | Portfolio companies, including stealth investments |
+| **VC Portfolio Pages** | Browser automation scraping a16z, Index, Khosla, Greylock, General Catalyst, Accel, Felicis, Bessemer, NEA, Thrive, Coatue, Tiger Global | Portfolio companies, including stealth investments |
+| **startups.gallery** | Sitemap cross-referencing (1,254 companies compared against our DB) | 86 AI companies we were missing, systematic gap-fill |
+| **Y Combinator Directory** | Batch-by-batch sweep: W22, S22, W23, S23, W24, S24, W25, S25 | 43 early-stage AI companies |
 | **TechCrunch Roundup Articles** | Definitive "$100M+ AI startups" lists cross-referenced | Authoritative coverage of major rounds |
 | **Crunchbase News** | Free articles and weekly roundups | Funding announcements, valuations |
-| **StartupHub.ai** | Structured funding round data | 2025 AI funding deals |
-| **startups.gallery** | Curated early-stage AI list | VC-vetted seed-stage companies |
-| **Y Combinator Directory** | W24, S24, W25, S25 batch scraping | Early-stage AI companies |
 | **SEC EDGAR Form D Filings** | Public fundraising filings via FormDs.com | Under-the-radar companies with zero press |
-| **Regional Tech Press** | Sifted (EU), TechNode (China), KrASIA (Asia), YourStory (India), etc. | International companies missed by US outlets |
+| **Regional Tech Press** | Sifted (EU), TechNode (China), KrASIA (Asia), YourStory (India), Calcalist (Israel) | International companies missed by US outlets |
 | **Weekly Funding Aggregators** | PYMNTS, SiliconANGLE, VentureBeat, HackerNoon, Crescendo.ai | Smaller deals ($3–20M) not covered individually |
-| **Company Websites & Press Releases** | Direct verification | Product info, team bios, logos |
-| **Web Search** | Google for specific companies, sectors, and geographies | Gap-filling and verification |
+| **Company Websites & Press Releases** | Direct verification | Product info, team bios |
+| **Random Validation** | 20-company random audit against Crunchbase/press | Found 8-9/20 correct; drove back-fill of 121 missing rounds |
 
 ### Data Quality Principles
 
@@ -200,11 +175,12 @@ This database was built through systematic multi-source research, not a single d
 
 ### Known Limitations
 
-- **Valuation data is sparse for seed/early stage** — most startups don't disclose seed valuations (35% coverage)
-- **Revenue data is rare** — only 11% of companies have revenue signals (private company reality)
+- **Valuation data is very sparse** — Only 4% of companies have a recorded valuation
+- **Revenue data is rare** — Only 3% have revenue signals (private company reality)
 - **Coverage is biased toward English-language media** — Chinese, Japanese, Korean companies are underrepresented
 - **Paywalled databases not used** — No Crunchbase Pro or PitchBook access; SEC EDGAR partially compensates
-- **Employee counts are stale** — Only 42% coverage, often from time of last funding announcement
+- **Founder backgrounds are incomplete** — 78% have full profiles; 22% have name+role only
+- **Funding totals may undercount** — Systematic undercounting of earlier rounds (pre-seed/seed) is a known issue
 
 ---
 
@@ -216,7 +192,7 @@ Clean, analysis-ready exports are in `exports/`:
 |------|-----:|-------------|
 | `companies_clean.csv` | 767 | One row per company — all normalized fields |
 | `rounds_clean.csv` | 1,635 | One row per funding round — stage, date, amount, valuation, investors |
-| `founders_clean.csv` | 1,737 | One row per founder — name, role, background, origin |
+| `founders_clean.csv` | 1,770 | One row per founder — name, role, background, origin |
 | `companies_clean.json` | 767 | Nested format — company + founders + rounds combined |
 
 ### CSV Field Reference
@@ -236,11 +212,11 @@ Clean, analysis-ready exports are in `exports/`:
 
 | Script | Purpose |
 |--------|---------|
-| `scripts/rebuild_clean_export.py` | Parse all 767 markdown files and regenerate clean CSV/JSON exports |
+| `scripts/rebuild_clean_export.py` | Parse all markdown files and regenerate clean CSV/JSON exports |
 | `scripts/inject_rounds.py` | Inject funding round data into existing company frontmatter from JSON |
 | `scripts/create_company.py` | Create new company markdown files from JSON input |
+| `scripts/verify_urls.py` | URL verification script — checks website and LinkedIn URLs via HTTP |
 | `scripts/overnight_pipeline.py` | Systematic VC portfolio scraper using browser-use CLI |
-| `scripts/vc_scraper.py` | Generic VC portfolio scraping utilities |
 
 ---
 
@@ -272,6 +248,7 @@ With the CSV exports, you can answer questions like:
 - **Founder origin breakdown by sector** → Join `founders_clean.csv` with `companies_clean.csv` on `company_slug`
 - **Chinese-founded AI startups and their total funding** → Filter founders by `origin LIKE '%Chinese%'`
 - **Fastest-growing startups by valuation trajectory** → Track `valuation_m` across rounds per company
+- **YC batch comparison** → Filter by YC batch tag in company profiles
 
 ---
 
