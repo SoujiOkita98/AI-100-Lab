@@ -1,13 +1,10 @@
 ---
 company: Shadeform
-legal_name: Shadeform AI, Inc.
 founded: 2023
 headquarters: San Francisco, CA
 website: https://shadeform.com
 sector: AI Infrastructure / GPU Cloud
 stage: Pre-Seed
-latest_valuation: Undisclosed
-total_funding: ~$1M (estimated)
 headcount_estimate: ~5-10
 status: Private
 yc_batch: S23
@@ -38,6 +35,7 @@ website_verified: true
 linkedin: https://www.linkedin.com/company/shadeformai
 crunchbase: https://www.crunchbase.com/organization/shadeform-ai
 name: Shadeform
+total_raised_m: 1.0
 ---
 
 # Shadeform

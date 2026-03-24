@@ -1,13 +1,10 @@
 ---
 company: Sweep
-legal_name: Sweep AI, Inc.
 founded: 2023
 headquarters: San Francisco, CA
 website: https://sweep.dev
 sector: AI / Developer Tools / Code Assistant
 stage: Seed
-latest_valuation: ~$25M (post-money)
-total_funding: ~$2.5M
 headcount_estimate: ~4
 status: Private
 yc_batch: S23
@@ -30,8 +27,8 @@ funding_rounds:
   source: https://www.ycombinator.com/companies/sweep
 - stage: Seed
   date: 2023-11
-  amount_m: 2
-  valuation_m: 25
+  amount_m: 2.0
+  valuation_m: 25.0
   lead_investors:
   - Goat Capital
   source: https://techcrunch.com/2023/11/02/sweep-aims-to-automate-basic-dev-tasks-using-large-language-models/
@@ -40,6 +37,8 @@ website_verified: true
 linkedin: https://www.linkedin.com/company/sweep-ai
 crunchbase: https://www.crunchbase.com/organization/sweep-ai
 name: Sweep
+total_raised_m: 2.5
+latest_valuation_m: 25.0
 ---
 
 # Sweep

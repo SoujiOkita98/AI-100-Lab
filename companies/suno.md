@@ -5,8 +5,6 @@ sector: AI Music Generation
 founded: 2021
 headquarters: Cambridge, Massachusetts
 website: https://suno.com
-latest_valuation: $2.45B (November 2025)
-total_funding: ~$375M+
 arr: $300M (February 2026)
 paid_subscribers: 2M (February 2026)
 employees: ~50-100 (estimate; exact figure uncertain)
@@ -17,15 +15,15 @@ confidence_notes: Funding figures and ARR are well-sourced via TechCrunch and MB
 funding_rounds:
 - stage: Series B
   date: 2024-05
-  amount_m: 125
-  valuation_m: 500
+  amount_m: 125.0
+  valuation_m: 500.0
   lead_investors:
   - Lightspeed Venture Partners
   source: https://www.waterandmusic.com/suno-funding-historic-shift-music-tech-investment/
 - stage: Series C
   date: 2025-11
-  amount_m: 250
-  valuation_m: 2450
+  amount_m: 250.0
+  valuation_m: 2450.0
   lead_investors:
   - Menlo Ventures
   source: https://techcrunch.com/2025/11/19/legally-embattled-ai-music-startup-suno-raises-at-2-45b-valuation/
@@ -54,6 +52,8 @@ founders:
   background: Former Kensho.
   origin: American
 linkedin_verified: true
+total_raised_m: 375.0
+latest_valuation_m: 2450.0
 ---
 
 # Suno — AI Music Generation

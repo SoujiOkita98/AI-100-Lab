@@ -9,7 +9,7 @@ status: active
 funding_rounds:
 - stage: Series A
   date: 2025-11
-  amount_m: 7
+  amount_m: 7.0
   lead_investors:
   - Stellaris Venture Partners
 last_updated: 2026-03-21
@@ -25,7 +25,6 @@ founders:
   origin: Indian
 - name: Karan Bedi
   role: Co-Founder
-  background: ''
   origin: Indian
 linkedin_verified: true
 ---

@@ -16,19 +16,18 @@ founders:
 funding_rounds:
 - stage: Seed
   date: 2020
-  amount_m: null
   lead_investors:
   - null
   source: https://www.crunchbase.com/organization/resemble-ai
 - stage: Series A
   date: 2023-07
-  amount_m: 8
+  amount_m: 8.0
   lead_investors:
   - Javelin Venture Partners
   source: https://techcrunch.com/2023/07/12/voice-cloning-platform-resemble-ai-lands-8m/
 - stage: Series B
   date: 2025-12
-  amount_m: 13
+  amount_m: 13.0
   lead_investors:
   - Google AI Futures Fund
   source: https://www.resemble.ai/resemble-ai-secures-13m-to-combat-rising-ai-generated-threats/

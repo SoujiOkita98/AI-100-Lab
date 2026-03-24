@@ -7,7 +7,7 @@ status: active
 funding_rounds:
 - stage: Series A
   date: 2025-09
-  amount_m: 30
+  amount_m: 30.0
   lead_investors:
   - Base10 Partners
   source: https://hitconsultant.net/2025/09/02/predoc-raises-30m/
@@ -24,7 +24,6 @@ total_raised_m: 30.0
 founders:
 - name: Nishant Hari
   role: Founder & CEO
-  background: ''
   origin: Indian-American
 - name: Kaushal Kulkarni
   role: Co-Founder & CMO
@@ -32,7 +31,6 @@ founders:
   origin: Indian-American
 - name: Alex Daniels
   role: Co-Founder & CTO
-  background: ''
   origin: American
 linkedin_verified: true
 ---

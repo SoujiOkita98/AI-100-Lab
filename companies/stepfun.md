@@ -1,7 +1,6 @@
 ---
 name: StepFun
 name_cn: 阶跃星辰
-legal_name: Shanghai Jieyue Xingchen Intelligent Technology Co., Ltd.
 founded: '2023'
 headquarters: Xuhui District, Shanghai, China
 ceo: Jiang Daxin (姜大昕)
@@ -49,6 +48,7 @@ founders:
   origin: Chinese
 total_raised_m: 1200.0
 linkedin_verified: true
+funding_rounds: []
 ---
 
 # StepFun (阶跃星辰)

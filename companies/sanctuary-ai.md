@@ -1,6 +1,5 @@
 ---
 company: Sanctuary AI
-legal_name: Sanctuary Cognitive Systems Corporation
 founded: 2018
 headquarters: Vancouver, British Columbia, Canada
 address: 201 - 1825 Quebec Street, Vancouver, BC
@@ -34,11 +33,11 @@ founders:
 current_ceo: James Wells (Interim CEO since Nov 2024; formerly Chief Commercial Officer)
 funding_total_approx_usd: ~$140M raised through mid-2024; actively raising US$175M more as of early 2025
 funding_rounds:
-- round: Seed / Early Rounds
-  details: Undisclosed early-stage funding post-2018 founding
-- round: Series A
+- stage: Seed / Early Rounds
+  date: ''
+- stage: Series A
   date: 2022-03
-  amount_usd: $58.5M (C$75.5M)
+  amount_m: null
   lead_investors:
   - Magna International
   other_investors:
@@ -48,18 +47,13 @@ funding_rounds:
   - SE Health
   - Verizon Ventures
   - Workday Ventures
-- round: Series A Extension / Follow-on
+- stage: Series A Extension / Follow-on
   date: 2024-07
-  details: Additional funding from BDC Capital Thrive Venture Fund and InBC Investment Corp; brought cumulative total to ~$140M
-- round: Convertible Note
+- stage: Convertible Note
   date: 2025-01
-  amount_usd: $2.5M–$10M (convertible note offering to finance FY2025)
-- round: Series B-2 (in progress, unconfirmed closed)
+  amount_m: 0.0
+- stage: Series B-2 (in progress, unconfirmed closed)
   date: 2025 (target close May 2025)
-  target_amount_usd: $50M (minimum $30M)
-  co_leads:
-  - New Enterprise Associates (NEA)
-  - Kleiner Perkins
   notes: Also selling ~$125M stake in Apptronik to total ~$175M in new capital
 key_investors:
 - Magna International

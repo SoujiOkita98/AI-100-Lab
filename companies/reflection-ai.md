@@ -1,6 +1,5 @@
 ---
 name: Reflection AI
-legal_name: Reflection AI, Inc.
 founded: '2024'
 headquarters: San Francisco, CA (unconfirmed — likely Bay Area)
 headcount: Unknown
@@ -8,17 +7,13 @@ website: https://reflection.ai
 product: Asimov (autonomous coding agent / code comprehension agent)
 sector: AI / Developer Tools / Autonomous Coding Agents / Frontier Models
 stage: Series B (latest round Oct 2025)
-latest_valuation: $8B (Oct 2025); reportedly raising at ~$20B (Mar 2026)
-total_funding: ~$2.13B
 status: Active, Private
 founders:
 - name: Misha Laskin
   role: CEO
-  ethnicity: Eastern European (likely Russian/Ukrainian heritage)
   origin: Russian-Canadian
 - name: Ioannis Antonoglou
   role: Co-founder
-  ethnicity: Greek
   origin: Greek
 key_investors:
 - Sequoia Capital
@@ -31,16 +26,16 @@ key_investors:
 funding_rounds:
 - stage: Seed
   date: 2025-03
-  amount_m: 25
-  valuation_m: 555
+  amount_m: 25.0
+  valuation_m: 555.0
   lead_investors:
   - Sequoia Capital
   - CRV
   source: https://techfundingnews.com/google-deepmind-researchers-reflection-ai-bags-130m-5-things-to-know-about-super-intelligence-company/
 - stage: Series A
   date: 2025-03
-  amount_m: 105
-  valuation_m: 555
+  amount_m: 105.0
+  valuation_m: 555.0
   lead_investors:
   - Lightspeed Venture Partners
   - CRV
@@ -48,8 +43,8 @@ funding_rounds:
   notes: Seed and Series A announced simultaneously at stealth launch ($130M combined).
 - stage: Series B
   date: 2025-10
-  amount_m: 2000
-  valuation_m: 8000
+  amount_m: 2000.0
+  valuation_m: 8000.0
   lead_investors:
   - Nvidia
   source: https://siliconangle.com/2025/10/09/reflection-ai-lands-2b-8b-valuation-expand-frontier-ai-infrastructure-safety-research/
@@ -62,6 +57,7 @@ linkedin: https://www.linkedin.com/company/reflectionai
 crunchbase: https://www.crunchbase.com/organization/reflection-ai
 crunchbase_verified: true
 linkedin_verified: true
+total_raised_m: 2130.0
 ---
 
 # Reflection AI

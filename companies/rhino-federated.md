@@ -9,7 +9,7 @@ status: active
 funding_rounds:
 - stage: Seed
   date: 2021
-  amount_m: 5
+  amount_m: 5.0
   lead_investors:
   - LionBird
   - Fusion Fund
@@ -17,14 +17,13 @@ funding_rounds:
   notes: $5M seed round for AI-based healthcare solutions.
 - stage: Seed II
   date: 2022-04
-  amount_m: null
   lead_investors:
   - Undisclosed
   source: https://www.crunchbase.com/organization/rhino-health
   notes: Valuation $36.7M. Amount undisclosed.
 - stage: Series A
   date: 2025-05
-  amount_m: 15
+  amount_m: 15.0
   lead_investors:
   - AlleyCorp
   source: https://www.rhinofcp.com/blog/series-a

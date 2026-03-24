@@ -21,7 +21,6 @@ founders:
 employees: ~18
 stage: Pre-product / Deep R&D
 sector: Artificial Intelligence / AGI Safety
-latest_valuation: $32 billion (April 2025)
 total_funding_raised: ~$3 billion
 key_investors:
 - Greenoaks Capital (led Series B)
@@ -43,7 +42,7 @@ total_raised_m: 3000
 funding_rounds:
 - stage: Seed
   date: 2024-09
-  amount_m: 1000
+  amount_m: 1000.0
   lead_investors:
   - Andreessen Horowitz
   - Sequoia Capital
@@ -51,7 +50,7 @@ funding_rounds:
   source: https://www.crunchbase.com/organization/ssi
 - stage: Series B
   date: 2025-04
-  amount_m: 2000
+  amount_m: 2000.0
   lead_investors:
   - Greenoaks Capital
   source: https://www.crunchbase.com/organization/ssi

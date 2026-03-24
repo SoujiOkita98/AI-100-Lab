@@ -1,8 +1,6 @@
 ---
 name: Surge AI
-slug: surge-ai
 website: https://surgehq.ai
-domain: surgehq.ai
 founded: 2020
 headquarters: San Francisco, CA
 sector: AI / Data Labeling / RLHF
@@ -14,18 +12,21 @@ status: Private
 founders:
 - name: Edwin Chen
   role: Founder & CEO
-  background: MIT dropout. Former data scientist. Bootstrapped Surge AI from his SF apartment in May 2020 to $1B+ revenue without external funding. Forbes billionaire.
+  background: MIT dropout. Former data scientist. Bootstrapped Surge AI from his SF apartment in May 2020 to $1B+ revenue
+    without external funding. Forbes billionaire.
 last_updated: 2026-03-23
 confidence: medium
-one_liner: Data labeling platform connecting AI developers with expert human annotators for RLHF, training data, and structured annotation at scale, serving OpenAI, Google, Microsoft, Meta, and Anthropic
-data_notes: 'Bootstrapped to $1B+ revenue. Was in talks for first-ever $1B raise at $15-25B valuation (Jul 2025). Round not confirmed closed. Customers include all major AI labs.'
+one_liner: Data labeling platform connecting AI developers with expert human annotators for RLHF, training data, and structured
+  annotation at scale, serving OpenAI, Google, Microsoft, Meta, and Anthropic
+data_notes: Bootstrapped to $1B+ revenue. Was in talks for first-ever $1B raise at $15-25B valuation (Jul 2025). Round not
+  confirmed closed. Customers include all major AI labs.
 crunchbase: https://www.crunchbase.com/organization/surge-ai-b4ea
 linkedin: https://www.linkedin.com/company/surge-ai
 total_raised_m: 0
 funding_rounds:
 - stage: Seeking First Round
   date: 2025-07
-  amount_m: 1000
+  amount_m: 1000.0
   lead_investors:
   - In talks with Andreessen Horowitz, Warburg Pincus, TPG
   source: https://www.bloomberg.com/news/articles/2025-07-30/scale-rival-surge-ai-in-talks-for-funding-at-25-billion-value

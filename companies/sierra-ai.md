@@ -7,22 +7,16 @@ headquarters: San Francisco, CA
 founders:
 - name: Bret Taylor
   role: Co-Founder & CEO
-  background: 'Co-created Google Maps at Google (2003-2007). Founded FriendFeed (acquired by Facebook 2009). CTO of Facebook
+  background: Co-created Google Maps at Google (2003-2007). Founded FriendFeed (acquired by Facebook 2009). CTO of Facebook
     (created the Like button). Founded Quip (acquired by Salesforce for ~$750M). Co-CEO of Salesforce (2021-2023). Chairman
     of the Board of OpenAI.
-
-    '
   origin: American
 - name: Clay Bavor
   role: Co-Founder & President
-  background: '18 years at Google. Led Gmail and Google Drive product/design teams. Led Google Workspace. Started and led
-    Google AR/VR, Project Starline, and Google Lens. Most recently led Google Labs.
-
-    '
+  background: 18 years at Google. Led Gmail and Google Drive product/design teams. Led Google Workspace. Started and led Google
+    AR/VR, Project Starline, and Google Lens. Most recently led Google Labs.
   origin: American
 sector: Enterprise AI / Conversational AI / AI Agents
-total_funding: ~$635M
-latest_valuation: $10B (September 2025)
 latest_arr: $150M (January 2026, estimated)
 employee_count: ~370-600 (estimates vary by source, as of early 2026)
 status: Private
@@ -31,23 +25,23 @@ confidence: high (well-covered company with public disclosures)
 funding_rounds:
 - stage: Series A
   date: 2024-02
-  amount_m: 110
-  valuation_m: 1000
+  amount_m: 110.0
+  valuation_m: 1000.0
   lead_investors:
   - Sequoia Capital
   - Benchmark
   source: https://fortune.com/2024/02/13/bret-taylor-clay-bavor-ai-startup-sierra-110-million-funding-sequoia-benchmark/
 - stage: Series B
   date: 2024-10
-  amount_m: 175
-  valuation_m: 4500
+  amount_m: 175.0
+  valuation_m: 4500.0
   lead_investors:
   - Greenoaks Capital
   source: https://techcrunch.com/2024/10/28/bret-taylors-customer-service-ai-startup-just-raised-175m/
 - stage: Series C
   date: 2025-09
-  amount_m: 350
-  valuation_m: 10000
+  amount_m: 350.0
+  valuation_m: 10000.0
   lead_investors:
   - Greenoaks Capital
   source: https://techcrunch.com/2025/09/04/bret-taylors-sierra-raises-350m-at-a-10b-valuation/
@@ -59,6 +53,8 @@ crunchbase: https://www.crunchbase.com/organization/sierra-ai
 crunchbase_verified: true
 name: Sierra Technologies, Inc.
 linkedin_verified: true
+total_raised_m: 635.0
+latest_valuation_m: 10000.0
 ---
 
 # Sierra AI

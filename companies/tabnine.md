@@ -1,13 +1,11 @@
 ---
 company_name: Tabnine
-legal_name: Tabnine Ltd. (formerly Codota Ltd.)
 founded: 2013
 headquarters: Tel Aviv, Israel
 sector: AI-Powered Developer Tools
 sub_sector: AI Coding Assistants / Enterprise Code Completion
 website: https://www.tabnine.com
 status: Private
-valuation: Undisclosed
 total_funding: ~$67-102M (sources vary)
 employee_count: ~72-84 (2025 estimates)
 key_investors:
@@ -27,7 +25,7 @@ total_raised_m: 67
 funding_rounds:
 - stage: Earlier rounds
   date: 2013-2021
-  amount_m: 30
+  amount_m: 30.0
   lead_investors:
   - Khosla Ventures
   - OurCrowd
@@ -40,7 +38,7 @@ funding_rounds:
   source: https://www.crunchbase.com/organization/tabnine
 - stage: Series B
   date: 2023-11
-  amount_m: 25
+  amount_m: 25.0
   lead_investors:
   - Telekom Innovation Pool
   source: https://www.crunchbase.com/organization/tabnine

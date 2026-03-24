@@ -1,7 +1,6 @@
 ---
 company: Synthesia
 website: https://www.synthesia.io
-domain: AI Video Generation (Avatar-based)
 founded: 2017
 headquarters: London, UK (20 Triton Street)
 founders:
@@ -25,16 +24,7 @@ founders:
   background: Professor of 3D Vision at UCL Computer Science. Leading researcher in computer vision and 3D reconstruction.
   origin: Spanish-British
 employees: ~661 (Jan 2026)
-latest_valuation: $4.0B (Series E, Jan 2026)
-total_funding: ~$536M
 status: Private
-tags:
-- generative-ai
-- video
-- avatars
-- enterprise-saas
-- deeptech
-- european-ai
 last_updated: 2026-03-20
 funding_rounds:
 - stage: Seed
@@ -51,30 +41,30 @@ funding_rounds:
   source: https://www.crunchbase.com/funding_round/synthesia-series-a--7c3a288c
 - stage: Series B
   date: 2021-12
-  amount_m: 50
+  amount_m: 50.0
   lead_investors:
   - Kleiner Perkins
   - GV
   source: https://en.wikipedia.org/wiki/Synthesia_(company)
 - stage: Series C
   date: 2023-06
-  amount_m: 90
-  valuation_m: 1000
+  amount_m: 90.0
+  valuation_m: 1000.0
   lead_investors:
   - Accel
   - NVentures
   source: https://www.crunchbase.com/funding_round/synthesia-series-c--d751c076
 - stage: Series D
   date: 2025-01
-  amount_m: 180
-  valuation_m: 2100
+  amount_m: 180.0
+  valuation_m: 2100.0
   lead_investors:
   - NEA
   source: https://sacra.com/c/synthesia/
 - stage: Series E
   date: 2026-01
-  amount_m: 200
-  valuation_m: 4000
+  amount_m: 200.0
+  valuation_m: 4000.0
   lead_investors:
   - GV
   source: https://techcrunch.com/2026/01/26/synthesia-hits-4b-valuation-lets-employees-cash-in/
@@ -86,6 +76,15 @@ crunchbase: https://www.crunchbase.com/organization/synthesia
 crunchbase_verified: true
 name: Synthesia
 linkedin_verified: true
+total_raised_m: 536.0
+latest_valuation_m: 4000.0
+sector:
+- generative-ai
+- video
+- avatars
+- enterprise-saas
+- deeptech
+- european-ai
 ---
 
 # Synthesia

@@ -7,12 +7,11 @@ status: active
 funding_rounds:
 - stage: Seed
   date: 2025-12
-  amount_m: 35
-  valuation_m: 750
+  amount_m: 35.0
+  valuation_m: 750.0
   lead_investors:
   - Sequoia Capital
   source: https://sequoiacap.com/article/partnering-with-ricursive-intelligence/
-latest_valuation: 750
 last_updated: 2026-03-21
 confidence: medium
 founders:
@@ -32,6 +31,7 @@ crunchbase: https://www.crunchbase.com/organization/ricursive-intelligence
 crunchbase_verified: true
 total_raised_m: 35.0
 linkedin_verified: true
+latest_valuation_m: 750.0
 ---
 
 # Ricursive Intelligence

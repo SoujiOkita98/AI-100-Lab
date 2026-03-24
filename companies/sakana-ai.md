@@ -1,6 +1,5 @@
 ---
 company: Sakana AI
-legal_name: Sakana AI Inc. (株式会社Sakana AI)
 founded: 2023
 headquarters: Tokyo, Japan
 founders:
@@ -21,7 +20,6 @@ founders:
   origin: Japanese
 stage: Series B
 latest_valuation_usd: 2.65B
-total_funding_usd: ~379M
 employees: ~138 (as of Feb 2026)
 sector: Artificial Intelligence / Foundation Models
 tags:
@@ -36,15 +34,15 @@ confidence: high
 funding_rounds:
 - stage: Seed
   date: 2024-01
-  amount_m: 30
+  amount_m: 30.0
   lead_investors:
   - Lux Capital
   - Khosla Ventures
   source: https://sakana.ai/seed-round/
 - stage: Series A
   date: 2024-09
-  amount_m: 214
-  valuation_m: 1500
+  amount_m: 214.0
+  valuation_m: 1500.0
   lead_investors:
   - NEA
   - Khosla Ventures
@@ -52,8 +50,8 @@ funding_rounds:
   source: https://sakana.ai/series-a/
 - stage: Series B
   date: 2025-11
-  amount_m: 135
-  valuation_m: 2650
+  amount_m: 135.0
+  valuation_m: 2650.0
   lead_investors:
   - Mitsubishi UFJ Financial Group
   - Khosla Ventures
@@ -67,6 +65,8 @@ crunchbase: https://www.crunchbase.com/organization/sakana-ai
 crunchbase_verified: true
 name: Sakana AI
 linkedin_verified: true
+total_raised_m: 379.0
+status: active
 ---
 
 # Sakana AI

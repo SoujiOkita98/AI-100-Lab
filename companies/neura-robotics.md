@@ -24,8 +24,6 @@ founders:
 funding_rounds:
 - stage: Series A
   date: ~2023
-  amount_m: null
-  valuation_m: null
   other_investors:
   - HV Capital
   - Vsquared Ventures
@@ -35,8 +33,6 @@ funding_rounds:
     '
 - stage: Series B
   date: 2025-01-15
-  amount_m: null
-  valuation_m: null
   lead_investors:
   - Lingotto Investment Management
   other_investors:

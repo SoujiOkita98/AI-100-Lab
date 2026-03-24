@@ -1,11 +1,9 @@
 ---
 company: SambaNova Systems
-legal_name: SambaNova Systems, Inc.
 founded: 2017
 headquarters: Palo Alto, California, USA
 sector: AI Hardware / AI Infrastructure (Full-Stack)
 stage: Late-stage Private
-latest_valuation: ~$2.24 billion (Series E, February 2026; down from $5.1B in 2021)
 employees: ~400-415 (as of early 2026)
 website: https://sambanova.ai
 founders:
@@ -36,6 +34,8 @@ data_notes: Funding corrected from $2.5B to ~$1.49B after cross-verification aga
 total_raised_m: 1490.0
 name: SambaNova Systems
 linkedin_verified: true
+status: active
+funding_rounds: []
 ---
 
 # SambaNova Systems

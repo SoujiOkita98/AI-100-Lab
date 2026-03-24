@@ -1,8 +1,6 @@
 ---
 name: Structify
-slug: structify-ai
 website: https://www.structify.ai
-domain: structify.ai
 founded: 2023
 headquarters: Brooklyn, NY
 sector: AI / Data Extraction / Data Infrastructure
@@ -21,8 +19,9 @@ founders:
   background: Met Reichenbach on first day of college. Diverse academic background combining CS and humanities.
 last_updated: 2026-03-23
 confidence: high
-one_liner: AI-powered platform that automates the gathering, cleaning, and structuring of unstructured web data into enterprise-ready datasets using a proprietary visual language model called DoRa
-data_notes: 'Early stage but strong technical differentiation with proprietary VLM. Backed by Bain Capital Ventures and 8VC.'
+one_liner: AI-powered platform that automates the gathering, cleaning, and structuring of unstructured web data into enterprise-ready
+  datasets using a proprietary visual language model called DoRa
+data_notes: Early stage but strong technical differentiation with proprietary VLM. Backed by Bain Capital Ventures and 8VC.
 crunchbase: https://www.crunchbase.com/organization/structify
 linkedin: https://www.linkedin.com/company/structifyai
 total_raised_m: 4.1

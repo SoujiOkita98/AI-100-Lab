@@ -16,8 +16,7 @@ latest_valuation_m: null
 funding_rounds:
 - stage: Series A
   date: 2026-03
-  amount_m: 57
-  valuation_m: null
+  amount_m: 57.0
   lead_investors:
   - Accel
   source: https://siliconangle.com/2026/03/17/surf-ai-launches-agentic-security-operations-platform-57m-funding-round/

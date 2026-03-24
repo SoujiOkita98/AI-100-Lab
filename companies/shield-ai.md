@@ -14,65 +14,57 @@ latest_valuation_m: 5600
 funding_rounds:
 - stage: Seed
   date: 2016-05
-  amount_m: 2.05
-  valuation_m: null
+  amount_m: 2.0
   lead_investors:
   - Homebrew
   source: https://tracxn.com/d/companies/shield-ai/__xWAZxcGRQErj0eca7RojeCvAoVKfcEIPX0V-RwwoAJk/funding-and-investors
 - stage: Series A
   date: 2017-03
   amount_m: 10.5
-  valuation_m: null
   lead_investors:
   - Andreessen Horowitz
   source: https://www.crunchbase.com/funding_round/shield-ai-series-a--67e5fba3
 - stage: Series B
   date: 2019-08
-  amount_m: 25
-  valuation_m: null
+  amount_m: 25.0
   lead_investors:
   - Breyer Capital
   source: https://tracxn.com/d/companies/shield-ai/__xWAZxcGRQErj0eca7RojeCvAoVKfcEIPX0V-RwwoAJk/funding-and-investors
 - stage: Series C
   date: 2021-02
-  amount_m: 90
-  valuation_m: null
+  amount_m: 90.0
   lead_investors:
   - Point72 Ventures
   source: https://tracxn.com/d/companies/shield-ai/__xWAZxcGRQErj0eca7RojeCvAoVKfcEIPX0V-RwwoAJk/funding-and-investors
 - stage: Series D
   date: 2021-08
-  amount_m: 210
-  valuation_m: null
-  lead_investors: []
+  amount_m: 210.0
   source: https://tracxn.com/d/companies/shield-ai/__xWAZxcGRQErj0eca7RojeCvAoVKfcEIPX0V-RwwoAJk/funding-and-investors
 - stage: Series E
   date: 2022-06
-  amount_m: 165
-  valuation_m: 2300
-  lead_investors: []
+  amount_m: 165.0
+  valuation_m: 2300.0
   source: https://www.crunchbase.com/funding_round/shield-ai-series-e--228e9a72
 - stage: Series F
   date: 2023-10
-  amount_m: 200
-  valuation_m: 2700
+  amount_m: 200.0
+  valuation_m: 2700.0
   lead_investors:
   - U.S. Innovative Technology Fund (USIT)
   - Riot Ventures
   source: https://news.crunchbase.com/ai/defense-tech-startup-venture-aircraft-shield/
 - stage: Series F-1
   date: 2025-03
-  amount_m: 240
-  valuation_m: 5300
+  amount_m: 240.0
+  valuation_m: 5300.0
   lead_investors:
   - L3Harris
   - Hanwha Asset Management
   source: https://techcrunch.com/2025/03/06/shield-ai-raises-240-million-at-a-5-3-billion-valuation-to-commercialize-its-ai-drone-tech/
 - stage: Series G (in talks)
   date: 2026-02
-  amount_m: 1000
-  valuation_m: 12000
-  lead_investors: []
+  amount_m: 1000.0
+  valuation_m: 12000.0
   source: https://www.bloomberg.com/news/articles/2026-02-13/shield-ai-in-talks-to-raise-1-billion-at-12-billion-valuation
 founders:
 - name: Brandon Tseng

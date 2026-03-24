@@ -16,8 +16,7 @@ latest_valuation_m: null
 funding_rounds:
 - stage: Series A
   date: 2026-02-12
-  amount_m: 100
-  valuation_m: null
+  amount_m: 100.0
   lead_investors:
   - Index Ventures (Shardul Shah)
   other_investors:

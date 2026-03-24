@@ -1,13 +1,11 @@
 ---
 company_name: Qodo
-legal_name: Qodo Ltd. (formerly CodiumAI Ltd.)
 founded: 2022
 headquarters: Tel Aviv, Israel
 sector: AI-Powered Developer Tools
 sub_sector: AI Code Testing & Quality Assurance
 website: https://www.qodo.ai
 status: Private (Series A)
-valuation: Undisclosed
 total_funding: ~$50M
 employee_count: ~100 (2025)
 key_investors:
@@ -38,14 +36,14 @@ total_raised_m: 50
 funding_rounds:
 - stage: Seed
   date: '2023'
-  amount_m: 11
+  amount_m: 11.0
   lead_investors:
   - TLV Partners
   - Vine Ventures
   source: https://www.crunchbase.com/organization/qodo
 - stage: Series A
   date: 2024-09
-  amount_m: 40
+  amount_m: 40.0
   lead_investors:
   - Susa Ventures
   - Square Peg

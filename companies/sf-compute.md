@@ -9,12 +9,11 @@ status: active
 funding_rounds:
 - stage: Series A
   date: 2025-11
-  amount_m: 40
-  valuation_m: 300
+  amount_m: 40.0
+  valuation_m: 300.0
   lead_investors:
   - DCVC
   - Wing VC
-latest_valuation: 300
 last_updated: 2026-03-21
 confidence: medium
 linkedin: https://www.linkedin.com/company/sfcompute
@@ -33,6 +32,7 @@ founders:
 twitter: '@sfcompute'
 total_raised_m: 40.0
 linkedin_verified: true
+latest_valuation_m: 300.0
 ---
 
 # SF Compute

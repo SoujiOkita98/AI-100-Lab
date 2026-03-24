@@ -1,15 +1,12 @@
 ---
 name: Regie.ai
-slug: regie-ai
 website: https://www.regie.ai
 one_liner: AI sales engagement platform with autonomous prospecting agents that handle contact sourcing, personalized outreach,
   and multichannel follow-up
-domain: regie.ai
 founded: 2020
 headquarters: San Francisco, CA
 sector: AI / Sales Engagement / Content Automation
 stage: Series B
-latest_valuation: Undisclosed
 total_funding_estimated: ~$65.6M
 revenue_arr: ~$3.8M ARR (estimated, with 300% YoY growth)
 employees: ~75-100
@@ -28,10 +25,10 @@ founders:
   origin: Indian
 - name: Matt Millen
   role: Co-Founder
-  background: ''
   origin: American
 linkedin: https://www.linkedin.com/company/regieai/
 linkedin_verified: true
+funding_rounds: []
 ---
 
 # Regie.ai

@@ -10,7 +10,7 @@ status: active
 funding_rounds:
 - stage: Seed
   date: 2026-03
-  amount_m: 52
+  amount_m: 52.0
   lead_investors:
   - YZi Labs
   - Jerry Yang
@@ -24,7 +24,6 @@ founders:
   origin: Chinese-American
 - name: Calvin Zhou
   role: Co-Founder & VP of Engineering
-  background: ''
   origin: Chinese-American
 linkedin: https://www.linkedin.com/company/roboforce/
 linkedin_verified: true

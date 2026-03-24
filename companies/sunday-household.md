@@ -9,11 +9,10 @@ status: active
 funding_rounds:
 - stage: Series B
   date: 2026-03
-  amount_m: 165
-  valuation_m: 1150
+  amount_m: 165.0
+  valuation_m: 1150.0
   lead_investors:
   - Coatue
-latest_valuation: 1150
 last_updated: 2026-03-21
 confidence: medium
 founders:
@@ -28,6 +27,7 @@ founders:
 total_raised_m: 165.0
 linkedin: https://www.linkedin.com/company/sunday-household-robot/
 linkedin_verified: true
+latest_valuation_m: 1150.0
 ---
 
 # Sunday (Household Robot)

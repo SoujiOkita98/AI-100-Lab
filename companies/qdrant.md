@@ -17,20 +17,19 @@ founders:
 funding_rounds:
 - stage: Seed
   date: 2022
-  amount_m: null
   lead_investors:
   - Unusual Ventures
   - 42CAP
   source: https://www.crunchbase.com/organization/qdrant
 - stage: Series A
   date: 2024-01
-  amount_m: 28
+  amount_m: 28.0
   lead_investors:
   - Spark Capital
   source: https://qdrant.tech/blog/series-a-funding-round/
 - stage: Series B
   date: 2026-03
-  amount_m: 50
+  amount_m: 50.0
   lead_investors:
   - AVP (Advance Venture Partners)
   source: https://www.businesswire.com/news/home/20260312313902/en/

@@ -1,10 +1,8 @@
 ---
 name: Runway
-legal_name: Runway AI, Inc.
 website: https://runwayml.com
 one_liner: Generative AI company building frontier video, image, and world models for creative professionals, with products
   like Gen-4.5 and GWM-1
-domain: runwayml.com
 sector: AI Video Generation / World Models
 founded: 2018
 headquarters: New York, NY
@@ -23,29 +21,26 @@ research_date: 2026-03-20
 funding_rounds:
 - stage: Seed
   date: '2018'
-  amount_m: 2
-  lead_investors: []
+  amount_m: 2.0
   source: https://en.wikipedia.org/wiki/Runway_(company)
 - stage: Series A
   date: 2020-12
   amount_m: 8.5
-  lead_investors: []
   source: https://en.wikipedia.org/wiki/Runway_(company)
 - stage: Series B
   date: 2021-12
-  amount_m: 35
-  lead_investors: []
+  amount_m: 35.0
   source: https://en.wikipedia.org/wiki/Runway_(company)
 - stage: Series C
   date: 2022-12
-  amount_m: 50
+  amount_m: 50.0
   lead_investors:
   - Felicis Ventures
   source: https://techcrunch.com/2023/06/29/runway-a-startup-building-generative-ai-for-content-creators-raises-141m/
 - stage: Series C Extension
   date: 2023-06
-  amount_m: 141
-  valuation_m: 1500
+  amount_m: 141.0
+  valuation_m: 1500.0
   lead_investors:
   - Google
   - Nvidia
@@ -53,15 +48,15 @@ funding_rounds:
   source: https://techcrunch.com/2023/06/29/runway-a-startup-building-generative-ai-for-content-creators-raises-141m/
 - stage: Series D
   date: 2025-04
-  amount_m: 308
-  valuation_m: 3000
+  amount_m: 308.0
+  valuation_m: 3000.0
   lead_investors:
   - General Atlantic
   source: https://techcrunch.com/2025/04/03/runway-best-known-for-its-video-generating-models-raises-308m/
 - stage: Series E
   date: 2026-02
-  amount_m: 315
-  valuation_m: 5300
+  amount_m: 315.0
+  valuation_m: 5300.0
   lead_investors:
   - General Atlantic
   source: https://news.crunchbase.com/venture/gen-ai-video-startup-unicorn-runway-seriese-raise/

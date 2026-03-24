@@ -18,7 +18,6 @@ funding_rounds:
 - stage: Seed
   date: 2023
   amount_m: 14.5
-  valuation_m: null
   lead_investors:
   - Lightspeed Venture Partners
   - Sequoia Capital
@@ -26,8 +25,8 @@ funding_rounds:
   notes: Co-led by Lightspeed and Sequoia. Initial capital to begin developing a robotics foundation model.
 - stage: Series A
   date: 2024-07
-  amount_m: 300
-  valuation_m: 1500
+  amount_m: 300.0
+  valuation_m: 1500.0
   lead_investors:
   - Lightspeed Venture Partners
   - Coatue
@@ -39,8 +38,8 @@ funding_rounds:
     barely a year after founding.
 - stage: Series B
   date: 2025-05
-  amount_m: 500
-  valuation_m: 4700
+  amount_m: 500.0
+  valuation_m: 4700.0
   lead_investors:
   - SoftBank Group
   source: https://techcrunch.com/2025/12/08/softbank-and-nvidia-reportedly-in-talks-to-fund-skildai-at-14b-nearly-tripling-its-value/
@@ -48,8 +47,8 @@ funding_rounds:
     than May; exact date uncertain. Valuation reported as $4.5B-$4.7B across sources.
 - stage: Series C
   date: 2026-01-14
-  amount_m: 1400
-  valuation_m: 14000
+  amount_m: 1400.0
+  valuation_m: 14000.0
   lead_investors:
   - SoftBank Group
   source: https://www.businesswire.com/news/home/20260114335623/en/Skild-AI-Raises-$1.4B-Now-Valued-Over-$14B

@@ -1,6 +1,5 @@
 ---
 company_name: Snyk
-legal_name: Snyk Ltd.
 founded: 2015
 headquarters: Boston, MA (US HQ); Tel Aviv, Israel (R&D HQ)
 sector: AI-Powered Developer Tools
@@ -9,8 +8,6 @@ one_liner: Developer-first security platform that finds and fixes vulnerabilitie
   and cloud infrastructure.
 website: https://snyk.io
 status: Private (Series F); potential IPO in 2026
-valuation: ~$8.5B (post-money, September 2021)
-total_funding: ~$1.32B
 employee_count: ~1,000+ (estimated, 2025)
 key_investors:
 - Accel
@@ -26,45 +23,45 @@ confidence: high
 funding_rounds:
 - stage: Seed
   date: 2016-01
-  amount_m: 3
+  amount_m: 3.0
   lead_investors:
   - Heavybit
   source: https://www.crunchbase.com/funding_round/snyk-seed--0425875b
 - stage: Series A
   date: 2018-03
-  amount_m: 7
+  amount_m: 7.0
   lead_investors:
   - Canaan Partners
   source: https://tracxn.com/d/companies/snyk/
 - stage: Series B
   date: 2018-09
-  amount_m: 22
+  amount_m: 22.0
   lead_investors:
   - Accel
   - GV
   source: https://tracxn.com/d/companies/snyk/
 - stage: Series C
   date: 2019-12
-  amount_m: 70
+  amount_m: 70.0
   lead_investors:
   - Tiger Global
   - Coatue
   source: https://tracxn.com/d/companies/snyk/
 - stage: Series C Extension
   date: 2020-01
-  amount_m: 150
+  amount_m: 150.0
   lead_investors:
   - Stripes Group
   source: https://tracxn.com/d/companies/snyk/
 - stage: Series D
   date: 2020-09
-  amount_m: 200
+  amount_m: 200.0
   lead_investors:
   - Tiger Global
   source: https://tracxn.com/d/companies/snyk/
 - stage: Series E
   date: 2021-03
-  amount_m: 175
+  amount_m: 175.0
   lead_investors:
   - Atlassian Ventures
   - Temasek
@@ -72,8 +69,8 @@ funding_rounds:
   source: https://www.crunchbase.com/funding_round/snyk-series-e--4b2cb531
 - stage: Series F
   date: 2021-09
-  amount_m: 530
-  valuation_m: 8500
+  amount_m: 530.0
+  valuation_m: 8500.0
   lead_investors:
   - Sands Capital
   - Tiger Global
@@ -81,14 +78,13 @@ funding_rounds:
 - stage: Series G
   date: 2022-12
   amount_m: 196.5
-  valuation_m: 7400
+  valuation_m: 7400.0
   lead_investors:
   - Qatar Investment Authority
   source: https://snyk.io/news/snyk-closes-196-5-million-series-g-funding-at-7-4-billion-valuation/
 - stage: Series G Extension
   date: 2024-04
-  amount_m: 25
-  lead_investors: []
+  amount_m: 25.0
   source: https://www.crunchbase.com/organization/snyk
 website_verified: true
 linkedin: https://www.linkedin.com/company/snyk
@@ -109,6 +105,8 @@ founders:
   origin: Israeli
 name: Snyk
 linkedin_verified: true
+total_raised_m: 1320.0
+latest_valuation_m: 8500.0
 ---
 
 # Snyk

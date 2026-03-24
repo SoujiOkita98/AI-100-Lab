@@ -1,7 +1,5 @@
 ---
 company: Poolside
-legal_name: Poolside AI
-domain: AI Code Generation / AI Software Engineering
 founded: 2023
 headquarters: Paris, France (legal HQ in US; ~80% of team in Europe)
 website: https://poolside.ai
@@ -17,7 +15,6 @@ founders:
     entrepreneur
   origin: Estonian-Dutch
 funding_total_estimated: $1.6B+
-latest_valuation: $12B (Oct 2025)
 key_investors:
 - Bain Capital Ventures (led Series B)
 - Nvidia (up to $1B investment, Oct 2025)
@@ -42,6 +39,8 @@ linkedin: https://www.linkedin.com/company/poolsideai
 total_raised_m: 626.0
 name: Poolside
 linkedin_verified: true
+latest_valuation_m: 12000.0
+funding_rounds: []
 ---
 
 # Poolside

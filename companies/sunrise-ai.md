@@ -1,6 +1,5 @@
 ---
 name: Sunrise
-legal_name: Sunrise (昇腾 / SenseTime semiconductor spinoff)
 website: Not publicly confirmed
 sector: AI Chips / GPU Development
 founded: Late
@@ -8,30 +7,21 @@ headquarters: China (likely Shanghai/Shenzhen, aligned with SenseTime)
 founders:
 - name: Xu Bing (徐冰)
   role: Chairman
-  nationality: Chinese (mainland)
-  education:
-  - Details not widely reported
-  notable: Co-founded SenseTime in 2014 alongside Tang Xiao'ou. Served as SenseTime's executive director and co-founder.
+  background: Details not widely reported Co-founded SenseTime in 2014 alongside Tang Xiao'ou. Served as SenseTime's executive
+    director and co-founder.
   origin: Chinese
 - name: Wang Zhan (王湛)
   role: Co-CEO
-  nationality: Chinese (mainland)
-  education:
-  - Details not widely reported
-  notable: Former Vice President at Baidu; architect of Baidu's Phoenix Nest (凤巢) advertising system, one of the most profitable
-    ad platforms in China.
+  background: Details not widely reported Former Vice President at Baidu; architect of Baidu's Phoenix Nest (凤巢) advertising
+    system, one of the most profitable ad platforms in China.
   origin: Chinese
 - name: Wang Yong (王勇)
   role: Co-CEO
-  nationality: Chinese (mainland)
-  education:
-  - Details not widely reported
-  notable: Veteran of AMD and Baidu's Kunlun chip unit. Joined SenseTime in 2020 to head its semiconductor/chip division.
-    Deep hardware engineering background spanning US and Chinese chip development.
+  background: Details not widely reported Veteran of AMD and Baidu's Kunlun chip unit. Joined SenseTime in 2020 to head its
+    semiconductor/chip division. Deep hardware engineering background spanning US and Chinese chip development.
   origin: Chinese
 team_size_estimate: Not disclosed
 stage: Series A+ (raised $431M+ in under 12 months)
-total_funding: ~$431M+ (3 billion RMB)
 estimated_valuation: Not publicly confirmed (likely multi-billion dollar given funding scale)
 estimated_arr_2026: Not disclosed
 tags:
@@ -46,7 +36,7 @@ last_updated: 2026-03-20
 funding_rounds:
 - stage: Strategic Round
   date: 2024-07
-  amount_m: 139
+  amount_m: 139.0
   lead_investors:
   - Huaxu Capital (Sany Group)
   - 4Paradigm
@@ -55,7 +45,7 @@ funding_rounds:
   notes: SenseTime AI chip spinoff. ~1B CNY first tranche.
 - stage: Series A
   date: 2025-07
-  amount_m: 139
+  amount_m: 139.0
   lead_investors:
   - Huaxu Capital
   - 4Paradigm
@@ -71,6 +61,8 @@ crunchbase: https://www.crunchbase.com/organization/sunrise-ai
 crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/sunrise/
 linkedin_verified: true
+total_raised_m: 431.0
+status: active
 ---
 
 # Sunrise (SenseTime AI Chip Spinoff)

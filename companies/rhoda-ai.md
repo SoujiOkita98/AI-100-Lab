@@ -5,8 +5,6 @@ founded: ~202
 headquarters: Menlo Park, CA (unconfirmed; inferred from Stanford ties and investor base)
 sector: AI / Robotics / Physical AI
 stage: Series A
-total_funding: $450M
-valuation: $1.7B (post-money, as of March 2026)
 lead_investor: Premji Invest
 other_investors:
 - Capricorn Investment Group
@@ -24,8 +22,8 @@ last_updated: 2026-03-20
 funding_rounds:
 - stage: Series A
   date: 2026-03
-  amount_m: 450
-  valuation_m: 1700
+  amount_m: 450.0
+  valuation_m: 1700.0
   lead_investors:
   - Capricorn Investment Group
   - Khosla Ventures
@@ -54,6 +52,9 @@ founders:
   origin: German-American
 name: Rhoda AI
 linkedin_verified: true
+total_raised_m: 450.0
+latest_valuation_m: 1700.0
+status: active
 ---
 
 # Rhoda AI

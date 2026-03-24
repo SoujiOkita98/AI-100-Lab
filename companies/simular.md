@@ -1,6 +1,5 @@
 ---
 name: Simular
-legal_name: Simular AI, Inc.
 founded: 2024
 headquarters: San Francisco, CA
 headcount: Unknown (small team)
@@ -8,17 +7,14 @@ website: https://www.simular.ai
 product: Simular Agent (autonomous computer-use agent for Mac and Windows)
 sector: AI / Autonomous Agents / Computer Use / Desktop Automation
 stage: Series A (latest round Dec 2025)
-latest_valuation: Undisclosed
 total_funding: $27M
 status: Active, Private
 founders:
 - name: Ang Li
   role: CEO
-  ethnicity: Chinese
   origin: Chinese-American
 - name: Jiachen Yang
   role: Co-founder
-  ethnicity: Chinese
   origin: Chinese
 key_investors:
 - Felicis Ventures — Series A lead

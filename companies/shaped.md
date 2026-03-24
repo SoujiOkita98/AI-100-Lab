@@ -1,20 +1,18 @@
 ---
 company: Shaped
-legal_name: Shaped, Inc.
 founded: 2021
 headquarters: New York, NY
 website: https://www.shaped.ai
 sector: AI Infrastructure / Recommendations & Search
 stage: Series A
-latest_valuation: Undisclosed
-total_funding: ~$10M
 headcount_estimate: ~10-20
 status: Private
 yc_batch: W22
 founders:
 - name: Tullie Murrell
   role: Co-Founder & CEO
-  background: Previously at Meta/Facebook AI Research where he created PyTorchVideo and worked on video-centric AI; deep expertise in recommendation systems and retrieval
+  background: Previously at Meta/Facebook AI Research where he created PyTorchVideo and worked on video-centric AI; deep expertise
+    in recommendation systems and retrieval
   origin: Australian
 - name: Daniel Camilleri
   role: Co-Founder & CPO
@@ -36,7 +34,7 @@ funding_rounds:
   source: https://www.shaped.ai/blog/1-9m-funding-round
 - stage: Series A
   date: 2024-07
-  amount_m: 8
+  amount_m: 8.0
   lead_investors:
   - Madrona Ventures
   source: https://techcrunch.com/2024/07/17/shaped-raises-8m-series-a-and-launches-its-self-serve-recommendations-and-search-service/
@@ -45,6 +43,7 @@ website_verified: true
 linkedin: https://www.linkedin.com/company/shaped-ai
 crunchbase: https://www.crunchbase.com/organization/shaped-2177
 name: Shaped
+total_raised_m: 10.0
 ---
 
 # Shaped

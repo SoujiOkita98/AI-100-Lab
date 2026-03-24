@@ -10,7 +10,7 @@ status: active
 funding_rounds:
 - stage: Seed
   date: 2024-05
-  amount_m: 20
+  amount_m: 20.0
   lead_investors:
   - Intel Capital
   - Dell Technologies Capital
@@ -21,11 +21,9 @@ total_raised_m: 20.0
 founders:
 - name: Zhen Lu
   role: Co-Founder & CEO
-  background: ''
   origin: Chinese-American
 - name: Pardeep Singh
   role: Co-Founder & CTO
-  background: ''
   origin: Indian-American
 linkedin: https://www.linkedin.com/company/runpod/
 linkedin_verified: true

@@ -1,8 +1,6 @@
 ---
 name: Solve Intelligence
-slug: solve-intelligence
 website: https://www.solveintelligence.com
-domain: solveintelligence.com
 founded: 2023
 headquarters: San Francisco, CA
 sector: AI / Legal Tech / Patent Automation
@@ -21,21 +19,23 @@ founders:
   background: PhD holder. Leads research and development at Solve Intelligence.
 last_updated: 2026-03-23
 confidence: high
-one_liner: AI platform specialized for patents, used by 400+ IP teams across six continents for patent drafting, prosecution, harvesting, office actions, and global filings coordination
-data_notes: 'Profitable and has generated more cash than raised since inception. ARR grew 10x+ to 8 figures after Series A. YC alumni.'
+one_liner: AI platform specialized for patents, used by 400+ IP teams across six continents for patent drafting, prosecution,
+  harvesting, office actions, and global filings coordination
+data_notes: Profitable and has generated more cash than raised since inception. ARR grew 10x+ to 8 figures after Series A.
+  YC alumni.
 crunchbase: https://www.crunchbase.com/organization/solve-intelligence
 linkedin: https://www.linkedin.com/company/solve-intelligence
 total_raised_m: 55
 funding_rounds:
 - stage: Series A
   date: 2025-04
-  amount_m: 12
+  amount_m: 12.0
   lead_investors:
   - 20VC
   source: https://techcrunch.com/2025/04/09/microsoft-backs-solve-intelligence-in-12m-series-a-funding/
 - stage: Series B
   date: 2025-12
-  amount_m: 40
+  amount_m: 40.0
   lead_investors:
   - Visionaries
   - 20VC

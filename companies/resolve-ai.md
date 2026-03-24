@@ -13,12 +13,11 @@ founders:
 funding_rounds:
 - stage: Series A
   date: 2025-12
-  amount_m: 125
-  valuation_m: 1000
+  amount_m: 125.0
+  valuation_m: 1000.0
   lead_investors:
   - Lightspeed Venture Partners
   source: https://techcrunch.com/2025/12/19/ex-splunk-execs-startup-resolve-ai/
-latest_valuation: 1000
 last_updated: 2026-03-21
 confidence: medium
 data_notes: 'Needs verification: source_urls, headquarters. Profile may be incomplete.'
@@ -30,6 +29,7 @@ crunchbase_verified: true
 twitter: '@resolveai'
 total_raised_m: 125.0
 linkedin_verified: true
+latest_valuation_m: 1000.0
 ---
 
 # Resolve AI

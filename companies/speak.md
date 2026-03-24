@@ -5,8 +5,6 @@ sector: AI Language Learning
 founded: 2016
 headquarters: San Francisco, California
 website: https://www.speak.com
-latest_valuation: $1B (December 2024)
-total_funding: ~$162M
 arr: ~$100M (2025 estimate)
 employees: ~40-60 (estimate)
 status: Private
@@ -16,27 +14,27 @@ confidence_notes: Funding and valuation figures well-sourced via TechCrunch and 
 funding_rounds:
 - stage: Series B
   date: 2022-11
-  amount_m: 27
+  amount_m: 27.0
   lead_investors:
   - OpenAI Startup Fund
   source: https://www.speak.com/blog/speak-announces-27m-series-b
 - stage: Series B-2
   date: 2023-07
-  amount_m: 16
+  amount_m: 16.0
   lead_investors:
   - Lachy Groom
   source: https://www.speak.com/blog/series-b-2
 - stage: Series B-3
   date: 2024-06
-  amount_m: 20
-  valuation_m: 500
+  amount_m: 20.0
+  valuation_m: 500.0
   lead_investors:
   - Buckley Ventures
   source: https://www.speak.com/blog/series-b-3
 - stage: Series C
   date: 2024-11
-  amount_m: 78
-  valuation_m: 1000
+  amount_m: 78.0
+  valuation_m: 1000.0
   lead_investors:
   - Accel
   source: https://www.speak.com/blog/series-c
@@ -56,6 +54,8 @@ founders:
   background: Co-founded Speak with Zwick.
   origin: Taiwanese-American
 linkedin_verified: true
+total_raised_m: 162.0
+latest_valuation_m: 1000.0
 ---
 
 # Speak -- AI Language Learning

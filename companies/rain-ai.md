@@ -1,11 +1,9 @@
 ---
 company: Rain AI
-legal_name: Rain AI Inc. (formerly Rain Neuromorphics)
 founded: 2017
 headquarters: San Francisco, California, USA
 sector: AI Hardware / Semiconductors (Neuromorphic / In-Memory Compute)
 stage: Late Seed / Series A (troubled)
-latest_valuation: Undisclosed
 total_funding: ~$146 million
 employees: ~50 (estimate)
 website: https://rain.ai
@@ -18,34 +16,30 @@ crunchbase_verified: true
 founders:
 - name: Gordon Wilson
   role: Co-Founder & CEO
-  background: ''
   origin: American
 - name: Jack Kendall
   role: Co-Founder
-  background: ''
   origin: American
 - name: Juan Claudio Nino
   role: Co-Founder
-  background: ''
   origin: Hispanic-American
 total_raised_m: 146
 funding_rounds:
 - stage: YC Batch
   date: 2018
-  amount_m: null
   lead_investors:
   - Y Combinator
   source: https://www.crunchbase.com/organization/rain-ai
 - stage: Seed
   date: 2018
-  amount_m: 5
+  amount_m: 5.0
   lead_investors:
   - Sam Altman (personal)
   source: https://www.design-reuse.com/news/51363/rain-neuromorphics-funding.html
   notes: $5M seed led by Sam Altman.
 - stage: Series A
   date: 2022-02
-  amount_m: 25
+  amount_m: 25.0
   lead_investors:
   - Prosperity 7 Ventures
   source: https://www.design-reuse.com/news/51363/rain-neuromorphics-funding.html
@@ -58,15 +52,16 @@ funding_rounds:
   source: https://www.crunchbase.com/organization/rain-ai
 - stage: Bridge
   date: 2025-05
-  amount_m: 3
+  amount_m: 3.0
   lead_investors:
   - Undisclosed
   source: https://www.crunchbase.com/organization/rain-ai
-data_notes: Total ~$146M across 13 rounds per Tracxn. Most individual round amounts undisclosed. Notable investor
-  Sam Altman (personal, >$1M). Remaining ~$105M across undisclosed rounds.
+data_notes: Total ~$146M across 13 rounds per Tracxn. Most individual round amounts undisclosed. Notable investor Sam Altman
+  (personal, >$1M). Remaining ~$105M across undisclosed rounds.
 linkedin: https://www.linkedin.com/company/rain-neuromorphics/
 name: Rain AI
 linkedin_verified: true
+status: active
 ---
 
 # Rain AI

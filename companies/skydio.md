@@ -14,50 +14,46 @@ latest_valuation_m: 2200
 funding_rounds:
 - stage: Seed
   date: 2014-12
-  amount_m: 3
-  valuation_m: null
+  amount_m: 3.0
   lead_investors:
   - Accel
   source: https://sacra.com/c/skydio/
 - stage: Series A
   date: 2017-02
-  amount_m: 25
-  valuation_m: null
+  amount_m: 25.0
   lead_investors:
   - Andreessen Horowitz
   source: https://sacra.com/c/skydio/
 - stage: Series B
   date: 2019-10
-  amount_m: 30
-  valuation_m: null
+  amount_m: 30.0
   lead_investors:
   - IVP
   source: https://sacra.com/c/skydio/
 - stage: Series C
   date: 2020-07
-  amount_m: 100
-  valuation_m: 1000
+  amount_m: 100.0
+  valuation_m: 1000.0
   lead_investors:
   - Andreessen Horowitz
   source: https://sacra.com/c/skydio/
 - stage: Series D
   date: 2021-03
-  amount_m: 170
-  valuation_m: null
+  amount_m: 170.0
   lead_investors:
   - Andreessen Horowitz
   source: https://sacra.com/c/skydio/
 - stage: Series E
   date: 2023-02
-  amount_m: 230
-  valuation_m: 2200
+  amount_m: 230.0
+  valuation_m: 2200.0
   lead_investors:
   - Linse Capital
   source: https://www.skydio.com/blog/skydio-raises-230-million-series-e-funding-round
 - stage: Series E Extension
   date: 2024-11
-  amount_m: 170
-  valuation_m: 2200
+  amount_m: 170.0
+  valuation_m: 2200.0
   lead_investors:
   - KDDI
   - Axon

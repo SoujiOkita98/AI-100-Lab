@@ -1,8 +1,6 @@
 ---
 name: Plain
-slug: plain
 website: https://www.plain.com
-domain: plain.com
 founded: 2020
 headquarters: London, UK
 sector: AI / Customer Support / B2B SaaS
@@ -18,22 +16,24 @@ founders:
   background: Former Deliveroo. Worked on design systems and internal tooling at Deliveroo from the early days.
 last_updated: 2026-03-23
 confidence: high
-one_liner: API-first collaborative B2B customer support platform that aggregates cross-channel customer communications into a single real-time platform, built by ex-Deliveroo leaders
-data_notes: 'Originally launched as Resolve, then rebranded to Plain. Strong API-first approach differentiates from legacy support tools.'
+one_liner: API-first collaborative B2B customer support platform that aggregates cross-channel customer communications into
+  a single real-time platform, built by ex-Deliveroo leaders
+data_notes: Originally launched as Resolve, then rebranded to Plain. Strong API-first approach differentiates from legacy
+  support tools.
 crunchbase: https://www.crunchbase.com/organization/plain-bada
 linkedin: https://www.linkedin.com/company/plain-support
 total_raised_m: 21
 funding_rounds:
 - stage: Seed
   date: 2022-11
-  amount_m: 6
+  amount_m: 6.0
   lead_investors:
   - Index Ventures
   - Connect Ventures
   source: https://www.indexventures.com/perspectives/plain-raises-6-million-to-build-api-first-platform-that-will-transform-customer-support-for-businesses/
 - stage: Series A
   date: 2025-02
-  amount_m: 15
+  amount_m: 15.0
   lead_investors:
   - Battery Ventures
   source: https://www.plain.com/blog/we-ve-raised-a-15m-series-a

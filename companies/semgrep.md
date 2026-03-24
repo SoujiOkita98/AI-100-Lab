@@ -1,14 +1,11 @@
 ---
 company_name: Semgrep
-legal_name: Semgrep, Inc. (formerly Return to Corporation / r2c)
 founded: 2017
 headquarters: San Francisco, CA
 sector: AI-Powered Developer Tools
 sub_sector: AI Code Security / Static Analysis
 website: https://semgrep.dev
 status: Private (Series D)
-valuation: ~$500M-$1B (estimated, February 2025; undisclosed)
-total_funding: ~$204M
 employee_count: ~210-250 (estimates vary, 2025-2026)
 key_investors:
 - Menlo Ventures
@@ -23,26 +20,26 @@ confidence: high
 funding_rounds:
 - stage: Series A
   date: 2020-10
-  amount_m: 13
+  amount_m: 13.0
   lead_investors:
   - Redpoint Ventures
   - Sequoia Capital
   source: https://semgrep.dev/blog/2020/introducing-semgrep-and-r2c/
 - stage: Series B
   date: 2021-07
-  amount_m: 27
+  amount_m: 27.0
   lead_investors:
   - Felicis Ventures
   source: https://techcrunch.com/2021/07/07/r2c-raises-27m/
 - stage: Series C
   date: 2023-04
-  amount_m: 53
+  amount_m: 53.0
   lead_investors:
   - Lightspeed Venture Partners
   source: https://www.prnewswire.com/news-releases/semgrep-announces-53m-in-series-c/
 - stage: Series D
   date: 2025-02
-  amount_m: 100
+  amount_m: 100.0
   lead_investors:
   - Menlo Ventures
   source: https://news.crunchbase.com/cybersecurity/application-startup-semgrep-fundraise-menlo/
@@ -67,6 +64,7 @@ founders:
 linkedin: https://www.linkedin.com/company/semgrep/
 name: Semgrep
 linkedin_verified: true
+total_raised_m: 204.0
 ---
 
 # Semgrep

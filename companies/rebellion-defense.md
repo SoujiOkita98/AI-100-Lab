@@ -14,8 +14,6 @@ founders:
   role: Co-founder
 - name: Chase Kimball
   role: Co-founder
-total_funding: $224M (estimated)
-latest_valuation: $1B (as of September 2021)
 latest_round: Series B
 employee_count: ~40 (as of February 2026; down from peak of ~200+)
 status: Active but significantly downsized; pivoted to mission engineering focus
@@ -37,7 +35,7 @@ funding_rounds:
   source: https://tracxn.com/d/companies/rebellion-defense/
 - stage: Series B
   date: 2021-09
-  amount_m: 150
+  amount_m: 150.0
   lead_investors:
   - Insight Partners
   - Venrock
@@ -48,6 +46,8 @@ crunchbase: https://www.crunchbase.com/organization/rebellion-defense
 crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/rebellion-defense/
 linkedin_verified: true
+total_raised_m: 224.0
+latest_valuation_m: 1000.0
 ---
 
 # Rebellion Defense

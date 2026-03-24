@@ -1,6 +1,5 @@
 ---
 name: Pika
-legal_name: Pika Labs, Inc.
 website: https://pika.art
 sector: AI Video Generation / Generative AI
 founded: Apri
@@ -8,24 +7,18 @@ headquarters: Palo Alto, CA (office at 2700 W El Camino Real, Mountain View, CA 
 founders:
 - name: Demi Guo (Guo Wenjing / 郭文景)
   role: Co-founder & CEO
-  nationality: Chinese (from Hangzhou, Zhejiang Province)
-  education:
-  - Harvard University, BA Mathematics & MS Computer Science
-  - Stanford University, PhD (Computer Science) — dropped out April 2023
-  notable: Silver medalist, 2015 International Olympiad in Informatics; advised by Ron Fedkiw and Chris Manning at Stanford
+  background: Harvard University, BA Mathematics & MS Computer Science; Stanford University, PhD (Computer Science) — dropped
+    out April 2023 Silver medalist, 2015 International Olympiad in Informatics; advised by Ron Fedkiw and Chris Manning at
+    Stanford
   origin: Chinese-American
 - name: Chenlin Meng (孟辰琳)
   role: Co-founder & CTO
-  nationality: Chinese
-  education:
-  - Stanford University, BA Mathematics (undergraduate)
-  - Stanford University, PhD Computer Science — dropped out April 2023
-  notable: Co-author of DDIM paper (foundational to Stable Diffusion, DALL-E 2, Imagen); mentored by Stefano Ermon; 30+ papers
-    in 3 years; experience at Google Brain and Stability AI
+  background: Stanford University, BA Mathematics (undergraduate); Stanford University, PhD Computer Science — dropped out
+    April 2023 Co-author of DDIM paper (foundational to Stable Diffusion, DALL-E 2, Imagen); mentored by Stefano Ermon; 30+
+    papers in 3 years; experience at Google Brain and Stability AI
   origin: Chinese
 team_size_estimate: ~48 (as of 2024)
 stage: Series B
-total_funding: ~$135M
 estimated_valuation: ~$470M (post-Series B, June 2024); ~$900M (estimated early 2026, unconfirmed)
 estimated_arr_2026: $85M+ (estimate; sources vary)
 tags:
@@ -40,14 +33,14 @@ last_updated: 2026-03-20
 funding_rounds:
 - stage: Series A
   date: 2023-11
-  amount_m: 55
+  amount_m: 55.0
   lead_investors:
   - Lightspeed Venture Partners
   source: https://techcrunch.com/2023/11/28/pika-labs-which-is-building-ai-tools-to-generate-and-edit-videos-raises-55m/
 - stage: Series B
   date: 2024-06
-  amount_m: 80
-  valuation_m: 470
+  amount_m: 80.0
+  valuation_m: 470.0
   lead_investors:
   - Spark Capital
   source: https://www.maginative.com/article/pika-labs-secures-80m/
@@ -59,6 +52,8 @@ linkedin: https://www.linkedin.com/company/pika-labs
 crunchbase: https://www.crunchbase.com/organization/pika
 crunchbase_verified: true
 linkedin_verified: true
+total_raised_m: 135.0
+status: active
 ---
 
 # Pika

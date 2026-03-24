@@ -1,14 +1,11 @@
 ---
 company_name: Sourcegraph
-legal_name: Sourcegraph, Inc.
 founded: 2013
 headquarters: San Francisco, CA
 sector: AI-Powered Developer Tools
 sub_sector: Code Search & AI Coding Assistant
 website: https://sourcegraph.com
 status: Private (Series D)
-valuation: ~$2.6B (post-money, July 2021)
-total_funding: ~$225M
 employee_count: ~150-190 (estimates vary, 2025-2026)
 key_investors:
 - Andreessen Horowitz
@@ -23,26 +20,26 @@ confidence: high
 funding_rounds:
 - stage: Series A
   date: 2017-10
-  amount_m: 20
+  amount_m: 20.0
   lead_investors:
   - Redpoint Ventures
   source: https://techcrunch.com/2017/10/06/sourcegraph-raises-20m/
 - stage: Series B
   date: 2020-03
-  amount_m: 23
+  amount_m: 23.0
   lead_investors:
   - Craft Ventures
   source: https://www.crunchbase.com/funding_round/sourcegraph-series-b--df12d50f
 - stage: Series C
   date: 2020-12
-  amount_m: 50
+  amount_m: 50.0
   lead_investors:
   - Sequoia Capital
   source: https://www.crunchbase.com/funding_round/sourcegraph-series-b--df12d50f
 - stage: Series D
   date: 2021-07
-  amount_m: 125
-  valuation_m: 2625
+  amount_m: 125.0
+  valuation_m: 2625.0
   lead_investors:
   - Andreessen Horowitz
   - Insight Partners
@@ -65,6 +62,8 @@ founders:
   origin: Chinese-American
 name: Sourcegraph
 linkedin_verified: true
+total_raised_m: 225.0
+latest_valuation_m: 2600.0
 ---
 
 # Sourcegraph

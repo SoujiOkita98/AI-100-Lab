@@ -14,27 +14,22 @@ latest_valuation_m: 4000
 funding_rounds:
 - stage: Seed
   date: 2022-06
-  amount_m: null
-  valuation_m: null
-  lead_investors: []
   source: https://sacra.com/c/saronic/
 - stage: Series A
   date: 2023-10
-  amount_m: 55
-  valuation_m: null
-  lead_investors: []
+  amount_m: 55.0
   source: https://sacra.com/c/saronic/
 - stage: Series B
   date: 2024-07
-  amount_m: 175
-  valuation_m: 1000
+  amount_m: 175.0
+  valuation_m: 1000.0
   lead_investors:
   - Andreessen Horowitz
   source: https://breakingdefense.com/2024/07/defense-tech-startup-saronic-announces-175m-in-series-b-funding/
 - stage: Series C
   date: 2025-02
-  amount_m: 600
-  valuation_m: 4000
+  amount_m: 600.0
+  valuation_m: 4000.0
   lead_investors:
   - Elad Gil
   source: https://www.prnewswire.com/news-releases/saronic-raises-600m-series-c-to-take-on-autonomous-shipbuilding-302379441.html

@@ -1,6 +1,5 @@
 ---
 company_name: Sunday
-legal_name: Sunday Robotics (assumed; exact legal entity unconfirmed)
 website: https://www.sunday.ai
 sector: Consumer Robotics / Household Automation
 product: Memo (autonomous household robot)
@@ -26,20 +25,19 @@ team_origins:
 - Meta
 - OpenAI
 - Apple
-valuation: $1.15B (as of Series B, March 2026)
-total_funding: $200M
 funding_rounds:
-- round: Seed / Series A (emerged from stealth)
+- stage: Seed / Series A (emerged from stealth)
   date: November 2025
-  amount: $35M
+  amount_m: 35.0
   lead_investors:
   - Benchmark
   - Conviction
-- round: Series B
+- stage: Series B
   date: March 12, 2026
-  amount: $165M (oversubscribed)
-  valuation: $1.15B
-  lead_investor: Coatue (Thomas Laffont joined board)
+  amount_m: 165.0
+  valuation_m: 1150.0
+  lead_investors:
+  - Coatue (Thomas Laffont joined board)
   other_investors:
   - Bain Capital Ventures
   - Fidelity Management & Research Company
@@ -57,6 +55,8 @@ crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/sunday-robotics/
 name: Sunday
 linkedin_verified: true
+total_raised_m: 200.0
+latest_valuation_m: 1150.0
 ---
 
 # Sunday Robotics

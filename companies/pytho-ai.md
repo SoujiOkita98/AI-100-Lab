@@ -19,7 +19,6 @@ founders:
   origin: American
 - name: Shah Hossain
   role: Co-Founder & CTO
-  background: ''
   origin: South Asian-American
 linkedin: https://www.linkedin.com/company/pytho-ai/
 linkedin_verified: true

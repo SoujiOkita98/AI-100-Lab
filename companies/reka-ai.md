@@ -16,16 +16,16 @@ latest_valuation_m: 1000
 funding_rounds:
 - stage: Series A
   date: 2023-06
-  amount_m: 58
-  valuation_m: 300
+  amount_m: 58.0
+  valuation_m: 300.0
   lead_investors:
   - DST Global
   source: https://techcrunch.com/2023/06/27/reka-emerges-from-stealth-to-build-custom-ai-models-for-the-enterprise/
   notes: Emerged from stealth. Nat Friedman (former GitHub CEO) participated as an angel investor.
 - stage: Series B
   date: 2025-07
-  amount_m: 110
-  valuation_m: 1000
+  amount_m: 110.0
+  valuation_m: 1000.0
   lead_investors:
   - Nvidia
   - Snowflake
@@ -47,9 +47,6 @@ founders:
     YouTube, and Search. At Reka, led the effort to build a GPT-4-class multimodal model from scratch in under a year with
     ~20 engineers.
   origin: Singaporean. Lives in Singapore with his family.
-  notes: Departed Reka in November 2024 after ~1.5 years and returned to Google DeepMind. Now co-leading Google DeepMind Singapore
-    with Quoc Le, focusing on reasoning and RL. Was modeling co-lead for Gemini Deep Think (IMO gold medal). His departure
-    is notable but the company continued to grow and raised its Series B after he left.
 - name: Cyprien de Masson d'Autume
   role: Co-Founder & CTO
   background: Previously a researcher at DeepMind. Technical lead of the company's model development.

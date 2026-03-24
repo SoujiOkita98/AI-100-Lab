@@ -23,7 +23,6 @@ founders:
   origin: Chinese
 sector: Computer Vision / Generative AI / AI Infrastructure
 stage: Public (IPO December 2021, HKEX)
-total_funding_usd: ~$5.2B+
 revenue_h1_2025_rmb: 2.36B RMB (~$330M, +36% YoY)
 gen_ai_pct_revenue: 77%
 market_cap_usd: ~$7-10B (fluctuating)
@@ -40,20 +39,20 @@ confidence_note: Financial data from HKEX public filings. SenseTime is on the U.
 funding_rounds:
 - stage: Series A
   date: 2014-11
-  amount_m: 10
+  amount_m: 10.0
   lead_investors:
   - IDG Capital
   source: https://www.crunchbase.com/funding_round/sensetime-series-a--7692ae36
 - stage: Series B (Tranche 1)
   date: 2016-12
-  amount_m: 120
+  amount_m: 120.0
   lead_investors:
   - Dalian Wanda Group
   source: https://tracxn.com/d/companies/sensetime/
 - stage: Series B (Tranche 2)
   date: 2017-07
-  amount_m: 410
-  valuation_m: 1500
+  amount_m: 410.0
+  valuation_m: 1500.0
   lead_investors:
   - Sailing Capital
   - CDH Investments
@@ -61,8 +60,8 @@ funding_rounds:
   source: https://www.crunchbase.com/funding_round/sensetime-series-b--e324b168
 - stage: Series C
   date: 2018-05
-  amount_m: 620
-  valuation_m: 4500
+  amount_m: 620.0
+  valuation_m: 4500.0
   lead_investors:
   - Alibaba
   - Fidelity International
@@ -71,21 +70,21 @@ funding_rounds:
   source: https://www.crunchbase.com/funding_round/sensetime-series-c--c455fb1b
 - stage: Series D
   date: 2018-09
-  amount_m: 1000
-  valuation_m: 6000
+  amount_m: 1000.0
+  valuation_m: 6000.0
   lead_investors:
   - SoftBank Vision Fund
   source: https://www.crunchbase.com/funding_round/sensetime-series-d--41f8a591
 - stage: Pre-IPO
   date: 2021-06
-  amount_m: 700
-  valuation_m: 13000
+  amount_m: 700.0
+  valuation_m: 13000.0
   lead_investors:
   - Government-associated institutions
   source: https://kr-asia.com/key-stat-computer-vision-unicorn-sensetime-closes-pre-ipo-round
 - stage: Post-IPO Equity
   date: 2024-06
-  amount_m: 256
+  amount_m: 256.0
   lead_investors:
   - Institutional investors
   source: https://www.crunchbase.com/funding_round/sensetime-post-ipo-equity--a972149b
@@ -97,6 +96,8 @@ crunchbase: https://www.crunchbase.com/organization/sensetime
 crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/sensetime-group-limited
 linkedin_verified: true
+total_raised_m: 5200.0
+status: active
 ---
 
 # SenseTime

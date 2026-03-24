@@ -16,8 +16,7 @@ latest_valuation_m: null
 funding_rounds:
 - stage: Series A
   date: 2026-02
-  amount_m: 45
-  valuation_m: null
+  amount_m: 45.0
   lead_investors:
   - GV (Google Ventures)
   source: https://techfundingnews.com/solveai-emerges-stealth-50m-gv-ai-enterprise-software/
@@ -25,12 +24,10 @@ funding_rounds:
     from Palantir, Google DeepMind, and OpenAI.
 - stage: Pre-Seed
   date: 2025-09
-  amount_m: 5
-  valuation_m: null
+  amount_m: 5.0
   lead_investors:
   - Accel
   source: https://fortune.com/2026/02/25/exclusive-solveai-eight-months-raises-50-million-ai-coding-tool-race/
-  notes: null
 founders:
 - name: Steve Basher
   role: CEO & Founder

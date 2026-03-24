@@ -1,6 +1,5 @@
 ---
 company_name: Sphere
-legal_name: Sphere Technologies, Inc.
 website: https://www.getsphere.com
 sector: AI for Tax Compliance
 founded: 2023
@@ -12,7 +11,6 @@ founders:
 - name: Adrian Sarstedt
   role: Co-Founder
   origin: German
-latest_valuation: Undisclosed
 total_funding_raised: ~$24M (estimated seed + Series A)
 arr_estimate: Undisclosed
 employee_count_estimate: ~20-40 (estimated)
@@ -27,13 +25,13 @@ total_raised_m: 24
 funding_rounds:
 - stage: Seed
   date: '2024'
-  amount_m: 3
+  amount_m: 3.0
   lead_investors:
   - Undisclosed
   source: https://www.crunchbase.com/organization/sphere
 - stage: Series A
   date: 2025-11
-  amount_m: 21
+  amount_m: 21.0
   lead_investors:
   - Andreessen Horowitz
   source: https://techcrunch.com/2025/11/18/a16z-leads-21m-series-a-into-tax-compliance-platform-sphere/

@@ -1,13 +1,11 @@
 ---
 company_name: Stability AI
-legal_name: Stability AI Ltd.
 founded: 2019
 headquarters: London, United Kingdom
 website: https://stability.ai
 sector: Generative AI / Image, Video, Audio, 3D Synthesis
 flagship_product: Stable Diffusion
 status: Active, private
-latest_valuation: ~$1B (June 2024 recapitalization); ~$2.8B reported estimate (early 2026, unconfirmed)
 total_funding: ~$181M–$225M (figures vary by source)
 employee_count: ~190 (as of January 2026)
 ceo: Prem Akkaraju (appointed June 2024)
@@ -28,21 +26,21 @@ total_raised_m: 225
 funding_rounds:
 - stage: Seed
   date: 2022-09
-  amount_m: 101
+  amount_m: 101.0
   lead_investors:
   - Coatue
   - Lightspeed Venture Partners
   source: https://www.crunchbase.com/organization/stability-ai
 - stage: Funding Round
   date: '2023'
-  amount_m: 50
+  amount_m: 50.0
   lead_investors:
   - Intel Capital
   - Google
   source: https://www.crunchbase.com/organization/stability-ai
 - stage: Recapitalization
   date: 2024-06
-  amount_m: 80
+  amount_m: 80.0
   lead_investors:
   - Greycroft
   - Coatue

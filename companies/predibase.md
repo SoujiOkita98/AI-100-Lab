@@ -1,14 +1,11 @@
 ---
 company: Predibase
-legal_name: Predibase Inc.
 website: https://predibase.com
-domain: predibase.com
 sector: AI/ML Infrastructure / Fine-Tuning & Serving Open-Source Models
 founded: 2021
 headquarters: San Francisco, California
 ceo: Devvret Rishi
 employees_approx: 50-100
-latest_valuation: Undisclosed (acquired by Rubrik June 2025 for $100M-$500M est.)
 total_funding: ~$28M+
 status: Acquired (Rubrik, June 2025)
 last_updated: 2026-03-20
@@ -44,7 +41,7 @@ funding_rounds:
   source: https://www.crunchbase.com/organization/predibase
 - stage: Series A
   date: '2024'
-  amount_m: 22
+  amount_m: 22.0
   lead_investors:
   - Felicis
   source: https://www.crunchbase.com/organization/predibase

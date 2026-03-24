@@ -28,8 +28,7 @@ funding_rounds:
   source: https://techcrunch.com/2023/11/16/siena-ai-4-7m-ai-customer-service-agent/
 - stage: Seed Extension
   date: 2024-09
-  amount_m: 6
-  lead_investors: []
+  amount_m: 6.0
   source: https://www.crunchbase.com/organization/siena-ai
 confidence: medium
 last_updated: 2026-03-23

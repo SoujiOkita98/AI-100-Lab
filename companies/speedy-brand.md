@@ -1,13 +1,10 @@
 ---
 company: SpeedyBrand
-legal_name: Speedy Labs, Inc.
 founded: 2023
 headquarters: San Francisco, CA
 website: https://speedybrand.io
 sector: AI / Marketing / SEO
 stage: Seed
-latest_valuation: ~$15M (post-money)
-total_funding: ~$2.5M
 headcount_estimate: ~6-10
 status: Private
 yc_batch: W23
@@ -29,7 +26,7 @@ funding_rounds:
 - stage: Seed
   date: 2023-07
   amount_m: 2.5
-  valuation_m: 15
+  valuation_m: 15.0
   lead_investors:
   - GV (Google Ventures)
   - Y Combinator
@@ -39,6 +36,8 @@ website_verified: true
 linkedin: https://www.linkedin.com/company/speedy-brand-inc
 crunchbase: https://www.crunchbase.com/organization/speedy-brand
 name: SpeedyBrand
+total_raised_m: 2.5
+latest_valuation_m: 15.0
 ---
 
 # SpeedyBrand

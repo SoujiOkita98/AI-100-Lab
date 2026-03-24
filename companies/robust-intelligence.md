@@ -1,6 +1,5 @@
 ---
 name: Robust Intelligence
-slug: robust-intelligence
 founded: 2019
 headquarters: San Francisco, CA (originally Cambridge, MA)
 status: Acquired by Cisco (October 2024)
@@ -19,19 +18,15 @@ key_investors:
 founders:
 - name: Yaron Singer
   role: CEO & Co-Founder
-  background: 'Tenured Professor of Computer Science & Applied Mathematics at Harvard (Gordon McKay Professor). Israeli-born.
+  background: Tenured Professor of Computer Science & Applied Mathematics at Harvard (Gordon McKay Professor). Israeli-born.
     PhD from UC Berkeley. Previously researcher at Google AI and consulting researcher at Microsoft. Now VP of AI & Engineering
     at Cisco Security / Foundation AI.
-
-    '
   origin: Israeli-American
 - name: Kojin Oshiba
   role: Co-Founder
-  background: 'BA in Computer Science & Statistics from Harvard. Grew up in Japan. Previously ML engineer at QuantCo; co-founded
+  background: BA in Computer Science & Statistics from Harvard. Grew up in Japan. Previously ML engineer at QuantCo; co-founded
     its Japan branch. Published at ICML and NeurIPS. Forbes 30 Under 30 in Enterprise Technology (2024). Now leads AI organization
     at Cisco post-acquisition.
-
-    '
   origin: Japanese-American
 employees_at_acquisition: ~70
 revenue_at_acquisition: ~$10M (reported)
@@ -46,19 +41,19 @@ total_raised_m: 44
 funding_rounds:
 - stage: Seed
   date: '2019'
-  amount_m: 3
+  amount_m: 3.0
   lead_investors:
   - Sequoia Capital
   source: https://www.crunchbase.com/organization/robust-intelligence
 - stage: Series A
   date: 2020-02
-  amount_m: 11
+  amount_m: 11.0
   lead_investors:
   - Sequoia Capital
   source: https://www.crunchbase.com/organization/robust-intelligence
 - stage: Series B
   date: 2021-12
-  amount_m: 30
+  amount_m: 30.0
   lead_investors:
   - Tiger Global Management
   source: https://www.crunchbase.com/organization/robust-intelligence

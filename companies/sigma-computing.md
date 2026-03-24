@@ -1,6 +1,5 @@
 ---
 name: Sigma Computing
-legal_name: Sigma Computing, Inc.
 founded: 2014
 headquarters: San Francisco, California, USA
 website: https://www.sigmacomputing.com
@@ -10,7 +9,6 @@ one_liner: Cloud-based analytics platform enabling business teams to explore and
 stage: Late-stage / Growth
 latest_valuation_usd: 1500000000
 latest_valuation_date: 2024-05
-total_funding_usd: ~662_000_000
 revenue_run_rate_usd: ~100_000_000
 revenue_run_rate_date: 2025
 employee_count_approx: 1437
@@ -19,36 +17,34 @@ ipo_status: Private
 founders:
 - name: Jason Frantz
   role: Co-Founder
-  education: Stanford University (CS)
-  prior: Google, Bing (Microsoft)
+  background: Stanford University (CS)
   origin: American
+  prior: Google, Bing (Microsoft)
 - name: Rob Woollen
   role: Co-Founder & CTO
-  prior: Salesforce (Senior VP of Engineering)
   origin: American
+  prior: Salesforce (Senior VP of Engineering)
 key_executives:
 - name: Mike Palmer
   role: CEO
 funding_rounds:
-- round: Series A
+- stage: Series A
   date: 2019-11
-  amount_usd: null
   lead_investors:
   - Sutter Hill Ventures
   other_investors:
   - Altimeter Capital
   source: https://tracxn.com/d/companies/sigma/__6Ey-Cn1NtwqHCDL5voJWgm75xwVxjte6Xhh6SKxOcgA/funding-and-investors
-- round: Series B
+- stage: Series B
   date: 2019-11
-  amount_usd: null
   lead_investors:
   - Sutter Hill Ventures
   other_investors:
   - Altimeter Capital
   source: https://tracxn.com/d/companies/sigma/__6Ey-Cn1NtwqHCDL5voJWgm75xwVxjte6Xhh6SKxOcgA/funding-and-investors
-- round: Series C
+- stage: Series C
   date: 2021-11
-  amount_usd: 340000000
+  amount_m: 340.0
   lead_investors:
   - D1 Capital Partners
   other_investors:
@@ -57,10 +53,10 @@ funding_rounds:
   - Sutter Hill Ventures
   - Altimeter Capital
   source: https://tracxn.com/d/companies/sigma/__6Ey-Cn1NtwqHCDL5voJWgm75xwVxjte6Xhh6SKxOcgA/funding-and-investors
-- round: Series D
+- stage: Series D
   date: 2024-05
-  amount_usd: 200000000
-  valuation_usd: 1500000000
+  amount_m: 200.0
+  valuation_m: 1500.0
   lead_investors:
   - Spark Capital
   - Avenir Growth Capital
@@ -77,6 +73,8 @@ crunchbase: https://www.crunchbase.com/organization/sigma-computing
 crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/sigmacomputing
 linkedin_verified: true
+total_raised_m: 662.0
+status: active
 ---
 
 # Sigma Computing

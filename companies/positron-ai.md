@@ -1,11 +1,9 @@
 ---
 company: Positron AI
-legal_name: Positron AI Inc.
 founded: 2023
 headquarters: Austin, Texas, USA
 sector: AI Hardware / Semiconductors (Inference)
 stage: Growth (Series B)
-latest_valuation: $1 billion+ (Series B, February 2026)
 total_funding: ~$305 million
 employees: ~50-100 (estimate)
 website: https://www.positron.ai
@@ -21,7 +19,6 @@ founders:
   origin: American
 - name: Barrett Woodside
   role: Co-Founder & VP of Product
-  background: ''
   origin: American
 - name: Edward Kmett
   role: Co-Founder & Chief Scientist
@@ -45,7 +42,7 @@ funding_rounds:
   source: https://www.crunchbase.com/organization/positron-ai
 - stage: Series B
   date: 2026-02
-  amount_m: 230
+  amount_m: 230.0
   lead_investors:
   - Arena Private Wealth
   - Jump Trading
@@ -53,6 +50,7 @@ funding_rounds:
 linkedin: https://www.linkedin.com/company/positronai/
 name: Positron AI
 linkedin_verified: true
+status: active
 ---
 
 # Positron AI

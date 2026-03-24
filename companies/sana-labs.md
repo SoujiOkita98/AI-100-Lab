@@ -11,14 +11,13 @@ acquisition_date: 2025-11
 funding_rounds:
 - stage: Seed
   date: 2017-08
-  amount_m: null
   lead_investors:
   - Undisclosed
   source: https://www.crunchbase.com/organization/sana-2
   notes: Amount undisclosed.
 - stage: Series B
   date: 2022-12
-  amount_m: 34
+  amount_m: 34.0
   lead_investors:
   - Menlo Ventures
   - EQT Ventures
@@ -26,7 +25,7 @@ funding_rounds:
   notes: Valued at $180M post-money.
 - stage: Series B Extension
   date: 2023-05
-  amount_m: 28
+  amount_m: 28.0
   lead_investors:
   - NEA
   - Workday Ventures
@@ -34,7 +33,7 @@ funding_rounds:
   notes: Total Series B = $62M.
 - stage: Series C
   date: 2024-10
-  amount_m: 55
+  amount_m: 55.0
   lead_investors:
   - NEA
   - Menlo Ventures

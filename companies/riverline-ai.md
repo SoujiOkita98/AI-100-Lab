@@ -15,7 +15,7 @@ founders:
 funding_rounds:
 - stage: Pre-seed
   date: 2025-11
-  amount_m: 0.825
+  amount_m: 0.8
   lead_investors:
   - South Park Commons
 last_updated: 2026-03-21

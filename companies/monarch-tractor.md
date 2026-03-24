@@ -30,7 +30,6 @@ funding_rounds:
 - stage: Series A
   date: ~2020
   amount_m: 20.0
-  valuation_m: null
   source: https://www.crunchbase.com/organization/monarch-tractors
   notes: 'Early round to develop prototype autonomous electric tractor.
 
@@ -38,7 +37,6 @@ funding_rounds:
 - stage: Series B
   date: 2022-01
   amount_m: 61.0
-  valuation_m: null
   other_investors:
   - CNH Industrial
   source: https://aibusiness.com/verticals/autonomous-smart-tractor-firm-monarch-secures-61m-in-funding
@@ -49,7 +47,6 @@ funding_rounds:
 - stage: Series C
   date: 2024
   amount_m: 133.0
-  valuation_m: null
   lead_investors:
   - Astanor Ventures
   - Foxconn Co-GP Fund

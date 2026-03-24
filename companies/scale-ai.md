@@ -8,94 +8,88 @@ current_ceo: Jason Droege
 founders:
 - name: Alexandr Wang
   role: Co-founder & former CEO (departed June 2025 to Meta)
-  background: 'Born 1997 in Los Alamos, NM to Chinese immigrant parents who were physicists at Los Alamos National Laboratory.
+  background: Born 1997 in Los Alamos, NM to Chinese immigrant parents who were physicists at Los Alamos National Laboratory.
     Math and coding prodigy. Attended MIT briefly, worked at Quora and Hudson River Trading. Dropped out of MIT at 19 to co-found
-    Scale AI. Became world''s youngest self-made billionaire in 2022 at age 25. Now serves as Chief AI Officer at Meta, leading
+    Scale AI. Became world's youngest self-made billionaire in 2022 at age 25. Now serves as Chief AI Officer at Meta, leading
     Meta Superintelligence Labs.
-
-    '
   origin: Chinese-American
 - name: Lucy Guo
   role: Co-founder (departed 2018)
-  background: 'Studied CS and human-computer interaction at Carnegie Mellon. Thiel Fellow (2014). Worked at Facebook, Quora,
+  background: Studied CS and human-computer interaction at Carnegie Mellon. Thiel Fellow (2014). Worked at Facebook, Quora,
     and Snapchat. Left Scale AI in 2018 over strategic disagreements, retaining ~5% stake. Founded Backend Capital (VC) and
-    Passes (creator platform). Became a billionaire on paper after Meta''s 2025 investment.
-
-    '
+    Passes (creator platform). Became a billionaire on paper after Meta's 2025 investment.
   origin: Chinese-American
 sector: AI Infrastructure / Data Services
 employee_count: ~1,000 full-time (estimates vary; up to ~6,000 including contractors/annotators)
-latest_valuation: $29B (June 2025)
-total_funding: ~$15.9B
 funding_rounds:
-- round: Seed
+- stage: Seed
   date: 2016
-  amount: Undisclosed
+  amount_m: null
+  valuation_m: null
   lead_investors:
   - Y Combinator
-  valuation: Undisclosed
   source: https://tracxn.com/d/companies/scaleai/__iQC-P6zm6-YIchaMdt_UtWRoQNAzQYgkyxD99e8U-cI/funding-and-investors
   notes: Went through Y Combinator batch
-- round: Series A
+- stage: Series A
   date: 2017-05
-  amount: $4.5M
+  amount_m: 4.5
+  valuation_m: null
   lead_investors:
   - Accel
-  valuation: Undisclosed
   source: https://wellfound.com/company/scale-ai/funding
-- round: Series B
+- stage: Series B
   date: 2018
-  amount: $18M
+  amount_m: 18.0
+  valuation_m: null
   lead_investors:
   - Index Ventures
-  valuation: Undisclosed
   source: https://www.indexventures.com/perspectives/scale-announces-18-million-in-series-b-funding-led-by-index-ventures/
   notes: Accel and Y Combinator participated
-- round: Series C
+- stage: Series C
   date: 2019-08-05
-  amount: $100M
+  amount_m: 100.0
+  valuation_m: 1000.0
   lead_investors:
   - Founders Fund
-  valuation: $1B+ (unicorn status)
   source: https://techcrunch.com/2019/08/05/scale-ai-and-its-22-year-old-ceo-lock-down-100-million-to-help-label-silicon-valleys-data/
   notes: 'Coatue, Thrive Capital, Spark Capital, Index Ventures, Accel also participated. Angel investors included Kevin Systrom,
     Mike Krieger (Instagram founders) and Adam D''Angelo (Quora CEO).
 
     '
-- round: Series D
+- stage: Series D
   date: 2020-12
-  amount: $155M
+  amount_m: 155.0
+  valuation_m: 3500.0
   lead_investors:
   - Tiger Global Management
-  valuation: $3.5B
   source: https://www.builtinsf.com/articles/scale-raises-155m-series-d-artificial-intelligence-hiring
-- round: Series E
+- stage: Series E
   date: 2021-04-13
-  amount: $325M
+  amount_m: 325.0
+  valuation_m: 7300.0
   lead_investors:
   - Dragoneer Investment Group
   - Greenoaks Capital
   - Tiger Global
-  valuation: $7.3B
   source: https://www.finsmes.com/2021/04/scale-ai-raises-325m-in-series-e-funding.html
   notes: Wellington Management and Durable Capital joined as new investors
-- round: Series F
+- stage: Series F
   date: 2024-05
-  amount: $1B
+  amount_m: 1000.0
+  valuation_m: 13800.0
   lead_investors:
   - Accel
-  valuation: $13.8B
   source: https://techcrunch.com/2024/05/21/data-labeling-startup-scale-ai-raises-1b-as-valuation-doubles-to-13-8b/
   notes: 'Nvidia, Meta, Amazon invested alongside Y Combinator, Index Ventures, Founders Fund, Coatue, Thrive Capital, Spark
     Capital, Tiger Global, Greenoaks Capital, and Wellington Management.
 
     '
-- round: Series G (Meta strategic investment)
+- stage: Series G (Meta strategic investment)
   date: 2025-06
-  amount: $14.3B
+  amount_m: 14300.0
+  valuation_m: 29000.0
   lead_investors:
   - Meta
-  valuation: $29B
   source: https://techcrunch.com/2025/06/13/new-details-emerge-on-metas-14-3b-deal-for-scale/
   notes: Meta acquired 49% non-voting stake. Alexandr Wang departed to Meta as Chief AI Officer. One of the largest private
     AI transactions in history.
@@ -107,6 +101,8 @@ twitter: '@scale_AI'
 crunchbase: https://www.crunchbase.com/organization/scale-ai
 crunchbase_verified: true
 linkedin_verified: true
+total_raised_m: 15900.0
+latest_valuation_m: 29000.0
 ---
 
 # Scale AI

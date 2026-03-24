@@ -15,24 +15,23 @@ latest_valuation_m: 750
 funding_rounds:
 - stage: Seed
   date: 2021-01
-  amount_m: 10
-  valuation_m: null
+  amount_m: 10.0
   lead_investors:
   - Wing Venture Capital
   source: https://news.crunchbase.com/ai-robotics/startup-venture-funding-database-pinecone/
   notes: Early investment as Pinecone began commercializing vector search.
 - stage: Series A
   date: 2021-12
-  amount_m: 28
-  valuation_m: 170
+  amount_m: 28.0
+  valuation_m: 170.0
   lead_investors:
   - Menlo Ventures
   source: https://www.calcalistech.com/ctechnews/article/bkx1111tg79
   notes: Some sources cite $17M; Calcalist/Ctech reported $28M. Wing Venture Capital also participated.
 - stage: Series B
   date: 2023-04
-  amount_m: 100
-  valuation_m: 750
+  amount_m: 100.0
+  valuation_m: 750.0
   lead_investors:
   - Andreessen Horowitz
   source: https://techcrunch.com/2023/04/27/pinecone-drops-100m-investment-on-750m-valuation-as-vector-database-demand-grows/

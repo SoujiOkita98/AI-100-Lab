@@ -1,6 +1,5 @@
 ---
 company: Snorkel AI
-slug: snorkel-ai
 founded: 2019
 headquarters: Palo Alto, CA
 ceo: Alex Ratner
@@ -11,42 +10,40 @@ co_founders:
 - Braden Hancock (Co-Founder, Head of Technology)
 - Henry Ehrenberg (Co-Founder, Head of Engineering)
 sector: Data-Centric AI / AI Infrastructure
-total_funding: ~$238M
-latest_valuation: $1.3B (Series D, May 2025)
 status: Private, Unicorn
 profile_updated: 2026-03-20
 funding_rounds:
 - stage: Seed
   date: 2019-01
-  amount_m: 3
+  amount_m: 3.0
   lead_investors:
   - Greylock Partners
   source: https://www.crunchbase.com/organization/snorkel-ai
 - stage: Series A
   date: 2020-07
-  amount_m: 12
-  valuation_m: 135
+  amount_m: 12.0
+  valuation_m: 135.0
   lead_investors:
   - Greylock Partners
   source: https://www.crunchbase.com/funding_round/snorkel-ai-series-a--241303d6
 - stage: Series B
   date: 2021-04
-  amount_m: 35
+  amount_m: 35.0
   lead_investors:
   - Lightspeed Venture Partners
   source: https://techcrunch.com/2021/04/07/snorkel-ai-scores-35m/
 - stage: Series C
   date: 2021-08
-  amount_m: 85
-  valuation_m: 1000
+  amount_m: 85.0
+  valuation_m: 1000.0
   lead_investors:
   - Addition
   - BlackRock
   source: https://snorkel.ai/blog/85-million-series-c/
 - stage: Series D
   date: 2025-05
-  amount_m: 100
-  valuation_m: 1300
+  amount_m: 100.0
+  valuation_m: 1300.0
   lead_investors:
   - Addition
   source: https://www.businesswire.com/news/home/20250529083998/en/
@@ -84,6 +81,8 @@ founders:
   origin: American
 name: Snorkel AI
 linkedin_verified: true
+total_raised_m: 238.0
+latest_valuation_m: 1300.0
 ---
 
 # Snorkel AI

@@ -17,12 +17,8 @@ total_raised_m: 1.7
 founders:
 - name: Sean Walsh
   role: Co-Founder & CEO
-  background: ''
-  origin: ''
 - name: Regent Lee
   role: Co-Founder
-  background: ''
-  origin: ''
 - name: Sina Shahandeh
   role: Co-Founder & CTO
   background: 3x founder; PhD in computational physics
