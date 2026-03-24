@@ -22,24 +22,24 @@
         "company_slug": "01-ai",
         "name": "Kai-Fu Lee",
         "role": "CEO",
-        "background": "",
-        "origin": "",
+        "background": "BS CS Columbia (summa cum laude), PhD CS Carnegie Mellon (pioneered Sphinx speech recognition). Faculty at CMU, then Apple (PlainTalk), SGI (VP), Microsoft Research China (founding director), Google China (president). Founded Sinovation Ventures (2009). TIME 100 Most Influential in AI (2023). Author of 'AI Superpowers'.",
+        "origin": "Taiwanese-American",
         "prior": ""
       },
       {
         "company_slug": "01-ai",
         "name": "Anita Huang",
         "role": "Co-Founder",
-        "background": "",
-        "origin": "",
+        "background": "MS Marketing/Communications Northwestern. Former Director Greater China Marketing at Google (2006-2007). Former Country Marketing Manager Yahoo (2000-2006). VP Marketing & Business Development Tudou.com. Also worked at Sinovation Ventures.",
+        "origin": "Chinese",
         "prior": ""
       },
       {
         "company_slug": "01-ai",
         "name": "Ken Qi",
         "role": "Co-Founder",
-        "background": "",
-        "origin": "",
+        "background": "Previously co-founded Aibee (computer vision AI company). Technical leadership background.",
+        "origin": "Chinese",
         "prior": ""
       }
     ],
@@ -338,7 +338,7 @@
         "company_slug": "7ai",
         "name": "Lior Div",
         "role": "CEO",
-        "background": "",
+        "background": "IDF Unit 8200 veteran. Co-founded Cybereason (raised $700M+, valued at $3.5B+). Serial cybersecurity entrepreneur.",
         "origin": "Israeli",
         "prior": ""
       },
@@ -346,7 +346,7 @@
         "company_slug": "7ai",
         "name": "Yonatan Striem-Amit",
         "role": "CTO",
-        "background": "",
+        "background": "IDF Unit 8200 veteran. Co-founded Cybereason as CTO. Deep expertise in cybersecurity platforms and endpoint detection.",
         "origin": "Israeli",
         "prior": ""
       }
@@ -406,24 +406,24 @@
         "company_slug": "a0-dev",
         "name": "Ayomide Omolewa",
         "role": "Co-Founder",
-        "background": "",
-        "origin": "",
+        "background": "Former roles at Nvidia, Paramount, Google, and Lockheed Martin. 7+ years as indie app developer (up to $14K MRR side income).",
+        "origin": "Nigerian-American",
         "prior": ""
       },
       {
         "company_slug": "a0-dev",
         "name": "Seth Setse",
         "role": "Co-Founder",
-        "background": "",
-        "origin": "",
+        "background": "CMU Class of 2023. Former roles at Microsoft and Teleparty. 7+ years as indie app developer alongside Omolewa.",
+        "origin": "American",
         "prior": ""
       },
       {
         "company_slug": "a0-dev",
         "name": "Bradley Lafond",
         "role": "Co-Founder",
-        "background": "",
-        "origin": "",
+        "background": "Growth strategist. Joined Omolewa and Setse to handle go-to-market.",
+        "origin": "American",
         "prior": ""
       }
     ],
@@ -465,7 +465,7 @@
         "company_slug": "aaru",
         "name": "Cameron Fink",
         "role": "Co-founder & CEO",
-        "background": "",
+        "background": "Dartmouth College dropout (~age 18-19 at founding). Experience at Kleiner Perkins and Research Science Institute (RSI). ~20 years old.",
         "origin": "American",
         "prior": ""
       },
@@ -473,7 +473,7 @@
         "company_slug": "aaru",
         "name": "Ned Koh",
         "role": "Co-founder & President",
-        "background": "",
+        "background": "Harvard dropout (~age 18-19 at founding). Prior research at Northwestern University. Co-founded earlier startups. ~20 years old.",
         "origin": "American",
         "prior": ""
       },
@@ -481,7 +481,7 @@
         "company_slug": "aaru",
         "name": "John Kessler",
         "role": "Co-founder & CTO",
-        "background": "",
+        "background": "~15 years old at time of founding (2024). Teen tech prodigy. Leads technical architecture of Aaru's synthetic audience simulation models.",
         "origin": "American",
         "prior": ""
       }
@@ -619,7 +619,7 @@
         "company_slug": "abridge",
         "name": "Shiv Rao (Shivdev Rao, MD)",
         "role": "CEO & Co-Founder",
-        "background": "",
+        "background": "BA History Carnegie Mellon (2001). Practicing cardiologist at UPMC. Led UPMC provider-facing investment portfolio (2013-2019). TIME 100 Most Influential in AI (2024). Founded Abridge to solve physician 'pajama time' documentation burden.",
         "origin": "Indian-American",
         "prior": ""
       },
@@ -627,7 +627,7 @@
         "company_slug": "abridge",
         "name": "Sandeep Konam",
         "role": "Co-Founder & CTO",
-        "background": "",
+        "background": "MS Robotics Carnegie Mellon (2017). Oversees technical vision and product development at Abridge.",
         "origin": "Indian-American",
         "prior": ""
       },
@@ -635,7 +635,7 @@
         "company_slug": "abridge",
         "name": "Florian Metze",
         "role": "Co-Founder (departed 2019)",
-        "background": "",
+        "background": "Former Associate Research Professor at CMU Language Technologies Institute. Now Research Scientist Manager at Meta.",
         "origin": "German",
         "prior": ""
       }
@@ -1100,15 +1100,15 @@
         "company_slug": "aegisai",
         "name": "Cy Khormaee",
         "role": "CEO",
-        "background": "",
+        "background": "MBA Harvard Business School. Former Head of Product / Director of Product Management at Google (Safe Browsing, reCAPTCHA, Web Risk). Previously founded Contastic (acquired by SugarCRM 2016). Former VP Product Management at Attentive.",
         "origin": "Iranian-American",
         "prior": ""
       },
       {
         "company_slug": "aegisai",
         "name": "Ryan Luo",
-        "role": "Co-founder",
-        "background": "",
+        "role": "Co-founder & CTO",
+        "background": "Pomona College, Yale CS Award recipient. 9 years at Google on Safe Browsing and reCAPTCHA teams. Built reCAPTCHA's product-led growth strategy driving adoption by millions of sites.",
         "origin": "Chinese-American",
         "prior": ""
       }
@@ -1597,7 +1597,7 @@
     "website": "https://www.ai21.com",
     "sector": "Enterprise AI / Foundation Models",
     "one_liner": "AI21 Labs is an Israeli AI company founded in November 2017 that develops proprietary large language models and enterprise AI systems",
-    "total_raised_m": 336.0,
+    "total_raised_m": 326.5,
     "latest_valuation_m": 1400.0,
     "employees": "230 (as of early 2026)",
     "revenue_signals": null,
@@ -1636,7 +1636,7 @@
       {
         "company_slug": "ai21-labs",
         "stage": "Seed",
-        "date": "2019",
+        "date": "2019-01",
         "amount_m": 9.5,
         "valuation_m": null,
         "lead_investors": "Undisclosed",
@@ -1646,36 +1646,58 @@
       },
       {
         "company_slug": "ai21-labs",
-        "stage": "Series A",
-        "date": "2020-07",
-        "amount_m": 34.0,
+        "stage": "Venture Round",
+        "date": "2020",
+        "amount_m": 20.0,
         "valuation_m": null,
-        "lead_investors": "Pitango",
+        "lead_investors": "Walden Catalyst",
         "other_investors": "",
-        "source": "https://www.crunchbase.com/organization/ai21",
+        "source": "https://www.crunchbase.com/funding_round/ai21-series-unknown--6ae0f6fc",
+        "notes": "Undisclosed venture round listed on Crunchbase"
+      },
+      {
+        "company_slug": "ai21-labs",
+        "stage": "Series A",
+        "date": "2021-11",
+        "amount_m": 25.0,
+        "valuation_m": null,
+        "lead_investors": "Pitango First; Walden Catalyst",
+        "other_investors": "",
+        "source": "https://www.crunchbase.com/funding_round/ai21-series-a--27e9dfec",
         "notes": ""
       },
       {
         "company_slug": "ai21-labs",
         "stage": "Series B",
-        "date": "2021-07",
+        "date": "2022-07",
         "amount_m": 64.0,
         "valuation_m": null,
         "lead_investors": "Ahren",
         "other_investors": "",
-        "source": "https://www.crunchbase.com/organization/ai21",
+        "source": "https://www.crunchbase.com/funding_round/ai21-series-b--1fc9de3d",
         "notes": ""
       },
       {
         "company_slug": "ai21-labs",
         "stage": "Series C",
         "date": "2023-08",
-        "amount_m": 208.0,
+        "amount_m": 155.0,
         "valuation_m": null,
         "lead_investors": "Walden Catalyst; Pitango",
         "other_investors": "",
+        "source": "https://www.ai21.com/blog/series-c-funding/",
+        "notes": "Initial close at $1.4B valuation"
+      },
+      {
+        "company_slug": "ai21-labs",
+        "stage": "Series C Extension",
+        "date": "2023-11",
+        "amount_m": 53.0,
+        "valuation_m": null,
+        "lead_investors": "Intel Capital; Comcast Ventures",
+        "other_investors": "",
         "source": "https://www.ai21.com/blog/ai21-completes-208-million-oversubscribed-series-c-round/",
-        "notes": ""
+        "notes": "Extended Series C from $155M to $208M total"
       }
     ],
     "top_investors": [
@@ -1757,7 +1779,7 @@
         "company_slug": "aidoc",
         "name": "Elad Walach",
         "role": "CEO",
-        "background": "",
+        "background": "BSc CS Technion, BSc Math & Physics Hebrew University. IDF Talpiot program veteran. Led AI research in Israeli Air Force. Forbes 30 Under 30, Modern Healthcare 40 Under 40.",
         "origin": "Israeli",
         "prior": ""
       },
@@ -1765,7 +1787,7 @@
         "company_slug": "aidoc",
         "name": "Michael Braginsky",
         "role": "CTO",
-        "background": "",
+        "background": "BSc Physics & CS, MSc CS (Medical Image Processing) Hebrew University. IDF Talpiot program veteran. Former Head of R&D for Israeli Special Forces, deploying state-of-the-art vision technologies.",
         "origin": "Israeli (Russian-Jewish heritage)",
         "prior": ""
       }
@@ -1903,16 +1925,16 @@
         "company_slug": "air-inc",
         "name": "Shane Hegde",
         "role": "CEO",
-        "background": "",
-        "origin": "",
+        "background": "BS Stanford. Former Chief Digital Strategist at REVOLT. CEO & Co-Founder of Swap (venture-backed fintech). Former PE investor at HPS Investment Partners.",
+        "origin": "American",
         "prior": ""
       },
       {
         "company_slug": "air-inc",
         "name": "Tyler Strand",
-        "role": "Co-Founder",
-        "background": "",
-        "origin": "",
+        "role": "Co-Founder & CTO",
+        "background": "BS CS Stanford. Former Director of Product at Beatport (launched Beatport Live). Former Partner & Director of PM at Postlight (clients: Goldman Sachs, Time Inc, Bloomberg). Stanford college roommate of Shane Hegde.",
+        "origin": "American",
         "prior": ""
       }
     ],
@@ -2080,7 +2102,7 @@
     "website": "https://albatross.ai",
     "sector": "AI E-commerce / Product Discovery",
     "one_liner": "Real-time AI product discovery for retailers using transformer architecture on live in-session events. Ex-Amazon AI founders.",
-    "total_raised_m": 12.5,
+    "total_raised_m": 16.0,
     "latest_valuation_m": null,
     "employees": null,
     "revenue_signals": null,
@@ -2118,12 +2140,23 @@
     "funding_rounds": [
       {
         "company_slug": "albatross-ai",
+        "stage": "Pre-Seed",
+        "date": "2024-09",
+        "amount_m": 3.5,
+        "valuation_m": null,
+        "lead_investors": "Redalpine",
+        "other_investors": "",
+        "source": "https://www.thesaasnews.com/news/albatross-raises-3-million-in-funding",
+        "notes": "Foundation round"
+      },
+      {
+        "company_slug": "albatross-ai",
         "stage": "Seed",
         "date": "2025-11",
         "amount_m": 12.5,
         "valuation_m": null,
         "lead_investors": "MMC Ventures",
-        "other_investors": "",
+        "other_investors": "Redalpine; Daphni",
         "source": "",
         "notes": ""
       }
@@ -2513,16 +2546,16 @@
       {
         "company_slug": "ambience-healthcare",
         "name": "Mike Ng",
-        "role": "Co-Founder / CEO",
-        "background": "",
+        "role": "Co-Founder / President & Chairman",
+        "background": "BCom Finance University of Sydney, MBA MIT Sloan. Former PE Associate at Calera Capital, IB Analyst at Morgan Stanley. Co-founded Remedy Health. Inspired to enter healthcare after back fracture and misdiagnosis in 2012.",
         "origin": "Chinese-American",
         "prior": ""
       },
       {
         "company_slug": "ambience-healthcare",
         "name": "Nikhil Buduma",
-        "role": "Co-Founder / CTO",
-        "background": "",
+        "role": "Co-Founder / CEO (promoted Sep 2025, formerly Chief Scientist)",
+        "background": "MIT. Authored 'Fundamentals of Deep Learning' (O'Reilly), first widely-adopted textbook on modern AI. Two-time gold medalist International Biology Olympiad. Managed drug discovery lab at San Jose State at age 16. Co-founded Lean On Me (national nonprofit) and Remedy Medical. Becker's Rising Stars Under 40.",
         "origin": "Indian-American",
         "prior": ""
       }
@@ -3132,17 +3165,17 @@
       {
         "company_slug": "anterior",
         "name": "Abdel Mahmoud",
-        "role": "Co-Founder",
-        "background": "",
-        "origin": "",
+        "role": "Co-Founder & CEO",
+        "background": "Born in Libya, came to UK as refugee at age 8. MEng UCL. Youngest infantry officer in UK (Royal Military Academy Sandhurst at 18). Trained as doctor (NHS), then returned to CS. Former product roles at Google and Meta.",
+        "origin": "Libyan-British",
         "prior": ""
       },
       {
         "company_slug": "anterior",
         "name": "Zahid Mahmood",
-        "role": "Co-Founder",
-        "background": "",
-        "origin": "",
+        "role": "Co-Founder & CTO",
+        "background": "BEng EE Queen Mary University, MSc Engineering Management UCL. Founded first company as teenager. 6 years as Software Engineer at Global Aerospace building payment platforms. Serial founder (Buskana, Crowdfund NFT).",
+        "origin": "British",
         "prior": ""
       }
     ],
@@ -3457,33 +3490,33 @@
       {
         "company_slug": "anyscale",
         "name": "Robert Nishihara",
-        "role": "Co-Founder",
-        "background": "",
-        "origin": "",
+        "role": "Co-Founder & CEO",
+        "background": "BA Mathematics Harvard, PhD CS UC Berkeley (advised by Ion Stoica). Research intern at Facebook AI Research, Microsoft Research. Co-creator of Ray distributed computing framework.",
+        "origin": "American",
         "prior": ""
       },
       {
         "company_slug": "anyscale",
         "name": "Philipp Moritz",
-        "role": "Co-Founder",
-        "background": "",
-        "origin": "",
+        "role": "Co-Founder & CTO",
+        "background": "BSc Physics U. W\u00fcrzburg, MASt Mathematics Cambridge, PhD CS UC Berkeley. Co-creator of Ray. Contributor to vLLM, Apache Arrow. Research in distributed systems, compilers.",
+        "origin": "German",
         "prior": ""
       },
       {
         "company_slug": "anyscale",
         "name": "Ion Stoica",
         "role": "Co-Founder",
-        "background": "",
-        "origin": "",
+        "background": "MS EE/CS Polytechnic University of Bucharest, PhD ECE Carnegie Mellon. Professor of CS at UC Berkeley (Xu Bao Chancellor's Chair). Co-founded Databricks and Conviva. Director of RISELab/SkyLab.",
+        "origin": "Romanian-American",
         "prior": ""
       },
       {
         "company_slug": "anyscale",
         "name": "Michael I. Jordan",
         "role": "Co-Founder",
-        "background": "",
-        "origin": "",
+        "background": "MS Mathematics Arizona State, PhD Cognitive Science UC San Diego. Pehong Chen Distinguished Professor at UC Berkeley (EECS & Statistics). Former MIT professor (1988-1998). Member of NAS, NAE, and American Academy of Arts and Sciences.",
+        "origin": "American",
         "prior": ""
       }
     ],
@@ -3941,7 +3974,7 @@
         "company_slug": "appzen",
         "name": "Anant Kale",
         "role": "Co-founder & CEO",
-        "background": "",
+        "background": "BEng, MBA Finance University of Mumbai. Former VP Applications at Fujitsu America (strategy, product management). 15+ years in enterprise software development.",
         "origin": "Indian",
         "prior": ""
       },
@@ -3949,7 +3982,7 @@
         "company_slug": "appzen",
         "name": "Kunal Verma",
         "role": "Co-founder & CTO",
-        "background": "",
+        "background": "PhD CS University of Georgia (semantic technologies). Former team lead at Accenture Technology Labs. Published 50+ papers, holds 7 patents in AI/semantic technologies.",
         "origin": "Indian",
         "prior": ""
       }
@@ -4246,40 +4279,40 @@
         "company_slug": "archetype-ai",
         "name": "Ivan Poupyrev",
         "role": "CEO",
-        "background": "",
-        "origin": "",
+        "background": "MS Applied Math & CS Moscow Aerospace University, PhD CS Hiroshima University. Former Director of Engineering at Google ATAP (led Project Soli radar sensing and Jacquard smart textiles, shipped in 15+ products across 33 countries). Former Principal Research Scientist at Walt Disney Imagineering and Sony Research Tokyo.",
+        "origin": "Russian-American",
         "prior": ""
       },
       {
         "company_slug": "archetype-ai",
         "name": "Leonardo Giusti",
         "role": "Co-founder",
-        "background": "",
-        "origin": "",
+        "background": "Former Google ATAP team member. Co-created Project Jacquard connected apparel platform.",
+        "origin": "Italian-American",
         "prior": ""
       },
       {
         "company_slug": "archetype-ai",
         "name": "Jaime Lien",
         "role": "Co-founder",
-        "background": "",
-        "origin": "",
+        "background": "Former Google ATAP team member. Co-created Project Soli radar-based gesture recognition.",
+        "origin": "American",
         "prior": ""
       },
       {
         "company_slug": "archetype-ai",
         "name": "Brandon Barbello",
         "role": "Co-founder",
-        "background": "",
-        "origin": "",
+        "background": "Former Google ATAP team member. Worked on Project Soli and Jacquard platforms.",
+        "origin": "American",
         "prior": ""
       },
       {
         "company_slug": "archetype-ai",
         "name": "Nick Gillian",
         "role": "Co-founder",
-        "background": "",
-        "origin": "",
+        "background": "Former Google ATAP team member. ML/sensing specialist on Project Soli.",
+        "origin": "Irish-American",
         "prior": ""
       }
     ],
@@ -4332,7 +4365,7 @@
         "company_slug": "arena",
         "name": "Anastasios Nikolas Angelopoulos",
         "role": "CEO",
-        "background": "",
+        "background": "PhD EECS UC Berkeley (advised by Michael I. Jordan and Jitendra Malik). Postdoc at UC Berkeley with Ion Stoica. Research focus on trustworthy AI, conformal prediction, and reliable ML. Co-created Chatbot Arena as PhD side project in 2023.",
         "origin": "Greek-American",
         "prior": ""
       },
@@ -4340,7 +4373,7 @@
         "company_slug": "arena",
         "name": "Wei-Lin Chiang",
         "role": "CTO",
-        "background": "",
+        "background": "BS & MS National Taiwan University, PhD candidate EECS UC Berkeley (SkyLab, advised by Ion Stoica). Research internships at Google, Amazon, Alibaba, Microsoft. Co-created Chatbot Arena as PhD side project in 2023.",
         "origin": "Taiwanese-American",
         "prior": ""
       },
@@ -4348,7 +4381,7 @@
         "company_slug": "arena",
         "name": "Ion Stoica",
         "role": "Co-founder & Advisor",
-        "background": "",
+        "background": "MS EE/CS Polytechnic University of Bucharest, PhD ECE Carnegie Mellon. Professor of CS at UC Berkeley (Xu Bao Chancellor's Chair). Co-founded Databricks, Conviva, and Anyscale.",
         "origin": "Romanian-American",
         "prior": ""
       }
@@ -4379,16 +4412,16 @@
         "company_slug": "arize-ai",
         "name": "Aparna Dhinakaran",
         "role": "Co-Founder & Chief Product Officer",
-        "background": "",
-        "origin": "Chennai, India (born in Chennai; parents immigrated to US when she was 6 months old; Berkeley EECS)",
+        "background": "BS EECS UC Berkeley (published research with Berkeley AI Research group). On leave from PhD in Computer Vision at Cornell. Former ML engineer at Uber (built Michelangelo ML platform), Apple, and TubeMogul (acquired by Adobe). Founded MonitorML (YC-backed). Forbes 30 Under 30.",
+        "origin": "Indian-American (born in Chennai; parents immigrated to US when she was 6 months old)",
         "prior": ""
       },
       {
         "company_slug": "arize-ai",
         "name": "Jason Lopatecki",
         "role": "Co-Founder & CEO",
-        "background": "",
-        "origin": "United States",
+        "background": "BS EECS UC Berkeley. Co-founded TubeMogul (scaled to IPO, acquired by Adobe) as Chief Innovation Officer. Deep expertise in big data architectures, programmatic advertising, and distributed systems.",
+        "origin": "American",
         "prior": ""
       }
     ],
@@ -4732,17 +4765,17 @@
       {
         "company_slug": "arva-ai",
         "name": "Rhim Shah",
-        "role": "Co-Founder",
-        "background": "",
-        "origin": "",
+        "role": "Co-Founder & CEO",
+        "background": "Engineering, University of Oxford. Former FinCrime product lead at Revolut Business. Former product roles at Jobandtalent. APM intern at Google. Previous internship at AWS.",
+        "origin": "British",
         "prior": ""
       },
       {
         "company_slug": "arva-ai",
         "name": "Oliver Wales",
-        "role": "Co-Founder",
-        "background": "",
-        "origin": "",
+        "role": "Co-Founder & CTO",
+        "background": "CS University of Cambridge. Former lead product engineer at Opvia (YC S20). Former full-stack engineer at Iventis, Chimnie, and The Trade Desk.",
+        "origin": "British",
         "prior": ""
       }
     ],
@@ -4871,8 +4904,8 @@
         "company_slug": "assemblyai",
         "name": "Dylan Fox",
         "role": "Founder & CEO",
-        "background": "",
-        "origin": "",
+        "background": "BA Business Economics & Public Policy, George Washington University. Former ML team lead at Cisco Systems. Founded YouGive1. YC alum. AssemblyAI voted Best API of 2020.",
+        "origin": "American",
         "prior": ""
       }
     ],
@@ -4947,7 +4980,7 @@
         "company_slug": "astrus",
         "name": "Brad Moon",
         "role": "Co-founder",
-        "background": "",
+        "background": "University of Alberta (analog IC design). Former satellite CMOS image sensor designer at Teledyne DALSA. Previously helped lead product discovery for ApplyBoard.",
         "origin": "Canadian",
         "prior": ""
       },
@@ -4955,7 +4988,7 @@
         "company_slug": "astrus",
         "name": "Zeyi Wang",
         "role": "Co-founder",
-        "background": "",
+        "background": "Reinforcement learning researcher trained by AlphaGo advisor Martin M\u00fcller at University of Alberta. Worked in research group that laid foundations for Google DeepMind's AlphaGo.",
         "origin": "Chinese-Canadian",
         "prior": ""
       }
@@ -5381,7 +5414,7 @@
         "company_slug": "august-ai",
         "name": "Anuruddh Mishra",
         "role": "CEO",
-        "background": "",
+        "background": "BTech Electronics Engineering IIT-BHU Varanasi. Former roles at SuperShare, Give, and Reimagine Giving. Founded August AI after personal four-month misdiagnosis experience. 6M+ users across 160 countries.",
         "origin": "Indian",
         "prior": ""
       }
@@ -6332,7 +6365,7 @@
         "company_slug": "basis",
         "name": "Matthew Harpe",
         "role": "Co-Founder & CEO",
-        "background": "",
+        "background": "Former consultant at Boston Consulting Group (healthcare and data science). Discovered accounting data inefficiencies while at BCG, left to co-found Basis.",
         "origin": "American",
         "prior": ""
       },
@@ -6340,7 +6373,7 @@
         "company_slug": "basis",
         "name": "Mitchell Troyanovsky",
         "role": "Co-Founder",
-        "background": "",
+        "background": "Long-time friend of Harpe. Exposed to accounting industry inefficiencies in prior career. Co-built Basis prototype that attracted immediate interest from largest US accounting firms.",
         "origin": "American (Slavic heritage)",
         "prior": ""
       }
@@ -6405,32 +6438,32 @@
         "company_slug": "bedrock-robotics",
         "name": "Boris Sofman",
         "role": "Co-Founder & CEO",
-        "background": "",
-        "origin": "",
+        "background": "BS, MS, PhD Robotics Carnegie Mellon. Co-founded Anki (consumer robotics, shipped 3.7M+ devices, ~$100M annual revenue). Former Director of Engineering & Head of Trucking at Waymo (~5 years).",
+        "origin": "American",
         "prior": ""
       },
       {
         "company_slug": "bedrock-robotics",
         "name": "Kevin Peterson",
         "role": "Co-Founder & CTO",
-        "background": "",
-        "origin": "",
+        "background": "Former Waymo engineering leader. Part of the core ex-Waymo team that founded Bedrock.",
+        "origin": "American",
         "prior": ""
       },
       {
         "company_slug": "bedrock-robotics",
         "name": "Ajay Gummalla",
         "role": "Co-Founder & VP Engineering",
-        "background": "",
-        "origin": "",
+        "background": "Former Waymo engineering leader. Part of the core ex-Waymo team that founded Bedrock.",
+        "origin": "Indian-American",
         "prior": ""
       },
       {
         "company_slug": "bedrock-robotics",
         "name": "Tom Eliaz",
         "role": "Co-Founder & VP Engineering",
-        "background": "",
-        "origin": "",
+        "background": "Former Waymo engineering leader. Part of the core ex-Waymo team that founded Bedrock.",
+        "origin": "American",
         "prior": ""
       }
     ],
@@ -6606,16 +6639,16 @@
       {
         "company_slug": "biostate-ai",
         "name": "Ashwin Gopinath",
-        "role": "CEO",
-        "background": "",
+        "role": "Co-founder & CTO",
+        "background": "Associate Professor at MIT (on leave). Former Senior Research Fellow at Google X (2016). PhD Caltech (Robert Dirk Prize in Molecular Programming 2016). NSF Career Award 2020, Army Research Office YIP Award 2019.",
         "origin": "Indian-American",
         "prior": ""
       },
       {
         "company_slug": "biostate-ai",
-        "name": "David ZhangShe",
-        "role": "Co-founder",
-        "background": "",
+        "name": "David Zhang",
+        "role": "Co-founder & CEO",
+        "background": "Former professor and repeat entrepreneur. Background in DNA research and engineering. Co-founded Biostate AI with Gopinath to apply AI to RNA sequencing.",
         "origin": "Chinese-American",
         "prior": ""
       }
@@ -6855,7 +6888,7 @@
         "company_slug": "bland-ai",
         "name": "Isaiah N. Granet",
         "role": "Co-Founder & CEO",
-        "background": "",
+        "background": "BS CS & Economics Washington University in St. Louis (2022). Former software engineer at Lantern (AI startup). Z Fellow. Previously co-founded Intelliga Health before pivoting to Bland AI.",
         "origin": "American",
         "prior": ""
       },
@@ -6863,7 +6896,7 @@
         "company_slug": "bland-ai",
         "name": "Sobhan Nejad",
         "role": "Co-Founder & COO",
-        "background": "",
+        "background": "Self-taught developer. Former full-time engineer at Shogun (started via cold emails as teenager). Co-founded Intelliga Health (medical AI) before pivoting to Bland AI's enterprise phone platform.",
         "origin": "Iranian-American",
         "prior": ""
       }
@@ -6965,7 +6998,7 @@
     "website": "https://www.bluej.com",
     "sector": "legal-ai; tax-tech; enterprise-ai",
     "one_liner": "AI-powered tax research platform used by 4,000+ law firms, transforming tax queries with generative AI.",
-    "total_raised_m": 167.0,
+    "total_raised_m": 139.5,
     "latest_valuation_m": null,
     "employees": null,
     "revenue_signals": null,
@@ -7009,6 +7042,39 @@
       }
     ],
     "funding_rounds": [
+      {
+        "company_slug": "blue-j",
+        "stage": "Series A",
+        "date": "2018-11",
+        "amount_m": 6.7,
+        "valuation_m": null,
+        "lead_investors": "Relay Ventures",
+        "other_investors": "Mistral Venture Partners; LDV Partners; Business Development Bank of Canada",
+        "source": "https://www.crunchbase.com/funding_round/blue-j-legal-series-a--78a3b285",
+        "notes": ""
+      },
+      {
+        "company_slug": "blue-j",
+        "stage": "Series B",
+        "date": "2021-08",
+        "amount_m": 9.0,
+        "valuation_m": null,
+        "lead_investors": "Generation Ventures",
+        "other_investors": "Relay Ventures; Mistral Venture Partners; LDV Partners",
+        "source": "https://www.businesswire.com/news/home/20210810005199/en/",
+        "notes": ""
+      },
+      {
+        "company_slug": "blue-j",
+        "stage": "Series C",
+        "date": "2024-12",
+        "amount_m": null,
+        "valuation_m": null,
+        "lead_investors": "Ten Coves Capital",
+        "other_investors": "",
+        "source": "https://www.businesswire.com/news/home/20241217312442/en/",
+        "notes": "Amount undisclosed"
+      },
       {
         "company_slug": "blue-j",
         "stage": "Series D",
@@ -7229,7 +7295,7 @@
         "company_slug": "bolt",
         "name": "Eric Simons",
         "role": "CEO & Co-Founder",
-        "background": "",
+        "background": "Chicago native. Founded Thinkster (coding education, acquired 2018). Pioneered WebContainers technology enabling Node.js in browsers. Known for squatting inside AOL HQ at 19 for $1/day. Built Bolt.new from 0 to $40M ARR in ~5 months with 12-person team.",
         "origin": "American",
         "prior": ""
       },
@@ -7237,7 +7303,7 @@
         "company_slug": "bolt",
         "name": "Albert Pai",
         "role": "CTO & Co-Founder",
-        "background": "",
+        "background": "University of Illinois Chicago. Chicago native, met Eric Simons as teenager. Co-founded ClassConnect (Imagine K12 accelerator, 2011) and Thinkster (acquired 2018). Co-created WebContainers and Bolt.new.",
         "origin": "Chinese-American",
         "prior": ""
       }
@@ -7344,17 +7410,17 @@
       {
         "company_slug": "brainfish",
         "name": "Daniel Kimber",
-        "role": "Co-Founder",
-        "background": "",
-        "origin": "",
+        "role": "Co-Founder & CEO",
+        "background": "BIS UNSW. 10+ years in product and CX. Former Lead Product Manager at me&u, Product Owner at Willow, various roles at SiteMinder.",
+        "origin": "Australian",
         "prior": ""
       },
       {
         "company_slug": "brainfish",
         "name": "Ajain Vivek",
-        "role": "Co-Founder",
-        "background": "",
-        "origin": "",
+        "role": "Co-Founder & CTO",
+        "background": "Seasoned technologist with background in AI, infrastructure, and automation. Former engineering lead at SiteMinder. Led high-performing engineering teams across startups and enterprise.",
+        "origin": "Australian (Indian heritage)",
         "prior": ""
       }
     ],
@@ -7620,7 +7686,7 @@
         "company_slug": "brightwave",
         "name": "Mike Conover",
         "role": "Co-Founder & CEO",
-        "background": "",
+        "background": "PhD complexity science. 15+ years building AI systems. Established open-source LLM practice at Databricks (led creation of Dolly, first instruction-tuned open-source LLM). Former Director of Financial ML at Workday. Former engineering lead for LinkedIn homepage relevance.",
         "origin": "American",
         "prior": ""
       },
@@ -7628,7 +7694,7 @@
         "company_slug": "brightwave",
         "name": "Brandon Kotara",
         "role": "Co-Founder & CTO",
-        "background": "",
+        "background": "Former CTO of LedgerX (federally-regulated derivatives exchange and clearinghouse). Technical expertise in financial infrastructure and trading systems.",
         "origin": "American",
         "prior": ""
       }
@@ -7681,9 +7747,9 @@
       {
         "company_slug": "brisk-teaching",
         "name": "Arman Jaffer",
-        "role": "CEO",
-        "background": "",
-        "origin": "",
+        "role": "Founder & CEO",
+        "background": "BA CS & Economics UC Berkeley. Former White House Office of CTO. Former PM at Chan Zuckerberg Initiative (Education team, launched Notebooks). Former mobile search team at Google. Forbes 30 Under 30 (Education). Founder Fellow at South Park Commons.",
+        "origin": "American",
         "prior": ""
       }
     ],
@@ -8057,16 +8123,16 @@
         "company_slug": "callosum",
         "name": "Danyal Akarca",
         "role": "Co-Founder",
-        "background": "",
-        "origin": "",
+        "background": "PhD Cambridge (MRC Cognition and Brain Sciences Unit). Neuroscience and computing researcher. Published in Nature journals. Collaborated with Intel Labs.",
+        "origin": "British",
         "prior": ""
       },
       {
         "company_slug": "callosum",
         "name": "Jascha Achterberg",
         "role": "Co-Founder",
-        "background": "",
-        "origin": "",
+        "background": "PhD Cambridge (MRC Cognition and Brain Sciences Unit, supervised by John Duncan and Matthew Botvinick). Career Development Research Fellow at St John's College, Oxford. Collaborated with Google DeepMind and Intel Labs. Published in Nature Machine Intelligence.",
+        "origin": "British (German heritage)",
         "prior": ""
       }
     ],
@@ -8344,8 +8410,8 @@
         "company_slug": "captions",
         "name": "Gaurav Misra",
         "role": "Co-Founder & CEO",
-        "background": "",
-        "origin": "",
+        "background": "BS CS Boston University. Born in Boston, grew up in New Delhi. Former Head of Design Engineering at Snap Inc (2016-2021, built Spotlight and Snap Map). Former SDE at Microsoft (Azure ML). Product designer and engineer with ML background.",
+        "origin": "Indian-American",
         "prior": ""
       },
       {
@@ -8353,7 +8419,7 @@
         "name": "Dwight Churchill",
         "role": "Co-Founder & COO",
         "background": "",
-        "origin": "",
+        "origin": "American",
         "prior": ""
       }
     ],
@@ -8468,40 +8534,40 @@
         "company_slug": "cartesia",
         "name": "Karan Goel",
         "role": "CEO",
-        "background": "",
-        "origin": "",
+        "background": "BTech IIT Delhi, MS Carnegie Mellon, PhD CS Stanford (advised by Chris R\u00e9). Co-invented State Space Models (SSMs) at Stanford AI Lab.",
+        "origin": "Indian-American",
         "prior": ""
       },
       {
         "company_slug": "cartesia",
         "name": "Albert Gu",
         "role": "Chief Scientist",
-        "background": "",
-        "origin": "",
+        "background": "PhD CS Stanford (AI Lab). Co-invented State Space Models (SSMs) including S4 and Mamba architectures. Now Assistant Professor at Carnegie Mellon.",
+        "origin": "American",
         "prior": ""
       },
       {
         "company_slug": "cartesia",
         "name": "Arjun Desai",
         "role": "Co-founder",
-        "background": "",
-        "origin": "",
+        "background": "Stanford AI Lab PhD student. Co-developed SSM research with Goel and Gu.",
+        "origin": "Indian-American",
         "prior": ""
       },
       {
         "company_slug": "cartesia",
         "name": "Brandon Yang",
         "role": "Co-founder",
-        "background": "",
-        "origin": "",
+        "background": "Stanford AI Lab researcher. Part of the SSM research group.",
+        "origin": "American",
         "prior": ""
       },
       {
         "company_slug": "cartesia",
         "name": "Chris R\u00e9",
         "role": "Stanford Professor, co-founder",
-        "background": "",
-        "origin": "",
+        "background": "Professor of CS at Stanford. MacArthur Fellow. Advisor to Goel and Gu. Co-founded multiple AI companies including Snorkel AI. Pioneer in data-centric AI and foundation model architectures.",
+        "origin": "American",
         "prior": ""
       }
     ],
@@ -9157,16 +9223,16 @@
         "company_slug": "character-ai",
         "name": "Noam Shazeer",
         "role": "departed to Google, August 2024",
-        "background": "",
-        "origin": "",
+        "background": "Duke University (Math & CS, 1994-1998). Gold medal with perfect score at International Math Olympiad 1994. Joined Google in 2000. Lead author of 'Attention Is All You Need' (2017), the seminal transformer architecture paper. Created LaMDA chatbot at Google. Departed to Google DeepMind Aug 2024.",
+        "origin": "American",
         "prior": ""
       },
       {
         "company_slug": "character-ai",
         "name": "Daniel De Freitas",
         "role": "departed to Google, August 2024",
-        "background": "",
-        "origin": "",
+        "background": "Former Senior Staff Software Engineer at Google. Lead designer of Meena/LaMDA chatbot at Google. Departed to Google DeepMind Aug 2024.",
+        "origin": "Brazilian-American",
         "prior": ""
       }
     ],
@@ -9221,16 +9287,16 @@
         "company_slug": "charge-robotics",
         "name": "Banks Hunter",
         "role": "Co-Founder & CEO",
-        "background": "",
-        "origin": "",
+        "background": "MIT Class of 2015 (Mechanical Engineering & CS). Second employee at Vicarious Surgical (medical robotics, raised $450M+, worked there 5 years). Former engineer at Shaper Tools.",
+        "origin": "American",
         "prior": ""
       },
       {
         "company_slug": "charge-robotics",
         "name": "Max Justicz",
-        "role": "Co-Founder",
-        "background": "",
-        "origin": "",
+        "role": "Co-Founder & CTO",
+        "background": "MIT Class of 2017 (EECS). Friends with Banks Hunter since MIT. Shared climate motivation led to founding Charge Robotics together in 2021.",
+        "origin": "American",
         "prior": ""
       }
     ],
@@ -9407,16 +9473,16 @@
         "company_slug": "chroma",
         "name": "Jeff Huber",
         "role": "Co-Founder & CEO",
-        "background": "",
-        "origin": "",
+        "background": "Industrial Engineering & Economics, NC State. Co-founded Standard Cyborg (YC-backed prosthetics, Forbes 30 Under 30 2018). Former Head of Product at MightyHive. Co-founded edtech startup Knowit.",
+        "origin": "American",
         "prior": ""
       },
       {
         "company_slug": "chroma",
         "name": "Anton Troynikov",
         "role": "Co-Founder",
-        "background": "",
-        "origin": "",
+        "background": "Born in Soviet Union. BEng Computer Engineering University of Melbourne, MS Robotics TU Munich. Former Computer Vision engineer at Iris Automation. Founded edtech startup Geddit.",
+        "origin": "Russian-Australian-American",
         "prior": ""
       }
     ],
@@ -10072,7 +10138,7 @@
         "company_slug": "cognition-ai",
         "name": "Scott Wu",
         "role": "CEO",
-        "background": "",
+        "background": "3x IOI gold medalist, MathCounts national champion. Attended Harvard (dropped out). Born 1997 in Louisiana to Chinese immigrant family. Previously co-founded Lunchclub.",
         "origin": "Chinese-American",
         "prior": ""
       },
@@ -10080,7 +10146,7 @@
         "company_slug": "cognition-ai",
         "name": "Steven Hao",
         "role": "CTO",
-        "background": "",
+        "background": "IOI gold medalist (2014). MIT (Math & CS). One of earliest engineers at Scale AI.",
         "origin": "Chinese-American",
         "prior": ""
       },
@@ -10088,7 +10154,7 @@
         "company_slug": "cognition-ai",
         "name": "Walden Yan",
         "role": "CPO",
-        "background": "",
+        "background": "IOI gold medalist (2020, 19th out of ~400). Harvard (dropped out). Thiel Fellow. 1,000+ hours training in competitive programming.",
         "origin": "Chinese-American",
         "prior": ""
       }
@@ -10286,17 +10352,17 @@
       {
         "company_slug": "composio",
         "name": "Soham Ganatra",
-        "role": "Co-Founder",
-        "background": "",
-        "origin": "",
+        "role": "Co-Founder & CEO",
+        "background": "IIT Bombay. Physics Olympiad teammate with Vaidya (2013). Founding Engineer & Technical PM at Bureau Inc. Co-founded Darkhorse Capital (trading infrastructure) and Cogno AI (enterprise customer service).",
+        "origin": "Indian",
         "prior": ""
       },
       {
         "company_slug": "composio",
         "name": "Karan Vaidya",
-        "role": "Co-Founder",
-        "background": "",
-        "origin": "",
+        "role": "Co-Founder & CTO",
+        "background": "IIT Bombay. Physics Olympiad teammate with Ganatra (2013). Former engineering lead at Rubrik and Nirvana, focused on integrations. Active in open-source developer community.",
+        "origin": "Indian",
         "prior": ""
       }
     ],
@@ -10691,7 +10757,7 @@
         "company_slug": "copy-ai",
         "name": "Paul Yacoubian",
         "role": "Co-Founder & CEO",
-        "background": "",
+        "background": "BA Economics Rhodes College. Former CPA at CBIZ. Former CFO of stealth long-short hedge fund (SaaS, semiconductor, industrial sectors). General Partner at ESO Fund (2016-2020). Scaled and sold CirQuest Labs to PE firm.",
         "origin": "Armenian-American",
         "prior": ""
       },
@@ -10699,7 +10765,7 @@
         "company_slug": "copy-ai",
         "name": "Chris Lu",
         "role": "Co-Founder & CTO",
-        "background": "",
+        "background": "BS CS Washington University in St. Louis. Former GP & Head of Engineering at ESO Fund (2014-2020). Met Yacoubian at ESO Fund; they worked together 5 years before co-founding Copy.ai.",
         "origin": "Chinese-American",
         "prior": ""
       }
@@ -10833,24 +10899,24 @@
         "company_slug": "coreweave",
         "name": "Michael Intrator",
         "role": "CEO",
-        "background": "",
-        "origin": "",
+        "background": "Former CEO of Hudson Ridge Asset Management (natural gas futures trading). Started CoreWeave (originally Atlantic Crypto) in 2017 as ethereum mining operation with GPUs. Pivoted to AI cloud infrastructure in 2019.",
+        "origin": "American",
         "prior": ""
       },
       {
         "company_slug": "coreweave",
         "name": "Brian Venturo",
-        "role": "CTO",
-        "background": "",
-        "origin": "",
+        "role": "Chief Strategy Officer",
+        "background": "Former portfolio manager at Hudson Ridge Asset Management (energy industry hedge fund). Built ML models for energy investment picks. Co-started ethereum mining in grandfather's garage in New Jersey.",
+        "origin": "American",
         "prior": ""
       },
       {
         "company_slug": "coreweave",
         "name": "Brannin McBee",
-        "role": "Chief Strategy Officer",
-        "background": "",
-        "origin": "",
+        "role": "Chief Development Officer",
+        "background": "Former commodities trader. Co-founded Atlantic Crypto Corp (later CoreWeave) with Intrator and Venturo in 2017.",
+        "origin": "American",
         "prior": ""
       }
     ],
@@ -11550,8 +11616,8 @@
         "company_slug": "credo-ai",
         "name": "Navrina Singh",
         "role": "Founder & CEO",
-        "background": "",
-        "origin": "India (Bachelor's in Electronics & Telecommunication Engineering from India; MS ECE from University of Wisconsin-Madison; MBA from USC Marshall)",
+        "background": "BS Electronics & Telecom Engineering (India), MS ECE University of Wisconsin-Madison, MBA USC Marshall. 12+ years at Qualcomm (led ImpaQt incubator, founded QWISE women's initiative). 18+ years combined at Microsoft and Qualcomm. Member US National AI Advisory Committee (NAIAC). WEF Young Global Leader, former Mozilla Foundation board member.",
+        "origin": "Indian-American",
         "prior": ""
       }
     ],
@@ -11615,7 +11681,7 @@
         "company_slug": "cresta",
         "name": "Zayd Enam",
         "role": "Co-Founder (former CEO)",
-        "background": "",
+        "background": "BS with High Honors UC Berkeley (EECS). Stanford AI Lab PhD candidate (left to found Cresta). 1st place 2007 All Pakistan Science Fair. Co-founded MediConnect (healthcare marketplace in Pakistan) at age 16.",
         "origin": "Pakistani-American",
         "prior": ""
       },
@@ -11623,7 +11689,7 @@
         "company_slug": "cresta",
         "name": "Sebastian Thrun",
         "role": "Co-Founder & Board Member",
-        "background": "",
+        "background": "Professor at Stanford. Led Google's self-driving car project (Waymo precursor). Co-founded Google X. Founded Udacity. Pioneer in autonomous vehicles and AI education.",
         "origin": "German-American",
         "prior": ""
       },
@@ -11631,7 +11697,7 @@
         "company_slug": "cresta",
         "name": "Tim Shi",
         "role": "Co-Founder",
-        "background": "",
+        "background": "Stanford AI Lab PhD candidate (left to co-found Cresta). Early researcher at OpenAI.",
         "origin": "Chinese-American",
         "prior": ""
       }
@@ -11750,16 +11816,16 @@
         "company_slug": "crusoe",
         "name": "Chase Lochmiller",
         "role": "CEO",
-        "background": "",
-        "origin": "",
+        "background": "BS Math & Physics MIT, MS CS (AI specialization) Stanford. Former quantitative researcher at GETCO and Jump Trading. Former GP at Polychain Capital. Summited Mt. Everest (2018). Childhood friends with Cavness in Denver.",
+        "origin": "American",
         "prior": ""
       },
       {
         "company_slug": "crusoe",
         "name": "Cully Cavness",
         "role": "President & COO",
-        "background": "",
-        "origin": "",
+        "background": "BA Geology Middlebury College, MBA University of Oxford. Former energy investment banking associate at Petrie Partners. Former CFO at Sword & Plough. Former business development at Recurrent Engineering. Childhood friends with Lochmiller.",
+        "origin": "American",
         "prior": ""
       }
     ],
@@ -12516,24 +12582,24 @@
         "company_slug": "dataminr",
         "name": "Ted Bailey",
         "role": "CEO & Chairman",
-        "background": "",
-        "origin": "",
+        "background": "BA Yale University (focus on impact of disruptive technologies). Pioneered real-time AI for event detection from public data. WEF Tech Pioneer. Business Insider 40 Under 40.",
+        "origin": "American",
         "prior": ""
       },
       {
         "company_slug": "dataminr",
         "name": "Jeff Kinsey",
         "role": "CTO",
-        "background": "",
-        "origin": "",
+        "background": "BS CS Yale University. Former technical consultant building analytics tools for research institutions and enterprises. Designed and built core components of Dataminr's AI platform since 2009.",
+        "origin": "American",
         "prior": ""
       },
       {
         "company_slug": "dataminr",
         "name": "Sam Hendel",
         "role": "co-founder; no longer in operating role",
-        "background": "",
-        "origin": "",
+        "background": "Yale University. Co-founded Dataminr with Bailey and Kinsey as Yale roommates.",
+        "origin": "American",
         "prior": ""
       }
     ],
@@ -13261,8 +13327,8 @@
         "company_slug": "deepnote",
         "name": "Jakub Jurovych",
         "role": "Founder & CEO",
-        "background": "",
-        "origin": "",
+        "background": "BS CS Masaryk University, MPhil Cambridge (ML, computer vision, HCI). Former Firefox DevTools engineer at Mozilla. Former CTO at Operam (scaled 0 to 120 FTE) and Unite (acquired 2015). Co-founded Hack Cambridge hackathon. Forbes 30 Under 30. YC alum.",
+        "origin": "Czech/Slovak",
         "prior": ""
       },
       {
@@ -13270,7 +13336,7 @@
         "name": "Filip Stollar",
         "role": "Co-founder",
         "background": "",
-        "origin": "",
+        "origin": "Czech/Slovak",
         "prior": ""
       },
       {
@@ -13278,7 +13344,7 @@
         "name": "Jan Matas",
         "role": "Co-founder",
         "background": "",
-        "origin": "",
+        "origin": "Czech/Slovak",
         "prior": ""
       },
       {
@@ -13286,7 +13352,7 @@
         "name": "Jirka Lhotka",
         "role": "Co-founder",
         "background": "",
-        "origin": "",
+        "origin": "Czech/Slovak",
         "prior": ""
       }
     ],
@@ -13601,16 +13667,16 @@
         "company_slug": "devrev",
         "name": "Dheeraj Pandey",
         "role": "Co-Founder & CEO",
-        "background": "",
-        "origin": "Bihar, India (IIT Kanpur graduate; previously co-founded Nutanix, took it public in 2016)",
+        "background": "BS CS&E IIT Kanpur (1997), MS CS UT Austin. Co-founded Nutanix (2009, IPO 2016 on Nasdaq, served as CEO until 2020). Former Senior Manager Software Development at Oracle. Adobe board member.",
+        "origin": "Indian",
         "prior": ""
       },
       {
         "company_slug": "devrev",
         "name": "Manoj Agarwal",
         "role": "Co-Founder & CTO",
-        "background": "",
-        "origin": "India (former SVP of Engineering at Nutanix)",
+        "background": "Former SVP of Engineering at Nutanix. Deep enterprise infrastructure and engineering leadership experience. Co-founded DevRev with Pandey in 2020.",
+        "origin": "Indian",
         "prior": ""
       }
     ],
@@ -14106,7 +14172,7 @@
         "company_slug": "eikona",
         "name": "Nir Weingarten",
         "role": "Co-Founder & CEO",
-        "background": "",
+        "background": "IDC Herzliya. Based in Tel Aviv.",
         "origin": "Israeli",
         "prior": ""
       },
@@ -14114,7 +14180,7 @@
         "company_slug": "eikona",
         "name": "Omer Hacohen",
         "role": "Co-Founder & CTO",
-        "background": "",
+        "background": "BSc Ben-Gurion University, BSc Open University of Israel. Former Team Lead AI SDK (Compiler) at NeuReality. Former Israeli Air Force.",
         "origin": "Israeli",
         "prior": ""
       }
@@ -14252,7 +14318,7 @@
         "company_slug": "eliseai",
         "name": "Minna Song",
         "role": "CEO & Co-Founder",
-        "background": "",
+        "background": "CS degree from MIT. Former intern at Microsoft and MIT Lincoln Laboratory. Discovered real estate communication inefficiencies while working as admin assistant at NYC residential real estate firm. Met Stoyanov at Cambridge.",
         "origin": "Korean-American",
         "prior": ""
       },
@@ -14260,7 +14326,7 @@
         "company_slug": "eliseai",
         "name": "Stoyan (Tony) Stoyanov",
         "role": "CTO & Co-Founder",
-        "background": "",
+        "background": "CS degree from University of Cambridge. Met Minna Song while both were undergraduates at Cambridge. Co-founded EliseAI in 2017 to automate tenant communication.",
         "origin": "Bulgarian",
         "prior": ""
       }
@@ -15412,7 +15478,7 @@
         "company_slug": "essential-ai",
         "name": "Ashish Vaswani",
         "role": "Co-Founder & CEO",
-        "background": "",
+        "background": "BEng CS Birla Institute of Technology Mesra (2002), PhD CS USC (advised by David Chiang). Former researcher at Google Brain. Co-author of 'Attention Is All You Need' (2017) \u2014 the seminal paper introducing the Transformer architecture that underpins GPT, BERT, and modern LLMs.",
         "origin": "Indian (born in India, raised in India and the Middle East)",
         "prior": ""
       },
@@ -15420,7 +15486,7 @@
         "company_slug": "essential-ai",
         "name": "Niki Parmar",
         "role": "Co-Founder (departed ~September 2024)",
-        "background": "",
+        "background": "MS CS USC. Former researcher at Google (sentence similarity, question answering). Co-author of 'Attention Is All You Need' (2017). Close collaborator with Vaswani at Google.",
         "origin": "Indian (from Pune, India)",
         "prior": ""
       }
@@ -15693,7 +15759,7 @@
         "company_slug": "evenup",
         "name": "Rami Karabibar",
         "role": "CEO & Co-Founder",
-        "background": "",
+        "background": "Background in startup and VC operations. Previously worked across private equity, venture capital, and venture-backed startups including roles at Bain and Waymo.",
         "origin": "Middle Eastern",
         "prior": ""
       },
@@ -15701,7 +15767,7 @@
         "company_slug": "evenup",
         "name": "Saam Mashhad",
         "role": "CPO & Co-Founder",
-        "background": "",
+        "background": "Former litigation attorney. Legal background drives EvenUp's approach to AI-assisted demand letter generation and case workflow optimization.",
         "origin": "Iranian-American",
         "prior": ""
       },
@@ -15709,8 +15775,8 @@
         "company_slug": "evenup",
         "name": "Raymond Mieszaniec",
         "role": "COO & Co-Founder",
-        "background": "",
-        "origin": "American",
+        "background": "BA Economics Simon Fraser University, MBA HKUST. Two-time entrepreneur (co-founded EquitySim). Former risk consultant at PwC Hong Kong. Former accountant at Scotiabank. Personal motivation: father permanently disabled in police-chase car accident, family received only 10% of average payout.",
+        "origin": "Canadian",
         "prior": ""
       }
     ],
@@ -15890,16 +15956,16 @@
         "company_slug": "exa",
         "name": "Will Bryk",
         "role": "CEO",
-        "background": "",
-        "origin": "",
+        "background": "CS & Physics Harvard. Led Harvard robotics club. One of the first engineers at Cresta (built real-time AI products). Published author on history of civilization. YC S21.",
+        "origin": "American",
         "prior": ""
       },
       {
         "company_slug": "exa",
         "name": "Jeff Wang",
         "role": "Co-Founder",
-        "background": "",
-        "origin": "",
+        "background": "CS & Philosophy Harvard. 3 years building data and web infrastructure at Plaid. Harvard roommate of Will Bryk. Ran GPU cluster in his dorm room.",
+        "origin": "American",
         "prior": ""
       }
     ],
@@ -16544,24 +16610,24 @@
         "company_slug": "firecrawl",
         "name": "Caleb Peffer",
         "role": "Co-Founder & CEO",
-        "background": "",
-        "origin": "",
+        "background": "Serial builder with 10+ years in software engineering. Previously built Mendable (chat-with-docs, customers included Snapchat, Coinbase, MongoDB) and co-founded SideGuide (learn-to-code in VS Code, 50K users). YC alum (S22).",
+        "origin": "American",
         "prior": ""
       },
       {
         "company_slug": "firecrawl",
         "name": "Eric Ciarla",
-        "role": "Co-Founder",
-        "background": "",
-        "origin": "",
+        "role": "Co-Founder & CMO",
+        "background": "Studied Economics and Philosophy at University of New Hampshire. Former Data Scientist at Ford and Fracta. Co-founded Mendable and SideGuide with Peffer and Camara before Firecrawl.",
+        "origin": "American",
         "prior": ""
       },
       {
         "company_slug": "firecrawl",
         "name": "Nicolas Silberstein Camara",
-        "role": "Co-Founder",
-        "background": "",
-        "origin": "",
+        "role": "Co-Founder & CTO",
+        "background": "Studied at University of New Hampshire. Previously built Mendable (AI docs search), SideGuide, FlutterBricks, and HallHub. Creator of FlutterGuide community (50K developers). Firecrawl was originally an internal tool at Mendable.",
+        "origin": "American",
         "prior": ""
       }
     ],
@@ -16805,7 +16871,7 @@
         "company_slug": "flapping-airplanes",
         "name": "Ben Spector",
         "role": "Co-founder",
-        "background": "",
+        "background": "Founder of Prod, a Silicon Valley talent incubator that shaped companies like Cursor, Mercor, Etched, and Decart. Age 25 at founding. Brother of Asher Spector.",
         "origin": "American",
         "prior": ""
       },
@@ -16813,7 +16879,7 @@
         "company_slug": "flapping-airplanes",
         "name": "Asher Spector",
         "role": "Co-founder",
-        "background": "",
+        "background": "Former debate champion turned Stanford Statistics PhD student. Age 26 at founding. One year older than brother Ben.",
         "origin": "American",
         "prior": ""
       },
@@ -16821,7 +16887,7 @@
         "company_slug": "flapping-airplanes",
         "name": "Aidan Smith",
         "role": "Co-founder",
-        "background": "",
+        "background": "Former founder and Thiel Fellow. Worked at Neuralink for 3 years while in college at Georgia Tech.",
         "origin": "American",
         "prior": ""
       }
@@ -16864,7 +16930,7 @@
         "company_slug": "flex-ai",
         "name": "Brijesh Tripathi",
         "role": "Co-founder & CEO",
-        "background": "",
+        "background": "Veteran chip and systems architect. Senior design engineer at NVIDIA (early career). Senior engineering roles at Apple. Senior engineering at Tesla (reported to Elon Musk). Engineering leadership at Zoox. GM & Chief Architect for AI and Supercompute Platforms at Intel, previously VP & CTO of Client Computing Group.",
         "origin": "Indian",
         "prior": ""
       },
@@ -16872,7 +16938,7 @@
         "company_slug": "flex-ai",
         "name": "Dali Kilani",
         "role": "Co-founder & CTO",
-        "background": "",
+        "background": "Technical roles at NVIDIA. Engineering at Zynga. Consulting at Boston Consulting Group. CTO at Lifen (French healthtech startup, digital infrastructure for healthcare). Brings software and platform-building lens complementing Tripathi's hardware expertise.",
         "origin": "Tunisian-French",
         "prior": ""
       }
@@ -16988,10 +17054,26 @@
     "founders": [
       {
         "company_slug": "flywheel",
-        "name": "Invenshure",
-        "role": "founding entity",
-        "background": "",
-        "origin": "",
+        "name": "Troy Kopischke",
+        "role": "Co-Founder & Board Chair",
+        "background": "Serial tech entrepreneur. Co-CEO, co-founder, and managing partner of Invenshure (venture catalyst for tech/biotech companies built on novel IP from top scientists). Former President and CFO at Steady State Imaging (commercialization strategy led to sale to GE Healthcare 2011).",
+        "origin": "American",
+        "prior": ""
+      },
+      {
+        "company_slug": "flywheel",
+        "name": "Brian Wandell",
+        "role": "Co-Founder & Scientific Advisor",
+        "background": "Director of the Center for Cognitive and Neurobiological Imaging at Stanford University. Developed MRI image capture, organization, and curation system that became Flywheel. Partnered with Invenshure in 2015 to commercialize.",
+        "origin": "American",
+        "prior": ""
+      },
+      {
+        "company_slug": "flywheel",
+        "name": "Gunnar Schaefer",
+        "role": "Co-Founder & CTO",
+        "background": "Stanford researcher who partnered with Wandell to develop the medical imaging data management system. Technical architect of Flywheel's platform for organizing and sharing neuroimaging data.",
+        "origin": "American",
         "prior": ""
       }
     ],
@@ -17055,16 +17137,16 @@
         "company_slug": "forethought",
         "name": "Deon Nicholas",
         "role": "Co-Founder & Executive Chairman",
-        "background": "",
-        "origin": "",
+        "background": "Bachelor of Mathematics from University of Waterloo. Built products at Facebook, Palantir, Dropbox, and Pure Storage. Forbes 30 Under 30. Holds patents in ML. Angel investor in Cognition (Devin) and Anthropic.",
+        "origin": "Canadian (grew up in inner-city Toronto)",
         "prior": ""
       },
       {
         "company_slug": "forethought",
         "name": "Sami Ghoche",
         "role": "Co-Founder & CEO",
-        "background": "",
-        "origin": "",
+        "background": "Harvard University (undergrad and graduate studies in Computer Science). Previously on LinkedIn's AI/ML team enhancing newsfeed relevance. Forbes 30 Under 30. Co-founded Forethought at age 24 with Nicholas.",
+        "origin": "Lebanese-American",
         "prior": ""
       }
     ],
@@ -17603,7 +17685,7 @@
         "company_slug": "furtherai",
         "name": "Aman Gour",
         "role": "CEO & Co-Founder",
-        "background": "",
+        "background": "Second-time founder with ~10 years in workflow automation. CS degree from IIT Bombay. Former Product Manager at Microsoft. Co-founded TurboHire (recruitment automation, scaled to $1M+ ARR). South Park Commons member.",
         "origin": "Indian",
         "prior": ""
       },
@@ -17611,7 +17693,7 @@
         "company_slug": "furtherai",
         "name": "Sashank Gondala",
         "role": "CTO & Co-Founder",
-        "background": "",
+        "background": "CS degree from IIT Bombay, MS in CS (Machine Learning) from Georgia Tech. Former language modeling scientist at Apple (built and scaled language models for Siri). Previously at Oracle. Published multimodal AI research.",
         "origin": "Indian",
         "prior": ""
       }
@@ -18129,24 +18211,24 @@
         "company_slug": "generalist-ai",
         "name": "Andy Zeng",
         "role": "Co-Founder",
-        "background": "",
-        "origin": "",
+        "background": "Former Research Scientist and Tech Lead at Google DeepMind. Co-author of PaLM-E and RT-2. Worked on large-scale foundation models and robots that write their own code. Invented handheld data collection for robots.",
+        "origin": "American",
         "prior": ""
       },
       {
         "company_slug": "generalist-ai",
         "name": "Pete Florence",
         "role": "Co-Founder",
-        "background": "",
-        "origin": "",
+        "background": "Former Senior Research Scientist at Google DeepMind. Led research and development of visual/embodied intelligence models including PaLM-E and RT-2. PhD from MIT CSAIL.",
+        "origin": "American",
         "prior": ""
       },
       {
         "company_slug": "generalist-ai",
         "name": "Andrew Barry",
-        "role": "Co-Founder",
-        "background": "",
-        "origin": "",
+        "role": "Co-Founder & CTO",
+        "background": "PhD in EECS from MIT (CSAIL, autonomous drones). BS from Olin College. Senior Roboticist at Boston Dynamics (5 years, worked on Spot robot arm). ML Scientist at Broad Institute of MIT and Harvard. Pete Florence's PhD classmate at MIT.",
+        "origin": "American",
         "prior": ""
       }
     ],
@@ -18609,16 +18691,16 @@
         "company_slug": "gong",
         "name": "Amit Bendov",
         "role": "Co-Founder & CEO",
-        "background": "",
-        "origin": "",
+        "background": "20+ years leading hyper-growth enterprise software startups. Former CEO of SiSense, CMO of Panaya, SVP Sales & Marketing at ClickSoftware. BSc in Computer Science from Tel Aviv University.",
+        "origin": "Israeli",
         "prior": ""
       },
       {
         "company_slug": "gong",
         "name": "Eilon Reshef",
         "role": "Co-Founder & CPO",
-        "background": "",
-        "origin": "",
+        "background": "Serial entrepreneur and investor. Co-founded and sold Webcollage (e-commerce startup). Previously CTO at Gong before transitioning to CPO. Self-taught deep learning before GPT era.",
+        "origin": "Israeli",
         "prior": ""
       }
     ],
@@ -18814,7 +18896,7 @@
     "website": "https://gradial.com",
     "sector": "AI Marketing / Agentic Enterprise",
     "one_liner": "Agentic AI for enterprise marketing ops \u2014 automates content supply chain, brand redesigns. AWS, T-Mobile, Prudential as clients.",
-    "total_raised_m": 53.0,
+    "total_raised_m": 53.4,
     "latest_valuation_m": null,
     "employees": null,
     "revenue_signals": null,
@@ -18858,6 +18940,17 @@
       }
     ],
     "funding_rounds": [
+      {
+        "company_slug": "gradial",
+        "stage": "Seed",
+        "date": "2024-02",
+        "amount_m": 5.4,
+        "valuation_m": null,
+        "lead_investors": "Madrona",
+        "other_investors": "General Advance; Outsiders Fund; Space Capital",
+        "source": "https://www.finsmes.com/2024/02/gradial-raises-5-4m-in-seed-financing.html",
+        "notes": ""
+      },
       {
         "company_slug": "gradial",
         "stage": "Series A",
@@ -19506,16 +19599,16 @@
       {
         "company_slug": "h-company",
         "name": "Charles Kantor",
-        "role": "Co-founder",
-        "background": "",
+        "role": "Co-founder (stepped down as CEO Jun 2025, remains shareholder)",
+        "background": "Former Stanford University computational mathematics researcher. Co-founded H Company while at Stanford. Replaced as CEO by Gautier Cloix (former Palantir executive) in June 2025.",
         "origin": "American",
         "prior": ""
       },
       {
         "company_slug": "h-company",
         "name": "Laurent Sifre",
-        "role": "Co-founder",
-        "background": "",
+        "role": "Co-founder & CTO",
+        "background": "Former Principal Scientist at Google DeepMind. Contributed to AlphaGo, AlphaFold, and AlphaStar. Worked on Google's Gemini and Gemma models. Deep expertise in large-scale AI training.",
         "origin": "French",
         "prior": ""
       },
@@ -19523,7 +19616,7 @@
         "company_slug": "h-company",
         "name": "Daan Wierstra",
         "role": "Co-founder (departed Aug 2024)",
-        "background": "",
+        "background": "Google DeepMind veteran. Research scientist specializing in reinforcement learning and neural networks.",
         "origin": "Dutch",
         "prior": ""
       },
@@ -19531,7 +19624,7 @@
         "company_slug": "h-company",
         "name": "Karl Tuyls",
         "role": "Co-founder (departed Aug 2024)",
-        "background": "",
+        "background": "Google DeepMind veteran. Research scientist in multi-agent systems and game theory.",
         "origin": "Belgian",
         "prior": ""
       },
@@ -19539,7 +19632,7 @@
         "company_slug": "h-company",
         "name": "Julien Perolat",
         "role": "Co-founder (departed Aug 2024)",
-        "background": "",
+        "background": "Google DeepMind veteran. Research scientist in multi-agent reinforcement learning.",
         "origin": "French",
         "prior": ""
       }
@@ -19592,24 +19685,24 @@
       {
         "company_slug": "hadrius",
         "name": "Thomas Stewart",
-        "role": "Co-Founder",
-        "background": "",
+        "role": "Co-Founder & CEO",
+        "background": "2x founder including 1 exit. University of Virginia. Previously CEO of Quantbase, an SEC-registered robo-advisor for volatile assets. Pivoted Quantbase to Hadrius during YC W23 batch.",
         "origin": "American",
         "prior": ""
       },
       {
         "company_slug": "hadrius",
         "name": "Som Mohapatra",
-        "role": "Co-Founder",
-        "background": "",
+        "role": "Co-Founder & COO/CIO",
+        "background": "University of Virginia. Dropped out of college to co-found Quantbase (grew to multi-million AUM in <1 year, sold to competitor). Former Fellow at Contrary Capital. Portfolio Manager at McIntire Investment Institute.",
         "origin": "Indian-American",
         "prior": ""
       },
       {
         "company_slug": "hadrius",
         "name": "Allen Calderwood",
-        "role": "Co-Founder",
-        "background": "",
+        "role": "Co-Founder & CTO",
+        "background": "Former engineer at Google and Chime. Technical lead for Hadrius platform. Co-founded Quantbase before pivoting to Hadrius during YC W23.",
         "origin": "American",
         "prior": ""
       }
@@ -19878,7 +19971,7 @@
         "company_slug": "harmattan-ai",
         "name": "Mouad M'Ghari",
         "role": "Co-Founder & CEO",
-        "background": "",
+        "background": "Born Feb 2000 in Rabat, Morocco. Studied at Lycee Louis-le-Grand, Ecole Polytechnique, and ENS. Masters from MIT (with Martin Wainwright). Interned at G-Research (London) and Attali Associates (Paris).",
         "origin": "Moroccan-French",
         "prior": ""
       },
@@ -19886,7 +19979,7 @@
         "company_slug": "harmattan-ai",
         "name": "Martin de Gourcuff",
         "role": "Co-Founder & CTO",
-        "background": "",
+        "background": "Technical co-founder leading autonomous systems development for defense applications including integration with Dassault's Rafale F5 and UCAS drone programs.",
         "origin": "French",
         "prior": ""
       },
@@ -19894,7 +19987,7 @@
         "company_slug": "harmattan-ai",
         "name": "Edouard Rosset",
         "role": "Co-Founder",
-        "background": "",
+        "background": "Co-founded Harmattan AI in 2024. Defense technology and autonomous systems background.",
         "origin": "French",
         "prior": ""
       },
@@ -19902,7 +19995,7 @@
         "company_slug": "harmattan-ai",
         "name": "Jean-Christophe Charlaix",
         "role": "Co-Founder",
-        "background": "",
+        "background": "Co-founded Harmattan AI in 2024. Defense technology background.",
         "origin": "French",
         "prior": ""
       },
@@ -19910,7 +20003,7 @@
         "company_slug": "harmattan-ai",
         "name": "Jean-Patrice Coste",
         "role": "Co-Founder",
-        "background": "",
+        "background": "Co-founded Harmattan AI in 2024. Defense technology background.",
         "origin": "French",
         "prior": ""
       },
@@ -19918,7 +20011,7 @@
         "company_slug": "harmattan-ai",
         "name": "Marc Grelet",
         "role": "Co-Founder",
-        "background": "",
+        "background": "Co-founded Harmattan AI in 2024. Defense technology background.",
         "origin": "French",
         "prior": ""
       }
@@ -19961,16 +20054,16 @@
         "company_slug": "harmonic-ai",
         "name": "Tudor Achim",
         "role": "Co-Founder & CEO",
-        "background": "",
-        "origin": "",
+        "background": "BS in Computer Science from Carnegie Mellon University, PhD candidate in CS at Stanford. Co-founded Helm.ai (autonomous driving) as CTO. Experience in large-model training from Helm and Quora.",
+        "origin": "American (Romanian descent)",
         "prior": ""
       },
       {
         "company_slug": "harmonic-ai",
         "name": "Vlad Tenev",
         "role": "Co-Founder & Executive Chairman",
-        "background": "",
-        "origin": "",
+        "background": "Co-Founder and CEO of Robinhood Markets. BS in Mathematics from Stanford University, MS in Mathematics from UCLA. Built Robinhood into an international platform.",
+        "origin": "Bulgarian-American",
         "prior": ""
       }
     ],
@@ -20200,7 +20293,7 @@
         "company_slug": "harvey-ai",
         "name": "Winston Weinberg",
         "role": "CEO & Co-Founder",
-        "background": "",
+        "background": "BA from Kenyon College, JD from USC Gould School of Law. Securities and antitrust litigation associate at O'Melveny & Myers LLP. Left BigLaw after ~1 year to co-found Harvey. Roommates with Pereyra in LA.",
         "origin": "American",
         "prior": ""
       },
@@ -20208,7 +20301,7 @@
         "company_slug": "harvey-ai",
         "name": "Gabriel Pereyra",
         "role": "President & Co-Founder",
-        "background": "",
+        "background": "BS in CS from USC, pursued PhD in Neuroscience at Oxford (did not complete). Google Brain Resident (2016), Research Scientist at DeepMind (2017), founded stealth startup (2018), founding team at XOKind (2020), ML Engineer at Meta (2022).",
         "origin": "Latin American",
         "prior": ""
       }
@@ -20317,16 +20410,16 @@
         "company_slug": "hasura",
         "name": "Tanmai Gopal",
         "role": "Co-Founder & CEO",
-        "background": "",
-        "origin": "India (IIT Madras alumnus)",
+        "background": "Integrated Dual Degree in Computer Science from IIT Madras. 11+ years building Hasura. Turned down offers from major corporates and academic labs to co-found the company.",
+        "origin": "Indian (IIT Madras alumnus)",
         "prior": ""
       },
       {
         "company_slug": "hasura",
         "name": "Rajoshi Ghosh",
         "role": "Co-Founder & COO",
-        "background": "",
-        "origin": "India",
+        "background": "Alumna of National University of Singapore and Stanford GSB Ignite Program. World Economic Forum Global Shaper. Founded 5 additional startups. Started career as published bioinformatics researcher in genomics at Genome Institute of Singapore.",
+        "origin": "Indian",
         "prior": ""
       }
     ],
@@ -20401,7 +20494,7 @@
         "company_slug": "hebbia",
         "name": "George Sivulka",
         "role": "Founder & CEO",
-        "background": "",
+        "background": "Born 1999. BS in Mathematics (2.5 years, 4.0 GPA), MS in Applied Physics, and PhD coursework in EE/Computational Neuroscience -- all at Stanford. Left PhD at age ~21 to found Hebbia. Research in Baccus Lab (ML inspired by retinal computation). One of youngest founders to raise $100M+ in enterprise AI.",
         "origin": "American",
         "prior": ""
       }
@@ -20811,24 +20904,24 @@
         "company_slug": "hex",
         "name": "Barry McCardel",
         "role": "Co-Founder & CEO",
-        "background": "",
-        "origin": "",
+        "background": "Former Senior Director of Operations and Strategy at TrialSpark. Previously at Palantir, where he met Colgrove and Takahashi. Started in data science early in college writing R scripts.",
+        "origin": "American",
         "prior": ""
       },
       {
         "company_slug": "hex",
         "name": "Caitlin Colgrove",
         "role": "Co-Founder & CTO",
-        "background": "",
-        "origin": "",
+        "background": "Former Director of Engineering at Remix. Previously at Palantir. Co-founded Hex after experiencing the difficulty of sharing and publishing data work.",
+        "origin": "American",
         "prior": ""
       },
       {
         "company_slug": "hex",
         "name": "Glen Takahashi",
         "role": "Co-Founder & Chief Architect",
-        "background": "",
-        "origin": "",
+        "background": "Former engineer at Palantir, where he met McCardel and Colgrove. The shared frustration of data practitioners writing one-off queries and screenshotting charts inspired Hex.",
+        "origin": "American",
         "prior": ""
       }
     ],
@@ -20902,17 +20995,17 @@
       {
         "company_slug": "heygen",
         "name": "Joshua Xu (Xu Zhengjia)",
-        "role": "CEO",
-        "background": "",
-        "origin": "China",
+        "role": "CEO & Co-Founder",
+        "background": "MS in Computer Science from Carnegie Mellon, BS in Automation from Tongji University. One of first 100 employees at Snapchat, No. 2 engineer in Advertising Division. Built Snap's ad platform, recommendation algorithms, and billion-scale ML platform (Barista) over 6 years.",
+        "origin": "Chinese",
         "prior": ""
       },
       {
         "company_slug": "heygen",
         "name": "Wayne Liang",
         "role": "Chief Innovation Officer / Co-Founder",
-        "background": "",
-        "origin": "China",
+        "background": "Attended Tongji University, MS from Carnegie Mellon University. Product designer at Smule for ~5 years. Briefly at ByteDance. Co-founded HeyGen (originally Surreal) in Shenzhen in December 2020.",
+        "origin": "Chinese",
         "prior": ""
       }
     ],
@@ -21021,24 +21114,24 @@
         "company_slug": "hightouch",
         "name": "Tejas Manohar",
         "role": "Co-Founder & Co-CEO",
-        "background": "",
-        "origin": "",
+        "background": "Joined Segment at age 16 as one of their first 10 engineers (Segment later acquired by Twilio for $3.2B). Coined the \"Composable CDP\" concept. Focuses on product vision.",
+        "origin": "Indian-American",
         "prior": ""
       },
       {
         "company_slug": "hightouch",
         "name": "Kashish Gupta",
         "role": "Co-Founder & Co-CEO",
-        "background": "",
-        "origin": "",
+        "background": "MSc in Robotics from Penn, BS in Economics from Wharton. Background in venture capital and machine learning. Focuses on ML and growth. Co-founders lived together in a Mission District hacker house.",
+        "origin": "Indian-American",
         "prior": ""
       },
       {
         "company_slug": "hightouch",
         "name": "Josh Curl",
         "role": "Co-Founder & CTO",
-        "background": "",
-        "origin": "",
+        "background": "One of the first engineers at Rancher Labs (Kubernetes platform). Previously helped build Segment's Personas product. Focuses on platform engineering and integrations.",
+        "origin": "American",
         "prior": ""
       }
     ],
@@ -21362,17 +21455,17 @@
       {
         "company_slug": "human-native-ai",
         "name": "James Smith",
-        "role": "Co-Founder",
-        "background": "",
-        "origin": "",
+        "role": "Co-Founder & CEO",
+        "background": "Veteran Google and Google DeepMind engineer and Group Product Manager. Attended University of St Andrews. Sparked interest in AI data licensing while helping ship the first DeepMind model on a mobile device via Android.",
+        "origin": "British",
         "prior": ""
       },
       {
         "company_slug": "human-native-ai",
         "name": "Jack Galilee",
-        "role": "Co-Founder",
-        "background": "",
-        "origin": "",
+        "role": "Co-Founder & CTO",
+        "background": "Software engineer who worked on machine learning systems at Grail (medical technology company). Leads technical development at Human Native AI (acquired by Cloudflare in 2026).",
+        "origin": "British",
         "prior": ""
       }
     ],
@@ -21489,16 +21582,16 @@
         "company_slug": "hume-ai",
         "name": "Alan Cowen",
         "role": "CEO & Chief Scientist",
-        "background": "",
-        "origin": "",
+        "background": "PhD in Psychology from UC Berkeley with 40+ peer-reviewed publications. Started the Affective Computing team at Google. Researcher at Berkeley's Social Interaction Lab. Scientific advisor to Facebook. Creator of semantic space theory for understanding emotional expression.",
+        "origin": "American",
         "prior": ""
       },
       {
         "company_slug": "hume-ai",
         "name": "Janet Ho",
-        "role": "COO",
-        "background": "",
-        "origin": "",
+        "role": "COO & Co-Founder",
+        "background": "BA in Government (secondary in CS) from Harvard University. Former Managing Partner at Aegis Ventures. Product leadership roles at Zynga, Rakuten, and The League. Co-founded Hume AI in 2021.",
+        "origin": "American",
         "prior": ""
       }
     ],
@@ -21620,9 +21713,9 @@
       {
         "company_slug": "iedugpt",
         "name": "Ian Barkley",
-        "role": "CEO",
-        "background": "",
-        "origin": "",
+        "role": "Founder & CEO",
+        "background": "15+ years of senior leadership in Product Management for B2B/B2B2C SaaS. BS in Fine Art/Communications from University of Utah. Serial startup launcher with multiple M&A exits. Former Head of Enterprise Solutions at Simeon Cloud. Co-founder, operator, and investor in venture-backed SaaS companies.",
+        "origin": "American",
         "prior": ""
       }
     ],
@@ -21664,7 +21757,7 @@
         "company_slug": "imbue",
         "name": "Kanjun Qiu",
         "role": "CEO",
-        "background": "",
+        "background": "CS at MIT, graduate researcher at MIT Media Lab. Paid tuition writing high-frequency trading algorithms. First chief of staff at Dropbox (200 to 1200 people). Co-founded Sourceress (YC S17, ML recruiting). Forbes 30 Under 30 (2020).",
         "origin": "Chinese-American",
         "prior": ""
       },
@@ -21672,7 +21765,7 @@
         "company_slug": "imbue",
         "name": "Josh Albrecht",
         "role": "CTO",
-        "background": "",
+        "background": "BS and MS in Computer Science from University of Pittsburgh. Published ML research under Dr. Rebecca Hwa. Led infrastructure at fintech unicorn Addepar. Thiel Fellow mentor. Co-founded Sourceress (YC S17) and CloudFab (3D injection molding, acquired).",
         "origin": "American",
         "prior": ""
       }
@@ -22116,24 +22209,24 @@
         "company_slug": "innovaccer",
         "name": "Abhinav Shashank",
         "role": "Co-Founder & CEO",
-        "background": "",
-        "origin": "Lucknow, Uttar Pradesh, India (IIT Kharagpur graduate)",
+        "background": "Mechanical Engineering from IIT Kharagpur. Journey started in 2011 with data analytics project at Wharton and Harvard. Developed ways to unify patient data across systems for clinical, operational, and financial outcomes.",
+        "origin": "Indian (from Lucknow, Uttar Pradesh)",
         "prior": ""
       },
       {
         "company_slug": "innovaccer",
         "name": "Kanav Hasija",
-        "role": "Co-Founder & CTO",
-        "background": "",
-        "origin": "India",
+        "role": "Co-Founder & CPO",
+        "background": "IIT Kharagpur graduate, MS in Patent Law from University of New Hampshire. Interned at General Electric during undergrad. Principal consultant at Kharagpur Consulting Group. Co-started data analytics project at Wharton/Harvard with Shashank in 2011.",
+        "origin": "Indian",
         "prior": ""
       },
       {
         "company_slug": "innovaccer",
         "name": "Sandeep Gupta",
         "role": "Co-Founder",
-        "background": "",
-        "origin": "India",
+        "background": "Joined Abhinav and Kanav in 2014 to formally establish Innovaccer. Engineering background in healthcare data systems.",
+        "origin": "Indian",
         "prior": ""
       }
     ],
@@ -22272,16 +22365,16 @@
         "company_slug": "instill-ai",
         "name": "Ping-Lin Chang",
         "role": "Co-Founder & CEO",
-        "background": "",
-        "origin": "",
+        "background": "PhD in Computer Science from Imperial College London. MSc in AI from University of Southampton. BSc from National Cheng Kung University. Co-founded Umbo Computer Vision (CTO, 2014-2020). Grew up in Pingtung, Taiwan.",
+        "origin": "Taiwanese",
         "prior": ""
       },
       {
         "company_slug": "instill-ai",
         "name": "Xiaofei Du",
         "role": "Co-Founder & COO",
-        "background": "",
-        "origin": "",
+        "background": "Researcher and PhD student at UCL (2013-2018). MSc in Biomedical Engineering from Tsinghua University. BSc in Telecommunications Engineering from Nanjing University of Posts and Telecommunications.",
+        "origin": "Chinese",
         "prior": ""
       }
     ],
@@ -22650,8 +22743,8 @@
         "company_slug": "jozu",
         "name": "Brad Micklea",
         "role": "Founder & CEO",
-        "background": "",
-        "origin": "",
+        "background": "25-year career in developer tools and DevOps. BA in Literature from McGill. Former GM of Amazon's API Gateway. Founded Codenvy (first container-based dev environment, sold to Red Hat 2017). VP of Developer Tools & Marketing at Red Hat. Project lead for open-source KitOps.ml.",
+        "origin": "American",
         "prior": ""
       }
     ],
@@ -22736,15 +22829,15 @@
         "company_slug": "jump-ai",
         "name": "Parker Ence",
         "role": "Co-Founder & CEO",
-        "background": "",
+        "background": "4x technology CEO (fintech, data, AI). MBA from Stanford GSB, BS in Economics from University of Utah. Summer with AI team at Google Cloud. Led Dental Warranty Corp turnaround (10x revenue). Previously ran and exited a data spinout company.",
         "origin": "American",
         "prior": ""
       },
       {
         "company_slug": "jump-ai",
         "name": "Tim Chaves",
-        "role": "Co-Founder",
-        "background": "",
+        "role": "Co-Founder & President/COO",
+        "background": "2x fintech entrepreneur, full-stack engineer and product designer. MBA with distinction from Harvard, summa cum laude from BYU (valedictorian). Founded ZipBooks (cloud AI accounting), sold to Divvy (2019), subsequently to Bill.com (2021).",
         "origin": "American",
         "prior": ""
       },
@@ -22752,7 +22845,7 @@
         "company_slug": "jump-ai",
         "name": "Adam Kirk",
         "role": "Co-Founder",
-        "background": "",
+        "background": "Technical co-founder with expertise in AI/ML systems for financial services applications.",
         "origin": "American",
         "prior": ""
       }
@@ -23813,17 +23906,17 @@
       {
         "company_slug": "krea-ai",
         "name": "Diego Rodriguez",
-        "role": "Co-Founder",
-        "background": "",
-        "origin": "",
+        "role": "Co-Founder & CTO",
+        "background": "Engineering degree in audiovisual systems in Barcelona. Won fellowship from King of Spain to attend Cornell (dropped out). Background in digital art, 3D architectural visualization, and programming. Co-founded KREA via HF0 residency.",
+        "origin": "Venezuelan-Spanish",
         "prior": ""
       },
       {
         "company_slug": "krea-ai",
         "name": "Victor Perez",
-        "role": "Co-Founder",
-        "background": "",
-        "origin": "",
+        "role": "Co-Founder & CEO",
+        "background": "Studied engineering in Barcelona, briefly attended Cornell on same royal fellowship (left after one day). Head of ML Research at Plyzer Intelligence (graph neural networks for e-commerce, 2018-2020). Background in music production and graffiti art.",
+        "origin": "Spanish",
         "prior": ""
       }
     ],
@@ -24113,16 +24206,16 @@
         "company_slug": "lambda",
         "name": "Stephen Balaban",
         "role": "CEO",
-        "background": "",
-        "origin": "",
+        "background": "Studied CS and Economics at University of Michigan. Twin brother of Michael. First engineering hire at Perceptio (on-device face recognition, acquired by Apple 2013). Started Lambda at Noisebridge hackerspace in SF's Mission District.",
+        "origin": "American",
         "prior": ""
       },
       {
         "company_slug": "lambda",
         "name": "Michael Balaban",
         "role": "CTO",
-        "background": "",
-        "origin": "",
+        "background": "BS in Mathematics and Computer Science from University of Michigan (2012). Twin brother of Stephen. Joined Nextdoor as software engineer on infrastructure team, helped scale from 300K to 100M users. Leads Lambda's technology and product development.",
+        "origin": "American",
         "prior": ""
       }
     ],
@@ -24465,8 +24558,16 @@
         "company_slug": "leaping-ai",
         "name": "Kevin Wu",
         "role": "CEO & Co-Founder",
-        "background": "",
-        "origin": "",
+        "background": "BS in CS from Technical University of Munich, with studies at Carnegie Mellon, NUS, Peking University. Former Associate at Boston Consulting Group (2020-2023). Interned at Global Founders Capital and Amazon. YC W25.",
+        "origin": "German-Chinese",
+        "prior": ""
+      },
+      {
+        "company_slug": "leaping-ai",
+        "name": "Arkadiy Telegin",
+        "role": "CTO & Co-Founder",
+        "background": "Born and raised in Kazakhstan. MSc in CS at Technical University of Munich, Visiting Scholar at University of Tokyo. Former Associate at BCG (3 years). Chief Software Officer at WARR Space Robotics (CRATER Mars rover). Previously at Microsoft and Plus.",
+        "origin": "Kazakhstani",
         "prior": ""
       }
     ],
@@ -24734,16 +24835,16 @@
         "company_slug": "lepton-ai",
         "name": "Yangqing Jia (Jia Yangqing)",
         "role": "Co-Founder & CEO",
-        "background": "",
-        "origin": "Mainland Chinese (Tsinghua University undergrad, UC Berkeley PhD)",
+        "background": "PhD in EECS from UC Berkeley, BS from Tsinghua University. Creator of Caffe deep learning framework. Founding engineer and Director of Facebook AI infrastructure. VP of Big Data and AI at Alibaba. Contributed to ONNX and PyTorch. Lepton acquired by NVIDIA.",
+        "origin": "Chinese (Tsinghua undergrad, UC Berkeley PhD)",
         "prior": ""
       },
       {
         "company_slug": "lepton-ai",
         "name": "Bai Junjie",
         "role": "Co-Founder",
-        "background": "",
-        "origin": "Mainland Chinese",
+        "background": "MS in Computational Science and Engineering and BS in Mathematics from Technical University of Munich. Former Director of AI Platform at Alibaba. Technical Lead at Facebook AI. Quantitative Strategist at KCG Holdings. Helped develop PyTorch.",
+        "origin": "Chinese",
         "prior": ""
       }
     ],
@@ -24784,8 +24885,8 @@
       {
         "company_slug": "leta-logistics",
         "name": "Nick Joshi",
-        "role": "CEO",
-        "background": "",
+        "role": "CEO & Founder",
+        "background": "10+ years of tech leadership in the US and Africa. Studied at University of Western Australia. Founded Leta in 2021 to apply AI to efficient goods movement for businesses across Africa.",
         "origin": "Kenyan-American",
         "prior": ""
       },
@@ -24793,15 +24894,15 @@
         "company_slug": "leta-logistics",
         "name": "Kip Maritim",
         "role": "CTO",
-        "background": "",
+        "background": "Led development and delivery of Leta's tech, overseeing product and engineering. Had a full-fledged tech team from previous collaborations before joining Leta. Builds solutions for supply chain control.",
         "origin": "Kenyan",
         "prior": ""
       },
       {
         "company_slug": "leta-logistics",
         "name": "Anthony Ketter",
-        "role": "COO",
-        "background": "",
+        "role": "COO / Chief Growth Officer",
+        "background": "Leads growth at Leta focusing on market expansion and customer success across Africa. Extensive business development and operations experience across FMCG, telcos, and tech.",
         "origin": "Kenyan",
         "prior": ""
       }
@@ -25426,15 +25527,15 @@
         "company_slug": "lio",
         "name": "Vladimir Keil",
         "role": "Co-Founder & CEO",
-        "background": "",
+        "background": "Had a profitable startup by age 22. Co-founded Gabriel AI (partnered with German FBI for telephone fraud prevention). Experienced procurement problems firsthand while selling enterprise software. YC S23.",
         "origin": "German",
         "prior": ""
       },
       {
         "company_slug": "lio",
         "name": "Lukas Heinzmann",
-        "role": "Co-Founder",
-        "background": "",
+        "role": "Co-Founder & CTO",
+        "background": "MS in AI/ML from Technical University of Munich. One of first employees at startup acquired by Audi (brought AI/ML to mobile apps). Technical lead for myAudi app (tripled user base). Co-founded Gabriel AI.",
         "origin": "German",
         "prior": ""
       },
@@ -25442,7 +25543,7 @@
         "company_slug": "lio",
         "name": "Till Wagner",
         "role": "Co-Founder & COO",
-        "background": "",
+        "background": "Experience in web/app design and product-building at AI startups in SF. Operational and analytic experience at Deloitte's biggest German client. Worked at SAP. His failure buying equipment with SAP's own software inspired Lio's creation.",
         "origin": "German",
         "prior": ""
       }
@@ -25563,16 +25664,16 @@
         "company_slug": "livekit",
         "name": "Russ d'Sa",
         "role": "Co-Founder & CEO",
-        "background": "",
-        "origin": "",
+        "background": "BS and MS in Computer Science from UC Davis. Previously at Twitter and 23andMe. Co-founded Evie Labs (acquired by Medium, 2019). Led product at Medium for creators and readers. Started LiveKit during Covid-19 pandemic.",
+        "origin": "American",
         "prior": ""
       },
       {
         "company_slug": "livekit",
         "name": "David Zhao",
         "role": "Co-Founder & CTO",
-        "background": "",
-        "origin": "",
+        "background": "Studied Computer Engineering at University of Washington. Director of Engineering at Medium. Co-founded Evie Labs and Zecter (acquired by Motorola Mobility). Previously at Amazon. Senior Venture Partner at Pioneer Fund.",
+        "origin": "American",
         "prior": ""
       }
     ],
@@ -25689,8 +25790,8 @@
       {
         "company_slug": "llamaindex",
         "name": "Jerry Liu",
-        "role": "CEO",
-        "background": "",
+        "role": "Co-Founder & CEO",
+        "background": "BSE in CS with certificate in finance from Princeton (2017, Shapiro Prize, Outstanding Senior Thesis Award). ML Engineering Manager at Robust Intelligence. Research Scientist at Uber (2018-2021). ML Engineer at Quora. Interned at Two Sigma and Apple.",
         "origin": "Chinese-American",
         "prior": ""
       }
@@ -25946,7 +26047,7 @@
         "company_slug": "lovable",
         "name": "Anton Osika",
         "role": "Co-Founder & CEO",
-        "background": "",
+        "background": "Studied Industrial Economics at KTH Royal Institute of Technology (completed at double speed). Worked in particle physics at CERN. First technical hire at Ampfield, founding engineer at Sana (Enterprise AI). Co-founded Depict.ai (CTO). Created GPT Engineer (one of fastest-growing GitHub repos). Europe's youngest self-made billionaire at 26.",
         "origin": "Swedish",
         "prior": ""
       },
@@ -25954,7 +26055,7 @@
         "company_slug": "lovable",
         "name": "Fabian Hedin",
         "role": "Co-Founder & CTO",
-        "background": "",
+        "background": "BS in Industrial Engineering and Management from KTH (2021). Built proptech firm TenFAST. Developed the computer interface used by physicist Stephen Hawking. Collaborated with former SpaceX engineers on wheelchair technology. Front-end engineering lead at Depict (2022-2023).",
         "origin": "Swedish",
         "prior": ""
       }
@@ -26534,24 +26635,24 @@
       {
         "company_slug": "maieutic-semi",
         "name": "Gireesh Rajendran",
-        "role": "CEO",
-        "background": "",
+        "role": "CEO & Co-Founder",
+        "background": "Founded Steradian Semiconductors (imaging radar, acquired by Renesas Electronics 2022). Team collectively holds 70+ patents. Products shipped over 1 billion units globally. Deep domain expertise in semiconductor innovation.",
         "origin": "Indian",
         "prior": ""
       },
       {
         "company_slug": "maieutic-semi",
         "name": "Ashish Lachhwani",
-        "role": "Co-founder",
-        "background": "",
+        "role": "Co-Founder & Chief Business Officer",
+        "background": "Co-founded Steradian Semiconductors with Rajendran and Kumar (acquired by Renesas 2022). Extensive background in semiconductor design and AI systems.",
         "origin": "Indian",
         "prior": ""
       },
       {
         "company_slug": "maieutic-semi",
         "name": "Rakesh Kumar",
-        "role": "Co-founder",
-        "background": "",
+        "role": "Co-Founder & Chief Product Officer",
+        "background": "Co-founded Steradian Semiconductors with Rajendran and Lachhwani (acquired by Renesas 2022). Background in semiconductor design.",
         "origin": "Indian",
         "prior": ""
       }
@@ -26644,9 +26745,9 @@
       {
         "company_slug": "mainframe",
         "name": "Jordan Singer",
-        "role": "CEO",
-        "background": "",
-        "origin": "",
+        "role": "Founder & CEO",
+        "background": "CS degree from University of Arizona. 14 years building consumer products. Founded Diagram (one of earliest AI design tools, acquired by Figma). Product Designer at Figma. Previously shaped product at Cash App/Square. Design engineering background.",
+        "origin": "American",
         "prior": ""
       }
     ],
@@ -27198,25 +27299,25 @@
       {
         "company_slug": "mastra",
         "name": "Abhi Aiyer",
-        "role": "Co-Founder",
-        "background": "",
-        "origin": "",
+        "role": "Co-Founder & CTO",
+        "background": "Principal engineer at Netlify, led 100+ person engineering org. Built Gatsby Cloud infrastructure (tens of thousands of build nodes, billions of files, hundreds of TB monthly). Previously co-built Gatsby for ~8 years.",
+        "origin": "American",
         "prior": ""
       },
       {
         "company_slug": "mastra",
         "name": "Sam Bhagwat",
-        "role": "Co-Founder",
-        "background": "",
-        "origin": "",
+        "role": "Co-Founder & CEO",
+        "background": "Stanford graduate (2011). Co-founded Gatsby.js (open-source React framework, scaled to $5M ARR, sold to Netlify). Previously engineer at Zenefits (W13) and Plangrid (W12). Spent ~8 years building Gatsby.",
+        "origin": "American",
         "prior": ""
       },
       {
         "company_slug": "mastra",
         "name": "Shane Thomas",
-        "role": "Co-Founder",
-        "background": "",
-        "origin": "",
+        "role": "Co-Founder & CPO",
+        "background": "Staff engineer and head of product at Gatsby. 15+ years in open source. Previously built Audiofeed (AI podcasting app). State wrestling champion. All three co-founders built Gatsby together before Netlify.",
+        "origin": "American",
         "prior": ""
       }
     ],
@@ -27301,7 +27402,7 @@
         "company_slug": "matters-ai",
         "name": "Keshava Murthy",
         "role": "Co-Founder & CEO",
-        "background": "",
+        "background": "BE in Computer Science from Visvesvaraya Technological University. Founding engineer at Observe.AI (helped scale from seed to unicorn, building systems handling sensitive data at global scale). Leadership roles at major tech companies in data integration, knowledge graphs, and intelligent automation.",
         "origin": "Indian",
         "prior": ""
       },
@@ -27309,7 +27410,7 @@
         "company_slug": "matters-ai",
         "name": "Harsh Sahu",
         "role": "Co-Founder & CTO",
-        "background": "",
+        "background": "Founding engineer at Observe.AI (unicorn AI platform for enterprise contact centers). Built and secured enterprise-scale AI systems handling sensitive data. Co-founded Matters.AI in 2022 in Bengaluru.",
         "origin": "Indian",
         "prior": ""
       }
@@ -27413,16 +27514,16 @@
       {
         "company_slug": "maxiq",
         "name": "Sonny Aulakh",
-        "role": "Founder",
-        "background": "",
-        "origin": "Indian",
+        "role": "Founder & CEO",
+        "background": "20+ years in tech. BS in Engineering from Cal State Sacramento. VP Products/Solutions/Vertical Marketing at Pure Storage. Global VP Sales Engineering at Dell EMC. VP Sales Engineering at EMC (XtremIO, $1B in first 18 months). Held roles at Reputation.com, Zscaler, Cisco, and Rainfinity.",
+        "origin": "Indian-American",
         "prior": ""
       },
       {
         "company_slug": "maxiq",
         "name": "Sunny Rai",
         "role": "Co-Founder & Head of Operations",
-        "background": "",
+        "background": "Co-founded MaxIQ in 2022. Leads operations for the AI-powered customer journey management platform.",
         "origin": "Indian",
         "prior": ""
       }
@@ -27465,16 +27566,16 @@
         "company_slug": "mem0",
         "name": "Taranjeet Singh",
         "role": "Co-Founder & CEO",
-        "background": "",
-        "origin": "",
+        "background": "First growth engineer at Khatabook (YC S18), quickly became Senior PM. Started career at Paytm (India's PayPal). Built AI-powered tutoring app featured at Google I/O. Co-created EvalAI (open-source Kaggle alternative, 1.6K GitHub stars). Created first GPT app store (1M+ users).",
+        "origin": "Indian",
         "prior": ""
       },
       {
         "company_slug": "mem0",
         "name": "Deshraj Yadav",
         "role": "Co-Founder & CTO",
-        "background": "",
-        "origin": "",
+        "background": "Led AI Platform at Tesla Autopilot (large-scale training, model evaluation, monitoring for full self-driving). MS from Georgia Tech where he created EvalAI as thesis. Published at CVPR, ECCV, AAAI. Broadly interested in AI/ML infrastructure.",
+        "origin": "Indian",
         "prior": ""
       }
     ],
@@ -27916,16 +28017,16 @@
         "company_slug": "mindsdb",
         "name": "Jorge Torres",
         "role": "Co-Founder & CEO",
-        "background": "",
-        "origin": "",
+        "background": "MS in Information Systems from Australian National University (ML focus). Cambridge graduate. Ex-management consultant at Deloitte. Second dev at CouchSurfing (scaled to 4M users). Senior Engineer at Skillshare. CTO at Real Life Analytics. Visiting scholar at UC Berkeley (ML automation). Worked with Aneesh Chopra (first US government CTO).",
+        "origin": "Latin American",
         "prior": ""
       },
       {
         "company_slug": "mindsdb",
         "name": "Adam Carrigan",
         "role": "Co-Founder & COO",
-        "background": "",
-        "origin": "",
+        "background": "Australian National University and University of Queensland graduate. Management Consultant at Deloitte. Dissertation at University of Cambridge on NLP for equity pricing prediction. Co-released initial MindsDB code in 2018 inspired by Iain M. Banks' Culture series.",
+        "origin": "Australian",
         "prior": ""
       }
     ],
@@ -28628,7 +28729,7 @@
     "website": "https://www.monarchtractor.com",
     "sector": "Agricultural Robotics / Autonomous Vehicles",
     "one_liner": "Monarch Tractor designs and manufactures fully electric, autonomous (\"driver-optional\") smart tractors for the agricultural sector",
-    "total_raised_m": 200.0,
+    "total_raised_m": 220.0,
     "latest_valuation_m": null,
     "employees": "200",
     "revenue_signals": null,
@@ -28675,35 +28776,57 @@
       {
         "company_slug": "monarch-tractor",
         "stage": "Series A",
-        "date": "~2020",
+        "date": "2021-03",
         "amount_m": 20.0,
         "valuation_m": null,
         "lead_investors": "",
         "other_investors": "",
-        "source": "https://www.crunchbase.com/organization/monarch-tractors",
-        "notes": "Early round to develop prototype autonomous electric tractor.\n"
+        "source": "https://www.crunchbase.com/funding_round/monarch-tractors-series-a--b3ac0f44",
+        "notes": "Early round to develop prototype autonomous electric tractor."
       },
       {
         "company_slug": "monarch-tractor",
         "stage": "Series B",
-        "date": "2022-01",
+        "date": "2021-11",
         "amount_m": 61.0,
         "valuation_m": null,
         "lead_investors": "",
         "other_investors": "CNH Industrial",
-        "source": "https://aibusiness.com/verticals/autonomous-smart-tractor-firm-monarch-secures-61m-in-funding",
-        "notes": "Strategic investment from CNH Industrial (Case IH, New Holland) validated the platform and provided agricultural distribution channels.\n"
+        "source": "https://www.crunchbase.com/funding_round/monarch-tractors-series-b--8b69a1c5",
+        "notes": "Strategic investment from CNH Industrial (Case IH, New Holland) validated the platform and provided agricultural distribution channels."
       },
       {
         "company_slug": "monarch-tractor",
         "stage": "Series C",
-        "date": 2024,
+        "date": "2024-07",
         "amount_m": 133.0,
         "valuation_m": null,
-        "lead_investors": "Astanor Ventures; Foxconn Co-GP Fund",
-        "other_investors": "At One Ventures; PMV; The Welvaartsfonds",
-        "source": "https://globalaginvesting.com/ai-powered-autonomous-tractor-maker-monarch-tractor-secures-133m-in-latest-round/",
-        "notes": "Largest agricultural robotics funding round at the time. Brought total raised to over $200M. Foxconn involvement signals potential manufacturing scale-up partnership.\n"
+        "lead_investors": "Astanor Ventures; HH-CTBC Partnership",
+        "other_investors": "At One Ventures; PMV; The Welvaartsfonds; Foxconn Co-GP Fund",
+        "source": "https://www.crunchbase.com/funding_round/monarch-tractors-series-c--d170e85f",
+        "notes": "Largest agricultural robotics funding round at the time."
+      },
+      {
+        "company_slug": "monarch-tractor",
+        "stage": "Grant",
+        "date": "2024-08",
+        "amount_m": 2.5,
+        "valuation_m": null,
+        "lead_investors": "California Energy Commission",
+        "other_investors": "",
+        "source": "https://www.crunchbase.com/funding_round/monarch-tractors-grant--949ce9e4",
+        "notes": "Rural Electrification And Charging Technology (REACT) grant"
+      },
+      {
+        "company_slug": "monarch-tractor",
+        "stage": "Venture Round",
+        "date": null,
+        "amount_m": 3.5,
+        "valuation_m": null,
+        "lead_investors": "Undisclosed",
+        "other_investors": "",
+        "source": "https://www.crunchbase.com/funding_round/monarch-tractors-series-unknown--27880228",
+        "notes": "Additional venture round listed on Crunchbase; date undisclosed"
       }
     ],
     "top_investors": []
@@ -28831,16 +28954,16 @@
         "company_slug": "moonlake-ai",
         "name": "Fan-Yun Sun",
         "role": "Co-Founder",
-        "background": "",
-        "origin": "",
+        "background": "PhD in Computer Science from Stanford. Researcher at NVIDIA on Learning & Perception Research Team and Metropolis Deep Learning (Omniverse). Worked on large-scale 3D world generation for AI training and foundation models.",
+        "origin": "Taiwanese",
         "prior": ""
       },
       {
         "company_slug": "moonlake-ai",
         "name": "Sharon Lee",
         "role": "Co-Founder",
-        "background": "",
-        "origin": "",
+        "background": "CS PhD focused on generative AI and computer graphics, blending diffusion models with 3D engines. Built models that reason about space and interactivity. Co-founded Moonlake AI at Stanford AI Lab.",
+        "origin": "American",
         "prior": ""
       }
     ],
@@ -29827,8 +29950,8 @@
         "company_slug": "nebius",
         "name": "Arkady Volozh",
         "role": "CEO & Co-Founder, originally of Yandex",
-        "background": "",
-        "origin": "",
+        "background": "Born in Guryev, Kazakh SSR (now Atyrau, Kazakhstan). Applied mathematics degree from Gubkin Russian State University. Serial entrepreneur since 1989 (CompTek, Arkadia Company). Co-founded Yandex in 1997, built it into Russia's dominant search engine. Led Yandex as CEO until restructuring. Pivoted non-Russian Yandex assets into Nebius Group (2024). Renounced Russian citizenship (2026).",
+        "origin": "Kazakhstani-Israeli (born Soviet Kazakhstan, Russian-Jewish family)",
         "prior": ""
       }
     ],
@@ -29957,16 +30080,16 @@
         "company_slug": "netradyne",
         "name": "Avneesh Agrawal",
         "role": "Co-Founder & CEO",
-        "background": "",
-        "origin": "India (Stanford University; former President, Qualcomm India & South Asia)",
+        "background": "MS and PhD in Electrical Engineering from Stanford University. President of Qualcomm India & South Asia (2005-2015), SVP of Technology and Global Head of Corporate R&D at Qualcomm. 200+ US patents. Netradyne is his first entrepreneurial venture.",
+        "origin": "Indian (Stanford University; former President, Qualcomm India & South Asia)",
         "prior": ""
       },
       {
         "company_slug": "netradyne",
         "name": "David Julian",
         "role": "Co-Founder & CTO",
-        "background": "",
-        "origin": "United States (former Qualcomm engineer)",
+        "background": "PhD-level electrical engineer from Stanford University. Principal Engineer at Qualcomm for 12 years, secured 100+ US patents. Co-founded Mountain View Analytics before Netradyne. Second entrepreneurial venture.",
+        "origin": "American",
         "prior": ""
       }
     ],
@@ -30186,15 +30309,15 @@
         "company_slug": "nevis",
         "name": "Mark Swan",
         "role": "Co-Founder & CEO",
-        "background": "",
-        "origin": "American",
+        "background": "Grew up in Aberdeen, Scotland. Former investor at Generation Investment Management (Al Gore's firm). Lead Strategy & Operations Manager at Revolut (led product operations, data, and strategy teams for user growth and retention). All three co-founders met at Revolut.",
+        "origin": "Scottish",
         "prior": ""
       },
       {
         "company_slug": "nevis",
         "name": "Philipp Burda",
         "role": "Co-Founder & CPO",
-        "background": "",
+        "background": "Former Partner and Head of GenAI product initiatives at Revolut. Rose through ranks as head of fincrime, then head of data science for retail product at Revolut. Three years of overlap with co-founders at Revolut.",
         "origin": "German",
         "prior": ""
       },
@@ -30202,7 +30325,7 @@
         "company_slug": "nevis",
         "name": "Ivan Chalov",
         "role": "Co-Founder & COO",
-        "background": "",
+        "background": "Former General Manager of Retail Business at Revolut. Rose from data scientist to GM during tenure. Three years of overlap with Swan and Burda at Revolut before co-founding Nevis.",
         "origin": "Russian",
         "prior": ""
       }
@@ -30347,8 +30470,8 @@
         "company_slug": "nexthop-ai",
         "name": "Anshul Sadana",
         "role": "CEO & Founder",
-        "background": "",
-        "origin": "",
+        "background": "Former COO of Arista Networks for 17 years -- led company from early days through IPO to $100B market leader. Oversaw product roadmap, hardware design, supply chain, global sales, customer engineering, and support. Before Arista, spent 8 years at Cisco. Nexthop designs switches from the ground up for AI traffic patterns.",
+        "origin": "Indian-American",
         "prior": ""
       }
     ],
@@ -30818,7 +30941,7 @@
         "company_slug": "norm-ai",
         "name": "John Nay",
         "role": "CEO & Founder",
-        "background": "",
+        "background": "PhD from Vanderbilt University (AI research funded by NSF and Office of Naval Research). Postdoc at NYU. Fellow at Stanford CodeX researching AI alignment via legal informatics. Adjunct Professor at NYU School of Law (created first AI course). Co-founder & Chairman of Brooklyn Investment Group (AI-powered investment software). Decade of AI-law research.",
         "origin": "American",
         "prior": ""
       }
@@ -31085,8 +31208,8 @@
         "company_slug": "nscale",
         "name": "Josh Payne",
         "role": "CEO & Founder",
-        "background": "",
-        "origin": "",
+        "background": "Serial entrepreneur. Started working in Australian coal mines, where he taught himself entrepreneurship during downtime. Built companies across recruitment, capital markets, and supercomputing infrastructure. Founded and served as Executive Chairman of Arkon Energy (Bitcoin mining on renewable infrastructure). Designed and constructed 54 data centres including London Stock Exchange infrastructure. Nscale was spun off from Arkon Energy to pivot data center expertise toward AI compute.",
+        "origin": "Australian (British-born)",
         "prior": ""
       }
     ],
@@ -31223,7 +31346,7 @@
         "company_slug": "numeric",
         "name": "Parker Gilbert",
         "role": "Co-Founder & CEO",
-        "background": "",
+        "background": "VP of Finance and Operations at Hearth, where he built the finance organization from the ground up. The experience of manual month-end close work directly inspired Numeric. Leads CEO, strategy, and go-to-market functions.",
         "origin": "American",
         "prior": ""
       },
@@ -31231,7 +31354,7 @@
         "company_slug": "numeric",
         "name": "Andrew Bihl",
         "role": "Co-Founder & CTO",
-        "background": "",
+        "background": "Worked at Segment and BlackRock, where he developed expertise in stitching together complex, messy data sources into consumable products. Leads CTO, engineering, and data infrastructure at Numeric.",
         "origin": "American",
         "prior": ""
       },
@@ -31239,7 +31362,7 @@
         "company_slug": "numeric",
         "name": "Anthony Alvernaz",
         "role": "Co-Founder & CPO",
-        "background": "",
+        "background": "Worked at Segment and BlackRock alongside Andrew Bihl, gaining deep experience in data integration and product development. Leads CPO, product strategy, and design at Numeric.",
         "origin": "American",
         "prior": ""
       }
@@ -31629,32 +31752,32 @@
         "company_slug": "observe-ai",
         "name": "Swapnil Jain",
         "role": "Co-Founder & CEO",
-        "background": "",
-        "origin": "Vidisha, Madhya Pradesh, India",
+        "background": "From Vidisha, a tier-4/5 town in Madhya Pradesh. BTech Computer Science from IIT Delhi. Software Engineer at Twitter in San Francisco (~3 years), rising to Technical Team Lead. Twitter's first employee based in India; helped open Twitter's India office and spearheaded first India-based engineering teams. Left Twitter to co-found Observe.AI in 2017. YC W18.",
+        "origin": "Indian",
         "prior": ""
       },
       {
         "company_slug": "observe-ai",
         "name": "Jithendra Vepa",
         "role": "Co-Founder & CTO / Chief Scientist",
-        "background": "",
-        "origin": "India (Andhra Pradesh region, based on Andhra University education)",
+        "background": "18+ years in speech technology. BE Electrical and Electronics Engineering from Andhra University. MSc(Engg.) Signal Processing from Indian Institute of Science (IISc, Bangalore). PhD in Speech Synthesis and Speech Signal Processing from University of Edinburgh. Research roles at Rhetorical Systems (UK), IDIAP Research Institute (Switzerland), Philips Research, Samsung R&D India (Senior Principal Engineer, built speech technology team). Senior Member of IEEE. Deep expertise in ASR and speech processing forms Observe.AI's technical backbone.",
+        "origin": "Indian",
         "prior": ""
       },
       {
         "company_slug": "observe-ai",
         "name": "Akash Singh",
         "role": "Co-Founder, Head of Engineering",
-        "background": "",
-        "origin": "India",
+        "background": "IIT Delhi graduate. Experience in high-tech and startup environments. Manages the engineering team from Bengaluru, India.",
+        "origin": "Indian",
         "prior": ""
       },
       {
         "company_slug": "observe-ai",
         "name": "Sharath Keshava Narayana",
         "role": "Co-Founder & CRO",
-        "background": "",
-        "origin": "India",
+        "background": "Second-time entrepreneur with 14+ years experience building and managing global sales teams. Prior experience at Unbxd, AWS, and Akamai. Leads go-to-market functions at Observe.AI.",
+        "origin": "Indian",
         "prior": ""
       }
     ],
@@ -31841,17 +31964,17 @@
       {
         "company_slug": "octolane-ai",
         "name": "One Chowdhury",
-        "role": "Co-Founder",
-        "background": "",
-        "origin": "",
+        "role": "Co-Founder & CEO",
+        "background": "Duke University dropout (Class of 2025). First startup was acquired during freshman year (grew traffic from 0 to 300K/month). First engineering intern at Mintlify (YC W22, a16z-backed), where he built search analytics and AI-powered doc search. Best friends with Rafi since high school; both self-taught coders via YouTube tutorials.",
+        "origin": "Bangladeshi-American",
         "prior": ""
       },
       {
         "company_slug": "octolane-ai",
         "name": "Md Abdul Halim Rafi",
         "role": "Co-Founder & CTO",
-        "background": "",
-        "origin": "",
+        "background": "BSc Applied Mathematics from University of Dhaka. 6+ years web development (JavaScript, React, Node) and 7+ years mobile development (Flutter, Android, iOS). Previously Software Engineer III at RoBenDevs and Lead Software Engineer at HypeScout. Co-founded MainlyCoding.com (Bangladesh's first hands-on coding learning platform), acquired by Shikho (EdTech) in January 2022.",
+        "origin": "Bangladeshi",
         "prior": ""
       }
     ],
@@ -32778,8 +32901,8 @@
         "company_slug": "osmo-ai",
         "name": "Alex Wiltschko",
         "role": "Founder & CEO",
-        "background": "",
-        "origin": "",
+        "background": "PhD in olfactory neuroscience from Harvard. Founded and exited two AI companies (Syllable, sold to Neumora; Whetlab, sold to Twitter, where he started the deep learning group). Joined Google Brain, where he created Alphabet's olfaction research group and proved AI could predict molecular smell before synthesis. Grew up in a small town in Texas. Founded Osmo in 2022 to digitize scent.",
+        "origin": "American",
         "prior": ""
       }
     ],
@@ -33188,15 +33311,15 @@
         "company_slug": "palebluedot-ai",
         "name": "Jonathan Zhu",
         "role": "Co-Founder",
-        "background": "",
-        "origin": "Chinese",
+        "background": "Alumnus of Peking University and Stanford Graduate School of Business. Based in San Francisco Bay Area. Co-founded PaleBlueDot AI in 2024 to provide cloud-based GPU infrastructure.",
+        "origin": "Chinese-American",
         "prior": ""
       },
       {
         "company_slug": "palebluedot-ai",
         "name": "Shaodong Huang",
         "role": "Co-Founder",
-        "background": "",
+        "background": "Details limited in public sources. Co-founded PaleBlueDot AI in 2024 with Jonathan Zhu. Based in the United States.",
         "origin": "Chinese",
         "prior": ""
       }
@@ -34852,7 +34975,7 @@
         "company_slug": "polygraf-ai",
         "name": "Yagub Rahimov",
         "role": "Founder & CEO",
-        "background": "",
+        "background": "3x founder. Attended Hanze University of Applied Sciences. First venture was a machine learning-powered social trading platform connecting rookie investors with verified professionals, followed by two more bootstrapped companies. Previously CEO and Co-founder of 7marketz. Immigrant entrepreneur who has lived in many parts of the world.",
         "origin": "Azerbaijani",
         "prior": ""
       },
@@ -35167,24 +35290,24 @@
         "company_slug": "predibase",
         "name": "Devvret Rishi",
         "role": "Co-Founder & CEO",
-        "background": "",
-        "origin": "Indian-American (Harvard CS; former Google PM for Vertex AI and Kaggle)",
+        "background": "Harvard CS graduate. Former Google Product Manager for Vertex AI and Kaggle. Led product strategy for Google's ML platform services before co-founding Predibase to democratize ML fine-tuning.",
+        "origin": "Indian-American",
         "prior": ""
       },
       {
         "company_slug": "predibase",
         "name": "Piero Molino",
         "role": "Co-Founder & Chief Science Officer",
-        "background": "",
-        "origin": "Italy (creator of Ludwig; former Uber AI Labs)",
+        "background": "Creator of Ludwig, the open-source declarative ML framework. Former researcher at Uber AI Labs. PhD in AI/NLP. Published researcher in deep learning and NLP. Ludwig became the technical foundation of Predibase's fine-tuning platform.",
+        "origin": "Italian",
         "prior": ""
       },
       {
         "company_slug": "predibase",
         "name": "Travis Addair",
         "role": "Co-Founder & CTO",
-        "background": "",
-        "origin": "United States (former Uber ML Platform lead)",
+        "background": "Former Uber ML Platform lead, where he built and managed the distributed ML training infrastructure at scale. Led the engineering team at Predibase focused on efficient fine-tuning and serving of open-source LLMs. Deep expertise in distributed systems and ML infrastructure.",
+        "origin": "American",
         "prior": ""
       }
     ],
@@ -35600,16 +35723,16 @@
         "company_slug": "qdrant",
         "name": "Andre Zayarni",
         "role": "Co-Founder & CEO",
-        "background": "",
-        "origin": "",
+        "background": "MSc in Medieninformatik from Karlsruhe University of Applied Sciences (2007). Career spanning multiple tech roles since 2009 including Senior Software Developer at VZnet Netzwerke, Senior Software Engineer at Bigpoint GmbH, Technical Lead at Spreadsave, Technical Co-founder at Choisr Internet GmbH, and CTO/CPO at MoBerries GmbH. Co-founded Qdrant in 2021 after identifying the need for a production-ready vector search engine.",
+        "origin": "German",
         "prior": ""
       },
       {
         "company_slug": "qdrant",
         "name": "Andrey Vasnetsov",
         "role": "Co-Founder & CTO",
-        "background": "",
-        "origin": "",
+        "background": "BSc and MSc in Information Technologies from Bauman Moscow State Technical University (2011-2017). Started career as Software Developer at Mail.Ru Group, then Software Engineer at dotin LLC building social profile matching. Machine Learning Engineer and Team Lead at Tinkoff Bank (2017-2020). Lead Data Scientist at MoBerries (where he met Zayarni). Expert in vector search, metric learning, and self-supervised learning. Built Qdrant's vector search engine from scratch in Rust.",
+        "origin": "Russian",
         "prior": ""
       }
     ],
@@ -36199,16 +36322,16 @@
       {
         "company_slug": "rain-ai",
         "name": "Gordon Wilson",
-        "role": "Co-Founder & CEO",
-        "background": "",
+        "role": "Co-Founder & Executive Advisor (former CEO 2017-2023)",
+        "background": "BS in Statistics and Mathematics from University of Florida. Previously worked in political campaigning and nonprofit sector. President at UF Data Science and Informatics. Childhood fascination with science fiction and entrepreneurial parents inspired founding Rain Neuromorphics. Was founding CEO for 6 years before transitioning to Executive Advisor role in 2023. YC 2018 batch.",
         "origin": "American",
         "prior": ""
       },
       {
         "company_slug": "rain-ai",
         "name": "Jack Kendall",
-        "role": "Co-Founder",
-        "background": "",
+        "role": "Co-Founder & CTO",
+        "background": "Attended University of Florida. Worked at University of Florida as part of the Nino Research Group. Left Meta to become Lead Physical researcher. Inventor and interdisciplinary researcher with interests in physics, neuroscience, and computing. Devoted past 10+ years to understanding how the brain works. Research focuses on deep learning, neuroscience, materials science, circuit and network theory. Working to close the 1,000,000x efficiency gap between human brains and current processors.",
         "origin": "American",
         "prior": ""
       },
@@ -36216,7 +36339,7 @@
         "company_slug": "rain-ai",
         "name": "Juan Claudio Nino",
         "role": "Co-Founder",
-        "background": "",
+        "background": "Professor at University of Florida leading the Nino Research Group focused on materials science and computational physics. Academic researcher whose lab work on neuromorphic materials provided foundational science for Rain AI's chip design. Co-founded Rain Neuromorphics in 2017.",
         "origin": "Hispanic-American",
         "prior": ""
       }
@@ -36515,32 +36638,32 @@
         "company_slug": "rebellion-defense",
         "name": "Chris Lynch",
         "role": "Co-founder",
-        "background": "",
-        "origin": "",
+        "background": "Serial entrepreneur from Seattle. Attended University of Cincinnati Carl H. Lindner College of Business. Hired by SecDef Ash Carter in 2015 to found the Defense Digital Service (DDS), a Pentagon \"SWAT team of hackers\" that ran bug bounty programs and helped launch the JEDI cloud program. Left DDS in April 2019 to found Rebellion Defense. Previously founded venture-backed startups and led engineering teams at enterprise companies.",
+        "origin": "American",
         "prior": ""
       },
       {
         "company_slug": "rebellion-defense",
         "name": "Nicole Camarillo",
         "role": "Co-founder",
-        "background": "",
-        "origin": "",
+        "background": "Spent 20 years as a Federal employee supporting Department of the Navy, Department of Defense, and DISA. Served as Chief Strategist for U.S. Army Cyber Command. At Rebellion Defense, served as Chief Talent and Operations Officer.",
+        "origin": "American",
         "prior": ""
       },
       {
         "company_slug": "rebellion-defense",
         "name": "Oliver Lewis",
         "role": "Co-founder",
-        "background": "",
-        "origin": "",
+        "background": "Former Deputy Director of the Digital, Data and Technology profession in the British civil service. UK Ministry of Defence intelligence officer, policy advisor, and strategy advisor with two deployments to Afghanistan as a civilian intelligence officer embedded in the British Army. Started government business for metaverse technology unicorn Improbable. Affiliated with University of Oxford's Changing Character of War Centre for a decade. Non-resident senior visiting fellow at USC Center on Public Diplomacy.",
+        "origin": "British",
         "prior": ""
       },
       {
         "company_slug": "rebellion-defense",
         "name": "Chase Kimball",
         "role": "Co-founder",
-        "background": "",
-        "origin": "",
+        "background": "Details limited in public sources. Co-founded Rebellion Defense in 2019 alongside Lynch, Camarillo, and Lewis.",
+        "origin": "American",
         "prior": ""
       }
     ],
@@ -36636,16 +36759,16 @@
         "company_slug": "recall-ai",
         "name": "David Gu",
         "role": "Co-Founder & CEO",
-        "background": "",
-        "origin": "",
+        "background": "Bachelor of Software Engineering from University of Waterloo. Previously Software Engineer at Wish (2019). Y Combinator W20 alum. Built Perfect Recall (general-purpose AI meeting assistant) before pivoting to Recall.ai after discovering the infrastructure needed for conversational AI applications was incredibly difficult to build.",
+        "origin": "Canadian-Chinese",
         "prior": ""
       },
       {
         "company_slug": "recall-ai",
         "name": "Amanda Zhu",
         "role": "Co-Founder & COO",
-        "background": "",
-        "origin": "",
+        "background": "Attended University of Waterloo. Co-built Perfect Recall with David Gu before pivoting to Recall.ai. Described as technically gifted and tenacious. Handles operations and business side of Recall.ai.",
+        "origin": "Canadian-Chinese",
         "prior": ""
       }
     ],
@@ -36709,8 +36832,8 @@
         "company_slug": "recraft-ai",
         "name": "Anna Veronika Dorogush",
         "role": "Founder & CEO",
-        "background": "",
-        "origin": "",
+        "background": "MSc in Applied Mathematics and Computer Science from Lomonosov Moscow State University (2005-2010). Yandex School of Data Analysis graduate. Career includes Software Engineer at ABBYY (morphology/spellchecking), Software Engineer at Microsoft (2012-2013), Software Engineer at Google NLP group (2014, automatic fact translation and knowledge graph), and IC/Head of ML Tools at Yandex (2016+). Creator of CatBoost, the widely-used open-source gradient boosting library (hundreds of thousands of weekly PyPI downloads). Director of ML Engineering at Next Iteration Technologies. Solo female founder in AI image generation, previously worked as a professional model while studying mathematics.",
+        "origin": "Russian",
         "prior": ""
       }
     ],
@@ -36838,8 +36961,8 @@
       {
         "company_slug": "reflection-ai",
         "name": "Misha Laskin",
-        "role": "CEO",
-        "background": "",
+        "role": "CEO & Co-Founder",
+        "background": "BA Physics and Literature from Yale. PhD in theoretical many-body quantum physics from University of Chicago. After PhD, founded an inventory prediction company. Inspired by AlphaGo paper, pivoted to AI research. Postdoc at UC Berkeley working on reinforcement learning. Senior Research Scientist at Google DeepMind where he led reward modeling efforts for the Gemini project. Made key contributions in reinforcement learning across Berkeley and DeepMind.",
         "origin": "Russian-Canadian",
         "prior": ""
       },
@@ -36847,7 +36970,7 @@
         "company_slug": "reflection-ai",
         "name": "Ioannis Antonoglou",
         "role": "Co-founder",
-        "background": "",
+        "background": "Long-tenured researcher at Google DeepMind. Made significant contributions to AlphaGo, AlphaZero, and the Gemini project. Deep expertise in reinforcement learning and game-playing AI systems. Co-founded Reflection AI with Laskin to pursue research on superintelligent systems capable of autonomous action.",
         "origin": "Greek",
         "prior": ""
       }
@@ -37118,7 +37241,7 @@
         "company_slug": "replit",
         "name": "Amjad Masad",
         "role": "CEO & Co-Founder",
-        "background": "",
+        "background": "Born and raised in Amman, Jordan, with Palestinian heritage. BSc Computer Science from Princess Sumaya University for Technology (Jordan, 2005-2010). Founding engineer at Codecademy (2011-2013). Software engineer and tech lead on JavaScript infrastructure team at Facebook (2013-2016). Created JSRepl in 2011, the open-source precursor to Replit. Turned down a $1B acquisition offer in 2019. YC W18.",
         "origin": "Jordanian-American",
         "prior": ""
       },
@@ -37126,7 +37249,7 @@
         "company_slug": "replit",
         "name": "Faris Masad",
         "role": "Co-Founder",
-        "background": "",
+        "background": "Amjad's brother; Jordanian programmer. Specific role details limited in public sources.",
         "origin": "Jordanian-American",
         "prior": ""
       },
@@ -37134,7 +37257,7 @@
         "company_slug": "replit",
         "name": "Haya Odeh",
         "role": "Co-Founder (Design)",
-        "background": "",
+        "background": "Amjad's wife. Focused on user-friendly design to make the platform accessible to non-developers and professionals. Detailed background not well-documented publicly.",
         "origin": "Palestinian-American",
         "prior": ""
       }
@@ -37313,16 +37436,16 @@
         "company_slug": "resemble-ai",
         "name": "Zohaib Ahmed",
         "role": "Co-Founder & CEO",
-        "background": "",
-        "origin": "",
+        "background": "Computer Science degree from University of Toronto. Led engineering teams at Magic Leap, Deepen AI, Hipmunk (acquired), and BlackBerry. At Hipmunk, was lead engineer of first AI Assistant for Travel built using modern NLP. At Magic Leap, worked on novel UI interactions and deep learning models from user data analysis. Founded Resemble AI with former roommate Saqib Muhammad after identifying opportunity in AI-generated voices for media production.",
+        "origin": "Canadian (Pakistani heritage)",
         "prior": ""
       },
       {
         "company_slug": "resemble-ai",
         "name": "Saqib Muhammad",
         "role": "Co-Founder",
-        "background": "",
-        "origin": "",
+        "background": "Bachelor of Commerce from McMaster University; degree from University of Chicago Booth School of Business. Previous experience in finance at Pantera Capital, Passport Capital, Contrarian Capital Management, and Breton Hill Capital. Former roommate and fellow gamer with Zohaib Ahmed. Brings finance and investment expertise to the AI voice synthesis space. Based in Menlo Park, CA.",
+        "origin": "Canadian (Pakistani heritage)",
         "prior": ""
       }
     ],
@@ -37663,16 +37786,16 @@
         "company_slug": "riverline-ai",
         "name": "Ankit Sanghvi",
         "role": "CEO",
-        "background": "",
-        "origin": "",
+        "background": "IIT Madras (2023) and Carnegie Mellon University (2024). Research Programmer at CMU. Co-founded Coursepanel (AI-driven course selection platform at IIT Madras). Joined early YC-backed teams as a student. Moved to Bay Area for master's at CMU where he focused on AI. Previously did standup comedy and worked on racecars as a freshman at IIT.",
+        "origin": "Indian",
         "prior": ""
       },
       {
         "company_slug": "riverline-ai",
         "name": "Jayanth Krishnaprakash",
         "role": "Co-founder",
-        "background": "",
-        "origin": "",
+        "background": "Co-founded Riverline AI with Ankit Sanghvi and Abhishek Gupta. Based in Bengaluru, India. Details on prior career limited in public sources.",
+        "origin": "Indian",
         "prior": ""
       }
     ],
@@ -37714,16 +37837,16 @@
         "company_slug": "roboflow",
         "name": "Joseph Nelson",
         "role": "Co-Founder & CEO",
-        "background": "",
-        "origin": "",
+        "background": "BS Economics from George Washington University; studied at London School of Economics. Co-founded Represently (civic-tech NLP platform connecting Congress with constituents), acquired by Fireside21. Principal Data Scientist at ROC AUC consulting for Fortune 500 companies. Wrote and taught 2000+ hours of data science curriculum at General Assembly. Data/Product intern at Meta (government and politics team). Led logic/debate workshops at France's Ecole de guerre.",
+        "origin": "American",
         "prior": ""
       },
       {
         "company_slug": "roboflow",
         "name": "Brad Dwyer",
         "role": "Co-Founder & CTO",
-        "background": "",
-        "origin": "",
+        "background": "Attended Iowa State University (2006-2014). Founded and ran Hatchlings as CEO from 2008 to 2018 (10 years). Based in San Francisco. Co-founded Roboflow in 2019 with Nelson, driven by the conviction that every developer should have computer vision in their toolkit.",
+        "origin": "American",
         "prior": ""
       }
     ],
@@ -37919,7 +38042,7 @@
         "company_slug": "runpod",
         "name": "Zhen Lu",
         "role": "Co-Founder & CEO",
-        "background": "",
+        "background": "BSc Chemistry from University of Pittsburgh. Assistant Professor at University of Pittsburgh (2015-2017). Joined Comcast in 2017, progressing from Software Engineer 3 to Software Engineer 4 to Software Engineering Manager (2017-2022). Co-founded RunPod in late 2021 by converting Ethereum mining rigs in his New Jersey basement into AI servers before ChatGPT launched.",
         "origin": "Chinese-American",
         "prior": ""
       },
@@ -37927,7 +38050,7 @@
         "company_slug": "runpod",
         "name": "Pardeep Singh",
         "role": "Co-Founder & CTO",
-        "background": "",
+        "background": "Over a decade of software engineering experience. Senior Software Engineer at Comcast where he met Zhen Lu. Fascinated with coding since high school, paid for college with a free music app focused on YouTube playlists. Co-founded RunPod by converting Ethereum mining rigs into GPU cloud servers from his New Jersey basement. Built the technical infrastructure for RunPod's globally distributed GPU cloud platform.",
         "origin": "Indian-American",
         "prior": ""
       }
@@ -39984,16 +40107,16 @@
         "company_slug": "siena-ai",
         "name": "Andrei Negrau",
         "role": "Co-Founder & CEO",
-        "background": "",
-        "origin": "",
+        "background": "Second-time founder with 9+ years of e-commerce experience. Previously founded Cartloop (Shopify SMS marketing app) and Relevon (online gaming platform). Technical engineer specializing in eCommerce and AI. Built software for Shopify merchants before pivoting to AI-powered customer service with Siena.",
+        "origin": "Romanian",
         "prior": ""
       },
       {
         "company_slug": "siena-ai",
         "name": "Lisa Popovici",
         "role": "Co-Founder & CMO",
-        "background": "",
-        "origin": "",
+        "background": "Growth marketer and sales leader with 9+ years of e-commerce experience. Second-time founder alongside Andrei Negrau. Previously co-built Cartloop with Negrau. Leads go-to-market and growth functions at Siena AI.",
+        "origin": "Romanian",
         "prior": ""
       }
     ],
@@ -40280,8 +40403,8 @@
       {
         "company_slug": "simular",
         "name": "Ang Li",
-        "role": "CEO",
-        "background": "",
+        "role": "CEO & Co-Founder",
+        "background": "PhD in Computer Science from University of Maryland College Park (2017), specializing in representation learning for linguistic and visual information. ACM ICPC World Finals participant twice (49th in 2009 for Nanjing University, 39th in 2013 for UMD). Led applied research programs at Google DeepMind (2017-2021) in evolutionary neural networks and lifelong learning. Principal Scientist at Apollo/Baidu Autonomous Driving (2021-2023), developing continual learning platforms for self-driving cars. Co-founded Simular in 2023 at South Park Commons.",
         "origin": "Chinese-American",
         "prior": ""
       },
@@ -40289,7 +40412,7 @@
         "company_slug": "simular",
         "name": "Jiachen Yang",
         "role": "Co-founder",
-        "background": "",
+        "background": "Co-founded Simular with Ang Li. Research background in AI. Further career details limited in public sources.",
         "origin": "Chinese",
         "prior": ""
       }
@@ -41065,17 +41188,17 @@
       {
         "company_slug": "sola-ai",
         "name": "Jessica Wu",
-        "role": "CEO",
-        "background": "",
-        "origin": "",
+        "role": "CEO & Co-Founder",
+        "background": "Mathematics and Computer Science background from MIT (dropped out to found Sola). Youngest quantitative researcher at a billion-dollar hedge fund. Worked across venture, quant research, and trading at Citadel, Goldentree, and Thrive Capital. Led product and design at early-stage startups. Founded Sola in 2023 at age 22 after experiencing pain with legacy RPA tools in finance. YC S23.",
+        "origin": "Chinese-American",
         "prior": ""
       },
       {
         "company_slug": "sola-ai",
         "name": "Neil Deshmukh",
-        "role": "Co-Founder",
-        "background": "",
-        "origin": "",
+        "role": "Co-Founder & CTO",
+        "background": "BSc Computer Science from MIT (dropped out to co-found Sola). Led cutting-edge research in computer vision and LLMs at MIT-IBM Watson and Quest for Intelligence Labs, focusing on multimodal reinforcement learning. Previously Lead Software/ML Engineer at Moonbear Bio (no-code ML platform for biologists), ML researcher at PostEra. Founded PlantumAI (plant disease diagnosis app) and co-founded VocalEyes (for visually impaired). Built vision-based biometrics at age 14.",
+        "origin": "Indian-American",
         "prior": ""
       }
     ],
@@ -41964,15 +42087,15 @@
         "company_slug": "sphere",
         "name": "Nicholas Rudder",
         "role": "Co-Founder & CEO",
-        "background": "",
-        "origin": "American",
+        "background": "Originally from Sydney, Australia. Background in finance at Macquarie Bank and PwC. Previously founded ScholarSite, an educational marketplace where he repeatedly encountered global tax compliance pain points. Pivoted ScholarSite into Sphere to build AI-native tax compliance. Based in San Francisco.",
+        "origin": "Australian",
         "prior": ""
       },
       {
         "company_slug": "sphere",
         "name": "Adrian Sarstedt",
-        "role": "Co-Founder",
-        "background": "",
+        "role": "Co-Founder (departed)",
+        "background": "Co-founded Sphere with Nicholas Rudder. Technical co-founder who served as CTO. Built initial product. Has since departed the company. Further details limited in public sources.",
         "origin": "German",
         "prior": ""
       }
@@ -42247,7 +42370,7 @@
         "company_slug": "ssi",
         "name": "Ilya Sutskever",
         "role": "Co-founder; CEO (since July 2025)",
-        "background": "",
+        "background": "Born in Russia, grew up in Israel, moved to Canada. BSc Mathematics from Open University of Israel. MSc and PhD in Machine Learning under Geoffrey Hinton at University of Toronto. Postdoc with Andrew Ng at Stanford. Co-founded and was Chief Scientist at OpenAI (2015-2024). Research Scientist at Google Brain (2012-2015) working on sequence-to-sequence learning. Key contributor to AlexNet (2012). One of the most cited researchers in deep learning history. Left OpenAI in May 2024 to co-found SSI.",
         "origin": "Russian-Israeli-Canadian",
         "prior": ""
       },
@@ -42255,7 +42378,7 @@
         "company_slug": "ssi",
         "name": "Daniel Gross",
         "role": "Co-founder; former CEO (departed July 2025)",
-        "background": "",
+        "background": "Israeli-born entrepreneur and investor. Founded Cue (acquired by Apple in 2013). Partner at Y Combinator. Led AI/ML initiatives at Apple after Cue acquisition. Co-founded Pioneer (talent search platform) with Nat Friedman. Co-founded NFDG Ventures with Nat Friedman. Prolific angel investor in AI companies. Departed SSI as CEO in July 2025.",
         "origin": "Israeli-American",
         "prior": ""
       },
@@ -42263,7 +42386,7 @@
         "company_slug": "ssi",
         "name": "Daniel Levy",
         "role": "Co-founder; President",
-        "background": "",
+        "background": "Former member of technical staff at OpenAI. Worked closely with Ilya Sutskever at OpenAI. Transitioned to President of SSI. Leads day-to-day operations and research direction.",
         "origin": "American",
         "prior": ""
       }
@@ -42326,17 +42449,17 @@
       {
         "company_slug": "stability-ai",
         "name": "Emad Mostaque",
-        "role": "resigned March 2024",
-        "background": "",
-        "origin": "",
+        "role": "Co-Founder (resigned March 2024)",
+        "background": "Born April 1983 to a Bengali Muslim family in Jordan; migrated to UK at age 7. MA in Mathematics and Computer Science from University of Oxford. Spent 13 years working at various UK hedge funds. Founded Symmitree in 2019 (failed tech-for-poverty startup). Co-founded Stability AI in late 2020. Funded compute for training Stable Diffusion (released August 2022). Resigned March 2024, stating \"you can't beat centralized AI with more centralized AI.\" Faced allegations of misleading investors about his role in developing Stable Diffusion.",
+        "origin": "British-Bangladeshi",
         "prior": ""
       },
       {
         "company_slug": "stability-ai",
         "name": "Cyrus Hodes",
-        "role": "Co-founder",
-        "background": "",
-        "origin": "",
+        "role": "Co-Founder",
+        "background": "Educated at Sciences Po Paris; MPA from Harvard Kennedy School. AI program director at Harvard Kennedy School. Co-founded The Future Society (AI governance nonprofit). Advised UAE Minister of AI. Founded AIGC Chain (blockchain-AI startup). International AI strategist and governance expert. Filed lawsuit in July 2023 alleging he was defrauded into selling his 15% co-founder stake for $100.",
+        "origin": "French",
         "prior": ""
       }
     ],
@@ -42399,17 +42522,17 @@
       {
         "company_slug": "stackai",
         "name": "Antoni Rosinol",
-        "role": "Co-Founder",
-        "background": "",
-        "origin": "",
+        "role": "Co-Founder & CEO",
+        "background": "PhD in Computer Science & AI from MIT (LIDS and AeroAstro, 2018-2022). MSc Robotics from ETH Zurich. BSc from EPFL and NTU Singapore. Born in Barcelona. Robotics Engineer and Perception Lead at NASA JPL as part of CoSTAR team (JPL/MIT/Caltech) for DARPA SubT challenge. Research focused on deep learning, computer vision, and SLAM. Co-founded Stack AI after graduating MIT in 2022. YC W23.",
+        "origin": "Spanish",
         "prior": ""
       },
       {
         "company_slug": "stackai",
         "name": "Bernardo Aceituno",
         "role": "Co-Founder",
-        "background": "",
-        "origin": "",
+        "background": "PhD and Minor in Business Administration from MIT. MSc Mechanical Engineering from MIT. BSc Electrical Engineering and Computer Science from Universidad Simon Bolivar. Research at MIT MCube Lab with Prof. Alberto Rodriguez on robustness and certification for manipulation tasks. Led research projects at Facebook AI Research (FAIR) and Italian Institute of Technology (IIT) on deep learning, trajectory optimization, and legged robots. Co-founded Stack AI after graduating MIT. YC W23.",
+        "origin": "Venezuelan",
         "prior": ""
       }
     ],
@@ -42513,8 +42636,8 @@
         "company_slug": "stainless",
         "name": "Alex Rattray",
         "role": "Founder & CEO",
-        "background": "",
-        "origin": "",
+        "background": "BSc from University of Pennsylvania (Wharton). Worked at Stripe (2017-2020) on developer tools. Contributed to Prettier (JavaScript formatter), including the no-semi option and JSX behavior. Also worked at Hired, Babajob, and Toptal. Started a campus bikeshare at UPenn and an underground newspaper in high school. Founded Stainless after developers asked him to reproduce Stripe-caliber SDKs for their APIs.",
+        "origin": "American",
         "prior": ""
       }
     ],
@@ -44092,7 +44215,7 @@
         "company_slug": "tavus",
         "name": "Hassaan Raza",
         "role": "Co-Founder & CEO",
-        "background": "",
+        "background": "BSc Computer Science from UT Austin (2015-2019). Technical Program Manager at Google. Engineering Program Manager at Apple. Principal at Simublade (product studio overseeing product development for startup partners, specializing in AI/ML). Co-founded Accantus (SaaS/IoT startup using telemetry and patient health data to predict treatment outcomes). 5-6 years in ML (avatars, 3D reconstruction, lip sync). Forbes 30 Under 30 (2024).",
         "origin": "Pakistani-American",
         "prior": ""
       },
@@ -44100,7 +44223,7 @@
         "company_slug": "tavus",
         "name": "Quinn Favret",
         "role": "Co-Founder & COO",
-        "background": "",
+        "background": "Details on prior career limited in public sources. Co-founded Tavus with Hassaan Raza in 2021 (YC S21). Handles operations at Tavus.",
         "origin": "American",
         "prior": ""
       }
@@ -44267,7 +44390,7 @@
         "company_slug": "tennr",
         "name": "Tyler Hoffman",
         "role": "CEO / Co-Founder",
-        "background": "",
+        "background": "[Note: Public sources indicate the CEO is Trey Holterman, not Tyler Hoffman \u2014 name may need correction.] Stanford CS alumnus. Worked as software engineer at Health IQ (Medicare platform) and Strava (fitness). All-American rower at Stanford. Met co-founders at Stanford working on advanced AI and LLM research. Founded Tennr in 2021.",
         "origin": "American",
         "prior": ""
       },
@@ -44275,7 +44398,7 @@
         "company_slug": "tennr",
         "name": "Diego Espinosa",
         "role": "Co-Founder",
-        "background": "",
+        "background": "[Note: Public sources indicate the co-founder is Diego Baugh \u2014 name may need correction.] Met co-founders at Stanford. Co-founded Tennr in 2021 focused on healthcare document processing and patient referral automation.",
         "origin": "Latin American",
         "prior": ""
       }
@@ -44569,8 +44692,8 @@
         "company_slug": "tera-ai",
         "name": "Tony Zhang",
         "role": "Founder & CEO",
-        "background": "",
-        "origin": "",
+        "background": "PhD from Caltech under Pietro Perona (pioneer in computer vision), studying how biological systems solve navigation. Machine Learning Lead at Google X on geospatial AI project, where his team developed novel AI models for sensing, prediction, and optimal control. Left Google X within months of ChatGPT's launch to found Tera AI in 2023, betting spatial understanding would become as important as text comprehension.",
+        "origin": "Chinese-American",
         "prior": ""
       }
     ],
@@ -44784,7 +44907,7 @@
         "company_slug": "thinking-machines-lab",
         "name": "Mira Murati",
         "role": "CEO",
-        "background": "",
+        "background": "Born in Vlore, Albania. Studied Mechanical Engineering at Dartmouth College. Worked at Goldman Sachs, then Zodiac Aerospace and Leap Motion. VP of Engineering at Tesla on the Model X. Joined OpenAI in 2018; became CTO in 2022. Briefly served as interim CEO of OpenAI during Sam Altman's temporary departure (November 2023). Left OpenAI in September 2024 to found Thinking Machines Lab. Led OpenAI through its most critical growth phase (ChatGPT, GPT-4, DALL-E).",
         "origin": "Albanian-American",
         "prior": ""
       },
@@ -44792,7 +44915,7 @@
         "company_slug": "thinking-machines-lab",
         "name": "John Schulman",
         "role": "Co-founder",
-        "background": "",
+        "background": "PhD from UC Berkeley under Pieter Abbeel. Co-founder of OpenAI (2015). Created Proximal Policy Optimization (PPO), one of the most widely used RL algorithms. Led the RLHF work that made ChatGPT possible. Left OpenAI in August 2024 to join Anthropic, then departed to co-found Thinking Machines Lab.",
         "origin": "American",
         "prior": ""
       },
@@ -44800,7 +44923,7 @@
         "company_slug": "thinking-machines-lab",
         "name": "Barrett Zoph",
         "role": "Co-founder",
-        "background": "",
+        "background": "PhD from University of Southern California. Former research scientist at Google Brain where he pioneered Neural Architecture Search (NAS). Joined OpenAI as Research Lead. Led GPT-4 post-training. Left OpenAI in 2024 to co-found Thinking Machines Lab.",
         "origin": "American",
         "prior": ""
       },
@@ -44808,7 +44931,7 @@
         "company_slug": "thinking-machines-lab",
         "name": "Lilian Weng",
         "role": "Co-founder",
-        "background": "",
+        "background": "PhD from University of Michigan. Former Head of Safety Systems at OpenAI. Well-known for her influential technical blog (lilianweng.github.io) covering deep learning, RL, and LLM topics. Left OpenAI in 2024 to co-found Thinking Machines Lab.",
         "origin": "Chinese-American",
         "prior": ""
       },
@@ -44816,7 +44939,7 @@
         "company_slug": "thinking-machines-lab",
         "name": "Andrew Tulloch",
         "role": "Co-founder",
-        "background": "",
+        "background": "Former engineering leader at OpenAI focused on infrastructure and systems. Previously at Facebook AI Research (FAIR). Deep expertise in ML infrastructure and high-performance computing. Left OpenAI to co-found Thinking Machines Lab.",
         "origin": "Australian",
         "prior": ""
       },
@@ -44824,7 +44947,7 @@
         "company_slug": "thinking-machines-lab",
         "name": "Luke Metz",
         "role": "Co-founder",
-        "background": "",
+        "background": "Former research scientist at OpenAI and Google Brain. PhD research focused on meta-learning and learned optimizers. Left OpenAI to co-found Thinking Machines Lab.",
         "origin": "American",
         "prior": ""
       }
@@ -44875,25 +44998,25 @@
       {
         "company_slug": "third-dimension-ai",
         "name": "Tolga Kart",
-        "role": "CEO",
-        "background": "",
-        "origin": "",
+        "role": "CEO & Co-Founder",
+        "background": "15-year technical and product leader. McGill University (2002-2005). Senior Director on Call of Duty at Activision (5+ years). Technical Program Management & Simulation for Autopilot at Tesla (2+ years). VP of Engineering at Parallel Domain (synthetic data company). Also worked at Sledgehammer Games and Electronic Arts (EA). Deep expertise in gaming, simulation, and autonomous vehicles.",
+        "origin": "Turkish-Canadian",
         "prior": ""
       },
       {
         "company_slug": "third-dimension-ai",
         "name": "Piotr Sokolski",
-        "role": "Co-Founder",
-        "background": "",
-        "origin": "",
+        "role": "Co-Founder & CTO",
+        "background": "Veteran in 3D reconstruction and AI. Spent 4 years at Wayve building photorealistic neural simulators for self-driving cars. 3+ years at Google. Expertise in machine learning, 3D reconstruction, and autonomous driving simulation.",
+        "origin": "Polish",
         "prior": ""
       },
       {
         "company_slug": "third-dimension-ai",
         "name": "Soner Ozgun Pelvan",
         "role": "Co-Founder",
-        "background": "",
-        "origin": "",
+        "background": "Co-founded Third Dimension AI in 2024 alongside Tolga Kart and Piotr Sokolski. Background in video games and autonomous vehicles. Further career details limited in public sources.",
+        "origin": "Turkish",
         "prior": ""
       }
     ],
@@ -45613,15 +45736,15 @@
         "company_slug": "tractian",
         "name": "Igor Marinelli",
         "role": "CEO & Co-Founder",
-        "background": "",
-        "origin": "Brazilian",
+        "background": "Engineering graduate from UC Berkeley. Son of migrants and factory workers from Brazil and Italy. Grew up watching his father's struggles as a maintenance technician, which inspired his passion for industrial tech. Started building inventory systems as a teenager. Featured in Forbes Manufacturing and Industry Under 30 list.",
+        "origin": "Brazilian-Italian",
         "prior": ""
       },
       {
         "company_slug": "tractian",
         "name": "Gabriel Lameirinhas",
         "role": "Co-CEO & Co-Founder",
-        "background": "",
+        "background": "Engineering background. Co-founded Tractian in 2019 with Igor Marinelli and Leonardo Vieira. Raised around manufacturing plants from a young age. Shares co-CEO responsibilities with Marinelli, bringing engineering and technical leadership.",
         "origin": "Brazilian",
         "prior": ""
       },
@@ -45629,7 +45752,7 @@
         "company_slug": "tractian",
         "name": "Leonardo Vieira",
         "role": "Co-Founder",
-        "background": "",
+        "background": "Co-founded Tractian in 2019. Raised around manufacturing plants. Engineering background focused on industrial technology and AI-powered predictive maintenance. Further career details limited in public sources.",
         "origin": "Brazilian",
         "prior": ""
       }
@@ -46774,16 +46897,16 @@
         "company_slug": "uniphore",
         "name": "Umesh Sachdev",
         "role": "Co-Founder & CEO",
-        "background": "",
-        "origin": "India (incubated company at IIT Madras)",
+        "background": "Alumnus of Jaypee Institute of Information Technology. Incubated Uniphore at IIT Madras in 2008 with a vision to bridge the gap between humans and machines using AI. Recognized as 'Innovator Under 35' by MIT Tech Review, '40 under 40 Bright Young Business Leaders' by Economic Times, and 'Next Generation Leader' by Time Magazine. Enterprise AI pioneer bringing knowledge AI, generative AI, and emotion AI into a single platform.",
+        "origin": "Indian",
         "prior": ""
       },
       {
         "company_slug": "uniphore",
         "name": "Ravi Saraogi",
         "role": "Co-Founder & President (APAC)",
-        "background": "",
-        "origin": "India",
+        "background": "Alumnus of Jaypee Institute of Information Technology. Co-founded Uniphore in 2008 with Umesh Sachdev at IIT Madras. Leads Sales and Delivery for Uniphore across APAC. Vast experience in directing technology teams in mobile theft security, wireless network development, and mobile learning applications. Honored with Innovation Leadership Award at Asia Innovation Excellence Awards.",
+        "origin": "Indian",
         "prior": ""
       }
     ],
@@ -47535,16 +47658,16 @@
         "company_slug": "vapi",
         "name": "Jordan Dearsley",
         "role": "Co-Founder & CEO",
-        "background": "",
-        "origin": "",
+        "background": "Studied Software Engineering at University of Waterloo (2017-2020, dropped out). Software Engineer at Asana and Wealthsimple. Co-founded Superpowered (YC W21), an AI meeting notetaker, which he ran from 2020-2023. Pivoted multiple times (investing app, note-taking tool, AI productivity) before relocating to San Francisco and founding Vapi in August 2023.",
+        "origin": "Canadian",
         "prior": ""
       },
       {
         "company_slug": "vapi",
         "name": "Nikhil Gupta",
         "role": "Co-Founder & CTO",
-        "background": "",
-        "origin": "",
+        "background": "Co-founded Superpowered (YC W21) with Dearsley from 2021 to early 2023. Previously played a pivotal role at Nearside before its acquisition by Plastiq in 2020. Product-focused technical founder obsessed with user experience. Co-founded Vapi after pivoting from Superpowered.",
+        "origin": "Indian-American",
         "prior": ""
       }
     ],
@@ -47596,33 +47719,33 @@
       {
         "company_slug": "vast-data",
         "name": "Renen Hallak",
-        "role": "CEO",
-        "background": "",
-        "origin": "",
+        "role": "CEO & Founder",
+        "background": "Background in complexity theory, cryptography, and computer science. Former VP of Engineering/Head of R&D at XtremIO (acquired by Dell EMC in 2012 for ~$430M; achieved $1.2B run rate in first year of sales). Founded VAST Data in January 2016. Named one of Goldman Sachs' 100 Most Intriguing Entrepreneurs (multiple consecutive years). BigDATAwire Person to Watch 2024.",
+        "origin": "Israeli",
         "prior": ""
       },
       {
         "company_slug": "vast-data",
         "name": "Shachar Fienblit",
-        "role": "Chief R&D Officer",
-        "background": "",
-        "origin": "",
+        "role": "Chief R&D Officer & Co-Founder",
+        "background": "BSc Computer Software Engineering from University of Haifa (2000). Software Engineer at Picker Medical Systems (1996-2000). Storage Development Architect at IBM (2000-2008). CTO and VP Engineering at Kaminario (2009-2016). Co-founded VAST Data in 2016 bringing deep storage infrastructure expertise.",
+        "origin": "Israeli",
         "prior": ""
       },
       {
         "company_slug": "vast-data",
         "name": "Jeff Denworth",
         "role": "Co-founder, VP Products",
-        "background": "",
-        "origin": "",
+        "background": "Formerly of CTERA Networks. Co-founded VAST Data in 2016 with Hallak and Fienblit. Leads product strategy at VAST Data. Deep experience in enterprise storage and data management.",
+        "origin": "American",
         "prior": ""
       },
       {
         "company_slug": "vast-data",
         "name": "Alon Horev",
         "role": "CTO",
-        "background": "",
-        "origin": "",
+        "background": "Details on prior career limited in public sources. Serves as CTO overseeing technical architecture of VAST Data's platform.",
+        "origin": "Israeli",
         "prior": ""
       }
     ],
@@ -47858,25 +47981,25 @@
       {
         "company_slug": "vellum-ai",
         "name": "Noa Flaherty",
-        "role": "Co-Founder",
-        "background": "",
-        "origin": "",
+        "role": "Co-Founder & CTO",
+        "background": "BS Mechanical Engineering and Management from MIT (2011-2015). Multiple roles at DataRobot (MLOps Software Engineer, Team Lead, Covid Intelligence). Software Engineering Manager and Technology Lead at Dover. Worked at three tech startups before co-founding Vellum. YC W23.",
+        "origin": "American",
         "prior": ""
       },
       {
         "company_slug": "vellum-ai",
         "name": "Sidd Seethepalli",
         "role": "Co-Founder",
-        "background": "",
-        "origin": "",
+        "background": "MIT undergraduate. Worked on Quora's ML Platform team. Spent 4 years at tech companies including Quora and Dover. Co-built production LLM use-cases at Dover (YC S19) which inspired creating Vellum. YC W23.",
+        "origin": "Indian-American",
         "prior": ""
       },
       {
         "company_slug": "vellum-ai",
         "name": "Akash Sharma",
-        "role": "Co-Founder",
-        "background": "",
-        "origin": "",
+        "role": "Co-Founder & CEO",
+        "background": "UC Berkeley graduate. Spent 5 years at McKinsey's Silicon Valley Office. Worked at Dover (YC S19) for 2+ years building production LLM applications with GPT-3 and Cohere. The internal tooling they built to compare models, fine-tune, and measure performance inspired the creation of Vellum. YC W23.",
+        "origin": "Indian-American",
         "prior": ""
       }
     ],
@@ -48054,8 +48177,8 @@
         "company_slug": "verge-genomics",
         "name": "Alice Zhang",
         "role": "Co-Founder & CEO",
-        "background": "",
-        "origin": "Chinese-American (parents are immigrants from mainland China)",
+        "background": "BA Molecular Biology from Princeton University. Seven years of systems biology research at National Cancer Institute, Lewis-Sigler Institute for Integrative Genomics at Princeton, and UCLA. Attended UCLA-Caltech Medical Scientist Training Program (neuroscience doctorate) before leaving to start Verge in 2015. Father was a 1978 Democracy Wall Movement activist in China who received political asylum in the US. Forbes 30 Under 30 (2017), Fortune 40 Under 40 (2022), Fierce Biotech Fiercest Women in Life Sciences (2022). Paul & Daisy Soros Fellow.",
+        "origin": "Chinese-American",
         "prior": ""
       }
     ],
@@ -48126,9 +48249,9 @@
       {
         "company_slug": "veris-ai",
         "name": "Mehdi Jamei",
-        "role": "CEO & Founder",
-        "background": "",
-        "origin": "",
+        "role": "CEO & Co-Founder",
+        "background": "PhD in Electrical Engineering and Computer Science from UC Berkeley. MS in Physics from UC Berkeley. Formerly led agentic AI at System and Workmate. Previous experience at NationSwell and Bayes Impact. Founded Veris AI to build simulation-based training platform for enterprise AI agents.",
+        "origin": "Iranian-American",
         "prior": ""
       }
     ],
@@ -48417,9 +48540,9 @@
       {
         "company_slug": "vultr",
         "name": "David Aninowsky",
-        "role": "Founder",
-        "background": "",
-        "origin": "",
+        "role": "Founder & Executive Chairman",
+        "background": "Born and raised in New Jersey. Attended NJIT (New Jersey Institute of Technology) studying computer science but left to focus on his hosting company started in high school. Worked in managed infrastructure since 1996; one of the first employees at Datapipe. First venture was a virtual/shared hosting company in mid-1990s. Oversaw operational strategies and business development at GameServers.com for 17+ years. Founded Vultr in 2014 leveraging 20+ years of hosting/managed services experience.",
+        "origin": "American",
         "prior": ""
       }
     ],
@@ -48573,25 +48696,25 @@
       {
         "company_slug": "warmly",
         "name": "Max Greenwald",
-        "role": "CEO",
-        "background": "",
-        "origin": "",
+        "role": "CEO & Co-Founder",
+        "background": "Princeton University (BS Computer Science & Public Policy). Product Manager at Google working on Photos, Maps, and Chrome. Intern at FTC in Cyber Security. Founder and Chairman of IgniteSTEM nonprofit. Left Google in 2020 to start Warmly. Went through 7+ pivots before finding product-market fit as an autonomous sales orchestration platform.",
+        "origin": "American",
         "prior": ""
       },
       {
         "company_slug": "warmly",
         "name": "Carina Boo",
         "role": "Co-Founder",
-        "background": "",
-        "origin": "",
+        "background": "Co-founded Warmly in 2020 with Max Greenwald and Alan Zhao. Engineering background. Details on prior career limited in public sources.",
+        "origin": "American",
         "prior": ""
       },
       {
         "company_slug": "warmly",
         "name": "Alan Zhao",
-        "role": "Co-Founder",
-        "background": "",
-        "origin": "",
+        "role": "Co-Founder & VP of Engineering",
+        "background": "Met Max Greenwald during an On Deck in-person weekend hackathon. Joined as co-founder and VP of Engineering at Warmly. Engineering background focused on building the technical platform.",
+        "origin": "Chinese-American",
         "prior": ""
       }
     ],
@@ -49044,25 +49167,25 @@
       {
         "company_slug": "webai",
         "name": "David Stout",
-        "role": "Co-Founder",
-        "background": "",
-        "origin": "",
+        "role": "Co-Founder & CEO",
+        "background": "Raised on a cattle ranch in northern Michigan. Studied at Davenport University, then enrolled in online AI coursework at Stanford University (left to focus on webAI). Developed interest in machinery and computing under resource-constrained conditions. Founded Ghost House Technology in 2016, an AI software startup that served as early incubator for on-device AI concepts leading to webAI. Met co-founders Tyler Mauer and Ethan Baird as fellow Michigan computer engineers.",
+        "origin": "American",
         "prior": ""
       },
       {
         "company_slug": "webai",
         "name": "Tyler Mauer",
         "role": "Co-Founder",
-        "background": "",
-        "origin": "",
+        "background": "Computer engineer from Michigan. Met David Stout and Ethan Baird through shared technical interests. Co-founded webAI in 2019 with a vision of creating AI systems that run directly on devices without cloud dependency. Technical co-founder focused on distributed AI architecture.",
+        "origin": "American",
         "prior": ""
       },
       {
         "company_slug": "webai",
         "name": "Ethan Baird",
         "role": "Co-Founder",
-        "background": "",
-        "origin": "",
+        "background": "Computer engineer from Michigan. Co-founded webAI in 2019 alongside David Stout and Tyler Mauer. Shared the founding vision of privacy-focused, on-device AI systems. Technical co-founder contributing to the sovereign AI platform architecture.",
+        "origin": "American",
         "prior": ""
       }
     ],
@@ -49710,17 +49833,17 @@
       {
         "company_slug": "wispr-ai",
         "name": "Tanay Kothari",
-        "role": "CEO",
-        "background": "",
-        "origin": "",
+        "role": "CEO & Co-Founder",
+        "background": "BSc Computer Science and MSc Artificial Intelligence from Stanford. Taught Stanford's Deep Learning course alongside Prof. Andrew Ng. Published research at Stanford AI Lab. 4x founder - built FeatherX (AI personalization for online stores, acquired by Cerebra Technologies) while in college, and Convert (music discovery platform, 2.5M+ monthly active users). President of Stanford Venture Capital Club for 3 years. Forbes 30 Under 30 (2023). Founded Wispr in 2021 at age ~24.",
+        "origin": "Indian-American",
         "prior": ""
       },
       {
         "company_slug": "wispr-ai",
         "name": "Sahaj Garg",
-        "role": "CTO",
-        "background": "",
-        "origin": "",
+        "role": "CTO & Co-Founder",
+        "background": "Engineering degree from Stanford with Henry Ford II Scholar Award (highest academic achievement in School of Engineering). Research assistant at Stanford AI Lab under Prof. Andrew Ng. Published research in generative modeling. Published with Google Research and Columbia Psychiatry. Background in computational neuroscience (analyzing SSRI effects on early brain development). Co-founded Wispr with Stanford batchmate Tanay Kothari.",
+        "origin": "Indian-American",
         "prior": ""
       }
     ],
@@ -49897,15 +50020,15 @@
         "company_slug": "worktrace-ai",
         "name": "Angela Jiang",
         "role": "Co-Founder & CEO",
-        "background": "",
-        "origin": "Mainland Chinese (graduated from Wharton, University of Pennsylvania)",
+        "background": "PhD in Machine Learning Software Systems from Carnegie Mellon University. Early internships at Google Brain and Microsoft. Product Manager at OpenAI where she shipped GPT-3.5 and GPT-4 product work and the content moderation API. Later led a public policy team at OpenAI aligning policy, research, and product on AI safety, deepfakes, and data governance. Departed OpenAI in December 2024 to found Worktrace AI.",
+        "origin": "Chinese-American",
         "prior": ""
       },
       {
         "company_slug": "worktrace-ai",
         "name": "Deepak Vasisht",
         "role": "Co-Founder",
-        "background": "",
+        "background": "PhD in Computer Science from MIT. President of India Gold Medalist. Former intern at Microsoft working on FarmBeats (data for agriculture). Assistant Professor at University of Illinois Urbana-Champaign (Siebel School of Computing and Data Science). Pioneering research in distributed networking and computational systems across Earth and space. Took leave from teaching to join Silicon Valley's AI startup scene. Met Angela Jiang at South Park Commons.",
         "origin": "Indian-American",
         "prior": ""
       }
@@ -50031,16 +50154,16 @@
         "company_slug": "writer",
         "name": "May Habib",
         "role": "CEO & Co-founder",
-        "background": "",
-        "origin": "Lebanese-American",
+        "background": "Born in Lebanon, emigrated to Canada at age 8 (eldest of 8 children, became family interpreter). BA Economics and Near Eastern Languages from Harvard University. Worked in investment portfolios at Lehman Brothers and Mubadala Development Company. Co-founded Qordoba in 2015 (AI-powered content localization), rebranded to Writer in 2020. Forbes AI 50 (2023), Inc Female Founder Award (2023), WEF Young Global Leader (2024), Aspen Global Leadership Network Fellow. Owns 15% of Writer (~$2B valuation).",
+        "origin": "Lebanese-Canadian-American",
         "prior": ""
       },
       {
         "company_slug": "writer",
         "name": "Waseem AlShikh",
         "role": "CTO & Co-founder",
-        "background": "",
-        "origin": "Arab-American",
+        "background": "Grew up in mountains south of Damascus, Syria. Moved to Lebanon at 18 to study CS; built a summarization tool to overcome English-language barriers. Degrees in Electronics from Beirut Arab University and Damascus Polytechnic University. Met May Habib through a Twitter post about algorithms in Dubai's small CS community. Co-founded Qordoba in 2013 (content localization with early transformer work in machine translation). Co-founded Writer in 2020 bringing deep NLP and enterprise language AI expertise.",
+        "origin": "Syrian-American",
         "prior": ""
       }
     ],
@@ -50419,7 +50542,7 @@
     "website": "https://en.xtalpi.com",
     "sector": "AI drug discovery; quantum physics; computational chemistry",
     "one_liner": "AI-powered drug discovery platform combining quantum mechanics and machine learning to predict molecular properties.",
-    "total_raised_m": 700.0,
+    "total_raised_m": 785.0,
     "latest_valuation_m": null,
     "employees": "500+ (estimate)",
     "revenue_signals": null,
@@ -50433,28 +50556,106 @@
         "company_slug": "xtalpi",
         "name": "Jian Ma (Ma Jian)",
         "role": "Co-Founder & CEO",
-        "background": "",
-        "origin": "Mainland Chinese (MIT postdoctoral researcher)",
+        "background": "PhD in Physics from Zhejiang University (2012). Postdoctoral associate at MIT (2012-2014). Visiting scholar at RIKEN (Japan) and Chinese University of Hong Kong. Extensive research in quantum information, quantum computing, and numerical simulation. Named MIT Technology Review \"Innovator Under 35\" (China). Named Best CEO in China for AI New Drug Discovery. Co-founded XtalPi at MIT in 2014.",
+        "origin": "Chinese",
         "prior": ""
       },
       {
         "company_slug": "xtalpi",
         "name": "Wen Shuhao",
-        "role": "Co-Founder",
-        "background": "",
-        "origin": "Mainland Chinese (MIT postdoctoral researcher)",
+        "role": "Co-Founder & Chairman",
+        "background": "PhD in Physical Chemistry from Chinese Academy of Sciences. Postdoctoral research at UC Riverside and MIT (quantum chemistry fellow, 2013-2015). Published 36 papers with 2,900+ citations. Youngest member and sole mainland China representative on MIT Visiting Committee's Chemistry Division (149-year-old advisory body). Co-founded XtalPi at MIT in 2014 with quantum physics and AI-based drug discovery approach.",
+        "origin": "Chinese",
         "prior": ""
       },
       {
         "company_slug": "xtalpi",
         "name": "Lai Lipeng",
         "role": "Co-Founder",
-        "background": "",
-        "origin": "Mainland Chinese (MIT postdoctoral researcher)",
+        "background": "Postdoctoral fellow at MIT. Quantum physicist specializing in computational physics. Co-founded XtalPi at MIT in 2014 alongside Ma Jian and Wen Shuhao. Part of the original group of quantum physicists who developed XtalPi's AI-powered molecular property prediction platform.",
+        "origin": "Chinese",
         "prior": ""
       }
     ],
-    "funding_rounds": [],
+    "funding_rounds": [
+      {
+        "company_slug": "xtalpi",
+        "stage": "Seed",
+        "date": "2015",
+        "amount_m": 0.3,
+        "valuation_m": null,
+        "lead_investors": "Renren",
+        "other_investors": "",
+        "source": "https://www.crunchbase.com/organization/xtalpi",
+        "notes": ""
+      },
+      {
+        "company_slug": "xtalpi",
+        "stage": "Series A",
+        "date": "2015-11",
+        "amount_m": 5.0,
+        "valuation_m": null,
+        "lead_investors": "Tencent",
+        "other_investors": "",
+        "source": "https://www.crunchbase.com/funding_round/xtalpi-series-a--b8d87a79",
+        "notes": ""
+      },
+      {
+        "company_slug": "xtalpi",
+        "stage": "Series A (extension)",
+        "date": "2016-01",
+        "amount_m": 1.2,
+        "valuation_m": null,
+        "lead_investors": "Undisclosed",
+        "other_investors": "",
+        "source": "https://www.crunchbase.com/funding_round/xtalpi-series-a--5cdc1988",
+        "notes": ""
+      },
+      {
+        "company_slug": "xtalpi",
+        "stage": "Series B",
+        "date": "2018-01",
+        "amount_m": 15.0,
+        "valuation_m": null,
+        "lead_investors": "Undisclosed",
+        "other_investors": "",
+        "source": "https://www.crunchbase.com/funding_round/xtalpi-series-b--e0594bbe",
+        "notes": ""
+      },
+      {
+        "company_slug": "xtalpi",
+        "stage": "Series B (extension)",
+        "date": "2018-10",
+        "amount_m": 46.0,
+        "valuation_m": null,
+        "lead_investors": "Sequoia Capital China",
+        "other_investors": "",
+        "source": "https://www.crunchbase.com/funding_round/xtalpi-series-b--40b1faaa",
+        "notes": ""
+      },
+      {
+        "company_slug": "xtalpi",
+        "stage": "Series C",
+        "date": "2020-09",
+        "amount_m": 319.0,
+        "valuation_m": null,
+        "lead_investors": "SoftBank Vision Fund",
+        "other_investors": "",
+        "source": "https://techcrunch.com/2020/09/28/xtalpi-lands-massive-319m-softbank-led-round-c-to-continue-its-high-tech-drug-discovery/",
+        "notes": ""
+      },
+      {
+        "company_slug": "xtalpi",
+        "stage": "Series D",
+        "date": "2021-08",
+        "amount_m": 400.0,
+        "valuation_m": null,
+        "lead_investors": "SoftBank Vision Fund",
+        "other_investors": "",
+        "source": "https://globalventuring.com/corporate/xtalpi-executes-400m-series-d-round/",
+        "notes": "Total pre-IPO private funding ~$786M across 7 rounds"
+      }
+    ],
     "top_investors": [
       "SoftBank Vision Fund",
       "Tencent",
@@ -50777,16 +50978,16 @@
         "company_slug": "zeroentropy",
         "name": "Ghita Houir Alami",
         "role": "CEO & Co-Founder",
-        "background": "",
-        "origin": "",
+        "background": "Born and raised in Morocco. Left home at 17 to study in France at Ecole Polytechnique (BS/MS Applied Mathematics, specializing in Data Science). Master's in Mathematics at UC Berkeley. Top 10 finalist in U.S. Embassy science contest. Honorable Mention at 2017 International Physics Olympiad. Before ZeroEntropy, built an early AI conversational assistant, gaining insight into the importance of retrieval context for LLMs. YC W25.",
+        "origin": "Moroccan",
         "prior": ""
       },
       {
         "company_slug": "zeroentropy",
         "name": "Nicholas Pipitone",
         "role": "CTO & Co-Founder",
-        "background": "",
-        "origin": "",
+        "background": "Dropped out of Carnegie Mellon University (theoretical mathematics and CS). USACO Finalist (2016). CTO and/or main developer for 5 different startups. Created stat-arb algorithms and audited blockchains for bug bounties and hedge fund due diligence. Led product at Whist (cloud-hybrid browser) through a $4M raise. Software developer at AoPS Inc. Expert in low-level C/C++/Assembly/GPU code. YC W25.",
+        "origin": "American",
         "prior": ""
       }
     ],

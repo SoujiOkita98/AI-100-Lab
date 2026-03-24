@@ -51,10 +51,12 @@ agility-robotics,Series C,2025-03,400.0,,WP Global Partners,SoftBank Group Corp.
 agility-robotics,Undisclosed Round,2025-09,,,[not disclosed],,https://tracxn.com/d/companies/agilityrobotics/__zWyvO8soXb6xhR16FWzvRmbHXslWot5BI_JRbmtdaF0/funding-and-investors,
 ai-work,Seed,2025-06,10.0,,A*; lool ventures,,,
 ai2-robotics,Series B,2025,140.0,1400.0,Baidu; CRRC,,,
-ai21-labs,Seed,2019,9.5,,Undisclosed,,https://www.crunchbase.com/organization/ai21,
-ai21-labs,Series A,2020-07,34.0,,Pitango,,https://www.crunchbase.com/organization/ai21,
-ai21-labs,Series B,2021-07,64.0,,Ahren,,https://www.crunchbase.com/organization/ai21,
-ai21-labs,Series C,2023-08,208.0,,Walden Catalyst; Pitango,,https://www.ai21.com/blog/ai21-completes-208-million-oversubscribed-series-c-round/,
+ai21-labs,Seed,2019-01,9.5,,Undisclosed,,https://www.crunchbase.com/organization/ai21,
+ai21-labs,Venture Round,2020,20.0,,Walden Catalyst,,https://www.crunchbase.com/funding_round/ai21-series-unknown--6ae0f6fc,Undisclosed venture round listed on Crunchbase
+ai21-labs,Series A,2021-11,25.0,,Pitango First; Walden Catalyst,,https://www.crunchbase.com/funding_round/ai21-series-a--27e9dfec,
+ai21-labs,Series B,2022-07,64.0,,Ahren,,https://www.crunchbase.com/funding_round/ai21-series-b--1fc9de3d,
+ai21-labs,Series C,2023-08,155.0,,Walden Catalyst; Pitango,,https://www.ai21.com/blog/series-c-funding/,Initial close at $1.4B valuation
+ai21-labs,Series C Extension,2023-11,53.0,,Intel Capital; Comcast Ventures,,https://www.ai21.com/blog/ai21-completes-208-million-oversubscribed-series-c-round/,Extended Series C from $155M to $208M total
 aiceberg,Seed,2025-03,10.0,,SYN Ventures,,,
 aidoc,Series B,2019,27.0,,Undisclosed,,https://www.aidoc.com/about/news/aidoc-announces-funding/,
 aidoc,Series B Extension,2020,20.0,,Undisclosed,,https://www.aidoc.com/about/news/aidoc-announces-funding/,Brought total to $60M.
@@ -67,7 +69,8 @@ air-inc,Series B,2025-01,35.0,,Avenir Growth Capital,,https://www.alleywatch.com
 airops,Seed,2023,7.0,,Wing Venture Capital,,https://www.airops.com/blog/announcing-airops-7m-seed-fundraise-led-by-wing,
 airops,Series B,2025-11,40.0,,Greylock,,https://www.businesswire.com/news/home/20251110823725/en/AirOps-Raises-$40M-to-Redefine-How-Brands-Compete-in-the-Era-of-AI-Search,
 aiuc,Seed,2025-07,15.0,,Nat Friedman (NFDG); Emergence Capital,,https://fortune.com/2025/07/23/ai-agent-insurance-startup-aiuc-stealth-15-million-seed-nat-friedman/,
-albatross-ai,Seed,2025-11,12.5,,MMC Ventures,,,
+albatross-ai,Pre-Seed,2024-09,3.5,,Redalpine,,https://www.thesaasnews.com/news/albatross-raises-3-million-in-funding,Foundation round
+albatross-ai,Seed,2025-11,12.5,,MMC Ventures,Redalpine; Daphni,,
 aleph-alpha,Seed,2020,5.8,,,,https://www.clay.com/dossier/aleph-alpha-funding,Early-stage funding to begin LLM development.
 aleph-alpha,Series A,2021,25.0,,Earlybird Venture Capital,,https://en.wikipedia.org/wiki/Aleph_Alpha,
 aleph-alpha,Series B,2023-11,500.0,,Schwarz Group; Innovation Park AI (IPAI),,https://sifted.eu/articles/ai-startup-aleph-alpha-raises-500m,Only ~110M EUR was equity; rest was research grants and order commitments.
@@ -228,6 +231,9 @@ bland-ai,Seed,2023-2024,9.0,,Y Combinator,,https://www.crunchbase.com/organizati
 bland-ai,Series A,2024-08,16.0,,Scale Venture Partners,,https://www.crunchbase.com/organization/bland-ai,
 bland-ai,Series B,2025-01,40.0,,Emergence Capital,,https://www.crunchbase.com/organization/bland-ai,
 blocks-diy,Seed,2025-09,10.0,,monday.com; Qumra Capital; Entree Capital,,,
+blue-j,Series A,2018-11,6.7,,Relay Ventures,Mistral Venture Partners; LDV Partners; Business Development Bank of Canada,https://www.crunchbase.com/funding_round/blue-j-legal-series-a--78a3b285,
+blue-j,Series B,2021-08,9.0,,Generation Ventures,Relay Ventures; Mistral Venture Partners; LDV Partners,https://www.businesswire.com/news/home/20210810005199/en/,
+blue-j,Series C,2024-12,,,Ten Coves Capital,,https://www.businesswire.com/news/home/20241217312442/en/,Amount undisclosed
 blue-j,Series D,2025-06,122.0,,Sapphire Ventures; Oak HC/FT,,https://betakit.com/blue-j-series-d-after-doubling-revenue/,
 blue-water-autonomy,Seed,2025-04,14.0,,,,,
 blue-water-autonomy,Series A,2025-08,50.0,,GV; Eclipse Ventures,,,
@@ -635,6 +641,7 @@ gong,Series D,2020-08,200.0,,Coatue,,https://www.gong.io/press/gong-raises-200-m
 gong,Series E,2021-06,250.0,,Franklin Templeton,,https://www.gong.io/press/gong-raises-250-million-in-series-e-funding-at-7-25-billion-valuation,
 goodfire,Series B,2026-02,150.0,,,,,
 govstream-ai,Seed,2025-12,3.6,,47th Street Partners,,,
+gradial,Seed,2024-02,5.4,,Madrona,General Advance; Outsiders Fund; Space Capital,https://www.finsmes.com/2024/02/gradial-raises-5-4m-in-seed-financing.html,
 gradial,Series A,2025-04,13.0,,,,,
 gradial,Series B,2025-12,35.0,,VMG Partners,,,
 gradium,Seed,2025-12,70.0,,FirstMark Capital; Eurazeo; DST Global; Eric Schmidt,,https://techcrunch.com/2025/12/02/paris-based-ai-voice-startup-gradium-nabs-70m-seed/,
@@ -943,12 +950,11 @@ momenta,Series A,2016,5.0,,Blue Lake Capital; Sinovation Ventures; ZhenFund,,htt
 momenta,Series B1,2017-07,46.0,,NIO Capital; Daimler Group,,https://www.momenta.ai/en/article/14.html,
 momenta,Series C,2021-03,500.0,1000.0,SAIC Motor; Toyota; Bosch; Temasek; Yunfeng Capital,,https://www.momenta.ai/en/article/67.html,
 momenta,Series C+,2021-11,500.0,,SAIC Motor; General Motors; Toyota; Bosch; Temasek,,https://techcrunch.com/2021/11/05/momenta-500-million/,
-monarch-tractor,Series A,~2020,20.0,,,,https://www.crunchbase.com/organization/monarch-tractors,"Early round to develop prototype autonomous electric tractor.
-"
-monarch-tractor,Series B,2022-01,61.0,,,CNH Industrial,https://aibusiness.com/verticals/autonomous-smart-tractor-firm-monarch-secures-61m-in-funding,"Strategic investment from CNH Industrial (Case IH, New Holland) validated the platform and provided agricultural distribution channels.
-"
-monarch-tractor,Series C,2024,133.0,,Astanor Ventures; Foxconn Co-GP Fund,At One Ventures; PMV; The Welvaartsfonds,https://globalaginvesting.com/ai-powered-autonomous-tractor-maker-monarch-tractor-secures-133m-in-latest-round/,"Largest agricultural robotics funding round at the time. Brought total raised to over $200M. Foxconn involvement signals potential manufacturing scale-up partnership.
-"
+monarch-tractor,Series A,2021-03,20.0,,,,https://www.crunchbase.com/funding_round/monarch-tractors-series-a--b3ac0f44,Early round to develop prototype autonomous electric tractor.
+monarch-tractor,Series B,2021-11,61.0,,,CNH Industrial,https://www.crunchbase.com/funding_round/monarch-tractors-series-b--8b69a1c5,"Strategic investment from CNH Industrial (Case IH, New Holland) validated the platform and provided agricultural distribution channels."
+monarch-tractor,Series C,2024-07,133.0,,Astanor Ventures; HH-CTBC Partnership,At One Ventures; PMV; The Welvaartsfonds; Foxconn Co-GP Fund,https://www.crunchbase.com/funding_round/monarch-tractors-series-c--d170e85f,Largest agricultural robotics funding round at the time.
+monarch-tractor,Grant,2024-08,2.5,,California Energy Commission,,https://www.crunchbase.com/funding_round/monarch-tractors-grant--949ce9e4,Rural Electrification And Charging Technology (REACT) grant
+monarch-tractor,Venture Round,,3.5,,Undisclosed,,https://www.crunchbase.com/funding_round/monarch-tractors-series-unknown--27880228,Additional venture round listed on Crunchbase; date undisclosed
 monte-carlo-data,Series A,2020-09,16.0,,Accel,,https://www.montecarlodata.com/blog-monte-carlo-raises-series-c-brings-funding-to-101m-to-help-companies-trust-their-data/,
 monte-carlo-data,Series B,2021-02,25.0,,Redpoint Ventures,,https://techcrunch.com/2021/02/09/monte-carlo-raises-25m-for-its-data-observability-service/,
 monte-carlo-data,Series C,2021-08,60.0,,ICONIQ Growth,Salesforce Ventures; Accel; GGV Capital; Redpoint Ventures,https://www.montecarlodata.com/blog-monte-carlo-raises-series-c-brings-funding-to-101m-to-help-companies-trust-their-data/,
@@ -1653,6 +1659,13 @@ xai,Series E,2026-01-06,20000.0,230000.0,Valor Equity Partners; NVIDIA; Fidelity
 "
 xai,SpaceX Acquisition (all-stock merger),2026-02-02,,,SpaceX,,https://fortune.com/2026/02/02/elon-musk-spacex-xai-ipo-trillion/,"Structured as all-stock acquisition: 1 xAI share = 0.1433 SpaceX shares (xAI at $75.46/share, SpaceX at $526.59/share). Largest merger of all time by combined valuation. Announced ahead of anticipated SpaceX IPO. Musk cited plans to build ""orbital data centers"" as rationale."
 xaira-therapeutics,Series A,2024-04,1000.0,,ARCH Venture Partners; Foresite Capital,,https://www.crunchbase.com/funding_round/xaira-therapeutics-series-a--29a6f309,Launched out of stealth with single $1B mega-round.
+xtalpi,Seed,2015,0.3,,Renren,,https://www.crunchbase.com/organization/xtalpi,
+xtalpi,Series A,2015-11,5.0,,Tencent,,https://www.crunchbase.com/funding_round/xtalpi-series-a--b8d87a79,
+xtalpi,Series A (extension),2016-01,1.2,,Undisclosed,,https://www.crunchbase.com/funding_round/xtalpi-series-a--5cdc1988,
+xtalpi,Series B,2018-01,15.0,,Undisclosed,,https://www.crunchbase.com/funding_round/xtalpi-series-b--e0594bbe,
+xtalpi,Series B (extension),2018-10,46.0,,Sequoia Capital China,,https://www.crunchbase.com/funding_round/xtalpi-series-b--40b1faaa,
+xtalpi,Series C,2020-09,319.0,,SoftBank Vision Fund,,https://techcrunch.com/2020/09/28/xtalpi-lands-massive-319m-softbank-led-round-c-to-continue-its-high-tech-drug-discovery/,
+xtalpi,Series D,2021-08,400.0,,SoftBank Vision Fund,,https://globalventuring.com/corporate/xtalpi-executes-400m-series-d-round/,Total pre-IPO private funding ~$786M across 7 rounds
 yasp,Seed,2025-09,5.0,,Capnamic,,https://www.eu-startups.com/2025/09/german-deeptech-startup-yasp/,
 yoneda-labs,Seed,2024-05,4.0,,Undisclosed,,,
 you-com,Seed,2021-11,20.0,,Marc Benioff (Salesforce founder); Breyer Capital; Sound Ventures,,https://en.wikipedia.org/wiki/You.com,
