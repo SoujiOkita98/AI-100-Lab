@@ -9,12 +9,15 @@ status: Active
 total_raised_m: 6.75
 founders:
 - name: Benjamin Bolte
+  origin: American
   role: Co-Founder
   background: Tesla, Meta robotics
 - name: Matthew Freed
+  origin: American
   role: Co-Founder
   background: Lockheed Martin, General Dynamics
 - name: Pawel Budzianowski
+  origin: Polish
   role: Co-Founder
   background: PhD Cambridge, ML researcher
 funding_rounds:

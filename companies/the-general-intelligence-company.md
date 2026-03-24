@@ -9,10 +9,12 @@ total_funding_estimated: ~$10.7M
 status: Private
 founders:
 - name: Andrew Pignanelli
+  origin: American
   role: Co-Founder & CEO
   background: Originally from Salt Lake City, now based in New York. Previously built Velvet, a retrieval-augmented intelligence
     system for private equity firms.
 - name: Abhishyant Khar
+  origin: Indian
   role: Co-Founder
   background: Technical co-founder working on autonomous AI agent systems.
 last_updated: 2026-03-23

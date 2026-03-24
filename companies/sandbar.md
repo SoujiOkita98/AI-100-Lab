@@ -11,6 +11,7 @@ founders:
   role: CEO
   background: Ex-Meta engineer
 - name: Kirak Hong
+  origin: Korean
   role: Co-founder
   background: Ex-Meta engineer
 funding_rounds:

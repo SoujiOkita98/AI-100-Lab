@@ -7,12 +7,15 @@ one_liner: Generative AI for drug discovery — target discovery, antibody desig
 status: active
 founders:
 - name: Dov Gertz
+  origin: Israeli
   role: CEO
   background: Developed ML for novel CRISPR systems, co-published with Nobel laureate Jennifer Doudna
 - name: Iddo Weiner
+  origin: Israeli
   role: CSO
   background: Led 2 drug programs to Phase 2
 - name: Oded Kalev
+  origin: Israeli
   role: CTO
   background: Former cybersecurity AI lead, advised US govt on GenAI
 funding_rounds:

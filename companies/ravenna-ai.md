@@ -12,9 +12,11 @@ employees: null
 status: Private
 founders:
 - name: Taylor Halliday
+  origin: American
   role: Co-Founder
   background: Former Director of Engineering and AI at Zapier. YC 2016 alum (Mesh Studio).
 - name: Kevin Coleman
+  origin: American
   role: Co-Founder
   background: Former go-to-market lead at AWS (4 years). YC 2016 alum (Mesh Studio).
 one_liner: AI-native Slack-first internal help desk platform that automates IT, HR, and ops support ticket handling with AI

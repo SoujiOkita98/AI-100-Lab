@@ -14,7 +14,6 @@ founders:
 - name: Pablo Hansen
   role: Founder
   background: Master's degree in AI at age 19. Founded Keystone at 20. YC S25 batch.
-  origin: ''
 last_updated: 2026-03-24
 confidence: medium
 data_notes: 'Needs verification: funding amount, website. Turned down seven-figure acquisition offer. Clients include Lovable.'

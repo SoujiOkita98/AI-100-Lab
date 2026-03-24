@@ -4,6 +4,7 @@ headquarters: Cupertino, CA, United States
 website: https://aidaptive.com/
 founders:
 - name: Rakesh Yadav
+  origin: Indian
   role: Founder & CEO
   background: "14 years at Google leading the Machine Learning Operations platform development for Google Ads and Google Payments. Former Senior Staff Engineer."
 sector: AI / ML Personalization / E-Commerce / Hospitality

@@ -9,6 +9,7 @@ one_liner: Open-source AI coding agent for VS Code and JetBrains. 750K+ download
 status: active
 founders:
 - name: Sid Sijbrandij
+  origin: Dutch
   role: Co-founder
   background: Co-founder of GitLab
 - name: Scott Breitenother

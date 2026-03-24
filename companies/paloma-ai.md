@@ -16,9 +16,9 @@ founders:
   background: YC S25 batch.
   origin: Chinese
 - name: Alex Avnit
+  origin: Israeli
   role: Co-Founder
   background: YC S25 batch.
-  origin: ''
 - name: Kaiwen Song
   role: Co-Founder
   background: YC S25 batch.

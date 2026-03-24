@@ -9,6 +9,7 @@ status: Active
 total_raised_m: 0.5
 founders:
 - name: Sankeerth Rao Karingula
+  origin: Indian
   role: Founder
   background: Ex-Google Research Scientist
 funding_rounds:

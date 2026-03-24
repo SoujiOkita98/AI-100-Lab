@@ -13,10 +13,12 @@ founders:
   background: Former Google Brain team. PhD in generative AI from ETH Zurich. Master's in CS from EPF Lausanne. Forbes 30
     Under 30. Digital Shaper of Switzerland (3x).
 - name: Kevin Roth
+  origin: German
   role: Co-Founder & COO
   background: Former Google Brain (Berlin) and Microsoft Research (Cambridge). PhD in machine learning from ETH Zurich. ETH
     Medal in Physics.
 - name: Yannic Kilcher
+  origin: Swiss
   role: Co-Founder & CTO
   background: Former Google AI Language. Runs the largest YouTube channel on ML research. Led development of OpenAssistant.
     PhD from ETH Zurich.

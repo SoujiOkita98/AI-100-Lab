@@ -10,12 +10,14 @@ employees: ~50 (estimated)
 status: Private
 founders:
 - name: Jonathan Corbin
+  origin: American
   role: Co-Founder & CEO
   background: Former HubSpot executive. Deep experience in enterprise SaaS and customer experience platforms.
 - name: Sami Shalabi
   role: Co-Founder & CTO
   background: Former Google engineer. Technical expertise in AI systems and enterprise infrastructure.
 - name: Eugene Mann
+  origin: American
   role: Co-Founder & CPO
   background: Former Stripe executive. Product leadership experience across enterprise platforms.
 last_updated: 2026-03-24

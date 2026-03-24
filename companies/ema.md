@@ -9,6 +9,7 @@ one_liner: Universal AI Employee platform — always-available agents for custom
 status: active
 founders:
 - name: Surojit Chatterjee
+  origin: Indian
   role: CEO
   background: Ex-Coinbase CPO, ex-Google VP
 funding_rounds:

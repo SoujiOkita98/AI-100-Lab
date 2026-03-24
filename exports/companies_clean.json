@@ -88,7 +88,7 @@
         "name": "Unknown",
         "role": "Co-Founder & CEO",
         "background": "Computational biology and AI background.",
-        "origin": "Unknown",
+        "origin": "",
         "prior": ""
       }
     ],
@@ -619,7 +619,7 @@
         "name": "Evan Reiser",
         "role": "CEO & Co-Founder",
         "background": "BS in Computer Systems Engineering from Rensselaer Polytechnic Institute. Started career at Eastman Kodak (2003) doing ML R&D for intelligence applications, then S&P Capital IQ as a software engineer (2006). Serial founder: founded Bloomspot (online-to-offline advertising, sold to JP Morgan ~2010), then AdStack (ML-powered ad tech, acquired by TellApart 2013). TellApart was acquired by Twitter in 2015. At Twitter (2015-2018), led product management and ML teams for the advertising business.",
-        "origin": "American.",
+        "origin": "American",
         "prior": ""
       },
       {
@@ -627,7 +627,7 @@
         "name": "Sanjay Jeyakumar",
         "role": "CTO & Co-Founder",
         "background": "BS in EECS from UC Berkeley. MS in Computer Science from Stanford University. Worked at Oracle (2003-2005), PARC intern (2002), then Google (2005-2009) on next-gen Search and Android launch. Founding engineer and architect at TellApart (2009-2015), building personalization systems for large retailers. At Twitter (2015-2018), served as systems architect for distributed data processing and ML systems powering the ads business.",
-        "origin": "Indian-American.",
+        "origin": "Indian-American",
         "prior": ""
       }
     ],
@@ -945,7 +945,7 @@
         "name": "Anshul Gupta",
         "role": "Co-Founder",
         "background": "Stanford AI researcher.",
-        "origin": "Indian (inferred from name)",
+        "origin": "Indian",
         "prior": ""
       }
     ],
@@ -1083,7 +1083,7 @@
         "name": "Sara Hooker",
         "role": "Co-Founder & CEO",
         "background": "Former VP of Research at Cohere. Previously part of Google DeepMind. Leading AI researcher known for work on model efficiency, interpretability, and the \"lottery ticket hypothesis.\" Recognized as one of the most influential researchers in efficient AI.",
-        "origin": "American (uncertain)",
+        "origin": "American",
         "prior": ""
       },
       {
@@ -1134,7 +1134,7 @@
         "name": "Dennis Xu",
         "role": "Co-Founder & CEO",
         "background": "Repeat tech startup founder. Previously co-founded Mem, the AI note-taking app that was one of OpenAI's earliest venture investments. Self-described non-programmer, which informs the company's mission to make software creation accessible to everyone.",
-        "origin": "American (Chinese descent -- inferred)",
+        "origin": "Chinese-American",
         "prior": ""
       },
       {
@@ -1252,7 +1252,7 @@
         "name": "Andrew Jones",
         "role": "Co-Founder",
         "background": "Serial entrepreneur. Previously co-founded Attentive with Brian Long, scaling it to $500M ARR. Brings deep enterprise sales and product experience.",
-        "origin": "American (uncertain)",
+        "origin": "American",
         "prior": ""
       }
     ],
@@ -1328,7 +1328,7 @@
         "name": "David Luan",
         "role": "Co-Founder & former CEO (now at Amazon)",
         "background": "Led Google's large model program. Former head of engineering at OpenAI.",
-        "origin": "Chinese-American (inferred from name)",
+        "origin": "Chinese-American",
         "prior": ""
       },
       {
@@ -1336,7 +1336,7 @@
         "name": "Ashish Vaswani",
         "role": "Co-Founder & former Chief Scientist (left for Essential AI)",
         "background": "Co-author of the Transformer paper ('Attention Is All You Need'). Former Google Brain researcher.",
-        "origin": "Indian (inferred from name)",
+        "origin": "Indian",
         "prior": ""
       },
       {
@@ -1344,7 +1344,7 @@
         "name": "Niki Parmar",
         "role": "Co-Founder & former CTO (left for Essential AI)",
         "background": "Co-author of the Transformer paper. Former Google Brain researcher.",
-        "origin": "Indian (inferred from name)",
+        "origin": "Indian",
         "prior": ""
       }
     ],
@@ -1567,7 +1567,7 @@
         "name": "Spencer Mateega",
         "role": "Co-Founder",
         "background": "Award-winning researcher; interned at Meta (SWE), Google (SWE), Morgan Stanley (IB), Silver Lake (PE)",
-        "origin": "United States",
+        "origin": "American",
         "prior": ""
       },
       {
@@ -1575,7 +1575,7 @@
         "name": "Danny Tang",
         "role": "Co-Founder",
         "background": "Won international Microsoft AI competition; worked at Morgan Stanley (IB), BDT & MSD Partners; Wharton student",
-        "origin": "United States",
+        "origin": "American",
         "prior": ""
       }
     ],
@@ -1618,7 +1618,7 @@
         "name": "Sankeerth Rao Karingula",
         "role": "Founder",
         "background": "Ex-Google Research Scientist",
-        "origin": "",
+        "origin": "Indian",
         "prior": ""
       }
     ],
@@ -1669,7 +1669,7 @@
         "name": "Jonathan Meyers",
         "role": "Co-Founder & CTO",
         "background": "Former Spotify engineer and manager in the Growth and Innovation organization. Led Spotify's Automated Content Marketing team, driving multi-million dollar MAU outcomes. Brings expertise in programmatic content matching and growth engineering.",
-        "origin": "American (uncertain)",
+        "origin": "American",
         "prior": ""
       }
     ],
@@ -1750,7 +1750,7 @@
         "name": "Adi Singh",
         "role": "Co-Founder",
         "background": "YC S25 batch.",
-        "origin": "Indian (inferred from name)",
+        "origin": "Indian",
         "prior": ""
       }
     ],
@@ -1793,7 +1793,7 @@
         "name": "Deng Taihua",
         "role": "Co-Founder, CEO & Chairman",
         "background": "Founded AgiBot in 2023 in Shanghai.",
-        "origin": "Chinese (inferred from name)",
+        "origin": "Chinese",
         "prior": ""
       },
       {
@@ -1801,7 +1801,7 @@
         "name": "Peng Zhihui",
         "role": "Co-Founder & CTO",
         "background": "Prominent Chinese robotics/AI engineer. Well-known tech influencer in China.",
-        "origin": "Chinese (inferred from name)",
+        "origin": "Chinese",
         "prior": ""
       }
     ],
@@ -1998,7 +1998,7 @@
         "name": "Guo Yandong",
         "role": "CEO",
         "background": "Purdue PhD, former chief scientist at XPeng",
-        "origin": "",
+        "origin": "Chinese",
         "prior": ""
       }
     ],
@@ -2304,7 +2304,7 @@
         "name": "Matan Getz",
         "role": "Co-Founder & CEO",
         "background": "IDF Unit 8200 veteran. Deputy CISO at the Israel Defense Forces.",
-        "origin": "Israeli (inferred from name and military background)",
+        "origin": "Israeli",
         "prior": ""
       },
       {
@@ -2312,7 +2312,7 @@
         "name": "Adir Gruss",
         "role": "Co-Founder & CTO",
         "background": "Commander of elite cybersecurity education program in the IDF.",
-        "origin": "Israeli (inferred from name and military background)",
+        "origin": "Israeli",
         "prior": ""
       }
     ],
@@ -2506,7 +2506,7 @@
         "name": "Brandon Wang",
         "role": "Co-Founder & CTO",
         "background": "Thiel Fellow. Previously founded a consumer underwriting business.",
-        "origin": "Chinese-American (inferred from name)",
+        "origin": "Chinese-American",
         "prior": ""
       },
       {
@@ -2557,7 +2557,7 @@
         "name": "Kevin Kahn",
         "role": "Co-Founder & CEO",
         "background": "PhD in applied physics from Imperial College London. MBA from U of Chicago Booth. Previously led ML and recommendation platforms at Amazon Music.",
-        "origin": "American/European (inferred from name and education)",
+        "origin": "American",
         "prior": ""
       },
       {
@@ -2773,7 +2773,7 @@
         "name": "Aaron Wang",
         "role": "Co-Founder & CEO",
         "background": "Former Facebook engineer, ex-quant at hedge fund.",
-        "origin": "Chinese-American (inferred)",
+        "origin": "Chinese-American",
         "prior": ""
       },
       {
@@ -2781,7 +2781,7 @@
         "name": "John Rytel",
         "role": "Co-Founder",
         "background": "Brown University dropout. Technical co-founder.",
-        "origin": "American (inferred)",
+        "origin": "American",
         "prior": ""
       }
     ],
@@ -2835,7 +2835,7 @@
         "name": "Robert Brennan",
         "role": "Co-Founder & CEO",
         "background": "Previously at Google (document summarization). Executive roles at multiple ML/infrastructure startups.",
-        "origin": "American (inferred from name)",
+        "origin": "American",
         "prior": ""
       },
       {
@@ -2851,7 +2851,7 @@
         "name": "Xingyao Wang",
         "role": "Co-Founder & Chief AI Officer",
         "background": "PhD student at University of Illinois Urbana-Champaign. Research on interactive language agents.",
-        "origin": "Chinese (inferred from name)",
+        "origin": "Chinese",
         "prior": ""
       }
     ],
@@ -2929,7 +2929,7 @@
         "name": "Raj Palleti",
         "role": "Co-Founder",
         "background": "Stanford/Berkeley graduate.",
-        "origin": "Indian (inferred from name)",
+        "origin": "Indian",
         "prior": ""
       },
       {
@@ -3142,7 +3142,7 @@
         "name": "Vikesh Khanna",
         "role": "Co-Founder & CTO",
         "background": "Stanford CS graduate. Previously at Dropbox (large-scale data infrastructure).",
-        "origin": "Indian (inferred from name)",
+        "origin": "Indian",
         "prior": ""
       }
     ],
@@ -3185,7 +3185,7 @@
         "name": "Yann LeCun",
         "role": "Chairman",
         "background": "Turing Award winner (2018) for pioneering work on convolutional neural networks. Former VP and Chief AI Scientist at Meta (2013-2025). PhD from Sorbonne. Professor at NYU. Invented LeNet, foundational to modern deep learning.",
-        "origin": "French. Born in Paris. Educated at ESIEE and Sorbonne. Moved to the US in the 1980s, held positions at Bell Labs and NYU.",
+        "origin": "American",
         "prior": ""
       },
       {
@@ -3193,7 +3193,7 @@
         "name": "Alex LeBrun",
         "role": "CEO",
         "background": "Former Meta engineer. Founded Nabla, a digital health AI company (now chairman of Nabla). Serial entrepreneur with deep experience in NLP and conversational AI.",
-        "origin": "French.",
+        "origin": "French",
         "prior": ""
       }
     ],
@@ -3244,7 +3244,7 @@
         "name": "John Xing",
         "role": "Co-Founder & CTO",
         "background": "Technical co-founder.",
-        "origin": "Chinese-American (inferred)",
+        "origin": "Chinese-American",
         "prior": ""
       }
     ],
@@ -3298,7 +3298,7 @@
         "name": "Peter Wang",
         "role": "Co-Founder & Chief AI/Innovation Officer",
         "background": "15+ years in software design across 3D graphics, geophysics, financial risk modeling, and medical imaging. Previously co-created Bokeh visualization library. Continues to lead Anaconda's AI and innovation strategy.",
-        "origin": "American (Chinese descent -- inferred)",
+        "origin": "Chinese-American",
         "prior": ""
       },
       {
@@ -3382,7 +3382,7 @@
         "name": "Palmer Luckey",
         "role": "Founder",
         "background": "Founded Oculus VR at age 19; sold to Facebook for $2.3B in 2014. Self-taught hardware engineer; attended community college and CSU Long Beach (did not graduate). Built VR headset prototypes starting at age 16. Forbes net worth ~$3.5B (Feb 2026).",
-        "origin": "White American (English ancestry), born in Long Beach, CA",
+        "origin": "American",
         "prior": ""
       },
       {
@@ -3545,7 +3545,7 @@
         "name": "Ty Wang",
         "role": "Co-Founder & CEO",
         "background": "Former Palantir deployment team. Y Combinator W20.",
-        "origin": "Chinese-American (inferred from name)",
+        "origin": "Chinese-American",
         "prior": ""
       },
       {
@@ -3553,7 +3553,7 @@
         "name": "Anirban Gangopadhyay",
         "role": "Co-Founder & CTO",
         "background": "Former Palantir machine learning team.",
-        "origin": "Indian (inferred from name)",
+        "origin": "Indian",
         "prior": ""
       }
     ],
@@ -3815,7 +3815,7 @@
         "name": "Dario Amodei",
         "role": "CEO",
         "background": "PhD in biophysics from Princeton. VP of Research at OpenAI, where he led development of GPT-2 and GPT-3 and co-invented RLHF. Previously at Baidu and Google.",
-        "origin": "Italian-American and Jewish-American. Father (Riccardo Amodei) from Massa Marittima, Tuscany; mother (Elena Engel) Jewish-American from Chicago. Grew up in San Francisco.",
+        "origin": "American",
         "prior": ""
       },
       {
@@ -3823,7 +3823,7 @@
         "name": "Daniela Amodei",
         "role": "President",
         "background": "BA in English Literature from UC Santa Cruz. Early employee at Stripe (2013). VP of Safety & Policy at OpenAI. Background in global health and politics before tech.",
-        "origin": "Italian-American and Jewish-American (same family as Dario).",
+        "origin": "American",
         "prior": ""
       },
       {
@@ -3831,7 +3831,7 @@
         "name": "Tom Brown",
         "role": "Co-Founder",
         "background": "M.Eng. in Computer Science and Brain & Cognitive Sciences from MIT. Led GPT-3 engineering at OpenAI. Previously at Google Brain. Co-founded YC-backed startup Grouper.",
-        "origin": "American (limited public info on ethnic background).",
+        "origin": "American",
         "prior": ""
       },
       {
@@ -3839,7 +3839,7 @@
         "name": "Jack Clark",
         "role": "Co-Founder, Head of Policy",
         "background": "Attended University of East Anglia. Former tech journalist at Bloomberg BusinessWeek and The Register. Policy Director at OpenAI.",
-        "origin": "American. Educated partly in the UK.",
+        "origin": "American. Educated partly in the UK",
         "prior": ""
       },
       {
@@ -3847,7 +3847,7 @@
         "name": "Jared Kaplan",
         "role": "Co-Founder, Chief Science Officer",
         "background": "PhD in physics from Harvard (advised by Nima Arkani-Hamed). Associate professor of physics at Johns Hopkins. Co-authored the landmark 'Scaling Laws for Neural Language Models' paper at OpenAI.",
-        "origin": "American.",
+        "origin": "American",
         "prior": ""
       },
       {
@@ -3855,7 +3855,7 @@
         "name": "Sam McCandlish",
         "role": "Co-Founder, Chief Architect",
         "background": "PhD in Theoretical Physics from Stanford. Math and Physics from Brandeis. Postdoctoral fellow at Boston University. Research team lead at OpenAI, instrumental in GPT-3 development.",
-        "origin": "American.",
+        "origin": "American",
         "prior": ""
       },
       {
@@ -3863,7 +3863,7 @@
         "name": "Christopher Olah",
         "role": "Co-Founder, Research Director",
         "background": "Canadian. Left university at 18 without a degree. Thiel Fellow. Pioneered neural network interpretability research at Google Brain and OpenAI. Created influential blog (colah.github.io) on understanding neural networks.",
-        "origin": "Canadian.",
+        "origin": "Canadian",
         "prior": ""
       }
     ],
@@ -4016,7 +4016,7 @@
         "name": "Will Wilson",
         "role": "Co-Founder & CEO",
         "background": "Previously at FoundationDB (deterministic simulation testing), Apple, and Google (distributed systems).",
-        "origin": "American (inferred from name)",
+        "origin": "American",
         "prior": ""
       },
       {
@@ -4024,7 +4024,7 @@
         "name": "Dave Scherer",
         "role": "Co-Founder",
         "background": "Co-founded FoundationDB in 2009, served as its principal architect.",
-        "origin": "American (inferred from name)",
+        "origin": "American",
         "prior": ""
       }
     ],
@@ -4156,7 +4156,7 @@
         "name": "Michael Truell",
         "role": "Co-Founder & CEO",
         "background": "MIT CS Class of 2022. Neo Scholar.",
-        "origin": "American (inferred from name)",
+        "origin": "American",
         "prior": ""
       },
       {
@@ -4345,7 +4345,7 @@
         "name": "Linden Li",
         "role": "Co-Founder",
         "background": "Former OpenAI researcher who worked on AI training infrastructure. Expertise in compute optimization and model training at scale.",
-        "origin": "American (Chinese descent -- inferred)",
+        "origin": "Chinese-American",
         "prior": ""
       }
     ],
@@ -4524,7 +4524,7 @@
         "name": "Nicholas Paine",
         "role": "Co-Founder & CTO",
         "background": "UT Austin robotics researcher.",
-        "origin": "American (inferred from name)",
+        "origin": "American",
         "prior": ""
       },
       {
@@ -4540,7 +4540,7 @@
         "name": "Bill Welch",
         "role": "Co-Founder & Mentor",
         "background": "Retired Air Force General.",
-        "origin": "American (inferred from name)",
+        "origin": "American",
         "prior": ""
       }
     ],
@@ -4721,7 +4721,7 @@
         "name": "Unknown",
         "role": "Co-Founder",
         "background": "YC S25 batch.",
-        "origin": "Unknown",
+        "origin": "",
         "prior": ""
       }
     ],
@@ -4764,7 +4764,7 @@
         "name": "Aaron Wang",
         "role": "Co-Founder",
         "background": "Quant finance, Facebook AI",
-        "origin": "",
+        "origin": "Chinese-American",
         "prior": ""
       },
       {
@@ -4866,7 +4866,7 @@
         "name": "Alex Salazar",
         "role": "Co-Founder & CEO",
         "background": "Former Okta executive.",
-        "origin": "American (inferred)",
+        "origin": "American",
         "prior": ""
       },
       {
@@ -4874,7 +4874,7 @@
         "name": "Sam Partee",
         "role": "Co-Founder & CTO",
         "background": "Former Redis engineer.",
-        "origin": "American (inferred)",
+        "origin": "American",
         "prior": ""
       }
     ],
@@ -5054,7 +5054,7 @@
         "name": "Unknown",
         "role": "Co-Founder & CEO",
         "background": "Legal and AI background.",
-        "origin": "Unknown",
+        "origin": "",
         "prior": ""
       }
     ],
@@ -5144,7 +5144,7 @@
         "name": "Aparna Dhinakaran",
         "role": "Co-Founder & Chief Product Officer",
         "background": "BS EECS UC Berkeley (published research with Berkeley AI Research group). On leave from PhD in Computer Vision at Cornell. Former ML engineer at Uber (built Michelangelo ML platform), Apple, and TubeMogul (acquired by Adobe). Founded MonitorML (YC-backed). Forbes 30 Under 30.",
-        "origin": "Indian-American (born in Chennai; parents immigrated to US when she was 6 months old)",
+        "origin": "Indian-American",
         "prior": ""
       },
       {
@@ -5228,7 +5228,7 @@
         "name": "Dan Wright",
         "role": "Co-Founder & CEO",
         "background": "Former CEO of DataRobot. Former COO of AppDynamics (through $3.7B Cisco acquisition).",
-        "origin": "American (inferred from name)",
+        "origin": "American",
         "prior": ""
       },
       {
@@ -5236,7 +5236,7 @@
         "name": "Jon Runyan",
         "role": "Co-Founder & COO",
         "background": "",
-        "origin": "American (inferred from name)",
+        "origin": "American",
         "prior": ""
       }
     ],
@@ -5290,7 +5290,7 @@
         "name": "Kevin Mandia",
         "role": "Founder & CEO",
         "background": "Founded Mandiant in 2004 (sold to Google for $5.4B in 2022). Iconic cybersecurity figure.",
-        "origin": "American (inferred from name)",
+        "origin": "American",
         "prior": ""
       },
       {
@@ -5298,7 +5298,7 @@
         "name": "Travis Lanham",
         "role": "Co-Founder",
         "background": "Former Google Cloud Security principal engineer.",
-        "origin": "American (inferred from name)",
+        "origin": "American",
         "prior": ""
       },
       {
@@ -5314,7 +5314,7 @@
         "name": "David Slater",
         "role": "Co-Founder",
         "background": "Former Google SecOps engineer.",
-        "origin": "American (inferred from name)",
+        "origin": "American",
         "prior": ""
       }
     ],
@@ -5357,7 +5357,7 @@
         "name": "Will Blyth",
         "role": "Co-Founder & CEO",
         "background": "Former British Army Officer. Previously at Palantir and Helsing (AI defence).",
-        "origin": "British (inferred from name and military background)",
+        "origin": "British",
         "prior": ""
       },
       {
@@ -5408,7 +5408,7 @@
         "name": "James K He",
         "role": "Co-Founder & CEO",
         "background": "Cambridge psychologist and data scientist. Led seminal paper studying how 33,000 AI chatbots interact.",
-        "origin": "Chinese/British (inferred from name and Cambridge background)",
+        "origin": "Chinese-British",
         "prior": ""
       },
       {
@@ -5467,7 +5467,7 @@
         "name": "Sam Stallings",
         "role": "Co-Founder",
         "background": "Former IBM product manager.",
-        "origin": "American (inferred from name)",
+        "origin": "American",
         "prior": ""
       }
     ],
@@ -5549,7 +5549,7 @@
         "name": "Unknown",
         "role": "Co-Founder & CEO",
         "background": "Robotics and data platform background.",
-        "origin": "Unknown",
+        "origin": "",
         "prior": ""
       }
     ],
@@ -5755,7 +5755,7 @@
         "name": "Jeff Liu",
         "role": "Co-Founder & CEO",
         "background": "Healthcare AI entrepreneur. Built Assort Health from the insight that healthcare call centers are overwhelmed and patients face unacceptable wait times.",
-        "origin": "American (Chinese descent -- inferred)",
+        "origin": "Chinese-American",
         "prior": ""
       },
       {
@@ -5763,7 +5763,7 @@
         "name": "Jon Wang",
         "role": "Co-Founder & CTO",
         "background": "Technical co-founder leading AI and engineering. Built the voice AI and agentic systems powering the platform.",
-        "origin": "American (Chinese descent -- inferred)",
+        "origin": "Chinese-American",
         "prior": ""
       }
     ],
@@ -5879,7 +5879,7 @@
         "name": "Pete Grindrod",
         "role": "Founder & CEO",
         "background": "Professor of mathematics at University of Oxford. Founding trustee of the Alan Turing Institute. CBE for services to mathematics (2005). Previously founded Numbercraft (acquired 2003).",
-        "origin": "British (inferred from name and Oxford affiliation)",
+        "origin": "British",
         "prior": ""
       }
     ],
@@ -6305,7 +6305,7 @@
         "name": "Weian Zhao",
         "role": "Co-Founder & CEO",
         "background": "Former tenured professor at UC Irvine. Trained at Harvard Medical School, MIT, McMaster University, and Shandong University.",
-        "origin": "Chinese (inferred from name and education)",
+        "origin": "Chinese",
         "prior": ""
       },
       {
@@ -6407,7 +6407,7 @@
         "name": "Ganesh Padmanabhan",
         "role": "Co-Founder & CEO",
         "background": "Healthcare AI entrepreneur.",
-        "origin": "Indian (inferred from name)",
+        "origin": "Indian",
         "prior": ""
       },
       {
@@ -6415,7 +6415,7 @@
         "name": "Kris Nair",
         "role": "Co-Founder",
         "background": "Healthcare technology background.",
-        "origin": "Indian (inferred from name)",
+        "origin": "Indian",
         "prior": ""
       }
     ],
@@ -6458,7 +6458,7 @@
         "name": "Han Ji-hyeong",
         "role": "CEO",
         "background": "Former Hyundai Motor Group engineer. Left Hyundai with three colleagues to found Autonomous A2Z in 2018.",
-        "origin": "Korean.",
+        "origin": "Korean",
         "prior": ""
       }
     ],
@@ -6523,7 +6523,7 @@
         "name": "Unknown",
         "role": "Co-Founder",
         "background": "YC S25 batch.",
-        "origin": "Unknown",
+        "origin": "",
         "prior": ""
       }
     ],
@@ -6795,7 +6795,7 @@
         "name": "Carina Hong",
         "role": "CEO & Founder",
         "background": "25-year-old Stanford University PhD student in mathematics. MIT graduate. Described as a 'math wizard.' Research focus on formal verification and mathematical proof systems.",
-        "origin": "American (of Asian descent, based on name and limited public info).",
+        "origin": "American",
         "prior": ""
       }
     ],
@@ -6922,7 +6922,7 @@
         "name": "Dirk Englund",
         "role": "Co-founder",
         "background": "MIT Professor of Electrical Engineering and Computer Science. Expert in quantum photonics and nanophotonics.",
-        "origin": "American (inferred).",
+        "origin": "American",
         "prior": ""
       },
       {
@@ -6930,7 +6930,7 @@
         "name": "Frank Koppens",
         "role": "Co-founder",
         "background": "Professor at the Institute of Photonic Sciences (ICFO) in Barcelona. Leading researcher in photonics and 2D materials.",
-        "origin": "Dutch (inferred).",
+        "origin": "Dutch (inferred)",
         "prior": ""
       },
       {
@@ -6938,7 +6938,7 @@
         "name": "Joyce Poon",
         "role": "Co-founder",
         "background": "Professor of Electrical and Computer Engineering at the University of Toronto. Expert in silicon photonics.",
-        "origin": "Canadian (inferred).",
+        "origin": "Canadian (inferred)",
         "prior": ""
       },
       {
@@ -6946,7 +6946,7 @@
         "name": "Marin Soljacic",
         "role": "Co-founder",
         "background": "Professor of Physics at MIT and MacArthur Fellow. Pioneer in photonic crystals and wireless power transfer.",
-        "origin": "Croatian-American.",
+        "origin": "Croatian-American",
         "prior": ""
       }
     ],
@@ -6989,7 +6989,7 @@
         "name": "Mark Wade",
         "role": "Co-Founder & CEO (appointed CEO Dec 2023, formerly CTO)",
         "background": "Invented optical I/O technology at MIT and UC Berkeley (2010-2015). Pioneer in silicon photonics.",
-        "origin": "American (inferred from name)",
+        "origin": "American",
         "prior": ""
       },
       {
@@ -6997,7 +6997,7 @@
         "name": "Alex Wright-Gladstein",
         "role": "Co-Founder & former CEO",
         "background": "MIT spinout co-founder.",
-        "origin": "American (inferred from name)",
+        "origin": "American",
         "prior": ""
       },
       {
@@ -7013,7 +7013,7 @@
         "name": "Chen Sun",
         "role": "Co-Founder",
         "background": "Optical I/O researcher at MIT/UC Berkeley.",
-        "origin": "Chinese (inferred from name)",
+        "origin": "Chinese",
         "prior": ""
       }
     ],
@@ -7099,7 +7099,7 @@
         "name": "Greg Mark",
         "role": "Co-Founder & CEO",
         "background": "Co-founded Markforged in 2013 (industrial 3D printing, SPAC'd at $2.1B peak valuation). Built Eiger cloud CAD platform used by 50K+ engineers.",
-        "origin": "American (inferred from name)",
+        "origin": "American",
         "prior": ""
       },
       {
@@ -7215,7 +7215,7 @@
         "name": "Pascal Wieler",
         "role": "Co-Founder",
         "background": "Carnegie Mellon robotics, Mercedes-Benz Research",
-        "origin": "",
+        "origin": "German",
         "prior": ""
       },
       {
@@ -7266,7 +7266,7 @@
         "name": "Tuhin Srivastava",
         "role": "Co-Founder & CEO",
         "background": "Former investment banker at Macquarie Group. ML roles at Skulpt and Gumroad.",
-        "origin": "Indian (inferred from name)",
+        "origin": "Indian",
         "prior": ""
       },
       {
@@ -7453,7 +7453,7 @@
         "name": "Unknown",
         "role": "Co-Founder & CEO",
         "background": "Healthcare and AI background.",
-        "origin": "Unknown",
+        "origin": "",
         "prior": ""
       }
     ],
@@ -7803,7 +7803,7 @@
         "name": "Zhang Wen",
         "role": "Co-Founder",
         "background": "Former president of SenseTime.",
-        "origin": "Chinese (inferred from name)",
+        "origin": "Chinese",
         "prior": ""
       },
       {
@@ -7811,7 +7811,7 @@
         "name": "Jiao Guofang",
         "role": "Co-Founder",
         "background": "Former Huawei executive.",
-        "origin": "Chinese (inferred from name)",
+        "origin": "Chinese",
         "prior": ""
       }
     ],
@@ -8361,7 +8361,7 @@
         "name": "Michael Ding",
         "role": "CEO",
         "background": "Stanford-trained engineer",
-        "origin": "",
+        "origin": "Chinese-American",
         "prior": ""
       }
     ],
@@ -8531,7 +8531,7 @@
         "name": "Noah Pacik-Nelson",
         "role": "Co-Founder",
         "background": "YC S25 batch.",
-        "origin": "Unknown",
+        "origin": "",
         "prior": ""
       },
       {
@@ -8539,7 +8539,7 @@
         "name": "Chris Markus",
         "role": "Co-Founder",
         "background": "YC S25 batch.",
-        "origin": "Unknown",
+        "origin": "",
         "prior": ""
       }
     ],
@@ -8709,7 +8709,7 @@
         "name": "Will Lawrence",
         "role": "Co-Founder & CEO",
         "background": "Former product lead for Facebook's AML platform. Built core compliance infrastructure at Paxos. YC alum.",
-        "origin": "American (inferred from name)",
+        "origin": "American",
         "prior": ""
       },
       {
@@ -8717,7 +8717,7 @@
         "name": "Alex Jin",
         "role": "Co-Founder & CTO",
         "background": "Technical co-founder.",
-        "origin": "Chinese-American (inferred from name)",
+        "origin": "Chinese-American",
         "prior": ""
       }
     ],
@@ -8814,7 +8814,7 @@
         "name": "Adam Vincent",
         "role": "Founder & CEO",
         "background": "Previous founder of ThreatConnect (cybersecurity intelligence and automation).",
-        "origin": "American (inferred from name)",
+        "origin": "American",
         "prior": ""
       }
     ],
@@ -9024,7 +9024,7 @@
         "name": "Paul Klein IV",
         "role": "Founder & CEO (solo founder)",
         "background": "Former CTO and co-founder of StreamClub (virtual event platform acquired by Mux in 2021). Spent three years as a software engineer at Twilio during its IPO era. After acquisition, served as Director of Self-Service and Engineering Manager at Mux. 3x founder. Applied to 500+ investors before closing seed round.",
-        "origin": "American (uncertain)",
+        "origin": "American",
         "prior": ""
       }
     ],
@@ -9148,7 +9148,7 @@
         "name": "Roy Danon",
         "role": "CEO",
         "background": "Talpiot program graduate",
-        "origin": "",
+        "origin": "Israeli",
         "prior": ""
       }
     ],
@@ -9254,7 +9254,7 @@
         "name": "Jiani Zeng",
         "role": "Co-Founder",
         "background": "Forbes 30 Under 30. Met Deng at MIT Media Lab. Named to Inc. 2025 Female Founders 500 list. Leads design philosophy and has driven triple-digit growth, global expansion, and the Series B funding round.",
-        "origin": "Chinese (inferred)",
+        "origin": "Chinese",
         "prior": ""
       }
     ],
@@ -9370,7 +9370,7 @@
         "name": "Misha Herscu",
         "role": "Co-Founder & CEO",
         "background": "Previously founded McCoy Medical Technologies (ML for radiology, sold to TeraRecon 2017). Former operator-in-residence at Primary Venture Partners.",
-        "origin": "American (inferred)",
+        "origin": "American",
         "prior": ""
       },
       {
@@ -9378,7 +9378,7 @@
         "name": "Skyler Thomas",
         "role": "Co-Founder & CTO",
         "background": "Technical co-founder. Engineering leadership.",
-        "origin": "American (inferred)",
+        "origin": "American",
         "prior": ""
       }
     ],
@@ -9483,7 +9483,7 @@
         "name": "Kun Qian",
         "role": "CEO",
         "background": "Former product leader at AWS focused on contact center solutions; built and scaled product lines to tens of millions in ARR",
-        "origin": "China",
+        "origin": "Chinese",
         "prior": ""
       },
       {
@@ -9491,7 +9491,7 @@
         "name": "Robertson Taylor",
         "role": "CTO",
         "background": "Specializes in multimodal search for video and audio; helped companies like Walmart and Etsy fine-tune embedding models",
-        "origin": "United States",
+        "origin": "American",
         "prior": ""
       }
     ],
@@ -9607,7 +9607,7 @@
         "name": "Chen Tianshi",
         "role": "Co-Founder & CEO",
         "background": "Chinese Academy of Sciences researcher. Pioneer in AI chip architecture.",
-        "origin": "Chinese (inferred from name)",
+        "origin": "Chinese",
         "prior": ""
       },
       {
@@ -9615,7 +9615,7 @@
         "name": "Chen Yunji",
         "role": "Co-Founder",
         "background": "Chinese Academy of Sciences researcher. Brother of Chen Tianshi.",
-        "origin": "Chinese (inferred from name)",
+        "origin": "Chinese",
         "prior": ""
       }
     ],
@@ -9680,7 +9680,7 @@
         "name": "John Glasgow",
         "role": "Co-Founder & CEO/CFO",
         "background": "Former VP at Bill.com. Previously at Invoice2Go (acquired by Bill.com for $625M), Adobe, Fidelity, Union Square Advisors.",
-        "origin": "American (inferred from name)",
+        "origin": "American",
         "prior": ""
       },
       {
@@ -9739,7 +9739,7 @@
         "name": "Adam Reis",
         "role": "Co-Founder",
         "background": "Former Software Engineer at Lyft, working on self-driving projects. Technical co-founder.",
-        "origin": "American (uncertain)",
+        "origin": "American",
         "prior": ""
       },
       {
@@ -9747,7 +9747,7 @@
         "name": "Doug Proctor",
         "role": "Co-Founder & COO",
         "background": "Operations-focused co-founder leading company operations and scaling.",
-        "origin": "American (uncertain)",
+        "origin": "American",
         "prior": ""
       }
     ],
@@ -9885,7 +9885,7 @@
         "name": "Unknown",
         "role": "Co-Founder & CEO",
         "background": "2x YC alumni. Sales technology background.",
-        "origin": "Unknown",
+        "origin": "",
         "prior": ""
       }
     ],
@@ -9928,7 +9928,7 @@
         "name": "Matan Hoffmann",
         "role": "CEO & Co-founder",
         "background": "Former IDF Special Forces. Healthcare technology entrepreneur.",
-        "origin": "Israeli.",
+        "origin": "Israeli",
         "prior": ""
       },
       {
@@ -9936,7 +9936,7 @@
         "name": "Eyal Shulman",
         "role": "CTO & Co-founder",
         "background": "Former Unit 8200 (IDF elite intelligence and cybersecurity division). Engineering and cybersecurity background.",
-        "origin": "Israeli.",
+        "origin": "Israeli",
         "prior": ""
       }
     ],
@@ -9979,7 +9979,7 @@
         "name": "Brian Weigand",
         "role": "Co-Founder",
         "background": "YC S25 batch.",
-        "origin": "Unknown",
+        "origin": "",
         "prior": ""
       },
       {
@@ -9987,7 +9987,7 @@
         "name": "Jonathan Zero",
         "role": "Co-Founder",
         "background": "YC S25 batch.",
-        "origin": "Unknown",
+        "origin": "",
         "prior": ""
       },
       {
@@ -9995,7 +9995,7 @@
         "name": "John Paul Mussalli",
         "role": "Co-Founder",
         "background": "YC S25 batch.",
-        "origin": "Unknown",
+        "origin": "",
         "prior": ""
       }
     ],
@@ -10124,7 +10124,7 @@
         "name": "Lukas Haffer",
         "role": "Co-Founder & CEO",
         "background": "Stanford GSB MBA (class of 2023). Former Chief of Staff for Europe at Avaloq, one of the world's leading core banking system providers. Four years of experience deploying core banking systems and outsourcing banking processes. Deep understanding of banking infrastructure.",
-        "origin": "European (uncertain -- possibly German, inferred from name)",
+        "origin": "German",
         "prior": ""
       },
       {
@@ -10186,7 +10186,7 @@
         "name": "Unknown",
         "role": "Co-Founder & CEO",
         "background": "AI safety and security background.",
-        "origin": "Unknown",
+        "origin": "",
         "prior": ""
       }
     ],
@@ -10229,7 +10229,7 @@
         "name": "Unknown",
         "role": "Co-Founder & CEO",
         "background": "Cloud infrastructure and AI background.",
-        "origin": "Unknown",
+        "origin": "",
         "prior": ""
       }
     ],
@@ -10280,7 +10280,7 @@
         "name": "Matt Venables",
         "role": "Co-Founder",
         "background": "Circle alumni who helped build USDC. Brings experience in financial product development and regulatory compliance in digital payments.",
-        "origin": "American (uncertain)",
+        "origin": "American",
         "prior": ""
       }
     ],
@@ -10472,7 +10472,7 @@
         "name": "Anna Patterson",
         "role": "Founder & CEO",
         "background": "Former VP of Engineering at Google Research. Founded Google's Gradient Ventures. Two exits to Google. Research scientist at Stanford with John McCarthy.",
-        "origin": "American (inferred from name)",
+        "origin": "American",
         "prior": ""
       },
       {
@@ -10480,7 +10480,7 @@
         "name": "Tom Costello",
         "role": "Co-Founder & Chief Scientist",
         "background": "PhD in AI from Stanford (advised by John McCarthy). 20+ years in AI research.",
-        "origin": "American (inferred from name)",
+        "origin": "American",
         "prior": ""
       }
     ],
@@ -10523,7 +10523,7 @@
         "name": "Andrew Feldman",
         "role": "Co-Founder & CEO",
         "background": "Previously co-founded SeaMicro (sold to AMD for $334M). Stanford BA Economics/PoliSci, Stanford MBA. Former VP at Force10 Networks (sold to Dell for $800M).",
-        "origin": "American (inferred from name)",
+        "origin": "American",
         "prior": ""
       },
       {
@@ -10531,7 +10531,7 @@
         "name": "Gary Lauterbach",
         "role": "Co-Founder",
         "background": "Co-founded SeaMicro with Feldman.",
-        "origin": "American (inferred from name)",
+        "origin": "American",
         "prior": ""
       },
       {
@@ -10539,7 +10539,7 @@
         "name": "Sean Lie",
         "role": "Co-Founder",
         "background": "Previously at SeaMicro.",
-        "origin": "Chinese-American (inferred from name)",
+        "origin": "Chinese-American",
         "prior": ""
       },
       {
@@ -10555,7 +10555,7 @@
         "name": "Michael James",
         "role": "Co-Founder",
         "background": "Previously at SeaMicro.",
-        "origin": "American (inferred from name)",
+        "origin": "American",
         "prior": ""
       }
     ],
@@ -10686,7 +10686,7 @@
         "name": "Gurveer Singh",
         "role": "Founder",
         "background": "YC S25 batch.",
-        "origin": "Indian (inferred from name)",
+        "origin": "Indian",
         "prior": ""
       }
     ],
@@ -10729,7 +10729,7 @@
         "name": "Joshua Meier",
         "role": "Co-Founder & CEO",
         "background": "Pioneered frontier AI at OpenAI and Meta (co-led ESM1 transformer protein-language model). Former AI division lead at Absci.",
-        "origin": "American (inferred from name)",
+        "origin": "American",
         "prior": ""
       },
       {
@@ -10745,7 +10745,7 @@
         "name": "Matthew McPartlon",
         "role": "Co-Founder",
         "background": "AI researcher. Previously at Absci working on de novo antibody design.",
-        "origin": "American (inferred from name)",
+        "origin": "American",
         "prior": ""
       },
       {
@@ -10826,7 +10826,7 @@
         "name": "Kim Lewandowski",
         "role": "Co-Founder & CPO",
         "background": "Former Google product manager. Leads product vision and development of open-source security solutions at Chainguard.",
-        "origin": "American (uncertain)",
+        "origin": "American",
         "prior": ""
       },
       {
@@ -10834,7 +10834,7 @@
         "name": "Matt Moore",
         "role": "Co-Founder & CTO",
         "background": "Technical co-founder leading engineering. Previously at Google.",
-        "origin": "Uncertain",
+        "origin": "",
         "prior": ""
       },
       {
@@ -10850,7 +10850,7 @@
         "name": "Scott Nichols",
         "role": "Co-Founder",
         "background": "Previously at Google. Open-source contributor.",
-        "origin": "Uncertain",
+        "origin": "",
         "prior": ""
       }
     ],
@@ -10937,7 +10937,7 @@
         "name": "Marc Freed-Finnegan",
         "role": "Co-Founder & CEO",
         "background": "Former Google (helped launch Google Wallet). Founded Index (acquired by Stripe, became Stripe Terminal).",
-        "origin": "",
+        "origin": "American",
         "prior": ""
       },
       {
@@ -11225,7 +11225,7 @@
         "name": "Laksh Aithani",
         "role": "Co-Founder & former CEO (stepped down April 2025)",
         "background": "Previously worked on ML platform at Exscientia.",
-        "origin": "Indian (inferred from name)",
+        "origin": "Indian",
         "prior": ""
       },
       {
@@ -11233,7 +11233,7 @@
         "name": "David Baker",
         "role": "Co-Founder",
         "background": "Head of the Institute of Protein Design at University of Washington. 2024 Nobel Prize in Chemistry laureate.",
-        "origin": "American (inferred from name)",
+        "origin": "American",
         "prior": ""
       }
     ],
@@ -11451,7 +11451,7 @@
         "name": "Unknown",
         "role": "Co-Founder & CEO",
         "background": "Enterprise security and AI background.",
-        "origin": "Unknown",
+        "origin": "",
         "prior": ""
       }
     ],
@@ -11494,7 +11494,7 @@
         "name": "Patrick Thompson",
         "role": "Co-Founder & CEO",
         "background": "Previously co-founded Iteratively (acquired by Amplitude in 2021).",
-        "origin": "American (inferred)",
+        "origin": "American",
         "prior": ""
       },
       {
@@ -11510,7 +11510,7 @@
         "name": "Austin Hay",
         "role": "Co-Founder",
         "background": "Former Iteratively customer turned co-founder. Go-to-market and sales expertise.",
-        "origin": "American (inferred)",
+        "origin": "American",
         "prior": ""
       }
     ],
@@ -11564,7 +11564,7 @@
         "name": "Nir Minerbi",
         "role": "Co-Founder & CEO",
         "background": "IDF Talpiot, Unit 8200, and Rafael alumnus.",
-        "origin": "Israeli (inferred from name and military background)",
+        "origin": "Israeli",
         "prior": ""
       },
       {
@@ -11662,7 +11662,7 @@
         "name": "Curtis Northcutt",
         "role": "Co-Founder & CEO (now Director AI Research at Handshake)",
         "background": "MIT PhD in Machine Learning.",
-        "origin": "American (inferred from name)",
+        "origin": "American",
         "prior": ""
       },
       {
@@ -11786,7 +11786,7 @@
         "name": "Sid Rajaram",
         "role": "Co-Founder",
         "background": "YC S25 batch.",
-        "origin": "Indian (inferred from name)",
+        "origin": "Indian",
         "prior": ""
       },
       {
@@ -11794,7 +11794,7 @@
         "name": "Arnav Verma",
         "role": "Co-Founder",
         "background": "YC S25 batch.",
-        "origin": "Indian (inferred from name)",
+        "origin": "Indian",
         "prior": ""
       },
       {
@@ -11802,7 +11802,7 @@
         "name": "Rithvik Chuppala",
         "role": "Co-Founder",
         "background": "YC S25 batch.",
-        "origin": "Indian (inferred from name)",
+        "origin": "Indian",
         "prior": ""
       }
     ],
@@ -11845,7 +11845,7 @@
         "name": "Cody Coleman",
         "role": "Co-Founder & CEO",
         "background": "PhD in CS from Stanford. Co-creator of DAWNBench and MLPerf. MIT MEng/BS in EECS.",
-        "origin": "American (inferred from name)",
+        "origin": "American",
         "prior": ""
       },
       {
@@ -11918,7 +11918,7 @@
         "name": "Nicki Farag",
         "role": "Co-Founder",
         "background": "YC S25 batch.",
-        "origin": "Unknown",
+        "origin": "",
         "prior": ""
       },
       {
@@ -11926,7 +11926,7 @@
         "name": "Tamish Pulappadi",
         "role": "Co-Founder",
         "background": "YC S25 batch.",
-        "origin": "Indian (inferred from name)",
+        "origin": "Indian",
         "prior": ""
       },
       {
@@ -11934,7 +11934,7 @@
         "name": "Dan Roe",
         "role": "Co-Founder",
         "background": "YC S25 batch.",
-        "origin": "Unknown",
+        "origin": "",
         "prior": ""
       }
     ],
@@ -12327,7 +12327,7 @@
         "name": "Ivan Zhang",
         "role": "Co-founder",
         "background": "Canadian, son of immigrants (likely Chinese-Canadian based on Asian Hustle Network feature, though not explicitly confirmed). Attended Richmond Hill High School in Ontario. BSc in Computer Science from the University of Toronto (2014-2016, did not complete full degree). Previously founded FOR.ai (now Cohere Labs), worked in biotech and MLOps.",
-        "origin": "Canadian (Chinese heritage, unconfirmed)",
+        "origin": "Chinese-Canadian",
         "prior": ""
       },
       {
@@ -12528,7 +12528,7 @@
         "name": "Jiehua Wu",
         "role": "Co-Founder",
         "background": "YC S25 batch.",
-        "origin": "Chinese (inferred from name)",
+        "origin": "Chinese",
         "prior": ""
       },
       {
@@ -12641,7 +12641,7 @@
         "name": "Jan Philipp Haas",
         "role": "Co-Founder & CEO",
         "background": "Former Palantir engineer. Led enterprise AI initiatives before founding Conduct.",
-        "origin": "",
+        "origin": "German",
         "prior": ""
       },
       {
@@ -12649,7 +12649,7 @@
         "name": "Philipp Hoefer",
         "role": "Co-Founder & Chief Product Officer",
         "background": "Former Palantir engineer with deep product expertise.",
-        "origin": "",
+        "origin": "German",
         "prior": ""
       },
       {
@@ -12816,7 +12816,7 @@
         "name": "David Petrou",
         "role": "Founder & CEO",
         "background": "Former Google Distinguished Engineer. Helped start Google Goggles. Extensive career at Google in computer vision and AI.",
-        "origin": "",
+        "origin": "American",
         "prior": ""
       }
     ],
@@ -12924,7 +12924,7 @@
         "name": "Dov Gertz",
         "role": "CEO",
         "background": "Developed ML for novel CRISPR systems, co-published with Nobel laureate Jennifer Doudna",
-        "origin": "",
+        "origin": "Israeli",
         "prior": ""
       },
       {
@@ -12932,7 +12932,7 @@
         "name": "Iddo Weiner",
         "role": "CSO",
         "background": "Led 2 drug programs to Phase 2",
-        "origin": "",
+        "origin": "Israeli",
         "prior": ""
       },
       {
@@ -12940,7 +12940,7 @@
         "name": "Oded Kalev",
         "role": "CTO",
         "background": "Former cybersecurity AI lead, advised US govt on GenAI",
-        "origin": "",
+        "origin": "Israeli",
         "prior": ""
       }
     ],
@@ -12983,7 +12983,7 @@
         "name": "Ayaan Parikh",
         "role": "Co-Founder",
         "background": "YC S25 batch.",
-        "origin": "Indian (inferred from name)",
+        "origin": "Indian",
         "prior": ""
       },
       {
@@ -13480,7 +13480,7 @@
         "name": "Brooke Hopkins",
         "role": "Founder & CEO",
         "background": "Former tech lead at Waymo, where she led the evaluation job infrastructure team and built foundational simulation systems for autonomous vehicle testing.",
-        "origin": "",
+        "origin": "American",
         "prior": ""
       }
     ],
@@ -13784,7 +13784,7 @@
         "name": "Stef van Grieken",
         "role": "Co-Founder & CEO",
         "background": "Master's in Industrial Engineering from University of Groningen. Senior Product Manager and leadership team at Google Research & Machine Intelligence. Co-lead of a Google X project; worked on Google Maps and Android. Previously co-founded Open State Foundation (government transparency nonprofit), which won Time Magazine Top Website 2012 and European Public Sector Award.",
-        "origin": "Dutch.",
+        "origin": "Dutch",
         "prior": ""
       },
       {
@@ -13792,7 +13792,7 @@
         "name": "Jelle Prins",
         "role": "Co-Founder & CPO",
         "background": "Joined Uber in 2009 as one of the first employees in Europe. Later launched a mobile agency (clients included Booking.com). Returned to Uber for a seven-year stint helping scale the company globally. Brings product and design expertise.",
-        "origin": "Dutch.",
+        "origin": "Dutch",
         "prior": ""
       },
       {
@@ -13800,7 +13800,7 @@
         "name": "Eli Bixby",
         "role": "Co-Founder & CTO",
         "background": "Former Google Brain engineer. Brought deep machine learning expertise to the founding team.",
-        "origin": "American (unconfirmed \u2014 limited public info).",
+        "origin": "American (unconfirmed \u2014 limited public info)",
         "prior": ""
       },
       {
@@ -13808,7 +13808,7 @@
         "name": "Elise de Reus",
         "role": "Co-Founder",
         "background": "PhD. Previously at Zymergen and DSM, specializing in high-throughput experimentation and bioprocess development.",
-        "origin": "Dutch.",
+        "origin": "Dutch",
         "prior": ""
       },
       {
@@ -13816,7 +13816,7 @@
         "name": "Harmen van Rossum",
         "role": "Co-Founder",
         "background": "Previously at Zymergen and DSM. Runs Cradle's wet lab in Amsterdam. Expertise in high-throughput experimentation.",
-        "origin": "Dutch.",
+        "origin": "Dutch",
         "prior": ""
       }
     ],
@@ -14694,7 +14694,7 @@
         "name": "Milad Malek",
         "role": "Co-Founder",
         "background": "BS in Physics from Stanford; former Senior Ventures Associate at Plug and Play Ventures (2018-2021) leading the Smart Cities vertical focused on energy and sustainability",
-        "origin": "United States",
+        "origin": "American",
         "prior": ""
       },
       {
@@ -14702,7 +14702,7 @@
         "name": "Zack Swafford",
         "role": "Co-Founder",
         "background": "BS and MS in Computer Science (AI specialization) from Stanford; first engineer at Plenty (indoor farming), later led software engineering there; co-founded Atch; AI/ML/CV consulting; taught at Stanford; investor at Plug and Play Ventures",
-        "origin": "United States",
+        "origin": "American",
         "prior": ""
       }
     ],
@@ -14781,7 +14781,7 @@
         "name": "Reynold Xin",
         "role": "Co-Founder",
         "background": "PhD Computer Science, UC Berkeley",
-        "origin": "Chinese-American (unconfirmed - inferred from name, limited public info)",
+        "origin": "Chinese-American",
         "prior": "Research scientist at AMPLab; co-created core Spark APIs"
       },
       {
@@ -14797,7 +14797,7 @@
         "name": "Arsalan Tavakoli-Shiraji",
         "role": "Co-Founder",
         "background": "UC Berkeley",
-        "origin": "Iranian-American (inferred from name - unconfirmed)",
+        "origin": "American",
         "prior": "McKinsey & Company"
       }
     ],
@@ -14969,7 +14969,7 @@
         "name": "Charley Lee",
         "role": "Co-Founder",
         "background": "Former intern at Google; AI research on multi-modal RL and browser-use agents University of Waterloo (CS)",
-        "origin": "Chinese-American or Korean-American",
+        "origin": "Chinese-American",
         "prior": ""
       }
     ],
@@ -15189,7 +15189,7 @@
         "name": "Phillip Reyland",
         "role": "Co-Founder",
         "background": "Founded and led The Byte Dept as Managing Director; co-founded TapRecruit; bootstrapped Datapeople for several years while building proprietary recruiting language analytics, analyzing job postings from 40,000+ companies",
-        "origin": "United States",
+        "origin": "American",
         "prior": ""
       }
     ],
@@ -15586,7 +15586,7 @@
         "name": "Unknown",
         "role": "Co-Founder",
         "background": "YC S25 batch.",
-        "origin": "Unknown",
+        "origin": "",
         "prior": ""
       }
     ],
@@ -15680,7 +15680,7 @@
         "name": "Unknown",
         "role": "Co-Founder",
         "background": "YC S25 batch.",
-        "origin": "Unknown",
+        "origin": "",
         "prior": ""
       }
     ],
@@ -15866,7 +15866,7 @@
         "name": "Kevin Roth",
         "role": "Co-Founder & COO",
         "background": "Former Google Brain (Berlin) and Microsoft Research (Cambridge). PhD in machine learning from ETH Zurich. ETH Medal in Physics.",
-        "origin": "",
+        "origin": "German",
         "prior": ""
       },
       {
@@ -15874,7 +15874,7 @@
         "name": "Yannic Kilcher",
         "role": "Co-Founder & CTO",
         "background": "Former Google AI Language. Runs the largest YouTube channel on ML research. Led development of OpenAssistant. PhD from ETH Zurich.",
-        "origin": "",
+        "origin": "Swiss",
         "prior": ""
       }
     ],
@@ -16181,7 +16181,7 @@
         "name": "Rishabh Srivastava",
         "role": "Co-Founder",
         "background": "Technical co-founder with machine learning expertise. Y Combinator W23 alumnus.",
-        "origin": "Indian (inferred from name)",
+        "origin": "Indian",
         "prior": ""
       }
     ],
@@ -16357,7 +16357,7 @@
         "name": "Unknown",
         "role": "Co-Founder",
         "background": "YC S25 batch.",
-        "origin": "Unknown",
+        "origin": "",
         "prior": ""
       }
     ],
@@ -16505,7 +16505,7 @@
         "name": "Anjali Midha",
         "role": "Co-Founder & CEO",
         "background": "MBA from MIT Sloan; BA from Tufts University; former Global Media & Agency Research Director at Twitter (joined via Bluefin Labs acquisition); VP Professional Services & Analytics at Bluefin Labs (MIT Media Lab spin-out pioneering Social TV analytics)",
-        "origin": "United States",
+        "origin": "American",
         "prior": ""
       },
       {
@@ -16513,7 +16513,7 @@
         "name": "Michael Fleischman",
         "role": "Co-Founder",
         "background": "PhD in Computer Science from MIT; co-founded Bluefin Labs (social TV analytics, acquired by Twitter); currently CTO and Co-Founder at OpenSpace (construction AI); expertise in AI, NLP, and machine learning",
-        "origin": "United States",
+        "origin": "American",
         "prior": ""
       },
       {
@@ -16521,7 +16521,7 @@
         "name": "Russell Stevens",
         "role": "Co-Founder",
         "background": "BA in Government from Dartmouth College; Master of Public Policy from Harvard Kennedy School; Head of Programs at MIT Center for Constructive Communication; Managing Partner at Saddle River Group; co-founded Cortico; former Partner at Ss+k marketing agency",
-        "origin": "United States",
+        "origin": "American",
         "prior": ""
       }
     ],
@@ -16812,7 +16812,7 @@
         "name": "Mike Palmer",
         "role": "Co-Founder",
         "background": "Senior engineering leader from Microsoft.",
-        "origin": "American (inferred)",
+        "origin": "American",
         "prior": ""
       },
       {
@@ -16820,7 +16820,7 @@
         "name": "Andrew Begun",
         "role": "Co-Founder",
         "background": "Senior engineering leader from Microsoft.",
-        "origin": "American (inferred)",
+        "origin": "American",
         "prior": ""
       },
       {
@@ -16828,7 +16828,7 @@
         "name": "Taqi Jaffri",
         "role": "Co-Founder",
         "background": "Senior engineering leader from Microsoft.",
-        "origin": "American (inferred)",
+        "origin": "American",
         "prior": ""
       },
       {
@@ -16836,7 +16836,7 @@
         "name": "Martin Sawicki",
         "role": "Co-Founder",
         "background": "Senior engineering leader from Microsoft.",
-        "origin": "American (inferred)",
+        "origin": "American",
         "prior": ""
       }
     ],
@@ -17062,7 +17062,7 @@
         "name": "Lindon Gao",
         "role": "Co-Founder & CEO",
         "background": "Previously co-founded Caper AI (acquired by Instacart for $350M). Repeat entrepreneur in AI hardware.",
-        "origin": "Chinese-American (inferred)",
+        "origin": "Chinese-American",
         "prior": ""
       },
       {
@@ -17070,7 +17070,7 @@
         "name": "York Yang",
         "role": "Co-Founder",
         "background": "Previously co-founded Caper AI (acquired by Instacart for $350M). Repeat entrepreneur.",
-        "origin": "Chinese-American (inferred)",
+        "origin": "Chinese-American",
         "prior": ""
       },
       {
@@ -17078,7 +17078,7 @@
         "name": "Jason Ma",
         "role": "Co-Founder",
         "background": "Former research scientist at Google DeepMind and NVIDIA. Developed foundation models for robotics.",
-        "origin": "Chinese-American (inferred)",
+        "origin": "Chinese-American",
         "prior": ""
       }
     ],
@@ -17708,7 +17708,7 @@
         "name": "Surojit Chatterjee",
         "role": "CEO",
         "background": "Ex-Coinbase CPO, ex-Google VP",
-        "origin": "",
+        "origin": "Indian",
         "prior": ""
       }
     ],
@@ -17805,7 +17805,7 @@
         "name": "Ethan Gibbs",
         "role": "Co-Founder",
         "background": "YC S25 batch.",
-        "origin": "Unknown",
+        "origin": "",
         "prior": ""
       },
       {
@@ -17813,7 +17813,7 @@
         "name": "Bob Wei",
         "role": "Co-Founder",
         "background": "YC S25 batch.",
-        "origin": "Chinese-American (inferred from name)",
+        "origin": "Chinese-American",
         "prior": ""
       }
     ],
@@ -18290,7 +18290,7 @@
         "name": "Alex Reneau",
         "role": "Co-Founder & CEO",
         "background": "PhD research at Northwestern University on programmable feature engineering for time series modeling; published multiple papers defining the field; research directly informed Ensemble's \"Dark Matter\" technology",
-        "origin": "United States",
+        "origin": "American",
         "prior": ""
       },
       {
@@ -18298,7 +18298,7 @@
         "name": "Zach Albertson",
         "role": "Co-Founder & COO",
         "background": "Northwestern University; AI/ML consulting experience where he saw firsthand the challenges enterprises face implementing machine learning; practical background in data science and traditional ML",
-        "origin": "United States",
+        "origin": "American",
         "prior": ""
       }
     ],
@@ -18454,7 +18454,7 @@
         "name": "Mateus Costa-Ribeiro",
         "role": "CEO",
         "background": "Brazil youngest lawyer at 18, Harvard Law, left Stanford MBA",
-        "origin": "",
+        "origin": "Brazilian",
         "prior": ""
       }
     ],
@@ -18540,7 +18540,7 @@
         "name": "Unknown",
         "role": "Co-Founder & CEO",
         "background": "ML research and interpretability background.",
-        "origin": "Unknown",
+        "origin": "",
         "prior": ""
       }
     ],
@@ -18770,7 +18770,7 @@
         "name": "Unknown",
         "role": "Co-Founder & CEO",
         "background": "Healthcare technology and AI background.",
-        "origin": "Unknown",
+        "origin": "",
         "prior": ""
       }
     ],
@@ -18991,7 +18991,7 @@
         "name": "Drew Perkins",
         "role": "CEO & Co-Founder",
         "background": "Networking industry veteran since the 1980s. Helped create Point-to-Point Protocol (PPP), a key part of TCP/IP. Co-founded Lightera Networks (sold to Ciena for $500M+, 1999). Co-founded Infinera (IPO'd, later sold to Nokia for $2.3B in 2025).",
-        "origin": "American.",
+        "origin": "American",
         "prior": ""
       },
       {
@@ -18999,7 +18999,7 @@
         "name": "Omar Hassen",
         "role": "Chief Product Officer & Co-Founder",
         "background": "Deep networking chip design experience. Previously held senior roles at Broadcom, Marvell, and International Rectifier managing chip design divisions.",
-        "origin": "Limited public information.",
+        "origin": "Limited public information",
         "prior": ""
       },
       {
@@ -19007,7 +19007,7 @@
         "name": "Mike Capuano",
         "role": "Chief Business Development & Marketing Officer & Co-Founder",
         "background": "Most recently SVP of Business Development at Ventana Systems (RISC-V server chips). Background in semiconductor business development.",
-        "origin": "American.",
+        "origin": "American",
         "prior": ""
       }
     ],
@@ -19085,7 +19085,7 @@
         "name": "Nima Badizadegan",
         "role": "Co-Founder",
         "background": "Technical co-founder.",
-        "origin": "",
+        "origin": "Iranian-American",
         "prior": ""
       }
     ],
@@ -19128,7 +19128,7 @@
         "name": "Ashish Vaswani",
         "role": "Co-Founder & CEO",
         "background": "BEng CS Birla Institute of Technology Mesra (2002), PhD CS USC (advised by David Chiang). Former researcher at Google Brain. Co-author of 'Attention Is All You Need' (2017) \u2014 the seminal paper introducing the Transformer architecture that underpins GPT, BERT, and modern LLMs.",
-        "origin": "Indian (born in India, raised in India and the Middle East)",
+        "origin": "Indian",
         "prior": ""
       },
       {
@@ -19501,7 +19501,7 @@
         "name": "Brian Stempeck",
         "role": "CEO",
         "background": "Former Trade Desk (grew from 8 people to IPO), Nielsen board",
-        "origin": "",
+        "origin": "American",
         "prior": ""
       }
     ],
@@ -19624,7 +19624,7 @@
         "name": "Gur Kimchi",
         "role": "Co-founder",
         "background": "Co-founder Amazon Prime Air, former VP Amazon",
-        "origin": "",
+        "origin": "Israeli",
         "prior": ""
       },
       {
@@ -19952,7 +19952,7 @@
         "name": "Rob Cochran",
         "role": "Co-Founder & CEO",
         "background": "Former CTRL-labs (acquired by Facebook/Meta in 2019). Wearable neurotech experience.",
-        "origin": "American (inferred)",
+        "origin": "American",
         "prior": ""
       },
       {
@@ -19960,7 +19960,7 @@
         "name": "Josh Merel",
         "role": "Co-Founder & CTO",
         "background": "Former DeepMind research scientist. Neuroscience and robotics research.",
-        "origin": "American (inferred)",
+        "origin": "American",
         "prior": ""
       }
     ],
@@ -20003,7 +20003,7 @@
         "name": "Unknown",
         "role": "Co-Founder & CEO",
         "background": "Financial compliance and AI background.",
-        "origin": "Unknown",
+        "origin": "",
         "prior": ""
       }
     ],
@@ -20278,7 +20278,7 @@
         "name": "Michael Guan",
         "role": "Co-Founder & CEO",
         "background": "Yale University. Former CTO at CYNK; previously in product marketing at Starburst Data (supported $250M Series D).",
-        "origin": "Unknown",
+        "origin": "Chinese-American",
         "prior": ""
       },
       {
@@ -20286,7 +20286,7 @@
         "name": "Jay Ma",
         "role": "Co-Founder & CTO",
         "background": "University of Illinois at Urbana-Champaign. Former ML engineer at Pinterest, Meta, and AMD. Reverse-engineered LinkedIn while in college.",
-        "origin": "Unknown",
+        "origin": "Chinese-American",
         "prior": ""
       }
     ],
@@ -20509,7 +20509,7 @@
         "name": "Sam Udotong",
         "role": "Co-Founder & CTO",
         "background": "",
-        "origin": "",
+        "origin": "Nigerian",
         "prior": ""
       }
     ],
@@ -20633,7 +20633,7 @@
         "name": "Mickey Friedman",
         "role": "Co-Founder & CEO",
         "background": "University of Chicago graduate. Co-launched Flair.ai in 2022. Previously worked with AI teams and organizes SF AI Tinkerers events.",
-        "origin": "",
+        "origin": "American",
         "prior": ""
       },
       {
@@ -20641,7 +20641,7 @@
         "name": "Antonio Cao",
         "role": "Co-Founder & President",
         "background": "Yale University graduate with degrees in Physics, Mathematics, and Computer Science. Previously worked with AI teams at companies including Tesla and Adobe.",
-        "origin": "",
+        "origin": "Chinese-American",
         "prior": ""
       }
     ],
@@ -20930,7 +20930,7 @@
         "name": "Yujian Yao",
         "role": "Co-Founder",
         "background": "YC S25 batch.",
-        "origin": "Chinese (inferred from name)",
+        "origin": "Chinese",
         "prior": ""
       },
       {
@@ -20938,7 +20938,7 @@
         "name": "Edward Look",
         "role": "Co-Founder",
         "background": "YC S25 batch.",
-        "origin": "Unknown",
+        "origin": "",
         "prior": ""
       }
     ],
@@ -21665,7 +21665,7 @@
         "name": "Jeremy Fraenkel",
         "role": "CEO & Co-Founder",
         "background": "Former DeepMind researcher. Details on specific DeepMind projects limited in public sources.",
-        "origin": "American (limited public information).",
+        "origin": "American (limited public information)",
         "prior": ""
       },
       {
@@ -21673,7 +21673,7 @@
         "name": "Gabriel Suissa",
         "role": "Co-Founder",
         "background": "Former DeepMind researcher. Technical co-founder.",
-        "origin": "Israeli.",
+        "origin": "Israeli",
         "prior": ""
       },
       {
@@ -21681,7 +21681,7 @@
         "name": "Annie Lamont",
         "role": "Co-Founder",
         "background": "Co-founder. Additional background details limited in public sources.",
-        "origin": "Limited public information.",
+        "origin": "Limited public information",
         "prior": ""
       }
     ],
@@ -21829,7 +21829,7 @@
         "name": "Richard Hollingsworth",
         "role": "Co-Founder & CEO",
         "background": "Based in London. Leading Fyxer's growth as an AI executive assistant platform.",
-        "origin": "",
+        "origin": "British",
         "prior": ""
       },
       {
@@ -21837,7 +21837,7 @@
         "name": "Archie Hollingsworth",
         "role": "Co-Founder",
         "background": "Co-founded Fyxer alongside Richard.",
-        "origin": "",
+        "origin": "British",
         "prior": ""
       },
       {
@@ -21845,7 +21845,7 @@
         "name": "Matthew Ffrench",
         "role": "Co-Founder",
         "background": "Co-founded Fyxer with the Hollingsworth brothers.",
-        "origin": "",
+        "origin": "British",
         "prior": ""
       }
     ],
@@ -22269,7 +22269,7 @@
         "name": "Cecilia Ziniti",
         "role": "Co-Founder & CEO",
         "background": "Three-time General Counsel and 15+ year in-house lawyer at companies including Amazon and Replit. Named to Inc. Female Founders 500.",
-        "origin": "American (inferred)",
+        "origin": "American",
         "prior": ""
       },
       {
@@ -22374,7 +22374,7 @@
         "name": "Unknown",
         "role": "Co-Founder & CEO",
         "background": "Legal and AI background.",
-        "origin": "Unknown",
+        "origin": "",
         "prior": ""
       }
     ],
@@ -22713,7 +22713,7 @@
         "name": "Raghav Arora",
         "role": "Founder",
         "background": "Founded at age 14. YC S25 batch. Among highest valuations in the batch.",
-        "origin": "Indian (inferred from name)",
+        "origin": "Indian",
         "prior": ""
       }
     ],
@@ -22756,7 +22756,7 @@
         "name": "Unknown",
         "role": "Co-Founder",
         "background": "YC S25 batch.",
-        "origin": "Unknown",
+        "origin": "",
         "prior": ""
       }
     ],
@@ -22799,7 +22799,7 @@
         "name": "Varun Vummadi",
         "role": "Co-Founder & CEO",
         "background": "Y Combinator alumni. Leading GigaML's enterprise AI operations platform.",
-        "origin": "",
+        "origin": "Indian",
         "prior": ""
       },
       {
@@ -22807,7 +22807,7 @@
         "name": "Esha Manideep",
         "role": "Co-Founder",
         "background": "Y Combinator alumni. Technical co-founder.",
-        "origin": "",
+        "origin": "Indian",
         "prior": ""
       }
     ],
@@ -22983,7 +22983,7 @@
         "name": "Unknown",
         "role": "Co-Founder",
         "background": "YC S25 batch.",
-        "origin": "Unknown",
+        "origin": "",
         "prior": ""
       }
     ],
@@ -23902,7 +23902,7 @@
         "name": "Jonathan Ross",
         "role": "Founder & CEO (now Chief Software Architect at Nvidia)",
         "background": "Studied mathematics and computer science at NYU's Courant Institute under Yann LeCun. First undergraduate to complete PhD-restricted CS courses. Created Google's TPU (Tensor Processing Unit) as a 20% project. Joined Google X's Rapid Eval Team to incubate new Alphabet bets. Recruited 8 of the 10 original TPU engineers to join Groq.",
-        "origin": "American. Reportedly did not finish high school via traditional path (described in some sources as a 'high school dropout').",
+        "origin": "American",
         "prior": ""
       },
       {
@@ -23910,7 +23910,7 @@
         "name": "Douglas Wightman",
         "role": "Co-Founder",
         "background": "Entrepreneur and former engineer at Google X. Co-founded Groq with Ross in 2016. Limited additional public information available.",
-        "origin": "American (limited public info).",
+        "origin": "American (limited public info)",
         "prior": ""
       }
     ],
@@ -24081,7 +24081,7 @@
         "name": "Max Brodeur-Urbas",
         "role": "Co-Founder & CEO",
         "background": "Former Microsoft engineer. McGill University graduate. Started Gumloop as a side project in a Vancouver bedroom.",
-        "origin": "",
+        "origin": "Canadian",
         "prior": ""
       },
       {
@@ -24089,7 +24089,7 @@
         "name": "Rahul Behal",
         "role": "Co-Founder",
         "background": "Former machine learning engineer at Amazon. McGill University classmate of Max Brodeur-Urbas.",
-        "origin": "",
+        "origin": "Indian-American",
         "prior": ""
       }
     ],
@@ -24391,7 +24391,7 @@
         "name": "Unknown",
         "role": "Co-Founder",
         "background": "YC S25 batch.",
-        "origin": "Unknown",
+        "origin": "",
         "prior": ""
       }
     ],
@@ -24434,7 +24434,7 @@
         "name": "Sumanyu Sharma",
         "role": "CEO",
         "background": "Former Head of Data at Citizen; Senior Staff Data Scientist at Tesla where he grew AI-powered sales to hundreds of millions in revenue/year",
-        "origin": "India",
+        "origin": "Indian",
         "prior": ""
       },
       {
@@ -25574,7 +25574,7 @@
         "name": "Peter Tribelhorn",
         "role": "Co-Founder",
         "background": "YC S25 batch.",
-        "origin": "Unknown",
+        "origin": "",
         "prior": ""
       },
       {
@@ -25582,7 +25582,7 @@
         "name": "Chia-Lun Wu",
         "role": "Co-Founder",
         "background": "YC S25 batch.",
-        "origin": "Taiwanese (inferred from name)",
+        "origin": "Taiwanese",
         "prior": ""
       }
     ],
@@ -25625,7 +25625,7 @@
         "name": "Unknown",
         "role": "Co-Founder & CEO",
         "background": "Cybersecurity and AI background.",
-        "origin": "Unknown",
+        "origin": "",
         "prior": ""
       }
     ],
@@ -26302,7 +26302,7 @@
         "name": "Andi Peng",
         "role": "Co-Founder",
         "background": "Former Anthropic researcher. Worked on reinforcement learning and post-training of Claude 3.5 through Claude 4.5.",
-        "origin": "American.",
+        "origin": "American",
         "prior": ""
       },
       {
@@ -26310,7 +26310,7 @@
         "name": "Georges Harik",
         "role": "Co-Founder",
         "background": "Google's seventh employee. Helped build Google's first advertising systems. Veteran Silicon Valley operator and investor.",
-        "origin": "Lebanese-American.",
+        "origin": "Lebanese-American",
         "prior": ""
       },
       {
@@ -26318,7 +26318,7 @@
         "name": "Eric Zelikman",
         "role": "Co-Founder",
         "background": "Former xAI researcher. Helped develop the Grok chatbot.",
-        "origin": "American.",
+        "origin": "American",
         "prior": ""
       },
       {
@@ -26326,7 +26326,7 @@
         "name": "Yuchen He",
         "role": "Co-Founder",
         "background": "Former xAI researcher. Helped develop the Grok chatbot.",
-        "origin": "Chinese-American (based on name; limited public info).",
+        "origin": "Chinese-American",
         "prior": ""
       },
       {
@@ -26334,7 +26334,7 @@
         "name": "Noah Goodman",
         "role": "Co-Founder",
         "background": "Stanford professor of psychology and computer science. Expert in computational cognitive science and probabilistic programming.",
-        "origin": "American.",
+        "origin": "American",
         "prior": ""
       }
     ],
@@ -26450,7 +26450,7 @@
         "name": "Sriharsha Guduguntla",
         "role": "Co-Founder",
         "background": "Former Salesforce engineer, contributed to conversational AI systems behind Salesforce Einstein. Longtime friends with co-founder Atul Raghunathan.",
-        "origin": "Indian (inferred from name)",
+        "origin": "Indian",
         "prior": ""
       },
       {
@@ -26458,7 +26458,7 @@
         "name": "Atul Raghunathan",
         "role": "Co-Founder",
         "background": "Former Meta Ads engineer, worked on machine learning models that defined ideal market profiles for billions of ads daily.",
-        "origin": "Indian (inferred from name)",
+        "origin": "Indian",
         "prior": ""
       }
     ],
@@ -26512,7 +26512,7 @@
         "name": "Unknown",
         "role": "Co-Founder",
         "background": "YC S25 batch.",
-        "origin": "Unknown",
+        "origin": "",
         "prior": ""
       }
     ],
@@ -26848,7 +26848,7 @@
         "name": "Jonathan Li",
         "role": "Co-Founder",
         "background": "YC S25 batch.",
-        "origin": "Chinese-American (inferred from name)",
+        "origin": "Chinese-American",
         "prior": ""
       },
       {
@@ -26856,7 +26856,7 @@
         "name": "Jeffrey Li",
         "role": "Co-Founder",
         "background": "YC S25 batch.",
-        "origin": "Chinese-American (inferred from name)",
+        "origin": "Chinese-American",
         "prior": ""
       }
     ],
@@ -27009,7 +27009,7 @@
         "name": "Xia Lixue",
         "role": "CEO & Co-founder",
         "background": "Student of Tsinghua University professor Wang Yu. Previously focused on AI computing infrastructure.",
-        "origin": "Chinese.",
+        "origin": "Chinese",
         "prior": ""
       },
       {
@@ -27017,7 +27017,7 @@
         "name": "Wang Yu",
         "role": "Co-founder & Advisor",
         "background": "Professor in Tsinghua University's Electronic Engineering department. Academic leader in AI computing research.",
-        "origin": "Chinese.",
+        "origin": "Chinese",
         "prior": ""
       },
       {
@@ -27025,7 +27025,7 @@
         "name": "Dai Guohao",
         "role": "Chief Scientist",
         "background": "Student of Tsinghua University professor Wang Yu. AI computing researcher.",
-        "origin": "Chinese.",
+        "origin": "Chinese",
         "prior": ""
       }
     ],
@@ -27718,7 +27718,7 @@
         "name": "Rakesh Yadav",
         "role": "Founder & CEO",
         "background": "14 years at Google leading the Machine Learning Operations platform development for Google Ads and Google Payments. Former Senior Staff Engineer.",
-        "origin": "",
+        "origin": "Indian",
         "prior": ""
       }
     ],
@@ -27925,7 +27925,7 @@
         "name": "Ishan Gupta",
         "role": "Co-Founder & CTO",
         "background": "BA Computer Science from Dartmouth College. Previously Software Engineer at BlueLearn, Research Assistant at Harcourt Butler Technical University (AI and Computer Vision). Was 19 when he co-founded Juicebox.",
-        "origin": "Indian (attended Seth Anandram Jaipuria School in Kanpur, India)",
+        "origin": "Indian",
         "prior": ""
       }
     ],
@@ -28103,7 +28103,7 @@
         "name": "Matthias Auf der Mauer",
         "role": "Co-Founder & CEO",
         "background": "Previously founded AiSight (predictive machine maintenance), sold to Swiss smart sensor company Sensirion in 2021.",
-        "origin": "",
+        "origin": "German",
         "prior": ""
       },
       {
@@ -28111,7 +28111,7 @@
         "name": "Christian von Hardenberg",
         "role": "Co-Founder & CTO",
         "background": "Former CTO of Rocket Internet and Delivery Hero. Scaled engineering teams of 2,500+ people and launched 50+ internet companies.",
-        "origin": "",
+        "origin": "German",
         "prior": ""
       }
     ],
@@ -28154,7 +28154,7 @@
         "name": "Benjamin Bolte",
         "role": "Co-Founder",
         "background": "Tesla, Meta robotics",
-        "origin": "",
+        "origin": "American",
         "prior": ""
       },
       {
@@ -28162,7 +28162,7 @@
         "name": "Matthew Freed",
         "role": "Co-Founder",
         "background": "Lockheed Martin, General Dynamics",
-        "origin": "",
+        "origin": "American",
         "prior": ""
       },
       {
@@ -28170,7 +28170,7 @@
         "name": "Pawel Budzianowski",
         "role": "Co-Founder",
         "background": "PhD Cambridge, ML researcher",
-        "origin": "",
+        "origin": "Polish",
         "prior": ""
       }
     ],
@@ -28275,7 +28275,7 @@
         "name": "Galina Antova",
         "role": "CEO & Co-founder",
         "background": "Previously co-founded Claroty, the $3 billion industrial cybersecurity leader. Deep expertise in OT/ICS security.",
-        "origin": "Bulgarian. Based in the United States.",
+        "origin": "Bulgarian. Based in the United States",
         "prior": ""
       },
       {
@@ -28283,7 +28283,7 @@
         "name": "Damiano Bolzoni",
         "role": "CTO & Co-founder",
         "background": "PhD-level AI researcher. Co-founded SecurityMatters, an OT cybersecurity company later acquired by Forescout Technologies.",
-        "origin": "Italian.",
+        "origin": "Italian",
         "prior": ""
       }
     ],
@@ -28377,7 +28377,7 @@
         "name": "Sayan Bhatia",
         "role": "Co-Founder",
         "background": "YC S25 batch.",
-        "origin": "Indian (inferred from name)",
+        "origin": "Indian",
         "prior": ""
       },
       {
@@ -28385,7 +28385,7 @@
         "name": "Sohil Bhatia",
         "role": "Co-Founder",
         "background": "YC S25 batch.",
-        "origin": "Indian (inferred from name)",
+        "origin": "Indian",
         "prior": ""
       }
     ],
@@ -28812,7 +28812,7 @@
         "name": "Oisin Hanrahan",
         "role": "Co-Founder & CEO",
         "background": "Irish entrepreneur. Former CEO of Angi (Angie's List) and co-founder/CEO of Handy. Serial founder.",
-        "origin": "",
+        "origin": "Irish",
         "prior": ""
       },
       {
@@ -28820,7 +28820,7 @@
         "name": "Umang Dua",
         "role": "Co-Founder",
         "background": "",
-        "origin": "",
+        "origin": "Indian",
         "prior": ""
       },
       {
@@ -28893,7 +28893,7 @@
         "name": "Pablo Hansen",
         "role": "Founder",
         "background": "Master's degree in AI at age 19. Founded Keystone at 20. YC S25 batch.",
-        "origin": "Unknown",
+        "origin": "",
         "prior": ""
       }
     ],
@@ -28936,7 +28936,7 @@
         "name": "Sid Sijbrandij",
         "role": "Co-founder",
         "background": "Co-founder of GitLab",
-        "origin": "",
+        "origin": "Dutch",
         "prior": ""
       },
       {
@@ -29038,7 +29038,7 @@
         "name": "Chi Zhang",
         "role": "Co-Founder & CEO",
         "background": "PhD in AI from UC Berkeley. Former core data products lead at Databricks.",
-        "origin": "",
+        "origin": "Chinese",
         "prior": ""
       },
       {
@@ -29046,7 +29046,7 @@
         "name": "Scott Shi",
         "role": "Co-Founder & CTO",
         "background": "Built real-time AI infrastructure at Uber. Founding engineer on Salesforce Einstein AI.",
-        "origin": "",
+        "origin": "Chinese-American",
         "prior": ""
       }
     ],
@@ -29116,7 +29116,7 @@
         "name": "Logan Ford",
         "role": "Co-Founder",
         "background": "Technical co-founder.",
-        "origin": "American (inferred)",
+        "origin": "American",
         "prior": ""
       }
     ],
@@ -30263,7 +30263,7 @@
         "name": "Li Hongwei",
         "role": "CEO & Founder",
         "background": "Technology executive with expertise in AR/VR and consumer electronics. Built Leiniao into the global leader in AR glasses sales.",
-        "origin": "Chinese.",
+        "origin": "Chinese",
         "prior": ""
       }
     ],
@@ -30357,7 +30357,7 @@
         "name": "Yangqing Jia (Jia Yangqing)",
         "role": "Co-Founder & CEO",
         "background": "PhD in EECS from UC Berkeley, BS from Tsinghua University. Creator of Caffe deep learning framework. Founding engineer and Director of Facebook AI infrastructure. VP of Big Data and AI at Alibaba. Contributed to ONNX and PyTorch. Lepton acquired by NVIDIA.",
-        "origin": "Chinese (Tsinghua undergrad, UC Berkeley PhD)",
+        "origin": "Chinese",
         "prior": ""
       },
       {
@@ -30467,7 +30467,7 @@
         "name": "Sarah Wooders",
         "role": "CEO",
         "background": "Berkeley PhD, Sky Computing Lab",
-        "origin": "",
+        "origin": "American",
         "prior": ""
       },
       {
@@ -30475,7 +30475,7 @@
         "name": "Charles Packer",
         "role": "CTO",
         "background": "Berkeley PhD, Sky Computing Lab",
-        "origin": "",
+        "origin": "American",
         "prior": ""
       }
     ],
@@ -31580,7 +31580,7 @@
         "name": "Larissa Tyagi",
         "role": "Co-Founder",
         "background": "YC S25 batch.",
-        "origin": "Unknown",
+        "origin": "Indian-American",
         "prior": ""
       },
       {
@@ -31588,7 +31588,7 @@
         "name": "Georgia Witchel",
         "role": "Co-Founder",
         "background": "YC S25 batch.",
-        "origin": "Unknown",
+        "origin": "",
         "prior": ""
       }
     ],
@@ -31982,7 +31982,7 @@
         "name": "Unknown",
         "role": "Co-Founder",
         "background": "YC S25 batch.",
-        "origin": "Unknown",
+        "origin": "",
         "prior": ""
       }
     ],
@@ -32403,7 +32403,7 @@
         "name": "Max Ahrens",
         "role": "CEO & Co-Founder",
         "background": "PhD/Postdoc NLP Oxford, McKinsey",
-        "origin": "",
+        "origin": "German",
         "prior": ""
       },
       {
@@ -32411,7 +32411,7 @@
         "name": "Eduardo Candela",
         "role": "CTO & Co-Founder",
         "background": "PhD AI Safety Imperial College, MSc MIT, Tesla",
-        "origin": "",
+        "origin": "Spanish",
         "prior": ""
       }
     ],
@@ -32830,7 +32830,7 @@
         "name": "Mark Lee",
         "role": "Co-Founder & CEO",
         "background": "Harvard Economics (Magna Cum Laude), Harvard Law School JD. Former McKinsey consultant. Former product lead at Honestfund.",
-        "origin": "",
+        "origin": "Korean-American",
         "prior": ""
       },
       {
@@ -32838,7 +32838,7 @@
         "name": "DK Lee",
         "role": "Co-Founder & CBO",
         "background": "",
-        "origin": "",
+        "origin": "Korean",
         "prior": ""
       }
     ],
@@ -32914,7 +32914,7 @@
         "name": "Han Shu",
         "role": "Co-Founder",
         "background": "Co-created Vlingo, the speech tech that powered Siri and Samsung's S-Voice (acquired for $225M)",
-        "origin": "China",
+        "origin": "Chinese",
         "prior": ""
       },
       {
@@ -32922,7 +32922,7 @@
         "name": "Dave Grannan",
         "role": "Co-Founder",
         "background": "Co-created Vlingo (acquired for $225M); serial entrepreneur in speech technology",
-        "origin": "United States",
+        "origin": "American",
         "prior": ""
       }
     ],
@@ -33223,7 +33223,7 @@
         "name": "Jonathan Corbin",
         "role": "Co-Founder & CEO",
         "background": "Former HubSpot executive. Deep experience in enterprise SaaS and customer experience platforms.",
-        "origin": "",
+        "origin": "American",
         "prior": ""
       },
       {
@@ -33239,7 +33239,7 @@
         "name": "Eugene Mann",
         "role": "Co-Founder & CPO",
         "background": "Former Stripe executive. Product leadership experience across enterprise platforms.",
-        "origin": "",
+        "origin": "American",
         "prior": ""
       }
     ],
@@ -33304,7 +33304,7 @@
         "name": "Vaibhavi Gangwar",
         "role": "Co-Founder & CEO",
         "background": "Former Google and Milaap. MBA in Entrepreneurship and Business Analytics from The Wharton School (2018-2020).",
-        "origin": "",
+        "origin": "Indian",
         "prior": ""
       },
       {
@@ -33312,7 +33312,7 @@
         "name": "Akshay Deo",
         "role": "Co-Founder & CTO",
         "background": "Former Postman, Slack, and Media.Net engineer. Previously founded AppSurfer and BetaCraft. Deep expertise in developer tools and API platforms.",
-        "origin": "",
+        "origin": "Indian",
         "prior": ""
       }
     ],
@@ -33619,7 +33619,7 @@
         "name": "Chen Weiliang",
         "role": "Chairman",
         "background": "",
-        "origin": "",
+        "origin": "Chinese",
         "prior": ""
       },
       {
@@ -33627,7 +33627,7 @@
         "name": "Peng Li",
         "role": "Co-CTO",
         "background": "AMD veteran",
-        "origin": "",
+        "origin": "Chinese",
         "prior": ""
       }
     ],
@@ -34150,7 +34150,7 @@
         "name": "Florian Wenzel",
         "role": "Co-Founder & CTO",
         "background": "PhD in deep learning from Humboldt University. Former Google Brain researcher. Former AWS Labs. Musician who plays electric guitar in a Berlin electro band.",
-        "origin": "",
+        "origin": "German",
         "prior": ""
       }
     ],
@@ -34296,7 +34296,7 @@
         "name": "Unknown",
         "role": "Co-Founder & CEO",
         "background": "Product analytics and AI background.",
-        "origin": "Unknown",
+        "origin": "",
         "prior": ""
       }
     ],
@@ -35161,7 +35161,7 @@
         "name": "John Thomas",
         "role": "Co-Founder & COO",
         "background": "Based in Toronto",
-        "origin": "",
+        "origin": "Canadian",
         "prior": ""
       },
       {
@@ -35296,7 +35296,7 @@
         "name": "Naveen Rao",
         "role": "Co-Founder & CEO",
         "background": "Serial AI entrepreneur. Previously founded Nervana Systems (acquired by Intel for $350M in 2016). GM of Intel's AI Products Group. Deep expertise in AI hardware and training infrastructure.",
-        "origin": "",
+        "origin": "Indian-American",
         "prior": ""
       },
       {
@@ -35304,7 +35304,7 @@
         "name": "Hanlin Tang",
         "role": "Co-Founder & President",
         "background": "AI researcher with expertise in efficient neural network training. PhD in computational neuroscience.",
-        "origin": "",
+        "origin": "Chinese-American",
         "prior": ""
       },
       {
@@ -35312,7 +35312,7 @@
         "name": "Jonathan Frankle",
         "role": "Founding Adviser & Chief Scientist",
         "background": "Harvard professor and Kempner Institute researcher. Known for the Lottery Ticket Hypothesis. Leading researcher on neural network pruning and efficient training.",
-        "origin": "",
+        "origin": "American",
         "prior": ""
       }
     ],
@@ -35740,7 +35740,7 @@
         "name": "Geraldo Ramos",
         "role": "Co-Founder & CEO",
         "background": "Originally from Northeast Brazil. Started first tech company at 16, sold it at 26. Moved to NY in 2012 for business development.",
-        "origin": "",
+        "origin": "Brazilian",
         "prior": ""
       },
       {
@@ -35756,7 +35756,7 @@
         "name": "Jardson Almeida",
         "role": "Co-Founder & CDO",
         "background": "Design leadership; co-founded Moises with Ramos and Hsu.",
-        "origin": "",
+        "origin": "Brazilian",
         "prior": ""
       }
     ],
@@ -36082,7 +36082,7 @@
         "name": "Unknown",
         "role": "Co-Founder & CEO",
         "background": "AI research background.",
-        "origin": "Unknown",
+        "origin": "",
         "prior": ""
       }
     ],
@@ -36125,7 +36125,7 @@
         "name": "Arkady Volozh",
         "role": "CEO & Co-Founder, originally of Yandex",
         "background": "Born in Guryev, Kazakh SSR (now Atyrau, Kazakhstan). Applied mathematics degree from Gubkin Russian State University. Serial entrepreneur since 1989 (CompTek, Arkadia Company). Co-founded Yandex in 1997, built it into Russia's dominant search engine. Led Yandex as CEO until restructuring. Pivoted non-Russian Yandex assets into Nebius Group (2024). Renounced Russian citizenship (2026).",
-        "origin": "Kazakhstani-Israeli (born Soviet Kazakhstan, Russian-Jewish family)",
+        "origin": "Israeli",
         "prior": ""
       }
     ],
@@ -36255,7 +36255,7 @@
         "name": "Avneesh Agrawal",
         "role": "Co-Founder & CEO",
         "background": "MS and PhD in Electrical Engineering from Stanford University. President of Qualcomm India & South Asia (2005-2015), SVP of Technology and Global Head of Corporate R&D at Qualcomm. 200+ US patents. Netradyne is his first entrepreneurial venture.",
-        "origin": "Indian (Stanford University; former President, Qualcomm India & South Asia)",
+        "origin": "Indian",
         "prior": ""
       },
       {
@@ -36347,7 +36347,7 @@
         "name": "Mavarick H",
         "role": "Co-founder",
         "background": "",
-        "origin": "Unknown",
+        "origin": "",
         "prior": ""
       },
       {
@@ -36944,7 +36944,7 @@
         "name": "Philong Duong",
         "role": "CEO",
         "background": "Former Marine Corps joint fires instructor, ex-C3.ai Defense lead",
-        "origin": "",
+        "origin": "Vietnamese-American",
         "prior": ""
       },
       {
@@ -36952,7 +36952,7 @@
         "name": "Dave Corbett",
         "role": "Co-founder",
         "background": "Former Marine Corps, ex-C3.ai",
-        "origin": "",
+        "origin": "American",
         "prior": ""
       }
     ],
@@ -37605,7 +37605,7 @@
         "name": "Fred Ehrsam",
         "role": "Co-founder",
         "background": "Co-founder of Coinbase",
-        "origin": "",
+        "origin": "American",
         "prior": ""
       },
       {
@@ -37799,7 +37799,7 @@
         "name": "Jiajun Zhu (JZ)",
         "role": "Co-Founder & Co-CEO",
         "background": "BS Computer Science, Fudan University (Shanghai, China); MS Computer Science, University of Virginia",
-        "origin": "China",
+        "origin": "Chinese",
         "prior": ""
       },
       {
@@ -38439,7 +38439,7 @@
         "name": "Unknown",
         "role": "Co-Founder",
         "background": "YC S25 batch.",
-        "origin": "Unknown",
+        "origin": "",
         "prior": ""
       }
     ],
@@ -38482,7 +38482,7 @@
         "name": "James Dacombe",
         "role": "CEO",
         "background": "25-year-old founder who also leads CoMind, a brain-monitoring startup he started as a teenager that has raised $100M. Founded Flux Corp Ltd in March 2024.",
-        "origin": "British.",
+        "origin": "British",
         "prior": ""
       }
     ],
@@ -38525,7 +38525,7 @@
         "name": "Kartik S.",
         "role": "Founder",
         "background": "YC S25 batch.",
-        "origin": "Indian (inferred from name)",
+        "origin": "Indian",
         "prior": ""
       }
     ],
@@ -38627,7 +38627,7 @@
         "name": "Unknown",
         "role": "Co-Founder & CEO",
         "background": "Robotics and ML research background.",
-        "origin": "Unknown",
+        "origin": "",
         "prior": ""
       }
     ],
@@ -38713,7 +38713,7 @@
         "name": "Daniel Farrell",
         "role": "Co-Founder (Design & Growth)",
         "background": "Designer for over a decade; first 100 employee at Bird; former Head of Growth; ex-DIMO, Defy Marketing",
-        "origin": "United States",
+        "origin": "American",
         "prior": ""
       },
       {
@@ -38764,7 +38764,7 @@
         "name": "Maxim Bar Kogan",
         "role": "Co-founder",
         "background": "Cybersecurity leader and experienced technology executive. Served in Unit 8200 of the IDF (Israel Defense Forces).",
-        "origin": "Israeli.",
+        "origin": "Israeli",
         "prior": ""
       },
       {
@@ -38772,7 +38772,7 @@
         "name": "Gil Elbaz",
         "role": "Co-founder",
         "background": "Veteran AI researcher, previously reporting to the CTO of Nvidia. Former member of one of the IDF's AI research units.",
-        "origin": "Israeli.",
+        "origin": "Israeli",
         "prior": ""
       }
     ],
@@ -38826,7 +38826,7 @@
         "name": "Yuhong Sun",
         "role": "Co-Founder",
         "background": "Technical co-founder with AI/ML research background. Built Onyx's open-source AI research agent.",
-        "origin": "",
+        "origin": "Chinese-American",
         "prior": ""
       },
       {
@@ -38877,7 +38877,7 @@
         "name": "Sam Altman",
         "role": "CEO (since 2019; co-chair 2015-2019)",
         "background": "Dropped out of Stanford. Co-founded Loopt (acquired for $43.4M). President of Y Combinator 2014-2019.",
-        "origin": "Jewish American (born Chicago, raised St. Louis, MO)",
+        "origin": "American",
         "prior": ""
       },
       {
@@ -39141,7 +39141,7 @@
         "name": "Rishi Srihari",
         "role": "Co-Founder",
         "background": "YC S25 batch.",
-        "origin": "Indian (inferred from name)",
+        "origin": "Indian",
         "prior": ""
       },
       {
@@ -39149,7 +39149,7 @@
         "name": "Abhi Arya",
         "role": "Co-Founder",
         "background": "YC S25 batch.",
-        "origin": "Indian (inferred from name)",
+        "origin": "Indian",
         "prior": ""
       },
       {
@@ -39157,7 +39157,7 @@
         "name": "Vedant Vyas",
         "role": "Co-Founder",
         "background": "YC S25 batch.",
-        "origin": "Indian (inferred from name)",
+        "origin": "Indian",
         "prior": ""
       }
     ],
@@ -39380,7 +39380,7 @@
         "name": "Unknown",
         "role": "Co-Founder & CEO",
         "background": "Robotics and AI background.",
-        "origin": "Unknown",
+        "origin": "",
         "prior": ""
       }
     ],
@@ -39423,7 +39423,7 @@
         "name": "Sudhir Bhojwani",
         "role": "CEO & Co-founder",
         "background": "Enterprise software executive with deep expertise in procurement technology.",
-        "origin": "Indian.",
+        "origin": "Indian",
         "prior": ""
       },
       {
@@ -39431,7 +39431,7 @@
         "name": "Lalitha Rajagopalan",
         "role": "Co-founder",
         "background": "Enterprise technology executive focused on procurement automation.",
-        "origin": "Indian.",
+        "origin": "Indian",
         "prior": ""
       },
       {
@@ -39439,7 +39439,7 @@
         "name": "Yuan Tung",
         "role": "Co-founder",
         "background": "Enterprise technology executive.",
-        "origin": "Chinese.",
+        "origin": "Chinese",
         "prior": ""
       }
     ],
@@ -39693,7 +39693,7 @@
         "name": "Byron Boots",
         "role": "CEO",
         "background": "UW robotics professor",
-        "origin": "",
+        "origin": "American",
         "prior": ""
       }
     ],
@@ -39747,7 +39747,7 @@
         "name": "Paul Newman",
         "role": "Co-Founder & CTO",
         "background": "Professor of Information Engineering at Oxford University. Leading robotics and autonomous systems researcher. Decades of research in mobile robotics and self-driving technology.",
-        "origin": "British.",
+        "origin": "British",
         "prior": ""
       },
       {
@@ -39755,7 +39755,7 @@
         "name": "Ingmar Posner",
         "role": "Co-Founder & Chief Scientific Officer",
         "background": "Associate Professor at Oxford University. Researcher in machine learning applied to robotics and autonomous systems.",
-        "origin": "British (of German origin based on name).",
+        "origin": "British (of German origin based on name)",
         "prior": ""
       }
     ],
@@ -39976,7 +39976,7 @@
         "name": "Haz Hubble",
         "role": "Co-Founder",
         "background": "YC S25 batch.",
-        "origin": "Unknown",
+        "origin": "",
         "prior": ""
       },
       {
@@ -39984,7 +39984,7 @@
         "name": "Wyatt Lansford",
         "role": "Co-Founder",
         "background": "YC S25 batch.",
-        "origin": "Unknown",
+        "origin": "",
         "prior": ""
       }
     ],
@@ -40027,7 +40027,7 @@
         "name": "Maria Zhang",
         "role": "Co-Founder",
         "background": "YC S25 batch.",
-        "origin": "Chinese (inferred from name)",
+        "origin": "Chinese",
         "prior": ""
       },
       {
@@ -40035,7 +40035,7 @@
         "name": "Alex Avnit",
         "role": "Co-Founder",
         "background": "YC S25 batch.",
-        "origin": "Unknown",
+        "origin": "Israeli",
         "prior": ""
       },
       {
@@ -40043,7 +40043,7 @@
         "name": "Kaiwen Song",
         "role": "Co-Founder",
         "background": "YC S25 batch.",
-        "origin": "Chinese (inferred from name)",
+        "origin": "Chinese",
         "prior": ""
       }
     ],
@@ -40487,7 +40487,7 @@
         "name": "Josh Kelly",
         "role": "Co-Founder",
         "background": "Stanford grad; head of engineering for Mark Rober's YouTube team; previously at Zipline and NASA JPL (Mechatronics)",
-        "origin": "United States",
+        "origin": "American",
         "prior": ""
       },
       {
@@ -40495,7 +40495,7 @@
         "name": "Mason Landon Smith",
         "role": "Co-Founder",
         "background": "Rhode Island School of Design grad; founding product designer at Crunch Labs (Mark Rober); multiple award-winning products",
-        "origin": "United States",
+        "origin": "American",
         "prior": ""
       }
     ],
@@ -40589,7 +40589,7 @@
         "name": "Marius Meiners",
         "role": "Co-Founder",
         "background": "Met co-founders during Antler Founder residency in Berlin (late 2024).",
-        "origin": "",
+        "origin": "German",
         "prior": ""
       },
       {
@@ -40597,7 +40597,7 @@
         "name": "Tobias Siwona",
         "role": "Co-Founder",
         "background": "Met co-founders during Antler Founder residency in Berlin (late 2024).",
-        "origin": "",
+        "origin": "German",
         "prior": ""
       },
       {
@@ -40605,7 +40605,7 @@
         "name": "Daniel Drabo",
         "role": "Co-Founder",
         "background": "Met co-founders during Antler Founder residency in Berlin (late 2024).",
-        "origin": "",
+        "origin": "German",
         "prior": ""
       }
     ],
@@ -40713,7 +40713,7 @@
         "name": "Unknown",
         "role": "Co-Founder & CEO",
         "background": "HR tech and AI background.",
-        "origin": "Unknown",
+        "origin": "",
         "prior": ""
       }
     ],
@@ -41064,7 +41064,7 @@
         "name": "Dr. Jason Cornelius",
         "role": "Co-Founder",
         "background": "PhD. YC S25 batch.",
-        "origin": "Unknown",
+        "origin": "",
         "prior": ""
       },
       {
@@ -41072,7 +41072,7 @@
         "name": "Steve Messinger",
         "role": "Co-Founder",
         "background": "YC S25 batch.",
-        "origin": "Unknown",
+        "origin": "",
         "prior": ""
       }
     ],
@@ -41381,7 +41381,7 @@
         "name": "Brian Ichter",
         "role": "Co-Founder",
         "background": "Former Research Scientist at Google DeepMind and Google Brain. PhD in Aeronautics and Astronautics from Stanford University. Research focus on enabling mobile robotic systems for complex tasks.",
-        "origin": "American (uncertain)",
+        "origin": "American",
         "prior": ""
       },
       {
@@ -41389,7 +41389,7 @@
         "name": "Adnan Esmail",
         "role": "Co-Founder",
         "background": "Former SVP of Engineering at Anduril Industries. Previously worked on hardware technologies at Tesla. Studied Mechanical Engineering, Physics, Electrical Engineering, and Computer Science at MIT.",
-        "origin": "Uncertain",
+        "origin": "Canadian",
         "prior": ""
       },
       {
@@ -41650,7 +41650,7 @@
         "name": "Edo Liberty",
         "role": "Founder, Chief Scientist (formerly CEO)",
         "background": "B.Sc. in Physics and Computer Science from Tel Aviv University. Ph.D. in Computer Science from Yale University. Director of Research at AWS and Head of Amazon AI Labs (built parts of SageMaker, Kinesis, QuickSight, Rekognition, Personalize, Forecast, and other services). Before AWS, Senior Research Director at Yahoo and Head of Yahoo's Research Lab in New York. Deep expertise in large-scale vector search, streaming algorithms, and machine learning infrastructure.",
-        "origin": "Israeli. Educated at Tel Aviv University before moving to the US for his PhD at Yale. Founded Pinecone after seeing that no packaged vector search solution existed for teams without Amazon/Yahoo-scale engineering resources.",
+        "origin": "American",
         "prior": ""
       }
     ],
@@ -41715,7 +41715,7 @@
         "name": "Unknown",
         "role": "Co-Founder",
         "background": "YC S25 batch.",
-        "origin": "Unknown",
+        "origin": "",
         "prior": ""
       }
     ],
@@ -41758,7 +41758,7 @@
         "name": "Unknown",
         "role": "Co-Founder & CEO",
         "background": "AI inference optimization and systems background.",
-        "origin": "Unknown",
+        "origin": "",
         "prior": ""
       }
     ],
@@ -41801,7 +41801,7 @@
         "name": "Simon Rohrbach",
         "role": "Co-Founder",
         "background": "Former Deliveroo. Led Deliveroo's 40-person content, research, and design team from early days through scale-up.",
-        "origin": "",
+        "origin": "Swiss",
         "prior": ""
       },
       {
@@ -41809,7 +41809,7 @@
         "name": "Matt Vagni",
         "role": "Co-Founder",
         "background": "Former Deliveroo. Worked on design systems and internal tooling at Deliveroo from the early days.",
-        "origin": "",
+        "origin": "British",
         "prior": ""
       }
     ],
@@ -41863,7 +41863,7 @@
         "name": "Unknown",
         "role": "Co-Founder & CEO",
         "background": "Hardware and AI product background.",
-        "origin": "Unknown",
+        "origin": "",
         "prior": ""
       }
     ],
@@ -41906,7 +41906,7 @@
         "name": "Unknown",
         "role": "Co-Founder & CEO",
         "background": "Supply chain and AI background.",
-        "origin": "Unknown",
+        "origin": "",
         "prior": ""
       }
     ],
@@ -42170,7 +42170,7 @@
         "name": "Unknown",
         "role": "Co-Founder & CEO",
         "background": "RL research and AI background.",
-        "origin": "Unknown",
+        "origin": "",
         "prior": ""
       }
     ],
@@ -42925,7 +42925,7 @@
         "name": "Nick LaRovere",
         "role": "CEO",
         "background": "Ex-Palantir, Lockheed Martin",
-        "origin": "",
+        "origin": "American",
         "prior": ""
       }
     ],
@@ -43092,7 +43092,7 @@
         "name": "Morteza Ibrahimi",
         "role": "CEO",
         "background": "Ex-DeepMind team lead",
-        "origin": "",
+        "origin": "Iranian-American",
         "prior": ""
       }
     ],
@@ -43204,7 +43204,7 @@
         "name": "Sergiy Nesterenko",
         "role": "CEO",
         "background": "Former SpaceX Senior Radiation Effects Engineer (Falcon 9/Heavy)",
-        "origin": "",
+        "origin": "Ukrainian",
         "prior": ""
       }
     ],
@@ -43452,7 +43452,7 @@
         "name": "Joseph Krause",
         "role": "Co-Founder & CEO",
         "background": "PhD in materials science from Rice University. Former researcher at Army Research Lab. Former investor at AlleyCorp.",
-        "origin": "",
+        "origin": "American",
         "prior": ""
       },
       {
@@ -43468,7 +43468,7 @@
         "name": "Gerbrand Ceder",
         "role": "Co-Founder & Chief Science Officer",
         "background": "Pioneer in battery research. Former principal investigator at Lawrence Berkeley National Laboratory autonomous lab.",
-        "origin": "",
+        "origin": "Belgian",
         "prior": ""
       }
     ],
@@ -43554,7 +43554,7 @@
         "name": "Jake Cooper",
         "role": "Founder & CEO",
         "background": "Former software engineer at Wolfram Alpha, Bloomberg, and Uber.",
-        "origin": "",
+        "origin": "American",
         "prior": ""
       }
     ],
@@ -43824,7 +43824,7 @@
         "name": "Taylor Halliday",
         "role": "Co-Founder",
         "background": "Former Director of Engineering and AI at Zapier. YC 2016 alum (Mesh Studio).",
-        "origin": "",
+        "origin": "American",
         "prior": ""
       },
       {
@@ -43832,7 +43832,7 @@
         "name": "Kevin Coleman",
         "role": "Co-Founder",
         "background": "Former go-to-market lead at AWS (4 years). YC 2016 alum (Mesh Studio).",
-        "origin": "",
+        "origin": "American",
         "prior": ""
       }
     ],
@@ -43934,7 +43934,7 @@
         "name": "Dorothy Li",
         "role": "Co-Founder",
         "background": "YC S25 batch.",
-        "origin": "Chinese-American (inferred from name)",
+        "origin": "Chinese-American",
         "prior": ""
       },
       {
@@ -43942,7 +43942,7 @@
         "name": "Tara Kappel",
         "role": "Co-Founder",
         "background": "YC S25 batch.",
-        "origin": "Unknown",
+        "origin": "",
         "prior": ""
       }
     ],
@@ -44117,7 +44117,7 @@
         "name": "David Gu",
         "role": "Co-Founder & CEO",
         "background": "Bachelor of Software Engineering from University of Waterloo. Previously Software Engineer at Wish (2019). Y Combinator W20 alum. Built Perfect Recall (general-purpose AI meeting assistant) before pivoting to Recall.ai after discovering the infrastructure needed for conversational AI applications was incredibly difficult to build.",
-        "origin": "Canadian-Chinese",
+        "origin": "Chinese-Canadian",
         "prior": ""
       },
       {
@@ -44125,7 +44125,7 @@
         "name": "Amanda Zhu",
         "role": "Co-Founder & COO",
         "background": "Attended University of Waterloo. Co-built Perfect Recall with David Gu before pivoting to Recall.ai. Described as technically gifted and tenacious. Handles operations and business side of Recall.ai.",
-        "origin": "Canadian-Chinese",
+        "origin": "Chinese-Canadian",
         "prior": ""
       }
     ],
@@ -44440,7 +44440,7 @@
         "name": "Dani Yogatama",
         "role": "CEO & Co-Founder",
         "background": "PhD in Computer Science from Carnegie Mellon University. Monbukagakusho fellow at the University of Tokyo (2008-2010). Previously a research scientist at DeepMind in London for several years, where he worked on projects including AlphaCode and Bard.",
-        "origin": "Indonesian. Grew up in Indonesia, attended Institut Teknologi Bandung before moving to Japan and then the US for graduate studies.",
+        "origin": "American",
         "prior": ""
       },
       {
@@ -44448,7 +44448,7 @@
         "name": "Yi Tay",
         "role": "Co-Founder & former Chief Scientist (departed Nov 2024)",
         "background": "NTU Singapore alumnus. Senior research scientist at Google Brain. Co-led PaLM-2 (the model behind Bard/Gemini). Invented UL2 (universal pretraining) and Differentiable Search Indexes. His work was integrated into Google Assistant, YouTube, and Search. At Reka, led the effort to build a GPT-4-class multimodal model from scratch in under a year with ~20 engineers.",
-        "origin": "Singaporean. Lives in Singapore with his family.",
+        "origin": "Singaporean. Lives in Singapore with his family",
         "prior": ""
       },
       {
@@ -44456,7 +44456,7 @@
         "name": "Cyprien de Masson d'Autume",
         "role": "Co-Founder & CTO",
         "background": "Previously a researcher at DeepMind. Technical lead of the company's model development.",
-        "origin": "French (based on name; limited public biographical detail).",
+        "origin": "French",
         "prior": ""
       },
       {
@@ -44464,7 +44464,7 @@
         "name": "Mikel Artetxe",
         "role": "Co-Founder",
         "background": "Previously a Research Scientist at Meta FAIR (Facebook AI Research). Attended the University of the Basque Country (Universidad del Pais Vasco).",
-        "origin": "Basque/Spanish.",
+        "origin": "Basque/Spanish",
         "prior": ""
       },
       {
@@ -44472,7 +44472,7 @@
         "name": "Qi Liu",
         "role": "Co-Founder",
         "background": "Previously at DeepMind. Limited public biographical detail available.",
-        "origin": "Uncertain; name suggests Chinese origin but not confirmed publicly.",
+        "origin": "Chinese",
         "prior": ""
       }
     ],
@@ -44526,7 +44526,7 @@
         "name": "Unknown",
         "role": "Co-Founder & CEO",
         "background": "Robotics and warehouse automation background.",
-        "origin": "Unknown",
+        "origin": "",
         "prior": ""
       }
     ],
@@ -44961,7 +44961,7 @@
         "name": "Mayank Agarwal",
         "role": "Co-Founder & CTO",
         "background": "Co-creator of OpenTelemetry. Former Chief Architect of Splunk Observability. MS from University of Illinois Urbana-Champaign. Met Spiros in grad school 20+ years ago.",
-        "origin": "",
+        "origin": "Indian-American",
         "prior": ""
       }
     ],
@@ -45015,7 +45015,7 @@
         "name": "Rupesh Jeyaram",
         "role": "CEO",
         "background": "Caltech BS 2020; Wharton MBA 2024",
-        "origin": "India",
+        "origin": "Indian",
         "prior": ""
       },
       {
@@ -45564,7 +45564,7 @@
         "name": "Jack Bubes",
         "role": "Co-Founder",
         "background": "YC S25 batch.",
-        "origin": "Unknown",
+        "origin": "",
         "prior": ""
       },
       {
@@ -45572,7 +45572,7 @@
         "name": "Alec Olesky",
         "role": "Co-Founder",
         "background": "YC S25 batch.",
-        "origin": "Unknown",
+        "origin": "",
         "prior": ""
       }
     ],
@@ -45615,7 +45615,7 @@
         "name": "Unknown",
         "role": "Co-Founder & CEO",
         "background": "ML research and post-training background.",
-        "origin": "Unknown",
+        "origin": "",
         "prior": ""
       }
     ],
@@ -45658,7 +45658,7 @@
         "name": "David Tuttle",
         "role": "Co-Founder & CEO",
         "background": "Former U.S. Army officer. Anduril Industries alumnus. Deep experience in military operations and logistics.",
-        "origin": "",
+        "origin": "American",
         "prior": ""
       },
       {
@@ -45666,7 +45666,7 @@
         "name": "Peter Goldsborough",
         "role": "Co-Founder & CTO",
         "background": "Former Meta engineer. Anduril Industries alumnus. Strong AI/ML engineering background.",
-        "origin": "",
+        "origin": "American",
         "prior": ""
       }
     ],
@@ -46149,7 +46149,7 @@
         "name": "Unknown",
         "role": "Co-Founder & CEO",
         "background": "AI safety and software engineering background.",
-        "origin": "Unknown",
+        "origin": "",
         "prior": ""
       }
     ],
@@ -46494,7 +46494,7 @@
         "name": "Kirak Hong",
         "role": "Co-founder",
         "background": "Ex-Meta engineer",
-        "origin": "",
+        "origin": "Korean",
         "prior": ""
       }
     ],
@@ -46548,7 +46548,7 @@
         "name": "Jack Hidary",
         "role": "CEO",
         "background": "Former Google X, author of Quantum Computing textbook",
-        "origin": "",
+        "origin": "American",
         "prior": ""
       }
     ],
@@ -46997,7 +46997,7 @@
         "name": "Jennifer Smith",
         "role": "Co-Founder & CEO",
         "background": "Former McKinsey consultant. Former Greylock Partners. Built Scribe from the pain of documenting enterprise workflows manually.",
-        "origin": "",
+        "origin": "American",
         "prior": ""
       },
       {
@@ -47005,7 +47005,7 @@
         "name": "Aaron Podolny",
         "role": "Co-Founder & CTO",
         "background": "Former Google engineer (via acquisition of his software automation company). Working with ML technology since 2016.",
-        "origin": "",
+        "origin": "American",
         "prior": ""
       }
     ],
@@ -47143,7 +47143,7 @@
         "name": "Unknown",
         "role": "Co-Founder & CEO",
         "background": "Defense technology and AI background.",
-        "origin": "Unknown",
+        "origin": "",
         "prior": ""
       }
     ],
@@ -47453,7 +47453,7 @@
         "name": "Unknown",
         "role": "Co-Founder & CEO",
         "background": "MLOps and observability background.",
-        "origin": "Unknown",
+        "origin": "",
         "prior": ""
       }
     ],
@@ -47547,7 +47547,7 @@
         "name": "Unknown",
         "role": "Co-Founder & CEO",
         "background": "Robotics and logistics background.",
-        "origin": "Unknown",
+        "origin": "",
         "prior": ""
       }
     ],
@@ -47945,7 +47945,7 @@
         "name": "Brandon Tseng",
         "role": "Co-Founder & President",
         "background": "Former U.S. Navy SEAL Officer. Two combat tours in Afghanistan plus deployments in Asia-Pacific. Graduated from the U.S. Naval Academy; MBA from Harvard Business School. Named to TIME100 AI list (2025). His frontline military experience shaped the company's mission: building AI that protects warfighters.",
-        "origin": "Asian American (Taiwanese descent)",
+        "origin": "Taiwanese-American",
         "prior": ""
       },
       {
@@ -47953,7 +47953,7 @@
         "name": "Ryan Tseng",
         "role": "Co-Founder & President (formerly CEO until May 2025)",
         "background": "Serial entrepreneur and engineer. BSEE in Electrical Engineering from University of Florida. MBA from MIT Sloan. Previously founded WiPower Inc. (wireless charging company acquired by Qualcomm in 2010), then served as Technical Lead for Wireless Power at Qualcomm. Led Shield AI as CEO for its first decade before transitioning to President in 2025.",
-        "origin": "Asian American (Taiwanese descent)",
+        "origin": "Taiwanese-American",
         "prior": ""
       },
       {
@@ -48322,7 +48322,7 @@
         "name": "Peter Sarlin",
         "role": "Co-Founder & CEO",
         "background": "PhD in Machine Learning. Leading AI researcher. Continues to lead Silo AI team within AMD's Artificial Intelligence Group.",
-        "origin": "",
+        "origin": "Finnish",
         "prior": ""
       },
       {
@@ -48330,7 +48330,7 @@
         "name": "Tero Ojanpera",
         "role": "Co-Founder",
         "background": "Former Nokia executive and EVP of Services. Deep telecom and technology industry experience.",
-        "origin": "",
+        "origin": "Finnish",
         "prior": ""
       },
       {
@@ -48338,7 +48338,7 @@
         "name": "Johan Kronberg",
         "role": "Co-Founder",
         "background": "Technical co-founder with AI/ML engineering expertise.",
-        "origin": "",
+        "origin": "Finnish",
         "prior": ""
       },
       {
@@ -48346,7 +48346,7 @@
         "name": "Juha Hulkko",
         "role": "Co-Founder",
         "background": "Enterprise technology and business development background.",
-        "origin": "",
+        "origin": "Finnish",
         "prior": ""
       },
       {
@@ -48354,7 +48354,7 @@
         "name": "Kaj-Mikael Bjork",
         "role": "Co-Founder",
         "background": "AI research and applied machine learning.",
-        "origin": "",
+        "origin": "Finnish",
         "prior": ""
       },
       {
@@ -48362,7 +48362,7 @@
         "name": "Ville Hulkko",
         "role": "Co-Founder",
         "background": "Technology and engineering background.",
-        "origin": "",
+        "origin": "Finnish",
         "prior": ""
       }
     ],
@@ -48416,7 +48416,7 @@
         "name": "Joon Sung Park",
         "role": "Co-Founder & CEO",
         "background": "PhD candidate in Computer Science at Stanford (HCI and NLP groups), advised by Michael Bernstein and Percy Liang. MS from UIUC (under Karrie Karahalios). BA in CS from Swarthmore College. Lead author of the 'Generative Agents' (Smallville) paper. Microsoft Research PhD Fellow (2022), Stanford School of Engineering Fellow (2021), Siebel Scholar (2019). Also an oil painter.",
-        "origin": "Korean-American (inferred from name; limited public detail).",
+        "origin": "American",
         "prior": ""
       },
       {
@@ -48424,7 +48424,7 @@
         "name": "Michael Bernstein",
         "role": "Co-Founder & CPO (Chief Product Officer)",
         "background": "Associate Professor of Computer Science at Stanford. Co-author on the ImageNet project. Co-advised Joon Sung Park's PhD. Deep expertise in human-computer interaction and crowdsourcing.",
-        "origin": "American (limited public info on ethnic background).",
+        "origin": "American",
         "prior": ""
       },
       {
@@ -48432,7 +48432,7 @@
         "name": "Percy Liang",
         "role": "Co-Founder & Chief Scientist",
         "background": "Professor of Computer Science at Stanford. Director of the Center for Research on Foundation Models (CRFM). Credited with coining the term 'foundation model.' Co-founded Together.ai. Extensive research in NLP and ML benchmarking (HELM).",
-        "origin": "Chinese-American (inferred; limited public detail).",
+        "origin": "Chinese-American",
         "prior": ""
       },
       {
@@ -48440,7 +48440,7 @@
         "name": "Elaina 'Lainie' Yallen",
         "role": "Co-Founder & CCO (Chief Creative Officer)",
         "background": "Stanford-affiliated. Exact prior career details not publicly documented as of this writing. Index Ventures partner Shardul Shah compared the full founding team to early-stage Wiz in terms of enterprise market pull, suggesting she brings significant go-to-market or business credentials.",
-        "origin": "American (limited public info).",
+        "origin": "American (limited public info)",
         "prior": ""
       }
     ],
@@ -48870,7 +48870,7 @@
         "name": "Harsha Gaddipati",
         "role": "Co-Founder",
         "background": "YC S25 batch.",
-        "origin": "Indian (inferred from name)",
+        "origin": "Indian",
         "prior": ""
       },
       {
@@ -48878,7 +48878,7 @@
         "name": "Pranjali Awasthi",
         "role": "Co-Founder",
         "background": "YC S25 batch.",
-        "origin": "Indian (inferred from name)",
+        "origin": "Indian",
         "prior": ""
       },
       {
@@ -48886,7 +48886,7 @@
         "name": "Dhruv Roongta",
         "role": "Co-Founder",
         "background": "YC S25 batch.",
-        "origin": "Indian (inferred from name)",
+        "origin": "Indian",
         "prior": ""
       }
     ],
@@ -48991,7 +48991,7 @@
         "name": "Andrew Markoff",
         "role": "Co-founder",
         "background": "MARSOC veteran, 20+ years combat experience",
-        "origin": "",
+        "origin": "American",
         "prior": ""
       },
       {
@@ -48999,7 +48999,7 @@
         "name": "Clint Alanis",
         "role": "Co-founder",
         "background": "MARSOC veteran",
-        "origin": "",
+        "origin": "American",
         "prior": ""
       }
     ],
@@ -49327,7 +49327,7 @@
         "name": "Riya Jagetia",
         "role": "Co-Founder",
         "background": "YC S25 batch.",
-        "origin": "Indian (inferred from name)",
+        "origin": "Indian",
         "prior": ""
       },
       {
@@ -49335,7 +49335,7 @@
         "name": "Satya Vasanth Reddy",
         "role": "Co-Founder",
         "background": "YC S25 batch.",
-        "origin": "Indian (inferred from name)",
+        "origin": "Indian",
         "prior": ""
       }
     ],
@@ -49647,7 +49647,7 @@
         "name": "Unknown",
         "role": "Co-Founder",
         "background": "YC S25 batch.",
-        "origin": "Unknown",
+        "origin": "",
         "prior": ""
       }
     ],
@@ -49690,7 +49690,7 @@
         "name": "Chris Parsonson",
         "role": "Co-Founder & CEO",
         "background": "PhD holder. Co-founded Solve Intelligence with his brother Angus. Y Combinator alumni.",
-        "origin": "",
+        "origin": "British",
         "prior": ""
       },
       {
@@ -49698,7 +49698,7 @@
         "name": "Angus Parsonson",
         "role": "Co-Founder & CTO",
         "background": "Technical co-founder. Brother of Chris. Y Combinator alumni.",
-        "origin": "",
+        "origin": "British",
         "prior": ""
       },
       {
@@ -49760,7 +49760,7 @@
         "name": "Steve Basher",
         "role": "CEO & Founder",
         "background": "Spent eight years at Palantir working with complex enterprise software before founding SolveAI in July 2025. Built company to 12-person team (with hires from Palantir, ElevenLabs, Meta) before emerging from stealth.",
-        "origin": "British (inferred, London-based).",
+        "origin": "British (inferred, London-based)",
         "prior": ""
       }
     ],
@@ -49814,7 +49814,7 @@
         "name": "Ryan Tremblay",
         "role": "Co-Founder",
         "background": "Cornell CS & History grad; spent 1.5 years researching music AI in collaboration with HarmonAI (Stability AI) and open-source researchers",
-        "origin": "United States",
+        "origin": "American",
         "prior": ""
       },
       {
@@ -49956,7 +49956,7 @@
         "name": "Logan Brown",
         "role": "CEO",
         "background": "Harvard J.D., ex-Cooley LLP",
-        "origin": "",
+        "origin": "American",
         "prior": ""
       }
     ],
@@ -51240,7 +51240,7 @@
         "name": "Alex Reichenbach",
         "role": "Co-Founder & CEO",
         "background": "Top CS student in his class. Received first patent at 17. Experience at Matician in SLAM and data translation.",
-        "origin": "",
+        "origin": "American",
         "prior": ""
       },
       {
@@ -51248,7 +51248,7 @@
         "name": "Alex Goldstein",
         "role": "Co-Founder & CTO",
         "background": "Deep experience at Matician in SLAM and translating data into action.",
-        "origin": "",
+        "origin": "American",
         "prior": ""
       },
       {
@@ -51256,7 +51256,7 @@
         "name": "Ronak Gandhi",
         "role": "Co-Founder & COO",
         "background": "Met Reichenbach on first day of college. Diverse academic background combining CS and humanities.",
-        "origin": "",
+        "origin": "Indian-American",
         "prior": ""
       }
     ],
@@ -51842,7 +51842,7 @@
         "name": "Yair Grindlinger",
         "role": "CEO & Co-founder",
         "background": "Co-founded FireLayers (acquired by Proofpoint), later held senior management positions at Proofpoint. Veteran Israeli cybersecurity entrepreneur.",
-        "origin": "Israeli.",
+        "origin": "Israeli",
         "prior": ""
       },
       {
@@ -51850,7 +51850,7 @@
         "name": "Elad Horn",
         "role": "Co-founder",
         "background": "Experienced Israeli cybersecurity executive.",
-        "origin": "Israeli.",
+        "origin": "Israeli",
         "prior": ""
       },
       {
@@ -51858,7 +51858,7 @@
         "name": "Roie Cohen Duwek",
         "role": "Co-founder",
         "background": "Israeli cybersecurity sector veteran.",
-        "origin": "Israeli.",
+        "origin": "Israeli",
         "prior": ""
       },
       {
@@ -51866,7 +51866,7 @@
         "name": "Avner Gideoni",
         "role": "Co-founder",
         "background": "Israeli cybersecurity sector veteran.",
-        "origin": "Israeli.",
+        "origin": "Israeli",
         "prior": ""
       },
       {
@@ -51874,7 +51874,7 @@
         "name": "Brenton Gumucio",
         "role": "Co-founder",
         "background": "Cybersecurity executive.",
-        "origin": "American (inferred).",
+        "origin": "American",
         "prior": ""
       }
     ],
@@ -51917,7 +51917,7 @@
         "name": "Edwin Chen",
         "role": "Founder & CEO",
         "background": "MIT dropout. Former data scientist. Bootstrapped Surge AI from his SF apartment in May 2020 to $1B+ revenue without external funding. Forbes billionaire.",
-        "origin": "",
+        "origin": "Chinese-American",
         "prior": ""
       }
     ],
@@ -52022,7 +52022,7 @@
         "name": "Prady Modukuru",
         "role": "CEO",
         "background": "Co-creator of wav2lip (8.7k+ GitHub stars); raised $5.5M seed led by GV; won AI grant from Nat Friedman and Daniel Gross",
-        "origin": "India",
+        "origin": "Indian",
         "prior": ""
       },
       {
@@ -52030,7 +52030,7 @@
         "name": "Rudrabha Mukhopadhyay",
         "role": "CTO",
         "background": "Co-creator of wav2lip; researcher in lip-sync and speech-driven facial animation",
-        "origin": "India",
+        "origin": "Indian",
         "prior": ""
       },
       {
@@ -52038,7 +52038,7 @@
         "name": "Prajwal K R",
         "role": "Chief Scientist",
         "background": "Co-creator of wav2lip; researcher in audio-visual speech synthesis",
-        "origin": "India",
+        "origin": "Indian",
         "prior": ""
       },
       {
@@ -52046,7 +52046,7 @@
         "name": "Pavan Reddy",
         "role": "COO",
         "background": "Co-creator of wav2lip; operations and business development",
-        "origin": "India",
+        "origin": "Indian",
         "prior": ""
       }
     ],
@@ -52211,7 +52211,7 @@
         "name": "Unknown",
         "role": "Co-Founder & CEO",
         "background": "Scientific research and AI background.",
-        "origin": "Unknown",
+        "origin": "",
         "prior": ""
       }
     ],
@@ -52944,7 +52944,7 @@
         "name": "Unknown",
         "role": "Co-Founder & CEO",
         "background": "Distributed systems and AI background.",
-        "origin": "Unknown",
+        "origin": "",
         "prior": ""
       }
     ],
@@ -53372,7 +53372,7 @@
         "name": "Vivek Rao",
         "role": "Co-Founder",
         "background": "YC S25 batch.",
-        "origin": "Indian (inferred from name)",
+        "origin": "Indian",
         "prior": ""
       },
       {
@@ -53482,7 +53482,7 @@
         "name": "Andrew Pignanelli",
         "role": "Co-Founder & CEO",
         "background": "Originally from Salt Lake City, now based in New York. Previously built Velvet, a retrieval-augmented intelligence system for private equity firms.",
-        "origin": "",
+        "origin": "American",
         "prior": ""
       },
       {
@@ -53490,7 +53490,7 @@
         "name": "Abhishyant Khar",
         "role": "Co-Founder",
         "background": "Technical co-founder working on autonomous AI agent systems.",
-        "origin": "",
+        "origin": "Indian",
         "prior": ""
       }
     ],
@@ -53801,7 +53801,7 @@
         "name": "Angela McNeal",
         "role": "Co-Founder & CEO",
         "background": "Former Foundry Head of AI Product at Palantir. Built Palantir's first ML product suite (100M+ in projects).",
-        "origin": "",
+        "origin": "American",
         "prior": ""
       },
       {
@@ -54697,7 +54697,7 @@
         "name": "Jacky Lin",
         "role": "Co-Founder",
         "background": "Stanford AI Lab; taught hundreds of Stanford grad students to build/train/deploy AI models; previously at Meta, World Bank, Wayfair",
-        "origin": "United States",
+        "origin": "American",
         "prior": ""
       }
     ],
@@ -55082,7 +55082,7 @@
         "name": "Rahul Karajgikar",
         "role": "Co-Founder",
         "background": "Published research at NeurIPS 2022 and WACV '23 (with Meta); built AI products for face recognition and health estimation at Hyperverge",
-        "origin": "India",
+        "origin": "Indian",
         "prior": ""
       },
       {
@@ -55090,7 +55090,7 @@
         "name": "Shaunak Srivastava",
         "role": "Co-Founder",
         "background": "Published research at NeurIPS 2022 and WACV '23 (with Meta); built AI products at Hyperverge",
-        "origin": "India",
+        "origin": "Indian",
         "prior": ""
       }
     ],
@@ -55192,7 +55192,7 @@
         "name": "Vijay Krishnan",
         "role": "CTO & Co-Founder",
         "background": "B.Tech, IIT Bombay; M.S. Computer Science, Stanford University",
-        "origin": "India",
+        "origin": "Indian",
         "prior": ""
       }
     ],
@@ -55535,7 +55535,7 @@
         "name": "Thomas Hartke",
         "role": "Co-Founder",
         "background": "PhD quantum physics, MIT",
-        "origin": "",
+        "origin": "American",
         "prior": ""
       }
     ],
@@ -56585,7 +56585,7 @@
         "name": "Dr. Amr Awadallah",
         "role": "Co-Founder & CEO",
         "background": "B.Sc. and M.Sc. in Electrical/Computer Engineering from Cairo University. Ph.D. in Electrical Engineering from Stanford University (1995-2007). Co-founded Cloudera in 2008 and served as Global CTO for 11 years through its 2017 NYSE IPO and 2021 acquisition for $5.3B. VP of Developer Relations at Google Cloud (2019-2022). Earlier: VP of Product Intelligence Engineering at Yahoo (2000-2008) after Yahoo acquired his first startup Aptivia (a product search engine). Also held roles at Nortel.",
-        "origin": "Egyptian-American. Born and educated in Cairo, Egypt before moving to the US for his Stanford PhD. Holds Egyptian, American, and Saudi Arabian citizenship. One of 10 scientists/technologists granted honorary Saudi citizenship in 2021.",
+        "origin": "American",
         "prior": ""
       },
       {
@@ -56593,7 +56593,7 @@
         "name": "Amin Ahmad",
         "role": "Co-Founder & CTO",
         "background": "Drives the technical architecture and product vision of Vectara's neural search platform. Oversees core model R&D, scaling enterprise infrastructure, and architected the GenAI services and integration frameworks central to Vectara's offering.",
-        "origin": "Exact background uncertain; previous employers not confirmed in public sources.",
+        "origin": "American",
         "prior": ""
       },
       {
@@ -56601,7 +56601,7 @@
         "name": "Dr. Tallat Shafaat",
         "role": "Co-Founder & Chief Architect",
         "background": "Led the engineering behind the Boomerang Retrieval Model and the open-source HHEM (Hughes Hallucination Evaluation Model) for hallucination detection. Significant tenure at Google focused on search infrastructure and knowledge graphs. Research experience at the Swedish Institute of Computer Science (SICS).",
-        "origin": "Exact national origin uncertain; career history suggests time in Sweden and at Google.",
+        "origin": "American",
         "prior": ""
       }
     ],
@@ -57120,7 +57120,7 @@
         "name": "Joshua March",
         "role": "Co-Founder",
         "background": "YC S25 batch.",
-        "origin": "Unknown",
+        "origin": "",
         "prior": ""
       },
       {
@@ -57128,7 +57128,7 @@
         "name": "Joey Stein",
         "role": "Co-Founder",
         "background": "YC S25 batch.",
-        "origin": "Unknown",
+        "origin": "",
         "prior": ""
       },
       {
@@ -57136,7 +57136,7 @@
         "name": "David Schlesinger",
         "role": "Co-Founder",
         "background": "YC S25 batch.",
-        "origin": "Unknown",
+        "origin": "",
         "prior": ""
       }
     ],
@@ -57281,7 +57281,7 @@
         "name": "Elia Saquand",
         "role": "Co-Founder",
         "background": "YC S25 batch.",
-        "origin": "Unknown",
+        "origin": "",
         "prior": ""
       },
       {
@@ -57445,7 +57445,7 @@
         "name": "Unknown",
         "role": "Co-Founder & CEO",
         "background": "Semiconductor design and AI background.",
-        "origin": "Unknown",
+        "origin": "",
         "prior": ""
       }
     ],
@@ -57583,7 +57583,7 @@
         "name": "Tanner Jones",
         "role": "Co-Founder",
         "background": "YC S25 batch.",
-        "origin": "Unknown",
+        "origin": "",
         "prior": ""
       },
       {
@@ -57591,7 +57591,7 @@
         "name": "Chris Minge",
         "role": "Co-Founder",
         "background": "YC S25 batch.",
-        "origin": "Unknown",
+        "origin": "",
         "prior": ""
       },
       {
@@ -57599,7 +57599,7 @@
         "name": "Nathaniel Branscum",
         "role": "Co-Founder",
         "background": "YC S25 batch.",
-        "origin": "Unknown",
+        "origin": "",
         "prior": ""
       }
     ],
@@ -58177,7 +58177,7 @@
         "name": "Bob van Luijt",
         "role": "Co-Founder & CEO",
         "background": "Born November 15, 1985 in Bergen op Zoom, Netherlands. Started his own software company at age 15. Studied jazz and electronic composition at Artez Institute of the Arts (bachelor's degree). Attended Berklee College of Music in the US on a VSBfonds scholarship and Berklee World Scholarship. Completed Harvard Business School Program of Management Excellence. Ran a strategic design and software consultancy called Kubrickology (named after Stanley Kubrick). Started the Weaviate open-source project in March 2016. Shut down Kubrickology to co-found SeMI Technologies (later renamed Weaviate). Also an angel investor.",
-        "origin": "Dutch. Born in Bergen op Zoom, Netherlands. Studied in the Netherlands and US. An unusual founder profile -- trained as a musician who self-taught programming from adolescence. His work sits at the intersection of language, music, and digital infrastructure.",
+        "origin": "American",
         "prior": ""
       },
       {
@@ -58185,7 +58185,7 @@
         "name": "Etienne Dilocker",
         "role": "Co-Founder & CTO",
         "background": "Deep-tech background focused on distributed systems and cloud technology. Expertise in Golang, database development, cloud-native technology, and performance programming. Former freelance software engineer. Managing Director at Dilocker Software Engineering & Consulting GmbH. Current research interests include auto-scaling databases and new vector-index types for resource-efficient vector search at scale.",
-        "origin": "German. Based in Mannheim, Germany.",
+        "origin": "German. Based in Mannheim, Germany",
         "prior": ""
       },
       {
@@ -58193,7 +58193,7 @@
         "name": "Micha Verhagen",
         "role": "Co-Founder",
         "background": "Limited public information available. Co-founded SeMI Technologies in 2019 alongside Van Luijt and Dilocker.",
-        "origin": "Dutch (uncertain -- based on name and Amsterdam founding).",
+        "origin": "American",
         "prior": ""
       }
     ],
@@ -58339,7 +58339,7 @@
         "name": "Unknown",
         "role": "Co-Founder",
         "background": "YC S25 batch.",
-        "origin": "Unknown",
+        "origin": "",
         "prior": ""
       }
     ],
@@ -59102,7 +59102,7 @@
         "name": "Bar Winkler",
         "role": "CEO & Co-Founder",
         "background": "Previously founded Approve.com, a platform for automated payment management for businesses, which was acquired by Tipalti in 2021. Serial Israeli entrepreneur.",
-        "origin": "Israeli.",
+        "origin": "Israeli",
         "prior": ""
       },
       {
@@ -59110,7 +59110,7 @@
         "name": "Roey Lalazar",
         "role": "CTO & Co-Founder",
         "background": "Previously founded Kaps, an AI-based localization platform. Technical co-founder with deep AI/ML expertise.",
-        "origin": "Israeli.",
+        "origin": "Israeli",
         "prior": ""
       }
     ],
@@ -59220,7 +59220,7 @@
         "name": "Fei-Fei Li",
         "role": "CEO & Co-Founder",
         "background": "Known as the 'Godmother of AI.' Created ImageNet, the large-scale visual recognition dataset that catalyzed the deep learning revolution starting with AlexNet in 2012. PhD in Electrical Engineering from Caltech (2005). BA in Physics from Princeton (1999, with High Honors). Inaugural Sequoia Professor in Computer Science at Stanford. Founding Co-Director of Stanford's Human-Centered AI Institute (HAI). Directed Stanford AI Lab (SAIL) from 2013-2018. Served briefly as VP/Chief Scientist of AI/ML at Google Cloud (2017-2018, on sabbatical from Stanford). Author of the memoir 'The Worlds I See' (2023). Remains on the Stanford faculty.",
-        "origin": "Born in Beijing, China (1976). Grew up in Chengdu, Sichuan. Father (Kuang Ying) was a secondary school teacher; mother (Li Sun) worked in a computer department at a chemical factory. Emigrated to the United States at age 16, joining her father in Parsippany, New Jersey. Arrived with her family with reportedly less than $20. Worked at her family's dry-cleaning shop and in restaurants while attending Parsippany High School. Received a full scholarship to Princeton -- a Paul & Daisy Soros Fellow (fellowship for New Americans). Naturalized U.S. citizen.",
+        "origin": "Chinese-American",
         "prior": ""
       },
       {
@@ -59228,7 +59228,7 @@
         "name": "Justin Johnson",
         "role": "Co-Founder",
         "background": "PhD from Stanford (2012-2018), advised by Fei-Fei Li in the Stanford Vision Lab. Assistant Professor of Computer Science at University of Michigan (2019-2024). Research Scientist at Facebook/Meta (2018-2023). Known for pioneering work on neural style transfer (the original 'artistic style transfer' papers), visual question answering, and other core computer vision advances. Taught one of the most popular deep learning courses (EECS 498/598) at Michigan.",
-        "origin": "American (limited public information on ethnic background).",
+        "origin": "American",
         "prior": ""
       },
       {
@@ -59236,7 +59236,7 @@
         "name": "Ben Mildenhall",
         "role": "Co-Founder",
         "background": "Co-creator of NeRF (Neural Radiance Fields), published at ECCV 2020 (Oral, Best Paper Honorable Mention) -- one of the most cited computer vision papers of recent years, which spawned an entire subfield in 3D reconstruction and novel view synthesis. PhD from UC Berkeley (2020, advised by Ren Ng, Hertz Fellow). BS in Computer Science (Honors) and Mathematics from Stanford (2015). Research Scientist at Google Research (2021-2023) in David Salesin's group.",
-        "origin": "American (limited public information on ethnic background).",
+        "origin": "American",
         "prior": ""
       },
       {
@@ -59244,7 +59244,7 @@
         "name": "Christoph Lassner",
         "role": "Co-Founder",
         "background": "Created Pulsar, an efficient sphere-based differentiable renderer that became the rendering backend for PyTorch3D and laid theoretical groundwork for Gaussian Splatting -- another transformative 3D rendering technique. Previously led research teams at Meta Reality Labs Research (working on 3D reconstruction and neural rendering) and at Epic Games. Earlier at Bodylabs, a body-scanning startup acquired by Amazon.",
-        "origin": "German (based on academic trajectory through German institutions; limited public detail).",
+        "origin": "American",
         "prior": ""
       }
     ],
@@ -59436,7 +59436,7 @@
         "name": "Elon Musk",
         "role": "Founder & CEO",
         "background": "Born 1971 in Pretoria, South Africa. Moved to Canada at 17, then to the US. Co-founded Zip2, X.com (merged into PayPal), founded SpaceX (2002), co-founded Tesla (2003), co-founded OpenAI (2015, departed board 2018). Acquired Twitter/X in 2022. One of the wealthiest people in history. Co-founded xAI in 2023 to build AI that \"understands the true nature of the universe.\"",
-        "origin": "South African (Afrikaner descent, naturalized Canadian then US citizen)",
+        "origin": "American",
         "prior": ""
       },
       {
@@ -59452,7 +59452,7 @@
         "name": "Greg Yang",
         "role": "Co-founder (departed January 2026)",
         "background": "Born in Hunan Province, China. Moved through Guangzhou, Beijing, then Houston, TX for middle/high school. BA in Mathematics from Harvard (2018), where his thesis won the Hoopes Prize and earned honorable mention for the Frank and Brennie Morgan Prize. Worked at Microsoft Research on neural network scaling theory (muP/muTransfer). Departed xAI in January 2026 citing health reasons.",
-        "origin": "Chinese (raised partly in US)",
+        "origin": "Chinese",
         "prior": ""
       },
       {
@@ -59492,7 +59492,7 @@
         "name": "Kyle Kosic",
         "role": "Co-founder (departed; exact date uncertain)",
         "background": "Previously at OpenAI. Limited public information available on personal background. One of the earlier departures from the founding team.",
-        "origin": "Uncertain (American, based on available information)",
+        "origin": "American",
         "prior": ""
       },
       {
@@ -59500,7 +59500,7 @@
         "name": "Guodong Zhang",
         "role": "Co-founder; led Imagine team (departed ~March 2026)",
         "background": "Led xAI's image generation (\"Imagine\") team. Previously at Google Brain/DeepMind. Departed around March 2026 during the broader co-founder exodus.",
-        "origin": "Chinese (based on available information)",
+        "origin": "Chinese",
         "prior": ""
       },
       {
@@ -59508,7 +59508,7 @@
         "name": "Zihang Dai",
         "role": "Co-founder (departed ~early 2026)",
         "background": "Previously at Google Brain, known for work on Transformer-XL. Departed xAI in early 2026.",
-        "origin": "Chinese (based on available information)",
+        "origin": "Chinese",
         "prior": ""
       },
       {

@@ -14,7 +14,6 @@ founders:
 - name: Ethan Gibbs
   role: Co-Founder
   background: YC S25 batch.
-  origin: ''
 - name: Bob Wei
   role: Co-Founder
   background: YC S25 batch.

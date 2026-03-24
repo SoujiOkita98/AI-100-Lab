@@ -9,12 +9,15 @@ total_funding_estimated: ~$4.1M
 status: Private
 founders:
 - name: Alex Reichenbach
+  origin: American
   role: Co-Founder & CEO
   background: Top CS student in his class. Received first patent at 17. Experience at Matician in SLAM and data translation.
 - name: Alex Goldstein
+  origin: American
   role: Co-Founder & CTO
   background: Deep experience at Matician in SLAM and translating data into action.
 - name: Ronak Gandhi
+  origin: Indian-American
   role: Co-Founder & COO
   background: Met Reichenbach on first day of college. Diverse academic background combining CS and humanities.
 last_updated: 2026-03-23

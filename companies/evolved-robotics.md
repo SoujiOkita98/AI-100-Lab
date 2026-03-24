@@ -8,6 +8,7 @@ one_liner: AI robots for assisted living and elder care. Co-founded by Gur Kimch
 status: active
 founders:
 - name: Gur Kimchi
+  origin: Israeli
   role: Co-founder
   background: Co-founder Amazon Prime Air, former VP Amazon
 - name: Matthew Skeels

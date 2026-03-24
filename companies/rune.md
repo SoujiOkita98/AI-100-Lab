@@ -10,9 +10,11 @@ employees: ~30 (estimated)
 status: Private
 founders:
 - name: David Tuttle
+  origin: American
   role: Co-Founder & CEO
   background: Former U.S. Army officer. Anduril Industries alumnus. Deep experience in military operations and logistics.
 - name: Peter Goldsborough
+  origin: American
   role: Co-Founder & CTO
   background: Former Meta engineer. Anduril Industries alumnus. Strong AI/ML engineering background.
 last_updated: 2026-03-24

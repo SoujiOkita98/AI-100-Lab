@@ -8,6 +8,7 @@ one_liner: AI for legal case management in Brazil — clients include Itau, Nuba
 status: active
 founders:
 - name: Mateus Costa-Ribeiro
+  origin: Brazilian
   role: CEO
   background: Brazil youngest lawyer at 18, Harvard Law, left Stanford MBA
 funding_rounds:

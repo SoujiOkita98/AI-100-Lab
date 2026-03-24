@@ -9,10 +9,12 @@ total_funding_estimated: ~$7.5M
 status: Private
 founders:
 - name: Matthias Auf der Mauer
+  origin: German
   role: Co-Founder & CEO
   background: Previously founded AiSight (predictive machine maintenance), sold to Swiss smart sensor company Sensirion in
     2021.
 - name: Christian von Hardenberg
+  origin: German
   role: Co-Founder & CTO
   background: Former CTO of Rocket Internet and Delivery Hero. Scaled engineering teams of 2,500+ people and launched 50+
     internet companies.

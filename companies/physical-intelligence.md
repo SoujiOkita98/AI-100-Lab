@@ -74,10 +74,10 @@ founders:
     University. Research focus on enabling mobile robotic systems for complex tasks.
   origin: American
 - name: Adnan Esmail
+  origin: Canadian
   role: Co-Founder
   background: Former SVP of Engineering at Anduril Industries. Previously worked on hardware technologies at Tesla. Studied
     Mechanical Engineering, Physics, Electrical Engineering, and Computer Science at MIT.
-  origin: ''
 - name: Quan Vuong
   role: Co-Founder
   background: Deep experience in reinforcement learning and robotics engineering. Previously at Google DeepMind.

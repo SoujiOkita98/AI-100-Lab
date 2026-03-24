@@ -9,6 +9,7 @@ status: Active
 total_raised_m: 3.3
 founders:
 - name: Aaron Wang
+  origin: Chinese-American
   role: Co-Founder
   background: Quant finance, Facebook AI
 - name: John Rytel

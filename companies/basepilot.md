@@ -9,6 +9,7 @@ status: Active
 total_raised_m: 0.5
 founders:
 - name: Pascal Wieler
+  origin: German
   role: Co-Founder
   background: Carnegie Mellon robotics, Mercedes-Benz Research
 - name: Ken Hendricks

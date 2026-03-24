@@ -10,9 +10,11 @@ employees: ~20 (estimated)
 status: Private
 founders:
 - name: Vaibhavi Gangwar
+  origin: Indian
   role: Co-Founder & CEO
   background: Former Google and Milaap. MBA in Entrepreneurship and Business Analytics from The Wharton School (2018-2020).
 - name: Akshay Deo
+  origin: Indian
   role: Co-Founder & CTO
   background: Former Postman, Slack, and Media.Net engineer. Previously founded AppSurfer and BetaCraft. Deep expertise in developer tools and API platforms.
 last_updated: 2026-03-24

@@ -4,6 +4,7 @@ headquarters: San Francisco, CA, United States
 website: https://www.coval.dev/
 founders:
 - name: Brooke Hopkins
+  origin: American
   role: Founder & CEO
   background: "Former tech lead at Waymo, where she led the evaluation job infrastructure team and built foundational simulation systems for autonomous vehicle testing."
 sector: AI Infrastructure / Agent Evaluation / Testing & Quality

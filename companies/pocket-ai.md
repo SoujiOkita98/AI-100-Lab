@@ -11,7 +11,6 @@ founders:
 - name: Unknown
   role: Co-Founder & CEO
   background: Hardware and AI product background.
-  origin: ''
 funding_rounds:
 - stage: Seed
   date: 2025

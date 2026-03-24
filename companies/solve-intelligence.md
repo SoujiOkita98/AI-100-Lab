@@ -9,9 +9,11 @@ total_funding_estimated: ~$55M
 status: Private
 founders:
 - name: Chris Parsonson
+  origin: British
   role: Co-Founder & CEO
   background: PhD holder. Co-founded Solve Intelligence with his brother Angus. Y Combinator alumni.
 - name: Angus Parsonson
+  origin: British
   role: Co-Founder & CTO
   background: Technical co-founder. Brother of Chris. Y Combinator alumni.
 - name: Sanj Ahilan

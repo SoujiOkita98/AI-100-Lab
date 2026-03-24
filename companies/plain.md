@@ -9,9 +9,11 @@ total_funding_estimated: ~$21M
 status: Private
 founders:
 - name: Simon Rohrbach
+  origin: Swiss
   role: Co-Founder
   background: Former Deliveroo. Led Deliveroo's 40-person content, research, and design team from early days through scale-up.
 - name: Matt Vagni
+  origin: British
   role: Co-Founder
   background: Former Deliveroo. Worked on design systems and internal tooling at Deliveroo from the early days.
 last_updated: 2026-03-23

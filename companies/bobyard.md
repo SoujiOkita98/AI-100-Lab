@@ -7,6 +7,7 @@ one_liner: AI computer-vision platform automating construction takeoffs and esti
 status: active
 founders:
 - name: Michael Ding
+  origin: Chinese-American
   role: CEO
   background: Stanford-trained engineer
 funding_rounds:

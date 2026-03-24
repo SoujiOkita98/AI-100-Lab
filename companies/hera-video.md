@@ -14,7 +14,6 @@ founders:
 - name: Peter Tribelhorn
   role: Co-Founder
   background: YC S25 batch.
-  origin: ''
 - name: Chia-Lun Wu
   role: Co-Founder
   background: YC S25 batch.

@@ -18,6 +18,7 @@ founders:
   role: Co-Founder
   background: Technical co-founder.
 - name: Nima Badizadegan
+  origin: Iranian-American
   role: Co-Founder
   background: Technical co-founder.
 last_updated: 2026-03-23

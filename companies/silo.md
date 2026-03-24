@@ -10,21 +10,27 @@ employees: ~300 (at time of acquisition)
 status: Acquired by AMD ($665M, August 2024)
 founders:
 - name: Peter Sarlin
+  origin: Finnish
   role: Co-Founder & CEO
   background: PhD in Machine Learning. Leading AI researcher. Continues to lead Silo AI team within AMD's Artificial Intelligence Group.
 - name: Tero Ojanpera
+  origin: Finnish
   role: Co-Founder
   background: Former Nokia executive and EVP of Services. Deep telecom and technology industry experience.
 - name: Johan Kronberg
+  origin: Finnish
   role: Co-Founder
   background: Technical co-founder with AI/ML engineering expertise.
 - name: Juha Hulkko
+  origin: Finnish
   role: Co-Founder
   background: Enterprise technology and business development background.
 - name: Kaj-Mikael Bjork
+  origin: Finnish
   role: Co-Founder
   background: AI research and applied machine learning.
 - name: Ville Hulkko
+  origin: Finnish
   role: Co-Founder
   background: Technology and engineering background.
 last_updated: 2026-03-24

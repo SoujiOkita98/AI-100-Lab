@@ -9,9 +9,11 @@ one_liner: 'AI agent infrastructure with persistent self-editing memory. UC Berk
 status: active
 founders:
 - name: Sarah Wooders
+  origin: American
   role: CEO
   background: Berkeley PhD, Sky Computing Lab
 - name: Charles Packer
+  origin: American
   role: CTO
   background: Berkeley PhD, Sky Computing Lab
 funding_rounds:

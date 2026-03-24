@@ -11,7 +11,6 @@ founders:
 - name: Unknown
   role: Co-Founder & CEO
   background: Scientific research and AI background.
-  origin: ''
 funding_rounds:
 - stage: Pre-Seed
   date: 2025

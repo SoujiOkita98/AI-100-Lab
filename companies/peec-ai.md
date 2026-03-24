@@ -10,12 +10,15 @@ revenue_arr: ~$4M ARR (first 10 months)
 status: Private
 founders:
 - name: Marius Meiners
+  origin: German
   role: Co-Founder
   background: Met co-founders during Antler Founder residency in Berlin (late 2024).
 - name: Tobias Siwona
+  origin: German
   role: Co-Founder
   background: Met co-founders during Antler Founder residency in Berlin (late 2024).
 - name: Daniel Drabo
+  origin: German
   role: Co-Founder
   background: Met co-founders during Antler Founder residency in Berlin (late 2024).
 last_updated: 2026-03-23

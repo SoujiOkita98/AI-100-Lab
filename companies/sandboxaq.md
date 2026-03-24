@@ -9,6 +9,7 @@ one_liner: Enterprise AI+quantum software company spun out of Alphabet. Combines
 status: active
 founders:
 - name: Jack Hidary
+  origin: American
   role: CEO
   background: Former Google X, author of Quantum Computing textbook
 funding_rounds:

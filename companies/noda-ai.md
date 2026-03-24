@@ -8,9 +8,11 @@ one_liner: Multi-domain AI orchestration for autonomous defense systems. Vendor-
 status: active
 founders:
 - name: Philong Duong
+  origin: Vietnamese-American
   role: CEO
   background: Former Marine Corps joint fires instructor, ex-C3.ai Defense lead
 - name: Dave Corbett
+  origin: American
   role: Co-founder
   background: Former Marine Corps, ex-C3.ai
 funding_rounds:

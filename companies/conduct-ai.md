@@ -9,9 +9,11 @@ total_funding_estimated: ~$12M
 status: Private
 founders:
 - name: Jan Philipp Haas
+  origin: German
   role: Co-Founder & CEO
   background: Former Palantir engineer. Led enterprise AI initiatives before founding Conduct.
 - name: Philipp Hoefer
+  origin: German
   role: Co-Founder & Chief Product Officer
   background: Former Palantir engineer with deep product expertise.
 - name: Henry Thompson

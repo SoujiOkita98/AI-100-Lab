@@ -7,6 +7,7 @@ one_liner: AlphaBot humanoid robots. Valuation >10B yuan ($1.4B). Scaling from 1
 status: active
 founders:
 - name: Guo Yandong
+  origin: Chinese
   role: CEO
   background: Purdue PhD, former chief scientist at XPeng
 funding_rounds:

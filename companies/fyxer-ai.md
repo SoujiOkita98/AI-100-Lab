@@ -10,12 +10,15 @@ revenue_arr: ~$17M ARR (mid 2025)
 status: Private
 founders:
 - name: Richard Hollingsworth
+  origin: British
   role: Co-Founder & CEO
   background: Based in London. Leading Fyxer's growth as an AI executive assistant platform.
 - name: Archie Hollingsworth
+  origin: British
   role: Co-Founder
   background: Co-founded Fyxer alongside Richard.
 - name: Matthew Ffrench
+  origin: British
   role: Co-Founder
   background: Co-founded Fyxer with the Hollingsworth brothers.
 last_updated: 2026-03-23

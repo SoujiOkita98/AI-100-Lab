@@ -8,6 +8,7 @@ one_liner: AI construction management — 360-degree cameras on hard hats track 
 status: active
 founders:
 - name: Roy Danon
+  origin: Israeli
   role: CEO
   background: Talpiot program graduate
 funding_rounds:

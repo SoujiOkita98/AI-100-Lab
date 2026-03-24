@@ -7,8 +7,10 @@ one_liner: Chinese AI GPU maker. Revenue 743M yuan in 2024. IPO on STAR Market â
 status: active
 founders:
 - name: Chen Weiliang
+  origin: Chinese
   role: Chairman
 - name: Peng Li
+  origin: Chinese
   role: Co-CTO
   background: AMD veteran
 funding_rounds:

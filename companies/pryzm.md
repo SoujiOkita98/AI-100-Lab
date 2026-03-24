@@ -8,6 +8,7 @@ one_liner: AI platform for federal procurement — helps defense tech discover R
 status: active
 founders:
 - name: Nick LaRovere
+  origin: American
   role: CEO
   background: Ex-Palantir, Lockheed Martin
 funding_rounds:

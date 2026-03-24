@@ -14,7 +14,6 @@ founders:
 - name: Unknown
   role: Co-Founder
   background: YC S25 batch.
-  origin: ''
 last_updated: 2026-03-24
 confidence: medium
 data_notes: 'Needs verification: founders, funding amount. 70% month-over-month growth, $250K monthly revenue at demo day.'

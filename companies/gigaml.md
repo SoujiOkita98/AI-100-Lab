@@ -9,9 +9,11 @@ total_funding_estimated: ~$64.6M
 status: Private
 founders:
 - name: Varun Vummadi
+  origin: Indian
   role: Co-Founder & CEO
   background: Y Combinator alumni. Leading GigaML's enterprise AI operations platform.
 - name: Esha Manideep
+  origin: Indian
   role: Co-Founder
   background: Y Combinator alumni. Technical co-founder.
 last_updated: 2026-03-23

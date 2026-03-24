@@ -9,6 +9,7 @@ total_funding_estimated: ~$8M
 status: Private
 founders:
 - name: David Petrou
+  origin: American
   role: Founder & CEO
   background: Former Google Distinguished Engineer. Helped start Google Goggles. Extensive career at Google in computer vision
     and AI.

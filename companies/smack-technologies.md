@@ -8,9 +8,11 @@ one_liner: Defense AI frontier lab — domain-specific models for DoD using deep
 status: active
 founders:
 - name: Andrew Markoff
+  origin: American
   role: Co-founder
   background: MARSOC veteran, 20+ years combat experience
 - name: Clint Alanis
+  origin: American
   role: Co-founder
   background: MARSOC veteran
 funding_rounds:

@@ -12,13 +12,12 @@ funding_rounds:
   - Y Combinator
 founders:
 - name: Larissa Tyagi
+  origin: Indian-American
   role: Co-Founder
   background: YC S25 batch.
-  origin: ''
 - name: Georgia Witchel
   role: Co-Founder
   background: YC S25 batch.
-  origin: ''
 last_updated: 2026-03-24
 confidence: low
 data_notes: 'Needs verification: funding amount.'

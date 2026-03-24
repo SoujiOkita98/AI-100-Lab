@@ -10,6 +10,7 @@ employees: ~20 (estimated)
 status: Private
 founders:
 - name: Yuhong Sun
+  origin: Chinese-American
   role: Co-Founder
   background: Technical co-founder with AI/ML research background. Built Onyx's open-source AI research agent.
 - name: Chris Weaver

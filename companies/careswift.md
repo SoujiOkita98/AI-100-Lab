@@ -14,15 +14,12 @@ founders:
 - name: Brian Weigand
   role: Co-Founder
   background: YC S25 batch.
-  origin: ''
 - name: Jonathan Zero
   role: Co-Founder
   background: YC S25 batch.
-  origin: ''
 - name: John Paul Mussalli
   role: Co-Founder
   background: YC S25 batch.
-  origin: ''
 last_updated: 2026-03-24
 confidence: low
 data_notes: 'Needs verification: funding amount.'

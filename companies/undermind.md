@@ -9,6 +9,7 @@ status: Active
 total_raised_m: 0.5
 founders:
 - name: Thomas Hartke
+  origin: American
   role: Co-Founder
   background: PhD quantum physics, MIT
 funding_rounds:

@@ -4,9 +4,11 @@ headquarters: San Francisco, CA, United States
 website: https://flair.ai/
 founders:
 - name: Mickey Friedman
+  origin: American
   role: Co-Founder & CEO
   background: "University of Chicago graduate. Co-launched Flair.ai in 2022. Previously worked with AI teams and organizes SF AI Tinkerers events."
 - name: Antonio Cao
+  origin: Chinese-American
   role: Co-Founder & President
   background: "Yale University graduate with degrees in Physics, Mathematics, and Computer Science. Previously worked with AI teams at companies including Tesla and Adobe."
 sector: AI / Generative AI / E-Commerce / Product Photography

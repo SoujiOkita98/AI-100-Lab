@@ -7,6 +7,7 @@ one_liner: Autonomous AI agents for MENA e-commerce — content, marketing, conv
 status: active
 founders:
 - name: Morteza Ibrahimi
+  origin: Iranian-American
   role: CEO
   background: Ex-DeepMind team lead
 funding_rounds:

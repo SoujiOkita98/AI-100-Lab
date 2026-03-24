@@ -9,6 +9,7 @@ one_liner: Physics-driven AI for automated PCB design. AI designed worlds first 
 status: active
 founders:
 - name: Sergiy Nesterenko
+  origin: Ukrainian
   role: CEO
   background: Former SpaceX Senior Radiation Effects Engineer (Falcon 9/Heavy)
 funding_rounds:

@@ -12,9 +12,11 @@ employees: null
 status: Private
 founders:
 - name: Max Brodeur-Urbas
+  origin: Canadian
   role: Co-Founder & CEO
   background: Former Microsoft engineer. McGill University graduate. Started Gumloop as a side project in a Vancouver bedroom.
 - name: Rahul Behal
+  origin: Indian-American
   role: Co-Founder
   background: Former machine learning engineer at Amazon. McGill University classmate of Max Brodeur-Urbas.
 one_liner: No-code AI automation platform enabling non-technical employees to build and deploy AI agents for multi-step workflows

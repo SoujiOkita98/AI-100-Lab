@@ -16,6 +16,7 @@ founders:
   background: Former product manager at Microsoft. UPenn grad (summa cum laude, HCI). Forbes 30 Under 30 (2021).
   origin: Indian-American
 - name: Sam Udotong
+  origin: Nigerian
   role: Co-Founder & CTO
 last_updated: 2026-03-21
 confidence: medium

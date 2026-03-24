@@ -9,6 +9,7 @@ total_funding_estimated: ~$50.2M
 status: Private
 founders:
 - name: Geraldo Ramos
+  origin: Brazilian
   role: Co-Founder & CEO
   background: Originally from Northeast Brazil. Started first tech company at 16, sold it at 26. Moved to NY in 2012 for business
     development.
@@ -16,6 +17,7 @@ founders:
   role: Co-Founder & COO
   background: Operational leadership; co-founded Moises alongside Ramos and Almeida.
 - name: Jardson Almeida
+  origin: Brazilian
   role: Co-Founder & CDO
   background: Design leadership; co-founded Moises with Ramos and Hsu.
 last_updated: 2026-03-23

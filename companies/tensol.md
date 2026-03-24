@@ -11,7 +11,6 @@ founders:
 - name: Unknown
   role: Co-Founder & CEO
   background: Distributed systems and AI background.
-  origin: ''
 funding_rounds:
 - stage: Pre-Seed / YC
   date: 2026-01

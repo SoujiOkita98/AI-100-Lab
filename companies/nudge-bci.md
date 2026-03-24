@@ -8,6 +8,7 @@ one_liner: Non-invasive whole-brain interface using focused ultrasound wearable.
 status: active
 founders:
 - name: Fred Ehrsam
+  origin: American
   role: Co-founder
   background: Co-founder of Coinbase
 - name: Quintin Frerichs

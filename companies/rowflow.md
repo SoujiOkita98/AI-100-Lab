@@ -14,11 +14,9 @@ founders:
 - name: Jack Bubes
   role: Co-Founder
   background: YC S25 batch.
-  origin: ''
 - name: Alec Olesky
   role: Co-Founder
   background: YC S25 batch.
-  origin: ''
 last_updated: 2026-03-24
 confidence: low
 data_notes: 'Needs verification: funding amount.'

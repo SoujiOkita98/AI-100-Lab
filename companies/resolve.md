@@ -13,6 +13,7 @@ founders:
   role: Co-Founder & CEO
   background: Co-creator of OpenTelemetry. Founded Omnition (acquired by Splunk 2019). Former GM & SVP of Splunk Observability. MS from University of Illinois Urbana-Champaign.
 - name: Mayank Agarwal
+  origin: Indian-American
   role: Co-Founder & CTO
   background: Co-creator of OpenTelemetry. Former Chief Architect of Splunk Observability. MS from University of Illinois Urbana-Champaign. Met Spiros in grad school 20+ years ago.
 last_updated: 2026-03-24

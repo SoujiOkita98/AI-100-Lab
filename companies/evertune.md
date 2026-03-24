@@ -9,6 +9,7 @@ one_liner: GEO platform tracking brand visibility across ChatGPT, Claude, Gemini
 status: active
 founders:
 - name: Brian Stempeck
+  origin: American
   role: CEO
   background: Former Trade Desk (grew from 8 people to IPO), Nielsen board
 funding_rounds:

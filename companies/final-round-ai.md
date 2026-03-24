@@ -12,15 +12,15 @@ one_liner: AI-powered interview preparation and job search platform offering rea
 total_raised_m: 6.88
 founders:
 - name: Michael Guan
+  origin: Chinese-American
   role: Co-Founder & CEO
   background: Yale University. Former CTO at CYNK; previously in product marketing at Starburst Data (supported $250M Series
     D).
-  origin: ''
 - name: Jay Ma
+  origin: Chinese-American
   role: Co-Founder & CTO
   background: University of Illinois at Urbana-Champaign. Former ML engineer at Pinterest, Meta, and AMD. Reverse-engineered
     LinkedIn while in college.
-  origin: ''
 funding_rounds:
 - stage: Seed
   date: 2025-01-30

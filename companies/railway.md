@@ -12,6 +12,7 @@ employees: null
 status: Private
 founders:
 - name: Jake Cooper
+  origin: American
   role: Founder & CEO
   background: Former software engineer at Wolfram Alpha, Bloomberg, and Uber.
 one_liner: AI-native cloud infrastructure platform challenging AWS with simplified app deployment, used by 2M+ developers

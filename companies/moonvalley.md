@@ -37,6 +37,7 @@ founders:
   background: Based in Toronto
   origin: South Asian-Canadian
 - name: John Thomas
+  origin: Canadian
   role: Co-Founder & COO
   background: Based in Toronto
 - name: Mateusz Malinowski

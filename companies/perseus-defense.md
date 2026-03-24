@@ -14,11 +14,9 @@ founders:
 - name: Dr. Jason Cornelius
   role: Co-Founder
   background: PhD. YC S25 batch.
-  origin: ''
 - name: Steve Messinger
   role: Co-Founder
   background: YC S25 batch.
-  origin: ''
 last_updated: 2026-03-24
 confidence: medium
 data_notes: 'Needs verification: funding amount. Multiple military branches invited for demonstrations.'

@@ -12,9 +12,11 @@ employees: null
 status: Private
 founders:
 - name: Oisin Hanrahan
+  origin: Irish
   role: Co-Founder & CEO
   background: Irish entrepreneur. Former CEO of Angi (Angie's List) and co-founder/CEO of Handy. Serial founder.
 - name: Umang Dua
+  origin: Indian
   role: Co-Founder
 - name: Jordan Weitz
   role: Co-Founder

@@ -12,11 +12,13 @@ employees: ~115 (projected)
 status: Private
 founders:
 - name: Joseph Krause
+  origin: American
   role: Co-Founder & CEO
   background: PhD in materials science from Rice University. Former researcher at Army Research Lab. Former investor at AlleyCorp.
 - name: Jorge Colindres
   role: Co-Founder & President
 - name: Gerbrand Ceder
+  origin: Belgian
   role: Co-Founder & Chief Science Officer
   background: Pioneer in battery research. Former principal investigator at Lawrence Berkeley National Laboratory autonomous
     lab.

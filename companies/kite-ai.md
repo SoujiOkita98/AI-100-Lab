@@ -12,9 +12,11 @@ employees: null
 status: Private
 founders:
 - name: Chi Zhang
+  origin: Chinese
   role: Co-Founder & CEO
   background: PhD in AI from UC Berkeley. Former core data products lead at Databricks.
 - name: Scott Shi
+  origin: Chinese-American
   role: Co-Founder & CTO
   background: Built real-time AI infrastructure at Uber. Founding engineer on Salesforce Einstein AI.
 one_liner: Layer 1 blockchain for AI agent payments, enabling autonomous agents to authenticate, transact with stablecoins,

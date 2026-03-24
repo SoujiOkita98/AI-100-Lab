@@ -10,12 +10,15 @@ employees: ~60 (at time of acquisition)
 status: Acquired by Databricks ($1.3B, July 2023)
 founders:
 - name: Naveen Rao
+  origin: Indian-American
   role: Co-Founder & CEO
   background: Serial AI entrepreneur. Previously founded Nervana Systems (acquired by Intel for $350M in 2016). GM of Intel's AI Products Group. Deep expertise in AI hardware and training infrastructure.
 - name: Hanlin Tang
+  origin: Chinese-American
   role: Co-Founder & President
   background: AI researcher with expertise in efficient neural network training. PhD in computational neuroscience.
 - name: Jonathan Frankle
+  origin: American
   role: Founding Adviser & Chief Scientist
   background: Harvard professor and Kempner Institute researcher. Known for the Lottery Ticket Hypothesis. Leading researcher on neural network pruning and efficient training.
 last_updated: 2026-03-24

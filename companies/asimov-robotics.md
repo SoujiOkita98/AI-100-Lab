@@ -12,7 +12,6 @@ founders:
 - name: Unknown
   role: Co-Founder & CEO
   background: Robotics and data platform background.
-  origin: ''
 funding_rounds:
 - stage: Pre-Seed / YC
   date: 2026-01

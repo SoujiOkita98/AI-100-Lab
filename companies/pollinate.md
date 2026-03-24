@@ -11,7 +11,6 @@ founders:
 - name: Unknown
   role: Co-Founder & CEO
   background: Supply chain and AI background.
-  origin: ''
 funding_rounds:
 - stage: Pre-Seed / YC
   date: 2026-01

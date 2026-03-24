@@ -9,9 +9,11 @@ status: Active
 total_raised_m: 1.82
 founders:
 - name: Max Ahrens
+  origin: German
   role: CEO & Co-Founder
   background: PhD/Postdoc NLP Oxford, McKinsey
 - name: Eduardo Candela
+  origin: Spanish
   role: CTO & Co-Founder
   background: PhD AI Safety Imperial College, MSc MIT, Tesla
 funding_rounds:

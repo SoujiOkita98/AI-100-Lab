@@ -11,6 +11,7 @@ employees: ~121 (2025)
 status: Private
 founders:
 - name: Edwin Chen
+  origin: Chinese-American
   role: Founder & CEO
   background: MIT dropout. Former data scientist. Bootstrapped Surge AI from his SF apartment in May 2020 to $1B+ revenue
     without external funding. Forbes billionaire.

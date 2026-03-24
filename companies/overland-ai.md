@@ -8,6 +8,7 @@ one_liner: Autonomous software for off-road military ground vehicles. One human 
 status: active
 founders:
 - name: Byron Boots
+  origin: American
   role: CEO
   background: UW robotics professor
 funding_rounds:

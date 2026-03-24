@@ -12,10 +12,12 @@ employees: ~200
 status: Private
 founders:
 - name: Mark Lee
+  origin: Korean-American
   role: Co-Founder & CEO
   background: Harvard Economics (Magna Cum Laude), Harvard Law School JD. Former McKinsey consultant. Former product lead
     at Honestfund.
 - name: DK Lee
+  origin: Korean
   role: Co-Founder & CBO
 one_liner: AI-powered intellectual property protection platform that detects and removes counterfeits and brand abuse across
   online marketplaces globally

@@ -6,6 +6,7 @@ one_liner: AI-native law firm for startups — 50+ contracts, AI copilot, lawyer
 status: active
 founders:
 - name: Logan Brown
+  origin: American
   role: CEO
   background: Harvard J.D., ex-Cooley LLP
 funding_rounds:

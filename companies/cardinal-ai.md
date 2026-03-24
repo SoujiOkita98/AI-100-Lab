@@ -11,7 +11,6 @@ founders:
 - name: Unknown
   role: Co-Founder & CEO
   background: 2x YC alumni. Sales technology background.
-  origin: ''
 funding_rounds:
 - stage: Pre-Seed / YC
   date: 2026-01

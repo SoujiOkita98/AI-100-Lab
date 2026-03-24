@@ -9,6 +9,7 @@ total_funding_estimated: ~$26M
 status: Private
 founders:
 - name: Angela McNeal
+  origin: American
   role: Co-Founder & CEO
   background: Former Foundry Head of AI Product at Palantir. Built Palantir's first ML product suite (100M+ in projects).
 - name: Mayada Gonimah

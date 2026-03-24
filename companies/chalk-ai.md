@@ -9,6 +9,7 @@ total_funding_estimated: ~$60M
 status: Private
 founders:
 - name: Marc Freed-Finnegan
+  origin: American
   role: Co-Founder & CEO
   background: Former Google (helped launch Google Wallet). Founded Index (acquired by Stripe, became Stripe Terminal).
 - name: Elliot Marx

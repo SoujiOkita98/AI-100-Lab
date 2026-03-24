@@ -11,9 +11,11 @@ employees: ~200 (estimated)
 status: Private
 founders:
 - name: Jennifer Smith
+  origin: American
   role: Co-Founder & CEO
   background: Former McKinsey consultant. Former Greylock Partners. Built Scribe from the pain of documenting enterprise workflows manually.
 - name: Aaron Podolny
+  origin: American
   role: Co-Founder & CTO
   background: Former Google engineer (via acquisition of his software automation company). Working with ML technology since 2016.
 last_updated: 2026-03-24
