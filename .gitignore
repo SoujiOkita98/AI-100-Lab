@@ -1,3 +1,4 @@
 .DS_Store
 scripts/fix_*.json
 scripts/batch*_rounds.json
+analysis/
