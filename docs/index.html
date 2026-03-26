@@ -3,538 +3,423 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>AI-100-Lab — Bloomberg for AI Wireframe</title>
+<title>AI-100-Lab — Research Dashboard Preview</title>
 <style>
+  :root {
+    --ink: #1a1a1a;
+    --muted: #666;
+    --faint: #999;
+    --rule: #ddd;
+    --bg: #fff;
+    --bg-alt: #f7f7f5;
+    --accent: #1a5faa;
+    --green: #137333;
+    --amber: #b06000;
+    --red: #c0392b;
+  }
   * { box-sizing: border-box; margin: 0; padding: 0; }
   body {
-    font-family: -apple-system, 'SF Mono', 'Menlo', monospace;
-    background: #f5f5f0;
-    color: #2a2a2a;
-    padding: 24px;
-    line-height: 1.4;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;
+    color: var(--ink);
+    background: var(--bg);
+    line-height: 1.55;
+    max-width: 1080px;
+    margin: 0 auto;
+    padding: 48px 32px;
   }
-  .page-title {
-    font-size: 11px;
-    text-transform: uppercase;
-    letter-spacing: 2px;
-    color: #999;
-    margin-bottom: 8px;
-  }
-  h1 { font-size: 20px; font-weight: 600; margin-bottom: 24px; color: #1a1a1a; }
-  .screens { display: flex; flex-direction: column; gap: 32px; }
-  .screen {
-    border: 1.5px solid #ccc;
-    border-radius: 6px;
-    background: #fff;
-    overflow: hidden;
-  }
-  .screen-header {
-    background: #1a1a1a;
-    color: #fff;
-    padding: 8px 14px;
-    font-size: 11px;
-    font-weight: 600;
-    letter-spacing: 1px;
-    text-transform: uppercase;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-  }
-  .screen-header .badge {
-    background: #4a9eff;
-    color: #fff;
-    padding: 2px 8px;
-    border-radius: 10px;
-    font-size: 9px;
-  }
-  .screen-body { padding: 16px; }
+  a { color: var(--accent); text-decoration: none; }
+  a:hover { text-decoration: underline; }
 
-  /* --- Screen 1: Main Dashboard with NL Query --- */
-  .nl-bar {
-    border: 1.5px dashed #bbb;
-    border-radius: 8px;
-    padding: 14px 16px;
-    margin-bottom: 16px;
-    display: flex;
-    align-items: center;
-    gap: 10px;
-    background: #fafafa;
-  }
-  .nl-bar .icon { font-size: 16px; color: #888; }
-  .nl-bar .placeholder { color: #999; font-size: 13px; flex: 1; }
-  .nl-bar .btn {
-    background: #1a1a1a;
-    color: #fff;
-    border: none;
-    padding: 6px 14px;
-    border-radius: 4px;
-    font-size: 11px;
-    font-weight: 600;
-  }
-  .stats-row {
-    display: grid;
-    grid-template-columns: repeat(4, 1fr);
-    gap: 12px;
-    margin-bottom: 16px;
-  }
-  .stat-card {
-    border: 1px solid #e0e0e0;
-    border-radius: 6px;
-    padding: 12px;
-    text-align: center;
-  }
-  .stat-card .num { font-size: 22px; font-weight: 700; color: #1a1a1a; }
-  .stat-card .label { font-size: 10px; color: #888; text-transform: uppercase; letter-spacing: 0.5px; margin-top: 2px; }
-  .two-col { display: grid; grid-template-columns: 2fr 1fr; gap: 16px; }
-  .table-mock {
-    border: 1px solid #e0e0e0;
-    border-radius: 6px;
-    overflow: hidden;
-  }
-  .table-mock .thead {
-    background: #f0f0f0;
-    display: grid;
-    padding: 8px 12px;
-    font-size: 10px;
-    font-weight: 600;
-    color: #666;
-    text-transform: uppercase;
-    letter-spacing: 0.5px;
-  }
-  .table-mock .thead.companies-grid { grid-template-columns: 2fr 1fr 1fr 1fr 1fr; }
-  .table-mock .trow {
-    display: grid;
-    padding: 10px 12px;
-    font-size: 12px;
-    border-top: 1px solid #eee;
-    align-items: center;
-  }
-  .table-mock .trow.companies-grid { grid-template-columns: 2fr 1fr 1fr 1fr 1fr; }
-  .table-mock .trow:hover { background: #f8f8f5; }
-  .tag {
-    display: inline-block;
-    background: #e8f0fe;
-    color: #1a5faa;
-    padding: 2px 6px;
-    border-radius: 3px;
-    font-size: 10px;
-    font-weight: 500;
-  }
-  .tag.green { background: #e6f4ea; color: #137333; }
-  .tag.amber { background: #fef7e0; color: #b06000; }
-  .sidebar-card {
-    border: 1px solid #e0e0e0;
-    border-radius: 6px;
-    padding: 14px;
-  }
-  .sidebar-card h3 { font-size: 11px; font-weight: 600; text-transform: uppercase; color: #888; margin-bottom: 10px; letter-spacing: 0.5px; }
-  .sidebar-item {
-    display: flex;
-    justify-content: space-between;
-    font-size: 12px;
-    padding: 4px 0;
-    border-bottom: 1px solid #f0f0f0;
-  }
-  .sidebar-item:last-child { border-bottom: none; }
-  .sidebar-item .val { font-weight: 600; }
+  /* Header */
+  .masthead { border-bottom: 2px solid var(--ink); padding-bottom: 20px; margin-bottom: 32px; }
+  .masthead h1 { font-size: 28px; font-weight: 700; letter-spacing: -0.5px; }
+  .masthead .subtitle { font-size: 14px; color: var(--muted); margin-top: 6px; }
+  .masthead .meta { font-size: 12px; color: var(--faint); margin-top: 8px; display: flex; gap: 20px; flex-wrap: wrap; }
+  .masthead .meta span::before { content: ''; display: inline-block; width: 6px; height: 6px; border-radius: 50%; background: var(--rule); margin-right: 6px; vertical-align: middle; }
 
-  /* --- Screen 2: Company Profile --- */
-  .profile-header {
-    display: flex;
-    justify-content: space-between;
-    align-items: flex-start;
-    margin-bottom: 16px;
-    padding-bottom: 14px;
-    border-bottom: 1px solid #eee;
+  h2 {
+    font-size: 13px; font-weight: 700; text-transform: uppercase; letter-spacing: 1.5px;
+    color: var(--faint); margin: 40px 0 16px; padding-bottom: 8px; border-bottom: 1px solid var(--rule);
   }
-  .profile-name { font-size: 18px; font-weight: 700; }
-  .profile-meta { font-size: 12px; color: #666; margin-top: 4px; }
-  .profile-funding {
-    text-align: right;
-    font-size: 11px;
-    color: #666;
-  }
-  .profile-funding .amount { font-size: 20px; font-weight: 700; color: #1a1a1a; }
-  .profile-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; }
-  .profile-section {
-    border: 1px solid #e0e0e0;
-    border-radius: 6px;
-    padding: 12px;
-  }
-  .profile-section h3 {
-    font-size: 10px; font-weight: 600; text-transform: uppercase;
-    color: #888; letter-spacing: 0.5px; margin-bottom: 8px;
-    padding-bottom: 6px; border-bottom: 1px solid #f0f0f0;
-  }
-  .founder-row {
-    display: flex;
-    justify-content: space-between;
-    font-size: 12px;
-    padding: 4px 0;
-  }
-  .founder-row .origin { color: #888; font-size: 11px; }
-  .round-row {
-    display: grid;
-    grid-template-columns: 1fr 1fr 1fr 1fr;
-    font-size: 11px;
-    padding: 4px 0;
-    border-bottom: 1px solid #f5f5f5;
-  }
-  .round-row .stage { font-weight: 600; }
-  .citation { color: #4a9eff; font-size: 10px; cursor: pointer; }
+  h3 { font-size: 15px; font-weight: 600; margin-bottom: 8px; }
 
-  /* --- Screen 3: Network Graph --- */
-  .graph-area {
-    border: 1.5px dashed #ccc;
-    border-radius: 8px;
-    height: 260px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    background: #fafafa;
-    position: relative;
-    overflow: hidden;
+  /* KPI cards */
+  .kpi-grid {
+    display: grid; grid-template-columns: repeat(6, 1fr); gap: 1px;
+    background: var(--rule); border: 1px solid var(--rule); border-radius: 6px;
+    overflow: hidden; margin-bottom: 32px;
   }
-  .node {
-    position: absolute;
-    border-radius: 50%;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    font-size: 8px;
-    font-weight: 600;
-    color: #fff;
-    text-align: center;
-    line-height: 1.1;
+  .kpi { background: var(--bg); padding: 16px; text-align: center; }
+  .kpi .num { font-size: 26px; font-weight: 700; color: var(--ink); font-variant-numeric: tabular-nums; }
+  .kpi .unit { font-size: 12px; color: var(--muted); margin-top: 2px; }
+
+  .row { display: grid; gap: 24px; margin-bottom: 24px; }
+  .row-2 { grid-template-columns: 1fr 1fr; }
+  .row-1-1-1 { grid-template-columns: 1fr 1fr 1fr; }
+
+  .chart-container {
+    border: 1px solid var(--rule); border-radius: 6px; padding: 16px; background: var(--bg);
   }
-  .node.company { background: #1a5faa; }
-  .node.investor { background: #b06000; }
-  .node.founder { background: #137333; }
-  .edge {
-    position: absolute;
-    height: 1px;
-    background: #ddd;
-    transform-origin: left center;
+  .chart-title {
+    font-size: 11px; font-weight: 600; text-transform: uppercase; letter-spacing: 0.8px;
+    color: var(--faint); margin-bottom: 12px;
   }
-  .graph-legend {
-    display: flex;
-    gap: 16px;
-    margin-top: 10px;
-    font-size: 10px;
-    color: #888;
+  .bar-chart { display: flex; flex-direction: column; gap: 6px; }
+  .bar-row { display: flex; align-items: center; gap: 8px; font-size: 12px; }
+  .bar-label { width: 120px; text-align: right; color: var(--muted); font-size: 11px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; flex-shrink: 0; }
+  .bar-track { flex: 1; height: 16px; background: var(--bg-alt); border-radius: 2px; overflow: hidden; }
+  .bar-fill { height: 100%; border-radius: 2px; }
+
+  /* Histogram */
+  .histogram { display: flex; align-items: flex-end; gap: 2px; height: 120px; padding-top: 8px; }
+  .hist-bar-wrap { flex: 1; display: flex; flex-direction: column; align-items: center; gap: 2px; height: 100%; justify-content: flex-end; }
+  .hist-bar { width: 100%; border-radius: 2px 2px 0 0; min-height: 2px; }
+  .hist-label { font-size: 8px; color: var(--faint); transform: rotate(-45deg); white-space: nowrap; margin-top: 4px; }
+  .hist-axis { display: flex; justify-content: space-between; font-size: 9px; color: var(--faint); margin-top: 6px; border-top: 1px solid var(--rule); padding-top: 4px; }
+
+  /* Funding timeline */
+  .timeline-grid {
+    display: grid; grid-template-columns: 40px repeat(8, 1fr); gap: 0; font-size: 10px; color: var(--faint);
   }
-  .legend-dot {
-    display: inline-block;
-    width: 8px;
-    height: 8px;
-    border-radius: 50%;
-    margin-right: 4px;
-    vertical-align: middle;
+  .tl-header { font-weight: 600; text-transform: uppercase; padding: 4px 6px; border-bottom: 1px solid var(--rule); }
+  .tl-cell { padding: 6px; text-align: center; border-bottom: 1px solid #f0f0f0; font-variant-numeric: tabular-nums; }
+  .tl-cell.label { text-align: right; font-weight: 600; color: var(--muted); }
+  .bar-inline { display: inline-block; height: 10px; border-radius: 1px; vertical-align: middle; margin-right: 4px; }
+
+  /* Tables */
+  table { width: 100%; border-collapse: collapse; font-size: 12px; }
+  thead th {
+    font-size: 10px; font-weight: 600; text-transform: uppercase; letter-spacing: 0.5px;
+    color: var(--faint); padding: 8px 10px; text-align: left; border-bottom: 2px solid var(--rule);
+  }
+  tbody td { padding: 8px 10px; border-bottom: 1px solid #f0f0f0; font-variant-numeric: tabular-nums; }
+  tbody tr:hover { background: var(--bg-alt); }
+  .rank { color: var(--faint); font-size: 10px; }
+
+  /* Gauges */
+  .gauge-row { display: flex; align-items: center; gap: 12px; margin-bottom: 10px; }
+  .gauge-label { font-size: 12px; width: 140px; color: var(--muted); }
+  .gauge-track { flex: 1; height: 8px; background: #eee; border-radius: 4px; overflow: hidden; }
+  .gauge-fill { height: 100%; border-radius: 4px; }
+  .gauge-pct { font-size: 12px; font-weight: 600; width: 50px; text-align: right; font-variant-numeric: tabular-nums; }
+
+  /* Confidence */
+  .confidence-bar { display: flex; height: 20px; border-radius: 4px; overflow: hidden; margin: 8px 0; }
+  .conf-seg { display: flex; align-items: center; justify-content: center; font-size: 10px; font-weight: 600; color: #fff; }
+
+  /* Methodology */
+  .method-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; }
+  .method-card {
+    border: 1px solid var(--rule); border-radius: 6px; padding: 14px;
+    font-size: 12px; color: var(--muted); line-height: 1.6;
+  }
+  .method-card strong { color: var(--ink); }
+
+  .footer {
+    margin-top: 48px; padding-top: 16px; border-top: 1px solid var(--rule);
+    font-size: 11px; color: var(--faint); display: flex; justify-content: space-between;
   }
 
-  /* --- Screen 4: Predictive Scoring --- */
-  .score-table .thead { grid-template-columns: 2fr 1fr 1fr 1fr 1.5fr; }
-  .score-table .trow { grid-template-columns: 2fr 1fr 1fr 1fr 1.5fr; }
-  .score-bar {
-    height: 6px;
-    background: #e0e0e0;
-    border-radius: 3px;
-    overflow: hidden;
-    width: 80px;
+  /* Preview banner */
+  .preview-banner {
+    background: var(--ink); color: #fff; padding: 10px 16px; border-radius: 6px;
+    font-size: 12px; margin-bottom: 24px; display: flex; justify-content: space-between; align-items: center;
   }
-  .score-bar .fill { height: 100%; border-radius: 3px; }
-  .score-bar .fill.high { background: #137333; }
-  .score-bar .fill.med { background: #b06000; }
-  .score-bar .fill.low { background: #ccc; }
+  .preview-banner .badge { background: var(--accent); padding: 2px 10px; border-radius: 10px; font-size: 10px; font-weight: 600; }
 
-  .note {
-    font-size: 10px;
-    color: #999;
-    font-style: italic;
-    margin-top: 8px;
-    padding: 8px 12px;
-    background: #f8f8f5;
-    border-radius: 4px;
-    border-left: 3px solid #ddd;
+  @media (max-width: 768px) {
+    .kpi-grid { grid-template-columns: repeat(3, 1fr); }
+    .row-2, .row-1-1-1, .method-grid { grid-template-columns: 1fr; }
+    .bar-label { width: 80px; }
   }
 </style>
 </head>
 <body>
 
-<p class="page-title">Wireframe &mdash; AI-100-Lab Dashboard</p>
-<h1>Bloomberg for AI Ecosystems</h1>
-
-<div class="screens">
-
-  <!-- SCREEN 1: Main Explorer + NL Query -->
-  <div class="screen">
-    <div class="screen-header">
-      <span>Screen 1: Explorer + Natural Language Query</span>
-      <span class="badge">Home</span>
-    </div>
-    <div class="screen-body">
-      <!-- NL Query Bar -->
-      <div class="nl-bar">
-        <span class="icon">&#x1F50D;</span>
-        <span class="placeholder">"Show me Chinese-founded AI companies that raised Series A in 2025 in the Bay Area..."</span>
-        <span class="btn">Ask</span>
-      </div>
-
-      <!-- Stats -->
-      <div class="stats-row">
-        <div class="stat-card"><div class="num">937</div><div class="label">Companies</div></div>
-        <div class="stat-card"><div class="num">$482B</div><div class="label">Total Raised</div></div>
-        <div class="stat-card"><div class="num">2,128</div><div class="label">Founders</div></div>
-        <div class="stat-card"><div class="num">1,956</div><div class="label">Rounds</div></div>
-      </div>
-
-      <div class="two-col">
-        <!-- Company Table -->
-        <div class="table-mock">
-          <div class="thead companies-grid">
-            <span>Company</span><span>Sector</span><span>HQ</span><span>Raised</span><span>Stage</span>
-          </div>
-          <div class="trow companies-grid">
-            <span><strong>Anthropic</strong></span>
-            <span><span class="tag">foundation-models</span></span>
-            <span>SF, CA</span>
-            <span>$67.3B</span>
-            <span><span class="tag green">Series G</span></span>
-          </div>
-          <div class="trow companies-grid">
-            <span><strong>OpenAI</strong></span>
-            <span><span class="tag">foundation-models</span></span>
-            <span>SF, CA</span>
-            <span>$168B</span>
-            <span><span class="tag green">Series C</span></span>
-          </div>
-          <div class="trow companies-grid">
-            <span><strong>Figure AI</strong></span>
-            <span><span class="tag">robotics</span></span>
-            <span>Sunnyvale, CA</span>
-            <span>$2.6B</span>
-            <span><span class="tag amber">Series B</span></span>
-          </div>
-          <div class="trow companies-grid">
-            <span><strong>Zhipu AI</strong></span>
-            <span><span class="tag">foundation-models</span></span>
-            <span>Beijing, CN</span>
-            <span>$700M</span>
-            <span><span class="tag amber">Series B</span></span>
-          </div>
-          <div class="trow companies-grid" style="color:#999; font-style:italic;">
-            <span colspan="5">... 933 more rows (filterable)</span>
-            <span></span><span></span><span></span><span></span>
-          </div>
-        </div>
-
-        <!-- Sidebar: Sector + Origin breakdown -->
-        <div style="display:flex; flex-direction:column; gap:12px;">
-          <div class="sidebar-card">
-            <h3>Top Sectors</h3>
-            <div class="sidebar-item"><span>Foundation models</span><span class="val">142</span></div>
-            <div class="sidebar-item"><span>Enterprise AI</span><span class="val">118</span></div>
-            <div class="sidebar-item"><span>Healthcare AI</span><span class="val">87</span></div>
-            <div class="sidebar-item"><span>Dev tools</span><span class="val">79</span></div>
-            <div class="sidebar-item"><span>Robotics</span><span class="val">64</span></div>
-          </div>
-          <div class="sidebar-card">
-            <h3>Founder Origins</h3>
-            <div class="sidebar-item"><span>American</span><span class="val">262</span></div>
-            <div class="sidebar-item"><span>Israeli</span><span class="val">116</span></div>
-            <div class="sidebar-item"><span>Indian-American</span><span class="val">89</span></div>
-            <div class="sidebar-item"><span>Chinese</span><span class="val">81</span></div>
-            <div class="sidebar-item"><span>Indian</span><span class="val">77</span></div>
-          </div>
-        </div>
-      </div>
-      <div class="note">Every cell is clickable. Company names open the Profile view. Sectors and origins are filter links. The NL bar uses Claude API to translate questions to SQL, with source citations on every result.</div>
-    </div>
-  </div>
-
-  <!-- SCREEN 2: Company Profile -->
-  <div class="screen">
-    <div class="screen-header">
-      <span>Screen 2: Company Profile</span>
-      <span class="badge">Detail</span>
-    </div>
-    <div class="screen-body">
-      <div class="profile-header">
-        <div>
-          <div class="profile-name">Anthropic</div>
-          <div class="profile-meta">
-            Founded 2021 &middot; San Francisco, CA &middot; <span class="tag green">Active</span>
-            &middot; <span class="tag">AI safety</span> <span class="tag">foundation models</span>
-          </div>
-          <div style="font-size:12px; color:#555; margin-top:6px;">AI safety company building Claude, the leading enterprise LLM.</div>
-        </div>
-        <div class="profile-funding">
-          <div class="amount">$67.3B</div>
-          <div>total raised</div>
-          <div style="margin-top:4px;">Valuation: $380B</div>
-        </div>
-      </div>
-
-      <div class="profile-grid">
-        <!-- Founders -->
-        <div class="profile-section">
-          <h3>Founders (7)</h3>
-          <div class="founder-row">
-            <div><strong>Dario Amodei</strong> &mdash; CEO</div>
-            <div class="origin">American</div>
-          </div>
-          <div style="font-size:11px; color:#666; padding:2px 0 6px;">PhD biophysics Princeton. VP Research at OpenAI.</div>
-          <div class="founder-row">
-            <div><strong>Daniela Amodei</strong> &mdash; President</div>
-            <div class="origin">American</div>
-          </div>
-          <div style="font-size:11px; color:#666; padding:2px 0 6px;">BA English Lit UC Santa Cruz. VP Safety at OpenAI.</div>
-          <div class="founder-row">
-            <div><strong>Chris Olah</strong> &mdash; Research Director</div>
-            <div class="origin">Canadian</div>
-          </div>
-          <div style="font-size:11px; color:#666; padding:2px 0 6px;">Self-taught. Thiel Fellow. Pioneer of interpretability.</div>
-          <div style="font-size:10px; color:#999; margin-top:4px;">+ 4 more founders</div>
-        </div>
-
-        <!-- Funding Rounds -->
-        <div class="profile-section">
-          <h3>Funding Rounds (11)</h3>
-          <div class="round-row" style="font-weight:600; color:#888; font-size:10px; border-bottom: 1px solid #e0e0e0;">
-            <span>Stage</span><span>Date</span><span>Amount</span><span>Source</span>
-          </div>
-          <div class="round-row">
-            <span class="stage">Series G</span><span>2026-02</span><span>$30B</span><span class="citation">[CNBC]</span>
-          </div>
-          <div class="round-row">
-            <span class="stage">Series F</span><span>2025-09</span><span>$13B</span><span class="citation">[Sacra]</span>
-          </div>
-          <div class="round-row">
-            <span class="stage">Series E</span><span>2025-03</span><span>$3.5B</span><span class="citation">[Anthropic]</span>
-          </div>
-          <div class="round-row">
-            <span class="stage">Amazon</span><span>2024-11</span><span>$4B</span><span class="citation">[CNBC]</span>
-          </div>
-          <div style="font-size:10px; color:#999; margin-top:4px;">+ 7 earlier rounds</div>
-        </div>
-
-        <!-- Narrative excerpt -->
-        <div class="profile-section" style="grid-column: span 2;">
-          <h3>Research Notes</h3>
-          <div style="font-size:12px; color:#444; line-height:1.6;">
-            Anthropic is an AI safety company and one of the three leading frontier model labs globally (alongside OpenAI and Google DeepMind). Founded in 2021 by seven former OpenAI researchers...
-            <br><br>
-            <strong>What makes them interesting:</strong> Enterprise-first model works. 85% of revenue from business customers vs. OpenAI's 85% from consumers. Claude Code alone is at $2.5B annualized...
-          </div>
-          <div class="note" style="margin-top:10px;">
-            Full narrative research from the markdown file. Every claim linked to source URLs. Confidence: HIGH.
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-
-  <!-- SCREEN 3: Network Graph -->
-  <div class="screen">
-    <div class="screen-header">
-      <span>Screen 3: Network Graph</span>
-      <span class="badge">Relationships</span>
-    </div>
-    <div class="screen-body">
-      <div class="graph-area">
-        <!-- Simulated nodes -->
-        <div class="node company" style="width:50px;height:50px;left:45%;top:35%;">Anthropic</div>
-        <div class="node investor" style="width:40px;height:40px;left:20%;top:20%;font-size:7px;">Amazon</div>
-        <div class="node investor" style="width:35px;height:35px;left:70%;top:15%;font-size:7px;">GIC</div>
-        <div class="node investor" style="width:32px;height:32px;left:15%;top:60%;font-size:7px;">Lightspeed</div>
-        <div class="node investor" style="width:30px;height:30px;left:75%;top:55%;font-size:7px;">Coatue</div>
-        <div class="node company" style="width:45px;height:45px;left:30%;top:70%;font-size:7px;">OpenAI</div>
-        <div class="node company" style="width:35px;height:35px;left:65%;top:75%;font-size:7px;">xAI</div>
-        <div class="node founder" style="width:28px;height:28px;left:50%;top:10%;font-size:6px;">Dario A.</div>
-        <div class="node founder" style="width:25px;height:25px;left:38%;top:80%;font-size:6px;">Sam A.</div>
-        <!-- Note: real version would use D3.js/Vis.js with force-directed layout and edge rendering -->
-        <div style="position:absolute;bottom:8px;right:12px;font-size:9px;color:#999;">
-          D3.js force-directed graph &middot; click any node to explore
-        </div>
-      </div>
-      <div class="graph-legend">
-        <span><span class="legend-dot" style="background:#1a5faa;"></span> Company</span>
-        <span><span class="legend-dot" style="background:#b06000;"></span> Investor</span>
-        <span><span class="legend-dot" style="background:#137333;"></span> Founder</span>
-      </div>
-      <div class="note">Relationship graph shows co-investment patterns, founder networks (ex-OpenAI diaspora, ex-Google Brain alumni), and investor portfolios. Filter by sector, geography, or origin. Click a node to see all connections.</div>
-    </div>
-  </div>
-
-  <!-- SCREEN 4: Predictive Scoring / Watchlist -->
-  <div class="screen">
-    <div class="screen-header">
-      <span>Screen 4: Predictive Signals + Watchlist</span>
-      <span class="badge">Intelligence</span>
-    </div>
-    <div class="screen-body">
-      <div class="table-mock score-table">
-        <div class="thead">
-          <span>Company</span><span>Sector Heat</span><span>Funding Velocity</span><span>Signal Score</span><span>Prediction</span>
-        </div>
-        <div class="trow">
-          <span><strong>Cursor</strong></span>
-          <span><span class="tag green">dev-tools: HOT</span></span>
-          <span>3 rounds in 18mo</span>
-          <span><div class="score-bar"><div class="fill high" style="width:90%;"></div></div></span>
-          <span style="font-size:11px;">Likely Series C within 6mo</span>
-        </div>
-        <div class="trow">
-          <span><strong>Glean</strong></span>
-          <span><span class="tag green">search: HOT</span></span>
-          <span>2 rounds in 12mo</span>
-          <span><div class="score-bar"><div class="fill high" style="width:85%;"></div></div></span>
-          <span style="font-size:11px;">IPO candidate 2026-2027</span>
-        </div>
-        <div class="trow">
-          <span><strong>Cohere</strong></span>
-          <span><span class="tag amber">foundation: WARM</span></span>
-          <span>1 round in 12mo</span>
-          <span><div class="score-bar"><div class="fill med" style="width:60%;"></div></div></span>
-          <span style="font-size:11px;">May seek strategic partner</span>
-        </div>
-        <div class="trow">
-          <span><strong>Aaru</strong></span>
-          <span><span class="tag">agents: EMERGING</span></span>
-          <span>Seed only</span>
-          <span><div class="score-bar"><div class="fill low" style="width:35%;"></div></div></span>
-          <span style="font-size:11px;">Early stage &mdash; watch</span>
-        </div>
-      </div>
-      <div class="note">
-        Signal score = weighted composite of: sector growth rate, time since last round, round size trajectory, investor quality (tier 1 VCs), founder pedigree signals. Not a financial recommendation &mdash; a research prioritization tool. Methodology is transparent and documented.
-      </div>
-    </div>
-  </div>
-
-  <!-- SCREEN 5: Data Coverage -->
-  <div class="screen">
-    <div class="screen-header">
-      <span>Screen 5: Data Coverage Dashboard</span>
-      <span class="badge">Quality</span>
-    </div>
-    <div class="screen-body">
-      <div class="stats-row">
-        <div class="stat-card"><div class="num" style="color:#137333;">97%</div><div class="label">Founder Origins</div></div>
-        <div class="stat-card"><div class="num" style="color:#b06000;">92%</div><div class="label">Backgrounds</div></div>
-        <div class="stat-card"><div class="num" style="color:#b06000;">95%</div><div class="label">Round Amounts</div></div>
-        <div class="stat-card"><div class="num" style="color:#cc3333;">88%</div><div class="label">Source URLs</div></div>
-      </div>
-      <div class="note">
-        The Coverage Dashboard makes data quality part of the product. Researchers see exactly where gaps exist. Each gap is clickable &mdash; shows which companies/founders need enrichment. This drives the data improvement workflow and builds trust: "we show you what we DON'T know."
-      </div>
-    </div>
-  </div>
-
+<div class="preview-banner">
+  <span>Design preview &mdash; data shown is live from the AI-100-Lab research database (last updated March 2026).</span>
+  <span class="badge">PREVIEW</span>
 </div>
 
-<div style="margin-top:24px; font-size:10px; color:#bbb; text-align:center;">
-  AI-100-Lab &middot; Bloomberg for AI Ecosystems &middot; Wireframe by /office-hours &middot; March 2026
+<div class="masthead">
+  <h1>AI-100-Lab</h1>
+  <div class="subtitle">A research-grade database of 937 AI and robotics startups worldwide &mdash; funding rounds, founder profiles, investor networks, and origin analysis.</div>
+  <div class="meta">
+    <span>Database snapshot: March 26, 2026</span>
+    <span>25+ countries covered</span>
+    <span>License: CC BY 4.0</span>
+    <span><a href="https://github.com/SoujiOkita98/AI-100-Lab">Source repository</a></span>
+  </div>
+</div>
+
+<!-- KPI Strip -->
+<div class="kpi-grid">
+  <div class="kpi"><div class="num">937</div><div class="unit">Companies</div></div>
+  <div class="kpi"><div class="num">2,128</div><div class="unit">Founders</div></div>
+  <div class="kpi"><div class="num">1,956</div><div class="unit">Funding rounds</div></div>
+  <div class="kpi"><div class="num">$535B</div><div class="unit">Total capital (USD)</div></div>
+  <div class="kpi"><div class="num">$42M</div><div class="unit">Median raised</div></div>
+  <div class="kpi"><div class="num">25+</div><div class="unit">Countries</div></div>
+</div>
+
+<!-- 1: Company Formation -->
+<h2>1. Company Formation by Year</h2>
+<div class="chart-container">
+  <div class="chart-title">Number of AI/robotics companies founded per year (n = 937)</div>
+  <div class="histogram">
+    <div class="hist-bar-wrap"><div class="hist-bar" style="height:4%; background:var(--ink);"></div><div class="hist-label">&le;'13</div></div>
+    <div class="hist-bar-wrap"><div class="hist-bar" style="height:6%; background:var(--ink);"></div><div class="hist-label">'14</div></div>
+    <div class="hist-bar-wrap"><div class="hist-bar" style="height:8%; background:var(--ink);"></div><div class="hist-label">'15</div></div>
+    <div class="hist-bar-wrap"><div class="hist-bar" style="height:14%; background:var(--ink);"></div><div class="hist-label">'16</div></div>
+    <div class="hist-bar-wrap"><div class="hist-bar" style="height:18%; background:var(--ink);"></div><div class="hist-label">'17</div></div>
+    <div class="hist-bar-wrap"><div class="hist-bar" style="height:15%; background:var(--ink);"></div><div class="hist-label">'18</div></div>
+    <div class="hist-bar-wrap"><div class="hist-bar" style="height:20%; background:var(--ink);"></div><div class="hist-label">'19</div></div>
+    <div class="hist-bar-wrap"><div class="hist-bar" style="height:19%; background:var(--ink);"></div><div class="hist-label">'20</div></div>
+    <div class="hist-bar-wrap"><div class="hist-bar" style="height:25%; background:var(--ink);"></div><div class="hist-label">'21</div></div>
+    <div class="hist-bar-wrap"><div class="hist-bar" style="height:42%; background:var(--accent);"></div><div class="hist-label">'22</div></div>
+    <div class="hist-bar-wrap"><div class="hist-bar" style="height:78%; background:var(--accent);"></div><div class="hist-label">'23</div></div>
+    <div class="hist-bar-wrap"><div class="hist-bar" style="height:100%; background:var(--accent);"></div><div class="hist-label">'24</div></div>
+    <div class="hist-bar-wrap"><div class="hist-bar" style="height:79%; background:var(--accent);"></div><div class="hist-label">'25</div></div>
+  </div>
+  <div class="hist-axis">
+    <span>Peak: 2024 (n=212, 22.6% of dataset)</span>
+    <span>Post-ChatGPT cohort (2023&ndash;2025): n=545 (58.2%)</span>
+  </div>
+</div>
+
+<!-- 2: Funding Activity -->
+<h2>2. Funding Activity by Year</h2>
+<div class="chart-container">
+  <div class="chart-title">Number of rounds closed and aggregate capital deployed, 2019&ndash;2026 YTD</div>
+  <div class="timeline-grid">
+    <div class="tl-header"></div>
+    <div class="tl-header">2019</div><div class="tl-header">2020</div><div class="tl-header">2021</div>
+    <div class="tl-header">2022</div><div class="tl-header">2023</div><div class="tl-header">2024</div>
+    <div class="tl-header">2025</div><div class="tl-header">2026*</div>
+
+    <div class="tl-cell label">Rounds</div>
+    <div class="tl-cell">63</div><div class="tl-cell">76</div><div class="tl-cell">144</div>
+    <div class="tl-cell">130</div><div class="tl-cell">198</div><div class="tl-cell">333</div>
+    <div class="tl-cell" style="font-weight:700;">688</div><div class="tl-cell">172</div>
+
+    <div class="tl-cell label">Capital</div>
+    <div class="tl-cell">$5.2B</div><div class="tl-cell">$7.8B</div><div class="tl-cell">$21.4B</div>
+    <div class="tl-cell">$11.1B</div><div class="tl-cell">$27.3B</div><div class="tl-cell">$76.0B</div>
+    <div class="tl-cell" style="font-weight:700;">$194B</div><div class="tl-cell">$215B</div>
+
+    <div class="tl-cell label">Scale</div>
+    <div class="tl-cell"><div class="bar-inline" style="width:6px; background:var(--accent);"></div></div>
+    <div class="tl-cell"><div class="bar-inline" style="width:8px; background:var(--accent);"></div></div>
+    <div class="tl-cell"><div class="bar-inline" style="width:20px; background:var(--accent);"></div></div>
+    <div class="tl-cell"><div class="bar-inline" style="width:12px; background:var(--accent);"></div></div>
+    <div class="tl-cell"><div class="bar-inline" style="width:26px; background:var(--accent);"></div></div>
+    <div class="tl-cell"><div class="bar-inline" style="width:52px; background:var(--accent);"></div></div>
+    <div class="tl-cell"><div class="bar-inline" style="width:80px; background:var(--accent);"></div></div>
+    <div class="tl-cell"><div class="bar-inline" style="width:86px; background:var(--accent);"></div></div>
+  </div>
+  <div style="font-size:10px; color:var(--faint); margin-top:8px;">
+    * 2026 data covers Jan 1 &ndash; Mar 26 only. Capital figures include mega-rounds (OpenAI $110B, Anthropic $30B) that dominate aggregate totals.
+    88 rounds (4.5%) have undisclosed amounts and are excluded from capital totals.
+  </div>
+</div>
+
+<!-- 3: Founder Origins + Sectors -->
+<h2>3. Founder Demographics &amp; Sector Distribution</h2>
+<div class="row row-2">
+  <div class="chart-container">
+    <div class="chart-title">Founder national/ethnic origin (n = 2,097 classified of 2,128 total)</div>
+    <div class="bar-chart">
+      <div class="bar-row"><span class="bar-label">American</span><div class="bar-track"><div class="bar-fill" style="width:100%; background:var(--accent);"></div></div><span class="bar-val">530</span></div>
+      <div class="bar-row"><span class="bar-label">Indian</span><div class="bar-track"><div class="bar-fill" style="width:33%; background:var(--accent);"></div></div><span class="bar-val">176</span></div>
+      <div class="bar-row"><span class="bar-label">Chinese</span><div class="bar-track"><div class="bar-fill" style="width:27%; background:var(--accent);"></div></div><span class="bar-val">145</span></div>
+      <div class="bar-row"><span class="bar-label">Israeli</span><div class="bar-track"><div class="bar-fill" style="width:27%; background:var(--accent);"></div></div><span class="bar-val">142</span></div>
+      <div class="bar-row"><span class="bar-label">Indian-American</span><div class="bar-track"><div class="bar-fill" style="width:22%; background:var(--green);"></div></div><span class="bar-val">118</span></div>
+      <div class="bar-row"><span class="bar-label">Chinese-American</span><div class="bar-track"><div class="bar-fill" style="width:19%; background:var(--green);"></div></div><span class="bar-val">102</span></div>
+      <div class="bar-row"><span class="bar-label">German</span><div class="bar-track"><div class="bar-fill" style="width:12%; background:var(--amber);"></div></div><span class="bar-val">62</span></div>
+      <div class="bar-row"><span class="bar-label">French</span><div class="bar-track"><div class="bar-fill" style="width:11%; background:var(--amber);"></div></div><span class="bar-val">60</span></div>
+      <div class="bar-row"><span class="bar-label">British</span><div class="bar-track"><div class="bar-fill" style="width:11%; background:var(--amber);"></div></div><span class="bar-val">57</span></div>
+      <div class="bar-row"><span class="bar-label">Canadian</span><div class="bar-track"><div class="bar-fill" style="width:5%; background:var(--amber);"></div></div><span class="bar-val">25</span></div>
+      <div class="bar-row"><span class="bar-label">Korean</span><div class="bar-track"><div class="bar-fill" style="width:4%; background:var(--amber);"></div></div><span class="bar-val">23</span></div>
+    </div>
+    <div style="font-size:10px; color:var(--faint); margin-top:10px; line-height:1.6;">
+      <span style="display:inline-block; width:8px; height:8px; background:var(--accent); border-radius:2px; vertical-align:middle; margin-right:3px;"></span> Primary nationality &nbsp;
+      <span style="display:inline-block; width:8px; height:8px; background:var(--green); border-radius:2px; vertical-align:middle; margin-right:3px;"></span> Hyphenated / diaspora &nbsp;
+      <span style="display:inline-block; width:8px; height:8px; background:var(--amber); border-radius:2px; vertical-align:middle; margin-right:3px;"></span> European &amp; other<br>
+      Origin classification based on founder names, published bios, LinkedIn profiles, and press coverage. Treated as inference, not confirmed identity. 31 founders (1.5%) remain unclassified.
+    </div>
+  </div>
+
+  <div class="chart-container">
+    <div class="chart-title">Top lead investors by number of rounds led</div>
+    <table>
+      <thead><tr><th></th><th>Investor</th><th style="text-align:right;">Rounds</th></tr></thead>
+      <tbody>
+        <tr><td class="rank">1</td><td><strong>Y Combinator</strong></td><td style="text-align:right;">141</td></tr>
+        <tr><td class="rank">2</td><td>Andreessen Horowitz</td><td style="text-align:right;">48</td></tr>
+        <tr><td class="rank">3</td><td>Sequoia Capital</td><td style="text-align:right;">28</td></tr>
+        <tr><td class="rank">4</td><td>Lightspeed Ventures</td><td style="text-align:right;">28</td></tr>
+        <tr><td class="rank">5</td><td>Accel</td><td style="text-align:right;">28</td></tr>
+        <tr><td class="rank">6</td><td>Khosla Ventures</td><td style="text-align:right;">19</td></tr>
+        <tr><td class="rank">7</td><td>Menlo Ventures</td><td style="text-align:right;">18</td></tr>
+        <tr><td class="rank">8</td><td>Index Ventures</td><td style="text-align:right;">18</td></tr>
+        <tr><td class="rank">9</td><td>Insight Partners</td><td style="text-align:right;">17</td></tr>
+        <tr><td class="rank">10</td><td>General Catalyst</td><td style="text-align:right;">15</td></tr>
+      </tbody>
+    </table>
+    <div style="font-size:10px; color:var(--faint); margin-top:8px; line-height:1.6;">
+      59 rounds list &ldquo;undisclosed&rdquo; as lead investor. YC count includes all batch companies where YC is listed as lead/sole investor in the initial round. Co-leads are each counted once per round.
+    </div>
+  </div>
+</div>
+
+<!-- 4: Geography -->
+<h2>4. Geographic Distribution of Headquarters</h2>
+<div class="chart-container">
+  <div class="chart-title">Company HQ location (top 10 metro areas, normalized)</div>
+  <div class="bar-chart">
+    <div class="bar-row"><span class="bar-label">San Francisco, CA</span><div class="bar-track"><div class="bar-fill" style="width:100%; background:var(--accent);"></div></div><span class="bar-val">337</span></div>
+    <div class="bar-row"><span class="bar-label">New York, NY</span><div class="bar-track"><div class="bar-fill" style="width:19%; background:var(--accent);"></div></div><span class="bar-val">65</span></div>
+    <div class="bar-row"><span class="bar-label">London, UK</span><div class="bar-track"><div class="bar-fill" style="width:13%; background:var(--amber);"></div></div><span class="bar-val">45</span></div>
+    <div class="bar-row"><span class="bar-label">Tel Aviv, Israel</span><div class="bar-track"><div class="bar-fill" style="width:11%; background:var(--amber);"></div></div><span class="bar-val">36</span></div>
+    <div class="bar-row"><span class="bar-label">Shanghai, China</span><div class="bar-track"><div class="bar-fill" style="width:7%; background:var(--green);"></div></div><span class="bar-val">25</span></div>
+    <div class="bar-row"><span class="bar-label">Palo Alto, CA</span><div class="bar-track"><div class="bar-fill" style="width:6%; background:var(--accent);"></div></div><span class="bar-val">20</span></div>
+    <div class="bar-row"><span class="bar-label">Paris, France</span><div class="bar-track"><div class="bar-fill" style="width:5%; background:var(--amber);"></div></div><span class="bar-val">17</span></div>
+    <div class="bar-row"><span class="bar-label">Beijing, China</span><div class="bar-track"><div class="bar-fill" style="width:4%; background:var(--green);"></div></div><span class="bar-val">14</span></div>
+    <div class="bar-row"><span class="bar-label">Berlin, Germany</span><div class="bar-track"><div class="bar-fill" style="width:3%; background:var(--amber);"></div></div><span class="bar-val">11</span></div>
+    <div class="bar-row"><span class="bar-label">Mountain View, CA</span><div class="bar-track"><div class="bar-fill" style="width:3%; background:var(--accent);"></div></div><span class="bar-val">11</span></div>
+  </div>
+  <div style="font-size:10px; color:var(--faint); margin-top:10px; line-height:1.6;">
+    <span style="display:inline-block; width:8px; height:8px; background:var(--accent); border-radius:2px; vertical-align:middle; margin-right:3px;"></span> United States &nbsp;
+    <span style="display:inline-block; width:8px; height:8px; background:var(--amber); border-radius:2px; vertical-align:middle; margin-right:3px;"></span> Europe &amp; Israel &nbsp;
+    <span style="display:inline-block; width:8px; height:8px; background:var(--green); border-radius:2px; vertical-align:middle; margin-right:3px;"></span> China<br>
+    San Francisco count consolidates variant spellings (&ldquo;San Francisco, CA&rdquo;, &ldquo;San Francisco, CA, USA&rdquo;, &ldquo;San Francisco, California&rdquo;).
+    Shanghai count includes nearby cities (Hangzhou, Suzhou) where listed as Shanghai metro.
+    Coverage is biased toward English-language media; China and Japan are likely underrepresented.
+  </div>
+</div>
+
+<!-- 5: Data Quality -->
+<h2>5. Data Coverage &amp; Confidence Assessment</h2>
+<div class="row row-2">
+  <div class="chart-container">
+    <div class="chart-title">Field completeness (percentage of records with non-null values)</div>
+    <div style="margin-top:4px;">
+      <div class="gauge-row">
+        <span class="gauge-label">Company name</span>
+        <div class="gauge-track"><div class="gauge-fill" style="width:100%; background:var(--green);"></div></div>
+        <span class="gauge-pct">100.0%</span>
+      </div>
+      <div class="gauge-row">
+        <span class="gauge-label">Website URL</span>
+        <div class="gauge-track"><div class="gauge-fill" style="width:100%; background:var(--green);"></div></div>
+        <span class="gauge-pct">100.0%</span>
+      </div>
+      <div class="gauge-row">
+        <span class="gauge-label">LinkedIn URL</span>
+        <div class="gauge-track"><div class="gauge-fill" style="width:100%; background:var(--green);"></div></div>
+        <span class="gauge-pct">100.0%</span>
+      </div>
+      <div class="gauge-row">
+        <span class="gauge-label">Founder origins</span>
+        <div class="gauge-track"><div class="gauge-fill" style="width:98.5%; background:var(--green);"></div></div>
+        <span class="gauge-pct">98.5%</span>
+      </div>
+      <div class="gauge-row">
+        <span class="gauge-label">Founder backgrounds</span>
+        <div class="gauge-track"><div class="gauge-fill" style="width:96.7%; background:var(--green);"></div></div>
+        <span class="gauge-pct">96.7%</span>
+      </div>
+      <div class="gauge-row">
+        <span class="gauge-label">Round amounts</span>
+        <div class="gauge-track"><div class="gauge-fill" style="width:95.5%; background:var(--green);"></div></div>
+        <span class="gauge-pct">95.5%</span>
+      </div>
+      <div class="gauge-row">
+        <span class="gauge-label">Round source URLs</span>
+        <div class="gauge-track"><div class="gauge-fill" style="width:88.5%; background:var(--amber);"></div></div>
+        <span class="gauge-pct">88.5%</span>
+      </div>
+    </div>
+  </div>
+
+  <div class="chart-container">
+    <div class="chart-title">Per-company confidence rating (n = 937)</div>
+    <div class="confidence-bar">
+      <div class="conf-seg" style="width:37.7%; background:var(--green);">High &mdash; 353</div>
+      <div class="conf-seg" style="width:49.6%; background:var(--amber);">Medium &mdash; 465</div>
+      <div class="conf-seg" style="width:6.6%; background:var(--red);">Low &mdash; 62</div>
+      <div class="conf-seg" style="width:6.1%; background:#ccc; color:#666;">N/A &mdash; 57</div>
+    </div>
+    <div style="font-size:11px; color:var(--muted); margin-top:12px; line-height:1.7;">
+      <strong>High</strong> &mdash; multiple independent sources, funding verified against press/SEC filings, full founder profiles<br>
+      <strong>Medium</strong> &mdash; primary source confirmed, some fields single-sourced or estimated<br>
+      <strong>Low</strong> &mdash; limited public information, stealth-mode companies, or single unverified source
+    </div>
+    <div style="font-size:11px; color:var(--muted); margin-top:16px;">
+      <strong>Known limitations:</strong>
+      <ul style="margin:6px 0 0 16px; font-size:11px; line-height:1.7;">
+        <li>Valuation data available for ~4% of companies (most startups do not disclose)</li>
+        <li>Revenue signals available for ~3% (private companies rarely report)</li>
+        <li>Systematic undercounting of pre-seed/seed rounds is expected</li>
+        <li>No paywalled sources (Crunchbase Pro, PitchBook) were used</li>
+      </ul>
+    </div>
+  </div>
+</div>
+
+<!-- 6: Methodology -->
+<h2>6. Methodology</h2>
+<div class="method-grid">
+  <div class="method-card">
+    <h3>Data Collection</h3>
+    Multi-source research: <strong>VC portfolio pages</strong> (a16z, Sequoia, Khosla, Greylock, General Catalyst, Accel, Felicis, Bessemer, NEA, Thrive, Coatue), <strong>startups.gallery</strong> cross-reference (1,254 companies), <strong>Y Combinator directory</strong> (W22&ndash;W26), <strong>TechCrunch</strong> &ldquo;$100M+ AI startups&rdquo; lists, <strong>SEC EDGAR Form D filings</strong>, regional press (Sifted, TechNode, KrASIA, YourStory, Calcalist), and direct company website verification.
+  </div>
+  <div class="method-card">
+    <h3>Quality Principles</h3>
+    <strong>1.</strong> Quality over completeness &mdash; empty field &gt; fabricated field.<br>
+    <strong>2.</strong> Every claim is sourced &mdash; funding amounts link to original reporting where available (88.5% coverage).<br>
+    <strong>3.</strong> Uncertainty is explicit &mdash; per-company confidence rating; unconfirmed rounds marked.<br>
+    <strong>4.</strong> Origin is inference &mdash; founder ethnicity/nationality inferred from names + public bios, not self-reported.
+  </div>
+  <div class="method-card">
+    <h3>Validation</h3>
+    Random audit of 20 companies against Crunchbase and press: 8&ndash;9/20 had fully correct funding totals on initial check. Drove systematic back-fill of 121 missing rounds and normalization of 337 origin values. A second audit achieved 20/20 on the corrected records. Systematic undercounting of earlier rounds remains a known limitation.
+  </div>
+  <div class="method-card">
+    <h3>Schema &amp; Reproducibility</h3>
+    Each company stored as markdown with YAML frontmatter. Canonical schema: snake_case fields, monetary values in USD millions (suffix <code>_m</code>), dates as YYYY-MM.
+    Exports: <strong>3 CSV files</strong> (companies, rounds, founders), <strong>JSON</strong>, <strong>SQLite</strong>. All rebuild scripts in <code>scripts/</code>. Full source on <a href="https://github.com/SoujiOkita98/AI-100-Lab">GitHub</a>.
+  </div>
+</div>
+
+<!-- 7: Planned Features -->
+<h2>7. Planned Interactive Features</h2>
+<div class="row row-1-1-1">
+  <div class="chart-container">
+    <div class="chart-title">Natural Language Query</div>
+    <div style="font-size:12px; color:var(--muted); line-height:1.7;">
+      Ask questions in plain English:<br>
+      <em>&ldquo;Chinese-founded AI companies that raised Series A in 2025 in the Bay Area&rdquo;</em><br><br>
+      Translates natural language to SQL queries via Claude API. Every result includes source citations and confidence levels.
+    </div>
+  </div>
+  <div class="chart-container">
+    <div class="chart-title">Relationship Network Graph</div>
+    <div style="font-size:12px; color:var(--muted); line-height:1.7;">
+      Force-directed graph of founder&ndash;company&ndash;investor relationships. Explore co-investment patterns, founder alumni networks (ex-OpenAI, ex-Google Brain), and VC portfolio overlap. Filterable by sector, geography, and origin.
+    </div>
+  </div>
+  <div class="chart-container">
+    <div class="chart-title">Predictive Signal Scoring</div>
+    <div style="font-size:12px; color:var(--muted); line-height:1.7;">
+      Composite scoring based on: sector momentum, funding velocity, investor tier, and founder pedigree signals. Designed as a <strong>research prioritization tool</strong> with fully transparent methodology &mdash; not financial advice.
+    </div>
+  </div>
+</div>
+
+<div class="footer">
+  <div>Dataset: <strong>AI-100-Lab</strong> by <a href="https://github.com/SoujiOkita98">Gavin Zhu (@SoujiOkita98)</a></div>
+  <div>Built with <a href="https://claude.ai/claude-code">Claude Code</a> by Anthropic &middot; March 2026</div>
 </div>
 
 </body>
