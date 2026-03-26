@@ -1,0 +1,541 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>AI-100-Lab — Bloomberg for AI Wireframe</title>
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body {
+    font-family: -apple-system, 'SF Mono', 'Menlo', monospace;
+    background: #f5f5f0;
+    color: #2a2a2a;
+    padding: 24px;
+    line-height: 1.4;
+  }
+  .page-title {
+    font-size: 11px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    color: #999;
+    margin-bottom: 8px;
+  }
+  h1 { font-size: 20px; font-weight: 600; margin-bottom: 24px; color: #1a1a1a; }
+  .screens { display: flex; flex-direction: column; gap: 32px; }
+  .screen {
+    border: 1.5px solid #ccc;
+    border-radius: 6px;
+    background: #fff;
+    overflow: hidden;
+  }
+  .screen-header {
+    background: #1a1a1a;
+    color: #fff;
+    padding: 8px 14px;
+    font-size: 11px;
+    font-weight: 600;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  .screen-header .badge {
+    background: #4a9eff;
+    color: #fff;
+    padding: 2px 8px;
+    border-radius: 10px;
+    font-size: 9px;
+  }
+  .screen-body { padding: 16px; }
+
+  /* --- Screen 1: Main Dashboard with NL Query --- */
+  .nl-bar {
+    border: 1.5px dashed #bbb;
+    border-radius: 8px;
+    padding: 14px 16px;
+    margin-bottom: 16px;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    background: #fafafa;
+  }
+  .nl-bar .icon { font-size: 16px; color: #888; }
+  .nl-bar .placeholder { color: #999; font-size: 13px; flex: 1; }
+  .nl-bar .btn {
+    background: #1a1a1a;
+    color: #fff;
+    border: none;
+    padding: 6px 14px;
+    border-radius: 4px;
+    font-size: 11px;
+    font-weight: 600;
+  }
+  .stats-row {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 12px;
+    margin-bottom: 16px;
+  }
+  .stat-card {
+    border: 1px solid #e0e0e0;
+    border-radius: 6px;
+    padding: 12px;
+    text-align: center;
+  }
+  .stat-card .num { font-size: 22px; font-weight: 700; color: #1a1a1a; }
+  .stat-card .label { font-size: 10px; color: #888; text-transform: uppercase; letter-spacing: 0.5px; margin-top: 2px; }
+  .two-col { display: grid; grid-template-columns: 2fr 1fr; gap: 16px; }
+  .table-mock {
+    border: 1px solid #e0e0e0;
+    border-radius: 6px;
+    overflow: hidden;
+  }
+  .table-mock .thead {
+    background: #f0f0f0;
+    display: grid;
+    padding: 8px 12px;
+    font-size: 10px;
+    font-weight: 600;
+    color: #666;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+  }
+  .table-mock .thead.companies-grid { grid-template-columns: 2fr 1fr 1fr 1fr 1fr; }
+  .table-mock .trow {
+    display: grid;
+    padding: 10px 12px;
+    font-size: 12px;
+    border-top: 1px solid #eee;
+    align-items: center;
+  }
+  .table-mock .trow.companies-grid { grid-template-columns: 2fr 1fr 1fr 1fr 1fr; }
+  .table-mock .trow:hover { background: #f8f8f5; }
+  .tag {
+    display: inline-block;
+    background: #e8f0fe;
+    color: #1a5faa;
+    padding: 2px 6px;
+    border-radius: 3px;
+    font-size: 10px;
+    font-weight: 500;
+  }
+  .tag.green { background: #e6f4ea; color: #137333; }
+  .tag.amber { background: #fef7e0; color: #b06000; }
+  .sidebar-card {
+    border: 1px solid #e0e0e0;
+    border-radius: 6px;
+    padding: 14px;
+  }
+  .sidebar-card h3 { font-size: 11px; font-weight: 600; text-transform: uppercase; color: #888; margin-bottom: 10px; letter-spacing: 0.5px; }
+  .sidebar-item {
+    display: flex;
+    justify-content: space-between;
+    font-size: 12px;
+    padding: 4px 0;
+    border-bottom: 1px solid #f0f0f0;
+  }
+  .sidebar-item:last-child { border-bottom: none; }
+  .sidebar-item .val { font-weight: 600; }
+
+  /* --- Screen 2: Company Profile --- */
+  .profile-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    margin-bottom: 16px;
+    padding-bottom: 14px;
+    border-bottom: 1px solid #eee;
+  }
+  .profile-name { font-size: 18px; font-weight: 700; }
+  .profile-meta { font-size: 12px; color: #666; margin-top: 4px; }
+  .profile-funding {
+    text-align: right;
+    font-size: 11px;
+    color: #666;
+  }
+  .profile-funding .amount { font-size: 20px; font-weight: 700; color: #1a1a1a; }
+  .profile-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; }
+  .profile-section {
+    border: 1px solid #e0e0e0;
+    border-radius: 6px;
+    padding: 12px;
+  }
+  .profile-section h3 {
+    font-size: 10px; font-weight: 600; text-transform: uppercase;
+    color: #888; letter-spacing: 0.5px; margin-bottom: 8px;
+    padding-bottom: 6px; border-bottom: 1px solid #f0f0f0;
+  }
+  .founder-row {
+    display: flex;
+    justify-content: space-between;
+    font-size: 12px;
+    padding: 4px 0;
+  }
+  .founder-row .origin { color: #888; font-size: 11px; }
+  .round-row {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    font-size: 11px;
+    padding: 4px 0;
+    border-bottom: 1px solid #f5f5f5;
+  }
+  .round-row .stage { font-weight: 600; }
+  .citation { color: #4a9eff; font-size: 10px; cursor: pointer; }
+
+  /* --- Screen 3: Network Graph --- */
+  .graph-area {
+    border: 1.5px dashed #ccc;
+    border-radius: 8px;
+    height: 260px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #fafafa;
+    position: relative;
+    overflow: hidden;
+  }
+  .node {
+    position: absolute;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 8px;
+    font-weight: 600;
+    color: #fff;
+    text-align: center;
+    line-height: 1.1;
+  }
+  .node.company { background: #1a5faa; }
+  .node.investor { background: #b06000; }
+  .node.founder { background: #137333; }
+  .edge {
+    position: absolute;
+    height: 1px;
+    background: #ddd;
+    transform-origin: left center;
+  }
+  .graph-legend {
+    display: flex;
+    gap: 16px;
+    margin-top: 10px;
+    font-size: 10px;
+    color: #888;
+  }
+  .legend-dot {
+    display: inline-block;
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+    margin-right: 4px;
+    vertical-align: middle;
+  }
+
+  /* --- Screen 4: Predictive Scoring --- */
+  .score-table .thead { grid-template-columns: 2fr 1fr 1fr 1fr 1.5fr; }
+  .score-table .trow { grid-template-columns: 2fr 1fr 1fr 1fr 1.5fr; }
+  .score-bar {
+    height: 6px;
+    background: #e0e0e0;
+    border-radius: 3px;
+    overflow: hidden;
+    width: 80px;
+  }
+  .score-bar .fill { height: 100%; border-radius: 3px; }
+  .score-bar .fill.high { background: #137333; }
+  .score-bar .fill.med { background: #b06000; }
+  .score-bar .fill.low { background: #ccc; }
+
+  .note {
+    font-size: 10px;
+    color: #999;
+    font-style: italic;
+    margin-top: 8px;
+    padding: 8px 12px;
+    background: #f8f8f5;
+    border-radius: 4px;
+    border-left: 3px solid #ddd;
+  }
+</style>
+</head>
+<body>
+
+<p class="page-title">Wireframe &mdash; AI-100-Lab Dashboard</p>
+<h1>Bloomberg for AI Ecosystems</h1>
+
+<div class="screens">
+
+  <!-- SCREEN 1: Main Explorer + NL Query -->
+  <div class="screen">
+    <div class="screen-header">
+      <span>Screen 1: Explorer + Natural Language Query</span>
+      <span class="badge">Home</span>
+    </div>
+    <div class="screen-body">
+      <!-- NL Query Bar -->
+      <div class="nl-bar">
+        <span class="icon">&#x1F50D;</span>
+        <span class="placeholder">"Show me Chinese-founded AI companies that raised Series A in 2025 in the Bay Area..."</span>
+        <span class="btn">Ask</span>
+      </div>
+
+      <!-- Stats -->
+      <div class="stats-row">
+        <div class="stat-card"><div class="num">937</div><div class="label">Companies</div></div>
+        <div class="stat-card"><div class="num">$482B</div><div class="label">Total Raised</div></div>
+        <div class="stat-card"><div class="num">2,128</div><div class="label">Founders</div></div>
+        <div class="stat-card"><div class="num">1,956</div><div class="label">Rounds</div></div>
+      </div>
+
+      <div class="two-col">
+        <!-- Company Table -->
+        <div class="table-mock">
+          <div class="thead companies-grid">
+            <span>Company</span><span>Sector</span><span>HQ</span><span>Raised</span><span>Stage</span>
+          </div>
+          <div class="trow companies-grid">
+            <span><strong>Anthropic</strong></span>
+            <span><span class="tag">foundation-models</span></span>
+            <span>SF, CA</span>
+            <span>$67.3B</span>
+            <span><span class="tag green">Series G</span></span>
+          </div>
+          <div class="trow companies-grid">
+            <span><strong>OpenAI</strong></span>
+            <span><span class="tag">foundation-models</span></span>
+            <span>SF, CA</span>
+            <span>$168B</span>
+            <span><span class="tag green">Series C</span></span>
+          </div>
+          <div class="trow companies-grid">
+            <span><strong>Figure AI</strong></span>
+            <span><span class="tag">robotics</span></span>
+            <span>Sunnyvale, CA</span>
+            <span>$2.6B</span>
+            <span><span class="tag amber">Series B</span></span>
+          </div>
+          <div class="trow companies-grid">
+            <span><strong>Zhipu AI</strong></span>
+            <span><span class="tag">foundation-models</span></span>
+            <span>Beijing, CN</span>
+            <span>$700M</span>
+            <span><span class="tag amber">Series B</span></span>
+          </div>
+          <div class="trow companies-grid" style="color:#999; font-style:italic;">
+            <span colspan="5">... 933 more rows (filterable)</span>
+            <span></span><span></span><span></span><span></span>
+          </div>
+        </div>
+
+        <!-- Sidebar: Sector + Origin breakdown -->
+        <div style="display:flex; flex-direction:column; gap:12px;">
+          <div class="sidebar-card">
+            <h3>Top Sectors</h3>
+            <div class="sidebar-item"><span>Foundation models</span><span class="val">142</span></div>
+            <div class="sidebar-item"><span>Enterprise AI</span><span class="val">118</span></div>
+            <div class="sidebar-item"><span>Healthcare AI</span><span class="val">87</span></div>
+            <div class="sidebar-item"><span>Dev tools</span><span class="val">79</span></div>
+            <div class="sidebar-item"><span>Robotics</span><span class="val">64</span></div>
+          </div>
+          <div class="sidebar-card">
+            <h3>Founder Origins</h3>
+            <div class="sidebar-item"><span>American</span><span class="val">262</span></div>
+            <div class="sidebar-item"><span>Israeli</span><span class="val">116</span></div>
+            <div class="sidebar-item"><span>Indian-American</span><span class="val">89</span></div>
+            <div class="sidebar-item"><span>Chinese</span><span class="val">81</span></div>
+            <div class="sidebar-item"><span>Indian</span><span class="val">77</span></div>
+          </div>
+        </div>
+      </div>
+      <div class="note">Every cell is clickable. Company names open the Profile view. Sectors and origins are filter links. The NL bar uses Claude API to translate questions to SQL, with source citations on every result.</div>
+    </div>
+  </div>
+
+  <!-- SCREEN 2: Company Profile -->
+  <div class="screen">
+    <div class="screen-header">
+      <span>Screen 2: Company Profile</span>
+      <span class="badge">Detail</span>
+    </div>
+    <div class="screen-body">
+      <div class="profile-header">
+        <div>
+          <div class="profile-name">Anthropic</div>
+          <div class="profile-meta">
+            Founded 2021 &middot; San Francisco, CA &middot; <span class="tag green">Active</span>
+            &middot; <span class="tag">AI safety</span> <span class="tag">foundation models</span>
+          </div>
+          <div style="font-size:12px; color:#555; margin-top:6px;">AI safety company building Claude, the leading enterprise LLM.</div>
+        </div>
+        <div class="profile-funding">
+          <div class="amount">$67.3B</div>
+          <div>total raised</div>
+          <div style="margin-top:4px;">Valuation: $380B</div>
+        </div>
+      </div>
+
+      <div class="profile-grid">
+        <!-- Founders -->
+        <div class="profile-section">
+          <h3>Founders (7)</h3>
+          <div class="founder-row">
+            <div><strong>Dario Amodei</strong> &mdash; CEO</div>
+            <div class="origin">American</div>
+          </div>
+          <div style="font-size:11px; color:#666; padding:2px 0 6px;">PhD biophysics Princeton. VP Research at OpenAI.</div>
+          <div class="founder-row">
+            <div><strong>Daniela Amodei</strong> &mdash; President</div>
+            <div class="origin">American</div>
+          </div>
+          <div style="font-size:11px; color:#666; padding:2px 0 6px;">BA English Lit UC Santa Cruz. VP Safety at OpenAI.</div>
+          <div class="founder-row">
+            <div><strong>Chris Olah</strong> &mdash; Research Director</div>
+            <div class="origin">Canadian</div>
+          </div>
+          <div style="font-size:11px; color:#666; padding:2px 0 6px;">Self-taught. Thiel Fellow. Pioneer of interpretability.</div>
+          <div style="font-size:10px; color:#999; margin-top:4px;">+ 4 more founders</div>
+        </div>
+
+        <!-- Funding Rounds -->
+        <div class="profile-section">
+          <h3>Funding Rounds (11)</h3>
+          <div class="round-row" style="font-weight:600; color:#888; font-size:10px; border-bottom: 1px solid #e0e0e0;">
+            <span>Stage</span><span>Date</span><span>Amount</span><span>Source</span>
+          </div>
+          <div class="round-row">
+            <span class="stage">Series G</span><span>2026-02</span><span>$30B</span><span class="citation">[CNBC]</span>
+          </div>
+          <div class="round-row">
+            <span class="stage">Series F</span><span>2025-09</span><span>$13B</span><span class="citation">[Sacra]</span>
+          </div>
+          <div class="round-row">
+            <span class="stage">Series E</span><span>2025-03</span><span>$3.5B</span><span class="citation">[Anthropic]</span>
+          </div>
+          <div class="round-row">
+            <span class="stage">Amazon</span><span>2024-11</span><span>$4B</span><span class="citation">[CNBC]</span>
+          </div>
+          <div style="font-size:10px; color:#999; margin-top:4px;">+ 7 earlier rounds</div>
+        </div>
+
+        <!-- Narrative excerpt -->
+        <div class="profile-section" style="grid-column: span 2;">
+          <h3>Research Notes</h3>
+          <div style="font-size:12px; color:#444; line-height:1.6;">
+            Anthropic is an AI safety company and one of the three leading frontier model labs globally (alongside OpenAI and Google DeepMind). Founded in 2021 by seven former OpenAI researchers...
+            <br><br>
+            <strong>What makes them interesting:</strong> Enterprise-first model works. 85% of revenue from business customers vs. OpenAI's 85% from consumers. Claude Code alone is at $2.5B annualized...
+          </div>
+          <div class="note" style="margin-top:10px;">
+            Full narrative research from the markdown file. Every claim linked to source URLs. Confidence: HIGH.
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- SCREEN 3: Network Graph -->
+  <div class="screen">
+    <div class="screen-header">
+      <span>Screen 3: Network Graph</span>
+      <span class="badge">Relationships</span>
+    </div>
+    <div class="screen-body">
+      <div class="graph-area">
+        <!-- Simulated nodes -->
+        <div class="node company" style="width:50px;height:50px;left:45%;top:35%;">Anthropic</div>
+        <div class="node investor" style="width:40px;height:40px;left:20%;top:20%;font-size:7px;">Amazon</div>
+        <div class="node investor" style="width:35px;height:35px;left:70%;top:15%;font-size:7px;">GIC</div>
+        <div class="node investor" style="width:32px;height:32px;left:15%;top:60%;font-size:7px;">Lightspeed</div>
+        <div class="node investor" style="width:30px;height:30px;left:75%;top:55%;font-size:7px;">Coatue</div>
+        <div class="node company" style="width:45px;height:45px;left:30%;top:70%;font-size:7px;">OpenAI</div>
+        <div class="node company" style="width:35px;height:35px;left:65%;top:75%;font-size:7px;">xAI</div>
+        <div class="node founder" style="width:28px;height:28px;left:50%;top:10%;font-size:6px;">Dario A.</div>
+        <div class="node founder" style="width:25px;height:25px;left:38%;top:80%;font-size:6px;">Sam A.</div>
+        <!-- Note: real version would use D3.js/Vis.js with force-directed layout and edge rendering -->
+        <div style="position:absolute;bottom:8px;right:12px;font-size:9px;color:#999;">
+          D3.js force-directed graph &middot; click any node to explore
+        </div>
+      </div>
+      <div class="graph-legend">
+        <span><span class="legend-dot" style="background:#1a5faa;"></span> Company</span>
+        <span><span class="legend-dot" style="background:#b06000;"></span> Investor</span>
+        <span><span class="legend-dot" style="background:#137333;"></span> Founder</span>
+      </div>
+      <div class="note">Relationship graph shows co-investment patterns, founder networks (ex-OpenAI diaspora, ex-Google Brain alumni), and investor portfolios. Filter by sector, geography, or origin. Click a node to see all connections.</div>
+    </div>
+  </div>
+
+  <!-- SCREEN 4: Predictive Scoring / Watchlist -->
+  <div class="screen">
+    <div class="screen-header">
+      <span>Screen 4: Predictive Signals + Watchlist</span>
+      <span class="badge">Intelligence</span>
+    </div>
+    <div class="screen-body">
+      <div class="table-mock score-table">
+        <div class="thead">
+          <span>Company</span><span>Sector Heat</span><span>Funding Velocity</span><span>Signal Score</span><span>Prediction</span>
+        </div>
+        <div class="trow">
+          <span><strong>Cursor</strong></span>
+          <span><span class="tag green">dev-tools: HOT</span></span>
+          <span>3 rounds in 18mo</span>
+          <span><div class="score-bar"><div class="fill high" style="width:90%;"></div></div></span>
+          <span style="font-size:11px;">Likely Series C within 6mo</span>
+        </div>
+        <div class="trow">
+          <span><strong>Glean</strong></span>
+          <span><span class="tag green">search: HOT</span></span>
+          <span>2 rounds in 12mo</span>
+          <span><div class="score-bar"><div class="fill high" style="width:85%;"></div></div></span>
+          <span style="font-size:11px;">IPO candidate 2026-2027</span>
+        </div>
+        <div class="trow">
+          <span><strong>Cohere</strong></span>
+          <span><span class="tag amber">foundation: WARM</span></span>
+          <span>1 round in 12mo</span>
+          <span><div class="score-bar"><div class="fill med" style="width:60%;"></div></div></span>
+          <span style="font-size:11px;">May seek strategic partner</span>
+        </div>
+        <div class="trow">
+          <span><strong>Aaru</strong></span>
+          <span><span class="tag">agents: EMERGING</span></span>
+          <span>Seed only</span>
+          <span><div class="score-bar"><div class="fill low" style="width:35%;"></div></div></span>
+          <span style="font-size:11px;">Early stage &mdash; watch</span>
+        </div>
+      </div>
+      <div class="note">
+        Signal score = weighted composite of: sector growth rate, time since last round, round size trajectory, investor quality (tier 1 VCs), founder pedigree signals. Not a financial recommendation &mdash; a research prioritization tool. Methodology is transparent and documented.
+      </div>
+    </div>
+  </div>
+
+  <!-- SCREEN 5: Data Coverage -->
+  <div class="screen">
+    <div class="screen-header">
+      <span>Screen 5: Data Coverage Dashboard</span>
+      <span class="badge">Quality</span>
+    </div>
+    <div class="screen-body">
+      <div class="stats-row">
+        <div class="stat-card"><div class="num" style="color:#137333;">97%</div><div class="label">Founder Origins</div></div>
+        <div class="stat-card"><div class="num" style="color:#b06000;">92%</div><div class="label">Backgrounds</div></div>
+        <div class="stat-card"><div class="num" style="color:#b06000;">95%</div><div class="label">Round Amounts</div></div>
+        <div class="stat-card"><div class="num" style="color:#cc3333;">88%</div><div class="label">Source URLs</div></div>
+      </div>
+      <div class="note">
+        The Coverage Dashboard makes data quality part of the product. Researchers see exactly where gaps exist. Each gap is clickable &mdash; shows which companies/founders need enrichment. This drives the data improvement workflow and builds trust: "we show you what we DON'T know."
+      </div>
+    </div>
+  </div>
+
+</div>
+
+<div style="margin-top:24px; font-size:10px; color:#bbb; text-align:center;">
+  AI-100-Lab &middot; Bloomberg for AI Ecosystems &middot; Wireframe by /office-hours &middot; March 2026
+</div>
+
+</body>
+</html>
