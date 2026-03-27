@@ -9,6 +9,7 @@ founders:
   - name: "Chen Jianyu"
     role: "CEO"
     background: "Tsinghua assistant professor, PhD UC Berkeley. Tsinghua University holds shares."
+    origin: "Chinese"
 funding_rounds:
   - stage: "Series B"
     date: "2026-03"

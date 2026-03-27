@@ -9,6 +9,7 @@ founders:
   - name: "Hao Sheng"
     role: "CEO"
     background: "University of Toronto. 6+ years conversational AI. Former Google Dialogflow and Cresta."
+    origin: "Chinese"
 total_funding: 2.5
 last_updated: 2026-03-21
 confidence: medium

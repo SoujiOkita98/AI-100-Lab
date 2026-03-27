@@ -9,9 +9,11 @@ founders:
   - name: "Yuchen Wu"
     role: "CEO"
     background: "BS from Tsinghua University. PhD from Northwestern. Engineering Director at Google (2010-2020). VP of Engineering at Instacart."
+    origin: "Chinese-American"
   - name: "Jian Wang"
     role: "CTO"
     background: "PhD ML from UC Santa Cruz. Sr. Staff Engineer at Google Ads."
+    origin: "Chinese-American"
 funding_rounds:
   - stage: "Seed"
     date: "2025-10"

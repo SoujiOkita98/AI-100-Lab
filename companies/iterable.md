@@ -9,6 +9,7 @@ founders:
   - name: "Justin Zhu"
     role: "Co-founder (departed 2021)"
     background: "Chinese-American. Former Twitter engineer."
+    origin: "Chinese-American"
   - name: "Andrew Boni"
     role: "Co-founder"
     background: "Former Twitter engineer."

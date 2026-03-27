@@ -9,9 +9,11 @@ founders:
   - name: "Yun Zhang"
     role: "CEO"
     background: "Guangdong University of Foreign Studies, Shanghai Jiaotong University, University of Washington. Former Amazon."
+    origin: "Chinese-American"
   - name: "Dongsheng Song"
     role: "CPO"
     background: "Former Amazon engineer."
+    origin: "Chinese-American"
 funding_rounds:
   - stage: "Series B"
     date: "2021"

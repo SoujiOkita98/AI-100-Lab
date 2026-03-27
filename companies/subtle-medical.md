@@ -9,6 +9,7 @@ founders:
   - name: "Enhao Gong"
     role: "CEO"
     background: "BS from Tsinghua University. PhD EE from Stanford. Forbes 30 Under 30."
+    origin: "Chinese-American"
 funding_rounds:
   - stage: "Series B"
     date: "2024"

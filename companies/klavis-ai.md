@@ -9,9 +9,11 @@ founders:
   - name: "Xiangkai Zeng"
     role: "Co-founder"
     background: "Co-authored Gemini paper. Built tool-calling infra for Gemini at Google DeepMind. CMU MS, Beihang BS."
+    origin: "Chinese"
   - name: "Zihao Lin"
     role: "Co-founder"
     background: "Former Senior Engineer at Lyft (recommendations). Northeastern MS, Beihang BS."
+    origin: "Chinese"
 funding_rounds:
   - stage: "Seed"
     date: "2025"

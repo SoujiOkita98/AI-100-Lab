@@ -9,6 +9,7 @@ founders:
   - name: "Ting Wang"
     role: "CEO"
     background: "BS & MS Computer Science, Tongji University (Shanghai). Former Splunk, SAP, TalkingData."
+    origin: "Chinese"
 funding_rounds:
   - stage: "Seed"
     date: "2022-07"

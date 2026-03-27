@@ -9,9 +9,11 @@ founders:
   - name: "Tao Chen"
     role: "CEO"
     background: "PhD MIT CSAIL. BS Shanghai Jiao Tong University. Reinforcement learning and robot control."
+    origin: "Chinese"
   - name: "Yuzhe Qin"
     role: "CTO"
     background: "PhD UCSD. Computer vision and learning from demonstrations. Qualcomm Scholar."
+    origin: "Chinese"
 total_funding: 5
 last_updated: 2026-03-21
 confidence: medium

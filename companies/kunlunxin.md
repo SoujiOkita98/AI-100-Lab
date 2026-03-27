@@ -9,6 +9,7 @@ founders:
   - name: "Ouyang Jian"
     role: "CEO"
     background: "Led Kunlunxin AI chip division within Baidu before spinoff."
+    origin: "Chinese"
 total_funding: 280
 last_updated: 2026-03-21
 confidence: medium

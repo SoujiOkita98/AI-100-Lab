@@ -9,6 +9,7 @@ founders:
   - name: "Jessica Wu"
     role: "CEO"
     background: "MIT dropout (born ~2000). Youngest quantitative researcher at a billion-dollar hedge fund. Former Citadel, Goldentree, Thrive Capital."
+    origin: "Chinese-American"
   - name: "Neil Deshmukh"
     role: "CTO"
     background: "MIT dropout. Co-founded Sola with Jessica Wu."

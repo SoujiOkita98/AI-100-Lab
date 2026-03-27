@@ -9,9 +9,11 @@ founders:
   - name: "Weinan E"
     role: "Co-founder"
     background: "Professor at Peking University and Princeton. Member of Chinese Academy of Sciences. World-renowned mathematician."
+    origin: "Chinese"
   - name: "Linfeng Zhang"
     role: "Chief Scientist"
     background: "BS Peking University, PhD Applied Mathematics Princeton. Director of AI for Science Institute."
+    origin: "Chinese"
 funding_rounds:
   - stage: "Series C"
     date: "2025-12"

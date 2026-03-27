@@ -9,9 +9,11 @@ founders:
   - name: "Huazhe Xu"
     role: "CEO"
     background: "PhD UC Berkeley, postdoc Stanford, now Tsinghua professor."
+    origin: "Chinese"
   - name: "Jiyang Gao"
     role: "Co-founder"
     background: "Ex-Waymo, ex-Momenta."
+    origin: "Chinese"
 funding_rounds:
   - stage: "Series B"
     date: "2026-02"

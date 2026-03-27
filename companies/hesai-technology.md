@@ -9,9 +9,11 @@ founders:
   - name: "David Li Yifan"
     role: "CEO"
     background: "PhD Robotics, University of Illinois."
+    origin: "Chinese"
   - name: "Kai Sun"
     role: "Co-founder"
     background: "Co-founded Hesai with Li Yifan."
+    origin: "Chinese"
 total_funding: 300
 last_updated: 2026-03-21
 confidence: medium

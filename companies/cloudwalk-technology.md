@@ -9,6 +9,7 @@ founders:
   - name: "Zhou Xi"
     role: "CEO"
     background: "PhD University of Illinois at Urbana-Champaign. Former Chinese Academy of Sciences researcher."
+    origin: "Chinese"
 total_funding: 500
 last_updated: 2026-03-21
 confidence: medium

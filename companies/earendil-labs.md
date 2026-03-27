@@ -9,9 +9,11 @@ founders:
   - name: "Jian Peng"
     role: "CEO"
     background: "PhD from Hunan University. Former Associate Professor at UIUC."
+    origin: "Chinese"
   - name: "Zhenping Zhu"
     role: "President & Co-CEO"
     background: "MD from Jiangxi Medical College. PhD immunology from Dalhousie University. Former Global VP Protein Sciences at Novartis."
+    origin: "Chinese"
 funding_rounds:
   - stage: "Series A"
     date: "2026-03"

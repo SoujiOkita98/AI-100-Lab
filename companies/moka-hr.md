@@ -9,9 +9,11 @@ founders:
   - name: "Zhao Oulun (Orion)"
     role: "CEO"
     background: "UC Berkeley graduate. Former engineer at Turo (SF)."
+    origin: "Chinese"
   - name: "Li Guoxing"
     role: "Co-founder"
     background: "University of Michigan and Stanford graduate. Former Facebook engineer."
+    origin: "Chinese-American"
 funding_rounds:
   - stage: "Series C"
     date: "2021-11"

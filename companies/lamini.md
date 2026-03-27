@@ -9,6 +9,7 @@ founders:
   - name: "Sharon Zhou"
     role: "CEO"
     background: "PhD AI from Stanford (advised by Andrew Ng). Harvard BSc in CS & Classics. Former Google ML PM. MIT Tech Review 35 Under 35."
+    origin: "Chinese-American"
   - name: "Greg Diamos"
     role: "CTO"
     background: "Co-founded MLCommons/MLPerf. Led AI research at Baidu. Former NVIDIA CUDA team architect."

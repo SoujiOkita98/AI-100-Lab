@@ -12,6 +12,7 @@ founders:
   - name: "Ben Wu"
     role: "COO"
     background: "Former engineering executive at Yahoo, Dell EMC, and Pivotal."
+    origin: "Chinese-American"
 total_funding: 12
 last_updated: 2026-03-21
 confidence: medium

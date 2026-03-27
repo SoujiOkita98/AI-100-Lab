@@ -9,9 +9,11 @@ founders:
   - name: "Ronghui Gu"
     role: "CEO"
     background: "Columbia CS professor. BS from Tsinghua University. PhD from Yale."
+    origin: "Chinese-American"
   - name: "Zhong Shao"
     role: "Co-founder"
     background: "Yale CS professor. Chinese-born."
+    origin: "Chinese-American"
 funding_rounds:
   - stage: "Series B3"
     date: "2022-04"

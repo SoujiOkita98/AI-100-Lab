@@ -9,9 +9,11 @@ founders:
   - name: "Yichen Wu"
     role: "Co-founder"
     background: "Chinese-born. UNC Chapel Hill."
+    origin: "Chinese"
   - name: "Derek Nee"
     role: "CEO"
     background: "Chinese-born. Co-founded Flowith."
+    origin: "Chinese"
 funding_rounds:
   - stage: "Seed"
     date: "2024"

@@ -9,6 +9,7 @@ founders:
   - name: "Allan Zhang"
     role: "CEO"
     background: "Former Palo Alto Networks (2nd security engineer). Ex-FireEye/Mandiant."
+    origin: "Chinese-American"
 total_funding: 34
 last_updated: 2026-03-21
 confidence: medium

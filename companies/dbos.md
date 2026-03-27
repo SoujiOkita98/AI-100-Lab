@@ -15,6 +15,7 @@ founders:
   - name: "Qian Li"
     role: "Co-founder"
     background: "PhD Computer Science Stanford. BS from Peking University."
+    origin: "Chinese"
 funding_rounds:
   - stage: "Seed"
     date: "2024-03"

@@ -9,9 +9,11 @@ founders:
   - name: "Leo Zhu"
     role: "CEO"
     background: "PhD Statistics UCLA. MIT fellow."
+    origin: "Chinese"
   - name: "Lin Chenxi"
     role: "CTO"
     background: "Former Alibaba Cloud."
+    origin: "Chinese"
 total_funding: 400
 last_updated: 2026-03-21
 confidence: medium

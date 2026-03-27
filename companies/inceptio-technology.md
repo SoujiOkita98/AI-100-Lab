@@ -9,6 +9,7 @@ founders:
   - name: "Julian Ma (Ma Zheren)"
     role: "CEO"
     background: "MBA from IMD. BS EE from Shanghai Jiaotong University. Former Corporate VP at Tencent overseeing strategy and autonomous driving. Former board member of NIO and ZOOX."
+    origin: "Chinese"
 funding_rounds:
   - stage: "Series B"
     date: "2021-06"

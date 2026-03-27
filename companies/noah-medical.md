@@ -9,6 +9,7 @@ founders:
   - name: "Jian Zhang"
     role: "CEO"
     background: "PhD from Columbia University. Employee #2 at Auris Health (acquired by J&J for $5.7B). Former Intuitive Surgical."
+    origin: "Chinese-American"
 funding_rounds:
   - stage: "Series B"
     date: "2023-04"

@@ -12,9 +12,11 @@ founders:
   - name: "David Zeng"
     role: "CTO"
     background: "PhD Stanford AI Lab (signal processing/ML)."
+    origin: "Chinese-American"
   - name: "Jesse Zhang"
     role: "Co-founder"
     background: "PhD Stanford AI Lab (ML/genomics)."
+    origin: "Chinese-American"
 funding_rounds:
   - stage: "Series A"
     date: "2022"

@@ -9,6 +9,7 @@ founders:
   - name: "Dawn Song"
     role: "CEO"
     background: "UC Berkeley professor. BS from Tsinghua University. MacArthur Fellow, Guggenheim Fellow. Top researcher in AI security."
+    origin: "Chinese-American"
 funding_rounds:
   - stage: "Series A"
     date: "2018"

@@ -9,6 +9,7 @@ founders:
   - name: "Mike Xu"
     role: "CEO"
     background: "Grew up in rural China. Studied biochemistry and CS. Previously at eBay and Oracle."
+    origin: "Chinese-American"
 funding_rounds:
   - stage: "Series H"
     date: "2026-02"

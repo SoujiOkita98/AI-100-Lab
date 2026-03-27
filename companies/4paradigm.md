@@ -9,6 +9,7 @@ founders:
   - name: "Dai Wenyuan"
     role: "CEO"
     background: "Former Chief Architect of Baidu Phoenix Nest. MIT Innovators Under 35."
+    origin: "Chinese"
 total_funding: 1000
 last_updated: 2026-03-21
 confidence: medium

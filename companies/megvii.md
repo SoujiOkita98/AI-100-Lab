@@ -9,12 +9,15 @@ founders:
   - name: "Yin Qi"
     role: "CEO"
     background: "Tsinghua University. Co-founded Megvii at age 25."
+    origin: "Chinese"
   - name: "Tang Wenbin"
     role: "CTO"
     background: "Tsinghua University. Led development of Face++ platform."
+    origin: "Chinese"
   - name: "Yang Mu"
     role: "CTO (now departed)"
     background: "Tsinghua University. Early Face++ development."
+    origin: "Chinese"
 total_funding: 1300
 last_updated: 2026-03-21
 confidence: medium

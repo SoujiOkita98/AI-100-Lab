@@ -9,6 +9,7 @@ founders:
   - name: "Tengyu Ma"
     role: "CEO"
     background: "Assistant Professor at Stanford. BS from Tsinghua University. PhD from Princeton. Previously at Google and Facebook."
+    origin: "Chinese"
 funding_rounds:
   - stage: "Series A"
     date: "2024-10"

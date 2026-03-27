@@ -9,6 +9,7 @@ founders:
   - name: "You Wu"
     role: "CEO"
     background: "Former principal applied scientist at Microsoft AI (Copilot, Bing Chat). Former Meta researcher."
+    origin: "Chinese-American"
 funding_rounds:
   - stage: "Seed"
     date: "2024"

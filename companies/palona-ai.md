@@ -9,9 +9,11 @@ founders:
   - name: "Maria Zhang"
     role: "CEO"
     background: "Former VP of Engineering at Google. Former VP and GM of AI for Products at Meta."
+    origin: "Chinese-American"
   - name: "Steve Liu"
     role: "Chief Scientist"
     background: "AI infrastructure and research."
+    origin: "Chinese-American"
 funding_rounds:
   - stage: "Seed"
     date: "2025-01"

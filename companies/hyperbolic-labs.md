@@ -9,9 +9,11 @@ founders:
   - name: "Jasper (Yue) Zhang"
     role: "CEO"
     background: "PhD Mathematics UC Berkeley (completed in 2 years). Gold Medalist at Alibaba Global Math Competition and Chinese Mathematical Olympiad. Previously at Citadel Securities."
+    origin: "Chinese"
   - name: "Yuchen Jin"
     role: "CTO"
     background: "PhD CS University of Washington. BS from Huazhong University of Science & Technology. Built Apache TVM. Former Sr. Engineering Manager at OctoML."
+    origin: "Chinese"
 funding_rounds:
   - stage: "Seed"
     date: "2024-08"

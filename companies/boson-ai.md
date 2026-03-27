@@ -12,6 +12,7 @@ founders:
   - name: "Mu Li"
     role: "CTO"
     background: "PhD ML from CMU. BS from Peking University. Former Senior Principal Scientist at AWS. Co-author of 'Dive into Deep Learning'."
+    origin: "Chinese"
 total_funding: 1.2
 last_updated: 2026-03-21
 confidence: medium

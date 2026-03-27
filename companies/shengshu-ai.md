@@ -9,9 +9,11 @@ founders:
   - name: "Luo Yihang"
     role: "CEO"
     background: "AI video generation researcher."
+    origin: "Chinese"
   - name: "Zhu Jun"
     role: "Chief Scientist"
     background: "Tsinghua professor."
+    origin: "Chinese"
 funding_rounds:
   - stage: "Series A+"
     date: "2024-12"

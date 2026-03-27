@@ -9,9 +9,11 @@ founders:
   - name: "David Liu"
     role: "CEO"
     background: "Chinese-born. Beijing No.8 High School, BUAA. Stanford PhD. Previously at Google."
+    origin: "Chinese-American"
   - name: "Hao Zheng"
     role: "CTO"
     background: "Chinese-born. Stanford PhD."
+    origin: "Chinese-American"
 total_funding: 400
 last_updated: 2026-03-21
 confidence: medium

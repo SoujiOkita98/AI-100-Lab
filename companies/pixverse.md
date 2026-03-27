@@ -9,9 +9,11 @@ founders:
   - name: "Wang Changhu"
     role: "CEO"
     background: "Former Microsoft Research Asia and ByteDance executive."
+    origin: "Chinese"
   - name: "Xie Xuzhang"
     role: "Co-founder"
     background: "AI video generation researcher."
+    origin: "Chinese"
 funding_rounds:
   - stage: "Series C"
     date: "2026-03"
