@@ -1,6 +1,6 @@
 ---
 founded: 2016
-headquarters: Austin, Texas
+headquarters: Austin, TX
 ceo: Jeff Cardenas
 cto: Nick Paine
 cofounders:

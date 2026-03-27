@@ -1,7 +1,7 @@
 ---
 name: Harmonic
 founded: 2023
-headquarters: Palo Alto, CA, USA
+headquarters: Palo Alto, CA
 website: https://harmonic.fun
 sector: AI / Mathematical Reasoning / Formal Verification
 one_liner: AI company building mathematical superintelligence through formal reasoning engines that produce verifiable proofs,

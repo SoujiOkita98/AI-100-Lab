@@ -1,6 +1,6 @@
 ---
 founded: 2022
-headquarters: Cupertino, California, USA
+headquarters: Cupertino, CA
 sector: AI Hardware / Semiconductors (Inference ASICs)
 stage: Growth (Series B)
 employees: ~50-100 (estimate)

@@ -3,7 +3,7 @@ name: SolveAI
 status: active
 founded: 2025
 website: https://solve.ai
-headquarters: London, United Kingdom
+headquarters: London, UK
 sector:
 - enterprise AI
 - no-code development

@@ -1,6 +1,6 @@
 ---
 founded: 2023
-headquarters: Mountain View, California
+headquarters: Mountain View, CA
 sector: Enterprise AI / RAG Infrastructure
 stage: Series A
 latest_valuation_usd: 150000000

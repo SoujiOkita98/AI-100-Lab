@@ -2,7 +2,7 @@
 website: https://www.moveworks.com
 sector: Enterprise AI / Agentic AI Copilot & Employee Support
 founded: 2016
-headquarters: Mountain View, California
+headquarters: Mountain View, CA
 ceo: Bhavin Shah
 employees_approx: ~500 (pre-acquisition estimate)
 acquisition_price: $2.85B (ServiceNow, cash + stock)

@@ -3,7 +3,7 @@ name: Otter.ai
 full_name: Otter.ai (AISense, Inc.)
 sector: AI Productivity / Meeting Transcription
 founded: 2016
-headquarters: Mountain View, California
+headquarters: Mountain View, CA
 website: https://otter.ai
 arr: $100M (March 2025)
 users: 25M+ (2025)

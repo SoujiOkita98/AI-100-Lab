@@ -1,6 +1,6 @@
 ---
 founded: '2022'
-headquarters: Redwood City, CA, United States
+headquarters: Redwood City, CA
 website: https://www.dartai.com/
 founders:
 - name: Milad Malek

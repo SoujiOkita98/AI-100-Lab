@@ -3,7 +3,7 @@ former_names:
 - Surreal (2020-2022, Shenzhen era)
 - Movio (2022-2023, early LA era)
 founded: Dece
-headquarters: Los Angeles, California, USA
+headquarters: Los Angeles, CA
 previous_headquarters: Shenzhen, China (2020-2022)
 founders:
 - name: Joshua Xu (Xu Zhengjia)

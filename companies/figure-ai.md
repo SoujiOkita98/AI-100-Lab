@@ -1,7 +1,7 @@
 ---
 name: Figure AI
 founded: '2022'
-headquarters: Sunnyvale, California, USA
+headquarters: Sunnyvale, CA
 website: https://www.figure.ai
 status: Private
 employees_approx: ~479 (as of January 2026)

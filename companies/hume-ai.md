@@ -1,7 +1,7 @@
 ---
 name: Hume AI
 founded: 2021
-headquarters: New York, NY, USA
+headquarters: New York, NY
 website: https://www.hume.ai
 sector: AI / Emotion AI / Voice AI
 one_liner: Empathic AI company building models that understand and respond to human emotional expression across voice, face,

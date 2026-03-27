@@ -2,7 +2,7 @@
 name: Callosum
 sector: AI / Compute Orchestration / Multi-chip Infrastructure
 founded: '2024'
-headquarters: London, United Kingdom
+headquarters: London, UK
 website: https://callosum.ai
 status: Private
 latest_valuation_approx: unknown (seed stage)

@@ -1,7 +1,7 @@
 ---
 name: Captions
 founded: 2021
-headquarters: New York, NY, USA
+headquarters: New York, NY
 website: https://www.captions.ai
 sector: AI / Video Creation
 one_liner: AI-powered creative studio for video creation, editing, and social media management.

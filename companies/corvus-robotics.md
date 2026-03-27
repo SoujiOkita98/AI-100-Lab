@@ -46,7 +46,7 @@ one_liner: Corvus Robotics builds fully autonomous drone systems for warehouse i
 website_verified: true
 crunchbase: https://www.crunchbase.com/organization/corvus-robotics
 crunchbase_verified: true
-headquarters: Mountain View, California, USA
+headquarters: Mountain View, CA
 linkedin: https://www.linkedin.com/company/corvus-robotics/
 linkedin_verified: true
 total_raised_m: 28.0

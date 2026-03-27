@@ -3,7 +3,7 @@ name: ORO Labs
 status: active
 founded: 2020
 website: https://www.orolabs.ai
-headquarters: Palo Alto, California, United States
+headquarters: Palo Alto, CA
 sector:
 - enterprise AI
 - procurement automation

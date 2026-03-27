@@ -2,7 +2,7 @@
 website: https://www.glean.com
 sector: Enterprise AI / AI-Powered Workplace Search & Agents
 founded: 2019
-headquarters: Palo Alto, California
+headquarters: Palo Alto, CA
 ceo: Arvind Jain
 employees_approx: 850+
 arr: $200M (as of December 2025)

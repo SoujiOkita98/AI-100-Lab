@@ -1,7 +1,7 @@
 ---
 name: Character.AI
 founded: Nove
-headquarters: Menlo Park, California
+headquarters: Menlo Park, CA
 website: https://character.ai
 sector: Consumer AI / Conversational AI
 stage: Post-Series A (complicated by Google licensing deal)

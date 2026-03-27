@@ -1,6 +1,6 @@
 ---
 founded: 2022
-headquarters: London, United Kingdom
+headquarters: London, UK
 sector: AI-Powered Developer Tools
 sub_sector: Autonomous AI Software Engineering Agents
 website: https://cosine.sh

@@ -64,7 +64,7 @@ website_verified: true
 linkedin: https://www.linkedin.com/company/gather-ai
 crunchbase: https://www.crunchbase.com/organization/gather-ai
 crunchbase_verified: true
-headquarters: Pittsburgh, Pennsylvania, USA
+headquarters: Pittsburgh, PA
 linkedin_verified: true
 total_raised_m: 74.0
 confidence: high

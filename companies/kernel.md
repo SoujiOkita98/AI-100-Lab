@@ -1,6 +1,6 @@
 ---
 founded: '2023'
-headquarters: London, United Kingdom
+headquarters: London, UK
 website: https://www.kernel.ai/
 founders:
 - name: Anders Krohn

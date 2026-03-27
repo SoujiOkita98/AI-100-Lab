@@ -1,6 +1,6 @@
 ---
 founded: 2024
-headquarters: London, United Kingdom
+headquarters: London, UK
 sector: AI-Powered Developer Tools
 sub_sector: Autonomous Software Development / Spec-Driven Development
 website: https://tessl.io

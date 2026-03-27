@@ -1,7 +1,7 @@
 ---
 name: Archetype AI
 founded: 2023
-headquarters: Palo Alto, CA, USA
+headquarters: Palo Alto, CA
 website: https://www.archetypeai.io
 sector: AI / Physical World AI / Sensor Intelligence
 one_liner: Physical AI company building foundation models that understand real-world sensor data to power autonomous physical

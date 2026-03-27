@@ -3,7 +3,7 @@ name: Axiomatic AI
 status: active
 founded: 2024
 website: https://axiomatic-ai.com
-headquarters: Boston, Massachusetts, United States
+headquarters: Boston, MA
 sector:
 - AI verification
 - semiconductor design

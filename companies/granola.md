@@ -3,7 +3,7 @@ name: Granola
 full_name: Granola, Inc.
 sector: AI Productivity / Meeting Notes
 founded: 2023
-headquarters: London, United Kingdom
+headquarters: London, UK
 website: https://www.granola.ai
 arr: ~$22M (fiscal year 2024)
 employees: ~30-50 (estimate)

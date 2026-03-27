@@ -1,6 +1,6 @@
 ---
 founded: '2021'
-headquarters: Cupertino, CA, United States
+headquarters: Cupertino, CA
 website: https://aidaptive.com/
 founders:
 - name: Rakesh Yadav

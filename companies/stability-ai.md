@@ -1,6 +1,6 @@
 ---
 founded: 2019
-headquarters: London, United Kingdom
+headquarters: London, UK
 website: https://stability.ai
 sector: Generative AI / Image, Video, Audio, 3D Synthesis
 flagship_product: Stable Diffusion

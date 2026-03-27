@@ -1,6 +1,6 @@
 ---
 founded: 2016
-headquarters: Mountain View, California
+headquarters: Mountain View, CA
 website: https://www.nuro.ai
 one_liner: Autonomous vehicle technology company licensing its Level 4 self-driving Nuro Driver system to automakers and mobility
   providers for robotaxis and delivery

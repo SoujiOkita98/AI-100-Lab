@@ -1,7 +1,7 @@
 ---
 name: Osmo
 founded: 2022
-headquarters: New York, NY, USA
+headquarters: New York, NY
 website: https://www.osmo.ai
 sector: AI / Olfaction / Biotechnology
 one_liner: AI company digitizing the sense of smell, spun out of Google Brain, building olfactory intelligence for fragrance,

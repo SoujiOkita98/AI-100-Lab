@@ -1,6 +1,6 @@
 ---
 founded: '2015'
-headquarters: New York, NY, United States
+headquarters: New York, NY
 website: https://datapeople.io/
 founders:
 - name: Amit Bhatia

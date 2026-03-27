@@ -3,7 +3,7 @@ name: Suno
 full_name: Suno, Inc.
 sector: AI Music Generation
 founded: 2021
-headquarters: Cambridge, Massachusetts
+headquarters: Cambridge, MA
 website: https://suno.com
 arr: $300M (February 2026)
 paid_subscribers: 2M (February 2026)

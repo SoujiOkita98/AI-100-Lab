@@ -1,7 +1,7 @@
 ---
 name: ThoughtSpot
 founded: 2012
-headquarters: Mountain View, California, USA
+headquarters: Mountain View, CA
 website: https://www.thoughtspot.com
 sector: AI-Native Business Intelligence & Analytics
 one_liner: AI-powered analytics platform that lets business users query data and generate visualizations using natural language

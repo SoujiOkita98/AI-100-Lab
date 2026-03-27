@@ -2,7 +2,7 @@
 name: Turing
 website: https://www.turing.com
 founded: 2018
-headquarters: Palo Alto, California, USA
+headquarters: Palo Alto, CA
 founders:
 - name: Jonathan Siddharth
   role: CEO & Co-Founder

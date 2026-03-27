@@ -1,7 +1,7 @@
 ---
 name: Resemble AI
 founded: 2019
-headquarters: Santa Clara, CA, USA
+headquarters: Santa Clara, CA
 website: https://www.resemble.ai
 sector: AI / Voice & Deepfake Detection
 one_liner: AI platform for enterprise-grade voice generation and real-time deepfake detection across 38+ languages.

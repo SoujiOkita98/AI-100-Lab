@@ -1,6 +1,6 @@
 ---
 founded: 2021
-headquarters: San Jose, California
+headquarters: San Jose, CA
 additional_offices:
 - San Francisco, CA (sales/BD)
 - Montreal, Canada (R&D)

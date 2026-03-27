@@ -2,7 +2,7 @@
 website: https://www.typeface.ai
 sector: Enterprise AI / Generative AI for Marketing & Content
 founded: 'May '
-headquarters: Palo Alto, California
+headquarters: Palo Alto, CA
 founder: Abhay Parasnis
 ceo: Abhay Parasnis
 employees: ~250-266 (as of early 2026)

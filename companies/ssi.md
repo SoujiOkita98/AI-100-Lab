@@ -2,7 +2,7 @@
 ticker: SSI (private)
 website: https://ssi.inc
 founded: June
-headquarters: Palo Alto, California
+headquarters: Palo Alto, CA
 additional_offices:
 - Tel Aviv, Israel
 ceo: Ilya Sutskever (since July 2025)

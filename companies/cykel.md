@@ -1,6 +1,6 @@
 ---
 founded: '2018'
-headquarters: London, United Kingdom
+headquarters: London, UK
 website: https://www.cykel.ai/
 founders:
 - name: Jonathan Bixby

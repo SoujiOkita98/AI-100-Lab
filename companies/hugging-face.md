@@ -1,6 +1,6 @@
 ---
 founded: 2016
-headquarters: New York, NY, USA
+headquarters: New York, NY
 sector: Artificial Intelligence / Open-Source ML Platform
 last_valuation_usd: 4500000000
 last_valuation_date: 2023-08-22

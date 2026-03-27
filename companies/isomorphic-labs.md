@@ -3,7 +3,7 @@ name: Isomorphic Labs
 founded: 2021
 incorporated: '2021-02-24'
 announced: '2021-11-04'
-headquarters: London, United Kingdom
+headquarters: London, UK
 parent: Alphabet Inc.
 origin: Spin-off from Google DeepMind
 website: https://www.isomorphiclabs.com

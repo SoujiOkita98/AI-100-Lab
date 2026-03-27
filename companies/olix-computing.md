@@ -3,7 +3,7 @@ name: Olix Computing
 status: active
 founded: 2024
 website: https://olix.ai
-headquarters: London, United Kingdom
+headquarters: London, UK
 sector:
 - AI chips
 - photonics

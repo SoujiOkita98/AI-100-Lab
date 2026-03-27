@@ -1,6 +1,6 @@
 ---
 founded: '2019'
-headquarters: New York, NY, United States
+headquarters: New York, NY
 website: https://www.graviti.com/
 founders:
 - name: Edward Cui

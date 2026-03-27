@@ -2,7 +2,7 @@
 name: Nscale
 sector: AI / GPU Cloud Infrastructure / Data Centers
 founded: 2024
-headquarters: London, United Kingdom
+headquarters: London, UK
 website: https://www.nscale.com
 status: Private (IPO planned for 2026)
 latest_valuation_approx: ~$14.6B (March 2026)

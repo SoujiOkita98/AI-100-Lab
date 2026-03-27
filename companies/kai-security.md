@@ -3,7 +3,7 @@ name: Kai Security
 status: active
 founded: 2025
 website: https://www.kai.security
-headquarters: San Jose, California, United States
+headquarters: San Jose, CA
 sector:
 - cybersecurity
 - agentic AI

@@ -1,6 +1,6 @@
 ---
 founded: 2015
-headquarters: Sunnyvale, California, USA
+headquarters: Sunnyvale, CA
 sector: AI Hardware / Semiconductors
 stage: Pre-IPO (targeting Q2 2026 IPO)
 employees: ~500 (estimate; exact figure uncertain)

@@ -1,6 +1,6 @@
 ---
 founded: 2023
-headquarters: Austin, Texas, USA
+headquarters: Austin, TX
 sector: AI Hardware / Semiconductors (Inference)
 stage: Growth (Series B)
 employees: ~50-100 (estimate)

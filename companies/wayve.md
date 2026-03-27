@@ -65,7 +65,7 @@ linkedin: https://www.linkedin.com/company/wayve-technologies
 crunchbase: https://www.crunchbase.com/organization/wayve
 crunchbase_verified: true
 twitter: '@wayve_ai'
-headquarters: London, United Kingdom
+headquarters: London, UK
 name: Wayve
 linkedin_verified: true
 total_raised_m: 2500.0

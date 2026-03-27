@@ -1,7 +1,7 @@
 ---
 name: Vellum
 founded: 2023
-headquarters: New York, NY, USA
+headquarters: New York, NY
 website: https://www.vellum.ai
 sector: AI / Developer Tools / LLM Infrastructure
 one_liner: End-to-end AI development platform for building, evaluating, and deploying production-grade LLM applications.

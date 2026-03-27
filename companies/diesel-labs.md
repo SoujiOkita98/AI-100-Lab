@@ -1,6 +1,6 @@
 ---
 founded: '2016'
-headquarters: Cambridge, MA, United States
+headquarters: Cambridge, MA
 website: https://diesellabs.com/
 founders:
 - name: Anjali Midha

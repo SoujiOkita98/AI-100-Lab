@@ -1,7 +1,7 @@
 ---
 name: Atlan
 founded: 2018
-headquarters: New York, New York, USA
+headquarters: New York, NY
 website: https://atlan.com
 one_liner: Active metadata platform for modern data teams — a collaborative data catalog enabling organizations to find, understand,
   and trust their data

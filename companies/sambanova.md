@@ -1,6 +1,6 @@
 ---
 founded: 2017
-headquarters: Palo Alto, California, USA
+headquarters: Palo Alto, CA
 sector: AI Hardware / AI Infrastructure (Full-Stack)
 stage: Late-stage Private
 employees: ~400-415 (as of early 2026)

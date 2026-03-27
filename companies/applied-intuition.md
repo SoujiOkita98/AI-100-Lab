@@ -152,7 +152,7 @@ linkedin: https://www.linkedin.com/company/applied-intuition-inc
 crunchbase: https://www.crunchbase.com/organization/applied-intuition
 crunchbase_verified: true
 twitter: '@AppliedInt'
-headquarters: Mountain View, California
+headquarters: Mountain View, CA
 linkedin_verified: true
 ---
 

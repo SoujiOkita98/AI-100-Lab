@@ -1,6 +1,6 @@
 ---
 founded: 2017
-headquarters: Boston, Massachusetts, USA
+headquarters: Boston, MA
 sector: AI Hardware / Photonic Interconnects
 stage: Series D (Late-stage private)
 employees: ~315 (as of February 2026; estimate)

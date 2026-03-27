@@ -1,7 +1,7 @@
 ---
 name: Anterior
 founded: 2022
-headquarters: New York, NY, USA
+headquarters: New York, NY
 website: https://www.anterior.com
 sector: AI / Healthcare
 one_liner: Clinician-led AI platform automating prior authorization and administrative workflows for health plans.

@@ -2,7 +2,7 @@
 website: https://www.netradyne.com
 sector: AI for Fleet Safety / Computer Vision & Edge AI
 founded: 2015
-headquarters: San Diego, California
+headquarters: San Diego, CA
 ceo: Avneesh Agrawal
 employees_approx: 800+
 status: Private

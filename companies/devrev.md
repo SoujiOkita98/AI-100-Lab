@@ -2,7 +2,7 @@
 website: https://devrev.ai
 sector: Enterprise AI / AI-Native CRM & Developer Platform
 founded: 2020
-headquarters: Palo Alto, California
+headquarters: Palo Alto, CA
 ceo: Dheeraj Pandey
 employees_approx: 500+
 status: Private

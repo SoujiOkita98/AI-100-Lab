@@ -1,6 +1,6 @@
 ---
 founded: 2019
-headquarters: Santa Clara, California, USA
+headquarters: Santa Clara, CA
 sector: AI Hardware / Semiconductors (In-Memory Compute)
 stage: Growth (Series C)
 employees: ~200 (estimate)

@@ -1,7 +1,7 @@
 ---
 name: Liquid AI
 founded: 2023
-headquarters: Cambridge, Massachusetts, USA
+headquarters: Cambridge, MA
 origin: MIT CSAIL spinout
 sector: Artificial Intelligence / Foundation Models
 subsector: Alternative AI Architectures (non-transformer)

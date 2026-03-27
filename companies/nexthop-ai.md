@@ -2,7 +2,7 @@
 name: Nexthop AI
 sector: AI / Networking Infrastructure / Data Center Hardware
 founded: 2024
-headquarters: Santa Clara, California
+headquarters: Santa Clara, CA
 website: https://nexthop.ai
 status: Private
 latest_valuation_approx: ~$4.2B (March 2026)

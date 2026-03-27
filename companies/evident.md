@@ -1,6 +1,6 @@
 ---
 founded: '2020'
-headquarters: London, United Kingdom
+headquarters: London, UK
 website: https://www.evidentlyai.com/
 founders:
 - name: Elena Samuylova
