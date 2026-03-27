@@ -34,7 +34,7 @@ website_verified: true
 crunchbase: https://www.crunchbase.com/organization/spirit-ai-robotics
 crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/spirit-robotics
-total_raised_m: 153.0
+total_raised_m: 460.0
 linkedin_verified: true
 ---
 
