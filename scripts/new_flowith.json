@@ -1,0 +1,24 @@
+[
+  {
+    "name": "Flowith",
+    "slug": "flowith",
+    "status": "active",
+    "founded_year": 2024,
+    "hq": "San Francisco, CA",
+    "website": "https://flowith.io",
+    "sector": ["agents", "dev-tools"],
+    "one_liner": "Agentic AI workspace with infinite canvas, multi-AI collaboration, and deep work automation. Agent Neo gained 200K+ users in days. Backed by Sequoia and Vertex.",
+    "total_raised_m": 10,
+    "founders": [
+      {"name": "Yichen Wu", "role": "Co-founder", "background": "Chinese-born. UNC Chapel Hill.", "origin": "Chinese"},
+      {"name": "Derek Nee", "role": "CEO", "background": "Chinese-born. Co-founded Flowith.", "origin": "Chinese"}
+    ],
+    "funding_rounds": [
+      {"stage": "Seed", "date": "2024", "amount_m": null, "lead_investors": ["Vertex Ventures China"], "source": "https://pandaily.com/flowith-raises-multi-million-dollar-seed-round-to-build-an-action-oriented-os-for-the-agentic-ai-era"},
+      {"stage": "Seed+", "date": "2025", "amount_m": null, "lead_investors": ["Sequoia"], "source": "https://www.theinformation.com/articles/openai-investors-eye-agent-startups-led-chinese-founders"}
+    ],
+    "confidence": "medium",
+    "last_updated": "2026-03-26",
+    "sources": ["https://pandaily.com/flowith-raises-multi-million-dollar-seed-round-to-build-an-action-oriented-os-for-the-agentic-ai-era"]
+  }
+]

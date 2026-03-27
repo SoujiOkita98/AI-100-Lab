@@ -21862,6 +21862,68 @@
     "top_investors": []
   },
   {
+    "slug": "flowith",
+    "name": "Flowith",
+    "status": "active",
+    "founded_year": null,
+    "hq": "San Francisco, CA",
+    "website": "https://flowith.io",
+    "sector": "['agents', 'dev-tools']",
+    "one_liner": "Agentic AI workspace with infinite canvas, multi-AI collaboration, and deep work automation. Agent Neo gained 200K+ users in days. Backed by Sequoia and Vertex.",
+    "total_raised_m": 10.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [
+      {
+        "company_slug": "flowith",
+        "name": "Yichen Wu",
+        "role": "Co-founder",
+        "background": "Chinese-born. UNC Chapel Hill.",
+        "origin": "",
+        "prior": ""
+      },
+      {
+        "company_slug": "flowith",
+        "name": "Derek Nee",
+        "role": "CEO",
+        "background": "Chinese-born. Co-founded Flowith.",
+        "origin": "",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "flowith",
+        "stage": "Seed",
+        "date": "2024",
+        "amount_m": null,
+        "valuation_m": null,
+        "lead_investors": "Vertex Ventures China",
+        "other_investors": "",
+        "source": "https://pandaily.com/flowith-raises-multi-million-dollar-seed-round-to-build-an-action-oriented-os-for-the-agentic-ai-era",
+        "notes": ""
+      },
+      {
+        "company_slug": "flowith",
+        "stage": "Seed+",
+        "date": "2025",
+        "amount_m": null,
+        "valuation_m": null,
+        "lead_investors": "Sequoia",
+        "other_investors": "",
+        "source": "https://www.theinformation.com/articles/openai-investors-eye-agent-startups-led-chinese-founders",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
     "slug": "flywheel",
     "name": "Flywheel",
     "status": "active",
