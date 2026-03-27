@@ -2556,6 +2556,49 @@
     "top_investors": []
   },
   {
+    "slug": "aisera",
+    "name": "Aisera",
+    "status": "active",
+    "founded_year": null,
+    "hq": "Palo Alto, CA",
+    "website": "https://aisera.com",
+    "sector": "['enterprise-ai', 'agents']",
+    "one_liner": "Enterprise agentic AI platform for IT, HR, and customer support. $180M raised. Goldman Sachs and Thoma Bravo backed.",
+    "total_raised_m": 180.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [
+      {
+        "company_slug": "aisera",
+        "name": "Muddu Sudhakar",
+        "role": "CEO",
+        "background": "Serial enterprise software founder. Former Caspida (acquired by Splunk).",
+        "origin": "",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "aisera",
+        "stage": "Series D",
+        "date": "2024",
+        "amount_m": 90.0,
+        "valuation_m": null,
+        "lead_investors": "Goldman Sachs; Thoma Bravo",
+        "other_investors": "",
+        "source": "https://aisera.com/press-releases/90m-series-d-funding/",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
     "slug": "aiuc",
     "name": "AIUC",
     "status": "active",
@@ -18893,6 +18936,49 @@
     "top_investors": []
   },
   {
+    "slug": "enfabrica",
+    "name": "Enfabrica",
+    "status": "active",
+    "founded_year": null,
+    "hq": "Mountain View, CA",
+    "website": "https://enfabrica.net",
+    "sector": "['infra']",
+    "one_liner": "AI networking chips (SuperNIC) for GPU interconnect in data centers at 3.2 Tbps. Backed by Nvidia and Arm.",
+    "total_raised_m": 290.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [
+      {
+        "company_slug": "enfabrica",
+        "name": "Rochan Sankar",
+        "role": "CEO",
+        "background": "Former Broadcom and Google executive.",
+        "origin": "",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "enfabrica",
+        "stage": "Series C",
+        "date": "2024-11",
+        "amount_m": 115.0,
+        "valuation_m": null,
+        "lead_investors": "Spark Capital",
+        "other_investors": "",
+        "source": "https://news.crunchbase.com/semiconductors-and-5g/enfabrica-ai-networking-chips-startup-funding-nvda-arm/",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
     "slug": "enflame-technology",
     "name": "Enflame Technology",
     "status": "active",
@@ -25345,6 +25431,49 @@
     "top_investors": []
   },
   {
+    "slug": "halcyon",
+    "name": "Halcyon",
+    "status": "active",
+    "founded_year": null,
+    "hq": "Austin, TX",
+    "website": "https://www.halcyon.ai",
+    "sector": "['security-ai']",
+    "one_liner": "AI-powered anti-ransomware and cyber resilience platform. $209M raised at $1B unicorn valuation.",
+    "total_raised_m": 209.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [
+      {
+        "company_slug": "halcyon",
+        "name": "Jon Miller",
+        "role": "CEO",
+        "background": "Former Cylance executive. Serial cybersecurity founder.",
+        "origin": "",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "halcyon",
+        "stage": "Series C",
+        "date": "2024-10",
+        "amount_m": 125.0,
+        "valuation_m": null,
+        "lead_investors": "Undisclosed",
+        "other_investors": "",
+        "source": "https://news.crunchbase.com/cybersecurity/anti-ransomware-startup-halcyon-ai-unicorn/",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
     "slug": "halluminate",
     "name": "Halluminate",
     "status": "active",
@@ -27604,6 +27733,49 @@
         "lead_investors": "Y Combinator",
         "other_investors": "",
         "source": "",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
+    "slug": "iambic-therapeutics",
+    "name": "Iambic Therapeutics",
+    "status": "active",
+    "founded_year": null,
+    "hq": "San Diego, CA",
+    "website": "https://iambic.ai",
+    "sector": "['healthcare-ai', 'biotech-ai']",
+    "one_liner": "AI drug discovery platform accelerating identification and optimization of drug candidates. $327M raised.",
+    "total_raised_m": 327.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [
+      {
+        "company_slug": "iambic-therapeutics",
+        "name": "Tom Miller",
+        "role": "CEO",
+        "background": "Caltech professor. AI drug discovery researcher.",
+        "origin": "",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "iambic-therapeutics",
+        "stage": "Series B",
+        "date": "2024",
+        "amount_m": 150.0,
+        "valuation_m": null,
+        "lead_investors": "Ascenta Capital; Abingworth",
+        "other_investors": "",
+        "source": "https://www.sdbj.com/life-sciences/biotech-life-sciences/iambic-raises-153-million-series-b/",
         "notes": ""
       }
     ],
@@ -30695,6 +30867,57 @@
         "lead_investors": "XAnge",
         "other_investors": "",
         "source": "https://www.crunchbase.com/organization/knowunity",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
+    "slug": "kobold-metals",
+    "name": "KoBold Metals",
+    "status": "active",
+    "founded_year": null,
+    "hq": "Berkeley, CA",
+    "website": "https://www.koboldmetals.com",
+    "sector": "['data-analytics', 'other']",
+    "one_liner": "AI-powered critical mineral exploration. Uses ML to discover lithium, cobalt, nickel, copper. Backed by Bill Gates, Bezos, Bloomberg.",
+    "total_raised_m": 1000.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [
+      {
+        "company_slug": "kobold-metals",
+        "name": "Kurt House",
+        "role": "CEO",
+        "background": "PhD from Harvard. Climate tech entrepreneur.",
+        "origin": "",
+        "prior": ""
+      },
+      {
+        "company_slug": "kobold-metals",
+        "name": "Josh Goldman",
+        "role": "Co-founder",
+        "background": "Former KKR executive.",
+        "origin": "",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "kobold-metals",
+        "stage": "Series C",
+        "date": "2024-10",
+        "amount_m": 537.0,
+        "valuation_m": null,
+        "lead_investors": "Undisclosed",
+        "other_investors": "",
+        "source": "https://techcrunch.com/2024/10/07/ai-powered-critical-mineral-startup-kobold-metals-has-raised-491m-filings-reveal/",
         "notes": ""
       }
     ],
@@ -35974,6 +36197,49 @@
     "top_investors": []
   },
   {
+    "slug": "mirador-therapeutics",
+    "name": "Mirador Therapeutics",
+    "status": "active",
+    "founded_year": null,
+    "hq": "San Diego, CA",
+    "website": "https://miradortx.com",
+    "sector": "['healthcare-ai', 'biotech-ai']",
+    "one_liner": "AI-driven precision medicine for immune-mediated inflammatory diseases. Launched with $400M from ARCH Venture Partners.",
+    "total_raised_m": 400.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [
+      {
+        "company_slug": "mirador-therapeutics",
+        "name": "Mark McKenna",
+        "role": "CEO",
+        "background": "Former Prometheus Biosciences executive.",
+        "origin": "",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "mirador-therapeutics",
+        "stage": "Series A",
+        "date": "2024",
+        "amount_m": 400.0,
+        "valuation_m": null,
+        "lead_investors": "ARCH Venture Partners",
+        "other_investors": "",
+        "source": "https://www.biospace.com/mirador-launches-with-400m-in-funding-targets-precision-medicines-for-immune-mediated-diseases",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
     "slug": "mirelo-ai",
     "name": "Mirelo AI",
     "status": "Private",
@@ -40807,6 +41073,57 @@
     "top_investors": []
   },
   {
+    "slug": "onebrief",
+    "name": "Onebrief",
+    "status": "active",
+    "founded_year": null,
+    "hq": "Honolulu, HI",
+    "website": "https://onebrief.com",
+    "sector": "['defense-govtech']",
+    "one_liner": "AI-powered military planning and decision-making platform. Used at US military HQ. $311M raised, $1.1B+ valuation.",
+    "total_raised_m": 311.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [
+      {
+        "company_slug": "onebrief",
+        "name": "Grant Demaree",
+        "role": "CEO",
+        "background": "West Point graduate. Former Army captain.",
+        "origin": "",
+        "prior": ""
+      },
+      {
+        "company_slug": "onebrief",
+        "name": "Rafa Pereira",
+        "role": "Co-founder",
+        "background": "Military technology background.",
+        "origin": "",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "onebrief",
+        "stage": "Series D",
+        "date": "2024",
+        "amount_m": 200.0,
+        "valuation_m": null,
+        "lead_investors": "Undisclosed",
+        "other_investors": "",
+        "source": "https://news.crunchbase.com/defense-tech/unicorn-onebrief-raises-acquires-battle-road/",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
     "slug": "onfire-ai",
     "name": "Onfire AI",
     "status": "active",
@@ -41940,6 +42257,45 @@
         "notes": ""
       }
     ],
+    "top_investors": []
+  },
+  {
+    "slug": "owkin",
+    "name": "Owkin",
+    "status": "active",
+    "founded_year": null,
+    "hq": "Paris, France",
+    "website": "https://owkin.com",
+    "sector": "['healthcare-ai', 'biotech-ai']",
+    "one_liner": "AI for drug discovery and diagnostics in oncology using federated learning on hospital data. $354M raised, unicorn.",
+    "total_raised_m": 354.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [
+      {
+        "company_slug": "owkin",
+        "name": "Thomas Clozel",
+        "role": "CEO",
+        "background": "MD. Former oncologist. Co-founded with Gilles Wainrib.",
+        "origin": "",
+        "prior": ""
+      },
+      {
+        "company_slug": "owkin",
+        "name": "Gilles Wainrib",
+        "role": "Co-founder",
+        "background": "AI/ML researcher.",
+        "origin": "",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [],
     "top_investors": []
   },
   {
@@ -45562,6 +45918,49 @@
       "Firestreak Ventures",
       "ICON Continuity Fund"
     ]
+  },
+  {
+    "slug": "quantinuum",
+    "name": "Quantinuum",
+    "status": "active",
+    "founded_year": null,
+    "hq": "Cambridge, UK",
+    "website": "https://www.quantinuum.com",
+    "sector": "['infra']",
+    "one_liner": "Quantum computing with AI integration. World's most powerful quantum computers. $900M+ raised at $10B valuation.",
+    "total_raised_m": 900.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [
+      {
+        "company_slug": "quantinuum",
+        "name": "Ilyas Khan",
+        "role": "Founder",
+        "background": "Founded Cambridge Quantum Computing. Merged with Honeywell Quantum Solutions.",
+        "origin": "",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "quantinuum",
+        "stage": "Series B",
+        "date": "2024",
+        "amount_m": 600.0,
+        "valuation_m": null,
+        "lead_investors": "JPMorgan; Mitsui",
+        "other_investors": "",
+        "source": "https://www.quantinuum.com/press-releases/honeywell-announces-600-million-capital-raise-for-quantinuum-at-10b-pre-money-equity-valuation-to-advance-quantum-computing-at-scale",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
   },
   {
     "slug": "quilter",
@@ -60452,6 +60851,49 @@
     "top_investors": []
   },
   {
+    "slug": "waabi",
+    "name": "Waabi",
+    "status": "active",
+    "founded_year": null,
+    "hq": "Toronto, Canada",
+    "website": "https://waabi.ai",
+    "sector": "['autonomous-vehicles']",
+    "one_liner": "AI-first autonomous driving for trucking using simulation-based approach. Partnered with Uber. $1.28B+ raised.",
+    "total_raised_m": 1280.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [
+      {
+        "company_slug": "waabi",
+        "name": "Raquel Urtasun",
+        "role": "CEO",
+        "background": "Former chief scientist at Uber ATG. University of Toronto professor. Pioneer in self-driving AI.",
+        "origin": "",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "waabi",
+        "stage": "Series B",
+        "date": "2024-06",
+        "amount_m": 200.0,
+        "valuation_m": null,
+        "lead_investors": "Uber; Khosla Ventures",
+        "other_investors": "",
+        "source": "https://fortune.com/2026/01/28/waabi-fundraise-valuation-1-billion-partners-with-uber-robotaxis-self-driving/",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
     "slug": "wabi-ai",
     "name": "Wabi AI",
     "status": "active",
@@ -61801,6 +62243,73 @@
         "lead_investors": "Notable Capital",
         "other_investors": "",
         "source": "https://techcrunch.com/2025/11/20/as-its-voice-dectation-app-takes-off-wispr-secures-25m-from-notable-capital/",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
+    "slug": "wiz",
+    "name": "Wiz",
+    "status": "active",
+    "founded_year": null,
+    "hq": "New York, NY",
+    "website": "https://www.wiz.io",
+    "sector": "['security-ai']",
+    "one_liner": "Cloud security platform with AI-powered threat detection. $1.9B raised at $12B valuation. Founded by ex-Microsoft Israel team.",
+    "total_raised_m": 1900.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [
+      {
+        "company_slug": "wiz",
+        "name": "Assaf Rappaport",
+        "role": "CEO",
+        "background": "Former GM Microsoft Cloud Security (Israel). Founded Adallom (acq by Microsoft).",
+        "origin": "",
+        "prior": ""
+      },
+      {
+        "company_slug": "wiz",
+        "name": "Yinon Costica",
+        "role": "VP Product",
+        "background": "Former Microsoft Israel.",
+        "origin": "",
+        "prior": ""
+      },
+      {
+        "company_slug": "wiz",
+        "name": "Roy Reznik",
+        "role": "VP R&D",
+        "background": "Former Microsoft Israel.",
+        "origin": "",
+        "prior": ""
+      },
+      {
+        "company_slug": "wiz",
+        "name": "Ami Luttwak",
+        "role": "CTO",
+        "background": "Former Microsoft Israel.",
+        "origin": "",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "wiz",
+        "stage": "Series E",
+        "date": "2024-05",
+        "amount_m": 1000.0,
+        "valuation_m": null,
+        "lead_investors": "Andreessen Horowitz; Lightspeed; Thrive Capital",
+        "other_investors": "",
+        "source": "https://techcrunch.com/2024/05/07/wiz-raises-1b-at-12b-valuation-expanding-through-acquisitions/",
         "notes": ""
       }
     ],
