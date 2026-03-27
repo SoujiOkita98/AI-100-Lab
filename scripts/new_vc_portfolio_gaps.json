@@ -1,0 +1,103 @@
+[
+  {
+    "name": "Wyze Labs",
+    "slug": "wyze-labs",
+    "status": "active",
+    "founded_year": 2017,
+    "hq": "Seattle, WA",
+    "website": "https://www.wyze.com",
+    "sector": ["enterprise-ai", "other"],
+    "one_liner": "Smart home products with AI-powered features (person/pet/vehicle detection, smart alerts). All founders ex-Amazon.",
+    "total_raised_m": 146,
+    "founders": [
+      {"name": "Yun Zhang", "role": "CEO", "background": "Guangdong University of Foreign Studies, Shanghai Jiaotong University, University of Washington. Former Amazon.", "origin": "Chinese-American"},
+      {"name": "Dongsheng Song", "role": "CPO", "background": "Former Amazon engineer.", "origin": "Chinese-American"}
+    ],
+    "funding_rounds": [
+      {"stage": "Series B", "date": "2021", "amount_m": 110, "lead_investors": ["Marcy Venture Partners"], "source": "https://en.wikipedia.org/wiki/Wyze_Labs"}
+    ],
+    "confidence": "medium",
+    "last_updated": "2026-03-26",
+    "sources": ["https://en.wikipedia.org/wiki/Wyze_Labs"]
+  },
+  {
+    "name": "AiFi",
+    "slug": "aifi",
+    "status": "active",
+    "founded_year": 2016,
+    "hq": "Santa Clara, CA",
+    "website": "https://www.aifi.com",
+    "sector": ["enterprise-ai"],
+    "one_liner": "World's largest autonomous store platform (AI computer vision for cashierless retail). 80+ stores with Aldi, Carrefour, Verizon.",
+    "total_raised_m": 102,
+    "founders": [
+      {"name": "Steve Gu", "role": "CEO", "background": "PhD CS from Duke. Former Google X and Apple engineer.", "origin": "Chinese-American"},
+      {"name": "Ying Zheng", "role": "CTO", "background": "PhD computer vision from Duke. EMBA Stanford. Former Google and Apple.", "origin": "Chinese-American"}
+    ],
+    "funding_rounds": [],
+    "confidence": "medium",
+    "last_updated": "2026-03-26",
+    "sources": ["https://www.aifi.com/about-us", "https://en.wikipedia.org/wiki/Steve_Gu"]
+  },
+  {
+    "name": "Oasis Labs",
+    "slug": "oasis-labs",
+    "status": "active",
+    "founded_year": 2018,
+    "hq": "Berkeley, CA",
+    "website": "https://www.oasislabs.com",
+    "sector": ["infra", "security-ai"],
+    "one_liner": "Privacy-preserving computing platform for AI data privacy. Founded by UC Berkeley professor and MacArthur Fellow Dawn Song.",
+    "total_raised_m": 48,
+    "founders": [
+      {"name": "Dawn Song", "role": "CEO", "background": "UC Berkeley professor. BS from Tsinghua University. MacArthur Fellow, Guggenheim Fellow. Top researcher in AI security.", "origin": "Chinese-American"}
+    ],
+    "funding_rounds": [
+      {"stage": "Series A", "date": "2018", "amount_m": 45, "lead_investors": ["a16z Crypto", "Pantera Capital", "Accel"], "source": "https://en.wikipedia.org/wiki/Dawn_Song"}
+    ],
+    "confidence": "high",
+    "last_updated": "2026-03-26",
+    "sources": ["https://en.wikipedia.org/wiki/Dawn_Song"]
+  },
+  {
+    "name": "Beacons.ai",
+    "slug": "beacons-ai",
+    "status": "active",
+    "founded_year": 2020,
+    "hq": "San Francisco, CA",
+    "website": "https://beacons.ai",
+    "sector": ["enterprise-ai", "creative-ai"],
+    "one_liner": "AI-powered all-in-one business platform for content creators. $10M+ ARR. Founded by Stanford AI Lab PhDs.",
+    "total_raised_m": 29.8,
+    "founders": [
+      {"name": "Neal Jean", "role": "CEO", "background": "PhD Stanford AI Lab (deep learning).", "origin": "American"},
+      {"name": "David Zeng", "role": "CTO", "background": "PhD Stanford AI Lab (signal processing/ML).", "origin": "Chinese-American"},
+      {"name": "Jesse Zhang", "role": "Co-founder", "background": "PhD Stanford AI Lab (ML/genomics).", "origin": "Chinese-American"}
+    ],
+    "funding_rounds": [
+      {"stage": "Series A", "date": "2022", "amount_m": 23, "lead_investors": ["Undisclosed"], "source": "https://www.ycombinator.com/companies/beacons"}
+    ],
+    "confidence": "medium",
+    "last_updated": "2026-03-26",
+    "sources": ["https://www.ycombinator.com/companies/beacons"]
+  },
+  {
+    "name": "AnChain.AI",
+    "slug": "anchain-ai",
+    "status": "active",
+    "founded_year": 2018,
+    "hq": "San Jose, CA",
+    "website": "https://www.anchain.ai",
+    "sector": ["security-ai", "fintech-ai"],
+    "one_liner": "AI-powered blockchain security, anti-money laundering, and compliance platform. Won SEC contracts for crypto monitoring.",
+    "total_raised_m": 12,
+    "founders": [
+      {"name": "Victor Fang", "role": "CEO", "background": "PhD. Former FireEye/Mandiant AI cybersecurity lead.", "origin": "Chinese-American"},
+      {"name": "Ben Wu", "role": "COO", "background": "Former engineering executive at Yahoo, Dell EMC, and Pivotal.", "origin": "Chinese-American"}
+    ],
+    "funding_rounds": [],
+    "confidence": "medium",
+    "last_updated": "2026-03-26",
+    "sources": ["https://www.anchain.ai/company"]
+  }
+]

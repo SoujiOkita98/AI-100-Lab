@@ -2323,6 +2323,45 @@
     "top_investors": []
   },
   {
+    "slug": "aifi",
+    "name": "AiFi",
+    "status": "active",
+    "founded_year": null,
+    "hq": "Santa Clara, CA",
+    "website": "https://www.aifi.com",
+    "sector": "['enterprise-ai']",
+    "one_liner": "World's largest autonomous store platform (AI computer vision for cashierless retail). 80+ stores with Aldi, Carrefour, Verizon.",
+    "total_raised_m": 102.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [
+      {
+        "company_slug": "aifi",
+        "name": "Steve Gu",
+        "role": "CEO",
+        "background": "PhD CS from Duke. Former Google X and Apple engineer.",
+        "origin": "",
+        "prior": ""
+      },
+      {
+        "company_slug": "aifi",
+        "name": "Ying Zheng",
+        "role": "CTO",
+        "background": "PhD computer vision from Duke. EMBA Stanford. Former Google and Apple.",
+        "origin": "",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [],
+    "top_investors": []
+  },
+  {
     "slug": "aim-security",
     "name": "Aim Security",
     "status": "active",
@@ -3398,6 +3437,45 @@
         "notes": "Participation from Abu Dhabi's Mubadala Capital. Reached unicorn status at $1.5B valuation. Company operates profitably with $150M+ ARR."
       }
     ],
+    "top_investors": []
+  },
+  {
+    "slug": "anchain-ai",
+    "name": "AnChain.AI",
+    "status": "active",
+    "founded_year": null,
+    "hq": "San Jose, CA",
+    "website": "https://www.anchain.ai",
+    "sector": "['security-ai', 'fintech-ai']",
+    "one_liner": "AI-powered blockchain security, anti-money laundering, and compliance platform. Won SEC contracts for crypto monitoring.",
+    "total_raised_m": 12.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [
+      {
+        "company_slug": "anchain-ai",
+        "name": "Victor Fang",
+        "role": "CEO",
+        "background": "PhD. Former FireEye/Mandiant AI cybersecurity lead.",
+        "origin": "",
+        "prior": ""
+      },
+      {
+        "company_slug": "anchain-ai",
+        "name": "Ben Wu",
+        "role": "COO",
+        "background": "Former engineering executive at Yahoo, Dell EMC, and Pivotal.",
+        "origin": "",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [],
     "top_investors": []
   },
   {
@@ -7612,6 +7690,65 @@
     "top_investors": []
   },
   {
+    "slug": "beacons-ai",
+    "name": "Beacons.ai",
+    "status": "active",
+    "founded_year": null,
+    "hq": "San Francisco, CA",
+    "website": "https://beacons.ai",
+    "sector": "['enterprise-ai', 'creative-ai']",
+    "one_liner": "AI-powered all-in-one business platform for content creators. $10M+ ARR. Founded by Stanford AI Lab PhDs.",
+    "total_raised_m": 29.8,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [
+      {
+        "company_slug": "beacons-ai",
+        "name": "Neal Jean",
+        "role": "CEO",
+        "background": "PhD Stanford AI Lab (deep learning).",
+        "origin": "",
+        "prior": ""
+      },
+      {
+        "company_slug": "beacons-ai",
+        "name": "David Zeng",
+        "role": "CTO",
+        "background": "PhD Stanford AI Lab (signal processing/ML).",
+        "origin": "",
+        "prior": ""
+      },
+      {
+        "company_slug": "beacons-ai",
+        "name": "Jesse Zhang",
+        "role": "Co-founder",
+        "background": "PhD Stanford AI Lab (ML/genomics).",
+        "origin": "",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "beacons-ai",
+        "stage": "Series A",
+        "date": "2022",
+        "amount_m": 23.0,
+        "valuation_m": null,
+        "lead_investors": "Undisclosed",
+        "other_investors": "",
+        "source": "https://www.ycombinator.com/companies/beacons",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
     "slug": "bedrock-robotics",
     "name": "Bedrock Robotics",
     "status": "active",
@@ -8723,6 +8860,88 @@
         "notes": ""
       }
     ],
+    "top_investors": []
+  },
+  {
+    "slug": "bot-auto",
+    "name": "Bot Auto",
+    "status": "active",
+    "founded_year": null,
+    "hq": "Houston, TX",
+    "website": "https://bot.auto",
+    "sector": "['autonomous-vehicles']",
+    "one_liner": "AI-powered autonomous trucking. Founded by ex-TuSimple CTO. 100% US-based, no China ties.",
+    "total_raised_m": 20.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [
+      {
+        "company_slug": "bot-auto",
+        "name": "Xiaodi Hou",
+        "role": "CEO",
+        "background": "PhD from Caltech. Co-founder and former CTO of TuSimple. Naturalized US citizen.",
+        "origin": "",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "bot-auto",
+        "stage": "Pre-Series A",
+        "date": "2024-09",
+        "amount_m": 20.0,
+        "valuation_m": null,
+        "lead_investors": "Undisclosed",
+        "other_investors": "",
+        "source": "https://techcrunch.com/2024/10/02/tusimple-founder-xiaodi-hou-is-back-with-a-new-autonomous-truck-startup/",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
+    "slug": "botrista",
+    "name": "Botrista",
+    "status": "active",
+    "founded_year": null,
+    "hq": "San Francisco, CA",
+    "website": "https://www.botrista.com",
+    "sector": "['robotics', 'enterprise-ai']",
+    "one_liner": "AI/robotics-powered DrinkBot for automated craft beverages in food service. Former Tesla robotics founder.",
+    "total_raised_m": 120.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [
+      {
+        "company_slug": "botrista",
+        "name": "Sean Hsu",
+        "role": "CEO",
+        "background": "Former Tesla robotics engineer.",
+        "origin": "",
+        "prior": ""
+      },
+      {
+        "company_slug": "botrista",
+        "name": "Paul Chen",
+        "role": "CPO",
+        "background": "Co-founded Botrista.",
+        "origin": "",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [],
     "top_investors": []
   },
   {
@@ -24668,6 +24887,60 @@
     "top_investors": []
   },
   {
+    "slug": "grubmarket",
+    "name": "GrubMarket",
+    "status": "active",
+    "founded_year": null,
+    "hq": "San Francisco, CA",
+    "website": "https://www.grubmarket.com",
+    "sector": "['enterprise-ai', 'data-analytics']",
+    "one_liner": "AI-powered food supply chain platform \u2014 ERP, eCommerce, and AI software for food distribution. Largest private food tech company in the US ($2B+ revenue, $4.5B valuation).",
+    "total_raised_m": 500.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [
+      {
+        "company_slug": "grubmarket",
+        "name": "Mike Xu",
+        "role": "CEO",
+        "background": "Grew up in rural China. Studied biochemistry and CS. Previously at eBay and Oracle.",
+        "origin": "",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "grubmarket",
+        "stage": "Series H",
+        "date": "2026-02",
+        "amount_m": 50.0,
+        "valuation_m": null,
+        "lead_investors": "Undisclosed",
+        "other_investors": "",
+        "source": "https://techcrunch.com/2025/03/18/grubmarket-raises-50m-at-a-3-5b-valuation-to-build-ai-for-the-1-trillion-food-distribution-industry/",
+        "notes": ""
+      },
+      {
+        "company_slug": "grubmarket",
+        "stage": "Series G",
+        "date": "2025-03",
+        "amount_m": 50.0,
+        "valuation_m": null,
+        "lead_investors": "Undisclosed",
+        "other_investors": "",
+        "source": "https://techcrunch.com/2025/03/18/grubmarket-raises-50m-at-a-3-5b-valuation-to-build-ai-for-the-1-trillion-food-distribution-industry/",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
     "slug": "gumloop",
     "name": "Gumloop",
     "status": "Private",
@@ -33505,6 +33778,57 @@
     "top_investors": []
   },
   {
+    "slug": "mai-marketing",
+    "name": "MAI",
+    "status": "active",
+    "founded_year": null,
+    "hq": "San Francisco, CA",
+    "website": "https://mai.co",
+    "sector": "['agents', 'enterprise-ai']",
+    "one_liner": "AI agents that autonomously manage and optimize performance marketing (Google Ads) for SMBs. Backed by Kleiner Perkins.",
+    "total_raised_m": 25.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [
+      {
+        "company_slug": "mai-marketing",
+        "name": "Yuchen Wu",
+        "role": "CEO",
+        "background": "BS from Tsinghua University. PhD from Northwestern. Engineering Director at Google (2010-2020). VP of Engineering at Instacart.",
+        "origin": "",
+        "prior": ""
+      },
+      {
+        "company_slug": "mai-marketing",
+        "name": "Jian Wang",
+        "role": "CTO",
+        "background": "PhD ML from UC Santa Cruz. Sr. Staff Engineer at Google Ads.",
+        "origin": "",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "mai-marketing",
+        "stage": "Seed",
+        "date": "2025-10",
+        "amount_m": 25.0,
+        "valuation_m": null,
+        "lead_investors": "Kleiner Perkins",
+        "other_investors": "",
+        "source": "https://www.prnewswire.com/news-releases/mai-raises-25m-to-automate-performance-marketing-with-ai-agents-driving-revenue-for-brands-302571065.html",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
     "slug": "maieutic-semi",
     "name": "Maieutic Semiconductors",
     "status": "active",
@@ -35962,6 +36286,49 @@
         "other_investors": "",
         "source": "https://www.modular.com/blog/modular-raises-250m-to-scale-ais-unified-compute-layer",
         "notes": "Also GV, General Catalyst, Greylock. Valued at $1.6B."
+      }
+    ],
+    "top_investors": []
+  },
+  {
+    "slug": "moego",
+    "name": "MoeGo",
+    "status": "active",
+    "founded_year": null,
+    "hq": "Los Angeles, CA",
+    "website": "https://www.moego.pet",
+    "sector": "['enterprise-ai']",
+    "one_liner": "AI-powered pet care business management SaaS (scheduling, payments, business intelligence).",
+    "total_raised_m": 24.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [
+      {
+        "company_slug": "moego",
+        "name": "Ethan Dong (Yi Dong)",
+        "role": "CEO",
+        "background": "Came to the US in 2013. Founded MoeGo.",
+        "origin": "",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "moego",
+        "stage": "Series A",
+        "date": "2024",
+        "amount_m": 24.0,
+        "valuation_m": null,
+        "lead_investors": "Base10 Partners",
+        "other_investors": "",
+        "source": "https://startup-weekly.com/Pet-grooming-software-MoeGo-secures-24m-Series-A-funding-to-revolutionize-pet-care-economy/",
+        "notes": ""
       }
     ],
     "top_investors": []
@@ -38432,6 +38799,49 @@
     "top_investors": []
   },
   {
+    "slug": "noah-medical",
+    "name": "Noah Medical",
+    "status": "active",
+    "founded_year": null,
+    "hq": "San Carlos, CA",
+    "website": "https://www.noahmed.com",
+    "sector": "['healthcare-ai']",
+    "one_liner": "AI-powered robotic surgical systems (Galaxy System) for navigated bronchoscopy and lung biopsy. Backed by SoftBank Vision Fund, Sequoia China.",
+    "total_raised_m": 150.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [
+      {
+        "company_slug": "noah-medical",
+        "name": "Jian Zhang",
+        "role": "CEO",
+        "background": "PhD from Columbia University. Employee #2 at Auris Health (acquired by J&J for $5.7B). Former Intuitive Surgical.",
+        "origin": "",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "noah-medical",
+        "stage": "Series B",
+        "date": "2023-04",
+        "amount_m": 150.0,
+        "valuation_m": null,
+        "lead_investors": "SoftBank Vision Fund",
+        "other_investors": "",
+        "source": "https://www.noahmed.com/press-releases/noah-medical-raises-150m-series-b-to-scale-endoluminal-robotics-solutions",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
     "slug": "noda-ai",
     "name": "NODA AI",
     "status": "active",
@@ -39403,6 +39813,49 @@
       "Woven Capital (Toyota)",
       "Baillie Gifford"
     ]
+  },
+  {
+    "slug": "oasis-labs",
+    "name": "Oasis Labs",
+    "status": "active",
+    "founded_year": null,
+    "hq": "Berkeley, CA",
+    "website": "https://www.oasislabs.com",
+    "sector": "['infra', 'security-ai']",
+    "one_liner": "Privacy-preserving computing platform for AI data privacy. Founded by UC Berkeley professor and MacArthur Fellow Dawn Song.",
+    "total_raised_m": 48.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [
+      {
+        "company_slug": "oasis-labs",
+        "name": "Dawn Song",
+        "role": "CEO",
+        "background": "UC Berkeley professor. BS from Tsinghua University. MacArthur Fellow, Guggenheim Fellow. Top researcher in AI security.",
+        "origin": "",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "oasis-labs",
+        "stage": "Series A",
+        "date": "2018",
+        "amount_m": 45.0,
+        "valuation_m": null,
+        "lead_investors": "a16z Crypto; Pantera Capital; Accel",
+        "other_investors": "",
+        "source": "https://en.wikipedia.org/wiki/Dawn_Song",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
   },
   {
     "slug": "oasis-security",
@@ -57018,6 +57471,45 @@
     "top_investors": []
   },
   {
+    "slug": "turing-video",
+    "name": "Turing Video",
+    "status": "active",
+    "founded_year": null,
+    "hq": "San Jose, CA",
+    "website": "https://www.turing.video",
+    "sector": "['security-ai']",
+    "one_liner": "AI-powered cloud video security and surveillance systems with facial recognition, smart search, and security robotics.",
+    "total_raised_m": 80.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [
+      {
+        "company_slug": "turing-video",
+        "name": "Xing Zhong",
+        "role": "President & Co-founder",
+        "background": "Co-founded Turing Video.",
+        "origin": "",
+        "prior": ""
+      },
+      {
+        "company_slug": "turing-video",
+        "name": "Yi Li",
+        "role": "Co-founder",
+        "background": "Co-founded Turing Video.",
+        "origin": "",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [],
+    "top_investors": []
+  },
+  {
     "slug": "turing",
     "name": "Turing",
     "status": "active",
@@ -61253,6 +61745,57 @@
         "lead_investors": "ICONIQ Growth; Premji Invest; Radical Ventures",
         "other_investors": "",
         "source": "https://writer.com/blog/series-c-funding-writer-press-release/",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
+    "slug": "wyze-labs",
+    "name": "Wyze Labs",
+    "status": "active",
+    "founded_year": null,
+    "hq": "Seattle, WA",
+    "website": "https://www.wyze.com",
+    "sector": "['enterprise-ai', 'other']",
+    "one_liner": "Smart home products with AI-powered features (person/pet/vehicle detection, smart alerts). All founders ex-Amazon.",
+    "total_raised_m": 146.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [
+      {
+        "company_slug": "wyze-labs",
+        "name": "Yun Zhang",
+        "role": "CEO",
+        "background": "Guangdong University of Foreign Studies, Shanghai Jiaotong University, University of Washington. Former Amazon.",
+        "origin": "",
+        "prior": ""
+      },
+      {
+        "company_slug": "wyze-labs",
+        "name": "Dongsheng Song",
+        "role": "CPO",
+        "background": "Former Amazon engineer.",
+        "origin": "",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "wyze-labs",
+        "stage": "Series B",
+        "date": "2021",
+        "amount_m": 110.0,
+        "valuation_m": null,
+        "lead_investors": "Marcy Venture Partners",
+        "other_investors": "",
+        "source": "https://en.wikipedia.org/wiki/Wyze_Labs",
         "notes": ""
       }
     ],

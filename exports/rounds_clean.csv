@@ -255,6 +255,7 @@ basis,Series A,2024-12,34.0,,Khosla Ventures,,https://www.getbasis.ai/blogs/basi
 basis,Series B,2026-02,100.0,1150.0,Accel; GV,,https://www.bloomberg.com/news/articles/2026-02-24/,
 beacon-health,Seed,2025,5.4,,Accel,,https://www.thevccorner.com/p/yc-w26-batch-complete-company-database,
 beacon-health,YC W26,2026-01,0.5,,Y Combinator,,https://www.ycombinator.com/companies/beacon-health,
+beacons-ai,Series A,2022,23.0,,Undisclosed,,https://www.ycombinator.com/companies/beacons,
 bedrock-robotics,Seed,2024,,,Eclipse,,https://techcrunch.com/2025/07/16/ex-waymo-engineers-launch-bedrock-robotics-with-80m-to-automate-construction/,
 bedrock-robotics,Series A,2025-07,,,8VC,,https://techcrunch.com/2025/07/16/ex-waymo-engineers-launch-bedrock-robotics-with-80m-to-automate-construction/,Combined Seed + Series A was $80M at stealth emergence.
 bedrock-robotics,Series B,2026-02,270.0,,CapitalG; Valor Atreides AI Fund,,https://www.prnewswire.com/news-releases/bedrock-robotics-raises-270-million-in-series-b-funding-to-accelerate-the-future-of-autonomous-construction-302679014.html,"Participants include Xora, 8VC, Eclipse, Emergence Capital, NVentures (NVIDIA), Tishman Speyer, MIT, Georgian."
@@ -288,6 +289,7 @@ bolt,Series A,2024-11,22.0,,Emergence Capital; GV,,https://www.linkedin.com/post
 bolt,Series B,2025-01,105.5,700.0,Emergence Capital; GV,,https://www.bloomberg.com/news/articles/2025-01-21/,
 bone-ai,Seed,2025-11,12.0,,Third Prime; Kolon Group,,https://techcrunch.com/2025/11/17/bone-ai-raises-funding/,
 bootloop,Seed,2025-09,2.0,,Y Combinator,,,
+bot-auto,Pre-Series A,2024-09,20.0,,Undisclosed,,https://techcrunch.com/2024/10/02/tusimple-founder-xiaodi-hou-is-back-with-a-new-autonomous-truck-startup/,
 brainfish,Seed,2024-05,2.5,,,,https://www.brainfishai.com/blog/australian-start-up-brainfish-raises-3-85m-in-seed-funding-round-to-redefine-customer-support-experience-with-ai,AUD $3.85M (~USD $2.5M).
 brainfish,Pre-Series A,2025-07,6.4,,Prosus Ventures,,https://www.businesswire.com/news/home/20250708586428/en/Brainfish-Lands-$6.4M-Pre-Series-A-Led-by-Prosus-Ventures-to-Revolutionize-AI-powered-Customer-Experience-and-Open-Headquarters-in-the-United-States,
 braintrust-ai,Seed,2023-12,5.1,,Greylock,,,
@@ -827,6 +829,8 @@ groq,Saudi Arabia / HUMAIN commitment,2025-02,1500.0,,Kingdom of Saudi Arabia (P
 groq,Nvidia licensing / acqui-hire,2025-12,20000.0,,Nvidia,,https://www.cnbc.com/2025/12/24/nvidia-buying-ai-chip-startup-groq-for-about-20-billion-biggest-deal.html,"Structured as non-exclusive licensing agreement + acqui-hire, not a traditional acquisition. $17B in cash across three installments by end of 2026. Jonathan Ross and senior leaders joined Nvidia. Groq continues as nominally independent company under CFO Simon Edwards as CEO. Nvidia's largest deal ever (previous: Mellanox at ~$7B in 2019)."
 growthx,Series A,2024-09,12.0,,Madrona Venture Group,,https://venturebeat.com/ai/reddit-webflow-and-superhuman-are-already-customers-now-growthx-has-12m-to-grow,
 growthx,Series B,2025-01,17.1,,Unknown,,https://www.crunchbase.com/organization/growthx-ai,
+grubmarket,Series H,2026-02,50.0,,Undisclosed,,https://techcrunch.com/2025/03/18/grubmarket-raises-50m-at-a-3-5b-valuation-to-build-ai-for-the-1-trillion-food-distribution-industry/,
+grubmarket,Series G,2025-03,50.0,,Undisclosed,,https://techcrunch.com/2025/03/18/grubmarket-raises-50m-at-a-3-5b-valuation-to-build-ai-for-the-1-trillion-food-distribution-industry/,
 gumloop,Seed,2024-07,3.1,,First Round Capital,,https://www.gumloop.com/blog/seed-round,
 gumloop,Series A,2025-01,17.0,,Nexus Venture Partners,,https://www.gumloop.com/blog/gumloops-17m-series-a,
 gumloop,Series B,2026-03,50.0,,Benchmark,,https://techcrunch.com/2026/03/12/gumloop-lands-50m-from-benchmark-to-turn-every-employee-into-an-ai-agent-builder/,
@@ -1099,6 +1103,7 @@ magic,Series C,2024-08,320.0,,Eric Schmidt; Sequoia,,https://techcrunch.com/2024
 magicschool-ai,Pre-Seed / Seed,2023,7.0,,Undisclosed,,https://www.crunchbase.com/organization/magicschool-ai,
 magicschool-ai,Series A,2024-07,15.0,,Bain Capital Ventures,,https://www.crunchbase.com/organization/magicschool-ai,
 magicschool-ai,Series B,2025-02,45.0,,Valor Equity Partners,,https://www.crunchbase.com/organization/magicschool-ai,
+mai-marketing,Seed,2025-10,25.0,,Kleiner Perkins,,https://www.prnewswire.com/news-releases/mai-raises-25m-to-automate-performance-marketing-with-ai-agents-driving-revenue-for-brands-302571065.html,
 maieutic-semi,Seed,2025-10,6.0,,Endiya Partners; Exfinity Venture Partners,,,
 maihem,Seed,2024-01,1.8,,Y Combinator,,,
 mainframe,Pre-Seed,2024,1.2,,Undisclosed,,https://www.crunchbase.com/organization/mainframe-3cbf,
@@ -1178,6 +1183,7 @@ modelbest,Seed,2024-04,,,Primavera Capital,,https://www.crunchbase.com/organizat
 modular-ai,Seed,2022-06,30.0,,GV,,https://techcrunch.com/2022/06/30/modular-closes-30m-seed-round-to-simplify-the-process-of-developing-ai-systems/,"Also Greylock, The Factory, SV Angel."
 modular-ai,Series A,2023-08,100.0,,General Catalyst; GV,,https://techcrunch.com/2023/08/24/modular-raises-100m-for-ai-dev-tools/,Valued at ~$600M.
 modular-ai,Series C,2025-09,250.0,,US Innovative Technology (Thomas Tull); DFJ Growth,,https://www.modular.com/blog/modular-raises-250m-to-scale-ais-unified-compute-layer,"Also GV, General Catalyst, Greylock. Valued at $1.6B."
+moego,Series A,2024,24.0,,Base10 Partners,,https://startup-weekly.com/Pet-grooming-software-MoeGo-secures-24m-Series-A-funding-to-revolutionize-pet-care-economy/,
 moka-hr,Series C,2021-11,100.0,,Tiger Global,,https://techcrunch.com/2021/11/01/china-hr-saas-startup-moka-100m-tiger-global/,
 momenta,Seed,2016,5.0,,Blue Lake Capital,,https://en.wikipedia.org/wiki/Momenta,
 momenta,Series A,2016,5.0,,Blue Lake Capital; Sinovation Ventures; ZhenFund,,https://tracxn.com/d/companies/momenta/,
@@ -1258,6 +1264,7 @@ nitra,Series A,2025-08,22.0,,Actions Capital; NEA; Pantera Capital,,https://fort
 nitra,Venture Debt,2025-12,20.0,,Avenue Capital Group,,https://www.prnewswire.com/news-releases/nitra-raises-187-million-as-ai-native-platform-for-healthcare-practices-surpasses-1-billion-in-processing-volume-302708918.html,Venture debt facility.
 nitra,Series B,2026-03,50.0,,Undisclosed,,https://fortune.com/2026/03/10/tim-hwang-nitra-funding-ai-healthcare-platform/,
 niv-ai,Seed,2026-03,12.0,,Glilot Capital; Grove Ventures,,https://techcrunch.com/2026/03/17/niv-ai-exits-stealth-to-wring-more-power-performance-out-of-gpus/,"Also backed by Arc VC, Encoded VC, Leap Forward, and Aurora."
+noah-medical,Series B,2023-04,150.0,,SoftBank Vision Fund,,https://www.noahmed.com/press-releases/noah-medical-raises-150m-series-b-to-scale-endoluminal-robotics-solutions,
 noda-ai,Series A,2026-02,25.0,125.0,Bessemer Venture Partners,,,
 noetik,Seed,2023,14.0,,DCVC,,https://www.dcvc.com/companies/noetik/,
 noetik,Series A,2024,40.0,,DCVC,,https://www.businesswire.com/news/home/20240829428359/en/Noetik-Secures-$40-Million-Series-A-Financing-to-Advance-Precision-Cancer-Therapies,
@@ -1294,6 +1301,7 @@ nuro,Series C,2020-11,500.0,5000.0,T. Rowe Price,,https://techcrunch.com/2020/11
 nuro,Series D,2021-11,600.0,8600.0,Tiger Global Management,,https://techcrunch.com/2021/11/02/nuro-lands-investment-from-google-tiger-global-in-new-600-million-round/,"Also included Google, Kroger, Baillie Gifford, Fidelity, Woven Capital, SoftBank."
 nuro,Series E,2025-04,106.0,6000.0,T. Rowe Price; Fidelity; Tiger Global,,https://www.nuro.ai/blog/nuro-announces-series-e-financing-at-6b-valuation-backed-by-leading-financial-and-strategic-investors,
 nuro,Series E Extension,2025-08,97.0,6000.0,Uber; Nvidia; Baillie Gifford,,https://news.crunchbase.com/ai/av-startup-nuro-gains-nvda-investor/,
+oasis-labs,Series A,2018,45.0,,a16z Crypto; Pantera Capital; Accel,,https://en.wikipedia.org/wiki/Dawn_Song,
 oasis-security,Growth,2025,120.0,,Craft Ventures; Sequoia; Accel,,https://www.calcalistech.com/ctechnews/article/ske4mstcwl,
 oboe,Seed,2025-12,16.0,,Andreessen Horowitz,,https://techcrunch.com/2025/12/10/oboe-raises-16-million-from-a16z-for-its-ai-powered-course-generation-platform/,
 obot-ai,Seed,2025-09,35.0,,Mayfield Fund; Nexus Venture Partners,,https://www.startuphub.ai/ai-news/funding-round/2025/obot-ai-secures-35m-seed-funding,
@@ -1985,6 +1993,7 @@ writer,Seed,2020,5.0,,Aspect Ventures,,https://research.contrary.com/company/wri
 writer,Series A,2021,21.0,,Insight Partners,,https://research.contrary.com/company/writer,
 writer,Series B,2023-09,100.0,500.0,ICONIQ Growth,,https://writer.com/blog/series-b-funding-writer/,
 writer,Series C,2024-11,200.0,1900.0,ICONIQ Growth; Premji Invest; Radical Ventures,,https://writer.com/blog/series-c-funding-writer-press-release/,
+wyze-labs,Series B,2021,110.0,,Marcy Venture Partners,,https://en.wikipedia.org/wiki/Wyze_Labs,
 x-square-robot,Series A+,2025-09,100.0,,Alibaba Cloud; HongShan; INCE Capital,,https://www.therobotreport.com/x-square-robot-debuts-foundation-model-embodied-ai-100m-series-a/,"Meituan, Legend Star, Legend Capital also participated as existing backers."
 x-square-robot,Series A++,2026-01,140.0,,ByteDance; HongShan,,https://www.prnewswire.com/apac/news-releases/x-square-robot-secures-140-million-in-series-a-funding-302659254.html,"RMB 1 billion. Also Shenzhen Capital Group, Wuxi Capital, Alibaba Group, Meituan."
 xai,Series A (Seed/Initial),2023-11,134.7,,Undisclosed,,https://en.wikipedia.org/wiki/XAI_(company),"Disclosed via SEC filing in December 2023. Investors not formally announced. Reports suggest early backers included Valor Equity Partners and other Musk-aligned investors. Musk stated at the time xAI was ""not seeking funding right now.""

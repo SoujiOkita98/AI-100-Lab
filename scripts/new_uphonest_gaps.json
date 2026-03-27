@@ -1,0 +1,142 @@
+[
+  {
+    "name": "GrubMarket",
+    "slug": "grubmarket",
+    "status": "active",
+    "founded_year": 2014,
+    "hq": "San Francisco, CA",
+    "website": "https://www.grubmarket.com",
+    "sector": ["enterprise-ai", "data-analytics"],
+    "one_liner": "AI-powered food supply chain platform — ERP, eCommerce, and AI software for food distribution. Largest private food tech company in the US ($2B+ revenue, $4.5B valuation).",
+    "total_raised_m": 500,
+    "founders": [
+      {"name": "Mike Xu", "role": "CEO", "background": "Grew up in rural China. Studied biochemistry and CS. Previously at eBay and Oracle.", "origin": "Chinese-American"}
+    ],
+    "funding_rounds": [
+      {"stage": "Series H", "date": "2026-02", "amount_m": 50, "lead_investors": ["Undisclosed"], "source": "https://techcrunch.com/2025/03/18/grubmarket-raises-50m-at-a-3-5b-valuation-to-build-ai-for-the-1-trillion-food-distribution-industry/"},
+      {"stage": "Series G", "date": "2025-03", "amount_m": 50, "lead_investors": ["Undisclosed"], "source": "https://techcrunch.com/2025/03/18/grubmarket-raises-50m-at-a-3-5b-valuation-to-build-ai-for-the-1-trillion-food-distribution-industry/"}
+    ],
+    "confidence": "medium",
+    "last_updated": "2026-03-26",
+    "sources": ["https://techcrunch.com/2025/03/18/grubmarket-raises-50m-at-a-3-5b-valuation-to-build-ai-for-the-1-trillion-food-distribution-industry/"]
+  },
+  {
+    "name": "Noah Medical",
+    "slug": "noah-medical",
+    "status": "active",
+    "founded_year": 2018,
+    "hq": "San Carlos, CA",
+    "website": "https://www.noahmed.com",
+    "sector": ["healthcare-ai"],
+    "one_liner": "AI-powered robotic surgical systems (Galaxy System) for navigated bronchoscopy and lung biopsy. Backed by SoftBank Vision Fund, Sequoia China.",
+    "total_raised_m": 150,
+    "founders": [
+      {"name": "Jian Zhang", "role": "CEO", "background": "PhD from Columbia University. Employee #2 at Auris Health (acquired by J&J for $5.7B). Former Intuitive Surgical.", "origin": "Chinese-American"}
+    ],
+    "funding_rounds": [
+      {"stage": "Series B", "date": "2023-04", "amount_m": 150, "lead_investors": ["SoftBank Vision Fund"], "source": "https://www.noahmed.com/press-releases/noah-medical-raises-150m-series-b-to-scale-endoluminal-robotics-solutions"}
+    ],
+    "confidence": "medium",
+    "last_updated": "2026-03-26",
+    "sources": ["https://www.noahmed.com/press-releases/noah-medical-raises-150m-series-b-to-scale-endoluminal-robotics-solutions"]
+  },
+  {
+    "name": "Botrista",
+    "slug": "botrista",
+    "status": "active",
+    "founded_year": 2019,
+    "hq": "San Francisco, CA",
+    "website": "https://www.botrista.com",
+    "sector": ["robotics", "enterprise-ai"],
+    "one_liner": "AI/robotics-powered DrinkBot for automated craft beverages in food service. Former Tesla robotics founder.",
+    "total_raised_m": 120,
+    "founders": [
+      {"name": "Sean Hsu", "role": "CEO", "background": "Former Tesla robotics engineer.", "origin": "Taiwanese-American"},
+      {"name": "Paul Chen", "role": "CPO", "background": "Co-founded Botrista.", "origin": "Taiwanese-American"}
+    ],
+    "funding_rounds": [],
+    "confidence": "medium",
+    "last_updated": "2026-03-26",
+    "sources": ["https://www.botrista.com"]
+  },
+  {
+    "name": "Turing Video",
+    "slug": "turing-video",
+    "status": "active",
+    "founded_year": 2017,
+    "hq": "San Jose, CA",
+    "website": "https://www.turing.video",
+    "sector": ["security-ai"],
+    "one_liner": "AI-powered cloud video security and surveillance systems with facial recognition, smart search, and security robotics.",
+    "total_raised_m": 80,
+    "founders": [
+      {"name": "Xing Zhong", "role": "President & Co-founder", "background": "Co-founded Turing Video.", "origin": "Chinese-American"},
+      {"name": "Yi Li", "role": "Co-founder", "background": "Co-founded Turing Video.", "origin": "Chinese-American"}
+    ],
+    "funding_rounds": [],
+    "confidence": "low",
+    "last_updated": "2026-03-26",
+    "sources": []
+  },
+  {
+    "name": "MAI",
+    "slug": "mai-marketing",
+    "status": "active",
+    "founded_year": 2024,
+    "hq": "San Francisco, CA",
+    "website": "https://mai.co",
+    "sector": ["agents", "enterprise-ai"],
+    "one_liner": "AI agents that autonomously manage and optimize performance marketing (Google Ads) for SMBs. Backed by Kleiner Perkins.",
+    "total_raised_m": 25,
+    "founders": [
+      {"name": "Yuchen Wu", "role": "CEO", "background": "BS from Tsinghua University. PhD from Northwestern. Engineering Director at Google (2010-2020). VP of Engineering at Instacart.", "origin": "Chinese-American"},
+      {"name": "Jian Wang", "role": "CTO", "background": "PhD ML from UC Santa Cruz. Sr. Staff Engineer at Google Ads.", "origin": "Chinese-American"}
+    ],
+    "funding_rounds": [
+      {"stage": "Seed", "date": "2025-10", "amount_m": 25, "lead_investors": ["Kleiner Perkins"], "source": "https://www.prnewswire.com/news-releases/mai-raises-25m-to-automate-performance-marketing-with-ai-agents-driving-revenue-for-brands-302571065.html"}
+    ],
+    "confidence": "high",
+    "last_updated": "2026-03-26",
+    "sources": ["https://www.prnewswire.com/news-releases/mai-raises-25m-to-automate-performance-marketing-with-ai-agents-driving-revenue-for-brands-302571065.html"]
+  },
+  {
+    "name": "MoeGo",
+    "slug": "moego",
+    "status": "active",
+    "founded_year": 2021,
+    "hq": "Los Angeles, CA",
+    "website": "https://www.moego.pet",
+    "sector": ["enterprise-ai"],
+    "one_liner": "AI-powered pet care business management SaaS (scheduling, payments, business intelligence).",
+    "total_raised_m": 24,
+    "founders": [
+      {"name": "Ethan Dong (Yi Dong)", "role": "CEO", "background": "Came to the US in 2013. Founded MoeGo.", "origin": "Chinese-American"}
+    ],
+    "funding_rounds": [
+      {"stage": "Series A", "date": "2024", "amount_m": 24, "lead_investors": ["Base10 Partners"], "source": "https://startup-weekly.com/Pet-grooming-software-MoeGo-secures-24m-Series-A-funding-to-revolutionize-pet-care-economy/"}
+    ],
+    "confidence": "medium",
+    "last_updated": "2026-03-26",
+    "sources": ["https://startup-weekly.com/Pet-grooming-software-MoeGo-secures-24m-Series-A-funding-to-revolutionize-pet-care-economy/"]
+  },
+  {
+    "name": "Bot Auto",
+    "slug": "bot-auto",
+    "status": "active",
+    "founded_year": 2023,
+    "hq": "Houston, TX",
+    "website": "https://bot.auto",
+    "sector": ["autonomous-vehicles"],
+    "one_liner": "AI-powered autonomous trucking. Founded by ex-TuSimple CTO. 100% US-based, no China ties.",
+    "total_raised_m": 20,
+    "founders": [
+      {"name": "Xiaodi Hou", "role": "CEO", "background": "PhD from Caltech. Co-founder and former CTO of TuSimple. Naturalized US citizen.", "origin": "Chinese-American"}
+    ],
+    "funding_rounds": [
+      {"stage": "Pre-Series A", "date": "2024-09", "amount_m": 20, "lead_investors": ["Undisclosed"], "source": "https://techcrunch.com/2024/10/02/tusimple-founder-xiaodi-hou-is-back-with-a-new-autonomous-truck-startup/"}
+    ],
+    "confidence": "medium",
+    "last_updated": "2026-03-26",
+    "sources": ["https://techcrunch.com/2024/10/02/tusimple-founder-xiaodi-hou-is-back-with-a-new-autonomous-truck-startup/"]
+  }
+]
