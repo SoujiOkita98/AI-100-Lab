@@ -27,7 +27,7 @@ data_notes: 'Needs verification: website, source_urls, headquarters. Profile may
 website: https://lumai.ai
 website_verified: true
 linkedin: https://www.linkedin.com/company/lumaitech
-headquarters: Palo Alto, CA
+headquarters: Oxford, UK
 crunchbase: https://www.crunchbase.com/organization/lumai
 crunchbase_verified: true
 total_raised_m: 33.0
