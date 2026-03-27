@@ -41,7 +41,7 @@ website_verified: true
 crunchbase: https://www.crunchbase.com/organization/genspark
 crunchbase_verified: true
 twitter: '@genspark_ai'
-total_raised_m: 335.0
+total_raised_m: 545.0
 linkedin_verified: true
 latest_valuation_m: 1250.0
 ---
