@@ -44228,12 +44228,12 @@
         "company_slug": "pika",
         "stage": "Series A",
         "date": "2023-11",
-        "amount_m": 55.0,
+        "amount_m": 35.0,
         "valuation_m": null,
         "lead_investors": "Lightspeed Venture Partners",
         "other_investors": "",
         "source": "https://techcrunch.com/2023/11/28/pika-labs-which-is-building-ai-tools-to-generate-and-edit-videos-raises-55m/",
-        "notes": ""
+        "notes": "Series A was $35M. The widely reported $55M figure includes pre-seed and seed rounds."
       },
       {
         "company_slug": "pika",

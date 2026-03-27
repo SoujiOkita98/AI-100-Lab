@@ -25,7 +25,8 @@ last_updated: 2026-03-20
 funding_rounds:
 - stage: Series A
   date: 2023-11
-  amount_m: 55.0
+  amount_m: 35.0
+  notes: Series A was $35M. The widely reported $55M figure includes pre-seed and seed rounds.
   lead_investors:
   - Lightspeed Venture Partners
   source: https://techcrunch.com/2023/11/28/pika-labs-which-is-building-ai-tools-to-generate-and-edit-videos-raises-55m/
