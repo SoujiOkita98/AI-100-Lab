@@ -11108,6 +11108,57 @@
     "top_investors": []
   },
   {
+    "slug": "certik",
+    "name": "CertiK",
+    "status": "active",
+    "founded_year": null,
+    "hq": "New York, NY",
+    "website": "https://www.certik.com",
+    "sector": "['security-ai', 'fintech-ai']",
+    "one_liner": "Blockchain/Web3 security using AI formal verification and threat monitoring. 60%+ market share. $2B valuation.",
+    "total_raised_m": 296.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [
+      {
+        "company_slug": "certik",
+        "name": "Ronghui Gu",
+        "role": "CEO",
+        "background": "Columbia CS professor. BS from Tsinghua University. PhD from Yale.",
+        "origin": "",
+        "prior": ""
+      },
+      {
+        "company_slug": "certik",
+        "name": "Zhong Shao",
+        "role": "Co-founder",
+        "background": "Yale CS professor. Chinese-born.",
+        "origin": "",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "certik",
+        "stage": "Series B3",
+        "date": "2022-04",
+        "amount_m": 88.0,
+        "valuation_m": null,
+        "lead_investors": "Insight Partners; Tiger Global",
+        "other_investors": "",
+        "source": "https://www.certik.com/company/about",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
     "slug": "certus-ai",
     "name": "Certus AI",
     "status": "active",
@@ -28797,6 +28848,57 @@
     "top_investors": []
   },
   {
+    "slug": "iterable",
+    "name": "Iterable",
+    "status": "active",
+    "founded_year": null,
+    "hq": "San Francisco, CA",
+    "website": "https://iterable.com",
+    "sector": "['enterprise-ai']",
+    "one_liner": "AI-powered cross-channel marketing automation platform (email, SMS, push, in-app) for enterprise growth marketing. $360M raised.",
+    "total_raised_m": 360.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [
+      {
+        "company_slug": "iterable",
+        "name": "Justin Zhu",
+        "role": "Co-founder (departed 2021)",
+        "background": "Chinese-American. Former Twitter engineer.",
+        "origin": "",
+        "prior": ""
+      },
+      {
+        "company_slug": "iterable",
+        "name": "Andrew Boni",
+        "role": "Co-founder",
+        "background": "Former Twitter engineer.",
+        "origin": "",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "iterable",
+        "stage": "Series E",
+        "date": "2021",
+        "amount_m": 200.0,
+        "valuation_m": null,
+        "lead_investors": "Viking Global",
+        "other_investors": "",
+        "source": "https://www.crunchbase.com/organization/iterable",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
     "slug": "ivo",
     "name": "Ivo",
     "status": "active",
@@ -37240,6 +37342,57 @@
     "top_investors": []
   },
   {
+    "slug": "motion-app",
+    "name": "Motion",
+    "status": "active",
+    "founded_year": null,
+    "hq": "San Francisco, CA",
+    "website": "https://usemotion.com",
+    "sector": "['enterprise-ai', 'agents']",
+    "one_liner": "AI-native work management platform combining project management, tasks, calendar, docs, and AI Employees. $10M ARR. YC W20.",
+    "total_raised_m": 75.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [
+      {
+        "company_slug": "motion-app",
+        "name": "Harry Qi",
+        "role": "CEO",
+        "background": "Dartmouth Math+CS.",
+        "origin": "",
+        "prior": ""
+      },
+      {
+        "company_slug": "motion-app",
+        "name": "Ethan Yu",
+        "role": "Co-founder",
+        "background": "Dartmouth CS.",
+        "origin": "",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "motion-app",
+        "stage": "Series C",
+        "date": "2025-09",
+        "amount_m": 38.0,
+        "valuation_m": null,
+        "lead_investors": "Scale Venture Partners",
+        "other_investors": "",
+        "source": "https://techcrunch.com/2025/09/08/y-combinator-backed-motion-raises-fresh-38m-to-build-the-microsoft-office-of-ai-agents/",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
     "slug": "moveworks",
     "name": "Moveworks",
     "status": "Acquired by ServiceNow (completed December 15, 2025)",
@@ -41141,6 +41294,65 @@
     "top_investors": []
   },
   {
+    "slug": "opusclip",
+    "name": "OpusClip",
+    "status": "active",
+    "founded_year": null,
+    "hq": "San Francisco, CA",
+    "website": "https://www.opus.pro",
+    "sector": "['creative-ai']",
+    "one_liner": "AI-powered autonomous video editing platform. Repurposes long-form videos into short viral clips. Backed by SoftBank, ZhenFund, Sky9.",
+    "total_raised_m": 68.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [
+      {
+        "company_slug": "opusclip",
+        "name": "Young Zhao",
+        "role": "CEO",
+        "background": "UC Berkeley CS. Previously co-founded Zaihui in China. Backed by DCM, Sky9, ZhenFund.",
+        "origin": "",
+        "prior": ""
+      },
+      {
+        "company_slug": "opusclip",
+        "name": "Grace Wang",
+        "role": "CMO",
+        "background": "Co-founded OpusClip.",
+        "origin": "",
+        "prior": ""
+      },
+      {
+        "company_slug": "opusclip",
+        "name": "Jay Wu",
+        "role": "CTO",
+        "background": "Co-founded OpusClip.",
+        "origin": "",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "opusclip",
+        "stage": "Series A",
+        "date": "2025",
+        "amount_m": 20.0,
+        "valuation_m": null,
+        "lead_investors": "SoftBank Vision Fund 2",
+        "other_investors": "",
+        "source": "https://www.crunchbase.com/organization/opus-clip",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
     "slug": "orasio",
     "name": "Orasio",
     "status": "active",
@@ -43852,6 +44064,45 @@
         "notes": ""
       }
     ],
+    "top_investors": []
+  },
+  {
+    "slug": "plus-ai",
+    "name": "Plus (PlusAI)",
+    "status": "active",
+    "founded_year": null,
+    "hq": "Santa Clara, CA",
+    "website": "https://plus.ai",
+    "sector": "['autonomous-vehicles']",
+    "one_liner": "AI-based 'virtual driver' software for factory-built autonomous trucks (Level 4). Partner with Traton Group. Going public via SPAC at ~$1.2B.",
+    "total_raised_m": 400.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [
+      {
+        "company_slug": "plus-ai",
+        "name": "David Liu",
+        "role": "CEO",
+        "background": "Chinese-born. Beijing No.8 High School, BUAA. Stanford PhD. Previously at Google.",
+        "origin": "",
+        "prior": ""
+      },
+      {
+        "company_slug": "plus-ai",
+        "name": "Hao Zheng",
+        "role": "CTO",
+        "background": "Chinese-born. Stanford PhD.",
+        "origin": "",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [],
     "top_investors": []
   },
   {
@@ -53693,6 +53944,49 @@
     "top_investors": []
   },
   {
+    "slug": "subtle-medical",
+    "name": "Subtle Medical",
+    "status": "active",
+    "founded_year": null,
+    "hq": "Menlo Park, CA",
+    "website": "https://subtlemedical.com",
+    "sector": "['healthcare-ai']",
+    "one_liner": "FDA-cleared AI medical imaging platform that enhances PET, MRI, CT scans \u2014 reducing scan times, radiation, and contrast agents. Tsinghua \u2192 Stanford founder.",
+    "total_raised_m": 50.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [
+      {
+        "company_slug": "subtle-medical",
+        "name": "Enhao Gong",
+        "role": "CEO",
+        "background": "BS from Tsinghua University. PhD EE from Stanford. Forbes 30 Under 30.",
+        "origin": "",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "subtle-medical",
+        "stage": "Series B",
+        "date": "2024",
+        "amount_m": 30.0,
+        "valuation_m": null,
+        "lead_investors": "Samsung Ventures",
+        "other_investors": "",
+        "source": "https://www.prnewswire.com/news-releases/samsung-ventures-among-top-investors-backing-ai-imaging-acquisition-market-leader-subtle-medical---bringing-total-series-b-to-over-30-million-302204977.html",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
     "slug": "sumble",
     "name": "Sumble",
     "status": "Private",
@@ -57417,6 +57711,37 @@
         "notes": ""
       }
     ],
+    "top_investors": []
+  },
+  {
+    "slug": "trustlook",
+    "name": "TrustLook",
+    "status": "active",
+    "founded_year": null,
+    "hq": "San Jose, CA",
+    "website": "https://www.trustlook.com",
+    "sector": "['security-ai']",
+    "one_liner": "AI-powered mobile cybersecurity \u2014 APT mobile security detecting zero-day vulnerabilities using AI/ML. Ex-FireEye founder.",
+    "total_raised_m": 34.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [
+      {
+        "company_slug": "trustlook",
+        "name": "Allan Zhang",
+        "role": "CEO",
+        "background": "Former Palo Alto Networks (2nd security engineer). Ex-FireEye/Mandiant.",
+        "origin": "",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [],
     "top_investors": []
   },
   {
