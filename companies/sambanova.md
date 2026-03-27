@@ -41,26 +41,31 @@ funding_rounds:
   lead_investors:
   - Walden International
   - GV
+  source: "https://www.businesswire.com/news/home/20180315005195/en/SambaNova-Systems-Emerges-From-Stealth-and-Secures-56-Million-in-Series-A-Funding-Led-by-Walden-International-and-GV"
 - stage: Series B
   date: 2019-04
   amount_m: 150.0
   lead_investors:
   - Intel Capital
+  source: "https://sambanova.ai/press/sambanova-systems-announces-150m-series-b-from-intel-capital-and-gv-to-advance-its-breakthrough-ai-platform"
 - stage: Series C
   date: 2020-02
   amount_m: 250.0
   lead_investors:
   - BlackRock
+  source: "https://www.businesswire.com/news/home/20200225005504/en/SambaNova-Systems-Announces-250-Million-Series-Continues"
 - stage: Series D
   date: 2021-04
   amount_m: 676.0
   lead_investors:
   - SoftBank Vision Fund 2
+  source: "https://www.businesswire.com/news/home/20210413005263/en/SambaNova-Systems-Raises-676M-in-Series-D-Surpasses-5B-Valuation-and-Becomes-Worlds-Best-Funded-AI-Startup"
 - stage: Series E
   date: 2026-02
   amount_m: 350.0
   lead_investors:
   - Vista Equity Partners
+  source: "https://www.bloomberg.com/news/articles/2026-02-24/intel-backed-sambanova-raises-cash-touts-softbank-chip-contract"
 confidence: medium
 ---
 

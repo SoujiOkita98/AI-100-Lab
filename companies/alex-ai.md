@@ -28,6 +28,7 @@ funding_rounds:
   amount_m: 17
   lead_investors:
   - Peak XV Partners
+  source: "https://techcrunch.com/2025/09/29/ai-recruiter-alex-raises-17m-to-automate-initial-job-interviews/"
 linkedin: https://www.linkedin.com/company/alexai
 linkedin_verified: false
 confidence: medium

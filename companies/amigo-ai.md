@@ -29,6 +29,7 @@ funding_rounds:
   amount_m: 11
   lead_investors:
   - Madrona Venture Group
+  source: "https://www.businesswire.com/news/home/20260310898882/en/Amigo-AI-Raises-11M-Series-A-to-Train-Clinical-AI-Agents-Like-Doctors"
 linkedin: https://www.linkedin.com/company/youramigo-ai
 linkedin_verified: false
 confidence: medium

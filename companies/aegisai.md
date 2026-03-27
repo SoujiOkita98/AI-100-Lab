@@ -16,9 +16,11 @@ founders:
 funding_rounds:
 - stage: Seed
   date: '2025'
-  amount_m: 5
+  amount_m: 13
   lead_investors:
   - Accel
+  - Foundation Capital
+  source: "https://www.globenewswire.com/news-release/2025/09/10/3147791/0/en/Google-security-veterans-raise-13M-seed-round-for-AegisAI-to-fix-email-security.html"
 last_updated: 2026-03-21
 confidence: medium
 data_notes: 'Needs verification: website, source_urls, headquarters. Profile may be incomplete.'
@@ -27,7 +29,7 @@ website_verified: true
 headquarters: New York, NY
 crunchbase: https://www.crunchbase.com/organization/aegisai
 crunchbase_verified: true
-total_raised_m: 5.0
+total_raised_m: 13.0
 linkedin: https://www.linkedin.com/company/aegisai/
 linkedin_verified: true
 ---

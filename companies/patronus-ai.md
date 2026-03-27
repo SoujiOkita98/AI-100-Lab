@@ -37,6 +37,7 @@ funding_rounds:
   - Lightspeed Venture Partners
   - Datadog
   - Factorial Capital
+  source: https://www.prnewswire.com/news-releases/patronus-ai-raises-17-million-to-detect-llm-mistakes-at-scale-302152825.html
   - Gokul Rajaram
 - stage: Additional equity (SEC filing)
   date: ~2024

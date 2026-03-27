@@ -18,10 +18,13 @@ founders:
   origin: Kazakhstani
 funding_rounds:
 - stage: Seed
-  date: 2025-06
+  date: 2025-08
   amount_m: 4.7
   lead_investors:
   - Nexus Venture Partners
+  - Y Combinator
+  - Paul Graham
+  source: "https://leapingai.com/blog/ai-startup-leaping-ai-raised-4-7-m-for-ai-voice-agents"
 notable_investors:
 - Nexus Venture Partners
 - Y Combinator
@@ -42,7 +45,7 @@ Leaping AI builds AI-powered voice agents designed for automating call center op
 
 | Round | Date      | Amount | Lead Investor         |
 |-------|-----------|--------|-----------------------|
-| Seed  | June 2025 | $4.7M  | Nexus Venture Partners |
+| Seed  | August 2025 | $4.7M  | Nexus Venture Partners |
 
 **Total raised:** ~$5.2M (including YC $500K standard deal).
 

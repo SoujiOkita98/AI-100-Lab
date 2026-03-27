@@ -1527,7 +1527,7 @@
     "website": "https://www.aegisai.ai",
     "sector": "AI Cybersecurity / Email Security",
     "one_liner": "Agentic AI for email security. Accel-backed.",
-    "total_raised_m": 5.0,
+    "total_raised_m": 13.0,
     "latest_valuation_m": null,
     "employees": null,
     "revenue_signals": null,
@@ -1559,11 +1559,11 @@
         "company_slug": "aegisai",
         "stage": "Seed",
         "date": "2025",
-        "amount_m": 5.0,
+        "amount_m": 13.0,
         "valuation_m": null,
-        "lead_investors": "Accel",
+        "lead_investors": "Accel; Foundation Capital",
         "other_investors": "",
-        "source": "",
+        "source": "https://www.globenewswire.com/news-release/2025/09/10/3147791/0/en/Google-security-veterans-raise-13M-seed-round-for-AegisAI-to-fix-email-security.html",
         "notes": ""
       }
     ],
@@ -2972,7 +2972,7 @@
         "valuation_m": null,
         "lead_investors": "Peak XV Partners",
         "other_investors": "",
-        "source": "",
+        "source": "https://techcrunch.com/2025/09/29/ai-recruiter-alex-raises-17m-to-automate-initial-job-interviews/",
         "notes": ""
       }
     ],
@@ -3435,7 +3435,7 @@
         "valuation_m": null,
         "lead_investors": "Madrona Venture Group",
         "other_investors": "",
-        "source": "",
+        "source": "https://www.businesswire.com/news/home/20260310898882/en/Amigo-AI-Raises-11M-Series-A-to-Train-Clinical-AI-Agents-Like-Doctors",
         "notes": ""
       }
     ],
@@ -8838,7 +8838,7 @@
         "valuation_m": null,
         "lead_investors": "8VC",
         "other_investors": "",
-        "source": "",
+        "source": "https://www.businesswire.com/news/home/20251210946193/en/Bobyard-Raises-35-Million-Series-A-to-Power-How-the-World-Gets-Built",
         "notes": ""
       }
     ],
@@ -9302,9 +9302,9 @@
         "date": "2025-05",
         "amount_m": 15.0,
         "valuation_m": null,
-        "lead_investors": "",
+        "lead_investors": "Sapphire Ventures",
         "other_investors": "",
-        "source": "",
+        "source": "https://www.businesswire.com/news/home/20250521200064/en/Greenlite-AI-Raises-15M-Series-A-to-Help-Banks-and-Fintechs-Fight-Financial-Crime-with-Trusted-AI-Workforce",
         "notes": ""
       },
       {
@@ -32399,12 +32399,12 @@
       {
         "company_slug": "leaping-ai",
         "stage": "Seed",
-        "date": "2025-06",
+        "date": "2025-08",
         "amount_m": 4.7,
         "valuation_m": null,
-        "lead_investors": "Nexus Venture Partners",
+        "lead_investors": "Nexus Venture Partners; Y Combinator; Paul Graham",
         "other_investors": "",
-        "source": "",
+        "source": "https://leapingai.com/blog/ai-startup-leaping-ai-raised-4-7-m-for-ai-voice-agents",
         "notes": ""
       }
     ],
@@ -43725,84 +43725,6 @@
     "top_investors": []
   },
   {
-    "slug": "patronus-ai",
-    "name": "Patronus AI",
-    "status": "Private",
-    "founded_year": "2023",
-    "hq": "San Francisco, CA (registered address in Dublin, CA)",
-    "website": "https://www.patronus.ai",
-    "sector": "AI safety; LLM evaluation",
-    "one_liner": "Automated AI evaluation and security platform that detects LLM mistakes at scale, enabling enterprises to deploy AI products safely in regulated industries",
-    "total_raised_m": 40.0,
-    "latest_valuation_m": null,
-    "employees": null,
-    "revenue_signals": null,
-    "business_model": null,
-    "key_customers": null,
-    "team_china_profile": null,
-    "confidence": "medium-high",
-    "last_updated": "2026-03-20",
-    "founders": [
-      {
-        "company_slug": "patronus-ai",
-        "name": "Anand Kannappan",
-        "role": "Co-Founder & CEO",
-        "background": "Former Head of Engineering & ML at Vertis; ML explainability lead at Meta Reality Labs; Data Scientist at Facebook; Co-Founder of Kyber Technologies; BS in Economics, Computer Science & Statistics from University of Chicago",
-        "origin": "Indian-American",
-        "prior": ""
-      },
-      {
-        "company_slug": "patronus-ai",
-        "name": "Rebecca Qian",
-        "role": "Co-Founder & CTO",
-        "background": "Former Facebook AI researcher; trained FairBERTa (fairness-focused LLM); built semantic parsing for robotic assistants at Meta; created Continuous Contrast Set Mining (adopted across Facebook infra, presented at ICSE); University of Chicago CS graduate",
-        "origin": "Chinese-American",
-        "prior": ""
-      }
-    ],
-    "funding_rounds": [
-      {
-        "company_slug": "patronus-ai",
-        "stage": "Seed",
-        "date": "September 2023",
-        "amount_m": 3.0,
-        "valuation_m": null,
-        "lead_investors": "Lightspeed Venture Partners",
-        "other_investors": "Factorial Capital; Amjad Masad (Replit CEO); Gokul Rajaram",
-        "source": "",
-        "notes": ""
-      },
-      {
-        "company_slug": "patronus-ai",
-        "stage": "Series A",
-        "date": "May 2024",
-        "amount_m": 17.0,
-        "valuation_m": null,
-        "lead_investors": "Notable Capital",
-        "other_investors": "Lightspeed Venture Partners; Datadog; Factorial Capital; Gokul Rajaram",
-        "source": "",
-        "notes": ""
-      },
-      {
-        "company_slug": "patronus-ai",
-        "stage": "Additional equity (SEC filing)",
-        "date": "~2024",
-        "amount_m": 20.5,
-        "valuation_m": null,
-        "lead_investors": "",
-        "other_investors": "",
-        "source": "",
-        "notes": "SEC exempt offering filing; may represent Series A extension or follow-on round"
-      }
-    ],
-    "top_investors": [
-      "Lightspeed Venture Partners",
-      "Notable Capital",
-      "Datadog (strategic)",
-      "Factorial Capital"
-    ]
-  },
-  {
     "slug": "pave-robotics",
     "name": "Pave Robotics",
     "status": "Active",
@@ -47391,7 +47313,7 @@
         "valuation_m": null,
         "lead_investors": "Andreessen Horowitz",
         "other_investors": "",
-        "source": "",
+        "source": "https://www.businesswire.com/news/home/20250113456014/en/Gen-AI-Platform-for-Fashion-Creatives-Raspberry-AI-Secures-24-Million-in-Series-A-Funding-Round-Led-by-Andreessen-Horowitz-a16z",
         "notes": ""
       }
     ],
@@ -49928,7 +49850,7 @@
         "valuation_m": null,
         "lead_investors": "Walden International; GV",
         "other_investors": "",
-        "source": "",
+        "source": "https://www.businesswire.com/news/home/20180315005195/en/SambaNova-Systems-Emerges-From-Stealth-and-Secures-56-Million-in-Series-A-Funding-Led-by-Walden-International-and-GV",
         "notes": ""
       },
       {
@@ -49939,7 +49861,7 @@
         "valuation_m": null,
         "lead_investors": "Intel Capital",
         "other_investors": "",
-        "source": "",
+        "source": "https://sambanova.ai/press/sambanova-systems-announces-150m-series-b-from-intel-capital-and-gv-to-advance-its-breakthrough-ai-platform",
         "notes": ""
       },
       {
@@ -49950,7 +49872,7 @@
         "valuation_m": null,
         "lead_investors": "BlackRock",
         "other_investors": "",
-        "source": "",
+        "source": "https://www.businesswire.com/news/home/20200225005504/en/SambaNova-Systems-Announces-250-Million-Series-Continues",
         "notes": ""
       },
       {
@@ -49961,7 +49883,7 @@
         "valuation_m": null,
         "lead_investors": "SoftBank Vision Fund 2",
         "other_investors": "",
-        "source": "",
+        "source": "https://www.businesswire.com/news/home/20210413005263/en/SambaNova-Systems-Raises-676M-in-Series-D-Surpasses-5B-Valuation-and-Becomes-Worlds-Best-Funded-AI-Startup",
         "notes": ""
       },
       {
@@ -49972,7 +49894,7 @@
         "valuation_m": null,
         "lead_investors": "Vista Equity Partners",
         "other_investors": "",
-        "source": "",
+        "source": "https://www.bloomberg.com/news/articles/2026-02-24/intel-backed-sambanova-raises-cash-touts-softbank-chip-contract",
         "notes": ""
       }
     ],

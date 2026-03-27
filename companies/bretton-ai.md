@@ -11,6 +11,9 @@ funding_rounds:
 - stage: Series A
   date: 2025-05
   amount_m: 15
+  lead_investors:
+  - Sapphire Ventures
+  source: https://www.businesswire.com/news/home/20250521200064/en/Greenlite-AI-Raises-15M-Series-A-to-Help-Banks-and-Fintechs-Fight-Financial-Crime-with-Trusted-AI-Workforce
 - stage: Series B
   date: 2026-02
   amount_m: 75

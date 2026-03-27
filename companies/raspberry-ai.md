@@ -11,6 +11,7 @@ funding_rounds:
   amount_m: 24
   lead_investors:
   - Andreessen Horowitz
+  source: "https://www.businesswire.com/news/home/20250113456014/en/Gen-AI-Platform-for-Fashion-Creatives-Raspberry-AI-Secures-24-Million-in-Series-A-Funding-Round-Led-by-Andreessen-Horowitz-a16z"
 last_updated: 2026-03-21
 confidence: medium
 data_notes: 'Needs verification: website, founders, source_urls. Profile may be incomplete.'

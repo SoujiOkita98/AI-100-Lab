@@ -19,6 +19,7 @@ funding_rounds:
   amount_m: 35
   lead_investors:
   - 8VC
+  source: "https://www.businesswire.com/news/home/20251210946193/en/Bobyard-Raises-35-Million-Series-A-to-Power-How-the-World-Gets-Built"
 last_updated: 2026-03-21
 confidence: medium
 data_notes: 'Needs verification: source_urls, headquarters. Profile may be incomplete.'
