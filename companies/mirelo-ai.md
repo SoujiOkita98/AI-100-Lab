@@ -12,6 +12,7 @@ founders:
   role: Co-Founder & CEO
   background: PhD in machine learning and causal inference from Max Planck Institute (under Bernhard Scholkopf). Postdoc at
     ETH Zurich. Former AWS Labs senior AI researcher. Degree in piano, organ and composition from Conservatoire in Strasbourg.
+  origin: French
 - name: Florian Wenzel
   origin: German
   role: Co-Founder & CTO

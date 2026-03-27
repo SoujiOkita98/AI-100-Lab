@@ -16,6 +16,7 @@ founders:
 - name: Eddie Hsu
   role: Co-Founder & COO
   background: Operational leadership; co-founded Moises alongside Ramos and Almeida.
+  origin: Brazilian
 - name: Jardson Almeida
   origin: Brazilian
   role: Co-Founder & CDO

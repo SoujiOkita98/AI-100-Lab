@@ -14,9 +14,11 @@ founders:
 - name: Chris Andrew
   role: Co-Founder & CEO
   background: Former CPO at Hearsay Systems (among first employees).
+  origin: American
 - name: Robert MacCloy
   role: Co-Founder & CTO
   background: Former CTO at Hearsay Systems (among first employees).
+  origin: American
 one_liner: AI customer experience platform helping brands monitor, benchmark, and optimize their presence in AI search engines
   and LLM-powered discovery
 funding_rounds:

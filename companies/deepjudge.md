@@ -12,6 +12,7 @@ founders:
   role: Co-Founder & CEO
   background: Former Google Brain team. PhD in generative AI from ETH Zurich. Master's in CS from EPF Lausanne. Forbes 30
     Under 30. Digital Shaper of Switzerland (3x).
+  origin: North Macedonian
 - name: Kevin Roth
   origin: German
   role: Co-Founder & COO

@@ -10,6 +10,7 @@ founders:
 - name: Mina Fahmi
   role: CEO
   background: Ex-Meta engineer
+  origin: Egyptian-American
 - name: Kirak Hong
   origin: Korean
   role: Co-founder

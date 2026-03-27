@@ -15,6 +15,7 @@ founders:
 - name: Mayada Gonimah
   role: Co-Founder & CTO
   background: Former Foundry Head of AI/ML Engineering at Palantir. Led Palantir's modeling and AI/ML products group.
+  origin: Egyptian-American
 last_updated: 2026-03-23
 confidence: high
 one_liner: Composable AI infrastructure platform helping enterprises design, deploy, and scale AI-powered workflows through

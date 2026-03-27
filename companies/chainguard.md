@@ -71,6 +71,7 @@ founders:
 - name: Matt Moore
   role: Co-Founder & CTO
   background: Technical co-founder leading engineering. Previously at Google.
+  origin: American
 - name: Ville Aikas
   role: Co-Founder & Distinguished Engineer
   background: Previously at Google. Core contributor to Kubernetes ecosystem.
@@ -78,6 +79,7 @@ founders:
 - name: Scott Nichols
   role: Co-Founder
   background: Previously at Google. Open-source contributor.
+  origin: American
 team_composition: The founding team comes from Google's open-source and Kubernetes ecosystem, bringing deep expertise in container
   security, software supply chain integrity, and cloud-native infrastructure.
 business_model: Enterprise SaaS. Chainguard Images provides hardened, minimal container images with zero known CVEs as a subscription

@@ -20,9 +20,11 @@ founders:
 - name: Matt
   role: Co-Founder & CPO
   background: Founding engineer at Rubrik. Decade of experience building AI products.
+  origin: American
 - name: David
   role: Co-Founder & Head of Engineering
   background: 10+ years in AI and machine learning.
+  origin: Chinese-American
 last_updated: 2026-03-21
 confidence: medium
 data_notes: 'Needs verification: website, founders, source_urls, headquarters. Profile may be incomplete.'

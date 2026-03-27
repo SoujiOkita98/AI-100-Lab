@@ -9,7 +9,7 @@ founders:
 - name: Spiros Xanthos
   role: Co-founder
   background: Ex-SVP/GM Observability at Splunk, co-founded Omnition (acq Splunk)
-  origin: Greek-American
+  origin: Greek
 funding_rounds:
 - stage: Series A
   date: 2025-12

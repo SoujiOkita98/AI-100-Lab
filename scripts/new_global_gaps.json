@@ -1,0 +1,110 @@
+[
+  {
+    "name": "Cast AI",
+    "slug": "cast-ai",
+    "status": "active",
+    "founded_year": 2019,
+    "hq": "Vilnius, Lithuania",
+    "website": "https://cast.ai",
+    "sector": ["infra", "enterprise-ai"],
+    "one_liner": "AI-powered Kubernetes cloud cost optimization platform. Lithuania's 5th unicorn at $1B+ valuation.",
+    "total_raised_m": 180,
+    "founders": [
+      {"name": "Yuri Frayman", "role": "CEO", "background": "Lithuanian-American entrepreneur.", "origin": "Lithuanian"},
+      {"name": "Leon Kuperman", "role": "CTO", "background": "Co-founded Cast AI in 2019.", "origin": "Lithuanian"},
+      {"name": "Laurent Gil", "role": "President", "background": "Co-founded Cast AI in 2019.", "origin": "French"}
+    ],
+    "funding_rounds": [
+      {"stage": "Series C", "date": "2025-05", "amount_m": 108, "lead_investors": ["Undisclosed"], "source": "https://techfundingnews.com/the-next-lithuanian-unicorn-cast-ai-grabs-108m-at-850m-valuation/"}
+    ],
+    "confidence": "medium",
+    "last_updated": "2026-03-26",
+    "sources": ["https://www.lrt.lt/en/news-in-english/19/2805099/lithuania-s-fifth-unicorn-vilnius-based-cast-ai-crosses-1bn-valuation"]
+  },
+  {
+    "name": "Kore.ai",
+    "slug": "kore-ai",
+    "status": "active",
+    "founded_year": 2013,
+    "hq": "Orlando, FL",
+    "website": "https://kore.ai",
+    "sector": ["enterprise-ai", "agents"],
+    "one_liner": "Enterprise conversational AI platform for building, deploying, and scaling AI agents. ~$100M revenue (2023). Major India operations.",
+    "total_raised_m": 300,
+    "founders": [
+      {"name": "Raj Koneru", "role": "CEO", "background": "Indian-American tech entrepreneur. Founded Kore.ai in 2013.", "origin": "Indian-American"}
+    ],
+    "funding_rounds": [
+      {"stage": "Series D", "date": "2024-01", "amount_m": 150, "lead_investors": ["Undisclosed"], "source": "https://www.fintechfutures.com/venture-capital-funding/conversational-ai-platform-kore-ai-raises-150m-funding-to-fuel-growth"}
+    ],
+    "confidence": "medium",
+    "last_updated": "2026-03-26",
+    "sources": ["https://www.crunchbase.com/organization/kore-ai"]
+  },
+  {
+    "name": "Qure.ai",
+    "slug": "qure-ai",
+    "status": "active",
+    "founded_year": 2016,
+    "hq": "Mumbai, India",
+    "website": "https://qure.ai",
+    "sector": ["healthcare-ai"],
+    "one_liner": "AI-powered medical imaging for radiology — automated detection of TB, lung cancer, strokes, and fractures. Deployed in 90+ countries.",
+    "total_raised_m": 140,
+    "founders": [
+      {"name": "Prashant Warier", "role": "CEO", "background": "Indian AI researcher. Founded Qure.ai in 2016.", "origin": "Indian"},
+      {"name": "Pooja Rao", "role": "Co-founder", "background": "Medical AI researcher.", "origin": "Indian"}
+    ],
+    "funding_rounds": [
+      {"stage": "Series D", "date": "2024-09", "amount_m": 65, "lead_investors": ["Undisclosed"], "source": "https://tracxn.com/d/companies/qure.ai/__QfqJ14wDyhMbUvOibApm4cgaquEx22FBbT11aIuIIFc"}
+    ],
+    "confidence": "medium",
+    "last_updated": "2026-03-26",
+    "sources": ["https://www.crunchbase.com/organization/qure-ai"]
+  },
+  {
+    "name": "G42",
+    "slug": "g42",
+    "status": "active",
+    "founded_year": 2018,
+    "hq": "Abu Dhabi, UAE",
+    "website": "https://g42.ai",
+    "sector": ["foundation-models", "infra", "enterprise-ai"],
+    "one_liner": "UAE's sovereign AI holding company. Microsoft's $1.5B strategic partner. Operates across cloud, AI models, cybersecurity, and smart city infrastructure.",
+    "total_raised_m": 2300,
+    "founders": [
+      {"name": "Peng Xiao", "role": "CEO", "background": "Leads G42's AI and cloud operations. Reports to Sheikh Tahnoon bin Zayed Al Nahyan.", "origin": "Chinese"}
+    ],
+    "funding_rounds": [
+      {"stage": "Strategic investment", "date": "2024-04", "amount_m": 1500, "lead_investors": ["Microsoft"], "source": "https://en.wikipedia.org/wiki/G42_(company)"},
+      {"stage": "Strategic investment", "date": "2021", "amount_m": 800, "lead_investors": ["Silver Lake"], "source": "https://en.wikipedia.org/wiki/G42_(company)"}
+    ],
+    "confidence": "medium",
+    "last_updated": "2026-03-26",
+    "sources": ["https://en.wikipedia.org/wiki/G42_(company)", "https://www.g42.ai/"]
+  },
+  {
+    "name": "Ideogram",
+    "slug": "ideogram",
+    "status": "active",
+    "founded_year": 2022,
+    "hq": "Toronto, Ontario, Canada",
+    "website": "https://ideogram.ai",
+    "sector": ["creative-ai"],
+    "one_liner": "AI text-to-image generation platform with best-in-class text rendering capabilities, rivaling Midjourney and DALL-E.",
+    "total_raised_m": 96.5,
+    "founders": [
+      {"name": "Mohammad Norouzi", "role": "CEO", "background": "Ex-Google Brain researcher.", "origin": "Iranian-Canadian"},
+      {"name": "William Chan", "role": "Co-founder", "background": "Ex-Google Brain researcher.", "origin": "Chinese-Canadian"},
+      {"name": "Chitwan Saharia", "role": "Co-founder", "background": "Ex-Google Brain researcher.", "origin": "Indian-Canadian"},
+      {"name": "Jonathan Ho", "role": "Co-founder", "background": "Ex-Google Brain researcher. Key contributor to diffusion models.", "origin": "Chinese-Canadian"}
+    ],
+    "funding_rounds": [
+      {"stage": "Seed", "date": "2023-08", "amount_m": 16.5, "lead_investors": ["a16z", "Index Ventures"], "source": "https://betakit.com/midjourney-competitor-ideogram-closes-80-million-series-a-round-as-it-launches-latest-text-to-image-model/"},
+      {"stage": "Series A", "date": "2024-02", "amount_m": 80, "lead_investors": ["a16z", "Index Ventures"], "source": "https://betakit.com/midjourney-competitor-ideogram-closes-80-million-series-a-round-as-it-launches-latest-text-to-image-model/"}
+    ],
+    "confidence": "high",
+    "last_updated": "2026-03-26",
+    "sources": ["https://betakit.com/midjourney-competitor-ideogram-closes-80-million-series-a-round-as-it-launches-latest-text-to-image-model/"]
+  }
+]

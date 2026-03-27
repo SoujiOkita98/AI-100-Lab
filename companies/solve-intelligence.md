@@ -19,6 +19,7 @@ founders:
 - name: Sanj Ahilan
   role: Co-Founder & Chief Research Officer
   background: PhD holder. Leads research and development at Solve Intelligence.
+  origin: British
 last_updated: 2026-03-23
 confidence: high
 one_liner: AI platform specialized for patents, used by 400+ IP teams across six continents for patent drafting, prosecution,

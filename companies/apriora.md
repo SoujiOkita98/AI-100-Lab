@@ -13,6 +13,7 @@ founders:
   role: Co-Founder
   background: Quant finance, Facebook AI
 - name: John Rytel
+  origin: American
   role: Co-Founder
 funding_rounds:
 - stage: Seed

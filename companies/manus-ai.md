@@ -33,17 +33,27 @@ website_verified: true
 crunchbase: https://www.crunchbase.com/organization/manus-ai
 crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/manus-im
-total_raised_m: 75
+total_raised_m: 85
 funding_rounds:
+- stage: Seed
+  date: 2022
+  lead_investors:
+  - ZhenFund
 - stage: Series A
+  date: 2023-01
+  amount_m: 10.0
+  lead_investors:
+  - Tencent
+  - HongShan (Sequoia China)
+- stage: Series B
   date: 2025-04
   amount_m: 75.0
   lead_investors:
   - Benchmark
-  source: https://www.crunchbase.com/organization/manus-ai
-data_notes: Acquired by Meta for ~$2.5-3B in December 2025.
+  source: https://sacra.com/c/manus/
+data_notes: 'Acquired by Meta in Dec 2025 for ~$2-2.5B. Source: https://www.cnbc.com/2025/12/30/meta-acquires-singapore-ai-agent-firm-manus-china-butterfly-effect-monicai.html'
 linkedin_verified: true
-status: active
+status: acquired
 confidence: high
 ---
 

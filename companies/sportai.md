@@ -10,6 +10,7 @@ founders:
 - name: Lauren Pedersen
   role: CEO
   background: Former NCAA tennis player
+  origin: New Zealander
 funding_rounds:
 - stage: Grant
   date: '2024'

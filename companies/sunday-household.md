@@ -7,6 +7,13 @@ sector: AI Robotics / Household
 one_liner: Household robot startup building Memo — a home robot. Beta launch planned 2026.
 status: active
 funding_rounds:
+- stage: Seed
+  date: 2025-11
+  amount_m: 35.0
+  lead_investors:
+  - Benchmark
+  - Conviction
+  source: https://theaiinsider.tech/2025/11/20/sunday-emerges-from-stealth-with-35m-for-household-robot-called-memo/
 - stage: Series B
   date: 2026-03
   amount_m: 165.0
@@ -25,7 +32,7 @@ founders:
   role: CTO & Co-Founder
   background: Stanford PhD roboticist.
   origin: Chinese-American
-total_raised_m: 165.0
+total_raised_m: 200.0
 linkedin: https://www.linkedin.com/company/sunday-household-robot/
 linkedin_verified: true
 latest_valuation_m: 1150.0

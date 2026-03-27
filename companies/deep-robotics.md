@@ -11,8 +11,9 @@ funding_rounds:
   amount_m: 70
   lead_investors:
   - CMB International
-  - China Asset Management
-  source: https://pandaily.com/deep-robotics-secures-over-usd-70-million-in-series-c-funding-to-advance-system-level-embodied-intelligence
+  - ChinaAMC
+  source: https://www.scmp.com/tech/tech-trends/article/3335806/chinas-deep-robotics-raises-us70-million-fresh-funds-sector-draws-more-investors
+  notes: The ~$70M is the Series C amount; total across all rounds is ~$140M
 founders:
 - name: Zhu Qiuguo
   role: CEO
@@ -31,7 +32,7 @@ website_verified: true
 crunchbase: https://www.crunchbase.com/organization/deep-robotics
 crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/deep-robotics
-total_raised_m: 70.0
+total_raised_m: 140.0
 linkedin_verified: true
 ---
 

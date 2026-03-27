@@ -10,17 +10,34 @@ sector:
 - consumer electronics
 one_liner: Chinese AI + AR glasses maker ranked
 logo: null
-total_raised_m: 140
+total_raised_m: 240
 latest_valuation_m: null
 funding_rounds:
+- stage: Early round
+  date: '2023-03'
+  amount_m: 14.5
+  lead_investors:
+  - Fosun Capital
+  source: https://www.marketscreener.com/quote/stock/DOCTORGLASSES-CHAIN-CO-LT-36818712/news/Leiniao-Innovation-announced-that-it-has-received-14-55-million-in-funding-from-Fosun-Capital-Zhej-43189624/
+- stage: Series B+/B++
+  date: '2024-09'
+  amount_m: 70
 - stage: Series C
-  date: 2025-06
-  amount_m: 110.0
+  date: '2025-11'
+  amount_m: 140
   lead_investors:
   - CITIC Jingshi
-  source: https://eu.36kr.com/en/p/3542786251992967
+  source: https://pandaily.com/thunderbird-innovation-secures-record-setting-funding-in-china-s-ai-ar-glasses-sector
   notes: Largest single-round financing in China's AI + AR glasses sector. Total Series C approaching 1 billion yuan (~$140M).
     Participants include CITIC Securities International Capital and CITIC Securities Investment.
+- stage: Series D
+  date: '2026-01'
+  amount_m: 143
+  lead_investors:
+  - China Mobile Capital
+  - CITIC Goldstone
+  - China Unicom
+  source: https://www.caixinglobal.com/2026-01-06/chinas-telecom-giants-back-smart-glasses-maker-rayneo-in-143-million-funding-round-102400654.html
 founders:
 - name: Li Hongwei
   role: CEO & Founder

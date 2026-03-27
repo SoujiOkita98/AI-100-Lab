@@ -16,6 +16,7 @@ founders:
 - name: Sami Shalabi
   role: Co-Founder & CTO
   background: Former Google engineer. Technical expertise in AI systems and enterprise infrastructure.
+  origin: Arab-American
 - name: Eugene Mann
   origin: American
   role: Co-Founder & CPO

@@ -15,9 +15,11 @@ founders:
 - name: Elliot Marx
   role: Co-Founder
   background: Technical co-founder with infrastructure expertise.
+  origin: American
 - name: Andrew Moreland
   role: Co-Founder
   background: Technical co-founder.
+  origin: American
 last_updated: 2026-03-23
 confidence: high
 one_liner: Real-time data platform for AI inference that provides the infrastructure needed to operationalize machine learning

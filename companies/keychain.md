@@ -20,6 +20,7 @@ founders:
   role: Co-Founder
 - name: Jordan Weitz
   role: Co-Founder
+  origin: American
 one_liner: AI-powered operating system for CPG manufacturing, connecting retailers with manufacturers to streamline private-label
   product development and supply chain
 funding_rounds:

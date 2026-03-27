@@ -11,12 +11,15 @@ founders:
 - name: Ben Lerner
   role: Co-Founder & CEO
   background: Technical founder with expertise in cloud infrastructure and optimization.
+  origin: American
 - name: Juri Ganitkevitch
   role: Co-Founder
   background: Technical co-founder with ML and NLP expertise.
+  origin: German
 - name: Alex Kouzemtchenko
   role: Co-Founder
   background: Technical co-founder.
+  origin: Russian-Australian
 - name: Nima Badizadegan
   origin: Iranian-American
   role: Co-Founder

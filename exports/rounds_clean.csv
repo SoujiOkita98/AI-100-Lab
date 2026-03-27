@@ -232,7 +232,12 @@ axiom-math,Seed,2025-06,50.0,300.0,Spark Capital,,https://techstartups.com/2025/
 axiom-math,Seed (extension),2025-10,14.0,,Greycroft,,https://siliconangle.com/2025/10/02/ai-startup-axiom-gets-64m-develop-new-knowledge-advanced-mathematics/,Brought total seed to $64M. Axiom's deterministic AI achieved a perfect score on the Putnam Competition in December 2025.
 axiom-math,Series A,2026-03,200.0,1600.0,Menlo Ventures,,https://siliconangle.com/2026/03/12/verifiable-ai-startup-axiom-raises-200m-prove-ai-generated-code-safe-use/,"Joined by Madrona, Greycroft, B Capital and Toyota Ventures."
 axiomatic-ai,Seed,2026-03,18.0,,Engine Ventures,,https://www.businesswire.com/news/home/20260309009285/en/Axiomatic-AI-Raises-$18M-to-Build-the-Intelligence-Infrastructure-for-Verified-Science-Engineering,"Total funding now $25M. Kleiner Perkins, Big Sur Ventures, Global Vision Capital, Propagator Ventures, and Liquid 2 also participated."
-ayar-labs,Series C,2022,130.0,,,,https://ayarlabs.com/news/ayar-labs-raises-130-million-in-series-c-funding/,
+ayar-labs,Seed,2016-01,,,,,,
+ayar-labs,Series A,2020-03,,,Lockheed Martin,,,
+ayar-labs,Series B,2020-11,35.0,,Downing Ventures; BlueSky Capital,,https://siliconcatalyst.com/ayar-labs-secures-35-million-in-series-b-funding,
+ayar-labs,Series C,2022-04,130.0,,HPE; NVIDIA,,https://ayarlabs.com/news/ayar-labs-raises-130-million-in-series-c-funding/,
+ayar-labs,Series D,2024-12,155.0,,Advent Global Opportunities; Light Street Capital,,https://ayarlabs.com/news/ayar-labs-155m-series-d-to-address-ai-infrastructure-includes-amd-intel-capital-nvidia/,
+ayar-labs,Series E,2026-03,500.0,,Neuberger Berman,,https://ayarlabs.com/news/ayar-labs-closes-500m-series-e-accelerates-volume-production-of-co-packaged-optics/,
 aydi,Seed,2025-09,7.5,,COTU Ventures,,https://www.wamda.com/2025/09/aydi-raises-7-5-million-seed-launch-ai-agronomy-assistant,
 backflip-ai,Series A,2024-12,30.0,,Andreessen Horowitz; NEA,,https://techcrunch.com/2024/12/19/backed-by-a16z-and-nea-backflip-raises-30m-series-a-to-turn-text-into-ai-generated-designs/,
 baichuan-intelligence,Angel,2023-04,50.0,,Undisclosed,,https://tracxn.com/d/companies/baichuan/,
@@ -335,6 +340,7 @@ cartesia,Series A,2025-03,64.0,,Kleiner Perkins,,https://www.crunchbase.com/orga
 casca,Seed,2023-08,4.0,,Y Combinator,,https://www.ycombinator.com/companies/casca,Y Combinator S23 batch. Additional early investors participated. Amount approximate.
 casca,Series A,2025-08,29.0,,Canapi Ventures,,https://www.prnewswire.com/news-releases/ai-native-loan-origination-platform-casca-raises-29-million-to-replace-legacy-lending-302533000.html,"Participation from major bank customers including Live Oak Bank, Huntington National Bank, and Bankwell, plus Y Combinator and Peterson Ventures. Bank customers investing in the company signals strong product-market fit."
 cascade-ai,Pre-Seed / YC,2026-01,0.5,,Y Combinator,,https://www.ycombinator.com/companies/cascade,
+cast-ai,Series C,2025-05,108.0,,Undisclosed,,https://techfundingnews.com/the-next-lithuanian-unicorn-cast-ai-grabs-108m-at-850m-valuation/,
 castari,Pre-Seed / YC,2026-01,0.5,,Y Combinator,,https://www.ycombinator.com/companies/castari,
 catena-labs,Seed,2025-05,18.0,,a16z crypto,,https://www.businesswire.com/news/home/20250520361792/en/Circle-Co-Founder-Sean-Neville-Takes-Catena-Labs-Out-of-Stealth-with-Plans-to-Build-the-First-AI-Native-Financial-Institution,"Emerged from stealth May 2025. Participation from Breyer Capital, Circle Ventures, Coinbase Ventures, CoinFund, Pillar VC, Stanford Engineering VF. Angels include Tom Brady, Bradley Horowitz, Hamel Husain, Kevin Lin, Sam Palmisano, Balaji Srinivasan."
 cavela,Pre-Seed,2024-09,2.0,,,,,
@@ -528,7 +534,7 @@ decagon,Series D,2026-01,250.0,4500.0,Coatue Management; Index Ventures,,https:/
 decart,Seed / Series A,2024-12,32.0,,Sequoia Capital; Benchmark,,https://techcrunch.com/2024/12/19/decart-adds-another-32m-at-a-500m-valuation/,
 decart,Series B,2025-08,100.0,,Sequoia Capital; Benchmark; Aleph VC,,https://fortune.com/2025/08/07/exclusive-decart-raises-100-million-at-a-3-1-billion-valuation-chasing-the-future-of-real-time-creative-ai/,
 dedalus-labs,Seed,2025-09,2.0,,Y Combinator,,,
-deep-robotics,Series C,2025-12,70.0,,CMB International; China Asset Management,,https://pandaily.com/deep-robotics-secures-over-usd-70-million-in-series-c-funding-to-advance-system-level-embodied-intelligence,
+deep-robotics,Series C,2025-12,70.0,,CMB International; ChinaAMC,,https://www.scmp.com/tech/tech-trends/article/3335806/chinas-deep-robotics-raises-us70-million-fresh-funds-sector-draws-more-investors,The ~$70M is the Series C amount; total across all rounds is ~$140M
 deepaware-ai,Seed,2025-09,2.0,,Y Combinator,,,
 deepbrain-ai,Series B,2021-08,44.0,,Korea Development Bank,,https://venturebeat.com/ai/deepbrain-boosts-ai-powered-virtual-avatars-with-44m-raise/,
 deepgram,Seed,2016-03,,,Y Combinator,,https://www.crunchbase.com/organization/deepgram,Amount undisclosed.
@@ -559,7 +565,9 @@ diesel-labs,Seed,2018-02,0.9,,Excelestar Ventures,,https://www.crunchbase.com/or
 diesel-labs,Grant,,0.2,,National Science Foundation,,https://tracxn.com/d/companies/diesellabs,
 dify,Series Pre-A,2026-03,30.0,,HSG,,https://www.businesswire.com/news/home/20260309511426/en/Dify-Raises-$30-million-Series-Pre-A-to-Power-Enterprise-Grade-Agentic-Workflows,
 diligencesquared,Seed,2025-12,5.0,,Relentless; Y Combinator,,https://techcrunch.com/2026/03/05/diligencesquared-uses-ai-voice-agents/,
-distyl-ai,Seed,2025-09,175.0,,Khosla Ventures; Lightspeed,,https://www.prnewswire.com/news-releases/distyl-ai-raises-175-million-at-1-8-billion-valuation-to-help-global-enterprises-become-ai-native-302564270.html,
+distyl-ai,Seed,2023-04,7.0,,Coatue; Dell Technologies Capital,,https://www.finsmes.com/2023/04/distyl-ai-raises-7m-in-seed-funding.html,
+distyl-ai,Series A,2024-11,20.0,,Lightspeed Venture Partners,,,
+distyl-ai,Series B,2025-09,175.0,,Khosla Ventures; Lightspeed,,https://www.prnewswire.com/news-releases/distyl-ai-raises-175-million-at-1-8-billion-valuation-to-help-global-enterprises-become-ai-native-302564270.html,
 ditto-ai-dating,Seed,2026-02,9.2,,Peak XV Partners; Gradient,,https://www.globenewswire.com/news-release/2026/02/03/3231154/0/en/Ditto-raises-9-2M-to-replace-swiping-with-real-dates-for-college-students.html,
 doctronic,Series A,2025-06,20.0,,Union Square Ventures,,https://www.finsmes.com/2026/03/doctronic-raises-40m-in-series-b-funding.html,
 doctronic,Series B,2026-03,40.0,,Abstract; Lightspeed Venture Partners,,https://www.statnews.com/2026/03/23/ai-doctor-startup-doctronic-raises-40-million/,"Participation from Seven Stars, Union Square Ventures, Tusk Ventures, and Mantis. Three rounds in under a year."
@@ -605,7 +613,9 @@ emerald-ai,Seed,2025,24.5,,Radical Ventures,,https://news.crunchbase.com/venture
 emergent,Seed,2025-07,7.0,,Y Combinator; Together Fund,,https://techcrunch.com/2025/09/24/emergent-raises-23m/,
 emergent,Series A,2025-09,23.0,100.0,Lightspeed Venture Partners,,https://techcrunch.com/2025/09/24/emergent-raises-23m/,
 emergent,Series B,2026-01,70.0,300.0,Khosla Ventures; SoftBank Vision Fund 2,,https://www.businesswire.com/news/home/20260120852493/en/,
-encharge-ai,Series B,2025-02,100.0,,NEA,,https://techcrunch.com/2025/02/13/encharge-raises-100m-to-accelerate-ai-using-analog-chips/,
+encharge-ai,Seed,2022-12,,,Anzu Partners,,,
+encharge-ai,Series A,2023-12,22.6,,VentureTech Alliance (TSMC); RTX Ventures,,https://techcrunch.com/2023/12/05/encharge-raises-22-6m-to-commercialize-its-ai-accerating-chips/,
+encharge-ai,Series B,2025-02,100.0,,Tiger Global,Samsung Ventures; Foxconn (HH-CTBC); In-Q-Tel,https://techcrunch.com/2025/02/13/encharge-raises-100m-to-accelerate-ai-using-analog-chips/,
 encord,Series C,2025-12,60.0,550.0,,,https://techfundingnews.com/encord-scale-ai-rival-60m-physical-ai-data/,
 endra,Seed,2025-12,20.0,,Notion Capital; Norrsken VC,,https://fortune.com/2025/12/18/endra-ai-startup-automating-mep-design-sweden/,
 enflame-technology,Seed,2018-04,1.3,,Delta Capital; Yunhe Capital,,https://equalocean.com/analysis/201812171163,
@@ -734,6 +744,8 @@ furtherai,Seed,2024,5.0,,Y Combinator,,https://www.ycombinator.com/companies/fur
 furtherai,Series A,2025,25.0,,Andreessen Horowitz,,https://www.furtherai.com/blog/%20furtherai-announces-25m-series-a-from-andreessen-horowitz-to-transform-insurance-workflows-with-ai-automating-busywork,
 fyxer-ai,Series A,2025-03,10.0,,20VC,,https://www.finsmes.com/2025/03/fyxer-ai-raises-10m-in-funding.html,
 fyxer-ai,Series B,2025-09,30.0,,Madrona,,https://www.fyxer.com/blog/series-b-statement,
+g42,Strategic investment,2024-04,1500.0,,Microsoft,,https://en.wikipedia.org/wiki/G42_(company),
+g42,Strategic investment,2021,800.0,,Silver Lake,,https://en.wikipedia.org/wiki/G42_(company),
 galaxea-ai,Series B,2026-02,144.0,,Undisclosed,,https://www.caixinglobal.com/2026-02-12/galaxea-ai-raises-144-million-as-chinas-robot-investment-frenzy-mounts-102413767.html,
 galbot,Angel,2023,97.0,,,,https://www.therobotreport.com/galbot-picks-up-153m-commercialize-g1-semi-humanoid/,
 galbot,Series A,2025-06,153.0,1000.0,CATL / Puquan Capital; Beijing Robotics Industry Fund,,https://technode.com/2025/06/25/galbot/,
@@ -901,6 +913,8 @@ hyperbound,Seed,2023-09,2.5,,Y Combinator; Fellows Fund,,https://www.crunchbase.
 hyperbound,Series A,2025-09,15.0,,Peak XV Partners,,https://www.hyperbound.ai/blog/series-a,
 hyprnote,Seed,2025-09,2.0,,Y Combinator,,,
 iconic-gaming,Seed,2025-12,13.0,,Kindred; Northzone; Google AI Futures Fund,,,
+ideogram,Seed,2023-08,16.5,,a16z; Index Ventures,,https://betakit.com/midjourney-competitor-ideogram-closes-80-million-series-a-round-as-it-launches-latest-text-to-image-model/,
+ideogram,Series A,2024-02,80.0,,a16z; Index Ventures,,https://betakit.com/midjourney-competitor-ideogram-closes-80-million-series-a-round-as-it-launches-latest-text-to-image-model/,
 iedugpt,Seed,2025-09,10.0,,New Wheel Capital,,,
 imbue,Series A,2022-10,20.0,,Astera Institute,,https://tracxn.com/d/companies/imbue/,
 imbue,Series B,2023-09,200.0,1000.0,Astera Institute,,https://techcrunch.com/2023/09/07/imbue-raises-200m/,
@@ -982,6 +996,7 @@ knowunity,Series A,2022-05,11.0,,Undisclosed,,https://www.crunchbase.com/organiz
 knowunity,Series B,2025-06,30.0,,XAnge,,https://www.crunchbase.com/organization/knowunity,
 kodezi,Seed,2022,0.8,,RTP Global; Watertower Ventures,,https://www.crunchbase.com/organization/kodezi,
 kodezi,Additional Funding,2025-05,1.2,,Undisclosed,,https://www.crunchbase.com/organization/kodezi,
+kore-ai,Series D,2024-01,150.0,,Undisclosed,,https://www.fintechfutures.com/venture-capital-funding/conversational-ai-platform-kore-ai-raises-150m-funding-to-fuel-growth,
 krea-ai,Pre-Seed/Seed,2023,3.0,,Abstract Ventures,,https://www.crunchbase.com/organization/krea-ae93,
 krea-ai,Series A,2024,33.0,,Andreessen Horowitz,,https://www.crunchbase.com/organization/krea-ae93,
 krea-ai,Series B,2025-04,47.0,,Bain Capital Ventures,,https://techcrunch.com/2025/04/07/kreas-founders-snubbed-postgrad-grants-from-the-king-of-spain-to-build-their-ai-startup-now-its-valued-at-500m/,
@@ -1011,7 +1026,10 @@ legion-ai,Seed,2025,38.0,,PayPal Ventures; M13,,https://siliconangle.com/2025/07
 legora,Series B,2025-05,80.0,,ICONIQ; General Catalyst,,https://www.businesswire.com/news/home/20250521743643/en/Legora-Attracts-$80-Million-Series-B-Funding-as-Top-Global-Law-Firms-and-Legal-Teams-Rush-to-Adopt-Its-Collaborative-AI,
 legora,Series C,2025-10,150.0,1800.0,Bessemer,,https://www.businesswire.com/news/home/20251030974157/en/Legora-Raises-$150-Million-Series-C-to-Accelerate-Global-Rollout-of-Its-AI-Platform-for-Legal-Professionals,
 legora,Series D,2026-03,550.0,5550.0,Accel,,https://news.crunchbase.com/venture/unicorn-legal-tech-ai-startup-legora-triples-valuation/,
-leiniao-innovation,Series C,2025-06,110.0,,CITIC Jingshi,,https://eu.36kr.com/en/p/3542786251992967,Largest single-round financing in China's AI + AR glasses sector. Total Series C approaching 1 billion yuan (~$140M). Participants include CITIC Securities International Capital and CITIC Securities Investment.
+leiniao-innovation,Early round,2023-03,14.5,,Fosun Capital,,https://www.marketscreener.com/quote/stock/DOCTORGLASSES-CHAIN-CO-LT-36818712/news/Leiniao-Innovation-announced-that-it-has-received-14-55-million-in-funding-from-Fosun-Capital-Zhej-43189624/,
+leiniao-innovation,Series B+/B++,2024-09,70.0,,,,,
+leiniao-innovation,Series C,2025-11,140.0,,CITIC Jingshi,,https://pandaily.com/thunderbird-innovation-secures-record-setting-funding-in-china-s-ai-ar-glasses-sector,Largest single-round financing in China's AI + AR glasses sector. Total Series C approaching 1 billion yuan (~$140M). Participants include CITIC Securities International Capital and CITIC Securities Investment.
+leiniao-innovation,Series D,2026-01,143.0,,China Mobile Capital; CITIC Goldstone; China Unicom,,https://www.caixinglobal.com/2026-01-06/chinas-telecom-giants-back-smart-glasses-maker-rayneo-in-143-million-funding-round-102400654.html,
 leo-ai,Seed,2025-09,9.7,,Flint Capital,,,
 lepton-ai,Angel,2023,11.0,,Undisclosed,,https://www.crunchbase.com/organization/lepton-ai,
 leta-logistics,Seed,2025-03,5.0,,Speedinvest; Google Africa Investment Fund,,,
@@ -1033,7 +1051,9 @@ lila-sciences,Series A (Second Close),2025-10,115.0,,NVentures (Nvidia); In-Q-Te
 limbic,Seed,2018-01,0.7,,7percent Ventures; AI Seed,,https://www.crunchbase.com/organization/limbic-aa9e,
 limbic,Series A,2024-03,14.0,,Khosla Ventures,,,
 liminal-experiences,Seed,2025-03,5.8,,BITKRAFT Ventures; Riot Games,,https://www.businesswire.com/news/home/20250311632975/en/Liminal-Raises-$5.8M-in-Seed-Funding-Backed-by-BITKRAFT-Riot-Games-and-OTK-Media-Group,
-limx-dynamics,Series,2025,69.0,,Alibaba; JD.com,,https://kr-asia.com/limx-dynamics-raises-series-b-funding-to-push-embodied-robots-into-real-world-use,
+limx-dynamics,Angel & Pre-A,2023-10,29.0,,FreesFund; Future Capital; Vitalbridge Capital,,,
+limx-dynamics,Series A & A+,2025,72.0,,Alibaba Group; China Merchants Venture,,https://kr-asia.com/limx-dynamics-raises-series-b-funding-to-push-embodied-robots-into-real-world-use,
+limx-dynamics,Series B,2026-02,200.0,,JD.com; Stone Venture (UAE),,https://www.therobotreport.com/limx-dynamics-raises-200m-for-humanoid-robot-expansion/,
 limy,Seed,2026-01,10.0,,Flybridge; a16z speedrun,,https://alleywatch.com/2026/01/limy-agentic-web-infrastructure/,
 lio,Series A,2026-03,30.0,,Andreessen Horowitz,,https://techcrunch.com/2026/03/05/lio-ai-series-a-a16z-30m-raise-automate-enterprise-procurement/,
 liquid-ai,Seed,2023-12,37.5,303.0,OSS Capital; PagsGroup; Samsung Next,,https://siliconangle.com/2023/12/06/liquid-ai-raises-37-6m/,
@@ -1088,7 +1108,9 @@ mako,Seed,2025-08,8.5,,M13; Neo; Flybridge,,,
 mal-bank,Seed,2026-01,230.0,,BlueFive Capital,,https://www.zawya.com/en/press-release/companies-news/mal-closes-record-230m-seed-round-l4vpuic6,
 manas-ai,Seed,2025,24.6,,OpenAI,,https://ustechtimes.com/openai-just-bet-130m-on-this-6-month-old-drug-company/,
 mandolin-ai,Seed + Series A,2025-06,40.0,,Greylock; SignalFire,,https://www.businesswire.com/news/home/20250625104094/en/,
-manus-ai,Series A,2025-04,75.0,,Benchmark,,https://www.crunchbase.com/organization/manus-ai,
+manus-ai,Seed,2022,,,ZhenFund,,,
+manus-ai,Series A,2023-01,10.0,,Tencent; HongShan (Sequoia China),,,
+manus-ai,Series B,2025-04,75.0,,Benchmark,,https://sacra.com/c/manus/,
 marqvision,Seed,2021,2.0,,Y Combinator,,https://www.crunchbase.com/organization/marq,
 marqvision,Series A,2022-08,20.0,,DST Global Partners; Atinum Investments,,https://www.marqvision.com/news/marqvision-raises-20-million-series-a-for-first-of-its-kind-operating-system-for-intellectual-property,
 marqvision,Series A Extension,2024-10,16.5,,Various,,https://www.kedglobal.com/artificial-intelligence/newsView/ked202410040014,
@@ -1432,6 +1454,7 @@ qodo,Series A,2024-09,40.0,,Susa Ventures; Square Peg,,https://www.crunchbase.co
 quilter,Series A,2024,10.0,,Benchmark; Coatue,,,
 quilter,Series B,2025-10,25.0,,Index Ventures,,,
 quiverai,Seed,2026-01,8.3,,Andreessen Horowitz,,https://a16z.com/announcement/investing-in-quiverai/,
+qure-ai,Series D,2024-09,65.0,,Undisclosed,,https://tracxn.com/d/companies/qure.ai/__QfqJ14wDyhMbUvOibApm4cgaquEx22FBbT11aIuIIFc,
 rad-ai,Seed,2019,,,Gradient Ventures (Google); OCV Partners; Kickstart Fund,,https://tracxn.com/d/companies/radai/,Amount undisclosed.
 rad-ai,Series A,2021-11,25.0,,ARTIS Ventures,,https://www.radai.com/news/rad-ai-closes-25-million-series-a-to-transform-radiology-workflow-by-harnessing-the-power-of-artificial-intelligence,"OCV Partners, Kickstart Fund, Gradient Ventures also participated."
 rad-ai,Series B,2024-05,50.0,,Khosla Ventures,,https://www.radai.com/news/rad-ai-closes-50-million-to-empower-physicians-with-ai,"WiL, ARTIS Ventures, OCV Partners, Gradient Ventures also participated. Total over $80M at this point."
@@ -1705,6 +1728,7 @@ studio-atelico,Seed,2025-08,5.0,,Air Street Capital,,https://press.airstreet.com
 subsense,Seed,2025-02,17.0,,Golden Falcon Capital,,https://www.businesswire.com/news/home/20250218878648/en/Subsense-Emerges-from-Stealth-with-$17M-in-Seed-Funding-for-a-Non-Surgical-Brain-Computer-Interface,
 sumble,Seed,2023,8.5,,Coatue Management,,https://techcrunch.com/2025/10/22/sumble-emerges-from-stealth-with-38-5m-to-bring-ai-powered-context-to-sales-intelligence/,
 sumble,Series A,2025-10,30.0,,Canaan Partners,,https://techcrunch.com/2025/10/22/sumble-emerges-from-stealth-with-38-5m-to-bring-ai-powered-context-to-sales-intelligence/,
+sunday-household,Seed,2025-11,35.0,,Benchmark; Conviction,,https://theaiinsider.tech/2025/11/20/sunday-emerges-from-stealth-with-35m-for-household-robot-called-memo/,
 sunday-household,Series B,2026-03,165.0,1150.0,Coatue,,https://techcrunch.com/2026/03/12/humanoid-robotics-maker-sunday-reaches-1-15b-valuation-to-build-household-robots/,
 sunday-robotics,Seed / Series A (emerged from stealth),November 2025,35.0,,Benchmark; Conviction,,https://theaiinsider.tech/2025/11/20/sunday-emerges-from-stealth-with-35m-for-household-robot-called-memo/,
 sunday-robotics,Series B,"March 12, 2026",165.0,1150.0,Coatue (Thomas Laffont joined board),Bain Capital Ventures; Fidelity Management & Research Company; Tiger Global; Benchmark (follow-on); Conviction (follow-on); Xtal Ventures,https://techcrunch.com/2026/03/12/humanoid-robotics-maker-sunday-reaches-1-15b-valuation-to-build-household-robots/,

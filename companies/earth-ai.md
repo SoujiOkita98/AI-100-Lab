@@ -21,6 +21,7 @@ founders:
   origin: Ukrainian
 - name: Igor Gerechko
   role: Co-Founder
+  origin: Ukrainian
 last_updated: 2026-03-21
 confidence: medium
 crunchbase: https://www.crunchbase.com/organization/earth-ai

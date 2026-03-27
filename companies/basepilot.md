@@ -13,6 +13,7 @@ founders:
   role: Co-Founder
   background: Carnegie Mellon robotics, Mercedes-Benz Research
 - name: Ken Hendricks
+  origin: Indian-New Zealander
   role: Co-Founder
   background: Led fintech product to 3M users
 funding_rounds:

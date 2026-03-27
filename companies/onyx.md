@@ -16,6 +16,7 @@ founders:
 - name: Chris Weaver
   role: Co-Founder
   background: Co-founder focused on product and enterprise go-to-market.
+  origin: American
 last_updated: 2026-03-24
 confidence: high
 one_liner: Open-source AI research agent for the workplace that searches across 40+ enterprise tools like a human would, iteratively exploring parallel pathways to find the most complete answers

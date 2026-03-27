@@ -14,6 +14,7 @@ founders:
   origin: German
 - name: Mavarick H
   role: Co-founder
+  origin: Chinese
 - name: Sugeeth Gopinathan
   role: Co-founder
   origin: Indian

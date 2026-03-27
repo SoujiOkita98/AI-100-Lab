@@ -11,12 +11,15 @@ founders:
 - name: Alex Halliday
   role: Co-Founder & CEO
   background: Led AirOps from inception; background in technology and marketing operations.
+  origin: British
 - name: Berna Gonzalez
   role: Co-Founder
   background: Co-founded AirOps alongside Halliday and Hammel.
+  origin: Uruguayan
 - name: Matt Hammel
   role: Co-Founder
   background: Co-founded AirOps; operational and technical expertise.
+  origin: American
 last_updated: 2026-03-23
 confidence: high
 one_liner: AI-powered content engineering platform helping marketing teams grow brand visibility and win in AI search through
