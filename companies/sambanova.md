@@ -34,7 +34,33 @@ total_raised_m: 1490.0
 name: SambaNova Systems
 linkedin_verified: true
 status: active
-funding_rounds: []
+funding_rounds:
+- stage: Series A
+  date: 2018-03
+  amount_m: 56.0
+  lead_investors:
+  - Walden International
+  - GV
+- stage: Series B
+  date: 2019-04
+  amount_m: 150.0
+  lead_investors:
+  - Intel Capital
+- stage: Series C
+  date: 2020-02
+  amount_m: 250.0
+  lead_investors:
+  - BlackRock
+- stage: Series D
+  date: 2021-04
+  amount_m: 676.0
+  lead_investors:
+  - SoftBank Vision Fund 2
+- stage: Series E
+  date: 2026-02
+  amount_m: 350.0
+  lead_investors:
+  - Vista Equity Partners
 confidence: medium
 ---
 

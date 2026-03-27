@@ -24,8 +24,9 @@ funding_rounds:
   - Tiger Global
   other_investors:
   - Samsung Ventures
-  - Foxconn (HH-CTBC)
+  - HH-CTBC (Foxconn)
   - In-Q-Tel
+  - RTX Ventures
   source: https://techcrunch.com/2025/02/13/encharge-raises-100m-to-accelerate-ai-using-analog-chips/
 founders:
 - name: Naveen Verma

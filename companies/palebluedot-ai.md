@@ -1,13 +1,20 @@
 ---
 name: PaleBlueDot AI
 founded: 2024
-sector: AI Climate / Earth Observation
-one_liner: AI for climate and earth observation data analysis.
+sector: AI compute infrastructure / neocloud
+one_liner: AI compute infrastructure and neocloud provider.
 status: active
 funding_rounds:
+- stage: Series A
+  date: '2025'
+  amount_m: 10.0
+  lead_investors:
+  - Family offices
 - stage: Series B
   date: 2026-01
   amount_m: 150.0
+  lead_investors:
+  - B Capital
   source: https://www.prnewswire.com/news-releases/palebluedot-ai-raises-150m-series-b-to-scale-global-ai-compute-infrastructure-302672782.html
 last_updated: 2026-03-21
 confidence: medium
@@ -17,7 +24,7 @@ website_verified: true
 headquarters: Palo Alto, CA
 crunchbase: https://www.crunchbase.com/organization/palebluedot-ai
 crunchbase_verified: true
-total_raised_m: 150.0
+total_raised_m: 160.0
 founders:
 - name: Jonathan Zhu
   role: Co-Founder
@@ -34,4 +41,4 @@ linkedin_verified: true
 
 # PaleBlueDot AI
 
-AI for climate and earth observation data analysis.
+AI compute infrastructure and neocloud provider.

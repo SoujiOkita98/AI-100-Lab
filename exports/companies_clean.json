@@ -5237,53 +5237,6 @@
     "top_investors": []
   },
   {
-    "slug": "arena",
-    "name": "Arena",
-    "status": "Unicorn",
-    "founded_year": "2023",
-    "hq": "San Francisco Bay Area, CA (originated from UC Berkeley)",
-    "website": "https://arena.ai",
-    "sector": "AI evaluation; LLM benchmarking; crowdsourced evaluation; model leaderboards; enterprise AI",
-    "one_liner": "Arena (formerly LMArena, originally Chatbot Arena) is a community-powered AI model evaluation platform",
-    "total_raised_m": 250.0,
-    "latest_valuation_m": null,
-    "employees": "11-50 (estimated early 2026)",
-    "revenue_signals": null,
-    "business_model": null,
-    "key_customers": null,
-    "team_china_profile": null,
-    "confidence": "medium",
-    "last_updated": "2026-03-20",
-    "founders": [
-      {
-        "company_slug": "arena",
-        "name": "Anastasios Nikolas Angelopoulos",
-        "role": "CEO",
-        "background": "PhD EECS UC Berkeley (advised by Michael I. Jordan and Jitendra Malik). Postdoc at UC Berkeley with Ion Stoica. Research focus on trustworthy AI, conformal prediction, and reliable ML. Co-created Chatbot Arena as PhD side project in 2023.",
-        "origin": "Greek-American",
-        "prior": ""
-      },
-      {
-        "company_slug": "arena",
-        "name": "Wei-Lin Chiang",
-        "role": "CTO",
-        "background": "BS & MS National Taiwan University, PhD candidate EECS UC Berkeley (SkyLab, advised by Ion Stoica). Research internships at Google, Amazon, Alibaba, Microsoft. Co-created Chatbot Arena as PhD side project in 2023.",
-        "origin": "Taiwanese-American",
-        "prior": ""
-      },
-      {
-        "company_slug": "arena",
-        "name": "Ion Stoica",
-        "role": "Co-founder & Advisor",
-        "background": "MS EE/CS Polytechnic University of Bucharest, PhD ECE Carnegie Mellon. Professor of CS at UC Berkeley (Xu Bao Chancellor's Chair). Co-founded Databricks, Conviva, and Anyscale.",
-        "origin": "Romanian-American",
-        "prior": ""
-      }
-    ],
-    "funding_rounds": [],
-    "top_investors": []
-  },
-  {
     "slug": "arize-ai",
     "name": "Arize AI",
     "status": "Private",
@@ -18818,7 +18771,7 @@
         "amount_m": 100.0,
         "valuation_m": null,
         "lead_investors": "Tiger Global",
-        "other_investors": "Samsung Ventures; Foxconn (HH-CTBC); In-Q-Tel",
+        "other_investors": "Samsung Ventures; HH-CTBC (Foxconn); In-Q-Tel; RTX Ventures",
         "source": "https://techcrunch.com/2025/02/13/encharge-raises-100m-to-accelerate-ai-using-analog-chips/",
         "notes": ""
       }
@@ -20196,7 +20149,7 @@
     "website": "https://www.eve.legal",
     "sector": "AI Legal / Evidence Review",
     "one_liner": "Legal AI automating evidence review for plaintiff firms.",
-    "total_raised_m": 103.0,
+    "total_raised_m": 164.0,
     "latest_valuation_m": null,
     "employees": null,
     "revenue_signals": null,
@@ -20224,7 +20177,7 @@
       },
       {
         "company_slug": "eve-legal",
-        "name": "David",
+        "name": "David Zeng",
         "role": "Co-Founder & Head of Engineering",
         "background": "10+ years in AI and machine learning.",
         "origin": "Chinese-American",
@@ -20234,12 +20187,34 @@
     "funding_rounds": [
       {
         "company_slug": "eve-legal",
+        "stage": "Seed",
+        "date": "2023-10",
+        "amount_m": 14.0,
+        "valuation_m": null,
+        "lead_investors": "Lightspeed Venture Partners; Menlo Ventures",
+        "other_investors": "",
+        "source": "https://siliconangle.com/2023/10/25/eve-raises-14m-launch-personalized-legal-ai-assistant/",
+        "notes": ""
+      },
+      {
+        "company_slug": "eve-legal",
+        "stage": "Series A",
+        "date": "2025-01",
+        "amount_m": 47.0,
+        "valuation_m": null,
+        "lead_investors": "Andreessen Horowitz",
+        "other_investors": "",
+        "source": "https://www.prnewswire.com/news-releases/eve-secures-47-million-to-fuel-era-of-ai-native-law-firms-302353165.html",
+        "notes": ""
+      },
+      {
+        "company_slug": "eve-legal",
         "stage": "Series B",
         "date": "2025",
         "amount_m": 103.0,
         "valuation_m": null,
-        "lead_investors": "Coatue; Andreessen Horowitz",
-        "other_investors": "",
+        "lead_investors": "Spark Capital",
+        "other_investors": "Andreessen Horowitz; Lightspeed Venture Partners; Menlo Ventures",
         "source": "https://www.prnewswire.com/news-releases/eve-raises-103-million-at-1-billion-valuation-to-help-plaintiff-firms-deliver-justice-through-ai-transformation-302570807.html",
         "notes": ""
       }
@@ -37810,7 +37785,7 @@
         "company_slug": "moveworks",
         "name": "Jiang Chen",
         "role": "Co-Founder & CTO of AI",
-        "background": "",
+        "background": "BS Computer Science, Tsinghua University. PhD Computer Science, Yale University (2006). Former Google Staff Engineer (2009-2015), Airbnb Tech Lead. Co-founded Moveworks in 2016.",
         "origin": "Chinese",
         "prior": ""
       }
@@ -42545,9 +42520,9 @@
     "founded_year": "2024",
     "hq": "Palo Alto, CA",
     "website": "https://palebluedot.ai",
-    "sector": "AI Climate / Earth Observation",
-    "one_liner": "AI for climate and earth observation data analysis.",
-    "total_raised_m": 150.0,
+    "sector": "AI compute infrastructure / neocloud",
+    "one_liner": "AI compute infrastructure and neocloud provider.",
+    "total_raised_m": 160.0,
     "latest_valuation_m": null,
     "employees": null,
     "revenue_signals": null,
@@ -42577,11 +42552,22 @@
     "funding_rounds": [
       {
         "company_slug": "palebluedot-ai",
+        "stage": "Series A",
+        "date": "2025",
+        "amount_m": 10.0,
+        "valuation_m": null,
+        "lead_investors": "Family offices",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
+      },
+      {
+        "company_slug": "palebluedot-ai",
         "stage": "Series B",
         "date": "2026-01",
         "amount_m": 150.0,
         "valuation_m": null,
-        "lead_investors": "",
+        "lead_investors": "B Capital",
         "other_investors": "",
         "source": "https://www.prnewswire.com/news-releases/palebluedot-ai-raises-150m-series-b-to-scale-global-ai-compute-infrastructure-302672782.html",
         "notes": ""
@@ -49158,7 +49144,63 @@
         "prior": ""
       }
     ],
-    "funding_rounds": [],
+    "funding_rounds": [
+      {
+        "company_slug": "sambanova",
+        "stage": "Series A",
+        "date": "2018-03",
+        "amount_m": 56.0,
+        "valuation_m": null,
+        "lead_investors": "Walden International; GV",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
+      },
+      {
+        "company_slug": "sambanova",
+        "stage": "Series B",
+        "date": "2019-04",
+        "amount_m": 150.0,
+        "valuation_m": null,
+        "lead_investors": "Intel Capital",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
+      },
+      {
+        "company_slug": "sambanova",
+        "stage": "Series C",
+        "date": "2020-02",
+        "amount_m": 250.0,
+        "valuation_m": null,
+        "lead_investors": "BlackRock",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
+      },
+      {
+        "company_slug": "sambanova",
+        "stage": "Series D",
+        "date": "2021-04",
+        "amount_m": 676.0,
+        "valuation_m": null,
+        "lead_investors": "SoftBank Vision Fund 2",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
+      },
+      {
+        "company_slug": "sambanova",
+        "stage": "Series E",
+        "date": "2026-02",
+        "amount_m": 350.0,
+        "valuation_m": null,
+        "lead_investors": "Vista Equity Partners",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
+      }
+    ],
     "top_investors": []
   },
   {

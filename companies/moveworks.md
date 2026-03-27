@@ -57,6 +57,8 @@ founders:
   origin: Indian
 - name: Jiang Chen
   role: Co-Founder & CTO of AI
+  background: BS Computer Science, Tsinghua University. PhD Computer Science, Yale University (2006). Former Google Staff Engineer
+    (2009-2015), Airbnb Tech Lead. Co-founded Moveworks in 2016.
   origin: Chinese
 name: Moveworks
 linkedin_verified: true

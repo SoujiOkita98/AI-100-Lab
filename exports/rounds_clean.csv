@@ -619,7 +619,7 @@ emergent,Series A,2025-09,23.0,100.0,Lightspeed Venture Partners,,https://techcr
 emergent,Series B,2026-01,70.0,300.0,Khosla Ventures; SoftBank Vision Fund 2,,https://www.businesswire.com/news/home/20260120852493/en/,
 encharge-ai,Seed,2022-12,,,Anzu Partners,,,
 encharge-ai,Series A,2023-12,22.6,,VentureTech Alliance (TSMC); RTX Ventures,,https://techcrunch.com/2023/12/05/encharge-raises-22-6m-to-commercialize-its-ai-accerating-chips/,
-encharge-ai,Series B,2025-02,100.0,,Tiger Global,Samsung Ventures; Foxconn (HH-CTBC); In-Q-Tel,https://techcrunch.com/2025/02/13/encharge-raises-100m-to-accelerate-ai-using-analog-chips/,
+encharge-ai,Series B,2025-02,100.0,,Tiger Global,Samsung Ventures; HH-CTBC (Foxconn); In-Q-Tel; RTX Ventures,https://techcrunch.com/2025/02/13/encharge-raises-100m-to-accelerate-ai-using-analog-chips/,
 encord,Series C,2025-12,60.0,550.0,,,https://techfundingnews.com/encord-scale-ai-rival-60m-physical-ai-data/,
 endra,Seed,2025-12,20.0,,Notion Capital; Norrsken VC,,https://fortune.com/2025/12/18/endra-ai-startup-automating-mep-design-sweden/,
 enfabrica,Series C,2024-11,115.0,,Spark Capital,,https://news.crunchbase.com/semiconductors-and-5g/enfabrica-ai-networking-chips-startup-funding-nvda-arm/,
@@ -662,7 +662,9 @@ etched,Seed,2023-03,5.4,,Primary Venture Partners,,https://www.crunchbase.com/or
 etched,Series A,2024-06,120.0,,Peter Thiel; Primary VC,,https://www.crunchbase.com/organization/etched,
 etched,Series B,2026-01,500.0,,Stripes,,https://www.crunchbase.com/organization/etched,
 eudia,Series A,2025-02,105.0,,General Catalyst,,https://www.prnewswire.com/news-releases/eudia-secures-up-to-105m/,
-eve-legal,Series B,2025,103.0,,Coatue; Andreessen Horowitz,,https://www.prnewswire.com/news-releases/eve-raises-103-million-at-1-billion-valuation-to-help-plaintiff-firms-deliver-justice-through-ai-transformation-302570807.html,
+eve-legal,Seed,2023-10,14.0,,Lightspeed Venture Partners; Menlo Ventures,,https://siliconangle.com/2023/10/25/eve-raises-14m-launch-personalized-legal-ai-assistant/,
+eve-legal,Series A,2025-01,47.0,,Andreessen Horowitz,,https://www.prnewswire.com/news-releases/eve-secures-47-million-to-fuel-era-of-ai-native-law-firms-302353165.html,
+eve-legal,Series B,2025,103.0,,Spark Capital,Andreessen Horowitz; Lightspeed Venture Partners; Menlo Ventures,https://www.prnewswire.com/news-releases/eve-raises-103-million-at-1-billion-valuation-to-help-plaintiff-firms-deliver-justice-through-ai-transformation-302570807.html,
 evenup,Series B,2023-06,50.5,,Bessemer Venture Partners,,https://www.evenuplaw.com/blog/evenup-series-b,
 evenup,Series C,2023-12,35.0,,Lightspeed Venture Partners,,https://medium.com/@Connected_Dots/,
 evenup,Series D,2024-10,135.0,1000.0,Bain Capital Ventures,,https://news.crunchbase.com/venture/ai-legal-tech-evenup-unicorn-bain/,
@@ -1375,7 +1377,8 @@ oxa,Series C,2023-01,140.0,,Aioi Nissay Dowa Insurance; Eneos Innovation Partner
 oxa,Series D (first close),2026-03,103.0,,UK National Wealth Fund,,https://tech.eu/2026/03/04/uk-self-driving-startup-oxa-raises-103m-to-scale-industrial-deployments/,"National Wealth Fund committed $50M. NVentures (Nvidia), IP Group, Hostplus, and bp Ventures also participated. Second close expected H1 2026."
 oxmiq-labs,Seed,2025-08,20.0,,MediaTek Ventures,,,
 paid-ai,Seed,2025-09,21.0,,Lightspeed Venture Partners,,https://techcrunch.com/2025/09/28/paid-the-ai-agent-results-based-billing-startup/,
-palebluedot-ai,Series B,2026-01,150.0,,,,https://www.prnewswire.com/news-releases/palebluedot-ai-raises-150m-series-b-to-scale-global-ai-compute-infrastructure-302672782.html,
+palebluedot-ai,Series A,2025,10.0,,Family offices,,,
+palebluedot-ai,Series B,2026-01,150.0,,B Capital,,https://www.prnewswire.com/news-releases/palebluedot-ai-raises-150m-series-b-to-scale-global-ai-compute-infrastructure-302672782.html,
 pally,Seed,2025-09,2.0,,Y Combinator,,,
 paloma-ai,Seed,2025-09,2.0,,Y Combinator,,,
 parachute-ai,Seed,2025-09,2.0,,Y Combinator,,,
@@ -1571,6 +1574,11 @@ sakana-ai,Series B,2025-11,135.0,2650.0,Mitsubishi UFJ Financial Group; Khosla V
 salt-ai,Seed,2025-09,10.0,,Morpheus Ventures; CoreWeave,,,
 salus-ai,Pre-Seed / YC,2026-01,0.5,,Y Combinator,,https://www.ycombinator.com/companies/salus,
 samaya-ai,Seed + Series A,2025-05,43.5,,NEA,,https://www.businesswire.com/news/home/20250514266881/en/,
+sambanova,Series A,2018-03,56.0,,Walden International; GV,,,
+sambanova,Series B,2019-04,150.0,,Intel Capital,,,
+sambanova,Series C,2020-02,250.0,,BlackRock,,,
+sambanova,Series D,2021-04,676.0,,SoftBank Vision Fund 2,,,
+sambanova,Series E,2026-02,350.0,,Vista Equity Partners,,,
 sana-labs,Seed,2017-08,,,Undisclosed,,https://www.crunchbase.com/organization/sana-2,Amount undisclosed.
 sana-labs,Series B,2022-12,34.0,,Menlo Ventures; EQT Ventures,,https://techcrunch.com/2022/12/13/sana-raises-34m-for-its-ai-based-knowledge-management-and-learning-platform-for-workplaces/,Valued at $180M post-money.
 sana-labs,Series B Extension,2023-05,28.0,,NEA; Workday Ventures,,https://www.prnewswire.com/news-releases/sana-raises-additional-28m-led-by-nea-301838430.html,Total Series B = $62M.
