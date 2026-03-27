@@ -1,7 +1,11 @@
 #!/usr/bin/env python3
 """
-Rebuild clean, unified exports from all 264 company markdown files.
-Normalizes inconsistent field names across schema versions.
+rebuild_exports.py — THE canonical export pipeline for AI-100-Lab.
+
+Parses all company markdown files and generates:
+  exports/companies.csv, founders.csv, rounds.csv
+  exports/companies.json (nested)
+  exports/ai100lab.db (SQLite)
 """
 
 import os
@@ -9,6 +13,7 @@ import re
 import csv
 import json
 import yaml
+import sqlite3
 from pathlib import Path
 
 BASE = Path(__file__).resolve().parent.parent
@@ -314,7 +319,7 @@ def main():
     # Write companies CSV
     EXPORTS_DIR.mkdir(exist_ok=True)
     company_fields = list(companies[0].keys())
-    with open(EXPORTS_DIR / "companies_clean.csv", "w", newline="") as f:
+    with open(EXPORTS_DIR / "companies.csv", "w", newline="") as f:
         w = csv.DictWriter(f, fieldnames=company_fields)
         w.writeheader()
         w.writerows(companies)
@@ -322,7 +327,7 @@ def main():
     # Write founders CSV
     if all_founders:
         founder_fields = list(all_founders[0].keys())
-        with open(EXPORTS_DIR / "founders_clean.csv", "w", newline="") as f:
+        with open(EXPORTS_DIR / "founders.csv", "w", newline="") as f:
             w = csv.DictWriter(f, fieldnames=founder_fields)
             w.writeheader()
             w.writerows(all_founders)
@@ -330,7 +335,7 @@ def main():
     # Write rounds CSV
     if all_rounds:
         round_fields = list(all_rounds[0].keys())
-        with open(EXPORTS_DIR / "rounds_clean.csv", "w", newline="") as f:
+        with open(EXPORTS_DIR / "rounds.csv", "w", newline="") as f:
             w = csv.DictWriter(f, fieldnames=round_fields)
             w.writeheader()
             w.writerows(all_rounds)
@@ -345,7 +350,7 @@ def main():
             "funding_rounds": [r for r in all_rounds if r["company_slug"] == slug],
             "top_investors": [i["investor"] for i in all_investors if i["company_slug"] == slug],
         }
-    with open(EXPORTS_DIR / "companies_clean.json", "w") as f:
+    with open(EXPORTS_DIR / "companies.json", "w") as f:
         json.dump(list(company_map.values()), f, indent=2, default=str)
 
     # Print summary
@@ -383,6 +388,48 @@ def main():
     slugs_with_founders = set(f["company_slug"] for f in all_founders)
     missing_founders = [c["name"] for c in companies if c["slug"] not in slugs_with_founders]
     print(f"  {len(missing_founders)} companies missing founder data")
+
+    # Write SQLite database
+    db_path = EXPORTS_DIR / "ai100lab.db"
+    db_path.unlink(missing_ok=True)
+    conn = sqlite3.connect(db_path)
+    cur = conn.cursor()
+    cur.execute("""CREATE TABLE companies (
+        slug TEXT PRIMARY KEY, name TEXT, status TEXT, founded_year TEXT,
+        hq TEXT, website TEXT, sector TEXT, one_liner TEXT,
+        total_raised_m REAL, latest_valuation_m REAL,
+        employees TEXT, revenue_signals TEXT, business_model TEXT,
+        key_customers TEXT, confidence TEXT, last_updated TEXT
+    )""")
+    cur.execute("""CREATE TABLE founders (
+        id INTEGER PRIMARY KEY AUTOINCREMENT,
+        company_slug TEXT, name TEXT, role TEXT, background TEXT, origin TEXT, prior TEXT
+    )""")
+    cur.execute("""CREATE TABLE rounds (
+        id INTEGER PRIMARY KEY AUTOINCREMENT,
+        company_slug TEXT, stage TEXT, date TEXT, amount_m REAL,
+        valuation_m REAL, lead_investors TEXT, other_investors TEXT,
+        source TEXT, notes TEXT
+    )""")
+    for c in companies:
+        cur.execute("INSERT INTO companies VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)", (
+            c["slug"], c["name"], c["status"], c["founded_year"],
+            c["hq"], c["website"], c["sector"], c["one_liner"],
+            c["total_raised_m"], c["latest_valuation_m"],
+            c.get("employees"), c.get("revenue_signals"), c.get("business_model"),
+            c.get("key_customers"), c["confidence"], c["last_updated"],
+        ))
+    for f in all_founders:
+        cur.execute("INSERT INTO founders (company_slug,name,role,background,origin,prior) VALUES (?,?,?,?,?,?)", (
+            f["company_slug"], f["name"], f["role"], f["background"], f["origin"], f.get("prior", ""),
+        ))
+    for r in all_rounds:
+        cur.execute("INSERT INTO rounds (company_slug,stage,date,amount_m,valuation_m,lead_investors,other_investors,source,notes) VALUES (?,?,?,?,?,?,?,?,?)", (
+            r["company_slug"], r["stage"], r["date"], r["amount_m"], r["valuation_m"],
+            r["lead_investors"], r.get("other_investors", ""), r["source"], r["notes"],
+        ))
+    conn.commit()
+    conn.close()
 
     print(f"\nExports written to {EXPORTS_DIR}/")
 

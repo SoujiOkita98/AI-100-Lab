@@ -47,16 +47,24 @@ Built with research-grade rigor: every claim is sourced, uncertainty is marked e
 
 ```
 AI-100-Lab/
-  companies/           # 1,007 markdown files — one per company
-  exports/             # Clean CSV + JSON exports (rebuilt on demand)
-    companies_clean.csv
-    rounds_clean.csv
-    founders_clean.csv
-    companies_clean.json
-  schema/              # Schema definitions, sector taxonomy, field glossary
-  scripts/             # Data pipeline scripts (parsers, scrapers, exporters)
-  logos/               # Company logos (where collected)
-  data/                # Raw data files
+  companies/           # 1,026 markdown files — one per company (THE source of truth)
+  exports/             # Generated outputs (rebuilt by CI on every push)
+    companies.csv
+    founders.csv
+    rounds.csv
+    companies.json     # Nested format — company + founders + rounds
+    ai100lab.db        # SQLite database for querying
+  schema/              # Schema definitions and sector taxonomy
+    database-schema.json
+    sectors.yaml
+    company-template.md
+  scripts/             # Active pipeline scripts
+    rebuild_exports.py
+    create_company.py
+    validate_schema.py
+    generate_dashboard.py
+    verify_urls.py
+  docs/                # GitHub Pages dashboard
 ```
 
 ## Company File Format
@@ -189,20 +197,21 @@ Clean, analysis-ready exports are in `exports/`:
 
 | File | Rows | Description |
 |------|-----:|-------------|
-| `companies_clean.csv` | 1,007 | One row per company — all normalized fields |
-| `rounds_clean.csv` | 2,043 | One row per funding round — stage, date, amount, valuation, investors |
-| `founders_clean.csv` | 2,202 | One row per founder — name, role, background, origin |
-| `companies_clean.json` | 1,007 | Nested format — company + founders + rounds combined |
+| `companies.csv` | 1,026 | One row per company — all normalized fields |
+| `rounds.csv` | 2,096 | One row per funding round — stage, date, amount, valuation, investors |
+| `founders.csv` | 2,249 | One row per founder — name, role, background, origin |
+| `companies.json` | 1,026 | Nested format — company + founders + rounds combined |
+| `ai100lab.db` | — | SQLite database for direct querying |
 
 ### CSV Field Reference
 
-**companies_clean.csv:**
+**companies.csv:**
 `slug, name, status, founded_year, hq, website, sector, one_liner, total_raised_m, latest_valuation_m, employees, revenue_signals, business_model, key_customers, confidence, last_updated`
 
-**rounds_clean.csv:**
+**rounds.csv:**
 `company_slug, stage, date, amount_m, valuation_m, lead_investors, other_investors, source, notes`
 
-**founders_clean.csv:**
+**founders.csv:**
 `company_slug, name, role, background, origin, prior`
 
 ---
@@ -211,11 +220,11 @@ Clean, analysis-ready exports are in `exports/`:
 
 | Script | Purpose |
 |--------|---------|
-| `scripts/rebuild_clean_export.py` | Parse all markdown files and regenerate clean CSV/JSON exports |
-| `scripts/inject_rounds.py` | Inject funding round data into existing company frontmatter from JSON |
+| `scripts/rebuild_exports.py` | **THE canonical pipeline** — parse all markdown files, regenerate CSV/JSON/SQLite exports |
 | `scripts/create_company.py` | Create new company markdown files from JSON input |
-| `scripts/verify_urls.py` | URL verification script — checks website and LinkedIn URLs via HTTP |
-| `scripts/overnight_pipeline.py` | Systematic VC portfolio scraper using browser-use CLI |
+| `scripts/validate_schema.py` | Schema validation — reports deviations from canonical schema (read-only) |
+| `scripts/generate_dashboard.py` | Generate the GitHub Pages dashboard from live data |
+| `scripts/verify_urls.py` | URL verification — checks website and LinkedIn URLs via HTTP |
 
 ---
 
@@ -223,17 +232,12 @@ Clean, analysis-ready exports are in `exports/`:
 
 **Rebuild exports after editing company files:**
 ```bash
-python3 scripts/rebuild_clean_export.py
+python3 scripts/rebuild_exports.py
 ```
 
 **Add new companies from JSON:**
 ```bash
 python3 scripts/create_company.py new_companies.json
-```
-
-**Inject funding rounds into existing companies:**
-```bash
-python3 scripts/inject_rounds.py rounds_data.json
 ```
 
 ---
@@ -242,9 +246,9 @@ python3 scripts/inject_rounds.py rounds_data.json
 
 With the CSV exports, you can answer questions like:
 
-- **Rank all 2025 AI seed rounds by amount raised** → Filter `rounds_clean.csv` for `stage=Seed` and `date LIKE '2025%'`, sort by `amount_m`
-- **Which VCs lead the most AI rounds?** → Parse `lead_investors` column in `rounds_clean.csv`
-- **Founder origin breakdown by sector** → Join `founders_clean.csv` with `companies_clean.csv` on `company_slug`
+- **Rank all 2025 AI seed rounds by amount raised** → Filter `rounds.csv` for `stage=Seed` and `date LIKE '2025%'`, sort by `amount_m`
+- **Which VCs lead the most AI rounds?** → Parse `lead_investors` column in `rounds.csv`
+- **Founder origin breakdown by sector** → Join `founders.csv` with `companies.csv` on `company_slug`
 - **Chinese-founded AI startups and their total funding** → Filter founders by `origin LIKE '%Chinese%'`
 - **Fastest-growing startups by valuation trajectory** → Track `valuation_m` across rounds per company
 - **YC batch comparison** → Filter by YC batch tag in company profiles

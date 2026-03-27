@@ -1,0 +1,40 @@
+name: Update Dashboard
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'companies/**'
+      - 'exports/**'
+      - 'scripts/rebuild_exports.py'
+      - 'scripts/generate_dashboard.py'
+
+jobs:
+  update-dashboard:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install pyyaml
+
+      - name: Rebuild exports
+        run: python scripts/rebuild_exports.py
+
+      - name: Generate dashboard
+        run: python scripts/generate_dashboard.py
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add docs/index.html exports/
+          git diff --staged --quiet || git commit -m "Auto-update dashboard and exports [skip ci]"
+          git push

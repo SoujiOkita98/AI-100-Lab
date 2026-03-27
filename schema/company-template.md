@@ -14,7 +14,7 @@ funding_rounds: []
 founders: []
 
 business_model: ""
-customers: []
+key_customers: []
 revenue_signals: ""
 
 sources: []

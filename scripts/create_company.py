@@ -37,7 +37,7 @@ def create_company_file(company):
     if company.get("founded"):
         lines.append(f'founded: {company["founded"]}')
     if company.get("hq"):
-        lines.append(f'headquarters: "{company["hq"]}"')
+        lines.append(f'hq: "{company["hq"]}"')
     if company.get("website"):
         lines.append(f'website: {company["website"]}')
     if company.get("sector"):
@@ -83,11 +83,12 @@ def create_company_file(company):
 
     # Total raised
     if company.get("total_raised_m"):
-        lines.append(f'total_funding: {company["total_raised_m"]}')
+        lines.append(f'total_raised_m: {company["total_raised_m"]}')
     if company.get("latest_valuation_m"):
-        lines.append(f'latest_valuation: {company["latest_valuation_m"]}')
+        lines.append(f'latest_valuation_m: {company["latest_valuation_m"]}')
 
-    lines.append("last_updated: 2026-03-21")
+    from datetime import date
+    lines.append(f"last_updated: {date.today()}")
     lines.append("confidence: medium")
     lines.append("---")
     lines.append("")
