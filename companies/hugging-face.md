@@ -36,7 +36,40 @@ total_raised_m: 400.0
 name: Hugging Face
 linkedin_verified: true
 latest_valuation_m: 4500.0
-funding_rounds: []
+funding_rounds:
+  - stage: "Seed"
+    date: "2017"
+    amount_m: 1.2
+    lead_investors: ["Betaworks"]
+    other_investors: ["SV Angel"]
+  - stage: "Seed 2"
+    date: "2018-05"
+    amount_m: 4
+    lead_investors: ["Ronny Conway"]
+  - stage: "Series A"
+    date: "2019-12"
+    amount_m: 15
+    lead_investors: ["Lux Capital"]
+    source: "https://techcrunch.com/2019/12/17/hugging-face-raises-15-million-to-build-the-definitive-natural-language-processing-library/"
+  - stage: "Series B"
+    date: "2021-03"
+    amount_m: 40
+    lead_investors: ["Addition"]
+    source: "https://techcrunch.com/2021/03/11/hugging-face-raises-40-million-for-its-natural-language-processing-library/"
+  - stage: "Series C"
+    date: "2022-05"
+    amount_m: 100
+    valuation_m: 2000
+    lead_investors: ["Lux Capital"]
+    other_investors: ["Sequoia", "Coatue", "Addition"]
+    source: "https://techcrunch.com/2022/05/09/hugging-face-reaches-2-billion-valuation-to-build-the-github-of-machine-learning/"
+  - stage: "Series D"
+    date: "2023-08"
+    amount_m: 235
+    valuation_m: 4500
+    lead_investors: ["Salesforce"]
+    other_investors: ["Google", "Amazon", "Nvidia", "Intel", "AMD", "Qualcomm", "IBM"]
+    source: "https://techcrunch.com/2023/08/24/hugging-face-raises-235m-from-investors-including-salesforce-and-nvidia/"
 confidence: medium
 last_updated: '2026-03-24'
 ---

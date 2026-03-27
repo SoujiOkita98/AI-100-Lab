@@ -3039,6 +3039,111 @@
     ]
   },
   {
+    "slug": "alphasense",
+    "name": "AlphaSense",
+    "status": "active",
+    "founded_year": "2011",
+    "hq": "New York, NY",
+    "website": "https://www.alpha-sense.com",
+    "sector": "enterprise-ai; fintech; data-analytics",
+    "one_liner": "AI-powered market intelligence platform using NLP/LLMs to help financial professionals find critical insights across earnings calls, filings, research, and news.",
+    "total_raised_m": 1400.0,
+    "latest_valuation_m": 4000.0,
+    "employees": null,
+    "revenue_signals": "$500M+ ARR (Oct 2025). Doubled from $200M in 18 months. 6,500+ enterprise customers. Acquired Tegus for ~$930M.",
+    "business_model": null,
+    "key_customers": null,
+    "confidence": "high",
+    "last_updated": "2026-03-26",
+    "founders": [
+      {
+        "company_slug": "alphasense",
+        "name": "Jack Kokko",
+        "role": "Co-Founder & CEO",
+        "background": "Former Senior Analyst at Morgan Stanley. MBA from Wharton. BSc Finance from Helsinki School of Economics. EY Entrepreneur of the Year 2023.",
+        "origin": "Finnish",
+        "prior": ""
+      },
+      {
+        "company_slug": "alphasense",
+        "name": "Raj Neervannan",
+        "role": "Co-Founder & CTO",
+        "background": "BE Computer Science from BITS Pilani (India). MBA from Wharton (where he met Kokko). Deep technical background in NLP and search.",
+        "origin": "Indian",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "alphasense",
+        "stage": "Series A",
+        "date": "2016-03",
+        "amount_m": 33.0,
+        "valuation_m": null,
+        "lead_investors": "Soros Fund Management",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
+      },
+      {
+        "company_slug": "alphasense",
+        "stage": "Series B",
+        "date": "2019-07",
+        "amount_m": 50.0,
+        "valuation_m": null,
+        "lead_investors": "Innovation Endeavors",
+        "other_investors": "",
+        "source": "https://techcrunch.com/2019/07/17/alphasense-a-search-engine-for-analysis-and-business-intel-raises-50m-led-by-innovation-endeavors/",
+        "notes": ""
+      },
+      {
+        "company_slug": "alphasense",
+        "stage": "Series C",
+        "date": "2021-09",
+        "amount_m": 180.0,
+        "valuation_m": 1000.0,
+        "lead_investors": "Viking Global Investors; Goldman Sachs Asset Management",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
+      },
+      {
+        "company_slug": "alphasense",
+        "stage": "Series D",
+        "date": "2022-06",
+        "amount_m": 225.0,
+        "valuation_m": 1700.0,
+        "lead_investors": "Goldman Sachs Asset Management; Viking Global",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
+      },
+      {
+        "company_slug": "alphasense",
+        "stage": "Series E",
+        "date": "2023-09",
+        "amount_m": 150.0,
+        "valuation_m": 2500.0,
+        "lead_investors": "BOND",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
+      },
+      {
+        "company_slug": "alphasense",
+        "stage": "Series F",
+        "date": "2024-06",
+        "amount_m": 650.0,
+        "valuation_m": 4000.0,
+        "lead_investors": "BDT & MSD Partners; Viking Global",
+        "other_investors": "SoftBank Vision Fund; J.P. Morgan; Blue Owl; Alkeon",
+        "source": "",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
     "slug": "alphaxiv",
     "name": "alphaXiv",
     "status": "active",
@@ -6576,6 +6681,83 @@
         "lead_investors": "Y Combinator",
         "other_investors": "",
         "source": "https://www.crunchbase.com/organization/lasso-d885",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
+    "slug": "automation-anywhere",
+    "name": "Automation Anywhere",
+    "status": "active",
+    "founded_year": "2003",
+    "hq": "San Jose, CA",
+    "website": "https://www.automationanywhere.com",
+    "sector": "enterprise-ai; rpa; agents",
+    "one_liner": "Enterprise RPA and AI-powered automation platform enabling businesses to automate repetitive digital tasks. One of the 'Big Three' RPA vendors alongside UiPath and Blue Prism.",
+    "total_raised_m": 830.0,
+    "latest_valuation_m": 6800.0,
+    "employees": null,
+    "revenue_signals": "Estimated $600-800M ARR (2024). 5,000+ enterprise customers.",
+    "business_model": null,
+    "key_customers": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-26",
+    "founders": [
+      {
+        "company_slug": "automation-anywhere",
+        "name": "Mihir Shukla",
+        "role": "Co-Founder (former CEO, succeeded by Adi Kuruganti 2024)",
+        "background": "Led the company from a small tools vendor into a multi-billion-dollar RPA leader.",
+        "origin": "Indian",
+        "prior": ""
+      },
+      {
+        "company_slug": "automation-anywhere",
+        "name": "Ankur Kothari",
+        "role": "Co-Founder & Chief Revenue Officer",
+        "background": "Business and operations leader since founding.",
+        "origin": "Indian",
+        "prior": ""
+      },
+      {
+        "company_slug": "automation-anywhere",
+        "name": "Neeti Mehta Shukla",
+        "role": "Co-Founder (former Chief Customer Success Officer)",
+        "background": "Customer experience and social impact focus (women in STEM).",
+        "origin": "Indian",
+        "prior": ""
+      },
+      {
+        "company_slug": "automation-anywhere",
+        "name": "Rushabh Parmani",
+        "role": "Co-Founder (former SVP Engineering)",
+        "background": "Technical co-founder focused on product engineering.",
+        "origin": "Indian",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "automation-anywhere",
+        "stage": "Series A",
+        "date": "2018-11",
+        "amount_m": 250.0,
+        "valuation_m": null,
+        "lead_investors": "NEA; Goldman Sachs",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
+      },
+      {
+        "company_slug": "automation-anywhere",
+        "stage": "Series B",
+        "date": "2019-11",
+        "amount_m": 290.0,
+        "valuation_m": 6800.0,
+        "lead_investors": "Salesforce Ventures; SoftBank Vision Fund",
+        "other_investors": "",
+        "source": "",
         "notes": ""
       }
     ],
@@ -12372,6 +12554,97 @@
     "top_investors": []
   },
   {
+    "slug": "clickhouse",
+    "name": "ClickHouse",
+    "status": "active",
+    "founded_year": "2021",
+    "hq": "San Francisco, CA",
+    "website": "https://clickhouse.com",
+    "sector": "data-analytics; databases; ml-infrastructure",
+    "one_liner": "Open-source real-time analytics database (columnar OLAP) enabling sub-second queries on petabyte-scale data. Originally created at Yandex (~2009), open-sourced 2016.",
+    "total_raised_m": 1050.0,
+    "latest_valuation_m": 15000.0,
+    "employees": null,
+    "revenue_signals": "Several hundred million ARR (Jan 2026). 3,000+ paying cloud customers. ARR growing 250%+ YoY.",
+    "business_model": null,
+    "key_customers": null,
+    "confidence": "high",
+    "last_updated": "2026-03-26",
+    "founders": [
+      {
+        "company_slug": "clickhouse",
+        "name": "Alexey Milovidov",
+        "role": "Co-Founder & CTO",
+        "background": "Created ClickHouse at Yandex starting ~2009. BS Mathematics, Moscow State University.",
+        "origin": "Russian",
+        "prior": ""
+      },
+      {
+        "company_slug": "clickhouse",
+        "name": "Yury Izrailevsky",
+        "role": "Co-Founder & President",
+        "background": "Former VP Cloud Computing & Platform Engineering at Netflix (led AWS migration). VP Engineering at Google Cloud. Earlier at Yahoo.",
+        "origin": "Israeli-American",
+        "prior": ""
+      },
+      {
+        "company_slug": "clickhouse",
+        "name": "Aaron Katz",
+        "role": "Co-Founder & CEO",
+        "background": "Former CRO at Elastic. SVP Enterprise Sales at Salesforce. BA Managerial Economics, UC Davis.",
+        "origin": "American",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "clickhouse",
+        "stage": "Series A",
+        "date": "2021-08",
+        "amount_m": 50.0,
+        "valuation_m": null,
+        "lead_investors": "Index Ventures; Benchmark",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
+      },
+      {
+        "company_slug": "clickhouse",
+        "stage": "Series B",
+        "date": "2021-10",
+        "amount_m": 250.0,
+        "valuation_m": 2000.0,
+        "lead_investors": "Coatue; Altimeter",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
+      },
+      {
+        "company_slug": "clickhouse",
+        "stage": "Series C",
+        "date": "2025-05",
+        "amount_m": 350.0,
+        "valuation_m": 6350.0,
+        "lead_investors": "Khosla Ventures",
+        "other_investors": "BOND; IVP; Battery Ventures; Bessemer",
+        "source": "",
+        "notes": ""
+      },
+      {
+        "company_slug": "clickhouse",
+        "stage": "Series D",
+        "date": "2026-01",
+        "amount_m": 400.0,
+        "valuation_m": 15000.0,
+        "lead_investors": "Dragoneer Investment Group",
+        "other_investors": "",
+        "source": "https://www.bloomberg.com/news/articles/2026-01-16/clickhouse-lands-15-billion-valuation-in-ai-database-race",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
     "slug": "cline",
     "name": "Cline",
     "status": "active",
@@ -13322,6 +13595,78 @@
         "lead_investors": "Y Combinator",
         "other_investors": "",
         "source": "",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
+    "slug": "commure",
+    "name": "Commure",
+    "status": "active",
+    "founded_year": "2017",
+    "hq": "Mountain View, CA",
+    "website": "https://www.commure.com",
+    "sector": "health-ai; enterprise-ai",
+    "one_liner": "AI-native healthcare platform automating revenue cycle management, ambient clinical documentation, and care operations. Merged with Athelas in 2023 to form a $6B entity.",
+    "total_raised_m": 820.0,
+    "latest_valuation_m": 6000.0,
+    "employees": null,
+    "revenue_signals": "$200M+ contracted ARR (mid-2025), doubling for three consecutive years",
+    "business_model": null,
+    "key_customers": null,
+    "confidence": "high",
+    "last_updated": "2026-03-26",
+    "founders": [
+      {
+        "company_slug": "commure",
+        "name": "Tanay Tandon",
+        "role": "CEO (via Athelas merger)",
+        "background": "Stanford CS graduate. Previously researcher at MetaMind and Stanford AI Lab. Co-founded Athelas. Built first startup at age 15.",
+        "origin": "Indian-American",
+        "prior": ""
+      },
+      {
+        "company_slug": "commure",
+        "name": "Deepika Bodapati",
+        "role": "Co-Founder & COO (Athelas)",
+        "background": "University of Cincinnati (molecular biology). Ex-researcher at NASA Ames Research Center and Stanford Multimodality Molecular Imaging Lab.",
+        "origin": "Indian-American",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "commure",
+        "stage": "Series D",
+        "date": "2021-09",
+        "amount_m": 500.0,
+        "valuation_m": 3500.0,
+        "lead_investors": "Human Capital; Greenoaks Capital",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
+      },
+      {
+        "company_slug": "commure",
+        "stage": "Series E (Athelas merger)",
+        "date": "2023-10",
+        "amount_m": 70.0,
+        "valuation_m": 6000.0,
+        "lead_investors": "General Catalyst",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
+      },
+      {
+        "company_slug": "commure",
+        "stage": "Series F",
+        "date": "2025-06",
+        "amount_m": 200.0,
+        "valuation_m": 6000.0,
+        "lead_investors": "General Catalyst CVF",
+        "other_investors": "",
+        "source": "https://www.commure.com/press-releases/commure-raises-200m-in-growth-financing-from-general-catalysts-cvf-to-accelerate-ai-powered-rcm-platform",
         "notes": ""
       }
     ],
@@ -15733,6 +16078,138 @@
         "other_investors": "",
         "source": "https://www.crunchbase.com/organization/datacurve",
         "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
+    "slug": "dataiku",
+    "name": "Dataiku",
+    "status": "active",
+    "founded_year": "2013",
+    "hq": "New York, NY",
+    "website": "https://www.dataiku.com",
+    "sector": "ml-infrastructure; enterprise-ai; data-analytics",
+    "one_liner": "Enterprise AI/ML platform enabling organizations to build, deploy, and govern data science and machine learning workflows collaboratively. Originally founded in Paris.",
+    "total_raised_m": 847.0,
+    "latest_valuation_m": 3700.0,
+    "employees": null,
+    "revenue_signals": "$350M+ ARR (Oct 2025). 750+ enterprise customers. Preparing for US IPO potentially H1 2026.",
+    "business_model": null,
+    "key_customers": null,
+    "confidence": "high",
+    "last_updated": "2026-03-26",
+    "founders": [
+      {
+        "company_slug": "dataiku",
+        "name": "Florian Douetteau",
+        "role": "Co-Founder & CEO",
+        "background": "Previously VP of R&D at Exalead (acquired by Dassault Systemes). CTO at IsCool Entertainment.",
+        "origin": "French",
+        "prior": ""
+      },
+      {
+        "company_slug": "dataiku",
+        "name": "Clement Stenac",
+        "role": "Co-Founder & CTO",
+        "background": "Previously led product development at Exalead. Notable open-source contributor (VLC media player, Debian).",
+        "origin": "French",
+        "prior": ""
+      },
+      {
+        "company_slug": "dataiku",
+        "name": "Thomas Cabrol",
+        "role": "Co-Founder & Chief Data Officer",
+        "background": "Background in data mining for major retail and telecom firms.",
+        "origin": "French",
+        "prior": ""
+      },
+      {
+        "company_slug": "dataiku",
+        "name": "Marc Batty",
+        "role": "Co-Founder & COO",
+        "background": "Background in technology and entrepreneurship.",
+        "origin": "French",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "dataiku",
+        "stage": "Seed",
+        "date": "2015-01",
+        "amount_m": 3.6,
+        "valuation_m": null,
+        "lead_investors": "Serena Capital; Alven Capital",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
+      },
+      {
+        "company_slug": "dataiku",
+        "stage": "Series A",
+        "date": "2016-10",
+        "amount_m": 14.0,
+        "valuation_m": null,
+        "lead_investors": "FirstMark Capital",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
+      },
+      {
+        "company_slug": "dataiku",
+        "stage": "Series B",
+        "date": "2017-09",
+        "amount_m": 28.0,
+        "valuation_m": null,
+        "lead_investors": "Battery Ventures",
+        "other_investors": "",
+        "source": "https://techcrunch.com/2017/09/06/dataiku-to-enhance-data-tools-with-28-million-infusion-led-by-battery-ventures/",
+        "notes": ""
+      },
+      {
+        "company_slug": "dataiku",
+        "stage": "Series C",
+        "date": "2018-12",
+        "amount_m": 101.0,
+        "valuation_m": null,
+        "lead_investors": "ICONIQ Capital",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
+      },
+      {
+        "company_slug": "dataiku",
+        "stage": "Series D",
+        "date": "2020-08",
+        "amount_m": 100.0,
+        "valuation_m": 1400.0,
+        "lead_investors": "Stripes; Tiger Global",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
+      },
+      {
+        "company_slug": "dataiku",
+        "stage": "Series E",
+        "date": "2021-08",
+        "amount_m": 400.0,
+        "valuation_m": 4600.0,
+        "lead_investors": "Tiger Global",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
+      },
+      {
+        "company_slug": "dataiku",
+        "stage": "Series F",
+        "date": "2022-11",
+        "amount_m": 200.0,
+        "valuation_m": 3700.0,
+        "lead_investors": "Wellington Management",
+        "other_investors": "",
+        "source": "",
+        "notes": "Down round from $4.6B"
       }
     ],
     "top_investors": []
@@ -27821,7 +28298,74 @@
         "prior": ""
       }
     ],
-    "funding_rounds": [],
+    "funding_rounds": [
+      {
+        "company_slug": "hugging-face",
+        "stage": "Seed",
+        "date": "2017",
+        "amount_m": 1.2,
+        "valuation_m": null,
+        "lead_investors": "Betaworks",
+        "other_investors": "SV Angel",
+        "source": "",
+        "notes": ""
+      },
+      {
+        "company_slug": "hugging-face",
+        "stage": "Seed 2",
+        "date": "2018-05",
+        "amount_m": 4.0,
+        "valuation_m": null,
+        "lead_investors": "Ronny Conway",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
+      },
+      {
+        "company_slug": "hugging-face",
+        "stage": "Series A",
+        "date": "2019-12",
+        "amount_m": 15.0,
+        "valuation_m": null,
+        "lead_investors": "Lux Capital",
+        "other_investors": "",
+        "source": "https://techcrunch.com/2019/12/17/hugging-face-raises-15-million-to-build-the-definitive-natural-language-processing-library/",
+        "notes": ""
+      },
+      {
+        "company_slug": "hugging-face",
+        "stage": "Series B",
+        "date": "2021-03",
+        "amount_m": 40.0,
+        "valuation_m": null,
+        "lead_investors": "Addition",
+        "other_investors": "",
+        "source": "https://techcrunch.com/2021/03/11/hugging-face-raises-40-million-for-its-natural-language-processing-library/",
+        "notes": ""
+      },
+      {
+        "company_slug": "hugging-face",
+        "stage": "Series C",
+        "date": "2022-05",
+        "amount_m": 100.0,
+        "valuation_m": 2000.0,
+        "lead_investors": "Lux Capital",
+        "other_investors": "Sequoia; Coatue; Addition",
+        "source": "https://techcrunch.com/2022/05/09/hugging-face-reaches-2-billion-valuation-to-build-the-github-of-machine-learning/",
+        "notes": ""
+      },
+      {
+        "company_slug": "hugging-face",
+        "stage": "Series D",
+        "date": "2023-08",
+        "amount_m": 235.0,
+        "valuation_m": 4500.0,
+        "lead_investors": "Salesforce",
+        "other_investors": "Google; Amazon; Nvidia; Intel; AMD; Qualcomm; IBM",
+        "source": "https://techcrunch.com/2023/08/24/hugging-face-raises-235m-from-investors-including-salesforce-and-nvidia/",
+        "notes": ""
+      }
+    ],
     "top_investors": []
   },
   {
@@ -29717,6 +30261,75 @@
       "Dell Technologies Capital",
       "SHAKTI"
     ]
+  },
+  {
+    "slug": "jasper-ai",
+    "name": "Jasper AI",
+    "status": "active",
+    "founded_year": "2021",
+    "hq": "Austin, TX",
+    "website": "https://www.jasper.ai",
+    "sector": "generative-ai; marketing-tech; enterprise-ai",
+    "one_liner": "AI marketing platform orchestrating intelligent agents for enterprise content creation, brand management, and marketing workflow automation. Formerly Conversion.ai/Jarvis.",
+    "total_raised_m": 131.0,
+    "latest_valuation_m": 1500.0,
+    "employees": null,
+    "revenue_signals": "~$88M revenue (2025). 100,000+ paying customers.",
+    "business_model": null,
+    "key_customers": null,
+    "confidence": "high",
+    "last_updated": "2026-03-26",
+    "founders": [
+      {
+        "company_slug": "jasper-ai",
+        "name": "Dave Rogenmoser",
+        "role": "Co-Founder (former CEO, stepped down Sep 2023)",
+        "background": "Previously co-founded Market Results (digital marketing agency) and Proof (YC W18). Serial entrepreneur since 2014.",
+        "origin": "American",
+        "prior": ""
+      },
+      {
+        "company_slug": "jasper-ai",
+        "name": "John Philip Morgan",
+        "role": "Co-Founder & CTO",
+        "background": "Technical co-founder across all three ventures with Rogenmoser.",
+        "origin": "American",
+        "prior": ""
+      },
+      {
+        "company_slug": "jasper-ai",
+        "name": "Chris Hull",
+        "role": "Co-Founder & COO",
+        "background": "Operations lead across all three ventures.",
+        "origin": "American",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "jasper-ai",
+        "stage": "Seed",
+        "date": "2021-06",
+        "amount_m": 6.0,
+        "valuation_m": null,
+        "lead_investors": "Foundation Capital",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
+      },
+      {
+        "company_slug": "jasper-ai",
+        "stage": "Series A",
+        "date": "2022-10",
+        "amount_m": 125.0,
+        "valuation_m": 1500.0,
+        "lead_investors": "Insight Partners",
+        "other_investors": "",
+        "source": "https://techcrunch.com/2022/10/18/ai-content-platform-jasper-raises-125m-at-a-1-7b-valuation/",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
   },
   {
     "slug": "jasper",
@@ -40192,6 +40805,78 @@
     "top_investors": []
   },
   {
+    "slug": "notion",
+    "name": "Notion",
+    "status": "active",
+    "founded_year": "2013",
+    "hq": "San Francisco, CA",
+    "website": "https://www.notion.so",
+    "sector": "productivity; enterprise-ai; generative-ai",
+    "one_liner": "All-in-one productivity workspace combining docs, wikis, project management, and AI features. CEO Ivan Zhao was born in Xinjiang, China and raised in Canada.",
+    "total_raised_m": 343.0,
+    "latest_valuation_m": 10000.0,
+    "employees": null,
+    "revenue_signals": "Estimated $500M+ ARR (late 2024). 100M+ users. Notion AI add-on at $8-10/user/month. Near-profitable.",
+    "business_model": null,
+    "key_customers": null,
+    "confidence": "high",
+    "last_updated": "2026-03-26",
+    "founders": [
+      {
+        "company_slug": "notion",
+        "name": "Ivan Zhao",
+        "role": "Co-Founder & CEO",
+        "background": "Born in Xinjiang, China. Raised partly in Canada. University of British Columbia (cognitive science and design). Deeply influenced by HyperCard and Smalltalk. Very private.",
+        "origin": "Chinese-Canadian",
+        "prior": ""
+      },
+      {
+        "company_slug": "notion",
+        "name": "Simon Last",
+        "role": "Co-Founder",
+        "background": "Engineer. Less public-facing. Worked with Zhao from early days.",
+        "origin": "British",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "notion",
+        "stage": "Series A",
+        "date": "2019-07",
+        "amount_m": 10.0,
+        "valuation_m": null,
+        "lead_investors": "Index Ventures",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
+      },
+      {
+        "company_slug": "notion",
+        "stage": "Series B",
+        "date": "2020-04",
+        "amount_m": 50.0,
+        "valuation_m": null,
+        "lead_investors": "Index Ventures",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
+      },
+      {
+        "company_slug": "notion",
+        "stage": "Series C",
+        "date": "2021-10",
+        "amount_m": 275.0,
+        "valuation_m": 10000.0,
+        "lead_investors": "Coatue Management; Sequoia Capital",
+        "other_investors": "",
+        "source": "https://techcrunch.com",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
     "slug": "notte-labs",
     "name": "Notte Labs",
     "status": "active",
@@ -49023,6 +49708,78 @@
         "lead_investors": "Y Combinator",
         "other_investors": "",
         "source": "https://www.ycombinator.com/companies/rubric",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
+    "slug": "run-ai",
+    "name": "Run:ai",
+    "status": "acquired",
+    "founded_year": "2018",
+    "hq": "Tel Aviv, Israel",
+    "website": "https://www.nvidia.com/en-us/software/run-ai/",
+    "sector": "ml-infrastructure; cloud-compute",
+    "one_liner": "GPU orchestration and workload management platform that virtualizes and pools GPU resources to maximize AI infrastructure utilization. Acquired by Nvidia for ~$700M in 2024.",
+    "total_raised_m": 118.0,
+    "latest_valuation_m": 700.0,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "confidence": "high",
+    "last_updated": "2026-03-26",
+    "founders": [
+      {
+        "company_slug": "run-ai",
+        "name": "Omri Geller",
+        "role": "Co-Founder & CEO",
+        "background": "BSc/MSc Electrical Engineering, Tel Aviv University. 8 years in technology unit at Israeli Prime Minister's Office.",
+        "origin": "Israeli",
+        "prior": ""
+      },
+      {
+        "company_slug": "run-ai",
+        "name": "Ronen Dar",
+        "role": "Co-Founder & CTO",
+        "background": "PhD Electrical Engineering, Tel Aviv University. Previously at Intel, then Anobit (acquired by Apple).",
+        "origin": "Israeli",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "run-ai",
+        "stage": "Seed + Series A",
+        "date": "2019-04",
+        "amount_m": 13.0,
+        "valuation_m": null,
+        "lead_investors": "S Capital; TLV Partners",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
+      },
+      {
+        "company_slug": "run-ai",
+        "stage": "Series B",
+        "date": "2021-01",
+        "amount_m": 30.0,
+        "valuation_m": null,
+        "lead_investors": "Insight Partners",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
+      },
+      {
+        "company_slug": "run-ai",
+        "stage": "Series C",
+        "date": "2022-03",
+        "amount_m": 75.0,
+        "valuation_m": null,
+        "lead_investors": "Insight Partners; Tiger Global",
+        "other_investors": "",
+        "source": "https://techcrunch.com/2024/12/30/nvidia-completes-acquisition-of-ai-infrastructure-startup-runai/",
         "notes": ""
       }
     ],
