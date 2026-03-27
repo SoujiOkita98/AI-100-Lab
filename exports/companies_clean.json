@@ -1476,6 +1476,49 @@
     "top_investors": []
   },
   {
+    "slug": "adsgency-ai",
+    "name": "AdsGency AI",
+    "status": "active",
+    "founded_year": null,
+    "hq": "Newark, CA",
+    "website": "https://adsgency.ai",
+    "sector": "['enterprise-ai', 'agents']",
+    "one_liner": "Agentic AI advertising platform that autonomously runs paid marketing workflows. $12M seed from XYZ Venture Capital.",
+    "total_raised_m": 12.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [
+      {
+        "company_slug": "adsgency-ai",
+        "name": "Bolbi Liu",
+        "role": "CEO",
+        "background": "Former data scientist/AI engineer at Intel, Bank of America, Sina Weibo. Built AI adtech at DiDi Global and AWS.",
+        "origin": "",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "adsgency-ai",
+        "stage": "Seed",
+        "date": "2025-10",
+        "amount_m": 12.0,
+        "valuation_m": null,
+        "lead_investors": "XYZ Venture Capital",
+        "other_investors": "",
+        "source": "https://www.businesswire.com/news/home/20251019055117/en/AdsGency-Raises-$12M-Seed-Round-for-Industrys-First-Agentic-Ad-Agency",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
     "slug": "aegisai",
     "name": "AegisAI",
     "status": "active",
@@ -4469,6 +4512,65 @@
     "top_investors": []
   },
   {
+    "slug": "anyware-robotics",
+    "name": "Anyware Robotics",
+    "status": "active",
+    "founded_year": null,
+    "hq": "Fremont, CA",
+    "website": "https://anyware-robotics.com",
+    "sector": "['robotics', 'enterprise-ai']",
+    "one_liner": "AI-powered mobile robots for autonomous box unloading in containers and trucks. Pixmo robot for warehouse logistics.",
+    "total_raised_m": 17.7,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [
+      {
+        "company_slug": "anyware-robotics",
+        "name": "Thomas Tang (Te Tang)",
+        "role": "CEO",
+        "background": "PhD UC Berkeley. Robotic manipulation and 3D perception research.",
+        "origin": "",
+        "prior": ""
+      },
+      {
+        "company_slug": "anyware-robotics",
+        "name": "Bruce Fan",
+        "role": "CTO",
+        "background": "PhD UC Berkeley. AI/optimization/control theory for grasping.",
+        "origin": "",
+        "prior": ""
+      },
+      {
+        "company_slug": "anyware-robotics",
+        "name": "Samuel Zhou",
+        "role": "Chief Engineer",
+        "background": "UC Berkeley.",
+        "origin": "",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "anyware-robotics",
+        "stage": "Series A",
+        "date": "2025-03",
+        "amount_m": 12.0,
+        "valuation_m": null,
+        "lead_investors": "GFT Ventures",
+        "other_investors": "",
+        "source": "https://www.prnewswire.com/news-releases/naver-d2sf-invests-in-anyware-robotics-a-physical-ai-startup-starting-from-logistics-automation-302709103.html",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
     "slug": "applied-compute",
     "name": "Applied Compute",
     "status": "active",
@@ -5102,6 +5204,57 @@
         "lead_investors": "Eurazeo",
         "other_investors": "",
         "source": "https://www.prnewswire.com/news-releases/arcadsai-raises-16-million-usd/",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
+    "slug": "arcee-ai",
+    "name": "Arcee AI",
+    "status": "active",
+    "founded_year": null,
+    "hq": "San Francisco, CA",
+    "website": "https://arcee.ai",
+    "sector": "['enterprise-ai', 'foundation-models']",
+    "one_liner": "Enterprise AI platform powered by small language models (SLMs). Arcee Orchestra agentic AI. Backed by Emergence Capital and Prosperity7.",
+    "total_raised_m": 29.5,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [
+      {
+        "company_slug": "arcee-ai",
+        "name": "Mark McQuade",
+        "role": "CEO",
+        "background": "Former early employee at Hugging Face. Led monetization strategy.",
+        "origin": "",
+        "prior": ""
+      },
+      {
+        "company_slug": "arcee-ai",
+        "name": "Jacob Solawetz",
+        "role": "CTO",
+        "background": "Previously at Roboflow (YC). Computer vision/ML.",
+        "origin": "",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "arcee-ai",
+        "stage": "Series A",
+        "date": "2024",
+        "amount_m": 24.0,
+        "valuation_m": null,
+        "lead_investors": "Emergence Capital",
+        "other_investors": "",
+        "source": "https://refreshmiami.com/news/arcee-ai-secures-24m-series-a-to-transform-the-landscape-of-small-language-models/",
         "notes": ""
       }
     ],
@@ -8859,6 +9012,45 @@
     "top_investors": []
   },
   {
+    "slug": "boson-ai",
+    "name": "Boson AI",
+    "status": "active",
+    "founded_year": null,
+    "hq": "San Francisco, CA",
+    "website": "https://boson.ai",
+    "sector": "['foundation-models', 'creative-ai']",
+    "one_liner": "LLM tools for personalized experiences in virtual worlds \u2014 storytelling, learning, and insights. CTO is ex-AWS Distinguished Scientist.",
+    "total_raised_m": 1.2,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [
+      {
+        "company_slug": "boson-ai",
+        "name": "Alex Smola",
+        "role": "CEO",
+        "background": "Turing Award-level ML researcher. Former Distinguished Scientist & VP at AWS. Co-creator of MXNet.",
+        "origin": "",
+        "prior": ""
+      },
+      {
+        "company_slug": "boson-ai",
+        "name": "Mu Li",
+        "role": "CTO",
+        "background": "PhD ML from CMU. BS from Peking University. Former Senior Principal Scientist at AWS. Co-author of 'Dive into Deep Learning'.",
+        "origin": "",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [],
+    "top_investors": []
+  },
+  {
     "slug": "bot-auto",
     "name": "Bot Auto",
     "status": "active",
@@ -10166,6 +10358,57 @@
         "other_investors": "",
         "source": "https://www.oakhcft.com/news/candid-health-raises-52-5-million-series-c-to-enhance-genai-features-expand-revenue-cycle-automation-platform-to-more-providers",
         "notes": "All existing investors participated. Brought total to $99.5M. Just six months after Series B, reflecting rapid growth."
+      }
+    ],
+    "top_investors": []
+  },
+  {
+    "slug": "capitol-ai",
+    "name": "Capitol AI",
+    "status": "active",
+    "founded_year": null,
+    "hq": "San Francisco, CA",
+    "website": "https://capitol.ai",
+    "sector": "['enterprise-ai', 'data-analytics']",
+    "one_liner": "Model-agnostic enterprise AI for data storytelling and decision-making. YC S24. Backed by Airbnb CEO Brian Chesky.",
+    "total_raised_m": 20.5,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [
+      {
+        "company_slug": "capitol-ai",
+        "name": "Shaun Modi",
+        "role": "CEO",
+        "background": "Founding designer at Airbnb. 15 patents. Worked at Google, NASA, White House, DoD.",
+        "origin": "",
+        "prior": ""
+      },
+      {
+        "company_slug": "capitol-ai",
+        "name": "Tom Hallaran",
+        "role": "CTO",
+        "background": "Directed AI Center of Excellence at US GSA. Built WinRed.",
+        "origin": "",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "capitol-ai",
+        "stage": "Seed",
+        "date": "2022-11",
+        "amount_m": 10.0,
+        "valuation_m": null,
+        "lead_investors": "468 Capital; Designer Fund",
+        "other_investors": "",
+        "source": "https://www.businesswire.com/news/home/20221118005565/en/Capitol-Raises-%2410-Million-to-Revolutionize-Decision-Making-With-AI-Driven-Data-Stories-Platform-That-Liberates-the-Business-From-Data-Teams",
+        "notes": ""
       }
     ],
     "top_investors": []
@@ -11753,6 +11996,37 @@
         "notes": ""
       }
     ],
+    "top_investors": []
+  },
+  {
+    "slug": "chatsimple",
+    "name": "Chatsimple",
+    "status": "active",
+    "founded_year": null,
+    "hq": "Toronto, Canada",
+    "website": "https://chatsimple.ai",
+    "sector": "['enterprise-ai', 'agents']",
+    "one_liner": "AI-powered sales assistant / chatbot for websites. Lead generation, qualification, and conversion.",
+    "total_raised_m": 2.5,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [
+      {
+        "company_slug": "chatsimple",
+        "name": "Hao Sheng",
+        "role": "CEO",
+        "background": "University of Toronto. 6+ years conversational AI. Former Google Dialogflow and Cresta.",
+        "origin": "",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [],
     "top_investors": []
   },
   {
@@ -15929,6 +16203,65 @@
     "top_investors": []
   },
   {
+    "slug": "dbos",
+    "name": "DBOS",
+    "status": "active",
+    "founded_year": null,
+    "hq": "San Francisco, CA",
+    "website": "https://dbos.dev",
+    "sector": "['infra', 'dev-tools']",
+    "one_liner": "Cloud-native OS built on a database-first architecture. Co-founded by PostgreSQL creator (Turing Award) and Apache Spark creator.",
+    "total_raised_m": 8.5,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [
+      {
+        "company_slug": "dbos",
+        "name": "Michael Stonebraker",
+        "role": "Co-founder",
+        "background": "Turing Award recipient. Creator of PostgreSQL. Founded 6+ data companies.",
+        "origin": "",
+        "prior": ""
+      },
+      {
+        "company_slug": "dbos",
+        "name": "Matei Zaharia",
+        "role": "Co-founder",
+        "background": "Creator of Apache Spark. CTO of Databricks.",
+        "origin": "",
+        "prior": ""
+      },
+      {
+        "company_slug": "dbos",
+        "name": "Qian Li",
+        "role": "Co-founder",
+        "background": "PhD Computer Science Stanford. BS from Peking University.",
+        "origin": "",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "dbos",
+        "stage": "Seed",
+        "date": "2024-03",
+        "amount_m": 8.5,
+        "valuation_m": null,
+        "lead_investors": "Engine Ventures",
+        "other_investors": "",
+        "source": "https://techcrunch.com/2024/03/12/new-startup-from-postgres-creator-puts-the-database-at-heart-of-software-stack/",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
     "slug": "decagon",
     "name": "Decagon AI, Inc.",
     "status": "Private",
@@ -17045,6 +17378,45 @@
         "notes": ""
       }
     ],
+    "top_investors": []
+  },
+  {
+    "slug": "dexmate",
+    "name": "Dexmate",
+    "status": "active",
+    "founded_year": null,
+    "hq": "Santa Clara, CA",
+    "website": "https://dexmate.ai",
+    "sector": "['robotics']",
+    "one_liner": "Mobile humanoid robots for logistics and manufacturing. Vega robot with 36+ DOF, 15kg payload, 20hr battery. NVIDIA Inception.",
+    "total_raised_m": 5.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [
+      {
+        "company_slug": "dexmate",
+        "name": "Tao Chen",
+        "role": "CEO",
+        "background": "PhD MIT CSAIL. BS Shanghai Jiao Tong University. Reinforcement learning and robot control.",
+        "origin": "",
+        "prior": ""
+      },
+      {
+        "company_slug": "dexmate",
+        "name": "Yuzhe Qin",
+        "role": "CTO",
+        "background": "PhD UCSD. Computer vision and learning from demonstrations. Qualcomm Scholar.",
+        "origin": "",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [],
     "top_investors": []
   },
   {
@@ -21486,6 +21858,37 @@
         "notes": ""
       }
     ],
+    "top_investors": []
+  },
+  {
+    "slug": "fish-audio",
+    "name": "Fish Audio",
+    "status": "active",
+    "founded_year": null,
+    "hq": "Mountain View, CA",
+    "website": "https://fish.audio",
+    "sector": "['creative-ai']",
+    "one_liner": "AI voice synthesis and text-to-speech. Fish Speech / OpenAudio S1 competing with ElevenLabs. $5M ARR. 420K MAU.",
+    "total_raised_m": 5.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [
+      {
+        "company_slug": "fish-audio",
+        "name": "Shijia Liao (Leng Yue)",
+        "role": "CEO",
+        "background": "Former NVIDIA researcher. Gen Z. 7+ years in speech synthesis. Creator of GPT-SoVITS.",
+        "origin": "",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [],
     "top_investors": []
   },
   {
@@ -27227,6 +27630,40 @@
     "top_investors": []
   },
   {
+    "slug": "hirey",
+    "name": "Hirey",
+    "status": "active",
+    "founded_year": null,
+    "hq": "San Francisco, CA",
+    "website": "https://hirey.com",
+    "sector": "['enterprise-ai']",
+    "one_liner": "Chat-based AI hiring app matching employers with verified candidates. $14M Series A from DST Global.",
+    "total_raised_m": 14.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [],
+    "funding_rounds": [
+      {
+        "company_slug": "hirey",
+        "stage": "Series A",
+        "date": "2023-11",
+        "amount_m": 14.0,
+        "valuation_m": null,
+        "lead_investors": "DST Global",
+        "other_investors": "",
+        "source": "https://www.crunchbase.com/organization/hirey-app",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
     "slug": "hivemind",
     "name": "Hivemind",
     "status": "Active",
@@ -28839,6 +29276,73 @@
         "other_investors": "",
         "source": "https://www.uktechnews.info/2023/02/01/instill-ai-secures-2-9-million-seed-investment-led-by-rtp-global/",
         "notes": "GBP 2.9M. Additional participation from Lunar Ventures, Hive Ventures, Charles Songhurst."
+      }
+    ],
+    "top_investors": []
+  },
+  {
+    "slug": "instinct-robotics",
+    "name": "Instinct Robotics",
+    "status": "active",
+    "founded_year": null,
+    "hq": "Pittsburgh, PA",
+    "website": "https://instinctrobotics.com",
+    "sector": "['robotics', 'enterprise-ai']",
+    "one_liner": "General-purpose AI robotics for high-mix US manufacturing. Scan-and-plan AI for welding, grinding, polishing. Backed by Valor Equity Partners (Tesla/SpaceX investor).",
+    "total_raised_m": 5.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [
+      {
+        "company_slug": "instinct-robotics",
+        "name": "Weiye Zhao",
+        "role": "CEO",
+        "background": "CMU PhD in robotics.",
+        "origin": "",
+        "prior": ""
+      },
+      {
+        "company_slug": "instinct-robotics",
+        "name": "Tianhao Wei",
+        "role": "COO",
+        "background": "CMU PhD.",
+        "origin": "",
+        "prior": ""
+      },
+      {
+        "company_slug": "instinct-robotics",
+        "name": "Rui Chen",
+        "role": "CTO",
+        "background": "CMU PhD.",
+        "origin": "",
+        "prior": ""
+      },
+      {
+        "company_slug": "instinct-robotics",
+        "name": "Changliu Liu",
+        "role": "Chief Scientist",
+        "background": "CMU Robotics Institute faculty.",
+        "origin": "",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "instinct-robotics",
+        "stage": "Seed",
+        "date": "2024",
+        "amount_m": 5.0,
+        "valuation_m": null,
+        "lead_investors": "Valor Equity Partners",
+        "other_investors": "",
+        "source": "https://arminstitute.org/news/five-questions-instinct/",
+        "notes": ""
       }
     ],
     "top_investors": []
@@ -30713,6 +31217,57 @@
         "lead_investors": "Nat Friedman & Daniel Gross",
         "other_investors": "",
         "source": "https://www.klarity.ai/post/klarity-raises-70-million-in-series-b",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
+    "slug": "klavis-ai",
+    "name": "Klavis AI",
+    "status": "active",
+    "founded_year": null,
+    "hq": "San Francisco, CA",
+    "website": "https://klavis.ai",
+    "sector": "['dev-tools', 'infra']",
+    "one_liner": "Open-source MCP infrastructure for AI agent tool-use at scale. YC X25. Co-author of Gemini paper.",
+    "total_raised_m": 0.5,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [
+      {
+        "company_slug": "klavis-ai",
+        "name": "Xiangkai Zeng",
+        "role": "Co-founder",
+        "background": "Co-authored Gemini paper. Built tool-calling infra for Gemini at Google DeepMind. CMU MS, Beihang BS.",
+        "origin": "",
+        "prior": ""
+      },
+      {
+        "company_slug": "klavis-ai",
+        "name": "Zihao Lin",
+        "role": "Co-founder",
+        "background": "Former Senior Engineer at Lyft (recommendations). Northeastern MS, Beihang BS.",
+        "origin": "",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "klavis-ai",
+        "stage": "Seed",
+        "date": "2025",
+        "amount_m": 0.5,
+        "valuation_m": null,
+        "lead_investors": "Y Combinator",
+        "other_investors": "",
+        "source": "https://www.ycombinator.com/companies/klavis-ai",
         "notes": ""
       }
     ],
@@ -34029,6 +34584,57 @@
         "other_investors": "",
         "source": "https://www.businesswire.com/news/home/20260105818373/en/Lyte-Emerges-From-Stealth-With-$107-Million-to-Build-the-Perception-Foundation-for-Physical-AI",
         "notes": "Also backed by Atreides Management, Exor Ventures, Key1 Capital, and Venture Tech Alliance."
+      }
+    ],
+    "top_investors": []
+  },
+  {
+    "slug": "mage-ai",
+    "name": "Mage AI",
+    "status": "active",
+    "founded_year": null,
+    "hq": "Santa Clara, CA",
+    "website": "https://mage.ai",
+    "sector": "['dev-tools', 'data-analytics']",
+    "one_liner": "Open-source data pipeline tool for building, running, and managing data pipelines. Originally 'Stripe for AI'.",
+    "total_raised_m": 11.8,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [
+      {
+        "company_slug": "mage-ai",
+        "name": "Tommy Dang",
+        "role": "CEO",
+        "background": "Former Airbnb engineer. Headed marketing and promotions platform.",
+        "origin": "",
+        "prior": ""
+      },
+      {
+        "company_slug": "mage-ai",
+        "name": "Xiaoyou Wang",
+        "role": "Co-founder",
+        "background": "Co-founded Mage AI.",
+        "origin": "",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "mage-ai",
+        "stage": "Seed",
+        "date": "2021-10",
+        "amount_m": 6.3,
+        "valuation_m": null,
+        "lead_investors": "Gradient Ventures",
+        "other_investors": "",
+        "source": "https://techcrunch.com/2021/10/19/mage-aims-to-be-the-stripe-for-ai-raises-6-3m-for-developer-tools-to-build-ai-into-apps/",
+        "notes": ""
       }
     ],
     "top_investors": []
@@ -42170,6 +42776,65 @@
     "top_investors": []
   },
   {
+    "slug": "ouraca-ai",
+    "name": "Ouraca AI (Aibrary)",
+    "status": "active",
+    "founded_year": null,
+    "hq": "San Francisco, CA",
+    "website": "https://aibrary.app",
+    "sector": "['edtech-ai']",
+    "one_liner": "Agentic AI for lifelong learning \u2014 turns books into personalized podcasts, learning paths, and AI coaching. Founded by ex-ByteDance education CEO.",
+    "total_raised_m": 7.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [
+      {
+        "company_slug": "ouraca-ai",
+        "name": "Ethan (Kejia) Li",
+        "role": "CEO",
+        "background": "Previously developed K12 education platform acquired by ByteDance. Former CEO of ByteDance smart education. Former partner at Initium Capital.",
+        "origin": "",
+        "prior": ""
+      },
+      {
+        "company_slug": "ouraca-ai",
+        "name": "Frank (Jundong) Wu",
+        "role": "Co-founder",
+        "background": "Former director of international investment at TAL Education Group.",
+        "origin": "",
+        "prior": ""
+      },
+      {
+        "company_slug": "ouraca-ai",
+        "name": "Zhang Qiming",
+        "role": "Co-founder",
+        "background": "Former head of education middle-platform at ByteDance.",
+        "origin": "",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "ouraca-ai",
+        "stage": "Seed",
+        "date": "2025",
+        "amount_m": 7.0,
+        "valuation_m": null,
+        "lead_investors": "Sequoia China; Chuxin Capital; Factorial Fund",
+        "other_investors": "",
+        "source": "https://finance.yahoo.com/news/ai-library-personal-growth-aibrary-130000199.html",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
     "slug": "outset-ai",
     "name": "Outset",
     "status": "active",
@@ -42680,6 +43345,57 @@
         "lead_investors": "Y Combinator",
         "other_investors": "",
         "source": "",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
+    "slug": "palona-ai",
+    "name": "Palona AI",
+    "status": "active",
+    "founded_year": null,
+    "hq": "Palo Alto, CA",
+    "website": "https://palona.ai",
+    "sector": "['enterprise-ai', 'agents']",
+    "one_liner": "Emotionally intelligent AI sales agents for D2C and retail brands. OpenAI partnership. Ex-Google VP and ex-Meta VP founders.",
+    "total_raised_m": 10.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [
+      {
+        "company_slug": "palona-ai",
+        "name": "Maria Zhang",
+        "role": "CEO",
+        "background": "Former VP of Engineering at Google. Former VP and GM of AI for Products at Meta.",
+        "origin": "",
+        "prior": ""
+      },
+      {
+        "company_slug": "palona-ai",
+        "name": "Steve Liu",
+        "role": "Chief Scientist",
+        "background": "AI infrastructure and research.",
+        "origin": "",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "palona-ai",
+        "stage": "Seed",
+        "date": "2025-01",
+        "amount_m": 10.0,
+        "valuation_m": null,
+        "lead_investors": "UpHonest Capital; Fusion Fund",
+        "other_investors": "",
+        "source": "https://siliconangle.com/2025/01/23/paloma-ai-gets-10m-build-reliable-customer-service-chatbots-dont-make-mistakes/",
         "notes": ""
       }
     ],
@@ -47875,6 +48591,65 @@
         "lead_investors": "Y Combinator",
         "other_investors": "",
         "source": "",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
+    "slug": "revisiondojo",
+    "name": "RevisionDojo",
+    "status": "active",
+    "founded_year": null,
+    "hq": "London, UK",
+    "website": "https://revisiondojo.com",
+    "sector": "['edtech-ai']",
+    "one_liner": "AI-powered study platform for IB students. 350,000+ students, 2,500+ schools, 180+ countries. YC F24.",
+    "total_raised_m": 3.5,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [
+      {
+        "company_slug": "revisiondojo",
+        "name": "Bowen Liu",
+        "role": "CEO",
+        "background": "Founded RevisionDojo.",
+        "origin": "",
+        "prior": ""
+      },
+      {
+        "company_slug": "revisiondojo",
+        "name": "Janet Liu",
+        "role": "COO",
+        "background": "BSc Finance LSE. Master's Asset Management (Financial Mathematics) Yale.",
+        "origin": "",
+        "prior": ""
+      },
+      {
+        "company_slug": "revisiondojo",
+        "name": "Michael Tong",
+        "role": "CTO",
+        "background": "Computer Science at Stanford.",
+        "origin": "",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "revisiondojo",
+        "stage": "Seed",
+        "date": "2024",
+        "amount_m": 3.5,
+        "valuation_m": null,
+        "lead_investors": "468 Capital; Amino Capital",
+        "other_investors": "",
+        "source": "https://www.crunchbase.com/organization/revision-dojo",
         "notes": ""
       }
     ],
@@ -55845,6 +56620,92 @@
     "top_investors": []
   },
   {
+    "slug": "taxgpt",
+    "name": "TaxGPT",
+    "status": "active",
+    "founded_year": null,
+    "hq": "San Francisco, CA",
+    "website": "https://taxgpt.com",
+    "sector": "['fintech-ai']",
+    "one_liner": "AI tax co-pilot for accounting firms. 10,000+ CPAs serving 250,000 clients. YC-backed.",
+    "total_raised_m": 4.6,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [
+      {
+        "company_slug": "taxgpt",
+        "name": "Kashif Ali",
+        "role": "CEO",
+        "background": "15+ years in accounting, journalism, software engineering.",
+        "origin": "",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "taxgpt",
+        "stage": "Seed",
+        "date": "2025-02",
+        "amount_m": 4.6,
+        "valuation_m": null,
+        "lead_investors": "Rebel Fund; Mangusta Capital; Y Combinator",
+        "other_investors": "",
+        "source": "https://www.taxgpt.com/blog/taxgpt-raises-4-6m-to-build-the-first-ai-tax-co-pilot-for-accounting-and-tax-firms",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
+    "slug": "taxo-ai",
+    "name": "Taxo AI",
+    "status": "active",
+    "founded_year": null,
+    "hq": "San Francisco, CA",
+    "website": "https://taxo.ai",
+    "sector": "['healthcare-ai', 'agents']",
+    "one_liner": "AI reasoning engine for healthcare admin \u2014 automates prior authorizations, patient intake, and medical billing. YC S24. $1M ARR in 6 months.",
+    "total_raised_m": 5.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [
+      {
+        "company_slug": "taxo-ai",
+        "name": "Dr. Ahmed Kerwan",
+        "role": "CEO",
+        "background": "Practicing physician. Fellowship at Harvard and MIT at intersection of AI and healthcare.",
+        "origin": "",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "taxo-ai",
+        "stage": "Seed",
+        "date": "2025-03",
+        "amount_m": 5.0,
+        "valuation_m": null,
+        "lead_investors": "Y Combinator; General Catalyst; Character Capital",
+        "other_investors": "",
+        "source": "https://techcrunch.com/2025/03/28/yc-backed-taxo-raised-5m-to-slash-healthcare-admin-with-its-ai-reasoning-engine/",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
     "slug": "taxo",
     "name": "Taxo",
     "status": "active",
@@ -57089,6 +57950,49 @@
         "lead_investors": "KOMPAS VC",
         "other_investors": "",
         "source": "",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
+    "slug": "timeplus",
+    "name": "Timeplus",
+    "status": "active",
+    "founded_year": null,
+    "hq": "Santa Clara, CA",
+    "website": "https://timeplus.com",
+    "sector": "['data-analytics', 'infra']",
+    "one_liner": "Streaming SQL database and real-time analytics platform. Open-sourced streaming engine. Backed by Hillhouse Capital.",
+    "total_raised_m": 9.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [
+      {
+        "company_slug": "timeplus",
+        "name": "Ting Wang",
+        "role": "CEO",
+        "background": "BS & MS Computer Science, Tongji University (Shanghai). Former Splunk, SAP, TalkingData.",
+        "origin": "",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "timeplus",
+        "stage": "Seed",
+        "date": "2022-07",
+        "amount_m": 9.0,
+        "valuation_m": null,
+        "lead_investors": "Hillhouse Capital",
+        "other_investors": "",
+        "source": "https://www.timeplus.com/post/why-timeplus",
         "notes": ""
       }
     ],
@@ -61035,6 +61939,49 @@
         "lead_investors": "Naval Ravikant; Garry Tan; Justin Kan",
         "other_investors": "",
         "source": "",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
+    "slug": "wanderboat-ai",
+    "name": "Wanderboat AI",
+    "status": "active",
+    "founded_year": null,
+    "hq": "San Francisco, CA",
+    "website": "https://wanderboat.ai",
+    "sector": "['search-knowledge', 'other']",
+    "one_liner": "AI-powered travel planning with multimodal search and generative AI. Surfaces videos, images, and community insights.",
+    "total_raised_m": 23.8,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [
+      {
+        "company_slug": "wanderboat-ai",
+        "name": "You Wu",
+        "role": "CEO",
+        "background": "Former principal applied scientist at Microsoft AI (Copilot, Bing Chat). Former Meta researcher.",
+        "origin": "",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "wanderboat-ai",
+        "stage": "Seed",
+        "date": "2024",
+        "amount_m": 6.0,
+        "valuation_m": null,
+        "lead_investors": "Sequoia Capital",
+        "other_investors": "",
+        "source": "https://www.phocuswire.com/startup-stage-wanderboat-fosters-a-community-oriented-approach-for-inspiration-and-sharing",
         "notes": ""
       }
     ],

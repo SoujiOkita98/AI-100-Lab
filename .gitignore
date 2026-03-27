@@ -2,3 +2,5 @@
 scripts/fix_*.json
 scripts/batch*_rounds.json
 analysis/
+.gstack/
+.local/
