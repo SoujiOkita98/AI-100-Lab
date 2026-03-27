@@ -6542,6 +6542,37 @@
     "top_investors": []
   },
   {
+    "slug": "autox",
+    "name": "AutoX",
+    "status": "active",
+    "founded_year": null,
+    "hq": "Shenzhen, China",
+    "website": "https://www.autox.ai",
+    "sector": "['autonomous-vehicles']",
+    "one_liner": "Developer of L4+ fully driverless robotaxi platform operating the largest driverless fleet in Asia (1,000+ vehicles).",
+    "total_raised_m": 267.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [
+      {
+        "company_slug": "autox",
+        "name": "Jianxiong Xiao (Professor X)",
+        "role": "CEO",
+        "background": "Former Princeton University professor. PhD from MIT. Specializes in computer vision, 3D deep learning, and autonomous driving.",
+        "origin": "",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [],
+    "top_investors": []
+  },
+  {
     "slug": "autumn-billing",
     "name": "Autumn",
     "status": "active",
@@ -16713,6 +16744,65 @@
     ]
   },
   {
+    "slug": "dify",
+    "name": "Dify",
+    "status": "active",
+    "founded_year": null,
+    "hq": "Sunnyvale, CA",
+    "website": "https://dify.ai",
+    "sector": "['dev-tools', 'agents']",
+    "one_liner": "Open-source LLMOps platform for building agentic AI workflows. 51st most-starred OSS project on GitHub, runs on 1.4M+ machines.",
+    "total_raised_m": 41.5,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [
+      {
+        "company_slug": "dify",
+        "name": "Luyu Zhang",
+        "role": "CEO",
+        "background": "MS from USC. Former Product Director at Tencent CODING (DevOps platform).",
+        "origin": "",
+        "prior": ""
+      },
+      {
+        "company_slug": "dify",
+        "name": "John Wang",
+        "role": "Chief Engineer",
+        "background": "Former Tencent engineer.",
+        "origin": "",
+        "prior": ""
+      },
+      {
+        "company_slug": "dify",
+        "name": "Junchen (Richard) Yan",
+        "role": "Co-founder",
+        "background": "Co-founded Dify in 2023.",
+        "origin": "",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "dify",
+        "stage": "Series Pre-A",
+        "date": "2026-03",
+        "amount_m": 30.0,
+        "valuation_m": null,
+        "lead_investors": "HSG",
+        "other_investors": "",
+        "source": "https://www.businesswire.com/news/home/20260309511426/en/Dify-Raises-$30-million-Series-Pre-A-to-Power-Enterprise-Grade-Agentic-Workflows",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
     "slug": "diligencesquared",
     "name": "DiligenceSquared",
     "status": "active",
@@ -17016,6 +17106,57 @@
         "lead_investors": "National Science Foundation",
         "other_investors": "",
         "source": "https://www.docugami.com/news/nsf-grant",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
+    "slug": "dp-technology",
+    "name": "DP Technology",
+    "status": "active",
+    "founded_year": null,
+    "hq": "Beijing, China",
+    "website": "https://www.dp.tech",
+    "sector": "['biotech-ai', 'data-analytics']",
+    "one_liner": "AI-for-Science platform accelerating drug discovery, materials research, and battery design through molecular simulation.",
+    "total_raised_m": 114.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [
+      {
+        "company_slug": "dp-technology",
+        "name": "Weinan E",
+        "role": "Co-founder",
+        "background": "Professor at Peking University and Princeton. Member of Chinese Academy of Sciences. World-renowned mathematician.",
+        "origin": "",
+        "prior": ""
+      },
+      {
+        "company_slug": "dp-technology",
+        "name": "Linfeng Zhang",
+        "role": "Chief Scientist",
+        "background": "BS Peking University, PhD Applied Mathematics Princeton. Director of AI for Science Institute.",
+        "origin": "",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "dp-technology",
+        "stage": "Series C",
+        "date": "2025-12",
+        "amount_m": 114.0,
+        "valuation_m": null,
+        "lead_investors": "Fortune Venture Capital",
+        "other_investors": "",
+        "source": "https://www.scmp.com/business/companies/article/3337648/ai-science-start-dp-technology-raises-us114-million-series-c-round",
         "notes": ""
       }
     ],
@@ -17331,6 +17472,57 @@
         "lead_investors": "Insight Partners",
         "other_investors": "",
         "source": "https://e2b.dev/blog/series-a",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
+    "slug": "earendil-labs",
+    "name": "Earendil Labs",
+    "status": "active",
+    "founded_year": null,
+    "hq": "Middletown, DE",
+    "website": "https://www.earendil.ai",
+    "sector": "['healthcare-ai', 'biotech-ai']",
+    "one_liner": "AI-powered biologics discovery company with 40+ pipeline programs for autoimmune diseases and cancer. Backed by Sanofi and Pfizer.",
+    "total_raised_m": 787.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [
+      {
+        "company_slug": "earendil-labs",
+        "name": "Jian Peng",
+        "role": "CEO",
+        "background": "PhD from Hunan University. Former Associate Professor at UIUC.",
+        "origin": "",
+        "prior": ""
+      },
+      {
+        "company_slug": "earendil-labs",
+        "name": "Zhenping Zhu",
+        "role": "President & Co-CEO",
+        "background": "MD from Jiangxi Medical College. PhD immunology from Dalhousie University. Former Global VP Protein Sciences at Novartis.",
+        "origin": "",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "earendil-labs",
+        "stage": "Series A",
+        "date": "2026-03",
+        "amount_m": 787.0,
+        "valuation_m": null,
+        "lead_investors": "Sanofi; Pfizer",
+        "other_investors": "",
+        "source": "https://www.biopharmadive.com/news/earendil-labs-financing-ai-biologics-china-sanofi/815336/",
         "notes": ""
       }
     ],
@@ -26672,6 +26864,68 @@
     "top_investors": []
   },
   {
+    "slug": "hyperbolic-labs",
+    "name": "Hyperbolic Labs",
+    "status": "active",
+    "founded_year": null,
+    "hq": "Irvine, CA",
+    "website": "https://www.hyperbolic.ai",
+    "sector": "['infra']",
+    "one_liner": "Open-access AI cloud providing GPU marketplace and serverless inference. Decentralized compute platform.",
+    "total_raised_m": 20.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [
+      {
+        "company_slug": "hyperbolic-labs",
+        "name": "Jasper (Yue) Zhang",
+        "role": "CEO",
+        "background": "PhD Mathematics UC Berkeley (completed in 2 years). Gold Medalist at Alibaba Global Math Competition and Chinese Mathematical Olympiad. Previously at Citadel Securities.",
+        "origin": "",
+        "prior": ""
+      },
+      {
+        "company_slug": "hyperbolic-labs",
+        "name": "Yuchen Jin",
+        "role": "CTO",
+        "background": "PhD CS University of Washington. BS from Huazhong University of Science & Technology. Built Apache TVM. Former Sr. Engineering Manager at OctoML.",
+        "origin": "",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "hyperbolic-labs",
+        "stage": "Seed",
+        "date": "2024-08",
+        "amount_m": 7.0,
+        "valuation_m": null,
+        "lead_investors": "Polychain Capital",
+        "other_investors": "",
+        "source": "https://www.hyperbolic.ai/blog/hyperbolic-secures-20m-total-funding-with-latest-series-a",
+        "notes": ""
+      },
+      {
+        "company_slug": "hyperbolic-labs",
+        "stage": "Series A",
+        "date": "2024-12",
+        "amount_m": 12.0,
+        "valuation_m": null,
+        "lead_investors": "Polychain Capital; Variant Fund",
+        "other_investors": "",
+        "source": "https://fortune.com/crypto/2024/12/10/ai-company-hyperbolic-raises-12-million-series-a-funding/",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
     "slug": "hyperbound",
     "name": "Hyperbound",
     "status": "Private",
@@ -27036,6 +27290,49 @@
         "lead_investors": "Redpoint Ventures; Battery Ventures",
         "other_investors": "",
         "source": "",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
+    "slug": "inceptio-technology",
+    "name": "Inceptio Technology",
+    "status": "active",
+    "founded_year": null,
+    "hq": "Shanghai, China",
+    "website": "https://www.inceptio.ai",
+    "sector": "['autonomous-vehicles']",
+    "one_liner": "Autonomous trucking company mass-producing L3 self-driving heavy-duty trucks with OEM partners Dongfeng and Sinotruk.",
+    "total_raised_m": 678.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [
+      {
+        "company_slug": "inceptio-technology",
+        "name": "Julian Ma (Ma Zheren)",
+        "role": "CEO",
+        "background": "MBA from IMD. BS EE from Shanghai Jiaotong University. Former Corporate VP at Tencent overseeing strategy and autonomous driving. Former board member of NIO and ZOOX.",
+        "origin": "",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "inceptio-technology",
+        "stage": "Series B",
+        "date": "2021-06",
+        "amount_m": 270.0,
+        "valuation_m": null,
+        "lead_investors": "Undisclosed",
+        "other_investors": "",
+        "source": "https://www.therobotreport.com/inceptio-technology-270m-autonomous-trucking-tech/",
         "notes": ""
       }
     ],
@@ -29880,6 +30177,37 @@
     "top_investors": []
   },
   {
+    "slug": "kunlunxin",
+    "name": "Kunlunxin",
+    "status": "active",
+    "founded_year": null,
+    "hq": "Beijing, China",
+    "website": "https://www.kunlunxin.com",
+    "sector": "['infra', 'AI chips']",
+    "one_liner": "Baidu-spun-off AI chip subsidiary designing cloud AI accelerators. Filing for Hong Kong IPO. Projected revenue exceeding $500M.",
+    "total_raised_m": 280.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [
+      {
+        "company_slug": "kunlunxin",
+        "name": "Ouyang Jian",
+        "role": "CEO",
+        "background": "Led Kunlunxin AI chip division within Baidu before spinoff.",
+        "origin": "",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [],
+    "top_investors": []
+  },
+  {
     "slug": "kyutai",
     "name": "Kyutai",
     "status": "Active",
@@ -30130,6 +30458,57 @@
         "lead_investors": "Undisclosed",
         "other_investors": "",
         "source": "https://www.crunchbase.com/organization/lambda",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
+    "slug": "lamini",
+    "name": "Lamini",
+    "status": "active",
+    "founded_year": null,
+    "hq": "Menlo Park, CA",
+    "website": "https://www.lamini.ai",
+    "sector": "['infra', 'enterprise-ai']",
+    "one_liner": "Enterprise generative AI platform for building and running customized LLMs. Close partnerships with AMD and Meta. Backed by Andrew Ng and Andrej Karpathy.",
+    "total_raised_m": 25.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [
+      {
+        "company_slug": "lamini",
+        "name": "Sharon Zhou",
+        "role": "CEO",
+        "background": "PhD AI from Stanford (advised by Andrew Ng). Harvard BSc in CS & Classics. Former Google ML PM. MIT Tech Review 35 Under 35.",
+        "origin": "",
+        "prior": ""
+      },
+      {
+        "company_slug": "lamini",
+        "name": "Greg Diamos",
+        "role": "CTO",
+        "background": "Co-founded MLCommons/MLPerf. Led AI research at Baidu. Former NVIDIA CUDA team architect.",
+        "origin": "",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "lamini",
+        "stage": "Series A",
+        "date": "2024-05",
+        "amount_m": 25.0,
+        "valuation_m": null,
+        "lead_investors": "Amplify Partners; First Round Capital",
+        "other_investors": "",
+        "source": "https://techcrunch.com/2024/05/02/dropbox-figma-ceos-back-lamini-a-startup-building-a-generative-ai-platform-for-enterprises/",
         "notes": ""
       }
     ],
@@ -30890,6 +31269,65 @@
         "lead_investors": "HongShan (Sequoia China); CMC Capital",
         "other_investors": "",
         "source": "https://pandaily.com/130-million-liblib-ai-secures-china-s-largest-ai-application-funding-round-to-date",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
+    "slug": "lightelligence",
+    "name": "Lightelligence",
+    "status": "active",
+    "founded_year": null,
+    "hq": "Shanghai, China",
+    "website": "https://www.lightelligence.ai",
+    "sector": "['infra', 'AI chips']",
+    "one_liner": "MIT-spinoff building photonic/optical AI chips claiming 100x faster inference than Nvidia GPUs. Raised $247M including $210M Series C.",
+    "total_raised_m": 247.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [
+      {
+        "company_slug": "lightelligence",
+        "name": "Shen Yichen",
+        "role": "CEO",
+        "background": "PhD MIT Physics. Born 1989. Pioneered optical computing at MIT.",
+        "origin": "",
+        "prior": ""
+      },
+      {
+        "company_slug": "lightelligence",
+        "name": "Marin Soljacic",
+        "role": "Co-founder",
+        "background": "MIT professor of physics.",
+        "origin": "",
+        "prior": ""
+      },
+      {
+        "company_slug": "lightelligence",
+        "name": "Paul Xie",
+        "role": "Co-founder",
+        "background": "MIT researcher.",
+        "origin": "",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "lightelligence",
+        "stage": "Series C",
+        "date": "2024",
+        "amount_m": 210.0,
+        "valuation_m": null,
+        "lead_investors": "China Mobile; Shanghai State-owned Investment",
+        "other_investors": "",
+        "source": "https://en.tmtpost.com/post/7686104",
         "notes": ""
       }
     ],
@@ -35114,6 +35552,88 @@
         "other_investors": "",
         "source": "https://www.modular.com/blog/modular-raises-250m-to-scale-ais-unified-compute-layer",
         "notes": "Also GV, General Catalyst, Greylock. Valued at $1.6B."
+      }
+    ],
+    "top_investors": []
+  },
+  {
+    "slug": "moffett-ai",
+    "name": "Moffett AI",
+    "status": "active",
+    "founded_year": null,
+    "hq": "Shenzhen, China",
+    "website": "https://www.moffett.ai",
+    "sector": "['infra', 'AI chips']",
+    "one_liner": "Sparse-computing AI inference chip designer achieving 32x performance gains by stripping unnecessary algorithmic complexity. Series B led by Ant Group.",
+    "total_raised_m": 50.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [
+      {
+        "company_slug": "moffett-ai",
+        "name": "Lu Shan",
+        "role": "CEO",
+        "background": "Former engineer at Xilinx/AMD.",
+        "origin": "",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [],
+    "top_investors": []
+  },
+  {
+    "slug": "moka-hr",
+    "name": "Moka HR",
+    "status": "active",
+    "founded_year": null,
+    "hq": "Beijing, China",
+    "website": "https://www.mokahr.com",
+    "sector": "['enterprise-ai']",
+    "one_liner": "AI-powered HR/recruitment SaaS platform (China's Workday equivalent) for enterprises with 500+ employees. Unicorn at $1B+.",
+    "total_raised_m": 163.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [
+      {
+        "company_slug": "moka-hr",
+        "name": "Zhao Oulun (Orion)",
+        "role": "CEO",
+        "background": "UC Berkeley graduate. Former engineer at Turo (SF).",
+        "origin": "",
+        "prior": ""
+      },
+      {
+        "company_slug": "moka-hr",
+        "name": "Li Guoxing",
+        "role": "Co-founder",
+        "background": "University of Michigan and Stanford graduate. Former Facebook engineer.",
+        "origin": "",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "moka-hr",
+        "stage": "Series C",
+        "date": "2021-11",
+        "amount_m": 100.0,
+        "valuation_m": null,
+        "lead_investors": "Tiger Global",
+        "other_investors": "",
+        "source": "https://techcrunch.com/2021/11/01/china-hr-saas-startup-moka-100m-tiger-global/",
+        "notes": ""
       }
     ],
     "top_investors": []
@@ -50642,6 +51162,37 @@
     "top_investors": []
   },
   {
+    "slug": "sophgo",
+    "name": "Sophgo",
+    "status": "active",
+    "founded_year": null,
+    "hq": "Beijing, China",
+    "website": "https://www.sophgo.com",
+    "sector": "['infra', 'AI chips']",
+    "one_liner": "RISC-V processor and TPU designer spun out of Bitmain. US Entity Listed in 2024 over Huawei chip supply chain concerns.",
+    "total_raised_m": null,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [
+      {
+        "company_slug": "sophgo",
+        "name": "Micree Zhan",
+        "role": "Indirect owner (23%)",
+        "background": "Co-founder of Bitmain, world's largest Bitcoin mining chip maker.",
+        "origin": "",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [],
+    "top_investors": []
+  },
+  {
     "slug": "sourcegraph",
     "name": "Sourcegraph",
     "status": "Private (Series D)",
@@ -58389,6 +58940,49 @@
         "other_investors": "",
         "source": "https://www.crunchbase.com/organization/viz-ai",
         "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
+    "slug": "voyage-ai",
+    "name": "Voyage AI",
+    "status": "active",
+    "founded_year": null,
+    "hq": "San Francisco, CA",
+    "website": "https://www.voyageai.com",
+    "sector": "['infra', 'search-knowledge']",
+    "one_liner": "Built state-of-the-art embedding models and rerankers for RAG systems. Used by Anthropic, Harvey, Replit. Acquired by MongoDB for $220M.",
+    "total_raised_m": 28.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [
+      {
+        "company_slug": "voyage-ai",
+        "name": "Tengyu Ma",
+        "role": "CEO",
+        "background": "Assistant Professor at Stanford. BS from Tsinghua University. PhD from Princeton. Previously at Google and Facebook.",
+        "origin": "",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "voyage-ai",
+        "stage": "Series A",
+        "date": "2024-10",
+        "amount_m": 28.0,
+        "valuation_m": null,
+        "lead_investors": "CRV",
+        "other_investors": "",
+        "source": "https://www.inc.com/chloe-aiello/voyage-ai-just-sold-for-220-million-after-launching-less-than-two-years-ago/91151766",
+        "notes": "Acquired by MongoDB for $220M in Feb 2025, less than 2 years after founding."
       }
     ],
     "top_investors": []
