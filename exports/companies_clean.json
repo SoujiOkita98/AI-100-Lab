@@ -46,13 +46,24 @@
     "funding_rounds": [
       {
         "company_slug": "01-ai",
-        "stage": "Series D",
+        "stage": "Series A",
         "date": "2023-11",
-        "amount_m": 300.0,
+        "amount_m": 200.0,
         "valuation_m": 1000.0,
-        "lead_investors": "Alibaba Cloud; Xiaomi; Tencent; Sinovation Ventures",
-        "other_investors": "",
-        "source": "https://siliconangle.com/2023/11/06/01-ai-led-ai-pioneer-kai-fu-lee-achieves-1b-valuation/",
+        "lead_investors": "Alibaba Cloud",
+        "other_investors": "Sinovation Ventures; Xiaomi; Tencent",
+        "source": "https://siliconangle.com/2023/11/06/01-ai-led-ai-pioneer-kai-fu-lee-achieves-1b-valuation-eight-months/",
+        "notes": ""
+      },
+      {
+        "company_slug": "01-ai",
+        "stage": "Series B",
+        "date": "2024-08",
+        "amount_m": 100.0,
+        "valuation_m": null,
+        "lead_investors": "Undisclosed (international VC)",
+        "other_investors": "Southeast Asian consortium",
+        "source": "https://tracxn.com/d/companies/01.ai/",
         "notes": ""
       }
     ],
@@ -364,6 +375,37 @@
         "notes": ""
       }
     ],
+    "top_investors": []
+  },
+  {
+    "slug": "4paradigm",
+    "name": "4Paradigm",
+    "status": "active",
+    "founded_year": null,
+    "hq": "Beijing, China",
+    "website": "https://www.4paradigm.com",
+    "sector": "['enterprise-ai', 'data-analytics']",
+    "one_liner": "Enterprise AI platform for decision-making and predictive analytics. IPO on HKSE in 2023.",
+    "total_raised_m": 1000.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [
+      {
+        "company_slug": "4paradigm",
+        "name": "Dai Wenyuan",
+        "role": "CEO",
+        "background": "Former Chief Architect of Baidu Phoenix Nest. MIT Innovators Under 35.",
+        "origin": "",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [],
     "top_investors": []
   },
   {
@@ -7934,6 +7976,45 @@
     "top_investors": []
   },
   {
+    "slug": "black-sesame-technologies",
+    "name": "Black Sesame Technologies",
+    "status": "active",
+    "founded_year": null,
+    "hq": "Wuhan, China",
+    "website": "https://www.bst.ai",
+    "sector": "['AI chips', 'autonomous-vehicles']",
+    "one_liner": "AI chips for autonomous driving and ADAS. IPO on HKSE Aug 2024.",
+    "total_raised_m": 262.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [
+      {
+        "company_slug": "black-sesame-technologies",
+        "name": "Shan Jizhang",
+        "role": "CEO",
+        "background": "Nearly 2 decades at OmniVision Technologies.",
+        "origin": "",
+        "prior": ""
+      },
+      {
+        "company_slug": "black-sesame-technologies",
+        "name": "Liu Weihong",
+        "role": "CTO",
+        "background": "Former General Motors and Bosch engineer.",
+        "origin": "",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [],
+    "top_investors": []
+  },
+  {
     "slug": "bland-ai",
     "name": "Bland AI",
     "status": "active",
@@ -11819,6 +11900,37 @@
         "notes": ""
       }
     ],
+    "top_investors": []
+  },
+  {
+    "slug": "cloudwalk-technology",
+    "name": "CloudWalk Technology",
+    "status": "active",
+    "founded_year": null,
+    "hq": "Guangzhou, China",
+    "website": "https://www.cloudwalk.com",
+    "sector": "['computer vision', 'security-ai']",
+    "one_liner": "AI-powered facial recognition for banking, aviation, and public security. IPO on Shanghai STAR Market.",
+    "total_raised_m": 500.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [
+      {
+        "company_slug": "cloudwalk-technology",
+        "name": "Zhou Xi",
+        "role": "CEO",
+        "background": "PhD University of Illinois at Urbana-Champaign. Former Chinese Academy of Sciences researcher.",
+        "origin": "",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [],
     "top_investors": []
   },
   {
@@ -16064,6 +16176,49 @@
     "top_investors": []
   },
   {
+    "slug": "deeproute-ai",
+    "name": "DeepRoute.ai",
+    "status": "active",
+    "founded_year": null,
+    "hq": "Shenzhen, China",
+    "website": "https://www.deeproute.ai",
+    "sector": "['autonomous-vehicles']",
+    "one_liner": "Full-stack autonomous driving: perception, decision-making, and control.",
+    "total_raised_m": 450.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [
+      {
+        "company_slug": "deeproute-ai",
+        "name": "Zhou Guang",
+        "role": "CEO",
+        "background": "Autonomous driving researcher.",
+        "origin": "",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "deeproute-ai",
+        "stage": "Series C1",
+        "date": "2024-11",
+        "amount_m": 100.0,
+        "valuation_m": null,
+        "lead_investors": "Undisclosed",
+        "other_investors": "",
+        "source": "https://cnevpost.com/2024/11/05/deeproute-secures-usd-100-million-funding/",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
     "slug": "deepseek",
     "name": "DeepSeek",
     "status": "active",
@@ -16072,7 +16227,7 @@
     "website": "https://www.deepseek.com",
     "sector": "Foundation Models / Large Language Models",
     "one_liner": "DeepSeek is a Chinese AI research lab that builds open-weight large language models",
-    "total_raised_m": 1100.0,
+    "total_raised_m": 0.0,
     "latest_valuation_m": 3400.0,
     "employees": "150-200",
     "revenue_signals": null,
@@ -16094,14 +16249,14 @@
     "funding_rounds": [
       {
         "company_slug": "deepseek",
-        "stage": "Internal / Proprietary Funding",
+        "stage": "Internal funding from High-Flyer Capital (NOT venture capital)",
         "date": "2023-07",
-        "amount_m": 1100.0,
+        "amount_m": null,
         "valuation_m": null,
-        "lead_investors": "High-Flyer Quantitative Investment (Liang Wenfeng)",
+        "lead_investors": "High-Flyer Capital Management (Liang Wenfeng, founder/CEO -- owns 84% of DeepSeek)",
         "other_investors": "",
         "source": "https://techcrunch.com/2025/03/10/deepseek-isnt-taking-vc-money-yet-here-are-3-reasons-why/",
-        "notes": "No external VC. Wholly funded by founder's hedge fund High-Flyer (~$8B AUM). The $1.1B is estimated internal capital deployed."
+        "notes": "DeepSeek has NOT raised any external venture capital. It is entirely self-funded by High-Flyer Capital Management, Liang Wenfeng's quantitative hedge fund (~$8B AUM). Prior reports of a \"$520M Series C\" or \"$1.1B total raised\" appear to conflate internal capital transfers from High-Flyer with external fundraising. No VC rounds as of March 2026."
       }
     ],
     "top_investors": []
@@ -21876,6 +22031,57 @@
     "top_investors": []
   },
   {
+    "slug": "galaxea-ai",
+    "name": "Galaxea AI",
+    "status": "active",
+    "founded_year": null,
+    "hq": "Beijing, China",
+    "website": "https://www.galaxea.ai",
+    "sector": "['robotics', 'agents']",
+    "one_liner": "Embodied intelligence for humanoid robots. Mission: '10 billion robots for 10 billion people'.",
+    "total_raised_m": 300.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [
+      {
+        "company_slug": "galaxea-ai",
+        "name": "Huazhe Xu",
+        "role": "CEO",
+        "background": "PhD UC Berkeley, postdoc Stanford, now Tsinghua professor.",
+        "origin": "",
+        "prior": ""
+      },
+      {
+        "company_slug": "galaxea-ai",
+        "name": "Jiyang Gao",
+        "role": "Co-founder",
+        "background": "Ex-Waymo, ex-Momenta.",
+        "origin": "",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "galaxea-ai",
+        "stage": "Series B",
+        "date": "2026-02",
+        "amount_m": 144.0,
+        "valuation_m": null,
+        "lead_investors": "Undisclosed",
+        "other_investors": "",
+        "source": "https://www.caixinglobal.com/2026-02-12/galaxea-ai-raises-144-million-as-chinas-robot-investment-frenzy-mounts-102413767.html",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
     "slug": "galbot",
     "name": "Galbot (Galaxy General Robotics)",
     "status": "active",
@@ -25602,6 +25808,45 @@
     "top_investors": []
   },
   {
+    "slug": "hesai-technology",
+    "name": "Hesai Technology",
+    "status": "active",
+    "founded_year": null,
+    "hq": "Shanghai, China",
+    "website": "https://www.hesaitech.com",
+    "sector": "['autonomous-vehicles', 'infra']",
+    "one_liner": "LiDAR sensor technology for autonomous driving and robotics. Global market leader. Nasdaq IPO 2023.",
+    "total_raised_m": 300.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [
+      {
+        "company_slug": "hesai-technology",
+        "name": "David Li Yifan",
+        "role": "CEO",
+        "background": "PhD Robotics, University of Illinois.",
+        "origin": "",
+        "prior": ""
+      },
+      {
+        "company_slug": "hesai-technology",
+        "name": "Kai Sun",
+        "role": "Co-founder",
+        "background": "Co-founded Hesai with Li Yifan.",
+        "origin": "",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [],
+    "top_investors": []
+  },
+  {
     "slug": "hex-security",
     "name": "Hex Security",
     "status": "active",
@@ -26634,6 +26879,37 @@
     "top_investors": []
   },
   {
+    "slug": "iluvatar-corex",
+    "name": "Iluvatar CoreX",
+    "status": "active",
+    "founded_year": null,
+    "hq": "Shanghai, China",
+    "website": "https://www.iluvatar.com",
+    "sector": "['infra', 'AI chips']",
+    "one_liner": "General-purpose GPGPUs for AI computing. One of China's 'Four Little GPU Dragons'. IPO on HKSE Jan 2026.",
+    "total_raised_m": 334.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [
+      {
+        "company_slug": "iluvatar-corex",
+        "name": "Li Yunpeng",
+        "role": "CEO",
+        "background": "Former Oracle R&D Director. Team from AMD/ATI, Nvidia, Oracle.",
+        "origin": "",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [],
+    "top_investors": []
+  },
+  {
     "slug": "imbue",
     "name": "Imbue",
     "status": "Active",
@@ -26983,6 +27259,45 @@
         "notes": ""
       }
     ],
+    "top_investors": []
+  },
+  {
+    "slug": "infervision",
+    "name": "Infervision",
+    "status": "active",
+    "founded_year": null,
+    "hq": "Beijing, China",
+    "website": "https://www.infervision.com",
+    "sector": "['healthcare-ai']",
+    "one_liner": "AI-powered medical imaging for lung cancer and TB screening.",
+    "total_raised_m": 213.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [
+      {
+        "company_slug": "infervision",
+        "name": "Kuan Chen",
+        "role": "CEO",
+        "background": "AI medical imaging researcher.",
+        "origin": "",
+        "prior": ""
+      },
+      {
+        "company_slug": "infervision",
+        "name": "Shaokang Wang",
+        "role": "Co-founder",
+        "background": "Medical AI researcher.",
+        "origin": "",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [],
     "top_investors": []
   },
   {
@@ -28578,6 +28893,49 @@
         "lead_investors": "Mayfield Fund",
         "other_investors": "",
         "source": "https://techcrunch.com/2026/02/18/kana-emerges-from-stealth-with-15m/",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
+    "slug": "keenon-robotics",
+    "name": "Keenon Robotics",
+    "status": "active",
+    "founded_year": null,
+    "hq": "Shanghai, China",
+    "website": "https://www.keenonrobot.com",
+    "sector": "['robotics', 'enterprise-ai']",
+    "one_liner": "Commercial service robots for restaurants, hotels, healthcare. 100K+ units shipped. Unicorn at $1B valuation.",
+    "total_raised_m": 230.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [
+      {
+        "company_slug": "keenon-robotics",
+        "name": "Tony Li",
+        "role": "CEO",
+        "background": "Founded Keenon in 2010.",
+        "origin": "",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "keenon-robotics",
+        "stage": "Series D",
+        "date": "2021-09",
+        "amount_m": 200.0,
+        "valuation_m": null,
+        "lead_investors": "SoftBank Vision Fund 2",
+        "other_investors": "",
+        "source": "https://www.therobotreport.com/keenon-robotics-raises-200-million-in-series-d-funding/",
         "notes": ""
       }
     ],
@@ -33383,6 +33741,53 @@
     "top_investors": []
   },
   {
+    "slug": "megvii",
+    "name": "Megvii (Face++)",
+    "status": "active",
+    "founded_year": null,
+    "hq": "Beijing, China",
+    "website": "https://www.megvii.com",
+    "sector": "['computer vision', 'AI platform']",
+    "one_liner": "World's largest computer vision platform; facial recognition for security, finance, and retail. IPO on Shanghai STAR Market.",
+    "total_raised_m": 1300.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [
+      {
+        "company_slug": "megvii",
+        "name": "Yin Qi",
+        "role": "CEO",
+        "background": "Tsinghua University. Co-founded Megvii at age 25.",
+        "origin": "",
+        "prior": ""
+      },
+      {
+        "company_slug": "megvii",
+        "name": "Tang Wenbin",
+        "role": "CTO",
+        "background": "Tsinghua University. Led development of Face++ platform.",
+        "origin": "",
+        "prior": ""
+      },
+      {
+        "company_slug": "megvii",
+        "name": "Yang Mu",
+        "role": "CTO (now departed)",
+        "background": "Tsinghua University. Early Face++ development.",
+        "origin": "",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [],
+    "top_investors": []
+  },
+  {
     "slug": "mem0",
     "name": "Mem0",
     "status": "active",
@@ -33604,7 +34009,7 @@
     "website": "https://www.metax-tech.com/en",
     "sector": "AI Chips / GPU Design",
     "one_liner": "Chinese AI GPU maker. Revenue 743M yuan in 2024. IPO on STAR Market \u2014 shares surged 700% on debut. AMD veterans.",
-    "total_raised_m": 596.0,
+    "total_raised_m": 1400.0,
     "latest_valuation_m": null,
     "employees": null,
     "revenue_signals": null,
@@ -33632,6 +34037,72 @@
       }
     ],
     "funding_rounds": [
+      {
+        "company_slug": "metax-gpu",
+        "stage": "Angel",
+        "date": "2020-10",
+        "amount_m": null,
+        "valuation_m": null,
+        "lead_investors": "CTC Capital; TEDA Venture Capital",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
+      },
+      {
+        "company_slug": "metax-gpu",
+        "stage": "Pre-A",
+        "date": "2021-01",
+        "amount_m": null,
+        "valuation_m": null,
+        "lead_investors": "HongShan (Sequoia China); ZhenFund",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
+      },
+      {
+        "company_slug": "metax-gpu",
+        "stage": "Pre-A+",
+        "date": "2021-03",
+        "amount_m": null,
+        "valuation_m": null,
+        "lead_investors": "Lightspeed China Partners; Matrix Partners China",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
+      },
+      {
+        "company_slug": "metax-gpu",
+        "stage": "Series A",
+        "date": "2021-08",
+        "amount_m": 154.0,
+        "valuation_m": null,
+        "lead_investors": "China Structural Reform Fund; China Internet Investment Fund",
+        "other_investors": "",
+        "source": "https://www.yicaiglobal.com/news/chinese-chip-newbie-metax-bags-usd1538-million-in-series-a-round-led-by-two-state-funds",
+        "notes": ""
+      },
+      {
+        "company_slug": "metax-gpu",
+        "stage": "Pre-B",
+        "date": "2022-07",
+        "amount_m": 149.0,
+        "valuation_m": null,
+        "lead_investors": "Chaos Investment; CCTV Financial Media Industry Investment Fund",
+        "other_investors": "",
+        "source": "https://equalocean.com/news/2022070618446",
+        "notes": ""
+      },
+      {
+        "company_slug": "metax-gpu",
+        "stage": "Series B",
+        "date": "2023-07",
+        "amount_m": null,
+        "valuation_m": null,
+        "lead_investors": "PDVC (Pudong Venture Capital); GF Xinde Investment",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
+      },
       {
         "company_slug": "metax-gpu",
         "stage": "IPO",
@@ -33999,7 +34470,7 @@
     "website": "https://www.minimax.io",
     "sector": "Artificial Intelligence \u2014 Foundation Models, Generative AI (Video, Text, Speech)",
     "one_liner": "MiniMax is one of China's \"Six AI Tigers\" \u2014 the cohort of leading Chinese AI startups that emerged in the post-ChatGPT era (alongside Zhipu AI, Moonshot AI / Kimi, Baichuan, 01.AI, and StepFun)",
-    "total_raised_m": 1150.0,
+    "total_raised_m": 1291.0,
     "latest_valuation_m": null,
     "employees": null,
     "revenue_signals": null,
@@ -34042,7 +34513,74 @@
         "prior": ""
       }
     ],
-    "funding_rounds": [],
+    "funding_rounds": [
+      {
+        "company_slug": "minimax",
+        "stage": "Angel",
+        "date": "2021-12",
+        "amount_m": 31.0,
+        "valuation_m": null,
+        "lead_investors": "Hillhouse Capital",
+        "other_investors": "miHoYo; Yunqi Capital; IDG Capital",
+        "source": "https://www.techflowpost.com/en-US/article/29875",
+        "notes": ""
+      },
+      {
+        "company_slug": "minimax",
+        "stage": "Pre-A",
+        "date": "2022-05",
+        "amount_m": 50.0,
+        "valuation_m": null,
+        "lead_investors": "Mingshi Capital",
+        "other_investors": "",
+        "source": "https://www.techflowpost.com/en-US/article/29875",
+        "notes": ""
+      },
+      {
+        "company_slug": "minimax",
+        "stage": "Series A",
+        "date": "2023-06",
+        "amount_m": 260.0,
+        "valuation_m": null,
+        "lead_investors": "Tencent",
+        "other_investors": "Xiaomi; Xiaohongshu; Shunwei Capital",
+        "source": "https://www.crunchbase.com/funding_round/minimax-a48a-series-a--0b8070b9",
+        "notes": ""
+      },
+      {
+        "company_slug": "minimax",
+        "stage": "Series A+",
+        "date": "2023-06",
+        "amount_m": 50.0,
+        "valuation_m": null,
+        "lead_investors": "HongShan (Sequoia China)",
+        "other_investors": "",
+        "source": "https://www.techflowpost.com/en-US/article/29875",
+        "notes": ""
+      },
+      {
+        "company_slug": "minimax",
+        "stage": "Series B",
+        "date": "2024-03",
+        "amount_m": 600.0,
+        "valuation_m": null,
+        "lead_investors": "Alibaba Group",
+        "other_investors": "HongShan Capital; Matrix Partners China; China Life",
+        "source": "https://siliconangle.com/2024/03/05/report-chinese-ai-startup-minimax-raises-600m-2-5b-valuation-led-alibaba/",
+        "notes": ""
+      },
+      {
+        "company_slug": "minimax",
+        "stage": "Series B Extension",
+        "date": "2025-07",
+        "amount_m": 300.0,
+        "valuation_m": null,
+        "lead_investors": "Shanghai STVC Group",
+        "other_investors": "China Life",
+        "source": "https://hrone.com/blog/chinas-minimax-secures-300m-funding-valued-at-4b-tech-in-asia/",
+        "notes": "MiniMax IPO'd on HKEX Jan 9, 2026 raising $619M additional."
+      }
+    ],
     "top_investors": []
   },
   {
@@ -36172,6 +36710,49 @@
         "lead_investors": "NVIDIA",
         "other_investors": "",
         "source": "https://thenextweb.com/news/nvidia-invests-2-billion-in-nebius",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
+    "slug": "neolix",
+    "name": "Neolix",
+    "status": "active",
+    "founded_year": null,
+    "hq": "Beijing, China",
+    "website": "https://www.neolix.ai",
+    "sector": "['autonomous-vehicles', 'robotics']",
+    "one_liner": "Autonomous delivery vehicles (RoboVans). 10,000+ deployed in 300 cities across 15 countries.",
+    "total_raised_m": 726.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [
+      {
+        "company_slug": "neolix",
+        "name": "Enyuan Yu",
+        "role": "CEO",
+        "background": "Founded Neolix in 2018.",
+        "origin": "",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "neolix",
+        "stage": "Series D",
+        "date": "2026-02",
+        "amount_m": 600.0,
+        "valuation_m": null,
+        "lead_investors": "Undisclosed",
+        "other_investors": "",
+        "source": "https://www.prnewswire.com/apac/news-releases/neolix-raises-us600-million-in-series-d-funding-setting-new-record-for-private-financing-of-chinas-autonomous-driving-industry-302593542.html",
         "notes": ""
       }
     ],
@@ -41778,6 +42359,57 @@
     "top_investors": []
   },
   {
+    "slug": "pixverse",
+    "name": "PixVerse",
+    "status": "active",
+    "founded_year": null,
+    "hq": "Beijing, China",
+    "website": "https://www.pixverse.ai",
+    "sector": "['creative-ai']",
+    "one_liner": "AI video creation platform. Real-time AI video generation. Alibaba-backed unicorn.",
+    "total_raised_m": 415.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [
+      {
+        "company_slug": "pixverse",
+        "name": "Wang Changhu",
+        "role": "CEO",
+        "background": "Former Microsoft Research Asia and ByteDance executive.",
+        "origin": "",
+        "prior": ""
+      },
+      {
+        "company_slug": "pixverse",
+        "name": "Xie Xuzhang",
+        "role": "Co-founder",
+        "background": "AI video generation researcher.",
+        "origin": "",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "pixverse",
+        "stage": "Series C",
+        "date": "2026-03",
+        "amount_m": 300.0,
+        "valuation_m": null,
+        "lead_investors": "Alibaba",
+        "other_investors": "",
+        "source": "https://www.bloomberg.com/news/articles/2026-03-12/alibaba-backed-video-ai-startup-pixverse-raises-300-million",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
     "slug": "plain",
     "name": "Plain",
     "status": "Private",
@@ -42945,6 +43577,37 @@
     "top_investors": []
   },
   {
+    "slug": "pudu-robotics",
+    "name": "Pudu Robotics",
+    "status": "active",
+    "founded_year": null,
+    "hq": "Shenzhen, China",
+    "website": "https://www.pudurobotics.com",
+    "sector": "['robotics']",
+    "one_liner": "Service and delivery robots for hospitality, retail, healthcare. Deployed in 60+ countries.",
+    "total_raised_m": 200.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [
+      {
+        "company_slug": "pudu-robotics",
+        "name": "Felix Zhang",
+        "role": "CEO",
+        "background": "Founded Pudu Robotics in 2016.",
+        "origin": "",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [],
+    "top_investors": []
+  },
+  {
     "slug": "pytho-ai",
     "name": "Pytho AI",
     "status": "active",
@@ -42990,6 +43653,49 @@
         "lead_investors": "",
         "other_investors": "",
         "source": "",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
+    "slug": "qcraft",
+    "name": "QCraft",
+    "status": "active",
+    "founded_year": null,
+    "hq": "Beijing, China",
+    "website": "https://www.qcraft.ai",
+    "sector": "['autonomous-vehicles']",
+    "one_liner": "L2++ to L4 autonomous driving solutions with world model AI.",
+    "total_raised_m": 200.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [
+      {
+        "company_slug": "qcraft",
+        "name": "James Yu (Yu Qian)",
+        "role": "CEO",
+        "background": "Team from Waymo, Tesla, Nvidia.",
+        "origin": "",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "qcraft",
+        "stage": "Series D",
+        "date": "2026-03",
+        "amount_m": 100.0,
+        "valuation_m": null,
+        "lead_investors": "Undisclosed",
+        "other_investors": "",
+        "source": "https://www.chinadaily.com.cn/a/202603/23/WS69c0c67ca310d6866eb3f4fd.html",
         "notes": ""
       }
     ],
@@ -45460,6 +46166,49 @@
     "top_investors": []
   },
   {
+    "slug": "robot-era",
+    "name": "Robot Era",
+    "status": "active",
+    "founded_year": null,
+    "hq": "Beijing, China",
+    "website": "https://www.robotera.com",
+    "sector": "['robotics']",
+    "one_liner": "Humanoid robots for industrial and general-purpose use. Incubated at Tsinghua IIIS. Valued at ~$1.4B.",
+    "total_raised_m": 250.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [
+      {
+        "company_slug": "robot-era",
+        "name": "Chen Jianyu",
+        "role": "CEO",
+        "background": "Tsinghua assistant professor, PhD UC Berkeley. Tsinghua University holds shares.",
+        "origin": "",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "robot-era",
+        "stage": "Series B",
+        "date": "2026-03",
+        "amount_m": 145.0,
+        "valuation_m": null,
+        "lead_investors": "Undisclosed",
+        "other_investors": "",
+        "source": "https://www.caproasia.com/2026/03/07/china-robotics-startup-robotera-raised-145-million-cny-1-billion-at-1-45-billion-cny-10-billion-valuation-founded-in-2023-by-chen-jianyu-with-shares-held-by-tsinghua-university-investors-inclu/",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
     "slug": "robust-intelligence",
     "name": "Robust Intelligence",
     "status": "Acquired by Cisco (October 2024)",
@@ -47846,6 +48595,57 @@
         "lead_investors": "Madrona Ventures",
         "other_investors": "",
         "source": "https://techcrunch.com/2024/07/17/shaped-raises-8m-series-a-and-launches-its-self-serve-recommendations-and-search-service/",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
+    "slug": "shengshu-ai",
+    "name": "Shengshu AI (Vidu)",
+    "status": "active",
+    "founded_year": null,
+    "hq": "Beijing, China",
+    "website": "https://www.vidu.com",
+    "sector": "['creative-ai']",
+    "one_liner": "AI video generation platform (Vidu) competing with OpenAI Sora.",
+    "total_raised_m": 100.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [
+      {
+        "company_slug": "shengshu-ai",
+        "name": "Luo Yihang",
+        "role": "CEO",
+        "background": "AI video generation researcher.",
+        "origin": "",
+        "prior": ""
+      },
+      {
+        "company_slug": "shengshu-ai",
+        "name": "Zhu Jun",
+        "role": "Chief Scientist",
+        "background": "Tsinghua professor.",
+        "origin": "",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "shengshu-ai",
+        "stage": "Series A+",
+        "date": "2024-12",
+        "amount_m": 83.0,
+        "valuation_m": null,
+        "lead_investors": "Baidu Ventures; Alibaba",
+        "other_investors": "",
+        "source": "https://www.floydct.com/online_features/press_releases/shengshu-technology-completes-series-a-funding-of-over-rmb-600-million/article_6f870326-5853-5148-b933-533c61aa1775.html",
         "notes": ""
       }
     ],
@@ -51095,7 +51895,41 @@
         "prior": ""
       }
     ],
-    "funding_rounds": [],
+    "funding_rounds": [
+      {
+        "company_slug": "stepfun",
+        "stage": "Series A",
+        "date": "2024-Q1",
+        "amount_m": null,
+        "valuation_m": null,
+        "lead_investors": "HongShan Capital (Sequoia China)",
+        "other_investors": "IDG Capital; Qiming Venture Partners; 5Y Capital",
+        "source": "https://kr-asia.com/as-ai-consolidates-what-makes-stepfun-worth-a-rmb-5-billion-raise",
+        "notes": "Amount undisclosed (estimated $200-300M based on unicorn status). Reached unicorn status in first round."
+      },
+      {
+        "company_slug": "stepfun",
+        "stage": "Series B",
+        "date": "2024-12",
+        "amount_m": null,
+        "valuation_m": null,
+        "lead_investors": "Fortera Capital (Shanghai State-owned Capital Investment)",
+        "other_investors": "Tencent; Qiming Venture Partners",
+        "source": "https://siliconangle.com/2024/12/26/chinese-ai-model-maker-stepfun-raises-hundreds-millions-series-b-funding/",
+        "notes": "Amount undisclosed (described as \"hundreds of millions\")."
+      },
+      {
+        "company_slug": "stepfun",
+        "stage": "Series B+",
+        "date": "2025-07",
+        "amount_m": 719.0,
+        "valuation_m": null,
+        "lead_investors": "Shanghai State-owned Capital Investment",
+        "other_investors": "Hong Kong Investment Corporation; Tencent; 5Y Capital; Qiming Venture Partners; Pudong Venture Capital; China Life Private Equity",
+        "source": "https://asiatechdaily.com/stepfuns-719m-raise-highlights-chinas-shift-from-ai-models-to-real-world-deployment/",
+        "notes": ""
+      }
+    ],
     "top_investors": [
       "Tencent",
       "Shanghai State-owned Capital Investment (Shanghai Guotou)",
@@ -59856,6 +60690,45 @@
         "notes": ""
       }
     ],
+    "top_investors": []
+  },
+  {
+    "slug": "yitu-technology",
+    "name": "Yitu Technology",
+    "status": "active",
+    "founded_year": null,
+    "hq": "Shanghai, China",
+    "website": "https://www.yitutech.com",
+    "sector": "['computer vision', 'healthcare-ai', 'enterprise-ai']",
+    "one_liner": "AI for smart cities, healthcare imaging, and financial technology.",
+    "total_raised_m": 400.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "team_china_profile": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-21",
+    "founders": [
+      {
+        "company_slug": "yitu-technology",
+        "name": "Leo Zhu",
+        "role": "CEO",
+        "background": "PhD Statistics UCLA. MIT fellow.",
+        "origin": "",
+        "prior": ""
+      },
+      {
+        "company_slug": "yitu-technology",
+        "name": "Lin Chenxi",
+        "role": "CTO",
+        "background": "Former Alibaba Cloud.",
+        "origin": "",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [],
     "top_investors": []
   },
   {

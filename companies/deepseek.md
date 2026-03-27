@@ -13,7 +13,7 @@ founders:
 founder_ceo: Liang Wenfeng
 parent_company: High-Flyer (Hangzhou High-Flyer Capital Management)
 sector: Foundation Models / Large Language Models
-stage: Growth (self-funded via parent hedge fund; one reported Series C)
+stage: Growth (entirely self-funded via parent hedge fund; no external VC)
 headcount: ~150-200
 key_models:
 - DeepSeek-V2 (2024)
@@ -25,18 +25,20 @@ key_models:
 open_source: true
 website: https://www.deepseek.com
 last_updated: 2026-03-20
-confidence_note: Financial figures (valuation, revenue, funding) come from press reports and Crunchbase and have not been
-  independently audited. DeepSeek discloses very little officially. Training-cost claims are contested. Treat all dollar amounts
-  as approximate.
+confidence_note: Financial figures (valuation, revenue) come from press reports and Crunchbase and have not been independently
+  audited. DeepSeek discloses very little officially. Training-cost claims are contested. IMPORTANT -- DeepSeek has NOT raised
+  external VC; prior Crunchbase figures citing "$1.1B raised" and a "$520M Series C" appear to reflect internal High-Flyer capital
+  transfers, not outside investment. Treat all dollar amounts as approximate.
 funding_rounds:
-- stage: Internal / Proprietary Funding
+- stage: Internal funding from High-Flyer Capital (NOT venture capital)
   date: 2023-07
-  amount_m: 1100.0
+  amount_m: null
   lead_investors:
-  - High-Flyer Quantitative Investment (Liang Wenfeng)
+  - High-Flyer Capital Management (Liang Wenfeng, founder/CEO -- owns 84% of DeepSeek)
   source: https://techcrunch.com/2025/03/10/deepseek-isnt-taking-vc-money-yet-here-are-3-reasons-why/
-  notes: No external VC. Wholly funded by founder's hedge fund High-Flyer (~$8B AUM). The $1.1B is estimated internal capital
-    deployed.
+  notes: DeepSeek has NOT raised any external venture capital. It is entirely self-funded by High-Flyer Capital Management,
+    Liang Wenfeng's quantitative hedge fund (~$8B AUM). Prior reports of a "$520M Series C" or "$1.1B total raised" appear
+    to conflate internal capital transfers from High-Flyer with external fundraising. No VC rounds as of March 2026.
 one_liner: DeepSeek is a Chinese AI research lab that builds open-weight large language models
 website_verified: true
 linkedin: https://www.linkedin.com/company/deepseek-ai
@@ -44,7 +46,7 @@ twitter: '@deepseek_ai'
 crunchbase: https://www.crunchbase.com/organization/deepseek
 crunchbase_verified: true
 linkedin_verified: true
-total_raised_m: 1100.0
+total_raised_m: 0  # Self-funded by High-Flyer Capital Management. No external VC raised. Prior "$1.1B" figures reflect internal capital deployment, not outside investment.
 latest_valuation_m: 3400.0
 status: active
 confidence: high
@@ -81,9 +83,9 @@ Key characteristics of the team:
 DeepSeek's funding model is one of its most distinctive features:
 
 - **84% owned by Liang Wenfeng personally**, with the remainder held by individuals affiliated with High-Flyer. [TechCrunch](https://techcrunch.com/2025/03/10/deepseek-isnt-taking-vc-money-yet-here-are-3-reasons-why/)
-- **Primary funding comes from High-Flyer's trading profits**, not venture capital. This eliminates the commercial pressure, rigid KPIs, and exit timelines that shape most AI startups.
-- A **$520M Series C** was reported, valuing the company at approximately $3.4B with total funding over $1.1B. *(Note: these figures are from Crunchbase and press reports; the degree to which this represents external capital vs. internal High-Flyer transfers is unclear.)*
-- Despite intense VC interest post-January 2025, Liang has not announced any major external fundraise. [TechCrunch](https://techcrunch.com/2025/03/10/deepseek-isnt-taking-vc-money-yet-here-are-3-reasons-why/)
+- **Entirely self-funded by High-Flyer Capital Management** (Liang Wenfeng's quantitative hedge fund, ~$8B AUM). DeepSeek has **not raised any external venture capital**. Funding comes from High-Flyer's trading profits, which eliminates commercial pressure, rigid KPIs, and exit timelines that shape most AI startups.
+- **Correction:** Prior reports citing a "$520M Series C" and "$1.1B total raised" (sourced from Crunchbase) appear to conflate internal capital transfers from High-Flyer with external fundraising. These do not represent venture capital rounds.
+- Despite intense VC interest post-January 2025, Liang has not accepted any outside investment. [TechCrunch](https://techcrunch.com/2025/03/10/deepseek-isnt-taking-vc-money-yet-here-are-3-reasons-why/)
 
 **Estimated annual revenue run rate** reached ~$220M by mid-2025, primarily from API and enterprise services. [Crunchbase](https://www.crunchbase.com/organization/deepseek)
 
@@ -96,6 +98,8 @@ DeepSeek operates a hybrid open-source/API-service model:
 3. **Cross-subsidization from High-Flyer.** The hedge fund's quantitative trading profits provide a financial backstop, freeing DeepSeek from the need to maximize short-term revenue. [Interconnect/Substack](https://interconnect.substack.com/p/no-business-model-deepseeks-enduring)
 
 The sustainability question: as one analyst noted, "it is hard to build a very successful commercial business on open source" when competitors can take your model and undercut you on price. DeepSeek's advantage is precisely that it does not need to build a standalone commercial business -- yet. [Lago Blog](https://getlago.com/blog/deepseek-open-source)
+
+> **Note on funding:** DeepSeek is self-funded by High-Flyer Capital Management (Liang Wenfeng's quant hedge fund, ~$8B AUM). No external VC rounds as of March 2026. Source: [TechCrunch](https://techcrunch.com/2025/03/10/deepseek-isnt-taking-vc-money-yet-here-are-3-reasons-why/)
 
 ## Technical Innovations
 

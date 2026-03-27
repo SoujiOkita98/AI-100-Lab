@@ -42,7 +42,39 @@ founders:
   origin: Chinese
 total_raised_m: 1200.0
 linkedin_verified: true
-funding_rounds: []
+funding_rounds:
+- stage: Series A
+  date: 2024-Q1
+  lead_investors:
+  - HongShan Capital (Sequoia China)
+  other_investors:
+  - IDG Capital
+  - Qiming Venture Partners
+  - 5Y Capital
+  source: https://kr-asia.com/as-ai-consolidates-what-makes-stepfun-worth-a-rmb-5-billion-raise
+  notes: Amount undisclosed (estimated $200-300M based on unicorn status). Reached unicorn status in first round.
+- stage: Series B
+  date: 2024-12
+  lead_investors:
+  - Fortera Capital (Shanghai State-owned Capital Investment)
+  other_investors:
+  - Tencent
+  - Qiming Venture Partners
+  source: https://siliconangle.com/2024/12/26/chinese-ai-model-maker-stepfun-raises-hundreds-millions-series-b-funding/
+  notes: Amount undisclosed (described as "hundreds of millions").
+- stage: Series B+
+  date: 2025-07
+  amount_m: 719.0
+  lead_investors:
+  - Shanghai State-owned Capital Investment
+  other_investors:
+  - Hong Kong Investment Corporation
+  - Tencent
+  - 5Y Capital
+  - Qiming Venture Partners
+  - Pudong Venture Capital
+  - China Life Private Equity
+  source: https://asiatechdaily.com/stepfuns-719m-raise-highlights-chinas-shift-from-ai-models-to-real-world-deployment/
 confidence: medium
 ---
 

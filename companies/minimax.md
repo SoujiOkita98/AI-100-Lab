@@ -33,9 +33,60 @@ website_verified: true
 crunchbase: https://www.crunchbase.com/organization/minimax
 crunchbase_verified: true
 linkedin: https://www.linkedin.com/company/minimax-ai
-total_raised_m: 1150.0
+total_raised_m: 1291
 linkedin_verified: true
-funding_rounds: []
+funding_rounds:
+- stage: Angel
+  date: 2021-12
+  amount_m: 31
+  lead_investors:
+  - Hillhouse Capital
+  other_investors:
+  - miHoYo
+  - Yunqi Capital
+  - IDG Capital
+  source: https://www.techflowpost.com/en-US/article/29875
+- stage: Pre-A
+  date: 2022-05
+  amount_m: 50
+  lead_investors:
+  - Mingshi Capital
+  source: https://www.techflowpost.com/en-US/article/29875
+- stage: Series A
+  date: 2023-06
+  amount_m: 260
+  lead_investors:
+  - Tencent
+  other_investors:
+  - Xiaomi
+  - Xiaohongshu
+  - Shunwei Capital
+  source: https://www.crunchbase.com/funding_round/minimax-a48a-series-a--0b8070b9
+- stage: Series A+
+  date: 2023-06
+  amount_m: 50
+  lead_investors:
+  - HongShan (Sequoia China)
+  source: https://www.techflowpost.com/en-US/article/29875
+- stage: Series B
+  date: 2024-03
+  amount_m: 600
+  lead_investors:
+  - Alibaba Group
+  other_investors:
+  - HongShan Capital
+  - Matrix Partners China
+  - China Life
+  source: https://siliconangle.com/2024/03/05/report-chinese-ai-startup-minimax-raises-600m-2-5b-valuation-led-alibaba/
+- stage: Series B Extension
+  date: 2025-07
+  amount_m: 300
+  lead_investors:
+  - Shanghai STVC Group
+  other_investors:
+  - China Life
+  source: https://hrone.com/blog/chinas-minimax-secures-300m-funding-valued-at-4b-tech-in-asia/
+  notes: MiniMax IPO'd on HKEX Jan 9, 2026 raising $619M additional.
 confidence: medium
 ---
 
