@@ -1977,6 +1977,36 @@
     "top_investors": []
   },
   {
+    "slug": "ai-law",
+    "name": "AI.Law",
+    "status": "active",
+    "founded_year": "2023",
+    "hq": "Dublin, OH",
+    "website": "https://www.ai.law",
+    "sector": "legal-tech; enterprise-ai",
+    "one_liner": "AI-powered legal drafting platform for litigation attorneys \u2014 automates complaint drafting, discovery management, motion preparation, and document analysis.",
+    "total_raised_m": null,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "confidence": "low",
+    "last_updated": "2026-03-26",
+    "founders": [
+      {
+        "company_slug": "ai-law",
+        "name": "Troy Doucet",
+        "role": "Founder",
+        "background": "BA Economics from Ohio State University. JD from Capital University Law School (magna cum laude). 14+ years legal experience. SuperLawyers, BestLawyers ranked. America's 100 High Stakes Litigators (2019). Previously ran Doucet Co., LPA handling 2,200+ matters.",
+        "origin": "American",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [],
+    "top_investors": []
+  },
+  {
     "slug": "ai-work",
     "name": "ai.work",
     "status": "active",
@@ -7865,6 +7895,48 @@
     "top_investors": []
   },
   {
+    "slug": "bim-engine",
+    "name": "BIM Engine",
+    "status": "active",
+    "founded_year": "2025",
+    "hq": "San Francisco, CA",
+    "website": "https://bimengine.ai",
+    "sector": "construction-tech; enterprise-ai; agents",
+    "one_liner": "AI agent platform for Architecture, Engineering, and Construction \u2014 multi-modal AI agents with spatial inference to help architects and engineers design buildings 10x faster.",
+    "total_raised_m": null,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-26",
+    "founders": [
+      {
+        "company_slug": "bim-engine",
+        "name": "Aurora Zelia Hui",
+        "role": "Founder & CEO",
+        "background": "Architectural designer and ex-nanotech researcher. Studied architecture at Harvard University (Harvard GSD). Speaks English, Cantonese, and Mandarin.",
+        "origin": "Chinese-American",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "bim-engine",
+        "stage": "Seed",
+        "date": "2025",
+        "amount_m": null,
+        "valuation_m": null,
+        "lead_investors": "Failup Ventures",
+        "other_investors": "Llama Ventures",
+        "source": "",
+        "notes": "Amount undisclosed"
+      }
+    ],
+    "top_investors": []
+  },
+  {
     "slug": "biomap",
     "name": "BioMap",
     "status": "active",
@@ -11814,32 +11886,52 @@
   },
   {
     "slug": "chatsimple",
-    "name": "Chatsimple",
+    "name": "Expertise AI",
     "status": "active",
-    "founded_year": null,
-    "hq": "Toronto, Canada",
-    "website": "https://chatsimple.ai",
-    "sector": "['enterprise-ai', 'agents']",
-    "one_liner": "AI-powered sales assistant / chatbot for websites. Lead generation, qualification, and conversion.",
+    "founded_year": "2023",
+    "hq": "Kitchener, Canada",
+    "website": "https://www.expertise.ai",
+    "sector": "enterprise-ai; agents; sales-tech",
+    "one_liner": "AI-powered demand conversion platform (formerly Chatsimple) \u2014 AI sales agents that proactively engage website visitors, qualify leads, and convert inbound traffic. Supports 175+ languages.",
     "total_raised_m": 2.5,
     "latest_valuation_m": null,
     "employees": null,
-    "revenue_signals": null,
+    "revenue_signals": "~$1.7M revenue with 15-person team; reportedly profitable",
     "business_model": null,
     "key_customers": null,
     "confidence": "medium",
-    "last_updated": "2026-03-21",
+    "last_updated": "2026-03-26",
     "founders": [
       {
         "company_slug": "chatsimple",
-        "name": "Hao Sheng",
-        "role": "CEO",
-        "background": "University of Toronto. 6+ years conversational AI. Former Google Dialogflow and Cresta.",
+        "name": "Haozhe Sheng",
+        "role": "Founder & CEO",
+        "background": "BA Applied Science, University of Toronto. 6+ years in conversational AI. Former Google (Dialogflow Advanced Agent Modeling, Cloud AI) and Cresta (contact center AI unicorn). Based in San Francisco Bay Area.",
         "origin": "Chinese",
+        "prior": ""
+      },
+      {
+        "company_slug": "chatsimple",
+        "name": "Vinay Raj",
+        "role": "Co-Founder",
+        "background": "10+ years in product and brand management at Ogilvy & Mather, DDB Worldwide, and Adobe.",
+        "origin": "Indian",
         "prior": ""
       }
     ],
-    "funding_rounds": [],
+    "funding_rounds": [
+      {
+        "company_slug": "chatsimple",
+        "stage": "Seed",
+        "date": "2023",
+        "amount_m": 2.5,
+        "valuation_m": null,
+        "lead_investors": "",
+        "other_investors": "YSpace; Hersir Ventures; iSeed Ventures; Likeminded.vc",
+        "source": "https://pitchbook.com/profiles/company/542390-68",
+        "notes": ""
+      }
+    ],
     "top_investors": []
   },
   {
@@ -17611,6 +17703,56 @@
     "top_investors": []
   },
   {
+    "slug": "dora",
+    "name": "Dora",
+    "status": "active",
+    "founded_year": "2021",
+    "hq": "Singapore",
+    "website": "https://www.dora.run",
+    "sector": "design-tools; no-code; generative-ai",
+    "one_liner": "No-code AI-powered website builder that generates, customizes, and publishes 3D animated websites from text prompts. Won Product Hunt Golden Kitty Award.",
+    "total_raised_m": 9.2,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": "Revenue reportedly reached $6.2M with 56-person team (2025)",
+    "business_model": null,
+    "key_customers": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-26",
+    "founders": [
+      {
+        "company_slug": "dora",
+        "name": "Will Choo",
+        "role": "Co-Founder & Product Chief",
+        "background": "Serial entrepreneur (4th startup). Programmer and product designer.",
+        "origin": "Chinese (Southeast Asian)",
+        "prior": ""
+      },
+      {
+        "company_slug": "dora",
+        "name": "Charles Liu",
+        "role": "Co-Founder & COO",
+        "background": "Tsinghua University. Based in Singapore.",
+        "origin": "Chinese",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "dora",
+        "stage": "Seed",
+        "date": "2021-08",
+        "amount_m": null,
+        "valuation_m": null,
+        "lead_investors": "MiraclePlus",
+        "other_investors": "",
+        "source": "https://www.crunchbase.com/organization/dora-1e72",
+        "notes": "MiraclePlus is formerly YC China"
+      }
+    ],
+    "top_investors": []
+  },
+  {
     "slug": "dp-technology",
     "name": "DP Technology",
     "status": "active",
@@ -17714,6 +17856,48 @@
         "other_investors": "",
         "source": "https://www.businesswire.com/news/home/20250217135636/en/Dream-the-First-AI-Company-for-National-Cybersecurity-Raises-%24100M-to-Defend-Nations-and-Critical-Infrastructure",
         "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
+    "slug": "dreamflow",
+    "name": "DreamFlow",
+    "status": "active",
+    "founded_year": "2024",
+    "hq": "San Francisco, CA",
+    "website": "https://dreamflow.art",
+    "sector": "generative-ai; video; creative-tools",
+    "one_liner": "AI-based video generation platform for real-time livestreaming, with live AI portraits, style transformation, and rendering for content creators.",
+    "total_raised_m": null,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "confidence": "low",
+    "last_updated": "2026-03-26",
+    "founders": [
+      {
+        "company_slug": "dreamflow",
+        "name": "Peter Wang",
+        "role": "Founder",
+        "background": "Limited public information available.",
+        "origin": "Chinese",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "dreamflow",
+        "stage": "Seed",
+        "date": "2024",
+        "amount_m": null,
+        "valuation_m": null,
+        "lead_investors": "iSeed Ventures",
+        "other_investors": "Llama Venture; Soma Capital",
+        "source": "https://www.iseedvc.com",
+        "notes": "Amount undisclosed"
       }
     ],
     "top_investors": []
@@ -20848,6 +21032,78 @@
         "lead_investors": "Sequoia",
         "other_investors": "",
         "source": "https://techcrunch.com/2025/12/09/fal-nabs-140m-in-fresh-funding-led-by-sequoia-tripling-valuation-to-4-5b/",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
+    "slug": "fasikl",
+    "name": "Fasikl",
+    "status": "active",
+    "founded_year": "2019",
+    "hq": "Bloomington, MN",
+    "website": "https://www.fasikl.com",
+    "sector": "health-ai; medical-devices; neurotech",
+    "one_liner": "Neuro-AI therapeutics company building AI-powered wearable devices for neurological conditions. FDA-cleared Felix NeuroAI Wristband for essential tremor.",
+    "total_raised_m": 59.9,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "confidence": "high",
+    "last_updated": "2026-03-26",
+    "founders": [
+      {
+        "company_slug": "fasikl",
+        "name": "Zhi Yang",
+        "role": "Co-Founder & CEO",
+        "background": "PhD. Associate Professor of Biomedical Engineering at University of Minnesota. BS Electrical Engineering from Zhejiang University (2004). MS and PhD EE from UC Santa Cruz. Former faculty at National University of Singapore. DARPA HAPTIX program contributor.",
+        "origin": "Chinese",
+        "prior": ""
+      },
+      {
+        "company_slug": "fasikl",
+        "name": "Edward Keefer",
+        "role": "Co-Founder & CSO",
+        "background": "PhD. Experimental neuroscientist trained under Nobel Laureate Gerald Edelman. Previously Chief Neuroscientist at Plexon Inc. and CEO of Nerves Incorporated.",
+        "origin": "American",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "fasikl",
+        "stage": "Series A",
+        "date": "2023-03",
+        "amount_m": 10.0,
+        "valuation_m": null,
+        "lead_investors": "",
+        "other_investors": "",
+        "source": "https://www.fasikl.com/fasikl-secures-10m-in-series-a-investment/",
+        "notes": ""
+      },
+      {
+        "company_slug": "fasikl",
+        "stage": "Series A+",
+        "date": "2024-09",
+        "amount_m": 18.3,
+        "valuation_m": null,
+        "lead_investors": "iSeed Ventures; Tailwinds Ventures",
+        "other_investors": "",
+        "source": "https://www.fasikl.com",
+        "notes": ""
+      },
+      {
+        "company_slug": "fasikl",
+        "stage": "Series B",
+        "date": "2025-09",
+        "amount_m": 26.5,
+        "valuation_m": null,
+        "lead_investors": "",
+        "other_investors": "",
+        "source": "https://www.fasikl.com/fasikl-secures-26-5-million-in-series-b-venture-capital-investment/",
         "notes": ""
       }
     ],
@@ -25053,6 +25309,56 @@
     "top_investors": []
   },
   {
+    "slug": "groupultra",
+    "name": "GroupUltra",
+    "status": "active",
+    "founded_year": "2022",
+    "hq": "Sunnyvale, CA",
+    "website": "https://www.group-ultra.com",
+    "sector": "social; agents; messaging",
+    "one_liner": "AI-native messaging platform integrating real-time translation, voice cloning, and multi-agent conversational AI. Also known as Intent AI Messenger.",
+    "total_raised_m": 3.0,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-26",
+    "founders": [
+      {
+        "company_slug": "groupultra",
+        "name": "Chen Chunyu",
+        "role": "Co-Founder & CEO",
+        "background": "Attended Tsinghua University School of Life Sciences (Biology Olympiad gold medal). Led Tsinghua iGEM 2019 team (Gold Medal, Best New Application Award). Dropped out to found the company.",
+        "origin": "Chinese",
+        "prior": ""
+      },
+      {
+        "company_slug": "groupultra",
+        "name": "Xu Jianuo",
+        "role": "Co-Founder",
+        "background": "Graduated from Tsinghua University Computer Science Department. Previously at Microsoft. Experience with a game studio backed by Newgen Capital and Zhenfund.",
+        "origin": "Chinese",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "groupultra",
+        "stage": "Seed",
+        "date": "2024",
+        "amount_m": 3.0,
+        "valuation_m": null,
+        "lead_investors": "Miracle Plus",
+        "other_investors": "WeWork Capital",
+        "source": "https://eu.36kr.com/en/p/3432324118498690",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
     "slug": "growthx",
     "name": "GrowthX AI",
     "status": "Private",
@@ -27210,20 +27516,29 @@
     "slug": "hirey",
     "name": "Hirey",
     "status": "active",
-    "founded_year": null,
-    "hq": "San Francisco, CA",
-    "website": "https://hirey.com",
-    "sector": "['enterprise-ai']",
-    "one_liner": "Chat-based AI hiring app matching employers with verified candidates. $14M Series A from DST Global.",
-    "total_raised_m": 14.0,
+    "founded_year": "2021",
+    "hq": "Tempe, AZ",
+    "website": "https://www.hirey.com",
+    "sector": "enterprise-ai; hr-tech; agents",
+    "one_liner": "AI-first recruiting platform for high-volume hiring. AI agent 'Rey' handles sourcing, screening, and interview scheduling via SMS/chat \u2014 schedules interviews in as little as 2 minutes.",
+    "total_raised_m": 29.0,
     "latest_valuation_m": null,
     "employees": null,
     "revenue_signals": null,
     "business_model": null,
     "key_customers": null,
     "confidence": "medium",
-    "last_updated": "2026-03-21",
-    "founders": [],
+    "last_updated": "2026-03-26",
+    "founders": [
+      {
+        "company_slug": "hirey",
+        "name": "Walter Wu",
+        "role": "Founder & CEO",
+        "background": "BBA and BE Thermal Engineering from Tsinghua University. Based in Palo Alto, CA. Previously founded OnTime Job (2018-2024) and Hirect App (2019-2023).",
+        "origin": "Chinese",
+        "prior": ""
+      }
+    ],
     "funding_rounds": [
       {
         "company_slug": "hirey",
@@ -33145,6 +33460,64 @@
         "lead_investors": "Index Ventures",
         "other_investors": "",
         "source": "https://blog.livekit.io/livekit-series-c/",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
+    "slug": "livex-ai",
+    "name": "LiveX AI",
+    "status": "active",
+    "founded_year": "2023",
+    "hq": "Palo Alto, CA",
+    "website": "https://www.livex.ai",
+    "sector": "enterprise-ai; agents; customer-support",
+    "one_liner": "AI-powered customer engagement platform deploying AI agents for support, retention, and interaction. Claims 78%+ cost savings and 90%+ self-resolution rates.",
+    "total_raised_m": 4.4,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": "Revenue reportedly reached $3.3M with 30-person team (2025)",
+    "business_model": null,
+    "key_customers": null,
+    "confidence": "high",
+    "last_updated": "2026-03-26",
+    "founders": [
+      {
+        "company_slug": "livex-ai",
+        "name": "Jia Li",
+        "role": "Co-Founder, Chief AI Officer & President",
+        "background": "PhD Stanford University CS. IEEE Fellow. Former founding Global Head of R&D at Google Cloud AI. Former Head of Research at Snap. Former lead of Visual Computing and Learning Group at Yahoo Labs. Stanford Adjunct Professor.",
+        "origin": "Chinese",
+        "prior": ""
+      },
+      {
+        "company_slug": "livex-ai",
+        "name": "Yujia (Jerry) Li",
+        "role": "Co-Founder & CEO",
+        "background": "PhD Electrical and Computer Engineering, University of Illinois Urbana-Champaign. Serial entrepreneur and investor. Previously at Cadence Design Systems.",
+        "origin": "Chinese",
+        "prior": ""
+      },
+      {
+        "company_slug": "livex-ai",
+        "name": "Yao Zhao",
+        "role": "Co-Founder & CTO",
+        "background": "PhD EECS, Northwestern University. Ex-Senior Director of Engineering at F5. Ex-Google. Ex-Bell Labs.",
+        "origin": "Chinese",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "livex-ai",
+        "stage": "Series A",
+        "date": "2024-05",
+        "amount_m": 4.4,
+        "valuation_m": null,
+        "lead_investors": "S32",
+        "other_investors": "Fellows Fund; iSeed Ventures; Llama Venture; NYX Ventures",
+        "source": "https://www.crunchbase.com/organization/livex-ai",
         "notes": ""
       }
     ],
@@ -46018,6 +46391,56 @@
     "top_investors": []
   },
   {
+    "slug": "quotr",
+    "name": "Quotr",
+    "status": "active",
+    "founded_year": "2023",
+    "hq": "Berkeley, CA",
+    "website": "https://quotr.io",
+    "sector": "construction-tech; enterprise-ai",
+    "one_liner": "AI-powered construction estimation and takeoff platform with factory-direct materials procurement at 40-50% below retail.",
+    "total_raised_m": 0.2,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-26",
+    "founders": [
+      {
+        "company_slug": "quotr",
+        "name": "Hanyang Liu",
+        "role": "Co-Founder & CEO",
+        "background": "BA Landscape Architecture, University of Maryland. MArch UC Berkeley. Previously at Shenzhen XEC Engineering Consultants and TAO (Trace Architecture Office, Beijing).",
+        "origin": "Chinese",
+        "prior": ""
+      },
+      {
+        "company_slug": "quotr",
+        "name": "Junzhe Shi",
+        "role": "Co-Founder",
+        "background": "BS Purdue University. MS UC Berkeley (Civil and Environmental Engineering). Research in reinforcement learning and construction material price forecasting.",
+        "origin": "Chinese",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "quotr",
+        "stage": "Pre-Seed",
+        "date": "2024",
+        "amount_m": 0.2,
+        "valuation_m": null,
+        "lead_investors": "Berkeley SkyDeck Fund",
+        "other_investors": "",
+        "source": "https://skydeck.berkeley.edu",
+        "notes": "SkyDeck Batch 19"
+      }
+    ],
+    "top_investors": []
+  },
+  {
     "slug": "qure-ai",
     "name": "Qure.ai",
     "status": "active",
@@ -49706,6 +50129,48 @@
         "other_investors": "",
         "source": "https://techcrunch.com/2025/06/13/new-details-emerge-on-metas-14-3b-deal-for-scale/",
         "notes": "Meta acquired 49% non-voting stake. Alexandr Wang departed to Meta as Chief AI Officer. One of the largest private AI transactions in history."
+      }
+    ],
+    "top_investors": []
+  },
+  {
+    "slug": "scam-ai",
+    "name": "Scam AI",
+    "status": "active",
+    "founded_year": "2024",
+    "hq": "Berkeley, CA",
+    "website": "https://scam.ai",
+    "sector": "cybersecurity; enterprise-ai",
+    "one_liner": "AI-powered fraud detection platform identifying deepfakes, voice clones, and synthetic media in real time.",
+    "total_raised_m": 2.5,
+    "latest_valuation_m": null,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "confidence": "medium",
+    "last_updated": "2026-03-26",
+    "founders": [
+      {
+        "company_slug": "scam-ai",
+        "name": "Ben (Simiao) Ren",
+        "role": "Co-Founder",
+        "background": "PhD Electrical and Computer Engineering, Duke University. Applied Machine Learning Lab. 1st Place at HYSTA Annual Conference pitch competition.",
+        "origin": "Chinese",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "scam-ai",
+        "stage": "Seed",
+        "date": "2025",
+        "amount_m": 2.5,
+        "valuation_m": null,
+        "lead_investors": "Llama Venture",
+        "other_investors": "SCVxSBI; Welight Capital; SkyDeck Fund; Beta Fund",
+        "source": "https://skydeck.berkeley.edu/companies/scam-ai/",
+        "notes": ""
       }
     ],
     "top_investors": []
