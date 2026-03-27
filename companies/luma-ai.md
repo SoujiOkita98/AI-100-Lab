@@ -60,6 +60,10 @@ founders:
   role: Co-Founder & CEO
   background: Former Systems and ML Engineer at Apple, led Passthrough feature for Apple Vision Pro
   origin: Indian
+- name: Alex Yu
+  role: Co-Founder & CTO
+  background: "Originally from Hangzhou, China. Moved to Vancouver as a child. UC Berkeley, pioneered NeRF research. Turned down PhD offers from Stanford and MIT to co-found Luma AI."
+  origin: Chinese-Canadian
 - name: Alberto Taiuti
   role: Co-Founder
   origin: Italian

@@ -34682,6 +34682,14 @@
       },
       {
         "company_slug": "luma-ai",
+        "name": "Alex Yu",
+        "role": "Co-Founder & CTO",
+        "background": "Originally from Hangzhou, China. Moved to Vancouver as a child. UC Berkeley, pioneered NeRF research. Turned down PhD offers from Stanford and MIT to co-found Luma AI.",
+        "origin": "Chinese-Canadian",
+        "prior": ""
+      },
+      {
+        "company_slug": "luma-ai",
         "name": "Alberto Taiuti",
         "role": "Co-Founder",
         "background": "",
