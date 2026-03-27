@@ -1,7 +1,7 @@
 ---
 name: Sigma Computing
 founded: 2014
-headquarters: San Francisco, California, USA
+headquarters: San Francisco, CA
 website: https://www.sigmacomputing.com
 sector: AI-Native Business Intelligence & Analytics
 one_liner: Cloud-based analytics platform enabling business teams to explore and visualize live data in a spreadsheet-like

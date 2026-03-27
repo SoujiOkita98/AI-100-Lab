@@ -1,7 +1,7 @@
 ---
 name: Monte Carlo
 founded: 2019
-headquarters: San Francisco, California, USA
+headquarters: San Francisco, CA
 website: https://www.montecarlodata.com
 sector: Data Observability & AI Data Quality
 stage: Late-stage / Growth

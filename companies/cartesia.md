@@ -1,7 +1,7 @@
 ---
 website: https://cartesia.ai
 founded: 2023
-headquarters: San Francisco, CA, USA
+headquarters: San Francisco, CA
 sector: AI Infrastructure / Voice AI / Edge AI
 founders:
 - name: Karan Goel

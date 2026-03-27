@@ -1,6 +1,6 @@
 ---
 founded: 2017
-headquarters: San Francisco, California, USA
+headquarters: San Francisco, CA
 sector: AI Hardware / Semiconductors (Neuromorphic / In-Memory Compute)
 stage: Late Seed / Series A (troubled)
 employees: ~50 (estimate)

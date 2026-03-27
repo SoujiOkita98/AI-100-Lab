@@ -4,7 +4,7 @@ one_liner: Agentic AI cloud for healthcare that unifies clinical, operational, a
   across health systems and payers
 sector: Healthcare AI / Health Data Platform
 founded: 2014
-headquarters: San Francisco, California
+headquarters: San Francisco, CA
 ceo: Abhinav Shashank
 employees_approx: 1500+
 status: Private

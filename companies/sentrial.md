@@ -1,7 +1,7 @@
 ---
 name: Sentrial
 founded: 2025
-headquarters: San Francisco, CA, USA
+headquarters: San Francisco, CA
 website: https://sentrial.ai
 sector: AI Infrastructure / Monitoring
 one_liner: Production monitoring for AI products, providing observability into AI model performance in real-world deployment.

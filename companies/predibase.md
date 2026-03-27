@@ -2,7 +2,7 @@
 website: https://predibase.com
 sector: AI/ML Infrastructure / Fine-Tuning & Serving Open-Source Models
 founded: 2021
-headquarters: San Francisco, California
+headquarters: San Francisco, CA
 ceo: Devvret Rishi
 employees_approx: 50-100
 status: Acquired (Rubrik, June 2025)

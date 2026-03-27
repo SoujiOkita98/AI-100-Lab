@@ -1,7 +1,7 @@
 ---
 name: Deepnote
 founded: 2019
-headquarters: San Francisco, CA, USA
+headquarters: San Francisco, CA
 website: https://deepnote.com
 sector: AI / Data Science / Notebooks
 one_liner: Collaborative AI-powered data science notebook platform for teams, combining code, SQL, visualization, and AI assistance

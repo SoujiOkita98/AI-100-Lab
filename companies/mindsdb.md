@@ -1,7 +1,7 @@
 ---
 name: MindsDB
 founded: 2017
-headquarters: San Francisco, CA, USA
+headquarters: San Francisco, CA
 website: https://mindsdb.com
 sector: AI / Database & ML Platform
 one_liner: Open-source AI platform that brings machine learning capabilities directly into databases, enabling developers

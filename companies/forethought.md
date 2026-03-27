@@ -1,7 +1,7 @@
 ---
 name: Forethought
 founded: 2018
-headquarters: San Francisco, CA, USA
+headquarters: San Francisco, CA
 website: https://forethought.ai
 sector: AI / Customer Support
 one_liner: AI-native multi-agent platform for enterprise customer support, automating omnichannel resolution for CX teams.

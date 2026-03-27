@@ -1,7 +1,7 @@
 ---
 name: Siena AI
 founded: 2022
-headquarters: San Francisco, CA, USA
+headquarters: San Francisco, CA
 website: https://www.siena.cx
 sector: AI / Customer Service / Conversational AI
 one_liner: Autonomous AI customer service platform delivering empathic, human-like support for e-commerce and consumer brands.

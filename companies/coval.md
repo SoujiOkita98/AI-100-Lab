@@ -1,6 +1,6 @@
 ---
 founded: '2024'
-headquarters: San Francisco, CA, United States
+headquarters: San Francisco, CA
 website: https://www.coval.dev/
 founders:
 - name: Brooke Hopkins

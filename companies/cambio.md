@@ -1,7 +1,7 @@
 ---
 name: Cambio
 founded: '2022'
-headquarters: San Francisco, USA
+headquarters: San Francisco, CA
 website: https://www.cambio.ai/
 linkedin: https://www.linkedin.com/company/cambioai
 linkedin_verified: true

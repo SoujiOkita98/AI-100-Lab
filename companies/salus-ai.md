@@ -1,7 +1,7 @@
 ---
 name: Salus
 founded: 2025
-headquarters: San Francisco, CA, USA
+headquarters: San Francisco, CA
 website: https://salus.ai
 sector: AI Safety / Agent Guardrails
 one_liner: Guardrails to validate AI agent actions before they execute, preventing harmful or unintended behaviors.

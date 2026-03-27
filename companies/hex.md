@@ -1,7 +1,7 @@
 ---
 name: Hex
 founded: 2019
-headquarters: San Francisco, CA, USA
+headquarters: San Francisco, CA
 website: https://hex.tech
 sector: AI / Data Science & Analytics
 one_liner: AI-powered collaborative data science and analytics workspace for building models, running analyses, and sharing

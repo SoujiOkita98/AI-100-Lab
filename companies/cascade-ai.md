@@ -1,7 +1,7 @@
 ---
 name: Cascade
 founded: 2025
-headquarters: San Francisco, CA, USA
+headquarters: San Francisco, CA
 website: https://cascade.ai
 sector: AI Safety / Agent Security
 one_liner: Making autonomous AI intelligence safe and reliable with guardrails and governance for AI agents.

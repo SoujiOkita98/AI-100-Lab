@@ -1,7 +1,7 @@
 ---
 name: Seeing Systems
 founded: 2025
-headquarters: San Francisco, CA, USA
+headquarters: San Francisco, CA
 website: https://seeingsystems.ai
 sector: AI / Defense / Drones
 one_liner: AI drone systems for defence, enabling autonomous aerial surveillance and reconnaissance.

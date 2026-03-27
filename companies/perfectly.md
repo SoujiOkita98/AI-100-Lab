@@ -1,7 +1,7 @@
 ---
 name: Perfectly
 founded: 2025
-headquarters: San Francisco, CA, USA
+headquarters: San Francisco, CA
 website: https://perfectly.ai
 sector: AI / HR & Recruiting
 one_liner: AI-native recruiting operating system that automates the full hiring workflow.

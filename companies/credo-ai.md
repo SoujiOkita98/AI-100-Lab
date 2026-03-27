@@ -2,7 +2,7 @@
 website: https://www.credo.ai
 sector: AI Governance / Responsible AI Platform
 founded: 2020
-headquarters: San Francisco, California
+headquarters: San Francisco, CA
 ceo: Navrina Singh
 employees_approx: 100+
 status: Private

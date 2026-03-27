@@ -1,7 +1,7 @@
 ---
 name: Pollinate
 founded: 2025
-headquarters: San Francisco, CA, USA
+headquarters: San Francisco, CA
 website: https://pollinate.ai
 sector: AI / Supply Chain
 one_liner: AI agents for the supply chain, automating procurement, logistics, and vendor management workflows.

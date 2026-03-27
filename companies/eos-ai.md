@@ -1,7 +1,7 @@
 ---
 name: Eos AI
 founded: 2025
-headquarters: San Francisco, CA, USA
+headquarters: San Francisco, CA
 website: https://eos.ai
 sector: AI / Healthcare
 one_liner: The autonomous operating system for healthcare, using AI agents to manage clinical and administrative workflows.

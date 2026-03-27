@@ -1,7 +1,7 @@
 ---
 name: Pocket
 founded: 2025
-headquarters: San Francisco, CA, USA
+headquarters: San Francisco, CA
 website: https://pocket.ai
 sector: AI Hardware / Productivity
 one_liner: AI-powered note-taking device and app that captures thoughts and conversations for professionals.

@@ -1,7 +1,7 @@
 ---
 name: Clam
 founded: 2025
-headquarters: San Francisco, CA, USA
+headquarters: San Francisco, CA
 website: https://clam.dev
 sector: AI Security / Agent Infrastructure
 one_liner: Enterprise-grade security for broad-access AI agents, solving identity, access control, and audit for agents.

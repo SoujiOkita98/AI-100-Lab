@@ -1,7 +1,7 @@
 ---
 name: Gong
 founded: 2015
-headquarters: San Francisco, CA, USA
+headquarters: San Francisco, CA
 website: https://www.gong.io
 sector: AI / Revenue Intelligence
 one_liner: AI-powered revenue intelligence platform analyzing sales conversations to drive deal insights, coaching, and forecasting.

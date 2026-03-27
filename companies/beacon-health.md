@@ -1,7 +1,7 @@
 ---
 name: Beacon Health
 founded: 2025
-headquarters: San Francisco, CA, USA
+headquarters: San Francisco, CA
 website: https://beaconhealth.ai
 sector: AI / Healthcare
 one_liner: AI agents for primary care that automate clinical workflows and patient management.

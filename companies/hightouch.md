@@ -1,7 +1,7 @@
 ---
 name: Hightouch
 founded: 2019
-headquarters: San Francisco, CA, USA
+headquarters: San Francisco, CA
 website: https://hightouch.com
 sector: AI / Marketing & Data Activation
 one_liner: AI-powered composable CDP and marketing decisioning platform that syncs customer data across business tools.

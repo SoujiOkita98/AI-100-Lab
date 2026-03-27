@@ -1,7 +1,7 @@
 ---
 name: Generalist AI
 founded: 2024
-headquarters: San Francisco, CA, USA
+headquarters: San Francisco, CA
 website: https://www.generalist.ai
 sector: Robotics / AI / Embodied Intelligence
 one_liner: AI robotics company building general-purpose robots using embodied intelligence, founded by ex-Google DeepMind

@@ -1,7 +1,7 @@
 ---
 name: Rubric
 founded: 2025
-headquarters: San Francisco, CA, USA
+headquarters: San Francisco, CA
 website: https://rubric.ai
 sector: AI / ML Research & Post-Training
 one_liner: Post-training research and product lab focused on improving AI model alignment and capabilities after initial training.

@@ -1,7 +1,7 @@
 ---
 name: Arcline
 founded: 2025
-headquarters: San Francisco, CA, USA
+headquarters: San Francisco, CA
 website: https://arcline.ai
 sector: AI / Legal
 one_liner: AI-native legal services for startups with elite lawyers and same-day turnaround, where AI does 80% of the work.

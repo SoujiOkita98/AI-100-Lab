@@ -1,7 +1,7 @@
 ---
 name: Servo7
 founded: 2025
-headquarters: San Francisco, CA, USA
+headquarters: San Francisco, CA
 website: https://servo7.com
 sector: AI / Robotics / Logistics
 one_liner: Autonomous warehouse robots for logistics and fulfillment operations.

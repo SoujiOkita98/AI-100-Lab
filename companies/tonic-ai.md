@@ -1,7 +1,7 @@
 ---
 name: Tonic.ai
 founded: 2018
-headquarters: San Francisco, California, USA
+headquarters: San Francisco, CA
 website: https://www.tonic.ai
 sector: Synthetic Data & Data Privacy
 stage: Growth

@@ -1,6 +1,6 @@
 ---
 founded: '2022'
-headquarters: San Francisco, CA, United States
+headquarters: San Francisco, CA
 website: https://flair.ai/
 founders:
 - name: Mickey Friedman

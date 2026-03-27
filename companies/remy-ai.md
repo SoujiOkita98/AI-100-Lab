@@ -1,7 +1,7 @@
 ---
 name: Remy.Ai
 founded: 2025
-headquarters: San Francisco, CA, USA
+headquarters: San Francisco, CA
 website: https://remy.ai
 sector: AI / Robotics / Warehouse Automation
 one_liner: Automating dexterous tasks in warehouses with AI-powered robotic manipulation.

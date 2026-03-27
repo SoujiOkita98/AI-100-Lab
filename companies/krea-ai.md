@@ -1,7 +1,7 @@
 ---
 name: KREA
 founded: 2022
-headquarters: San Francisco, CA, USA
+headquarters: San Francisco, CA
 website: https://www.krea.ai
 sector: AI / Creative Tools / Image & Video Generation
 one_liner: AI creative platform unifying generative image, video, and design tools for creatives, valued at $500M.

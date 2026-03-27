@@ -1,7 +1,7 @@
 ---
 name: Mem0
 founded: 2023
-headquarters: San Francisco, CA, USA
+headquarters: San Francisco, CA
 website: https://mem0.ai
 sector: AI / Memory Infrastructure
 one_liner: AI memory layer providing persistent, adaptive memory for LLM applications and AI agents.

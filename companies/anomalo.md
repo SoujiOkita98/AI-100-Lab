@@ -1,7 +1,7 @@
 ---
 name: Anomalo
 founded: 2018
-headquarters: San Francisco, California, USA
+headquarters: San Francisco, CA
 website: https://www.anomalo.com
 one_liner: AI-powered data quality platform that automatically detects, explains, and resolves data issues across enterprise
   data warehouses and lakehouses

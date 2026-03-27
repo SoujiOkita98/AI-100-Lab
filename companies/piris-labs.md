@@ -1,7 +1,7 @@
 ---
 name: Piris Labs
 founded: 2025
-headquarters: San Francisco, CA, USA
+headquarters: San Francisco, CA
 website: https://piris.ai
 sector: AI Infrastructure / Inference
 one_liner: Inference at light speed -- building next-generation AI inference infrastructure for ultra-low latency.

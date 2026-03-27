@@ -1,7 +1,7 @@
 ---
 name: Firecrawl
 founded: 2024
-headquarters: San Francisco, CA, USA
+headquarters: San Francisco, CA
 website: https://www.firecrawl.dev
 sector: AI / Data Infrastructure
 one_liner: Developer-first web data API that makes web content accessible and usable for AI agents and LLM applications.

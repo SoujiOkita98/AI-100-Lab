@@ -1,7 +1,7 @@
 ---
 name: Asimov
 founded: 2025
-headquarters: San Francisco, CA, USA
+headquarters: San Francisco, CA
 website: https://asimov.ai
 sector: AI / Robotics / Data
 one_liner: Internet-scale marketplace for robot training data, enabling robotics companies to source and share manipulation

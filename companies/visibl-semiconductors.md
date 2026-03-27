@@ -1,7 +1,7 @@
 ---
 name: Visibl Semiconductors
 founded: 2025
-headquarters: San Francisco, CA, USA
+headquarters: San Francisco, CA
 website: https://visibl.ai
 sector: AI / Semiconductor Design
 one_liner: The AI IDE for chip design, bringing AI-native development tools to hardware engineering.

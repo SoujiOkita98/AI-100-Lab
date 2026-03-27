@@ -1,7 +1,7 @@
 ---
 name: Moda
 founded: 2025
-headquarters: San Francisco, CA, USA
+headquarters: San Francisco, CA
 website: https://moda.ai
 sector: AI Infrastructure / Product Analytics
 one_liner: Product analytics for AI-powered products, helping teams understand how users interact with AI features.

@@ -1,7 +1,7 @@
 ---
 name: Chroma
 founded: 2022
-headquarters: San Francisco, CA, USA
+headquarters: San Francisco, CA
 website: https://www.trychroma.com
 sector: AI / Vector Database
 one_liner: Open-source AI-native embedding database for building LLM applications with long-term memory and retrieval.

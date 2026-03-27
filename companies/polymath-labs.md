@@ -1,7 +1,7 @@
 ---
 name: Polymath Labs
 founded: 2025
-headquarters: San Francisco, CA, USA
+headquarters: San Francisco, CA
 website: https://polymathlabs.ai
 sector: AI Research / Reinforcement Learning
 one_liner: Long-horizon reinforcement learning research lab building agents that can plan and execute over extended time periods.

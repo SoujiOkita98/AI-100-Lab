@@ -1,7 +1,7 @@
 ---
 name: Bedrock Robotics
 founded: 2024
-headquarters: San Francisco, CA, USA
+headquarters: San Francisco, CA
 website: https://bedrockrobotics.com
 sector: Robotics / Autonomous Construction / AI
 one_liner: Autonomous construction robotics company building self-driving kits for heavy equipment, founded by ex-Waymo engineers

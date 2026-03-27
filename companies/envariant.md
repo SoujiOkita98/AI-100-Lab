@@ -1,7 +1,7 @@
 ---
 name: Envariant
 founded: 2025
-headquarters: San Francisco, CA, USA
+headquarters: San Francisco, CA
 website: https://envariant.ai
 sector: AI Infrastructure / Interpretability
 one_liner: Interpretability and reasoning infrastructure for foundation models, making AI decisions explainable and verifiable.

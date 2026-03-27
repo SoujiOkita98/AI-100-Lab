@@ -1,7 +1,7 @@
 ---
 name: Synthetic Sciences
 founded: 2025
-headquarters: San Francisco, CA, USA
+headquarters: San Francisco, CA
 website: https://syntheticsciences.com
 sector: AI / Scientific Research
 one_liner: AI co-scientists that run research end-to-end, described as "Claude Code for Science."

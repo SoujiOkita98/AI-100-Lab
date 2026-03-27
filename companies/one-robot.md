@@ -1,7 +1,7 @@
 ---
 name: One Robot
 founded: 2025
-headquarters: San Francisco, CA, USA
+headquarters: San Francisco, CA
 website: https://onerobot.ai
 sector: AI / Robotics / World Models
 one_liner: World models for VLA (Vision-Language-Action) evaluations and training for robotics.

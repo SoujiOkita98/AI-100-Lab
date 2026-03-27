@@ -2,7 +2,7 @@
 website: https://hasura.io
 sector: AI Data Infrastructure / API & Data Access Platform
 founded: 2013
-headquarters: San Francisco, California
+headquarters: San Francisco, CA
 ceo: Tanmai Gopal
 employees_approx: 300+
 status: Private

@@ -1,7 +1,7 @@
 ---
 name: Recall.ai
 founded: 2022
-headquarters: San Francisco, CA, USA
+headquarters: San Francisco, CA
 website: https://www.recall.ai
 sector: AI / Meeting Intelligence / Developer API
 one_liner: Universal meeting bot API providing recordings, transcripts, and metadata from Zoom, Teams, Meet, and other platforms

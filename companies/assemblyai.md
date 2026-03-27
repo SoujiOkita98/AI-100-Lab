@@ -1,7 +1,7 @@
 ---
 name: AssemblyAI
 founded: 2017
-headquarters: San Francisco, CA, USA
+headquarters: San Francisco, CA
 website: https://www.assemblyai.com
 sector: AI / Speech-to-Text
 one_liner: AI speech recognition and understanding platform building research-grade models for transcription, summarization,

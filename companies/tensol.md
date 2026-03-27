@@ -1,7 +1,7 @@
 ---
 name: Tensol
 founded: 2025
-headquarters: San Francisco, CA, USA
+headquarters: San Francisco, CA
 website: https://tensol.ai
 sector: AI Infrastructure / Multi-Agent Systems
 one_liner: Multi-agent systems orchestration platform for coordinating complex AI agent workflows.

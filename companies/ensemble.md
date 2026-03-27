@@ -1,6 +1,6 @@
 ---
 founded: '2023'
-headquarters: San Francisco, CA, United States
+headquarters: San Francisco, CA
 website: https://www.ensemble.ai/
 founders:
 - name: Alex Reneau

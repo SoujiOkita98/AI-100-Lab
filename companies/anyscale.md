@@ -1,7 +1,7 @@
 ---
 name: Anyscale
 founded: 2019
-headquarters: San Francisco, CA, USA
+headquarters: San Francisco, CA
 website: https://www.anyscale.com
 sector: AI / ML Infrastructure
 one_liner: AI infrastructure company behind the Ray open-source framework for scaling and productionizing AI/ML workloads.

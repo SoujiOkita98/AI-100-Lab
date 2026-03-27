@@ -1,7 +1,7 @@
 ---
 name: Hex Security
 founded: 2025
-headquarters: San Francisco, CA, USA
+headquarters: San Francisco, CA
 website: https://hexsecurity.ai
 sector: AI / Cybersecurity
 one_liner: Agentic offensive security at scale, using AI agents to autonomously identify and test security vulnerabilities.

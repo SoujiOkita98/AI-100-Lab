@@ -2,7 +2,7 @@
 name: Lambda
 sector: AI / GPU Cloud Infrastructure
 founded: 2012
-headquarters: San Francisco, California
+headquarters: San Francisco, CA
 website: https://lambda.ai
 status: Private (IPO expected H2 2026)
 founders:

@@ -2,7 +2,7 @@
 name: Exa
 sector: AI / Search Infrastructure / Data Retrieval
 founded: 2021
-headquarters: San Francisco, California
+headquarters: San Francisco, CA
 website: https://exa.ai
 status: Private
 latest_valuation_approx: ~$700M (September 2025)

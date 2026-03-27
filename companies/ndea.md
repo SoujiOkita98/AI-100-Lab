@@ -1,7 +1,7 @@
 ---
 name: Ndea
 founded: 2025
-headquarters: San Francisco, CA, USA
+headquarters: San Francisco, CA
 website: https://ndea.ai
 sector: AI Research / AGI
 one_liner: Building AGI that can innovate -- pursuing artificial general intelligence with a focus on creative problem-solving.

@@ -1,7 +1,7 @@
 ---
 name: Composio
 founded: 2023
-headquarters: San Francisco, CA, USA
+headquarters: San Francisco, CA
 website: https://composio.dev
 sector: AI / Agent Infrastructure
 one_liner: Developer platform providing tool integrations and skills layer for AI agents to interact with enterprise applications.

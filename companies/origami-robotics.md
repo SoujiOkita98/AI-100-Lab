@@ -1,7 +1,7 @@
 ---
 name: Origami Robotics
 founded: 2025
-headquarters: San Francisco, CA, USA
+headquarters: San Francisco, CA
 website: https://origamirobotics.com
 sector: AI / Robotics
 one_liner: Building the "Manipulate Anything Robot" -- general-purpose robotic manipulation using AI.

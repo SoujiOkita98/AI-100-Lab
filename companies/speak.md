@@ -3,7 +3,7 @@ name: Speak
 full_name: Speak Inc.
 sector: AI Language Learning
 founded: 2016
-headquarters: San Francisco, California
+headquarters: San Francisco, CA
 website: https://www.speak.com
 arr: ~$100M (2025 estimate)
 employees: ~40-60 (estimate)

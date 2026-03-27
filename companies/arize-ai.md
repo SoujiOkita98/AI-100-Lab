@@ -2,7 +2,7 @@
 sector: AI/ML Observability & Evaluation Platform
 founded: 2020
 website: https://arize.com
-headquarters: San Francisco, California
+headquarters: San Francisco, CA
 ceo: Jason Lopatecki
 employees_approx: 150+
 status: Private

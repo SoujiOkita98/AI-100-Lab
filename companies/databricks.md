@@ -1,7 +1,7 @@
 ---
 name: Databricks
 founded: 2013
-headquarters: San Francisco, California, USA
+headquarters: San Francisco, CA
 website: https://www.databricks.com
 one_liner: Unified data lakehouse and AI platform enabling enterprises to build, deploy, and manage data analytics and AI
   solutions at scale

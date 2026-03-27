@@ -1,7 +1,7 @@
 ---
 name: Castari
 founded: 2025
-headquarters: San Francisco, CA, USA
+headquarters: San Francisco, CA
 website: https://castari.dev
 sector: AI Infrastructure / Agent Deployment
 one_liner: Deploy AI agents in secure, autoscaling sandboxes with one command, with tool/MCP connectors and observability.

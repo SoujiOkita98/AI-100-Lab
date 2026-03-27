@@ -1,7 +1,7 @@
 ---
 sector: AI Image & Video Generation
 founded: 2021
-headquarters: San Francisco, California
+headquarters: San Francisco, CA
 founder: David Holz
 ceo: David Holz
 funding_status: Bootstrapped / Self-funded

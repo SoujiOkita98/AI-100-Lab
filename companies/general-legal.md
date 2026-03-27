@@ -1,7 +1,7 @@
 ---
 name: General Legal
 founded: 2025
-headquarters: San Francisco, CA, USA
+headquarters: San Francisco, CA
 website: https://generallegal.com
 sector: AI / Legal
 one_liner: AI-native law firm for growth-stage companies with same-day turnaround on legal work.

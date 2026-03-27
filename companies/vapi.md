@@ -1,7 +1,7 @@
 ---
 name: Vapi
 founded: 2020
-headquarters: San Francisco, CA, USA
+headquarters: San Francisco, CA
 website: https://vapi.ai
 sector: AI / Voice Agents
 one_liner: Voice AI developer platform providing infrastructure for building, testing, and deploying AI-powered voice agents.

@@ -1,7 +1,7 @@
 ---
 name: LiveKit
 founded: 2021
-headquarters: San Francisco, CA, USA
+headquarters: San Francisco, CA
 website: https://livekit.io
 sector: AI / Real-Time Infrastructure
 one_liner: Open-source real-time communication platform powering voice AI, video, and data streaming for AI applications.

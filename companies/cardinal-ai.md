@@ -1,7 +1,7 @@
 ---
 name: Cardinal
 founded: 2025
-headquarters: San Francisco, CA, USA
+headquarters: San Francisco, CA
 website: https://cardinal.ai
 sector: AI / Sales & Marketing
 one_liner: AI platform for precision outbound sales, with 40+ YC companies as paying customers.

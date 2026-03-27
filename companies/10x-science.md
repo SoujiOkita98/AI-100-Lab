@@ -1,7 +1,7 @@
 ---
 name: 10x Science
 founded: 2025
-headquarters: San Francisco, CA, USA
+headquarters: San Francisco, CA
 website: https://10xscience.com
 sector: AI / Biotech / Protein Science
 one_liner: AI-native platform for next-generation protein characterization using frontier models with deep memory.
