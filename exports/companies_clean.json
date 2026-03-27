@@ -12980,6 +12980,97 @@
     ]
   },
   {
+    "slug": "cognition",
+    "name": "Cognition",
+    "status": "active",
+    "founded_year": "2023",
+    "hq": "San Francisco, CA",
+    "website": "https://cognition.ai",
+    "sector": "dev-tools; agents; coding",
+    "one_liner": "Creator of Devin, the first AI software engineer \u2014 an autonomous coding agent that plans, writes, debugs, and deploys code. All three founders are 3x IOI gold medalists.",
+    "total_raised_m": 696.0,
+    "latest_valuation_m": 10200.0,
+    "employees": null,
+    "revenue_signals": "Grew from $1M ARR (Sep 2024) to $73M ARR (Jun 2025). Total net burn under $20M across entire history.",
+    "business_model": null,
+    "key_customers": null,
+    "confidence": "high",
+    "last_updated": "2026-03-26",
+    "founders": [
+      {
+        "company_slug": "cognition",
+        "name": "Scott Wu",
+        "role": "Co-Founder & CEO",
+        "background": "Born 1997 in Baton Rouge, LA to Chinese immigrant parents (both chemical engineers from Shanghai). 3x IOI gold medalist (1st globally 2014). MathCounts national champion. Attended Harvard (dropped out). Previously co-founded Lunchclub (CTO, 2017-2022).",
+        "origin": "Chinese-American",
+        "prior": ""
+      },
+      {
+        "company_slug": "cognition",
+        "name": "Steven Hao",
+        "role": "Co-Founder & CTO",
+        "background": "IOI 2014 gold medalist (6th globally). BS CS and Mathematics, MIT (2014-2018). Early/core engineer at Scale AI. Previously interned at D.E. Shaw and Dropbox.",
+        "origin": "Chinese-American",
+        "prior": ""
+      },
+      {
+        "company_slug": "cognition",
+        "name": "Walden Yan",
+        "role": "Co-Founder & CPO",
+        "background": "IOI 2020 gold medalist (19th globally). Attended Harvard (dropped out). Thiel Fellow. Previously early engineer at Anysphere (Cursor). Co-founded DeepReason (web3 security, 2022-2023).",
+        "origin": "Chinese-American",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "cognition",
+        "stage": "Series A",
+        "date": "2024-03",
+        "amount_m": 21.0,
+        "valuation_m": 350.0,
+        "lead_investors": "Founders Fund",
+        "other_investors": "",
+        "source": "https://cognition.ai/blog/funding-growth-and-the-next-frontier-of-ai-coding-agents",
+        "notes": ""
+      },
+      {
+        "company_slug": "cognition",
+        "stage": "Series A Extension",
+        "date": "2024-04",
+        "amount_m": 175.0,
+        "valuation_m": 2000.0,
+        "lead_investors": "Founders Fund",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
+      },
+      {
+        "company_slug": "cognition",
+        "stage": "Series B",
+        "date": "2025-03",
+        "amount_m": null,
+        "valuation_m": 4000.0,
+        "lead_investors": "8VC; Lux Capital",
+        "other_investors": "",
+        "source": "",
+        "notes": ""
+      },
+      {
+        "company_slug": "cognition",
+        "stage": "Series C",
+        "date": "2025-09",
+        "amount_m": 400.0,
+        "valuation_m": 10200.0,
+        "lead_investors": "Founders Fund",
+        "other_investors": "",
+        "source": "https://www.cnbc.com/2025/09/08/cognition-valued-at-10point2-billion-two-months-after-windsurf-.html",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
     "slug": "cohere",
     "name": "Cohere",
     "status": "Private",
@@ -38016,6 +38107,83 @@
         "lead_investors": "Databricks (acquirer)",
         "other_investors": "",
         "source": "https://www.databricks.com/company/newsroom/press-releases/databricks-signs-definitive-agreement-acquire-mosaicml-leading-generative-ai-platform",
+        "notes": ""
+      }
+    ],
+    "top_investors": []
+  },
+  {
+    "slug": "mosaicml",
+    "name": "MosaicML",
+    "status": "acquired",
+    "founded_year": "2020",
+    "hq": "San Francisco, CA",
+    "website": "https://www.mosaicml.com",
+    "sector": "foundation-models; ml-infrastructure; dev-tools",
+    "one_liner": "ML training efficiency platform making it easy and affordable to train and deploy large AI models. Acquired by Databricks for $1.3B in 2023.",
+    "total_raised_m": 64.0,
+    "latest_valuation_m": 1300.0,
+    "employees": null,
+    "revenue_signals": null,
+    "business_model": null,
+    "key_customers": null,
+    "confidence": "high",
+    "last_updated": "2026-03-26",
+    "founders": [
+      {
+        "company_slug": "mosaicml",
+        "name": "Naveen Rao",
+        "role": "Co-Founder & CEO",
+        "background": "PhD Neuroscience, Brown University. Previously co-founded Nervana Systems (acquired by Intel for ~$350M in 2016). Corporate VP and GM of Intel AI Products Group (2017-2020). Later founded Unconventional AI.",
+        "origin": "Indian-American",
+        "prior": ""
+      },
+      {
+        "company_slug": "mosaicml",
+        "name": "Hanlin Tang",
+        "role": "Co-Founder & CTO",
+        "background": "BA Physics, Princeton University. PhD Biophysics, Harvard University. Previously at Nervana Systems and Senior Director of Intel AI Lab. Graduated from Taipei American School. Now CTO of Neural Networks at Databricks.",
+        "origin": "Chinese-American (Taiwanese)",
+        "prior": ""
+      },
+      {
+        "company_slug": "mosaicml",
+        "name": "Jonathan Frankle",
+        "role": "Co-Founder & Chief Scientist",
+        "background": "BSE and MSE CS, Princeton. PhD CS, MIT (2023). Known for the 'Lottery Ticket Hypothesis' (best paper ICLR 2019). 2023 AAAI/ACM SIGAI Doctoral Dissertation Award. Now Chief AI Scientist at Databricks.",
+        "origin": "American",
+        "prior": ""
+      },
+      {
+        "company_slug": "mosaicml",
+        "name": "Michael Carbin",
+        "role": "Co-Founder",
+        "background": "Associate Professor at MIT EECS. Heads the Programming Systems Group at MIT CSAIL. Jonathan Frankle's PhD adviser.",
+        "origin": "American",
+        "prior": ""
+      }
+    ],
+    "funding_rounds": [
+      {
+        "company_slug": "mosaicml",
+        "stage": "Seed",
+        "date": "2020-12",
+        "amount_m": null,
+        "valuation_m": null,
+        "lead_investors": "",
+        "other_investors": "",
+        "source": "",
+        "notes": "Amount undisclosed"
+      },
+      {
+        "company_slug": "mosaicml",
+        "stage": "Series A",
+        "date": "2021-07",
+        "amount_m": 37.0,
+        "valuation_m": 222.0,
+        "lead_investors": "Lux Capital",
+        "other_investors": "DCVC; Future Ventures; Playground Global; Correlation Ventures; AME Cloud Ventures; E14 Fund",
+        "source": "https://siliconangle.com/2021/10/13/naveen-raos-startup-mosaicml-exits-stealth-mission-improve-ml-training/",
         "notes": ""
       }
     ],
