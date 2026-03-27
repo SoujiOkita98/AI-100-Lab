@@ -36,7 +36,6 @@ team:
       role: string
       background: string         # Whatever is notable — education, prior cos, expertise
       origin: string             # Free text — e.g. "mainland Chinese", "ABC", "Indian-American", etc.
-  team_china_profile: string     # Quick summary — e.g. "both cofounders mainland Chinese, educated in US"
 
 business:
   business_model: string         # Free text

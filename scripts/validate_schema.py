@@ -27,7 +27,7 @@ STANDARD_COMPANY_FIELDS = REQUIRED_COMPANY_FIELDS | {
     "confidence", "last_updated", "linkedin", "linkedin_verified",
     "twitter", "crunchbase", "crunchbase_verified", "website_verified",
     "employees", "revenue_signals", "business_model", "key_customers",
-    "team_china_profile", "data_notes", "logo",
+    "data_notes", "logo",
 }
 
 RENAME_COMPANY_FIELDS = {

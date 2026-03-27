@@ -38,7 +38,6 @@ founders:
   role: CTO & Co-Founder
   background: Previously founded Kaps, an AI-based localization platform. Technical co-founder with deep AI/ML expertise.
   origin: Israeli
-team_china_profile: No known Chinese-origin founders. Both founders are Israeli.
 business_model: 'Enterprise SaaS. AI agent platform for customer service, deployed across telecom, finance, healthcare, and
   manufacturing verticals. Key differentiator is the ''hyper-local'' deployment model: Wonderful embeds deployment teams directly
   inside enterprise environments alongside the AI agents. This hybrid human+AI deployment approach helps overcome enterprise

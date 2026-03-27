@@ -110,14 +110,6 @@ def add_new_companies(companies, founders, rounds, new_companies):
             "revenue_signals": None,
             "key_customers": [],
             "employee_count": None,
-            "team_china_profile": None,
-            "engagement": {
-                "status": "none",
-                "first_contact_date": None,
-                "source": None,
-                "owner": None,
-                "notes": None
-            },
             "sources": nc.get("sources", []),
             "confidence": nc.get("confidence", "Medium"),
             "last_updated": str(date.today())
@@ -184,7 +176,6 @@ def rebuild_sqlite(companies, founders, rounds):
         revenue_signals TEXT,
         business_model TEXT,
         key_customers TEXT,
-        team_china_profile TEXT,
         confidence TEXT,
         last_updated TEXT
     )""")
@@ -219,13 +210,13 @@ def rebuild_sqlite(companies, founders, rounds):
         customers = c.get("key_customers", [])
         if isinstance(customers, list):
             customers = "; ".join(str(x) for x in customers)
-        cur.execute("""INSERT INTO companies VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)""", (
+        cur.execute("""INSERT INTO companies VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)""", (
             c["slug"], c["name"], c.get("status"), c.get("founded_year"),
             c.get("hq"), c.get("website"), sectors, c.get("one_liner"),
             c.get("total_raised_m"), c.get("latest_valuation_m"),
             str(c.get("employee_count", "")) or None,
             c.get("revenue_signals"), c.get("business_model"),
-            customers or None, c.get("team_china_profile"),
+            customers or None,
             c.get("confidence"), c.get("last_updated")
         ))
 

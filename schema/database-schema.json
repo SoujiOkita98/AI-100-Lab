@@ -25,21 +25,6 @@
       "key_customers":       { "type": "array",   "required": false, "items": "string" },
       "employee_count":      { "type": "integer",  "required": false },
 
-      "team_china_profile":  { "type": "string",  "required": false, "description": "Quick filter: mainland | abc | mixed | none | unknown" },
-
-      "engagement": {
-        "type": "object",
-        "required": false,
-        "description": "Deal tracking / internal engagement status",
-        "fields": {
-          "status":             { "type": "enum", "values": ["tracking", "contacted", "met", "passed", "missed", "invested", "none"] },
-          "first_contact_date": { "type": "string", "description": "YYYY-MM-DD" },
-          "source":             { "type": "string", "description": "How we found them" },
-          "owner":              { "type": "string" },
-          "notes":              { "type": "string" }
-        }
-      },
-
       "sources":             { "type": "array",   "required": true, "items": "string", "description": "Source URLs" },
       "confidence":          { "type": "enum",    "required": true, "values": ["high", "medium", "low"] },
       "last_updated":        { "type": "string",  "required": true, "description": "YYYY-MM-DD" }

@@ -62,9 +62,6 @@ founders:
   role: Co-Founder
   background: Defense technology entrepreneur with expertise in directed-energy systems and counter-electronics applications.
   origin: American
-team_china_profile: No China connection. Founders are American with deep ties to US defense and intelligence communities.
-  Joe Lonsdale co-founded Palantir, one of the most US-government-aligned technology companies. Epirus works exclusively for
-  the US military and allied forces.
 business_model: Defense hardware company building directed-energy weapon systems. The flagship product, Leonidas, is a solid-state
   high-power microwave (HPM) system that defeats drones and drone swarms by frying their electronics. Revenue comes from US
   DoD contracts, production orders for Leonidas systems, and R&D contracts. The company is scaling manufacturing to meet growing

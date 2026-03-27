@@ -45,8 +45,6 @@ founders:
   background: Most recently SVP of Business Development at Ventana Systems (RISC-V server chips). Background in semiconductor
     business development.
   origin: American
-team_china_profile: No known Chinese-origin founders. The founding team has deep roots in US networking and semiconductor
-  industries.
 business_model: Hardware + software infrastructure. Eridu is building custom networking silicon (chips) and a high-radix switching
   architecture designed specifically for AI data center workloads. The company rethinks computer networking from scratch,
   starting with the silicon, integrating more networking functionality directly into new chips optimized for massive GPU clusters.

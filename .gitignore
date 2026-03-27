@@ -4,3 +4,5 @@ scripts/batch*_rounds.json
 analysis/
 .gstack/
 .local/
+encrypted/
+.staticrypt.json

@@ -69,7 +69,6 @@ founders:
   role: Co-Founder
   background: Limited public information available. Co-founded SeMI Technologies in 2019 alongside Van Luijt and Dilocker.
   origin: American
-team_china_profile: No known Chinese-origin founders. The founding team is Dutch and German. No significant public China connections.
 notable_hires: []
 business_model: 'Open-core SaaS. The core Weaviate vector database is open-source (BSD-3 license) and free to self-host. Revenue
   comes from Weaviate Cloud Services, offered in three tiers: (1) Shared Cloud (formerly Serverless Cloud) -- multi-tenant,

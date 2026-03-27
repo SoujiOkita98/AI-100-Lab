@@ -52,8 +52,6 @@ FIELD_MAP = {
     "funding_rounds": "funding_rounds",
     # founders
     "founders": "founders",
-    # team china
-    "team_china_profile": "team_china_profile",
     # business
     "business_model": "business_model",
     "revenue_signals": "revenue_signals", "arr": "revenue_signals",
@@ -188,7 +186,6 @@ def normalize(raw, slug):
     out.setdefault("status", "active")
     out.setdefault("business_model", None)
     out.setdefault("revenue_signals", None)
-    out.setdefault("team_china_profile", None)
     out.setdefault("confidence", "medium")
     out.setdefault("last_updated", str(date.today()))
 
@@ -201,7 +198,7 @@ def export_master_csv(companies):
     fields = [
         "slug", "name", "status", "founded_year", "hq", "website",
         "sector", "one_liner", "total_raised_m", "latest_valuation_m",
-        "business_model", "revenue_signals", "team_china_profile",
+        "business_model", "revenue_signals",
         "num_founders", "num_rounds", "key_customers", "confidence",
         "last_updated"
     ]

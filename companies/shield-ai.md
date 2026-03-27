@@ -90,9 +90,6 @@ current_ceo:
   background: 30+ years scaling technology enterprises. Previously President, Go-to-Market at Cisco. Before that, CEO of Splunk
     -- grew revenue 58%, led the company to profitability, and orchestrated its $28B acquisition by Cisco (2024). Earlier,
     founded Proofpoint (email security) and took it from $0 to IPO, reaching $12B enterprise value.
-team_china_profile: No China connection. The founding team is American. Brandon Tseng is a former Navy SEAL with high-level
-  security clearances. The company works exclusively on U.S. and allied defense applications. Key investors include strategic
-  defense partners L3Harris and Hanwha (South Korea).
 business_model: 'Dual revenue stream: (1) Hardware -- sells V-BAT autonomous VTOL drones (Group 3 UAS) and will eventually
   sell X-BAT autonomous fighter jets. (2) Software licensing -- Hivemind autonomy platform licensed to allies and integrated
   onto third-party platforms (e.g., Anduril''s Fury CCA). Revenue was ~$300M for fiscal year ending March 2025. CEO targets

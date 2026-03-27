@@ -45,8 +45,6 @@ founders:
   role: Co-Founder
   background: Defense technology entrepreneur and co-founder of Chaos Industries.
   origin: American
-team_china_profile: No China connection. Founders are American defense tech entrepreneurs. The company builds counter-drone
-  systems for the US military and allied forces.
 business_model: Defense hardware and software company focused on counter-drone detection and defeat. Chaos Industries builds
   the Vanquish radar system, which detects small unmanned aerial vehicles at ranges of hundreds of kilometers, along with
   AI-powered communication and electronic warfare systems. Revenue comes from government defense contracts and sales of hardware

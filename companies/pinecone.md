@@ -44,7 +44,6 @@ founders:
     Forecast, and other services). Before AWS, Senior Research Director at Yahoo and Head of Yahoo's Research Lab in New York.
     Deep expertise in large-scale vector search, streaming algorithms, and machine learning infrastructure.
   origin: American
-team_china_profile: No known Chinese-origin founders. The founding team is Israeli-American. No significant public China connections.
 notable_hires:
 - Ash Ashutosh - CEO (September 2025). Three-time founder (Serano Systems, AppIQ, Actifio). Former CTO of HP's Storage division,
   partner at Greylock Partners, and Global Director of Solution Sales at Google (managed $1B+ portfolio). Penn State EE/CS

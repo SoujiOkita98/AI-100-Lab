@@ -38,8 +38,6 @@ founders:
   role: Co-Founder
   background: Co-founder. Additional background details limited in public sources.
   origin: Limited public information
-team_china_profile: No known Chinese-origin founders. The founding team includes former DeepMind researchers with American
-  and Israeli backgrounds.
 business_model: Enterprise SaaS. Nexus is a 'large tabular model' (LTM) -- a new category distinct from LLMs. It is deterministic
   (same question always yields same answer), does not use transformer architecture, and is purpose-built for structured/tabular
   enterprise data (spreadsheets, databases, financial tables). Target customers are enterprises with large structured datasets.

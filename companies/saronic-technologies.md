@@ -52,8 +52,6 @@ founders:
   role: Co-Founder
   background: Co-founder contributing to Saronic's autonomous vessel technology and maritime systems.
   origin: American
-team_china_profile: No China connection identified. Founders are American with defense technology backgrounds. The company
-  builds autonomous naval vessels for the US Navy and allied navies.
 business_model: Vertically integrated defense shipbuilder. Saronic designs, builds, and sells autonomous surface vessels to
   the US Navy and allied maritime forces. The company operates its own shipyard in Austin, TX, enabling rapid iteration and
   production. Revenue comes from vessel sales and government contracts. The company aims to compress naval shipbuilding timelines

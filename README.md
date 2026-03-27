@@ -1,6 +1,6 @@
 # AI-100-Lab
 
-**A research-grade database of 767 AI and robotics startups worldwide — funding rounds, founder profiles, investor networks, and origin analysis.**
+**A research-grade database of 1,007 AI and robotics startups worldwide — funding rounds, founder profiles, investor networks, and origin analysis.**
 
 Built with research-grade rigor: every claim is sourced, uncertainty is marked explicitly, and quality takes precedence over completeness.
 
@@ -10,37 +10,36 @@ Built with research-grade rigor: every claim is sourced, uncertainty is marked e
 
 | Metric | Count |
 |--------|------:|
-| Companies | 767 |
-| Funding rounds | 1,635 |
-| Founders tracked | 1,770 |
-| Countries covered | 25+ |
+| Companies | 1,007 |
+| Funding rounds | 2,043 |
+| Founders tracked | 2,202 |
+| Countries covered | 30+ |
 
 ## Data Quality
 
 | Field | Coverage | Notes |
 |-------|:--------:|-------|
 | Company name | 100% | |
-| Founded year | 100% | |
+| Founded year | 91% | |
 | Website URL | 100% | Verified via HTTP request |
 | HQ location | 100% | City + country |
 | One-liner description | 100% | |
-| Sector/category | 98% | Multi-tag taxonomy |
-| Total funding raised | 99%+ | In millions USD, normalized across currencies |
-| Founder names | 100% | 1,770 founders with verified names |
-| Founder background | 78% | Education, prior companies, notable experience |
-| LinkedIn | 100% | All 767 verified via HTTP |
-| Round amount | 88% | Per-round detail for 1,635 rounds |
-| Lead investors | 94% | Per-round |
-| Source URL | 79% | Traceable to original reporting |
-| Latest valuation | 4% | Most startups don't disclose (market reality) |
-| Revenue signals | 3% | Only where publicly disclosed |
+| Sector/category | 100% | Multi-tag taxonomy |
+| Total funding raised | 99% | In millions USD, normalized across currencies |
+| Founder names | 100% | 2,202 founders with verified names |
+| Founder background | ~80% | Education, prior companies, notable experience |
+| Round amount | ~88% | Per-round detail for 2,043 rounds |
+| Lead investors | ~94% | Per-round |
+| Source URL | ~79% | Traceable to original reporting |
+| Latest valuation | 22% | Most startups don't disclose (market reality) |
+| Revenue signals | 6% | Only where publicly disclosed |
 
 ### Honest Caveats
 
-- **Founder "background" is 78%, not 100%.** All 767 companies have founder names and roles, but 167 have name+role only — no education or work history.
-- **Valuation data is very sparse.** Only 35 companies have a recorded valuation. This is normal — seed and early-stage companies rarely disclose.
-- **Funding totals may undercount earlier rounds.** A random validation of 20 companies found only 8-9 had fully correct totals. We back-filled 121 missing rounds but gaps likely remain.
-- **Coverage is biased toward English-language media.** China (40), Japan (3), India (8) are underrepresented relative to their AI ecosystems.
+- **Founder "background" is ~80%, not 100%.** All 1,007 companies have founder names and roles, but some have name+role only — no education or work history.
+- **Valuation data is growing.** 226 companies now have a recorded valuation (22%), up from ~4%. Seed and early-stage companies rarely disclose.
+- **Funding totals may undercount earlier rounds.** A random validation of 20 companies found only 8-9 had fully correct totals. We back-filled missing rounds but gaps likely remain.
+- **Coverage is biased toward English-language media.** China (65), Japan (3), India (8) are still underrepresented relative to their AI ecosystems.
 
 ---
 
@@ -48,7 +47,7 @@ Built with research-grade rigor: every claim is sourced, uncertainty is marked e
 
 ```
 AI-100-Lab/
-  companies/           # 767 markdown files — one per company
+  companies/           # 1,007 markdown files — one per company
   exports/             # Clean CSV + JSON exports (rebuilt on demand)
     companies_clean.csv
     rounds_clean.csv
@@ -111,38 +110,38 @@ Anthropic is an AI safety company and one of the three leading frontier model la
 
 | Region | Companies |
 |--------|----------:|
-| California, US | 370 |
-| New York, US | 73 |
-| Other US | 50 |
-| United Kingdom | 53 |
-| China / Hong Kong | 40 |
-| Israel | 39 |
-| Germany | 21 |
-| France | 18 |
-| Canada | 12 |
+| California, US | 529 |
+| New York, US | 87 |
+| Other US | 87 |
+| China / Hong Kong | 65 |
+| United Kingdom | 57 |
+| Israel | 43 |
+| Germany | 22 |
+| France | 20 |
+| Canada | 13 |
 | India | 8 |
 | South Korea | 6 |
 | Japan | 3 |
-| Other (20+ countries) | 74 |
+| Other (30+ countries) | 67 |
 
 ## Top Founder Origins
 
 | Origin | Founders |
 |--------|--------:|
-| American | 262 |
-| Israeli | 116 |
-| Indian-American | 89 |
-| Chinese | 81 |
-| Indian | 77 |
-| Chinese-American | 58 |
-| French | 54 |
-| German | 46 |
-| British | 37 |
-| Canadian | 20 |
-| Korean | 17 |
-| Dutch | 16 |
+| American | 503 |
+| Chinese | 166 |
+| Indian | 152 |
+| Israeli | 142 |
+| Chinese-American | 126 |
+| Indian-American | 113 |
+| German | 63 |
+| French | 60 |
+| British | 54 |
+| Canadian | 25 |
+| Korean | 19 |
+| Iranian-American | 17 |
+| Dutch | 17 |
 | Swedish | 14 |
-| Iranian-American | 13 |
 
 ---
 
@@ -175,11 +174,11 @@ This database was built through systematic multi-source research, not a single d
 
 ### Known Limitations
 
-- **Valuation data is very sparse** — Only 4% of companies have a recorded valuation
-- **Revenue data is rare** — Only 3% have revenue signals (private company reality)
+- **Valuation data is sparse** — Only 22% of companies have a recorded valuation
+- **Revenue data is rare** — Only 6% have revenue signals (private company reality)
 - **Coverage is biased toward English-language media** — Chinese, Japanese, Korean companies are underrepresented
 - **Paywalled databases not used** — No Crunchbase Pro or PitchBook access; SEC EDGAR partially compensates
-- **Founder backgrounds are incomplete** — 78% have full profiles; 22% have name+role only
+- **Founder backgrounds are incomplete** — ~80% have full profiles; ~20% have name+role only
 - **Funding totals may undercount** — Systematic undercounting of earlier rounds (pre-seed/seed) is a known issue
 
 ---
@@ -190,15 +189,15 @@ Clean, analysis-ready exports are in `exports/`:
 
 | File | Rows | Description |
 |------|-----:|-------------|
-| `companies_clean.csv` | 767 | One row per company — all normalized fields |
-| `rounds_clean.csv` | 1,635 | One row per funding round — stage, date, amount, valuation, investors |
-| `founders_clean.csv` | 1,770 | One row per founder — name, role, background, origin |
-| `companies_clean.json` | 767 | Nested format — company + founders + rounds combined |
+| `companies_clean.csv` | 1,007 | One row per company — all normalized fields |
+| `rounds_clean.csv` | 2,043 | One row per funding round — stage, date, amount, valuation, investors |
+| `founders_clean.csv` | 2,202 | One row per founder — name, role, background, origin |
+| `companies_clean.json` | 1,007 | Nested format — company + founders + rounds combined |
 
 ### CSV Field Reference
 
 **companies_clean.csv:**
-`slug, name, status, founded_year, hq, website, sector, one_liner, total_raised_m, latest_valuation_m, employees, revenue_signals, business_model, key_customers, team_china_profile, confidence, last_updated`
+`slug, name, status, founded_year, hq, website, sector, one_liner, total_raised_m, latest_valuation_m, employees, revenue_signals, business_model, key_customers, confidence, last_updated`
 
 **rounds_clean.csv:**
 `company_slug, stage, date, amount_m, valuation_m, lead_investors, other_investors, source, notes`

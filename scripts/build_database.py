@@ -155,14 +155,6 @@ def extract_company(raw, slug):
         "revenue_signals": str(get_val(raw, "revenue_signals", "arr", "arr_estimate", "revenue", default="")) or None,
         "key_customers": customers,
         "employee_count": emp,
-        "team_china_profile": get_val(raw, "team_china_profile"),
-        "engagement": {
-            "status": "none",
-            "first_contact_date": None,
-            "source": None,
-            "owner": None,
-            "notes": None
-        },
         "sources": to_str_list(get_val(raw, "sources", default=[])),
         "confidence": get_val(raw, "confidence", default="medium"),
         "last_updated": str(get_val(raw, "last_updated", "research_date", default=date.today()))
@@ -273,9 +265,7 @@ def main():
                 "latest_valuation_m": None, "latest_round": None,
                 "latest_round_date": None, "business_model": None,
                 "revenue_signals": None, "key_customers": [],
-                "employee_count": None, "team_china_profile": None,
-                "engagement": {"status": "none", "first_contact_date": None,
-                               "source": None, "owner": None, "notes": None},
+                "employee_count": None,
                 "sources": [], "confidence": "low",
                 "last_updated": str(date.today())
             })
@@ -316,7 +306,7 @@ def main():
         "slug", "name", "status", "founded_year", "hq", "website", "sectors",
         "one_liner", "total_raised_m", "latest_valuation_m", "latest_round",
         "latest_round_date", "business_model", "revenue_signals", "key_customers",
-        "employee_count", "team_china_profile", "confidence", "last_updated"
+        "employee_count", "confidence", "last_updated"
     ], EXPORTS_DIR / "companies.csv")
 
     export_csv(founders, [
@@ -338,7 +328,7 @@ def main():
     print(f"  With valuation:       {sum(1 for c in companies if c['latest_valuation_m'])}/{len(companies)}")
     print(f"  With founders:        {sum(1 for c in companies if any(f['company_slug']==c['slug'] for f in founders))}/{len(companies)}")
     print(f"  With rounds:          {sum(1 for c in companies if any(r['company_slug']==c['slug'] for r in rounds))}/{len(companies)}")
-    print(f"  With china profile:   {sum(1 for c in companies if c['team_china_profile'])}/{len(companies)}")
+    print(f"  With employee count:  {sum(1 for c in companies if c.get('employee_count'))}/{len(companies)}")
     print(f"\nISSUES ({len(issues)}):")
     for i in issues[:30]:
         print(f"  - {i}")

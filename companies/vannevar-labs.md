@@ -44,9 +44,6 @@ founders:
   role: Co-Founder
   background: Co-founder with background in defense technology and intelligence community operations.
   origin: American
-team_china_profile: No China connection. CEO Brett Granberg comes from In-Q-Tel (CIA's venture arm). The company's primary
-  mission is supporting US military operations against peer adversaries, with particular focus on the Indo-Pacific theater
-  (i.e., deterring China). Vannevar works exclusively with US defense and intelligence customers.
 business_model: Enterprise AI software for intelligence analysis. Vannevar Labs builds AI-powered platforms that ingest, fuse,
   and analyze multi-source intelligence data to provide real-time actionable insights for military commanders and intelligence
   analysts. Revenue comes from government contracts, including a major DIU (Defense Innovation Unit) production contract.

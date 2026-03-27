@@ -68,10 +68,6 @@ founders:
     research teams at Meta Reality Labs Research (working on 3D reconstruction and neural rendering) and at Epic Games. Earlier
     at Bodylabs, a body-scanning startup acquired by Amazon.
   origin: American
-team_china_profile: CEO and lead founder Fei-Fei Li was born in Beijing, raised in Chengdu, and immigrated to the U.S. at
-  16. She is arguably the most prominent mainland Chinese-born figure in the global AI research community. Her immigration
-  story -- from working at a family dry-cleaning shop to becoming a Stanford professor and creating ImageNet -- is a canonical
-  narrative in American tech. The other three co-founders (Johnson, Mildenhall, Lassner) do not appear to have Chinese origins.
 notable_hires: null
 business_model: 'SaaS + API + enterprise partnerships. Primary product is Marble, a generative world model platform launched
   publicly in November 2025. Consumer/prosumer tiers: Free (4 generations), Standard ($20/mo, 12 generations), Pro ($35/mo,

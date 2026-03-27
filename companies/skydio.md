@@ -74,9 +74,6 @@ founders:
   background: MS from MIT. Co-developed autonomous drone systems at MIT alongside Bry and Bachrach. Background in software
     engineering and computer vision.
   origin: American
-team_china_profile: No China connection. All founders are American MIT graduates. Skydio is the largest US-made drone manufacturer
-  and is positioned as the primary American alternative to Chinese drone maker DJI. The company has actively advocated for
-  banning Chinese drones from US government use.
 business_model: 'Vertically integrated drone manufacturer. Skydio designs, builds, and sells AI-powered autonomous drones
   with accompanying software platforms. Revenue comes from three segments: (1) Defense/government contracts (~50%+ of bookings),
   (2) Enterprise customers (energy, telecom, construction), and (3) Public safety (police, fire, DOTs). The core competitive

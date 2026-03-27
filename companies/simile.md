@@ -56,8 +56,6 @@ founders:
     Shardul Shah compared the full founding team to early-stage Wiz in terms of enterprise market pull, suggesting she brings
     significant go-to-market or business credentials.
   origin: American (limited public info)
-team_china_profile: Percy Liang appears to be of Chinese descent. No other founders have publicly documented Chinese origins.
-  The team is rooted in Stanford's CS department with strong academic AI research backgrounds.
 notable_hires: null
 business_model: Enterprise SaaS. Simile builds AI agent populations ('digital twins') trained on deep interview transcripts,
   historical transaction data, and behavioral science literature. Customers access Simile's AI agent bank to simulate consumer

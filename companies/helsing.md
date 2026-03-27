@@ -54,9 +54,6 @@ founders:
   background: Former senior official at the German Federal Ministry of Defence, where he served as a cybersecurity and defense
     innovation leader. Led digital and innovation policy for Germany's defense apparatus.
   origin: German
-team_china_profile: No China connection. All three co-founders are German nationals with deep ties to European defense institutions.
-  The company operates exclusively in support of European and NATO-allied defense. Daniel Ek (Spotify founder) serves as Chairman
-  through his investment vehicle Prima Materia.
 business_model: Defense AI software company. Helsing builds AI software that can be embedded into existing military platforms
   (fighter jets, ground vehicles, naval systems) to add autonomous capabilities, sensor fusion, and real-time decision support.
   Revenue comes from government defense contracts with European NATO nations (Germany, France, UK). The company does not build

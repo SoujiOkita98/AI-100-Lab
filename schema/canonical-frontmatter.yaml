@@ -45,8 +45,6 @@ founders:
     origin: string               # e.g. "mainland Chinese", "Indian-American", "French"
     status: string               # active | departed
 
-team_china_profile: string       # Summary for filtering: "mainland", "abc", "mixed", "none", "unknown"
-
 # === BUSINESS ===
 
 business_model: string           # Free text, one line

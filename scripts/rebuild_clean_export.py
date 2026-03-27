@@ -186,9 +186,6 @@ def extract_company(fm, body, slug):
     if isinstance(customers, list):
         customers = "; ".join(str(c) for c in customers)
 
-    # Team china profile
-    team_china_profile = get_first("team_china_profile", "china_profile", fm=fm)
-
     # Confidence
     confidence = get_first("confidence", fm=fm, default="unknown")
 
@@ -210,7 +207,6 @@ def extract_company(fm, body, slug):
         "revenue_signals": revenue_signals,
         "business_model": business_model,
         "key_customers": customers,
-        "team_china_profile": team_china_profile,
         "confidence": confidence,
         "last_updated": last_updated,
     }

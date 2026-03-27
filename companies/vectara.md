@@ -57,8 +57,6 @@ founders:
     Model) for hallucination detection. Significant tenure at Google focused on search infrastructure and knowledge graphs.
     Research experience at the Swedish Institute of Computer Science (SICS).
   origin: American
-team_china_profile: No known Chinese-origin founders. The founding team has roots in Egypt (Awadallah), with Google and Cloudera
-  pedigree. No significant public China connections.
 notable_hires:
 - Eva Nahari - CPO. Leads product strategy and go-to-market for AI models and APIs. Achieved Gartner recognition and built
   strategic advisory boards for enterprise customer engagement.

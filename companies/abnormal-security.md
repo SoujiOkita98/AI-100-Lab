@@ -67,8 +67,6 @@ founders:
     TellApart (2009-2015), building personalization systems for large retailers. At Twitter (2015-2018), served as systems
     architect for distributed data processing and ML systems powering the ads business.
   origin: Indian-American
-team_china_profile: No known Chinese-origin founders. The founding team is American/Indian-American with strong ML and ad-tech
-  backgrounds from Twitter/TellApart. No significant public China connections.
 notable_hires:
 - Lisa Banks - CFO (January 2025, former SVP Finance at ServiceNow; hired ahead of potential IPO)
 business_model: 'Subscription-based SaaS, sold via enterprise sales motion. Pricing is per-user, per-year (reported starting

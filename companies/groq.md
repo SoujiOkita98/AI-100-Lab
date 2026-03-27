@@ -86,8 +86,6 @@ founders:
   background: Entrepreneur and former engineer at Google X. Co-founded Groq with Ross in 2016. Limited additional public information
     available.
   origin: American (limited public info)
-team_china_profile: No known Chinese-origin founders. Founding team originates from Google's TPU project. No significant public
-  China connections.
 notable_hires:
 - Sunny Madra - President (joined Nvidia with Ross in Dec 2025)
 - Simon Edwards - CFO, became CEO after Nvidia deal

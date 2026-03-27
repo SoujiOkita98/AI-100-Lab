@@ -77,9 +77,6 @@ founders:
     on Google Maps and Android Automotive. Met Qasar Younis while at Google. Built sensors for a Google Street View car. Fellow
     Michigander -- shared Detroit/auto-industry upbringing shaped the company's thesis.
   origin: American, raised in Michigan
-team_china_profile: No known China connection. Both co-founders have American automotive industry roots (Detroit/Michigan).
-  Younis is Pakistani American; Ludwig is American. Company works with US DoD and allied defense. No Chinese investors identified
-  in any funding round.
 business_model: B2B SaaS. Applied Intuition sells simulation, validation, and deployment software to automotive OEMs and defense
   organizations developing autonomous systems. Revenue comes from annual software licenses priced by number of engineering
   seats, scale of simulation workloads, and specific modules deployed. Gross margins are reported at approximately 85%. The

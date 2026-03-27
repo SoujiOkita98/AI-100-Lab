@@ -53,7 +53,6 @@ founders:
   background: Associate Professor at Oxford University. Researcher in machine learning applied to robotics and autonomous
     systems.
   origin: British (of German origin based on name)
-team_china_profile: No known Chinese-origin founders. The founding team is British with deep Oxford University academic ties.
 business_model: Enterprise B2B software licensing. Oxa sells autonomous driving software (Oxa Driver) and a development toolchain
   (Oxa Foundry) to industrial fleet operators. Target verticals include ports, airports, manufacturing sites, and logistics
   hubs. Customers deploy Oxa's autonomy stack on industrial vehicles (not consumer cars). Key customers include DHL, Vantec,

@@ -12,7 +12,6 @@ latest_valuation_m:
 funding_rounds: []
 
 founders: []
-team_china_profile: ""
 
 business_model: ""
 customers: []

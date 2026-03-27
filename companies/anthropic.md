@@ -139,8 +139,6 @@ founders:
   background: Canadian. Left university at 18 without a degree. Thiel Fellow. Pioneered neural network interpretability research
     at Google Brain and OpenAI. Created influential blog (colah.github.io) on understanding neural networks.
   origin: Canadian
-team_china_profile: No known Chinese-origin founders. The team is predominantly American/Canadian with strong academic physics
-  and ML research backgrounds. No significant public China connections.
 notable_hires:
 - Krishna Rao - first CFO (May 2024)
 - Mike Krieger - Head of Product (May 2024, Instagram co-founder; transitioned late 2025)

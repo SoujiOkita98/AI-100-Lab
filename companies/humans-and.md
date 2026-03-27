@@ -47,8 +47,6 @@ founders:
   background: Stanford professor of psychology and computer science. Expert in computational cognitive science and probabilistic
     programming.
   origin: American
-team_china_profile: One co-founder (Yuchen He) appears to be of Chinese origin based on name, though limited public information
-  is available. He was previously at xAI.
 business_model: Pre-revenue research lab. Philosophy centers on AI that works with humans rather than replacing them. Models
   trained through reinforcement learning to understand and adapt to individual user preferences. Specific products and revenue
   model not yet publicly disclosed. The 'human-centric' positioning suggests focus on augmentation tools, collaboration interfaces,

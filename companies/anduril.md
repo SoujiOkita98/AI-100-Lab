@@ -103,9 +103,6 @@ founders:
     Infantry Battalion (Airborne). Prior work in AR at Epson. BA in Electrical Engineering from Rice University; MBA from
     USC.
   origin: Asian American
-team_china_profile: No China connection. All five co-founders are American. Three come from Palantir (Schimpf, Stephens, Grimm
-  overlap with national security community); Luckey and Chen come from Oculus/VR. Company works exclusively on US and allied
-  defense.
 business_model: Product-first defense contractor. Anduril self-funds R&D to build products before seeking government contracts,
   then sells as commercial items at firm fixed prices -- the opposite of the traditional cost-plus model. This gives them
   40-45% gross margins vs. 8-10% for legacy defense primes. Revenue comes from hardware sales (drones, autonomous vehicles,

@@ -128,8 +128,6 @@ founders:
   background: Trevor Blackwell (roboticist, YC partner), Vicki Cheung (engineer), Durk Kingma (researcher, invented Adam optimizer
     & VAE work), Pamela Vagata (engineer, ex-Stripe)
   origin: Various
-team_china_profile: No Chinese-origin founders. OpenAI has historically had Chinese-origin researchers on staff but the company
-  has restricted API access in China since mid-2024. No prominent mainland Chinese executives in current leadership.
 notable_hires:
 - Fidji Simo -- CEO of Applications (ex-CEO Instacart, ex-Meta product VP)
 - Denise Dresser -- Chief Revenue Officer (ex-CEO Slack)

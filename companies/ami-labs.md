@@ -37,8 +37,6 @@ founders:
   background: Former Meta engineer. Founded Nabla, a digital health AI company (now chairman of Nabla). Serial entrepreneur
     with deep experience in NLP and conversational AI.
   origin: French
-team_china_profile: No known Chinese-origin founders. The founding team is French with strong academic and industry ties in
-  the US and Europe.
 business_model: Research lab stage. Building world models based on JEPA (Joint Embedding Predictive Architecture), an alternative
   to transformer-based LLMs. First commercial partner is Nabla (digital health). Revenue model not yet public, but likely
   API/licensing for world model capabilities. Focus on learning from reality (video, physical interaction), not just language.
